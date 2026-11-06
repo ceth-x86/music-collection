@@ -1,0 +1,108 @@
+# Genre: Hyper Pop
+
+Imported genre playlist: Hyper Pop.
+
+Services: `qobuz:66736375`
+
+## Tracks (100)
+
+- **The Osho Lifestyle** — Content [The Relaxation Room] (2:03) `isrc:TCAIQ2481433` `qobuz:286835348`
+- **QT** — Hey QT [Hey QT] (3:55) `isrc:GBBKS1400198` `qobuz:24284543`
+- **Liz** — When I Rule the World [When I Rule the World] (3:06) `isrc:USSM11503890` `qobuz:25743443`
+- **A. G. Cook** — Beautiful [Beautiful] (3:04) `isrc:USA2P2335232` `qobuz:220402443`
+- **Hannah Diamond** — Every Night [Every Night] (3:32) `isrc:UK9951400101` `qobuz:108761822`
+- **Lipgloss Twins** — Wannabe [PC Music, Vol. 1] (2:21) `isrc:UK9951511106` `qobuz:109915170`
+- **Thy Slaughter** — Bronze [PC Music, Vol. 1] (2:13) `isrc:UK9951511107` `qobuz:109915171`
+- **Alpha Blondy** — Sweet Fanta Diallo [Revolution] (5:19) `isrc:CIA018700218` `qobuz:225749636`
+- **Clarence Clarity** — Those Who Can't, Cheat [NO NOW] (4:05) `isrc:GBBRP1548107` `qobuz:22823338`
+- **Madonna** — Bitch I'm Madonna (feat. Nicki Minaj) [Rebel Heart] (3:47) `isrc:USUG11401961` `qobuz:379654958`
+- **Brooke Candy** — XXXTC [SEXORCISM] (3:18) `isrc:UKQNV1900061` `qobuz:416244105`
+- **Danny L Harle** — Super Natural [Super Natural] (3:44) `isrc:GBARL1600734` `qobuz:33862009`
+- **GFOTY** — Poison [GFOTYBUCKS] (2:45) `isrc:UK9951600604` `qobuz:113139894`
+- **Felicità** — a new family [a new family] (3:50) `isrc:UK9951601101` `qobuz:36173693`
+- **Life Sim** — I.D.L [I.D.L] (5:52) `isrc:UK9951500201` `qobuz:111463632`
+- **Charli XCX** — Vroom Vroom [Vroom Vroom EP] (3:13) `isrc:GBAHS1600092` `qobuz:30159088`
+- **Vince Staples** — Yeah Right [Big Fish Theory] (3:09) `isrc:USUM71705069` `qobuz:41598689`
+- **SOPHIE** — Immaterial [OIL OF EVERY PEARL'S UN-INSIDES] (3:52) `isrc:AUFF01800039` `qobuz:50640564`
+- **Kraud** — Be Nice 2 Me [Be Nice 2 Me] (2:07) `isrc:QT66K2616940` `qobuz:392021599`
+- **Cobra** — Every One of U Niggas Know Me [Dreams of My Little Brother Diemond Back] (3:30) `isrc:FR6V81662634` `qobuz:8434999`
+- **Iglooghost** — Mametchi / Usohachi [Chinese Nü Yr] (3:39) `isrc:US25X1088619` `qobuz:27645773`
+- **Shygirl** — UCKERS [UCKERS] (1:55) `isrc:UKQNV1900059` `qobuz:117277569`
+- **Slayyyter** — Mine [Mine] (2:39) `isrc:QM24S1905471` `qobuz:61506015`
+- **Dorian Electra** — Flamboyant [Flamboyant (Deluxe)] (3:16) `isrc:QM24S1913856` `qobuz:83339780`
+- **Quay Dash** — U.A.F.W.M. [U.A.F.W.M.] (2:53) `isrc:QM24S1823744` `qobuz:58257204`
+- **Ecco2k** — Peroxide [E] (3:34) `isrc:SE5AJ1900814` `qobuz:150781302`
+- **My Chemical Romance** — I'm Not Okay [Three Cheers for Sweet Revenge] (3:06) `isrc:USRE10400660` `qobuz:2618875`
+- **Eartheater** — Supersoaker [Trinity] (3:04) `isrc:USA2B1903865` `qobuz:400860678`
+- **Kim Petras** — 1,2,3 dayz up [1,2,3 dayz up] (3:33) `isrc:GBKPL1936907` `qobuz:128189229`
+- **Jazmin Bean** — Yandere [Yandere] (3:31) `isrc:GBUM72005030` `qobuz:104208786`
+- **Sega Bodega** — Salv Goes To Hollywood [Salvador] (3:02) `isrc:UKQNV2000012` `qobuz:84840638`
+- **Lady Gaga** — Stupid Love [Dawn Of Chromatica] (2:36) `isrc:USUM72116164` `qobuz:130279546`
+- **Arca** — KLK [KiCk i] (3:47) `isrc:GBBKS2000063` `qobuz:94970998`
+- **Rico Nasty** — IPHONE [Nightmare Vacation] (2:38) `isrc:USAT22004025` `qobuz:105203871`
+- **Namasenda** — Dare (AM) [Dare (AM)] (3:00) `isrc:GBKPL2096363` `qobuz:108085911`
+- **Cecile Believe** — Living My Life Over [Made In Heaven] (3:47) `isrc:CA21O2008003` `qobuz:92042178`
+- **100 gecs** — money machine [1000 gecs] (1:54) `isrc:USAT22000415` `qobuz:86086881`
+- **food house** — 8 now [food house] (3:29) `isrc:USZ4V2000379` `qobuz:400859940`
+- **Odetari** — GMFU (w/ 6arelyhuman) [GMFU (w/ 6arelyhuman)] (2:07) `isrc:QZVFR2301503` `qobuz:220351486`
+- **food house** — Thos Moser [Thos Moser] (4:23) `isrc:USZ4V2000069` `qobuz:400861069`
+- **Tony Velour** — Do or Die [Vices Hurt] (1:26) `isrc:FR2X41993789` `qobuz:62031259`
+- **Elyotto** — SugarCrash! [SugarCrash!] (1:20) `isrc:TCAFB2092742` `qobuz:117772147`
+- **Sebii** — FASHiiON HERO [FASHiiON HERO] (2:54) `isrc:QZDA52518684` `qobuz:321323225`
+- **Big Sean** — Bounce Back [I Decided.] (3:42) `isrc:USUM71614503` `qobuz:38350335`
+- **osquinn** — i dont want that many friends in the first place [i dont want that many friends in the first place] (1:49) `isrc:QZES92047508` `qobuz:218429868`
+- **Alice Gas** — Ferrari [Sorry 4 Being Famous] (3:22) `isrc:QZK6P1993407` `qobuz:384000153`
+- **That Kid** — Taco Bell [Crush] (3:00) `isrc:QZFZ62022103` `qobuz:133768019`
+- **Chase Icon** — Like Me [Like Me] (1:58) `isrc:QM24S2200159` `qobuz:143941447`
+- **Yameii Online** — Baby My Phone [Baby My Phone] (3:35) `isrc:QZFYZ2100601` `qobuz:135220947`
+- **Makj** — Party Till We Die (feat. Andrew W.K.) [Party Till We Die (feat. Andrew W.K.)] (2:38) `isrc:NLZ541600873` `qobuz:47147997`
+- **Guitarra Azul** — Golden Boy [Mariposa] (6:55) `isrc:USHM81372749` `qobuz:77292414`
+- **Laura Les** — Haunted [Haunted] (1:42) `isrc:USAT22007910` `qobuz:117306286`
+- **Suicideinseptember** — crying at the curb realizing wtf I’m doing alt verse [crying at the curb realizing wtf I’m doing alt verse] (0:44) `isrc:QT6E82638505` `qobuz:428267778`
+- **Lofi Lia** — Image of Hero (From "Phantasy Star Online") [Season Four - Video Game & Anime Lofi Music] (2:28) `isrc:QZ5FN2246886` `qobuz:149921735`
+- **Sonic Beat** — Sick With It [Motor City Pop] (1:30) `isrc:QZKCP2600662` `qobuz:421794964`
+- **TJeff** — sorry haha i fell asleep [sorry haha i fell asleep] (2:27) `isrc:QZTB42283606` `qobuz:187588761`
+- **6arelyhuman** — Hands up! [Sassy Scene] (2:14) `isrc:QZTB32254226` `qobuz:327773745`
+- **Umru** — check1 [comfort noise] (3:33) `isrc:USA2P2138161` `qobuz:148216089`
+- **brakence** — fwb [punk2] (2:17) `isrc:USSM12003809` `qobuz:96525500`
+- **d0llywood1** — ihonestlymightjustgiveup [ihonestlymightjustgiveup] (2:06) `isrc:QZKDK2018271` `qobuz:125026182`
+- **SAULT** — Don't Waste My Time [5] (3:15) `isrc:UKMEH1900009` `qobuz:189763648`
+- **twenty one pilots** — Stressed Out [Blurryface] (3:22) `isrc:USAT21500628` `qobuz:23100557`
+- **MOSHITHUG** — Ev*ry D*y [Грустно, но swag] (1:49) `isrc:RUAH62661324` `qobuz:427956694`
+- **Pink Floyd** — Comfortably Numb [The Wall (Remastered 2011 Version)] (6:22) `isrc:GBN9Y1100113` `qobuz:47683849`
+- **Julia Michaels** — Lie Like This [Not In Chronological Order] (3:38) `isrc:USUM72017969` `qobuz:120353861`
+- **Pieces Of A Dream** — It's Getting Hot in Here [Imagine This] (4:27) `isrc:USEE10250633` `qobuz:2913811`
+- **Glaive** — astrid [cypress grove] (1:41) `isrc:QZHN92050250` `qobuz:105552581`
+- **ericdoa** — movinglikeazombie [movinglikeazombie] (7:45) `isrc:GBKPL2030684` `qobuz:168686621`
+- **midwxst** — Trying [Trying] (2:00) `isrc:QZNWS2015037` `qobuz:129583769`
+- **Alan Baratieri** — Glitter on My Hoodie Strings [You Still Owe Me a Sunrise] (2:40) `isrc:BRSVB2539720` `qobuz:366667867`
+- **Patoi** — Arabian Night [Tritone] (4:20) `isrc:USHM21082132` `qobuz:84851150`
+- **Underscores** — Spoiled little brat [fishmonger] (3:19) `isrc:QM4TX2101856` `qobuz:115683400`
+- **Jane Remover** — movies for guys [Frailty] (5:45) `isrc:QZH5E2130662` `qobuz:135894308`
+- **Rebecca Black** — Crumbs [Let Her Burn] (3:13) `isrc:USANG2218342` `qobuz:192427045`
+- **Lil Mariko** — Don't Touch [Don't Touch] (2:28) `isrc:QZDA82099048` `qobuz:347723533`
+- **Jemaxene** — Pretty Cvnt [Pretty Cvnt] (3:40) `isrc:QZNWQ2060393` `qobuz:325176120`
+- **Hayd** — Suffocate [Suffocate] (4:01) `isrc:USA2P2002205` `qobuz:189473979`
+- **Willow Frame** — Enough for Today [The Good Days] (2:49) `isrc:QT6ED2617207` `qobuz:430056403`
+- **Carl Winther** — Lament [The American Ballad Book] (2:52) `isrc:DGA052544816` `qobuz:357637354`
+- **N2U** — oaf1 • think abt it [oaf1 • think abt it] (2:02) `isrc:QZNWR2576801` `qobuz:332258287`
+- **Cmten** — NEVER MET! (feat. Glitch Gum) [NEVER MET! (feat. Glitch Gum)] (2:27) `isrc:QZDA62062258` `qobuz:99665686`
+- **Seventeen** — Super [FML] (3:20) `isrc:USA2P2310675` `qobuz:207938347`
+- **Ellie Goulding** — Still Falling For You [Still Falling For You] (4:01) `isrc:GBUM71603863` `qobuz:34255139`
+- **Doss** — Strawberry [Strawberry] (3:29) `isrc:GB5P52100039` `qobuz:120008545`
+- **DJ Krush** — Road to Nowhere [Jaku] (3:21) `isrc:JPX400400122` `qobuz:168605`
+- **Bossedup Baby K** — Mmm-Hmmm [Mmm-Hmmm] (1:33) `isrc:QT6FK2561182` `qobuz:374753082`
+- **tsubi club** — laced up [laced up] (2:50) `isrc:TLVEM2455468` `qobuz:286454600`
+- **Måneskin** — DON'T WANNA SLEEP [RUSH! (ARE U COMING?)] (2:36) `isrc:ITB002200847` `qobuz:235791743`
+- **Babymorocco** — Really Hot [Amour: The Jean Paul Deluxe] (3:00) `isrc:QZVM32200462` `qobuz:342192293`
+- **Banshee** — KILL ALL PREDATORS [FAIRY PHONK] (2:05) `isrc:QZNWY2271900` `qobuz:181500803`
+- **Frost Children** — FLATLINE [SPEED RUN] (3:45) `isrc:QZVM32200078` `qobuz:350364445`
+- **2hollis** — crush [boy] (2:26) `isrc:USUYG1544301` `qobuz:266833808`
+- **Odetari** — NARCISSISTIC PERSONALITY DISORDER [NARCISSISTIC PERSONALITY DISORDER] (1:49) `isrc:QZHN62339350` `qobuz:211009672`
+- **Sophie Powers** — U Love It [U Love It] (2:40) `isrc:CAUM82200026` `qobuz:146809749`
+- **Oklou** — god's chariots [Galore] (3:03) `isrc:GBKPL2015015` `qobuz:172714548`
+- **Kero Kero Bonito** — The Princess and the Clock [Civilisation] (3:49) `isrc:US3R42141099` `qobuz:170917071`
+- **J. Cole** — 9 5 . s o u t h [The Off-Season] (3:16) `isrc:QMJMT2103630` `qobuz:121549426`
+- **LSDXOXO** — Sick Bitch [Sick Bitch] (4:19) `isrc:GBBKS2000194` `qobuz:117885176`
+- **Machine Girl** — Cyan Hardcore [RePorpoised Phantasies] (5:05) `isrc:QZK6P2092799` `qobuz:223751063`
+- **Alice Longyu Gao** — Rich Bitch Juice [Rich Bitch Juice] (2:20) `isrc:USZ4V2000185` `qobuz:400859264`

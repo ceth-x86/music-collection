@@ -1,0 +1,103 @@
+# Genre: Cool Jazz
+
+Imported genre playlist: Cool Jazz.
+
+Services: `qobuz:66733850` `tidal:2e72a468-f1ec-4bd3-a69f-6b34d15fe556`
+
+## Tracks (95)
+
+- **Woody Herman & His Orchestra** — Four Brothers [The Essential Woody Herman] (3:15) `isrc:USSM14800062` `qobuz:15059021`
+- **Lee Konitz** — Subconscious-Lee [Subconscious-Lee] (2:47) `isrc:USFI84900058` `qobuz:511227`
+- **The Johnny Smith Quintet** — Moonlight in Vermont [Moonlight In Vermont] (3:15) `isrc:GBAYE5200123` `qobuz:1055509`
+- **Gerry Mulligan Quartet** — Bernie's Tune [Best Of Gerry Mulligan & Chet Baker] (2:53) `isrc:USBN29000317` `qobuz:797266`
+- **George Shearing Quintet** — Lullaby Of Birdland [The Swingin's Mutual!] (2:25) `isrc:USCA29201495` `qobuz:1055529`
+- **Tal Farlow** — Autumn In New York [Verve Jazz Masters 41: Tal Farlow] (5:03) `isrc:USPR35400128` `qobuz:4088349`
+- **June Christy** — Something Cool [Something Cool] (4:58) `isrc:USCA29100590` `qobuz:41143377`
+- **Chet Baker** — My Funny Valentine [Chet Baker Sings] (2:21) `isrc:USBN28900073` `qobuz:1058849`
+- **Helen Merrill** — You'd Be So Nice to Come Home To [Helen Merrill] (4:19) `isrc:UKPFB1891341` `qobuz:237955197`
+- **Julie London** — Cry Me A River [Julie Is Her Name] (2:58) `isrc:USEM39200253` `qobuz:4692113`
+- **Miles Davis** — Boplicity [The Complete Birth Of The Cool] (3:01) `isrc:USCA29800234` `qobuz:60573566`
+- **Frank Rosolino** — Blue Daniel [In Copenhagen] (13:49) `isrc:DKEFA0800701` `qobuz:65632033`
+- **Cy Touff & His Octet** — Keester Parade [Cy Touff, His Octet & Quintet] (7:53) `isrc:GBLGL1091085` `qobuz:47022486`
+- **Lennie Tristano** — Line Up [Lennie Tristano/The New Tristano] (3:32) `isrc:USAT20103914` `qobuz:2941265`
+- **Jutta Hipp** — Just Blues [Jutta Hipp With Zoot Sims] (8:41) `isrc:USBN25600001` `qobuz:63530696`
+- **Serge Chaloff** — A Handful Of Stars [Blue Serge] (5:35) `isrc:USCA25600025` `qobuz:990889`
+- **Zoot Sims Quartet** — Zoot Swings The Blues [Zoot Sims Quartets] (8:38) `isrc:USFI85100156` `qobuz:264517478`
+- **Al Cohn** — The Goof And I [Al Cohn Meets Al Porcino] (3:16) `isrc:DEDN39733008` `qobuz:71227895`
+- **Modern Jazz Quartet** — The Queen's Fancy [Django] (3:12) `isrc:USFI85300137` `qobuz:51898854`
+- **Jimmy Raney** — Minor ["A" + 2 Guitars] (4:34) `isrc:QM4TX1772229` `qobuz:40146906`
+- **Bob Gordon** — Meet Mr. Gordon [Two Can Play: Complete Quintet and Sextet Sessions 1954 - 1955] (2:38) `isrc:QMFMG1420383` `qobuz:8396719`
+- **Bud Shank Quartet** — Nature Boy [The Bud Shank Quartet] (4:28) `isrc:USBN29801454` `qobuz:58852314`
+- **Bill Perkins** — Song of the Islands [Perk Plays Prez] (4:02) `isrc:QM6MZ1801572` `qobuz:51800047`
+- **Jack Sheldon** — Groovus Mentus [The Cool Side of the City, Vol. 16 - Refined Jazz Grooves] (3:59) `isrc:AUXN22529724` `qobuz:352119915`
+- **Stu Williamson** — Pee Jay [Stu Williamson (Remastered 2014)] (3:26) `isrc:QMSGD1470195` `qobuz:305921549`
+- **Howard Rumsey's Lighthouse All Stars** — East Of The Sun [Howard Rumsey's Lighthouse All-Stars, Vol. 6] (4:00) `isrc:GBLGL0986364` `qobuz:50805676`
+- **Art Pepper Quartet** — Dianne's Dilemma (Remastered) [Modern Art (Remastered)] (3:50) `isrc:USA560879079` `qobuz:64465569`
+- **André Previn, Russ Freeman** — Double Play [Double Play!] (4:54) `isrc:FR4HR2011370` `qobuz:91188779`
+- **Herb Geller** — Jitterbug Waltz [Fire in the West] (5:51) `isrc:GBBMH1622122` `qobuz:64496658`
+- **Quincy Jones** — The Midnight Sun Will Never Set [The Birth Of A Band Vol.2] (2:43) `isrc:USGR10401633` `qobuz:626367`
+- **Lennie Niehaus** — Whose Blues [Lennie Niehaus Vol. 1: The Quintets] (3:22) `isrc:USFI85400422` `qobuz:295983724`
+- **Victor Feldman** — Flamingo [The Arrival of Victor Feldman] (3:18) `isrc:USCXG2001024` `qobuz:105912498`
+- **Barney Kessel** — Easy Like [Easy Like, Vol. 1] (4:02) `isrc:USFI85600376` `qobuz:102078623`
+- **Kai Winding** — Whistle While You Work [Kai Winding & Carl Fontana's Cleveland Express : The Complete Ohio Sessions] (3:07) `isrc:ADA010807607` `qobuz:8398585`
+- **Bill Holman** — No Heat [In a Jazz Orbit] (6:07) `isrc:DK5C50152218` `qobuz:150461212`
+- **Bob Cooper** — Jazz Theme And Four Variations - 3rd Variation: Night Stroll [Coop! The Music Of Bob Cooper] (6:35) `isrc:USFI85800903` `qobuz:99818205`
+- **Scott LaFaro** — Bass Blues (Commentary By Richie Kamuca) [Essential Jazz Masters] (15:18) `isrc:USA371227486` `qobuz:66014226`
+- **Marty Paich** — Just in Time [The Broadway Bit] (3:12) `isrc:GBBMH1517326` `qobuz:27568235`
+- **The New Mastersounds** — Hip City [Renewable Energy] (4:30) `isrc:GBGCY1801011` `qobuz:49260765`
+- **Chris Connor** — Lullaby of Birdland [Lullabys of Birdland (Remastered 2014)] (2:24) `isrc:QMSGD1470106` `qobuz:305921264`
+- **Bob Dorough** — Devil May Care (Live) [Bob Dorough Trio & Special Guests Live at the Deer Head Inn] (5:30) `isrc:USCGH1735662` `qobuz:68293348`
+- **Lambert Hendricks & Ross** — Every Day I Have the Blues [Singing Their Best] (5:15) `isrc:DEXO32081503` `qobuz:102536512`
+- **The Four Freshmen** — Mood Indigo [Capitol Collectors Series] (2:41) `isrc:USCA29100389` `qobuz:1950183`
+- **Blossom Dearie** — Someone To Watch Over Me [Great Women Of Song: Blossom Dearie] (5:59) `isrc:USPR35908018` `qobuz:259343868`
+- **Anita O'Day** — Sweet Georgia Brown [Pick Yourself Up] (4:16) `isrc:USGR19905242` `qobuz:52478975`
+- **Quiet Force** — Please Don't Dance [Smile] (2:44) `isrc:DED510800378` `qobuz:55100488`
+- **Tony Scott** — My Old Flame [Poets of Jazz] (7:02) `isrc:FRX281733873` `qobuz:46376919`
+- **Don Lanphere And New Stories** — Violets For Your Furs [Home At Last] (5:40) `isrc:US3M80400325` `qobuz:73144460`
+- **Ahmad Jamal** — Poinciana [Ahmad Jamal Trio Live at The Pershing Vol.1&2] (8:07) `isrc:ITK601900192` `qobuz:59100914`
+- **The Dave Brubeck Quartet** — Take Five [Time Out] (5:28) `isrc:USSM15900108` `qobuz:22543101`
+- **Vince Guaraldi Trio** — Cast Your Fate To The Wind [Jazz Impressions Of Black Orpheus] (3:10) `isrc:USC4R2213094` `qobuz:173650138`
+- **Paul Desmond** — Take Ten [Take Ten] (3:09) `isrc:USBB16300832` `qobuz:222122`
+- **Irene Kral** — Better Than Anything [In the Name of Love] (2:21) `isrc:DES201526217` `qobuz:91284537`
+- **Cal Tjader** — Soul Sauce (Guachi Guaro) [Greatest Jazz Masters] (3:01) `isrc:USA561142173` `qobuz:65948308`
+- **Dave Frishberg** — I'm Hip [Dave Frishberg Classics] (3:31) `isrc:USC4R0304969` `qobuz:56397713`
+- **Shirley Horn** — Like Someone In Love [Embers And Ashes] (2:33) `isrc:UKPFB1887992` `qobuz:237909020`
+- **Chet Baker** — It Never Entered My Mind [Chet] (4:40) `isrc:USC4R1901554` `qobuz:116322594`
+- **Toots Thielemans** — Bluesette [The Real... Toots Thielemans] (4:35) `isrc:NLD017811003` `qobuz:39254328`
+- **The Gil Evans Orchestra** — La Nevada [Out Of The Cool] (15:36) `isrc:USMC16001156` `qobuz:740263`
+- **Henry Mancini** — Dreamsville [Music From Peter Gunn] (3:57) `isrc:USRC19901423` `qobuz:204795`
+- **Quincy Jones** — Theme From The Pawnbroker [The Pawnbroker] (3:10) `isrc:USPR36509019` `qobuz:56535908`
+- **Johnny Mandel** — Emily Song - from The Americanization of Emily [The Americanization of Emily] (1:47) `isrc:CAC901736501` `qobuz:341581130`
+- **Paul Del Nero** — Some Other Time / Some Time Ago [Darn That Dream: Rare Instrumental Duets] (7:32) `isrc:QZJ9L2300006` `qobuz:262664986`
+- **Kai Winding** — More (Theme From Mondo Cane) [Soul Surfin'] (2:01) `isrc:USUMG9900635` `qobuz:49023821`
+- **Conte Candoli** — Fine and Dandy [Sincerely, Conti (Remastered 2014)] (3:12) `isrc:QMSGD1470135` `qobuz:305898471`
+- **Pete Candoli** — I Can't Get Started [Johnny Williams. Rhythm in Motion / So Nice! With Johnny Desmond] (2:48) `isrc:QM4TX1591092` `qobuz:25332577`
+- **Bob Enevoldsen** — Iron Works [Smorgasbord] (3:56) `isrc:US6R21344095` `qobuz:1883529`
+- **Johnny Dankworth et son orchestre** — African Waltz [African Waltz] (2:21) `isrc:FRS181473804` `qobuz:19353182`
+- **Bob Brookmeyer** — Ugly Music [Electricity] (10:33) `isrc:DEA899402020` `qobuz:16814967`
+- **The Gary McFarland Orchestra** — Reflections In The Park [The Complete Bill Evans On Verve] (3:46) `isrc:USPR36209034` `qobuz:53962879`
+- **Tierney Sutton** — A Timeless Place (The Peacock) [Unsung Heroes] (7:16) `isrc:USTE10447703` `qobuz:190530679`
+- **Shelly Manne** — On The Street Where You Live [My Fair Lady] (5:38) `isrc:USC4R2212599` `qobuz:193649657`
+- **Shorty Rogers** — Martians Go Home [The Swinging Mr. Rogers] (7:56) `isrc:USAT20401097` `qobuz:2850596`
+- **Teddy Charles** — The Quiet Time [The Teddy Charles Tentet] (5:50) `isrc:USAT20505699` `qobuz:2850910`
+- **Jimmy Giuffre** — The Train and the River [The Jimmy Giuffre 3] (3:33) `isrc:USAT20104908` `qobuz:2943559`
+- **Jan Johansson** — Visa Från Utanmyra [Folkvisor - Jazz På Svenska] (4:33) `isrc:SERVA0530001` `qobuz:80092845`
+- **Arne Domnerus** — Limehouse Blues (Live) [Jazz at the Pawnshop (Remastered 2014) [feat. Bengt Halberg, Georg Riedel, Egil Johansen & Lars Erstrand] [Live]] (9:34) `isrc:USB8U1088358` `qobuz:307234501`
+- **Lars Gullin** — Danny's Dream [Fäbodjazz] (5:38) `isrc:SEPQA9815010` `qobuz:2053231`
+- **Bengt Hallberg** — Jam for the Bread [Live at Cervantes] (6:27) `isrc:SEAMA1100490` `qobuz:4890588`
+- **Ole Paus** — Jeg er ikke redd mer [Stjerner i rennesteinen] (4:21) `isrc:NOAFC1100391` `qobuz:4827420`
+- **Eartha Kitt** — Under the Bridges of Paris [French Melodies] (2:44) `isrc:FR6V80455241` `qobuz:62031285`
+- **Bobby Jaspar** — I Remember You [Clarinescapade] (4:53) `isrc:ES7710744905` `qobuz:1882605`
+- **Michel Legrand** — Legrand: The Windmills of your Mind (from "The Thomas Crown Affair") [Michel Legrand by Michel Legrand] (5:41) `isrc:GBBBB2014202` `qobuz:569565`
+- **Bill Evans** — My Funny Valentine [Undercurrent] (5:24) `isrc:USBN28800046` `qobuz:1007883`
+- **Scott Hamilton** — Skylark [Ballad Essentials] (4:55) `isrc:USC4R0508236` `qobuz:505421`
+- **Emily Remler** — Samba de Orfeu (Live at the 4 Queens, Las Vegas, May 28, 1984) [Cookin' at the Queens (Live in Las Vegas 1984 & 1988)] (8:56) `isrc:USA2P2504154` `qobuz:315931045`
+- **Diana Krall** — The Look Of Love [The Look Of Love] (4:42) `isrc:USGR10110628` `qobuz:19054026`
+- **Madeleine Peyroux** — Dance Me To The End Of Love [Careless Love] (3:57) `isrc:USRO20419201` `qobuz:46555773`
+- **Sue Kent** — So Nice (Summer Samba) [Love, Lost and Found] (3:31) `isrc:USHM91245361` `qobuz:90648859`
+- **Melody Gardot** — Baby I'm A Fool [The Essential Melody Gardot] (3:32) `isrc:GBUM70816554` `qobuz:286384347`
+- **Patricia Barber** — Nardis [Cafe Blue] (9:00) `isrc:USPR59400011` `qobuz:203851720`
+- **Karrin Allyson** — 'Round Midnight ['Round Midnight] (5:51) `isrc:USC4R1023101` `qobuz:5384599`
+- **Robert Valentino et son orchestre** — Medley: La complainte de Mackie / Begin the Beguine / I've Got You Under My Skin [Vous en souvenez-vous? 60 airs de que aimez, vol. 2] (5:39) `isrc:FRS181277642` `qobuz:15705436`
+- **Duke Ellington** — In A Sentimental Mood [Duke Ellington & John Coltrane] (4:16) `isrc:USMC16351954` `qobuz:35031475`
+- **Jim Hall** — You'd Be So Nice To Come Home To [Concierto (CTI Records 40th Anniversary Edition)] (7:05) `isrc:USSM17500186` `qobuz:3104303`

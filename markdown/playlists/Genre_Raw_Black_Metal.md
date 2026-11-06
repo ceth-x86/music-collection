@@ -1,0 +1,87 @@
+# Genre: Raw Black Metal
+
+Imported genre playlist: Raw Black Metal.
+
+Services: `qobuz:66734340` `tidal:8f7005b9-13ac-43e3-bc6d-5f497d17bf7e`
+
+## Tracks (79)
+
+- **Bathory** — Hades [Bathory] (2:50) `isrc:SEXHQ8400102` `qobuz:178715699`
+- **Sarcófago** — Satanas [Inri] (2:04) `isrc:BRCOG0500195` `qobuz:63222984`
+- **Tormentor** — Elisabeth Bathory [Anno Domini] (5:21) `isrc:NOXCW9500404` `qobuz:184826083`
+- **Blasphemy** — Ritual [Fallen Angel of Doom] (3:18) `isrc:FR4E69200750` `qobuz:264180875`
+- **Profanatica** — Unto Us He Is Born [Profanatitas De Domonatia] (3:46) `isrc:QZWFE2390896` `qobuz:240816035`
+- **Rotting Christ** — The Sign of Evil Existence [Thy Mighty Contract] (2:00) `isrc:US4E40689601` `qobuz:27579249`
+- **Burzum** — Ea, Lord of the Depths [Burzum/Aske] (4:52) `isrc:GBXGC0803002` `qobuz:36170556`
+- **Immortal** — Unholy Forces Of Evil [Diabolical Fullmoon Mysticism] (4:28) `isrc:FR6V89200095` `qobuz:1626276`
+- **Darkthrone** — Transilvanian Hunger [Transilvanian Hunger] (6:09) `isrc:GBCQV9400015` `qobuz:50990694`
+- **Mayhem** — Freezing Moon [De Mysteriis Dom Sathanas] (6:23) `isrc:NOFVD9406020` `qobuz:80972895`
+- **Gorgoroth** — Bergtrollets Hevn [Antichrist] (3:51) `isrc:SEVCK1104002` `qobuz:198023261`
+- **Gehenna** — Black Seared Heart [First Spell] (3:43) `isrc:NOCVC0812110` `qobuz:270156799`
+- **Kvist** — Ars Manifestia [For Kunsten Maa Vi Evig Vike] (5:16) `isrc:GBCQV9600081` `qobuz:50996979`
+- **Carpathian Forest** — The Swordsmen  [Black Shining Leather] (4:07) `isrc:GBCQV0700255` `qobuz:51000123`
+- **Taake** — Hordalands Doedskvad, Pt. 1 [Doedskvad] (7:43) `isrc:NODER0401010` `qobuz:197541868`
+- **Tsjuder** — Kill for Satan [Kill for Satan] (4:54) `isrc:FR33T1638407` `qobuz:77789590`
+- **Urgehal** — Goatcraft Torment [Goatcraft Torment] (4:00) `isrc:USI4R0815318` `qobuz:337935552`
+- **Koldbrann** — Bestial Swarm [Moribund] (3:51) `isrc:FR33T1383111` `qobuz:250479557`
+- **Sacrifizer** — Possessed And Cursed [Midnight Curse] (2:46) `isrc:QZWFJ2503809` `qobuz:347262346`
+- **Marduk** — Still Fucking Dead (Here's No Peace) [Dark Endless] (2:57) `isrc:US4E41294602` `qobuz:27574268`
+- **Graveland** — In the Glare of Burning Churches [In the Glare of Burning Churches] (5:03) `isrc:QMFMF1393960` `qobuz:36819652`
+- **Varathron** — The River of My Souls [His Majesty at the Swamp] (5:57) `isrc:QMBZ91504108` `qobuz:165505867`
+- **Dark Funeral** — Open the Gates [Dark Funeral (30th Anniversary Edition)] (4:34) `isrc:US4E41306601` `qobuz:266710762`
+- **Mortuary Drape** — Primordial [All the Witches Dance] (3:07) `isrc:USCGH2229319` `qobuz:144665185`
+- **Abigor** — Universe of Black Divine [Verwustung/Invoke the Dark Age & Opus IV] (7:00) `isrc:ATN260415401` `qobuz:28456695`
+- **Enthroned** — Deny The Holy Book Of Lies [Prophecies Of Pagan Fire] (5:51) `isrc:GBDHS0902402` `qobuz:313204986`
+- **DENIAL OF GOD** — The Horrors of Satan [The Horrors of Satan] (12:59) `isrc:FR4E62000180` `qobuz:88010188`
+- **Watain** — Rabid Death's Curse [Rabid Death's Curse] (5:16) `isrc:FR33T0818702` `qobuz:77786265`
+- **Satanic Warmaster** — Black Circle of Death [Exultation of Cruelty] (6:23) `isrc:QZZ7W2446203` `qobuz:310155309`
+- **Horna** — Sotahuuto [Sotahuuto] (3:19) `isrc:USGE30709707` `qobuz:64302866`
+- **Antaeus** — Inner War [Cut Your Flesh And Worship Satan] (4:28) `isrc:FR4E60001170` `qobuz:15316402`
+- **Armagedda** — Only True Believers [Only True Believers] (3:53) `isrc:USI4R0819169` `qobuz:244083822`
+- **Inquisition** — Enshrouded by Cryptic Temples of the Cult [Invoking the Majestic Throne of Satan] (4:39) `isrc:FR33T1433802` `qobuz:77780669`
+- **Darkened Nocturn Slaughtercult** — Nocturnal March [Nocturnal March] (7:13) `isrc:FR4E62400620` `qobuz:253437263`
+- **Craft** — Fuck the Universe [Fuck the Universe] (4:59) `isrc:FR33T1890011` `qobuz:77792134`
+- **Cultes Des Ghoules** — Baptised by Barron [Häxan, ...or Medieval Witchcraft and Infanticide...] (12:50) `isrc:QZDA42412933` `qobuz:250361556`
+- **Aosoth** — Ashes of Angels [Ashes of Angels] (4:32) `isrc:USI4R0916413` `qobuz:312977352`
+- **Mystifier** — The Witch Voisin Recites Our Gloat / Osculum Obscenum [Wicca] (8:10) `isrc:FR4E69300720` `qobuz:264493921`
+- **Impurity** — The Lamb's Fury [The Lamb's Fury] (5:39) `isrc:BRCOG0900104` `qobuz:19301793`
+- **Havohej** — Dethrone the Son of God [Dethrone the Son of God] (1:55) `isrc:QZTAT2393490` `qobuz:228897579`
+- **Judas Iscariot** — But Eternals Beheld His Vast Forest [Thy Dying Light] (7:59) `isrc:USGE30002401` `qobuz:64314334`
+- **Clemency** — Ascension of the Imperial Hordes [DIVINE LEGIONS AT WAR] (5:09) `isrc:QT5M52566790` `qobuz:365489119`
+- **Inquisition** — Unholy Magic Attack [Into the Infernal Regions of the Ancient Cult] (5:50) `isrc:FR33T1433701` `qobuz:77781913`
+- **Akitsa** — Goétie [Split] (5:34) `isrc:USA2Z1010668` `qobuz:25714724`
+- **Black Witchery** — Baphomet Throne Exaltation [Upheaval Of Satanic Might] (4:16) `isrc:FR4E60500140` `qobuz:12288847`
+- **Akercocke** — Of Menstrual Blood And Semen [The Goat Of Mendes] (6:26) `isrc:GBCQV0100219` `qobuz:50990660`
+- **Departure Chandelier** — Life Escaping Through the Candle's Smoke [Antichrist Rise to Power] (4:21) `isrc:USA2Z1900676` `qobuz:73832446`
+- **Lamp of Murmuur** — Forest of Hallucinations [The Dreaming Prince in Ecstasy] (9:12) `isrc:QMFME2547032` `qobuz:358002556`
+- **Spectral Wound** — Frigid and Spellbound [A Diabolic Thirst] (7:02) `isrc:USN682125502` `qobuz:113821864`
+- **Bestial Warlust** — Bestial Warlust [Vengeance War 'Till Death] (1:33) `isrc:AUIA30916001` `qobuz:56312571`
+- **Conqueror** — War Cult Supremacy [War.Cult.Supremacy] (3:33) `isrc:QMBZ91664575` `qobuz:264557737`
+- **Revenge** — Blood of My Blood [Triumph.Genocide.Antichrist] (4:14) `isrc:FR4E60300100` `qobuz:14186730`
+- **Axis of Advance** — The Torture [The List] (4:03) `isrc:FR4E60200740` `qobuz:14285132`
+- **Teitanblood** — Seven Chalices Of Vomit And Blood [Seven Chalices] (5:53) `isrc:QZ5FN1864273` `qobuz:53050616`
+- **Diocletian** — Doom Cult [Doom Cult] (3:11) `isrc:USHM22539345` `qobuz:365838694`
+- **Drowning the Light** — The Cry of the Wolf [Of Celtic Blood and Satanic Pride] (1:43) `isrc:QZMEN2170866` `qobuz:130663947`
+- **Rostorchester** — Gehauen aus dem Stein der Ewigkeit [Der Zinnen Sang vom Niedergang] (2:55) `isrc:QZMEN2472493` `qobuz:267326347`
+- **Kvelgeyst** — Alkahest - In Schall und Rauch zerflossen [Alkahest] (4:29) `isrc:GBSMU6428774` `qobuz:231099889`
+- **Venthiax** — Infernal Demise [Rites of Ra] (3:24) `isrc:QMFMG2568754` `qobuz:371088527`
+- **Primitive Warfare** — Extinction Protocol [Extinction Protocol] (3:25) `isrc:QZFYZ2489032` `qobuz:254257648`
+- **Wulkanaz** — Hökvind [Luftuz] (3:25) `isrc:SEVCK2500201` `qobuz:315093659`
+- **Kostnatění** — Dokonalé křišťálové město (Perfect Crystal City) [Přílišnost (Excess)] (2:54) `isrc:USRMX2500186` `qobuz:352096073`
+- **Antichrist Siege Machine** — Son of Man [Vengeance of Eternal Fire] (3:13) `isrc:USN682331601` `qobuz:249278330`
+- **IRAE** — Nightshade [Lurking in the Depths] (6:34) `isrc:QZES72184192` `qobuz:135616849`
+- **Beherit** — The Gate Of Nanna [Drawing Down the Moon] (4:14) `isrc:FIUM70800871` `qobuz:190529753`
+- **Mütiilation** — Black Imperial Blood [The Lost Tapes] (5:27) `isrc:FR4E61900120` `qobuz:57599195`
+- **Xasthur** — A Gate Through Bloodstained Mirrors [To Violate the Obvious] (12:01) `isrc:USGE30506008` `qobuz:64321144`
+- **Leviathan** — The Idiot Sun [The Tenth Sub Level Of Suicide] (9:33) `isrc:USA560456805` `qobuz:64333197`
+- **Ildjarn** — Blazing Eye [Forest Poetry] (1:59) `isrc:FR33T1283905` `qobuz:77786350`
+- **Striborg** — Black Desolate Winter [Black Desolate Winter / Depressive Hibernation] (30:46) `isrc:USI4R0901417` `qobuz:71570014`
+- **Sargeist** — Satanic Black Devotion [Satanic Black Devotion] (5:41) `isrc:USA560456782` `qobuz:64310760`
+- **Moonblood** — Under the Cold Fullmoon [Blut & Krieg] (7:57) `isrc:USCGJ2521232` `qobuz:317050244`
+- **Demoncy** — Diabolica Blasphemiae [Diabolica Blasphemiae] (5:58) `isrc:QZTAT2375941` `qobuz:228804149`
+- **Pa Vesh En** — Goat Moon Chaos [The Gate] (4:44) `isrc:TCAIB2412514` `qobuz:258246753`
+- **Hulder** — De Oproeping Van Middeleeuwse Duisternis [De Oproeping Van Middeleeuwse Duisternis] (0:39) `isrc:USHM81952310` `qobuz:66645943`
+- **Master´s Hammer** — Jáma pekel [Ritual] (4:20) `isrc:USCGJ2312993` `qobuz:196900249`
+- **Nifelheim** — Black Curse [Nifelheim] (3:48) `isrc:CH6541632191` `qobuz:101206022`
+- **Samael** — Into The Pentagram [Worship Him] (6:45) `isrc:US4E40573718` `qobuz:47670878`
+- **Impaled Nazarene** — Goat Perversion [Tol  Cormpt Norz Norz Norz] (3:22) `isrc:FR6V89200147` `qobuz:1626286`

@@ -1,0 +1,1010 @@
+{
+  "name": "Genre: Dream Pop",
+  "services": {
+    "qobuz": "66732534",
+    "tidal": "e125c16c-a390-455c-b9cf-a054323b827d"
+  },
+  "description": "Imported genre playlist: Dream Pop.",
+  "tracks": [
+    {
+      "artist": "This Mortal Coil",
+      "title": "Song To The Siren",
+      "services": {
+        "qobuz": "102873807"
+      },
+      "album": "It'll End In Tears",
+      "duration": 211,
+      "isrc": "GBAFL1100048"
+    },
+    {
+      "artist": "Felt",
+      "title": "Primitive Painters",
+      "services": {
+        "qobuz": "91142148"
+      },
+      "album": "Primitive Painters",
+      "duration": 362,
+      "isrc": "GBBLY1601493"
+    },
+    {
+      "artist": "For Against",
+      "title": "Autocrat",
+      "services": {
+        "qobuz": "59943672"
+      },
+      "album": "Echelons",
+      "duration": 230,
+      "isrc": "USAQP0501406"
+    },
+    {
+      "artist": "LowLife",
+      "title": "Given To Dreaming",
+      "services": {
+        "qobuz": "50570870"
+      },
+      "album": "Diminuendo + Singles",
+      "duration": 221,
+      "isrc": "GBHBR0401482"
+    },
+    {
+      "artist": "Polysics",
+      "title": "Rocket",
+      "services": {
+        "qobuz": "95566126"
+      },
+      "album": "We ate the machine",
+      "duration": 175,
+      "isrc": "JPKS00701243"
+    },
+    {
+      "artist": "Hugo Largo",
+      "title": "Second Skin",
+      "services": {
+        "qobuz": "271983842"
+      },
+      "album": "Drum",
+      "duration": 196,
+      "isrc": "QMVYL2300028"
+    },
+    {
+      "artist": "The Church",
+      "title": "Under the Milky Way",
+      "services": {
+        "qobuz": "33546473"
+      },
+      "album": "Starfish (Deluxe Edition)",
+      "duration": 298,
+      "isrc": "USAR18800002"
+    },
+    {
+      "artist": "The House Of Love",
+      "title": "Christine",
+      "services": {
+        "qobuz": "136321028"
+      },
+      "album": "The House of Love (Deluxe Edition)",
+      "duration": 207,
+      "isrc": "GBBLY1202611"
+    },
+    {
+      "artist": "Ultra Vivid Scene",
+      "title": "Mercy Seat",
+      "services": {
+        "qobuz": "2534333"
+      },
+      "album": "Ultra Vivid Scene",
+      "duration": 249,
+      "isrc": "GBAFL8800006"
+    },
+    {
+      "artist": "A.R. Kane",
+      "title": "A Love From Outer Space",
+      "services": {
+        "qobuz": "249088447"
+      },
+      "album": "\"i\"",
+      "duration": 308,
+      "isrc": "GBBTF0400071"
+    },
+    {
+      "artist": "Bel Canto",
+      "title": "Dewy Fields",
+      "services": {
+        "qobuz": "196488696"
+      },
+      "album": "Birds of Passage",
+      "duration": 243,
+      "isrc": "NOYCA9001020"
+    },
+    {
+      "artist": "Galaxie 500",
+      "title": "Strange",
+      "services": {
+        "qobuz": "52231442"
+      },
+      "album": "On Fire",
+      "duration": 199,
+      "isrc": "USRY29600081"
+    },
+    {
+      "artist": "Julee Cruise",
+      "title": "Falling",
+      "services": {
+        "qobuz": "2933842"
+      },
+      "album": "Floating Into The Night",
+      "duration": 254,
+      "isrc": "USWB10100198"
+    },
+    {
+      "artist": "The Innocence Mission",
+      "title": "I Remember Me",
+      "services": {
+        "qobuz": "91198382"
+      },
+      "album": "The Innocence Mission",
+      "duration": 236,
+      "isrc": "USWWW0129867"
+    },
+    {
+      "artist": "The Ocean Blue",
+      "title": "Between Something and Nothing",
+      "services": {
+        "qobuz": "3002012"
+      },
+      "album": "The Ocean Blue",
+      "duration": 241,
+      "isrc": "USRE10100001"
+    },
+    {
+      "artist": "Cocteau Twins",
+      "title": "Heaven or Las Vegas",
+      "services": {
+        "qobuz": "17203926"
+      },
+      "album": "Heaven or Las Vegas",
+      "duration": 297,
+      "isrc": "GBAFL1400047"
+    },
+    {
+      "artist": "Mazzy Star",
+      "title": "Halah",
+      "services": {
+        "qobuz": "1950380"
+      },
+      "album": "She Hangs Brightly",
+      "duration": 196,
+      "isrc": "USCA29000609"
+    },
+    {
+      "artist": "The Sundays",
+      "title": "Here's Where the Story Ends",
+      "services": {
+        "qobuz": "4693905"
+      },
+      "album": "Reading Writing And Arithmetic",
+      "duration": 230,
+      "isrc": "GB01A9000004"
+    },
+    {
+      "artist": "Cranes",
+      "title": "Adoration",
+      "services": {
+        "qobuz": "2824932"
+      },
+      "album": "Wings Of Joy (Expanded Edition)",
+      "duration": 326,
+      "isrc": "GBARL9100055"
+    },
+    {
+      "artist": "His Name Is Alive",
+      "title": "Are We Still Married?",
+      "services": {
+        "qobuz": "279238520"
+      },
+      "album": "Home Is in Your Head",
+      "duration": 171,
+      "isrc": "GBAFL2100273"
+    },
+    {
+      "artist": "Belly",
+      "title": "Untogether",
+      "services": {
+        "qobuz": "58598209"
+      },
+      "album": "Star",
+      "duration": 283,
+      "isrc": "GBAFL9300012"
+    },
+    {
+      "artist": "Lucia Anima",
+      "title": "Just Give Me A Sign",
+      "services": {
+        "qobuz": "312130246"
+      },
+      "album": "Just Give Me A Sign",
+      "duration": 270,
+      "isrc": "ATKD92566101"
+    },
+    {
+      "artist": "The Cranberries",
+      "title": "Intro / Dreaming My Dreams",
+      "services": {
+        "qobuz": "355852813"
+      },
+      "album": "MTV Unplugged",
+      "duration": 279,
+      "isrc": "USSJW2500027"
+    },
+    {
+      "artist": "The Veldt",
+      "title": "Soul In A Jar",
+      "services": {
+        "qobuz": "41144798"
+      },
+      "album": "Afrodisiac",
+      "duration": 289,
+      "isrc": "USUM71705231"
+    },
+    {
+      "artist": "Luna",
+      "title": "23 Minutes in Brussels",
+      "services": {
+        "qobuz": "2782533"
+      },
+      "album": "Penthouse",
+      "duration": 400,
+      "isrc": "USEE19574069"
+    },
+    {
+      "artist": "Mojave 3",
+      "title": "In Love with a View",
+      "services": {
+        "qobuz": "58599787"
+      },
+      "album": "Excuses for Travellers",
+      "duration": 369,
+      "isrc": "GBAFL0000008"
+    },
+    {
+      "artist": "Black Tape For A Blue Girl",
+      "title": "remnants of a deeper purity",
+      "services": {
+        "qobuz": "31919175"
+      },
+      "album": "Remnants of a Deeper Purity (2014 Remastered Deluxe Edition)",
+      "duration": 275,
+      "isrc": "USHK99618607"
+    },
+    {
+      "artist": "Bowery Electric",
+      "title": "Coming Down",
+      "services": {
+        "qobuz": "63143719"
+      },
+      "album": "Beat",
+      "duration": 278,
+      "isrc": "USI4R0401654"
+    },
+    {
+      "artist": "Elysian Fields",
+      "title": "Star Sheen",
+      "services": {
+        "qobuz": "59255392"
+      },
+      "album": "Pink Air",
+      "duration": 278,
+      "isrc": "FR7LO1800252"
+    },
+    {
+      "artist": "Love Spirals Downwards",
+      "title": "El Pedregal",
+      "services": {
+        "qobuz": "96649604"
+      },
+      "album": "Ever (Remastered Reissue)",
+      "duration": 315,
+      "isrc": "USBAQ2000004"
+    },
+    {
+      "artist": "Ivy",
+      "title": "Edge Of The Ocean",
+      "services": {
+        "qobuz": "123440494"
+      },
+      "album": "Long Distance",
+      "duration": 265,
+      "isrc": "CAN110100119"
+    },
+    {
+      "artist": "Devics",
+      "title": "Heaven Please",
+      "services": {
+        "qobuz": "124095930"
+      },
+      "album": "If You Forget Me...",
+      "duration": 45,
+      "isrc": "USA560447248"
+    },
+    {
+      "artist": "Broadcast",
+      "title": "Come On Let's Go",
+      "services": {
+        "qobuz": "3775839"
+      },
+      "album": "The Noise Made By People",
+      "duration": 197,
+      "isrc": "GBBPW9900176"
+    },
+    {
+      "artist": "The Clientele",
+      "title": "Reflections After Jane",
+      "services": {
+        "qobuz": "42188359"
+      },
+      "album": "Suburban Light",
+      "duration": 201,
+      "isrc": "GBFXJ0000003"
+    },
+    {
+      "artist": "Hope Sandoval & the Warm Inventions",
+      "title": "Around My Smile",
+      "services": {
+        "qobuz": "34046847"
+      },
+      "album": "Bavarian Fruit Bread",
+      "duration": 250,
+      "isrc": "USA2P1382446"
+    },
+    {
+      "artist": "Ray LaMontagne",
+      "title": "This Love Is Over",
+      "services": {
+        "qobuz": "2295549"
+      },
+      "album": "God Willin' & The Creek Don't Rise",
+      "duration": 209,
+      "isrc": "USRC11000409"
+    },
+    {
+      "artist": "Trespassers William",
+      "title": "Different Stars",
+      "services": {
+        "qobuz": "145675440"
+      },
+      "album": "Different Stars",
+      "duration": 283,
+      "isrc": "BRPGB0356003"
+    },
+    {
+      "artist": "M83",
+      "title": "Run Into Flowers",
+      "services": {
+        "qobuz": "18493192"
+      },
+      "album": "Dead Cities, Red Seas & Lost Ghosts",
+      "duration": 249,
+      "isrc": "FR86W0300280"
+    },
+    {
+      "artist": "The Ready Set",
+      "title": "Love Like Woe",
+      "services": {
+        "qobuz": "2163361"
+      },
+      "album": "I'm Alive, I'm Dreaming",
+      "duration": 200,
+      "isrc": "USRE11000125"
+    },
+    {
+      "artist": "The Radio Dept.",
+      "title": "Where Damage Isn't Already Done",
+      "services": {
+        "qobuz": "2512254"
+      },
+      "album": "Where Damage Isn't Already Done",
+      "duration": 163,
+      "isrc": "SEVMM0206002"
+    },
+    {
+      "artist": "Blonde Redhead",
+      "title": "Elephant Woman",
+      "services": {
+        "qobuz": "26441576"
+      },
+      "album": "Misery Is a Butterfly",
+      "duration": 289,
+      "isrc": "GBAFL0300096"
+    },
+    {
+      "artist": "The Concretes",
+      "title": "Say Something New",
+      "services": {
+        "qobuz": "34839768"
+      },
+      "album": "The Concretes",
+      "duration": 227,
+      "isrc": "SEVJH0300401"
+    },
+    {
+      "artist": "The California Honeydrops",
+      "title": "Nothing at All",
+      "services": {
+        "qobuz": "194868041"
+      },
+      "album": "Nothing at All / Good Times",
+      "duration": 173,
+      "isrc": "USQXT2210003"
+    },
+    {
+      "artist": "Au Revoir Simone",
+      "title": "Lark",
+      "services": {
+        "qobuz": "67434397"
+      },
+      "album": "The Bird Of Music (Bonus Track)",
+      "duration": 261,
+      "isrc": "USA560621634"
+    },
+    {
+      "artist": "Engineers",
+      "title": "Waved On",
+      "services": {
+        "qobuz": "388088734"
+      },
+      "album": "Engineers",
+      "duration": 321,
+      "isrc": "GBBND0401391"
+    },
+    {
+      "artist": "The Daysleepers",
+      "title": "Distant Creatures",
+      "services": {
+        "qobuz": "73744998"
+      },
+      "album": "Drowned In a Sea of Sound",
+      "duration": 210,
+      "isrc": "USBHM0810054"
+    },
+    {
+      "artist": "The Embassy",
+      "title": "It Pays To Belong",
+      "services": {
+        "qobuz": "232506787"
+      },
+      "album": "Tacking",
+      "duration": 234,
+      "isrc": "SEVSX0500704"
+    },
+    {
+      "artist": "Horst Jankowski",
+      "title": "A Sunny Day in Heidelberg",
+      "services": {
+        "qobuz": "182977352"
+      },
+      "album": "The Best of Mr. Black Forest",
+      "duration": 172,
+      "isrc": "DEB638910801"
+    },
+    {
+      "artist": "Chromatics",
+      "title": "The Page",
+      "services": {
+        "qobuz": "125719786"
+      },
+      "album": "Kill For Love (Deluxe)",
+      "duration": 216,
+      "isrc": "QMMMF1200006"
+    },
+    {
+      "artist": "Maps",
+      "title": "It Will Find You",
+      "services": {
+        "qobuz": "4540869"
+      },
+      "album": "We Can Create",
+      "duration": 333,
+      "isrc": "GBAJH0700110"
+    },
+    {
+      "artist": "The Mary Onettes",
+      "title": "Lost",
+      "services": {
+        "qobuz": "198727618"
+      },
+      "album": "The Mary Onettes",
+      "duration": 242,
+      "isrc": "SEVMM0701002"
+    },
+    {
+      "artist": "The Shins",
+      "title": "No Way Down",
+      "services": {
+        "qobuz": "5124351"
+      },
+      "album": "Port Of Morrow",
+      "duration": 196,
+      "isrc": "USSM11106853"
+    },
+    {
+      "artist": "School Of Seven Bells",
+      "title": "Half Asleep",
+      "services": {
+        "qobuz": "391964670"
+      },
+      "album": "Alpinisms",
+      "duration": 260,
+      "isrc": "USVR90955003"
+    },
+    {
+      "artist": "The Depreciation Guild",
+      "title": "Dream About Me",
+      "services": {
+        "qobuz": "74375772"
+      },
+      "album": "Spirit Youth",
+      "duration": 308,
+      "isrc": "US28E1049604"
+    },
+    {
+      "artist": "The High Violets",
+      "title": "Sun Baby",
+      "services": {
+        "qobuz": "244563965"
+      },
+      "album": "To Where You Are",
+      "duration": 256,
+      "isrc": "QZHN81981554"
+    },
+    {
+      "artist": "Atlas Sound",
+      "title": "Quick Canal (W/ Laetitia Sadier)",
+      "services": {
+        "qobuz": "63141987"
+      },
+      "album": "Logos",
+      "duration": 518,
+      "isrc": "USNCB0913807"
+    },
+    {
+      "artist": "jj",
+      "title": "Ecstasy",
+      "services": {
+        "qobuz": "2967387"
+      },
+      "album": "jj n\u00ba 2",
+      "duration": 213,
+      "isrc": "US38W1016403"
+    },
+    {
+      "artist": "The Black Ryder",
+      "title": "Let Me Be Your Light",
+      "services": {
+        "qobuz": "24546276"
+      },
+      "album": "The Door Behind the Door",
+      "duration": 374,
+      "isrc": "QM7281433799"
+    },
+    {
+      "artist": "The Pains Of Being Pure At Heart",
+      "title": "Young Adult Friction",
+      "services": {
+        "qobuz": "43492451"
+      },
+      "album": "Young Adult Friction",
+      "duration": 243,
+      "isrc": "US4TA0900029"
+    },
+    {
+      "artist": "Washed Out",
+      "title": "Feel It All Around",
+      "services": {
+        "qobuz": "125609793"
+      },
+      "album": "Life of Leisure",
+      "duration": 192,
+      "isrc": "USMEX0800099"
+    },
+    {
+      "artist": "Sleep Party People",
+      "title": "I'm Not Human At All (Copenhagen X Sessions)",
+      "services": {
+        "qobuz": "62289385"
+      },
+      "album": "I'm Not Human At All (Copenhagen X Sessions)",
+      "duration": 442,
+      "isrc": "USJZA1827310"
+    },
+    {
+      "artist": "Wild Nothing",
+      "title": "Chinatown",
+      "services": {
+        "qobuz": "21028127"
+      },
+      "album": "Gemini",
+      "duration": 198,
+      "isrc": "US8YA1010079"
+    },
+    {
+      "artist": "Beach Fossils",
+      "title": "Down the Line (Piano)",
+      "services": {
+        "qobuz": "128530501"
+      },
+      "album": "The Other Side of Life: Piano Ballads",
+      "duration": 212,
+      "isrc": "QM6YT2104306"
+    },
+    {
+      "artist": "Craft Spells",
+      "title": "After the Moment",
+      "services": {
+        "qobuz": "20789803"
+      },
+      "album": "Idle Labor",
+      "duration": 240,
+      "isrc": "US8YA1110054"
+    },
+    {
+      "artist": "Cults",
+      "title": "Abducted",
+      "services": {
+        "qobuz": "3593710"
+      },
+      "album": "Cults",
+      "duration": 171,
+      "isrc": "GBARL1100172"
+    },
+    {
+      "artist": "M83",
+      "title": "Midnight City",
+      "services": {
+        "qobuz": "54054284"
+      },
+      "album": "Hurry up, We're Dreaming",
+      "duration": 243,
+      "isrc": "GB55H1100002"
+    },
+    {
+      "artist": "Still Corners",
+      "title": "The Trip - 2023 Remaster",
+      "services": {
+        "qobuz": "208533389"
+      },
+      "album": "Strange Pleasures: 10th Anniversary Edition (2023 Remaster)",
+      "duration": 373,
+      "isrc": "USSUB1203501"
+    },
+    {
+      "artist": "Widowspeak",
+      "title": "Harsh Realm",
+      "services": {
+        "qobuz": "20792011"
+      },
+      "album": "Widowspeak",
+      "duration": 167,
+      "isrc": "US8YA1110159"
+    },
+    {
+      "artist": "Lower Dens",
+      "title": "Brains",
+      "services": {
+        "qobuz": "5258116"
+      },
+      "album": "Nootropics",
+      "duration": 307,
+      "isrc": "GBCEL1100741"
+    },
+    {
+      "artist": "Memoryhouse",
+      "title": "Lately (Deuxi\u00e8me)",
+      "services": {
+        "qobuz": "83368956"
+      },
+      "album": "The Years",
+      "duration": 203,
+      "isrc": "USHM81528879"
+    },
+    {
+      "artist": "Tamaryn",
+      "title": "Cranekiss",
+      "services": {
+        "qobuz": "353452823"
+      },
+      "album": "Cranekiss",
+      "duration": 230,
+      "isrc": "QMV8L1420201"
+    },
+    {
+      "artist": "Candy Claws",
+      "title": "Pangaea Girls (Magic Feeling)",
+      "services": {
+        "qobuz": "38084270"
+      },
+      "album": "Ceres & Calypso in the Deep Time",
+      "duration": 191,
+      "isrc": "USME31203117"
+    },
+    {
+      "artist": "Fear of Men",
+      "title": "Doldrums (Demo)",
+      "services": {
+        "qobuz": "124682128"
+      },
+      "album": "Early Fragments",
+      "duration": 185,
+      "isrc": "UK2SE1300006"
+    },
+    {
+      "artist": "Shabason & Krgovich",
+      "title": "Field Mouse",
+      "services": {
+        "qobuz": "400822936"
+      },
+      "album": "Four Days in June",
+      "duration": 210,
+      "isrc": "CAS1A2604903"
+    },
+    {
+      "artist": "Foxes In Fiction",
+      "title": "Ontario Gothic",
+      "services": {
+        "qobuz": "60154336"
+      },
+      "album": "Ontario Gothic",
+      "duration": 325,
+      "isrc": "QMFMG1457557"
+    },
+    {
+      "artist": "Grouper",
+      "title": "Call Across Rooms",
+      "services": {
+        "qobuz": "63140523"
+      },
+      "album": "Ruins",
+      "duration": 179,
+      "isrc": "USNCB1418903"
+    },
+    {
+      "artist": "The Caretaker",
+      "title": "The great hidden sea of the unconscious",
+      "services": {
+        "qobuz": "243916759"
+      },
+      "album": "An empty bliss beyond this World",
+      "duration": 182,
+      "isrc": "DEXO42399960"
+    },
+    {
+      "artist": "A Beacon School",
+      "title": "It's Late",
+      "services": {
+        "qobuz": "59440986"
+      },
+      "album": "Cola",
+      "duration": 366,
+      "isrc": "USA2P1808417"
+    },
+    {
+      "artist": "Bigsharebag",
+      "title": "Crochet Hooks",
+      "services": {
+        "qobuz": "422486133"
+      },
+      "album": "Rave Relics Feed a Hunger",
+      "duration": 418,
+      "isrc": "QT3F22671188"
+    },
+    {
+      "artist": "Turnover",
+      "title": "Dizzy On the Comedown",
+      "services": {
+        "qobuz": "83172841"
+      },
+      "album": "Peripheral Vision",
+      "duration": 255,
+      "isrc": "QMCE71300249"
+    },
+    {
+      "artist": "Cigarettes After Sex",
+      "title": "Apocalypse",
+      "services": {
+        "qobuz": "47730836"
+      },
+      "album": "Cigarettes After Sex",
+      "duration": 290,
+      "isrc": "USBQU1700034"
+    },
+    {
+      "artist": "Fazerdaze",
+      "title": "Lucky Girl",
+      "services": {
+        "qobuz": "38407539"
+      },
+      "album": "Morningside",
+      "duration": 170,
+      "isrc": "NZFN01600156"
+    },
+    {
+      "artist": "Hazel English",
+      "title": "I'm Fine",
+      "services": {
+        "qobuz": "188716917"
+      },
+      "album": "Just Give In / Never Going Home",
+      "duration": 197,
+      "isrc": "GBX721600140"
+    },
+    {
+      "artist": "Jay Som",
+      "title": "The Bus Song",
+      "services": {
+        "qobuz": "110175696"
+      },
+      "album": "Everybody Works",
+      "duration": 216,
+      "isrc": "US3R41732902"
+    },
+    {
+      "artist": "No Vacation",
+      "title": "Dr\u00e6m Girl",
+      "services": {
+        "qobuz": "318660510"
+      },
+      "album": "Summer Break Mixtape",
+      "duration": 234,
+      "isrc": "USHM81626735"
+    },
+    {
+      "artist": "Her's",
+      "title": "What Once Was",
+      "services": {
+        "qobuz": "38471215"
+      },
+      "album": "Songs of Her's",
+      "duration": 255,
+      "isrc": "GBYEJ1100223"
+    },
+    {
+      "artist": "Holy Motors",
+      "title": "Honeymooning",
+      "services": {
+        "qobuz": "57301533"
+      },
+      "album": "Slow Sundown",
+      "duration": 219,
+      "isrc": "QM3861807201"
+    },
+    {
+      "artist": "Mild Orange",
+      "title": "Some Feeling",
+      "services": {
+        "qobuz": "173800090"
+      },
+      "album": "Foreplay",
+      "duration": 197,
+      "isrc": "NZAM01800538"
+    },
+    {
+      "artist": "Barrie",
+      "title": "Clovers",
+      "services": {
+        "qobuz": "58116687"
+      },
+      "album": "Happy To Be Here",
+      "duration": 254,
+      "isrc": "QZ8SH1903003"
+    },
+    {
+      "artist": "Feng Suave",
+      "title": "Venus Flytrap",
+      "services": {
+        "qobuz": "400524171"
+      },
+      "album": "Venus Flytrap",
+      "duration": 222,
+      "isrc": "FR96X1865012"
+    },
+    {
+      "artist": "TOPS",
+      "title": "Direct Sunlight",
+      "services": {
+        "qobuz": "340951410"
+      },
+      "album": "I Feel Alive",
+      "duration": 207,
+      "isrc": "QMFME1912619"
+    },
+    {
+      "artist": "Crumb",
+      "title": "Trophy",
+      "services": {
+        "qobuz": "119468681"
+      },
+      "album": "Ice Melt",
+      "duration": 192,
+      "isrc": "QMB622100307"
+    },
+    {
+      "artist": "Lunar Vacation",
+      "title": "Cutting Corners",
+      "services": {
+        "qobuz": "126552937"
+      },
+      "album": "Inside Every Fig is a Dead Wasp",
+      "duration": 124,
+      "isrc": "QZEPW1905506"
+    },
+    {
+      "artist": "Men I Trust",
+      "title": "Organon",
+      "services": {
+        "qobuz": "242759827"
+      },
+      "album": "Untourable Album",
+      "duration": 150,
+      "isrc": "TCAFR2123364"
+    },
+    {
+      "artist": "The Mar\u00edas",
+      "title": "Hush",
+      "services": {
+        "qobuz": "123705552"
+      },
+      "album": "CINEMA",
+      "duration": 181,
+      "isrc": "USAT22100692"
+    },
+    {
+      "artist": "Alvvays",
+      "title": "After The Earthquake",
+      "services": {
+        "qobuz": "161968565"
+      },
+      "album": "Blue Rev",
+      "duration": 185,
+      "isrc": "US3R42246503"
+    },
+    {
+      "artist": "Beach House",
+      "title": "Once Twice Melody",
+      "services": {
+        "qobuz": "136441949"
+      },
+      "album": "Once Twice Melody",
+      "duration": 284,
+      "isrc": "USSUB2147001"
+    },
+    {
+      "artist": "Hatchie",
+      "title": "Quicksand",
+      "services": {
+        "qobuz": "142339937"
+      },
+      "album": "Giving The World Away",
+      "duration": 252,
+      "isrc": "AULI02143140"
+    },
+    {
+      "artist": "Yumi Zouma",
+      "title": "In The Eyes Of Our Love",
+      "services": {
+        "qobuz": "181964817"
+      },
+      "album": "Present Tense",
+      "duration": 208,
+      "isrc": "US3R42244606"
+    },
+    {
+      "artist": "The Japanese House",
+      "title": "Sunshine Baby",
+      "services": {
+        "qobuz": "215987356"
+      },
+      "album": "In the End It Always Does",
+      "duration": 219,
+      "isrc": "GBK3W2202480"
+    }
+  ]
+}

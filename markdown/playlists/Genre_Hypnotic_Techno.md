@@ -1,0 +1,106 @@
+# Genre: Hypnotic Techno
+
+Imported genre playlist: Hypnotic Techno.
+
+Services: `qobuz:66719299` `tidal:adf848a6-0dcc-41c2-9e0c-767e9f701925`
+
+## Tracks (98)
+
+- **Plastikman** — Spastik [Recycled Plastik] (9:15) `isrc:CAM261800030` `qobuz:92713869`
+- **Different Minds** — Hold On (Band Studio Version) [Different Minds (2026)] (3:24) `isrc:USHM82660874` `qobuz:422055046`
+- **Jeff Mills** — The Bells [SIGHT SOUND AND SPACE] (4:45) `isrc:USAX10000249` `qobuz:295033856`
+- **Underground resistance** — Nannytown [Intersteller Fugitives] (5:01) `isrc:USGUM0710106` `qobuz:23825360`
+- **Walter Robert** — Jingle Bell Rock [In a Holiday Groove] (2:55) `isrc:US2Z50300608` `qobuz:295999961`
+- **Joey Beltram** — Dance Generator [Trax Classix] (5:21) `isrc:GBBLG0100377` `qobuz:142431305`
+- **Dr. Nishant** — FRIENDLY NEIGHBORHOOD NEURO SURGEON [FRIENDLY NEIGHBORHOOD NEURO SURGEON] (2:06) `isrc:INN2I2611548` `qobuz:389883884`
+- **Luciano Reis** — Bitter Sweet Symphony [Rock Concert, Vol. 1] (2:53) `isrc:QZNJV2202444` `qobuz:173694618`
+- **C.J. Bolland** — The Prophet [The Analogue Theatre] (8:41) `isrc:GBANB9600077` `qobuz:46122752`
+- **Dave Clarke** — Wisdom to the Wise (Red 2) [Wisdom to the Wise (Red 2) [Remixes]] (8:06) `isrc:DEDU21200194` `qobuz:7843303`
+- **Jowee Omicil** — J n Jn (feat. Nedelka) [Roots & Grooves] (4:34) `isrc:US6W80900013` `qobuz:80512852`
+- **Lyte Funkie Ones** — Summer Girls [LFO] (4:17) `isrc:DEA819900423` `qobuz:222898`
+- **Aurélia Legay** — Que du nom du vainqueur [Rameau: Les fêtes de Polymnie] (1:27) `isrc:ES7891500314` `qobuz:306858542`
+- **JJerome87** — Green Velvet [The Canyon] (3:28) `isrc:AULI02565730` `qobuz:392248765`
+- **The Mamas & The Papas** — California Dreamin' [If You Can Believe Your Eyes & Ears] (2:42) `isrc:USMC16532697` `qobuz:47367999`
+- **Johannes Motschmann** — Lifestream [Lifestream (Luke Slater's 7th Plain Remix)] (7:56) `isrc:DES382109003` `qobuz:119019532`
+- **Rabbit In The Moon** — Out of Body Experience [Decade] (4:48) `isrc:QMDA61399782` `qobuz:76781952`
+- **Onasander** — The Fire's Spoken [Tomb of Witches] (5:54) `isrc:USHM82326893` `qobuz:215152579`
+- **DJ Hyperactive** — Wide Open [Len Faki Dj-Edits Volume I] (7:15) `isrc:DEDL81201230` `qobuz:193045334`
+- **Steve Bicknell** — The Reassurance Ritual [Several Streams of Thought] (6:56) `isrc:NLCK42506063` `qobuz:328028417`
+- **Ken Ishii** — Where Is The Dusk [Sleeping Madness] (5:04) `isrc:BEZ352400116` `qobuz:357938804`
+- **Basic Channel** — Quadrant Dub I [Quadrant Dub] (15:36) `isrc:DEW259400126` `qobuz:49165165`
+- **Denzel Curry** — BLACK METAL TERRORIST | 13 M T [TA13OO] (2:41) `isrc:USC4R1802458` `qobuz:51424326`
+- **Morgan James** — On the Flipside [Groovin Smooth] (3:35) `isrc:QMEU32301455` `qobuz:278879885`
+- **Cari Lekebusch** — Shaded [Shaded EP] (6:05) `isrc:CAT390700239` `qobuz:33303105`
+- **Ben Klock & Fadi Mohem** — The Vanishing [Layer One] (5:22) `isrc:QMBZ92494346` `qobuz:397163559`
+- **Oscar and The Wolf** — Orange Sky [Summer Skin] (4:26) `isrc:BEP011200024` `qobuz:5707440`
+- **Sandwell District** — Forbidden [Forbidden] (5:38) `isrc:GBPVV2500134` `qobuz:369578895`
+- **James Newton Howard** — Speak To Me [All the Light We Cannot See (Soundtrack from the Netflix Limited Series)] (2:25) `isrc:QZ8BZ2306980` `qobuz:232877220`
+- **Lost Under Heaven feat. Chris Liebing & Ralf Hildenbeutel** — The Breath of Light [The Breath of Light] (5:10) `isrc:GBR8R1900076` `qobuz:59701336`
+- **Female** — Ready Made (Recorded 1996, Released On THE END OF LIVING, THE START OF SURVIVAL 12" Split with Surgeon and Regis) [Pleasures That Kill] (4:56) `isrc:USA2Z2001358` `qobuz:102087593`
+- **Mr Ad Infinitum** — The Captain of Her Heart [The Captain of Her Heart] (4:19) `isrc:QZHN42692653` `qobuz:388183135`
+- **Funkatized** — Shifted Dimension [The Best of 15 Years (One)] (3:43) `isrc:DEOO41902638` `qobuz:188483034`
+- **Sandwell District** — Dreaming [End Beginnings] (6:58) `isrc:GBPVV2400595` `qobuz:303514139`
+- **Ophélie Gaillard** — A Treatise of Good Taste in the Art of Musick: The Night Her Silent Sable Wore [A Night in London] (5:10) `isrc:FROV62127418` `qobuz:143983837`
+- **Ancient Methods** — Walking on Cursed Soil [The Jericho Records] (10:17) `isrc:DEMM41801284` `qobuz:53315055`
+- **Marcel Dettmann** — Phase Sequence [My Own Shadow: Faultline] (6:19) `isrc:DEG932601578` `qobuz:404113849`
+- **L.B. Dub Corp** — Roller feat. Function [Zehn | Drei] (6:24) `isrc:DELG71400703` `qobuz:30557132`
+- **Kr!z** — Ipso Facto [Ipso Facto] (4:55) `isrc:BEN582500047` `qobuz:320665726`
+- **King Gizzard & The Lizard Wizard** — Blue Morpho [Butterfly 3001] (4:57) `isrc:AU2ZC2100166` `qobuz:136726889`
+- **Benoit Pioulard** — Stone In Focus [Radial] (11:03) `isrc:DEX261800610` `qobuz:53653447`
+- **Thursday** — Standing On The Edge Of Summer [Full Collapse] (3:41) `isrc:USVIC0114509` `qobuz:121964729`
+- **Oscar Mulero** — Intentionally False [Black Propaganda] (5:36) `isrc:NLCK41016327` `qobuz:57206799`
+- **Mike Dehnert** — Rootstalk [The Many Roots] (5:37) `isrc:FR6V80353038` `qobuz:9520875`
+- **Juan Atkins** — No U.F.Os (inst.) [Submerge Vol.1:Detroit Techno] (6:58) `isrc:USGUM0810123` `qobuz:74113554`
+- **Mathew Jonson** — Marionette [Marionette] (5:45) `isrc:FR00Y2200020` `qobuz:160152808`
+- **Ellen Allien** — Sehnsucht [Berlinette] (6:20) `isrc:DEAE60300288` `qobuz:49030409`
+- **Jeff Samuel** — Lost [Lost] (5:04) `isrc:DEBW20700054` `qobuz:49181794`
+- **Planetary Assault Systems** — Labstract [Sky Scraping] (7:11) `isrc:BEN582100216` `qobuz:133105096`
+- **Petar Dundov** — Distant Shores [Ideas From The Pond] (12:27) `isrc:BEN581100837` `qobuz:104242769`
+- **Dj Lino@** — Phantom Studies [Oasis] (3:07) `isrc:GX53U2532802` `qobuz:338557182`
+- **Vital Techtones** — Subzero [Vtt2] (7:06) `isrc:QM7281541008` `qobuz:79569991`
+- **Bad Omens** — ARTIFICIAL SUICIDE [THE DEATH OF PEACE OF MIND] (3:15) `isrc:USYFZ2264214` `qobuz:338331368`
+- **Deepak Sharma** — Partition [Partition] (7:10) `isrc:QM4TX1827771` `qobuz:121081486`
+- **D-MentD** — Shadow Side [Life Is Strange] (3:18) `isrc:CBEYJ2528294` `qobuz:432671946`
+- **Luther Vandross** — She Won't Talk To Me [Any Love] (4:36) `isrc:USSM18800716` `qobuz:432675`
+- **The Beatles** — Lucy In The Sky With Diamonds [Sgt. Pepper's Lonely Hearts Club Band] (3:27) `isrc:GBUM71700954` `qobuz:45990273`
+- **DVS1** — Black Russian [Black Russian] (6:31) `isrc:FR96X1752563` `qobuz:342844969`
+- **Kangding Ray** — Sirāt [Sirāt - Original Motion Picture Soundtrack] (4:18) `isrc:UKFGV2500253` `qobuz:357984278`
+- **Bruce Brubaker** — Two Pages [Glassforms Versions] (8:56) `isrc:FRT092000143` `qobuz:109339699`
+- **Psychedelic Porn Crumpets** — Hymn For A Droid [And Now For The Whatchamacallit] (3:27) `isrc:GBX721900152` `qobuz:188788936`
+- **Allen Toussaint** — Tim Tam [Back Home Again in Indiana] (2:01) `isrc:GBURZ1101881` `qobuz:13962215`
+- **Miomatic** — Step Into Our Life [Tokyo Crossover Night 2023] (4:00) `isrc:JPH372300101` `qobuz:219883359`
+- **Katy Perry** — Chained To The Rhythm [Witness] (3:57) `isrc:USUM71700560` `qobuz:50449156`
+- **Open Mike Eagle** — Breezeway Ritual [Brick Body Kids Still Daydream] (2:24) `isrc:QM6N21748185` `qobuz:274761434`
+- **Voices from The Lake** — Intro [Live at MAXXI] (5:47) `isrc:ATE691520901` `qobuz:319840052`
+- **New Order** — Blue Monday [Singles] (7:31) `isrc:GBAAP1500066` `qobuz:33382287`
+- **Moderat** — Reminder [III] (5:37) `isrc:DEOE81610322` `qobuz:134884702`
+- **DOLLAR ROSE** — No Sleep [Positivity on Top of Fucking Humans] (3:19) `isrc:CH6542539796` `qobuz:349207113`
+- **Jonas Kopp** — Alkitran [Alkitran / Vary] (7:37) `isrc:DEH741004508` `qobuz:134323586`
+- **Aleja Sanchez** — El Resplandor de los Ciervos [El Resplandor de los Ciervos] (6:01) `isrc:QMSL31990067` `qobuz:107673374`
+- **Stanislav Tolkachev** — The Dirty Water [It Will Be Too Late Then] (4:48) `isrc:DEMM41801213` `qobuz:79478396`
+- **Yan Cook** — Exomoon [Antimatter EP] (6:36) `isrc:NLCK41089185` `qobuz:126768654`
+- **David Bowie** — Bring Me The Disco King [Reality] (7:45) `isrc:USRF30300012` `qobuz:203635174`
+- **Charlotte De Witte** — Sgadi Li Mi [Return to Nowhere EP] (6:24) `isrc:BET612000005` `qobuz:203152692`
+- **Pendulum** — Watercolour [Immersion] (5:03) `isrc:GBAHT1000072` `qobuz:2069463`
+- **The Prodigy** — Roadblox [Roadblox] (5:49) `isrc:GBCEJ1500963` `qobuz:49811387`
+- **Vainqueur** — Elevation, Pt. 2 (Reduced) [Reductions 1995–1997] (10:17) `isrc:DEMM41801135` `qobuz:49038340`
+- **Amelie Lens** — Falling For You [Falling For You] (3:55) `isrc:DEE862401827` `qobuz:292857683`
+- **Luigi Tozzi** — Salina [Deep Blue: Volume 4] (8:32) `isrc:NLCK42606459` `qobuz:416017397`
+- **Oscar Mulero** — Reduction and Synthesis [Evidence Based Vol. 3] (6:10) `isrc:NLCK41054742` `qobuz:61230238`
+- **Angel Olsen** — Sinkhole [Cosmic Waves Volume 1] (4:03) `isrc:US38Y2447708` `qobuz:296383290`
+- **Fenwick & The Futures** — Stay Awake [Beautiful, Terrible] (4:18) `isrc:SE6I32458803` `qobuz:391872337`
+- **Out of Place Artefacts** — Science Faction [fabric presents Rødhåd] (5:33) `isrc:GBEXH2401971` `qobuz:283968517`
+- **Inox Traxx** — In My Darkness [In My Darkness EP] (5:13) `isrc:BE4JP2400007` `qobuz:253462838`
+- **Sleep Token** — Hypnosis [This Place Will Become Your Tomb] (5:35) `isrc:GBUM72101264` `qobuz:189020264`
+- **Setaoc Mass** — True lies [Solid Void EP] (6:15) `isrc:NLCK41047988` `qobuz:56993675`
+- **Wata Igarashi** — Mineral [Mineral] (3:27) `isrc:GBEXH2500214` `qobuz:381213776`
+- **Vale** — The Guilded Path [Burden of Sight] (6:28) `isrc:USA2Z1900141` `qobuz:59145659`
+- **John Leventhal** — Marion and Sam [Rumble Strip] (1:06) `isrc:QMFME2359140` `qobuz:233983698`
+- **Adventure Time** — Monster (feat. Olivia Olson & Half Shy) [Adventure Time: Distant Lands – Obsidian (Original Soundtrack)] (1:39) `isrc:USNLR2001648` `qobuz:107602253`
+- **Billie Eilish** — What Was I Made For? [From The Motion Picture "Barbie"] [What Was I Made For? [From The Motion Picture "Barbie"]] (3:42) `isrc:USUM72307484` `qobuz:218883117`
+- **Ben Howard** — Total Eclipse [Is It?] (1:30) `isrc:GBUM72300338` `qobuz:215180306`
+- **Pentangle** — Omie Wise [Reflection] (4:20) `isrc:GBAJE7186300` `qobuz:385657251`
+- **Home** — Resonance [Odyssey] (3:32) `isrc:QM4DW1607618` `qobuz:313097976`
+- **Alarico Arvan Zahir** — Crimson Echo Hearts [Crimson Echo Hearts] (3:04) `isrc:QT82V2675087` `qobuz:410229266`
+- **Protomartyr** — A Private Understanding [Relatives In Descent] (5:18) `isrc:GBCEL1700314` `qobuz:43673992`
+- **Duo Alambic** — Fantasy on the First Book J.S. Bach's Well Tempered Clavier No. 24 [Bach: Continuum, Complete Gamba Sonatas] (5:15) `isrc:ITLF52108172` `qobuz:149135912`

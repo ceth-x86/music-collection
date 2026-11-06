@@ -1,0 +1,108 @@
+# Genre: Dance Pop
+
+Imported genre playlist: Dance Pop.
+
+Services: `qobuz:66736319` `tidal:69a21fa7-f149-434e-b40a-cab95aba927a`
+
+## Tracks (100)
+
+- **Olivia Newton-John** — Physical (Remastered 2021) [Physical (Remastered 2021)] (3:45) `isrc:US86A2100406` `qobuz:392407396`
+- **The Pointer Sisters** — I'm So Excited [I'm So Excited - The Very Best Of] (3:51) `isrc:USRC18203285` `qobuz:6671037`
+- **Laura Branigan** — Gloria [Branigan] (4:54) `isrc:USAT28400033` `qobuz:2111984`
+- **Irene Cara** — Flashdance...What A Feeling [Flashdance...What A Feeling] (4:06) `isrc:GBQRF0809892` `qobuz:89309593`
+- **Shannon** — Let the Music Play [Let the Music Play] (3:33) `isrc:CAU118401853` `qobuz:52498377`
+- **Sheena Easton** — Strut [A Private Heaven] (4:03) `isrc:QZF392100015` `qobuz:271874318`
+- **Dead Or Alive** — You Spin Me Round (Like a Record) [Re-Recorded / Remastered] [You Spin Me Round (Like A Record)] (4:27) `isrc:USA371028817` `qobuz:51035853`
+- **Madonna** — Into the Groove (Edit) [The Immaculate Collection] (4:09) `isrc:USWB19903828` `qobuz:10240108`
+- **Gloria Estefan** — Conga [Greatest Hits] (4:15) `isrc:USSM18500167` `qobuz:31890769`
+- **Nu Shooz** — I Can't Wait [Poolside] (5:26) `isrc:USAT20001705` `qobuz:12414183`
+- **Bananarama** — Venus [The Greatest Hits Collection] (3:48) `isrc:GBAAP1200056` `qobuz:44485864`
+- **Samantha Fox** — Touch Me (I Want Your Body) [Greatest Hits] (3:42) `isrc:GBAHK9500206` `qobuz:303791`
+- **Jermaine Stewart** — We Don't Have To Take Our Clothes Off [We Don't Have To Take Our Clothes Off] (4:04) `isrc:GBAAA8500063` `qobuz:3630026`
+- **Stacey Q** — Two of Hearts [Better Than Heaven] (3:59) `isrc:USAT29902109` `qobuz:2797203`
+- **Rick Astley** — Never Gonna Give You Up [Whenever You Need Somebody] (3:33) `isrc:GBARL9300135` `qobuz:385574059`
+- **Whitney Houston** — I Wanna Dance with Somebody (Who Loves Me) [I Wanna Dance with Somebody (Who Loves Me)] (3:21) `isrc:USAR12200340` `qobuz:163497669`
+- **Jody Watley** — Looking For A New Love [Greatest Hits] (5:09) `isrc:USMC18621993` `qobuz:30104226`
+- **Lisa Lisa & Cult Jam** — Head to Toe [Head to Toe] (5:02) `isrc:USA371080571` `qobuz:203357438`
+- **Exposé** — Point of No Return [Exposure] (3:27) `isrc:USAR18500173` `qobuz:47019573`
+- **Taylor Dayne** — Tell It to My Heart [Tell It to My Heart (Expanded Edition)] (3:40) `isrc:USAR18700173` `qobuz:46299034`
+- **Mellow Melodies** — respectable mel and kim [forest fire evo bundle] (5:15) `isrc:DGA082427404` `qobuz:279378673`
+- **Erasure** — A Little Respect [The Innocents] (3:33) `isrc:GB5KW1701047` `qobuz:387306742`
+- **Paula Abdul** — Straight Up [Forever Your Girl] (4:11) `isrc:USVI28800001` `qobuz:1946367`
+- **Studio Allstars** — The Only Way Is Up - (Tribute to Yazz & The Plastic Population) [Music From Queer As Folk Series 2] (3:53) `isrc:GBQRF0814522` `qobuz:89317327`
+- **Donna Summer** — This Time I Know It's for Real [Another Place & Time] (3:39) `isrc:USPR38900053` `qobuz:209210381`
+- **Deee-Lite** — Groove Is in the Heart [Groove Is in the Heart] (3:54) `isrc:USEE11200805` `qobuz:14741262`
+- **Cathy Dennis** — Touch Me (All Night Long) [Move To This] (4:09) `isrc:GBAKW9101006` `qobuz:116908371`
+- **M People** — One Night in Heaven [The Best Of M People] (4:24) `isrc:GBARL9300226` `qobuz:188273`
+- **Haddaway** — What Is Love - Reloaded [What Is Love (>Reloaded<)] (2:56) `isrc:DEN060300868` `qobuz:387100242`
+- **Corona** — The Rhythm Of The Night [The Rhythm of the Night] (4:24) `isrc:ITA199800041` `qobuz:341131610`
+- **La Bouche** — Be My Lover [Sweet Dreams] (4:01) `isrc:DED169500047` `qobuz:22986043`
+- **Real McCoy** — Another Night [Another Night] (3:56) `isrc:DEC739400378` `qobuz:186333`
+- **Ace Of Base** — Beautiful Life [The Bridge] (3:41) `isrc:SEVJH0803501` `qobuz:21492373`
+- **Robyn** — Do You Know (What It Takes) [Robyn Is Here] (3:41) `isrc:SEBMA9535040` `qobuz:208897`
+- **Whigfield** — Saturday Night [Saturday Night Single] (4:07) `isrc:IT00D9400207` `qobuz:38909655`
+- **Amber** — This Is Your Night [This Is Your Night] (3:57) `isrc:USTB10300582` `qobuz:5535554`
+- **Gala** — Freed From Desire [Come Into My Life (The Album)] (3:33) `isrc:ITA179700143` `qobuz:38907806`
+- **George Michael** — Fastlove, Pt. 1 [Older] (5:24) `isrc:GBDFN9600002` `qobuz:3105326`
+- **Gina G** — Ooh Aah...Just a Little Bit (Motiv8 Radio Edit) [Ooh Aah... Just A Little Bit (The Dance Mixes)] (3:23) `isrc:GBAHT9600802` `qobuz:47797436`
+- **Livin' Joy** — Dreamer [Dreamer] (3:46) `isrc:GBCGZ1500102` `qobuz:29579699`
+- **Janet Jackson** — Together Again [The Velvet Rope] (5:01) `isrc:USVI29700014` `qobuz:177261914`
+- **Cher** — Believe [Believe] (3:59) `isrc:GBAHT9803002` `qobuz:5693858`
+- **Jennifer Paige** — Crush [Jennifer Paige] (3:20) `isrc:DEB349800301` `qobuz:33017677`
+- **Ultra Naté** — Free [Free] (5:53) `isrc:GBDVG1133103` `qobuz:381934460`
+- **Céline Dion** — That's the Way It Is [The Very Best of Celine Dion] (4:01) `isrc:CAC229900134` `qobuz:58263152`
+- **Jamiroquai** — Canned Heat [High Times: Singles 1992-2006] (3:48) `isrc:GBARL0601480` `qobuz:171584754`
+- **Ricky Martin** — Livin' la Vida Loca [The Greatest Hits] (4:03) `isrc:NLB639920005` `qobuz:12945427`
+- **Enrique Iglesias** — Bailamos [Enrique] (3:32) `isrc:USIR19915208` `qobuz:54407437`
+- **Destiny's Child** — Jumpin', Jumpin' [The Writing's On The Wall] (3:50) `isrc:USSM19901054` `qobuz:398048`
+- **SteSy** — Blue (da ba dee) [Blue (da ba dee)] (2:48) `isrc:DETP12400036` `qobuz:302622411`
+- **Kylie Minogue** — Can't Get You out of My Head [Can't Get You out of My Head] (3:51) `isrc:GBAYE0100913` `qobuz:4405608`
+- **Sophie Ellis-Bextor** — Murder On The Dancefloor [Murder On The Dancefloor] (4:20) `isrc:GBUM72400721` `qobuz:251548880`
+- **P!nk** — Get the Party Started [M!ssundaztood] (3:11) `isrc:USAR10100717` `qobuz:12795144`
+- **Jennifer Lopez** — Love Don't Cost a Thing [J.Lo (25th Anniversary Edition)] (3:42) `isrc:USSM10017308` `qobuz:382019449`
+- **Justin Timberlake** — Rock Your Body [Justified] (4:27) `isrc:USJI10200367` `qobuz:226212`
+- **Britney Spears** — Toxic [In The Zone] (3:18) `isrc:USJI10301005` `qobuz:15505557`
+- **The Pussycat Dolls** — Don't Cha [PCD] (4:32) `isrc:USUM70503191` `qobuz:3906059`
+- **Sugababes** — Push The Button [Taller In More Ways] (3:37) `isrc:GBAAN0500329` `qobuz:4333123`
+- **Nelly Furtado** — Maneater [Loose] (4:18) `isrc:USUM70601449` `qobuz:737095`
+- **Shakira** — Hips Don't Lie [Oral Fixation, Vol. 2] (3:40) `isrc:USSM10600677` `qobuz:338184944`
+- **Scissor Sisters** — I Don't Feel Like Dancin' [I Don’t Feel Like Dancin’] (4:08) `isrc:GBUM70602112` `qobuz:312033624`
+- **Girls Aloud** — Sexy! No No No... [Tangled Up] (3:16) `isrc:GBUM70706029` `qobuz:8899817`
+- **Rihanna** — Don't Stop The Music [Good Girl Gone Bad: Reloaded] (4:27) `isrc:USUM70734700` `qobuz:742808`
+- **Ne-Yo** — Closer [Year Of The Gentleman] (3:54) `isrc:USUM70809378` `qobuz:54888138`
+- **Beyoncé** — Single Ladies (Put a Ring on It) [Single Ladies (Put A Ring On It) - Dance Remixes] (3:13) `isrc:USSM10803760` `qobuz:468585`
+- **Lady Gaga** — Just Dance [The Fame] (4:02) `isrc:USUM70807646` `qobuz:38181958`
+- **The Black Eyed Peas** — I Gotta Feeling [I Gotta Feeling] (4:05) `isrc:USUM70969621` `qobuz:749716`
+- **Kesha** — TiK ToK [Animal (Expanded Edition)] (3:19) `isrc:USRC10900433` `qobuz:46870769`
+- **Taio Cruz** — Break Your Heart [Rokstarr] (3:04) `isrc:GBUM71003723` `qobuz:6991496`
+- **Cascada** — Evacuate The Dancefloor [Evacuate The Dancefloor] (3:25) `isrc:DEHK90911201` `qobuz:54774207`
+- **Katy Perry** — California Gurls [Teenage Dream: The Complete Confection] (3:53) `isrc:USCA21001135` `qobuz:5153690`
+- **Usher** — DJ Got Us Fallin' In Love [Raymond v Raymond (Expanded Edition)] (3:40) `isrc:USLF21000041` `qobuz:19793607`
+- **Nicole Scherzinger** — Don't Hold Your Breath [Don't Hold Your Breath] (3:17) `isrc:USUM71029856` `qobuz:3885655`
+- **Alexandra Stan** — Mr. Saxobeat [Saxobeats] (3:14) `isrc:ROCRP1002864` `qobuz:101738790`
+- **Jessie J** — Domino [Who You Are] (3:51) `isrc:USUM71113573` `qobuz:4532292`
+- **Lmfao** — Party Rock Anthem [Sorry For Party Rocking] (4:22) `isrc:USUM71100061` `qobuz:3685445`
+- **Loreen** — Euphoria [Euphoria] (3:01) `isrc:SEPQA1200005` `qobuz:5180617`
+- **Rita Ora** — How We Do (Party) [ORA] (4:02) `isrc:USQX91101879` `qobuz:230077549`
+- **Cheryl Cole** — Call My Name [A Million Lights] (3:27) `isrc:GBUM71201486` `qobuz:13636212`
+- **Daft Punk ft. Pharrell Williams** — Get Lucky [Get Lucky] (4:07) `isrc:USQX91300809` `qobuz:8767428`
+- **Ellie Goulding** — Burn [Burn] (3:50) `isrc:GBUM71303482` `qobuz:11030767`
+- **Capital Cities** — Safe and Sound [In A Tidal Wave of Mystery (Deluxe Edition)] (3:12) `isrc:TCABD1246970` `qobuz:287032844`
+- **Clean Bandit** — Rather Be (feat. Jess Glynne) [New Eyes] (3:48) `isrc:GBAHS1300498` `qobuz:20621516`
+- **Mark Ronson** — Uptown Funk [Uptown Special] (4:29) `isrc:GBARL1401524` `qobuz:47640334`
+- **Justin Bieber** — Sorry [Purpose] (3:20) `isrc:USUM71516760` `qobuz:28348769`
+- **Jess Glynne** — Hold My Hand [Hold My Hand] (3:47) `isrc:GBAHS1500049` `qobuz:22126824`
+- **DNCE** — Cake By The Ocean [DNCE] (3:37) `isrc:USUM71514637` `qobuz:36487990`
+- **Ariana Grande** — Into You [Dangerous Woman (Deluxe Edition)] (4:04) `isrc:USUM71601827` `qobuz:32261458`
+- **Sia** — Cheap Thrills [This Is Acting (Deluxe Version)] (3:31) `isrc:USRC11502935` `qobuz:35461469`
+- **Dua Lipa** — Don't Start Now [Future Nostalgia] (3:03) `isrc:GBAHT1901121` `qobuz:104606206`
+- **Jessie Ware** — Spotlight [What's Your Pleasure?] (5:31) `isrc:GBUM72000272` `qobuz:91978215`
+- **Ava Max** — Kings & Queens [Kings & Queens] (2:42) `isrc:USAT21906943` `qobuz:90197328`
+- **The Weeknd** — Take My Breath [Dawn FM] (5:39) `isrc:USUG12106684` `qobuz:143431220`
+- **Ed Sheeran** — Bad Habits [=] (3:50) `isrc:GBAHS2100318` `qobuz:129097660`
+- **Lizzo** — About Damn Time [Special] (3:11) `isrc:USAT22203704` `qobuz:154260719`
+- **Miley Cyrus** — Flowers [Flowers] (3:20) `isrc:USSM12209777` `qobuz:193055711`
+- **Troye Sivan** — Rush [Something To Give Each Other] (2:36) `isrc:AUUM72300170` `qobuz:219411266`
+- **Tate McRae** — greedy [greedy] (2:11) `isrc:USRC12301932` `qobuz:227077561`
+- **Reve** — CTRL + ALT + DEL [CTRL + ALT + DEL] (2:33) `isrc:CAUM72100174` `qobuz:136769913`
+- **Sabrina Carpenter** — Espresso [Espresso] (2:55) `isrc:USUM72403305` `qobuz:261950376`

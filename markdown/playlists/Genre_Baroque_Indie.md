@@ -1,0 +1,108 @@
+# Genre: Baroque Indie
+
+Imported genre playlist: Baroque Indie.
+
+Services: `qobuz:66732483`
+
+## Tracks (100)
+
+- **Tindersticks** — City Sickness [The First Tindersticks Album] (4:01) `isrc:GBAUP9300004` `qobuz:13502902`
+- **Cardinal** — You've Lost Me There [Cardinal] (4:28) `isrc:GBCKK1121504` `qobuz:194467866`
+- **The Divine Comedy** — The Summerhouse [Promenade] (4:15) `isrc:GBBSR9400153` `qobuz:3466422`
+- **Eric Johnson** — Fanfare One [Souvenir] (1:58) `isrc:USQTZ1400023` `qobuz:302090516`
+- **Belle and Sebastian** — The Stars of Track & Field [If You're Feeling Sinister] (4:48) `isrc:GBCAX9600101` `qobuz:8922137`
+- **The High Llamas** — Checking In, Checking Out [Gideon Gaye] (5:45) `isrc:GBBLK9800178` `qobuz:13574043`
+- **Gorky's Zygotic Mynci** — Patio Song [Barafundle] (2:43) `isrc:USMR19686885` `qobuz:768795`
+- **Richard Cheese** — Y-O-D-A [The Lounge Awakens: Richard Cheese Live At Mos Eisley Spaceport Cantina] (1:43) `isrc:US64M1503107` `qobuz:291612236`
+- **Mercury Rev** — Holes [Deserter's Songs] (5:56) `isrc:GBUM71102304` `qobuz:97843875`
+- **Pernice Brothers** — The Ballad of Bjorn Borg [The World Won't End] (3:38) `isrc:USA2E0100409` `qobuz:212106841`
+- **The Flaming Lips** — Race for the Prize [The Soft Bulletin] (4:18) `isrc:USWB11602529` `qobuz:41508828`
+- **Miloš Karadaglić** — The Book Of Love (Arr. Hale) [Sound Of Silence] (3:19) `isrc:GBUM71903441` `qobuz:63811259`
+- **Lambchop** — Up with People [Nixon] (6:02) `isrc:DED620005204` `qobuz:243032552`
+- **The New Pornographers** — Letter From An Occupant [Mass Romantic] (3:46) `isrc:USMTD0354006` `qobuz:26440934`
+- **Beulah** — If We Can Land A Man On The Moon, Surely I Can Win Your Heart [When Your Heartstrings Break] (3:17) `isrc:USBYE0500211` `qobuz:14389139`
+- **The Polyphonic Spree** — Light & Day / Reach For The Sun [The Beginning Stages of...] (3:23) `isrc:USA2B1302449` `qobuz:231777280`
+- **Broken Social Scene** — Cause = Time [You Forgot It In People] (5:30) `isrc:CAAA10200108` `qobuz:44774996`
+- **The Hidden Cameras** — A Miracle [The Smell of Our Own] (2:54) `isrc:CAO370300203` `qobuz:190399119`
+- **The Dears** — Lost in the Plot [No Cities Left] (4:50) `isrc:CA71A1500082` `qobuz:278217754`
+- **Canasta** — Slow Down Chicago [We Were Set Up] (4:04) `isrc:USCGJ0580941` `qobuz:69482488`
+- **Arcade Fire** — Wake Up [Funeral] (5:35) `isrc:USMRG0467008` `qobuz:41620421`
+- **The Leaf Library** — Sun In My Room [After The Rain, Strange Seeds] (4:36) `isrc:GBV6U2600004` `qobuz:371264465`
+- **The Delgados** — The Light Before We Land [Hate] (5:30) `isrc:GBBKU0200037` `qobuz:26360383`
+- **The Fiery Furnaces** — Chris Michaels [Blueberry Boat] (7:53) `isrc:GBCVZ0300846` `qobuz:136114826`
+- **The Veils** — The Tide That Left and Never Came Back [The Tide That Left and Never Came Back] (3:12) `isrc:GBCVZ0300720` `qobuz:34266632`
+- **Antony and the Johnsons** — Hope There's Someone [I Am A Bird Now] (4:21) `isrc:US38W0510527` `qobuz:2531160`
+- **Andrew Bird** — Fake Palindromes [Borrow or Rob] (3:10) `isrc:QMB622501002` `qobuz:395307486`
+- **Sufjan Stevens** — Chicago [Illinois] (6:04) `isrc:US64G0501409` `qobuz:20882999`
+- **The Boy Least Likely To** — Be Gentle With Me [The Best Party Ever] (3:47) `isrc:GBJUN0500001` `qobuz:80588597`
+- **The Clientele** — Since K Got over Me [Strange Geometry] (3:51) `isrc:GBFXJ0500001` `qobuz:42188329`
+- **Bat For Lashes** — What's a Girl to Do? [What's a Girl to Do?] (2:45) `isrc:GBBND0701697` `qobuz:375862071`
+- **Beirut** — Postcards from Italy [Gulag Orkestar] (4:17) `isrc:USCPT0600023` `qobuz:44828997`
+- **Owen Pallett** — The Arctic Circle [He Poos Clouds] (4:25) `isrc:GBCEL2000089` `qobuz:196061858`
+- **Grizzly Bear** — Knife [Yellow House] (5:17) `isrc:GBBPW0600041` `qobuz:3777309`
+- **Joanna Newsom** — Emily [Ys] (12:08) `isrc:US58L0630301` `qobuz:48467844`
+- **My Brightest Diamond** — In The Beginning [All Things Will Unwind] (4:19) `isrc:US64G1108503` `qobuz:143868448`
+- **Parenthetical Girls** — The Weight She Fell Under [Safe As Houses] (3:09) `isrc:US25T0615935` `qobuz:74725592`
+- **Regina Spektor** — Samson [Songs] (3:53) `isrc:USWB12402514` `qobuz:289221707`
+- **The Decemberists** — The Crane Wife 3 [The Crane Wife] (4:17) `isrc:USCA20601220` `qobuz:39459560`
+- **Blonde Redhead** — 23 [23] (5:18) `isrc:GBAFL0600097` `qobuz:2331278`
+- **Efterklang** — Mirador [Parades] (5:08) `isrc:DKEF50700502` `qobuz:74062723`
+- **Feist** — My Moon My Man [The Reminder] (3:48) `isrc:FRUM70600211` `qobuz:730737`
+- **Hjaltalín** — Debussy [Sleepdrunk Seasons] (4:27) `isrc:ISV340700206` `qobuz:98435003`
+- **Patrick Wolf** — The Magic Position [The Magic Position] (3:53) `isrc:GBUM70602069` `qobuz:56987953`
+- **Silverchair** — Straight Lines [Young Modern] (4:18) `isrc:AUEL00700009` `qobuz:114512930`
+- **The Besnard Lakes** — For Agent 13 [The Besnard Lakes Are The Dark Horse] (5:12) `isrc:US38Y0710602` `qobuz:2968749`
+- **The Good, The Bad & The Queen** — Herculean [The Good, The Bad and The Queen] (3:58) `isrc:GBAYE0600868` `qobuz:827647`
+- **The Most Serene Republic** — Content Was Always My Favorite Colour [Underwater Cinematographer] (4:16) `isrc:CAAA10501102` `qobuz:140884680`
+- **The National** — Fake Empire [Boxer] (3:25) `isrc:GBAZP0700003` `qobuz:2340400`
+- **The Shins** — Australia [Wincing The Night Away] (3:56) `isrc:USSUB0770502` `qobuz:407821261`
+- **Los Campesinos!** — You! Me! Dancing! (2018 Remaster) [Hold On Now, Youngster... (2018 Deluxe Remaster)] (6:45) `isrc:GBDNH1800037` `qobuz:348379013`
+- **Panic! At The Disco** — Nine in the Afternoon [Nine in the Afternoon] (3:12) `isrc:USAT20800754` `qobuz:2931420`
+- **Ra Ra Riot** — Ghost Under Rocks [The Rhumb Line] (4:27) `isrc:USBS50830880` `qobuz:231393746`
+- **The Airborne Toxic Event** — Sometime Around Midnight [Live at the Greek] (5:25) `isrc:QM24S2305173` `qobuz:219723423`
+- **The Last Shadow Puppets** — The Age Of The Understatement [The Age Of The Understatement] (3:09) `isrc:GBCEL0800155` `qobuz:2523916`
+- **The Miserable Rich** — Boat Song [Twelve Ways To Count] (4:44) `isrc:DEAD20800003` `qobuz:220579484`
+- **Vampire Weekend** — Oxford Comma [Vampire Weekend] (3:15) `isrc:GBBKS0700526` `qobuz:2531966`
+- **Dirty Projectors** — Stillness Is The Move [Bitte Orca] (5:14) `isrc:GBCEL0900173` `qobuz:2501665`
+- **Fanfarlo** — Fire Escape [Reservoir] (2:59) `isrc:GBZQJ0900005` `qobuz:3000818`
+- **Florence + The Machine** — Cosmic Love [Lungs] (4:16) `isrc:GBUM70903473` `qobuz:8606365`
+- **Mew** — Introducing Palace Players [No more stories Are told today I'm sorry They washed away No more stories The world is grey I'm tired Let's wash away] (4:45) `isrc:USSM10902149` `qobuz:416673`
+- **St. Vincent** — Actor Out of Work [Actor] (2:15) `isrc:GBAFL0900011` `qobuz:2331395`
+- **The Antlers** — Kettering [Hospice] (5:11) `isrc:USJMZ0900024` `qobuz:64017178`
+- **XTC** — Wonderland [Mummer] (4:50) `isrc:GBAAA0001070` `qobuz:4651749`
+- **Wild Beasts** — Hooting & Howling [Two Dancers] (4:35) `isrc:GBCEL0900337` `qobuz:2538933`
+- **Julian Cope** — All the Blowing-Themselves-Up Motherfuckers (Will Realise the Minute They Die That They Were Suckers) [Black Sheep] (3:04) `isrc:GBHLW0810561` `qobuz:237731868`
+- **The Irrepressibles** — In This Shirt [Mirror Mirror] (5:35) `isrc:GBUM70916171` `qobuz:151600202`
+- **Destroyer** — Kaputt [Kaputt] (6:17) `isrc:USJ5G1134606` `qobuz:3563515`
+- **Mother Falcon** — Marigold [You Knew] (2:31) `isrc:QMMV31300017` `qobuz:170252475`
+- **Princess Chelsea** — Cigarette Duet [Lil' Golden Book] (4:20) `isrc:NZLC01100011` `qobuz:178371451`
+- **Julia Holter** — In the Green Wild [Loud City Song] (4:07) `isrc:GBCEL1300141` `qobuz:11150122`
+- **Kishi Bashi** — It All Began With a Burst [151a] (3:03) `isrc:USJZA1200009` `qobuz:20751292`
+- **Perfume Genius** — Hood [Put Your Back N 2 It] (1:59) `isrc:GB7TY1102009` `qobuz:4897276`
+- **School Is Cool** — The Underside [Entropology] (3:17) `isrc:BEV881100012` `qobuz:7656393`
+- **fun.** — Some Nights [Some Nights] (4:35) `isrc:USAT21104050` `qobuz:5367365`
+- **Foxygen** — San Francisco [We Are the 21st Century Ambassadors of Peace & Magic] (3:47) `isrc:US38Y1322704` `qobuz:7489754`
+- **Livm PM** — Coffee is proof that God Loves Us/if you dont believe in God spell it with two O's instead [Coffee is proof that God Loves Us/if you dont believe in God spell it with two O's instead] (5:06) `isrc:QT3FG2685164` `qobuz:426752671`
+- **San Fermin** — Sonsick [San Fermin] (4:13) `isrc:USCJ81300986` `qobuz:12440100`
+- **The Last Bison** — Switzerland [Inheritance] (5:09) `isrc:USUM71210670` `qobuz:8162077`
+- **typhoon** — Dreams of Cannibalism [White Lighter] (3:24) `isrc:USVBM1300036` `qobuz:225934305`
+- **Bellows** — For Rock Dove [Blue Breath] (4:40) `isrc:USKGR1300012` `qobuz:77375727`
+- **David Wimbish & The Collection** — The Gown of Green [Ars Moriendi] (3:19) `isrc:TCABX1400048` `qobuz:164786787`
+- **The Family Crest** — Howl [Beneath The Brine] (4:06) `isrc:QMM3X1304404` `qobuz:13857608`
+- **The Dear Hunter** — A Night on the Town [Act Iv: Rebirth in Reprise] (9:00) `isrc:ITH711500079` `qobuz:25194680`
+- **Iamthemorning** — K. O. S. [Belighted] (6:06) `isrc:GBCQV1400271` `qobuz:51013656`
+- **Choir of Young Believers** — Serious Lover [Grasque] (5:26) `isrc:US2J71505402` `qobuz:27514737`
+- **Field Music** — The Noisy Days Are Over [Commontime] (6:27) `isrc:GBCSG1600001` `qobuz:47515073`
+- **Pavo Pavo** — Ran ran Run [Young Narrator in the Breakers] (3:55) `isrc:GBBRP1658001` `qobuz:36070279`
+- **The Lemon Twigs** — As Long As We're Together [Do Hollywood] (5:03) `isrc:GBAFL1600336` `qobuz:36840381`
+- **Cuddle Magic** — Slow Rider [Ashes/Axis] (3:42) `isrc:USWEX1700023` `qobuz:48680461`
+- **Caroline Polachek** — Butterfly Net (feat. Weyes Blood) [Desire, I Want To Turn Into You: Everasking Edition] (5:33) `isrc:QM4TW2467782` `qobuz:253677605`
+- **Agnes Obel** — Broken Sleep [Myopia] (4:55) `isrc:DEN961902391` `qobuz:77079584`
+- **Modern Studies** — Run for Cover [The Weight of the Sun] (3:33) `isrc:GBCKK2059802` `qobuz:194317443`
+- **Sloppy Jane** — The Constable [Madison] (9:34) `isrc:USJ5G2100410` `qobuz:129453409`
+- **Black Country, New Road** — The Place Where He Inserted the Blade [Ants From Up There] (7:13) `isrc:GBCFB2100672` `qobuz:145715538`
+- **Arctic Monkeys** — There'd Better Be A Mirrorball [The Car] (4:25) `isrc:GBCEL2200512` `qobuz:172087727`
+- **Completions** — Transplanting [Transplanting] (3:55) `isrc:QZF8D2100312` `qobuz:165908868`
+- **Daneshevskaya** — Ice Pigeon [Long Is The Tunnel] (3:19) `isrc:QZ8SH2305207` `qobuz:219313161`
+- **Blue Bendy** — So Medieval [So Medieval] (3:54) `isrc:GB9GM2300104` `qobuz:248601886`
+- **The Last Dinner Party** — Nothing Matters [Prelude to Ecstasy] (3:02) `isrc:GBUM72301930` `qobuz:235927432`

@@ -1,0 +1,108 @@
+# Genre: Melodic House
+
+Imported genre playlist: Melodic House.
+
+Services: `qobuz:66716118`
+
+## Tracks (100)
+
+- **Lane 8** — Diamonds Feat. Solomon Grey [Poolside Mexico] (5:54) `isrc:GBEWA1401150` `qobuz:21786767`
+- **Van Morrison** — Dark Night Of The Soul [Three Chords And The Truth] (5:56) `isrc:GBCQT1900003` `qobuz:373514672`
+- **16 Bit Lolitas** — Deep In My Soul [Mix Cut] [Wake Your Mind Sessions 001 (Mixed by Cosmic Gate)] (5:43) `isrc:NLF711501085` `qobuz:378017718`
+- **Martin Roth** — Maya [Miami Poolside 2015] (8:16) `isrc:GBEWA1400803` `qobuz:23874185`
+- **John Doyle** — The Glad Eye / The Journeyman / The Wayward Son (Jigs to Reel) [Wayward Son] (4:23) `isrc:USCO90540803` `qobuz:106537857`
+- **Eli & Fur** — Feel The Fire [Miami Poolside 2015] (5:06) `isrc:GBEWA1401120` `qobuz:23874152`
+- **Universal Solution** — Bandur [25 Years Of Anjuna Mixed By James Grant] (3:51) `isrc:GBEWA2506856` `qobuz:424990545`
+- **Alexander J Poe** — Shape Of You (feat. Jessica Courtland) [Take Me Home] (3:12) `isrc:QT6E52674845` `qobuz:427394843`
+- **John Monkman** — Fractured Fate [Fate] (7:06) `isrc:ITH641053588` `qobuz:268142035`
+- **Fejká** — Maara [Anjunadeep 16] (4:14) `isrc:GBEWA2600274` `qobuz:424990194`
+- **Downtown Party Network** — Space Me Out [Beach Rouge Vol. 2 - Beach House & Deep Disco] (5:53) `isrc:GBEWA1500780` `qobuz:29877820`
+- **Thomas Schwartz** — Hymn To The Dawn [Hymn to the Dawn] (3:16) `isrc:NLD682502594` `qobuz:358752052`
+- **Motorcitysoul** — Change You [Technique] (10:13) `isrc:GBJPB0600099` `qobuz:17934860`
+- **Moon Boots** — Red Sky [First Landing] (6:13) `isrc:GBEWA1701869` `qobuz:424932603`
+- **Simply Red** — If You Don't Know Me by Now [A New Flame] (3:25) `isrc:GBCRL0800110` `qobuz:4304546`
+- **Yotto** — Fire Walk [Anjunadeep 08] (5:58) `isrc:GBEWA1601712` `qobuz:424930477`
+- **Aiiso** — Your Love Is An Echo [Anjunadeep 08] (5:31) `isrc:GBEWA1601702` `qobuz:424930467`
+- **Amateur Dance** — Dreamhack [Anjunadeep 08] (4:19) `isrc:GBEWA1601730` `qobuz:424930495`
+- **Tinlicker** — Soon You’ll Be Gone [Anjunadeep 08] (5:12) `isrc:GBEWA1601732` `qobuz:424930497`
+- **Icarus** — Hiding [Anjunadeep 08] (6:27) `isrc:GBAYE1703506` `qobuz:424930499`
+- **Lycoriscoris** — Flight [Anjunadeep 09] (4:12) `isrc:GBEWA1702651` `qobuz:424934707`
+- **Modd** — Abenaki [Anjunadeep 09] (3:46) `isrc:GBEWA1702655` `qobuz:424934711`
+- **Xinobi** — Far Away Place [Far Away Place (Remixes)] (7:10) `isrc:GBEWA1702710` `qobuz:176639363`
+- **The Weeknd** — Wake Me Up (feat. Justice) [Hurry Up Tomorrow] (5:08) `isrc:USUG12501128` `qobuz:315416312`
+- **Compuphonic** — Medicis [Anjunadeep 09] (3:20) `isrc:GBEWA1702660` `qobuz:424934716`
+- **Fairchild** — The Light In You [Anjunadeep 09] (6:36) `isrc:GBEWA1702665` `qobuz:424934721`
+- **Kora (CA)** — Nous [Anjunadeep 09] (4:16) `isrc:GBEWA1702673` `qobuz:424934729`
+- **Hosini** — Syna [Anjunadeep 09] (3:28) `isrc:GBEWA1702674` `qobuz:424934730`
+- **Antic** — Touch Of My Soul [Anjunadeep 09] (5:14) `isrc:GBEWA1702680` `qobuz:424934736`
+- **David Hohme** — Soft Landing [Anjunadeep 09] (7:03) `isrc:GBEWA1702684` `qobuz:424934740`
+- **OCULA** — Immunity [Anjunadeep 10] (4:43) `isrc:GBEWA1900052` `qobuz:424940907`
+- **Baile** — Soft Light [Anjunadeep 10] (3:33) `isrc:GBEWA1900053` `qobuz:424940908`
+- **CRi** — Initial [Anjunadeep 10] (5:04) `isrc:GBEWA1900060` `qobuz:424940915`
+- **Grazze** — Querencia [Anjunadeep 10] (3:28) `isrc:GBEWA1900063` `qobuz:424940918`
+- **Nuage** — H.A.L.O. [Anjunadeep 10] (3:59) `isrc:GBEWA1900064` `qobuz:424940919`
+- **Boerd** — Someone [Anjunadeep 10] (6:04) `isrc:GBEWA1900065` `qobuz:424940920`
+- **Ben Böhmer** — Little Lights [Anjunadeep 10] (6:42) `isrc:GBEWA1900067` `qobuz:424940922`
+- **Savvas** — Peace Of Mind [25 Years Of Anjuna Mixed By James Grant] (2:37) `isrc:GBEWA2506833` `qobuz:424990522`
+- **Dosem** — Stay True [Anjunadeep 10] (5:12) `isrc:GBEWA1900078` `qobuz:424940933`
+- **Kidnap** — Tempest [Grow] (5:17) `isrc:NLF711909418` `qobuz:378168264`
+- **HVMP** — Flora [Anjunadeep 11] (4:31) `isrc:GBEWA1904132` `qobuz:424945616`
+- **Jerro** — Tunnel Vision [Anjunadeep 11] (3:00) `isrc:GBEWA1904133` `qobuz:424945617`
+- **Miru** — Radiance [Anjunadeep 11] (4:55) `isrc:GBEWA1904134` `qobuz:424945618`
+- **Leaving Laurel** — Through And Through [Anjunadeep 11] (4:30) `isrc:GBEWA1904135` `qobuz:424945619`
+- **Hen Ogledd** — Paul is 9ft Tall (Marsh Gas) [Free Humans] (4:48) `isrc:GBCEL2000126` `qobuz:100940525`
+- **Kasper Koman** — The Blind Navigator [Anjunadeep 11] (3:24) `isrc:GBEWA1904141` `qobuz:424945625`
+- **Braxton** — Chiaroscuro [Anjunadeep 11] (4:13) `isrc:GBEWA1904142` `qobuz:424945626`
+- **Luigi Sambuy** — Paper [Anjunadeep 11] (3:59) `isrc:GBEWA1904143` `qobuz:424945627`
+- **Qrion** — Mars [Anjunadeep 11] (2:40) `isrc:GBEWA1904144` `qobuz:424945628`
+- **Greenville Massive** — Morse [Anjunadeep 11] (3:04) `isrc:GBEWA1904146` `qobuz:424945630`
+- **Nox Vahn** — Dream Of Love [Anjunadeep 11] (4:57) `isrc:GBEWA1904148` `qobuz:424945632`
+- **Ole Biege** — The Glow [Anjunadeep 11] (3:44) `isrc:GBEWA1904150` `qobuz:424945634`
+- **Qess** — Firethorn [Anjunadeep 11] (2:47) `isrc:GBEWA1904152` `qobuz:424945636`
+- **Simon Doty** — This Time [Anjunadeep 11] (5:36) `isrc:GBEWA1904153` `qobuz:424945637`
+- **Frost** — Overtones [Anjunadeep 11] (4:25) `isrc:GBEWA1904156` `qobuz:424945640`
+- **The Dualz** — Inside Me [Anjunadeep 11] (4:21) `isrc:GBEWA1904163` `qobuz:424945647`
+- **Zoo Brazil** — Dance With Me [Anjunadeep 11] (3:19) `isrc:GBEWA1904164` `qobuz:424945648`
+- **Jon Gurd** — Rise [Anjunadeep 14] (4:07) `isrc:GBEWA2301583` `qobuz:424971489`
+- **Alex Metric** — Upswing [Anjunadeep 11] (4:28) `isrc:GBEWA1904155` `qobuz:424945639`
+- **Durante** — Days Pass [25 Years Of Anjuna Mixed By HANA] (5:20) `isrc:GBEWA2504272` `qobuz:424986379`
+- **Buika** — La niebla [Niña de fuego] (4:00) `isrc:ES5150800473` `qobuz:2892775`
+- **Bleachers** — i can't believe you're gone [everyone for ten minutes] (3:26) `isrc:GBK3W2503559` `qobuz:416668849`
+- **Nordfold** — Letter to Lillehammer [Anjunadeep The Yearbook 2021] (4:58) `isrc:GBEWA2200056` `qobuz:424962031`
+- **Out Run** — Gray Cloud [Gray Cloud] (3:15) `isrc:DGA062572788` `qobuz:364672138`
+- **Gorillaz** — Stylo (feat. Mos Def and Bobby Womack) [Plastic Beach] (4:31) `isrc:GBAYE1400436` `qobuz:35543673`
+- **Neil Quigley** — The Sky Calls To Us [Anjunadeep 09] (5:20) `isrc:GBEWA1702677` `qobuz:424934733`
+- **Enamour** — Say Hello [Anjunadeep The Yearbook 2021] (5:17) `isrc:GBEWA2200038` `qobuz:424962013`
+- **Ezequiel Arias** — Solar [25 Years Of Anjuna Mixed By James Grant] (5:14) `isrc:GBEWA2506836` `qobuz:424990525`
+- **Duke Boara** — Rain [Rain] (3:42) `isrc:GB2DY2100023` `qobuz:112584879`
+- **Franky Wah** — Boundaries [Anjunadeep presents 'Sunrise Deep House' (DJ Mix)] (6:06) `isrc:GBEWA2303532` `qobuz:424973034`
+- **Michael FK** — Lost in Your Memory [Compilation (Silver Edition)] (4:06) `isrc:QZBRF1863371` `qobuz:129805588`
+- **Westseven** — Realisation [Out Of Sight / Realisation] (7:05) `isrc:GBLV62102617` `qobuz:132820836`
+- **Steven Weston** — Like I Used To (ABGT659) [Group Therapy 659 (DJ Mix)] (4:20) `isrc:GBEWA2600041` `qobuz:424989375`
+- **Pink Floyd** — High Hopes [The Division Bell] (8:31) `isrc:GBN9X1100022` `qobuz:47683894`
+- **Nils Hoffmann** — 9 Days [Anjunadeep Essentials (DJ Mix)] (5:18) `isrc:GBEWA2305342` `qobuz:424974422`
+- **Zyellez** — YOUR HEAD ON HER SHOULDER... WHY NOT MINE?~ [LOVE WITHOUT A HEART IS JUST LUST] (2:24) `isrc:QT6E82612810` `qobuz:428206019`
+- **São Miguel** — Hope In Balance [Hope In Balance (Jody Wisternoff & James Grant Remix)] (5:34) `isrc:GBEWA2201770` `qobuz:424963679`
+- **Juno Mamba** — Us [Anjunadeep The Yearbook 2022] (3:47) `isrc:GBEWA2207040` `qobuz:424969326`
+- **Makebo** — Back To The Roots [Armada Electronic Elements, 2023] (4:46) `isrc:GBEWA2202590` `qobuz:378249026`
+- **Max Richter** — Richter: Dream 13 [Sleep] (3:22) `isrc:DEN961500412` `qobuz:29909415`
+- **Arashi** — Love so sweet : Reborn [Love so sweet : Reborn] (3:26) `isrc:JPQ402000760` `qobuz:92680610`
+- **Natascha Polke** — Loose Lips [Anjunadeep 14] (3:58) `isrc:GBEWA2301574` `qobuz:424971480`
+- **Claxy** — Closer [Anjunadeep 14] (5:17) `isrc:GBEWA2301576` `qobuz:424971482`
+- **Sebastian Sellares** — Lullaby of the Seraphim [Anjunadeep 14] (5:09) `isrc:GBEWA2301580` `qobuz:424971486`
+- **Legato** — Petals [Anjunadeep 14] (5:09) `isrc:GBEWA2301581` `qobuz:424971487`
+- **Blake.08** — Eyes Ablaze [Eyes Ablaze EP] (3:16) `isrc:GBEWA2303950` `qobuz:424973023`
+- **Ray Joseph** — Blue Nights [Anjunadeep 14] (4:17) `isrc:GBEWA2301599` `qobuz:424971505`
+- **Romain Garcia** — Kili [Anjunadeep 14] (4:15) `isrc:GBEWA2301606` `qobuz:424971512`
+- **Parallel Voices** — Your Love [Anjunadeep 15] (3:14) `isrc:GBEWA2402620` `qobuz:424977849`
+- **MOTSA** — Feel This Way [Anjunadeep 15] (5:27) `isrc:GBEWA2402624` `qobuz:424977853`
+- **Rezident** — Miracle [Anjunadeep 15] (4:54) `isrc:GBEWA2402630` `qobuz:424977859`
+- **ANUQRAM** — This Beat [Anjunadeep 15] (5:40) `isrc:GBEWA2402631` `qobuz:424977860`
+- **Jakatta** — American Dream [Anjunadeep 15] (4:07) `isrc:GBEWA2402633` `qobuz:424977862`
+- **Kasablanca** — Daydream [Anjunadeep 15] (2:58) `isrc:GBEWA2402635` `qobuz:424977864`
+- **Kloyd** — Will We Ever Learn [Anjunadeep 16] (3:26) `isrc:GBEWA2600270` `qobuz:424990190`
+- **Orbit** — You [Countless Feelings But So Few Words] (4:02) `isrc:QMDA72554549` `qobuz:350762728`
+- **Fejká** — Maara [Azur] (3:56) `isrc:DEINP2400001` `qobuz:322216039`
+- **Klangsberg** — Wavelost [Anjunadeep 16] (3:24) `isrc:GBEWA2600277` `qobuz:424990197`
+- **Spencer Brown** — Comeback Kids [Comeback Kids / Sweat Equity] (6:36) `isrc:GBEWA2601050` `qobuz:424990465`
+- **Melarmony** — Don't Let Me Go [Don't Let Me Go EP] (3:38) `isrc:GBEWA2601270` `qobuz:424991011`

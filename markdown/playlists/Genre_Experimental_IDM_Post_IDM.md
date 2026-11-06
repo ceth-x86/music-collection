@@ -1,0 +1,108 @@
+# Genre: Experimental IDM / Post IDM
+
+Imported genre playlist: Experimental IDM / Post IDM.
+
+Services: `qobuz:66717491`
+
+## Tracks (100)
+
+- **Cylob** — Synek [Cylobian Sunset] (4:21) `isrc:GBTSL1400011` `qobuz:51010983`
+- **µ-ziq** — Hasty Boom Alert [Lunatic Harness] (5:15) `isrc:GBAAA9710847` `qobuz:4710319`
+- **Mouse On Mars** — Kompod [Iaora Tahiti] (4:10) `isrc:GBBNZ9500030` `qobuz:2342873`
+- **Funkstörung** — A8 KM34 [Appetite for Destruction] (4:35) `isrc:DEG930000034` `qobuz:17677760`
+- **Cex** — Am I Soundboy [Role Model] (5:41) `isrc:USA3P0400082` `qobuz:52192815`
+- **Lamb of God** — Parasocial Christ [Into Oblivion] (3:20) `isrc:USSM12503927` `qobuz:384178399`
+- **Jega** — Recursion [Geometry] (4:26) `isrc:US78Q0810227` `qobuz:237791986`
+- **Lackluster** — Starcell U.K. [Container] (5:48) `isrc:USCGJ1592567` `qobuz:81731675`
+- **Matmos** — California Rhinoplasty [A Chance To Cut Is A Chance To Cure] (10:01) `isrc:USMTD0148907` `qobuz:2341432`
+- **Telefon Tel Aviv** — Sound in a Dark Room [Map of What Is Effortless] (7:48) `isrc:USA330304101` `qobuz:41792075`
+- **Arovane** — Cry Osaka Cry [Lilies (2023 Remaster)] (5:08) `isrc:DEX262300201` `qobuz:205270921`
+- **Brothomstates** — Viimo [Claro] (8:12) `isrc:GBBPW0100120` `qobuz:79173932`
+- **Ilkae** — Sweet Tooth Subway [Pistachio Island] (1:48) `isrc:USHM80522421` `qobuz:78505056`
+- **Bola** — Vertiphon [Fyuti] (7:23) `isrc:GBLJH0220701` `qobuz:400268880`
+- **Plaid** — Eyen [Double Figure] (4:20) `isrc:GBBPW0100017` `qobuz:79173901`
+- **Phoenecia** — Eyebrow [Brownout] (7:20) `isrc:QZK6J2093916` `qobuz:102635221`
+- **Richard Devine** — Insil Segment [Aleamapper] (2:09) `isrc:QZK6J2097442` `qobuz:102635267`
+- **Squarepusher** — Go! Spastic [Go Plastic] (6:21) `isrc:GBBPW0100050` `qobuz:3775938`
+- **Bogdan Raczynski** — Kimi [Samurai Math Beats] (3:27) `isrc:GB5P59700033` `qobuz:79196508`
+- **Jay Z** — Why I Love You [Watch The Throne] (3:19) `isrc:USUM71111678` `qobuz:29823984`
+- **Blamstrain** — Process [Ensi] (7:04) `isrc:USHM20489564` `qobuz:68043836`
+- **Gridlock** — Chrometaphor [Formless] (5:00) `isrc:USI4R0600733` `qobuz:71673583`
+- **Prefuse 73 feat. Helado Negro** — See More Than Just Stars (feat. Helado Negro) [Rivington Não Rio] (4:28) `isrc:USY6C1523909` `qobuz:23957077`
+- **Gimmik** — Syntax [Back to Basics] (3:28) `isrc:GBZPJ0900160` `qobuz:46843346`
+- **ESEM** — Tjiccli [Serial Human] (5:11) `isrc:USHM80627679` `qobuz:75129172`
+- **Proem** — Place Gun To Head [Socially Inept] (6:06) `isrc:USHM20452687` `qobuz:211510000`
+- **Lusine** — Everything Under The Sun [Serial Hodgepodge] (5:20) `isrc:US2J70403705` `qobuz:20815023`
+- **Mr. Projectile** — You Need [Sinking] (6:26) `isrc:USHM20489573` `qobuz:83829574`
+- **Funckarma** — Fuse [Smizm EP] (5:20) `isrc:NLP500500224` `qobuz:71918047`
+- **Trilok Gurtu** — Don't Follow Your Shadow [One Thought Away] (3:36) `isrc:DER412202053` `qobuz:189390935`
+- **Foreign Objects** — Destination Undefined [The Undiscovered Numbers & Colors] (4:13) `isrc:USHM90712413` `qobuz:75757559`
+- **Trace Adkins** — Kiss You All Over [Love Will...] (5:13) `isrc:USUM71302426` `qobuz:9085208`
+- **Kilowatts** — Two Days Off [Problem/Solving] (6:16) `isrc:USHM20527480` `qobuz:81380621`
+- **Dash Berlin** — Believe In You (feat. Sarah Howells & Secede) [The New Daylight] (4:39) `isrc:NLF710903570` `qobuz:136263680`
+- **Arc Lab** — I'm All Vectors [No Spectre] (6:52) `isrc:USI4R0606612` `qobuz:46842677`
+- **Clark** — Herr Barr (Improv) [05-10] (3:28) `isrc:GBBPW2200108` `qobuz:165064432`
+- **Kettel** — Mauerbrecher [My Dogan] (6:07) `isrc:TCABL1369405` `qobuz:240504870`
+- **Ochre** — Vegas [Lemodie] (6:07) `isrc:DEG932102299` `qobuz:127233202`
+- **Quench** — Caipruss Ambient [Stantine] (2:59) `isrc:NLP501100006` `qobuz:71925716`
+- **Apparat** — Arcadia [Walls] (5:10) `isrc:DEX180700033` `qobuz:29906823`
+- **Cepia** — The Undeniable Bend [Natura Morta] (4:22) `isrc:US2J70706203` `qobuz:20778522`
+- **Mira Calix** — Routine (The Dancing Bear) [One On One] (4:08) `isrc:GBBPW9900200` `qobuz:3775883`
+- **Near The Parenthesis** — The World Is Inside You Now [Of Soft Construction] (5:11) `isrc:USHMD0715205` `qobuz:46845818`
+- **SubtractiveLAD** — The Shell [No Man's Land] (4:44) `isrc:QMPKX1473153` `qobuz:130567516`
+- **Bitcrush** — Pearl [Epilogue in Waves] (10:06) `isrc:USHMD0715609` `qobuz:46844705`
+- **Aztec Camera** — Over My Head [Stray] (5:55) `isrc:GBAHT0200406` `qobuz:53849204`
+- **Access to Arasaka** — Reports from the Abyss [Reports from the Abyss] (7:36) `isrc:QM7281712524` `qobuz:71681930`
+- **Loess** — Selkuth [Burrows] (11:55) `isrc:USI4R0901843` `qobuz:246375032`
+- **Wisp** — Your face [Pandora] (3:49) `isrc:QZHN72394654` `qobuz:260478368`
+- **Rival Consoles** — IO [IO] (4:14) `isrc:GBWZD0901602` `qobuz:58586642`
+- **Mount Kimbie** — Carbonated [Carbonated] (4:18) `isrc:GBHQT1000040` `qobuz:16305483`
+- **James Blake** — CMYK [CMYK] (3:39) `isrc:BEZ351000012` `qobuz:247468347`
+- **Teebs** — Verbena Tea [Collections 01] (4:24) `isrc:US25X1083381` `qobuz:6285630`
+- **Flying Lotus** — Zodiac Shit [Cosmogramma] (2:44) `isrc:GBBPW1000005` `qobuz:3658946`
+- **Luke Abbott** — Sirens For The Colour [Holkham Drones] (5:02) `isrc:GBUZD0803007` `qobuz:3121735`
+- **Ital Tek** — Babel [Midnight Colour] (4:13) `isrc:US78Q1010104` `qobuz:237822569`
+- **Oneohtrix Point Never** — Sleep Dealer [Replica] (3:10) `isrc:QMV8L1181003` `qobuz:234489361`
+- **Nicolas Jaar** — Space Is Only Noise If You Can See [Space Is Only Noise] (5:42) `isrc:FR2T01100012` `qobuz:376131175`
+- **Amon Tobin** — Verbal [Out From Out Where] (3:56) `isrc:GBCFB0201622` `qobuz:6279997`
+- **Tobias Lilja** — Spineless [Delirium Portraits] (6:13) `isrc:USHMD1119101` `qobuz:46837482`
+- **Lorn** — Acid Rain [The Maze To Nowhere] (2:52) `isrc:QM2PV1640378` `qobuz:106440571`
+- **Actress** — Hubble [LAGEOS] (4:18) `isrc:GBCFB1800124` `qobuz:48500615`
+- **Andy Stott** — New Romantic [Too Many Voices] (5:39) `isrc:USA2Z1610674` `qobuz:119884728`
+- **Nosaj Thing** — Eclipse/Blue [Home] (4:29) `isrc:USD8D2010002` `qobuz:145994016`
+- **Shigeto** — Detroit Part II (ft. Marcus Elliot) [Weighted] (6:51) `isrc:US2J71802804` `qobuz:52326465`
+- **Lapalux** — Without You [Nostalchic] (5:26) `isrc:GBCFB1207506` `qobuz:7907176`
+- **Jon Hopkins** — Collider [Immunity] (9:21) `isrc:GBCEL2300183` `qobuz:211566933`
+- **Arca** — Thievery [Xen] (2:34) `isrc:GBR8R1301416` `qobuz:22997107`
+- **Ruxpin** — A Start from the End [This Time We Go Together] (2:11) `isrc:USHMD1321103` `qobuz:46831566`
+- **Max Cooper** — Repetition [Yearning for the Infinite] (5:50) `isrc:GB45A1901680` `qobuz:63558526`
+- **Dorian Concept** — Hide [Hide] (2:32) `isrc:DEZC62436999` `qobuz:330433677`
+- **Matthias Frey** — Black Pattern [Ethnospheres, Vol. 2] (2:35) `isrc:DEB639500004` `qobuz:160786632`
+- **Lanark Artefax** — Touch Absence [Whities 011] (5:51) `isrc:UK7MC1700059` `qobuz:158988335`
+- **Holly Herndon** — Chorus [Platform] (5:54) `isrc:US6PQ1300064` `qobuz:24284629`
+- **Floating Points** — Nespole [Elaenia] (5:08) `isrc:UKCFH1500001` `qobuz:363956331`
+- **Amnesia Scanner** — AS Chingy [AS] (2:29) `isrc:UK7MC1500245` `qobuz:33933504`
+- **Flume** — Helix [Skin] (3:30) `isrc:AUFF01600796` `qobuz:32480663`
+- **Kaitlyn Aurelia Smith** — An Intention [The Kid] (4:01) `isrc:US78L1717002` `qobuz:42008451`
+- **Bicep** — Glue [Bicep] (4:29) `isrc:GBCFB1700229` `qobuz:41586013`
+- **Blanck Mass** — Please [World Eater] (7:28) `isrc:US5NR1717403` `qobuz:37631043`
+- **Burial** — Rodent [Rodent] (4:25) `isrc:GBLZC1700070` `qobuz:43497866`
+- **Forest Swords** — Crow (DJ-Kicks) [DJ-Kicks (Forest Swords)] (3:34) `isrc:DEG931892034` `qobuz:48125808`
+- **Iglooghost** — Clear Tamei [Clear Tamei] (4:22) `isrc:FR2X41889137` `qobuz:99934445`
+- **Jlin** — Nyakinyua Rise [Black Origami] (3:40) `isrc:USA2B1701307` `qobuz:237839254`
+- **Kelly Lee Owens** — Arthur [Kelly Lee Owens] (4:05) `isrc:NOSTS1693020` `qobuz:87745286`
+- **Miwon** — Fuzzy Words [Jigsawtooth] (3:22) `isrc:USHMD1725201` `qobuz:46832792`
+- **Aphex Twin** — T69 collapse [Collapse EP] (5:22) `isrc:GBBPW1800110` `qobuz:79180237`
+- **G Jones** — In Your Head [The Ineffable Truth] (3:09) `isrc:USA2P1847087` `qobuz:54655566`
+- **Kelly Moran** — Water Music [Ultraviolet] (6:29) `isrc:GBBPW1800151` `qobuz:81300793`
+- **Lotic** — Heterocetera [Heterocetera] (3:37) `isrc:GBCW31500163` `qobuz:22484475`
+- **Objekt** — Lost and Found (Lost Mix) [Cocoon Crush] (2:32) `isrc:USYBL1801450` `qobuz:89521575`
+- **Skee Mask** — Dial 274 [Compro] (6:06) `isrc:DEOB61800335` `qobuz:50349456`
+- **SOPHIE** — Ponyboy [OIL OF EVERY PEARL'S UN-INSIDES] (3:14) `isrc:AUFF01700124` `qobuz:50640558`
+- **Aho Ssan** — Simulacrum I [Simulacrum] (6:45) `isrc:GBGXC2020002` `qobuz:84687584`
+- **Caterina Barbieri** — Gravity that Binds [Patterns Of Consciousness] (15:47) `isrc:QMQQH1708737` `qobuz:146225119`
+- **EPROM** — Hope [Hope] (5:00) `isrc:CAUM81900339` `qobuz:75496753`
+- **Rian Treanor** — ATAXIA_B2 [ATAXIA] (3:26) `isrc:USA2B1900099` `qobuz:237873265`
+- **A. G. Cook** — Beautiful [Beautiful] (3:04) `isrc:USA2P2335232` `qobuz:220402443`
+- **Autechre** — M4 Lema [SIGN] (8:49) `isrc:GBBPW2000091` `qobuz:103418173`
+- **Overmono** — So U Kno [Good Lies] (5:43) `isrc:UKLTE2100202` `qobuz:191290502`

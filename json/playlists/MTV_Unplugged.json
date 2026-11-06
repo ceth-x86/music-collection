@@ -1,0 +1,709 @@
+{
+  "name": "MTV Unplugged",
+  "services": {
+    "qobuz": "4457755"
+  },
+  "description": "Started at the end of the 80s with Bon Jovi, the MTV unplugged series quickly became the place to be for trendy groups... in unplugged style! Nearly all the big names had their turn: Eagles, Bob Dylan, Bj\u00f6rk, Alanis Morissette, R.E.M., The Corrs, Neil Young, Oasis, Jimmy Page & Robert Plant, Mariah Carey, Florence + The Machine... But two concerts in particular stand out: Eric Clapton and Nirvana who respectively sold 7 and 5 million copies of their \"MTV Unplugged\" performances.",
+  "tracks": [
+    {
+      "artist": "Nirvana",
+      "title": "The Man Who Sold The World",
+      "services": {
+        "qobuz": "755933"
+      },
+      "album": "MTV Unplugged In New York",
+      "duration": 260,
+      "isrc": "USGF19972704"
+    },
+    {
+      "artist": "Eric Clapton",
+      "title": "Layla",
+      "services": {
+        "qobuz": "176717273"
+      },
+      "album": "Unplugged (Deluxe Edition) (Live)",
+      "duration": 289,
+      "isrc": "USRE11300317"
+    },
+    {
+      "artist": "The Cranberries",
+      "title": "Linger",
+      "services": {
+        "qobuz": "355852815"
+      },
+      "album": "MTV Unplugged",
+      "duration": 306,
+      "isrc": "USSJW2500031"
+    },
+    {
+      "artist": "George Michael",
+      "title": "Freedom! '90",
+      "services": {
+        "qobuz": "44012712"
+      },
+      "album": "Listen Without Prejudice / MTV Unplugged",
+      "duration": 362,
+      "isrc": "USSJW1600127"
+    },
+    {
+      "artist": "The Corrs",
+      "title": "Runaway (MTV Live Unplugged Version)",
+      "services": {
+        "qobuz": "2951111"
+      },
+      "album": "The Corrs Unplugged",
+      "duration": 268,
+      "isrc": "USAT29901732"
+    },
+    {
+      "artist": "Bj\u00f6rk",
+      "title": "Venus As A Boy",
+      "services": {
+        "qobuz": "249106751"
+      },
+      "album": "Debut",
+      "duration": 152,
+      "isrc": "GBBTF0300078"
+    },
+    {
+      "artist": "Bob Dylan",
+      "title": "The Times They Are A-Changin'",
+      "services": {
+        "qobuz": "14389"
+      },
+      "album": "MTV Unplugged",
+      "duration": 348,
+      "isrc": "USSM19504340"
+    },
+    {
+      "artist": "Alanis Morissette",
+      "title": "You Oughta Know",
+      "services": {
+        "qobuz": "4755159"
+      },
+      "album": "Live / Unplugged",
+      "duration": 301,
+      "isrc": "USMV29900183"
+    },
+    {
+      "artist": "Stone Temple Pilots",
+      "title": "Wicked Garden (Live) [MTV Unplugged, 11/17/1993]",
+      "services": {
+        "qobuz": "42374230"
+      },
+      "album": "Core",
+      "duration": 259,
+      "isrc": "USAT21702744"
+    },
+    {
+      "artist": "Mariah Carey",
+      "title": "Vision of Love (Live at MTV Unplugged, Kaufman Astoria Studios, New York - March 1992)",
+      "services": {
+        "qobuz": "4855253"
+      },
+      "album": "Mariah Carey MTV Unplugged EP",
+      "duration": 216,
+      "isrc": "USSM19200429"
+    },
+    {
+      "artist": "Alice In Chains",
+      "title": "Sludge Factory (Live at the Majestic Theatre, Brooklyn, NY - April 1996)",
+      "services": {
+        "qobuz": "2719154"
+      },
+      "album": "Unplugged",
+      "duration": 276,
+      "isrc": "USSM19601542"
+    },
+    {
+      "artist": "Eagles",
+      "title": "Tequila Sunrise",
+      "services": {
+        "qobuz": "59672923"
+      },
+      "album": "Hell Freezes Over",
+      "duration": 208,
+      "isrc": "USWWW0202465"
+    },
+    {
+      "artist": "Florence + The Machine",
+      "title": "Dog Days Are Over",
+      "services": {
+        "qobuz": "5232248"
+      },
+      "album": "MTV Presents Unplugged: Florence + The Machine",
+      "duration": 274,
+      "isrc": "GBUM71201406"
+    },
+    {
+      "artist": "Neil Young",
+      "title": "Harvest Moon",
+      "services": {
+        "qobuz": "2124331"
+      },
+      "album": "Unplugged",
+      "duration": 320,
+      "isrc": "USRE10001196"
+    },
+    {
+      "artist": "Pearl Jam",
+      "title": "Black",
+      "services": {
+        "qobuz": "101472990"
+      },
+      "album": "MTV Unplugged",
+      "duration": 330,
+      "isrc": "USSM11914265"
+    },
+    {
+      "artist": "Oasis",
+      "title": "Round Are Way",
+      "services": {
+        "qobuz": "102737273"
+      },
+      "album": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
+      "duration": 291,
+      "isrc": "GBQCP1400184"
+    },
+    {
+      "artist": "Natalie Imbruglia",
+      "title": "Torn",
+      "services": {
+        "qobuz": "31896993"
+      },
+      "album": "Torn/Wishing I Was There",
+      "duration": 186,
+      "isrc": "GBARL9800024"
+    },
+    {
+      "artist": "Bryan Adams",
+      "title": "Summer Of '69",
+      "services": {
+        "qobuz": "771849"
+      },
+      "album": "MTV Unplugged",
+      "duration": 242,
+      "isrc": "USAM19774903"
+    },
+    {
+      "artist": "Lauryn Hill",
+      "title": "The Conquering Lion (Live)",
+      "services": {
+        "qobuz": "52866"
+      },
+      "album": "MTV Unplugged No. 2.0",
+      "duration": 199,
+      "isrc": "USSM10203076"
+    },
+    {
+      "artist": "Courtney Barnett",
+      "title": "So Long, Marianne",
+      "services": {
+        "qobuz": "188765074"
+      },
+      "album": "MTV Unplugged Live In Melbourne",
+      "duration": 414,
+      "isrc": "GBX721900648"
+    },
+    {
+      "artist": "A-Ha",
+      "title": "Take On Me",
+      "services": {
+        "qobuz": "43773732"
+      },
+      "album": "MTV Unplugged - Summer Solstice",
+      "duration": 252,
+      "isrc": "DEUM71721371"
+    },
+    {
+      "artist": "Roxette",
+      "title": "The Look",
+      "services": {
+        "qobuz": "33122540"
+      },
+      "album": "Rarities",
+      "duration": 313,
+      "isrc": "SEAMA9301170"
+    },
+    {
+      "artist": "Jimmy Page",
+      "title": "Four Sticks",
+      "services": {
+        "qobuz": "763614"
+      },
+      "album": "No Quarter",
+      "duration": 292,
+      "isrc": "GBAMV9400013"
+    },
+    {
+      "artist": "Kiss",
+      "title": "Comin' Home",
+      "services": {
+        "qobuz": "20002670"
+      },
+      "album": "MTV Unplugged",
+      "duration": 171,
+      "isrc": "USPR39609078"
+    },
+    {
+      "artist": "Tash Sultana",
+      "title": "Musk",
+      "services": {
+        "qobuz": "145984192"
+      },
+      "album": "MTV Unplugged",
+      "duration": 310,
+      "isrc": "AUBM02100381"
+    },
+    {
+      "artist": "Rod Stewart",
+      "title": "Forever Young (Live Unplugged Version) [2008 Remaster]",
+      "services": {
+        "qobuz": "2883178"
+      },
+      "album": "Unplugged....And Seated",
+      "duration": 264,
+      "isrc": "USWB10808540"
+    },
+    {
+      "artist": "Bastille",
+      "title": "survivin'",
+      "services": {
+        "qobuz": "208255477"
+      },
+      "album": "MTV Unplugged",
+      "duration": 247,
+      "isrc": "GBUM72300557"
+    },
+    {
+      "artist": "Scorpions",
+      "title": "Wind of Change",
+      "services": {
+        "qobuz": "12642911"
+      },
+      "album": "MTV Unplugged",
+      "duration": 331,
+      "isrc": "DEE861300908"
+    },
+    {
+      "artist": "Biffy Clyro",
+      "title": "Bubbles",
+      "services": {
+        "qobuz": "48460542"
+      },
+      "album": "MTV Unplugged",
+      "duration": 350,
+      "isrc": "GBAHT1800136"
+    },
+    {
+      "artist": "Liam Gallagher",
+      "title": "One of Us",
+      "services": {
+        "qobuz": "90262446"
+      },
+      "album": "MTV Unplugged",
+      "duration": 212,
+      "isrc": "GBAHT2000008"
+    },
+    {
+      "artist": "The Smithereens",
+      "title": "A Girl Like You",
+      "services": {
+        "qobuz": "89609071"
+      },
+      "album": "MTV Unplugged EP",
+      "duration": 284,
+      "isrc": "USBT21623197"
+    },
+    {
+      "artist": "10,000 Maniacs",
+      "title": "Candy Everybody Wants",
+      "services": {
+        "qobuz": "278067942"
+      },
+      "album": "MTV Unplugged (Expanded Edition)",
+      "duration": 199,
+      "isrc": "USEE12400095"
+    },
+    {
+      "artist": "A-Ha",
+      "title": "The Sun Always Shines On TV",
+      "services": {
+        "qobuz": "43773716"
+      },
+      "album": "MTV Unplugged - Summer Solstice",
+      "duration": 267,
+      "isrc": "DEUM71721374"
+    },
+    {
+      "artist": "Katy Perry",
+      "title": "I Kissed A Girl",
+      "services": {
+        "qobuz": "28088937"
+      },
+      "album": "Unplugged",
+      "duration": 250,
+      "isrc": "USCA20905182"
+    },
+    {
+      "artist": "Tony Bennett",
+      "title": "Old Devil Moon",
+      "services": {
+        "qobuz": "11522184"
+      },
+      "album": "MTV Unplugged",
+      "duration": 149,
+      "isrc": "USSM19400723"
+    },
+    {
+      "artist": "Avril Lavigne",
+      "title": "Don't Tell Me",
+      "services": {
+        "qobuz": "322460"
+      },
+      "album": "Don't Tell Me",
+      "duration": 218,
+      "isrc": "USAR10400372"
+    },
+    {
+      "artist": "Arrested Development",
+      "title": "Natural",
+      "services": {
+        "qobuz": "1003604"
+      },
+      "album": "The Collection",
+      "duration": 296,
+      "isrc": "USCH39300051"
+    },
+    {
+      "artist": "Jay Z",
+      "title": "Takeover",
+      "services": {
+        "qobuz": "52318008"
+      },
+      "album": "Jay-Z Unplugged",
+      "duration": 296,
+      "isrc": "USDJ20111057"
+    },
+    {
+      "artist": "Babyface",
+      "title": "Breathe Again",
+      "services": {
+        "qobuz": "106800"
+      },
+      "album": "Babyface Unplugged NYC 1997",
+      "duration": 169,
+      "isrc": "USSM19702420"
+    },
+    {
+      "artist": "Trey Songz",
+      "title": "Say Aah",
+      "services": {
+        "qobuz": "2225542"
+      },
+      "album": "MTV Unplugged",
+      "duration": 257,
+      "isrc": "USAT21001316"
+    },
+    {
+      "artist": "Mando Diao",
+      "title": "Gloria",
+      "services": {
+        "qobuz": "209479994"
+      },
+      "album": "MTV Unplugged - Above and Beyond",
+      "duration": 294,
+      "isrc": "SEYBD1000118"
+    },
+    {
+      "artist": "Shakira",
+      "title": "Si Te Vas",
+      "services": {
+        "qobuz": "15179738"
+      },
+      "album": "Shakira MTV Unplugged",
+      "duration": 218,
+      "isrc": "NLB630010002"
+    },
+    {
+      "artist": "twenty one pilots",
+      "title": "Stressed Out",
+      "services": {
+        "qobuz": "204591138"
+      },
+      "album": "MTV Unplugged",
+      "duration": 263,
+      "isrc": "USAT22223240"
+    },
+    {
+      "artist": "Nirvana",
+      "title": "About A Girl",
+      "services": {
+        "qobuz": "755930"
+      },
+      "album": "MTV Unplugged In New York",
+      "duration": 217,
+      "isrc": "USGF19972701"
+    },
+    {
+      "artist": "The Cranberries",
+      "title": "Zombie",
+      "services": {
+        "qobuz": "355852819"
+      },
+      "album": "MTV Unplugged",
+      "duration": 270,
+      "isrc": "USSJW2500035"
+    },
+    {
+      "artist": "Eric Clapton",
+      "title": "Tears in Heaven",
+      "services": {
+        "qobuz": "176717270"
+      },
+      "album": "Unplugged (Deluxe Edition) (Live)",
+      "duration": 280,
+      "isrc": "USRE11300314"
+    },
+    {
+      "artist": "Shawn Mendes",
+      "title": "Mercy",
+      "services": {
+        "qobuz": "44302833"
+      },
+      "album": "MTV Unplugged",
+      "duration": 228,
+      "isrc": "USUM71710757"
+    },
+    {
+      "artist": "Alicia Keys",
+      "title": "Unbreakable",
+      "services": {
+        "qobuz": "34491871"
+      },
+      "album": "Unplugged",
+      "duration": 274,
+      "isrc": "USJAY0500504"
+    },
+    {
+      "artist": "Bryan Adams",
+      "title": "Heaven",
+      "services": {
+        "qobuz": "771860"
+      },
+      "album": "MTV Unplugged",
+      "duration": 270,
+      "isrc": "USAM19774915"
+    },
+    {
+      "artist": "The Corrs",
+      "title": "Everybody Hurts",
+      "services": {
+        "qobuz": "2951120"
+      },
+      "album": "The Corrs Unplugged",
+      "duration": 349,
+      "isrc": "USAT29901731"
+    },
+    {
+      "artist": "DMA'S",
+      "title": "Time & Money",
+      "services": {
+        "qobuz": "60843336"
+      },
+      "album": "MTV Unplugged Live",
+      "duration": 252,
+      "isrc": "AULI01820580"
+    },
+    {
+      "artist": "Florence + The Machine",
+      "title": "Never Let Me Go",
+      "services": {
+        "qobuz": "5232243"
+      },
+      "album": "MTV Presents Unplugged: Florence + The Machine",
+      "duration": 273,
+      "isrc": "GBUM71201409"
+    },
+    {
+      "artist": "Maxwell",
+      "title": "Mello: Sumthin (The Hush)",
+      "services": {
+        "qobuz": "24863"
+      },
+      "album": "MAXWELL MTV UNPLUGGED",
+      "duration": 185,
+      "isrc": "USSM19701038"
+    },
+    {
+      "artist": "Mariah Carey",
+      "title": "I'll Be There (Live at MTV Unplugged, Kaufman Astoria Studios, New York - March 1992)",
+      "services": {
+        "qobuz": "4855255"
+      },
+      "album": "Mariah Carey MTV Unplugged EP",
+      "duration": 282,
+      "isrc": "USSM19200431"
+    },
+    {
+      "artist": "Ricky Martin",
+      "title": "Mar\u00eda",
+      "services": {
+        "qobuz": "4865254"
+      },
+      "album": "Ricky Martin MTV Unplugged",
+      "duration": 331,
+      "isrc": "NLB630600008"
+    },
+    {
+      "artist": "Gang of Youths",
+      "title": "Go Farther in Lightness (Live)",
+      "services": {
+        "qobuz": "125192282"
+      },
+      "album": "MTV Unplugged (Live in Melbourne)",
+      "duration": 153,
+      "isrc": "AUPTW1800009"
+    },
+    {
+      "artist": "Brodka",
+      "title": "Horses",
+      "services": {
+        "qobuz": "56019290"
+      },
+      "album": "MTV Unplugged Brodka",
+      "duration": 242,
+      "isrc": "GBPVV1802355"
+    },
+    {
+      "artist": "Kiss",
+      "title": "Rock Bottom",
+      "services": {
+        "qobuz": "20002679"
+      },
+      "album": "MTV Unplugged",
+      "duration": 200,
+      "isrc": "USPR39609085"
+    },
+    {
+      "artist": "Bleachers",
+      "title": "I Miss Those Days",
+      "services": {
+        "qobuz": "44318560"
+      },
+      "album": "MTV Unplugged",
+      "duration": 234,
+      "isrc": "USRC11702650"
+    },
+    {
+      "artist": "Jay Z",
+      "title": "Can't Knock The Hustle",
+      "services": {
+        "qobuz": "52318016"
+      },
+      "album": "Jay-Z Unplugged",
+      "duration": 366,
+      "isrc": "USDJ20111078"
+    },
+    {
+      "artist": "Miguel Bos\u00e9",
+      "title": "Nena",
+      "services": {
+        "qobuz": "35413750"
+      },
+      "album": "MTV Unplugged",
+      "duration": 297,
+      "isrc": "ES5151601671"
+    },
+    {
+      "artist": "A-Ha",
+      "title": "Hunting High And Low",
+      "services": {
+        "qobuz": "43773731"
+      },
+      "album": "MTV Unplugged - Summer Solstice",
+      "duration": 356,
+      "isrc": "DEUM71721360"
+    },
+    {
+      "artist": "Shawn Mendes",
+      "title": "Use Somebody/Treat You Better",
+      "services": {
+        "qobuz": "44302835"
+      },
+      "album": "MTV Unplugged",
+      "duration": 316,
+      "isrc": "USUM71710747"
+    },
+    {
+      "artist": "Nirvana",
+      "title": "Where Did You Sleep Last Night",
+      "services": {
+        "qobuz": "755943"
+      },
+      "album": "MTV Unplugged In New York",
+      "duration": 308,
+      "isrc": "USGF19972714"
+    },
+    {
+      "artist": "10,000 Maniacs",
+      "title": "Jolene",
+      "services": {
+        "qobuz": "278067956"
+      },
+      "album": "MTV Unplugged (Expanded Edition)",
+      "duration": 179,
+      "isrc": "USEE12400109"
+    },
+    {
+      "artist": "Eric Clapton",
+      "title": "Alberta",
+      "services": {
+        "qobuz": "176717276"
+      },
+      "album": "Unplugged (Deluxe Edition) (Live)",
+      "duration": 218,
+      "isrc": "USRE11300320"
+    },
+    {
+      "artist": "The Corrs",
+      "title": "Only When I Sleep",
+      "services": {
+        "qobuz": "2951107"
+      },
+      "album": "The Corrs Unplugged",
+      "duration": 276,
+      "isrc": "USAT29901727"
+    },
+    {
+      "artist": "George Michael",
+      "title": "Everything She Wants",
+      "services": {
+        "qobuz": "44012717"
+      },
+      "album": "Listen Without Prejudice / MTV Unplugged",
+      "duration": 313,
+      "isrc": "USSJW1600131"
+    },
+    {
+      "artist": "Bryan Adams",
+      "title": "I'm Ready",
+      "services": {
+        "qobuz": "771852"
+      },
+      "album": "MTV Unplugged",
+      "duration": 268,
+      "isrc": "USAM19774906"
+    },
+    {
+      "artist": "Scorpions",
+      "title": "Send Me an Angel",
+      "services": {
+        "qobuz": "12642902"
+      },
+      "album": "MTV Unplugged",
+      "duration": 236,
+      "isrc": "DEE861300898"
+    }
+  ]
+}

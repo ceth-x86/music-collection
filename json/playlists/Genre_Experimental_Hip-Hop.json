@@ -1,0 +1,1010 @@
+{
+  "name": "Genre: Experimental Hip-Hop",
+  "services": {
+    "qobuz": "66732365",
+    "tidal": "67a89451-caa7-4c55-a734-4a8eae34d2ce"
+  },
+  "description": "Imported genre playlist: Experimental Hip-Hop.",
+  "tracks": [
+    {
+      "artist": "Grandmaster Flash & The Furious Five",
+      "title": "The Adventures of Grandmaster Flash on the Wheels of Steel",
+      "services": {
+        "qobuz": "385301012"
+      },
+      "album": "The Message",
+      "duration": 426,
+      "isrc": "GBAJE8100130"
+    },
+    {
+      "artist": "Rammellzee",
+      "title": "Beat Bop",
+      "services": {
+        "qobuz": "114304398"
+      },
+      "album": "Beat Bop",
+      "duration": 370,
+      "isrc": "USAR11100210"
+    },
+    {
+      "artist": "DJ Krush",
+      "title": "Kemuri",
+      "services": {
+        "qobuz": "48281945"
+      },
+      "album": "Stepping Stones: The Self-Remixed Best",
+      "duration": 317,
+      "isrc": "JPN200600070"
+    },
+    {
+      "artist": "DJ Shadow",
+      "title": "Midnight In A Perfect World",
+      "services": {
+        "qobuz": "190271058"
+      },
+      "album": "Endtroducing",
+      "duration": 300,
+      "isrc": "GBAQH9600061"
+    },
+    {
+      "artist": "Dr. Octagon",
+      "title": "Blue Flowers",
+      "services": {
+        "qobuz": "53078165"
+      },
+      "album": "Dr. Octagonecologyst",
+      "duration": 197,
+      "isrc": "GBAQH9600200"
+    },
+    {
+      "artist": "DJ Spooky",
+      "title": "Galactic Funk",
+      "services": {
+        "qobuz": "14889045"
+      },
+      "album": "Songs Of A Dead Dreamer",
+      "duration": 410,
+      "isrc": "USASG0500003"
+    },
+    {
+      "artist": "Pink Floyd",
+      "title": "Shine On You Crazy Diamond",
+      "services": {
+        "qobuz": "355836938"
+      },
+      "album": "Wish You Were Here 50",
+      "duration": 1525,
+      "isrc": "USSM12503290"
+    },
+    {
+      "artist": "JC Coccoli",
+      "title": "Pittsburgh Catholic Perfection",
+      "services": {
+        "qobuz": "92713587"
+      },
+      "album": "Coming to the Stage Season 8",
+      "duration": 736,
+      "isrc": "QMJYX2079808"
+    },
+    {
+      "artist": "Dj Qbert",
+      "title": "Turntable TV (Re-Vizion)",
+      "services": {
+        "qobuz": "123986780"
+      },
+      "album": "Wave Twisters, Episode 7 Million: Sonic Wars Within the Protons",
+      "duration": 94,
+      "isrc": "TCABP1366078"
+    },
+    {
+      "artist": "Cornershop",
+      "title": "Sleep on the Left Side",
+      "services": {
+        "qobuz": "102875906"
+      },
+      "album": "When I Was Born for the 7th Time",
+      "duration": 246,
+      "isrc": "GBBKT9700051"
+    },
+    {
+      "artist": "Mike Ladd",
+      "title": "Planet 10",
+      "services": {
+        "qobuz": "202041083"
+      },
+      "album": "Welcome to the Afterfuture",
+      "duration": 265,
+      "isrc": "QZDA62319976"
+    },
+    {
+      "artist": "Outkast",
+      "title": "B.O.B.",
+      "services": {
+        "qobuz": "104024362"
+      },
+      "album": "Stankonia (20th Anniversary Edition) [Deluxe]",
+      "duration": 304,
+      "isrc": "USLF20000442"
+    },
+    {
+      "artist": "Prefuse 73",
+      "title": "Pagina Dos",
+      "services": {
+        "qobuz": "79179528"
+      },
+      "album": "Prefuse 73 Reads The Books",
+      "duration": 150,
+      "isrc": "GBBPW0500055"
+    },
+    {
+      "artist": "Freddie Hubbard",
+      "title": "Mr. Clean",
+      "services": {
+        "qobuz": "112122"
+      },
+      "album": "Straight Life",
+      "duration": 814,
+      "isrc": "USSM17000192"
+    },
+    {
+      "artist": "Cannibal Ox",
+      "title": "Iron Galaxy",
+      "services": {
+        "qobuz": "190403119"
+      },
+      "album": "The Cold Vein (Deluxe Edition)",
+      "duration": 356,
+      "isrc": "USA2P1394770"
+    },
+    {
+      "artist": "Missy Elliott",
+      "title": "Get Ur Freak On",
+      "services": {
+        "qobuz": "11773000"
+      },
+      "album": "Respect M.E.",
+      "duration": 236,
+      "isrc": "USEW20100036"
+    },
+    {
+      "artist": "RJD2",
+      "title": "Ghostwriter",
+      "services": {
+        "qobuz": "52402137"
+      },
+      "album": "Deadringer: Deluxe",
+      "duration": 317,
+      "isrc": "USA4T0403506"
+    },
+    {
+      "artist": "Boom Bip",
+      "title": "Roads Must Roll",
+      "services": {
+        "qobuz": "349178864"
+      },
+      "album": "Seed to Sun",
+      "duration": 238,
+      "isrc": "GBBPW0200074"
+    },
+    {
+      "artist": "Themselves",
+      "title": "Mouthful",
+      "services": {
+        "qobuz": "82086062"
+      },
+      "album": "The No Music",
+      "duration": 247,
+      "isrc": "USA2Y0400069"
+    },
+    {
+      "artist": "Antipop Consortium",
+      "title": "Ghostlawns",
+      "services": {
+        "qobuz": "79174008"
+      },
+      "album": "Arrhythmia",
+      "duration": 252,
+      "isrc": "GBBPW0100237"
+    },
+    {
+      "artist": "Busdriver",
+      "title": "Imaginary Places",
+      "services": {
+        "qobuz": "215830705"
+      },
+      "album": "Temporary Forever",
+      "duration": 195,
+      "isrc": "US25X0801102"
+    },
+    {
+      "artist": "Buck 65",
+      "title": "Square 1",
+      "services": {
+        "qobuz": "2017422"
+      },
+      "album": "Square",
+      "duration": 963,
+      "isrc": "CAW110202213"
+    },
+    {
+      "artist": "Handsome Boy Modeling School",
+      "title": "The Truth",
+      "services": {
+        "qobuz": "169114647"
+      },
+      "album": "So...How's Your Girl?",
+      "duration": 337,
+      "isrc": "USTB10300522"
+    },
+    {
+      "artist": "Radioinactive & Antimc",
+      "title": "With Light Within",
+      "services": {
+        "qobuz": "70475917"
+      },
+      "album": "Free Kamal",
+      "duration": 232,
+      "isrc": "USJEJ0422601"
+    },
+    {
+      "artist": "Clouddead",
+      "title": "Dead Dogs Two",
+      "services": {
+        "qobuz": "215022953"
+      },
+      "album": "Ten",
+      "duration": 239,
+      "isrc": "US25X2000986"
+    },
+    {
+      "artist": "Edit",
+      "title": "Ants",
+      "services": {
+        "qobuz": "20506341"
+      },
+      "album": "Crying over Pros for No Reason (Deluxe Edition)",
+      "duration": 243,
+      "isrc": "US78Q0500307"
+    },
+    {
+      "artist": "Thavius Beck",
+      "title": "Exercise Caution",
+      "services": {
+        "qobuz": "71610025"
+      },
+      "album": "Decomposition",
+      "duration": 238,
+      "isrc": "USJEJ0422308"
+    },
+    {
+      "artist": "Saul Williams",
+      "title": "List of Demands (Reparations)",
+      "services": {
+        "qobuz": "23626389"
+      },
+      "album": "Saul Williams",
+      "duration": 198,
+      "isrc": "GBDNH0400612"
+    },
+    {
+      "artist": "Edan",
+      "title": "Torture Chamber",
+      "services": {
+        "qobuz": "73516480"
+      },
+      "album": "Beauty & The Beat",
+      "duration": 192,
+      "isrc": "GBLVL0600006"
+    },
+    {
+      "artist": "M.I.A.",
+      "title": "Bucky Done Gun",
+      "services": {
+        "qobuz": "58597906"
+      },
+      "album": "Arular",
+      "duration": 226,
+      "isrc": "GBBKS0462521"
+    },
+    {
+      "artist": "Odd Nosdam",
+      "title": "Sisters",
+      "services": {
+        "qobuz": "234913266"
+      },
+      "album": "Sisters",
+      "duration": 217,
+      "isrc": "QMHG41692001"
+    },
+    {
+      "artist": "Jel",
+      "title": "All Day Breakfast",
+      "services": {
+        "qobuz": "215223406"
+      },
+      "album": "Soft Money",
+      "duration": 258,
+      "isrc": "USA2Y0600002"
+    },
+    {
+      "artist": "Subtle",
+      "title": "The Mercury Craze",
+      "services": {
+        "qobuz": "349198770"
+      },
+      "album": "For Hero: For Fool",
+      "duration": 280,
+      "isrc": "GBMYF0600043"
+    },
+    {
+      "artist": "Spank Rock",
+      "title": "Rick Rubin",
+      "services": {
+        "qobuz": "6282371"
+      },
+      "album": "YoYoYoYoYo",
+      "duration": 213,
+      "isrc": "GBCFB0600302"
+    },
+    {
+      "artist": "Rob Sonic",
+      "title": "Killjoy (feat. Aesop Rock)",
+      "services": {
+        "qobuz": "125493584"
+      },
+      "album": "Alice in Thunderdome",
+      "duration": 167,
+      "isrc": "TCABZ1416398"
+    },
+    {
+      "artist": "Why?",
+      "title": "These Few Presidents",
+      "services": {
+        "qobuz": "50151401"
+      },
+      "album": "Alopecia",
+      "duration": 184,
+      "isrc": "US4M30701905"
+    },
+    {
+      "artist": "Flying Lotus",
+      "title": "Camel",
+      "services": {
+        "qobuz": "3776639"
+      },
+      "album": "Los Angeles",
+      "duration": 142,
+      "isrc": "GBBPW0800007"
+    },
+    {
+      "artist": "Daedelus",
+      "title": "Fair Weather Friends",
+      "services": {
+        "qobuz": "215827133"
+      },
+      "album": "Love To Make Music To",
+      "duration": 184,
+      "isrc": "GBCFB0701200"
+    },
+    {
+      "artist": "Gonjasufi",
+      "title": "Ancestors",
+      "services": {
+        "qobuz": "3776705"
+      },
+      "album": "A Sufi And A Killer",
+      "duration": 157,
+      "isrc": "GBBPW0800230"
+    },
+    {
+      "artist": "Das Racist",
+      "title": "Combination Pizza Hut and Taco Bell",
+      "services": {
+        "qobuz": "104430035"
+      },
+      "album": "Shut Up, Dude",
+      "duration": 178,
+      "isrc": "QM24S1928107"
+    },
+    {
+      "artist": "Zebra Katz",
+      "title": "Ima Read",
+      "services": {
+        "qobuz": "168829763"
+      },
+      "album": "Ima Read",
+      "duration": 241,
+      "isrc": "USZ4V1200013"
+    },
+    {
+      "artist": "Shabazz Palaces",
+      "title": "An echo from the hosts that profess infinitum",
+      "services": {
+        "qobuz": "407820211"
+      },
+      "album": "Black Up",
+      "duration": 194,
+      "isrc": "USSUB1190002"
+    },
+    {
+      "artist": "Azealia Banks",
+      "title": "212",
+      "services": {
+        "qobuz": "223969364"
+      },
+      "album": "Broke with Expensive Taste",
+      "duration": 204,
+      "isrc": "US5Z51400584"
+    },
+    {
+      "artist": "Marc Boyett",
+      "title": "Caught in the In-Between",
+      "services": {
+        "qobuz": "418638469"
+      },
+      "album": "Looks Like I'm Fine",
+      "duration": 254,
+      "isrc": "QZZ7N2678060"
+    },
+    {
+      "artist": "Mykki Blanco",
+      "title": "Wavvy",
+      "services": {
+        "qobuz": "139819589"
+      },
+      "album": "Wavvy",
+      "duration": 235,
+      "isrc": "USA2B1512703"
+    },
+    {
+      "artist": "Waru Leaf",
+      "title": "Wut Wut Wut",
+      "services": {
+        "qobuz": "336101474"
+      },
+      "album": "Wut Wut Wut",
+      "duration": 192,
+      "isrc": "AEA3A2103590"
+    },
+    {
+      "artist": "Kanye West",
+      "title": "On Sight",
+      "services": {
+        "qobuz": "9979743"
+      },
+      "album": "Yeezus",
+      "duration": 156,
+      "isrc": "USUM71307527"
+    },
+    {
+      "artist": "Ratking",
+      "title": "Canal",
+      "services": {
+        "qobuz": "15652558"
+      },
+      "album": "So It Goes",
+      "duration": 183,
+      "isrc": "GBBKS1300152"
+    },
+    {
+      "artist": "Open Mike Eagle",
+      "title": "Dark Comedy Morning Show",
+      "services": {
+        "qobuz": "270304419"
+      },
+      "album": "Dark Comedy",
+      "duration": 203,
+      "isrc": "QMFME1456488"
+    },
+    {
+      "artist": "Young Fathers",
+      "title": "GET UP",
+      "services": {
+        "qobuz": "12173765"
+      },
+      "album": "Dead",
+      "duration": 231,
+      "isrc": "GBCFB1305604"
+    },
+    {
+      "artist": "Beastie Boys",
+      "title": "Sabotage",
+      "services": {
+        "qobuz": "996691"
+      },
+      "album": "Anthology: The Sounds Of Science",
+      "duration": 178,
+      "isrc": "USCA29901042"
+    },
+    {
+      "artist": "DJ-Chop$",
+      "title": "JUNE 27TH TRIBUTE(Slodine X Chopped)",
+      "services": {
+        "qobuz": "317730221"
+      },
+      "album": "JUNE 27TH TRIBUTE(Slodine X Chopped)",
+      "duration": 150,
+      "isrc": "QZL382576807"
+    },
+    {
+      "artist": "Dj Vadim",
+      "title": "The Terrorist",
+      "services": {
+        "qobuz": "6279292"
+      },
+      "album": "USSR: Life From The Other Side",
+      "duration": 157,
+      "isrc": "GBCFB9901860"
+    },
+    {
+      "artist": "Quasimoto",
+      "title": "Microphone Mathematics",
+      "services": {
+        "qobuz": "122269839"
+      },
+      "album": "The Unseen",
+      "duration": 194,
+      "isrc": "US2S70425003"
+    },
+    {
+      "artist": "Kid Koala",
+      "title": "Bonus Materials: On the Set of Fender Bender",
+      "services": {
+        "qobuz": "291928795"
+      },
+      "album": "Some Of My Best Friends Are DJs",
+      "duration": 141,
+      "isrc": "GBCFB0300241"
+    },
+    {
+      "artist": "Mix Master Mike",
+      "title": "Supa Wyde Laces",
+      "services": {
+        "qobuz": "217596855"
+      },
+      "album": "Anti-Theft Device",
+      "duration": 137,
+      "isrc": "US25X2101426"
+    },
+    {
+      "artist": "The Avalanches",
+      "title": "Since I Left You",
+      "services": {
+        "qobuz": "119702824"
+      },
+      "album": "Since I Left You",
+      "duration": 262,
+      "isrc": "AUMPO0000001"
+    },
+    {
+      "artist": "Gorillaz",
+      "title": "Clint Eastwood",
+      "services": {
+        "qobuz": "35543620"
+      },
+      "album": "Gorillaz",
+      "duration": 343,
+      "isrc": "GBAYE1400468"
+    },
+    {
+      "artist": "N.E.R.D.",
+      "title": "Lapdance",
+      "services": {
+        "qobuz": "67342160"
+      },
+      "album": "In Search Of...",
+      "duration": 209,
+      "isrc": "USVI20100615"
+    },
+    {
+      "artist": "DJ Dk",
+      "title": "Stay For Now",
+      "services": {
+        "qobuz": "367078381"
+      },
+      "album": "Skyline Dreams",
+      "duration": 120,
+      "isrc": "US39N2545195"
+    },
+    {
+      "artist": "X-ecutioners featuring Mike Shinoda and Mr. Hahn of Linkin Park",
+      "title": "It's Goin' Down",
+      "services": {
+        "qobuz": "101536"
+      },
+      "album": "Built From Scratch",
+      "duration": 248,
+      "isrc": "USLR50100432"
+    },
+    {
+      "artist": "Linkin Park",
+      "title": "H! Vltg3 (Evidence Reanimation) [feat. Pharoahe Monch and DJ Babu]",
+      "services": {
+        "qobuz": "11092274"
+      },
+      "album": "Reanimation",
+      "duration": 210,
+      "isrc": "USWB11203193"
+    },
+    {
+      "artist": "Blockhead",
+      "title": "Insomniac Olympics",
+      "services": {
+        "qobuz": "6276748"
+      },
+      "album": "Music By Cavelight",
+      "duration": 306,
+      "isrc": "GBCFB0300250"
+    },
+    {
+      "artist": "Wax Tailor",
+      "title": "Que Sera",
+      "services": {
+        "qobuz": "100505431"
+      },
+      "album": "Tales of the Forgotten Melodies",
+      "duration": 164,
+      "isrc": "FRP180400180"
+    },
+    {
+      "artist": "J Dilla",
+      "title": "Workinonit",
+      "services": {
+        "qobuz": "122264841"
+      },
+      "album": "Donuts",
+      "duration": 177,
+      "isrc": "US2S70626002"
+    },
+    {
+      "artist": "Cut Chemist",
+      "title": "The Garden",
+      "services": {
+        "qobuz": "2842241"
+      },
+      "album": "The Audience's Listening",
+      "duration": 375,
+      "isrc": "USWB10601143"
+    },
+    {
+      "artist": "Goz Samy",
+      "title": "Girl Talk",
+      "services": {
+        "qobuz": "100072441"
+      },
+      "album": "Samy Goz Live Paris 22 Juin 2016, Pt. 1",
+      "duration": 212,
+      "isrc": "FR3I62007101"
+    },
+    {
+      "artist": "Nosaj Thing",
+      "title": "Fog",
+      "services": {
+        "qobuz": "367516470"
+      },
+      "album": "Drift",
+      "duration": 222,
+      "isrc": "US25X0901402"
+    },
+    {
+      "artist": "Teebs",
+      "title": "Why Like This?",
+      "services": {
+        "qobuz": "6279456"
+      },
+      "album": "Ardour",
+      "duration": 177,
+      "isrc": "US25X1081898"
+    },
+    {
+      "artist": "Shlohmo",
+      "title": "Rained the Whole Time",
+      "services": {
+        "qobuz": "50617840"
+      },
+      "album": "Vacation - Single",
+      "duration": 325,
+      "isrc": "US25X1083610"
+    },
+    {
+      "artist": "Rustie",
+      "title": "Slasherr",
+      "services": {
+        "qobuz": "49190792"
+      },
+      "album": "Triadzz / Slasherr",
+      "duration": 218,
+      "isrc": "GB7CH1300020"
+    },
+    {
+      "artist": "TNGHT",
+      "title": "Higher Ground",
+      "services": {
+        "qobuz": "5693779"
+      },
+      "album": "TNGHT",
+      "duration": 199,
+      "isrc": "GBBPW1200114"
+    },
+    {
+      "artist": "Lunice",
+      "title": "Can't Wait To",
+      "services": {
+        "qobuz": "18103891"
+      },
+      "album": "Can't Wait To",
+      "duration": 185,
+      "isrc": "GB5P51400031"
+    },
+    {
+      "artist": "Death Grips",
+      "title": "Get Got",
+      "services": {
+        "qobuz": "5236974"
+      },
+      "album": "The Money Store",
+      "duration": 171,
+      "isrc": "USSM11200903"
+    },
+    {
+      "artist": "Steve Reich",
+      "title": "Clapping Music",
+      "services": {
+        "qobuz": "322158362"
+      },
+      "album": "Collected Works",
+      "duration": 288,
+      "isrc": "USNO18716903"
+    },
+    {
+      "artist": "Earl Sweatshirt",
+      "title": "Grief",
+      "services": {
+        "qobuz": "23362516"
+      },
+      "album": "I Don't Like Shit, I Don't Go Outside: An Album by Earl Sweatshirt",
+      "duration": 250,
+      "isrc": "USQX91500425"
+    },
+    {
+      "artist": "Milo",
+      "title": "Folk-Metaphysics",
+      "services": {
+        "qobuz": "214841654"
+      },
+      "album": "things that happen at day // things that happen at night",
+      "duration": 281,
+      "isrc": "US25X1089178"
+    },
+    {
+      "artist": "TOMMY GENESIS",
+      "title": "100 Bad",
+      "services": {
+        "qobuz": "371982343"
+      },
+      "album": "100 Bad",
+      "duration": 182,
+      "isrc": "GBKPL1820560"
+    },
+    {
+      "artist": "Danny Brown",
+      "title": "Ain't it Funny",
+      "services": {
+        "qobuz": "79174141"
+      },
+      "album": "Atrocity Exhibition",
+      "duration": 177,
+      "isrc": "GBBPW1600102"
+    },
+    {
+      "artist": "Aesop Rock",
+      "title": "Rings",
+      "services": {
+        "qobuz": "95205101"
+      },
+      "album": "The Impossible Kid",
+      "duration": 227,
+      "isrc": "USBWK1500143"
+    },
+    {
+      "artist": "Run The Jewels",
+      "title": "Legend Has It",
+      "services": {
+        "qobuz": "382097207"
+      },
+      "album": "Run The Jewels 3",
+      "duration": 205,
+      "isrc": "QZ6AM1600004"
+    },
+    {
+      "artist": "Princess Nokia",
+      "title": "Tomboy",
+      "services": {
+        "qobuz": "43189279"
+      },
+      "album": "1992 Deluxe",
+      "duration": 217,
+      "isrc": "GBCVZ1700104"
+    },
+    {
+      "artist": "Vince Staples",
+      "title": "Yeah Right",
+      "services": {
+        "qobuz": "41598689"
+      },
+      "album": "Big Fish Theory",
+      "duration": 189,
+      "isrc": "USUM71705069"
+    },
+    {
+      "artist": "JonWayne",
+      "title": "These Words Are Everything",
+      "services": {
+        "qobuz": "38935340"
+      },
+      "album": "Rap Album Two",
+      "duration": 311,
+      "isrc": "US25X1090474"
+    },
+    {
+      "artist": "Leikeli47",
+      "title": "Money",
+      "services": {
+        "qobuz": "43106938"
+      },
+      "album": "Wash & Set",
+      "duration": 175,
+      "isrc": "USRC11601434"
+    },
+    {
+      "artist": "Quelle Chris",
+      "title": "Buddies",
+      "services": {
+        "qobuz": "274759735"
+      },
+      "album": "Being You Is Great, I Wish I Could Be You More Often",
+      "duration": 217,
+      "isrc": "QMBZ91621072"
+    },
+    {
+      "artist": "BROCKHAMPTON",
+      "title": "BOOGIE",
+      "services": {
+        "qobuz": "56060252"
+      },
+      "album": "SATURATION III",
+      "duration": 193,
+      "isrc": "USUYG1167865"
+    },
+    {
+      "artist": "JPEGMAFIA",
+      "title": "Baby I'm Bleeding",
+      "services": {
+        "qobuz": "339341266"
+      },
+      "album": "Veteran: Director's Cut",
+      "duration": 152,
+      "isrc": "QM24S1705239"
+    },
+    {
+      "artist": "Tierra Whack",
+      "title": "Unemployed",
+      "services": {
+        "qobuz": "59949122"
+      },
+      "album": "Unemployed",
+      "duration": 168,
+      "isrc": "USUM71904254"
+    },
+    {
+      "artist": "Armand Hammer",
+      "title": "Sir Benni Miles",
+      "services": {
+        "qobuz": "282530298"
+      },
+      "album": "Haram",
+      "duration": 179,
+      "isrc": "QM4TX2112199"
+    },
+    {
+      "artist": "Kids See Ghosts",
+      "title": "Feel The Love",
+      "services": {
+        "qobuz": "50509676"
+      },
+      "album": "Kids See Ghosts",
+      "duration": 165,
+      "isrc": "USUM71808242"
+    },
+    {
+      "artist": "Childish Gambino",
+      "title": "This Is America",
+      "services": {
+        "qobuz": "49429943"
+      },
+      "album": "This Is America (Explicit)",
+      "duration": 225,
+      "isrc": "USRC11801773"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "title": "NEW MAGIC WAND",
+      "services": {
+        "qobuz": "61879241"
+      },
+      "album": "IGOR",
+      "duration": 195,
+      "isrc": "USQX91901115"
+    },
+    {
+      "artist": "Slauson Malone 1",
+      "title": "Smile #1",
+      "services": {
+        "qobuz": "139621873"
+      },
+      "album": "A Quiet Farwell, 2016\u20132018 (Crater Speak)",
+      "duration": 184,
+      "isrc": "QZES51921972"
+    },
+    {
+      "artist": "billy woods",
+      "title": "Spongebob",
+      "services": {
+        "qobuz": "282530535"
+      },
+      "album": "Hiding Places",
+      "duration": 232,
+      "isrc": "QM4TX1950091"
+    },
+    {
+      "artist": "slowthai",
+      "title": "Doorman",
+      "services": {
+        "qobuz": "116147697"
+      },
+      "album": "Nothing Great About Britain",
+      "duration": 183,
+      "isrc": "GBAKX1800022"
+    },
+    {
+      "artist": "Playboi Carti",
+      "title": "Stop Breathing",
+      "services": {
+        "qobuz": "111689314"
+      },
+      "album": "Whole Lotta Red",
+      "duration": 218,
+      "isrc": "USUM72024691"
+    },
+    {
+      "artist": "Little Simz",
+      "title": "Introvert",
+      "services": {
+        "qobuz": "178467275"
+      },
+      "album": "Sometimes I Might Be Introvert",
+      "duration": 362,
+      "isrc": "GBWWP2106836"
+    },
+    {
+      "artist": "Injury Reserve",
+      "title": "Superman That",
+      "services": {
+        "qobuz": "128278794"
+      },
+      "album": "By the Time I Get to Phoenix",
+      "duration": 160,
+      "isrc": "QM24S2104965"
+    },
+    {
+      "artist": "Genesis Owusu",
+      "title": "Gold Chains",
+      "services": {
+        "qobuz": "249292253"
+      },
+      "album": "Smiling With No Teeth",
+      "duration": 218,
+      "isrc": "FR26V2053113"
+    }
+  ]
+}

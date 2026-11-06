@@ -1,0 +1,58 @@
+{
+  "name": "The Weeknd",
+  "services": {
+    "qobuz": "67166924"
+  },
+  "tracks": [
+    {
+      "artist": "The Weeknd",
+      "title": "High For This",
+      "services": {
+        "qobuz": "117875393"
+      },
+      "album": "House Of Balloons (Original - Explicit)",
+      "duration": 249,
+      "isrc": "USUM72104128"
+    },
+    {
+      "artist": "The Weeknd",
+      "title": "House Of Balloons / Glass Table Girls",
+      "services": {
+        "qobuz": "117875395"
+      },
+      "album": "House Of Balloons (Original - Explicit)",
+      "duration": 407,
+      "isrc": "USUM72104130"
+    },
+    {
+      "artist": "The Weeknd",
+      "title": "Wicked Games",
+      "services": {
+        "qobuz": "117875397"
+      },
+      "album": "House Of Balloons (Original - Explicit)",
+      "duration": 325,
+      "isrc": "USUM72104140"
+    },
+    {
+      "artist": "The Weeknd",
+      "title": "Lonely Star",
+      "services": {
+        "qobuz": "128486929"
+      },
+      "album": "Thursday",
+      "duration": 349,
+      "isrc": "USUM72111895"
+    },
+    {
+      "artist": "The Weeknd",
+      "title": "D.D.",
+      "services": {
+        "qobuz": "141479283"
+      },
+      "album": "Echoes Of Silence",
+      "duration": 274,
+      "isrc": "USUM72121522"
+    }
+  ]
+}

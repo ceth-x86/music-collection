@@ -1,0 +1,550 @@
+{
+  "name": "Genre: Folk Metal",
+  "services": {
+    "qobuz": "66735914",
+    "tidal": "45bbea10-06f0-4943-b00f-c6984198dfcb"
+  },
+  "description": "Imported genre playlist: Folk Metal.",
+  "tracks": [
+    {
+      "artist": "Skyclad",
+      "title": "The Widdershins Jig",
+      "services": {
+        "qobuz": "385568850"
+      },
+      "album": "The Wayward Sons of Mother Earth",
+      "duration": 220,
+      "isrc": "DEA249600029"
+    },
+    {
+      "artist": "Primordial",
+      "title": "To Enter Pagan",
+      "services": {
+        "qobuz": "60685205"
+      },
+      "album": "Spirit The Earth Aflame",
+      "duration": 341,
+      "isrc": "USMBR1007515"
+    },
+    {
+      "artist": "Orphaned Land",
+      "title": "The Beloved's Cry",
+      "services": {
+        "qobuz": "35344427"
+      },
+      "album": "Sahara (Re-issue 2016)",
+      "duration": 272,
+      "isrc": "US4E41640706"
+    },
+    {
+      "artist": "Cruachan",
+      "title": "To Invoke The Horned God",
+      "services": {
+        "qobuz": "124320225"
+      },
+      "album": "A Celtic Legacy",
+      "duration": 372,
+      "isrc": "NLKRM0810503"
+    },
+    {
+      "artist": "Espen Eriksen",
+      "title": "Mellom bakkar og berg",
+      "services": {
+        "qobuz": "141082762"
+      },
+      "album": "Sangboka",
+      "duration": 271,
+      "isrc": "CH2172203101"
+    },
+    {
+      "artist": "Tuatha de Danann",
+      "title": "Beltane",
+      "services": {
+        "qobuz": "201723090"
+      },
+      "album": "Tuatha De Danann",
+      "duration": 283,
+      "isrc": "BXBNN2000021"
+    },
+    {
+      "artist": "In Extremo",
+      "title": "Herr Mannelig",
+      "services": {
+        "qobuz": "13144903"
+      },
+      "album": "Verehrt und angespien",
+      "duration": 296,
+      "isrc": "DEG189910354"
+    },
+    {
+      "artist": "Waylander",
+      "title": "Born to the Fight",
+      "services": {
+        "qobuz": "47670341"
+      },
+      "album": "Reawakening Pride Once Lost",
+      "duration": 182,
+      "isrc": "US4E40591102"
+    },
+    {
+      "artist": "M\u00e4go De Oz",
+      "title": "Molinos De Viento",
+      "services": {
+        "qobuz": "68738298"
+      },
+      "album": "La Leyenda De La Mancha",
+      "duration": 251,
+      "isrc": "ES6880300140"
+    },
+    {
+      "artist": "Otyg",
+      "title": "Huldran",
+      "services": {
+        "qobuz": "28447619"
+      },
+      "album": "Alvefard + Sagovindars Boning",
+      "duration": 210,
+      "isrc": "ATN260825513"
+    },
+    {
+      "artist": "Finntroll",
+      "title": "Midnattens Widunder",
+      "services": {
+        "qobuz": "190399300"
+      },
+      "album": "Midnattens Widunder",
+      "duration": 278,
+      "isrc": "FIUM70800932"
+    },
+    {
+      "artist": "Vintersorg",
+      "title": "\u00d6demarkens Son",
+      "services": {
+        "qobuz": "47114612"
+      },
+      "album": "Odemarkens Son",
+      "duration": 317,
+      "isrc": "ATN269907205"
+    },
+    {
+      "artist": "Adorned Brood",
+      "title": "Kuningaz",
+      "services": {
+        "qobuz": "39802490"
+      },
+      "album": "Kuningaz",
+      "duration": 382,
+      "isrc": "DER371278202"
+    },
+    {
+      "artist": "Obtest",
+      "title": "Auka Seniems Dievams (Remastered)",
+      "services": {
+        "qobuz": "71559704"
+      },
+      "album": "Auka Seniems Dievams (Remastered)",
+      "duration": 168,
+      "isrc": "US6R21203362"
+    },
+    {
+      "artist": "Aes Dana",
+      "title": "Lasciando La Citt\u00e0",
+      "services": {
+        "qobuz": "65646510"
+      },
+      "album": "Far Coasts...& Lost Tracks",
+      "duration": 134,
+      "isrc": "USHM20826807"
+    },
+    {
+      "artist": "Subway To Sally",
+      "title": "Veitstanz",
+      "services": {
+        "qobuz": "81622579"
+      },
+      "album": "Herzblut",
+      "duration": 282,
+      "isrc": "DEN120100363"
+    },
+    {
+      "artist": "Benga & Kano",
+      "title": "Forefather",
+      "services": {
+        "qobuz": "8848912"
+      },
+      "album": "Chapter II (Deluxe)",
+      "duration": 239,
+      "isrc": "GBARL1300170"
+    },
+    {
+      "artist": "Lumsk",
+      "title": "Ormin Lange",
+      "services": {
+        "qobuz": "51205439"
+      },
+      "album": "\u00c5smund Fr\u00e6gdegjevar",
+      "duration": 284,
+      "isrc": "FISFP0200039"
+    },
+    {
+      "artist": "Korpiklaani",
+      "title": "Wooden Pints",
+      "services": {
+        "qobuz": "28462333"
+      },
+      "album": "Spirit Of The Forest",
+      "duration": 222,
+      "isrc": "ATN260312801"
+    },
+    {
+      "artist": "Skyforger",
+      "title": "P\u0113rko\u0146kalve",
+      "services": {
+        "qobuz": "248537463"
+      },
+      "album": "P\u0113rko\u0146kalve",
+      "duration": 286,
+      "isrc": "LVF081400042"
+    },
+    {
+      "artist": "Ensiferum",
+      "title": "Lai Lai Hei",
+      "services": {
+        "qobuz": "204350496"
+      },
+      "album": "Iron",
+      "duration": 435,
+      "isrc": "FISFS0400009"
+    },
+    {
+      "artist": "Letzte Instanz",
+      "title": "Salve Te",
+      "services": {
+        "qobuz": "48604341"
+      },
+      "album": "Live",
+      "duration": 245,
+      "isrc": "DES370600026"
+    },
+    {
+      "artist": "Heidevolk",
+      "title": "Vulgaris Magistralis",
+      "services": {
+        "qobuz": "28457560"
+      },
+      "album": "De Strijdlust Is Geboren",
+      "duration": 223,
+      "isrc": "ATN260824612"
+    },
+    {
+      "artist": "Moonsorrow",
+      "title": "Jotunheim",
+      "services": {
+        "qobuz": "195793911"
+      },
+      "album": "Veris\u00e4keet",
+      "duration": 1168,
+      "isrc": "FIUM71000257"
+    },
+    {
+      "artist": "Metsat\u00f6ll",
+      "title": "Terast Mis Hangund Me Hinge",
+      "services": {
+        "qobuz": "195565316"
+      },
+      "album": "Vana Jutuvestja Laulud",
+      "duration": 289,
+      "isrc": "FIUM71601069"
+    },
+    {
+      "artist": "Trollfest",
+      "title": "Trollfest",
+      "services": {
+        "qobuz": "198986279"
+      },
+      "album": "Willkommen Folk Tell Drekka Fest!!",
+      "duration": 91,
+      "isrc": "NOZY50501010"
+    },
+    {
+      "artist": "Holy Blood",
+      "title": "To Heaven",
+      "services": {
+        "qobuz": "109987893"
+      },
+      "album": "Waves Are Dancing (Remastered)",
+      "duration": 224,
+      "isrc": "USX9P2001553"
+    },
+    {
+      "artist": "Bucovina",
+      "title": "Valea Plangerii",
+      "services": {
+        "qobuz": "192403099"
+      },
+      "album": "Ceasul aducerii-aminte",
+      "duration": 116,
+      "isrc": "ROATS2100001"
+    },
+    {
+      "artist": "Husky by the Geek",
+      "title": "Gym Leader Battle / Pok\u00e9mon Theme (From \"Pok\u00e9mon: Sword and Shield\")",
+      "services": {
+        "qobuz": "177485755"
+      },
+      "album": "Video Game Covers, Vol. 5",
+      "duration": 178,
+      "isrc": "QZGWX2092260"
+    },
+    {
+      "artist": "Saltatio Mortis",
+      "title": "Spielmannsschwur (United)",
+      "services": {
+        "qobuz": "334378419"
+      },
+      "album": "Spielmannsschwur (United)",
+      "duration": 202,
+      "isrc": "DEUM72503571"
+    },
+    {
+      "artist": "Dalriada",
+      "title": "Tavasz Dala",
+      "services": {
+        "qobuz": "102198144"
+      },
+      "album": "Kikelet",
+      "duration": 430,
+      "isrc": "HUA630700444"
+    },
+    {
+      "artist": "Eluveitie",
+      "title": "Inis Mona",
+      "services": {
+        "qobuz": "61265784"
+      },
+      "album": "Slania",
+      "duration": 249,
+      "isrc": "DED830703627"
+    },
+    {
+      "artist": "Equilibrium",
+      "title": "Blut im Auge",
+      "services": {
+        "qobuz": "61265240"
+      },
+      "album": "Sagas",
+      "duration": 284,
+      "isrc": "DED830800348"
+    },
+    {
+      "artist": "Da babada",
+      "title": "Pelo Kuduro Fasso Tudo",
+      "services": {
+        "qobuz": "401050392"
+      },
+      "album": "Pelo Kuduro Fasso Tudo",
+      "duration": 220,
+      "isrc": "BRSVB2647348"
+    },
+    {
+      "artist": "Arkona",
+      "title": "Goi, Rode, Goi!",
+      "services": {
+        "qobuz": "28457392"
+      },
+      "album": "Goi, Rode, Goi!",
+      "duration": 372,
+      "isrc": "ATN260930701"
+    },
+    {
+      "artist": "Finsterforst",
+      "title": "Urquell",
+      "services": {
+        "qobuz": "85076397"
+      },
+      "album": "...zum Tode hin",
+      "duration": 705,
+      "isrc": "DEMJ40900040"
+    },
+    {
+      "artist": "Negura Bunget",
+      "title": "Dacia Hiperboreana",
+      "services": {
+        "qobuz": "54962967"
+      },
+      "album": "Virstele Pamintului",
+      "duration": 532,
+      "isrc": "ITJ351000623"
+    },
+    {
+      "artist": "Chthonic",
+      "title": "Takao",
+      "services": {
+        "qobuz": "195764929"
+      },
+      "album": "Takao",
+      "duration": 253,
+      "isrc": "FIUM71100652"
+    },
+    {
+      "artist": "Feuerschwanz",
+      "title": "Met & Miezen",
+      "services": {
+        "qobuz": "142208669"
+      },
+      "album": "Met & Miezen",
+      "duration": 270,
+      "isrc": "DEY420700022"
+    },
+    {
+      "artist": "Folkstone",
+      "title": "Nebbie",
+      "services": {
+        "qobuz": "45618365"
+      },
+      "album": "Il confine (Deluxe Edition)",
+      "duration": 216,
+      "isrc": "ITNA31200101"
+    },
+    {
+      "artist": "Furor Gallico",
+      "title": "Canto D'Inverno",
+      "services": {
+        "qobuz": "255902551"
+      },
+      "album": "Dusk of the Ages",
+      "duration": 346,
+      "isrc": "ITD291901792"
+    },
+    {
+      "artist": "Tv-2",
+      "title": "R\u00e6ven Og R\u00f8nneb\u00e6rrene",
+      "services": {
+        "qobuz": "47293066"
+      },
+      "album": "Nutidens Unge",
+      "duration": 258,
+      "isrc": "DKADG0700045"
+    },
+    {
+      "artist": "Percival Schuttenbach",
+      "title": "Lazare",
+      "services": {
+        "qobuz": "34983555"
+      },
+      "album": "Strzyga",
+      "duration": 282,
+      "isrc": "PLB381600837"
+    },
+    {
+      "artist": "Nine Treasures",
+      "title": "Tes River's Hymn (Remastered 2025)",
+      "services": {
+        "qobuz": "308973894"
+      },
+      "album": "Awakening from Dukkha (Remastered 2025)",
+      "duration": 235,
+      "isrc": "TCAFH2083542"
+    },
+    {
+      "artist": "Dordeduh",
+      "title": "Jind De Tronuri",
+      "services": {
+        "qobuz": "189596298"
+      },
+      "album": "Dar De Duh",
+      "duration": 979,
+      "isrc": "DES561293501"
+    },
+    {
+      "artist": "Arandu Arakuaa",
+      "title": "Aruan\u00e3s",
+      "services": {
+        "qobuz": "66734712"
+      },
+      "album": "K\u00f3 Yby Or\u00e9",
+      "duration": 236,
+      "isrc": "BRZ4Q1300002"
+    },
+    {
+      "artist": "Tengger Cavalry",
+      "title": "Cavalry in Thousands",
+      "services": {
+        "qobuz": "123882745"
+      },
+      "album": "Cavalry in Thousands",
+      "duration": 296,
+      "isrc": "TCACT1690855"
+    },
+    {
+      "artist": "Verikalpa",
+      "title": "Taistelutahto",
+      "services": {
+        "qobuz": "47493634"
+      },
+      "album": "Taistelutahto",
+      "duration": 173,
+      "isrc": "FI3FC1727407"
+    },
+    {
+      "artist": "Cemican",
+      "title": "Guerreros de Cemican",
+      "services": {
+        "qobuz": "166148160"
+      },
+      "album": "Guerreros de Cemican",
+      "duration": 354,
+      "isrc": "QZ5AB1909046"
+    },
+    {
+      "artist": "Cellar Darling",
+      "title": "Black Moon",
+      "services": {
+        "qobuz": "60813477"
+      },
+      "album": "This Is the Sound",
+      "duration": 252,
+      "isrc": "DED831700584"
+    },
+    {
+      "artist": "Myrkur",
+      "title": "Ulvinde",
+      "services": {
+        "qobuz": "41615337"
+      },
+      "album": "Mareridt (Deluxe Version)",
+      "duration": 263,
+      "isrc": "US2641737808"
+    },
+    {
+      "artist": "E-An-Na",
+      "title": "Doar de R\u0103u",
+      "services": {
+        "qobuz": "363413423"
+      },
+      "album": "Doar de R\u0103u",
+      "duration": 204,
+      "isrc": "RO2DY2501011"
+    },
+    {
+      "artist": "The Hu",
+      "title": "Wolf Totem",
+      "services": {
+        "qobuz": "89527592"
+      },
+      "album": "The Gereg",
+      "duration": 338,
+      "isrc": "TCADY1880557"
+    },
+    {
+      "artist": "Ariana Grande",
+      "title": "hate that i made you love me",
+      "services": {
+        "qobuz": "429891176"
+      },
+      "album": "hate that i made you love me",
+      "duration": 189,
+      "isrc": "USUM72604929"
+    }
+  ]
+}

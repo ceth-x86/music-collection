@@ -1,0 +1,108 @@
+# Genre: Garage Rock
+
+Imported genre playlist: Garage Rock.
+
+Services: `qobuz:66737439` `tidal:a228026e-4cdd-4cc5-9e41-3fe610254a71`
+
+## Tracks (100)
+
+- **The Kingsmen** — Louie Louie [The Best of The Kingsmen] (2:45) `isrc:USA370544298` `qobuz:66268389`
+- **The Trashmen** — Surfin' Bird [Tube City! Best of The Trashmen] (2:23) `isrc:USCWY0610054` `qobuz:48591646`
+- **The Rivieras** — California Sun [California Sun - the Best of the Rivieras] (2:26) `isrc:QMFMG1554120` `qobuz:68453838`
+- **The Premiers** — Farmer John [Farmer John Live] (2:47) `isrc:USWB10503425` `qobuz:2852314`
+- **The Sonics** — The Witch [Here Are the Sonics] (2:40) `isrc:TCABN1301553` `qobuz:123970180`
+- **The Wailers** — Out of Our Tree [The Wailers - Out of Our Tree] (3:33) `isrc:TCABN1336137` `qobuz:124554568`
+- **The Castaways** — Liar, Liar [Liar Liar] (1:55) `isrc:CAU112000123` `qobuz:97363268`
+- **The Barbarians** — Are You A Boy Or Are You A Girl? [Are You A Boy Or Are You A Girl?] (2:17) `isrc:USCA26500234` `qobuz:1753271`
+- **The Gentrys** — Keep On Dancing [Keep On Dancing] (2:11) `isrc:USUR10110751` `qobuz:63053802`
+- **The Knickerbockers** — Lies [Challenge Recordings] (2:48) `isrc:USCWY1500064` `qobuz:71836591`
+- **The Standells** — Dirty Water [Dirty Water] (2:46) `isrc:USMC16501042` `qobuz:58629607`
+- **Question Mark & The Mysterians** — 96 Tears [96 Tears] (2:56) `isrc:USA176640140` `qobuz:5062266`
+- **The Seeds** — Pushin' Too Hard [The Seeds] (2:38) `isrc:US29S0400477` `qobuz:66491575`
+- **The Shadows Of Knight** — Gloria [Gloria] (2:36) `isrc:USAT20110933` `qobuz:2956613`
+- **Count Five** — Psychotic Reaction [Psychotic Reaction] (3:04) `isrc:QMFMK1316006` `qobuz:19986331`
+- **The Music Machine** — Talk Talk [(Turn On) The Music Machine] (1:57) `isrc:QMFMK1318001` `qobuz:21276733`
+- **Syndicate Of Sound** — Little Girl [Little Girl] (2:28) `isrc:USAR11600158` `qobuz:34653261`
+- **The Outsiders** — Time Won't Let Me (Re-Recorded / Remastered) [Time Won't Let Me (Re-Recorded / Remastered)] (3:08) `isrc:USA371098084` `qobuz:65915557`
+- **The Leaves** — Hey Joe [Hey Joe (Expanded)] (2:47) `isrc:USRH10126402` `qobuz:242915403`
+- **The Remains** — Don't Look Back [The Remains] (2:38) `isrc:USSM16601666` `qobuz:2630885`
+- **The Strangeloves** — Night Time [I Want Candy: The Best Of The Strangeloves] (3:23) `isrc:USSM16501440` `qobuz:61840`
+- **The Choir** — It's Cold Outside [Last Call: Live At The Music Box] (3:54) `isrc:QMWHB2016271` `qobuz:93309149`
+- **The Ugly Ducklings** — Nothin' [Somewhere Outside] (2:27) `isrc:CAU116602965` `qobuz:83955757`
+- **Kenny & the Kasuals** — Journey to Tyme [No. 1 '60s Album Ever!] (2:35) `isrc:USA561259019` `qobuz:17756983`
+- **Danger Danger** — Goin' all the Way [Four the Hard Way] (3:41) `isrc:USTCE1037650` `qobuz:188585813`
+- **The Other Half** — Mr Pharmacist [Mr Pharmacist] (2:31) `isrc:FRX089200173` `qobuz:10330680`
+- **The Dovers** — What Am I Going to Do [Psychedelic Rock Hits & Misses] (2:41) `isrc:USBT21618214` `qobuz:72886964`
+- **The Magicians** — Invitation to Cry [An Invitation to Cry: The Best of the Magicians] (2:55) `isrc:USSM16500994` `qobuz:32617411`
+- **The Brogues** — I Ain't No Miracle Worker [I Ain't No Miracle Worker] (2:42) `isrc:USATV0600835` `qobuz:77193568`
+- **We the People** — Mirror of Your Mind [Too Much Noise] (2:46) `isrc:USJGN0700039` `qobuz:48915802`
+- **The Vagrants** — Respect [Garage, Surf and Twang] (2:15) `isrc:USEE10505194` `qobuz:177914180`
+- **The Chocolate Watch Band** — Let's Talk About Girls [No Way Out] (2:43) `isrc:USUM70959163` `qobuz:62044500`
+- **The Litter** — Action Woman [Distortions] (2:34) `isrc:USCWY1300071` `qobuz:48696973`
+- **The Human Beinz** — Nobody But Me [Nobody But Me] (2:20) `isrc:USCA28800113` `qobuz:3029909`
+- **The Sparkles** — No Friend of Mine [No Friend of Mine / Hipsville 29 B.C. (I Need Help) / I Want to Be Free] (2:24) `isrc:USATV0600828` `qobuz:48683472`
+- **The Elastik Band** — Spazz [Electric Sugarcubes: The Ultimate Acid Rock Collection 1965-1969] (2:44) `isrc:QMFME2084316` `qobuz:114201235`
+- **The Nightcrawlers** — The Little Black Egg [The Nightcrawlers] (3:26) `isrc:USCGH1987811` `qobuz:84227786`
+- **The Hombres** — Let It out (Let It All Hang Out) (Rerecorded) [Let It out (Let It All Hang Out) (Rerecorded)] (2:06) `isrc:USDEI2375459` `qobuz:233187445`
+- **Unrelated Segments** — Story Of My Life [Pebbles: Rare Garage Rock & Freak Beat Gems of the 60s, Vol. 1] (2:40) `isrc:QM4TX2553738` `qobuz:318460617`
+- **The Third Bardo** — I'm Five Years Ahead of My Time [I'm Five Years Ahead of My Time] (2:16) `isrc:USCWY0610812` `qobuz:71833049`
+- **Human League** — The Sound Of The Crowd [Dare/Fascination!] (4:06) `isrc:GBAAA1200298` `qobuz:5153640`
+- **Mystery Trend** — Johnny Was a Good Boy [So Glad I Found You] (2:44) `isrc:GBBHN0700085` `qobuz:156022646`
+- **Harbinger Complex** — I Think I'm Down [60s Rock Bouquet Vol 2] (2:23) `isrc:USANG2502149` `qobuz:350080032`
+- **The Underdogs** — Love's Gone Bad [The Complete Motown Singles Vol. 7: 1967] (2:27) `isrc:USUM70736592` `qobuz:57198497`
+- **The E-Types** — Put the Clock Back on the Wall [Introducing The E-Types] (2:47) `isrc:USCWY1700050` `qobuz:49760554`
+- **The Cherry Slush** — I Cannot Stop You [2131 South Michigan Avenue: 60's Garage & Psychedelia from U.S.A. and Destination Records] (2:38) `isrc:QM4TX1884942` `qobuz:66881341`
+- **Quincy Jones** — Summer In The City [You've Got It Bad Girl] (4:04) `isrc:USUM70608687` `qobuz:745992`
+- **Jean Marc** — Blackout of Gretely [Dans ton pantalon] (3:27) `isrc:CH6542381753` `qobuz:238766590`
+- **The Clefs Of Lavender Hill** — Stop! Get a Ticket [Rock Artifacts, Vol. III - from the Vaults of Columbia and Epic Records] (2:22) `isrc:USSM16610017` `qobuz:45105942`
+- **Richard And The Young Lions** — Open up Your Door [Volume 1] (2:49) `isrc:QMBZ91714440` `qobuz:50674061`
+- **The Troggs** — Wild Thing [From Nowhere] (2:34) `isrc:GBF086600001` `qobuz:67338768`
+- **The Troggs** — I Can Only Give You Everything [Trogglodynamite] (3:22) `isrc:GBUM71903504` `qobuz:78655477`
+- **The Sorrows** — Take A Heart [Take A Heart] (3:14) `isrc:GBAJE6500155` `qobuz:5018164`
+- **The Creation** — Making Time [Our Music Is Red - With Purple Flashes] (2:58) `isrc:GBAFR6610028` `qobuz:52527780`
+- **The Easybeats** — Sorry [Volume 3] (2:35) `isrc:AUAP06600049` `qobuz:385572023`
+- **The Missing Links** — Wild About You [Vivisepulture, Vol. 2] (2:37) `isrc:CYA1E2501836` `qobuz:385091984`
+- **Q'65** — The Life I Live [Revolution] (3:21) `isrc:NLA306600152` `qobuz:9054892`
+- **The Haunted** — 1-2-5 Monk [The Haunted] (2:32) `isrc:CAZ700905621` `qobuz:123628963`
+- **The La De Da's** — How Is the Air up There [Zodiac Heritage Series, Vol. 4: Raving at the Galaxie] (2:36) `isrc:NZZD01401262` `qobuz:296230887`
+- **The Masters Apprentices** — Buried and Dead [The Master's Apprentices] (2:39) `isrc:AU3O01100677` `qobuz:249024438`
+- **Mr. Monké** — Complications [The Time Is Now] (2:57) `isrc:GX4R52633208` `qobuz:421892062`
+- **Balloon Farm** — A Question of Temperature [Lost Hits Of The 60's] (2:39) `isrc:USESM9700005` `qobuz:5221743`
+- **The Lollipop Shoppe** — You Must Be A Witch [You Must Be A Witch] (2:44) `isrc:USA2P2333477` `qobuz:216632836`
+- **Bob Hocko** — Psycho [Disco Still Sucks!] (2:53) `isrc:USBZY0306712` `qobuz:389938598`
+- **The Alarm Clocks** — Yeah [Yeah!: Savage 1966 Ohio Garage Raunch] (2:45) `isrc:USA370689862` `qobuz:67413434`
+- **Larry & The Blue Notes** — In and Out [Keb Darge & Cut Chemist Present the Dark Side: 28 Sixties Garage Punk and Psyche Monsters] (2:00) `isrc:GBEQT1600295` `qobuz:58582102`
+- **Elite** — My Confusion [Fort Worth Teen Scene!, Vol. 2] (2:12) `isrc:USA370690035` `qobuz:67419539`
+- **The Weeknd** — How Do I Make You Love Me? [Dawn FM] (3:34) `isrc:USUG12106683` `qobuz:143431219`
+- **Mink DeVille** — One Way Street [The Best Of Mink Deville] (2:48) `isrc:USCA28800383` `qobuz:5191743`
+- **The Rats** — The Rats Revenge, Pt. 1 [The Rats Revenge] (3:10) `isrc:QM6MZ1805010` `qobuz:51303560`
+- **The Fleshtones** — American Beat [Blast Off!] (2:34) `isrc:US29V0830902` `qobuz:2375099`
+- **Lyres** — How Do You Know? [Some Lyres] (2:29) `isrc:USX5G9408204` `qobuz:66789527`
+- **Lee Gates** — I'm Going Back Home [Lee Gates and the Alabama Cotton Kings] (5:17) `isrc:USCGJ1781556` `qobuz:81942601`
+- **The Nomads** — The Way (You Touch My Hand) [Where The Wolf Bane Blooms - 40th Anniversary Edition] (3:19) `isrc:SEVGT2300140` `qobuz:227053806`
+- **The Pandoras** — It's About Time [It's About Time] (2:20) `isrc:USA2B2319863` `qobuz:237795783`
+- **The Fuzztones** — Bad News Travels Fast [Live at Rockpalast] (3:13) `isrc:DEMV92400111` `qobuz:274724065`
+- **Miracle Workers** — Roll Out The Red Carpet [Roll Out The Red Carpet] (5:18) `isrc:USA561048432` `qobuz:67892819`
+- **The Tell-Tale Hearts** — Crawling Back to Me [Nevermore (The Definitive Anthology)] (2:20) `isrc:QT65X2522837` `qobuz:362063712`
+- **Aerosmith** — Rats In The Cellar [Rocks] (4:06) `isrc:USSM19930828` `qobuz:188600409`
+- **The Cynics** — Blue Train Station [Blue Train Station] (2:24) `isrc:USBZY0502801` `qobuz:389906256`
+- **The Mummies** — (You Must Fight To Live) On the Planet of the Apes [Never Been Caught] (2:54) `isrc:GX4R52321525` `qobuz:226969233`
+- **Nina Simone** — Backlash Blues [The Vietnam War - A Film By Ken Burns & Lynn Novick] (2:29) `isrc:USRC10503536` `qobuz:42821096`
+- **The Dirtbombs** — High Octane Salvation [If You Don't Already Have A Look] (2:13) `isrc:USA3D0500046` `qobuz:52235690`
+- **The Hellacopters** — By The Grace Of God [By The Grace Of God] (3:04) `isrc:SEBFO0216011` `qobuz:641764`
+- **Guitar Wolf** — Summertime Blues [Jet Generation] (2:36) `isrc:JPKS09803432` `qobuz:95627227`
+- **Licks** — Nitroglycerine [We're Not The Gories (Live At Jonathan Toubin's 19th Annual Halloween Hop)] (3:02) `isrc:QT6ED2539040` `qobuz:366739366`
+- **The Strokes** — Last Nite [Is This It] (3:13) `isrc:USRC10100765` `qobuz:19018`
+- **The White Stripes** — Fell In Love With a Girl [Fell in Love with a Girl] (1:51) `isrc:GBBKS0100352` `qobuz:107925545`
+- **The Hives** — Hate To Say I Told You So [Hate To Say I Told You So] (3:20) `isrc:SEVHC0007060` `qobuz:77635489`
+- **The Vines** — Get Free [Highly Evolved] (2:06) `isrc:USCA20200462` `qobuz:4896829`
+- **The Von Bondies** — C'mon C'mon [Pawn Shoppe Heart (DMD Album)] (2:13) `isrc:USRE10300969` `qobuz:2842615`
+- **Jay Reatard** — My Shadow [Blood Visions] (3:18) `isrc:USFP70930104` `qobuz:59181152`
+- **Black Lips** — Bad Kids [Good Bad Not Evil] (2:08) `isrc:USALX0500972` `qobuz:179284240`
+- **The Detroit Cobras** — Cha Cha Twist [The Original Recordings] (2:43) `isrc:ES8591200533` `qobuz:7830333`
+- **Ty Segall** — Girlfriend [Melted] (2:12) `isrc:USA3U1010041` `qobuz:320643383`
+- **Miles King** — Sweat, Turf & Tears (Blues-Rock World Cup Anthem 2026) [Kickoff '26 Tailgates, Turf & Texas Blues] (4:09) `isrc:QZWFR2675922` `qobuz:413719850`
+- **Bass Drum Of Death** — Get Found [Gb City] (3:01) `isrc:USFP71124503` `qobuz:59156240`
+- **together PANGEA** — Badillac [Badillac] (2:27) `isrc:USUM71314684` `qobuz:19998751`
+- **The Orwells** — Who Needs You [Disgraceland] (3:18) `isrc:USAT21301963` `qobuz:17373991`
+- **The Mystery Lights** — It's Alright [Too Much Tension!] (2:50) `isrc:US4GZ1900410` `qobuz:76319074`

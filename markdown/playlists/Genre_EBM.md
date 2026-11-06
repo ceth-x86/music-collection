@@ -1,0 +1,108 @@
+# Genre: EBM
+
+Imported genre playlist: EBM.
+
+Services: `qobuz:66733016` `tidal:accf94c4-f8a3-4d5d-a9d4-79c99545898d`
+
+## Tracks (100)
+
+- **Deutsch-Amerikanische Freundschaft (DAF)** — Der Mussolini [Alles ist gut] (3:55) `isrc:GBLAZ1600974` `qobuz:134848501`
+- **Die Krupps** — Wahre Arbeit - Wahrer Lohn [Volle Kraft Null Acht] (3:59) `isrc:DEA450904500` `qobuz:356859742`
+- **Liasons Dangereuses** — Los Niños Del Parque [Liaisons Dangereuses] (5:01) `isrc:DEE610200502` `qobuz:30074965`
+- **Absolute Body Control** — Love at First Sight [Absolute Body Control 1980 / 2020] (3:33) `isrc:DGA052050090` `qobuz:107876900`
+- **Portion Control** — Raise The Pulse [Raise The Pulse] (5:50) `isrc:GBKFA0600063` `qobuz:365799319`
+- **Parade Ground** — Moans [Cut Up] (3:57) `isrc:BEP010490763` `qobuz:3124955`
+- **The Neon Judgement** — The Fashion Party [Cold Waves And Minimal Electronics Vol. 1] (5:15) `isrc:GBHYU0900147` `qobuz:33501477`
+- **Pankow** — God's Deneuve [Wodka, Erdbeeren Und Weitere Katastrophen] (3:56) `isrc:GBSMU8902174` `qobuz:119506517`
+- **A;Grumh...** — Drama in the Subway [MIX Yourself / No Way Out] (3:09) `isrc:BEP010490708` `qobuz:3125147`
+- **The Klinik** — Go Back [1 - Sabotage + Pain and Pleasure] (4:50) `isrc:DEBZ71400183` `qobuz:134941378`
+- **Signal Aout 42** — Pleasure and Crime [Pro Patria] (4:51) `isrc:BEE038900130` `qobuz:1804979`
+- **Nitzer Ebb** — Join in the Chant [That Total Age] (6:04) `isrc:GBAJH0400605` `qobuz:12844319`
+- **The Weathermen** — Poison! [The Black Album According To] (4:40) `isrc:BEP010490746` `qobuz:3482940`
+- **Borghesia** — Ni Upanja, Ni Strahu / No Hope, No Fear [No Hope No Fear] (4:30) `isrc:BEP010490672` `qobuz:3200176`
+- **Cylob** — I Left My Heart in Syntax Error [Cylobian Sunset] (5:46) `isrc:GBTSL1400018` `qobuz:51010990`
+- **Tribantura** — Lack of Sense [Lack of Sense] (6:07) `isrc:DEKV20910194` `qobuz:21813630`
+- **A Split Second** — Flesh [A Split-Second [Remastered]] (3:52) `isrc:BED332300110` `qobuz:231096220`
+- **The Invincible Spirit** — Push [Push] (2:49) `isrc:DEU771200057` `qobuz:359022434`
+- **Front 242** — Headhunter (V1.0) [Headhunter] (5:02) `isrc:BEP010491476` `qobuz:178308471`
+- **Vomito Negro** — No Hope No Fear [Shock] (3:24) `isrc:QMBZ92252794` `qobuz:170401598`
+- **Pouppee Fabrikk** — Die Jugend [Ekm - Anthology 1989-2019] (5:04) `isrc:BEC262030013` `qobuz:107572950`
+- **Cat Rapes Dog** — Schizophrenia [Columna Vertebralis] (5:36) `isrc:SELRA2003109` `qobuz:103336309`
+- **Ryan Eston Paul** — Insect_combat [Colony Ship: A Post-Earth Role Playing Game (Original Game Soundtrack)] (3:05) `isrc:USDY42666200` `qobuz:405514235`
+- **Bigod 20** — The Bog [Steel Works!] (5:30) `isrc:USWB10704870` `qobuz:11718837`
+- **And One** — Metalhammer [Anguish] (5:22) `isrc:GBAJE0612134` `qobuz:385627954`
+- **Gregs Tagebuch** — Kapitel 22 [Folge 4: Ich war's nicht!] (2:00) `isrc:DEXO52273129` `qobuz:430585611`
+- **Lana Del Rey** — Video Games [Born To Die] (4:41) `isrc:GBUM71111621` `qobuz:31887416`
+- **Funker Vogt** — Tragic Hero [Ikarus] (4:57) `isrc:DES131800074` `qobuz:55682462`
+- **E-Craft** — Electrodes (Outro) [Electrocution] (3:33) `isrc:DEKV20911019` `qobuz:20899188`
+- **Tyske Ludder** — Panzer [Anonymous] (4:50) `isrc:FR26V1411204` `qobuz:150870769`
+- **Container 90** — Raise Your Finger [Working Class League] (3:13) `isrc:QZK6Q2343011` `qobuz:212834831`
+- **Lexa Gates** — Rotten To The Core [Universe Wrapped In Flesh] (2:25) `isrc:QZMER2278820` `qobuz:374944520`
+- **AUTODAFEH** — Stompers [Hunt For Glory] (3:22) `isrc:USN360810027` `qobuz:67034309`
+- **Dupont** — Behave [Entering the Ice Age] (2:48) `isrc:SEYFX0900204` `qobuz:196979500`
+- **Sturm Café** — Europa [Europa!] (4:29) `isrc:SEYOK1503743` `qobuz:204519062`
+- **Orange Sector** — Der Maschinist [Der Maschinist] (3:26) `isrc:DEKV20911464` `qobuz:20843939`
+- **Schwefelgelb** — Fokus [Dahinter Das Gesicht] (5:17) `isrc:DEZ651702744` `qobuz:104582867`
+- **P!nk** — Just Give Me a Reason [The Truth About Love] (4:02) `isrc:USRC11200786` `qobuz:6376830`
+- **Elm** — Vessel Of Violence [Matrix Downloaded 011] (3:38) `isrc:BEC262396401` `qobuz:371434736`
+- **Last Train** — I Hate You [III] (7:31) `isrc:FR9W12442573` `qobuz:293023549`
+- **Legendary DJs** — Your Child (Brown Beat Mix) [New Orleans Bounce Radio 4k, Vol. 1 (Special Edition)] (4:00) `isrc:USCGH1465958` `qobuz:84121429`
+- **Cat Clifford** — Drifting Away I Go [Nomadland] (3:03) `isrc:TCAEJ1909487` `qobuz:115449113`
+- **Rector Scanner** — Fluormenschen [Fluormenschen] (3:37) `isrc:BEC262293406` `qobuz:165661409`
+- **AD:keY** — Alles Was Ich Will [Alles Was Ich Will] (3:35) `isrc:BEC262187601` `qobuz:118632495`
+- **Aqua** — Doctor Jones [Doctor Jones] (5:11) `isrc:USMC19857701` `qobuz:41143550`
+- **late night drive home** — Stress Relief [late night drive home on Audiotree Live] (4:39) `isrc:QM99V2302204` `qobuz:206891115`
+- **Chris Rea** — Rudolph's Rotor Arm [The Christmas Album] (4:38) `isrc:GBAHS1900381` `qobuz:359774572`
+- **KREIGN** — Don't Force The Hand [III] (4:33) `isrc:DEOV42401316` `qobuz:300983181`
+- **D12** — U R The One [D-12 World] (4:19) `isrc:USIR10400131` `qobuz:3870556`
+- **Nervous Damage** — Going Through the Motions [Nervous Damage] (3:06) `isrc:QZNWV2293957` `qobuz:174060794`
+- **First Aid 4 Souls** — Burst of Anger [Fire] (6:30) `isrc:BEC262081301` `qobuz:96303188`
+- **I Hate Fridays** — I Don't Want to Remember [Something Between] (4:34) `isrc:QZPJ32497193` `qobuz:349194862`
+- **Giveon** — World We Created [When It's All Said And Done... Take Time] (3:13) `isrc:USSM11914369` `qobuz:116556665`
+- **The Central Band Of The Royal Air Force** — Aces High [March Brittania! - The Most Popular Military Music] (3:49) `isrc:SEWDL0643310` `qobuz:174456513`
+- **In Venus** — Youth Generation [Ruína] (3:32) `isrc:BXBNI1700003` `qobuz:76108689`
+- **Kilometre Club** — Randy River [Memory Canvas] (3:28) `isrc:UKR6V2212288` `qobuz:366938020`
+- **Michy Reincke** — Wie wir wirklich sind [Das böse Glück (Bonus Edition)] (4:38) `isrc:DEC769300168` `qobuz:89591476`
+- **Blaine L. Reininger** — Autumn Shore [The Godfather of Odd - A Hardy Fox Tribute] (3:21) `isrc:ATKH51930001` `qobuz:64338344`
+- **Abby Lee Tee** — Numb [By Accident Remixes] (2:42) `isrc:ATGD91602410` `qobuz:104257093`
+- **Lena Willemark** — Sväs Märtas kulning/Fårlock [Älvdalens elektriska] (2:36) `isrc:SEACA0600605` `qobuz:51146023`
+- **Aïboforcen** — Cycle of Life [Gothic File 22|1] (4:04) `isrc:BEC262272316` `qobuz:184963240`
+- **Hoff ensemble** — Dele alle ord og tanker [Quiet Winter Night — an Acoustic Jazz Project] (3:36) `isrc:NOMPP1209030` `qobuz:57619324`
+- **Rachel LaFond** — Alone in the Mist - Conjuring Shadows [Well Past Midnight] (3:00) `isrc:USLZJ1864771` `qobuz:53868785`
+- **PSI Punky Dread Allstars** — Chaos [Intone Unreleased Projects 1995-1997 (Volume Two)] (8:01) `isrc:GBKVG1100223` `qobuz:168767637`
+- **Terminal Nation** — Master Plan [Holocene Extinction] (1:51) `isrc:USJE72013104` `qobuz:95482724`
+- **Adam Ant** — Gotta Be a Sin [Gotta Be A Sin] (4:16) `isrc:GBAYE9501009` `qobuz:11687500`
+- **Circumpolar** — Waiting in the Rain [Awaiting the Dawn] (5:44) `isrc:BEC262130504` `qobuz:135153555`
+- **Antiflvx** — Silueta de Luz [Silueta de Luz] (3:57) `isrc:QZK6Q2226684` `qobuz:159574577`
+- **Árstraumur** — Europa Clipper [Deep Space Travellers] (5:31) `isrc:SEYKV0805030` `qobuz:282849015`
+- **Jerry Joseph & The Jackmormons** — Chrome Koran [Mouthful of Copper] (5:27) `isrc:US28Q0304216` `qobuz:63161046`
+- **The Shapeshifters** — Lola's Theme [Lola's Theme] (3:27) `isrc:GBGYY0400010` `qobuz:309331330`
+- **Avarice in Audio** — War Tanz [War Tanz] (4:42) `isrc:BEC262396502` `qobuz:207016206`
+- **The Sunburst Band** — Until The End of Time [Z Records presents Ibiza 2023] (6:57) `isrc:GBPKF2300069` `qobuz:214261436`
+- **The Future Sound Of London** — We Have Explosive [Dead Cities] (6:19) `isrc:GBAAA9600234` `qobuz:4539325`
+- **Conspiracy Thief** — Devil Inside [Devil Inside] (5:02) `isrc:GX4R52672812` `qobuz:422397664`
+- **The Clash** — Should I Stay or Should I Go [Combat Rock] (3:08) `isrc:GBARL1200670` `qobuz:11189619`
+- **Dead Or Alive** — You Spin Me Round (Like a Record) [You Spin Me Round Promo CD] (3:16) `isrc:GBBBM9999987` `qobuz:143373`
+- **Pete Seeger** — Which Side are You On? [If I Had a Hammer: Songs of Hope and Struggle] (2:09) `isrc:USSF19809603` `qobuz:1209796`
+- **Scary Bitches** — Lesbian Vampyres From Outer Space [Lesbian Vampyres From Outer Space] (3:32) `isrc:GBUZW0900360` `qobuz:56295120`
+- **Implant** — The King and the Rebel [Gothic File 22|1] (3:28) `isrc:BEC262179206` `qobuz:184963243`
+- **Jazzanova** — The One-Tet / Fade Out [In Between Revisited: Jazzanova Live] (6:17) `isrc:DEP962500003` `qobuz:308701199`
+- **Llumen** — You Can Have It All [Matrix Downloaded 011] (5:04) `isrc:BEC262272308` `qobuz:371434721`
+- **imiafan** — Kto [Tears for Fears Vol. 2] (5:12) `isrc:GBKQU2150268` `qobuz:121060557`
+- **Roberto Prosseda** — Mendelssohn: Lieder ohne Worte, Op. 38: No. 2 in C Minor. Allegro non troppo "Lost Happiness", MWV U 115 [Mendelssohn: Complete Piano Works] (2:06) `isrc:ITUM70800682` `qobuz:59991636`
+- **Lønnkrog** — Ingen [Såret mellan natt och dag] (3:44) `isrc:NL1AP2017841` `qobuz:158465994`
+- **Tim Wynn** — Time Machine [Command & Conquer: Red Alert 3 (Original Soundtrack)] (1:46) `isrc:CAN110900202` `qobuz:74938280`
+- **Abbey Lincoln** — A Heart Is Not A Toy [Over The Years] (4:13) `isrc:FRZ020080050` `qobuz:777749`
+- **GOLD Dubs** — No More War [No More War] (4:51) `isrc:GBFG92100145` `qobuz:121491091`
+- **Parris** — why can't rabbits wear cowboy boots [Passionfruit EP] (6:45) `isrc:GBHLW2400149` `qobuz:250788294`
+- **Silk City** — Electricity [Electricity] (3:58) `isrc:USQX91802379` `qobuz:53253113`
+- **HOYO-MiX** — Leaving No Trace [Genshin Impact - Outside It Is Growing Dark] (1:31) `isrc:DGA062533109` `qobuz:363245234`
+- **Keane** — This Is The Last Time [Hopes And Fears] (3:28) `isrc:GBAAN0400089` `qobuz:3870607`
+- **Thumb** — Sell Myself [Maximum Exposure] (2:51) `isrc:DEA349700242` `qobuz:15092396`
+- **Photonica** — Vortex Ritual [Vortex Ritual] (2:02) `isrc:ESA122629103` `qobuz:396974581`
+- **Snarky Puppy** — Shofukan [We Like It Here] (6:33) `isrc:QMDA62483759` `qobuz:294884998`
+- **MR PSIK** — The Unholy Subline [The Unholy Subline] (4:47) `isrc:UK6X62600043` `qobuz:401155329`
+- **Torrent 64** — Death, Clad in Iron (Metallic Madness "B" Mix) [Sonic CD: South America (Fan Original Soundtrack)] (2:12) `isrc:QZZ7T2691212` `qobuz:420183316`
+- **Big Thief** — Terminal Paradise [U.F.O.F.] (3:25) `isrc:GBAFL1800367` `qobuz:61254038`
+- **Trust** — Antisocial [Répression] (5:09) `isrc:FRZ088000250` `qobuz:101133`
+- **Ultra Nightmare** — The Sisters of Battle [The Sisters of Battle (feat. Kaitlyn Beausoleil)] (4:32) `isrc:QZK6M2239030` `qobuz:161716718`

@@ -1,0 +1,104 @@
+# Genre: Leftfield
+
+Imported genre playlist: Leftfield.
+
+Services: `qobuz:66714496` `tidal:2db5cc5e-8a55-490b-97fa-83b112e4165e`
+
+## Tracks (96)
+
+- **Leftfield** — Original [Leftism] (6:23) `isrc:GBARL1700451` `qobuz:39996785`
+- **Isolée** — Beau Mot Plage [Beau Mot Plage] (3:53) `isrc:GBCPZ1004572` `qobuz:309285685`
+- **Michael Dulin** — Deck the Halls [Christmas At Our House] (3:09) `isrc:USHM80524485` `qobuz:73998545`
+- **Ricardo Villalobos** — Easy Lee [Easy Lee] (7:25) `isrc:GBEWY2100264` `qobuz:360665731`
+- **Mathew Jonson** — Decompression [Nothing Much] (10:53) `isrc:CAM260450013` `qobuz:92856503`
+- **The Other People Place** — Let Me Be Me [Lifestyles Of The Laptop Café] (7:46) `isrc:GBBPW0100096` `qobuz:79173953`
+- **Groove Armada** — Superstylin' [Goodbye Country (Hello Nightclub)] (6:00) `isrc:GBAHK0100089` `qobuz:263284`
+- **Herbert** — The Audience [Bodily Functions] (6:18) `isrc:GBDJX1300146` `qobuz:90519869`
+- **Luomo** — Tessio (Remastered) [Vocalcity (20th Anniversary Re-Master)] (12:11) `isrc:UK8261900262` `qobuz:91491191`
+- **S.W.** — E2-E4 [House On The Beach, Vol. 9] (7:45) `isrc:FRX201767979` `qobuz:45332053`
+- **The Future Sound Of London** — Papua New Guinea [Papua New Guinea] (3:51) `isrc:GBELY0600030` `qobuz:76770645`
+- **The Orb** — Little Fluffy Clouds [Adventures Beyond The Ultraworld] (4:27) `isrc:GBAAN9100004` `qobuz:58616025`
+- **Aphex Twin** — Windowlicker [Windowlicker] (6:05) `isrc:GBBPW9900038` `qobuz:3812730`
+- **KOAN Sound** — Lost In Thought [Dynasty EP] (6:39) `isrc:USQY51452977` `qobuz:22957950`
+- **Plastikman** — Spastik [Recycled Plastik] (9:15) `isrc:CAM261800030` `qobuz:92713869`
+- **Unkle** — Rabbit In Your Headlights [The Man From Mo’ Wax] (6:21) `isrc:GBAQH9800046` `qobuz:53283424`
+- **Mouse On Mars** — Cut the Gain [Wipe That Sound] (4:53) `isrc:DEY170444001` `qobuz:55156466`
+- **Amon Tobin** — Creature 4 [Electronic Music for the Sydney Opera House] (3:08) `isrc:QZ5FN2046822` `qobuz:215874641`
+- **Bad Omens** — THE DEATH OF PEACE OF MIND [THE DEATH OF PEACE OF MIND] (4:01) `isrc:USYFZ2264204` `qobuz:338331358`
+- **Jeff Mills** — The Bells [SIGHT SOUND AND SPACE] (4:45) `isrc:USAX10000249` `qobuz:295033856`
+- **James Holden** — Lump [The Idiots Are Winning] (6:10) `isrc:GBLBR0500012` `qobuz:3464348`
+- **The Field** — Over The Ice [From Here We Go Sublime] (6:56) `isrc:DEU670600071` `qobuz:141538038`
+- **Actress** — Hubble [LAGEOS] (4:18) `isrc:GBCFB1800124` `qobuz:48500615`
+- **Joy Orbison** — Hyph Mngo [Hyph Mngo / Wet Look] (5:38) `isrc:GBHQT0900027` `qobuz:114941775`
+- **The Used** — Blood on My Hands [Artwork] (3:17) `isrc:USRE10901079` `qobuz:2844980`
+- **Floating Points** — Vacuum Boogie [Vacuum Boogie] (6:08) `isrc:GB4HG0900001` `qobuz:58821184`
+- **Bruce Brubaker** — Two Pages [Glassforms Versions] (8:56) `isrc:FRT092000143` `qobuz:109339699`
+- **Bicep** — Atlas [Isles] (5:48) `isrc:GBCFB2000044` `qobuz:112281482`
+- **Björk** — Hidden Place [Vespertine] (5:29) `isrc:GBBTF0100008` `qobuz:249107296`
+- **Mister Tenebrio** — Rippin Kittin [Rippin Kittin] (9:14) `isrc:GBKQU2015226` `qobuz:107289762`
+- **Kode9** — 9 Samurai [Memories of the Future] (3:40) `isrc:GBLZC0600030` `qobuz:61219092`
+- **Underworld** — Two Months Off [A Hundred Days Off] (9:07) `isrc:GBBLK0200119` `qobuz:18131743`
+- **Ricardo Villalobos** — Que bel epoque 2006 [Salvador] (12:57) `isrc:DEBL60602564` `qobuz:10279786`
+- **Nicolas Jaar** — Too Many Kids Finding Rain In the Dust [Remixes, Vol. 1] (5:56) `isrc:FR2T01100023` `qobuz:8917736`
+- **Oni Ayhun** — OAR003-B [OAR003] (11:14) `isrc:DECY50973032` `qobuz:223603793`
+- **Artificial Intelligence** — Desperado [Desperado / Moving On] (6:20) `isrc:GBCEQ1210337` `qobuz:46845780`
+- **Juan Atkins** — No U.F.Os (inst.) [Submerge Vol.1:Detroit Techno] (6:58) `isrc:USGUM0810123` `qobuz:74113554`
+- **Shudder To Think** — Speed Of Love [First Love, Last Rites Music From The Motion Picture] (2:35) `isrc:USSM19703583` `qobuz:2631203`
+- **Stereolab** — Metronomic Underground [Emperor Tomato Ketchup] (7:54) `isrc:USEE19694710` `qobuz:79173662`
+- **Pantha Du Prince** — Lay in a Shimmer [Black Noise] (6:37) `isrc:GBCVZ0902722` `qobuz:393773749`
+- **Laurel Halo** — Airsick [Quarantine] (3:58) `isrc:GBLZC1200029` `qobuz:61218106`
+- **Oneohtrix Point Never** — Chrome Country [R Plus Seven] (5:05) `isrc:GBBPW1300079` `qobuz:11699555`
+- **Gilla Band** — Why They Hide Their Bodies Under My Garage [The Early Years] (7:57) `isrc:GBCVZ1403661` `qobuz:23476723`
+- **Objekt** — Ganzfeld [Ganzfeld] (5:56) `isrc:GBQLP2400527` `qobuz:397664171`
+- **Burial** — South London Boroughs [South London Boroughs EP] (5:06) `isrc:GBLZC0500001` `qobuz:61348405`
+- **Clams Casino** — I'm God [Instrumental Relics] (4:37) `isrc:QM24S2003584` `qobuz:97183939`
+- **Actress** — R.I.P. [R.I.P.] (1:16) `isrc:DEZ651203732` `qobuz:49118499`
+- **Andy Stott** — Luxury Problems [Luxury Problems] (5:03) `isrc:USA2Z1212006` `qobuz:119885185`
+- **Yves Tumor** — Noid [Safe In The Hands of Love] (3:29) `isrc:GBBPW1800122` `qobuz:79174525`
+- **Hudson Mohawke** — Forever 1 [Forever 1] (3:15) `isrc:GBBPW1500225` `qobuz:33260714`
+- **Rustie** — Glass Swords [Glass Swords] (2:20) `isrc:GBBPW1100123` `qobuz:3948216`
+- **Sasheen** — LFO Conversations [Higher Self] (8:31) `isrc:NLHR22400324` `qobuz:269669312`
+- **Burial** — Archangel [Untrue] (4:00) `isrc:GBLZC0700013` `qobuz:60896647`
+- **Nick Leon** — Xtasis [DJ-Kicks: Sofia Kourtesis] (4:22) `isrc:DEG932600133` `qobuz:385528489`
+- **Underground resistance** — Nannytown [Intersteller Fugitives] (5:01) `isrc:USGUM0710106` `qobuz:23825360`
+- **Diana Ross** — Chain Reaction [Eaten Alive] (3:49) `isrc:GBAYE8500113` `qobuz:4636703`
+- **The Knife** — Silent Shout [Silent Shout] (4:53) `isrc:SEWCE0600201` `qobuz:172626919`
+- **Sully Erna** — Sinner's Prayer [Avalon] (4:17) `isrc:USUM71018381` `qobuz:2530553`
+- **Arca** — Piel [Arca] (4:08) `isrc:GBBKS1700087` `qobuz:39645676`
+- **SOPHIE** — JUST LIKE WE NEVER SAID GOODBYE [PRODUCT] (3:08) `isrc:GB7CH1500017` `qobuz:339884054`
+- **Laurel Halo** — Raw Silk Uncut Wood [Raw Silk Uncut Wood] (10:00) `isrc:QM4TX1876436` `qobuz:433684580`
+- **SOPHIE** — BIPP [PRODUCT] (3:00) `isrc:GB7CH1300005` `qobuz:339884044`
+- **Major Lazer** — Lean On (feat. MØ & DJ Snake) [Peace Is the Mission] (2:56) `isrc:QMUY41500008` `qobuz:23426457`
+- **Joy Orbison** — Transition 2 [Transition 2 / Systems Align] (7:17) `isrc:GBUMC1800004` `qobuz:49260884`
+- **Amnesia Scanner** — AS Truth [AS Truth] (4:04) `isrc:UK7MC1600174` `qobuz:37085124`
+- **Lotic** — Heterocetera [Heterocetera] (3:37) `isrc:GBCW31500163` `qobuz:22484475`
+- **Tirzah** — Go Now [Devotion] (3:06) `isrc:GBCEL1800133` `qobuz:49422288`
+- **Tirzah** — their Love [trip9love...???] (2:32) `isrc:GBCEL2303156` `qobuz:220419100`
+- **Björk** — Atopos [Fossora] (4:46) `isrc:GBBTF2200050` `qobuz:176827768`
+- **RÜFÜS DU SOL** — Break My Love [Inhale / Exhale] (4:20) `isrc:USRE12400414` `qobuz:288225846`
+- **Westbam** — Oldschool, Baby [Oldschool, Baby] (5:33) `isrc:DEE190200135` `qobuz:234853789`
+- **Wild Beasts** — Hooting & Howling [Two Dancers] (4:35) `isrc:GBCEL0900337` `qobuz:2538933`
+- **Totimoshi** — Rose [Avenger] (3:47) `isrc:TCAAZ1114138` `qobuz:6001305`
+- **Skee Mask** — Session Add [Compro] (6:20) `isrc:DEOB61800330` `qobuz:50349451`
+- **Peverelist** — Still Early [Tessellations] (7:00) `isrc:GBRYX1700199` `qobuz:46825988`
+- **Kelly Lee Owens** — Arpeggi [Inner Song] (4:45) `isrc:NOSTS2072010` `qobuz:87285532`
+- **Sampha** — Kora Sings [Process] (4:18) `isrc:UK7MC1600044` `qobuz:38175302`
+- **Marcus Intalex** — Temperance [Zumbar / Temperance] (7:12) `isrc:GBZPZ0400008` `qobuz:221002886`
+- **Mala** — Anti War Dub [Anti War Dub] (6:22) `isrc:UKHAU2000357` `qobuz:123134287`
+- **Barker** — Reframing [Stochastic Drift] (3:59) `isrc:NOSTS2525020` `qobuz:314381742`
+- **Burial** — Dreamfear [Dreamfear / Boy Sent From Above] (12:53) `isrc:GBBKS2300284` `qobuz:248694621`
+- **Simo Cell** — Pending in the Pattern [Kill Me or Negociate] (4:24) `isrc:FRX762060702` `qobuz:101654248`
+- **Call Super** — Fly Black Stork [Eulo Cramps] (3:46) `isrc:GBHLW2301811` `qobuz:352761325`
+- **The Waterboys** — The Pan Within [This Is the Sea] (6:12) `isrc:GBAYK0400028` `qobuz:169134413`
+- **Akkord** — HTH020 [HTH035] (10:46) `isrc:GBEXH1400150` `qobuz:304200902`
+- **J-LES** — Everybody Aint Your Friend (feat. DJ RED BOTTOM) [Everybody Aint Your Friend (feat. DJ RED BOTTOM)] (3:59) `isrc:QT6ED2686028` `qobuz:430437951`
+- **Autechre** — t1a1 [NTS Session 1] (18:39) `isrc:GBBPW1800037` `qobuz:79176116`
+- **Kelela** — Rewind [Hallucinogen] (3:58) `isrc:GBBPW1500156` `qobuz:79175499`
+- **Shinichi Atobe** — Butterfly Effect [Butterfly Effect] (11:52) `isrc:USA2Z1810682` `qobuz:48594780`
+- **Arca** — Miel [Arca] (2:56) `isrc:GBBKS1700098` `qobuz:39645687`
+- **Caterina Barbieri** — Fantas [Ecstatic Computation] (10:31) `isrc:ATE691925901` `qobuz:203070931`
+- **Gregory Alan Isakov** — Big Black Car [This Empty Northern Hemisphere] (3:37) `isrc:USCGJ0988301` `qobuz:74461074`
+- **Arooj Aftab** — Baghon Main [Vulture Prince] (6:44) `isrc:QM87N2000001` `qobuz:140766305`
+- **Actress** — Push Power ( a 1 ) [LXXXVIII] (4:09) `isrc:GBCFB2300408` `qobuz:234232113`
+- **Oneohtrix Point Never** — Zebra [R Plus Seven] (6:44) `isrc:GBBPW1300074` `qobuz:11699548`
+- **Red Axes** — Brotherhood (of the Misunderstood) [Red Axes] (4:07) `isrc:USA2P2012887` `qobuz:91003652`

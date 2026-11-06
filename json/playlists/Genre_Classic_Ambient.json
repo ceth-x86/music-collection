@@ -1,0 +1,990 @@
+{
+  "name": "Genre: Classic Ambient",
+  "services": {
+    "qobuz": "66711646",
+    "tidal": "515aa2c5-bebf-467b-b3e0-cb57e1778fcd"
+  },
+  "description": "Imported genre playlist: Classic Ambient.",
+  "tracks": [
+    {
+      "artist": "Brian Eno",
+      "title": "Discreet Music",
+      "services": {
+        "qobuz": "1077158"
+      },
+      "album": "Discreet Music",
+      "duration": 1894,
+      "isrc": "GBAAA0400422"
+    },
+    {
+      "artist": "Harold Budd",
+      "title": "Bismillahi 'Rrahmani 'Rrahim",
+      "services": {
+        "qobuz": "655897"
+      },
+      "album": "The Pavilion Of Dreams",
+      "duration": 1106,
+      "isrc": "GBAAA7800295"
+    },
+    {
+      "artist": "Ariel Kalma",
+      "title": "Saxo Planetariel",
+      "services": {
+        "qobuz": "185034572"
+      },
+      "album": "Osmose",
+      "duration": 361,
+      "isrc": "AUAL17700001"
+    },
+    {
+      "artist": "Roedelius",
+      "title": "In Liebe dein",
+      "services": {
+        "qobuz": "49801125"
+      },
+      "album": "Selbstportrait I",
+      "duration": 226,
+      "isrc": "DELI51000375"
+    },
+    {
+      "artist": "Laurie Spiegel",
+      "title": "Patchwork",
+      "services": {
+        "qobuz": "46287407"
+      },
+      "album": "The Expanding Universe",
+      "duration": 586,
+      "isrc": "USVML1106001"
+    },
+    {
+      "artist": "Laraaji",
+      "title": "The Dance No. 1",
+      "services": {
+        "qobuz": "795373"
+      },
+      "album": "Ambient 3 / Day Of Radiance",
+      "duration": 555,
+      "isrc": "GBAAA8000550"
+    },
+    {
+      "artist": "Robert Fipp",
+      "title": "Miniature",
+      "services": {
+        "qobuz": "170085229"
+      },
+      "album": "Further Perspectives & Distortion: An Encyclopedia Of British Experimental And Avant-Garde Music 1976 - 1984",
+      "duration": 63,
+      "isrc": "GBBLY0800198"
+    },
+    {
+      "artist": "Suzanne Ciani",
+      "title": "The Fifth Wave - Water Lullaby",
+      "services": {
+        "qobuz": "70881098"
+      },
+      "album": "Seven Waves",
+      "duration": 347,
+      "isrc": "USHM90466047"
+    },
+    {
+      "artist": "Hiroshi Yoshimura",
+      "title": "Water Copy",
+      "services": {
+        "qobuz": "313187678"
+      },
+      "album": "Music for Nine Post Cards",
+      "duration": 371,
+      "isrc": "USDEA1759901"
+    },
+    {
+      "artist": "Satoshi Ashikawa",
+      "title": "Still Space",
+      "services": {
+        "qobuz": "313179542"
+      },
+      "album": "Kanky\u014d Ongaku: Japanese Ambient, Environmental & New Age Music 1980-1990",
+      "duration": 239,
+      "isrc": "USDEA1816701"
+    },
+    {
+      "artist": "K. Leimer",
+      "title": "Go Slowly",
+      "services": {
+        "qobuz": "165126123"
+      },
+      "album": "Music for Land and Water",
+      "duration": 879,
+      "isrc": "USA2Z2200418"
+    },
+    {
+      "artist": "Michiko Takada",
+      "title": "Farewell Mr. Old City",
+      "services": {
+        "qobuz": "95599187"
+      },
+      "album": "Talea Dream",
+      "duration": 374,
+      "isrc": "JPN200500661"
+    },
+    {
+      "artist": "Inoyama Land",
+      "title": "Hair Air",
+      "services": {
+        "qobuz": "313189807"
+      },
+      "album": "Commissions: 1977-2000",
+      "duration": 503,
+      "isrc": "USDEA1959701"
+    },
+    {
+      "artist": "Golden Apples",
+      "title": "Another Grand Offering For The Swine",
+      "services": {
+        "qobuz": "339142552"
+      },
+      "album": "Shooting Star",
+      "duration": 92,
+      "isrc": "USOPM2500477"
+    },
+    {
+      "artist": "Steve Roach",
+      "title": "Reflections in Suspension",
+      "services": {
+        "qobuz": "247506237"
+      },
+      "album": "Structures from Silence (Deluxe)",
+      "duration": 997,
+      "isrc": "USHK92441601"
+    },
+    {
+      "artist": "Roger Eno",
+      "title": "Through The Blue",
+      "services": {
+        "qobuz": "204006214"
+      },
+      "album": "Through The Blue",
+      "duration": 225,
+      "isrc": "DEN962300830"
+    },
+    {
+      "artist": "Vito Ricci",
+      "title": "Deep Felt Music",
+      "services": {
+        "qobuz": "25196693"
+      },
+      "album": "I Was Crossing A Bridge",
+      "duration": 763,
+      "isrc": "NLD7H1500013"
+    },
+    {
+      "artist": "Gigi Masin",
+      "title": "Call Me",
+      "services": {
+        "qobuz": "410347360"
+      },
+      "album": "Wind",
+      "duration": 268,
+      "isrc": "NLD7H1700062"
+    },
+    {
+      "artist": "David Sylvian",
+      "title": "Steel Cathedrals",
+      "services": {
+        "qobuz": "59084757"
+      },
+      "album": "Alchemy: An Index Of Possibilities",
+      "duration": 1137,
+      "isrc": "GBAAA0300434"
+    },
+    {
+      "artist": "Etsuko Hiros\u00e9",
+      "title": "Scheherazade, Op. 35 (Arr. for Piano by Etsuko Hirose): I. The Sea and Sinbad's Ship",
+      "services": {
+        "qobuz": "310043316"
+      },
+      "album": "Scheherazade",
+      "duration": 591,
+      "isrc": "DKECA2498501"
+    },
+    {
+      "artist": "Lukas Nelson & Promise of the Real",
+      "title": "Movie In My Mind",
+      "services": {
+        "qobuz": "86965645"
+      },
+      "album": "Naked Garden",
+      "duration": 259,
+      "isrc": "USC4R2007255"
+    },
+    {
+      "artist": "O Yuki Conjugate",
+      "title": "Ascension",
+      "services": {
+        "qobuz": "89949362"
+      },
+      "album": "Into Dark Water",
+      "duration": 357,
+      "isrc": "GBMNS0600023"
+    },
+    {
+      "artist": "Chad Crouch",
+      "title": "Part 1, W. 5th Beach Access",
+      "services": {
+        "qobuz": "293055704"
+      },
+      "album": "Preston Island Soundwalk",
+      "duration": 128,
+      "isrc": "USA2B2404425"
+    },
+    {
+      "artist": "Mark Isham",
+      "title": "In the Blue Distance",
+      "services": {
+        "qobuz": "223232"
+      },
+      "album": "A Windham Hill Retrospective",
+      "duration": 245,
+      "isrc": "USWH19800780"
+    },
+    {
+      "artist": "Patrick O'Hearn",
+      "title": "Trust",
+      "services": {
+        "qobuz": "84863903"
+      },
+      "album": "Trust",
+      "duration": 392,
+      "isrc": "USEJB0610004"
+    },
+    {
+      "artist": "Tiziano Popoli",
+      "title": "The tower",
+      "services": {
+        "qobuz": "112534682"
+      },
+      "album": "Scorie",
+      "duration": 540,
+      "isrc": "ITEPL2100010"
+    },
+    {
+      "artist": "Yoshio Ojima",
+      "title": "Glass Chattering",
+      "services": {
+        "qobuz": "313179543"
+      },
+      "album": "Kanky\u014d Ongaku: Japanese Ambient, Environmental & New Age Music 1980-1990",
+      "duration": 356,
+      "isrc": "JPZ921702692"
+    },
+    {
+      "artist": "Tetsuji Hayashi",
+      "title": "Sekai De Ichiban Setsunai Yoru Ni",
+      "services": {
+        "qobuz": "337486503"
+      },
+      "album": "Sekai De Ichiban Setsunai Yoru Ni",
+      "duration": 271,
+      "isrc": "JPWP02570508"
+    },
+    {
+      "artist": "Joe Hisaishi",
+      "title": "Island Song",
+      "services": {
+        "qobuz": "234380607"
+      },
+      "album": "A Scene at the Sea",
+      "duration": 219,
+      "isrc": "JPT900000014"
+    },
+    {
+      "artist": "Yoshiaki Ochi",
+      "title": "Ear Dreamin'",
+      "services": {
+        "qobuz": "313179544"
+      },
+      "album": "Kanky\u014d Ongaku: Japanese Ambient, Environmental & New Age Music 1980-1990",
+      "duration": 285,
+      "isrc": "JPZ921702693"
+    },
+    {
+      "artist": "Masashi Kitamura + Phonogenix",
+      "title": "\u30f4\u30a1\u30ea\u30a8\u30a4\u30b7\u30e7\u30f3 III (2024 Remaster)\uff0fVARIATION: III (2024 Remaster)",
+      "services": {
+        "qobuz": "305655936"
+      },
+      "album": "\u30dd\u30b9\u30c8\u30fb\u30e2\u30c0\u30f3\u30fb\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3078\u306e\u5e8f\u7ae0\uff08\u30d7\u30ed\u30ed\u30fc\u30b0\uff09\uff0fPrologue for Post Modern Music",
+      "duration": 215,
+      "isrc": "JPVP02413503"
+    },
+    {
+      "artist": "Interior",
+      "title": "Park",
+      "services": {
+        "qobuz": "300553154"
+      },
+      "album": "INTERIOR +1",
+      "duration": 244,
+      "isrc": "JPAL08300790"
+    },
+    {
+      "artist": "Yoichiro Yoshikawa",
+      "title": "Nube",
+      "services": {
+        "qobuz": "189419049"
+      },
+      "album": "Cyprus",
+      "duration": 132,
+      "isrc": "JPTO08813360"
+    },
+    {
+      "artist": "Paul Westerberg",
+      "title": "Meet Me In The Meadow",
+      "services": {
+        "qobuz": "2445354"
+      },
+      "album": "Open Season: Featuring the songs of Paul Westerberg",
+      "duration": 268,
+      "isrc": "USUM70607216"
+    },
+    {
+      "artist": "Toshi Tsuchitori",
+      "title": "Ishiura (Abridged)",
+      "services": {
+        "qobuz": "313179545"
+      },
+      "album": "Kanky\u014d Ongaku: Japanese Ambient, Environmental & New Age Music 1980-1990",
+      "duration": 313,
+      "isrc": "USDEA1816710"
+    },
+    {
+      "artist": "Shiho Yabuki",
+      "title": "Tomoshibi",
+      "services": {
+        "qobuz": "102028422"
+      },
+      "album": "The Body Is a Message of the Universe - \u304b\u3089\u3060\u306f\u5b87\u5b99\u306e\u30e1\u30c3\u30bb\u30fc\u30b8",
+      "duration": 420,
+      "isrc": "SEWRL1800301"
+    },
+    {
+      "artist": "Hinata Toshifumi",
+      "title": "Chaconne",
+      "services": {
+        "qobuz": "138588877"
+      },
+      "album": "Sarah's Crime",
+      "duration": 289,
+      "isrc": "JPAL08501040"
+    },
+    {
+      "artist": "Yasuaki Shimizu",
+      "title": "Seiko 3",
+      "services": {
+        "qobuz": "43165034"
+      },
+      "album": "Music For Commercials",
+      "duration": 77,
+      "isrc": "BE6F51700860"
+    },
+    {
+      "artist": "Fumio Miyashita",
+      "title": "See The Light (Abridged)",
+      "services": {
+        "qobuz": "313179549"
+      },
+      "album": "Kanky\u014d Ongaku: Japanese Ambient, Environmental & New Age Music 1980-1990",
+      "duration": 410,
+      "isrc": "USDEA1816716"
+    },
+    {
+      "artist": "Akira Ito",
+      "title": "Praying For Mother / Earth, Pt. 1",
+      "services": {
+        "qobuz": "313179550"
+      },
+      "album": "Kanky\u014d Ongaku: Japanese Ambient, Environmental & New Age Music 1980-1990",
+      "duration": 253,
+      "isrc": "USDEA1816717"
+    },
+    {
+      "artist": "Damageplan",
+      "title": "Breathing New Life",
+      "services": {
+        "qobuz": "2783885"
+      },
+      "album": "New Found Power",
+      "duration": 229,
+      "isrc": "USEE10340914"
+    },
+    {
+      "artist": "Masahiko Togashi",
+      "title": "Snow (feat. Takashi Kako, Jean-Francois Jenny-Clark)",
+      "services": {
+        "qobuz": "317912647"
+      },
+      "album": "Session In Paris Vol. 2 \"Colour Of Dream\"",
+      "duration": 469,
+      "isrc": "JPKI07973729"
+    },
+    {
+      "artist": "Yellow Magic Orchestra",
+      "title": "Loom",
+      "services": {
+        "qobuz": "55763240"
+      },
+      "album": "BGM",
+      "duration": 320,
+      "isrc": "JPAL09900810"
+    },
+    {
+      "artist": "Takashi Kokubo",
+      "title": "A Dream Sails out to Sea Scene 3\u200b:\u200bBreath of Blue Water",
+      "services": {
+        "qobuz": "246851128"
+      },
+      "album": "Get at the Wave   2023 Remaster Edition",
+      "duration": 549,
+      "isrc": "US7VG2425012"
+    },
+    {
+      "artist": "Masahiro Sugaya",
+      "title": "Umi No Sunatsubu",
+      "services": {
+        "qobuz": "313179551"
+      },
+      "album": "Kanky\u014d Ongaku: Japanese Ambient, Environmental & New Age Music 1980-1990",
+      "duration": 72,
+      "isrc": "USDEA1816722"
+    },
+    {
+      "artist": "Shoko Nakagawa",
+      "title": "\u5fc3\u306e\u30a2\u30f3\u30c6\u30ca -Haruomi Hosono Original Mix-",
+      "services": {
+        "qobuz": "95520366"
+      },
+      "album": "Kokorono Antenna",
+      "duration": 255,
+      "isrc": "JPSR00901421"
+    },
+    {
+      "artist": "The KLF",
+      "title": "Madrugada Eterna",
+      "services": {
+        "qobuz": "120026073"
+      },
+      "album": "The White Room",
+      "duration": 181,
+      "isrc": "GBCEL2100289"
+    },
+    {
+      "artist": "The Orb",
+      "title": "A Huge Ever Growing Pulsating Brain That Rules From The Centre Of The Ultraworld",
+      "services": {
+        "qobuz": "58616034"
+      },
+      "album": "Adventures Beyond The Ultraworld",
+      "duration": 1128,
+      "isrc": "GBAAN9100013"
+    },
+    {
+      "artist": "Moby",
+      "title": "LA1",
+      "services": {
+        "qobuz": "172104441"
+      },
+      "album": "Long Ambients 1: Calm. Sleep",
+      "duration": 1250,
+      "isrc": "GB3AD1500019"
+    },
+    {
+      "artist": "Global Communication",
+      "title": "14:31",
+      "services": {
+        "qobuz": "209978221"
+      },
+      "album": "76:14",
+      "duration": 871,
+      "isrc": "GBARL9400474"
+    },
+    {
+      "artist": "The Future Sound Of London",
+      "title": "Cascade",
+      "services": {
+        "qobuz": "2487977"
+      },
+      "album": "Lifeforms",
+      "duration": 359,
+      "isrc": "GBAAA9400542"
+    },
+    {
+      "artist": "Autechre",
+      "title": "Nil",
+      "services": {
+        "qobuz": "3775485"
+      },
+      "album": "Amber",
+      "duration": 468,
+      "isrc": "GBBPW9400146"
+    },
+    {
+      "artist": "Tetsu Inoue",
+      "title": "spirit of data",
+      "services": {
+        "qobuz": "167457378"
+      },
+      "album": "Yolo",
+      "duration": 358,
+      "isrc": "GBJJM0500051"
+    },
+    {
+      "artist": "Boards of Canada",
+      "title": "Olson",
+      "services": {
+        "qobuz": "3775740"
+      },
+      "album": "Music Has The Right To Children",
+      "duration": 91,
+      "isrc": "GBBPW9800022"
+    },
+    {
+      "artist": "Biosphere",
+      "title": "Kobresia",
+      "services": {
+        "qobuz": "49282301"
+      },
+      "album": "Substrata 2",
+      "duration": 432,
+      "isrc": "GBJYX0505024"
+    },
+    {
+      "artist": "Robert Rich",
+      "title": "Liquid Air",
+      "services": {
+        "qobuz": "362084937"
+      },
+      "album": "Below Zero",
+      "duration": 545,
+      "isrc": "USSP69803305"
+    },
+    {
+      "artist": "John Foxx",
+      "title": "Cathedral Oceans",
+      "services": {
+        "qobuz": "170683608"
+      },
+      "album": "The Complete Cathedral Oceans",
+      "duration": 316,
+      "isrc": "GBAFR9510218"
+    },
+    {
+      "artist": "Ryuichi Sakamoto",
+      "title": "energy flow",
+      "services": {
+        "qobuz": "238126877"
+      },
+      "album": "BTTB",
+      "duration": 272,
+      "isrc": "US5941410337"
+    },
+    {
+      "artist": "Angelo Badalamenti",
+      "title": "Laura Palmer's Theme",
+      "services": {
+        "qobuz": "2594431"
+      },
+      "album": "Soundtrack From Twin Peaks",
+      "duration": 292,
+      "isrc": "USWB10102634"
+    },
+    {
+      "artist": "Michael Brook",
+      "title": "Ultramarine",
+      "services": {
+        "qobuz": "58598634"
+      },
+      "album": "Cobalt Blue",
+      "duration": 274,
+      "isrc": "GBAFL9200022"
+    },
+    {
+      "artist": "vidnaObmana",
+      "title": "The Angelic Appearance",
+      "services": {
+        "qobuz": "28112864"
+      },
+      "album": "The River of Appearance",
+      "duration": 348,
+      "isrc": "USHK99618501"
+    },
+    {
+      "artist": "The Irresistible Force",
+      "title": "Power",
+      "services": {
+        "qobuz": "6276836"
+      },
+      "album": "Its Tomorrow Already",
+      "duration": 516,
+      "isrc": "GBCFB9800010"
+    },
+    {
+      "artist": "Seefeel",
+      "title": "Climactic Phase #3",
+      "services": {
+        "qobuz": "320534219"
+      },
+      "album": "Quique Redux",
+      "duration": 505,
+      "isrc": "GBBNZ2400029"
+    },
+    {
+      "artist": "Susumu Yokota",
+      "title": "Blue Sky and Yellow Sunflower",
+      "services": {
+        "qobuz": "153507480"
+      },
+      "album": "Symbol",
+      "duration": 194,
+      "isrc": "GBDRC0504509"
+    },
+    {
+      "artist": "The Sabres Of Paradise",
+      "title": "Smokebelch II",
+      "services": {
+        "qobuz": "3775556"
+      },
+      "album": "Sabresonic II",
+      "duration": 763,
+      "isrc": "GBBPW9500128"
+    },
+    {
+      "artist": "William Orbit",
+      "title": "Water From A Vine Leaf",
+      "services": {
+        "qobuz": "4728239"
+      },
+      "album": "Strange Cargo III",
+      "duration": 424,
+      "isrc": "GBAAA9301038"
+    },
+    {
+      "artist": "Labradford",
+      "title": "P",
+      "services": {
+        "qobuz": "9752435"
+      },
+      "album": "Mi Media Naranja",
+      "duration": 558,
+      "isrc": "GBAJH9700316"
+    },
+    {
+      "artist": "Spacetime Continuum",
+      "title": "Ping Pong",
+      "services": {
+        "qobuz": "818654"
+      },
+      "album": "Sea Biscuit",
+      "duration": 690,
+      "isrc": "USCN39400010"
+    },
+    {
+      "artist": "Ken Ikeda",
+      "title": "Akimatzuri (Autumn Festival)",
+      "services": {
+        "qobuz": "304098825"
+      },
+      "album": "Sacred Offering",
+      "duration": 283,
+      "isrc": "QMFME2400037"
+    },
+    {
+      "artist": "Jon Hopkins",
+      "title": "Abandon Window",
+      "services": {
+        "qobuz": "211566934"
+      },
+      "album": "Immunity",
+      "duration": 297,
+      "isrc": "GBCEL2300184"
+    },
+    {
+      "artist": "Taylor Deupree",
+      "title": "Stil. (For Vibraphone & Bass Drum)",
+      "services": {
+        "qobuz": "258636016"
+      },
+      "album": "Sti.ll",
+      "duration": 1151,
+      "isrc": "CAN112400927"
+    },
+    {
+      "artist": "Loscil",
+      "title": "Endless Falls",
+      "services": {
+        "qobuz": "63139069"
+      },
+      "album": "Endless Falls",
+      "duration": 475,
+      "isrc": "USNCB1014101"
+    },
+    {
+      "artist": "The Dead Texan",
+      "title": "The Struggle",
+      "services": {
+        "qobuz": "24337928"
+      },
+      "album": "The Dead Texan",
+      "duration": 328,
+      "isrc": "USI4R0403332"
+    },
+    {
+      "artist": "Oneohtrix Point Never",
+      "title": "Zones Without People",
+      "services": {
+        "qobuz": "234488773"
+      },
+      "album": "Zones Without People",
+      "duration": 239,
+      "isrc": "QMUJD1202010"
+    },
+    {
+      "artist": "Jonsi & Alex",
+      "title": "Happiness",
+      "services": {
+        "qobuz": "5223694"
+      },
+      "album": "This Must Be The Place",
+      "duration": 556,
+      "isrc": "GB01A0900272"
+    },
+    {
+      "artist": "Rafael Anton Irisarri",
+      "title": "Displacement",
+      "services": {
+        "qobuz": "229226484"
+      },
+      "album": "A Fragile Geography",
+      "duration": 256,
+      "isrc": "QM6N21580569"
+    },
+    {
+      "artist": "Julianna Barwick",
+      "title": "The Magic Place",
+      "services": {
+        "qobuz": "51568994"
+      },
+      "album": "The Magic Place",
+      "duration": 231,
+      "isrc": "US64G1108103"
+    },
+    {
+      "artist": "Marconi Union",
+      "title": "Weightless",
+      "services": {
+        "qobuz": "151537428"
+      },
+      "album": "Weightless (Ambient Transmissions Vol. 2)",
+      "duration": 483,
+      "isrc": "GBDDN1200510"
+    },
+    {
+      "artist": "C418",
+      "title": "Sweden",
+      "services": {
+        "qobuz": "382554215"
+      },
+      "album": "Minecraft - Volume Alpha",
+      "duration": 215,
+      "isrc": "TCAAW1157087"
+    },
+    {
+      "artist": "A Winged Victory For The Sullen",
+      "title": "Steep Hills of Vicodin Tears",
+      "services": {
+        "qobuz": "360997899"
+      },
+      "album": "A Winged Victory for the Sullen",
+      "duration": 266,
+      "isrc": "GBWZD1103205"
+    },
+    {
+      "artist": "Nils Frahm",
+      "title": "Says",
+      "services": {
+        "qobuz": "58583818"
+      },
+      "album": "Spaces",
+      "duration": 498,
+      "isrc": "GBWZD1305502"
+    },
+    {
+      "artist": "David Moore",
+      "title": "Starwood Choker",
+      "services": {
+        "qobuz": "38435061"
+      },
+      "album": "No Home of the Mind",
+      "duration": 377,
+      "isrc": "GBAFL1600382"
+    },
+    {
+      "artist": "\u00d3lafur Arnalds",
+      "title": "saman",
+      "services": {
+        "qobuz": "50227791"
+      },
+      "album": "re:member",
+      "duration": 131,
+      "isrc": "GBBBA1800103"
+    },
+    {
+      "artist": "Johann Johannsson",
+      "title": "J\u00f3hannsson: Flight from the City",
+      "services": {
+        "qobuz": "33566054"
+      },
+      "album": "J\u00f3hann J\u00f3hannsson : Orph\u00e9e",
+      "duration": 391,
+      "isrc": "DEN961630001"
+    },
+    {
+      "artist": "Kaitlyn Aurelia Smith",
+      "title": "An Intention",
+      "services": {
+        "qobuz": "42008451"
+      },
+      "album": "The Kid",
+      "duration": 241,
+      "isrc": "US78L1717002"
+    },
+    {
+      "artist": "Los Titanes De Durango",
+      "title": "El Enamorado",
+      "services": {
+        "qobuz": "6832299"
+      },
+      "album": "Los Locos Del Corrido",
+      "duration": 153,
+      "isrc": "USUM70920222"
+    },
+    {
+      "artist": "Helios",
+      "title": "Bless This Morning Year",
+      "services": {
+        "qobuz": "53484334"
+      },
+      "album": "Eingya",
+      "duration": 361,
+      "isrc": "GBJSN0600009"
+    },
+    {
+      "artist": "Balmorhea",
+      "title": "Remembrance",
+      "services": {
+        "qobuz": "20751303"
+      },
+      "album": "All Is Wild, All Is Silent",
+      "duration": 349,
+      "isrc": "US78L0910014"
+    },
+    {
+      "artist": "Goldmund",
+      "title": "Threnody",
+      "services": {
+        "qobuz": "346795943"
+      },
+      "album": "The Malady Of Elegance",
+      "duration": 281,
+      "isrc": "DEX260803905"
+    },
+    {
+      "artist": "Max Richter",
+      "title": "Richter: On the Nature of Daylight",
+      "services": {
+        "qobuz": "48435670"
+      },
+      "album": "The Blue Notebooks",
+      "duration": 371,
+      "isrc": "GBDCA0300279"
+    },
+    {
+      "artist": "Mary Lattimore",
+      "title": "Silver Ladders",
+      "services": {
+        "qobuz": "96101715"
+      },
+      "album": "Silver Ladders",
+      "duration": 225,
+      "isrc": "US2J72007002"
+    },
+    {
+      "artist": "Kmru",
+      "title": "Well",
+      "services": {
+        "qobuz": "319842253"
+      },
+      "album": "Peel",
+      "duration": 330,
+      "isrc": "ATE692028902"
+    },
+    {
+      "artist": "Emily A. Sprague",
+      "title": "Tokyo 1",
+      "services": {
+        "qobuz": "344029440"
+      },
+      "album": "Cloud Time",
+      "duration": 282,
+      "isrc": "US6PQ2500089"
+    },
+    {
+      "artist": "Sigur R\u00f3s",
+      "title": "Untitled #3",
+      "services": {
+        "qobuz": "178184844"
+      },
+      "album": "( )",
+      "duration": 393,
+      "isrc": "GBKEE2200426"
+    },
+    {
+      "artist": "M83",
+      "title": "Lower Your Eyelids To Die With the Sun",
+      "services": {
+        "qobuz": "18493155"
+      },
+      "album": "Before The Dawn Heals Us",
+      "duration": 637,
+      "isrc": "FR86W0400215"
+    },
+    {
+      "artist": "Hania Rani",
+      "title": "Glass",
+      "services": {
+        "qobuz": "127466258"
+      },
+      "album": "Esja",
+      "duration": 270,
+      "isrc": "GBVTB1930007"
+    },
+    {
+      "artist": "Hammock",
+      "title": "Turn Away and Return",
+      "services": {
+        "qobuz": "126955648"
+      },
+      "album": "Everything and Nothing",
+      "duration": 313,
+      "isrc": "US7QT1500007"
+    },
+    {
+      "artist": "Murcof",
+      "title": "Reflejo",
+      "services": {
+        "qobuz": "186253886"
+      },
+      "album": "Remembranza",
+      "duration": 542,
+      "isrc": "GBCKB2204706"
+    }
+  ]
+}

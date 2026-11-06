@@ -1,0 +1,710 @@
+{
+  "name": "Genre: New Wave",
+  "services": {
+    "qobuz": "66736836",
+    "tidal": "9d2fe04d-0123-4951-a9e4-d0ddb499dd89"
+  },
+  "description": "Catchy 80s post-punk subgenre blending synth-pop melodies, stylish art-rock attitude, and vibrant danceable rhythms.",
+  "tracks": [
+    {
+      "artist": "Talking Heads",
+      "title": "Psycho Killer",
+      "services": {
+        "qobuz": "6008183"
+      },
+      "album": "Talking Heads: 77",
+      "duration": 261,
+      "isrc": "USWB10502721"
+    },
+    {
+      "artist": "Elvis Costello",
+      "title": "Pump It Up",
+      "services": {
+        "qobuz": "739285"
+      },
+      "album": "The Best Of The First 10 Years",
+      "duration": 196,
+      "isrc": "GBASQ7800026"
+    },
+    {
+      "artist": "Joe Jackson",
+      "title": "Is She Really Going Out With Him?",
+      "services": {
+        "qobuz": "22607306"
+      },
+      "album": "Look Sharp!",
+      "duration": 215,
+      "isrc": "GBAAM7801002"
+    },
+    {
+      "artist": "The Cars",
+      "title": "Just What I Needed",
+      "services": {
+        "qobuz": "30516280"
+      },
+      "album": "The Cars",
+      "duration": 223,
+      "isrc": "USRH11509834"
+    },
+    {
+      "artist": "The Police",
+      "title": "Roxanne",
+      "services": {
+        "qobuz": "61089850"
+      },
+      "album": "Outlandos D'Amour",
+      "duration": 191,
+      "isrc": "GBAAM0201086"
+    },
+    {
+      "artist": "The Jam",
+      "title": "Going Underground",
+      "services": {
+        "qobuz": "20346109"
+      },
+      "album": "Setting Sons (Deluxe Edition)",
+      "duration": 173,
+      "isrc": "GBAKW8001001"
+    },
+    {
+      "artist": "The Feelies",
+      "title": "Fa C\u00e9-La",
+      "services": {
+        "qobuz": "2524847"
+      },
+      "album": "Crazy Rhythms",
+      "duration": 125,
+      "isrc": "GBCEL0900524"
+    },
+    {
+      "artist": "The Motels",
+      "title": "Total Control",
+      "services": {
+        "qobuz": "1781407"
+      },
+      "album": "The Motels",
+      "duration": 354,
+      "isrc": "USCA29000080"
+    },
+    {
+      "artist": "Devo",
+      "title": "Uncontrollable Urge",
+      "services": {
+        "qobuz": "4622728"
+      },
+      "album": "Q: Are We Not Men?  A: We Are Devo / Devo Live",
+      "duration": 189,
+      "isrc": "GBAAA7800294"
+    },
+    {
+      "artist": "Suburban Lawns",
+      "title": "Janitor",
+      "services": {
+        "qobuz": "130548582"
+      },
+      "album": "Suburban Lawns",
+      "duration": 151,
+      "isrc": "USCA20706597"
+    },
+    {
+      "artist": "Squeeze",
+      "title": "Take Me I'm Yours",
+      "services": {
+        "qobuz": "56995358"
+      },
+      "album": "Singles - 45's And Under",
+      "duration": 167,
+      "isrc": "GBAAM0201033"
+    },
+    {
+      "artist": "The Rezillos",
+      "title": "Top of the Pops",
+      "services": {
+        "qobuz": "11565277"
+      },
+      "album": "Can't Stand The Rezillos: The [Almost] Complete Rezillos",
+      "duration": 175,
+      "isrc": "USWB10301385"
+    },
+    {
+      "artist": "The Only Ones",
+      "title": "Another Girl Another Planet",
+      "services": {
+        "qobuz": "385526"
+      },
+      "album": "Another Girl Another Planet The Best Of",
+      "duration": 180,
+      "isrc": "GBBBN7802048"
+    },
+    {
+      "artist": "The Undertones",
+      "title": "Teenage Kicks",
+      "services": {
+        "qobuz": "385582789"
+      },
+      "album": "True Confessions",
+      "duration": 148,
+      "isrc": "GBAJE7800192"
+    },
+    {
+      "artist": "Plastic Bertrand",
+      "title": "Ca Plane Pour Moi",
+      "services": {
+        "qobuz": "85252941"
+      },
+      "album": "Ca Plane Pour Moi",
+      "duration": 179,
+      "isrc": "BEB017765001"
+    },
+    {
+      "artist": "XTC",
+      "title": "Making Plans For Nigel",
+      "services": {
+        "qobuz": "1069273"
+      },
+      "album": "Drums And Wires",
+      "duration": 253,
+      "isrc": "GBAAA0001008"
+    },
+    {
+      "artist": "Nick Lowe",
+      "title": "Cruel to Be Kind",
+      "services": {
+        "qobuz": "72014368"
+      },
+      "album": "Labour of Lust",
+      "duration": 210,
+      "isrc": "USY1R1162101"
+    },
+    {
+      "artist": "Ian Dury",
+      "title": "Hit Me with Your Rhythm Stick",
+      "services": {
+        "qobuz": "317374102"
+      },
+      "album": "Do It Yourself (Deluxe Edition)",
+      "duration": 223,
+      "isrc": "GBAFR7910095"
+    },
+    {
+      "artist": "The B-52's",
+      "title": "Rock Lobster",
+      "services": {
+        "qobuz": "24201982"
+      },
+      "album": "The B-52's",
+      "duration": 412,
+      "isrc": "USIR27900014"
+    },
+    {
+      "artist": "Blondie",
+      "title": "Heart Of Glass",
+      "services": {
+        "qobuz": "1940622"
+      },
+      "album": "Heart Of Glass",
+      "duration": 252,
+      "isrc": "USCH39800018"
+    },
+    {
+      "artist": "M / Robin Scott",
+      "title": "Pop Muzik",
+      "services": {
+        "qobuz": "385964139"
+      },
+      "album": "Pop Muzik",
+      "duration": 296,
+      "isrc": "GBGHQ7900001"
+    },
+    {
+      "artist": "The Flying Lizards",
+      "title": "Money",
+      "services": {
+        "qobuz": "1725684"
+      },
+      "album": "The Flying Lizards",
+      "duration": 338,
+      "isrc": "GBAAA8000024"
+    },
+    {
+      "artist": "Lene Lovich",
+      "title": "Lucky Number",
+      "services": {
+        "qobuz": "26201749"
+      },
+      "album": "Stateless",
+      "duration": 171,
+      "isrc": "GBCCG7900001"
+    },
+    {
+      "artist": "Klaus Nomi",
+      "title": "Total Eclipse",
+      "services": {
+        "qobuz": "201477999"
+      },
+      "album": "Klaus Nomi",
+      "duration": 210,
+      "isrc": "FRZ080802024"
+    },
+    {
+      "artist": "The Members",
+      "title": "The Sound Of The Suburbs",
+      "services": {
+        "qobuz": "88258272"
+      },
+      "album": "At The Chelsea Nightclub",
+      "duration": 233,
+      "isrc": "GBAAA7900007"
+    },
+    {
+      "artist": "The Monochrome Set",
+      "title": "He's Frank",
+      "services": {
+        "qobuz": "5691294"
+      },
+      "album": "The Independent Singles Collection",
+      "duration": 157,
+      "isrc": "GBBLY8300079"
+    },
+    {
+      "artist": "The Boomtown Rats",
+      "title": "I Don't Like Mondays",
+      "services": {
+        "qobuz": "357003665"
+      },
+      "album": "The First 50 Years: Songs Of Boomtown Glory",
+      "duration": 258,
+      "isrc": "GBF087900002"
+    },
+    {
+      "artist": "The Vapors",
+      "title": "Turning Japanese",
+      "services": {
+        "qobuz": "1071982"
+      },
+      "album": "Turning Japanese - Best Of The Vapors",
+      "duration": 226,
+      "isrc": "GBAYE8000027"
+    },
+    {
+      "artist": "Split Enz",
+      "title": "I Got You",
+      "services": {
+        "qobuz": "84661810"
+      },
+      "album": "True Colours",
+      "duration": 209,
+      "isrc": "GBAAM0201039"
+    },
+    {
+      "artist": "THE TEARDROP EXPLODES",
+      "title": "Reward",
+      "services": {
+        "qobuz": "3865294"
+      },
+      "album": "Kilimanjaro",
+      "duration": 165,
+      "isrc": "GBF088000023"
+    },
+    {
+      "artist": "Martha And The Muffins",
+      "title": "Echo Beach",
+      "services": {
+        "qobuz": "1011575"
+      },
+      "album": "Metro Music",
+      "duration": 219,
+      "isrc": "GBAAA0201040"
+    },
+    {
+      "artist": "The Pretenders",
+      "title": "Brass in Pocket",
+      "services": {
+        "qobuz": "12262294"
+      },
+      "album": "Pretenders",
+      "duration": 185,
+      "isrc": "GBAHT1300202"
+    },
+    {
+      "artist": "The Specials",
+      "title": "Ghost Town",
+      "services": {
+        "qobuz": "169170025"
+      },
+      "album": "Ghost Town",
+      "duration": 222,
+      "isrc": "UKKP22100318"
+    },
+    {
+      "artist": "The Stranglers",
+      "title": "Golden Brown",
+      "services": {
+        "qobuz": "1004735"
+      },
+      "album": "La Folie",
+      "duration": 207,
+      "isrc": "GBAYE8100053"
+    },
+    {
+      "artist": "Japan",
+      "title": "Ghosts",
+      "services": {
+        "qobuz": "1736002"
+      },
+      "album": "Tin Drum",
+      "duration": 276,
+      "isrc": "GBAAA0300385"
+    },
+    {
+      "artist": "The Passions",
+      "title": "I'm In Love With A German Film Star",
+      "services": {
+        "qobuz": "39212884"
+      },
+      "album": "Thirty Thousand Feet Over China",
+      "duration": 241,
+      "isrc": "GBAKW8100124"
+    },
+    {
+      "artist": "The Associates",
+      "title": "Party Fears Two",
+      "services": {
+        "qobuz": "387106144"
+      },
+      "album": "Sulk",
+      "duration": 335,
+      "isrc": "UKCUL8200008"
+    },
+    {
+      "artist": "The Go-Go's",
+      "title": "We Got The Beat",
+      "services": {
+        "qobuz": "115401056"
+      },
+      "album": "Beauty And The Beat",
+      "duration": 159,
+      "isrc": "USWWW0128900"
+    },
+    {
+      "artist": "Men At Work",
+      "title": "Down Under",
+      "services": {
+        "qobuz": "14064775"
+      },
+      "album": "Business As Usual",
+      "duration": 222,
+      "isrc": "USSM18100411"
+    },
+    {
+      "artist": "Adam & The Ants",
+      "title": "Stand and Deliver",
+      "services": {
+        "qobuz": "168950"
+      },
+      "album": "Prince Charming (Remastered)",
+      "duration": 215,
+      "isrc": "GBBBN0400484"
+    },
+    {
+      "artist": "Bow Wow Wow",
+      "title": "I Want Candy",
+      "services": {
+        "qobuz": "213597"
+      },
+      "album": "The Best Of Bow Wow Wow",
+      "duration": 164,
+      "isrc": "GBARL8200001"
+    },
+    {
+      "artist": "Haircut 100",
+      "title": "Love Plus One",
+      "services": {
+        "qobuz": "194459638"
+      },
+      "album": "Pelican West - 40th Anniversary",
+      "duration": 213,
+      "isrc": "GBARK8200002"
+    },
+    {
+      "artist": "Orange Juice",
+      "title": "Rip It Up",
+      "services": {
+        "qobuz": "169116386"
+      },
+      "album": "Rip It Up",
+      "duration": 320,
+      "isrc": "GBCEL1000577"
+    },
+    {
+      "artist": "Culture Club",
+      "title": "Do You Really Want To Hurt Me",
+      "services": {
+        "qobuz": "4706880"
+      },
+      "album": "Kissing To Be Clever",
+      "duration": 262,
+      "isrc": "GBAAA8200048"
+    },
+    {
+      "artist": "Billy Idol",
+      "title": "White Wedding",
+      "services": {
+        "qobuz": "40272044"
+      },
+      "album": "Billy Idol",
+      "duration": 252,
+      "isrc": "USCH30100008"
+    },
+    {
+      "artist": "Modern English",
+      "title": "I Melt with You",
+      "services": {
+        "qobuz": "2331548"
+      },
+      "album": "After the Snow",
+      "duration": 251,
+      "isrc": "GBAFL8200036"
+    },
+    {
+      "artist": "The Psychedelic Furs",
+      "title": "Love My Way",
+      "services": {
+        "qobuz": "112015"
+      },
+      "album": "Forever Now",
+      "duration": 213,
+      "isrc": "GBBBN0102488"
+    },
+    {
+      "artist": "Simple Minds",
+      "title": "Promised You A Miracle",
+      "services": {
+        "qobuz": "4673980"
+      },
+      "album": "New Gold Dream (81/82/83/84)",
+      "duration": 267,
+      "isrc": "GBAAA0200607"
+    },
+    {
+      "artist": "Wall Of Voodoo",
+      "title": "Mexican Radio",
+      "services": {
+        "qobuz": "90674209"
+      },
+      "album": "Call Of The West",
+      "duration": 248,
+      "isrc": "USWWW0128829"
+    },
+    {
+      "artist": "Romeo Void",
+      "title": "Never Say Never",
+      "services": {
+        "qobuz": "3110459"
+      },
+      "album": "Warm, In Your Coat",
+      "duration": 353,
+      "isrc": "USSM18100770"
+    },
+    {
+      "artist": "Missing Persons",
+      "title": "Words",
+      "services": {
+        "qobuz": "841769"
+      },
+      "album": "Spring Session M.",
+      "duration": 267,
+      "isrc": "USCA28700329"
+    },
+    {
+      "artist": "The Fixx",
+      "title": "One Thing Leads To Another",
+      "services": {
+        "qobuz": "500846"
+      },
+      "album": "Reach The Beach",
+      "duration": 199,
+      "isrc": "USMC18314101"
+    },
+    {
+      "artist": "The Waitresses",
+      "title": "I Know What Boys Like",
+      "services": {
+        "qobuz": "88510082"
+      },
+      "album": "Best Of The Waitresses: 20th Century Masters: The Millennium Collection",
+      "duration": 192,
+      "isrc": "USPR38282036"
+    },
+    {
+      "artist": "The Beat",
+      "title": "Save It for Later",
+      "services": {
+        "qobuz": "234523190"
+      },
+      "album": "Special Beat Service (Expanded)",
+      "duration": 213,
+      "isrc": "USRH12303973"
+    },
+    {
+      "artist": "Cyndi Lauper",
+      "title": "Girls Just Want to Have Fun",
+      "services": {
+        "qobuz": "14069864"
+      },
+      "album": "She's So Unusual",
+      "duration": 238,
+      "isrc": "USSM18300548"
+    },
+    {
+      "artist": "Nena",
+      "title": "99 Luftballons",
+      "services": {
+        "qobuz": "385573628"
+      },
+      "album": "99 Luftballons",
+      "duration": 233,
+      "isrc": "DEE868300011"
+    },
+    {
+      "artist": "The The",
+      "title": "This Is the Day",
+      "services": {
+        "qobuz": "110874"
+      },
+      "album": "Soul Mining",
+      "duration": 297,
+      "isrc": "GBBBM0102226"
+    },
+    {
+      "artist": "The Icicle Works",
+      "title": "Birds Fly (Whisper to a Scream)",
+      "services": {
+        "qobuz": "192098079"
+      },
+      "album": "Birds Fly (Whisper to a Scream)",
+      "duration": 229,
+      "isrc": "GBAZP8300008"
+    },
+    {
+      "artist": "Los Prisioneros",
+      "title": "La Voz de los '80",
+      "services": {
+        "qobuz": "318031160"
+      },
+      "album": "La Voz de los '80",
+      "duration": 248,
+      "isrc": "CLAC28400001"
+    },
+    {
+      "artist": "Soda Stereo",
+      "title": "Tr\u00e1tame Suavemente",
+      "services": {
+        "qobuz": "408459"
+      },
+      "album": "Me Ver\u00e1s Volver (Hits & M\u00e1s)",
+      "duration": 200,
+      "isrc": "ARFSB0700881"
+    },
+    {
+      "artist": "Oingo Boingo",
+      "title": "Dead Man's Party",
+      "services": {
+        "qobuz": "13710575"
+      },
+      "album": "Dead Man's Party",
+      "duration": 381,
+      "isrc": "USMC18518727"
+    },
+    {
+      "artist": "'Til Tuesday",
+      "title": "Voices Carry",
+      "services": {
+        "qobuz": "43343200"
+      },
+      "album": "Voices Carry (Expanded Edition)",
+      "duration": 263,
+      "isrc": "USSM10027739"
+    },
+    {
+      "artist": "INXS",
+      "title": "What You Need",
+      "services": {
+        "qobuz": "3589615"
+      },
+      "album": "Listen Like Thieves",
+      "duration": 215,
+      "isrc": "GBAMX8500010"
+    },
+    {
+      "artist": "Shriekback",
+      "title": "Nemesis",
+      "services": {
+        "qobuz": "4283976"
+      },
+      "album": "Oil and Gold",
+      "duration": 222,
+      "isrc": "GBARK0400110"
+    },
+    {
+      "artist": "Falco",
+      "title": "Rock Me Amadeus",
+      "services": {
+        "qobuz": "94011107"
+      },
+      "album": "Rock Me Amadeus EP",
+      "duration": 202,
+      "isrc": "ATB158500018"
+    },
+    {
+      "artist": "Tom Tom Club",
+      "title": "Genius of Love",
+      "services": {
+        "qobuz": "77695455"
+      },
+      "album": "Genius of Live",
+      "duration": 435,
+      "isrc": "US66W1001844"
+    },
+    {
+      "artist": "Altered Images",
+      "title": "Happy Birthday",
+      "services": {
+        "qobuz": "443785"
+      },
+      "album": "HAPPY BIRTHDAY",
+      "duration": 179,
+      "isrc": "USSM10030041"
+    },
+    {
+      "artist": "The Nails",
+      "title": "88 Lines about 44 Women",
+      "services": {
+        "qobuz": "83953170"
+      },
+      "album": "Mood Swing",
+      "duration": 296,
+      "isrc": "USHM20755688"
+    },
+    {
+      "artist": "Sigue Sigue Sputnik",
+      "title": "Love Missile F1-11",
+      "services": {
+        "qobuz": "385581767"
+      },
+      "album": "21st Century Boys",
+      "duration": 224,
+      "isrc": "GBAYE8600097"
+    },
+    {
+      "artist": "Talk Talk",
+      "title": "Life's What You Make It",
+      "services": {
+        "qobuz": "19081056"
+      },
+      "album": "The Colour Of Spring (Remastered Hi-Res Version)",
+      "duration": 270,
+      "isrc": "GBAYE8600002"
+    }
+  ]
+}

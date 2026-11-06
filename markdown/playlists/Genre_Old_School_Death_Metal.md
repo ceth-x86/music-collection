@@ -1,0 +1,108 @@
+# Genre: Old School Death Metal
+
+Imported genre playlist: Old School Death Metal.
+
+Services: `qobuz:66735251`
+
+## Tracks (100)
+
+- **Possessed** — Death Metal [Seven Churches] (3:15) `isrc:USSM11501501` `qobuz:23610592`
+- **Death** — Leprosy [Leprosy (Deluxe Reissue)] (6:20) `isrc:US2641322801` `qobuz:15811008`
+- **Morbid Angel** — Immortal Rites [Altars of Madness] (4:04) `isrc:GBBPB1605720` `qobuz:31164501`
+- **Obituary** — Slowly We Rot [Slowly We Rot (Reissue)] (3:38) `isrc:NLA329780575` `qobuz:2809782`
+- **Autopsy** — Charred Remains [Severed Survival] (3:40) `isrc:GBCQV9000001` `qobuz:51016516`
+- **Pestilence** — Dehydrated [Consuming Impulse] (3:08) `isrc:NLA329401600` `qobuz:45104359`
+- **Opprobrium** — Incubus (Opprobrium) [Serpent Temptation (Reissue)] (4:09) `isrc:GX89G2392144` `qobuz:193055202`
+- **Macabre** — Hot Rods to Hell [Grim Reality] (1:48) `isrc:DED831901191` `qobuz:81535178`
+- **Master** — Pay to Die [Master] (3:14) `isrc:QM7281730288` `qobuz:142399705`
+- **Slaughter** — Strappado [Strappado] (1:33) `isrc:DEQN42600144` `qobuz:399832178`
+- **Deicide** — Dead by Dawn [Deicide (Reissue)] (3:56) `isrc:NLA329880246` `qobuz:2809561`
+- **Cannibal Corpse** — A Skull Full of Maggots [Eaten Back to Life] (2:06) `isrc:USMBR0400269` `qobuz:60706016`
+- **Massacre** — Dawn of Eternity [From Beyond] (5:09) `isrc:GBBPB1100940` `qobuz:20195747`
+- **Malevolent Creation** — Multiple Stab Wounds [The Ten Commandments] (3:34) `isrc:NLA320320496` `qobuz:2810546`
+- **Idolatry** — Terminal Devastation [Terminal Devastation] (4:30) `isrc:GXFHP2461301` `qobuz:312457732`
+- **Immolation** — Dawn of Possession [Dawn Of Possession] (3:05) `isrc:NLA329199969` `qobuz:14065734`
+- **Broken Hope** — Swamped In Gore [Swamped In Gore] (6:32) `isrc:USMBR0704166` `qobuz:60846119`
+- **Walk The Moon** — Shut Up and Dance [TALKING IS HARD (Expanded Edition)] (3:19) `isrc:USRC11401949` `qobuz:22119415`
+- **Ripping Corpse** — Chugging Pus [Dreaming with the Dead] (2:25) `isrc:GX38U2349069` `qobuz:218650864`
+- **New York Latvian Concert Choir** — Winter Solstice Mystery: Let us Dress in Foreign Garb [Latvian Winterfest] (2:55) `isrc:USAB11238912` `qobuz:74325408`
+- **Incantation** — Christening the Afterbirth [Onward To Golgotha] (5:33) `isrc:US2640670107` `qobuz:60806151`
+- **Blue States** — Looking Glass [Nothing Changes Under The Sun] (4:56) `isrc:GBCSG0300057` `qobuz:49427406`
+- **Baphomet** — Streaks Of Blood [The Dead Shall Inherit] (4:37) `isrc:GBCQV9200167` `qobuz:51016505`
+- **Monstrosity** — Imperial Doom [Enslaving the Masses] (4:10) `isrc:US4DT0610045` `qobuz:72935088`
+- **Vital Remains** — War In Paradise [Let Us Pray] (7:44) `isrc:GBCQV9200216` `qobuz:50990968`
+- **Pink Floyd** — Money [The Dark Side of the Moon] (6:20) `isrc:GBN9Y1100081` `qobuz:47683556`
+- **Brutality** — These Walls Shall Be Your Grave [Screams of Anguish] (4:36) `isrc:DED830589401` `qobuz:58402857`
+- **Killing Addiction** — Equating the Trinity [Omega Factor] (5:43) `isrc:USHM81436869` `qobuz:81374357`
+- **Resurrection** — Embalmed Existence [Embalmed Existence] (4:30) `isrc:DER370963303` `qobuz:39805640`
+- **Morta Skuld** — Dying Remains [Dying Remains] (5:13) `isrc:GBCQV9300160` `qobuz:51042232`
+- **Rottrevore** — Jesters of Recession [Iniquitous] (4:23) `isrc:CH6542446114` `qobuz:284211746`
+- **Eleine** — Where Your Rotting Corpse Lie (W.Y.R.C.L.) [Dancing in Hell] (5:55) `isrc:SEVVF2008807` `qobuz:99449758`
+- **Looking-Glass Lantern** — Personality Conflict [The Country House Weekend] (4:12) `isrc:UK3QG2100005` `qobuz:134793074`
+- **Disincarnate** — Stench of Paradise Burning [Dreams Of The Carrion Kind (Expanded Edition)] (4:47) `isrc:NLA320320717` `qobuz:2808104`
+- **Infester** — To The Depths (In Degradation) [To the Depths, In Degradation] (5:11) `isrc:USA560456717` `qobuz:64321408`
+- **Bolt Thrower** — World Eater [Realm of Chaos] (4:54) `isrc:GBBPB1202128` `qobuz:14673606`
+- **Benediction** — Subconscious Terror [Subconscious Terror] (3:42) `isrc:DED839032602` `qobuz:192878026`
+- **Cancer** — Blood Bath [To the Gory End] (3:31) `isrc:GBCQV9000141` `qobuz:88260348`
+- **Necrosanct** — Decreation [Equal In Death] (1:49) `isrc:USY250923787` `qobuz:19427712`
+- **Memoriam** — Memoriam [For the Fallen] (2:50) `isrc:DED831601648` `qobuz:60777304`
+- **Grave Miasma** — Death's Meditative Trance [Odori Sepulcrorum] (6:06) `isrc:USN681310094` `qobuz:73799780`
+- **Cruciamentum** — Necrophagous Communion [Charnel Passages] (4:59) `isrc:USN681510090` `qobuz:26945216`
+- **Malthusian** — Gasless Billows [Below the Hengiform] (8:36) `isrc:USY242434678` `qobuz:365836861`
+- **Vacivus** — In Fine Dierum [Annihilism] (5:31) `isrc:USN681923305` `qobuz:76137839`
+- **Coffin Mulch** — Spectral Intercession [Spectral Intercession] (4:59) `isrc:QZHNA2318781` `qobuz:211535574`
+- **Thanatos** — Dawn Of The Dead [Emerging From The Netherworlds] (4:11) `isrc:US4E41294701` `qobuz:47664801`
+- **Massacra** — Final Holocaust [Final Holocaust (Reissue + Bonus)] (5:40) `isrc:US4E41410606` `qobuz:27554189`
+- **Loudblast** — Shaped Image of Disincarnate Spirits [The Time Keeper] (3:34) `isrc:FR1PP2100810` `qobuz:128667602`
+- **Gorefest** — Mental Misery [Mindloss + Demos] (5:04) `isrc:DED830584702` `qobuz:60257585`
+- **Morgoth** — Pits of Utumno [Resurrection Absurd / The Eternal Fall] (4:39) `isrc:GBDHC0606479` `qobuz:27552844`
+- **Pungent Stench** — Intro / Extreme Deformity [For God Your Soul ... For Me Your Flesh (Live)] (4:58) `isrc:UKJXT1801001` `qobuz:47188016`
+- **Bob Dylan** — Tangled up in Blue [Blood On The Tracks] (5:40) `isrc:USSM19906468` `qobuz:4855790`
+- **Vader** — Dark Age [Dark Age] (4:32) `isrc:PLI921800001` `qobuz:179508913`
+- **Sinister** — Cross the Styx [Cross the Styx] (4:53) `isrc:DED839738414` `qobuz:116949009`
+- **Krabathor** — About Death [Orthodox] (5:56) `isrc:QZDA82387220` `qobuz:203485670`
+- **Fleshcrawl** — Phrenetic Tendencies [Descend into the Absurd] (5:32) `isrc:GX38U2371028` `qobuz:216110108`
+- **Mercyless** — Abject Offerings [Abject Offerings] (3:35) `isrc:FR4E62300140` `qobuz:199484976`
+- **Atrocity** — Hallucinations [Halluciations/The Hunt] (4:30) `isrc:ATN260822504` `qobuz:28457689`
+- **Carnage** — Torn Apart [Dark Recollections] (4:39) `isrc:GBBPB1801126` `qobuz:51010344`
+- **Entombed** — Left Hand Path [Left Hand Path] (6:38) `isrc:GBBPB1201981` `qobuz:13326312`
+- **Cadaver** — Hallucinating Anxiety [Hallucinating Anxiety] (3:38) `isrc:FR1PP2500420` `qobuz:358151194`
+- **Maceration** — A Serenade of Agony [A Serenade of Agony] (6:08) `isrc:DKA5I2103902` `qobuz:150639809`
+- **Dismember** — Override Of The Overture [Like An Ever Flowing Stream] (5:16) `isrc:DED832200390` `qobuz:164272460`
+- **Grave** — Into the Grave [Into the Grave / Tremendous Pain - EP] (4:09) `isrc:US4E40572106` `qobuz:27540746`
+- **Unleashed** — Before the Creation of Time [Where No Life Dwells] (3:49) `isrc:US4E40571803` `qobuz:55461063`
+- **Convulse** — World Without God [World Without God] (5:04) `isrc:FI7S51800039` `qobuz:416710509`
+- **ABHORRENCE** — Vulgar Necrolatry [Completely Vulgar] (4:23) `isrc:FR2X41954786` `qobuz:85982278`
+- **Demigod** — As I Behold I Despise [Slumber of Sullen Eyes] (4:38) `isrc:FI7S52200268` `qobuz:176050871`
+- **Sentenced** — When the Moment of Death Arrives [Shadows Of The Past] (6:04) `isrc:US4E40474613` `qobuz:47672251`
+- **Séance** — Who Will Be Not Be Dead [Fornever Laid to Rest] (3:31) `isrc:SEXHQ9200101` `qobuz:179383915`
+- **Cemetary** — An Evil Shade of Grey [An Evil Shade of Grey] (5:18) `isrc:SEXHQ9200404` `qobuz:179351068`
+- **Doechii** — DENIAL IS A RIVER [Alligator Bites Never Heal] (2:39) `isrc:USUG12405664` `qobuz:285841102`
+- **Gorguts** — Considered Dead [Considered Dead] (3:33) `isrc:NLA320420841` `qobuz:11664535`
+- **Tiamat** — Lady Temptress [The Astral Sleep] (3:44) `isrc:US4E40472202` `qobuz:47536553`
+- **Rodrigo y Gabriela** — Chac Mool [11:11] (1:51) `isrc:IEACJ0900026` `qobuz:301414651`
+- **Mortification** — Scrolls of the Megilloth (Demo Version) [Scrolls of the Megilloth Demos] (3:08) `isrc:USCGH2368945` `qobuz:195034040`
+- **Transgressor** — Whiteness [Ether for Scapegoat] (8:20) `isrc:SE4U51502601` `qobuz:198573024`
+- **Amorphis** — The Gathering [Karelian Isthmus] (4:12) `isrc:US2649255302` `qobuz:60616235`
+- **Hypocrisy** — Impotent God [Penetralia] (3:47) `isrc:DED831300195` `qobuz:131890150`
+- **Mortician** — Drowned in Your Blood [Chainsaw Dismemberment] (1:44) `isrc:US2649942303` `qobuz:60649796`
+- **SLEEPY NUTS** — Footsteps of Spring [Relaxing BGM for Deep Sleep - Balancing the Autonomic Nervous System & Relieving StressSleep, Good Sleep, Alpha Waves, Relaxation, Music, Meditation, Healing, Deep Sleep, Fatigue Recovery, Stress Relief, Autonomic Nervous System, Balance, Sleep BGM] (4:55) `isrc:TCJPV2389033` `qobuz:317258672`
+- **Gorement** — My Ending Quest [The Ending Quest] (4:13) `isrc:US4E41295501` `qobuz:35528573`
+- **The Pogues** — South Australia [If I Should Fall from Grace with God] (3:29) `isrc:GBAHT0400304` `qobuz:2675671`
+- **Old Man's Child** — Phantoms of Mortem Tales [Revelation 666 - The Curse of Damnation] (5:35) `isrc:US4E40598301` `qobuz:27558548`
+- **Nunslaughter** — I Hate Christians [Evil Hellbangers 1 & 2] (1:47) `isrc:ESA122499705` `qobuz:277091654`
+- **Bloodbath** — Eaten [Nightmares Made Flesh] (4:18) `isrc:US4E40425506` `qobuz:27811348`
+- **Kaamos** — Black Revelation [Lucifer Rising] (3:54) `isrc:GBADD0409101` `qobuz:190301753`
+- **HALIPHRON** — Epitome of Perfection [Anatomy of Darkness] (4:19) `isrc:FR1PP2400670` `qobuz:279551506`
+- **Hail of Bullets** — Ordered Eastward [Of Frost And War] (4:42) `isrc:USMBR0805758` `qobuz:60685598`
+- **Necrovation** — Breed Deadness Blood [Breed Deadness Blood] (4:00) `isrc:USHM20965616` `qobuz:84019436`
+- **Funebrarum** — Perish Beneath [The Sleep of Morbid Dreams] (4:56) `isrc:USX9P2407084` `qobuz:295169289`
+- **DIABOLICAL FULLMOON** — The Pagan Spirit [Resurrection of the Ancient Faith (Unholy Reborn Polish Black Metal Art)] (3:48) `isrc:QZFZ22487799` `qobuz:247767028`
+- **Skeletal Remains** — Beyond Cremation [Condemned To Misery] (4:13) `isrc:GBDHC2019801` `qobuz:342294744`
+- **Ed Sheeran** — I See Fire [The Hobbit: The Desolation of Smaug (Original Motion Picture Soundtrack)] (5:00) `isrc:USNLR1300728` `qobuz:59941828`
+- **Necrot** — Stench of Decay [Mortal] (3:40) `isrc:QM6N22017485` `qobuz:94029654`
+- **Witch Vomit** — Buried Deep in a Bottomless Grave [Buried Deep in a Bottomless Grave] (2:36) `isrc:USJE71912003` `qobuz:62902515`
+- **Tomb Mold** — Abysswalker [Manor of Infinite Forms] (4:21) `isrc:USJE71810103` `qobuz:48836175`
+- **Undeath** — Lesions of a Different Kind [Lesions of a Different Kind] (3:07) `isrc:USERN1010334` `qobuz:95171025`
+- **Frozen Soul** — Crypt of Ice [Crypt Of Ice] (4:23) `isrc:GBDHC2018401` `qobuz:100647797`
+- **200 Stab Wounds** — Masters of Morbidity [Masters of Morbidity] (4:22) `isrc:USMBR2315680` `qobuz:204508369`

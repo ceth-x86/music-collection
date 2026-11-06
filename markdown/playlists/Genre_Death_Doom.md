@@ -1,0 +1,108 @@
+# Genre: Death Doom
+
+Imported genre playlist: Death Doom.
+
+Services: `qobuz:66735530`
+
+## Tracks (100)
+
+- **Frosty The Snow Bro** — Spooky Gloomy Morning [Halloween Lofi: Frosty's Spooky Soundscape] (1:23) `isrc:QT3FE2515225` `qobuz:363053805`
+- **Winter** — Servants of the Warsmen [Into Darkness] (4:23) `isrc:QM4TX2099149` `qobuz:91985985`
+- **Paradise Lost** — Gothic [Gothic] (4:43) `isrc:GBCQV9100048` `qobuz:51000364`
+- **Asphyx** — Vermin [The Rack] (4:02) `isrc:US4E40671602` `qobuz:27524429`
+- **Autopsy** — In the Grip of Winter [Mental Funeral] (4:08) `isrc:GBCQV9100002` `qobuz:50990293`
+- **Escape The Fate** — Not Good Enough For Truth In Cliché [Dying Is Your Latest Fashion] (3:51) `isrc:USEP40622208` `qobuz:77648131`
+- **My Dying Bride** — The Return Of The Beautiful [As the Flowers Withers] (12:49) `isrc:GBCQV9200097` `qobuz:50989965`
+- **Tiamat** — In a Dream [Clouds] (5:12) `isrc:US4E40473601` `qobuz:47536584`
+- **The Gathering** — In Sickness And Health [Always... 30 Year Anniversary Edition] (7:02) `isrc:QZHN62456085` `qobuz:257442010`
+- **Sorrow** — Insatiable [Hatred and Disgust] (6:32) `isrc:NLA322200245` `qobuz:177326283`
+- **Grave Miasma** — Gnosis of the Summon [Exalted Emanation] (5:06) `isrc:USHM91962686` `qobuz:74816436`
+- **Dark Millennium** — Below the Holy Fatherlands [Ashore the Celestial Burden] (5:44) `isrc:US4E41530501` `qobuz:27637494`
+- **Rippikoulu** — Musta seremonia [Musta Seremonia] (6:24) `isrc:DEZ651342485` `qobuz:85898779`
+- **Holly Amber Church** — Unnatural Conception [The Other (Original Motion Picture Soundtrack)] (2:48) `isrc:USHM82533373` `qobuz:339356253`
+- **Katatonia** — Gateways of Bereavement [Dance of December Souls] (8:15) `isrc:GBCQV0700276` `qobuz:50989770`
+- **Anathema** — Sleepless [Serenades] (4:11) `isrc:GBCQV9300014` `qobuz:50990028`
+- **Candlemass** — Mourner's Lament [Nightfall] (6:08) `isrc:GBCQV0700964` `qobuz:50995052`
+- **Decomposed** — Inscriptions [Hope Finally Died...] (7:30) `isrc:GBADD9300301` `qobuz:190290708`
+- **Celestial Season** — Cherish My Pain [Forever Scarlet Passion] (6:37) `isrc:USI4R1010373` `qobuz:71607461`
+- **Beyond Belief** — Shapes of Sorrow [Towards the Diabolical Experiment] (5:16) `isrc:US6R21511337` `qobuz:142131326`
+- **Enchantment** — Kneading With Honey [Dance the Marble Naked] (6:59) `isrc:US4E40576601` `qobuz:27533600`
+- **Tristitia** — Medievil Crucidiction [Doomystic] (4:39) `isrc:QZES62294921` `qobuz:150506538`
+- **Uncanny** — Elohim [Splenium For Nyktophobia] (4:11) `isrc:SE5S61700801` `qobuz:145608345`
+- **Ceremonium** — serenity [INTO THE AUTUMN SHADE] (6:06) `isrc:QZTB42295681` `qobuz:187743015`
+- **Beyond Dawn** — When Beauty Dies [Pity Love] (4:55) `isrc:GBADD0401201` `qobuz:190313671`
+- **Dusk** — Majestic Thou in Ruin [Majestic Thou in Ruin] (8:04) `isrc:TCAEI1955482` `qobuz:128575616`
+- **Mindrot** — Dawning [Dawning] (4:24) `isrc:US2640692501` `qobuz:60650358`
+- **Cemetery Of Scream** — Oceans [Oceans] (2:15) `isrc:USY252324207` `qobuz:229314332`
+- **Novembers Doom** — A Eulogy for the Living Lost [Into Night's Requiem Infernal] (6:30) `isrc:US2420913602` `qobuz:189584244`
+- **On Thorns I Lay** — Oceans [Orama] (6:34) `isrc:NLWJ22200716` `qobuz:279124747`
+- **SATURNUS** — Paradise Belongs To You [Paradise Belongs To You] (10:14) `isrc:DKFDD9600401` `qobuz:58080527`
+- **October Tide** — 12 Days Of Rain [12 Days Of Rain] (7:08) `isrc:SE5S62108201` `qobuz:137925962`
+- **The Miracles** — The Tracks Of My Tears [Going To A Go-Go] (2:55) `isrc:USMO16572026` `qobuz:63333706`
+- **Runemagick** — At Horizon's End [The Supreme Force Of Eternity] (8:01) `isrc:GBDHC0502351` `qobuz:27580046`
+- **Hyunmin Cho** — Silent Street (Type A) [STELLAR BLADE ORIGINAL SOUNDTRACK] (6:10) `isrc:KRB472401787` `qobuz:290893922`
+- **Morgion** — Solinari [Solinari] (2:26) `isrc:US2649941503` `qobuz:28813173`
+- **Novembre** — Nostalgiaplatz [Classica] (4:31) `isrc:GBDHC0502563` `qobuz:27555539`
+- **Mourning Beloveth** — Narcissistic Funeral [The Sullen Sulcus] (13:33) `isrc:QZHNA2234526` `qobuz:157661906`
+- **Daylight Dies** — Sunset [A Frail Becoming] (6:04) `isrc:GBADD1228303` `qobuz:189964827`
+- **Swallow The Sun** — Through Her Silvery Body [The Morning Never Came] (8:42) `isrc:FIFX90300029` `qobuz:190485382`
+- **Samedy Lyrich** — I'm Drowning the Memories [Withered Sunflowers] (4:32) `isrc:GXH2J2672570` `qobuz:429252196`
+- **FALL OF EMPYREAN** — Bereft [A Life Spent Dying] (2:16) `isrc:DENP90600024` `qobuz:102598226`
+- **Lana Del Rey** — Summertime Sadness [Born To Die] (4:25) `isrc:GBUM71111565` `qobuz:31887423`
+- **Slumber** — Rapture [Fallout] (5:02) `isrc:NLKRM0806201` `qobuz:145709132`
+- **Mar De Grises** — Recklessness [The Tatterdemalion Express (Remastered 2020)] (5:43) `isrc:TCAFC2023975` `qobuz:127138760`
+- **Ataraxie** — Slow Transcending Agony [Slow Transcending Agony (Remastered)] (11:43) `isrc:TCAHT2479330` `qobuz:248113814`
+- **Inborn Suffering** — Regression to Nothingness [Regression to Nothingness] (11:20) `isrc:USY242416307` `qobuz:302277809`
+- **Ruby Hughes** — The shadow of my sorrow [Amidst the Shades] (3:06) `isrc:SEAEC2598200` `qobuz:367250701`
+- **Doom:VS** — Empire of the Fallen [Aeternum Vale] (5:40) `isrc:CH6542058869` `qobuz:94613219`
+- **Ablaze in Hatred** — The Quietude Plains [The Quietude Plains] (8:52) `isrc:US6R21391374` `qobuz:71584092`
+- **Tiamat** — The Desolate One [A Deeper Kind of Slumber] (3:44) `isrc:US4E40488004` `qobuz:27574109`
+- **Ghost Brigade** — My Heart Is a Tomb [Isolation Songs] (4:27) `isrc:FR33T0920202` `qobuz:77789003`
+- **Hanging Garden** — Sleep Of Ages [Inherit The Eden] (7:58) `isrc:FISFS0600194` `qobuz:190392590`
+- **Woody Jackson** — Blessed Are The Peacemakers [The Music of Red Dead Redemption 2 (Original Score)] (3:41) `isrc:USLS51945803` `qobuz:63458550`
+- **Undead God** — Drinking From a Stream of Misery [Heavy Throes of Doom] (3:12) `isrc:QT3F32687110` `qobuz:422847068`
+- **The Howling Void** — Shadows over the Cosmos [Shadows over the Cosmos] (14:56) `isrc:CH6542058846` `qobuz:94853986`
+- **The 11th Hour** — One Last Smoke [Burden Of Grief] (6:43) `isrc:ATN260931201` `qobuz:28457370`
+- **Hooded Menace** — The Torture Never Stops [The Tritonus Bell] (4:07) `isrc:FR33T2161708` `qobuz:121145412`
+- **James Blake** — Obsession [Trying Times] (1:40) `isrc:USA2P2565571` `qobuz:400965287`
+- **Solothus** — The Betrayer [No King Reigns Eternal] (6:39) `isrc:DEZ651371323` `qobuz:156738097`
+- **Swallow The Sun** — Night Will Forgive Us [Emerald Forest And The Blackbird] (6:41) `isrc:FIUM71101334` `qobuz:190270735`
+- **Kaunis Kuolematon** — Eloton [Vapaus] (4:50) `isrc:FIF3W1700002` `qobuz:204492049`
+- **Aural Float** — Soulsearching [Freefloat] (5:46) `isrc:DEY600100004` `qobuz:31097966`
+- **Coffins** — Craving to Eternal Slumber [Defilements] (7:08) `isrc:USX9P2013469` `qobuz:110023981`
+- **Burgerkill** — Suffer to Death [Beyond Coma and Despair] (5:49) `isrc:USL4Q1871537` `qobuz:71010330`
+- **Fractal Gates** — The Light That Shines [The Light That Shines] (3:06) `isrc:USCGJ1895884` `qobuz:75932356`
+- **Krypts** — Remnants of Expansion [Remnants of Expansion] (3:43) `isrc:QM4TW1645501` `qobuz:103866268`
+- **Marty O'Reilly & the Old Soul Orchestra** — Fish In A Rut [Stereoscope] (4:10) `isrc:QZAAH1700004` `qobuz:234381793`
+- **Seeming Emptiness** — Heavy Rain [Heavy Rain] (7:09) `isrc:DEAR41626121` `qobuz:32939309`
+- **Temple of Void** — A Watery Internment [Lords of Death] (5:48) `isrc:USHM81727130` `qobuz:91093871`
+- **Spectral Voice** — Dissolution [Eroded Corridors of Unbeing] (9:37) `isrc:QM6N21787600` `qobuz:79902457`
+- **Innumerable Forms** — Punishment in Flesh [Punishment in Flesh] (5:19) `isrc:USN681818602` `qobuz:52297724`
+- **Hamferð** — Deyðir varðar [Evst] (8:45) `isrc:FR6V82021759` `qobuz:12360255`
+- **Make Them Suffer** — Save Yourself [Worlds Apart] (4:42) `isrc:AUWA01700166` `qobuz:385321560`
+- **Chris Wilson** — The House of Blue Lights [A.P.C. Presents: Slow Death Live] (2:37) `isrc:FR92V1200003` `qobuz:5994697`
+- **Ocean of Grief** — Spiritual Fortress [Fortress of My Dark Self] (4:33) `isrc:UKCVA1600555` `qobuz:113271545`
+- **Collapse Of Light** — Leaving the Light Behind [Each Failing Step] (14:16) `isrc:UKCVA1801804` `qobuz:299815127`
+- **Carly Simon** — In the Wee Small Hours of the Morning [My Romance] (3:16) `isrc:USAR19000163` `qobuz:202023`
+- **Chœur grégorien de Paris** — Ad laudes. Sacerdotis sui preces [Officium Sancti Willibrordi] (1:34) `isrc:USB8U1614649` `qobuz:303419348`
+- **Kem** — Divine Order [Kem Album II] (4:25) `isrc:USMO10500569` `qobuz:91401963`
+- **Altars of Grief** — Isolation [Iris] (9:19) `isrc:USCGH1863306` `qobuz:84384681`
+- **Aeonian Sorrow** — Hopeless Suicide [A Life Without] (9:07) `isrc:USL4Q1999968` `qobuz:82338122`
+- **Ocean Sounds** — Waves Of Solace [* soft ocean waves 40 hz *] (3:04) `isrc:QZWE92200880` `qobuz:198225114`
+- **Eternal Storm** — Through the Wall of Light Pt. I [Come the Tide] (6:48) `isrc:QMEU31915667` `qobuz:85957164`
+- **Mortiferum** — Archaic Vision of Despair [Disgorged from Psychotic Depths] (7:53) `isrc:USN681923101` `qobuz:74630598`
+- **Officium Triste** — The End is Nigh [The Death of Gaia] (7:24) `isrc:QMEU31918898` `qobuz:85960287`
+- **Void Rot** — Descending Pillars [Descending Pillars] (8:33) `isrc:USHM82062279` `qobuz:99630840`
+- **Konvent** — Puritan Masochism [Puritan Masochism] (4:41) `isrc:ATN262090401` `qobuz:79845013`
+- **Tzompantli** — Tlatzintilli [Tlazcaltiliztli] (4:33) `isrc:USJE72215402` `qobuz:152781185`
+- **Red Moon Architect** — Journey [Return of the Black Butterflies] (5:37) `isrc:FI3FC1725304` `qobuz:40805460`
+- **Decembre Noir** — Hope/Renaissance [The Renaissance of Hope] (9:00) `isrc:US94P2020102` `qobuz:100550801`
+- **Dream Unending** — Songs Of Salvation [Songs of Salvation] (14:05) `isrc:USJE72216701` `qobuz:172081696`
+- **Worm** — Foreverglade [Foreverglade] (5:26) `isrc:USJE72113901` `qobuz:130022049`
+- **Civerous** — Herodacy [Decrepit Flesh Relic] (6:43) `isrc:USL4Q2171645` `qobuz:137091359`
+- **False Body** — Peace of Mind [Leaving to Mourn] (1:12) `isrc:QZFZ42505033` `qobuz:316685021`
+- **Mother of Graves** — In Somber Dreams [In Somber Dreams] (5:06) `isrc:USL4R2051950` `qobuz:104829183`
+- **Drift into Black** — Weight of Two Worlds [Earthtorn] (9:56) `isrc:SE5DN1275107` `qobuz:147735208`
+- **Suffocate For Fuck Sake** — I Got Worried... I Was so Freaking Scared of That Window, You Know [Blazing Fires and Helicopters on the Frontpage of the Newspaper. There's a War Going on and I'm Marching in Heavy Boots] (7:04) `isrc:SE3OH1623027` `qobuz:102384371`
+- **Fossilization** — Leprous Daylight [Leprous Daylight] (5:03) `isrc:USHM82382155` `qobuz:218663694`
+- **Slimelord** — The Beckoning Bell [Chytridiomycosis Relinquished] (7:08) `isrc:USJE72417701` `qobuz:247067509`

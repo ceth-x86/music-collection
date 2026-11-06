@@ -1,0 +1,1010 @@
+{
+  "name": "Genre: Hard Trance",
+  "services": {
+    "qobuz": "66721061",
+    "tidal": "4d566d57-8bd7-49e6-8636-8233c990bf00"
+  },
+  "description": "Imported genre playlist: Hard Trance.",
+  "tracks": [
+    {
+      "artist": "Jones & Stephenson",
+      "title": "The First Rebirth",
+      "services": {
+        "qobuz": "107172040"
+      },
+      "album": "The First Rebirth",
+      "duration": 274,
+      "isrc": "BEZ452010447"
+    },
+    {
+      "artist": "Yves Deruyter",
+      "title": "Rave Cloud",
+      "services": {
+        "qobuz": "131917672"
+      },
+      "album": "Rave Cloud / Mind Attack",
+      "duration": 369,
+      "isrc": "BEDB92100001"
+    },
+    {
+      "artist": "Joe Williams",
+      "title": "Wrap Your Troubles in Dreams (And Dream Your Troubles Away)",
+      "services": {
+        "qobuz": "20798336"
+      },
+      "album": "Jump for Joy",
+      "duration": 133,
+      "isrc": "USBB16301052"
+    },
+    {
+      "artist": "Glass Animals",
+      "title": "Melon and the Coconut",
+      "services": {
+        "qobuz": "93517301"
+      },
+      "album": "Dreamland",
+      "duration": 148,
+      "isrc": "GBUM72000422"
+    },
+    {
+      "artist": "Thunderball",
+      "title": "Bonzai Channel One",
+      "services": {
+        "qobuz": "299232723"
+      },
+      "album": "Bonzai Channel One",
+      "duration": 155,
+      "isrc": "BEIW12400720"
+    },
+    {
+      "artist": "Cherry Moon Trax",
+      "title": "Let There Be House",
+      "services": {
+        "qobuz": "57251816"
+      },
+      "album": "Brave 002",
+      "duration": 441,
+      "isrc": "NLCK41001313"
+    },
+    {
+      "artist": "System 7",
+      "title": "Back to Reality",
+      "services": {
+        "qobuz": "3898975"
+      },
+      "album": "Encantado",
+      "duration": 478,
+      "isrc": "GBDPW0400003"
+    },
+    {
+      "artist": "Blue Alphabet",
+      "title": "Cybertrance",
+      "services": {
+        "qobuz": "347362185"
+      },
+      "album": "The Sound Of Belgium Vol. 3",
+      "duration": 323,
+      "isrc": "BEZ451200624"
+    },
+    {
+      "artist": "Indigenous Resistance",
+      "title": "Galdino Jesus Dos Santos 2010",
+      "services": {
+        "qobuz": "27029528"
+      },
+      "album": "IR 36 Galdino",
+      "duration": 310,
+      "isrc": "FRX871597355"
+    },
+    {
+      "artist": "Sunbeam",
+      "title": "Outside World",
+      "services": {
+        "qobuz": "259633380"
+      },
+      "album": "Outside World",
+      "duration": 215,
+      "isrc": "DEN060301417"
+    },
+    {
+      "artist": "Eminem",
+      "title": "Venom",
+      "services": {
+        "qobuz": "53709051"
+      },
+      "album": "Kamikaze",
+      "duration": 269,
+      "isrc": "USUM71813345"
+    },
+    {
+      "artist": "ULTRA SHOCK",
+      "title": "The Sound Of E",
+      "services": {
+        "qobuz": "378125666"
+      },
+      "album": "The Sound Of E",
+      "duration": 202,
+      "isrc": "BE9GI1800017"
+    },
+    {
+      "artist": "Ecstasy, Passion & Pain",
+      "title": "Touch and Go",
+      "services": {
+        "qobuz": "37805823"
+      },
+      "album": "Ecstasy, Passion & Pain",
+      "duration": 306,
+      "isrc": "GBAYE7600438"
+    },
+    {
+      "artist": "DRS",
+      "title": "Contact",
+      "services": {
+        "qobuz": "119974582"
+      },
+      "album": "DRS Remix Album",
+      "duration": 212,
+      "isrc": "NLFL72100272"
+    },
+    {
+      "artist": "Ritmi per Bambini",
+      "title": "Giornata di Sole con il Pony",
+      "services": {
+        "qobuz": "402411439"
+      },
+      "album": "Pony Che Balla",
+      "duration": 112,
+      "isrc": "QT2VB2609706"
+    },
+    {
+      "artist": "Komakino",
+      "title": "Man on Mars",
+      "services": {
+        "qobuz": "30200994"
+      },
+      "album": "Man on Mars",
+      "duration": 497,
+      "isrc": "DEN061600096"
+    },
+    {
+      "artist": "Aether Realm",
+      "title": "The Chariot",
+      "services": {
+        "qobuz": "93413798"
+      },
+      "album": "Tarot",
+      "duration": 384,
+      "isrc": "TCADB1712238"
+    },
+    {
+      "artist": "Dreaming Cooper",
+      "title": "Liquid Flow",
+      "services": {
+        "qobuz": "39126531"
+      },
+      "album": "Parallels",
+      "duration": 456,
+      "isrc": "USLZJ1725538"
+    },
+    {
+      "artist": "Alien Ant Farm",
+      "title": "Smooth Criminal",
+      "services": {
+        "qobuz": "699960"
+      },
+      "album": "Anthology",
+      "duration": 209,
+      "isrc": "USDW10022224"
+    },
+    {
+      "artist": "Elbow",
+      "title": "Forget Myself",
+      "services": {
+        "qobuz": "880646"
+      },
+      "album": "Leaders Of The Free World",
+      "duration": 322,
+      "isrc": "GBBLK0500156"
+    },
+    {
+      "artist": "B.G. The Prince Of Rap",
+      "title": "Take Control of the Party",
+      "services": {
+        "qobuz": "17111808"
+      },
+      "album": "90's Eurodance, Vol. 2 - 20 Eurodance Essentials",
+      "duration": 400,
+      "isrc": "DEMW61400020"
+    },
+    {
+      "artist": "Boyz II Men",
+      "title": "Motownphilly",
+      "services": {
+        "qobuz": "8699248"
+      },
+      "album": "Cooleyhighharmony",
+      "duration": 235,
+      "isrc": "USMO19190022"
+    },
+    {
+      "artist": "Nikolai",
+      "title": "Ready to Flow",
+      "services": {
+        "qobuz": "51612879"
+      },
+      "album": "Nikolai EP",
+      "duration": 300,
+      "isrc": "DEN061201055"
+    },
+    {
+      "artist": "Terry Bones",
+      "title": "Dreaming",
+      "services": {
+        "qobuz": "193861520"
+      },
+      "album": "Dreaming",
+      "duration": 241,
+      "isrc": "FR2X42303552"
+    },
+    {
+      "artist": "Gen X Traveller",
+      "title": "Boesmanland",
+      "services": {
+        "qobuz": "427842317"
+      },
+      "album": "Boesmanland",
+      "duration": 238,
+      "isrc": "QT6E72605952"
+    },
+    {
+      "artist": "Katy Perry",
+      "title": "The One That Got Away",
+      "services": {
+        "qobuz": "4581935"
+      },
+      "album": "The One That Got Away",
+      "duration": 365,
+      "isrc": "USCA21102726"
+    },
+    {
+      "artist": "Fritz Van Dank",
+      "title": "D\u00fcb",
+      "services": {
+        "qobuz": "33095403"
+      },
+      "album": "Bring Minimal to Berlin",
+      "duration": 304,
+      "isrc": "DEY941401974"
+    },
+    {
+      "artist": "Julie Dexter",
+      "title": "Mankind",
+      "services": {
+        "qobuz": "126822458"
+      },
+      "album": "D\u00e9j\u00e0 Vu",
+      "duration": 291,
+      "isrc": "TCAEG1962603"
+    },
+    {
+      "artist": "Arrakis",
+      "title": "The Spice",
+      "services": {
+        "qobuz": "232519823"
+      },
+      "album": "The Spice",
+      "duration": 427,
+      "isrc": "DEXO22394096"
+    },
+    {
+      "artist": "Hennes & Cold",
+      "title": "First Step",
+      "services": {
+        "qobuz": "17228683"
+      },
+      "album": "Works",
+      "duration": 461,
+      "isrc": "DEBL60334717"
+    },
+    {
+      "artist": "Scot Project",
+      "title": "O (Overdrive)",
+      "services": {
+        "qobuz": "106984641"
+      },
+      "album": "O (Overdrive)",
+      "duration": 357,
+      "isrc": "GBLV62006169"
+    },
+    {
+      "artist": "Atome Libre",
+      "title": "Hope Screaming",
+      "services": {
+        "qobuz": "305293844"
+      },
+      "album": "Lost in Thought",
+      "duration": 236,
+      "isrc": "CH6542477688"
+    },
+    {
+      "artist": "M-Pire Project",
+      "title": "Disco Fanz 2000",
+      "services": {
+        "qobuz": "77212202"
+      },
+      "album": "Trance Voyages (Continuous DJ Mix by Vicious Vic)",
+      "duration": 287,
+      "isrc": "USWR30920005"
+    },
+    {
+      "artist": "DJ Energy",
+      "title": "Enter the Future",
+      "services": {
+        "qobuz": "35426698"
+      },
+      "album": "Best of 1995 - 2005",
+      "duration": 286,
+      "isrc": "CH1689900084"
+    },
+    {
+      "artist": "Warp Brothers",
+      "title": "Blast the Speakers",
+      "services": {
+        "qobuz": "109049144"
+      },
+      "album": "Blast the Speakers",
+      "duration": 425,
+      "isrc": "DEDOD5339676"
+    },
+    {
+      "artist": "Quality Sound",
+      "title": "Give Energy",
+      "services": {
+        "qobuz": "78034088"
+      },
+      "album": "Each Type of Music - Greatest Mix, Sound of Silence, Moment Rest, Relaxation and Total Restart, Wonderful Time for Tea",
+      "duration": 204,
+      "isrc": "QZ6P91603865"
+    },
+    {
+      "artist": "Susanne Sundf\u00f8r",
+      "title": "Can You Feel The Thunder",
+      "services": {
+        "qobuz": "44017916"
+      },
+      "album": "The Silicone Veil",
+      "duration": 296,
+      "isrc": "NO2EY1201040"
+    },
+    {
+      "artist": "Y.a.g.o.",
+      "title": "The Dark",
+      "services": {
+        "qobuz": "406930397"
+      },
+      "album": "Collective Pulse E.P.",
+      "duration": 319,
+      "isrc": "CH6542658611"
+    },
+    {
+      "artist": "T. Rex",
+      "title": "Satisfaction Pony",
+      "services": {
+        "qobuz": "212059790"
+      },
+      "album": "Whatever Happened to the Teenage Dream? (1973)",
+      "duration": 167,
+      "isrc": "GBBLG1400053"
+    },
+    {
+      "artist": "BloodDropz!",
+      "title": "Only You",
+      "services": {
+        "qobuz": "349873125"
+      },
+      "album": "Pain Of My Soul",
+      "duration": 399,
+      "isrc": "GBKQU2570461"
+    },
+    {
+      "artist": "Nostrum",
+      "title": "Blow Back",
+      "services": {
+        "qobuz": "43968167"
+      },
+      "album": "The Ultimate Trance Classics, Vol. 1 (30 All-Time Killers)",
+      "duration": 374,
+      "isrc": "DELM40900163"
+    },
+    {
+      "artist": "Pascal Dubois",
+      "title": "Soda Club",
+      "services": {
+        "qobuz": "49856858"
+      },
+      "album": "Beachdancer - The Chill House Fly",
+      "duration": 261,
+      "isrc": "DEH330902189"
+    },
+    {
+      "artist": "Klangfeld",
+      "title": "Free 2018",
+      "services": {
+        "qobuz": "45845177"
+      },
+      "album": "Free 2018",
+      "duration": 487,
+      "isrc": "DERH81707405"
+    },
+    {
+      "artist": "Chrissie Hynde",
+      "title": "Can\u2019t Help Falling In Love (feat. Mark Lanegan)",
+      "services": {
+        "qobuz": "356423771"
+      },
+      "album": "Duets Special",
+      "duration": 196,
+      "isrc": "GBAYE2501033"
+    },
+    {
+      "artist": "Dumonde",
+      "title": "God Music",
+      "services": {
+        "qobuz": "9787119"
+      },
+      "album": "God Music",
+      "duration": 526,
+      "isrc": "DEBL60678344"
+    },
+    {
+      "artist": "Cosmic Gate",
+      "title": "Fire Wire",
+      "services": {
+        "qobuz": "43538122"
+      },
+      "album": "Fire Wire",
+      "duration": 171,
+      "isrc": "NLD681702435"
+    },
+    {
+      "artist": "DERB",
+      "title": "Derb",
+      "services": {
+        "qobuz": "17228549"
+      },
+      "album": "Derb Works",
+      "duration": 212,
+      "isrc": "DEBL60331811"
+    },
+    {
+      "artist": "Move D",
+      "title": "To the Disco \u201877",
+      "services": {
+        "qobuz": "106926015"
+      },
+      "album": "To the Disco \u201877 & Hybrid Minds Remixes",
+      "duration": 419,
+      "isrc": "GBWFX1300088"
+    },
+    {
+      "artist": "Ambassador",
+      "title": "The Fade",
+      "services": {
+        "qobuz": "15382316"
+      },
+      "album": "Smash Trax - The Collection",
+      "duration": 425,
+      "isrc": "NLE801400033"
+    },
+    {
+      "artist": "De Donatis",
+      "title": "Angel 2010",
+      "services": {
+        "qobuz": "113480254"
+      },
+      "album": "Angel 2010",
+      "duration": 464,
+      "isrc": "GBKQU1011438"
+    },
+    {
+      "artist": "Milli Vanilli",
+      "title": "All or Nothing",
+      "services": {
+        "qobuz": "15708697"
+      },
+      "album": "All Or Nothing US Remix Album",
+      "duration": 271,
+      "isrc": "DED168900012"
+    },
+    {
+      "artist": "Summer Pool Party Chillout Music",
+      "title": "Deeper Every Time",
+      "services": {
+        "qobuz": "210955769"
+      },
+      "album": "VIP Topless Pool Party: Deep House Summer Mix, Private Club Hotel Lounge Set, Midnight Hot Chillout Music",
+      "duration": 271,
+      "isrc": "UKR4Q2063764"
+    },
+    {
+      "artist": "C. Da Afro",
+      "title": "Funk-O-Holic",
+      "services": {
+        "qobuz": "110495128"
+      },
+      "album": "Funk-O-Holic",
+      "duration": 366,
+      "isrc": "GBKQU1752668"
+    },
+    {
+      "artist": "68 Beats",
+      "title": "Afterhours",
+      "services": {
+        "qobuz": "74428758"
+      },
+      "album": "After Midnight - Mixed By Eartight",
+      "duration": 436,
+      "isrc": "USGZ20716156"
+    },
+    {
+      "artist": "Dr. Motte",
+      "title": "Our Future Is Now",
+      "services": {
+        "qobuz": "339890271"
+      },
+      "album": "Our Future Is Now",
+      "duration": 471,
+      "isrc": "DEY472575527"
+    },
+    {
+      "artist": "X-Coast",
+      "title": "Da Boing Boing Trak (Partiboi69 Remix)",
+      "services": {
+        "qobuz": "400872052"
+      },
+      "album": "Da Boing Boing Trak",
+      "duration": 257,
+      "isrc": "USZ4V2600017"
+    },
+    {
+      "artist": "Croatia Squad",
+      "title": "We Don't Need No Sleep",
+      "services": {
+        "qobuz": "35004911"
+      },
+      "album": "We Don't Need No Sleep",
+      "duration": 299,
+      "isrc": "CH3131613216"
+    },
+    {
+      "artist": "RM",
+      "title": "Godspeech",
+      "services": {
+        "qobuz": "112009785"
+      },
+      "album": "The Ultimate Ronnie Minder Dance Collection Pt. 2",
+      "duration": 479,
+      "isrc": "GBKQU1475365"
+    },
+    {
+      "artist": "Laylah",
+      "title": "Outta Control (Chris \"The Greek\" Panaghi Club Mix)",
+      "services": {
+        "qobuz": "65147105"
+      },
+      "album": "100 Dance Workout Hits 2 - Techno, Electro, House, Trance Exercise & Aerobics Music",
+      "duration": 298,
+      "isrc": "USA561059451"
+    },
+    {
+      "artist": "Yoji Biomehanika",
+      "title": "Ding A Ling",
+      "services": {
+        "qobuz": "110128325"
+      },
+      "album": "A Quarter Century Of Yoji Biomehanika [The Era of Hard Dance 2000-2005]",
+      "duration": 553,
+      "isrc": "GBLV61719468"
+    },
+    {
+      "artist": "Kai Tracid",
+      "title": "Trance & Acid",
+      "services": {
+        "qobuz": "54810907"
+      },
+      "album": "Trance & Acid",
+      "duration": 424,
+      "isrc": "DEAF71108117"
+    },
+    {
+      "artist": "Alphazone",
+      "title": "Alphazone \"Stay\"",
+      "services": {
+        "qobuz": "48828517"
+      },
+      "album": "Alphazone \"Stay\"",
+      "duration": 425,
+      "isrc": "DEZ650522629"
+    },
+    {
+      "artist": "Megara vs DJ Lee",
+      "title": "Hold Your Hands Up High",
+      "services": {
+        "qobuz": "1957519"
+      },
+      "album": "Hold Your Hands Up High",
+      "duration": 396,
+      "isrc": "DEA340300993"
+    },
+    {
+      "artist": "Organ Donors",
+      "title": "Turntablism",
+      "services": {
+        "qobuz": "113603898"
+      },
+      "album": "Ultimate Tidy Downunder",
+      "duration": 215,
+      "isrc": "GBKQU2030441"
+    },
+    {
+      "artist": "Liquid Child",
+      "title": "Diving Faces",
+      "services": {
+        "qobuz": "378305425"
+      },
+      "album": "Trance Legacy III",
+      "duration": 221,
+      "isrc": "DEKB71655943"
+    },
+    {
+      "artist": "Rodd-y-ler",
+      "title": "Lifesigns",
+      "services": {
+        "qobuz": "259570352"
+      },
+      "album": "The Art Work E.P.",
+      "duration": 502,
+      "isrc": "DEN062400250"
+    },
+    {
+      "artist": "Genlog",
+      "title": "Mockmoon",
+      "services": {
+        "qobuz": "127776082"
+      },
+      "album": "Genlog, Vol. 1",
+      "duration": 342,
+      "isrc": "DEOY71300015"
+    },
+    {
+      "artist": "House Boulevard",
+      "title": "Set Me Free",
+      "services": {
+        "qobuz": "174318113"
+      },
+      "album": "Set Me Free",
+      "duration": 364,
+      "isrc": "BRAEE0700026"
+    },
+    {
+      "artist": "Kylie Minogue",
+      "title": "Breathe",
+      "services": {
+        "qobuz": "375864459"
+      },
+      "album": "12\" Masters - Essential Mixes",
+      "duration": 404,
+      "isrc": "GBARL9800012"
+    },
+    {
+      "artist": "Hi-Gate",
+      "title": "Caned And Unable",
+      "services": {
+        "qobuz": "144880944"
+      },
+      "album": "I Can Hear Voices - Caned And Unable",
+      "duration": 450,
+      "isrc": "GBKQU2208341"
+    },
+    {
+      "artist": "Warp Brothers",
+      "title": "We Will Survive",
+      "services": {
+        "qobuz": "94782231"
+      },
+      "album": "We Will Survive (Egbert & Lilly Palmer 2020 Rework)",
+      "duration": 249,
+      "isrc": "DEPI82014172"
+    },
+    {
+      "artist": "Nick Muir",
+      "title": "Fu Man Chew",
+      "services": {
+        "qobuz": "6133610"
+      },
+      "album": "Fu Man Chew",
+      "duration": 483,
+      "isrc": "GBTQZ0600282"
+    },
+    {
+      "artist": "VooDoo & Serano",
+      "title": "Blood Is Pumpin'",
+      "services": {
+        "qobuz": "319757472"
+      },
+      "album": "Blood Is Pumpin'",
+      "duration": 206,
+      "isrc": "DEUE22568384"
+    },
+    {
+      "artist": "Steve Hill",
+      "title": "Things Can Only Get Better (Original Mix) [feat. Biggzy]",
+      "services": {
+        "qobuz": "70029676"
+      },
+      "album": "Things Can Only Get Better (feat. Biggzy)",
+      "duration": 331,
+      "isrc": "AUXN21330526"
+    },
+    {
+      "artist": "Guyver",
+      "title": "You'll Know It",
+      "services": {
+        "qobuz": "113609372"
+      },
+      "album": "Keep It Tidy 4: 2002 - 2004",
+      "duration": 432,
+      "isrc": "GBKQU1982190"
+    },
+    {
+      "artist": "The Generator",
+      "title": "Where Are You Now?",
+      "services": {
+        "qobuz": "107192361"
+      },
+      "album": "Tidy vs Nukleuz, Vol. 1",
+      "duration": 332,
+      "isrc": "GBKQU2062047"
+    },
+    {
+      "artist": "Esperanza Spalding",
+      "title": "Formwela 4",
+      "services": {
+        "qobuz": "131627339"
+      },
+      "album": "SONGWRIGHTS APOTHECARY LAB",
+      "duration": 259,
+      "isrc": "USC4R2108236"
+    },
+    {
+      "artist": "Yakooza",
+      "title": "French Kiss",
+      "services": {
+        "qobuz": "54887687"
+      },
+      "album": "Techno Classics 1990-2010",
+      "duration": 464,
+      "isrc": "DEAF70933090"
+    },
+    {
+      "artist": "Ellrich & Plaice",
+      "title": "Fucking Society",
+      "services": {
+        "qobuz": "50261358"
+      },
+      "album": "Fucking Society (The Remixes)",
+      "duration": 395,
+      "isrc": "NLC281010037"
+    },
+    {
+      "artist": "Bruno Mars",
+      "title": "That's What I Like (feat. Gucci Mane)",
+      "services": {
+        "qobuz": "40308913"
+      },
+      "album": "That's What I Like (feat. Gucci Mane)",
+      "duration": 235,
+      "isrc": "USAT21701157"
+    },
+    {
+      "artist": "The Wings Of End Day",
+      "title": "You Will Always Be My Angel",
+      "services": {
+        "qobuz": "36807927"
+      },
+      "album": "Despair of Resentment (2016 Death Black Metal)",
+      "duration": 310,
+      "isrc": "RUA491611436"
+    },
+    {
+      "artist": "Beam",
+      "title": "Amun 2020",
+      "services": {
+        "qobuz": "104039639"
+      },
+      "album": "Amun 2020",
+      "duration": 291,
+      "isrc": "DEPI82021164"
+    },
+    {
+      "artist": "Heaven's Cry",
+      "title": "Til Tears Do Us Part",
+      "services": {
+        "qobuz": "113603904"
+      },
+      "album": "Ultimate Tidy Downunder",
+      "duration": 243,
+      "isrc": "GBKQU2030447"
+    },
+    {
+      "artist": "Global Cee",
+      "title": "Burnin",
+      "services": {
+        "qobuz": "195325331"
+      },
+      "album": "All in One",
+      "duration": 538,
+      "isrc": "FR2X42343814"
+    },
+    {
+      "artist": "NU NRG",
+      "title": "Casino",
+      "services": {
+        "qobuz": "46715920"
+      },
+      "album": "Casino",
+      "duration": 480,
+      "isrc": "FR10S1804888"
+    },
+    {
+      "artist": "Acute Inflections",
+      "title": "Exodus",
+      "services": {
+        "qobuz": "120661825"
+      },
+      "album": "400",
+      "duration": 288,
+      "isrc": "GX38U2101590"
+    },
+    {
+      "artist": "Adz",
+      "title": "Hypnotizin'",
+      "services": {
+        "qobuz": "354237391"
+      },
+      "album": "Hard Trance Anthems",
+      "duration": 471,
+      "isrc": "GBKQU2415688"
+    },
+    {
+      "artist": "Eden Project",
+      "title": "Mummy (Lost In Trance)",
+      "services": {
+        "qobuz": "354237392"
+      },
+      "album": "Hard Trance Anthems",
+      "duration": 551,
+      "isrc": "GBKQU2415656"
+    },
+    {
+      "artist": "Lee Osbourne",
+      "title": "Twisted",
+      "services": {
+        "qobuz": "354237393"
+      },
+      "album": "Hard Trance Anthems",
+      "duration": 420,
+      "isrc": "GBKQU2415701"
+    },
+    {
+      "artist": "Misfit",
+      "title": "Session 273",
+      "services": {
+        "qobuz": "354237394"
+      },
+      "album": "Hard Trance Anthems",
+      "duration": 277,
+      "isrc": "GBKQU2184568"
+    },
+    {
+      "artist": "Pmx",
+      "title": "Radiate",
+      "services": {
+        "qobuz": "354237395"
+      },
+      "album": "Hard Trance Anthems",
+      "duration": 333,
+      "isrc": "GBKQU2138658"
+    },
+    {
+      "artist": "Scott Attrill",
+      "title": "Dangerous",
+      "services": {
+        "qobuz": "354237397"
+      },
+      "album": "Hard Trance Anthems",
+      "duration": 403,
+      "isrc": "GBKQU2415848"
+    },
+    {
+      "artist": "Trevor McLachlan",
+      "title": "Imagination",
+      "services": {
+        "qobuz": "354237398"
+      },
+      "album": "Hard Trance Anthems",
+      "duration": 463,
+      "isrc": "GBKQU2415696"
+    },
+    {
+      "artist": "Vinylgroover",
+      "title": "Wave Racer",
+      "services": {
+        "qobuz": "354237399"
+      },
+      "album": "Hard Trance Anthems",
+      "duration": 388,
+      "isrc": "GBKQU2533505"
+    },
+    {
+      "artist": "Future Disciple",
+      "title": "28 Tracks Later",
+      "services": {
+        "qobuz": "314508477"
+      },
+      "album": "Traffic Hidden Gems Vol 2",
+      "duration": 439,
+      "isrc": "GBKQU1141362"
+    },
+    {
+      "artist": "Mark Young",
+      "title": "Reality Check",
+      "services": {
+        "qobuz": "354237401"
+      },
+      "album": "Hard Trance Anthems",
+      "duration": 395,
+      "isrc": "GBNHK1000054"
+    },
+    {
+      "artist": "Tommie Quick",
+      "title": "Signs",
+      "services": {
+        "qobuz": "354237403"
+      },
+      "album": "Hard Trance Anthems",
+      "duration": 437,
+      "isrc": "GBNHK1000059"
+    },
+    {
+      "artist": "DJ Zilos",
+      "title": "Always Changing (Giuseppe D.'s Midnight Club Mix) [feat. Sophia Cruz]",
+      "services": {
+        "qobuz": "65150114"
+      },
+      "album": "House Party - This Is House Music (Minimal, Progressive, Tech, Electro, Tribal, Deep, Euro)",
+      "duration": 330,
+      "isrc": "USA371248577"
+    },
+    {
+      "artist": "Leon B",
+      "title": "Fallen Star",
+      "services": {
+        "qobuz": "354237408"
+      },
+      "album": "Hard Trance Anthems",
+      "duration": 445,
+      "isrc": "GBKQU1166804"
+    },
+    {
+      "artist": "Steve Knoxx",
+      "title": "La Musica",
+      "services": {
+        "qobuz": "380347579"
+      },
+      "album": "Hardcore Trance Euphoria",
+      "duration": 229,
+      "isrc": "GBKQU2477491"
+    }
+  ]
+}

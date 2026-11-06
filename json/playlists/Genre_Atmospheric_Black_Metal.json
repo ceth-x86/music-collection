@@ -1,0 +1,760 @@
+{
+  "name": "Genre: Atmospheric Black Metal",
+  "services": {
+    "qobuz": "66734064",
+    "tidal": "16d8a25b-44fd-4039-99f4-b58663cf8228"
+  },
+  "description": "Imported genre playlist: Atmospheric Black Metal.",
+  "tracks": [
+    {
+      "artist": "Summoning",
+      "title": "The Passing of the Grey Company",
+      "services": {
+        "qobuz": "37309414"
+      },
+      "album": "Minas Morgul",
+      "duration": 556,
+      "isrc": "ATN269501303"
+    },
+    {
+      "artist": "Ulver",
+      "title": "I Troldskog Faren Vild",
+      "services": {
+        "qobuz": "58915824"
+      },
+      "album": "Bergtatt",
+      "duration": 471,
+      "isrc": "NOFVH9505010"
+    },
+    {
+      "artist": "Burzum",
+      "title": "Dunkelheit",
+      "services": {
+        "qobuz": "56285599"
+      },
+      "album": "Filosofem",
+      "duration": 425,
+      "isrc": "GBXGC0809001"
+    },
+    {
+      "artist": "Negura Bunget",
+      "title": "Blaznit",
+      "services": {
+        "qobuz": "189638832"
+      },
+      "album": "Zirnindu-Sa",
+      "duration": 269,
+      "isrc": "DES560895201"
+    },
+    {
+      "artist": "Friedrich Gulda",
+      "title": "Gedanken \u00fcber Kadenz und Menuett des Cellokonzerts",
+      "services": {
+        "qobuz": "370305785"
+      },
+      "album": "The Master - Friedrich Gulda Solo",
+      "duration": 786,
+      "isrc": "ATUM72500046"
+    },
+    {
+      "artist": "F\u00e9ral",
+      "title": "As the Feast Begins",
+      "services": {
+        "qobuz": "31792019"
+      },
+      "album": "Where Dead Dreams Dwell",
+      "duration": 330,
+      "isrc": "DEOJ91514703"
+    },
+    {
+      "artist": "Drudkh",
+      "title": "Sunwheel",
+      "services": {
+        "qobuz": "77772455"
+      },
+      "album": "Autumn Aurora",
+      "duration": 540,
+      "isrc": "FR33T0981104"
+    },
+    {
+      "artist": "Krohm",
+      "title": "Crown Of The Ancients",
+      "services": {
+        "qobuz": "64309387"
+      },
+      "album": "Slayer Of Lost Martyrs / Crown Of The Ancients",
+      "duration": 429,
+      "isrc": "USA560617794"
+    },
+    {
+      "artist": "Darkspace",
+      "title": "Dark -1.0",
+      "services": {
+        "qobuz": "141051580"
+      },
+      "album": "Dark Space -I",
+      "duration": 726,
+      "isrc": "FR33T2166202"
+    },
+    {
+      "artist": "Evilfeast",
+      "title": "The Black Heavens Open",
+      "services": {
+        "qobuz": "250941485"
+      },
+      "album": "Mysteries of the Nocturnal Forest",
+      "duration": 553,
+      "isrc": "USA2P1877808"
+    },
+    {
+      "artist": "Vinterriket",
+      "title": "Winternacht - Kalte Schw\u00e4rze im Bann der silbernen Sonne",
+      "services": {
+        "qobuz": "197388523"
+      },
+      "album": "Der Letzte Winter - Der Ewigkeit Entgegen",
+      "duration": 483,
+      "isrc": "QM4TW2390241"
+    },
+    {
+      "artist": "Angantyr",
+      "title": "Sejr",
+      "services": {
+        "qobuz": "142246940"
+      },
+      "album": "Sejr",
+      "duration": 435,
+      "isrc": "QZHN51961852"
+    },
+    {
+      "artist": "The Ruins Of Beverast",
+      "title": "Between Bronze Walls",
+      "services": {
+        "qobuz": "20790568"
+      },
+      "album": "Unlock the Shrine",
+      "duration": 520,
+      "isrc": "DEZ900900981"
+    },
+    {
+      "artist": "Strawberry Chill House",
+      "title": "Caress of a Velvet Umbrella",
+      "services": {
+        "qobuz": "272597225"
+      },
+      "album": "Comforting Background Music for Rainy Reading Times",
+      "duration": 84,
+      "isrc": "JPZ222442266"
+    },
+    {
+      "artist": "Socrates",
+      "title": "My Kind of Woman",
+      "services": {
+        "qobuz": "84849171"
+      },
+      "album": "Where They Might Have Been",
+      "duration": 223,
+      "isrc": "USCGH2024178"
+    },
+    {
+      "artist": "Battle Dagorath",
+      "title": "Phantom Horizons Beyond",
+      "services": {
+        "qobuz": "205288603"
+      },
+      "album": "I - Dark Dragons of the Cosmos",
+      "duration": 830,
+      "isrc": "DEPI82306327"
+    },
+    {
+      "artist": "Forteresse",
+      "title": "M\u00e9tal noir qu\u00e9b\u00e9cois",
+      "services": {
+        "qobuz": "323137675"
+      },
+      "album": "M\u00e9tal noir qu\u00e9b\u00e9cois",
+      "duration": 524,
+      "isrc": "QZES82537838"
+    },
+    {
+      "artist": "Lunar Aurora",
+      "title": "Gl\u00fcck",
+      "services": {
+        "qobuz": "29908418"
+      },
+      "album": "Andacht",
+      "duration": 670,
+      "isrc": "DES560896101"
+    },
+    {
+      "artist": "Thy Light",
+      "title": "No Morrow Shall Dawn",
+      "services": {
+        "qobuz": "204522470"
+      },
+      "album": "No Morrow Shall Dawn",
+      "duration": 818,
+      "isrc": "SEYOK1727119"
+    },
+    {
+      "artist": "Peter Kater",
+      "title": "The Path Is Clear",
+      "services": {
+        "qobuz": "163571990"
+      },
+      "album": "Soul Story",
+      "duration": 225,
+      "isrc": "QM6N22257569"
+    },
+    {
+      "artist": "Wolves In The Throne Room",
+      "title": "I Will Lay Down My Bones Among The Rocks And Roots",
+      "services": {
+        "qobuz": "60615701"
+      },
+      "album": "Two Hunters",
+      "duration": 1096,
+      "isrc": "USZPA0900068"
+    },
+    {
+      "artist": "Austere",
+      "title": "This Dreadful Emptiness",
+      "services": {
+        "qobuz": "189662774"
+      },
+      "album": "To Lay Like Old Ashes",
+      "duration": 544,
+      "isrc": "DES562210127"
+    },
+    {
+      "artist": "Alda",
+      "title": "In the Wake of an Iron Wind",
+      "services": {
+        "qobuz": "225683474"
+      },
+      "album": "Tahoma",
+      "duration": 674,
+      "isrc": "USA2P1823670"
+    },
+    {
+      "artist": "Panopticon",
+      "title": "Aptrgangr",
+      "services": {
+        "qobuz": "162930524"
+      },
+      "album": "Collapse",
+      "duration": 919,
+      "isrc": "QZK6K2269474"
+    },
+    {
+      "artist": "Coldworld",
+      "title": "Tortured by Solitude",
+      "services": {
+        "qobuz": "28029062"
+      },
+      "album": "Melancholie\u00b2",
+      "duration": 374,
+      "isrc": "DES560895602"
+    },
+    {
+      "artist": "Vallendusk",
+      "title": "Land of the Lurking Twilight",
+      "services": {
+        "qobuz": "180887693"
+      },
+      "album": "Black Clouds Gathering",
+      "duration": 784,
+      "isrc": "QZRP52239829"
+    },
+    {
+      "artist": "Winterfylleth",
+      "title": "The Ghost Of Heritage",
+      "services": {
+        "qobuz": "190328957"
+      },
+      "album": "The Ghost Of Heritage",
+      "duration": 327,
+      "isrc": "GBADD1233405"
+    },
+    {
+      "artist": "Woods of Desolation",
+      "title": "Torn Beyond Reason",
+      "services": {
+        "qobuz": "171490570"
+      },
+      "album": "Torn Beyond Reason",
+      "duration": 383,
+      "isrc": "FR33T2213301"
+    },
+    {
+      "artist": "Elderwind",
+      "title": "The Magic of Nature",
+      "services": {
+        "qobuz": "186826331"
+      },
+      "album": "The Magic of Nature",
+      "duration": 444,
+      "isrc": "TCAGQ2204107"
+    },
+    {
+      "artist": "Elysian Blaze",
+      "title": "A Choir for Venus",
+      "services": {
+        "qobuz": "8955617"
+      },
+      "album": "Blood Geometry",
+      "duration": 270,
+      "isrc": "FR4E61200770"
+    },
+    {
+      "artist": "Vemod",
+      "title": "Venter P\u00e5 Stormene",
+      "services": {
+        "qobuz": "197042624"
+      },
+      "album": "Venter P\u00e5 Stormene",
+      "duration": 786,
+      "isrc": "NOFH41301010"
+    },
+    {
+      "artist": "The Weeknd",
+      "title": "Take My Breath",
+      "services": {
+        "qobuz": "143431220"
+      },
+      "album": "Dawn FM",
+      "duration": 339,
+      "isrc": "USUG12106684"
+    },
+    {
+      "artist": "Caladan Brood",
+      "title": "City of Azure Fire",
+      "services": {
+        "qobuz": "143998938"
+      },
+      "album": "Echoes of Battle",
+      "duration": 609,
+      "isrc": "QM4TW2220273"
+    },
+    {
+      "artist": "Howard Shore",
+      "title": "Lost in Emyn Muil",
+      "services": {
+        "qobuz": "49812057"
+      },
+      "album": "The Lord of the Rings: The Two Towers - the Complete Recordings",
+      "duration": 254,
+      "isrc": "USRE10602465"
+    },
+    {
+      "artist": "Kalmankantaja",
+      "title": "Bury Me in This Forest",
+      "services": {
+        "qobuz": "370539185"
+      },
+      "album": "Autumnheart",
+      "duration": 526,
+      "isrc": "QT6F22549099"
+    },
+    {
+      "artist": "Voices from the Fuselage",
+      "title": "Astral Existence",
+      "services": {
+        "qobuz": "75876127"
+      },
+      "album": "Odyssey: The Destroyer of Worlds",
+      "duration": 269,
+      "isrc": "TCACF1563227"
+    },
+    {
+      "artist": "Obsidian Tongue",
+      "title": "Black Hole in Human Form",
+      "services": {
+        "qobuz": "79253799"
+      },
+      "album": "A Nest of Ravens in the Throat of Time",
+      "duration": 521,
+      "isrc": "USL4Q1930541"
+    },
+    {
+      "artist": "Saor",
+      "title": "Aura (Remastered)",
+      "services": {
+        "qobuz": "97342422"
+      },
+      "album": "Aura (Remastered)",
+      "duration": 817,
+      "isrc": "USHM82041373"
+    },
+    {
+      "artist": "Spectral Lore",
+      "title": "The Golden Armor",
+      "services": {
+        "qobuz": "121784291"
+      },
+      "album": "Eter\u00f2fotos",
+      "duration": 453,
+      "isrc": "QM6N22123972"
+    },
+    {
+      "artist": "Leprous",
+      "title": "Like a Sunken Ship",
+      "services": {
+        "qobuz": "266707946"
+      },
+      "album": "Melodies Of Atonement",
+      "duration": 244,
+      "isrc": "GBDHC2447205"
+    },
+    {
+      "artist": "The Great Old Ones",
+      "title": "The Omniscient",
+      "services": {
+        "qobuz": "63630671"
+      },
+      "album": "Cosmicism",
+      "duration": 566,
+      "isrc": "FR33T1951802"
+    },
+    {
+      "artist": "Akhlys",
+      "title": "Breath and Levitation",
+      "services": {
+        "qobuz": "23816306"
+      },
+      "album": "The Dreaming I",
+      "duration": 542,
+      "isrc": "FR9W11421334"
+    },
+    {
+      "artist": "Ticher Pereira",
+      "title": "Devotion to the Lord",
+      "services": {
+        "qobuz": "343637230"
+      },
+      "album": "Devotional Soaking Moments",
+      "duration": 763,
+      "isrc": "QZNJX2527365"
+    },
+    {
+      "artist": "Pure Wrath",
+      "title": "Bleak Days Ahead, Pt. I",
+      "services": {
+        "qobuz": "413572860"
+      },
+      "album": "Bleak Days Ahead",
+      "duration": 603,
+      "isrc": "FXQ732500059"
+    },
+    {
+      "artist": "Sojourner",
+      "title": "The Shadowed Road",
+      "services": {
+        "qobuz": "203408811"
+      },
+      "album": "The Shadowed Road",
+      "duration": 515,
+      "isrc": "USDHM1802522"
+    },
+    {
+      "artist": "desert sand feels warm at night",
+      "title": "Voices From The Oasis",
+      "services": {
+        "qobuz": "227278290"
+      },
+      "album": "Desert Memories",
+      "duration": 431,
+      "isrc": "QZRP42333318"
+    },
+    {
+      "artist": "Cantique Lepreux",
+      "title": "Le mangeur d'os",
+      "services": {
+        "qobuz": "250588989"
+      },
+      "album": "Cendres c\u00e9lestes",
+      "duration": 345,
+      "isrc": "USA2P1623402"
+    },
+    {
+      "artist": "Eldamar",
+      "title": "Spirit of the North",
+      "services": {
+        "qobuz": "124659660"
+      },
+      "album": "The Force of the Ancient Land",
+      "duration": 886,
+      "isrc": "TCACL1683193"
+    },
+    {
+      "artist": "Ellende",
+      "title": "Ballade auf den Tod",
+      "services": {
+        "qobuz": "370323208"
+      },
+      "album": "Todbringer",
+      "duration": 465,
+      "isrc": "TCADE1757323"
+    },
+    {
+      "artist": "Dreamtale",
+      "title": "Tides of War",
+      "services": {
+        "qobuz": "77349114"
+      },
+      "album": "World Changed Forever",
+      "duration": 262,
+      "isrc": "FISDO1300003"
+    },
+    {
+      "artist": "Deepchord Presents: Echospace",
+      "title": "First Point of Aries",
+      "services": {
+        "qobuz": "119886367"
+      },
+      "album": "The Coldest Season",
+      "duration": 398,
+      "isrc": "USA2Z1110203"
+    },
+    {
+      "artist": "Mesarthim",
+      "title": "The Great Filter",
+      "services": {
+        "qobuz": "200112751"
+      },
+      "album": "The Great Filter / Type III",
+      "duration": 1293,
+      "isrc": "USDHM1918676"
+    },
+    {
+      "artist": "Dread Sovereign",
+      "title": "The Great Beast We Serve",
+      "services": {
+        "qobuz": "104874098"
+      },
+      "album": "Alchemical Warfare",
+      "duration": 291,
+      "isrc": "USMBR2014411"
+    },
+    {
+      "artist": "C\u00e2n Bardd",
+      "title": "Devoured by the Oak, Pt. 1",
+      "services": {
+        "qobuz": "133000685"
+      },
+      "album": "Devoured by the Oak",
+      "duration": 514,
+      "isrc": "CH6542181303"
+    },
+    {
+      "artist": "Fellwarden",
+      "title": "Wayfarer Eternal",
+      "services": {
+        "qobuz": "250725068"
+      },
+      "album": "Oathbearer",
+      "duration": 613,
+      "isrc": "USQY51756027"
+    },
+    {
+      "artist": "M\u00fcrg",
+      "title": "Str\u00e4van",
+      "services": {
+        "qobuz": "246154729"
+      },
+      "album": "Str\u00e4van",
+      "duration": 361,
+      "isrc": "SEVVF1900602"
+    },
+    {
+      "artist": "None",
+      "title": "Hypoxic",
+      "services": {
+        "qobuz": "64492073"
+      },
+      "album": "Life Has Gone on Long Enough",
+      "duration": 418,
+      "isrc": "USCGH1865407"
+    },
+    {
+      "artist": "Tardigrada",
+      "title": "Emotionale \u00d6dnis",
+      "services": {
+        "qobuz": "252177762"
+      },
+      "album": "Emotionale \u00d6dnis",
+      "duration": 523,
+      "isrc": "USQY51606120"
+    },
+    {
+      "artist": "ANSAMBEL LOJZETA SLAKA",
+      "title": "Meni ni za bogatijo",
+      "services": {
+        "qobuz": "97319522"
+      },
+      "album": "Helidonove uspe\u0161nice",
+      "duration": 172,
+      "isrc": "SIA942005732"
+    },
+    {
+      "artist": "Mosaic",
+      "title": "Brimstone Blossoms",
+      "services": {
+        "qobuz": "217121109"
+      },
+      "album": "Secret Ambrosian Fire",
+      "duration": 223,
+      "isrc": "USA2P1960301"
+    },
+    {
+      "artist": "Ultha",
+      "title": "Dispel",
+      "services": {
+        "qobuz": "147975587"
+      },
+      "album": "All that has Never been True",
+      "duration": 319,
+      "isrc": "GX3HH2213304"
+    },
+    {
+      "artist": "AARA",
+      "title": "Die das wilde Wetter fa\u0308ngt",
+      "services": {
+        "qobuz": "291291338"
+      },
+      "album": "Eiger",
+      "duration": 565,
+      "isrc": "FXQ732400031"
+    },
+    {
+      "artist": "Firienholt",
+      "title": "A Forgotten Legacy",
+      "services": {
+        "qobuz": "337925533"
+      },
+      "album": "By the Waters of Awakening",
+      "duration": 628,
+      "isrc": "ESA012156009"
+    },
+    {
+      "artist": "Hermanos Gutierrez",
+      "title": "Cumbia Lunar",
+      "services": {
+        "qobuz": "271126113"
+      },
+      "album": "Sonido C\u00f3smico",
+      "duration": 157,
+      "isrc": "USC4R2441426"
+    },
+    {
+      "artist": "AFSKY",
+      "title": "Bondeplage",
+      "services": {
+        "qobuz": "118758985"
+      },
+      "album": "Ofte jeg dr\u00f8mmer mig d\u00f8d",
+      "duration": 420,
+      "isrc": "GBSMU7769641"
+    },
+    {
+      "artist": "Fluisteraars",
+      "title": "Nasleep",
+      "services": {
+        "qobuz": "199370228"
+      },
+      "album": "Bloem",
+      "duration": 464,
+      "isrc": "USA2P2002234"
+    },
+    {
+      "artist": "Kaatayra",
+      "title": "Inpariquip\u00ea",
+      "services": {
+        "qobuz": "150779236"
+      },
+      "album": "Inpariquip\u00ea",
+      "duration": 631,
+      "isrc": "BCI4A2100042"
+    },
+    {
+      "artist": "K\u00ebkht Ar\u00e4kh",
+      "title": "Through the Branches to Eternity",
+      "services": {
+        "qobuz": "151685085"
+      },
+      "album": "Through the Branches to Eternity",
+      "duration": 178,
+      "isrc": "QZFZ22028123"
+    },
+    {
+      "artist": "Bizarrekult",
+      "title": "For 1000 \u00c5r Siden",
+      "services": {
+        "qobuz": "165724954"
+      },
+      "album": "Vi Overlevde",
+      "duration": 212,
+      "isrc": "NL4EQ2100172"
+    },
+    {
+      "artist": "Eneferens",
+      "title": "Leave",
+      "services": {
+        "qobuz": "365639982"
+      },
+      "album": "The Bleakness of Our Constant",
+      "duration": 229,
+      "isrc": "SEVVF1802401"
+    },
+    {
+      "artist": "Ethereal Shroud",
+      "title": "Chasmal Fires",
+      "services": {
+        "qobuz": "136186508"
+      },
+      "album": "Trisagion",
+      "duration": 1667,
+      "isrc": "QZNWT2144602"
+    },
+    {
+      "artist": "gRAB",
+      "title": "Nachtkrapp",
+      "services": {
+        "qobuz": "189656787"
+      },
+      "album": "Zeitlang",
+      "duration": 373,
+      "isrc": "DES562016102"
+    },
+    {
+      "artist": "Labyrinthus Stellarum",
+      "title": "Vortex of the Worlds",
+      "services": {
+        "qobuz": "254840224"
+      },
+      "album": "Vortex of the Worlds",
+      "duration": 354,
+      "isrc": "USCGJ2456256"
+    },
+    {
+      "artist": "Blackbraid",
+      "title": "The River of Time Flows Through Me",
+      "services": {
+        "qobuz": "409923625"
+      },
+      "album": "Blackbraid I",
+      "duration": 379,
+      "isrc": "QMAAK2211931"
+    },
+    {
+      "artist": "Innocnt",
+      "title": "Haliens (voices inside my head)",
+      "services": {
+        "qobuz": "298475871"
+      },
+      "album": "Six",
+      "duration": 160,
+      "isrc": "FRDIX2400010"
+    }
+  ]
+}

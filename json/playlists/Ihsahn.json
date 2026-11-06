@@ -1,0 +1,28 @@
+{
+  "name": "Ihsahn",
+  "services": {
+    "qobuz": "66430686"
+  },
+  "tracks": [
+    {
+      "artist": "Ihsahn",
+      "title": "BLOOD TRAILS TO LOVE",
+      "services": {
+        "qobuz": "219002748"
+      },
+      "album": "IHSAHN",
+      "duration": 305,
+      "isrc": "GBPVV2305055"
+    },
+    {
+      "artist": "Ihsahn",
+      "title": "HUBRIS AND BLUE DEVILS",
+      "services": {
+        "qobuz": "219002749"
+      },
+      "album": "IHSAHN",
+      "duration": 474,
+      "isrc": "GBPVV2305056"
+    }
+  ]
+}

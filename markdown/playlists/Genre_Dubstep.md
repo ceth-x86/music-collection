@@ -1,0 +1,107 @@
+# Genre: Dubstep
+
+Imported genre playlist: Dubstep.
+
+Services: `qobuz:66713075` `tidal:de93c3c0-f8c7-41a1-afe4-034052eb7055`
+
+## Tracks (99)
+
+- **Bengan Janson** — Skänklåt till Victoria [En vandrande spelman] (3:03) `isrc:SE3SA1601411` `qobuz:30615066`
+- **Cutty Ranks** — Limb By Limb [Rumble in the Jungle, Vol. 2] (4:59) `isrc:GBQYS0700028` `qobuz:5623658`
+- **Kode 9** — Sine of the Dub [Sine of the Dub] (5:21) `isrc:GBLZC0400001` `qobuz:237759922`
+- **Skream** — Midnight Request Line [Skream! (Expanded Edition)] (3:56) `isrc:GBQGW0501000` `qobuz:313325795`
+- **Burial** — South London Boroughs [South London Boroughs EP] (5:06) `isrc:GBLZC0500001` `qobuz:61348405`
+- **Vex'd** — Gunman [Degenerate] (6:08) `isrc:US78Q0500521` `qobuz:237803874`
+- **Linkin Park** — Somewhere I Belong [Meteora] (3:34) `isrc:USWB11201329` `qobuz:7020275`
+- **N-Type** — Square Off [Southside Dubstars Greatest Hits, Vol. 1] (5:19) `isrc:GBD3B1000217` `qobuz:46838271`
+- **Pinch** — Qawwali [Qawwali] (5:19) `isrc:US78Q0910393` `qobuz:237806248`
+- **Distance** — Traffic [My Demons] (5:19) `isrc:US78Q0700004` `qobuz:237812124`
+- **Reggae Roast** — Sensi Skank  [feat. Ruben Da Silva] [Sensi Skank (feat. Ruben Da Silva)] (5:36) `isrc:GB5TW1100049` `qobuz:53734183`
+- **Boxcutter** — Brood [Oneiric] (5:40) `isrc:US78Q0600072` `qobuz:237811365`
+- **Mala** — Anti War Dub [Anti War Dub] (6:22) `isrc:UKHAU2000357` `qobuz:123134287`
+- **Lex Loofah** — Muddy Puddles [Searchin'] (9:24) `isrc:GBKQU1442437` `qobuz:112081921`
+- **Mala** — Changes [Forgive / Changes] (6:50) `isrc:GBZSU0900007` `qobuz:134286526`
+- **Ice Spice** — Big Guy [Big Guy] (2:30) `isrc:USUG12508803` `qobuz:367384976`
+- **Kromestar** — Kalawanji [Kalawanji] (5:16) `isrc:GBZSU0900001` `qobuz:309160398`
+- **Rusko** — Cockney Thug [Cockney Thug] (4:12) `isrc:GBZCP0800024` `qobuz:80705364`
+- **TRG** — Broken Heart [Broken Heart (Martyns DCM Remix)] (5:52) `isrc:GBUMC0700009` `qobuz:55663089`
+- **The Used** — Blood on My Hands [Artwork] (3:17) `isrc:USRE10901079` `qobuz:2844980`
+- **Goth-Trad** — Cut End [Cut End / Goth] (6:14) `isrc:GBZSU0900009` `qobuz:134286212`
+- **Fionn** — Poison Dart [Poison Dart (feat. The Bug & Warrior Queen)] (2:06) `isrc:QZTB42545271` `qobuz:341209291`
+- **Silkie** — Hooby [I Sed] (5:07) `isrc:GBZSU0900015` `qobuz:134286535`
+- **Von D** — Truth [Coquine / Truth] (6:39) `isrc:GBTQV0800023` `qobuz:96104359`
+- **Second Storey** — Debussy: Reverie 68 [re:works Piano] (5:44) `isrc:GBUM71701234` `qobuz:41936534`
+- **Peverelist** — Roll with the Punches [Roll with the Punches / Die Brücke] (6:44) `isrc:GBRYX0700009` `qobuz:46845855`
+- **2562** — Kameleon [Aerial] (5:35) `isrc:GBGXC0700218` `qobuz:46841489`
+- **Martyn** — Vancouver [Great Lengths] (5:12) `isrc:NLEF80800014` `qobuz:236762427`
+- **Tunnidge** — Geddeon [Geddeon] (5:47) `isrc:GBZSU0900017` `qobuz:134285724`
+- **Cyrus** — Indian Stomp [From the Shadows] (5:04) `isrc:GBGXC0600022` `qobuz:46842536`
+- **Masayoshi Takanaka** — Tokyo Reggie [Seychelles] (4:20) `isrc:JPKT07600702` `qobuz:138802243`
+- **Chase & Status** — Eastern Jam [More Than Alot] (3:56) `isrc:GBBZH0807302` `qobuz:385626534`
+- **Bar9** — Piano Tune [Piano Tune] (4:47) `isrc:GBYCY0900873` `qobuz:113406724`
+- **Röyksopp** — You Know I Have to Go [The Inevitable End] (7:35) `isrc:GBW231400029` `qobuz:173044691`
+- **Zomby** — Spliff Dub [Mu5h / Spliff Dub] (3:32) `isrc:GBLZC0800004` `qobuz:61213246`
+- **Chase Atlantic** — DIE FOR ME [LOST IN HEAVEN (HIGH AS HELL)] (3:26) `isrc:US5262426872` `qobuz:359324182`
+- **Darkstar** — Need You [Need You] (6:10) `isrc:GBLZC0800007` `qobuz:61348626`
+- **Joker** — Stuck in the System [Kapsize E.P] (4:32) `isrc:GBGXC0700301` `qobuz:3466644`
+- **Gemmy** — Supligen [Supligen] (4:40) `isrc:US78Q0910109` `qobuz:237821206`
+- **Guido** — Orchestral Lab [Orchestral Lab / Way U Make Me Feel] (3:44) `isrc:GBRYX0900021` `qobuz:46841438`
+- **16BIT** — Chainsaw Calligraphy [In The Death Car EP] (3:07) `isrc:GBXUN0800010` `qobuz:106977049`
+- **Magnetic Man ft Angela Hunte** — I Need Air [Magnetic Man] (4:16) `isrc:GBARL1000680` `qobuz:2545645`
+- **Nero** — Innocence 2025 [Innocence 2025] (2:50) `isrc:GBUM72500875` `qobuz:320713171`
+- **Breakage** — Hard [Foundation] (3:43) `isrc:QMDA71468696` `qobuz:390078400`
+- **Flux Pavilion** — I Can't Stop [I Can't Stop] (5:05) `isrc:GBQZQ1000086` `qobuz:45065605`
+- **Doctor P** — Sweet Shop [Sweet Shop / Gargoyle] (4:33) `isrc:GBQZQ0901148` `qobuz:283384601`
+- **Cookie Monsta** — Ginger Pubes [Believe Compilation 4] (3:43) `isrc:GBQZQ0901964` `qobuz:37330855`
+- **FuntCase** — 50 Calibre [Circus One presented by Doctor P & Flux Pavilion] (3:47) `isrc:GBQZQ1100317` `qobuz:364185845`
+- **Braw** — Psychological Warfare [Make-It I Will] (5:35) `isrc:GXJBV2631805` `qobuz:403762391`
+- **Skrillex** — Scary Monsters and Nice Sprites [Scary Monsters and Nice Sprites] (4:03) `isrc:GBTDG1000196` `qobuz:8654729`
+- **Ultimate Tribute Stars** — Bassnectar - Bass Head (Instrumental Version) [Bassnectar - Bass Head (Instrumental Version)] (6:34) `isrc:USA371606918` `qobuz:70238213`
+- **Datsik** — Let 'em Know (feat. Armanni Reign) [Darkstar] (3:38) `isrc:USYBL1600247` `qobuz:139932315`
+- **The Stone Roses** — Fools Gold [The Stone Roses] (9:54) `isrc:GBAHJ0900020` `qobuz:462633`
+- **Excision** — X Rated [X Rated] (4:25) `isrc:GBTDG1100328` `qobuz:402679210`
+- **Borgore** — Ice Cream [Act Like a Ho] (3:58) `isrc:GBYCY0900308` `qobuz:96939127`
+- **Roksonix** — Music in Me [Circus Two] (4:42) `isrc:GBUM91200012` `qobuz:272813487`
+- **Skism** — Experts [Division EP] (4:26) `isrc:GB7YL1203201` `qobuz:163290251`
+- **KOAN Sound** — Infinite Funk [Dynasty EP] (3:53) `isrc:USQY51452976` `qobuz:22957949`
+- **Gemini** — Fire Inside [Fire Inside] (4:41) `isrc:GBS5E1100022` `qobuz:168914536`
+- **Modestep** — Sunlight [Sunlight (2011)] (3:49) `isrc:GBUM71104769` `qobuz:3946390`
+- **Knife Party** — Centipede [Rage Valley] (4:07) `isrc:GBAHT1200224` `qobuz:5526999`
+- **Zomboy** — Terror Squad [Reanimated EP] (4:17) `isrc:GB7YL1304501` `qobuz:163288574`
+- **Virtual Riot** — New Energy [Stealing Fire] (3:21) `isrc:CA6D22400402` `qobuz:294732835`
+- **Figure** — Monster Mania [Monsters, Vol. 5] (4:33) `isrc:USA2P1446546` `qobuz:96815364`
+- **MUST DIE!** — CHAOS [CHAOS] (3:21) `isrc:GB7YL1985101` `qobuz:163286363`
+- **Eptic** — Like A Boss [Like A Boss EP] (4:34) `isrc:GB7YL1202001` `qobuz:163290442`
+- **Yola** — Barely Alive [Stand For Myself] (3:36) `isrc:USCON2100267` `qobuz:118776024`
+- **Kill The Noise** — Deal With It [Kill Kill Kill EP] (3:36) `isrc:USQY51188937` `qobuz:23118606`
+- **Zeds Dead** — Adrenaline [Adrenaline] (3:31) `isrc:GBS5E1100019` `qobuz:121762816`
+- **Factory Flora** — Breaking the Law [Reaper's Reverie VI] (2:45) `isrc:AUGBT2502382` `qobuz:342927128`
+- **Phuture Noize** — Stop The Bleeding [Open Heart Surgery] (3:00) `isrc:NL2ZL2500004` `qobuz:363548306`
+- **Xilent** — Boss Wave [Boss Wave] (3:43) `isrc:GB2LD0901115` `qobuz:80688364`
+- **Bro Safari** — Scumbag [Scumbag] (2:00) `isrc:QM24S2404989` `qobuz:282794393`
+- **Naeleck** — Take A Sip [Take A Sip Remixes] (2:53) `isrc:GBKQU1916929` `qobuz:108555547`
+- **Commodo** — Shift (feat JME) [Shift] (3:29) `isrc:GBZU14000011` `qobuz:134281868`
+- **Francesco Tristano** — Third Haiku [Piano Circle Songs] (3:09) `isrc:USSM11704675` `qobuz:42790022`
+- **Truth** — Lion (feat Taso) [Lion EP ‎] (4:29) `isrc:GBDMM1700098` `qobuz:134282920`
+- **Ganja White Night** — Mr. Wobble Drop Killa [The One] (4:50) `isrc:TCAEL1985971` `qobuz:125932256`
+- **Moody Good** — Hotplate [Moody Good] (4:16) `isrc:GBUM71307275` `qobuz:17292985`
+- **Getter** — Head Splitter [Allegiance] (3:34) `isrc:USAT21500672` `qobuz:24881450`
+- **ONE PACT** — PASSOUT (feat. TAG) [ONE FACT] (2:15) `isrc:KRMIM2537609` `qobuz:347465904`
+- **Boogie T** — Raven Master [Soul'd Out] (4:06) `isrc:TCADH1723557` `qobuz:123905205`
+- **Miley Cyrus** — WTF Do I Know [Plastic Hearts (Explicit)] (2:51) `isrc:USRC12003706` `qobuz:104171462`
+- **Kai Wachi** — FACEDOWN [FACEDOWN] (2:36) `isrc:CA5KR2610907` `qobuz:382309251`
+- **PhaseOne** — Crash & Burn Ft. Northlane [TRANSCENDENCY] (4:06) `isrc:CA5KR1920489` `qobuz:414202150`
+- **Wooli** — Throw It Up [Mammoth EP] (2:59) `isrc:GB7YL1814201` `qobuz:163285645`
+- **Marauda** — Casket [Casket] (2:30) `isrc:GB7YL1999409` `qobuz:163281641`
+- **Space Laces** — Dominate VIP [Dominate VIP] (3:49) `isrc:GB7YL2300001` `qobuz:206689096`
+- **Infekt** — Orgalorg VIP [Journey To Mars EP] (5:05) `isrc:CA5KR1703402` `qobuz:414200914`
+- **Svdden Death** — PEANUT BUTTER [PEANUT BUTTER] (4:42) `isrc:CA5KR2396588` `qobuz:259512940`
+- **Dion Timmer** — Shiawase [Shiawase] (3:01) `isrc:CA6D22000235` `qobuz:101334012`
+- **Kompany** — Firewall [Untouchable EP] (4:28) `isrc:GB7YL2100127` `qobuz:163279855`
+- **Lords of Lounge** — Pixel Perfect [LORDS OF LOUNGE 2] (4:45) `isrc:QZNWW2398587` `qobuz:286931406`
+- **KronicKevin** — Screamsaver (KronicKevin VIP) [White Noise] (2:38) `isrc:QT6FE2501639` `qobuz:373104676`
+- **HE$H** — Hit a Lick [Loced Out] (4:41) `isrc:TCADU1815931` `qobuz:125329725`
+- **KronicKevin** — Country Riddim (Kronic Flip) [HOL!] [Subwoofer Science] (2:49) `isrc:QZZ7V2564390` `qobuz:357248022`
+- **Ray Volpe** — SONG REQUEST [SONG REQUEST] (3:24) `isrc:QZNJV2439360` `qobuz:265175904`
+- **The Midnight** — Friction [Syndicate] (3:56) `isrc:USUS12500368` `qobuz:359480972`
+- **Jessica Audiffred** — Stupid Love [Stupid Love feat. Nia V] (3:08) `isrc:GBUM92000104` `qobuz:283390330`

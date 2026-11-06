@@ -1,0 +1,1010 @@
+{
+  "name": "Genre: Shoegaze",
+  "services": {
+    "qobuz": "66732596",
+    "tidal": "69042ea1-ccfe-4374-975d-d759808b6b17"
+  },
+  "description": "Imported genre playlist: Shoegaze.",
+  "tracks": [
+    {
+      "artist": "The Jesus And Mary Chain",
+      "title": "Just Like Honey",
+      "services": {
+        "qobuz": "154370524"
+      },
+      "album": "Just Like Honey (2021 EL Inocente version)",
+      "duration": 181,
+      "isrc": "GX3EQ2000001"
+    },
+    {
+      "artist": "A.R. Kane",
+      "title": "Crack Up",
+      "services": {
+        "qobuz": "249088448"
+      },
+      "album": "\"i\"",
+      "duration": 252,
+      "isrc": "GBBTF0400072"
+    },
+    {
+      "artist": "The Telescopes",
+      "title": "Flying",
+      "services": {
+        "qobuz": "28209320"
+      },
+      "album": "Splashdown: The Complete Creation Recordings 1990-1992",
+      "duration": 171,
+      "isrc": "GBBLY1504713"
+    },
+    {
+      "artist": "Pale Saints",
+      "title": "Kinky Love",
+      "services": {
+        "qobuz": "2534345"
+      },
+      "album": "Flesh Balloon",
+      "duration": 244,
+      "isrc": "GBAFL9100116"
+    },
+    {
+      "artist": "Lush",
+      "title": "Sweetness and Light",
+      "services": {
+        "qobuz": "355646601"
+      },
+      "album": "Gala",
+      "duration": 319,
+      "isrc": "GBAFL2500121"
+    },
+    {
+      "artist": "Ride",
+      "title": "Vapour Trail",
+      "services": {
+        "qobuz": "8022096"
+      },
+      "album": "Nowhere",
+      "duration": 257,
+      "isrc": "USRE11300032"
+    },
+    {
+      "artist": "Chapterhouse",
+      "title": "Pearl",
+      "services": {
+        "qobuz": "2698202"
+      },
+      "album": "Whirlpool (Expanded Edition)",
+      "duration": 290,
+      "isrc": "GBARL0600247"
+    },
+    {
+      "artist": "Kitchens Of Distinction",
+      "title": "Drive That Fast",
+      "services": {
+        "qobuz": "249087630"
+      },
+      "album": "Strange Free World",
+      "duration": 336,
+      "isrc": "GBBTF9000055"
+    },
+    {
+      "artist": "Swervedriver",
+      "title": "Duel",
+      "services": {
+        "qobuz": "13612527"
+      },
+      "album": "Mezcal Head",
+      "duration": 383,
+      "isrc": "GBARL0801218"
+    },
+    {
+      "artist": "Revolver",
+      "title": "Heaven Sent An Angel",
+      "services": {
+        "qobuz": "1742265"
+      },
+      "album": "Baby's Angry",
+      "duration": 287,
+      "isrc": "GBAAA9901751"
+    },
+    {
+      "artist": "My Bloody Valentine",
+      "title": "only shallow",
+      "services": {
+        "qobuz": "116965237"
+      },
+      "album": "loveless",
+      "duration": 256,
+      "isrc": "GBCEL2000150"
+    },
+    {
+      "artist": "The Boo Radleys",
+      "title": "Lazarus",
+      "services": {
+        "qobuz": "104912"
+      },
+      "album": "Giant Steps",
+      "duration": 278,
+      "isrc": "GBBQY9302014"
+    },
+    {
+      "artist": "Curve",
+      "title": "Coast Is Clear",
+      "services": {
+        "qobuz": "13762772"
+      },
+      "album": "The Way Of Curve",
+      "duration": 239,
+      "isrc": "GBARL0400265"
+    },
+    {
+      "artist": "Catherine Wheel",
+      "title": "Black Metallic",
+      "services": {
+        "qobuz": "54692797"
+      },
+      "album": "Ferment",
+      "duration": 439,
+      "isrc": "USWWW0134805"
+    },
+    {
+      "artist": "Moose",
+      "title": "Jack",
+      "services": {
+        "qobuz": "1763271"
+      },
+      "album": ". . . XYZ",
+      "duration": 221,
+      "isrc": "GBAAA0900722"
+    },
+    {
+      "artist": "Alex Vargas",
+      "title": "Smell The Bleach",
+      "services": {
+        "qobuz": "76342084"
+      },
+      "album": "EGO (super/trip/maniac)",
+      "duration": 200,
+      "isrc": "DKUM71900240"
+    },
+    {
+      "artist": "The Verve",
+      "title": "She's A Superstar",
+      "services": {
+        "qobuz": "34655856"
+      },
+      "album": "A Storm In Heaven",
+      "duration": 533,
+      "isrc": "GBUM71601910"
+    },
+    {
+      "artist": "Brian Wilson",
+      "title": "Old Master Painter / You Are My Sunshine",
+      "services": {
+        "qobuz": "2794241"
+      },
+      "album": "Smile",
+      "duration": 63,
+      "isrc": "USNO10484605"
+    },
+    {
+      "artist": "Blind Mr. Jones",
+      "title": "Henna and Swayed",
+      "services": {
+        "qobuz": "148464352"
+      },
+      "album": "Over My Head",
+      "duration": 367,
+      "isrc": "GBBLY9200007"
+    },
+    {
+      "artist": "Secret Shine",
+      "title": "Loveblind",
+      "services": {
+        "qobuz": "18845967"
+      },
+      "album": "Greater Than God and Other Singles",
+      "duration": 271,
+      "isrc": "GBMFU0600178"
+    },
+    {
+      "artist": "Slowdive",
+      "title": "When the Sun Hits",
+      "services": {
+        "qobuz": "2697437"
+      },
+      "album": "Souvlaki",
+      "duration": 287,
+      "isrc": "GBBQY0400041"
+    },
+    {
+      "artist": "Spirea X",
+      "title": "Speed Reaction",
+      "services": {
+        "qobuz": "2339648"
+      },
+      "album": "Fireblade Skies",
+      "duration": 181,
+      "isrc": "GBAFL9100007"
+    },
+    {
+      "artist": "Lilys",
+      "title": "Elizabeth Colour Wheel",
+      "services": {
+        "qobuz": "351403649"
+      },
+      "album": "In the Presence of Nothing",
+      "duration": 418,
+      "isrc": "USA6P1600044"
+    },
+    {
+      "artist": "Drop Nineteens",
+      "title": "Kick The Tragedy",
+      "services": {
+        "qobuz": "4723653"
+      },
+      "album": "Delaware",
+      "duration": 535,
+      "isrc": "USCN30800035"
+    },
+    {
+      "artist": "Swirlies",
+      "title": "Pancake",
+      "services": {
+        "qobuz": "66792980"
+      },
+      "album": "Blonder Tongue Audio Baton",
+      "duration": 195,
+      "isrc": "USX5G9306706"
+    },
+    {
+      "artist": "Medicine",
+      "title": "Time Baby III",
+      "services": {
+        "qobuz": "2929772"
+      },
+      "album": "The Crow Original Motion Picture Soundtrack",
+      "duration": 230,
+      "isrc": "USAT20180665"
+    },
+    {
+      "artist": "Bailter Space",
+      "title": "Robot World",
+      "services": {
+        "qobuz": "58861211"
+      },
+      "album": "Robot World",
+      "duration": 259,
+      "isrc": "USMTD9305002"
+    },
+    {
+      "artist": "Coaltar of the Deepers",
+      "title": "Melody",
+      "services": {
+        "qobuz": "249449543"
+      },
+      "album": "Melody",
+      "duration": 370,
+      "isrc": "TCAHU2444347"
+    },
+    {
+      "artist": "Lovesliescrushing",
+      "title": "babysbreath",
+      "services": {
+        "qobuz": "334961069"
+      },
+      "album": "bloweyelashwish",
+      "duration": 231,
+      "isrc": "QZNWW2334577"
+    },
+    {
+      "artist": "Kavinsky",
+      "title": "Pulsar",
+      "services": {
+        "qobuz": "145124200"
+      },
+      "album": "Reborn",
+      "duration": 214,
+      "isrc": "FRS712100100"
+    },
+    {
+      "artist": "Starflyer 59",
+      "title": "Blue Collar Love",
+      "services": {
+        "qobuz": "128650125"
+      },
+      "album": "Starflyer 59",
+      "duration": 244,
+      "isrc": "USTN19457367"
+    },
+    {
+      "artist": "The Veldt",
+      "title": "Soul In A Jar",
+      "services": {
+        "qobuz": "41144798"
+      },
+      "album": "Afrodisiac",
+      "duration": 289,
+      "isrc": "USUM71705231"
+    },
+    {
+      "artist": "Majesty Crush",
+      "title": "No. 1 Fan",
+      "services": {
+        "qobuz": "242813760"
+      },
+      "album": "Butterflies Don't Go Away",
+      "duration": 225,
+      "isrc": "USME30800690"
+    },
+    {
+      "artist": "Alison's Halo",
+      "title": "Dozen",
+      "services": {
+        "qobuz": "358925304"
+      },
+      "album": "Eyedazzler",
+      "duration": 312,
+      "isrc": "QZ5SU1600148"
+    },
+    {
+      "artist": "HUM",
+      "title": "Stars",
+      "services": {
+        "qobuz": "212927"
+      },
+      "album": "You'd Prefer An Astronaut",
+      "duration": 309,
+      "isrc": "USRC19401473"
+    },
+    {
+      "artist": "Bowery Electric",
+      "title": "Beat",
+      "services": {
+        "qobuz": "63143711"
+      },
+      "album": "Beat",
+      "duration": 436,
+      "isrc": "USI4R0401646"
+    },
+    {
+      "artist": "The Autumns",
+      "title": "The Angel Pool",
+      "services": {
+        "qobuz": "25118349"
+      },
+      "album": "The Angel Pool",
+      "duration": 460,
+      "isrc": "USA560439359"
+    },
+    {
+      "artist": "Yonder Mountain String Band",
+      "title": "Half Moon Rising",
+      "services": {
+        "qobuz": "63101807"
+      },
+      "album": "Elevation",
+      "duration": 271,
+      "isrc": "USEPY0610030"
+    },
+    {
+      "artist": "Auburn Lull",
+      "title": "Stockard Drive",
+      "services": {
+        "qobuz": "59911856"
+      },
+      "album": "Alone I Admire",
+      "duration": 274,
+      "isrc": "USA4D0212201"
+    },
+    {
+      "artist": "Astrobrite",
+      "title": "crushed",
+      "services": {
+        "qobuz": "223663458"
+      },
+      "album": "crush",
+      "duration": 202,
+      "isrc": "QZNWU2331344"
+    },
+    {
+      "artist": "My Vitriol",
+      "title": "Always: Your Way",
+      "services": {
+        "qobuz": "207820090"
+      },
+      "album": "Finelines",
+      "duration": 229,
+      "isrc": "QZ4JJ1686314"
+    },
+    {
+      "artist": "Luminous Orange",
+      "title": "Drop You Vivid Colours",
+      "services": {
+        "qobuz": "82589980"
+      },
+      "album": "Drop You Vivid Colours",
+      "duration": 276,
+      "isrc": "USHM90575115"
+    },
+    {
+      "artist": "Film School",
+      "title": "Pitfalls",
+      "services": {
+        "qobuz": "2532913"
+      },
+      "album": "Film School",
+      "duration": 301,
+      "isrc": "GBAZP0500039"
+    },
+    {
+      "artist": "The Meeting Places",
+      "title": "Now I Know You Could Never Be The One",
+      "services": {
+        "qobuz": "59959726"
+      },
+      "album": "Find Yourself Along The Way",
+      "duration": 242,
+      "isrc": "USAQP0501204"
+    },
+    {
+      "artist": "Amusement Parks On Fire",
+      "title": "Venus in Cancer (Rustic)",
+      "services": {
+        "qobuz": "94672759"
+      },
+      "album": "Thankyou Violin Radiopunk",
+      "duration": 242,
+      "isrc": "USHM22021838"
+    },
+    {
+      "artist": "Serena-Maneesh",
+      "title": "Drain Cosmetics",
+      "services": {
+        "qobuz": "2486038"
+      },
+      "album": "Serena-Maneesh",
+      "duration": 221,
+      "isrc": "GBBKU0600026"
+    },
+    {
+      "artist": "Boris",
+      "title": "Farewell",
+      "services": {
+        "qobuz": "29173396"
+      },
+      "album": "Gensho",
+      "duration": 473,
+      "isrc": "JPB621500071"
+    },
+    {
+      "artist": "Engineers",
+      "title": "Home",
+      "services": {
+        "qobuz": "385754103"
+      },
+      "album": "Home",
+      "duration": 247,
+      "isrc": "GBBND0401388"
+    },
+    {
+      "artist": "Airiel",
+      "title": "In Your Room",
+      "services": {
+        "qobuz": "202146853"
+      },
+      "album": "Winks & Kisses: Melted",
+      "duration": 566,
+      "isrc": "USBHM0510008"
+    },
+    {
+      "artist": "Asobi Seksu",
+      "title": "Thursday",
+      "services": {
+        "qobuz": "249100102"
+      },
+      "album": "Acoustic At Olympic Studios",
+      "duration": 263,
+      "isrc": "GBBTF0800469"
+    },
+    {
+      "artist": "City and Colour",
+      "title": "Lover Come Back",
+      "services": {
+        "qobuz": "80051218"
+      },
+      "album": "If I Should Go Before You",
+      "duration": 234,
+      "isrc": "CADE70902839"
+    },
+    {
+      "artist": "Silversun Pickups",
+      "title": "Lazy Eye",
+      "services": {
+        "qobuz": "377266442"
+      },
+      "album": "Carnavas",
+      "duration": 354,
+      "isrc": "US3R20600207"
+    },
+    {
+      "artist": "A Sunny Day in Glasgow",
+      "title": "No. 6 Von Karman Street",
+      "services": {
+        "qobuz": "324832047"
+      },
+      "album": "Scribble Mural Comic Journal",
+      "duration": 255,
+      "isrc": "USANQ0600012"
+    },
+    {
+      "artist": "LSD and the Search for God",
+      "title": "Starting Over",
+      "services": {
+        "qobuz": "106340666"
+      },
+      "album": "LSD and the Search for God",
+      "duration": 304,
+      "isrc": "USCGH1625021"
+    },
+    {
+      "artist": "A Shoreline Dream",
+      "title": "Neverchanger",
+      "services": {
+        "qobuz": "74851424"
+      },
+      "album": "neverChanger",
+      "duration": 261,
+      "isrc": "USGT70810001"
+    },
+    {
+      "artist": "The High Violets",
+      "title": "Sun Baby",
+      "services": {
+        "qobuz": "244563965"
+      },
+      "album": "To Where You Are",
+      "duration": 256,
+      "isrc": "QZHN81981554"
+    },
+    {
+      "artist": "Tears Run Rings",
+      "title": "Mind the Wires",
+      "services": {
+        "qobuz": "73737156"
+      },
+      "album": "Always, Sometimes, Seldom, Never",
+      "duration": 293,
+      "isrc": "USBHM0810038"
+    },
+    {
+      "artist": "The Depreciation Guild",
+      "title": "Dream About Me",
+      "services": {
+        "qobuz": "74375772"
+      },
+      "album": "Spirit Youth",
+      "duration": 308,
+      "isrc": "US28E1049604"
+    },
+    {
+      "artist": "A Place To Bury Strangers",
+      "title": "In Your Heart",
+      "services": {
+        "qobuz": "385335562"
+      },
+      "album": "Exploding Head",
+      "duration": 190,
+      "isrc": "GBAJH0900413"
+    },
+    {
+      "artist": "The Black Ryder",
+      "title": "All That We Are",
+      "services": {
+        "qobuz": "24546279"
+      },
+      "album": "The Door Behind the Door",
+      "duration": 367,
+      "isrc": "QM7281433802"
+    },
+    {
+      "artist": "The Daysleepers",
+      "title": "Release the Kraken",
+      "services": {
+        "qobuz": "73744996"
+      },
+      "album": "Drowned In a Sea of Sound",
+      "duration": 233,
+      "isrc": "USBHM0810052"
+    },
+    {
+      "artist": "Panda Riot",
+      "title": "Northern Automatic Music",
+      "services": {
+        "qobuz": "59911357"
+      },
+      "album": "Northern Automatic Music",
+      "duration": 276,
+      "isrc": "QMTXS1100230"
+    },
+    {
+      "artist": "Air Formation",
+      "title": "Daylight Storms",
+      "services": {
+        "qobuz": "10351299"
+      },
+      "album": "Daylight Storms",
+      "duration": 292,
+      "isrc": "FR6V80758438"
+    },
+    {
+      "artist": "For Tracy Hyde",
+      "title": "Her Sarah Records Collection",
+      "services": {
+        "qobuz": "334474617"
+      },
+      "album": "Born To Be Breathtaken",
+      "duration": 193,
+      "isrc": "TCJPB1440432"
+    },
+    {
+      "artist": "Plastic Girl In Closet",
+      "title": "ERROR",
+      "services": {
+        "qobuz": "296335636"
+      },
+      "album": "eye cue rew see",
+      "duration": 180,
+      "isrc": "JPZ922206983"
+    },
+    {
+      "artist": "THE ORCHESTRA TOKYO",
+      "title": "Be BRIGHT",
+      "services": {
+        "qobuz": "296402749"
+      },
+      "album": "Be BRIGHT",
+      "duration": 240,
+      "isrc": "TCJPU2385767"
+    },
+    {
+      "artist": "The Joy Formidable",
+      "title": "Whirring",
+      "services": {
+        "qobuz": "3181463"
+      },
+      "album": "The Big Roar",
+      "duration": 405,
+      "isrc": "USAT21002530"
+    },
+    {
+      "artist": "Pia Fraus",
+      "title": "How Fast Can You Love",
+      "services": {
+        "qobuz": "73735765"
+      },
+      "album": "In Solarium",
+      "duration": 194,
+      "isrc": "USBHM0510180"
+    },
+    {
+      "artist": "The Pains Of Being Pure At Heart",
+      "title": "Belong",
+      "services": {
+        "qobuz": "3444502"
+      },
+      "album": "Belong",
+      "duration": 261,
+      "isrc": "US4TA1100036"
+    },
+    {
+      "artist": "Ringo Deathstarr",
+      "title": "Imagine Hearts",
+      "services": {
+        "qobuz": "9379463"
+      },
+      "album": "Colour Trip",
+      "duration": 158,
+      "isrc": "GBJRZ1100010"
+    },
+    {
+      "artist": "Pastel Ghost",
+      "title": "Dark Beach",
+      "services": {
+        "qobuz": "286320408"
+      },
+      "album": "Abyss",
+      "duration": 222,
+      "isrc": "QM6XS1704798"
+    },
+    {
+      "artist": "The Vandals",
+      "title": "My Girlfriend's Dead",
+      "services": {
+        "qobuz": "16846559"
+      },
+      "album": "Hitler Bad, Vandals Good",
+      "duration": 160,
+      "isrc": "USNRR0400198"
+    },
+    {
+      "artist": "No Joy",
+      "title": "E",
+      "services": {
+        "qobuz": "296622913"
+      },
+      "album": "Wait to Pleasure",
+      "duration": 318,
+      "isrc": "QMV8L1314801"
+    },
+    {
+      "artist": "NICO Touches the Walls",
+      "title": "Boku Wa Sanjuu Ni Narukeredo",
+      "services": {
+        "qobuz": "95492372"
+      },
+      "album": "Uzu to Uzu",
+      "duration": 204,
+      "isrc": "JPU901502271"
+    },
+    {
+      "artist": "Bob Marley & The Wailers",
+      "title": "Is This Love",
+      "services": {
+        "qobuz": "8789478"
+      },
+      "album": "Kaya",
+      "duration": 232,
+      "isrc": "USIR27800259"
+    },
+    {
+      "artist": "Dance With A Stranger",
+      "title": "Living In The Future",
+      "services": {
+        "qobuz": "6999883"
+      },
+      "album": "Atmosphere",
+      "duration": 185,
+      "isrc": "NOLWA9402140"
+    },
+    {
+      "artist": "Whirr",
+      "title": "Mellow",
+      "services": {
+        "qobuz": "317392542"
+      },
+      "album": "Feels Like You",
+      "duration": 313,
+      "isrc": "GBKPL2144822"
+    },
+    {
+      "artist": "Cheatahs",
+      "title": "The Swan",
+      "services": {
+        "qobuz": "14532670"
+      },
+      "album": "Cheatahs",
+      "duration": 262,
+      "isrc": "GBDNH1300100"
+    },
+    {
+      "artist": "Nothing",
+      "title": "Bent Nail",
+      "services": {
+        "qobuz": "14332386"
+      },
+      "album": "Guilty of Everything",
+      "duration": 177,
+      "isrc": "US2641424703"
+    },
+    {
+      "artist": "Gleemer",
+      "title": "Gauze",
+      "services": {
+        "qobuz": "126105174"
+      },
+      "album": "Moving Away",
+      "duration": 297,
+      "isrc": "TCACJ1583278"
+    },
+    {
+      "artist": "Pinkshinyultrablast",
+      "title": "Kiddy Pool Dreams",
+      "services": {
+        "qobuz": "29299333"
+      },
+      "album": "Grandfeathered",
+      "duration": 364,
+      "isrc": "GBJRZ1600003"
+    },
+    {
+      "artist": "Tamaryn",
+      "title": "Love Fade",
+      "services": {
+        "qobuz": "420469807"
+      },
+      "album": "The Waves",
+      "duration": 220,
+      "isrc": "USMEX1000118"
+    },
+    {
+      "artist": "Westkust",
+      "title": "Swirl",
+      "services": {
+        "qobuz": "157396128"
+      },
+      "album": "Last Forever",
+      "duration": 194,
+      "isrc": "SEYOL1404001"
+    },
+    {
+      "artist": "DIIV",
+      "title": "Dopamine",
+      "services": {
+        "qobuz": "28211119"
+      },
+      "album": "Is the Is Are",
+      "duration": 236,
+      "isrc": "QMMZN1300930"
+    },
+    {
+      "artist": "Miserable",
+      "title": "Uncontrollable",
+      "services": {
+        "qobuz": "163099346"
+      },
+      "album": "Uncontrollable",
+      "duration": 228,
+      "isrc": "USA2P1616789"
+    },
+    {
+      "artist": "Narrow Head",
+      "title": "Ashtray",
+      "services": {
+        "qobuz": "99162819"
+      },
+      "album": "Satisfaction",
+      "duration": 176,
+      "isrc": "GBSMU2663753"
+    },
+    {
+      "artist": "Piano Ghibli",
+      "title": "The Name of Life (From \"Spirited Away\")",
+      "services": {
+        "qobuz": "269116956"
+      },
+      "album": "Spirited Away on the Piano",
+      "duration": 280,
+      "isrc": "ESA122475796"
+    },
+    {
+      "artist": "Cloakroom",
+      "title": "Big World",
+      "services": {
+        "qobuz": "41321192"
+      },
+      "album": "Time Well",
+      "duration": 294,
+      "isrc": "US2641735602"
+    },
+    {
+      "artist": "Hundredth",
+      "title": "Neurotic",
+      "services": {
+        "qobuz": "120897480"
+      },
+      "album": "RARE",
+      "duration": 217,
+      "isrc": "USHR21790002"
+    },
+    {
+      "artist": "Yoko Kanno",
+      "title": "Element's",
+      "services": {
+        "qobuz": "97245612"
+      },
+      "album": "TURN A GUNDAM the Movie Original Motion Picture Soundtrack - Wakusei No Gogo,Bokuraha Kiss Wo Shita",
+      "duration": 167,
+      "isrc": "JPKI00014020"
+    },
+    {
+      "artist": "Slow Crush",
+      "title": "Aurora",
+      "services": {
+        "qobuz": "283755321"
+      },
+      "album": "Aurora",
+      "duration": 290,
+      "isrc": "GBMLT1501249"
+    },
+    {
+      "artist": "Yunagi",
+      "title": "Heart of the Nightlight",
+      "services": {
+        "qobuz": "303516289"
+      },
+      "album": "Heart of the Nightlight",
+      "duration": 74,
+      "isrc": "GXF9Q2422993"
+    },
+    {
+      "artist": "Deafcult",
+      "title": "Lemonade Beauty",
+      "services": {
+        "qobuz": "391829375"
+      },
+      "album": "Auras",
+      "duration": 248,
+      "isrc": "AUHB21700001"
+    },
+    {
+      "artist": "Deserta",
+      "title": "Hide",
+      "services": {
+        "qobuz": "79790897"
+      },
+      "album": "Black Aura My Sun",
+      "duration": 407,
+      "isrc": "QMGEB2006404"
+    },
+    {
+      "artist": "Bdrmm",
+      "title": "Happy",
+      "services": {
+        "qobuz": "238357989"
+      },
+      "album": "Bedroom",
+      "duration": 226,
+      "isrc": "GB8FC2000009"
+    },
+    {
+      "artist": "Launder",
+      "title": "Powder",
+      "services": {
+        "qobuz": "55155858"
+      },
+      "album": "Powder",
+      "duration": 270,
+      "isrc": "QZ92X1701101"
+    },
+    {
+      "artist": "Le Motel",
+      "title": "Blankenberge",
+      "services": {
+        "qobuz": "203578212"
+      },
+      "album": "MAAR",
+      "duration": 233,
+      "isrc": "BEN582300221"
+    },
+    {
+      "artist": "Julie",
+      "title": "flutter",
+      "services": {
+        "qobuz": "394992667"
+      },
+      "album": "flutter",
+      "duration": 267,
+      "isrc": "SE6A92042346"
+    },
+    {
+      "artist": "Beautiful World",
+      "title": "In Existence",
+      "services": {
+        "qobuz": "3017269"
+      },
+      "album": "In Existence",
+      "duration": 259,
+      "isrc": "DEA629362650"
+    },
+    {
+      "artist": "Peter Kraus",
+      "title": "Doll Doll Dolly",
+      "services": {
+        "qobuz": "90502750"
+      },
+      "album": "The Rock 'n' Roll Star",
+      "duration": 121,
+      "isrc": "DEUD92059551"
+    }
+  ]
+}

@@ -1,0 +1,990 @@
+{
+  "name": "Genre: Detroit Techno",
+  "services": {
+    "qobuz": "66718697",
+    "tidal": "8ac70b1f-64ea-4fa1-9cb3-f267d26dde9e"
+  },
+  "description": "Imported genre playlist: Detroit Techno.",
+  "tracks": [
+    {
+      "artist": "Cybotron",
+      "title": "Clear",
+      "services": {
+        "qobuz": "102668717"
+      },
+      "album": "Clear",
+      "duration": 294,
+      "isrc": "USFI88300051"
+    },
+    {
+      "artist": "Juan Atkins",
+      "title": "No U.F.Os (inst.)",
+      "services": {
+        "qobuz": "74113554"
+      },
+      "album": "Submerge Vol.1:Detroit Techno",
+      "duration": 418,
+      "isrc": "USGUM0810123"
+    },
+    {
+      "artist": "Derrick May",
+      "title": "Strings Of Life",
+      "services": {
+        "qobuz": "203400969"
+      },
+      "album": "Innovator - Soundtrack for the Tenth Planet",
+      "duration": 454,
+      "isrc": "GBJX31936012"
+    },
+    {
+      "artist": "Derrick May",
+      "title": "Nude Photo",
+      "services": {
+        "qobuz": "203400973"
+      },
+      "album": "Innovator - Soundtrack for the Tenth Planet",
+      "duration": 281,
+      "isrc": "GBJX31936017"
+    },
+    {
+      "artist": "KIMSUNGHOON",
+      "title": "Silent Groove (The Recluse\u2019s Song)",
+      "services": {
+        "qobuz": "363207439"
+      },
+      "album": "\u201cHow Does It Feel: A Tribute to D\u2019Angelo\u201d",
+      "duration": 159,
+      "isrc": "QT3FE2559929"
+    },
+    {
+      "artist": "Will Smith",
+      "title": "LIGHT EM UP",
+      "services": {
+        "qobuz": "268463775"
+      },
+      "album": "Bad Boys: Ride Or Die Soundtrack",
+      "duration": 121,
+      "isrc": "USSM12404025"
+    },
+    {
+      "artist": "Zen Lemonade",
+      "title": "Rodnet",
+      "services": {
+        "qobuz": "72392429"
+      },
+      "album": "King Makers Presents: Electronic Dance Experience",
+      "duration": 445,
+      "isrc": "GB83L1100017"
+    },
+    {
+      "artist": "Will Sparks",
+      "title": "Bad Girls",
+      "services": {
+        "qobuz": "402136778"
+      },
+      "album": "Bad Girls",
+      "duration": 125,
+      "isrc": "NL8RL2626023"
+    },
+    {
+      "artist": "JF-MUSIC XX",
+      "title": "It's just techno on the piano",
+      "services": {
+        "qobuz": "328792799"
+      },
+      "album": "It's just techno on the piano",
+      "duration": 186,
+      "isrc": "QZTRX2523078"
+    },
+    {
+      "artist": "Hakobune",
+      "title": "Nebulous Sequence, Pt. 10",
+      "services": {
+        "qobuz": "79348410"
+      },
+      "album": "Nebulous Sequences",
+      "duration": 729,
+      "isrc": "UK6821908323"
+    },
+    {
+      "artist": "Carole Fredericks",
+      "title": "Un, deux, trois",
+      "services": {
+        "qobuz": "68069190"
+      },
+      "album": "Fredericks, Goldman, Jones",
+      "duration": 258,
+      "isrc": "FRZ089000490"
+    },
+    {
+      "artist": "Eight To The Bar Express",
+      "title": "Take Your Time",
+      "services": {
+        "qobuz": "270086883"
+      },
+      "album": "Take Your Time",
+      "duration": 165,
+      "isrc": "DEZB52440052"
+    },
+    {
+      "artist": "Meigui Zhang",
+      "title": "Zigman: \u00c9migr\u00e9, Act I: This House We Share",
+      "services": {
+        "qobuz": "250537853"
+      },
+      "album": "Zigman: \u00c9migr\u00e9",
+      "duration": 423,
+      "isrc": "DEN962337305"
+    },
+    {
+      "artist": "Inner City",
+      "title": "Big Fun",
+      "services": {
+        "qobuz": "4651175"
+      },
+      "album": "Paradise",
+      "duration": 206,
+      "isrc": "GBAAA8900095"
+    },
+    {
+      "artist": "Our Next Movement",
+      "title": "Aftermath",
+      "services": {
+        "qobuz": "247568146"
+      },
+      "album": "THIS ROOM / THIS BATTLEFIELD",
+      "duration": 305,
+      "isrc": "ES71I2100013"
+    },
+    {
+      "artist": "Psyche/BFC",
+      "title": "Elements",
+      "services": {
+        "qobuz": "53575537"
+      },
+      "album": "Psyche/BFC - DELUXE DIGITAL VERSION",
+      "duration": 411,
+      "isrc": "USPC80601038"
+    },
+    {
+      "artist": "Binary Star",
+      "title": "K.G.B.",
+      "services": {
+        "qobuz": "350017499"
+      },
+      "album": "Masters of the Universe (2025 remastered)",
+      "duration": 467,
+      "isrc": "QZWFR2586803"
+    },
+    {
+      "artist": "Octave One",
+      "title": "I Believe",
+      "services": {
+        "qobuz": "202794154"
+      },
+      "album": "The Collective",
+      "duration": 352,
+      "isrc": "USTC70830245"
+    },
+    {
+      "artist": "Dimitri From Amsterdam",
+      "title": "Techno Por Favor",
+      "services": {
+        "qobuz": "53448730"
+      },
+      "album": "Detroit Summer",
+      "duration": 391,
+      "isrc": "USPC81301291"
+    },
+    {
+      "artist": "Saint Vice",
+      "title": "THE RITUAL",
+      "services": {
+        "qobuz": "396061220"
+      },
+      "album": "ANGEL OF DEATH",
+      "duration": 173,
+      "isrc": "QZMEQ2608018"
+    },
+    {
+      "artist": "Reese",
+      "title": "Just Want Another Chance",
+      "services": {
+        "qobuz": "4414933"
+      },
+      "album": "Global Communication - Back In The Box",
+      "duration": 303,
+      "isrc": "GBAJV8900001"
+    },
+    {
+      "artist": "Jan Hammer Project",
+      "title": "Crockett's Theme (R&B Flava Mix)",
+      "services": {
+        "qobuz": "79162003"
+      },
+      "album": "Crockett's Theme - EP feat. TQ",
+      "duration": 256,
+      "isrc": "USCGH1050469"
+    },
+    {
+      "artist": "Simple Minds",
+      "title": "First You Jump",
+      "services": {
+        "qobuz": "381775211"
+      },
+      "album": "Direction of the Heart",
+      "duration": 263,
+      "isrc": "GBZ8N2200443"
+    },
+    {
+      "artist": "Louie Devito",
+      "title": "Let's Go! (Dub Mix)",
+      "services": {
+        "qobuz": "77203394"
+      },
+      "album": "Let's Go! (Dub Mix)",
+      "duration": 353,
+      "isrc": "USLQ21291011"
+    },
+    {
+      "artist": "Kevin Saunderson",
+      "title": "The Sound",
+      "services": {
+        "qobuz": "378081559"
+      },
+      "album": "The Sound (Power Mix) / The Groove That Won't Stop",
+      "duration": 399,
+      "isrc": "QMVZM8801401"
+    },
+    {
+      "artist": "Malvada",
+      "title": "Veneno",
+      "services": {
+        "qobuz": "301236374"
+      },
+      "album": "Fear",
+      "duration": 209,
+      "isrc": "ITG272400559"
+    },
+    {
+      "artist": "Reggae Groove Nation",
+      "title": "It's Normal to Dream of You Every Night",
+      "services": {
+        "qobuz": "328940189"
+      },
+      "album": "It's Normal to Love You Like This",
+      "duration": 239,
+      "isrc": "QZVEM2571610"
+    },
+    {
+      "artist": "Jordan Rakei",
+      "title": "Nerve",
+      "services": {
+        "qobuz": "42613074"
+      },
+      "album": "Wallflower",
+      "duration": 235,
+      "isrc": "GBCFB1700198"
+    },
+    {
+      "artist": "aditya jordan akira",
+      "title": "Thaliand Nightgrove",
+      "services": {
+        "qobuz": "400127873"
+      },
+      "album": "Thaliand Nightgrove",
+      "duration": 198,
+      "isrc": "QT5M62680358"
+    },
+    {
+      "artist": "Mad Mike",
+      "title": "Attack of the Sonic Samurai (The Battle Within)",
+      "services": {
+        "qobuz": "74127463"
+      },
+      "album": "Interstellar Fugitives - Destruction of Order",
+      "duration": 438,
+      "isrc": "USGUM0710045"
+    },
+    {
+      "artist": "Gary Burton",
+      "title": "Stardancer",
+      "services": {
+        "qobuz": "64371290"
+      },
+      "album": "Easy As Pie",
+      "duration": 536,
+      "isrc": "DEB338018406"
+    },
+    {
+      "artist": "Galaxy 2 Galaxy",
+      "title": "Hi-Tech Jazz",
+      "services": {
+        "qobuz": "74125443"
+      },
+      "album": "Galaxy 2 Galaxy: A High Tech Jazz Compilation",
+      "duration": 336,
+      "isrc": "USGUM0710515"
+    },
+    {
+      "artist": "Suburban Knight",
+      "title": "The Art Of Stalking",
+      "services": {
+        "qobuz": "412441462"
+      },
+      "album": "Cherry Moon 35 Years",
+      "duration": 395,
+      "isrc": "BEFK29300001"
+    },
+    {
+      "artist": "Psyche/BFC",
+      "title": "Evolution",
+      "services": {
+        "qobuz": "53575542"
+      },
+      "album": "Psyche/BFC - DELUXE DIGITAL VERSION",
+      "duration": 187,
+      "isrc": "USPC80601043"
+    },
+    {
+      "artist": "Stacey Pullen",
+      "title": "Get Up",
+      "services": {
+        "qobuz": "247433765"
+      },
+      "album": "Get Up",
+      "duration": 498,
+      "isrc": "USF7D1100001"
+    },
+    {
+      "artist": "House & Home",
+      "title": "Pocket Knife",
+      "services": {
+        "qobuz": "272042057"
+      },
+      "album": "Find Sense. Feel Love. Make Light.",
+      "duration": 215,
+      "isrc": "QZFZ52091383"
+    },
+    {
+      "artist": "Beyond The Black",
+      "title": "Lost in Forever",
+      "services": {
+        "qobuz": "80027187"
+      },
+      "album": "Lost in Forever (Tour Edition)",
+      "duration": 288,
+      "isrc": "DEUM71503989"
+    },
+    {
+      "artist": "The Script",
+      "title": "Breakeven",
+      "services": {
+        "qobuz": "13023489"
+      },
+      "album": "The Script",
+      "duration": 261,
+      "isrc": "GBARL0800147"
+    },
+    {
+      "artist": "Lene Marlin",
+      "title": "My Lucky Day",
+      "services": {
+        "qobuz": "803829"
+      },
+      "album": "Lost In A Moment",
+      "duration": 225,
+      "isrc": "NOAHV0503070"
+    },
+    {
+      "artist": "Inertia",
+      "title": "The Chamber",
+      "services": {
+        "qobuz": "111437974"
+      },
+      "album": "The Chamber",
+      "duration": 520,
+      "isrc": "GBJAL0500009"
+    },
+    {
+      "artist": "Jackson Arlo Young",
+      "title": "The Hollow Stars That Refuse to Shine",
+      "services": {
+        "qobuz": "409760686"
+      },
+      "album": "The Hollow Stars That Refuse to Shine",
+      "duration": 199,
+      "isrc": "QT82V2635062"
+    },
+    {
+      "artist": "Sean Wolcott",
+      "title": "Vortex of the Ever-Seeing Mind",
+      "services": {
+        "qobuz": "384095596"
+      },
+      "album": "Crystal Eyes Stalk at Midnight",
+      "duration": 137,
+      "isrc": "QZDA62673796"
+    },
+    {
+      "artist": "8 Wonders",
+      "title": "8th Wonder",
+      "services": {
+        "qobuz": "7004543"
+      },
+      "album": "8th Wonder",
+      "duration": 512,
+      "isrc": "GBHCD0604020"
+    },
+    {
+      "artist": "The Foundations",
+      "title": "Come On Back To Me",
+      "services": {
+        "qobuz": "390261361"
+      },
+      "album": "Baby Now That I've Found You",
+      "duration": 136,
+      "isrc": "GBAJE6700119"
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "Shake It Off",
+      "services": {
+        "qobuz": "78245406"
+      },
+      "album": "1989",
+      "duration": 219,
+      "isrc": "USCJY1431349"
+    },
+    {
+      "artist": "Reggie And The Full Effect",
+      "title": "who needs another drank feat (floppy disk-0)",
+      "services": {
+        "qobuz": "208687965"
+      },
+      "album": "No Country For Old Musicians (10th Anniversary)",
+      "duration": 173,
+      "isrc": "USSTT1300069"
+    },
+    {
+      "artist": "Ida",
+      "title": "Down On Your Back",
+      "services": {
+        "qobuz": "317993621"
+      },
+      "album": "Will You Find Me 25th Anniversary Edition",
+      "duration": 264,
+      "isrc": "USCW62534172"
+    },
+    {
+      "artist": "DJ T-1000",
+      "title": "1 Liquid Metal",
+      "services": {
+        "qobuz": "48818288"
+      },
+      "album": "The Polymath",
+      "duration": 411,
+      "isrc": "GBGXG1600621"
+    },
+    {
+      "artist": "Terrence Dixon",
+      "title": "Demo For Jakub",
+      "services": {
+        "qobuz": "132508066"
+      },
+      "album": "Reverse Engineering After Hours",
+      "duration": 282,
+      "isrc": "GBRKQ2115354"
+    },
+    {
+      "artist": "Malakwa",
+      "title": "People Are People",
+      "services": {
+        "qobuz": "8458743"
+      },
+      "album": "Alfa Matrix Re:Covered, Vol. 2 - a Tribute to Depeche Mode",
+      "duration": 242,
+      "isrc": "BEC261113729"
+    },
+    {
+      "artist": "Jeff Mills",
+      "title": "The Bells",
+      "services": {
+        "qobuz": "295033856"
+      },
+      "album": "SIGHT SOUND AND SPACE",
+      "duration": 285,
+      "isrc": "USAX10000249"
+    },
+    {
+      "artist": "Kenny Larkin",
+      "title": "We Shall Overcome",
+      "services": {
+        "qobuz": "93530568"
+      },
+      "album": "We Shall Overcome",
+      "duration": 227,
+      "isrc": "USA2P2018458"
+    },
+    {
+      "artist": "Terrence Dixon",
+      "title": "Bonus Beat ; Da Comin' (Jay Denham RMX) ; 1.0 / 8.0 Afrika Genocide",
+      "services": {
+        "qobuz": "21957319"
+      },
+      "album": "DJ-Kicks (Nina Kraviz)",
+      "duration": 139,
+      "isrc": "DEG931491188"
+    },
+    {
+      "artist": "Badawi",
+      "title": "Anlan 7",
+      "services": {
+        "qobuz": "394505268"
+      },
+      "album": "NYC Sound System Culture: The Global Bass Resistance Archive (2000\u20132010)",
+      "duration": 237,
+      "isrc": "GBHLW2600366"
+    },
+    {
+      "artist": "J.B.O.",
+      "title": "Ma Ma Ma Metal",
+      "services": {
+        "qobuz": "358008983"
+      },
+      "album": "Haus Of The Rising Fun",
+      "duration": 267,
+      "isrc": "DE1KY2506865"
+    },
+    {
+      "artist": "The Sweet Dream Team",
+      "title": "Rock a Bye Baby (Lullaby for Infants, Toddlers, Relaxation and Baby Sleep Aid)",
+      "services": {
+        "qobuz": "64134405"
+      },
+      "album": "Rock a Bye Baby (Lullaby for Infants, Toddlers, Relaxation and Baby Sleep Aid)",
+      "duration": 89,
+      "isrc": "USHM81917329"
+    },
+    {
+      "artist": "Planetary Assault Systems",
+      "title": "Blue Monk",
+      "services": {
+        "qobuz": "35676529"
+      },
+      "album": "Arc Angel",
+      "duration": 539,
+      "isrc": "DELG71400803"
+    },
+    {
+      "artist": "Air Liquide",
+      "title": "Nephology",
+      "services": {
+        "qobuz": "251940744"
+      },
+      "album": "Nephology",
+      "duration": 182,
+      "isrc": "DEKB71671213"
+    },
+    {
+      "artist": "Boards of Canada",
+      "title": "You Retreat In Time And Space",
+      "services": {
+        "qobuz": "421944461"
+      },
+      "album": "Inferno",
+      "duration": 325,
+      "isrc": "GBBPW2602557"
+    },
+    {
+      "artist": "Self Control",
+      "title": "Free Your Mind",
+      "services": {
+        "qobuz": "74329784"
+      },
+      "album": "Voyage II EP",
+      "duration": 355,
+      "isrc": "CAH250671310"
+    },
+    {
+      "artist": "Sequence Six",
+      "title": "Essence of Self",
+      "services": {
+        "qobuz": "367994909"
+      },
+      "album": "Essence of Self",
+      "duration": 432,
+      "isrc": "UKRMQ2501112"
+    },
+    {
+      "artist": "Neko Hacker",
+      "title": "Cosmic City Highway",
+      "services": {
+        "qobuz": "296428451"
+      },
+      "album": "WotoHacker The Best",
+      "duration": 153,
+      "isrc": "TCJPV2304207"
+    },
+    {
+      "artist": "Jo\u00e3o Gilberto",
+      "title": "Bim Bom",
+      "services": {
+        "qobuz": "160801085"
+      },
+      "album": "Jo\u00e3o Gilberto Apresenta Chega de Saudade",
+      "duration": 77,
+      "isrc": "DEXO32236448"
+    },
+    {
+      "artist": "Bob Dylan",
+      "title": "'Til I Fell in Love with You",
+      "services": {
+        "qobuz": "184344381"
+      },
+      "album": "Fragments - Time Out of Mind Sessions (1996-1997): The Bootleg Series, Vol. 17 (Deluxe Edition)",
+      "duration": 177,
+      "isrc": "USSM12201960"
+    },
+    {
+      "artist": "The Warning",
+      "title": "Six Feet Deep",
+      "services": {
+        "qobuz": "273574161"
+      },
+      "album": "Keep Me Fed",
+      "duration": 179,
+      "isrc": "USUM72402489"
+    },
+    {
+      "artist": "DJ Format",
+      "title": "Vicious Battle Raps",
+      "services": {
+        "qobuz": "33464271"
+      },
+      "album": "Music For The Mature B Boy",
+      "duration": 232,
+      "isrc": "GBENL0300056"
+    },
+    {
+      "artist": "Moby",
+      "title": "When It's Cold I'd Like to Die",
+      "services": {
+        "qobuz": "398979013"
+      },
+      "album": "When It's Cold I'd Like to Die",
+      "duration": 300,
+      "isrc": "GB3AD2600003"
+    },
+    {
+      "artist": "Yeah Yeah Fine",
+      "title": "Emerald Heart",
+      "services": {
+        "qobuz": "366698428"
+      },
+      "album": "Love Letters & Lifelines",
+      "duration": 203,
+      "isrc": "QZPJ32519870"
+    },
+    {
+      "artist": "The Aztec Mystic",
+      "title": "Knights of Jaguar",
+      "services": {
+        "qobuz": "46836994"
+      },
+      "album": "DJ Vibe Presents Global Grooves Vol.2",
+      "duration": 398,
+      "isrc": "QMDA61823856"
+    },
+    {
+      "artist": "Carl Craig",
+      "title": "At Les",
+      "services": {
+        "qobuz": "60564017"
+      },
+      "album": "Versus Beatless Versions",
+      "duration": 459,
+      "isrc": "FRT091600082"
+    },
+    {
+      "artist": "Aril Brikha",
+      "title": "Groove La Chord",
+      "services": {
+        "qobuz": "206287757"
+      },
+      "album": "Re-Creation: Remixes Compiled",
+      "duration": 487,
+      "isrc": "DECY51008021"
+    },
+    {
+      "artist": "Hermandad de Jes\u00fas Nazareno de San Juan de Dios",
+      "title": "Protector De Quetzaltenango",
+      "services": {
+        "qobuz": "427651869"
+      },
+      "album": "Dichoso pueblo con tal Rey",
+      "duration": 419,
+      "isrc": "GXHAF2691298"
+    },
+    {
+      "artist": "Vince Watson",
+      "title": "Mystical Rhythm (feat. Naomi Thompson)",
+      "services": {
+        "qobuz": "91743768"
+      },
+      "album": "Mystical Rhythm (feat. Naomi Thompson)",
+      "duration": 260,
+      "isrc": "GBGTS1000100"
+    },
+    {
+      "artist": "e-Dancer",
+      "title": "Heavenly",
+      "services": {
+        "qobuz": "378252326"
+      },
+      "album": "Heavenly",
+      "duration": 125,
+      "isrc": "BEP010491401"
+    },
+    {
+      "artist": "Reese & Santonio",
+      "title": "The Sound",
+      "services": {
+        "qobuz": "378319572"
+      },
+      "album": "The Sound",
+      "duration": 182,
+      "isrc": "NL8FJ2300123"
+    },
+    {
+      "artist": "Robert Glasper",
+      "title": "Step Into The Realm",
+      "services": {
+        "qobuz": "360724478"
+      },
+      "album": "Keys To The City Volume One",
+      "duration": 177,
+      "isrc": "USC4R2447746"
+    },
+    {
+      "artist": "Peverelist",
+      "title": "Pulse V",
+      "services": {
+        "qobuz": "362918887"
+      },
+      "album": "Pulse Remix EP",
+      "duration": 324,
+      "isrc": "GBRYX2500430"
+    },
+    {
+      "artist": "Pink Martini, Manos Hadjidakis, Billy Towne",
+      "title": "Never On Sunday",
+      "services": {
+        "qobuz": "1401411"
+      },
+      "album": "Sympathique",
+      "duration": 296,
+      "isrc": "USHNZ0400010"
+    },
+    {
+      "artist": "Jeff Beal",
+      "title": "Game Chaos",
+      "services": {
+        "qobuz": "227785826"
+      },
+      "album": "The Winning Time Sessions: Season 2 (Soundtrack from the HBO\u00ae Original Series)",
+      "duration": 227,
+      "isrc": "USNLR2301384"
+    },
+    {
+      "artist": "Melt Yourself Down",
+      "title": "Fix My Life",
+      "services": {
+        "qobuz": "49756616"
+      },
+      "album": "Melt Yourself Down",
+      "duration": 242,
+      "isrc": "GBCKB1308502"
+    },
+    {
+      "artist": "Energy",
+      "title": "Invasions",
+      "services": {
+        "qobuz": "168687403"
+      },
+      "album": "Into the Dark",
+      "duration": 87,
+      "isrc": "GBKPL1971540"
+    },
+    {
+      "artist": "Johann Johannsson",
+      "title": "A Model of the Universe",
+      "services": {
+        "qobuz": "109469902"
+      },
+      "album": "The Theory of Everything (Original Motion Picture Soundtrack)",
+      "duration": 172,
+      "isrc": "USQ4E1401114"
+    },
+    {
+      "artist": "Yellow Magic Orchestra",
+      "title": "Hi-Tech Hippies",
+      "services": {
+        "qobuz": "92658618"
+      },
+      "album": "TECHNODON REMIXES I&II",
+      "duration": 602,
+      "isrc": "JPTO09314380"
+    },
+    {
+      "artist": "Mad Professor",
+      "title": "Sahara Dub",
+      "services": {
+        "qobuz": "31668633"
+      },
+      "album": "Mad Professor Meets Channel One",
+      "duration": 275,
+      "isrc": "QMDA71593526"
+    },
+    {
+      "artist": "69",
+      "title": "Desire",
+      "services": {
+        "qobuz": "39666935"
+      },
+      "album": "The Legendary Adventures Of A Filter King",
+      "duration": 387,
+      "isrc": "USPC80901049"
+    },
+    {
+      "artist": "Dan Curtin",
+      "title": "The Bailout",
+      "services": {
+        "qobuz": "81991123"
+      },
+      "album": "Indiscrete EP",
+      "duration": 344,
+      "isrc": "NLCK41061031"
+    },
+    {
+      "artist": "Kitaro",
+      "title": "Underworld",
+      "services": {
+        "qobuz": "74416994"
+      },
+      "album": "Cirque Ingenieux",
+      "duration": 464,
+      "isrc": "USDO19700034"
+    },
+    {
+      "artist": "B12",
+      "title": "Hall Of Mirrors",
+      "services": {
+        "qobuz": "3775409"
+      },
+      "album": "Electro Soma",
+      "duration": 398,
+      "isrc": "GBBPW9300037"
+    },
+    {
+      "artist": "Eternal Stasis",
+      "title": "Point Of No Return",
+      "services": {
+        "qobuz": "304817827"
+      },
+      "album": "Mental Decay",
+      "duration": 365,
+      "isrc": "AEA2Z2498558"
+    },
+    {
+      "artist": "Deetron",
+      "title": "Starblazer",
+      "services": {
+        "qobuz": "414289151"
+      },
+      "album": "Defected presents House Masters - Deetron",
+      "duration": 498,
+      "isrc": "NLEW31100008"
+    },
+    {
+      "artist": "Sterac",
+      "title": "The Secret Life Of Machines",
+      "services": {
+        "qobuz": "104234842"
+      },
+      "album": "Secret Life Of Machines Remastered & Remixed",
+      "duration": 424,
+      "isrc": "NLR341010069"
+    },
+    {
+      "artist": "Rah",
+      "title": "Come Sono Veramente",
+      "services": {
+        "qobuz": "113103578"
+      },
+      "album": "Nightvision #22",
+      "duration": 360,
+      "isrc": "GBKQU1808731"
+    },
+    {
+      "artist": "DJ Bone",
+      "title": "Shut the Lites Off",
+      "services": {
+        "qobuz": "49339368"
+      },
+      "album": "Riding the Thin Line",
+      "duration": 475,
+      "isrc": "GBKMS1700009"
+    },
+    {
+      "artist": "DJ Tao",
+      "title": "LA T Y LA M | DJ TAO Turreo Sessions #16",
+      "services": {
+        "qobuz": "199816052"
+      },
+      "album": "LA T Y LA M | DJ TAO Turreo Sessions #16",
+      "duration": 140,
+      "isrc": "CLAA22300021"
+    },
+    {
+      "artist": "Felt",
+      "title": "Grey Streets",
+      "services": {
+        "qobuz": "192852087"
+      },
+      "album": "Absolute Classic Masterpieces Vol II",
+      "duration": 225,
+      "isrc": "GBBBN8605005"
+    },
+    {
+      "artist": "Black Hole Sun",
+      "title": "The Carpet Crawlers",
+      "services": {
+        "qobuz": "67024608"
+      },
+      "album": "The Carpet Crawlers: Progressive Rock",
+      "duration": 330,
+      "isrc": "GBQRF1210186"
+    },
+    {
+      "artist": "Mike Finnigan",
+      "title": "Don't Answer the Door",
+      "services": {
+        "qobuz": "367562063"
+      },
+      "album": "Mike Finnigan",
+      "duration": 397,
+      "isrc": "USP5V2500133"
+    },
+    {
+      "artist": "Marty Robbins",
+      "title": "The Red Hills of Utah",
+      "services": {
+        "qobuz": "13333891"
+      },
+      "album": "Return of the Gunfighter",
+      "duration": 126,
+      "isrc": "USSM10500433"
+    }
+  ]
+}

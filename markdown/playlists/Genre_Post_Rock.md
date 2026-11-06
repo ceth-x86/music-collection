@@ -1,0 +1,108 @@
+# Genre: Post Rock
+
+Imported genre playlist: Post Rock.
+
+Services: `qobuz:66732905` `tidal:6181791d-74ba-43e2-bc68-d11175b90598`
+
+## Tracks (100)
+
+- **Talk Talk** — The Rainbow [Spirit Of Eden (Remastered Hi-Res Version)] (8:05) `isrc:GBAYE8800260` `qobuz:19081046`
+- **Slint** — Good Morning, Captain [Spiderland (remastered)] (7:41) `isrc:USTG31436406` `qobuz:32668927`
+- **Seefeel** — Climactic Phase No.3 [Quique] (8:24) `isrc:GBBNZ9300050` `qobuz:2331832`
+- **Labradford** — Listening in Depth [Prazision LP] (7:32) `isrc:USI4R0401535` `qobuz:25021920`
+- **Disco Inferno** — Even The Sea Sides AgaInst Us [D.I. Go Pop] (3:44) `isrc:GBBTF0400176` `qobuz:249091965`
+- **Bark Psychosis** — A Street Scene [Hex] (5:35) `isrc:GBAAA9401052` `qobuz:4653164`
+- **main** — Crater Scar [Motion Pool] (9:51) `isrc:GBAZP9400183` `qobuz:2484746`
+- **Cul De Sac** — Graveyard for Robots [I Don't Want To Go To Bed] (11:32) `isrc:USAJ69702903` `qobuz:291120459`
+- **Kesha** — Gold Trans Am [Warrior (Expanded Edition)] (3:20) `isrc:USRC11201146` `qobuz:58840949`
+- **Sc Static** — Mr. E (Dedication to Braetan) [Third Person] (4:30) `isrc:TCAIZ2486847` `qobuz:303289140`
+- **Gastr del Sol** — The Sea Incertain [Upgrade & Afterlife] (6:12) `isrc:US58L1509003` `qobuz:48468582`
+- **Aerial M** — Dazed and Awake [Aerial M] (5:16) `isrc:US58L0511401` `qobuz:48466264`
+- **Mogwai** — Mogwai Fear Satan [Mogwai Young Team] (16:19) `isrc:GBCGR2260010` `qobuz:179401607`
+- **Lifte** — The Dead Flag Blues [The Dead Flag Blues (feat. Jameson Day) [Abridged]] (7:24) `isrc:QZNWU2263748` `qobuz:172589487`
+- **To Rococo Rot** — Modern Homes [Veiculo] (3:28) `isrc:DED629799003` `qobuz:243057165`
+- **Dirty Three** — Sue's Last Ride [Horse Stories] (7:21) `isrc:USTG39616502` `qobuz:20004270`
+- **Tristeza** — When We Glow [Spine And Sensory (Expanded And Remastered)] (6:15) `isrc:USBRL0300128` `qobuz:331359744`
+- **Tarentel** — For Carl Sagan [From Bone to Satellite] (21:32) `isrc:USY6C0702304` `qobuz:31693959`
+- **Papa M** — I Am Not Lonely With Cricket [Live From A Shark Cage] (14:55) `isrc:US58L0517008` `qobuz:48467431`
+- **The Album Leaf** — A Short Story [An Orchestrated Rise to Fall] (14:14) `isrc:USTCZ0989858` `qobuz:143516983`
+- **Rachel's** — A French Galleasse [Selenography] (6:13) `isrc:USA4C9905501` `qobuz:32677696`
+- **Sigur Rós** — Svefn-g-englar [Ágætis byrjun] (10:06) `isrc:GBDCA9900067` `qobuz:57352333`
+- **Rothko** — Roads Become Rivers [A Negative for Francis] (3:14) `isrc:GBDRC9901202` `qobuz:2368928`
+- **Mice Parade** — Eyes See Stars [lapapọ] (4:16) `isrc:GBDCA2003687` `qobuz:146793410`
+- **Do Make Say Think** — The Landlord Is Dead [Goodbye Enemy Airship The Landlord Is Dead] (5:39) `isrc:CACQ20701003` `qobuz:49816095`
+- **EFS Afterdark** — America Is a Way of Life [The Wall Between Us] (5:14) `isrc:QT6EU2663093` `qobuz:432394351`
+- **Giardini di Mirò** — The Beauty Tape Rider [The Academic Rise of Falling Drifters] (5:11) `isrc:IT0501206123` `qobuz:45604619`
+- **Unwed Sailor** — The Faithful Anchor [The Faithful Anchor] (3:29) `isrc:USA970204253` `qobuz:324778999`
+- **The Mercury Program** — Tequesta [A Data Learn the Language] (7:38) `isrc:USTS40211497` `qobuz:259897692`
+- **MASERATI** — Ambassador Of Cinema [The Language Of Cities] (6:04) `isrc:USY6C2035001` `qobuz:144874553`
+- **Saxon Shore** — Twilight Is Our Advocate Tonight [Be a Bright Blue] (7:53) `isrc:USA970506506` `qobuz:125097352`
+- **Ester Drang** — Oceans Of You [Infinite Keys] (4:52) `isrc:USA6M0408203` `qobuz:77648437`
+- **Aereogramme** — A Simple Process Of Elimination [Sleep & Release] (5:48) `isrc:GBCGR0290002` `qobuz:3149558`
+- **Austin TV** — Ella No Me Conoce [La Última Noche Del Mundo] (4:48) `isrc:USHM91355900` `qobuz:259391276`
+- **Explosions In The Sky** — Your Hand in Mine [The Earth Is Not a Cold Dead Place] (8:17) `isrc:GBBRP0355005` `qobuz:24041135`
+- **Silver Mt. Zion** — God Bless Our Dead Marines [Horses In The Sky] (11:44) `isrc:CACQ20703301` `qobuz:49816567`
+- **Grails** — Reincarnation Blues [Doomsdayer's Holiday] (4:25) `isrc:USY6C0814402` `qobuz:20808468`
+- **MONO** — Halcyon (Beautiful Days) [Holy Ground: NYC Live with the Wordless Music Orchestra] (9:18) `isrc:USY6C1015908` `qobuz:20777279`
+- **65daysofstatic** — Radio Protector [Radio Protector] (5:28) `isrc:GBNTT0600131` `qobuz:74809083`
+- **The Samuel Jackson Five** — Skinflick Dress Rehearsal [Easily Misunderstood] (5:46) `isrc:NODCD0501001` `qobuz:196970278`
+- **God is an Astronaut** — All Is Violent, All Is Bright [All Is Violent, All Is Bright (2011 Remastered Edition)] (4:11) `isrc:TCABC1111566` `qobuz:124096411`
+- **The Evpatoria Report** — Taijin Kyofusho [Golevka] (11:00) `isrc:CH6580901402` `qobuz:76707658`
+- **El Ten Eleven** — My Only Swerving [El Ten Eleven] (5:14) `isrc:US37V0517201` `qobuz:63858721`
+- **Hammock** — Turn Away and Return [Everything and Nothing] (5:13) `isrc:US7QT1500007` `qobuz:126955648`
+- **The Six Parts Seven** — What You Love You Must Love Now [Everywhere And Right Here] (5:22) `isrc:US33X0404001` `qobuz:20787796`
+- **Yndi Halda** — Dash And Blast [Enjoy Eternal Bliss] (16:51) `isrc:USA2B0714901` `qobuz:72031847`
+- **Caspian** — Halls of the Summer [Waking Season] (5:15) `isrc:US72W1210925` `qobuz:80177786`
+- **The Seven Mile Journey** — Purification - The Journey Transcriptions [The Metamorphosis Project] (15:38) `isrc:DKDP70700106` `qobuz:58080233`
+- **This Will Destroy You** — The Mighty Rio Grande [S/T] (11:16) `isrc:US76L0710410` `qobuz:46826305`
+- **Maybeshewill** — Not For Want Of Trying [Not for Want of Trying] (5:33) `isrc:GBPDA0810009` `qobuz:237750896`
+- **Jakob** — Oran Mor [Solace] (5:16) `isrc:NZMI10600004` `qobuz:295079406`
+- **Industries of the Blind** — I Just Wanted to Make You Something Beautiful [Chapter 1: Had We Known Better] (13:02) `isrc:TCAAU1165495` `qobuz:155701772`
+- **Gifts From Enola** — Melted Wings [From Fathoms] (5:33) `isrc:USTC90918404` `qobuz:115198056`
+- **Alejandro Lozano** — A City That Dreams Beneath the Sea [A City That Dreams Beneath the Sea] (2:11) `isrc:QT5M52559945` `qobuz:363906869`
+- **Balmorhea** — Remembrance [All Is Wild, All Is Silent] (5:49) `isrc:US78L0910014` `qobuz:20751303`
+- **If These Trees Could Talk** — From Roots to Needles [Above the Earth, Below the Sky] (6:42) `isrc:USCGH0992358` `qobuz:78858089`
+- **Tides From Nebula** — Siberia [Earthshine] (10:03) `isrc:PLB820012123` `qobuz:95021531`
+- **Lymbyc Systym** — Truth Skull [Love Your Abuser] (4:12) `isrc:USJEJ0725208` `qobuz:70472623`
+- **The American Dollar** — Anything You Synthesize (Ambient) [Music for Focus and Creativity] (3:57) `isrc:TCABL1392447` `qobuz:125267370`
+- **EF** — Longing for Colors [Mourning Golden Morning (Bonus Track Version)] (9:01) `isrc:SEYXV1000104` `qobuz:265768736`
+- **sleepmakeswaves** — One Day You Will Teach Me to Let Go of My Fears [In Today Already Walks Tomorrow] (6:21) `isrc:AUAJ11200003` `qobuz:74806547`
+- **A Swarm of the Sun** — These Depths Were Always Meant for Both of Us [20.11.03] (10:59) `isrc:QM4TW2102641` `qobuz:111312259`
+- **Leech** — Turbolina [If We Get There One Day, Would You Please Open The Gates?] (5:25) `isrc:CH7510900100` `qobuz:308424388`
+- **Exxasens** — Polaris [2007-2014] (4:11) `isrc:TCJPB1481594` `qobuz:320624353`
+- **Collapse Under The Empire** — The Last Reminder [Shoulders & Giants] (5:53) `isrc:USHM81198190` `qobuz:71321908`
+- **Toundra** — Cielo Negro (Black Sky) [(III)] (6:00) `isrc:ES71I1200033` `qobuz:49068070`
+- **Stereolab** — Refractions in the Plastic Pulse [Dots And Loops] (17:32) `isrc:USEE19792082` `qobuz:79198116`
+- **Pg.lost** — I Am a Destroyer [Key] (9:18) `isrc:SEXOS1200105` `qobuz:50669682`
+- **Dennis Wilson** — End of the Show [Pacific Ocean Blue & Bambu - 2 CD Deluxe Legacy Edition] (2:57) `isrc:USSM17701177` `qobuz:4935043`
+- **Lights & Motion** — The Spectacular Quiet [Chronicle] (3:51) `isrc:US4KH1556009` `qobuz:20900966`
+- **Moonlit Sailor** — Minutes from Somewhere Else [We Come from Exploding Stars] (6:42) `isrc:US4KH1455401` `qobuz:15328867`
+- **Wang Wen** — Mail From the River [Invisible City] (6:17) `isrc:QM4TX1898984` `qobuz:52428491`
+- **Mooncake** — Zaris [Zaris] (5:13) `isrc:USHM81306733` `qobuz:253309800`
+- **We Lost The Sea** — A Gallant Gentleman [Departure Songs] (6:04) `isrc:AUAJ11500039` `qobuz:400480702`
+- **Oh Hiroshima** — Mirage [In Silence We Yearn] (9:33) `isrc:SEYOK1535193` `qobuz:204607406`
+- **From Monument To Masses** — The Quiet Before [The Impossible Leap in 100 Simple Steps] (2:55) `isrc:USDM30303050` `qobuz:53871270`
+- **The For Carnation** — Moonbeams [The For Carnation] (9:29) `isrc:USTG30021406` `qobuz:32668778`
+- **Julie Andrews** — The Lonely Goatherd [The Sound Of Music] (3:11) `isrc:USRC16406217` `qobuz:113477490`
+- **Shipping News** — Axons and Dendrites [Flies the Fields] (5:24) `isrc:USA4C0509901` `qobuz:32666792`
+- **Movietone** — Mono Valley [Peel Sessions] (4:59) `isrc:FR9W19400475` `qobuz:155718081`
+- **Hood** — The Lost You [Outside Closer] (4:41) `isrc:GBCEL0400022` `qobuz:2523462`
+- **Gabriel Minguez** — UI [UI] (4:44) `isrc:SE69Z2440086` `qobuz:293287255`
+- **Causa Sui** — La Jolla [Szabodelico] (5:23) `isrc:QMBZ92049144` `qobuz:102783350`
+- **Vivaldi Chamber Orchestra** — Paris Concerto VIII in D Minor RV 127: I. Allegro [Vivaldi: String Concerto / Bach: Air On The G String - Violin Concerto in A Minor / Albinoni: Adagio in G Minor / Pachelbel: Some Revisitations of Canon in D Major / Walter Rinaldi: Orchestral Works / Beethoven: Fur Elise / Wedding March - Vol. 2] (1:34) `isrc:USX9P1102436` `qobuz:98552776`
+- **June Of 44** — Anisette [Tropics and Meridians] (9:18) `isrc:USA4C9604401` `qobuz:32621319`
+- **Fridge** — Five Combs [Happiness] (9:45) `isrc:USY6C0704310` `qobuz:194877109`
+- **Rage Against The Machine** — Sleep Now In the Fire [Democratic National Convention 2000] (3:56) `isrc:USSM11800946` `qobuz:294162704`
+- **Radian Pax** — Path [Radian Pax] (4:47) `isrc:CBF8B2571951` `qobuz:375328057`
+- **The Appleseed Cast** — Marigold & Patchwork [The End Of The Ring Wars] (5:49) `isrc:US4KH0437001` `qobuz:3896233`
+- **I like trains** — Terra Nova [Progress Reform] (4:59) `isrc:GBFFA0600101` `qobuz:1177706`
+- **Jambinai** — They Keep Silence [Hermitage] (6:24) `isrc:GBBRP1653508` `qobuz:32969389`
+- **Spa et Yoga** — La renaissance - Le bruit de l'eau [Printemps detox – Musique relaxante et énergisante pour désintoxication de printemps, la saison du renouveau et de la renaissance] (3:56) `isrc:ITO101718510` `qobuz:50472996`
+- **Spurv** — Et blekt lys lyder [Myra] (5:28) `isrc:NOFYF1803050` `qobuz:140827076`
+- **Cave In** — Lift Off [Lift Off/Lost in the Air] (4:45) `isrc:USALX0200002` `qobuz:126424924`
+- **Sleep Dream Music Academy** — Stress – Distant Sea Waves [Ocean Sounds Therapy Instead of Sleeping Pills: Bedtime Songs to Help You Relax, Meditate Before Sleep, Rest, De-stress] (3:42) `isrc:PLS922216949` `qobuz:175997017`
+- **Paco de Lucía** — Short Tales of the Black Forest [Friday Night in San Francisco] (8:42) `isrc:USSM18000196` `qobuz:80785`
+- **Sevdaliza** — Hubris [Ison] (4:05) `isrc:NLE3U1700003` `qobuz:220015173`
+- **Silent Whale Becomes a Dream** — As Walking On Canopy [Canopy Remastered] (15:09) `isrc:QZDA42470245` `qobuz:250702905`
+- **Dark Dark Horse** — Pale Lights (Dark Dark Horse Remix) [Pale Lights (Dark Dark Horse Remix)] (4:17) `isrc:US3X51738611` `qobuz:58467601`
+- **The Maccabees** — Empty Vessels [Wall Of Arms] (3:13) `isrc:GBUM70915787` `qobuz:13641337`

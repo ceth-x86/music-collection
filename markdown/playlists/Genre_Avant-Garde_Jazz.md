@@ -1,0 +1,108 @@
+# Genre: Avant-Garde Jazz
+
+Imported genre playlist: Avant-Garde Jazz.
+
+Services: `qobuz:66733713`
+
+## Tracks (100)
+
+- **Warne Marsh** — Smog Eyes [Intuition] (3:33) `isrc:USBN29600524` `qobuz:4993990`
+- **Charles Mingus** — Pithecanthropus Erectus [Pithecanthropus Erectus] (10:35) `isrc:USAT20004066` `qobuz:2944946`
+- **Ornette Coleman** — Lonely Woman [The Shape Of Jazz To Come] (5:00) `isrc:USAT21301737` `qobuz:11092691`
+- **Cecil Taylor** — Air [The World Of Cecil Taylor] (8:39) `isrc:QZR8K2122000` `qobuz:397174968`
+- **Albert Mangelsdorff Quintet** — Tension [Tension] (10:39) `isrc:DER387900061` `qobuz:55362486`
+- **The Joe Harriott Quintet** — Abstract [Free Form] (3:41) `isrc:FRX281993193` `qobuz:87023320`
+- **Jimmy Giuffre** — The Five Ways [Free Fall] (10:19) `isrc:USSM16200807` `qobuz:79598`
+- **Grachan Moncur III** — Evolution [Evolution] (12:20) `isrc:USBN20800463` `qobuz:15936672`
+- **Jackie McLean** — Love And Hate [Destination...Out!] (8:25) `isrc:USBN26300242` `qobuz:21463488`
+- **Eric Dolphy** — Hat And Beard [Out To Lunch!] (8:24) `isrc:USBN21200675` `qobuz:15936736`
+- **New York Lounge Quartett, Explosion of Jazz Ensemble, Awesome Holidays Collection** — Black Cat Eyes [American Metropolitan Jazz - Instrumental Music from the Largest Cities of the U.S.A.] (3:20) `isrc:PLS921760122` `qobuz:63418175`
+- **Sam Rivers** — Fuchsia  Swing Song [Fuchsia Swing Song] (6:03) `isrc:USBN29600711` `qobuz:31871933`
+- **Tony Williams** — Two Pieces Of One: Red [Life Time] (8:06) `isrc:USBN29801084` `qobuz:993951`
+- **Bobby Hutcherson** — Catta [Dialogue] (7:19) `isrc:USBN20100738` `qobuz:1005590`
+- **Andrew Hill** — Refuge [Point of Departure] (12:13) `isrc:USBN28800411` `qobuz:21990202`
+- **Sun Ra Arkestra** — The Magic City [The Magic City] (26:27) `isrc:USCXG1700151` `qobuz:48067849`
+- **Paul Bley Trio** — Ida Lupino [Closer] (2:57) `isrc:QMPFN1200083` `qobuz:101600046`
+- **Bill Dixon** — For Nelson And Winnie [Thoughts] (19:03) `isrc:ITC000852653` `qobuz:146944730`
+- **Roscoe Mitchell** — The Little Suite [Roscoe Mitchell Sextet - Sound] (10:26) `isrc:QM6P41861509` `qobuz:55993496`
+- **Don Cherry** — Complete Communion: Complete Communion/And Now/Golden Heart/Remembrance [Complete Communion] (20:40) `isrc:USBN29901005` `qobuz:21990217`
+- **Art Ensemble Of Chicago** — Thème de Yoyo [American Swinging In Paris] (9:06) `isrc:FRZ117006372` `qobuz:1009284`
+- **Charlie Haden** — Song For Chè [Liberation Music Orchestra] (9:29) `isrc:USMC17347523` `qobuz:58840476`
+- **Carla Bley** — Rawalpindi Blues [Escalator Over The Hill - A Chronotransduction By Carla Bley And Paul Haines] (12:41) `isrc:DED547100224` `qobuz:57524664`
+- **Anthony Braxton** — To Composer John Cage [For Alto] (9:30) `isrc:US4B90042002` `qobuz:60961843`
+- **Dave Holland Quartet** — Conference Of The Birds [Conference Of The Birds] (4:39) `isrc:DEB337202703` `qobuz:39774706`
+- **Circle** — Nefertiti [Paris-Concert] (19:16) `isrc:DEB337101801` `qobuz:39775479`
+- **Alan Silva and His Celestrial Communication Orchestra** — From The Luna Surface, Pt. 1 [Luna Surface] (14:10) `isrc:GBAWA6967274` `qobuz:360245362`
+- **Dave Burrell** — Echo [Jazzactuel] (20:15) `isrc:GBAWA9967420` `qobuz:7856269`
+- **Andrew Lippa** — What Is It About Her? [Love Somebody Now] (1:58) `isrc:QT2C42502605` `qobuz:404641453`
+- **Clifford Thornton** — Ketchaoua [Ketchaoua] (12:32) `isrc:GBAWA7067458` `qobuz:256207934`
+- **John Blum** — In the Shade of Sun [In the Shade of Sun] (14:34) `isrc:USAY70900108` `qobuz:75626651`
+- **Chris McGregor's Brotherhood Of Breath** — MRA [Chris Mcgregor's Brotherhood of Breath] (5:05) `isrc:GBBLD7106201` `qobuz:151838449`
+- **Julius Hemphill** — Dogon A.D. [Dogon A.D.] (14:46) `isrc:USBW42442001` `qobuz:262403276`
+- **Jacques Coursil** — Black Suite - Part 1 [Black Suite] (17:54) `isrc:GBAWA6967500` `qobuz:100559345`
+- **Narada Burton Greene** — The Horny Orch. Suite: 1 Introduction, 2 Wind Chorus Plus Green Horns, 3 The Horny Orch. [Solo Orchestra In Real Time] (25:08) `isrc:USFLH0610147` `qobuz:74186937`
+- **Jerry Garcia** — Jenny Jenkins [Not For Kids Only] (4:22) `isrc:USAD49900430` `qobuz:368918666`
+- **David Murray Octet** — Flowers For Albert [Murray's Steps] (9:42) `isrc:ITC000850519` `qobuz:146929640`
+- **Arthur Blythe** — Lenox Avenue Breakdown [Lenox Avenue Breakdown] (13:17) `isrc:USSM11509372` `qobuz:32300825`
+- **Christopher Hogwood** — Purcell: The Virtuous Wife: Song tune - Slow Air - Air [Purcell: Theatre Music (6CD set)] (4:48) `isrc:GBF077510652` `qobuz:4155490`
+- **World Saxophone Quartet** — Hattie Wall [Yes We Can] (10:54) `isrc:USB8U1015160` `qobuz:303723502`
+- **James "Blood" Ulmer** — Are You Glad To Be In America? [Odyssey] (3:40) `isrc:USSM18300100` `qobuz:481934`
+- **Ronald Shannon Jackson & The Decoding Society** — Man Dance [Man Dance] (4:32) `isrc:USUM71400970` `qobuz:14876041`
+- **John Zorn** — Archery: L5-O14 [Archery] (23:30) `isrc:USCRW0116407` `qobuz:87103484`
+- **Don Pullen** — Evidence Of Things Unseen [Evidence Of Things Unseen] (11:37) `isrc:ITC000850595` `qobuz:146926129`
+- **Miles Davis** — Dual Mr. Tillman Anthony [The Complete in a Silent Way Sessions] (13:20) `isrc:USSM10304427` `qobuz:15144327`
+- **Steve Lacy Five** — Blinks [The Way] (10:44) `isrc:QM4TW1546375` `qobuz:24295787`
+- **Spike Jones** — Harlem Nocturne [Ultra-Lounge / The Crime Scene - Volume Seven] (2:26) `isrc:USEM39600348` `qobuz:5191494`
+- **John Carter** — The Eye of the Storm [Self Determination Music] (15:22) `isrc:GB03A1500010` `qobuz:156015002`
+- **Sonoma** — Monoceros [Monoceros] (7:41) `isrc:GBLLT1828174` `qobuz:53653033`
+- **Air** — Let's All Go Down to the Footwash [Montreux Suisse] (11:25) `isrc:USAR11000162` `qobuz:17125287`
+- **Rova Saxophone Quartet** — Hidden in Ochre [In Transverse Time] (24:15) `isrc:CA16T1800881` `qobuz:101985760`
+- **Ned Rothenberg** — Seersucker [Crossings Four] (9:25) `isrc:PTNF12300343` `qobuz:232654878`
+- **Oliver Lake** — Africa [Ntu: The Point from Which Creation Begins] (10:51) `isrc:GBBCK7700391` `qobuz:7608453`
+- **Pearl Jam** — Last Exit (Remastered) [Vitalogy] (2:54) `isrc:USSM11100227` `qobuz:3426058`
+- **Tim Berne** — Simple City [Snakeoil] (13:56) `isrc:DEB331123401` `qobuz:4923351`
+- **Switters** — Handbook of the Modern Jazz Player [Current Trends in the Contemporary Italian Music Disaster] (3:21) `isrc:USCGJ0830570` `qobuz:90854257`
+- **Michel Béroff** — Piano Concerto No. 2 in A Major, S. 125: VI. Allegro animato ["A Midsummer Musical Journey" - From Mozart & Mendelssohn to Ravel & Tchaikovsky] (1:45) `isrc:GBAYC9003689` `qobuz:349111253`
+- **Sylvie Vartan** — Jamais (Late Date Baby) [Si je chante] (2:06) `isrc:ES58A2001015` `qobuz:92055826`
+- **Marc Ribot** — Shortly After Takeoff [Rootless Cosmopolitans] (4:13) `isrc:GBUM70604185` `qobuz:631544`
+- **Dance Fever** — What Is Love/It's A Sin/Ride On Time/All I Really Want/Scatman/All I Want For Christmas Is You/Sweet Drems/Summer Summer/Lemon Tree/Look Who's Talking/Be My Lover/Someday/7 Seconds/Your Loving Arms/Point Of No Return/Never Alone [Dance 90's Megamix Non Stop] (47:27) `isrc:NLRD51967093` `qobuz:74530414`
+- **Don Byron** — Tuskegee Experiment [Tuskegee Experiments] (6:30) `isrc:USNO19228008` `qobuz:2879298`
+- **Steve Coleman** — Left Of Center [Rhythm In Mind (The Carnegie Project)] (8:17) `isrc:USNO19100392` `qobuz:39932676`
+- **Drone Lizard** — Rough Sex | Broken Necks [Dronelizard] (4:16) `isrc:USX9P2407792` `qobuz:295191527`
+- **Lofi Fruits Music** — Summer Memories [Lofi Hip Hop Radio: Beats to Relax and Study] (1:53) `isrc:ZZOPM2110235` `qobuz:230242070`
+- **Matthew Shipp Quartet** — Blues Addition [Sonic Fiction] (6:25) `isrc:QMPFN1300250` `qobuz:47064096`
+- **William Parker** — The Peach Orchard [The Peach Orchard] (20:44) `isrc:USEZ90601004` `qobuz:14478903`
+- **The Vandermark 5** — Fever Dream [Target Or Flag] (8:46) `isrc:USA560533390` `qobuz:26482193`
+- **Myra Melford Extended Ensemble** — La Mezquita Suite (In Memory of Lona Foot) [Even the Sounds Shine] (25:12) `isrc:QM4TW1504986` `qobuz:24299286`
+- **Nels Cline** — Blues, Too [The Giant Pin] (3:13) `isrc:USA4K0412001` `qobuz:402977011`
+- **Atomic Music Company** — Nos Vamos (feat. Zadkiel, Rompier & Dieko) [Nos Vamos (feat. Zadkiel, Rompier & Dieko)] (3:00) `isrc:QT6E62677264` `qobuz:427735904`
+- **Jason Moran** — Gangsterism On Canvas [Soundtrack To Human Motion] (4:37) `isrc:USBN29800914` `qobuz:993262`
+- **Dave Douglas** — Strange Liberation [Strange Liberation] (8:03) `isrc:USV110300343` `qobuz:207279`
+- **Craig Taborn** — Junk Magic [Junk Magic] (6:18) `isrc:USAJ60414401` `qobuz:291126217`
+- **Rudresh Mahanthappa** — Malayalam [Mother Tongue] (5:52) `isrc:US4S40410122` `qobuz:48063648`
+- **Trio 3** — Encounter [Encounter] (6:19) `isrc:USSYN0557682` `qobuz:75624779`
+- **Matthias Lupri Group** — Sonic Prelude [Transition Sonic] (2:23) `isrc:US9930610069` `qobuz:73453027`
+- **Claudio Scimone** — La Musica Notturna delle Strade di Madrid, G324: VII. Ritirata [On The Wings Of Love] (4:45) `isrc:ITF460400065` `qobuz:99401476`
+- **Nicole Mitchell's Black Earth Ensemble** — Cause and Effect [Black Unstoppable] (7:04) `isrc:US4B90757501` `qobuz:4154429`
+- **Vijay Iyer Trio** — Galang (Trio Riot Version) [Magic Moments 4-Jazz Is Cool] (2:41) `isrc:DEA890900422` `qobuz:5382702`
+- **Mary Halvorson** — Haunted Head (feat. The Mivos Quartet) [Belladonna (feat. The Mivos Quartet)] (10:13) `isrc:USNO12100407` `qobuz:149738573`
+- **Steve Lehman Trio** — Moment's Notice [Dialect Fluorescent] (3:48) `isrc:US4S41200003` `qobuz:48068319`
+- **Tyshawn Sorey** — Please Stand By I [The Off-Off Broadway Guide to Synergism] (9:24) `isrc:US4542200041` `qobuz:178753278`
+- **Arthur Russell** — The Name Of The Next Song [World Of Echo] (8:00) `isrc:USAK20400030` `qobuz:14904617`
+- **Fire! Orchestra** — ECHOES: I see your eye, part 1 [Echoes] (9:46) `isrc:NOFGR2331010` `qobuz:194716636`
+- **Wadada Leo Smith** — Dred Scott, 1857 [Ten Freedom Summers] (11:48) `isrc:US9351235001` `qobuz:73788133`
+- **Peter Evans** — Roulette [Roulette] (3:46) `isrc:DGA0T2465208` `qobuz:312582497`
+- **James Brandon Lewis** — Divine [Divine Travels] (4:45) `isrc:QMSHE1200001` `qobuz:14905276`
+- **Jens Winther** — Ubatuba [Stunt Records Compilation 2006, Vol. 14] (4:55) `isrc:USA560661811` `qobuz:47099109`
+- **Kris Davis Trio** — Run the Gauntlet [Run the Gauntlet] (13:58) `isrc:QZ3DS2400030` `qobuz:281207722`
+- **Makaya McCraven** — The Jaunt [In The Moment (IA11 Edition)] (2:42) `isrc:QM84B1403002` `qobuz:320189717`
+- **Tomeka Reid** — 17 West [Tomeka Reid Quartet] (3:07) `isrc:USA6J1421001` `qobuz:291125604`
+- **The Comet Is Coming** — Summon The Fire [Trust In The Lifeforce Of The Deep Mystery] (3:55) `isrc:USUM71820716` `qobuz:57608702`
+- **Jaimie Branch** — Theme 001 [Fly or Die] (3:53) `isrc:QM84B1611002` `qobuz:61931205`
+- **Irreversible Entanglements** — The Code Noir / Amina [Who Sent You?] (7:30) `isrc:QM84B1931001` `qobuz:85415865`
+- **Sons Of Kemet** — My Queen Is Ada Eastman [Your Queen Is A Reptile] (6:41) `isrc:USUM71714084` `qobuz:47215696`
+- **Damon Locks** — Sounds Like Now [Where Future Unfolds] (6:25) `isrc:QM84B1925002` `qobuz:61009671`
+- **Angel Bat Dawid** — Black Family [The Oracle (IA11 Edition)] (6:18) `isrc:QM84B1923002` `qobuz:347327399`
+- **Anna Webber** — Slingsh0T [Simpletrio2000] (5:49) `isrc:CH2702405521` `qobuz:289094086`
+- **Jeff Parker** — Cliche [The New Breed (IA11 Edition)] (4:09) `isrc:QM84B1509008` `qobuz:331915062`
+- **Shabaka and the Ancestors** — The Observer [Wisdom of Elders] (9:02) `isrc:GBMEF1600907` `qobuz:118883513`

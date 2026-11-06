@@ -1,0 +1,809 @@
+{
+  "name": "New in Indie",
+  "services": {
+    "qobuz": "5956789"
+  },
+  "description": "Listen to the latest Indie releases, updated 27.7.2026.\nWith Sylvan Esso, The Strokes, Nieve Ella, Teenage Fanclub, Alice Barlow, Maddie Ashman, Soft Loft, Alex Cameron, Stef Chura, IAN SWEET, Protomartyr, Protomartyr, Eels, Chloe Slater, The Snuts, Love Spells, Giant Rooks, Tiny Habits, Alex Izenberg, Greg Freeman, Helado Tropical, Babehoven, beabadoobee, Man/Woman/Chainsaw, Yard Act, Julia Jacklin, Beck, Swapmeet, Tricky, Dry Cleaning...\n\nPhoto: Mary in the Junkyars \u00a9 Xander Lewis",
+  "tracks": [
+    {
+      "artist": "Sylvan Esso",
+      "title": "Concrete Glen",
+      "services": {
+        "qobuz": "420866073"
+      },
+      "album": "Concrete Glen",
+      "duration": 209,
+      "isrc": "QZPKV2606904"
+    },
+    {
+      "artist": "The Strokes",
+      "title": "Dine N'Dash",
+      "services": {
+        "qobuz": "437947383"
+      },
+      "album": "Reality Awaits",
+      "duration": 303,
+      "isrc": "USRC12600728"
+    },
+    {
+      "artist": "Nieve Ella",
+      "title": "Standing On A Pane Of Glass",
+      "services": {
+        "qobuz": "430593758"
+      },
+      "album": "Standing On A Pane Of Glass",
+      "duration": 175,
+      "isrc": "QZWH32600680"
+    },
+    {
+      "artist": "Teenage Fanclub",
+      "title": "Day In The Sun",
+      "services": {
+        "qobuz": "427513780"
+      },
+      "album": "Do Not Dare To Dream",
+      "duration": 190,
+      "isrc": "USMRG2689208"
+    },
+    {
+      "artist": "Alice Barlow",
+      "title": "Behind",
+      "services": {
+        "qobuz": "427973884"
+      },
+      "album": "Behind",
+      "duration": 209,
+      "isrc": "GBCEL2500581"
+    },
+    {
+      "artist": "Maddie Ashman",
+      "title": "Amber",
+      "services": {
+        "qobuz": "427970261"
+      },
+      "album": "Amber",
+      "duration": 147,
+      "isrc": "QMBZ92644572"
+    },
+    {
+      "artist": "Soft Loft",
+      "title": "Wednesdays",
+      "services": {
+        "qobuz": "428004640"
+      },
+      "album": "Wednesdays",
+      "duration": 210,
+      "isrc": "DEG442691469"
+    },
+    {
+      "artist": "Alex Cameron",
+      "title": "No Soldier",
+      "services": {
+        "qobuz": "406593785"
+      },
+      "album": "Late to Set",
+      "duration": 214,
+      "isrc": "GXJBW2658322"
+    },
+    {
+      "artist": "Stef Chura",
+      "title": "Danny",
+      "services": {
+        "qobuz": "429258450"
+      },
+      "album": "Dancing Alone on the Concrete",
+      "duration": 215,
+      "isrc": "US2U62536107"
+    },
+    {
+      "artist": "IAN SWEET",
+      "title": "Criminal Kissing",
+      "services": {
+        "qobuz": "403940140"
+      },
+      "album": "Shiverstruck",
+      "duration": 232,
+      "isrc": "US3R42652902"
+    },
+    {
+      "artist": "Protomartyr",
+      "title": "Sounds We Cannot Hear",
+      "services": {
+        "qobuz": "429223949"
+      },
+      "album": "Sounds We Cannot Hear",
+      "duration": 326,
+      "isrc": "GBCEL2600039"
+    },
+    {
+      "artist": "Eels",
+      "title": "All Forgotten",
+      "services": {
+        "qobuz": "429013347"
+      },
+      "album": "All Forgotten / I'm On Standby",
+      "duration": 239,
+      "isrc": "GBENL2604662"
+    },
+    {
+      "artist": "Chloe Slater",
+      "title": "Mother Nature's Killing Spree",
+      "services": {
+        "qobuz": "430168103"
+      },
+      "album": "Mother Nature's Killing Spree",
+      "duration": 228,
+      "isrc": "QM7282607431"
+    },
+    {
+      "artist": "The Snuts",
+      "title": "In Motion",
+      "services": {
+        "qobuz": "429624949"
+      },
+      "album": "In Motion",
+      "duration": 195,
+      "isrc": "USA2P2629681"
+    },
+    {
+      "artist": "Love Spells",
+      "title": "Don't Touch",
+      "services": {
+        "qobuz": "437137060"
+      },
+      "album": "LOVE IS THE LAW",
+      "duration": 205,
+      "isrc": "USRC12600903"
+    },
+    {
+      "artist": "Giant Rooks",
+      "title": "Slow Dance (For A Minute)",
+      "services": {
+        "qobuz": "436279522"
+      },
+      "album": "Slow Dance (For A Minute)",
+      "duration": 214,
+      "isrc": "DEUM72603289"
+    },
+    {
+      "artist": "Tiny Habits",
+      "title": "Belt Loop",
+      "services": {
+        "qobuz": "437639362"
+      },
+      "album": "Belt Loop",
+      "duration": 204,
+      "isrc": "USQE92600137"
+    },
+    {
+      "artist": "Alex Izenberg",
+      "title": "South California Blues",
+      "services": {
+        "qobuz": "406892363"
+      },
+      "album": "South California Blues",
+      "duration": 243,
+      "isrc": "QMV8L2539002"
+    },
+    {
+      "artist": "Greg Freeman",
+      "title": "Indu",
+      "services": {
+        "qobuz": "429476951"
+      },
+      "album": "Indu",
+      "duration": 261,
+      "isrc": "GBKZV2600139"
+    },
+    {
+      "artist": "Archive",
+      "title": "Yahoo",
+      "services": {
+        "qobuz": "429013315"
+      },
+      "album": "Yahoo",
+      "duration": 358,
+      "isrc": "GBPVV2500426"
+    },
+    {
+      "artist": "Grandmas House",
+      "title": "Blue Oblivion",
+      "services": {
+        "qobuz": "427703147"
+      },
+      "album": "Blue Oblivion",
+      "duration": 234,
+      "isrc": "UKZA22600003"
+    },
+    {
+      "artist": "Boy Harsher",
+      "title": "Hard Beat",
+      "services": {
+        "qobuz": "436708936"
+      },
+      "album": "Hard Beat",
+      "duration": 225,
+      "isrc": "USAT22604520"
+    },
+    {
+      "artist": "Keane",
+      "title": "Let It Slide",
+      "services": {
+        "qobuz": "420209753"
+      },
+      "album": "Under The Iron Sea",
+      "duration": 252,
+      "isrc": "GBUM70601041"
+    },
+    {
+      "artist": "Nouvelle Vague",
+      "title": "Never Let Me Down Again",
+      "services": {
+        "qobuz": "428617904"
+      },
+      "album": "Never Let Me Down Again",
+      "duration": 234,
+      "isrc": "FR13Z2600007"
+    },
+    {
+      "artist": "Fielded",
+      "title": "Some Kind of Animal",
+      "services": {
+        "qobuz": "432373449"
+      },
+      "album": "Some Kind of Animal",
+      "duration": 309,
+      "isrc": "FRIDO2614783"
+    },
+    {
+      "artist": "54 Ultra",
+      "title": "Tell Me",
+      "services": {
+        "qobuz": "437448528"
+      },
+      "album": "Tell Me",
+      "duration": 160,
+      "isrc": "USUG12606971"
+    },
+    {
+      "artist": "Walt Disco",
+      "title": "Lies",
+      "services": {
+        "qobuz": "431659915"
+      },
+      "album": "Lies",
+      "duration": 218,
+      "isrc": "GBUM72603161"
+    },
+    {
+      "artist": "Foglights",
+      "title": "The Rain Felt Kind",
+      "services": {
+        "qobuz": "427963643"
+      },
+      "album": "The Rain Felt Kind",
+      "duration": 161,
+      "isrc": "UKYZS2600316"
+    },
+    {
+      "artist": "Elephant Stone",
+      "title": "I Got A Pill",
+      "services": {
+        "qobuz": "404674829"
+      },
+      "album": "I Got A Pill",
+      "duration": 170,
+      "isrc": "QM4TX2664255"
+    },
+    {
+      "artist": "Standing On The Corner",
+      "title": "Mr. Postman, wait!",
+      "services": {
+        "qobuz": "429198387"
+      },
+      "album": "Mr. Postman, wait!",
+      "duration": 203,
+      "isrc": "GBBKS2600124"
+    },
+    {
+      "artist": "Charlotte Greve",
+      "title": "Membranes",
+      "services": {
+        "qobuz": "417998501"
+      },
+      "album": "Membranes",
+      "duration": 285,
+      "isrc": "DEG932602006"
+    },
+    {
+      "artist": "Selve",
+      "title": "Run Boy Run",
+      "services": {
+        "qobuz": "405807615"
+      },
+      "album": "Breaking Outta Heaven",
+      "duration": 223,
+      "isrc": "AUI442600272"
+    },
+    {
+      "artist": "Dorio",
+      "title": "Chasing Agent Friday",
+      "services": {
+        "qobuz": "404181373"
+      },
+      "album": "Chasing Agent Friday + Perfect Angel",
+      "duration": 208,
+      "isrc": "USA2B2601410"
+    },
+    {
+      "artist": "Akriila",
+      "title": "roger",
+      "services": {
+        "qobuz": "431358512"
+      },
+      "album": "roger",
+      "duration": 165,
+      "isrc": "USAT22603508"
+    },
+    {
+      "artist": "Charlie Ivan Band",
+      "title": "Fait Accompli",
+      "services": {
+        "qobuz": "429144453"
+      },
+      "album": "Fait Accompli",
+      "duration": 183,
+      "isrc": "QM7282658749"
+    },
+    {
+      "artist": "Born At Midnite",
+      "title": "Pt. III",
+      "services": {
+        "qobuz": "415805199"
+      },
+      "album": "Pt. III",
+      "duration": 186,
+      "isrc": "CA21O2612708"
+    },
+    {
+      "artist": "Shock Corridor",
+      "title": "Spit Take",
+      "services": {
+        "qobuz": "421309551"
+      },
+      "album": "Spit Take",
+      "duration": 262,
+      "isrc": "AUXN22621489"
+    },
+    {
+      "artist": "Hockitay",
+      "title": "two crows",
+      "services": {
+        "qobuz": "417724630"
+      },
+      "album": "two crows",
+      "duration": 249,
+      "isrc": "QZAKB2562377"
+    },
+    {
+      "artist": "Candice Lorrae",
+      "title": "Calling Me",
+      "services": {
+        "qobuz": "423007575"
+      },
+      "album": "Calling Me",
+      "duration": 251,
+      "isrc": "AUXN22622773"
+    },
+    {
+      "artist": "Simona Castricum",
+      "title": "Rupture",
+      "services": {
+        "qobuz": "426708996"
+      },
+      "album": "Rupture",
+      "duration": 375,
+      "isrc": "AUXN22624255"
+    },
+    {
+      "artist": "Helado Tropical",
+      "title": "Fluye",
+      "services": {
+        "qobuz": "408973623"
+      },
+      "album": "Helado Tropical",
+      "duration": 223,
+      "isrc": "QZPKV2606106"
+    },
+    {
+      "artist": "Babehoven",
+      "title": "Lasagna",
+      "services": {
+        "qobuz": "416724847"
+      },
+      "album": "I see them, I see me",
+      "duration": 212,
+      "isrc": "QZAZS2611703"
+    },
+    {
+      "artist": "beabadoobee",
+      "title": "Switchblade",
+      "services": {
+        "qobuz": "432156454"
+      },
+      "album": "Switchblade",
+      "duration": 181,
+      "isrc": "USA2P2565400"
+    },
+    {
+      "artist": "Man/Woman/Chainsaw",
+      "title": "Something Else to Give",
+      "services": {
+        "qobuz": "430220837"
+      },
+      "album": "Something Else to Give",
+      "duration": 285,
+      "isrc": "USA2P2611921"
+    },
+    {
+      "artist": "Yard Act",
+      "title": "Fiction",
+      "services": {
+        "qobuz": "407964774"
+      },
+      "album": "You're Gonna Need A Little Music",
+      "duration": 160,
+      "isrc": "GBUM72602007"
+    },
+    {
+      "artist": "Julia Jacklin",
+      "title": "I Wish",
+      "services": {
+        "qobuz": "428988552"
+      },
+      "album": "I Wish",
+      "duration": 180,
+      "isrc": "GBAFL2600216"
+    },
+    {
+      "artist": "Beck",
+      "title": "In The Night",
+      "services": {
+        "qobuz": "433957104"
+      },
+      "album": "In The Night",
+      "duration": 178,
+      "isrc": "USUG12603120"
+    },
+    {
+      "artist": "Swapmeet",
+      "title": "I Know!",
+      "services": {
+        "qobuz": "396601943"
+      },
+      "album": "Mount Zero",
+      "duration": 214,
+      "isrc": "QZ8SH2607901"
+    },
+    {
+      "artist": "Tricky",
+      "title": "I Still See Me There",
+      "services": {
+        "qobuz": "409951364"
+      },
+      "album": "Different When It's Silent",
+      "duration": 218,
+      "isrc": "DEG932601776"
+    },
+    {
+      "artist": "Dry Cleaning",
+      "title": "I Have The Key",
+      "services": {
+        "qobuz": "428907216"
+      },
+      "album": "Secret Love",
+      "duration": 295,
+      "isrc": "GBAFL2500645"
+    },
+    {
+      "artist": "Kiwi Jr.",
+      "title": "Photos Of The Reenactment",
+      "services": {
+        "qobuz": "414120121"
+      },
+      "album": "Photos of the Reenactment",
+      "duration": 183,
+      "isrc": "USK112632101"
+    },
+    {
+      "artist": "Captain Tallen & the Benevolent Entities",
+      "title": "Heatwave",
+      "services": {
+        "qobuz": "429435130"
+      },
+      "album": "Heatwave",
+      "duration": 211,
+      "isrc": "QT6EC2602740"
+    },
+    {
+      "artist": "Aime Simone",
+      "title": "Red River Bed",
+      "services": {
+        "qobuz": "431017576"
+      },
+      "album": "Red River Bed",
+      "duration": 169,
+      "isrc": "FR9W12629316"
+    },
+    {
+      "artist": "Mormor",
+      "title": "Don't Need It",
+      "services": {
+        "qobuz": "427149800"
+      },
+      "album": "Don't Need It",
+      "duration": 326,
+      "isrc": "USA2P2637495"
+    },
+    {
+      "artist": "MegaSound",
+      "title": "Lemon Peel",
+      "services": {
+        "qobuz": "418063871"
+      },
+      "album": "Lemon Peel",
+      "duration": 213,
+      "isrc": "USA2B2602023"
+    },
+    {
+      "artist": "Arab Strap",
+      "title": "Glamour Magick",
+      "services": {
+        "qobuz": "423401302"
+      },
+      "album": "Glamour Magick",
+      "duration": 270,
+      "isrc": "GBGDZ2600022"
+    },
+    {
+      "artist": "Keo",
+      "title": "Pistol",
+      "services": {
+        "qobuz": "433973327"
+      },
+      "album": "Pistol",
+      "duration": 205,
+      "isrc": "GBUM72602839"
+    },
+    {
+      "artist": "Tyler Ballgame",
+      "title": "Live It Down",
+      "services": {
+        "qobuz": "428671197"
+      },
+      "album": "Live It Down",
+      "duration": 223,
+      "isrc": "GBCVZ2600159"
+    },
+    {
+      "artist": "Deep Sea Diver",
+      "title": "Teardrop",
+      "services": {
+        "qobuz": "424192162"
+      },
+      "album": "Teardrop",
+      "duration": 240,
+      "isrc": "USSUB2675601"
+    },
+    {
+      "artist": "Black Marble",
+      "title": "Anything",
+      "services": {
+        "qobuz": "421713349"
+      },
+      "album": "Anything",
+      "duration": 220,
+      "isrc": "US5NR2638303"
+    },
+    {
+      "artist": "Uh Huh Her",
+      "title": "Kool Thing",
+      "services": {
+        "qobuz": "423658155"
+      },
+      "album": "Kool Thing",
+      "duration": 273,
+      "isrc": "USKRS2685608"
+    },
+    {
+      "artist": "Dominic Breen",
+      "title": "Just Another Day in the Colony",
+      "services": {
+        "qobuz": "422360858"
+      },
+      "album": "Just Another Day in the Colony",
+      "duration": 200,
+      "isrc": "FRX202652232"
+    },
+    {
+      "artist": "The Klittens",
+      "title": "Taxi",
+      "services": {
+        "qobuz": "423649208"
+      },
+      "album": "Taxi",
+      "duration": 309,
+      "isrc": "NLV4K2600018"
+    },
+    {
+      "artist": "Suede",
+      "title": "Beautiful Ones (Radio 1 Evening Session 29th August 1996)",
+      "services": {
+        "qobuz": "428922625"
+      },
+      "album": "Beautiful Ones (Radio 1 Evening Session 29th August 1996)",
+      "duration": 233,
+      "isrc": "GBCAD2501678"
+    },
+    {
+      "artist": "Dottie Andersson",
+      "title": "Wash my hair",
+      "services": {
+        "qobuz": "425003314"
+      },
+      "album": "Wash my hair",
+      "duration": 180,
+      "isrc": "USA2B2516258"
+    },
+    {
+      "artist": "The Velvet Club",
+      "title": "Alone",
+      "services": {
+        "qobuz": "412910096"
+      },
+      "album": "Are You Falling In Love?",
+      "duration": 268,
+      "isrc": "AUI442600477"
+    },
+    {
+      "artist": "Blue States",
+      "title": "White Sands",
+      "services": {
+        "qobuz": "411679702"
+      },
+      "album": "White Sands",
+      "duration": 291,
+      "isrc": "GBCSG2600006"
+    },
+    {
+      "artist": "Songer",
+      "title": "SOMETHING I SAID",
+      "services": {
+        "qobuz": "428876557"
+      },
+      "album": "SOMETHING I SAID",
+      "duration": 203,
+      "isrc": "US39N2686724"
+    },
+    {
+      "artist": "Jess Williamson",
+      "title": "Goodbye to All That",
+      "services": {
+        "qobuz": "428835380"
+      },
+      "album": "Goodbye to All That",
+      "duration": 199,
+      "isrc": "US27Q2662401"
+    },
+    {
+      "artist": "No Joy",
+      "title": "Barking at the Sun",
+      "services": {
+        "qobuz": "422408784"
+      },
+      "album": "Barking at the Sun",
+      "duration": 309,
+      "isrc": "CAHL42612701"
+    },
+    {
+      "artist": "Gin Wigmore",
+      "title": "Beautiful Mess",
+      "services": {
+        "qobuz": "414598648"
+      },
+      "album": "Beautiful Mess",
+      "duration": 149,
+      "isrc": "GB2DY2602186"
+    },
+    {
+      "artist": "Portugal. The Man",
+      "title": "So American (Woodkid 2012 Remix)",
+      "services": {
+        "qobuz": "432990610"
+      },
+      "album": "In the Mountain in the Cloud",
+      "duration": 234,
+      "isrc": "USAT21104237"
+    },
+    {
+      "artist": "FLETCHR FLETCHR",
+      "title": "Streetlights",
+      "services": {
+        "qobuz": "431615551"
+      },
+      "album": "On The Island We Call Home",
+      "duration": 204,
+      "isrc": "GBUM72603863"
+    },
+    {
+      "artist": "Hot Chip",
+      "title": "Do Not Wait",
+      "services": {
+        "qobuz": "427984550"
+      },
+      "album": "Do Not Wait",
+      "duration": 314,
+      "isrc": "GBCEL2600070"
+    },
+    {
+      "artist": "Swapmeet",
+      "title": "Bonny",
+      "services": {
+        "qobuz": "396601945"
+      },
+      "album": "Mount Zero",
+      "duration": 153,
+      "isrc": "QZ8SH2607903"
+    },
+    {
+      "artist": "The Anchoress",
+      "title": "Throw Over Your Man",
+      "services": {
+        "qobuz": "412999305"
+      },
+      "album": "Throw Over Your Man",
+      "duration": 228,
+      "isrc": "UKUJK2600114"
+    },
+    {
+      "artist": "Slow Fiction",
+      "title": "turning down flowers",
+      "services": {
+        "qobuz": "404934885"
+      },
+      "album": "turning down flowers",
+      "duration": 368,
+      "isrc": "QZNWP2660411"
+    },
+    {
+      "artist": "Daily J",
+      "title": "Darling",
+      "services": {
+        "qobuz": "422075805"
+      },
+      "album": "Darling",
+      "duration": 187,
+      "isrc": "AUI442600682"
+    },
+    {
+      "artist": "Queens Of The Stone Age",
+      "title": "Easy Street",
+      "services": {
+        "qobuz": "428708164"
+      },
+      "album": "Easy Street",
+      "duration": 231,
+      "isrc": "USMTD2600088"
+    },
+    {
+      "artist": "Kandle",
+      "title": "Lazarus",
+      "services": {
+        "qobuz": "432125203"
+      },
+      "album": "Lazarus",
+      "duration": 225,
+      "isrc": "CAA172300252"
+    }
+  ]
+}

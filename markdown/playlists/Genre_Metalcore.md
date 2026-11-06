@@ -1,0 +1,104 @@
+# Genre: Metalcore
+
+Imported genre playlist: Metalcore.
+
+Services: `qobuz:66734868` `tidal:bde54b80-412e-494c-bda3-feea54e2e440`
+
+## Tracks (96)
+
+- **Starkweather** — Murder in Technicolor [Crossbearer / Into the Wire (Reissue)] (5:55) `isrc:USCHW1408305` `qobuz:23908197`
+- **Earth Crisis** — Firestorm [Forever True (1991-2001)] (3:51) `isrc:USVIC0116315` `qobuz:118260550`
+- **Merauder** — Master Killer [Master Killer] (3:23) `isrc:US4E40680404` `qobuz:27577173`
+- **Vision Of Disorder** — Element [Vision of Disorder] (3:13) `isrc:NLA329680164` `qobuz:8387789`
+- **Overcast** — Apocalypse Upon Us [Only Death Is Smiling] (4:21) `isrc:US3441404116` `qobuz:22369003`
+- **Shai Hulud** — My Heart Bleeds The Darkest Blood [Hearts Once Nourished With Hope And Compassion] (2:05) `isrc:USB4U0613802` `qobuz:139090053`
+- **Strife** — Blistered [In This Defiance] (2:27) `isrc:USVIC9705407` `qobuz:118259682`
+- **Cave In** — Juggernaut [Until Your Heart Stops] (5:35) `isrc:US2642250403` `qobuz:192793081`
+- **Tanner Usrey** — If You Call Me Again [Morning Coffee & Country] (3:47) `isrc:USAT22501528` `qobuz:394452012`
+- **Zao** — To Think Of You Is To Treasure An Absent Memory [Where Blood And Fire Bring Rest] (4:25) `isrc:USTN19821375` `qobuz:4408946`
+- **All Out War** — Truth In The Age Of Lies [For Those Who Were Crucified] (3:08) `isrc:USVIC9808512` `qobuz:118260283`
+- **Arkangel** — Within the Walls of Babylon [Prayers Upon Deaf Ears] (2:42) `isrc:FR2X41953435` `qobuz:156744091`
+- **Disembodied** — 7 Stitches [Transfiguration] (4:23) `isrc:USA2U1500074` `qobuz:80020148`
+- **Poison The Well** — Nerdy [The Opposite of December... A Season of Separation] (2:43) `isrc:QM24S1836879` `qobuz:324494105`
+- **Turmoil** — The Discipline of Self Loathing [The Process Of] (3:00) `isrc:US4E40591502` `qobuz:29237634`
+- **Undying** — This Day All Gods Die [This Day All Gods Die] (3:52) `isrc:TCAGL2268019` `qobuz:173823572`
+- **Converge** — Concubine [Jane Doe] (1:19) `isrc:US3X50406101` `qobuz:77853801`
+- **Hatebreed** — I Will Be Heard [Perseverance] (2:58) `isrc:USUR10111255` `qobuz:3878718`
+- **Killswitch Engage** — My Last Serenade [Alive or Just Breathing] (4:15) `isrc:NLA320219720` `qobuz:2555677`
+- **Norma Jean** — Memphis Will Be Laid To Waste [Bless The Martyr And Kiss...] (4:55) `isrc:USTN10216721` `qobuz:1008676`
+- **As I Lay Dying** — 94 Hours [Frail Words Collapse] (3:10) `isrc:USMBR0400722` `qobuz:60887112`
+- **Avenged Sevenfold** — Unholy Confessions [Waking The Fallen] (4:43) `isrc:USHR20323015` `qobuz:120899395`
+- **Bleeding Through** — Love Lost In A Hail Of Gunfire (Live) [This Is Live, This Is Murderous] (4:39) `isrc:USA2P2611783` `qobuz:397993924`
+- **Darkest Hour** — Veritas, Aequitas [Hidden Hands Of A Sadist Nation] (12:56) `isrc:USVIC0423209` `qobuz:118260023`
+- **Every Time I Die** — Ebolarama [Hot Damn!] (2:58) `isrc:US3H40403708` `qobuz:2086585`
+- **Atreyu** — Lip Gloss And Black [Suicide Notes And Butterfly Kisses] (5:05) `isrc:USVIC0217710` `qobuz:42521216`
+- **Bury Your Dead** — Losin' It [Cover Your Tracks] (1:14) `isrc:USVIC0423412` `qobuz:118259901`
+- **Caliban** — The Beloved and the Hatred [The Opposite From Within] (3:47) `isrc:NLA320420726` `qobuz:2807950`
+- **Eighteen Visions** — Tower of Snakes [Obsession] (3:38) `isrc:USSM10404160` `qobuz:165311`
+- **God Forbid** — Antihero [Gone Forever] (3:58) `isrc:GBDHC0404662` `qobuz:27534082`
+- **Haste The Day** — The Closest Thing To Closure [Burning Bridges] (2:34) `isrc:USTN10422185` `qobuz:1056152`
+- **Heaven Shall Burn** — The Weapon They Fear [Antigone] (4:38) `isrc:US4E40417302` `qobuz:27539071`
+- **It Dies Today** — A Threnody For Modern Romance [The Caitiff Choir] (3:30) `isrc:US3440455205` `qobuz:170323443`
+- **Martyr A.D.** — American Hollow [On Earth As It Is In Hell] (3:35) `isrc:USVIC0418604` `qobuz:118258282`
+- **Shadows Fall** — The Light That Blinds [The War Within] (4:58) `isrc:US4E40422801` `qobuz:27571129`
+- **Unearth** — My Will Be Done [The March] (3:37) `isrc:USMBR0806056` `qobuz:60803838`
+- **Bullet For My Valentine** — Tears Don't Fall [The Poison (Deluxe Version)] (5:48) `isrc:GBHQD0500017` `qobuz:2719543`
+- **Demon Hunter** — Not I [The Triptych] (4:14) `isrc:USTN10500279` `qobuz:104584528`
+- **Throwdown** — Forever [Haymaker] (3:38) `isrc:TCADW1858481` `qobuz:128861637`
+- **Trivium** — Pull Harder on the Strings of Your Martyr [Ascendancy] (4:51) `isrc:NLA320480970` `qobuz:2269093`
+- **All That Remains** — Six [The Fall Of Ideals] (3:22) `isrc:USRZR0695607` `qobuz:54327978`
+- **I Killed The Prom Queen** — Sharks in Your Mouth [Music for the Recently Deceased] (4:04) `isrc:AUOT00500001` `qobuz:282447907`
+- **Misery Signals** — The Failsafe [Mirrors] (5:21) `isrc:US3H40607002` `qobuz:2086815`
+- **Walls of Jericho** — A Trigger Full Of Promises [With Devils Amongst Us All] (3:48) `isrc:US3440608201` `qobuz:202218909`
+- **August Burns Red** — Composure [Messengers] (4:13) `isrc:USTN10700141` `qobuz:104582545`
+- **blessthefall** — Guys Like You Make Us Look Bad [His Last Walk] (3:55) `isrc:USRC20600119` `qobuz:2847911`
+- **Oh, Sleeper** — Vices Like Vipers [When I Am God] (4:18) `isrc:USTN10700447` `qobuz:4908222`
+- **Parkway Drive** — Carrion [Horizons] (3:07) `isrc:USEP40721104` `qobuz:77651480`
+- **Still Remains** — The Worst Is yet to Come [Of Love And Lunacy] (3:50) `isrc:NLA320581021` `qobuz:2807921`
+- **Attack Attack!** — Stick Stickly [Someday Came Suddenly] (3:22) `isrc:USEK70807302` `qobuz:385323423`
+- **For Today** — Saul of Tarsus (The Messenger) [Portraits] (3:46) `isrc:US38J0908002` `qobuz:77177253`
+- **Architects** — Early Grave [Hollow Crown] (3:32) `isrc:US4E40851501` `qobuz:27582987`
+- **Asking Alexandria** — The Final Episode (Let's Change the Channel) [Stand Up And Scream] (4:02) `isrc:USYFZ0902202` `qobuz:338131628`
+- **Miss May I** — Architect [Apologies Are For The Weak] (4:08) `isrc:USEK70908102` `qobuz:375968088`
+- **The Devil Wears Prada** — Assistant To The Regional Manager [With Roots Above And Branches Below (Standard Edition)] (3:37) `isrc:US3H40912303` `qobuz:2087181`
+- **We Came As Romans** — To Plant a Seed [To Plant a Seed (Deluxe)] (3:50) `isrc:US3X50917401` `qobuz:77864049`
+- **Abandon All Ships** — Take One Last Breath [Geeving] (3:39) `isrc:CAU2O1010217` `qobuz:68367343`
+- **Motionless In White** — Abigail [Creatures] (2:52) `isrc:US5261014204` `qobuz:102909043`
+- **Of Mice & Men** — Second & Sebring [Of Mice & Men] (3:49) `isrc:USEK71008903` `qobuz:385576105`
+- **The Word Alive** — The Hounds Of Anubis [Deceiver] (4:13) `isrc:US5261014001` `qobuz:36143281`
+- **Woe Is Me** — Vengeance [Vengeance] (4:16) `isrc:USEK71011012` `qobuz:372445313`
+- **PVRIS** — Dead Weight [Use Me] (3:27) `isrc:USWB12000241` `qobuz:104070035`
+- **Like Moths To Flames** — The Worst in Me [When We Don't Exist] (4:14) `isrc:USEK71218103` `qobuz:383052241`
+- **Memphis May Fire** — The Sinner [The Hollow] (4:02) `isrc:USEK71113001` `qobuz:388087001`
+- **The Plot In You** — Premeditated [Could You Watch Your Children Burn] (4:05) `isrc:USEK71318601` `qobuz:380483365`
+- **Bury Tomorrow** — Lionheart [The Union of Crowns] (3:38) `isrc:DED831200146` `qobuz:60255960`
+- **Crown The Empire** — Machines [The Resistance] (4:29) `isrc:USEK71423904` `qobuz:385340109`
+- **Gideon** — No Love/No One [No Love/No One] (3:28) `isrc:ITH711900011` `qobuz:58662209`
+- **While She Sleeps** — Seven Hills [This Is the Six (Deluxe Edition)] (4:20) `isrc:GBARL1200274` `qobuz:49332501`
+- **Bring Me The Horizon** — Shadow Moses [Sempiternal] (4:02) `isrc:GBARL1202153` `qobuz:8187802`
+- **Fit For A King** — Bitter End [Creation / Destruction] (3:17) `isrc:USTN11300005` `qobuz:104582776`
+- **I See Stars** — Filth Friends Unite [Digital Renegade] (3:59) `isrc:USYFZ1220410` `qobuz:341811756`
+- **Sworn In** — Hypocrisy [The Death Card] (4:16) `isrc:USRZR1346802` `qobuz:54325188`
+- **Beartooth** — In Between [Disgusting (Deluxe Edition)] (3:33) `isrc:USP6L1400182` `qobuz:77201777`
+- **Issues** — Stingray Affliction [Issues] (3:37) `isrc:USEK71422307` `qobuz:380481028`
+- **Kublai Khan TX** — The Hammer [Nomad] (3:21) `isrc:QMRSZ1702089` `qobuz:376843333`
+- **Wage War** — Stitch [Deadweight] (3:25) `isrc:US5261722539` `qobuz:42516838`
+- **Code Orange** — Forever [Forever] (3:08) `isrc:NLA321600219` `qobuz:35622621`
+- **Stray From The Path** — Goodnight Alt-Right [Only Death is Real] (3:06) `isrc:USYFZ1785603` `qobuz:357097702`
+- **Crystal Lake** — Apollo [Helix] (5:12) `isrc:JPR751501151` `qobuz:56779673`
+- **Ice Nine Kills** — Stabbing In The Dark [The Silver Scream] (4:36) `isrc:US5261822967` `qobuz:53235841`
+- **Jesus Piece** — Oppressor [Jesus Piece] (2:16) `isrc:USA2P1657122` `qobuz:389970614`
+- **Vein.fm** — Virus://Vibrance [Errorzone] (2:24) `isrc:QM4TW1817266` `qobuz:48810638`
+- **Knocked Loose** — Mistakes Like Fractures [A Different Shade of Blue] (3:39) `isrc:USSTT1900018` `qobuz:322146923`
+- **Thornhill** — Where We Go When We Die [The Dark Pool] (4:58) `isrc:AUI441900146` `qobuz:282449212`
+- **Alpha Wolf** — Akudama [A Quiet Place to Die] (2:37) `isrc:AUNCC2000067` `qobuz:94402672`
+- **Loathe** — Two-Way Mirror [I Let It in and It Took Everything] (5:00) `isrc:DED831901366` `qobuz:80249739`
+- **Tallah** — Overconfidence [Matriphagy] (5:06) `isrc:GBBPB2002241` `qobuz:94923434`
+- **Imminence** — Paralyzed [Turn the Light On] (4:12) `isrc:DED831802041` `qobuz:96570310`
+- **LANDMVRKS** — Lost in a Wave [Lost in the Waves] (3:44) `isrc:DEYO62000191` `qobuz:103634463`
+- **Bad Omens** — ARTIFICIAL SUICIDE [THE DEATH OF PEACE OF MIND] (3:15) `isrc:USYFZ2264214` `qobuz:338331368`
+- **Bleed from Within** — Levitate [Shrine] (4:30) `isrc:DED832200139` `qobuz:148132004`
+- **Currents** — The Death We Seek [The Death We Seek] (4:05) `isrc:DED832200482` `qobuz:193869366`
+- **Polaris** — Inhumane [Fatalism] (3:59) `isrc:AUUF12301399` `qobuz:208548442`
+- **Silent Planet** — Antimatter [SUPERBLOOM] (3:41) `isrc:QMGVJ2300117` `qobuz:224644800`
+- **Spiritbox** — Cellar Door [Cellar Door] (4:43) `isrc:QMRSZ2301311` `qobuz:383790639`

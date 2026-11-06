@@ -1,0 +1,809 @@
+{
+  "name": "New in Jazz",
+  "services": {
+    "qobuz": "5956760"
+  },
+  "description": "Listen to the latest Jazz releases, updated on 29.7.2026. \nWith Lizz Wright, Marshall Allen, Orquesta Akok\u00e1n, Fergus McCreadie, Ayumi Tanaka, Henry Threadgill, Linda Sikhakhane, Charles Lloyd, Jocelyn Gould, Dave Holland, Denise Donatelli, Emile Parisien, Mama Terra, Joey Alexander, Miki Yamanaka, Kiefer, Richard Spaven, corto.alto, Ancient Infinity Orchestra, Mark Guiliana, Kaoru Watanabe, Tyreek McDole, C\u00e9cile McLorin Salvant, Kalia Vandever, James Brandon Lewis Quartet, Cindy Blackman Santana, Pat Metheny, Nduduzo Makhathini, Steve Swallow, Empirical, Sullivan Fortner, Nate Smith...\n\nPhoto: Selma Savolainen \u00a9 Severi Uusitalo",
+  "tracks": [
+    {
+      "artist": "Lizz Wright",
+      "title": "The Nearness Of You",
+      "services": {
+        "qobuz": "425639537"
+      },
+      "album": "The Nearness Of You",
+      "duration": 351,
+      "isrc": "USA2B2602564"
+    },
+    {
+      "artist": "Marshall Allen",
+      "title": "Bass Thrust",
+      "services": {
+        "qobuz": "425259657"
+      },
+      "album": "101: An Audio Odyssey",
+      "duration": 260,
+      "isrc": "US8JA2611001"
+    },
+    {
+      "artist": "Orquesta Akok\u00e1n",
+      "title": "No Me Voy",
+      "services": {
+        "qobuz": "413851282"
+      },
+      "album": "Am\u00e9rica!",
+      "duration": 253,
+      "isrc": "US4GZ2608501"
+    },
+    {
+      "artist": "Fergus McCreadie",
+      "title": "The Pass",
+      "services": {
+        "qobuz": "398839616"
+      },
+      "album": "The Shieling \u2013 Companion Pieces",
+      "duration": 276,
+      "isrc": "GBVEV2600281"
+    },
+    {
+      "artist": "Ayumi Tanaka",
+      "title": "La Source",
+      "services": {
+        "qobuz": "433253347"
+      },
+      "album": "Windflower",
+      "duration": 355,
+      "isrc": "DEB332585902"
+    },
+    {
+      "artist": "Henry Threadgill",
+      "title": "Gently Trapped",
+      "services": {
+        "qobuz": "427355813"
+      },
+      "album": "Gently Trapped",
+      "duration": 313,
+      "isrc": "USNO12600096"
+    },
+    {
+      "artist": "Linda Sikhakhane",
+      "title": "Days Begin To Sing",
+      "services": {
+        "qobuz": "434366205"
+      },
+      "album": "Days Begin To Sing",
+      "duration": 284,
+      "isrc": "ZAUM72600239"
+    },
+    {
+      "artist": "Charles Lloyd",
+      "title": "Eternal Dreamer",
+      "services": {
+        "qobuz": "420959989"
+      },
+      "album": "Sangam & Friends",
+      "duration": 363,
+      "isrc": "USUG12604535"
+    },
+    {
+      "artist": "Jocelyn Gould",
+      "title": "Girl Talk",
+      "services": {
+        "qobuz": "418653357"
+      },
+      "album": "Girl Talk",
+      "duration": 410,
+      "isrc": "QM7282605179"
+    },
+    {
+      "artist": "Dave Holland",
+      "title": "Sextet: Fast Track",
+      "services": {
+        "qobuz": "436056851"
+      },
+      "album": "Sextet: Fast Track",
+      "duration": 659,
+      "isrc": "GBVEV2600312"
+    },
+    {
+      "artist": "Denise Donatelli",
+      "title": "Take My Breath Away",
+      "services": {
+        "qobuz": "427742039"
+      },
+      "album": "Take My Breath Away",
+      "duration": 337,
+      "isrc": "USSTR2621409"
+    },
+    {
+      "artist": "Emile Parisien",
+      "title": "Badhra",
+      "services": {
+        "qobuz": "432635684"
+      },
+      "album": "Badhra",
+      "duration": 379,
+      "isrc": "DEA892600358"
+    },
+    {
+      "artist": "Mama Terra",
+      "title": "The Whale Dives Deep",
+      "services": {
+        "qobuz": "409921382"
+      },
+      "album": "Inner Space",
+      "duration": 347,
+      "isrc": "GBUQC2601672"
+    },
+    {
+      "artist": "Joey Alexander",
+      "title": "Aversion",
+      "services": {
+        "qobuz": "408682698"
+      },
+      "album": "Celestial Keeper",
+      "duration": 383,
+      "isrc": "USMAR2522402"
+    },
+    {
+      "artist": "Miki Yamanaka",
+      "title": "Pre School",
+      "services": {
+        "qobuz": "423163528"
+      },
+      "album": "Pre School",
+      "duration": 347,
+      "isrc": "CACK42691008"
+    },
+    {
+      "artist": "Kiefer",
+      "title": "NewLevels NewDevils",
+      "services": {
+        "qobuz": "434705146"
+      },
+      "album": "Memory Bomb",
+      "duration": 200,
+      "isrc": "USUG12605273"
+    },
+    {
+      "artist": "Kelly Green",
+      "title": "When You're Smilin'",
+      "services": {
+        "qobuz": "404587347"
+      },
+      "album": "When You're Smilin'",
+      "duration": 247,
+      "isrc": "QM6N22600029"
+    },
+    {
+      "artist": "Richard Spaven",
+      "title": "Light of Day",
+      "services": {
+        "qobuz": "415052258"
+      },
+      "album": "Light of Day",
+      "duration": 245,
+      "isrc": "GBVEV2600245"
+    },
+    {
+      "artist": "Agbeko",
+      "title": "Know How",
+      "services": {
+        "qobuz": "427453075"
+      },
+      "album": "Know How",
+      "duration": 480,
+      "isrc": "USA2B2603154"
+    },
+    {
+      "artist": "corto.alto",
+      "title": "IJUSTIDONTKNOW",
+      "services": {
+        "qobuz": "437962315"
+      },
+      "album": "IJUSTIDONTKNOW",
+      "duration": 236,
+      "isrc": "GBCFB2600039"
+    },
+    {
+      "artist": "Ancient Infinity Orchestra",
+      "title": "Nafas",
+      "services": {
+        "qobuz": "407849943"
+      },
+      "album": "It's Always About Liberation",
+      "duration": 351,
+      "isrc": "GBVTB2681001"
+    },
+    {
+      "artist": "The Brothers Nylon",
+      "title": "Elevator Vibes II",
+      "services": {
+        "qobuz": "414657072"
+      },
+      "album": "Nylon Archives Vol. 3: Elevator Vibes",
+      "duration": 141,
+      "isrc": "DEZC62155571"
+    },
+    {
+      "artist": "Mark Guiliana",
+      "title": "P.LAY",
+      "services": {
+        "qobuz": "429688525"
+      },
+      "album": "P.LAY",
+      "duration": 331,
+      "isrc": "GBVEV2600292"
+    },
+    {
+      "artist": "Kaoru Watanabe",
+      "title": "The Arch",
+      "services": {
+        "qobuz": "414671975"
+      },
+      "album": "The Arch",
+      "duration": 350,
+      "isrc": "DEG932601917"
+    },
+    {
+      "artist": "Dana and Alden",
+      "title": "Summer Nights",
+      "services": {
+        "qobuz": "434351077"
+      },
+      "album": "Summer Nights",
+      "duration": 209,
+      "isrc": "USC4R2665683"
+    },
+    {
+      "artist": "Oren  Ambarchi",
+      "title": "Hidden Tableau",
+      "services": {
+        "qobuz": "424276338"
+      },
+      "album": "Hidden Tableau",
+      "duration": 314,
+      "isrc": "US58L2699403"
+    },
+    {
+      "artist": "Jack Wyllie",
+      "title": "Juniper",
+      "services": {
+        "qobuz": "419933661"
+      },
+      "album": "Eternal Spring",
+      "duration": 289,
+      "isrc": "GBVTB2684008"
+    },
+    {
+      "artist": "Sunhyun Yoo",
+      "title": "Neon City",
+      "services": {
+        "qobuz": "429056008"
+      },
+      "album": "Neon City",
+      "duration": 298,
+      "isrc": "QMBZ92653592"
+    },
+    {
+      "artist": "Sendecki & Spiegel",
+      "title": "Come Together",
+      "services": {
+        "qobuz": "434446738"
+      },
+      "album": "Come Together",
+      "duration": 256,
+      "isrc": "DES292600015"
+    },
+    {
+      "artist": "\u4e0b\u4e2d\u6d0b\u4ecb",
+      "title": "Coconut Groovin'",
+      "services": {
+        "qobuz": "424065032"
+      },
+      "album": "Coconut Groovin'",
+      "duration": 311,
+      "isrc": "JPJ902601790"
+    },
+    {
+      "artist": "Telemakus",
+      "title": "Five Hands Pt. 1",
+      "services": {
+        "qobuz": "423073431"
+      },
+      "album": "Five Hands Pt. 1",
+      "duration": 97,
+      "isrc": "QZAKB2567621"
+    },
+    {
+      "artist": "Christian Li",
+      "title": "TV Brain",
+      "services": {
+        "qobuz": "418400365"
+      },
+      "album": "TV Brain",
+      "duration": 212,
+      "isrc": "QM7282608704"
+    },
+    {
+      "artist": "Des Cannings",
+      "title": "Voices Heard And Unheard",
+      "services": {
+        "qobuz": "425472077"
+      },
+      "album": "Des Cannings: Voices Heard and Unheard",
+      "duration": 403,
+      "isrc": "AUAB02650221"
+    },
+    {
+      "artist": "Darryl Jenifer",
+      "title": "Loves Harmony",
+      "services": {
+        "qobuz": "405590676"
+      },
+      "album": "The Weather Channel",
+      "duration": 206,
+      "isrc": "QT53P2600014"
+    },
+    {
+      "artist": "Banksia Trio",
+      "title": "All Living Things",
+      "services": {
+        "qobuz": "435646130"
+      },
+      "album": "The Great Noon",
+      "duration": 367,
+      "isrc": "JPB622600325"
+    },
+    {
+      "artist": "Hill Collective",
+      "title": "Fire In Orbit",
+      "services": {
+        "qobuz": "412026114"
+      },
+      "album": "Fire In Orbit",
+      "duration": 537,
+      "isrc": "GBZG92600043"
+    },
+    {
+      "artist": "Jasper Blom",
+      "title": "As (Radio Edit)",
+      "services": {
+        "qobuz": "427875842"
+      },
+      "album": "As",
+      "duration": 171,
+      "isrc": "NLH212600120"
+    },
+    {
+      "artist": "Kelly Doyle",
+      "title": "Cold Open",
+      "services": {
+        "qobuz": "414743184"
+      },
+      "album": "Cold Open",
+      "duration": 344,
+      "isrc": "QZLPN2507403"
+    },
+    {
+      "artist": "slantedsteps",
+      "title": "English Garden",
+      "services": {
+        "qobuz": "427599396"
+      },
+      "album": "English Garden",
+      "duration": 240,
+      "isrc": "USA2B2602914"
+    },
+    {
+      "artist": "Paul Janoschka",
+      "title": "101 West 85th Street",
+      "services": {
+        "qobuz": "405937069"
+      },
+      "album": "101 West 85th Street",
+      "duration": 303,
+      "isrc": "QM6N22620763"
+    },
+    {
+      "artist": "Mark Isham",
+      "title": "Tales Of The Street Piano",
+      "services": {
+        "qobuz": "425816345"
+      },
+      "album": "Tales of the Street Piano",
+      "duration": 324,
+      "isrc": "GBWUL2664738"
+    },
+    {
+      "artist": "Wonky Logic",
+      "title": "Underneath The Same Sky (feat. Vanessa Rani)",
+      "services": {
+        "qobuz": "431055737"
+      },
+      "album": "Underneath The Same Sky (feat. Vanessa Rani)",
+      "duration": 271,
+      "isrc": "GBMEF2602747"
+    },
+    {
+      "artist": "Tyreek McDole",
+      "title": "WILD IS THE WIND",
+      "services": {
+        "qobuz": "419631504"
+      },
+      "album": "WILD IS THE WIND",
+      "duration": 298,
+      "isrc": "FRE9V2600950"
+    },
+    {
+      "artist": "C\u00e9cile McLorin Salvant",
+      "title": "Sophisticated Lady",
+      "services": {
+        "qobuz": "413181365"
+      },
+      "album": "With Every Breath I Take",
+      "duration": 184,
+      "isrc": "USNO12600055"
+    },
+    {
+      "artist": "Charles Lloyd",
+      "title": "Sam on the Ganges",
+      "services": {
+        "qobuz": "429510944"
+      },
+      "album": "Sam on the Ganges",
+      "duration": 431,
+      "isrc": "USUG12604538"
+    },
+    {
+      "artist": "Kalia Vandever",
+      "title": "Waiting",
+      "services": {
+        "qobuz": "402567118"
+      },
+      "album": "Mana",
+      "duration": 393,
+      "isrc": "QM84B2511103"
+    },
+    {
+      "artist": "James Brandon Lewis Quartet",
+      "title": "Omnipresent",
+      "services": {
+        "qobuz": "420462584"
+      },
+      "album": "Omni",
+      "duration": 338,
+      "isrc": "CH2702605969"
+    },
+    {
+      "artist": "Cindy Blackman Santana",
+      "title": "The Message is Love",
+      "services": {
+        "qobuz": "418698295"
+      },
+      "album": "The Message is Love",
+      "duration": 354,
+      "isrc": "QT8HR2600003"
+    },
+    {
+      "artist": "Pat Metheny",
+      "title": "America The Beautiful / The People United Will Never Be Defeated",
+      "services": {
+        "qobuz": "420882004"
+      },
+      "album": "America The Beautiful / The People United Will Never Be Defeated",
+      "duration": 291,
+      "isrc": "QT8452600002"
+    },
+    {
+      "artist": "Lizz Wright",
+      "title": "Soon I Will Be Done",
+      "services": {
+        "qobuz": "423432893"
+      },
+      "album": "Soon I Will Be Done",
+      "duration": 360,
+      "isrc": "USA2B2602566"
+    },
+    {
+      "artist": "Nils Petter Molvaer",
+      "title": "Bangkok",
+      "services": {
+        "qobuz": "407818713"
+      },
+      "album": "Be Quiet",
+      "duration": 254,
+      "isrc": "GBVEV2600192"
+    },
+    {
+      "artist": "Miki Yamanaka",
+      "title": "Indigo",
+      "services": {
+        "qobuz": "420501447"
+      },
+      "album": "Indigo",
+      "duration": 429,
+      "isrc": "CACK42691001"
+    },
+    {
+      "artist": "Nduduzo Makhathini",
+      "title": "Ekuqaleni",
+      "services": {
+        "qobuz": "403390166"
+      },
+      "album": "The Myth We Choose",
+      "duration": 135,
+      "isrc": "USUM72600908"
+    },
+    {
+      "artist": "Richard Spaven",
+      "title": "Fine Line",
+      "services": {
+        "qobuz": "415052774"
+      },
+      "album": "Fine Line",
+      "duration": 327,
+      "isrc": "GBVEV2600246"
+    },
+    {
+      "artist": "Empirical",
+      "title": "Like Lambs - To the Slaughter",
+      "services": {
+        "qobuz": "401176734"
+      },
+      "album": "Like Lambs: To The Slaughter",
+      "duration": 310,
+      "isrc": "UKA9C2600004"
+    },
+    {
+      "artist": "Sullivan Fortner",
+      "title": "Number 3",
+      "services": {
+        "qobuz": "418393355"
+      },
+      "album": "Leave That In There",
+      "duration": 360,
+      "isrc": "FRE9V2500580"
+    },
+    {
+      "artist": "Nate Smith",
+      "title": "EYE LEVEL",
+      "services": {
+        "qobuz": "426107189"
+      },
+      "album": "FATHERS",
+      "duration": 189,
+      "isrc": "USUG12601115"
+    },
+    {
+      "artist": "Fergus McCreadie",
+      "title": "Boulderfield",
+      "services": {
+        "qobuz": "398787805"
+      },
+      "album": "Boulderfield",
+      "duration": 344,
+      "isrc": "GBVEV2600284"
+    },
+    {
+      "artist": "Jo\u00e3o Bosco",
+      "title": "Horda",
+      "services": {
+        "qobuz": "417009496"
+      },
+      "album": "Horda",
+      "duration": 456,
+      "isrc": "DEAM82600082"
+    },
+    {
+      "artist": "Miles Okazaki",
+      "title": "Boomtown Girl",
+      "services": {
+        "qobuz": "426299710"
+      },
+      "album": "Boomtown",
+      "duration": 276,
+      "isrc": "US4542600021"
+    },
+    {
+      "artist": "Ralph Alessi",
+      "title": "A Sun That Never Sets",
+      "services": {
+        "qobuz": "411676372"
+      },
+      "album": "A Sun That Never Sets",
+      "duration": 413,
+      "isrc": "DEB332586401"
+    },
+    {
+      "artist": "Play Time",
+      "title": "Open the Door, Joey",
+      "services": {
+        "qobuz": "413988300"
+      },
+      "album": "Magic Object",
+      "duration": 356,
+      "isrc": "DEG932602120"
+    },
+    {
+      "artist": "Nicholas Payton",
+      "title": "Blue In Green",
+      "services": {
+        "qobuz": "427879298"
+      },
+      "album": "Blue In Green",
+      "duration": 374,
+      "isrc": "USC4R2665913"
+    },
+    {
+      "artist": "Tomoki Sanders",
+      "title": "The Third Eye",
+      "services": {
+        "qobuz": "426280630"
+      },
+      "album": "The Third Eye",
+      "duration": 381,
+      "isrc": "GBMEF2602779"
+    },
+    {
+      "artist": "Vincent Peirani",
+      "title": "50 Beautiful Ways",
+      "services": {
+        "qobuz": "423400092"
+      },
+      "album": "50 Beautiful Ways",
+      "duration": 316,
+      "isrc": "FR9W12405904"
+    },
+    {
+      "artist": "Fred Pallem",
+      "title": "Avron Evrard",
+      "services": {
+        "qobuz": "425914424"
+      },
+      "album": "Fran\u00e7ois De Roubaix, 50 ans apr\u00e8s ...",
+      "duration": 171,
+      "isrc": "FR9W12619955"
+    },
+    {
+      "artist": "Stefon Harris",
+      "title": "Echoes of the Lion",
+      "services": {
+        "qobuz": "418026431"
+      },
+      "album": "Echoes of the Lion",
+      "duration": 301,
+      "isrc": "US9332504604"
+    },
+    {
+      "artist": "Little North",
+      "title": "Into Insanity",
+      "services": {
+        "qobuz": "405112082"
+      },
+      "album": "Crossing Currents",
+      "duration": 219,
+      "isrc": "DEA892600139"
+    },
+    {
+      "artist": "Steve Swallow",
+      "title": "One",
+      "services": {
+        "qobuz": "410935781"
+      },
+      "album": "Winter Songs",
+      "duration": 266,
+      "isrc": "DEB332487901"
+    },
+    {
+      "artist": "David Versace",
+      "title": "Year of The Horse",
+      "services": {
+        "qobuz": "428677768"
+      },
+      "album": "Year of The Horse",
+      "duration": 220,
+      "isrc": "AUHAZ2000239"
+    },
+    {
+      "artist": "Alden Hellmuth",
+      "title": "Microfictions",
+      "services": {
+        "qobuz": "407797790"
+      },
+      "album": "Tether",
+      "duration": 358,
+      "isrc": "DEUD92638799"
+    },
+    {
+      "artist": "Franklin Kiermyer",
+      "title": "One Is Love",
+      "services": {
+        "qobuz": "425803632"
+      },
+      "album": "One Is Love",
+      "duration": 410,
+      "isrc": "GBYG52614001"
+    },
+    {
+      "artist": "JSPHYNX",
+      "title": "Hold On",
+      "services": {
+        "qobuz": "408257003"
+      },
+      "album": "Hold On",
+      "duration": 315,
+      "isrc": "FR59R2699418"
+    },
+    {
+      "artist": "Monty Alexander",
+      "title": "Skamento",
+      "services": {
+        "qobuz": "417647958"
+      },
+      "album": "Skamento",
+      "duration": 264,
+      "isrc": "FR96X2637176"
+    },
+    {
+      "artist": "Baptiste Trotignon",
+      "title": "L'absence",
+      "services": {
+        "qobuz": "426149526"
+      },
+      "album": "L'absence",
+      "duration": 197,
+      "isrc": "FRZ132506003"
+    },
+    {
+      "artist": "Akusmi",
+      "title": "Anima",
+      "services": {
+        "qobuz": "402966095"
+      },
+      "album": "Terra Incognita",
+      "duration": 435,
+      "isrc": "GX4FT2620002"
+    },
+    {
+      "artist": "Elias Stemeseder",
+      "title": "On the Euclidian Plane",
+      "services": {
+        "qobuz": "415725835"
+      },
+      "album": "Io Pur Respiro",
+      "duration": 437,
+      "isrc": "DEZD92000457"
+    },
+    {
+      "artist": "Ran Blake",
+      "title": "Grey December",
+      "services": {
+        "qobuz": "422537861"
+      },
+      "album": "Roots and Byways",
+      "duration": 157,
+      "isrc": "US2W62681302"
+    },
+    {
+      "artist": "Ancient Infinity Orchestra",
+      "title": "Celebrating the Beautiful Lineage of Sound & Hypnotic States",
+      "services": {
+        "qobuz": "407849947"
+      },
+      "album": "It's Always About Liberation",
+      "duration": 466,
+      "isrc": "GBVTB2681005"
+    },
+    {
+      "artist": "Mama Terra",
+      "title": "Best Laid Plans",
+      "services": {
+        "qobuz": "409921381"
+      },
+      "album": "Inner Space",
+      "duration": 245,
+      "isrc": "GBUQC2601671"
+    }
+  ]
+}

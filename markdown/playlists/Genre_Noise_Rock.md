@@ -1,0 +1,107 @@
+# Genre: Noise Rock
+
+Imported genre playlist: Noise Rock.
+
+Services: `qobuz:66737293` `tidal:9fdc765a-4e6e-4a07-8dfc-06c1a22a6c21`
+
+## Tracks (99)
+
+- **The Stooges** — L.A. Blues [Funhouse] (4:53) `isrc:USEW10000340` `qobuz:15765090`
+- **Flipper** — Sex Bomb [Album - Generic Flipper] (7:48) `isrc:USSM18100742` `qobuz:54721467`
+- **The Birthday Party** — She's Hit [Junkyard] (6:05) `isrc:GBAFL8200047` `qobuz:58599191`
+- **Swans** — Stay Here [Filth] (5:35) `isrc:USA3T0400231` `qobuz:42702777`
+- **No Trend** — Too Many Humans [Too Many Humans/Teen Love] (3:57) `isrc:US58L2075407` `qobuz:85046392`
+- **U.F.O.** — Running Up The Highway [High Stakes & Dangerous Men / Lights Out In Tokyo] (4:39) `isrc:GBAJE0605059` `qobuz:163394866`
+- **Butthole Surfers** — The Shah Sleeps in Lee Harvey's Grave [Butthole Surfers + PCPpep] (2:11) `isrc:USA3E0400061` `qobuz:208546221`
+- **Live Skull** — Brains Big Enough [Bringing Home The Bait] (5:22) `isrc:FR5R00902842` `qobuz:9271517`
+- **Sonic Youth** — Death Valley '69 [Death Valley '69 / Brave Men Run (In My Family)] (5:26) `isrc:US6450500105` `qobuz:144266134`
+- **Sun Ra** — Angels and Demons at Play [Angels and Demons at Play] (2:53) `isrc:USCXG1400194` `qobuz:48066816`
+- **Scratch Acid** — Cannibal [S/T EP] (2:24) `isrc:USTG32438201` `qobuz:316531352`
+- **Big Black** — Kerosene [Atomizer (Remastered)] (6:03) `isrc:USTG31409304` `qobuz:32621490`
+- **feedtime** — Shovelhead [Gas] (3:30) `isrc:USA3D1610115` `qobuz:39687540`
+- **White Zombie** — Ratmouth [Soul-Crusher] (3:39) `isrc:USCW61620420` `qobuz:31299095`
+- **Pussy Galore** — White People [Right Now!] (1:07) `isrc:US2398711808` `qobuz:14904727`
+- **Blind Idiot God** — Purged Specimen [Undertow Reissue] (1:54) `isrc:QZ9MD1700012` `qobuz:79856581`
+- **Barkmarket** — Salvation [Vegas Throat] (4:47) `isrc:USSM10902220` `qobuz:54351801`
+- **Associate** — Trouser Minnow [Shellac of Southern Finland] (3:56) `isrc:QZWFM2672390` `qobuz:412264649`
+- **Volbeat** — In the Barn of the Goat Giving Birth to Satan’s Spawn in a Dying World of Doom [God Of Angels Trust] (4:18) `isrc:DKNE12400005` `qobuz:316098483`
+- **Halo Of Flies** — Rubber Room [Music For Insect Minds] (2:02) `isrc:USA560509649` `qobuz:64206824`
+- **Killdozer** — Richard [Twelve Point Buck] (4:17) `isrc:USTG38904804` `qobuz:32674614`
+- **Church of Misery** — Soul Discharge (Mark Essex) [The Second Coming] (4:09) `isrc:USV291435985` `qobuz:56254282`
+- **Steel Pole Bath Tub** — Time To Die [Lurch / Butterfly Love] (3:39) `isrc:USA2Z0400122` `qobuz:52239157`
+- **Bitch Magnet** — Valmead [Ben Hur] (3:33) `isrc:USY6C1115002` `qobuz:20977349`
+- **Boss Hog** — I Dig You [Boss Hog] (3:14) `isrc:USGF19581106` `qobuz:13695783`
+- **KID** — Neighborhood Kid [Kill The King] (2:31) `isrc:USY252518754` `qobuz:358970196`
+- **Exodus** — Brain Dead [Pleasures of the Flesh] (4:15) `isrc:USSM11501850` `qobuz:25140890`
+- **Tar** — Les Paul Worries [Roundhouse] (4:32) `isrc:USA2Z2001464` `qobuz:128921584`
+- **Nirvana** — Endless, Nameless [Nevermind] (6:42) `isrc:USGF19942513` `qobuz:14158562`
+- **Daisy Chainsaw** — Love Your Money [Love Your Money] (2:41) `isrc:GBMMS2300313` `qobuz:260558923`
+- **The Jesus Lizard** — Mouth Breather [Goat] (2:16) `isrc:USTG30946802` `qobuz:32675748`
+- **Zeni Geva** — Total Castration [Superunit: Maximum Implosion] (3:13) `isrc:QM6P41830314` `qobuz:386022979`
+- **Lord Tagman** — GORE DEVIL SHYT [X-FILES OF DARKNESS] (3:15) `isrc:FXR752406090` `qobuz:282813495`
+- **Cows** — Heave Ho [Cunning Stunts] (2:07) `isrc:USA560445578` `qobuz:64224824`
+- **Distorted Pony** — Krank [Live in Hamburg] (3:28) `isrc:GBHLW2300401` `qobuz:238336980`
+- **High Rise** — Mainliner [Dispersion] (10:28) `isrc:US2392351325` `qobuz:228264826`
+- **Alice Donut** — Mrs. Hayes [Mule] (2:38) `isrc:US2Z41010057` `qobuz:72788823`
+- **Helmet** — Unsung [Meantime] (3:56) `isrc:USIR19200544` `qobuz:3898895`
+- **Cop Shoot Cop** — Room 429 [Ask Questions Later] (5:08) `isrc:QMFMG1428835` `qobuz:51036190`
+- **Seiji Ozawa** — Berlioz: Symphonie fantastique, Op. 14: 1. Rêveries. Passions. Largo - Allegro agitato ed appassionato assai [Berlioz: Symphonie Fantastique] (13:19) `isrc:JPPO01138479` `qobuz:189975914`
+- **Tanner Gill Rahmat** — The Body Count I Started Counting [The Body Count I Started Counting] (2:52) `isrc:QT82T2617426` `qobuz:407583679`
+- **Harry Styles** — American Girls [Kiss All The Time. Disco, Occasionally.] (3:33) `isrc:USSM12600097` `qobuz:398705951`
+- **Nightstick** — In Dahmer's Room [In Dahmer's Room] (3:50) `isrc:QM4TW1759240` `qobuz:72953803`
+- **PJ Harvey** — Rid Of Me [Rid Of Me] (4:28) `isrc:GBAAN9300092` `qobuz:758686`
+- **Cherubs** — Shoofly [Icing] (3:06) `isrc:QM4TX2345131` `qobuz:211259101`
+- **Dazzling Killmen** — Staring Contest (Remastered) [Face Of Collapse: Special Edition] (3:18) `isrc:USA2B1617142` `qobuz:48713008`
+- **Drive Like Jehu** — Luau [Yank Crime] (9:27) `isrc:US2850411504` `qobuz:18560903`
+- **Season to Risk** — Jack Frost [In A Perfect World] (3:40) `isrc:USSM12306034` `qobuz:225107601`
+- **Unsane** — Scrape [Scattered, Smothered & Covered] (3:09) `isrc:USY251632873` `qobuz:102528616`
+- **Brainiac** — Vincent Come On Down [From Dayton Ohio] (2:39) `isrc:USTG32137418` `qobuz:125419777`
+- **Girls Against Boys** — Park Avenue [Freak*On*Ica] (3:50) `isrc:USGF19815601` `qobuz:13695803`
+- **Rodan** — The Everyday World of Bodies [Rusty] (11:55) `isrc:USA4C9402403` `qobuz:32673452`
+- **Unwound** — Kantina [Fake Train] (4:44) `isrc:USCW61202039` `qobuz:219353997`
+- **GodheadSilo** — Elephantitus Of The Night [Elephantitus of the Night] (3:24) `isrc:USKRS0324201` `qobuz:73676401`
+- **Brainbombs** — Slutmaster [Urge to Kill] (5:36) `isrc:QM7281878068` `qobuz:57468566`
+- **U.S. Maple** — Hey King [Long Hair In Three Stages] (3:36) `isrc:USKBH0710483` `qobuz:48658215`
+- **Shellac** — Prayer To God [1000 Hurts] (2:51) `isrc:USTG30021101` `qobuz:32673994`
+- **Arab On Radar** — Piggin' In the Pumpkin Patch [The Stolen Singles] (3:28) `isrc:USV351333227` `qobuz:63328572`
+- **Black Dice** — Smiling Off [Smiling Off] (9:24) `isrc:US4GE0500071` `qobuz:1940542`
+- **Hella** — Biblical Violence [Hold Your Horse Is] (3:03) `isrc:USKRS0301802` `qobuz:73670662`
+- **Mclusky** — To Hell With Good Intentions [Mclusky Do Dallas] (2:25) `isrc:GBBNZ0100081` `qobuz:26360432`
+- **Boris** — Just Abandoned Myself [Live at Third Man Records] (11:26) `isrc:US3JJ1701556` `qobuz:370465836`
+- **Slawek Pezda** — Dracula Mountain [The Flash! With Dustin Carlson] (4:53) `isrc:SKA922003105` `qobuz:111009562`
+- **XBXRX** — Deaf Ears, Silent Voice [Sixth in Sixes] (1:32) `isrc:US3R40500085` `qobuz:181984673`
+- **Black Eyes** — Deformative [Black Eyes] (2:27) `isrc:US35U0413507` `qobuz:159949567`
+- **Death From Above 1979** — Romantic Rights [You're A Woman, I'm A Machine (DMD)] (3:15) `isrc:CAL450490202` `qobuz:15232823`
+- **Deerhoof** — Milk Man [Milk Man] (4:23) `isrc:USKRS0340601` `qobuz:163342537`
+- **An Albatross** — Electric Suits and Cowboy Boots [We Are the Lazer Viking] (1:01) `isrc:US39Z0402303` `qobuz:48913278`
+- **Taylor Swift** — The Fate of Ophelia [The Life of a Showgirl] (3:46) `isrc:USUG12506436` `qobuz:360735657`
+- **Partner** — Big Gay Hands [Never Give Up] (3:09) `isrc:CA0LX2000029` `qobuz:98505633`
+- **Part Chimp** — Namekuji [IV] (4:06) `isrc:GBGDZ1600043` `qobuz:39745718`
+- **The Psychic Paramount** — DDB [II] (8:56) `isrc:USLKU1126002` `qobuz:20792022`
+- **Liars** — Plaster Casts of Everything [Liars] (3:56) `isrc:GBAJH0700432` `qobuz:5999845`
+- **Soundmuseum** — Peaceful Dryer Noise for Sleep [Hair Dryer] (2:08) `isrc:DESX42400202` `qobuz:300820584`
+- **Ray Brown** — Mysterioso [SuperBass 2] (8:17) `isrc:USTE10448303` `qobuz:203190910`
+- **Future Of The Left** — Small Bones Small Bodies [Curses] (2:22) `isrc:GBBNZ0600034` `qobuz:2535238`
+- **Melt-Banana** — Spider Snipe [Bambi's Dilemma] (2:12) `isrc:US36X0700001` `qobuz:24294595`
+- **Teen Creeps** — No-Show [No-Show] (3:17) `isrc:BEP012580004` `qobuz:331718123`
+- **A Place To Bury Strangers** — To Fix the Gash in Your Head [A Place to Bury Strangers] (3:51) `isrc:USTC30721684` `qobuz:125315430`
+- **Kowloon Walled City** — Container Ships [Container Ships] (7:11) `isrc:USWC21200110` `qobuz:81515647`
+- **Metz** — Get Off [Start Your Own Fucking Showspace] (2:15) `isrc:USA2Z1610921` `qobuz:33330233`
+- **Ken Mode** — Blessed [Success] (5:51) `isrc:FR33T1535701` `qobuz:77787199`
+- **Ovlov** — The Great Alligator [Am] (6:57) `isrc:QMDA61320028` `qobuz:74816036`
+- **Jim Davies** — The Bar Is Low [The Bar Is Low] (3:25) `isrc:GBBPP2162484` `qobuz:383491623`
+- **Perfect Pussy** — Driver [Say Yes To Love] (2:16) `isrc:QMMZN1300546` `qobuz:20787022`
+- **Big Ups** — Goes Black [Eighteen Hours of Static] (2:21) `isrc:USKGR1300002` `qobuz:77390109`
+- **Gilla Band** — Lawman [The Early Years] (6:13) `isrc:IEBOE1300006` `qobuz:23476717`
+- **USA Nails** — What Is the Price? [Shame Spiral] (2:53) `isrc:QZ22B1808979` `qobuz:174659220`
+- **Street Sects** — And I Grew into Ribbons [End Position] (3:13) `isrc:USA2B1600513` `qobuz:34979388`
+- **The West Coast Pop Art Experimental Band** — Where Money Rules Everything [Where's My Daddy? - Remastered] (1:58) `isrc:GBSMU1563264` `qobuz:368472416`
+- **The Armed** — AN ITERATION [ULTRAPOP] (2:53) `isrc:USA2P1950625` `qobuz:330293018`
+- **Pouya** — LORD FORGIVE ME FOR THE PAIN I INFLICT ON MYSELF [THEY COULD NEVER MAKE ME HATE YOU] (2:32) `isrc:USUYG1560608` `qobuz:274184272`
+- **Uniform** — The Walk [The Long Walk] (5:30) `isrc:US5NR1820401` `qobuz:50507312`
+- **Guerilla Toss** — Can I Get the Real Stuff [GT Ultra] (2:57) `isrc:US4GE1600080` `qobuz:234449856`
+- **Tropical Fuck Storm** — You Let My Tyres Down [You Let My Tyres Down / Back To The Wall] (5:41) `isrc:AUHZM1800005` `qobuz:83946769`
+- **Chat Pile** — Slaughterhouse [God's Country] (4:12) `isrc:USA2Z2100902` `qobuz:154544757`
+- **DITZ** — Summer of the Shark [The Great Regression] (2:49) `isrc:GBZ522123503` `qobuz:144612946`
+- **Model/Actriz** — Mosquito [Dogsbody] (3:12) `isrc:QZVM32200035` `qobuz:350458826`
+- **Sprain** — Man Proposes, God Disposes [The Lamb as Effigy] (7:09) `isrc:USA2Z2201370` `qobuz:213788773`

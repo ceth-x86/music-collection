@@ -1,0 +1,930 @@
+{
+  "name": "Genre: Melodic Techno",
+  "services": {
+    "qobuz": "66719422",
+    "tidal": "3b06786e-02f6-4c28-8f2b-f7c620445ab4"
+  },
+  "description": "Melodic Techno is a subgenre that marries the steady, driving 4/4 pulse of techno with rich, emotive harmonic layers and intricate synthesizer melodies. Unlike the more abrasive or stripped-back industrial forms of the genre, Melodic Techno emphasizes atmosphere, epic builds, and poignant chord progressions, creating a sound that is both club-ready and deeply cinematic or melancholic in nature.",
+  "tracks": [
+    {
+      "artist": "A.M.R",
+      "title": "Whispers",
+      "services": {
+        "qobuz": "106906443"
+      },
+      "album": "Whispers",
+      "duration": 465,
+      "isrc": "GBKQU1394753"
+    },
+    {
+      "artist": "Dahu",
+      "title": "Sedated (Mix Cut)",
+      "services": {
+        "qobuz": "378036450"
+      },
+      "album": "Beyond Borders: Berlin (Mixed by Dave Seaman)",
+      "duration": 333,
+      "isrc": "NLF711507173"
+    },
+    {
+      "artist": "Aaryon",
+      "title": "Hex",
+      "services": {
+        "qobuz": "278563559"
+      },
+      "album": "Ethereal Techno #001",
+      "duration": 535,
+      "isrc": "FRX761594271"
+    },
+    {
+      "artist": "Rafael Cerato, THe WHite SHadow (FR)",
+      "title": "Spektrum",
+      "services": {
+        "qobuz": "41547114"
+      },
+      "album": "Vomvo 03 Part 3",
+      "duration": 444,
+      "isrc": "QM6MZ1750406"
+    },
+    {
+      "artist": "Nick Devon",
+      "title": "The Poem",
+      "services": {
+        "qobuz": "278575582"
+      },
+      "album": "Nick Devon Chronicles",
+      "duration": 435,
+      "isrc": "FRX871532721"
+    },
+    {
+      "artist": "Clawz SG",
+      "title": "Gwendoline",
+      "services": {
+        "qobuz": "278587630"
+      },
+      "album": "Clawz SG Chronicles",
+      "duration": 452,
+      "isrc": "US83Z1502657"
+    },
+    {
+      "artist": "Blancah",
+      "title": "Queda Do Ninho (Original Mix)",
+      "services": {
+        "qobuz": "46035065"
+      },
+      "album": "Buddha Bar Presents Armen Miran & Ravin",
+      "duration": 261,
+      "isrc": "FR59R1635912"
+    },
+    {
+      "artist": "Parra for Cuva",
+      "title": "Elara",
+      "services": {
+        "qobuz": "49081272"
+      },
+      "album": "Veiled in Blue - EP",
+      "duration": 346,
+      "isrc": "DEBW21400185"
+    },
+    {
+      "artist": "Yan Cook",
+      "title": "Exhale",
+      "services": {
+        "qobuz": "153135432"
+      },
+      "album": "XXX LP",
+      "duration": 324,
+      "isrc": "NLCK42213468"
+    },
+    {
+      "artist": "Peder Mannerfelt",
+      "title": "And That Happened",
+      "services": {
+        "qobuz": "105107604"
+      },
+      "album": "Ensnared",
+      "duration": 296,
+      "isrc": "NLCK41072712"
+    },
+    {
+      "artist": "Andreas Henneberg",
+      "title": "Grim",
+      "services": {
+        "qobuz": "278563566"
+      },
+      "album": "Ethereal Techno #001",
+      "duration": 464,
+      "isrc": "DEY470942537"
+    },
+    {
+      "artist": "Tale Of Us",
+      "title": "Another Earth",
+      "services": {
+        "qobuz": "81272771"
+      },
+      "album": "Another Earth",
+      "duration": 345,
+      "isrc": "CAM261350410"
+    },
+    {
+      "artist": "Monoloc",
+      "title": "Phoenix",
+      "services": {
+        "qobuz": "236928069"
+      },
+      "album": "Realm Of Consciousness",
+      "duration": 368,
+      "isrc": "DEEC31610001"
+    },
+    {
+      "artist": "Recondite",
+      "title": "Think Twice",
+      "services": {
+        "qobuz": "371247790"
+      },
+      "album": "Think Twice EP",
+      "duration": 390,
+      "isrc": "DEU671501764"
+    },
+    {
+      "artist": "Jon Hester",
+      "title": "Through The Smoke",
+      "services": {
+        "qobuz": "390745490"
+      },
+      "album": "Here and Present EP",
+      "duration": 370,
+      "isrc": "GBLTF2600029"
+    },
+    {
+      "artist": "Locked Groove",
+      "title": "Emeralds",
+      "services": {
+        "qobuz": "236928074"
+      },
+      "album": "Realm Of Consciousness",
+      "duration": 491,
+      "isrc": "DEEC31610006"
+    },
+    {
+      "artist": "Tale Of Us",
+      "title": "Astral",
+      "services": {
+        "qobuz": "371248343"
+      },
+      "album": "Astral",
+      "duration": 402,
+      "isrc": "DEU671502691"
+    },
+    {
+      "artist": "Ae:ther",
+      "title": "Beyond The Lights",
+      "services": {
+        "qobuz": "236956013"
+      },
+      "album": "Realm Of Consciousness Pt. II",
+      "duration": 377,
+      "isrc": "DEEC31750014"
+    },
+    {
+      "artist": "Denis Horvat",
+      "title": "Bruto",
+      "services": {
+        "qobuz": "236956015"
+      },
+      "album": "Realm Of Consciousness Pt. II",
+      "duration": 495,
+      "isrc": "DEEC31750016"
+    },
+    {
+      "artist": "Keith Carnal",
+      "title": "Cloudy Monday",
+      "services": {
+        "qobuz": "236956016"
+      },
+      "album": "Realm Of Consciousness Pt. II",
+      "duration": 547,
+      "isrc": "DEEC31750017"
+    },
+    {
+      "artist": "Per:sona",
+      "title": "393",
+      "services": {
+        "qobuz": "236956018"
+      },
+      "album": "Realm Of Consciousness Pt. II",
+      "duration": 473,
+      "isrc": "DEEC31750019"
+    },
+    {
+      "artist": "Black Peters",
+      "title": "Avenue B",
+      "services": {
+        "qobuz": "236956020"
+      },
+      "album": "Realm Of Consciousness Pt. II",
+      "duration": 445,
+      "isrc": "DEEC31750021"
+    },
+    {
+      "artist": "Darse",
+      "title": "Horus",
+      "services": {
+        "qobuz": "236956021"
+      },
+      "album": "Realm Of Consciousness Pt. II",
+      "duration": 479,
+      "isrc": "DEEC31750022"
+    },
+    {
+      "artist": "Hunter/Game",
+      "title": "Illusion",
+      "services": {
+        "qobuz": "236956023"
+      },
+      "album": "Realm Of Consciousness Pt. II",
+      "duration": 383,
+      "isrc": "DEEC31750024"
+    },
+    {
+      "artist": "Agents Of Time",
+      "title": "Paradigm",
+      "services": {
+        "qobuz": "236945816"
+      },
+      "album": "Realm Of Consciousness Pt. III",
+      "duration": 369,
+      "isrc": "DEEC31850080"
+    },
+    {
+      "artist": "Fideles",
+      "title": "Lotus",
+      "services": {
+        "qobuz": "236945820"
+      },
+      "album": "Realm Of Consciousness Pt. III",
+      "duration": 432,
+      "isrc": "DEEC31850084"
+    },
+    {
+      "artist": "SCB",
+      "title": "Tide Slide",
+      "services": {
+        "qobuz": "236945821"
+      },
+      "album": "Realm Of Consciousness Pt. III",
+      "duration": 479,
+      "isrc": "DEEC31850085"
+    },
+    {
+      "artist": "\u00d8ostil",
+      "title": "Quantic",
+      "services": {
+        "qobuz": "60438613"
+      },
+      "album": "Global Underground #42: Patrice B\u00e4umel - Berlin",
+      "duration": 137,
+      "isrc": "GBHFW1800258"
+    },
+    {
+      "artist": "Sterac",
+      "title": "Universum",
+      "services": {
+        "qobuz": "236945823"
+      },
+      "album": "Realm Of Consciousness Pt. III",
+      "duration": 371,
+      "isrc": "DEEC31850087"
+    },
+    {
+      "artist": "Tone Depth",
+      "title": "Ibn Sina",
+      "services": {
+        "qobuz": "236945829"
+      },
+      "album": "Realm Of Consciousness Pt. III",
+      "duration": 499,
+      "isrc": "DEEC31850093"
+    },
+    {
+      "artist": "Jobe",
+      "title": "Orcus",
+      "services": {
+        "qobuz": "278575684"
+      },
+      "album": "Jobe Presents Authentic Steyoyoke #012",
+      "duration": 472,
+      "isrc": "DEY472177931"
+    },
+    {
+      "artist": "Carlo Whale",
+      "title": "Trust",
+      "services": {
+        "qobuz": "259831327"
+      },
+      "album": "Melodic Structures, Vol. 9",
+      "duration": 416,
+      "isrc": "DEW872005657"
+    },
+    {
+      "artist": "Erly Tepshi",
+      "title": "Hard to Love",
+      "services": {
+        "qobuz": "278571439"
+      },
+      "album": "Ethereal Techno #005",
+      "duration": 456,
+      "isrc": "FRX201733756"
+    },
+    {
+      "artist": "Lilly Palmer",
+      "title": "Aether",
+      "services": {
+        "qobuz": "126046029"
+      },
+      "album": "Aether",
+      "duration": 451,
+      "isrc": "DEPI82106552"
+    },
+    {
+      "artist": "Stephan Bodzin",
+      "title": "Strand",
+      "services": {
+        "qobuz": "236752202"
+      },
+      "album": "Strand",
+      "duration": 468,
+      "isrc": "DEEC31750084"
+    },
+    {
+      "artist": "Adriatique",
+      "title": "Hound",
+      "services": {
+        "qobuz": "236925014"
+      },
+      "album": "Realm Of Consciousness Pt. IV",
+      "duration": 395,
+      "isrc": "DEEC31900098"
+    },
+    {
+      "artist": "Adamant (IT)",
+      "title": "Last Promises",
+      "services": {
+        "qobuz": "236925015"
+      },
+      "album": "Realm Of Consciousness Pt. IV",
+      "duration": 378,
+      "isrc": "DEEC31900099"
+    },
+    {
+      "artist": "Colyn",
+      "title": "Amor",
+      "services": {
+        "qobuz": "236925017"
+      },
+      "album": "Realm Of Consciousness Pt. IV",
+      "duration": 513,
+      "isrc": "DEEC31900101"
+    },
+    {
+      "artist": "Anna",
+      "title": "Spectral",
+      "services": {
+        "qobuz": "236925020"
+      },
+      "album": "Realm Of Consciousness Pt. IV",
+      "duration": 350,
+      "isrc": "DEEC31900104"
+    },
+    {
+      "artist": "Artbat",
+      "title": "Element",
+      "services": {
+        "qobuz": "236925021"
+      },
+      "album": "Realm Of Consciousness Pt. IV",
+      "duration": 444,
+      "isrc": "DEEC31900105"
+    },
+    {
+      "artist": "matHame",
+      "title": "Farewell",
+      "services": {
+        "qobuz": "236925022"
+      },
+      "album": "Realm Of Consciousness Pt. IV",
+      "duration": 485,
+      "isrc": "DEEC31900106"
+    },
+    {
+      "artist": "Vaal",
+      "title": "Weakness Pays",
+      "services": {
+        "qobuz": "236925024"
+      },
+      "album": "Realm Of Consciousness Pt. IV",
+      "duration": 322,
+      "isrc": "DEEC31900108"
+    },
+    {
+      "artist": "Innellea",
+      "title": "Lost In Fades",
+      "services": {
+        "qobuz": "236925025"
+      },
+      "album": "Realm Of Consciousness Pt. IV",
+      "duration": 338,
+      "isrc": "DEEC31900109"
+    },
+    {
+      "artist": "Kevin de Vries",
+      "title": "Phoenix",
+      "services": {
+        "qobuz": "236925027"
+      },
+      "album": "Realm Of Consciousness Pt. IV",
+      "duration": 400,
+      "isrc": "DEEC31900111"
+    },
+    {
+      "artist": "Coeus",
+      "title": "Eden",
+      "services": {
+        "qobuz": "236925028"
+      },
+      "album": "Realm Of Consciousness Pt. IV",
+      "duration": 410,
+      "isrc": "DEEC31900112"
+    },
+    {
+      "artist": "Lyke",
+      "title": "Lem",
+      "services": {
+        "qobuz": "236925029"
+      },
+      "album": "Realm Of Consciousness Pt. IV",
+      "duration": 322,
+      "isrc": "DEEC31900113"
+    },
+    {
+      "artist": "Murat Uncuoglu",
+      "title": "Abetone",
+      "services": {
+        "qobuz": "236925030"
+      },
+      "album": "Realm Of Consciousness Pt. IV",
+      "duration": 480,
+      "isrc": "DEEC31900114"
+    },
+    {
+      "artist": "EN\u00d8S",
+      "title": "Neptune",
+      "services": {
+        "qobuz": "236925032"
+      },
+      "album": "Realm Of Consciousness Pt. IV",
+      "duration": 380,
+      "isrc": "DEEC31900116"
+    },
+    {
+      "artist": "Mitch de Klein",
+      "title": "Brother",
+      "services": {
+        "qobuz": "107766808"
+      },
+      "album": "Underground Frequencies Vol 3",
+      "duration": 420,
+      "isrc": "GBKQU1969602"
+    },
+    {
+      "artist": "Donna-Marie (NZ)",
+      "title": "The Law Of Rhythm",
+      "services": {
+        "qobuz": "107249750"
+      },
+      "album": "FGIX",
+      "duration": 410,
+      "isrc": "GBKQU2030508"
+    },
+    {
+      "artist": "Bonsai (US)",
+      "title": "Forward Unto Darkness",
+      "services": {
+        "qobuz": "278579971"
+      },
+      "album": "Rule of Two",
+      "duration": 476,
+      "isrc": "GBJX32145425"
+    },
+    {
+      "artist": "Senses Of Mind",
+      "title": "Triquetra",
+      "services": {
+        "qobuz": "107349563"
+      },
+      "album": "Triquetra / Artery Of Life",
+      "duration": 415,
+      "isrc": "GBKQU2000320"
+    },
+    {
+      "artist": "Trudge",
+      "title": "Restless",
+      "services": {
+        "qobuz": "107367864"
+      },
+      "album": "Drowned",
+      "duration": 464,
+      "isrc": "GBLV61900460"
+    },
+    {
+      "artist": "Emiliano Demarco",
+      "title": "Sombras",
+      "services": {
+        "qobuz": "374542199"
+      },
+      "album": "Monosphere, Vol. 14",
+      "duration": 390,
+      "isrc": "DEW872503376"
+    },
+    {
+      "artist": "Flashmatt",
+      "title": "The Dark Of Your Eyes",
+      "services": {
+        "qobuz": "251789182"
+      },
+      "album": "The Dark Of Your Eyes",
+      "duration": 284,
+      "isrc": "FIFL32300049"
+    },
+    {
+      "artist": "Martin Dubiansky",
+      "title": "Frenesi En FM",
+      "services": {
+        "qobuz": "351826110"
+      },
+      "album": "Frenesi En FM",
+      "duration": 376,
+      "isrc": "QMDA72559841"
+    },
+    {
+      "artist": "Aquiver",
+      "title": "Shattered Silence",
+      "services": {
+        "qobuz": "333916409"
+      },
+      "album": "Steyoyoke Anniversary, Vol. 13",
+      "duration": 369,
+      "isrc": "QM6P42567001"
+    },
+    {
+      "artist": "Ren\u00e9 Diehl",
+      "title": "Luna",
+      "services": {
+        "qobuz": "351681479"
+      },
+      "album": "Luna",
+      "duration": 378,
+      "isrc": "QMDA72559845"
+    },
+    {
+      "artist": "Seismal D",
+      "title": "Brushes of Dawn",
+      "services": {
+        "qobuz": "350722581"
+      },
+      "album": "Anima et Amor",
+      "duration": 282,
+      "isrc": "QM6P42567004"
+    },
+    {
+      "artist": "Germ\u00e1n Case",
+      "title": "A Sky Without You",
+      "services": {
+        "qobuz": "351624806"
+      },
+      "album": "A Sky Without You",
+      "duration": 379,
+      "isrc": "QMDA72553652"
+    },
+    {
+      "artist": "Turker",
+      "title": "Robots In Love",
+      "services": {
+        "qobuz": "331521854"
+      },
+      "album": "Robots In Love",
+      "duration": 403,
+      "isrc": "QM6P42519374"
+    },
+    {
+      "artist": "Rive",
+      "title": "Anima",
+      "services": {
+        "qobuz": "296645966"
+      },
+      "album": "Anima",
+      "duration": 381,
+      "isrc": "QMDA72420491"
+    },
+    {
+      "artist": "Riggel",
+      "title": "I'm Gone",
+      "services": {
+        "qobuz": "374423482"
+      },
+      "album": "Steyoyoke Gems Nocturnal 14",
+      "duration": 385,
+      "isrc": "QM6N22593396"
+    },
+    {
+      "artist": "Djuma Soundsystem",
+      "title": "Naach",
+      "services": {
+        "qobuz": "409611906"
+      },
+      "album": "Naach",
+      "duration": 370,
+      "isrc": "UKACT2675974"
+    },
+    {
+      "artist": "6RAJ",
+      "title": "Nos Adieux",
+      "services": {
+        "qobuz": "354482933"
+      },
+      "album": "Ethereal Techno #015",
+      "duration": 472,
+      "isrc": "US83Z2502663"
+    },
+    {
+      "artist": "ZERO CONTACT",
+      "title": "Captured",
+      "services": {
+        "qobuz": "354482936"
+      },
+      "album": "Ethereal Techno #015",
+      "duration": 358,
+      "isrc": "QMDA72590877"
+    },
+    {
+      "artist": "Eleven Of July",
+      "title": "History",
+      "services": {
+        "qobuz": "354482937"
+      },
+      "album": "Ethereal Techno #015",
+      "duration": 359,
+      "isrc": "QMFME2502608"
+    },
+    {
+      "artist": "Talal Bazzi",
+      "title": "Quantyra",
+      "services": {
+        "qobuz": "374423488"
+      },
+      "album": "Steyoyoke Gems Nocturnal 14",
+      "duration": 377,
+      "isrc": "QMFME2502612"
+    },
+    {
+      "artist": "Marwan El-Meligy",
+      "title": "Katharsis",
+      "services": {
+        "qobuz": "354482940"
+      },
+      "album": "Ethereal Techno #015",
+      "duration": 277,
+      "isrc": "QMFME2502614"
+    },
+    {
+      "artist": "Lost Rhythm",
+      "title": "Dark Ocean",
+      "services": {
+        "qobuz": "278570462"
+      },
+      "album": "Dark Ocean",
+      "duration": 368,
+      "isrc": "DEY472371693"
+    },
+    {
+      "artist": "Mode99",
+      "title": "Everlasting",
+      "services": {
+        "qobuz": "354482946"
+      },
+      "album": "Ethereal Techno #015",
+      "duration": 373,
+      "isrc": "QMFME2502635"
+    },
+    {
+      "artist": "DJ Geri",
+      "title": "Chapter 79",
+      "services": {
+        "qobuz": "354482948"
+      },
+      "album": "Ethereal Techno #015",
+      "duration": 379,
+      "isrc": "QMFME2502648"
+    },
+    {
+      "artist": "Taylan",
+      "title": "Absinthe",
+      "services": {
+        "qobuz": "278585851"
+      },
+      "album": "Ethereal Techno #011",
+      "duration": 412,
+      "isrc": "DEY472180209"
+    },
+    {
+      "artist": "Matan Caspi",
+      "title": "Pretty Little Smile",
+      "services": {
+        "qobuz": "278585854"
+      },
+      "album": "Ethereal Techno #011",
+      "duration": 472,
+      "isrc": "USS1Z2101180"
+    },
+    {
+      "artist": "Mind Against",
+      "title": "Walking Away",
+      "services": {
+        "qobuz": "236706115"
+      },
+      "album": "Walking Away",
+      "duration": 425,
+      "isrc": "DEEC32000028"
+    },
+    {
+      "artist": "Mind Against",
+      "title": "Solaris",
+      "services": {
+        "qobuz": "239199234"
+      },
+      "album": "Solaris EP",
+      "duration": 365,
+      "isrc": "DEEC31720000"
+    },
+    {
+      "artist": "Woo York",
+      "title": "Chasing The Dream",
+      "services": {
+        "qobuz": "236438844"
+      },
+      "album": "Chasing The Dream",
+      "duration": 357,
+      "isrc": "DEEC31850038"
+    },
+    {
+      "artist": "Woo York",
+      "title": "There is a Light",
+      "services": {
+        "qobuz": "236438845"
+      },
+      "album": "Chasing The Dream",
+      "duration": 374,
+      "isrc": "DEEC31850039"
+    },
+    {
+      "artist": "Kas:st",
+      "title": "Road to Nowhere",
+      "services": {
+        "qobuz": "106628603"
+      },
+      "album": "Road to Nowhere",
+      "duration": 434,
+      "isrc": "TCADT1818956"
+    },
+    {
+      "artist": "Kas:st",
+      "title": "Insomnia",
+      "services": {
+        "qobuz": "106628604"
+      },
+      "album": "Road to Nowhere",
+      "duration": 411,
+      "isrc": "NLCK41052418"
+    },
+    {
+      "artist": "Anyma",
+      "title": "Consciousness",
+      "services": {
+        "qobuz": "222685411"
+      },
+      "album": "Genesys",
+      "duration": 274,
+      "isrc": "DEEC33500555"
+    },
+    {
+      "artist": "Anyma",
+      "title": "Eternity",
+      "services": {
+        "qobuz": "222685399"
+      },
+      "album": "Genesys",
+      "duration": 186,
+      "isrc": "DEEC33500935"
+    },
+    {
+      "artist": "Mrak",
+      "title": "Manifesto",
+      "services": {
+        "qobuz": "239176644"
+      },
+      "album": "Manifesto",
+      "duration": 222,
+      "isrc": "DEEC33501120"
+    },
+    {
+      "artist": "Massano",
+      "title": "The Feeling",
+      "services": {
+        "qobuz": "315054971"
+      },
+      "album": "The Feeling",
+      "duration": 512,
+      "isrc": "ITH642005105"
+    },
+    {
+      "artist": "Massano",
+      "title": "Shut Down",
+      "services": {
+        "qobuz": "239635536"
+      },
+      "album": "Shut Down",
+      "duration": 230,
+      "isrc": "USA2P2359430"
+    },
+    {
+      "artist": "Argy",
+      "title": "Aria",
+      "services": {
+        "qobuz": "239198209"
+      },
+      "album": "Aria",
+      "duration": 235,
+      "isrc": "DEEC31810498"
+    },
+    {
+      "artist": "Argy",
+      "title": "Tataki",
+      "services": {
+        "qobuz": "236706027"
+      },
+      "album": "Tataki",
+      "duration": 327,
+      "isrc": "DEEC33500430"
+    },
+    {
+      "artist": "Monolink",
+      "title": "Return to Oz",
+      "services": {
+        "qobuz": "65141669"
+      },
+      "album": "Return to Oz",
+      "duration": 480,
+      "isrc": "DETO31900005"
+    },
+    {
+      "artist": "8Kays",
+      "title": "Rainbow",
+      "services": {
+        "qobuz": "134807766"
+      },
+      "album": "Rainbow",
+      "duration": 369,
+      "isrc": "DEQ021904766"
+    },
+    {
+      "artist": "CamelPhat",
+      "title": "For a Feeling",
+      "services": {
+        "qobuz": "95713179"
+      },
+      "album": "For a Feeling",
+      "duration": 484,
+      "isrc": "GBARL2000686"
+    },
+    {
+      "artist": "Yotto",
+      "title": "Walls",
+      "services": {
+        "qobuz": "61223610"
+      },
+      "album": "Toolroom Ibiza 2019",
+      "duration": 444,
+      "isrc": "GBEWA1900551"
+    },
+    {
+      "artist": "Stephan Bodzin",
+      "title": "Powers of Ten",
+      "services": {
+        "qobuz": "24194358"
+      },
+      "album": "Powers of Ten",
+      "duration": 479,
+      "isrc": "DET751400084"
+    }
+  ]
+}

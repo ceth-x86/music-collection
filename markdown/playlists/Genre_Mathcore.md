@@ -1,0 +1,107 @@
+# Genre: Mathcore
+
+Imported genre playlist: Mathcore.
+
+Services: `qobuz:66736503` `tidal:bf788fb1-ca68-472b-acd7-a5e31e0ba624`
+
+## Tracks (99)
+
+- **Starkweather** — Murder in Technicolor [Crossbearer / Into the Wire (Reissue)] (5:55) `isrc:USCHW1408305` `qobuz:23908197`
+- **Rorschach** — Traditional [Remain Sedate/Protestant (Remix/Remaster)] (3:14) `isrc:USA371396318` `qobuz:66257242`
+- **Deadguy** — Doom Patrol [Fixation On A Co-Worker] (2:48) `isrc:USVIC9503001` `qobuz:118265390`
+- **Bastille** — Lethargy [Wild World] (3:25) `isrc:GBUM71603414` `qobuz:34668307`
+- **Kiss It Goodbye** — Helvetica [She Loves Me, She Loves Me Not…] (3:59) `isrc:USB4U0400681` `qobuz:139090526`
+- **Coalesce** — Have Patience [Give Them Rope - Reissue] (3:11) `isrc:US2641116001` `qobuz:60619404`
+- **Drowningman** — Busy Signal at the Suicide Hotline [Busy Signal at the Suicide Hotline] (2:19) `isrc:QM6MZ2255842` `qobuz:158076755`
+- **Cave In** — Moral Eclipse [Until Your Heart Stops] (2:05) `isrc:US2642250401` `qobuz:192793079`
+- **Botch** — To Our Friends in the Great White North [To Our Friends in the Great White North] (5:40) `isrc:USA2B2513064` `qobuz:331387004`
+- **The Dillinger Escape Plan** — 43% Burnt [Calculating Infinity] (4:31) `isrc:US2649942702` `qobuz:60616351`
+- **The End** — The Asphyxiation of Lisa-Claire [Transfer Trachea Reverberations From Point: False Omniscient] (4:16) `isrc:US2640357004` `qobuz:60705503`
+- **Converge** — Concubine [Jane Doe] (1:19) `isrc:US3X50406101` `qobuz:77853801`
+- **Candiria** — Paradigm Shift [The Coma Imprint] (4:25) `isrc:USLS50370101` `qobuz:41604839`
+- **Burnt By The Sun** — Dracula With Glasses [Soundtrack to the Personal Revolution] (1:46) `isrc:US2640252001` `qobuz:60615925`
+- **Heaven's Echo** — All Hail The Power Of Jesus' Name [All Hail The Power Of Jesus' Name] (3:27) `isrc:QT6E62623259` `qobuz:427550641`
+- **Every Time I Die** — Ebolarama [Hot Damn!] (2:58) `isrc:US3H40403708` `qobuz:2086585`
+- **Sikth** — Bland Street Bloom [Death of a Dead Day (10th Anniversary Edition)] (5:40) `isrc:GBCQV1600349` `qobuz:51152194`
+- **Psyopus** — Imogen's Puzzle, Pt. 2 [Our Puzzling Encounters Considered] (4:25) `isrc:USMBR0704865` `qobuz:60705916`
+- **Norma Jean** — Memphis Will Be Laid To Waste [Bless The Martyr And Kiss...] (4:55) `isrc:USTN10216721` `qobuz:1008676`
+- **INTO THE MOAT** — Century II [The Design] (1:54) `isrc:USMBR0501793` `qobuz:60768727`
+- **Ion Dissonance** — The Surge [Minus The Herd] (3:20) `isrc:US4E20700544` `qobuz:47672314`
+- **The Human Abstract** — Vela, Together We Await The Storm [Nocturne] (4:36) `isrc:USHR20646004` `qobuz:120901759`
+- **Genghis Tron** — Things Don't Look Good [Board Up the House] (3:35) `isrc:US2640878903` `qobuz:60619060`
+- **Gaza** — The Truth Weighs Nothing [No Absolutes in Human Suffering] (1:43) `isrc:TCABH1271114` `qobuz:128663748`
+- **The Tony Danza Tapdance Extravaganza** — Rudy X 3 [Danza 4: The Alpha- the Omega] (3:21) `isrc:TCABJ1206193` `qobuz:124156435`
+- **The Chariot** — David De La Hoz [Long Live] (4:17) `isrc:USA2U1000103` `qobuz:77300469`
+- **The Number Twelve Looks Like You** — Ease My Siamese [Wild Gods] (4:43) `isrc:QZD4H1900131` `qobuz:63532932`
+- **iwrestledabearonce** — Tastes Like Kevin Bacon [It's All Happening] (3:20) `isrc:US4E40960405` `qobuz:27577378`
+- **Architects** — Early Grave [Hollow Crown] (3:32) `isrc:US4E40851501` `qobuz:27582987`
+- **Heck** — Mope [Instructions] (2:45) `isrc:GB7QY1500397` `qobuz:30679300`
+- **Code Orange** — Forever [Forever] (3:08) `isrc:NLA321600219` `qobuz:35622621`
+- **The Armed** — AN ITERATION [ULTRAPOP] (2:53) `isrc:USA2P1950625` `qobuz:330293018`
+- **Vein.fm** — Virus://Vibrance [Errorzone] (2:24) `isrc:QM4TW1817266` `qobuz:48810638`
+- **Knocked Loose** — Mistakes Like Fractures [A Different Shade of Blue] (3:39) `isrc:USSTT1900018` `qobuz:322146923`
+- **Pupil Slicer** — L'appel Du Vide [Mirrors] (3:36) `isrc:USERN1010362` `qobuz:104949502`
+- **Dire Straits** — Brothers In Arms [Brothers In Arms] (7:00) `isrc:GBUM72102506` `qobuz:120751169`
+- **Black Matter Device** — Hurricane Pornography [Hostile Architecture] (1:16) `isrc:USCGJ1911240` `qobuz:64068589`
+- **Your Spirit Dies** — Night Pierces My Bones [My Gnawing Pains Will Never Rest] (3:35) `isrc:US5ED2406549` `qobuz:315811794`
+- **Car Bomb** — Dissect Yourself [Mordial] (3:03) `isrc:QMAAK1973949` `qobuz:71054009`
+- **South Central** — Crystaling [THE OWL OF MINERVA] (4:28) `isrc:GBVVJ0800005` `qobuz:7660451`
+- **Slone Fussel** — The Rest. so I Got CDBaby, And the Most Songs You Can Do on an Album Is 50. so Here’s a Bunch of Other Ideas I Had That Hopefully Someone Can Use. Look I Know This Is All Garbage, But Like, Anyways-Idk Why I Made This Really. [This Is What I Got. It’s All Public Domain, So, Have at It. I’m Done Tryna Write Some Great Thing. There’s Always Been so Much of My Identity Attached to Music, Which Made a Lot of Ego. at This Point I’m Just Happy to Share My Ideas. a Lot of These Are Un] (38:59) `isrc:USHM92436692` `qobuz:277753780`
+- **Uppermost** — go with the flow (against the current) [eternal love] (3:41) `isrc:FR7JQ2500120` `qobuz:360268336`
+- **FIDLAR** — Max Can't Surf [FIDLAR] (2:39) `isrc:USQE91200265` `qobuz:10873551`
+- **Dead Kiwis** — La Maça [Systematic Home Run] (1:08) `isrc:CH6541894581` `qobuz:58410411`
+- **Employed To Serve** — No One's Perfect, This Includes You [Greyer Than You Remember] (2:57) `isrc:GBMLT1500654` `qobuz:105774674`
+- **Neon Mitsumi** — Jiggle Physics [Jiggle Physics] (3:24) `isrc:QZNWY2562815` `qobuz:335157691`
+- **Fawn Limbs** — Distilled In Observance [Vestigial Spectra] (4:41) `isrc:QZTBA2350549` `qobuz:241128501`
+- **VOCES8 Foundation Choir** — Davis: Lux Aeterna [i carry your heart] (3:53) `isrc:UK4WW1862611` `qobuz:383443189`
+- **Sugar Coast** — Fluorescent Nights [Fluorescent Nights] (2:18) `isrc:SE4RG2301927` `qobuz:232999607`
+- **Moon Duo** — Lost Heads [Stars Are the Light] (6:26) `isrc:US5NR1922805` `qobuz:63157524`
+- **Helpless** — Worth [Debt] (1:31) `isrc:GBMLT1500966` `qobuz:128515067`
+- **Horse Torso** — Actual Stablemates [Wolf Who Cried Boy] (4:52) `isrc:USHM91745597` `qobuz:78025637`
+- **311** — Juan Bond [311] (2:49) `isrc:USVR11500014` `qobuz:319947528`
+- **Pesado** — Alma, Vida Y Corazón (Falsa Ilusión) [Desde La Cantina Vol. II] (3:56) `isrc:USUM71011650` `qobuz:6839424`
+- **The Trials of Cato** — Boudicca C. Ad 60 [Gog Magog] (4:10) `isrc:UKJ2U2200007` `qobuz:190409570`
+- **Sammy Rae & The Friends** — Denim Jacket [Denim Jacket] (4:07) `isrc:TCAEH1986758` `qobuz:140579324`
+- **Otaku** — Guren No Yumiya (Attack On Titan) [Anime Lofi Vol. 1] (1:36) `isrc:FRR642100236` `qobuz:123837926`
+- **Noise Trail Immersion** — Mirroring [Symbology of Shelter] (5:02) `isrc:DEOV41801134` `qobuz:53928888`
+- **Oddism** — Aegroto [Dance in the Maze] (2:48) `isrc:CH6541737158` `qobuz:43649559`
+- **London Philharmonic Orchestra** — No. 22, Bridal March of the Birds [Boult Conducts Parry] (5:23) `isrc:GBAET9229100` `qobuz:305074962`
+- **Good Riddance** — Dry Season [Peace in Our Time] (2:20) `isrc:USFW41594207` `qobuz:347880324`
+- **Will Wood** — I / Me / Myself [The Normal Album] (4:51) `isrc:QZKWA2004475` `qobuz:133038267`
+- **Rolo Tomassi** — Whispers Among Us [Time Will Die and Love Will Bury It] (5:10) `isrc:GBMLT1501077` `qobuz:204497796`
+- **Sectioned** — Toothgrinder [Annihilated] (2:45) `isrc:QZCE61820990` `qobuz:133273288`
+- **Seizures** — In a Valley of Twilit Meres [Reverie of the Revolving Diamond] (5:50) `isrc:USDY42436262` `qobuz:259553116`
+- **The Sound That Ends Creation** — I Hate ICE, I Don't Even Put It In My Water [Boomers, Zoomers, Desperate Coomers] (2:26) `isrc:QZMER2159704` `qobuz:136098604`
+- **Lueur** — Flat Earthers Around the Globe, Unite! [Half of Humanity] (2:18) `isrc:QZWDW2563729` `qobuz:419563216`
+- **Steaksauce Mustache** — Floppy Disk Function [All Juice, No Noise.] (3:27) `isrc:QZDA82218018` `qobuz:149019774`
+- **$uicideboy$** — My Flaws Burn Through My Skin Like Demonic Flames from Hell [I No Longer Fear the Razor Guarding My Heel] (2:47) `isrc:QM8DG1600564` `qobuz:112742650`
+- **The Backing Tracks** — Nothing Else Matters [Play Guitar with the Music of Metallica] (6:18) `isrc:NLG620461596` `qobuz:72505877`
+- **Throes** — Fang [In the Hands of an Angry God] (1:33) `isrc:GBMLT1501370` `qobuz:105774703`
+- **Yowie** — The Reason Your House Is Haunted Can Be Found on This Microfiche [Synchromysticism] (8:12) `isrc:USA2B1701165` `qobuz:73709733`
+- **30 Seconds GO!** — Did You Remember Your Reusable Shopping Bags [A Self Help Guide To Your Nervous Breakdown] (3:25) `isrc:QZMEQ2185066` `qobuz:131622419`
+- **Nigel Hall** — Earth, Wind & Fire [The Burning Bush: A Journey Through the Music of Earth, Wind & Fire] (3:44) `isrc:USA2P2323027` `qobuz:248267581`
+- **Velorah** — Lines We Never Crossed [FAKE FEELINGS, LONG NIGHT] (5:52) `isrc:QT5M52690263` `qobuz:398830404`
+- **Dead Hour Noise** — Arson [Slow Burn] (5:36) `isrc:QZHN92501025` `qobuz:324692235`
+- **Euclid C Finder** — My Glutenous Son, You Need To Get A Job [The Mirror, My Weapon, I Love You] (1:34) `isrc:QZTBA2376724` `qobuz:239679860`
+- **Cigarettes After Sex** — Each Time You Fall in Love [Cigarettes After Sex] (4:50) `isrc:USBQU1700032` `qobuz:47730834`
+- **Freighter** — Stick Around and Do It Right Until You Get It Perfect [The Den] (2:35) `isrc:USL4Q1856212` `qobuz:63416682`
+- **Orelsan** — La terre est ronde [Le Chant des sirènes] (3:39) `isrc:FR6F31101390` `qobuz:311735979`
+- **Moist Briefs** — Low Key [Orbiter] (4:25) `isrc:QMVU42200088` `qobuz:179587653`
+- **Architects** — Seeing Red [The Sky, The Earth & All Between] (3:40) `isrc:USEP42359001` `qobuz:319062958`
+- **Chris Isaak** — Wicked Game [Heart Shaped World] (4:47) `isrc:USRE19900989` `qobuz:122788773`
+- **The Motion Mosaic** — DMT Daydream [Avant-Garbage] (6:26) `isrc:GBWUL2012394` `qobuz:85511585`
+- **Melanie Martinez** — Play Date [Cry Baby] (2:59) `isrc:USAT21502471` `qobuz:27225171`
+- **Pillar of Wasps** — The Pillar [A Collective Hallucination (Instrumental)] (1:45) `isrc:QZFZ72469069` `qobuz:250143755`
+- **Kid Bloom** — I Kissed a Girl, And She Kissed Me [Different State of Mind] (2:35) `isrc:QZ4JJ1629162` `qobuz:186983647`
+- **Catch 22** — Giving Up Giving In [Keasbey Nights] (2:48) `isrc:USVIC9807306` `qobuz:118265523`
+- **Satyr** — Apogee [Locus (Instrumental)] (3:07) `isrc:QMEU32012424` `qobuz:134037678`
+- **Bilmuri** — LIVIN' LAUGHIN' LOVIN' [AMERICAN MOTOR SPORTS (420CC EDITION)] (2:46) `isrc:USQX92405311` `qobuz:294736671`
+- **Prince Daddy & The Hyena** — Hollow, As You Figured [Prince Daddy & The Hyena] (3:40) `isrc:USSTT2200044` `qobuz:141048318`
+- **Adele** — Water Under the Bridge [25] (4:00) `isrc:GBBKS1500219` `qobuz:28014972`
+- **Strange Changes** — Pigeons & Rats [Pigeons & Rats] (5:14) `isrc:USL4Q1940402` `qobuz:79824035`
+- **Guano Apes** — Kiss the Dawn [Walking On A Thin Line] (5:19) `isrc:DEC760200345` `qobuz:262141`
+- **Totally Unicorn** — I'll Be Fine Now [I'll Be Fine Now] (4:26) `isrc:AUVWE1900526` `qobuz:380516431`
+- **Under the Pier** — Four Sided Triangle [Puff Pieces] (2:14) `isrc:USDY42050338` `qobuz:93005867`
+- **Joe Satriani** — Wind in the Trees [Black Swans and Wormhole Wizards] (7:42) `isrc:USSM11003003` `qobuz:2528584`
+- **Kai Schumacher** — A New Error [Beauty In Simplicity] (6:49) `isrc:DES380023288` `qobuz:42679565`
+- **Yellfire** — We're Not Saints [Lara Flynn Boyle] (2:40) `isrc:QZGWW1977014` `qobuz:181246395`

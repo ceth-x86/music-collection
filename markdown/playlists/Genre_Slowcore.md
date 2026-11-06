@@ -1,0 +1,108 @@
+# Genre: Slowcore
+
+Imported genre playlist: Slowcore.
+
+Services: `qobuz:66732958` `tidal:6ad04ea6-fd0a-4203-97a0-bb15fe12dad3`
+
+## Tracks (100)
+
+- **Codeine** — D [Frigid Stars] (4:28) `isrc:USCW61220101` `qobuz:171587520`
+- **Red House Painters** — Katy Song [Red House Painters I] (8:22) `isrc:GBAFL9300050` `qobuz:2339753`
+- **Chokebore** — Nobody [Clusterfuck '94] (2:16) `isrc:US25T9921226` `qobuz:75648923`
+- **Idaho** — Gone [Year After Year] (5:21) `isrc:USCN30700264` `qobuz:94170114`
+- **Seam** — Road to Madrid [The Problem With Me] (5:59) `isrc:USTG39311803` `qobuz:32669823`
+- **Mazzy Star** — Fade Into You [So Tonight That I Might See] (4:55) `isrc:USCA29300105` `qobuz:797846`
+- **American Music Club** — Wish The World Away [San Francisco] (3:11) `isrc:GBAAA9400840` `qobuz:8946049`
+- **Come** — Let's Get Lost [Don't Ask Don't Tell] (7:07) `isrc:GBAZP9400045` `qobuz:194780729`
+- **Ida** — Slow Dance [Tales Of Brave Ida] (4:25) `isrc:USZ960810088` `qobuz:374312386`
+- **Bedhead** — The Rest Of The Day [Beheaded] (6:19) `isrc:USCW61334002` `qobuz:20787049`
+- **Low** — Words [I Could Live In Hope] (5:48) `isrc:USCN39400028` `qobuz:828482`
+- **Lisa Germano** — Cry Wolf [Geek the Girl] (4:59) `isrc:GBAFL9400080` `qobuz:2339685`
+- **rex** — Come Down [Rex] (7:16) `isrc:USCW62294404` `qobuz:178152908`
+- **Karate** — Gasoline [Karate] (4:39) `isrc:USCW62190301` `qobuz:117459898`
+- **Spain** — Spiritual [The Blue Moods Of Spain] (6:36) `isrc:USRY20411133` `qobuz:2810986`
+- **Bluetile Lounge** — The Weight (and the Sea) [Lowercase] (9:29) `isrc:UST8K1420184` `qobuz:392563681`
+- **Stina Nordenstam** — Little Star [And She Closed Her Eyes] (3:39) `isrc:SEPQA0900613` `qobuz:22634904`
+- **Radar Bros.** — Shoveling Sons [The Singing Hatchet] (3:42) `isrc:GBCGR0070004` `qobuz:33608072`
+- **Acetone** — All The Time [Acetone] (3:46) `isrc:USVP19700015` `qobuz:44988266`
+- **The Chamber Strings** — Flashing Star [Gospel Morning] (5:26) `isrc:QM4TX2086373` `qobuz:95708014`
+- **Cat Power** — Metal Heart [Moon Pix] (4:02) `isrc:USMTD9828605` `qobuz:26434289`
+- **Monroe Mustang** — Waking Up [Plain Sweeping Themes For The Unprepared] (2:56) `isrc:US38Y0814101` `qobuz:2968924`
+- **Duster** — Inside Out [Stratosphere] (2:21) `isrc:US68F0505011` `qobuz:50096161`
+- **Arab Strap** — The First Big Weekend [The Week Never Starts Round Here] (4:52) `isrc:GBCGR9640000` `qobuz:3121889`
+- **Slow Runner** — The Sea Is Never Full [No Disassemble (Reassembled)] (4:01) `isrc:TCAHR2346504` `qobuz:245027535`
+- **Benjamin Herman** — Knife In The Water [True Love's Flame] (2:39) `isrc:NLH212200036` `qobuz:178472784`
+- **Sombr** — nothing left to say [nothing left to say] (3:40) `isrc:QM3DF2144887` `qobuz:172233914`
+- **Sigur Rós** — Samskeyti [Hvarf - Heim] (5:22) `isrc:GBKEE0700041` `qobuz:4541249`
+- **Elliott** — Drive On To Me [False Cathedrals] (3:27) `isrc:USB4U0401036` `qobuz:139091456`
+- **Early Day Miners** — Return of the Native [Offshore] (3:39) `isrc:US38W0613504` `qobuz:2967186`
+- **The For Carnation** — Moonbeams [The For Carnation] (9:29) `isrc:USTG30021406` `qobuz:32668778`
+- **The Monkees** — You Just May Be the One [Summer 1967: The Complete U.S. Concert Recordings] (3:25) `isrc:USRH10550388` `qobuz:11677071`
+- **Moji & the Midnight Sons** — Keep My Memory [What I Saw on the Way to Myself] (4:50) `isrc:ISV441624802` `qobuz:83706080`
+- **Hope Sandoval & the Warm Inventions** — Suzanne [Bavarian Fruit Bread] (4:54) `isrc:USA2P1382438` `qobuz:34046839`
+- **Sparklehorse** — Heart Of Darkness [Vivadixiesubmarinetransmissionplot] (1:51) `isrc:USCA29500065` `qobuz:1971059`
+- **The New Year** — The End's Not Near [The End Is Near] (3:44) `isrc:USTG30425601` `qobuz:32633394`
+- **Microphones** — I Want Wind to Blow [The Glow, Pt. 2] (5:32) `isrc:USI4R1130481` `qobuz:39418009`
+- **Pedro The Lion** — The Poison [Achilles' Heel] (3:43) `isrc:USA6M1299511` `qobuz:48831995`
+- **Rivulets** — CUTTER [DEBRIDEMENT DEMOS] (4:12) `isrc:USCGJ2417338` `qobuz:252690350`
+- **Windsor For The Derby** — The Melody of a Fallen Tree [We Fight Til Death] (8:10) `isrc:US38W0410306` `qobuz:2967107`
+- **Carissa's Wierd** — So You Wanna Be A Superhero [Songs About Leaving] (3:39) `isrc:USHF31002203` `qobuz:382211882`
+- **Silver Mt. Zion** — 13 Angels Standing Guard 'Round The Side Of Your Bed [He Has Left Us Alone But Shafts Of Light Sometimes Grace The Corner Of Our Rooms] (7:22) `isrc:CACQ20700905` `qobuz:49816277`
+- **Damien Jurado** — Cloudy Shoes [Saint Bartlett] (4:08) `isrc:US38W1019201` `qobuz:57706617`
+- **Explosions In The Sky** — Your Hand in Mine [The Earth Is Not a Cold Dead Place] (8:17) `isrc:GBBRP0355005` `qobuz:24041135`
+- **Songs: Ohia** — Farewell Transmission [Magnolia Electric Co.] (7:22) `isrc:US38W1330001` `qobuz:57707221`
+- **Sun Kil Moon** — Carry Me Ohio [Ghosts of the Great Highway] (6:21) `isrc:USA2B0738302` `qobuz:122969469`
+- **Death Cab For Cutie** — Transatlanticism [Transatlanticism] (7:55) `isrc:USBS50310285` `qobuz:48689294`
+- **Stars** — Starlight Telescope Tune [Neon Sweetheart Boulevard] (4:36) `isrc:QT6EB2600118` `qobuz:429031627`
+- **The National** — About Today [Cherry Tree] (4:10) `isrc:GBAFL2000327` `qobuz:114600521`
+- **jesu** — Tired Of Me (Deluxe) [jesu (Remaster Deluxe)] (9:29) `isrc:QZHN82201767` `qobuz:156367635`
+- **Eluvium** — Under the Water It Glowed [Lambent Material] (5:09) `isrc:USY6C0705702` `qobuz:20977303`
+- **Barzin** — All the While [To Live Alone in That Long Summer] (3:42) `isrc:GBNTT1300042` `qobuz:15369917`
+- **Iron & Wine** — Naked as We Came [Our Endless Numbered Days] (2:32) `isrc:USSUB0400095` `qobuz:407819034`
+- **Sufjan Stevens** — Casimir Pulaski Day [Illinois] (5:53) `isrc:US64G0501410` `qobuz:20883001`
+- **Centro-Matic** — I, The Kite [Dual Hawks] (3:02) `isrc:GBCEJ0800105` `qobuz:368541935`
+- **This Will Destroy You** — The Mighty Rio Grande [S/T] (11:16) `isrc:US76L0710410` `qobuz:46826305`
+- **The Grand Opening** — Get Out [This Is Nowhere to Be Found] (3:54) `isrc:DEU160600676` `qobuz:49957498`
+- **The Twilight Sad** — That Summer at Home I Had Become the Invisible Boy [That Summer at Home I Had Become the Invisible Boy] (4:48) `isrc:GBGCT0600844` `qobuz:85265202`
+- **Caribou** — Sun [Swim] (5:44) `isrc:DED621000415` `qobuz:243037079`
+- **Bon Iver** — Re: Stacks [For Emma, Forever Ago] (6:41) `isrc:US38Y0811509` `qobuz:20956214`
+- **Mount Eerie** — Voice in Headphones [Lost Wisdom] (2:27) `isrc:USI4R0806561` `qobuz:71601090`
+- **Grouper** — Heavy Water/I'd Rather Be Sleeping [Dragging a Dead Deer Up a Hill] (2:53) `isrc:USI4R1115074` `qobuz:71526553`
+- **Have a Nice Life** — Bloodhail [Deathconsciousness] (5:38) `isrc:USA2Z1410811` `qobuz:52289534`
+- **Balmorhea** — Remembrance [All Is Wild, All Is Silent] (5:49) `isrc:US78L0910014` `qobuz:20751303`
+- **The Antlers** — Kettering [Hospice] (5:11) `isrc:USJMZ0900024` `qobuz:64017178`
+- **Roar** — I Can't Handle Change [I Can't Handle Change] (3:18) `isrc:USHM81020595` `qobuz:292707014`
+- **True Widow** — Night Witches [As High As The Highest Heavens And From The Center To The Circumference Of The Earth] (3:15) `isrc:USKDO1100021` `qobuz:11117252`
+- **Giles Corey** — No One Is Ever Going to Want Me [Giles Corey] (8:06) `isrc:USA2Z1511299` `qobuz:52279798`
+- **Low Roar** — I'll Keep Coming [Zero] (5:52) `isrc:USXLG1400204` `qobuz:24816873`
+- **Cigarettes After Sex** — Nothing's Gonna Hurt You Baby [I.] (4:46) `isrc:TCACJ1593857` `qobuz:113175844`
+- **Lana Del Rey** — Video Games [Born To Die] (4:41) `isrc:GBUM71111621` `qobuz:31887416`
+- **Chromatics** — Shadow [Shadow] (3:44) `isrc:QMMMF1500047` `qobuz:125716980`
+- **Alex G** — Sarah [Trick] (2:56) `isrc:GBJET1400060` `qobuz:163369367`
+- **Current Joys** — New Flesh [Wild Heart] (2:47) `isrc:TCACS1660968` `qobuz:298231155`
+- **Daughter** — Youth [If You Leave] (4:13) `isrc:GBAFL1200314` `qobuz:8019030`
+- **salvia palth** — i was all over her [melanchole] (2:41) `isrc:GBSMU1456120` `qobuz:254653649`
+- **London Grammar** — Strong [If You Wait] (4:35) `isrc:GBCEN1300608` `qobuz:11882610`
+- **Sharon Van Etten** — Seventeen [Remind Me Tomorrow] (4:25) `isrc:US38Y1833106` `qobuz:53965293`
+- **Planning For Burial** — Warmth of You [Below the House] (3:33) `isrc:USA2Z1611575` `qobuz:38677759`
+- **Beach House** — Space Song [Depression Cherry] (5:20) `isrc:USSUB1512203` `qobuz:26651993`
+- **Teen Suicide** — benzo [dc snuff film / waste yrself] (2:33) `isrc:QMCE71300295` `qobuz:83232048`
+- **Cloakroom** — Paperweight [Further Out] (6:49) `isrc:QMCE71300129` `qobuz:83004157`
+- **Horse Jumper of Love** — Ugly Brunette [Horse Jumper of Love] (2:56) `isrc:QMCE71301343` `qobuz:83214655`
+- **Mitski** — I Bet on Losing Dogs [Puberty 2] (2:50) `isrc:USJ5G1612306` `qobuz:30430838`
+- **Angel Olsen** — Sister [My Woman] (7:46) `isrc:US38Y1628407` `qobuz:32736511`
+- **Big Thief** — Paul [Masterpiece] (3:03) `isrc:US2U61623307` `qobuz:212139160`
+- **Bolland , Bolland** — God Won't You Carry Me Home (Empire Of The Sun) [Dream Factory] (4:58) `isrc:DEA622303452` `qobuz:327766804`
+- **Slowdive** — Sugar for the Pill [Slowdive] (4:31) `isrc:USJ5G1713204` `qobuz:41790718`
+- **Phoebe Bridgers** — Funeral [Stranger in the Alps] (3:52) `isrc:USJ5G1714203` `qobuz:42258054`
+- **Julien Baker** — Appointments [Turn Out the Lights] (4:33) `isrc:USMTD1710062` `qobuz:44281744`
+- **Fog Lake** — Novocaine [Dragonchaser] (4:21) `isrc:TCACX1792028` `qobuz:280525996`
+- **Snail Mail** — Pristine [Lush] (4:55) `isrc:USMTD1811091` `qobuz:50230249`
+- **Lucy Dacus** — Night Shift [Historian] (6:31) `isrc:USMTD1810669` `qobuz:47394104`
+- **Faye Webster** — Kingston [Atlanta Millionaires Club] (3:22) `isrc:US38W1837601` `qobuz:59318630`
+- **Caroline Polachek** — Butterfly Net (feat. Weyes Blood) [Desire, I Want To Turn Into You: Everasking Edition] (5:33) `isrc:QM4TW2467782` `qobuz:253677605`
+- **Billie Eilish** — when the party's over [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?] (3:16) `isrc:USUM71815958` `qobuz:77469840`
+- **Crisis** — Diane [Armed To The Teeth / Kick It Out / Unreleased Songs] (4:43) `isrc:USKUT1003902` `qobuz:63271430`
+- **Midwife** — S.W.I.M. [Forever] (6:45) `isrc:USA2Z1901435` `qobuz:84918607`
+- **Adrianne Lenker** — anything [songs] (3:22) `isrc:GBAFL2000252` `qobuz:99278043`
+- **Ethel Cain** — A House In Nebraska [Preacher’s Daughter] (7:46) `isrc:GBKPL2294752` `qobuz:170718376`

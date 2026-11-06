@@ -1,0 +1,108 @@
+# Genre: Britpop
+
+Imported genre playlist: Britpop.
+
+Services: `qobuz:66708544`
+
+## Tracks (100)
+
+- **The La's** — There She Goes [The La's (Deluxe Edition)] (2:42) `isrc:GBAQT8800001` `qobuz:4306679`
+- **The Mock Turtles** — Can You Dig It? [Can You Dig It?: The Best Of The Mock Turtles] (4:10) `isrc:GBAAA9100152` `qobuz:1953392`
+- **Denim** — Back In Denim [Back In Denim] (3:59) `isrc:GBBLY0602605` `qobuz:149960230`
+- **The Lightning Seeds** — The Life of Riley [Sense] (4:05) `isrc:GBAAA9200136` `qobuz:202972707`
+- **Cud** — Rich And Strange [Asquarius - Reissue Expanded] (3:39) `isrc:GBAAM9201060` `qobuz:2420410`
+- **Baha Men** — Who Let The Dogs Out [Who Let The Dogs Out] (3:11) `isrc:USSC90000012` `qobuz:2486659`
+- **Suede** — Animal Nitrate [Suede (25th Anniversary Edition)] (3:27) `isrc:GBL2J1000001` `qobuz:46992833`
+- **James** — Laid [Laid] (2:36) `isrc:GBF089390076` `qobuz:4202099`
+- **The Auteurs** — New French Girlfriend [Now I'm A Cowboy] (4:15) `isrc:GBAAA9400911` `qobuz:8945666`
+- **Oasis** — Live Forever [Definitely Maybe (Deluxe Edition Remastered)] (4:36) `isrc:GBQCP1400055` `qobuz:102751647`
+- **Blur** — Parklife [Parklife] (3:05) `isrc:GBAYE1400786` `qobuz:19201328`
+- **Elastica** — Connection [Elastica] (2:20) `isrc:USIR10001394` `qobuz:54323205`
+- **The Real People** — Feel The Pain [Marshmellow Lane] (2:39) `isrc:GBGXD1200098` `qobuz:50528913`
+- **Inspiral Carpets** — Saturn 5 [The Complete Singles] (3:55) `isrc:GB5KW2300022` `qobuz:387386012`
+- **These Animal Men** — This Is The Sound Of Youth [(Come On, Join) The High Society] (2:38) `isrc:GBAAA9401019` `qobuz:4744985`
+- **Edwyn Collins** — A Girl Like You [Gorgeous George] (3:56) `isrc:GB72T1100001` `qobuz:18943779`
+- **Morrissey** — The More You Ignore Me, the Closer I Get [Vauxhall and I] (3:43) `isrc:GBAYE1400241` `qobuz:16033049`
+- **Terrorvision** — Oblivion [How To Make Friends And Influence People] (3:04) `isrc:GBAYE9400051` `qobuz:4820724`
+- **Out To Dinner** — Sisters Of Mine [Food is Medicine] (4:24) `isrc:QM9Z92200015` `qobuz:169196083`
+- **Shampoo** — Trouble [We Are Shampoo] (3:13) `isrc:GBAYE9400030` `qobuz:4606243`
+- **Barns Courtney** — Machine Gun Sun [Supernatural] (2:53) `isrc:USA2P2443601` `qobuz:276292636`
+- **Pulp** — Common People [Different Class (Deluxe Edition)] (7:37) `isrc:GBAAN0500256` `qobuz:727143`
+- **Supergrass** — Alright [Alright / Time] (3:01) `isrc:GBAYE1500312` `qobuz:385301463`
+- **The Boo Radleys** — Wake up Boo! [Wake Up!] (3:37) `isrc:GBAAW0020002` `qobuz:4919101`
+- **Cast** — Walkaway [All Change] (3:51) `isrc:GBAKW9500504` `qobuz:3885129`
+- **Gene** — Olympian [Olympian] (5:25) `isrc:GBAKW9500376` `qobuz:764243`
+- **Echobelly** — Great Things [On] (3:30) `isrc:GBBBM9500046` `qobuz:13489769`
+- **Sleeper** — Inbetweener [Smart] (3:19) `isrc:GBARL9400279` `qobuz:246491`
+- **Menswear** — Daydreamer [Nuisance] (2:18) `isrc:GBAAP9500344` `qobuz:46123145`
+- **Paul Weller** — The Changingman [Stanley Road] (4:02) `isrc:GBAQT9500058` `qobuz:627488`
+- **McAlmont & Butler** — Yes [The Sound Of McAlmont And Butler] (4:52) `isrc:GB01A0701957` `qobuz:4748882`
+- **Black Grape** — Reverend Black Grape [It's Great When You're Straight... Yeah] (5:13) `isrc:USMC19545355` `qobuz:35887948`
+- **Bennet** — Someone Always Gets There First [Super Natural] (3:00) `isrc:NLA322200018` `qobuz:177940305`
+- **Drugstore** — Fader [Drugstore] (3:56) `isrc:GBBLY2206909` `qobuz:190009739`
+- **Dubstar** — Not so Manic Now [Disgraceful] (4:30) `isrc:GBAYE9500036` `qobuz:4732907`
+- **WhiteOut** — Jackie's Racing [Bite It] (3:17) `isrc:GBAHJ9400034` `qobuz:171284114`
+- **Salad** — Motorbike To Heaven [Motorbike To Heaven] (4:11) `isrc:GBAAN9500005` `qobuz:201881374`
+- **Teenage Fanclub** — Sparky's Dream [Grand Prix] (3:17) `isrc:GBARL1800264` `qobuz:51922048`
+- **Bella and The Final Fifth** — Like A Feather [Like A Feather] (3:53) `isrc:CBEYJ2590795` `qobuz:429074847`
+- **Kayla Brianna** — Perfume In The Wind [Lover Girl] (2:33) `isrc:USUYG1717012` `qobuz:386714999`
+- **Powder** — Afrodisiac [MCMXCV] (4:19) `isrc:GBUM70905540` `qobuz:371172351`
+- **Manic Street Preachers** — A Design for Life [National Treasures - The Complete Singles] (4:17) `isrc:GBARL1100958` `qobuz:4030049`
+- **Ocean Colour Scene** — The Day We Caught The Train [Moseley Shoals] (3:06) `isrc:GBBBY9610057` `qobuz:699745`
+- **Dodgy** — Good Enough [Free Peace Sweet] (4:01) `isrc:GBAAM9601203` `qobuz:13293058`
+- **Kula Shaker** — Tattva [K] (4:20) `isrc:GBARL1100700` `qobuz:216171276`
+- **Shed Seven** — Chasing Rainbows [Let It Ride] (4:25) `isrc:GBAKW9601243` `qobuz:3889844`
+- **The Bluetones** — Slight Return [Expecting To Fly] (3:21) `isrc:GBAAM9600005` `qobuz:771644`
+- **Ash** — Girl from Mars [1977] (3:25) `isrc:GB5KW2202985` `qobuz:375953171`
+- **Space** — Female Of The Species [Spiders] (3:19) `isrc:GBBRL9691749` `qobuz:67784050`
+- **Republica** — Ready to Go [Republica] (5:01) `isrc:GBARL9600018` `qobuz:255234`
+- **Mansun** — Wide Open Space [Attack of the Grey Lantern] (4:30) `isrc:GBCQV1800187` `qobuz:291291087`
+- **Longpigs** — She Said [The Sun Is Often Out] (4:23) `isrc:GBALW9500018` `qobuz:3885240`
+- **The Charlatans** — One to Another [One To Another] (4:30) `isrc:GBAZP9700117` `qobuz:2484437`
+- **The Divine Comedy** — Something for the Weekend [Casanova] (4:19) `isrc:GBNFD2000140` `qobuz:102419408`
+- **Lush** — Ladykillers [Lovelife] (3:14) `isrc:GBAFL2100457` `qobuz:216604822`
+- **Super Furry Animals** — Hermann Loves Pauline [Radiator] (4:44) `isrc:GBAAW9700110` `qobuz:388087166`
+- **Babybird** — You're Gorgeous [You're Gorgeous] (3:42) `isrc:GBBND9700003` `qobuz:385282652`
+- **Heavy Stereo** — Mouse in a Hole [Déjà Voodoo] (4:32) `isrc:GBARL2100008` `qobuz:204040499`
+- **60 Ft Dolls** — Stay [The Big 3 (Expanded Edition)] (3:00) `isrc:GBARL9500371` `qobuz:28467779`
+- **The Football Classics Band** — Eat My Goal [Footie Anthems] (2:52) `isrc:GBCMJ0612721` `qobuz:52505588`
+- **Marion** — Sleep [This World and Body] (3:04) `isrc:GBAAP9500517` `qobuz:46122818`
+- **Billy Thorpe** — You Keep Me Hangin Around [Pick Me Up And Play Me Loud] (4:04) `isrc:AUFE09400020` `qobuz:2898407`
+- **Faber** — Komm her [I fucking love my life] (6:19) `isrc:DEUM71903085` `qobuz:77516368`
+- **Northern Uproar** — From A Window [Northern Uproar] (3:14) `isrc:GBARS9500061` `qobuz:205426990`
+- **Beyoncé** — ALIEN SUPERSTAR [Renaissance] (3:35) `isrc:USSM12206231` `qobuz:162476876`
+- **Led Zeppelin** — Whole Lotta Love [Led Zeppelin II] (5:34) `isrc:USAT21207009` `qobuz:17110879`
+- **Puressence** — This Feeling [Only Forever] (2:59) `isrc:GBAAN9800011` `qobuz:763241`
+- **S*m*a*s*h** — (I Want To) Kill Somebody '14 [Tory Baiting Split Single] (2:51) `isrc:QMDA61468027` `qobuz:73945813`
+- **Shaller** — all I ever wanted [test drive] (2:50) `isrc:QT3F42403861` `qobuz:394513106`
+- **Speedy** — Boy Wonder [News from Nowhere] (3:01) `isrc:GBZ529801010` `qobuz:15680656`
+- **Strangelove** — Is There a Place? [Time For The Rest Of Your Life] (10:57) `isrc:GBAYF9400031` `qobuz:4657486`
+- **Octopus** — Magazine [From A To B] (2:37) `isrc:GBAYE9601444` `qobuz:1954336`
+- **Jack** — Wintercomessummer [Pioneer Soundtracks Expanded Edition] (3:37) `isrc:GBBNZ9600001` `qobuz:2342887`
+- **Iris Jocasta Hubert** — Golden Flame [Closed Door] (2:41) `isrc:QZHZ32638793` `qobuz:415682240`
+- **Svend Christensen** — Rush Hour [Joyride] (2:44) `isrc:QMBZ92517677` `qobuz:339275225`
+- **The Verve** — Bitter Sweet Symphony [Urban Hymns (Super Deluxe Edition)] (5:57) `isrc:GBUM71601816` `qobuz:41419981`
+- **Cornershop** — Brimful of Asha [Brimful of Asha] (4:07) `isrc:GBBKT9700052` `qobuz:2343146`
+- **Reef** — Place Your Hands [Glow] (3:38) `isrc:GBBBL9600127` `qobuz:3396356`
+- **The Seahorses** — Love Is The Law [Love Is The Law] (3:42) `isrc:USGF19713413` `qobuz:62632899`
+- **Embrace** — All You Good Good People [The Good Will Out] (6:05) `isrc:GBAAA9800966` `qobuz:4716189`
+- **Travis** — Good Feeling [Good Feeling] (3:24) `isrc:GBBPF9700032` `qobuz:136739102`
+- **Stereophonics** — Local Boy In The Photograph [Word Gets Around] (3:22) `isrc:GBBLK9700001` `qobuz:879772`
+- **Sophie Zelmani** — Let Me Dream [Lake Geneva] (3:47) `isrc:SE7P42500104` `qobuz:328353478`
+- **Hurricane #1** — Step Into My World [Hurricane #1] (5:01) `isrc:GBBQY0500074` `qobuz:47301348`
+- **Gorky's Zygotic Mynci** — Patio Song [Barafundle] (2:43) `isrc:USMR19686885` `qobuz:768795`
+- **The Supernaturals** — Smile [It Doesn't Matter Anymore (Expanded Edition)] (3:43) `isrc:GBAYE9600110` `qobuz:177379234`
+- **Silver Sun** — Lava [Silver Sun] (2:39) `isrc:GBAKW9601191` `qobuz:264524717`
+- **Kenickie** — Punka [At The Club] (3:05) `isrc:GBAYE9702450` `qobuz:5952044`
+- **Bis** — Kandy Pop [I Love Bis] (2:46) `isrc:UK8RE1500011` `qobuz:237778188`
+- **Symposium** — Farewell to Twilight [One Day at a Time] (3:11) `isrc:GBCEJ2200006` `qobuz:368617949`
+- **TheAudience** — I Got The Wherewithal [Theaudience] (3:47) `isrc:GBF089700647` `qobuz:231839828`
+- **Spacemaid** — Baby Come On [Spacemaid] (3:21) `isrc:SEYOK2501390` `qobuz:312689445`
+- **Subcircus** — 86'd [86'd] (3:45) `isrc:GBBND9600007` `qobuz:374456722`
+- **The Kynd** — World's Finest [Shakedown] (3:50) `isrc:QM6P41487151` `qobuz:70869281`
+- **David Devant and His Spirit Wife** — Ginger [The Lost World Of David Devant & His Spirit Wife] (3:16) `isrc:GBHJV0610015` `qobuz:72944562`
+- **Harvey Twyman** — Catch Some Rays [Bingo Jive] (2:40) `isrc:ATR981208782` `qobuz:93967030`
+- **Rialto** — Untouchable [Britpop and After] (4:14) `isrc:GBAHS9701695` `qobuz:177732590`
+- **Ultrasound** — Stay Young [Everything Picture] (7:02) `isrc:GBBTF9900094` `qobuz:251754737`
+- **The Darkness** — English Country Garden [One Way Ticket to Hell ...And Back] (3:06) `isrc:GBAHS0500468` `qobuz:358690718`
+- **Gay Dad** — To Earth with Love [To Earth with Love] (4:02) `isrc:GBAAP9800056` `qobuz:46122902`

@@ -1,0 +1,460 @@
+{
+  "name": "Genre: Martial Folk",
+  "services": {
+    "qobuz": "66710442",
+    "tidal": "0746aede-25bd-49b2-8220-c7bffe955414"
+  },
+  "description": "Imported genre playlist: Martial Folk.",
+  "tracks": [
+    {
+      "artist": "Death In June",
+      "title": "Kameradschaft",
+      "services": {
+        "qobuz": "175927523"
+      },
+      "album": "Take Care and Control",
+      "duration": 262,
+      "isrc": "USI4R0609180"
+    },
+    {
+      "artist": "Sol Invictus",
+      "title": "Against the Modern World",
+      "services": {
+        "qobuz": "189587146"
+      },
+      "album": "Against the Modern World",
+      "duration": 116,
+      "isrc": "DES561190803"
+    },
+    {
+      "artist": "Changes",
+      "title": "Twilight of the West",
+      "services": {
+        "qobuz": "76256963"
+      },
+      "album": "Orphan In The Storm",
+      "duration": 515,
+      "isrc": "DEKB30810108"
+    },
+    {
+      "artist": "Fire + Ice",
+      "title": "Birdking",
+      "services": {
+        "qobuz": "189662210"
+      },
+      "album": "Birdking",
+      "duration": 318,
+      "isrc": "USHM90794109"
+    },
+    {
+      "artist": "True Red",
+      "title": "The Moon Lay Hidden Beneath a Rhythm",
+      "services": {
+        "qobuz": "343331552"
+      },
+      "album": "The Moon Lay Hidden Beneath a Rhythm",
+      "duration": 160,
+      "isrc": "QZKWA2327269"
+    },
+    {
+      "artist": "Blood Axis",
+      "title": "The Gospel of Inhumanity",
+      "services": {
+        "qobuz": "68116128"
+      },
+      "album": "The Gospel Of Inhumanity",
+      "duration": 373,
+      "isrc": "USHM90767748"
+    },
+    {
+      "artist": "Above The Ruins",
+      "title": "The Killing Zone",
+      "services": {
+        "qobuz": "83733099"
+      },
+      "album": "Songs of the Wolf",
+      "duration": 207,
+      "isrc": "DEPI81905700"
+    },
+    {
+      "artist": "Backworld",
+      "title": "The Devil's Plaything",
+      "services": {
+        "qobuz": "67217602"
+      },
+      "album": "Anthems From The Pleasure Park",
+      "duration": 250,
+      "isrc": "USCGJ0830271"
+    },
+    {
+      "artist": "Der Blutharsch",
+      "title": "Der Sieg des Lichtes ist des Lebens Heil!, Pt. 2",
+      "services": {
+        "qobuz": "101573513"
+      },
+      "album": "Der Sieg des Lichtes ist des Lebens Heil!",
+      "duration": 269,
+      "isrc": "CH6541631482"
+    },
+    {
+      "artist": "Lise Davidsen",
+      "title": "R. Strauss: 8 Lieder aus Letzte Bl\u00e4tter, Op. 10: No. 8, Allerseelen",
+      "services": {
+        "qobuz": "376213785"
+      },
+      "album": "Live at the Met",
+      "duration": 167,
+      "isrc": "USY3P2409159"
+    },
+    {
+      "artist": "Choir of the Church of the Ascension and Saint Agnes",
+      "title": "O Magnum Mysterium - T.L. De Victoria",
+      "services": {
+        "qobuz": "71652414"
+      },
+      "album": "Lo, in the time appointed",
+      "duration": 233,
+      "isrc": "USL4Q0777685"
+    },
+    {
+      "artist": "Ordo Rosarius Equilibrio",
+      "title": "Do Murder and Lust Make Me a Man?",
+      "services": {
+        "qobuz": "134828206"
+      },
+      "album": "Apocalips",
+      "duration": 229,
+      "isrc": "DEBZ71100991"
+    },
+    {
+      "artist": "Scylla",
+      "title": "HAYAWAN",
+      "services": {
+        "qobuz": "382520451"
+      },
+      "album": "HAYAWAN",
+      "duration": 246,
+      "isrc": "FRX852503100"
+    },
+    {
+      "artist": "Hekate",
+      "title": "Sonnentanz",
+      "services": {
+        "qobuz": "189636425"
+      },
+      "album": "Ten Years of Endurance",
+      "duration": 268,
+      "isrc": "DES560390315"
+    },
+    {
+      "artist": "Von Thronstahl",
+      "title": "Berg-Einsamkeit",
+      "services": {
+        "qobuz": "56260246"
+      },
+      "album": "Sacrificare",
+      "duration": 287,
+      "isrc": "GBAS91208212"
+    },
+    {
+      "artist": "Sonne Hagal",
+      "title": "Ragnarok",
+      "services": {
+        "qobuz": "76261627"
+      },
+      "album": "Jordansfrost",
+      "duration": 220,
+      "isrc": "DEKB30810090"
+    },
+    {
+      "artist": "Township Rebellion",
+      "title": "Kristalle",
+      "services": {
+        "qobuz": "34078686"
+      },
+      "album": "Vobia",
+      "duration": 484,
+      "isrc": "USTB11600278"
+    },
+    {
+      "artist": "Of The Wand & The Moon",
+      "title": "Lucifer",
+      "services": {
+        "qobuz": "58081853"
+      },
+      "album": "Lucifer",
+      "duration": 267,
+      "isrc": "USA560880392"
+    },
+    {
+      "artist": "Darkwood",
+      "title": "Wintermarchen",
+      "services": {
+        "qobuz": "76256894"
+      },
+      "album": "Notwendfeuer",
+      "duration": 321,
+      "isrc": "DEKB30810222"
+    },
+    {
+      "artist": "Spiritual Front",
+      "title": "Jesus Died in Las Vegas",
+      "services": {
+        "qobuz": "189592722"
+      },
+      "album": "Armageddon Gigolo",
+      "duration": 321,
+      "isrc": "DES561897906"
+    },
+    {
+      "artist": "ROME",
+      "title": "To Die Among Strangers",
+      "services": {
+        "qobuz": "331743344"
+      },
+      "album": "Flowers from Exile",
+      "duration": 254,
+      "isrc": "DEZ902400195"
+    },
+    {
+      "artist": "Michel B\u00e9roff",
+      "title": "For Children, Sz. 42, Book I \"Hungarian Folk Songs\": No. 6, Study for the Left Hand - No. 7, Play Song & No. 8, Children's Game",
+      "services": {
+        "qobuz": "4689905"
+      },
+      "album": "Bart\u00f3k: Works for Piano",
+      "duration": 144,
+      "isrc": "FRZ119405509"
+    },
+    {
+      "artist": "Sun Kil Moon",
+      "title": "Carry Me Ohio",
+      "services": {
+        "qobuz": "122969469"
+      },
+      "album": "Ghosts of the Great Highway",
+      "duration": 381,
+      "isrc": "USA2B0738302"
+    },
+    {
+      "artist": "The Band",
+      "title": "I Shall Be Released (Finale)",
+      "services": {
+        "qobuz": "11773312"
+      },
+      "album": "The Last Waltz (Deluxe Edition)",
+      "duration": 290,
+      "isrc": "USWB19903721"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "title": "The Zephyr Song",
+      "services": {
+        "qobuz": "24597937"
+      },
+      "album": "By the Way",
+      "duration": 232,
+      "isrc": "USWB11402803"
+    },
+    {
+      "artist": "Iceage",
+      "title": "Tender Blades",
+      "services": {
+        "qobuz": "396981725"
+      },
+      "album": "For Love of Grace & the Hereafter",
+      "duration": 243,
+      "isrc": "QMV8L2336107"
+    },
+    {
+      "artist": "Dragony",
+      "title": "At Daggers Drawn",
+      "services": {
+        "qobuz": "49048145"
+      },
+      "album": "Shadowplay",
+      "duration": 232,
+      "isrc": "DET271515708"
+    },
+    {
+      "artist": "Wet",
+      "title": "It's All in Vain",
+      "services": {
+        "qobuz": "29771030"
+      },
+      "album": "Don't You",
+      "duration": 214,
+      "isrc": "USSM11503546"
+    },
+    {
+      "artist": "At The Gates",
+      "title": "Tomb of Heaven",
+      "services": {
+        "qobuz": "388711299"
+      },
+      "album": "The Ghost of a Future Dead",
+      "duration": 233,
+      "isrc": "GBDHC2555407"
+    },
+    {
+      "artist": "Momenteum Unicore",
+      "title": "Dust and Strings",
+      "services": {
+        "qobuz": "410852904"
+      },
+      "album": "Burn It Down",
+      "duration": 227,
+      "isrc": "GXJBY2686744"
+    },
+    {
+      "artist": "Lullaby Land Consort",
+      "title": "Ninna Nanna del Chico di Caf\u00e8",
+      "services": {
+        "qobuz": "202959499"
+      },
+      "album": "La Ninna Nanna di Brahms La magia delle ninne nanne di Lullaby Land Brani Strumentali sussurrati da Lullaby Land Celestial Sound Series",
+      "duration": 123,
+      "isrc": "NL1TL2301542"
+    },
+    {
+      "artist": "Scarab",
+      "title": "Burnt Offerings",
+      "services": {
+        "qobuz": "14964842"
+      },
+      "album": "Secrets of The Past and Future",
+      "duration": 39,
+      "isrc": "US58D0501904"
+    },
+    {
+      "artist": "Kaori Shimizu",
+      "title": "You See, I am a Violinist (From \"Your Lie in April\u201c)",
+      "services": {
+        "qobuz": "315377296"
+      },
+      "album": "Your Lie in April on Piano",
+      "duration": 84,
+      "isrc": "AUMEV2518429"
+    },
+    {
+      "artist": "Angel Of The Rave",
+      "title": "Into The Haunted Woods",
+      "services": {
+        "qobuz": "350419982"
+      },
+      "album": "Into The Haunted Woods",
+      "duration": 180,
+      "isrc": "QZNMV2547558"
+    },
+    {
+      "artist": "Pearl Bailey",
+      "title": "He May Be Your Man but He Comes to See Me",
+      "services": {
+        "qobuz": "18835811"
+      },
+      "album": "Dansons gaiement, vol. 12",
+      "duration": 129,
+      "isrc": "FRS181430701"
+    },
+    {
+      "artist": "Evelyne Dubourg",
+      "title": "Prelude and Nocturne for the Left Hand, Op.9",
+      "services": {
+        "qobuz": "37654809"
+      },
+      "album": "Classical Brain Power - Over 7 Hours of Music for Concentration, Productive Learning, Studying and Working",
+      "duration": 267,
+      "isrc": "US5541603014"
+    },
+    {
+      "artist": "Audioslave",
+      "title": "Heaven's Dead",
+      "services": {
+        "qobuz": "736065"
+      },
+      "album": "Out of Exile",
+      "duration": 275,
+      "isrc": "USIR10500781"
+    },
+    {
+      "artist": "P!nk",
+      "title": "Just Give Me a Reason",
+      "services": {
+        "qobuz": "6376830"
+      },
+      "album": "The Truth About Love",
+      "duration": 242,
+      "isrc": "USRC11200786"
+    },
+    {
+      "artist": "N\u00f8kken + the Grim",
+      "title": "Beneath the River Lies an Ocean",
+      "services": {
+        "qobuz": "171317163"
+      },
+      "album": "N\u00f8kkens Sang Om Elven",
+      "duration": 411,
+      "isrc": "USHM82237069"
+    },
+    {
+      "artist": "River",
+      "title": "Whispering Blossoms",
+      "services": {
+        "qobuz": "196094681"
+      },
+      "album": "Regeneration",
+      "duration": 359,
+      "isrc": "USCGJ2301787"
+    },
+    {
+      "artist": "Voyvoda",
+      "title": "Karandjule",
+      "services": {
+        "qobuz": "95394652"
+      },
+      "album": "Confessions of a Macedonian Bandit",
+      "duration": 272,
+      "isrc": "CH6542069643"
+    },
+    {
+      "artist": "Halvor Holter",
+      "title": "Life Runs Through Your Veins",
+      "services": {
+        "qobuz": "298458472"
+      },
+      "album": "Next Year",
+      "duration": 238,
+      "isrc": "NOON52401010"
+    },
+    {
+      "artist": "Peace Through Decay",
+      "title": "Herald the Sunset",
+      "services": {
+        "qobuz": "394771943"
+      },
+      "album": "Cazvra // Peace Through Decay",
+      "duration": 271,
+      "isrc": "QZK6F2617657"
+    },
+    {
+      "artist": "Olde World Melodies",
+      "title": "The Last Feast Before Battle",
+      "services": {
+        "qobuz": "346406058"
+      },
+      "album": "Epic Fantasy Tavern Music - Medieval RPG Music for DnD, Roleplay, & Adventure",
+      "duration": 168,
+      "isrc": "QT4K52566934"
+    },
+    {
+      "artist": "Norman Greenbaum",
+      "title": "Spirit In The Sky",
+      "services": {
+        "qobuz": "61515454"
+      },
+      "album": "Spirit In The Sky",
+      "duration": 181,
+      "isrc": "US3M50122916"
+    }
+  ]
+}

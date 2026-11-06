@@ -1,0 +1,108 @@
+# Genre: Soft Rock
+
+Imported genre playlist: Soft Rock.
+
+Services: `qobuz:66737623` `tidal:543ba226-f240-41f4-967c-cbaee50caf00`
+
+## Tracks (100)
+
+- **Bread** — Make It with You [The Best of Bread] (3:12) `isrc:USEE10180854` `qobuz:2943207`
+- **The Carpenters** — (They Long To Be) Close To You [Carpenters With The Royal Philharmonic Orchestra] (3:40) `isrc:USUM71815356` `qobuz:55717620`
+- **Cat Stevens** — Wild World [Tea For The Tillerman] (3:20) `isrc:GBAAN7000041` `qobuz:16214339`
+- **Elton John** — Your Song [Elton John] (4:04) `isrc:GBAMB9500072` `qobuz:28071095`
+- **Gordon Lightfoot** — If You Could Read My Mind [If You Could Read My Mind] (3:49) `isrc:USRE19900467` `qobuz:2728963`
+- **Linda Ronstadt** — Long Long Time [Silk Purse] (4:22) `isrc:USCA27000147` `qobuz:131792575`
+- **America** — A Horse with No Name [America] (4:15) `isrc:USWB11304213` `qobuz:15765443`
+- **Carly Simon** — Anticipation [Anticipation] (3:22) `isrc:USEE11400438` `qobuz:23885388`
+- **Carole King** — It's Too Late [Tapestry] (3:53) `isrc:USSM17100509` `qobuz:12662551`
+- **Harry Nilsson** — Without You [Nilsson Schmilsson] (3:21) `isrc:USRC17101019` `qobuz:44293839`
+- **James Taylor** — You've Got a Friend [Mud Slide Slim And The Blue Horizon] (4:29) `isrc:USWB11304018` `qobuz:14345372`
+- **Jim Croce** — Time in a Bottle [You Don't Mess Around With Jim] (2:28) `isrc:GBAJE7200780` `qobuz:385613744`
+- **Lobo** — I'd Love You to Want Me [Of A Simple Man] (4:07) `isrc:USAT20108558` `qobuz:6287223`
+- **Looking Glass** — Brandy (You're a Fine Girl) [Looking Glass] (3:09) `isrc:USSM10903222` `qobuz:2337929`
+- **Neil Young** — Heart of Gold [Harvest] (3:07) `isrc:USRE11100415` `qobuz:35927312`
+- **Seals & Crofts** — Summer Breeze [Summer Breeze] (3:25) `isrc:USWB19901645` `qobuz:2934389`
+- **Paul McCartney & Wings** — My Love [Red Rose Speedway] (4:08) `isrc:GBCCS1800111` `qobuz:54426518`
+- **Ace** — How Long [How Long Has This Been Going On?] (3:24) `isrc:GBAZJ0600006` `qobuz:385301790`
+- **Dave Loggins** — Please Come to Boston [Wonderful Oldies] (4:07) `isrc:USSM17500571` `qobuz:13082848`
+- **Eagles** — The Best of My Love [On The Border (Hi-Res Version)] (4:34) `isrc:USEE11300174` `qobuz:10474088`
+- **Harry Chapin** — Cat's in the Cradle [The Elektra Collection (1971-1978)] (3:49) `isrc:USRH11502473` `qobuz:27822514`
+- **John Denver** — Annie's Song [Back Home Again] (3:00) `isrc:USRC17403082` `qobuz:60748334`
+- **The Hollies** — The Air That I Breathe [Head out of Dreams (The Complete Hollies August 1973 - May 1988)] (4:13) `isrc:GBGYU0800011` `qobuz:38278837`
+- **10cc** — I'm Not In Love [20th Century Masters: The Millennium Collection: Best Of 10CC] (6:07) `isrc:GBF087500001` `qobuz:21561044`
+- **Eric Carmen** — All By Myself [Eric Carmen] (7:09) `isrc:USAR10400530` `qobuz:42657542`
+- **Orleans** — Dance with Me [Dance With Me: The Best Of Orleans] (3:00) `isrc:USEE10250642` `qobuz:2852557`
+- **Peter Frampton** — Baby, I Love Your Way [Acoustic Classics] (5:08) `isrc:USPK91500007` `qobuz:121540631`
+- **Al Stewart** — Year of the Cat [Year Of The Cat] (6:41) `isrc:USALS0100032` `qobuz:4744380`
+- **Andrew Gold** — Lonely Boy [Thank You for Being a Friend: The Best of Andrew Gold] (4:21) `isrc:USEE10183941` `qobuz:2943712`
+- **Boz Scaggs** — We're All Alone (2023 Remaster) [Silk Degrees] (4:12) `isrc:USSM17500447` `qobuz:218168746`
+- **Burton Cummings** — Stand Tall [Burton Cummings] (4:32) `isrc:USSM10003989` `qobuz:82616`
+- **Chicago** — If You Leave Me Now [X] (3:58) `isrc:USRH11300066` `qobuz:8766738`
+- **Electric Light Orchestra** — Telephone Line [A New World Record] (4:39) `isrc:USSM18600411` `qobuz:28185325`
+- **England Dan & John Ford Coley** — I'd Really Love to See You Tonight [The Complete Albums 1976-1979] (2:39) `isrc:USAT20181306` `qobuz:173743648`
+- **Firefall** — You Are the Woman [Firefall] (2:44) `isrc:USAT20003575` `qobuz:2869323`
+- **Henry Gross** — Shannon [One Hit Wanderer] (3:53) `isrc:QMYAX1100053` `qobuz:77734065`
+- **Starbuck** — Moonlight Feels Right [Moonlight Feels Right] (3:41) `isrc:USS8D7620019` `qobuz:68450985`
+- **Bee Gees** — How Deep Is Your Love [Greatest] (4:04) `isrc:GBAKW7701005` `qobuz:37473580`
+- **Billy Joel** — Just the Way You Are [The Essential Billy Joel] (4:50) `isrc:USSM17700371` `qobuz:11465767`
+- **Bob Welch** — Sentimental Lady [French Kiss] (2:58) `isrc:USCA28900206` `qobuz:1727549`
+- **Fleetwood Mac** — Dreams (2001 Remaster) [Rumours] (4:18) `isrc:USWB10101368` `qobuz:19512574`
+- **Kansas** — Dust in the Wind [Point Of Know Return] (3:26) `isrc:USSM10103196` `qobuz:40542`
+- **Player** — Baby Come Back [Player] (4:15) `isrc:NLF057790013` `qobuz:61018543`
+- **Rod Stewart** — You're in My Heart (The Final Acclaim) [Foot Loose & Fancy Free (Hi-Res Version)] (4:29) `isrc:USWB11301932` `qobuz:11092648`
+- **Stephen Bishop** — On And On [Careless] (3:01) `isrc:USMC17647807` `qobuz:735872`
+- **Supertramp** — Give A Little Bit [Even In The Quietest Moments...] (4:08) `isrc:USAM19500634` `qobuz:112884227`
+- **Ambrosia** — How Much I Feel [Life Beyond L.A.] (4:43) `isrc:USWB17800025` `qobuz:11684614`
+- **Dr. Hook** — Sharing The Night Together [Pleasure & Pain] (2:53) `isrc:USCA28700097` `qobuz:4551963`
+- **Gerry Rafferty** — Baker Street [City to City] (6:06) `isrc:GBAYE7800619` `qobuz:1735054`
+- **Gino Vannelli** — I Just Wanna Stop [Brother To Brother] (3:38) `isrc:USAM19500614` `qobuz:131166889`
+- **Little River Band** — Reminiscing [Sleeper Catcher] (4:17) `isrc:AUEM01000133` `qobuz:178613572`
+- **Michael Johnson** — Bluer Than Blue [Classic Masters] (2:55) `isrc:USEM30100657` `qobuz:4791922`
+- **Nicolette Larson** — Lotta Love [Nicolette (LP Version)] (3:11) `isrc:USWB10100567` `qobuz:2884018`
+- **Pablo Cruise** — Love Will Find A Way [Worlds Away] (4:11) `isrc:USAM10110111` `qobuz:58563990`
+- **Poco** — Heart Of The Night [Legend] (4:53) `isrc:USMC17908377` `qobuz:132401792`
+- **The Doobie Brothers** — What a Fool Believes [Minute by Minute] (3:43) `isrc:USWB10902441` `qobuz:11079833`
+- **Walter Egan** — Magnet and Steel [Magnet and Steel - Single] (3:26) `isrc:GBQRF1338460` `qobuz:67122429`
+- **Christopher Cross** — Sailing [Christopher Cross] (4:16) `isrc:USWB19901344` `qobuz:2932927`
+- **Kenny Loggins** — This Is It [The Essential Kenny Loggins] (3:56) `isrc:USSM10020938` `qobuz:20827801`
+- **Randy Vanwarmer** — Just When I Needed You Most [Just When I Needed You Most] (4:01) `isrc:USRH10722181` `qobuz:174366498`
+- **Styx** — The Best Of Times [Greatest Hits] (4:18) `isrc:USAM18000366` `qobuz:4373308`
+- **Air Supply** — All Out of Love [Lost in Love] (4:03) `isrc:USAR18000002` `qobuz:44395469`
+- **Climax Blues Band** — I Love You [Flying the Flag] (4:05) `isrc:USA371622046` `qobuz:70484094`
+- **Paul Davis** — Cool Night [Cool Night] (3:38) `isrc:USAR18100010` `qobuz:15102136`
+- **REO Speedwagon** — Keep on Loving You [Hi Infidelity (30th Anniversary Edition)] (3:20) `isrc:USSM11102617` `qobuz:62528280`
+- **Robbie Dupree** — Steal Away [Steal Away] (3:17) `isrc:UKDNQ1505641` `qobuz:51933134`
+- **Dan Fogelberg** — Leader of the Band [Love Songs] (4:16) `isrc:USSM18100035` `qobuz:31854003`
+- **Journey** — Open Arms [Greatest Hits] (3:19) `isrc:USSM18100126` `qobuz:378395`
+- **Marty Balin** — Hearts [Balin] (4:17) `isrc:USEM38900287` `qobuz:5318749`
+- **Adrian Gurvitz** — Classic [Classic] (3:41) `isrc:GBAYE8200084` `qobuz:189703628`
+- **Glenn Frey** — The One You Love [Live] (5:15) `isrc:USMC10000963` `qobuz:7583564`
+- **The Alan Parsons Project** — Eye In The Sky [Eye In The Sky] (4:44) `isrc:USAR18200010` `qobuz:38623125`
+- **Toto** — I Won't Hold You Back [Greatest Hits: 40 Trips Around The Sun] (4:52) `isrc:USSM19801934` `qobuz:45077128`
+- **Foreigner** — I Want to Know What Love Is [I Want to Know What Love Is - The Ballads] (4:46) `isrc:USRZR1113634` `qobuz:14083922`
+- **John Waite** — Missing You [No Brakes] (4:29) `isrc:USEM38800236` `qobuz:1744671`
+- **Phil Collins** — Against All Odds (Take a Look at Me Now) [The Singles] (3:26) `isrc:USRH11603367` `qobuz:34601517`
+- **Survivor** — The Search Is Over [The Essential Survivor] (4:12) `isrc:USVR19600004` `qobuz:20191315`
+- **Heart** — These Dreams [Heart] (4:14) `isrc:USCA28500010` `qobuz:40842870`
+- **Mr. Mister** — Broken Wings [Welcome To The Real World] (5:43) `isrc:USRC18404638` `qobuz:13320234`
+- **Starship** — Sara [Knee Deep In The Hoopla] (4:52) `isrc:USRC18507727` `qobuz:57003495`
+- **Boston** — Amanda [Third Stage] (4:16) `isrc:USMC18621437` `qobuz:17337810`
+- **Crowded House** — Don't Dream It's Over [Crowded House] (3:59) `isrc:USCA28600048` `qobuz:34280662`
+- **Peter Cetera** — Glory of Love [Solitude / Solitaire] (4:18) `isrc:USWB10000619` `qobuz:2883904`
+- **The Moody Blues** — Your Wildest Dreams [Nights In White Satin] (4:50) `isrc:GBUM71301092` `qobuz:41004417`
+- **Cheap Trick** — The Flame [Lap Of Luxury] (5:40) `isrc:USSM18700122` `qobuz:5379115`
+- **Mike + The Mechanics** — The Living Years [Out Of The Blue] (5:32) `isrc:GB5KW1900096` `qobuz:245587971`
+- **Bad English** — When I See You Smile [Bad English] (4:17) `isrc:USSM18900345` `qobuz:34672`
+- **Richard Marx** — Right Here Waiting [Repeat Offender] (4:24) `isrc:USEM38900208` `qobuz:4601104`
+- **Extreme** — More Than Words [Extreme II: Pornograffitti] (5:33) `isrc:USAM19090005` `qobuz:21758614`
+- **Bryan Adams** — (Everything I Do) I Do It For You [Waking Up The Neighbours] (6:33) `isrc:USAM19190012` `qobuz:647366`
+- **Genesis** — Hold on My Heart [We Can't Dance] (4:37) `isrc:GBAAA0700776` `qobuz:45098545`
+- **Mr. Big** — To Be With You [Greatest Hits] (3:26) `isrc:USAT20302609` `qobuz:61446317`
+- **Eric Clapton** — Tears in Heaven [Unplugged] (4:40) `isrc:USRE11300314` `qobuz:176716599`
+- **Hootie & The Blowfish** — Let Her Cry [Cracked Rear View] (5:08) `isrc:USRH11901024` `qobuz:61464964`
+- **John Mayer** — Daughters [Heavier Things] (3:59) `isrc:USSM10310154` `qobuz:33318568`
+- **James Blunt** — You're Beautiful [Back to Bedlam] (3:33) `isrc:USAT21303052` `qobuz:36352587`
+- **Coldplay** — Fix You [X&Y] (4:54) `isrc:GBAYE1600179` `qobuz:35541910`
+- **Lifehouse** — You And Me [Lifehouse] (3:15) `isrc:USDW10500001` `qobuz:41004055`
+- **The Fray** — How to Save a Life [How To Save A Life] (4:22) `isrc:USSM10601178` `qobuz:2719602`
+- **Snow Patrol** — Chasing Cars [Eyes Open] (4:27) `isrc:GBUM70600345` `qobuz:731297`

@@ -1,0 +1,560 @@
+{
+  "name": "Genre: Modern Prog Rock",
+  "services": {
+    "qobuz": "66737893",
+    "tidal": "1b3060be-26a7-4aac-8704-cbc90065dffb"
+  },
+  "description": "Modern Progressive Rock is a genre that blends the intricate musicianship, long-form compositions, and conceptual depth of 1970s prog with contemporary production techniques, modern heavy metal elements, and atmospheric textures. It is defined by its refusal to adhere to traditional song structures, prioritizing technical virtuosity, complex time signatures, and immersive, often cinematic, soundscapes.",
+  "tracks": [
+    {
+      "artist": "Mansun",
+      "title": "Six",
+      "services": {
+        "qobuz": "291291192"
+      },
+      "album": "Six",
+      "duration": 486,
+      "isrc": "GBCQV1800592"
+    },
+    {
+      "artist": "Chroma Key",
+      "title": "Colorblind",
+      "services": {
+        "qobuz": "70816997"
+      },
+      "album": "Dead Air for Radios",
+      "duration": 292,
+      "isrc": "USHM90459678"
+    },
+    {
+      "artist": "Oysterhead",
+      "title": "Little Faces",
+      "services": {
+        "qobuz": "2783444"
+      },
+      "album": "The Grand Pecking Order",
+      "duration": 294,
+      "isrc": "USEE10100833"
+    },
+    {
+      "artist": "Dredg",
+      "title": "Same Ol' Road",
+      "services": {
+        "qobuz": "3879154"
+      },
+      "album": "El Cielo",
+      "duration": 314,
+      "isrc": "USIR10211343"
+    },
+    {
+      "artist": "Paatos",
+      "title": "Quits",
+      "services": {
+        "qobuz": "381742789"
+      },
+      "album": "Timeloss",
+      "duration": 743,
+      "isrc": "GBDHC0908105"
+    },
+    {
+      "artist": "Silverchair",
+      "title": "Tuna in the Brine",
+      "services": {
+        "qobuz": "11477421"
+      },
+      "album": "Diorama",
+      "duration": 339,
+      "isrc": "USAT20200743"
+    },
+    {
+      "artist": "Coheed and Cambria",
+      "title": "The Crowing",
+      "services": {
+        "qobuz": "40431692"
+      },
+      "album": "In Keeping Secrets Of Silent Earth: 3",
+      "duration": 396,
+      "isrc": "USSM10406035"
+    },
+    {
+      "artist": "King Crimson",
+      "title": "Level Five",
+      "services": {
+        "qobuz": "135674305"
+      },
+      "album": "USA",
+      "duration": 515,
+      "isrc": "GBCTX2100275"
+    },
+    {
+      "artist": "Mew",
+      "title": "Am I Wry? No",
+      "services": {
+        "qobuz": "47016783"
+      },
+      "album": "Frengers: Not Quite Friends But Not Quite Strangers",
+      "duration": 294,
+      "isrc": "GBBBM0202007"
+    },
+    {
+      "artist": "Oceansize",
+      "title": "Music For A Nurse",
+      "services": {
+        "qobuz": "34266865"
+      },
+      "album": "Everyone Into Position",
+      "duration": 496,
+      "isrc": "GBAZP0500030"
+    },
+    {
+      "artist": "Amplifier",
+      "title": "Motorhead",
+      "services": {
+        "qobuz": "80134633"
+      },
+      "album": "Amplifier",
+      "duration": 375,
+      "isrc": "GB7MC1600201"
+    },
+    {
+      "artist": "The Mars Volta",
+      "title": "Cygnus...Vismund Cygnus",
+      "services": {
+        "qobuz": "2311171"
+      },
+      "album": "Frances the Mute",
+      "duration": 782,
+      "isrc": "USUR10401180"
+    },
+    {
+      "artist": "The Receiving End Of Sirens",
+      "title": "Planning a Prison Break",
+      "services": {
+        "qobuz": "80183096"
+      },
+      "album": "Between the Heart and the Synapse",
+      "duration": 318,
+      "isrc": "US72W0510142"
+    },
+    {
+      "artist": "Pure Reason Revolution",
+      "title": "The Bright Ambassadors of Morning",
+      "services": {
+        "qobuz": "13493411"
+      },
+      "album": "The Dark Third",
+      "duration": 716,
+      "isrc": "GBBBN0401297"
+    },
+    {
+      "artist": "Von Hertzen Brothers",
+      "title": "Kiss a Wish",
+      "services": {
+        "qobuz": "192330071"
+      },
+      "album": "Approach",
+      "duration": 570,
+      "isrc": "FIDYR0600008"
+    },
+    {
+      "artist": "Blackfield",
+      "title": "Once",
+      "services": {
+        "qobuz": "88254104"
+      },
+      "album": "Blackfield II",
+      "duration": 245,
+      "isrc": "GBCQV2000039"
+    },
+    {
+      "artist": "Fair To Midland",
+      "title": "Dance Of The Manatee",
+      "services": {
+        "qobuz": "2450677"
+      },
+      "album": "Fables From a Mayfly: What I Tell You Three Times is True",
+      "duration": 250,
+      "isrc": "USUM70701458"
+    },
+    {
+      "artist": "Gazpacho",
+      "title": "Dream of Stone",
+      "services": {
+        "qobuz": "51222202"
+      },
+      "album": "Night (Remastered Edition)",
+      "duration": 1021,
+      "isrc": "GBCQV1250080"
+    },
+    {
+      "artist": "The Dear Hunter",
+      "title": "The Lake and the River",
+      "services": {
+        "qobuz": "80189182"
+      },
+      "album": "Act II: The Meaning of, And All Things Regarding Ms. Leading",
+      "duration": 586,
+      "isrc": "US72W0710241"
+    },
+    {
+      "artist": "Lunatic Soul",
+      "title": "Shutting out the Sun",
+      "services": {
+        "qobuz": "51226566"
+      },
+      "album": "Walking on a Flashlight Beam",
+      "duration": 519,
+      "isrc": "GBCQV1400315"
+    },
+    {
+      "artist": "The Butterfly Effect",
+      "title": "In These Hands",
+      "services": {
+        "qobuz": "278826253"
+      },
+      "album": "Final Conversation Of Kings",
+      "duration": 229,
+      "isrc": "AURQ00600387"
+    },
+    {
+      "artist": "OSI",
+      "title": "Radiologue",
+      "services": {
+        "qobuz": "158131711"
+      },
+      "album": "Blood",
+      "duration": 367,
+      "isrc": "USMBR2215548"
+    },
+    {
+      "artist": "Karnivool",
+      "title": "Deadman",
+      "services": {
+        "qobuz": "4911655"
+      },
+      "album": "Sound Awake",
+      "duration": 724,
+      "isrc": "AUKA00900010"
+    },
+    {
+      "artist": "Rishloo",
+      "title": "Feathergun in the Garden of the Sun",
+      "services": {
+        "qobuz": "87032626"
+      },
+      "album": "Feathergun",
+      "duration": 317,
+      "isrc": "USHM90998729"
+    },
+    {
+      "artist": "North Atlantic Oscillation",
+      "title": "Drawing Maps from Memory",
+      "services": {
+        "qobuz": "51034497"
+      },
+      "album": "Lightning Strikes the Library",
+      "duration": 226,
+      "isrc": "GBCQV0900704"
+    },
+    {
+      "artist": "Crippled Black Phoenix",
+      "title": "We Forgotten Who We Are",
+      "services": {
+        "qobuz": "285938135"
+      },
+      "album": "The Wolf Changes Its Fur But Not Its Nature",
+      "duration": 677,
+      "isrc": "FR33T2481801"
+    },
+    {
+      "artist": "The Decemberists",
+      "title": "The Wanting Comes in Waves/Repaid",
+      "services": {
+        "qobuz": "2531753"
+      },
+      "album": "The Hazards of Love",
+      "duration": 386,
+      "isrc": "USCA20807547"
+    },
+    {
+      "artist": "Anathema",
+      "title": "Untouchable, Pt. 1",
+      "services": {
+        "qobuz": "52555548"
+      },
+      "album": "Internal Landscapes (Best of 2008-2018)",
+      "duration": 374,
+      "isrc": "GBCQV1200240"
+    },
+    {
+      "artist": "Motorpsycho",
+      "title": "The Magic & The Wonder (A Love Theme)",
+      "services": {
+        "qobuz": "222758986"
+      },
+      "album": "Behind the Sun",
+      "duration": 280,
+      "isrc": "NOFGR1455080"
+    },
+    {
+      "artist": "Syd Arthur",
+      "title": "Hometown Blues",
+      "services": {
+        "qobuz": "16979738"
+      },
+      "album": "Sound Mirror",
+      "duration": 228,
+      "isrc": "USUM71400656"
+    },
+    {
+      "artist": "Closure in Moscow",
+      "title": "Pink Lemonade",
+      "services": {
+        "qobuz": "403625282"
+      },
+      "album": "Pink Lemonade",
+      "duration": 494,
+      "isrc": "AUZH11400067"
+    },
+    {
+      "artist": "Bent Knee",
+      "title": "Leak Water",
+      "services": {
+        "qobuz": "123379625"
+      },
+      "album": "Say So",
+      "duration": 281,
+      "isrc": "QZNWP2150074"
+    },
+    {
+      "artist": "Iamthemorning",
+      "title": "Belighted",
+      "services": {
+        "qobuz": "50995298"
+      },
+      "album": "Lighthouse",
+      "duration": 206,
+      "isrc": "GBCQV1600010"
+    },
+    {
+      "artist": "Tim Bowness",
+      "title": "Stupid Things That Mean the World",
+      "services": {
+        "qobuz": "27811975"
+      },
+      "album": "Stupid Things That Mean the World",
+      "duration": 185,
+      "isrc": "GBDHC1572204"
+    },
+    {
+      "artist": "Agent Fresco",
+      "title": "Dark Water",
+      "services": {
+        "qobuz": "47620347"
+      },
+      "album": "Destrier",
+      "duration": 218,
+      "isrc": "DEA451503740"
+    },
+    {
+      "artist": "Riverside",
+      "title": "Discard Your Fear",
+      "services": {
+        "qobuz": "28657246"
+      },
+      "album": "Love, Fear and the Time Machine",
+      "duration": 403,
+      "isrc": "GBDHC1572607"
+    },
+    {
+      "artist": "Steven Wilson",
+      "title": "Routine",
+      "services": {
+        "qobuz": "51222953"
+      },
+      "album": "Hand Cannot Erase",
+      "duration": 538,
+      "isrc": "GBCQV1400519"
+    },
+    {
+      "artist": "The Dear Hunter",
+      "title": "A Night on the Town",
+      "services": {
+        "qobuz": "25194680"
+      },
+      "album": "Act Iv: Rebirth in Reprise",
+      "duration": 540,
+      "isrc": "ITH711500079"
+    },
+    {
+      "artist": "The Pineapple Thief",
+      "title": "In Exile",
+      "services": {
+        "qobuz": "51162286"
+      },
+      "album": "Your Wilderness",
+      "duration": 310,
+      "isrc": "GBCQV1600292"
+    },
+    {
+      "artist": "King Gizzard & The Lizard Wizard",
+      "title": "Crumbling Castle",
+      "services": {
+        "qobuz": "172464665"
+      },
+      "album": "Polygondwanaland",
+      "duration": 644,
+      "isrc": "AUTZK1700075"
+    },
+    {
+      "artist": "Arcane Roots",
+      "title": "Curtains",
+      "services": {
+        "qobuz": "80065670"
+      },
+      "album": "Melancholia Hymns",
+      "duration": 317,
+      "isrc": "GB7QY1700162"
+    },
+    {
+      "artist": "Major Parkinson",
+      "title": "Blackbox",
+      "services": {
+        "qobuz": "198187675"
+      },
+      "album": "Blackbox",
+      "duration": 348,
+      "isrc": "NO2MD1701100"
+    },
+    {
+      "artist": "H\u00e4llas",
+      "title": "Star Rider",
+      "services": {
+        "qobuz": "339718809"
+      },
+      "album": "Excerpts From a Future Past",
+      "duration": 362,
+      "isrc": "SE3D71702505"
+    },
+    {
+      "artist": "Crown Lands",
+      "title": "End Of The Road",
+      "services": {
+        "qobuz": "99819668"
+      },
+      "album": "Crown Lands",
+      "duration": 267,
+      "isrc": "CAUM72000021"
+    },
+    {
+      "artist": "Phideaux",
+      "title": "Cast out and Cold",
+      "services": {
+        "qobuz": "84366093"
+      },
+      "album": "Infernal",
+      "duration": 332,
+      "isrc": "USHM81890598"
+    },
+    {
+      "artist": "22",
+      "title": "Adam Kadmon Body Mass Index",
+      "services": {
+        "qobuz": "53360589"
+      },
+      "album": "You Are Creating: Limb1",
+      "duration": 252,
+      "isrc": "NOOR81617050"
+    },
+    {
+      "artist": "Thank You Scientist",
+      "title": "FXMLDR",
+      "services": {
+        "qobuz": "156211496"
+      },
+      "album": "Terraformer",
+      "duration": 476,
+      "isrc": "GBKPL1946890"
+    },
+    {
+      "artist": "Klone",
+      "title": "Yonder",
+      "services": {
+        "qobuz": "62696735"
+      },
+      "album": "Le Grand Voyage",
+      "duration": 452,
+      "isrc": "GBCQV1900191"
+    },
+    {
+      "artist": "Vulkan",
+      "title": "This Visual Hex",
+      "services": {
+        "qobuz": "204500146"
+      },
+      "album": "Technatura",
+      "duration": 548,
+      "isrc": "SEYOK2016404"
+    },
+    {
+      "artist": "Meer",
+      "title": "Beehive",
+      "services": {
+        "qobuz": "104995560"
+      },
+      "album": "Playing House",
+      "duration": 277,
+      "isrc": "NOKAR2008020"
+    },
+    {
+      "artist": "Porcupine Tree",
+      "title": "Harridan",
+      "services": {
+        "qobuz": "136560199"
+      },
+      "album": "Closure / Continuation",
+      "duration": 487,
+      "isrc": "GBCKC2100035"
+    },
+    {
+      "artist": "The Mars Volta",
+      "title": "Blacklight Shine",
+      "services": {
+        "qobuz": "167496121"
+      },
+      "album": "The Mars Volta",
+      "duration": 175,
+      "isrc": "DELK22100395"
+    },
+    {
+      "artist": "The Fierce & the Dead",
+      "title": "Photogenic Love",
+      "services": {
+        "qobuz": "222406412"
+      },
+      "album": "News From The Invisible World",
+      "duration": 318,
+      "isrc": "QZPLR2240187"
+    },
+    {
+      "artist": "Elder",
+      "title": "Catastasis",
+      "services": {
+        "qobuz": "315269438"
+      },
+      "album": "Innate Passage",
+      "duration": 650,
+      "isrc": "DEM252204011"
+    },
+    {
+      "artist": "LeSoir",
+      "title": "Babel",
+      "services": {
+        "qobuz": "324458016"
+      },
+      "album": "Babel",
+      "duration": 1220,
+      "isrc": "NLVZ22200013"
+    }
+  ]
+}

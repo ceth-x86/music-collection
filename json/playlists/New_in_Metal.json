@@ -1,0 +1,809 @@
+{
+  "name": "New in Metal",
+  "services": {
+    "qobuz": "5956794"
+  },
+  "description": "Discover our selection of the freshest metal releases. Heavy metal, black metal, death metal, doom metal, power metal or metalcore, explore the genre in all its facets. \nLast updated on 17.7.2026. With Mastodon, Anthrax, Bring Me The Horizon, Accept, Amon Amarth, Bury Tomorrow, Invocation Ritual, Loathe, Motionless In White, Protest The Hero, Haken, Native James, Bad Wolves, Brymir, Boundaries, The Ocean, Ice Nine Kills, Russian Circles, Employed To Serve, No Cure, In This Moment, Amberian Dawn, The Hu, Arion, Siamese, Nothingness, Green Lung, Like Moths To Flames, Monument Of Misanthropy, Fuming Mouth, Astriferous, Kingdom Of Giants, Deadweight, Big Noter, Wailin' Storms, Southpaw FLHC, Zuko, Lumens, Harlott, Dimmu Borgir, Converge, Electric Callboy, Monolord, Five Finger Death Punch, Witch Club Satan, Tarja, DevilDriver...\n\nPhoto: Mastodon \u00a9 William Lacalmontie",
+  "tracks": [
+    {
+      "artist": "Mastodon",
+      "title": "Snakes for Dinner",
+      "services": {
+        "qobuz": "433170364"
+      },
+      "album": "Snakes for Dinner",
+      "duration": 297,
+      "isrc": "USC4R2666716"
+    },
+    {
+      "artist": "Anthrax",
+      "title": "The Edge of Perfection",
+      "services": {
+        "qobuz": "433781077"
+      },
+      "album": "The Edge of Perfection",
+      "duration": 406,
+      "isrc": "USME32600017"
+    },
+    {
+      "artist": "Bring Me The Horizon",
+      "title": "Dehumanized",
+      "services": {
+        "qobuz": "408296056"
+      },
+      "album": "Count Your Blessings | Repented",
+      "duration": 268,
+      "isrc": "GBARL2600453"
+    },
+    {
+      "artist": "Accept",
+      "title": "Balls to the Wall (feat. Rob Halford, Matthias Jabs, Rex Brown, Jason Bowld)",
+      "services": {
+        "qobuz": "423873760"
+      },
+      "album": "Balls to the Wall (feat. Rob Halford, Matthias Jabs, Rex Brown, Jason Bowld)",
+      "duration": 344,
+      "isrc": "ATN262639702"
+    },
+    {
+      "artist": "Amon Amarth",
+      "title": "Upphaf",
+      "services": {
+        "qobuz": "425050282"
+      },
+      "album": "Upphaf",
+      "duration": 272,
+      "isrc": "USMBR2617254"
+    },
+    {
+      "artist": "Bury Tomorrow",
+      "title": "Sx",
+      "services": {
+        "qobuz": "427966429"
+      },
+      "album": "Sx",
+      "duration": 242,
+      "isrc": "QMBZ92636987"
+    },
+    {
+      "artist": "Invocation Ritual",
+      "title": "Threat By Example",
+      "services": {
+        "qobuz": "431350385"
+      },
+      "album": "Threat By Example",
+      "duration": 193,
+      "isrc": "QZPJ32559745"
+    },
+    {
+      "artist": "Loathe",
+      "title": "Fortress Down",
+      "services": {
+        "qobuz": "435964577"
+      },
+      "album": "A Stranger To You",
+      "duration": 205,
+      "isrc": "DED832600137"
+    },
+    {
+      "artist": "Motionless In White",
+      "title": "Fight Like Hell (feat. Outlier) [Bonus Track]",
+      "services": {
+        "qobuz": "435569496"
+      },
+      "album": "Decades",
+      "duration": 189,
+      "isrc": "NLA322600049"
+    },
+    {
+      "artist": "Protest The Hero",
+      "title": "Grandfather's Axe",
+      "services": {
+        "qobuz": "420489446"
+      },
+      "album": "Within",
+      "duration": 309,
+      "isrc": "GBRKQ2612629"
+    },
+    {
+      "artist": "Haken",
+      "title": "lotus",
+      "services": {
+        "qobuz": "426235028"
+      },
+      "album": "in a fever dream - EP",
+      "duration": 442,
+      "isrc": "GBDHC2659505"
+    },
+    {
+      "artist": "Native James",
+      "title": "Never Been Scared",
+      "services": {
+        "qobuz": "436110830"
+      },
+      "album": "Never Been Scared",
+      "duration": 166,
+      "isrc": "DED832600272"
+    },
+    {
+      "artist": "Bad Wolves",
+      "title": "Paint It Red",
+      "services": {
+        "qobuz": "422527394"
+      },
+      "album": "Paint It Red",
+      "duration": 214,
+      "isrc": "USDPK2600039"
+    },
+    {
+      "artist": "Brymir",
+      "title": "What We Leave Behind",
+      "services": {
+        "qobuz": "423653562"
+      },
+      "album": "What We Leave Behind",
+      "duration": 322,
+      "isrc": "ATN262641304"
+    },
+    {
+      "artist": "Boundaries",
+      "title": "Yearning: The unbeautiful after",
+      "services": {
+        "qobuz": "436091452"
+      },
+      "album": "Yearning: The unbeautiful after",
+      "duration": 229,
+      "isrc": "USYFZ2686214"
+    },
+    {
+      "artist": "The Ocean",
+      "title": "Belligerence, Pt. I",
+      "services": {
+        "qobuz": "435462994"
+      },
+      "album": "Belligerence",
+      "duration": 509,
+      "isrc": "QM6P42679682"
+    },
+    {
+      "artist": "Ice Nine Kills",
+      "title": "Play Dead",
+      "services": {
+        "qobuz": "427868983"
+      },
+      "album": "Play Dead",
+      "duration": 234,
+      "isrc": "US5262628285"
+    },
+    {
+      "artist": "Russian Circles",
+      "title": "Empath",
+      "services": {
+        "qobuz": "418657312"
+      },
+      "album": "Empath",
+      "duration": 297,
+      "isrc": "USA2B2601837"
+    },
+    {
+      "artist": "Employed To Serve",
+      "title": "A Moment Gone Too Soon",
+      "services": {
+        "qobuz": "421901960"
+      },
+      "album": "A Moment Gone Too Soon",
+      "duration": 292,
+      "isrc": "FRX202650313"
+    },
+    {
+      "artist": "No Cure",
+      "title": "Brain Matter Displacement",
+      "services": {
+        "qobuz": "420087473"
+      },
+      "album": "It Is Going To Get Dark",
+      "duration": 169,
+      "isrc": "DED832600122"
+    },
+    {
+      "artist": "In This Moment",
+      "title": "Crawl",
+      "services": {
+        "qobuz": "427270839"
+      },
+      "album": "Crawl",
+      "duration": 231,
+      "isrc": "USDPK2600031"
+    },
+    {
+      "artist": "Amberian Dawn",
+      "title": "Moon",
+      "services": {
+        "qobuz": "395206592"
+      },
+      "album": "Temptation's Gates",
+      "duration": 249,
+      "isrc": "ATN262644103"
+    },
+    {
+      "artist": "The Hu",
+      "title": "Grey Hun",
+      "services": {
+        "qobuz": "416164916"
+      },
+      "album": "Grey Hun",
+      "duration": 230,
+      "isrc": "USDPK2500236"
+    },
+    {
+      "artist": "Arion",
+      "title": "Into The Fire",
+      "services": {
+        "qobuz": "421642785"
+      },
+      "album": "Into The Fire",
+      "duration": 236,
+      "isrc": "FIRAN2600002"
+    },
+    {
+      "artist": "Siamese",
+      "title": "reveries feat. Caskets",
+      "services": {
+        "qobuz": "404150547"
+      },
+      "album": "dissolution",
+      "duration": 220,
+      "isrc": "DEA452600330"
+    },
+    {
+      "artist": "Nothingness",
+      "title": "Trenchant Glunch",
+      "services": {
+        "qobuz": "427806248"
+      },
+      "album": "Trenchant Glunch",
+      "duration": 265,
+      "isrc": "USHM92634464"
+    },
+    {
+      "artist": "Green Lung",
+      "title": "Necropolitan Line",
+      "services": {
+        "qobuz": "428342837"
+      },
+      "album": "Necropolitan Line",
+      "duration": 234,
+      "isrc": "DED832600027"
+    },
+    {
+      "artist": "Like Moths To Flames",
+      "title": "How to Be Lonely",
+      "services": {
+        "qobuz": "409798388"
+      },
+      "album": "How to Be Lonely",
+      "duration": 217,
+      "isrc": "AUI442600373"
+    },
+    {
+      "artist": "Monument Of Misanthropy",
+      "title": "Neath Tacoma Asphalt",
+      "services": {
+        "qobuz": "406032283"
+      },
+      "album": "Washington State Charm",
+      "duration": 231,
+      "isrc": "FR1PP2600220"
+    },
+    {
+      "artist": "Fuming Mouth",
+      "title": "Cheat Death",
+      "services": {
+        "qobuz": "420841487"
+      },
+      "album": "Cheat Death",
+      "duration": 142,
+      "isrc": "QZQAY2685910"
+    },
+    {
+      "artist": "Astriferous",
+      "title": "Dissolution of Eternity",
+      "services": {
+        "qobuz": "423375283"
+      },
+      "album": "Atavistic Unraveling",
+      "duration": 263,
+      "isrc": "GBHLW2600996"
+    },
+    {
+      "artist": "Kingdom Of Giants",
+      "title": "Collide",
+      "services": {
+        "qobuz": "343081218"
+      },
+      "album": "Collide",
+      "duration": 208,
+      "isrc": "DED832500162"
+    },
+    {
+      "artist": "Deadweight",
+      "title": "Chronos",
+      "services": {
+        "qobuz": "389674146"
+      },
+      "album": "Chronos",
+      "duration": 181,
+      "isrc": "FR10S2696053"
+    },
+    {
+      "artist": "Big Noter",
+      "title": "F.M.D.",
+      "services": {
+        "qobuz": "425126822"
+      },
+      "album": "SONGS IN THE KEY OF WRESTLING",
+      "duration": 189,
+      "isrc": "GB2DY2605609"
+    },
+    {
+      "artist": "Wailin' Storms",
+      "title": "Dead End",
+      "services": {
+        "qobuz": "404378130"
+      },
+      "album": "Dead End",
+      "duration": 287,
+      "isrc": "FR33T2690901"
+    },
+    {
+      "artist": "Southpaw FLHC",
+      "title": "Nail In The Coffin",
+      "services": {
+        "qobuz": "399097949"
+      },
+      "album": "Nail In The Coffin",
+      "duration": 155,
+      "isrc": "GBPVV2600012"
+    },
+    {
+      "artist": "Zuko",
+      "title": "Primal Rage",
+      "services": {
+        "qobuz": "426727426"
+      },
+      "album": "Primal Rage",
+      "duration": 151,
+      "isrc": "FRX202693100"
+    },
+    {
+      "artist": "Lumens",
+      "title": "CYBER",
+      "services": {
+        "qobuz": "420092961"
+      },
+      "album": "CYBER",
+      "duration": 258,
+      "isrc": "QM7282617667"
+    },
+    {
+      "artist": "Harlott",
+      "title": "Trial by Liar",
+      "services": {
+        "qobuz": "418053921"
+      },
+      "album": "Trial by Liar",
+      "duration": 252,
+      "isrc": "USMBR2617212"
+    },
+    {
+      "artist": "Accept",
+      "title": "Fast as a Shark (feat. Phil Anselmo, Kirk Hammett, Billy Sheehan, Mikkey Dee, Harmoniemusik Hindelang)",
+      "services": {
+        "qobuz": "414648001"
+      },
+      "album": "Fast as a Shark (feat. Phil Anselmo, Kirk Hammett, Billy Sheehan, Mikkey Dee, Harmoniemusik Hindelang)",
+      "duration": 228,
+      "isrc": "ATN262639701"
+    },
+    {
+      "artist": "Dimmu Borgir",
+      "title": "As Seen in the Unseen",
+      "services": {
+        "qobuz": "404235156"
+      },
+      "album": "Grand Serpent Rising",
+      "duration": 419,
+      "isrc": "DED832500453"
+    },
+    {
+      "artist": "Converge",
+      "title": "Slip the Noose",
+      "services": {
+        "qobuz": "398875356"
+      },
+      "album": "Hum of Hurt",
+      "duration": 103,
+      "isrc": "USEP42542011"
+    },
+    {
+      "artist": "Electric Callboy",
+      "title": "Let The Good Times Roll",
+      "services": {
+        "qobuz": "423745876"
+      },
+      "album": "Let The Good Times Roll",
+      "duration": 210,
+      "isrc": "GBDHC2549607"
+    },
+    {
+      "artist": "Mastodon",
+      "title": "Your Ghost Again",
+      "services": {
+        "qobuz": "421519177"
+      },
+      "album": "Your Ghost Again",
+      "duration": 275,
+      "isrc": "USC4R2666715"
+    },
+    {
+      "artist": "Monolord",
+      "title": "Iodine",
+      "services": {
+        "qobuz": "386265182"
+      },
+      "album": "Neverending",
+      "duration": 220,
+      "isrc": "US2642663201"
+    },
+    {
+      "artist": "The Hu",
+      "title": "Lost Soul (feat. Jonny Hawkins of NOTHING MORE)",
+      "services": {
+        "qobuz": "416164430"
+      },
+      "album": "Lost Soul (feat. Jonny Hawkins of NOTHING MORE)",
+      "duration": 263,
+      "isrc": "USDPK2600021"
+    },
+    {
+      "artist": "Five Finger Death Punch",
+      "title": "Eye Of The Storm",
+      "services": {
+        "qobuz": "415160034"
+      },
+      "album": "Eye Of The Storm",
+      "duration": 195,
+      "isrc": "USDPK2600022"
+    },
+    {
+      "artist": "Witch Club Satan",
+      "title": "The Kids Will Kill Us",
+      "services": {
+        "qobuz": "413082019"
+      },
+      "album": "The Kids Will Kill Us",
+      "duration": 225,
+      "isrc": "QM6P42649336"
+    },
+    {
+      "artist": "Tarja",
+      "title": "The Trace Outlives",
+      "services": {
+        "qobuz": "416098560"
+      },
+      "album": "The Trace Outlives",
+      "duration": 300,
+      "isrc": "DEH842600838"
+    },
+    {
+      "artist": "DevilDriver",
+      "title": "Dead in the Water",
+      "services": {
+        "qobuz": "403221817"
+      },
+      "album": "Dead in the Water",
+      "duration": 271,
+      "isrc": "ATN262643302"
+    },
+    {
+      "artist": "Harms",
+      "title": "Serpentine Calling",
+      "services": {
+        "qobuz": "409562039"
+      },
+      "album": "Rebirth of the Cold",
+      "duration": 140,
+      "isrc": "ITY862500309"
+    },
+    {
+      "artist": "Madball",
+      "title": "Rebel Kids",
+      "services": {
+        "qobuz": "417817448"
+      },
+      "album": "Rebel Kids",
+      "duration": 197,
+      "isrc": "DED832500399"
+    },
+    {
+      "artist": "Bloodred Hourglass",
+      "title": "Heartstrings",
+      "services": {
+        "qobuz": "414723470"
+      },
+      "album": "After the Burial",
+      "duration": 301,
+      "isrc": "DEBZ72600125"
+    },
+    {
+      "artist": "Moonspell",
+      "title": "Cross Your Heart",
+      "services": {
+        "qobuz": "394835136"
+      },
+      "album": "Cross Your Heart",
+      "duration": 288,
+      "isrc": "ATN262640501"
+    },
+    {
+      "artist": "Death Angel",
+      "title": "Wasteland",
+      "services": {
+        "qobuz": "421264049"
+      },
+      "album": "The Evil Divide",
+      "duration": 318,
+      "isrc": "DED831600066"
+    },
+    {
+      "artist": "Anthrax",
+      "title": "It's For The Kids",
+      "services": {
+        "qobuz": "418125140"
+      },
+      "album": "It's For The Kids",
+      "duration": 260,
+      "isrc": "USME32600015"
+    },
+    {
+      "artist": "Siamese",
+      "title": "sense",
+      "services": {
+        "qobuz": "404132253"
+      },
+      "album": "sense",
+      "duration": 180,
+      "isrc": "DEA452600260"
+    },
+    {
+      "artist": "Afterlife",
+      "title": "A Thousand Warnings",
+      "services": {
+        "qobuz": "400874063"
+      },
+      "album": "A Thousand Warnings",
+      "duration": 183,
+      "isrc": "NLB932501201"
+    },
+    {
+      "artist": "Iron Reagan",
+      "title": "Make it Ugly",
+      "services": {
+        "qobuz": "421924368"
+      },
+      "album": "DEMONETIZATION",
+      "duration": 161,
+      "isrc": "US2642666703"
+    },
+    {
+      "artist": "Left to Die",
+      "title": "Witch of Hell",
+      "services": {
+        "qobuz": "402594429"
+      },
+      "album": "Witch of Hell",
+      "duration": 166,
+      "isrc": "US2642664005"
+    },
+    {
+      "artist": "THE HARDKISS",
+      "title": "I Love You",
+      "services": {
+        "qobuz": "392785638"
+      },
+      "album": "I Love You",
+      "duration": 215,
+      "isrc": "FR2X42637432"
+    },
+    {
+      "artist": "Moonlight Haze",
+      "title": "Lost in Moonlit Symphonies",
+      "services": {
+        "qobuz": "394157924"
+      },
+      "album": "Interstellar Madness",
+      "duration": 147,
+      "isrc": "ITD292603120"
+    },
+    {
+      "artist": "Out Of Vision",
+      "title": "Fading",
+      "services": {
+        "qobuz": "417585513"
+      },
+      "album": "Fading",
+      "duration": 219,
+      "isrc": "FR96X2689257"
+    },
+    {
+      "artist": "unpeople",
+      "title": "friends",
+      "services": {
+        "qobuz": "424419625"
+      },
+      "album": "friends",
+      "duration": 222,
+      "isrc": "DED832600177"
+    },
+    {
+      "artist": "Employed To Serve",
+      "title": "Dead Reckoning",
+      "services": {
+        "qobuz": "408614349"
+      },
+      "album": "Dead Reckoning",
+      "duration": 253,
+      "isrc": "FR96X2604076"
+    },
+    {
+      "artist": "Nothingness",
+      "title": "Skull Evulsion",
+      "services": {
+        "qobuz": "422509784"
+      },
+      "album": "Skull Evulsion",
+      "duration": 165,
+      "isrc": "USHM82665933"
+    },
+    {
+      "artist": "Warning",
+      "title": "Night Comes Down",
+      "services": {
+        "qobuz": "400266745"
+      },
+      "album": "Night Comes Down",
+      "duration": 468,
+      "isrc": "US2642664903"
+    },
+    {
+      "artist": "Evergrey",
+      "title": "A Burning Flame (feat. Mikael Stanne)",
+      "services": {
+        "qobuz": "394230510"
+      },
+      "album": "Architects Of A New Weave",
+      "duration": 291,
+      "isrc": "ATN262641609"
+    },
+    {
+      "artist": "Green Lung",
+      "title": "Evil in this House",
+      "services": {
+        "qobuz": "417509180"
+      },
+      "album": "Evil in this House",
+      "duration": 261,
+      "isrc": "DED832600028"
+    },
+    {
+      "artist": "Theraphosa",
+      "title": "Pride",
+      "services": {
+        "qobuz": "398205165"
+      },
+      "album": "Purgatorio",
+      "duration": 305,
+      "isrc": "FR9W12606029"
+    },
+    {
+      "artist": "Ocean Sleeper",
+      "title": "Break The Cycle",
+      "services": {
+        "qobuz": "416470388"
+      },
+      "album": "Break The Cycle",
+      "duration": 184,
+      "isrc": "AUOXM2600138"
+    },
+    {
+      "artist": "All My Rage",
+      "title": "Isolated",
+      "services": {
+        "qobuz": "412695209"
+      },
+      "album": "The end of silence",
+      "duration": 163,
+      "isrc": "CAQWN2100028"
+    },
+    {
+      "artist": "Orphan Donor",
+      "title": "Frail Forms",
+      "services": {
+        "qobuz": "412662971"
+      },
+      "album": "Ailments",
+      "duration": 180,
+      "isrc": "QT6632679212"
+    },
+    {
+      "artist": "Lorn",
+      "title": "Searing Blood",
+      "services": {
+        "qobuz": "415827260"
+      },
+      "album": "Searing Blood",
+      "duration": 349,
+      "isrc": "QZPYN2615424"
+    },
+    {
+      "artist": "Ingested",
+      "title": "Merciless Reflection (feat. PeelingFlesh)",
+      "services": {
+        "qobuz": "375341335"
+      },
+      "album": "Denigration",
+      "duration": 193,
+      "isrc": "USMBR2617091"
+    },
+    {
+      "artist": "HRob",
+      "title": "Chr\u00e1m Pr\u00e1zdnoty",
+      "services": {
+        "qobuz": "409110535"
+      },
+      "album": "Br\u00e1na Chladu",
+      "duration": 434,
+      "isrc": "QZTBE2657521"
+    },
+    {
+      "artist": "Dead Tired",
+      "title": "Edge of Entropy",
+      "services": {
+        "qobuz": "413684701"
+      },
+      "album": "Edge of Entropy",
+      "duration": 130,
+      "isrc": "CAQN42500001"
+    },
+    {
+      "artist": "Mulga Bore Hard Rock",
+      "title": "Warna Prut",
+      "services": {
+        "qobuz": "394762933"
+      },
+      "album": "Sweet Home Mulga Bore",
+      "duration": 155,
+      "isrc": "AUI442600074"
+    },
+    {
+      "artist": "In This Moment",
+      "title": "Sleeping With The Enemy",
+      "services": {
+        "qobuz": "420232192"
+      },
+      "album": "Sleeping With The Enemy",
+      "duration": 246,
+      "isrc": "USDPK2600023"
+    },
+    {
+      "artist": "Converge",
+      "title": "Doom in Bloom",
+      "services": {
+        "qobuz": "408244215"
+      },
+      "album": "Doom in Bloom",
+      "duration": 197,
+      "isrc": "USEP42542012"
+    }
+  ]
+}

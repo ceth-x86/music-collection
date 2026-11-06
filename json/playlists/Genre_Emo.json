@@ -1,0 +1,1009 @@
+{
+  "name": "Genre: Emo",
+  "services": {
+    "qobuz": "66736454"
+  },
+  "description": "Imported genre playlist: Emo.",
+  "tracks": [
+    {
+      "artist": "Rites of Spring",
+      "title": "For Want Of",
+      "services": {
+        "qobuz": "159949480"
+      },
+      "album": "Rites of Spring",
+      "duration": 190,
+      "isrc": "US35U0401603"
+    },
+    {
+      "artist": "Gray Matter",
+      "title": "Burn No Bridges",
+      "services": {
+        "qobuz": "154116817"
+      },
+      "album": "Take It Back",
+      "duration": 159,
+      "isrc": "US35U1302102"
+    },
+    {
+      "artist": "Embrace",
+      "title": "Dance Of Days",
+      "services": {
+        "qobuz": "159950226"
+      },
+      "album": "Embrace",
+      "duration": 136,
+      "isrc": "US35U0402402"
+    },
+    {
+      "artist": "The Hated",
+      "title": "These Are The Days",
+      "services": {
+        "qobuz": "169336830"
+      },
+      "album": "Every Song",
+      "duration": 475,
+      "isrc": "USCW62293402"
+    },
+    {
+      "artist": "Jawbreaker",
+      "title": "Boxcar",
+      "services": {
+        "qobuz": "19647996"
+      },
+      "album": "24 Hour Revenge Therapy",
+      "duration": 115,
+      "isrc": "USA6N1410003"
+    },
+    {
+      "artist": "Samiam",
+      "title": "Don't Break Me",
+      "services": {
+        "qobuz": "66079956"
+      },
+      "album": "Billy",
+      "duration": 331,
+      "isrc": "QM6XS1806302"
+    },
+    {
+      "artist": "Moss Icon",
+      "title": "Mirror",
+      "services": {
+        "qobuz": "186374193"
+      },
+      "album": "Lyburnum Wits End Liberation Fly",
+      "duration": 137,
+      "isrc": "USY6C1220101"
+    },
+    {
+      "artist": "Native Nod",
+      "title": "Bread",
+      "services": {
+        "qobuz": "213786377"
+      },
+      "album": "This Can't Exist",
+      "duration": 199,
+      "isrc": "USCW62293901"
+    },
+    {
+      "artist": "Still Life",
+      "title": "Truth",
+      "services": {
+        "qobuz": "74774846"
+      },
+      "album": "From Angry Heads With Skyward Eyes",
+      "duration": 337,
+      "isrc": "US9FR1010057"
+    },
+    {
+      "artist": "Sunny Day Real Estate",
+      "title": "Seven",
+      "services": {
+        "qobuz": "407819333"
+      },
+      "album": "Diary",
+      "duration": 286,
+      "isrc": "USSUB0984601"
+    },
+    {
+      "artist": "Cap'n Jazz",
+      "title": "Little League",
+      "services": {
+        "qobuz": "77631048"
+      },
+      "album": "Analphabetapolothology",
+      "duration": 236,
+      "isrc": "USA6M0403601"
+    },
+    {
+      "artist": "Boys Life",
+      "title": "Fire Engine Red",
+      "services": {
+        "qobuz": "189418705"
+      },
+      "album": "Departures and Landfalls",
+      "duration": 199,
+      "isrc": "GBMJG1509781"
+    },
+    {
+      "artist": "Christie Front Drive",
+      "title": "Saturday",
+      "services": {
+        "qobuz": "46888285"
+      },
+      "album": "Stereo",
+      "duration": 395,
+      "isrc": "USBNA0500032"
+    },
+    {
+      "artist": "Sense Field",
+      "title": "Save Yourself",
+      "services": {
+        "qobuz": "154863175"
+      },
+      "album": "Tonight And Forever",
+      "duration": 198,
+      "isrc": "CAN110100142"
+    },
+    {
+      "artist": "Texas Is The Reason",
+      "title": "Back And To The Left",
+      "services": {
+        "qobuz": "139038090"
+      },
+      "album": "Do You Know Who You Are?: The Complete Collection",
+      "duration": 235,
+      "isrc": "USB4U1315107"
+    },
+    {
+      "artist": "Mineral",
+      "title": "Gloria",
+      "services": {
+        "qobuz": "372512708"
+      },
+      "album": "The Power Of Failing",
+      "duration": 224,
+      "isrc": "USA771400059"
+    },
+    {
+      "artist": "The Promise Ring",
+      "title": "Red & Blue Jeans",
+      "services": {
+        "qobuz": "29386699"
+      },
+      "album": "Nothing Feels Good",
+      "duration": 175,
+      "isrc": "USA6M1503503"
+    },
+    {
+      "artist": "The Van Pelt",
+      "title": "His Steppe Is My Prarie",
+      "services": {
+        "qobuz": "69844094"
+      },
+      "album": "Stealing from Our Favorite Thieves",
+      "duration": 217,
+      "isrc": "ES71C1704901"
+    },
+    {
+      "artist": "Braid",
+      "title": "A Dozen Roses",
+      "services": {
+        "qobuz": "181984403"
+      },
+      "album": "Frame & Canvas",
+      "duration": 255,
+      "isrc": "US3R49800007"
+    },
+    {
+      "artist": "Chamberlain",
+      "title": "Her Side of Sundown",
+      "services": {
+        "qobuz": "175930525"
+      },
+      "album": "Fate's Got a Driver",
+      "duration": 160,
+      "isrc": "US4K30400001"
+    },
+    {
+      "artist": "Jej\u00fcne",
+      "title": "Regrets Are Unanswered Dreams",
+      "services": {
+        "qobuz": "353450174"
+      },
+      "album": "This Afternoons Malady",
+      "duration": 321,
+      "isrc": "USCW62535108"
+    },
+    {
+      "artist": "Jets To Brazil",
+      "title": "Chinatown",
+      "services": {
+        "qobuz": "77630615"
+      },
+      "album": "Orange Rhyming Dictionary",
+      "duration": 335,
+      "isrc": "USA6M0403805"
+    },
+    {
+      "artist": "knapsack",
+      "title": "Courage Was Confused",
+      "services": {
+        "qobuz": "72717215"
+      },
+      "album": "Day Three of My New Life",
+      "duration": 231,
+      "isrc": "USGKX9809502"
+    },
+    {
+      "artist": "The Appleseed Cast",
+      "title": "Fishing The Sky",
+      "services": {
+        "qobuz": "3896194"
+      },
+      "album": "Mare Vitalis",
+      "duration": 238,
+      "isrc": "US4KH0438602"
+    },
+    {
+      "artist": "American Football",
+      "title": "Never Meant",
+      "services": {
+        "qobuz": "3120789"
+      },
+      "album": "American Football",
+      "duration": 267,
+      "isrc": "US3R49902501"
+    },
+    {
+      "artist": "Jimmy Eat World",
+      "title": "For Me This Is Heaven",
+      "services": {
+        "qobuz": "843958"
+      },
+      "album": "Clarity",
+      "duration": 246,
+      "isrc": "USCA29800958"
+    },
+    {
+      "artist": "One Last Wish",
+      "title": "My Better Half",
+      "services": {
+        "qobuz": "159951253"
+      },
+      "album": "1986",
+      "duration": 116,
+      "isrc": "US35U0411805"
+    },
+    {
+      "artist": "\u00d6sterreich",
+      "title": "I'll take you everywhere",
+      "services": {
+        "qobuz": "295209715"
+      },
+      "album": "sisi",
+      "duration": 262,
+      "isrc": "JPC622000503"
+    },
+    {
+      "artist": "Piebald",
+      "title": "American Hearts",
+      "services": {
+        "qobuz": "296895428"
+      },
+      "album": "We Are The Only Friends We Have",
+      "duration": 189,
+      "isrc": "US3E40600382"
+    },
+    {
+      "artist": "Rainer Maria",
+      "title": "Breakfast of Champions",
+      "services": {
+        "qobuz": "181996982"
+      },
+      "album": "Look Now Look Again",
+      "duration": 217,
+      "isrc": "US3R49900005"
+    },
+    {
+      "artist": "Grouper",
+      "title": "Fishing Bird (Empty Gutted in the Evening Breeze)",
+      "services": {
+        "qobuz": "71526557"
+      },
+      "album": "Dragging a Dead Deer Up a Hill",
+      "duration": 231,
+      "isrc": "USI4R1115078"
+    },
+    {
+      "artist": "The Get Up Kids",
+      "title": "Holiday",
+      "services": {
+        "qobuz": "272566239"
+      },
+      "album": "Something to Write Home About",
+      "duration": 209,
+      "isrc": "US3R42449701"
+    },
+    {
+      "artist": "The Juliana Theory",
+      "title": "Into The Dark",
+      "services": {
+        "qobuz": "1950833"
+      },
+      "album": "Emotion Is Dead",
+      "duration": 243,
+      "isrc": "USTN10049315"
+    },
+    {
+      "artist": "Elliott",
+      "title": "Drive On To Me",
+      "services": {
+        "qobuz": "139091456"
+      },
+      "album": "False Cathedrals",
+      "duration": 207,
+      "isrc": "USB4U0401036"
+    },
+    {
+      "artist": "Hey Mercedes",
+      "title": "Quality Revenge At Last",
+      "services": {
+        "qobuz": "385575230"
+      },
+      "album": "Loses Control",
+      "duration": 208,
+      "isrc": "USVR90238901"
+    },
+    {
+      "artist": "Sunday's Best",
+      "title": "The Hardest Part",
+      "services": {
+        "qobuz": "181981324"
+      },
+      "album": "Poised to Break",
+      "duration": 211,
+      "isrc": "US3R40000059"
+    },
+    {
+      "artist": "The Anniversary",
+      "title": "The D In Detroit",
+      "services": {
+        "qobuz": "385636315"
+      },
+      "album": "Designing a Nervous Breakdown",
+      "duration": 256,
+      "isrc": "USVR90234204"
+    },
+    {
+      "artist": "The Jazz June",
+      "title": "The Medicine",
+      "services": {
+        "qobuz": "74813029"
+      },
+      "album": "The Medicine",
+      "duration": 308,
+      "isrc": "USEZ61400099"
+    },
+    {
+      "artist": "Benton Falls",
+      "title": "Sad Like Winter Leaves",
+      "services": {
+        "qobuz": "3896602"
+      },
+      "album": "Fighting Starlight",
+      "duration": 339,
+      "isrc": "US4KH0439904"
+    },
+    {
+      "artist": "Brand New",
+      "title": "Jude Law And A Semester Abroad",
+      "services": {
+        "qobuz": "54685832"
+      },
+      "album": "Your Favorite Weapon",
+      "duration": 222,
+      "isrc": "USRZR1132602"
+    },
+    {
+      "artist": "Dashboard Confessional",
+      "title": "Screaming Infidelities",
+      "services": {
+        "qobuz": "170678260"
+      },
+      "album": "The Places You Have Come to Fear the Most",
+      "duration": 226,
+      "isrc": "USVR90235402"
+    },
+    {
+      "artist": "Further Seems Forever",
+      "title": "The Moon Is Down",
+      "services": {
+        "qobuz": "931200"
+      },
+      "album": "The Moon Is Down",
+      "duration": 192,
+      "isrc": "USTN10018801"
+    },
+    {
+      "artist": "Moneen",
+      "title": "Are We Really Happy With Who We Are Right Now?",
+      "services": {
+        "qobuz": "388087028"
+      },
+      "album": "Are We Really Happy With Who We Are Right Now?",
+      "duration": 224,
+      "isrc": "USVR90238201"
+    },
+    {
+      "artist": "The Holophonics",
+      "title": "At Your Funeral",
+      "services": {
+        "qobuz": "91616152"
+      },
+      "album": "Maskarades, Vol. 5: Saves the Day (Stay What You Are)",
+      "duration": 175,
+      "isrc": "USCGJ1445947"
+    },
+    {
+      "artist": "Thursday",
+      "title": "Understanding In A Car Crash",
+      "services": {
+        "qobuz": "121964722"
+      },
+      "album": "Full Collapse",
+      "duration": 262,
+      "isrc": "USVIC0114502"
+    },
+    {
+      "artist": "Hot Rod Circuit",
+      "title": "The Pharmacist",
+      "services": {
+        "qobuz": "391964851"
+      },
+      "album": "Sorry About Tomorrow",
+      "duration": 157,
+      "isrc": "USVR90236401"
+    },
+    {
+      "artist": "Northstar",
+      "title": "Pollyanna",
+      "services": {
+        "qobuz": "80178300"
+      },
+      "album": "Pollyanna",
+      "duration": 248,
+      "isrc": "US72W0510033"
+    },
+    {
+      "artist": "Something Corporate",
+      "title": "If You C Jordan",
+      "services": {
+        "qobuz": "3877600"
+      },
+      "album": "Leaving Through The Window",
+      "duration": 255,
+      "isrc": "USMC10200485"
+    },
+    {
+      "artist": "Taking Back Sunday",
+      "title": "Cute Without The 'E' (Cut From The Team)",
+      "services": {
+        "qobuz": "74897716"
+      },
+      "album": "Tell All Your Friends",
+      "duration": 212,
+      "isrc": "USC4R1901592"
+    },
+    {
+      "artist": "The Gloria Record",
+      "title": "A Lull in Traffic",
+      "services": {
+        "qobuz": "94507596"
+      },
+      "album": "A Lull in Traffic - 20th Anniversary Edition",
+      "duration": 245,
+      "isrc": "QM6N22044187"
+    },
+    {
+      "artist": "Time Spent Driving",
+      "title": "Rain on Sundays",
+      "services": {
+        "qobuz": "93899346"
+      },
+      "album": "Just Enough Bright",
+      "duration": 283,
+      "isrc": "USCGH0769017"
+    },
+    {
+      "artist": "Copeland",
+      "title": "No One Really Wins",
+      "services": {
+        "qobuz": "171169038"
+      },
+      "album": "Revolving Doors",
+      "duration": 233,
+      "isrc": "TLREW2221036"
+    },
+    {
+      "artist": "Cursive",
+      "title": "The Recluse",
+      "services": {
+        "qobuz": "154817133"
+      },
+      "album": "The Ugly Organ",
+      "duration": 183,
+      "isrc": "US2U60405104"
+    },
+    {
+      "artist": "Funeral For A Friend",
+      "title": "Juneau",
+      "services": {
+        "qobuz": "2682297"
+      },
+      "album": "Casually Dressed And Deep In Conversation",
+      "duration": 216,
+      "isrc": "GBAHS0300626"
+    },
+    {
+      "artist": "The Early November",
+      "title": "Ever So Sweet",
+      "services": {
+        "qobuz": "134270127"
+      },
+      "album": "The Room's Too Cold",
+      "duration": 259,
+      "isrc": "USDTR0300081"
+    },
+    {
+      "artist": "The Jealous Sound",
+      "title": "Hope For Us",
+      "services": {
+        "qobuz": "376998464"
+      },
+      "album": "Kill Them With Kindness",
+      "duration": 250,
+      "isrc": "USEK71319301"
+    },
+    {
+      "artist": "My Chemical Romance",
+      "title": "I'm Not Okay (I Promise)",
+      "services": {
+        "qobuz": "329062179"
+      },
+      "album": "I'm Not Okay (I Promise)",
+      "duration": 199,
+      "isrc": "GBCAD2402004"
+    },
+    {
+      "artist": "SAY ANYTHING",
+      "title": "Wow, I Can Get Sexual Too",
+      "services": {
+        "qobuz": "168834683"
+      },
+      "album": "Is a Real Boy",
+      "duration": 179,
+      "isrc": "USJAY0500670"
+    },
+    {
+      "artist": "Straylight Run",
+      "title": "Existentialism On Prom Night",
+      "services": {
+        "qobuz": "118265733"
+      },
+      "album": "Straylight Run",
+      "duration": 241,
+      "isrc": "USVIC0422903"
+    },
+    {
+      "artist": "Acceptance",
+      "title": "Permanent",
+      "services": {
+        "qobuz": "131269"
+      },
+      "album": "Phantoms",
+      "duration": 201,
+      "isrc": "USSM10415706"
+    },
+    {
+      "artist": "Armor For Sleep",
+      "title": "Car Underwater",
+      "services": {
+        "qobuz": "77854720"
+      },
+      "album": "What To Do When You Are Dead",
+      "duration": 228,
+      "isrc": "US3X50510401"
+    },
+    {
+      "artist": "Bayside",
+      "title": "Devotion And Desire",
+      "services": {
+        "qobuz": "42521312"
+      },
+      "album": "Bayside",
+      "duration": 210,
+      "isrc": "USVIC0525802"
+    },
+    {
+      "artist": "Mae",
+      "title": "The Ocean",
+      "services": {
+        "qobuz": "4461992"
+      },
+      "album": "The Everglow",
+      "duration": 281,
+      "isrc": "USTN10500030"
+    },
+    {
+      "artist": "The Receiving End Of Sirens",
+      "title": "Planning a Prison Break",
+      "services": {
+        "qobuz": "80183096"
+      },
+      "album": "Between the Heart and the Synapse",
+      "duration": 318,
+      "isrc": "US72W0510142"
+    },
+    {
+      "artist": "The Spill Canvas",
+      "title": "All over You",
+      "services": {
+        "qobuz": "2846414"
+      },
+      "album": "Honestly, I'm Doing Okay",
+      "duration": 186,
+      "isrc": "USWB10801014"
+    },
+    {
+      "artist": "Tigers Jaw",
+      "title": "I Saw Water",
+      "services": {
+        "qobuz": "133526380"
+      },
+      "album": "Tigers Jaw",
+      "duration": 256,
+      "isrc": "USQU71002303"
+    },
+    {
+      "artist": "Empire! Empire! (I Was A Lonely Estate)",
+      "title": "How to Make Love Stay",
+      "services": {
+        "qobuz": "83360325"
+      },
+      "album": "What It Takes To Move Forward",
+      "duration": 264,
+      "isrc": "QMQRB1500013"
+    },
+    {
+      "artist": "Fruitfly",
+      "title": "Pile! No Pile! Pile!",
+      "services": {
+        "qobuz": "143896109"
+      },
+      "album": "Pile! No Pile! Pile!",
+      "duration": 362,
+      "isrc": "QZFYZ2249314"
+    },
+    {
+      "artist": "Balance and Composure",
+      "title": "Reflection",
+      "services": {
+        "qobuz": "299245853"
+      },
+      "album": "The Things We Think We're Missing",
+      "duration": 248,
+      "isrc": "USZZ81310106"
+    },
+    {
+      "artist": "Into It. Over It.",
+      "title": "No Eq",
+      "services": {
+        "qobuz": "80183231"
+      },
+      "album": "Standards",
+      "duration": 245,
+      "isrc": "US72W1511381"
+    },
+    {
+      "artist": "Joyce Manor",
+      "title": "Constant Headache",
+      "services": {
+        "qobuz": "264510218"
+      },
+      "album": "S/T",
+      "duration": 184,
+      "isrc": "USV351339189"
+    },
+    {
+      "artist": "La Dispute",
+      "title": "King Park",
+      "services": {
+        "qobuz": "201534736"
+      },
+      "album": "Wildlife",
+      "duration": 414,
+      "isrc": "USZZ81110111"
+    },
+    {
+      "artist": "Snowing",
+      "title": "So I Shotgunned A Beer And Went To Bed",
+      "services": {
+        "qobuz": "89554893"
+      },
+      "album": "I Could Do Whatever I Wanted If I Wanted",
+      "duration": 254,
+      "isrc": "TCAAW1114887"
+    },
+    {
+      "artist": "Algernon Cadwallader",
+      "title": "Spit Fountain",
+      "services": {
+        "qobuz": "192911240"
+      },
+      "album": "Algernon Cadwallader",
+      "duration": 135,
+      "isrc": "TCADY1841743"
+    },
+    {
+      "artist": "Sonny Rollins",
+      "title": "How Are Things In Glocca Morra?",
+      "services": {
+        "qobuz": "15435900"
+      },
+      "album": "Sonny Rollins Vol. 1",
+      "duration": 378,
+      "isrc": "USBN29900133"
+    },
+    {
+      "artist": "Leslie Grace",
+      "title": "Breathe (feat. Rub\u00e9n Blades and Doreen Montalvo)",
+      "services": {
+        "qobuz": "123368763"
+      },
+      "album": "In The Heights (Original Motion Picture Soundtrack)",
+      "duration": 246,
+      "isrc": "USAT22100939"
+    },
+    {
+      "artist": "You Blew It!",
+      "title": "The Fifties",
+      "services": {
+        "qobuz": "48679726"
+      },
+      "album": "Grow Up, Dude",
+      "duration": 138,
+      "isrc": "USEZ61200018"
+    },
+    {
+      "artist": "Citizen",
+      "title": "The Night I Drove Alone",
+      "services": {
+        "qobuz": "83003903"
+      },
+      "album": "Youth",
+      "duration": 133,
+      "isrc": "USQU71308806"
+    },
+    {
+      "artist": "Cstvt",
+      "title": "Between Berwyn and Bryn Mawr",
+      "services": {
+        "qobuz": "83359913"
+      },
+      "album": "Summer Fences",
+      "duration": 329,
+      "isrc": "USTC90905760"
+    },
+    {
+      "artist": "Dowsing",
+      "title": "Blank Forever",
+      "services": {
+        "qobuz": "265201337"
+      },
+      "album": "Sky Coffin",
+      "duration": 163,
+      "isrc": "QM7281940719"
+    },
+    {
+      "artist": "Foxing",
+      "title": "The Medic",
+      "services": {
+        "qobuz": "80188874"
+      },
+      "album": "The Albatross",
+      "duration": 202,
+      "isrc": "US72W1311182"
+    },
+    {
+      "artist": "Marietta",
+      "title": "Cinco De Mayo Shit Show",
+      "services": {
+        "qobuz": "82944721"
+      },
+      "album": "Summer Death",
+      "duration": 271,
+      "isrc": "USHM91390027"
+    },
+    {
+      "artist": "Pity Sex",
+      "title": "Wind-Up",
+      "services": {
+        "qobuz": "83174676"
+      },
+      "album": "Feast Of Love",
+      "duration": 173,
+      "isrc": "USQU71309001"
+    },
+    {
+      "artist": "The World Is A Beautiful Place & I Am No Longer Afraid To Die",
+      "title": "Getting Sodas",
+      "services": {
+        "qobuz": "65041973"
+      },
+      "album": "Whenever, If Ever",
+      "duration": 420,
+      "isrc": "USEZ61300055"
+    },
+    {
+      "artist": "Turnover",
+      "title": "Most Of The Time",
+      "services": {
+        "qobuz": "83174693"
+      },
+      "album": "Magnolia",
+      "duration": 275,
+      "isrc": "USQU71307702"
+    },
+    {
+      "artist": "Modern Baseball",
+      "title": "Your Graduation",
+      "services": {
+        "qobuz": "85227170"
+      },
+      "album": "You're Gonna Miss It All",
+      "duration": 163,
+      "isrc": "QMCE71300069"
+    },
+    {
+      "artist": "The Hotelier",
+      "title": "Your Deep Rest",
+      "services": {
+        "qobuz": "117797347"
+      },
+      "album": "Home, Like Noplace Is There",
+      "duration": 227,
+      "isrc": "US4KC1176304"
+    },
+    {
+      "artist": "Tiny Moving Parts",
+      "title": "Always Focused",
+      "services": {
+        "qobuz": "80179789"
+      },
+      "album": "Pleasant Living",
+      "duration": 160,
+      "isrc": "US72W1411223"
+    },
+    {
+      "artist": "Sorority Noise",
+      "title": "Using",
+      "services": {
+        "qobuz": "48678142"
+      },
+      "album": "Joy, Departed",
+      "duration": 164,
+      "isrc": "USEZ61500026"
+    },
+    {
+      "artist": "Microwave",
+      "title": "Vomit",
+      "services": {
+        "qobuz": "397129196"
+      },
+      "album": "Much Love",
+      "duration": 176,
+      "isrc": "USA6G1664007"
+    },
+    {
+      "artist": "Mom Jeans.",
+      "title": "Scott Pilgrim vs. My GPA",
+      "services": {
+        "qobuz": "130284586"
+      },
+      "album": "Best Buds",
+      "duration": 239,
+      "isrc": "TCACP1635569"
+    },
+    {
+      "artist": "Origami Angel",
+      "title": "24 Hr Drive-Thru",
+      "services": {
+        "qobuz": "84143922"
+      },
+      "album": "Somewhere City",
+      "duration": 164,
+      "isrc": "QZHNA1928781"
+    },
+    {
+      "artist": "oso oso",
+      "title": "the view",
+      "services": {
+        "qobuz": "63231007"
+      },
+      "album": "basking in the glow",
+      "duration": 205,
+      "isrc": "US72W1922702"
+    },
+    {
+      "artist": "Prince Daddy & The Hyena",
+      "title": "I Thought You Didn't Even Like Leaving",
+      "services": {
+        "qobuz": "356731031"
+      },
+      "album": "I Thought You Didn't Even Like Leaving",
+      "duration": 180,
+      "isrc": "QMPKX1731993"
+    },
+    {
+      "artist": "Arm's Length",
+      "title": "Object Permanence",
+      "services": {
+        "qobuz": "170683727"
+      },
+      "album": "Never Before Seen, Never Again Found",
+      "duration": 229,
+      "isrc": "QZNWP2271602"
+    },
+    {
+      "artist": "Pool Kids",
+      "title": "Almost Always Better (Almost Always Worse)",
+      "services": {
+        "qobuz": "193602195"
+      },
+      "album": "Pool Kids",
+      "duration": 203,
+      "isrc": "QZ5FN2232462"
+    },
+    {
+      "artist": "Sweet Pill",
+      "title": "High Hopes",
+      "services": {
+        "qobuz": "147597806"
+      },
+      "album": "Where the Heart Is",
+      "duration": 288,
+      "isrc": "USEZ62225603"
+    },
+    {
+      "artist": "Hot Mulligan",
+      "title": "Shhhh! Golf is On",
+      "services": {
+        "qobuz": "187900300"
+      },
+      "album": "Why Would I Watch",
+      "duration": 164,
+      "isrc": "QZNWP2371509"
+    },
+    {
+      "artist": "Spanish Love Songs",
+      "title": "Haunted",
+      "services": {
+        "qobuz": "208905118"
+      },
+      "album": "No Joy",
+      "duration": 223,
+      "isrc": "USSTT2300003"
+    },
+    {
+      "artist": "saturdays at your place",
+      "title": "waste away",
+      "services": {
+        "qobuz": "340751808"
+      },
+      "album": "these things happen",
+      "duration": 166,
+      "isrc": "QZNWP2575408"
+    }
+  ]
+}

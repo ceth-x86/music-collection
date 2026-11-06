@@ -1,0 +1,105 @@
+# Genre: Breakbeat
+
+Imported genre playlist: Breakbeat.
+
+Services: `qobuz:66713724` `tidal:6eeb0fff-b0ea-41c5-8c6e-90ed2ef2666d`
+
+## Tracks (97)
+
+- **N-Joi** — Anthem [Anthem] (4:03) `isrc:GBARS9800005` `qobuz:13263035`
+- **2 Bad Mice** — Bombscare [Hold It Down / Waremouse / Bombscare / 2 Bad Mice (Remix)] (5:24) `isrc:GBAGN9200017` `qobuz:200914308`
+- **Altern 8** — Activ-8 (Come with Me) [Greatest: Altern 8] (5:34) `isrc:GBC499110001` `qobuz:30603510`
+- **Ariana Grande** — the boy is mine [the boy is mine] (2:53) `isrc:USUM72400332` `qobuz:277047374`
+- **The Ragga Twins** — Spliffhead [How the East Was Won (1989 - 2009)] (4:18) `isrc:TCADY1820305` `qobuz:124923866`
+- **The Prodigy** — Charly [Charly] (5:22) `isrc:GBBKS9100015` `qobuz:2343456`
+- **Sonz of a Loop da Loop Era** — Far out [Far Out / Higher] (4:55) `isrc:GBDLM1300556` `qobuz:203618925`
+- **Sl2** — On A Ragga Tip [The SL2 EP] (5:00) `isrc:GBKQU1568392` `qobuz:111612931`
+- **Shut up and dance** — Raving I'm Raving - Remix.Mp3 [Death Is Not the End] (4:22) `isrc:USTC80935140` `qobuz:186200492`
+- **Acen** — Trip to the Moon (Part 3) [Hardcore Leaders Ii] (6:35) `isrc:AUXN20902813` `qobuz:70002589`
+- **Liquid** — Sweet Harmony [Sweet Harmony] (4:22) `isrc:GBBKS9200002` `qobuz:2343495`
+- **Kicks Like A Mule** — The Bouncer [XL Recordings: The First Chapters] (6:04) `isrc:GBBKS9200103` `qobuz:262114814`
+- **Urban Shakedown** — Some Justice '95 [Jungle Hits, Vol. 3] (4:06) `isrc:GBCMZ0373742` `qobuz:77090763`
+- **Sourmash** — Pilgrimage To Paradise [Pilgrimage To Paradise] (6:51) `isrc:GBKQU1765957` `qobuz:110471420`
+- **Monster Magnet** — Temple Of Your Dreams [Powertrip] (4:35) `isrc:USAM19800092` `qobuz:233786137`
+- **Donna De Lory** — Jai Mata Kali (David Starfire, Freq Nasty, Dub Kirtan Allstars Mix) [Universal Light Remixes (From the Unchanging) [Bonus Track Edition]] (5:33) `isrc:USUQH1400010` `qobuz:73530282`
+- **Secret Factory** — Neon Jaguar Odyssey [Neon Jaguar Odyssey EP] (6:56) `isrc:DEU672400201` `qobuz:251428742`
+- **Curren$y** — Drop Zone [Never Catch Us] (2:19) `isrc:QM4TX2508518` `qobuz:319144360`
+- **Meat Katie** — Can't Hear Ya! [Off The Bone] (6:00) `isrc:GBYQF0900135` `qobuz:113608076`
+- **Michael Kiwanuka** — Solid Ground [Solid Ground] (6:21) `isrc:GBUM72003220` `qobuz:102486514`
+- **Bah Samba** — Calma (feat. Isabel Fructuoso) [Beach Party Dance Mix Album] (7:42) `isrc:GBDCD0500030` `qobuz:83339590`
+- **Pegasus** — How Much Can a Heart Break [Twisted Hearts Club] (3:15) `isrc:CH4062401749` `qobuz:301178222`
+- **Diversion** — Dig The Connection [Connection] (4:54) `isrc:GBKQU1858419` `qobuz:106705134`
+- **Waveform** — Breakers in Space (D.A.T. Remix) [DJ-Kicks (Avalon Emerson)] (3:35) `isrc:DEG932003065` `qobuz:97956946`
+- **Orodruin** — War on the World [Ruins of Eternity] (4:25) `isrc:ITI291902105` `qobuz:72299219`
+- **Joe List** — Dentists & Eye Doctors [I Hate Myself] (5:34) `isrc:QZ5HC2005307` `qobuz:259439585`
+- **Blue Deep** — The Helicopter Tune [Touching Bass (Continuous DJ Mix by DJ Rap)] (5:14) `isrc:USWR30910226` `qobuz:77210515`
+- **Dred Scott** — Check the Vibe [Breakin' Combs] (3:31) `isrc:DEQ121753098` `qobuz:397035972`
+- **Shakti** — 5 In The Morning, 6 In The Afternoon [Mind Explosion] (8:30) `isrc:US92U2402642` `qobuz:347184894`
+- **SSeebhna** — Finished Symphony [Finished Symphony] (7:24) `isrc:QZZ7W2408646` `qobuz:308031398`
+- **Jesus Loves You** — Bow Down Mister [At Worst...The Best Of Boy George And Culture Club] (3:45) `isrc:GBAAA9100277` `qobuz:1064181`
+- **Ghost Town DJs** — My Boo [So So Def Bass All-Stars] (5:46) `isrc:USSM19600644` `qobuz:52403623`
+- **Blues Company** — You Drive Me Crazy [X-Ray Blues] (6:14) `isrc:DEB641300114` `qobuz:51783739`
+- **Eddie "Lockjaw" Davis** — Twins (Hackensack) [from the album "Tough Tenors"] [Griff & Lock (Complete Studio Recordings, 1960-1961)] (6:33) `isrc:ES7710869009` `qobuz:6000202`
+- **Paul McCartney** — Ebony And Ivory [Tug Of War] (3:46) `isrc:GBCCS1500038` `qobuz:25807539`
+- **Uberzone** — Botz (Elektro) [D.J. Trip Hop Mix] (5:49) `isrc:USV351332377` `qobuz:220805031`
+- **Adam Freeland** — We Want Your Soul [Now & Them] (5:07) `isrc:GBCTW0300004` `qobuz:256816862`
+- **Plump DJs** — The Push [The Push] (6:40) `isrc:GBFEK0200016` `qobuz:53828193`
+- **George S. Clinton** — Assimilation [Bury My Heart At Wounded Knee] (2:21) `isrc:US3M50786809` `qobuz:31684918`
+- **Damon Paul** — Acapulco [Berlin Minimal Underground] (6:05) `isrc:DEY941201383` `qobuz:54599705`
+- **J-Walk** — Another Lover (feat. Pete Simpson) [A Night On The Rocks] (4:27) `isrc:GBAHS0200259` `qobuz:2017436`
+- **Dan Siegel** — Line of Sight [Unity] (4:52) `isrc:QM9LC1400194` `qobuz:270020295`
+- **The Mar-Keys** — Grab This Thing (Pt. 1) [Stax/Volt - The Complete Singles 1959-1968 - Volume 5] (2:33) `isrc:USAT20003887` `qobuz:2575160`
+- **Yung Joc** — Don't Play wit It [New Joc City] (4:01) `isrc:USBB40610090` `qobuz:2926846`
+- **The Darkness** — I Believe in a Thing Called Love [Permission to Land] (3:36) `isrc:GBAHS0300635` `qobuz:2681745`
+- **Youth Reserve** — Panic Button [4AM] (4:27) `isrc:NL2PP2100004` `qobuz:203286817`
+- **Olivia Kuper Harris** — Keep It Casual [Juicy] (2:40) `isrc:QZES82053447` `qobuz:134294845`
+- **Elite Force** — Cali Sk8r [Revamped] (6:46) `isrc:DEZ651004381` `qobuz:48792553`
+- **Evil Nine** — All The Cash [They Live!] (4:52) `isrc:GBCTW0800134` `qobuz:256810475`
+- **Paragliders** — Change Me [Change Me] (10:04) `isrc:DEL022510008` `qobuz:335200078`
+- **Future Funk Squad** — Protect You [Exclusive Remixes Remastered] (5:34) `isrc:GXHUT2529740` `qobuz:362884595`
+- **Pyro Phunk** — Body Jamr [Body Jamr] (4:39) `isrc:GBMA22514762` `qobuz:332877800`
+- **Hyper** — Spoiler [Lies] (4:32) `isrc:CA5KR1042797` `qobuz:400281372`
+- **Set Mo** — Let Yourself Go [Flux] (4:13) `isrc:QMFME2356983` `qobuz:231351797`
+- **Erik Grönwall** — Twisted Lullaby [Bad Bones] (3:33) `isrc:SE67P2600601` `qobuz:394618957`
+- **The La's** — Come In Come Out [Lost Tunes] (2:00) `isrc:GBUM70811898` `qobuz:13658302`
+- **Evolution** — This Pain (Remix) [About That Time (Remastered)] (4:26) `isrc:USHM92119937` `qobuz:129744514`
+- **Emerson, Lake & Palmer** — Karn Evil 9 3rd Impression [Brain Salad Surgery] (9:09) `isrc:GB5KW1600871` `qobuz:377325579`
+- **Sons of the Never Wrong** — Everyone's In The House [Undertaker's Songbook] (4:40) `isrc:USHAQ2121008` `qobuz:135716763`
+- **Soul Of Man** — Outback [Back2Back EP] (6:11) `isrc:GBFEK0300098` `qobuz:53828433`
+- **J Balvin** — Poblado [Poblado] (6:32) `isrc:QZ5BF1600040` `qobuz:123825489`
+- **Ry Cooder** — Good Morning Mr. Railroad Man [Boomer's Story] (4:31) `isrc:USWB10104813` `qobuz:7631127`
+- **Leon Vynehall** — Time [Will Saul presents: DJ-Kicks EP] (7:01) `isrc:DEG931400562` `qobuz:17963902`
+- **The Undertones** — Thrill Me [Dig What You Need] (2:59) `isrc:UKYBD2000101` `qobuz:141536650`
+- **Byron Lee's Allstars** — Can You Hear Me? [Soul-Ska] (2:11) `isrc:GBFDB1800196` `qobuz:204424873`
+- **The C90s** — Shine a Light [Shine a Light] (5:49) `isrc:CH3320900068` `qobuz:134670556`
+- **Röyksopp** — Circuit Breaker [The Understanding] (5:24) `isrc:FRS940500068` `qobuz:4688480`
+- **ABBA** — Lay All Your Love On Me [ABBA Gold (Anniversary Edition)] (4:32) `isrc:SEAYD8001090` `qobuz:15644303`
+- **Marie Madeleine** — Swimming Pool [Swimming Pool] (5:14) `isrc:FXQ252400005` `qobuz:304929785`
+- **Luster** — No One To Hold You [Dopamine Loop] (3:48) `isrc:QZHNA2340862` `qobuz:211608652`
+- **Drumattic Twins** — Feelin Kinda Strange [Feelin' Kinda Strange] (7:22) `isrc:GBFEK0500186` `qobuz:53936415`
+- **Webbie** — Independent (feat. Boosie Badazz & Lil Phat) [Savage Life 2] (4:10) `isrc:USAT20705690` `qobuz:314686455`
+- **Mark Mothersbaugh** — Stop and Sim [The Sims 2: Nightlife (Remixes) (Original Soundtrack)] (3:32) `isrc:CAN110500373` `qobuz:96130700`
+- **Bohemian Club** — Ils attendent [Bohemian Groove] (4:46) `isrc:TCADT1888841` `qobuz:55767164`
+- **Infusion** — Better World [Better World] (8:59) `isrc:AUBM00448310` `qobuz:105005589`
+- **Jem Stone** — Disco Daze [Disco Daze] (7:41) `isrc:GBFEK0500183` `qobuz:53874083`
+- **Cybortronik World Media** — Microphone Addict [eMERGENCY Bars 3] (7:48) `isrc:GBMJG2005866` `qobuz:417681829`
+- **Teardropcity** — Metric Style [Style] (1:15) `isrc:QZK6N2265402` `qobuz:161010897`
+- **Wolf Jay** — We Got The Funk [10 Years] (5:46) `isrc:UKGB41900020` `qobuz:388530759`
+- **Splitloop** — Both Knees [Soul Roll] (6:59) `isrc:GBFNF0500017` `qobuz:186324063`
+- **Stanton Warriors** — Pop Ya Cork [Pop Ya Cork] (3:05) `isrc:GB9UU1800082` `qobuz:109342144`
+- **The Rogue Element** — Rogue Rock [Rogue Rock (Special Edition)] (4:34) `isrc:GBEKG0300124` `qobuz:52931403`
+- **Abe Duque** — Ariel [Luna] (8:48) `isrc:DET751000059` `qobuz:5088911`
+- **Damn Vandals** — Mad as Hell [Rocket out of London] (2:32) `isrc:GBK6W1400026` `qobuz:73918138`
+- **U2** — Two Hearts Beat As One [War] (4:23) `isrc:GBUM70806028` `qobuz:744478`
+- **Virtualmismo** — Mismoplastico [Mismoplastico] (6:37) `isrc:IT00G0422231` `qobuz:319627495`
+- **Fort Knox Five** — The Brazilian Hipster [The Brazilian Hipster] (4:00) `isrc:USZAK0400401` `qobuz:62582894`
+- **Paul Oakenfold** — Ready Steady Go! [Ready Steady Go!] (4:00) `isrc:NLF711402205` `qobuz:378001444`
+- **Digital Breaks Foundation** — Way Back [The Land of the Monkey Snake] (5:52) `isrc:GB25T0610079` `qobuz:75404998`
+- **Hedflux** — Mindcell [In Retrospect] (7:18) `isrc:FRX871585968` `qobuz:26959417`
+- **Lady Waks** — Around The Globe [Bass Shakers 2015] (6:45) `isrc:GBFG91512645` `qobuz:111686209`
+- **A. Skillz** — Dead Ringer (feat. Kymberley Kennedy) [Drop the Funk] (4:17) `isrc:GBFEK1400349` `qobuz:52873515`
+- **Stanton Warriors** — Jerk That [Jerk That] (4:12) `isrc:GB7EJ1400326` `qobuz:22998305`
+- **Marten Hørger** — LGFU [LGFU] (4:17) `isrc:GBFEK1600363` `qobuz:46824654`
+- **The Get Down Brothers (Skylan Brooks, Tremaine Brown, Jr., Jaden Smith, Justice Smith & Shameik Moore)** — Break The Locks [The Get Down Part II: Original Soundtrack From The Netflix Original Series] (4:54) `isrc:USRC11700635` `qobuz:40190248`
+- **Special Request** — Vortex 164 [Special Request and Fwends] (4:34) `isrc:GBEXH1900499` `qobuz:303555218`
+- **Overmono** — So U Kno [Good Lies] (5:43) `isrc:UKLTE2100202` `qobuz:191290502`

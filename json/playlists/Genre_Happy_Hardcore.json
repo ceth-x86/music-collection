@@ -1,0 +1,1010 @@
+{
+  "name": "Genre: Happy Hardcore",
+  "services": {
+    "qobuz": "66714815",
+    "tidal": "8ad97f66-d96e-475f-9e18-57b3edd08b97"
+  },
+  "description": "Imported genre playlist: Happy Hardcore.",
+  "tracks": [
+    {
+      "artist": "DJ Seduction",
+      "title": "Hardcore Heaven",
+      "services": {
+        "qobuz": "162064483"
+      },
+      "album": "Hardcore Energy - Volume One",
+      "duration": 298,
+      "isrc": "UK2JZ1300077"
+    },
+    {
+      "artist": "SMD",
+      "title": "SMD#1",
+      "services": {
+        "qobuz": "302298011"
+      },
+      "album": "SMD#1",
+      "duration": 306,
+      "isrc": "GBLV62401723"
+    },
+    {
+      "artist": "Vivian Lee",
+      "title": "Music Is so Wonderful",
+      "services": {
+        "qobuz": "33132912"
+      },
+      "album": "Music Is so Wonderful (2016 Remixes)",
+      "duration": 344,
+      "isrc": "USDDT1600004"
+    },
+    {
+      "artist": "Ciaran Mcauley",
+      "title": "Love Wins (UpOnly 567)",
+      "services": {
+        "qobuz": "248317711"
+      },
+      "album": "Uplifting Only 567: No-Talking DJ Mix: Ori's Top 50 Instrumental Uplifters of 2023, Pt. 2",
+      "duration": 301,
+      "isrc": "QMFFM2400090"
+    },
+    {
+      "artist": "Sunshine Productions",
+      "title": "Above the Clouds",
+      "services": {
+        "qobuz": "161735623"
+      },
+      "album": "Above the Clouds / Symphony in September",
+      "duration": 340,
+      "isrc": "GBMYV0600267"
+    },
+    {
+      "artist": "Rob Wasserman",
+      "title": "Satisfaction (Bass Trilogy: Part 2)",
+      "services": {
+        "qobuz": "51628694"
+      },
+      "album": "Trios",
+      "duration": 141,
+      "isrc": "USGR10300978"
+    },
+    {
+      "artist": "Bicep",
+      "title": "Orca",
+      "services": {
+        "qobuz": "41586012"
+      },
+      "album": "Bicep",
+      "duration": 273,
+      "isrc": "GBCFB1700228"
+    },
+    {
+      "artist": "Foul Play",
+      "title": "Finest Illusion",
+      "services": {
+        "qobuz": "219590808"
+      },
+      "album": "Origins",
+      "duration": 284,
+      "isrc": "UKU2N2000004"
+    },
+    {
+      "artist": "N.R.G.",
+      "title": "I Need Your Lovin'",
+      "services": {
+        "qobuz": "269853525"
+      },
+      "album": "Roadkill Remix, Volume 1.05",
+      "duration": 362,
+      "isrc": "US6R21394901"
+    },
+    {
+      "artist": "Jimmy J",
+      "title": "Six Days",
+      "services": {
+        "qobuz": "162064527"
+      },
+      "album": "Hardcore Energy - Volume One",
+      "duration": 448,
+      "isrc": "GBFG92200125"
+    },
+    {
+      "artist": "Force & Evolution",
+      "title": "Perfect Dreams",
+      "services": {
+        "qobuz": "208483756"
+      },
+      "album": "Kleu presents Welcome To The Jungle (DJ Mix)",
+      "duration": 88,
+      "isrc": "GBFG92300079"
+    },
+    {
+      "artist": "Cutting Crew",
+      "title": "(I Just) Died In Your Arms",
+      "services": {
+        "qobuz": "1942318"
+      },
+      "album": "Broadcast",
+      "duration": 280,
+      "isrc": "GBAAA8600046"
+    },
+    {
+      "artist": "Billy Daniel Bunter",
+      "title": "Music is Moods",
+      "services": {
+        "qobuz": "161736546"
+      },
+      "album": "Let It Lift You / Music is Moods",
+      "duration": 350,
+      "isrc": "GBMYV0600287"
+    },
+    {
+      "artist": "DJ Shah",
+      "title": "Mellomaniac",
+      "services": {
+        "qobuz": "10242632"
+      },
+      "album": "The Ultimate Chillout Collection",
+      "duration": 339,
+      "isrc": "DEQ600490402"
+    },
+    {
+      "artist": "DJ Red Alert",
+      "title": "In Effect",
+      "services": {
+        "qobuz": "151743539"
+      },
+      "album": "Slammin' Vinyl The Album",
+      "duration": 355,
+      "isrc": "UKZ6W2002080"
+    },
+    {
+      "artist": "Alchemist",
+      "title": "Keep On Trying",
+      "services": {
+        "qobuz": "177302007"
+      },
+      "album": "Hardcore Uproar (Mixed By Al Storm & DJ Seduction, Rob IYF, DJ Stompy, Eazyvibe & Darren Tyler)",
+      "duration": 164,
+      "isrc": "UKT6B2200476"
+    },
+    {
+      "artist": "Montreal Jubilation Gospel Choir",
+      "title": "Lord Help Me to Hold Out",
+      "services": {
+        "qobuz": "168311947"
+      },
+      "album": "Looking Back, Vol. 2",
+      "duration": 274,
+      "isrc": "CAJ220725034"
+    },
+    {
+      "artist": "The Weeknd",
+      "title": "Take Me Back To LA",
+      "services": {
+        "qobuz": "315416326"
+      },
+      "album": "Hurry Up Tomorrow",
+      "duration": 253,
+      "isrc": "USUG12501140"
+    },
+    {
+      "artist": "Four Tops",
+      "title": "Reach Out I'll Be There",
+      "services": {
+        "qobuz": "29432006"
+      },
+      "album": "Reach Out",
+      "duration": 181,
+      "isrc": "USMO10119990"
+    },
+    {
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "title": "Here We Go Again",
+      "services": {
+        "qobuz": "42316747"
+      },
+      "album": "He's The DJ, I'm The Rapper",
+      "duration": 241,
+      "isrc": "USJI10300384"
+    },
+    {
+      "artist": "Joggen DJ",
+      "title": "Entspannung nach dem Rennen",
+      "services": {
+        "qobuz": "33765154"
+      },
+      "album": "Elektro Musik zum Joggen und Laufen - Richtig Joggen und Lauftraining f\u00fcr Anf\u00e4nger mit Hause Musik und Instrumentalen Elektronischen Hintergrundmusik",
+      "duration": 203,
+      "isrc": "ITO101654669"
+    },
+    {
+      "artist": "Lange",
+      "title": "I Believe",
+      "services": {
+        "qobuz": "35337147"
+      },
+      "album": "I Believe / Follow Me",
+      "duration": 520,
+      "isrc": "GBAYE9900575"
+    },
+    {
+      "artist": "4 Tune Fairytales",
+      "title": "MY LITTLE FANTASY",
+      "services": {
+        "qobuz": "286733047"
+      },
+      "album": "BEYOND TRIPPIN'",
+      "duration": 154,
+      "isrc": "NLE802400365"
+    },
+    {
+      "artist": "Force & Styles",
+      "title": "Heart Of Gold",
+      "services": {
+        "qobuz": "330584870"
+      },
+      "album": "Heart Of Gold",
+      "duration": 438,
+      "isrc": "FRX201781239"
+    },
+    {
+      "artist": "Dj Bobo",
+      "title": "Love of My Life",
+      "services": {
+        "qobuz": "93397148"
+      },
+      "album": "Celebration",
+      "duration": 236,
+      "isrc": "DEMI60200007"
+    },
+    {
+      "artist": "Cypress Hill",
+      "title": "Throw Your Set In the Air",
+      "services": {
+        "qobuz": "47019209"
+      },
+      "album": "Iii (Temples Of Boom)",
+      "duration": 245,
+      "isrc": "USSM19501498"
+    },
+    {
+      "artist": "Dj Brisk",
+      "title": "Eye Opener",
+      "services": {
+        "qobuz": "151743035"
+      },
+      "album": "Eye Opener / I Need Somebody",
+      "duration": 393,
+      "isrc": "UKZ6W2002055"
+    },
+    {
+      "artist": "Bang",
+      "title": "Shooting Star",
+      "services": {
+        "qobuz": "113616504"
+      },
+      "album": "Shooting Star",
+      "duration": 332,
+      "isrc": "GBKQU1026194"
+    },
+    {
+      "artist": "triple j",
+      "title": "Follow The Sun",
+      "services": {
+        "qobuz": "77088329"
+      },
+      "album": "Follow the Sun",
+      "duration": 339,
+      "isrc": "GBMYV0600154"
+    },
+    {
+      "artist": "Vinylgroover",
+      "title": "Time",
+      "services": {
+        "qobuz": "112042362"
+      },
+      "album": "Time",
+      "duration": 340,
+      "isrc": "GBKQU1486776"
+    },
+    {
+      "artist": "Billy Ocean",
+      "title": "Get Outta My Dreams, Get Into My Car",
+      "services": {
+        "qobuz": "125502832"
+      },
+      "album": "Love Really Hurts Without You: The Greatest Hits of Billy Ocean",
+      "duration": 283,
+      "isrc": "GBAHK9700111"
+    },
+    {
+      "artist": "J.D.S",
+      "title": "Higher Love",
+      "services": {
+        "qobuz": "77097092"
+      },
+      "album": "Higher Love",
+      "duration": 348,
+      "isrc": "GBMYV0700004"
+    },
+    {
+      "artist": "DJ Themi",
+      "title": "I Feel Good (Power Radio Mix)",
+      "services": {
+        "qobuz": "68819392"
+      },
+      "album": "The Club Life 2 - 15 Essential Club Hits!",
+      "duration": 205,
+      "isrc": "USA371445900"
+    },
+    {
+      "artist": "U.F.O.",
+      "title": "Break on Through (To the Other Side)",
+      "services": {
+        "qobuz": "51084129"
+      },
+      "album": "The Salentino Cuts",
+      "duration": 141,
+      "isrc": "QM6XS1704612"
+    },
+    {
+      "artist": "Jim Kweskin",
+      "title": "Blues My Naughty Sweetie Gives to Me",
+      "services": {
+        "qobuz": "79789829"
+      },
+      "album": "Enjoy Yourself (It's Later Than You Think)",
+      "duration": 195,
+      "isrc": "USCGJ1605885"
+    },
+    {
+      "artist": "DJ Seinfeld",
+      "title": "Tell Me One More Time",
+      "services": {
+        "qobuz": "129776876"
+      },
+      "album": "Mirrors",
+      "duration": 276,
+      "isrc": "GBCFB2100391"
+    },
+    {
+      "artist": "DJ DNA",
+      "title": "Go Insane",
+      "services": {
+        "qobuz": "150708274"
+      },
+      "album": "Never Let You Go / Go Insane (Remixes)",
+      "duration": 369,
+      "isrc": "GBMYV0210022"
+    },
+    {
+      "artist": "Charly Lownoise & Mental Theo",
+      "title": "Wonderful Days Reloaded",
+      "services": {
+        "qobuz": "298050083"
+      },
+      "album": "Wonderful Days Reloaded",
+      "duration": 178,
+      "isrc": "NL5HJ2400247"
+    },
+    {
+      "artist": "Paul Elstak",
+      "title": "Luv U More",
+      "services": {
+        "qobuz": "378280926"
+      },
+      "album": "Super Dance Hits From The Nineties (90's Best Top 30)",
+      "duration": 230,
+      "isrc": "NLS241100967"
+    },
+    {
+      "artist": "KXXMA",
+      "title": "I Wanna Be A Hippy",
+      "services": {
+        "qobuz": "214903526"
+      },
+      "album": "I Wanna Be A Hippy",
+      "duration": 158,
+      "isrc": "DEUM72307303"
+    },
+    {
+      "artist": "Nakatomi",
+      "title": "Children Of The Night",
+      "services": {
+        "qobuz": "162913196"
+      },
+      "album": "Children Of The Night",
+      "duration": 245,
+      "isrc": "NLC529611111"
+    },
+    {
+      "artist": "Party Animals",
+      "title": "Have You Ever Been Mellow",
+      "services": {
+        "qobuz": "10451472"
+      },
+      "album": "Have You Ever Been Mellow",
+      "duration": 185,
+      "isrc": "NLC341305005"
+    },
+    {
+      "artist": "Flamman & Abraxas",
+      "title": "Good to Go",
+      "services": {
+        "qobuz": "7805905"
+      },
+      "album": "Enter the Dragon",
+      "duration": 210,
+      "isrc": "NLC349702001"
+    },
+    {
+      "artist": "D\u00fan\u00e9",
+      "title": "Can't Stop Raving",
+      "services": {
+        "qobuz": "325552332"
+      },
+      "album": "Can't Stop Raving",
+      "duration": 216,
+      "isrc": "DED579506870"
+    },
+    {
+      "artist": "Scooter",
+      "title": "Move Your Ass!",
+      "services": {
+        "qobuz": "199219299"
+      },
+      "album": "20 Years Of Hardcore",
+      "duration": 234,
+      "isrc": "DEN061302560"
+    },
+    {
+      "artist": "Marusha",
+      "title": "Somewhere over the Rainbow",
+      "services": {
+        "qobuz": "174219212"
+      },
+      "album": "Raveland",
+      "duration": 331,
+      "isrc": "DEE199400063"
+    },
+    {
+      "artist": "Bl\u00fcmchen",
+      "title": "Herz an Herz",
+      "services": {
+        "qobuz": "1292919"
+      },
+      "album": "Herzfrequenz",
+      "duration": 227,
+      "isrc": "DEBL60605312"
+    },
+    {
+      "artist": "QFX",
+      "title": "Freedom (Steven Brown Remix)",
+      "services": {
+        "qobuz": "229999508"
+      },
+      "album": "Freedom the Remix Album",
+      "duration": 411,
+      "isrc": "TCAHL2316664"
+    },
+    {
+      "artist": "Maddix",
+      "title": "Young Birds",
+      "services": {
+        "qobuz": "305515612"
+      },
+      "album": "Global Awakening",
+      "duration": 173,
+      "isrc": "NLQ8D2400955"
+    },
+    {
+      "artist": "Critical Mass",
+      "title": "Burning Love",
+      "services": {
+        "qobuz": "7453713"
+      },
+      "album": "Harmony of Hardcore Festival 2012",
+      "duration": 293,
+      "isrc": "NLE801100491"
+    },
+    {
+      "artist": "Hocus Pocus",
+      "title": "Here's Johnny!",
+      "services": {
+        "qobuz": "136553664"
+      },
+      "album": "God, Devil, Hell, Heaven",
+      "duration": 270,
+      "isrc": "NLA249700014"
+    },
+    {
+      "artist": "Interactive",
+      "title": "Forever Young",
+      "services": {
+        "qobuz": "54279044"
+      },
+      "album": "Forever Young",
+      "duration": 224,
+      "isrc": "DEP999400097"
+    },
+    {
+      "artist": "Hixxy & Sharkey",
+      "title": "Toytown",
+      "services": {
+        "qobuz": "107497606"
+      },
+      "album": "Toytown (Eufeion Remix)",
+      "duration": 200,
+      "isrc": "UKT6B2000001"
+    },
+    {
+      "artist": "Sy",
+      "title": "Forever Shining",
+      "services": {
+        "qobuz": "153867305"
+      },
+      "album": "Every Day / Forever Shining",
+      "duration": 340,
+      "isrc": "GBMYV0600368"
+    },
+    {
+      "artist": "DJ Smurf",
+      "title": "Lollypop",
+      "services": {
+        "qobuz": "75441453"
+      },
+      "album": "This Is Smurfcore Vol 2",
+      "duration": 355,
+      "isrc": "UKACT1841592"
+    },
+    {
+      "artist": "Scott Brown",
+      "title": "Elysium Plus",
+      "services": {
+        "qobuz": "113620779"
+      },
+      "album": "Elysium Plus",
+      "duration": 360,
+      "isrc": "GBKQU1351178"
+    },
+    {
+      "artist": "CLSM",
+      "title": "John Peel (Not Enough)",
+      "services": {
+        "qobuz": "327082117"
+      },
+      "album": "Hardcore Material",
+      "duration": 92,
+      "isrc": "GBKQU2528956"
+    },
+    {
+      "artist": "Q-Tex",
+      "title": "Power Of Love",
+      "services": {
+        "qobuz": "125250479"
+      },
+      "album": "Power Of Love",
+      "duration": 230,
+      "isrc": "GBCFZ0701871"
+    },
+    {
+      "artist": "Crazy Noise",
+      "title": "Bring the Funk",
+      "services": {
+        "qobuz": "342006517"
+      },
+      "album": "Bring the Funk",
+      "duration": 286,
+      "isrc": "CH6542537531"
+    },
+    {
+      "artist": "Styles & Breeze",
+      "title": "You're Shining",
+      "services": {
+        "qobuz": "125250291"
+      },
+      "album": "You're Shining",
+      "duration": 350,
+      "isrc": "GBCFZ0400584"
+    },
+    {
+      "artist": "Darren Styles",
+      "title": "Blow Me Away",
+      "services": {
+        "qobuz": "52525595"
+      },
+      "album": "Skydivin'",
+      "duration": 230,
+      "isrc": "GBCFZ0800221"
+    },
+    {
+      "artist": "RE-MIX",
+      "title": "Sara' perche' ti amo",
+      "services": {
+        "qobuz": "9535434"
+      },
+      "album": "Sara' perche' ti amo : Dance Remix, Stems and DJ Tools, Tribute to Ricchi e Poveri",
+      "duration": 205,
+      "isrc": "ITQ171301340"
+    },
+    {
+      "artist": "Impact & Resist",
+      "title": "Sunrise",
+      "services": {
+        "qobuz": "113437878"
+      },
+      "album": "Sunrise (JTS & Haze Remix)",
+      "duration": 374,
+      "isrc": "GBKQU1159218"
+    },
+    {
+      "artist": "Dark Monks",
+      "title": "Insane",
+      "services": {
+        "qobuz": "313984495"
+      },
+      "album": "Insane",
+      "duration": 225,
+      "isrc": "NLQ8D2500117"
+    },
+    {
+      "artist": "Jethro Tull",
+      "title": "One For John Gee",
+      "services": {
+        "qobuz": "336220307"
+      },
+      "album": "Still Living In The Past",
+      "duration": 125,
+      "isrc": "GBAYK2400031"
+    },
+    {
+      "artist": "System f",
+      "title": "Cry",
+      "services": {
+        "qobuz": "378216926"
+      },
+      "album": "Out Of The Blue",
+      "duration": 516,
+      "isrc": "NLQ881000606"
+    },
+    {
+      "artist": "Norah Jones",
+      "title": "Don't Know Why",
+      "services": {
+        "qobuz": "189888389"
+      },
+      "album": "Come Away With Me",
+      "duration": 188,
+      "isrc": "USBN20200529"
+    },
+    {
+      "artist": "Flip & Fill",
+      "title": "Pacific Sun (Lullaby)",
+      "services": {
+        "qobuz": "78098402"
+      },
+      "album": "Pacific Sun (Lullaby)",
+      "duration": 373,
+      "isrc": "GBCFZ1700145"
+    },
+    {
+      "artist": "Liz Kay",
+      "title": "Castles in the sky",
+      "services": {
+        "qobuz": "55043019"
+      },
+      "album": "Castles in the sky",
+      "duration": 445,
+      "isrc": "DEHK90702610"
+    },
+    {
+      "artist": "Wave",
+      "title": "Piece Of Heaven",
+      "services": {
+        "qobuz": "78687906"
+      },
+      "album": "Piece Of Heaven",
+      "duration": 331,
+      "isrc": "GBCFZ1700522"
+    },
+    {
+      "artist": "Ultrabeat",
+      "title": "You Will See",
+      "services": {
+        "qobuz": "113157743"
+      },
+      "album": "You Will See",
+      "duration": 362,
+      "isrc": "GBKQU1271301"
+    },
+    {
+      "artist": "oskar med k",
+      "title": "Make This Never Happen",
+      "services": {
+        "qobuz": "399908468"
+      },
+      "album": "feel",
+      "duration": 141,
+      "isrc": "US3DF2624088"
+    },
+    {
+      "artist": "D:Code",
+      "title": "My Direction",
+      "services": {
+        "qobuz": "63208293"
+      },
+      "album": "My Direction",
+      "duration": 372,
+      "isrc": "GBCFZ0701378"
+    },
+    {
+      "artist": "Chris Smither",
+      "title": "Calm Before the Storm",
+      "services": {
+        "qobuz": "249672832"
+      },
+      "album": "All About the Bones",
+      "duration": 193,
+      "isrc": "USFMT2405405"
+    },
+    {
+      "artist": "Craig Mack",
+      "title": "Flava in Ya Ear Remix (feat. The Notorious B.I.G., LL Cool J, Busta Rhymes, Rampage)",
+      "services": {
+        "qobuz": "7014760"
+      },
+      "album": "Flava In Ya Ear Remix",
+      "duration": 302,
+      "isrc": "USBB40581031"
+    },
+    {
+      "artist": "Manatane",
+      "title": "Face Down Ass Up",
+      "services": {
+        "qobuz": "402760995"
+      },
+      "album": "Memory of DJ FUNK",
+      "duration": 278,
+      "isrc": "GBKQU2629560"
+    },
+    {
+      "artist": "DJ Demand",
+      "title": "Dark & Light",
+      "services": {
+        "qobuz": "107729598"
+      },
+      "album": "The Dark Shadows EP, Pt 15",
+      "duration": 239,
+      "isrc": "UKT6B1900120"
+    },
+    {
+      "artist": "All The People",
+      "title": "Cramp Your Style",
+      "services": {
+        "qobuz": "221513698"
+      },
+      "album": "Soul Jazz Records presents MIAMI SOUND: Rare Funk & Soul From Miami, Florida 1967-74",
+      "duration": 135,
+      "isrc": "USBEN0852501"
+    },
+    {
+      "artist": "Above & Beyond",
+      "title": "Sirens Of The Sea",
+      "services": {
+        "qobuz": "424977760"
+      },
+      "album": "The Anjunadeep Edition 500 with Above & Beyond (DJ Mix)",
+      "duration": 413,
+      "isrc": "GBEWA2402585"
+    },
+    {
+      "artist": "Mike Squires",
+      "title": "Here [In Your Arms]",
+      "services": {
+        "qobuz": "227034411"
+      },
+      "album": "Here [In Your Arms]",
+      "duration": 140,
+      "isrc": "QZRP42307682"
+    },
+    {
+      "artist": "Stonebank",
+      "title": "The Only One",
+      "services": {
+        "qobuz": "58026400"
+      },
+      "album": "The Only One",
+      "duration": 259,
+      "isrc": "CA6D21600395"
+    },
+    {
+      "artist": "Klubbheads",
+      "title": "Kickin' Hard",
+      "services": {
+        "qobuz": "378186537"
+      },
+      "album": "Kickin' Hard",
+      "duration": 205,
+      "isrc": "NLF712003627"
+    },
+    {
+      "artist": "Darren Styles",
+      "title": "Rest Of Your Life (Da Tweekaz Remix)",
+      "services": {
+        "qobuz": "49415011"
+      },
+      "album": "Rest Of Your Life (Da Tweekaz Remix)",
+      "duration": 241,
+      "isrc": "BEB681500224"
+    },
+    {
+      "artist": "ERA",
+      "title": "Will You Call My Name",
+      "services": {
+        "qobuz": "406295293"
+      },
+      "album": "ERA VIII",
+      "duration": 207,
+      "isrc": "FRE0N2500020"
+    },
+    {
+      "artist": "Armin van Buuren",
+      "title": "Set Me Free",
+      "services": {
+        "qobuz": "378330571"
+      },
+      "album": "Set Me Free",
+      "duration": 175,
+      "isrc": "NLF712506451"
+    },
+    {
+      "artist": "Cascada",
+      "title": "Miracle",
+      "services": {
+        "qobuz": "54972964"
+      },
+      "album": "Everytime We Touch",
+      "duration": 414,
+      "isrc": "DEHK90913021"
+    },
+    {
+      "artist": "Rocco",
+      "title": "Everybody",
+      "services": {
+        "qobuz": "90877510"
+      },
+      "album": "Everybody",
+      "duration": 138,
+      "isrc": "DEMA61901260"
+    },
+    {
+      "artist": "Peter Frampton",
+      "title": "My Cup Of Tea",
+      "services": {
+        "qobuz": "118326567"
+      },
+      "album": "Fingerprints",
+      "duration": 292,
+      "isrc": "USUG10600213"
+    },
+    {
+      "artist": "Cascada",
+      "title": "How Do You Do",
+      "services": {
+        "qobuz": "54972969"
+      },
+      "album": "Everytime We Touch",
+      "duration": 330,
+      "isrc": "DECZ30500011"
+    },
+    {
+      "artist": "The Real Booty Babes",
+      "title": "Since U Been Gone",
+      "services": {
+        "qobuz": "15005783"
+      },
+      "album": "Since U Been Gone (All Mixes)",
+      "duration": 231,
+      "isrc": "DEZ380500152"
+    },
+    {
+      "artist": "East Clubbers",
+      "title": "Sextasy (Alchemist Project Remix)",
+      "services": {
+        "qobuz": "67200819"
+      },
+      "album": "Never Enough",
+      "duration": 290,
+      "isrc": "USA560873200"
+    },
+    {
+      "artist": "N-Trance",
+      "title": "Set You Free",
+      "services": {
+        "qobuz": "188881839"
+      },
+      "album": "Set You Free",
+      "duration": 345,
+      "isrc": "GBCFZ1001141"
+    },
+    {
+      "artist": "Manian",
+      "title": "Welcome to the Club",
+      "services": {
+        "qobuz": "54906517"
+      },
+      "album": "Welcome to the Club (The Album)",
+      "duration": 322,
+      "isrc": "DEHK90806489"
+    },
+    {
+      "artist": "Hypasonic",
+      "title": "Lost Without You",
+      "services": {
+        "qobuz": "113159428"
+      },
+      "album": "Turn It Up",
+      "duration": 381,
+      "isrc": "GBKQU1271687"
+    },
+    {
+      "artist": "Invention of Light",
+      "title": "Pink is the Sound of My Baby\u2019s Dreams",
+      "services": {
+        "qobuz": "201662777"
+      },
+      "album": "Just Pink Noise Vol 1: 1 Hour of Seamless Pink Noise to Soothe the Mind & Create a Calm Environment",
+      "duration": 122,
+      "isrc": "QM7P22303025"
+    },
+    {
+      "artist": "The Real Booty Babes",
+      "title": "Like a Lady",
+      "services": {
+        "qobuz": "20037784"
+      },
+      "album": "Like a Lady / Rock",
+      "duration": 316,
+      "isrc": "DEZ381000193"
+    },
+    {
+      "artist": "Yahel",
+      "title": "Voyage",
+      "services": {
+        "qobuz": "109731260"
+      },
+      "album": "Voyage",
+      "duration": 389,
+      "isrc": "GBKQU1839259"
+    },
+    {
+      "artist": "Vintage Culture",
+      "title": "Strange Feelings",
+      "services": {
+        "qobuz": "289863066"
+      },
+      "album": "Promised Land",
+      "duration": 220,
+      "isrc": "USZXT2455529"
+    },
+    {
+      "artist": "Flamingo Drive",
+      "title": "Everytime I Think Of You",
+      "services": {
+        "qobuz": "206290075"
+      },
+      "album": "Satin Jackets Back Catalogue",
+      "duration": 421,
+      "isrc": "GB9PM1200132"
+    },
+    {
+      "artist": "Darren Styles",
+      "title": "You & I (Da Tweekaz Remix)",
+      "services": {
+        "qobuz": "49412650"
+      },
+      "album": "You & I (Da Tweekaz remix)",
+      "duration": 227,
+      "isrc": "BEB681300749"
+    }
+  ]
+}

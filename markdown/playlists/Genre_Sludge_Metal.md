@@ -1,0 +1,108 @@
+# Genre: Sludge Metal
+
+Imported genre playlist: Sludge Metal.
+
+Services: `qobuz:66735734` `tidal:eb57213a-bf50-4212-b9d1-d0d18d2fd5a1`
+
+## Tracks (100)
+
+- **Eyehategod** — Blank [Take As Needed for Pain] (7:07) `isrc:US4E40626401` `qobuz:27540951`
+- **Fudge Tunnel** — Grey [Creep Diets] (5:28) `isrc:GBBPB0401766` `qobuz:25673713`
+- **Melvins** — Honey Bucket [Houdini] (3:01) `isrc:USAT20103379` `qobuz:2797789`
+- **Acid Bath** — The Blue [When the Kite String Pops] (6:13) `isrc:USDXG0609501` `qobuz:63278437`
+- **Buzzov*en** — Sore [Sore] (9:20) `isrc:NLA329499990` `qobuz:2810219`
+- **Grief** — Hate Grows Stronger [Come to Grief] (8:23) `isrc:US4E40578702` `qobuz:27533293`
+- **Karp** — Get No Toys (When You Pay the Money) [Suplex] (3:38) `isrc:GX5MX2367816` `qobuz:229158156`
+- **Neurosis** — Locust Star [Official Bootleg.01.Lyon.France.11.02.99] (6:52) `isrc:US4JA0200170` `qobuz:46843793`
+- **Genevieve Artadi** — I Hate When I Can’t Feel My Heart [Dizzy Strange Summer] (2:32) `isrc:GBCFB2000089` `qobuz:97615658`
+- **Boris** — Huge [Amplifier Worship] (9:14) `isrc:US3JJ1900483` `qobuz:370481775`
+- **Burning Witch** — Rift.Canyon.Dreams [Crippled Lucifer] (13:03) `isrc:USZPA0700107` `qobuz:60618716`
+- **Crowbar** — Planets Collide [Odd Fellows Rest] (4:39) `isrc:GBCBR9900288` `qobuz:26953762`
+- **Dystopia** — Stress Builds Character [Human = Garbage] (5:49) `isrc:QM6P41522406` `qobuz:79470018`
+- **Mark Isham** — The Times Of Harvey Milk [A Windham Hill Retrospective] (3:33) `isrc:USWH18501084` `qobuz:223228`
+- **Iron Monkey** — Bad Year [Our Problem] (6:06) `isrc:GBBPB0400625` `qobuz:253804299`
+- **Soilent Green** — It Was Just an Accident [Sewn Mouth Secrets & A String of Lies] (4:12) `isrc:US2640565501` `qobuz:60649093`
+- **Cavity** — Supercollider [Supercollider] (6:37) `isrc:USDY42340476` `qobuz:204692133`
+- **Electric Wizard** — Funeralopolis [Dopethrone] (8:43) `isrc:GBMLU0607302` `qobuz:56197028`
+- **Noothgrush** — Erode the Person [Live for Nothing] (8:43) `isrc:USZPA0900444` `qobuz:60651177`
+- **Raging Speedhorn** — Thumper [Raging Speedhorn] (2:35) `isrc:GBAHW0000249` `qobuz:55195414`
+- **Mangled Carpenter** — A Path To Sorrow [Salvation Syndrome] (3:52) `isrc:QZNWX2333838` `qobuz:225439653`
+- **Isis** — The Beginning and the End [Live V 07.23.06] (9:25) `isrc:USA371261837` `qobuz:69408574`
+- **Knut** — Whacked Out [Challenger + DIY EP] (5:26) `isrc:CHA012300128` `qobuz:263045859`
+- **Mastodon** — March of the Fire Ants [Remission (Reissue)] (4:25) `isrc:US2641321502` `qobuz:17855657`
+- **Superjoint Ritual** — Waiting For The Turning Point [A Lethal Dose of American Hatred] (1:26) `isrc:GBAJE0300438` `qobuz:385657023`
+- **Cult of Luna** — Leave Me Here [Salvation] (7:15) `isrc:GBBPB0400152` `qobuz:14715926`
+- **L2B** — Pélican [Pélican] (2:45) `isrc:FRDJ72500030` `qobuz:316775313`
+- **David Kushner** — Buried at Sea [The Dichotomy] (3:44) `isrc:QZXDB2300107` `qobuz:317184649`
+- **Keelhaul** — The Gooch [Subject to Change Without Notice] (3:18) `isrc:QZTAU2180889` `qobuz:142892051`
+- **Christian Löffler** — Mare (feat. Mohna) [Mare] (4:08) `isrc:DEZ651600579` `qobuz:49369061`
+- **Old Man Gloom** — The Volcano [Christmas] (7:32) `isrc:USN682229040` `qobuz:152263566`
+- **Amenra** — .Razoreater. [Mass Iiii] (7:01) `isrc:TCAAW1137142` `qobuz:188585799`
+- **Doble Valentina** — El Mundo Está Frío [Congelamiento Global] (3:13) `isrc:UYY112500104` `qobuz:370275024`
+- **Leonard Cohen** — Take This Longing [New Skin For The Old Ceremony] (4:10) `isrc:USSM19917410` `qobuz:18453958`
+- **Kylesa** — Scapegoat [Static Tensions (2022 Remaster)] (3:25) `isrc:QZK6G2292931` `qobuz:165215503`
+- **Made Out Of Babies** — Cooker [The Ruiner] (5:49) `isrc:US2420810601` `qobuz:387128012`
+- **Red Sparowes** — We Stood Transfixed in Blank Devotion as Our Leader Spoke to Us, Looking Down on Our Mute Faces with a Great, Raging, and Unseeing Eye [Every Red Heart Shines Toward the Red Sun] (8:54) `isrc:US4JA0600385` `qobuz:46845526`
+- **Balboa & Rosetta** — Tma-1 [Project Mercury] (10:21) `isrc:USME30801530` `qobuz:63218496`
+- **Taint** — I'm Going To Kill Henry Ford [The Ruin Of Nova Roma] (7:19) `isrc:GBMLU0506608` `qobuz:56195226`
+- **Abominable Iron Sloth** — I Am The Carcass [Abominable Iron Sloth] (2:32) `isrc:CAG320604491` `qobuz:66796167`
+- **Battle Of Mice** — Bones in the Water [A Day of Nights] (5:19) `isrc:US4JA0600393` `qobuz:49363142`
+- **Black Cobra** — Sugar Water [Bestial] (4:23) `isrc:USTC20791288` `qobuz:77851138`
+- **Callisto** — The Fugitive [Noir] (8:03) `isrc:FIFR50600073` `qobuz:77357061`
+- **Giant Squid** — Sevengill (Notorynchus Cepedianus) [The Ichthyologist (Reissue)] (7:10) `isrc:USME30902035` `qobuz:105468649`
+- **Mouth of the Architect** — Quietly [Quietly] (10:34) `isrc:USCHW0803001` `qobuz:63287428`
+- **Unearthly Trance** — When Anti-Humanity Flourishes [Season Of Séance, Science Of Silence] (4:05) `isrc:GBMLU0304503` `qobuz:56196218`
+- **Year of No Light** — Alètheia [Consolamentum] (7:39) `isrc:QMBZ92011652` `qobuz:119517805`
+- **A S K** — Voice of Saturn [Voice of Saturn] (6:22) `isrc:SE3LK2600101` `qobuz:372312329`
+- **Baroness** — Isak [The Red Album] (4:22) `isrc:US2640772103` `qobuz:60619501`
+- **Tony Molina** — Just As The Tide Was Flowing [On This Day] (1:20) `isrc:USA2Z2501215` `qobuz:356916079`
+- **Dirge** — Meridians [Wings Of Lead Over Dormant Seas] (19:24) `isrc:FR4E60702790` `qobuz:1670054`
+- **Minsk** — Ceremony Ek Stasis [The Ritual Fires of Abandonment] (15:39) `isrc:US2640770806` `qobuz:60622095`
+- **Overmars** — Born Again [Born Again] (39:25) `isrc:US33D0910026` `qobuz:25446625`
+- **Ramesses** — Ramesses Part I [Misanthropic Alchemy] (2:00) `isrc:GB9FF0700011` `qobuz:56298182`
+- **Rwake** — Crooked Rivers [Voices of Omens] (7:10) `isrc:US2640771203` `qobuz:60680504`
+- **The Ocean** — Firmament [Heliocentric] (7:29) `isrc:USMBR1007290` `qobuz:60685696`
+- **Weedeater** — God Luck and Good Speed [God Luck and Good Speed] (4:25) `isrc:FR33T1332301` `qobuz:77782577`
+- **A Storm of Light** — Mass [And We Wept the Black Ocean Within] (8:04) `isrc:US4JA0810046` `qobuz:46840858`
+- **Bison b.c.** — Primal Emptiness Of Outer Space [Quiet Earth] (5:29) `isrc:USMBR0806036` `qobuz:60706179`
+- **Black Breath** — Endless Corpse [Sentenced to Life] (4:30) `isrc:USZPA0900536` `qobuz:5256660`
+- **Graves at Sea** — The Curse That Is [The Curse That Is] (11:14) `isrc:US2641632301` `qobuz:29831022`
+- **Intronaut** — Australopithecus [Prehistoricisms] (4:32) `isrc:US4E40851307` `qobuz:27572905`
+- **Zatokrev** — Bleeding Island [Silk Spiders Underwater...] (5:58) `isrc:QMBZ91721625` `qobuz:45783225`
+- **Zozobra** — Kill and Crush [Harmonic Tremors] (3:26) `isrc:USN682200002` `qobuz:167923276`
+- **Admiral Angry** — Kill Yourself [Buster] (6:13) `isrc:GBTEG0900082` `qobuz:73921938`
+- **Fallen Moon Servant** — Longing to be Dragged into Sunlight [... With a Stone in my Maw] (6:42) `isrc:QT6E72659309` `qobuz:428050601`
+- **Lynne Hanson** — Counting Heartbeats [Uneven Ground] (3:23) `isrc:NLG091704102` `qobuz:76733018`
+- **Latitudes** — Antechamber [Agonist] (7:05) `isrc:GBTEG0900119` `qobuz:46877628`
+- **CELESTE** — Ces belles de rêve aux verres embués [Morte(s) née(s)] (3:55) `isrc:FXQ901066640` `qobuz:123168783`
+- **Horn of the Rhino** — Speaking in Tongues [Weight of Coronation] (7:37) `isrc:DEZ651210639` `qobuz:281015279`
+- **Omega Massif** — Aura [Karpatia] (10:00) `isrc:DEZ651109860` `qobuz:104316113`
+- **Black Sheep Wall** — Metallica [I'm Going to Kill Myself] (33:05) `isrc:FR33T1433204` `qobuz:77780988`
+- **Kowloon Walled City** — Container Ships [Container Ships] (7:11) `isrc:USWC21200110` `qobuz:81515647`
+- **Obscure Sphinx** — Lunar Caustic [Void Mother] (7:51) `isrc:TCABS1487264` `qobuz:125363935`
+- **Slabdragger** — Evacuate! [Rise of the Dawncrusher] (4:35) `isrc:GBMLT1500718` `qobuz:105774765`
+- **Alpha Brain Waves** — Burn the Midnight Oil [Powerful Thought: Activate Your Productive Mind Frequencies] (2:01) `isrc:GBRKQ2365319` `qobuz:207569833`
+- **Indian** — Directional [From All Purity] (6:25) `isrc:US2641322403` `qobuz:13055504`
+- **Light Bearer** — Prelapsus [Lapsus] (7:04) `isrc:DEZ651116164` `qobuz:48632405`
+- **Lord Mantis** — Body Choke [Death Mask] (8:46) `isrc:USN681410024` `qobuz:52297617`
+- **Juf Roos** — Schuitje varen, theetje drinken [Kerstvakantie met Juf Roos] (1:02) `isrc:NLP762300033` `qobuz:372494364`
+- **The Body** — To Carry the Seeds of Death Within Me [I Shall Die Here / Earth Triumphant] (6:29) `isrc:US6PQ1400001` `qobuz:202389249`
+- **Coffinworm** — Start Saving for Your Funeral [When All Became None] (6:16) `isrc:USN681010041` `qobuz:41092152`
+- **Sumac** — The Task [St Vitus 09​/​07​/​2018] (19:44) `isrc:USA2B2202490` `qobuz:158658890`
+- **Bossk** — Kobe [Audio Noir] (7:00) `isrc:QZ22D2300014` `qobuz:72949089`
+- **Inter Arma** — The Paradise Gallows [Paradise Gallows] (11:41) `isrc:US2641634007` `qobuz:31220003`
+- **Mantar** — Era Borealis [Ode to the Flame] (4:00) `isrc:DED831501221` `qobuz:60774811`
+- **Voka Gentle** — Creon I [Domestic Bliss] (3:19) `isrc:GB9GM2400060` `qobuz:352232805`
+- **Sea Bastard** — Nokken [Scabrous] (17:03) `isrc:GBFVJ1400027` `qobuz:15289707`
+- **The Hands** — Where's My Baby [live and breathe] (4:38) `isrc:USCGH0561816` `qobuz:77471554`
+- **Primitive Man** — My Will [Caustic] (5:05) `isrc:US2641737601` `qobuz:42328453`
+- **Yautja** — A Killing Joke [The Lurch] (3:52) `isrc:US2642148201` `qobuz:115322565`
+- **Conjurer** — Choke [Mire] (6:00) `isrc:GBMLT1501025` `qobuz:112501477`
+- **Ancient Rites** — Land Of Frost And Despair [The Diabolic Serenades] (4:43) `isrc:NLB930401605` `qobuz:141303029`
+- **Oklou** — plague dogs [choke enough] (1:45) `isrc:QZVM32200353` `qobuz:316059470`
+- **Thou** — The Changeling Prince [Magus] (6:29) `isrc:US5NR1820504` `qobuz:49925990`
+- **Body Void** — Haunted [I Live Inside a Burning House] (18:18) `isrc:QMDA71823940` `qobuz:72962966`
+- **Tuskar** — Matriarch [Matriarch] (11:50) `isrc:GX34M2100050` `qobuz:135289027`
+- **Vile Creature** — Harbinger of Nothing [Glory, Glory! Apathy Took Helm!] (11:02) `isrc:USERN1010214` `qobuz:88623673`
+- **Chained to the Bottom of the Ocean** — Hole in My Head [Obsession Destruction] (3:22) `isrc:GX8KD2367772` `qobuz:198859291`
+- **LLNN** — Imperial [Unmaker] (4:55) `isrc:QM4TX2149458` `qobuz:125572457`

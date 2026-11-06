@@ -1,0 +1,1009 @@
+{
+  "name": "Genre: Euro Disco",
+  "services": {
+    "qobuz": "66736979"
+  },
+  "description": "Imported genre playlist: Euro Disco.",
+  "tracks": [
+    {
+      "artist": "Little Barrie",
+      "title": "Why Don't You Do It",
+      "services": {
+        "qobuz": "3158515"
+      },
+      "album": "Stand Your Ground",
+      "duration": 190,
+      "isrc": "GBENL0600644"
+    },
+    {
+      "artist": "Penny McLean",
+      "title": "Lady Bump",
+      "services": {
+        "qobuz": "77416615"
+      },
+      "album": "Lady Bump",
+      "duration": 226,
+      "isrc": "USRDC7520050"
+    },
+    {
+      "artist": "Silver Convention",
+      "title": "Fly, Robin, Fly",
+      "services": {
+        "qobuz": "251434689"
+      },
+      "album": "Save Me",
+      "duration": 332,
+      "isrc": "QMWHB2424043"
+    },
+    {
+      "artist": "The Sumos",
+      "title": "My Chinese Girl Likes Kung Fu Fighting",
+      "services": {
+        "qobuz": "104243319"
+      },
+      "album": "Funky Chimes : Belgian Grooves From The 70's",
+      "duration": 166,
+      "isrc": "BEN581700116"
+    },
+    {
+      "artist": "Marianne Rosenberg",
+      "title": "Ich bin wie du",
+      "services": {
+        "qobuz": "283219"
+      },
+      "album": "Ich bin wie du",
+      "duration": 218,
+      "isrc": "DEC739000005"
+    },
+    {
+      "artist": "Supermax",
+      "title": "Love Machine",
+      "services": {
+        "qobuz": "212051777"
+      },
+      "album": "Love Machine 88",
+      "duration": 451,
+      "isrc": "ATB152200148"
+    },
+    {
+      "artist": "Munich Machine",
+      "title": "Get on the Funk Train",
+      "services": {
+        "qobuz": "45787036"
+      },
+      "album": "Munich Machine",
+      "duration": 950,
+      "isrc": "DED461700663"
+    },
+    {
+      "artist": "Trax",
+      "title": "Watch Out For The Boogie Man (Album Version)",
+      "services": {
+        "qobuz": "77816763"
+      },
+      "album": "Giorgio Moroder - On the Groove Train, Volume 1 (1975-1993)",
+      "duration": 864,
+      "isrc": "DED467700075"
+    },
+    {
+      "artist": "The Pineapple Thief",
+      "title": "The Final Thing on My Mind",
+      "services": {
+        "qobuz": "51162292"
+      },
+      "album": "Your Wilderness",
+      "duration": 593,
+      "isrc": "GBCQV1600298"
+    },
+    {
+      "artist": "Ganymed",
+      "title": "It Takes Me Higher",
+      "services": {
+        "qobuz": "317884675"
+      },
+      "album": "It Takes Me Higher",
+      "duration": 221,
+      "isrc": "ATR981339644"
+    },
+    {
+      "artist": "Boney M.",
+      "title": "Rasputin",
+      "services": {
+        "qobuz": "6216991"
+      },
+      "album": "The Essential Boney M.",
+      "duration": 265,
+      "isrc": "DED169200001"
+    },
+    {
+      "artist": "Chilly",
+      "title": "For Your Love And For Your Love Suite",
+      "services": {
+        "qobuz": "147970119"
+      },
+      "album": "For Your Love",
+      "duration": 716,
+      "isrc": "DEF067804920"
+    },
+    {
+      "artist": "Udo J\u00fcrgens",
+      "title": "Ich wei\u00df, was ich will",
+      "services": {
+        "qobuz": "19839"
+      },
+      "album": "Best Of",
+      "duration": 303,
+      "isrc": "DEA818000012"
+    },
+    {
+      "artist": "Peter Kent",
+      "title": "It's A Real Good Feeling",
+      "services": {
+        "qobuz": "68409173"
+      },
+      "album": "I Feel Good",
+      "duration": 232,
+      "isrc": "USA371073024"
+    },
+    {
+      "artist": "Goombay Dance Band",
+      "title": "Under the Sun, Moon and the Stars",
+      "services": {
+        "qobuz": "46275023"
+      },
+      "album": "Sun Of Jamaica",
+      "duration": 227,
+      "isrc": "GBLGL1274881"
+    },
+    {
+      "artist": "Dschinghis Khan",
+      "title": "Moskau",
+      "services": {
+        "qobuz": "2448100"
+      },
+      "album": "7 Leben",
+      "duration": 220,
+      "isrc": "DEUM70703331"
+    },
+    {
+      "artist": "Amanda Lear",
+      "title": "Follow Me",
+      "services": {
+        "qobuz": "298342"
+      },
+      "album": "The Collection",
+      "duration": 230,
+      "isrc": "DEA817800042"
+    },
+    {
+      "artist": "Precious Wilson",
+      "title": "Cry to Me",
+      "services": {
+        "qobuz": "390735"
+      },
+      "album": "Greatest Hits",
+      "duration": 229,
+      "isrc": "DED169400107"
+    },
+    {
+      "artist": "A La Carte",
+      "title": "Do Wah Diddy Diddy Round",
+      "services": {
+        "qobuz": "387100432"
+      },
+      "album": "The Wonderful Hits of A La Carte",
+      "duration": 219,
+      "isrc": "DEA410500113"
+    },
+    {
+      "artist": "Saragossa Band",
+      "title": "Agadou",
+      "services": {
+        "qobuz": "13872653"
+      },
+      "album": "Happy Birthday",
+      "duration": 203,
+      "isrc": "DEA818100038"
+    },
+    {
+      "artist": "Bimbo Jet",
+      "title": "El Bimbo",
+      "services": {
+        "qobuz": "61621918"
+      },
+      "album": "El Bimbo",
+      "duration": 142,
+      "isrc": "FRZ041901189"
+    },
+    {
+      "artist": "Terje Isungset",
+      "title": "Crystal Clear",
+      "services": {
+        "qobuz": "197110131"
+      },
+      "album": "World of Glass",
+      "duration": 194,
+      "isrc": "NOCMD1401040"
+    },
+    {
+      "artist": "Cerrone",
+      "title": "Supernature",
+      "services": {
+        "qobuz": "97164843"
+      },
+      "album": "3 - Supernature",
+      "duration": 585,
+      "isrc": "FRF887700150"
+    },
+    {
+      "artist": "Space",
+      "title": "Magic Fly",
+      "services": {
+        "qobuz": "294328534"
+      },
+      "album": "Magic Fly",
+      "duration": 260,
+      "isrc": "GBPUP0915204"
+    },
+    {
+      "artist": "Voyage",
+      "title": "Scotch Machine",
+      "services": {
+        "qobuz": "385619252"
+      },
+      "album": "Voyage",
+      "duration": 206,
+      "isrc": "FR23F7700270"
+    },
+    {
+      "artist": "Belle Epoque",
+      "title": "Miss Broadway",
+      "services": {
+        "qobuz": "93820231"
+      },
+      "album": "Miss Broadway",
+      "duration": 444,
+      "isrc": "QM4TX2026517"
+    },
+    {
+      "artist": "Najee",
+      "title": "Now That I've Found You",
+      "services": {
+        "qobuz": "997031"
+      },
+      "album": "Love Songs",
+      "duration": 384,
+      "isrc": "USEM39400177"
+    },
+    {
+      "artist": "Kongas",
+      "title": "Africanism/Gimme Some Lovin",
+      "services": {
+        "qobuz": "46331006"
+      },
+      "album": "The Best of Cerrone Productions",
+      "duration": 420,
+      "isrc": "FR0D01400140"
+    },
+    {
+      "artist": "Claude Fran\u00e7ois",
+      "title": "Alexandrie Alexandra",
+      "services": {
+        "qobuz": "2902846"
+      },
+      "album": "Magnolias for Ever",
+      "duration": 262,
+      "isrc": "FRZ167701830"
+    },
+    {
+      "artist": "Sam Sauvage",
+      "title": "Caf\u00e9-Cr\u00e8me",
+      "services": {
+        "qobuz": "203498005"
+      },
+      "album": "Pr\u00e9mices",
+      "duration": 179,
+      "isrc": "TCAGY2322555"
+    },
+    {
+      "artist": "Alec R. Costandinos and The Syncophonic Orchestra",
+      "title": "Romeo and Juliet (Acts I, II & III) [2024 Remaster]",
+      "services": {
+        "qobuz": "282570618"
+      },
+      "album": "Romeo & Juliet (2024 Remaster)",
+      "duration": 931,
+      "isrc": "TCAIN2440544"
+    },
+    {
+      "artist": "Cerrone",
+      "title": "Got To Have Loving",
+      "services": {
+        "qobuz": "19637269"
+      },
+      "album": "Don Ray - Garden Of Love",
+      "duration": 499,
+      "isrc": "FR0D07800010"
+    },
+    {
+      "artist": "Patrick Hernandez",
+      "title": "Born to Be Alive",
+      "services": {
+        "qobuz": "1519772"
+      },
+      "album": "Born To Be Alive - Single",
+      "duration": 188,
+      "isrc": "FRX957900007"
+    },
+    {
+      "artist": "Starlite Karaoke",
+      "title": "Spacer (In the Style of Sheila B. Devotion)",
+      "services": {
+        "qobuz": "183176593"
+      },
+      "album": "Starlite Karaoke Presents Pop Hits, Vol. 5 (1980s)",
+      "duration": 195,
+      "isrc": "CAM460702614"
+    },
+    {
+      "artist": "Dalida",
+      "title": "Monday, Tuesday... Laissez-moi danser",
+      "services": {
+        "qobuz": "37674681"
+      },
+      "album": "Les 50 plus belles chansons",
+      "duration": 226,
+      "isrc": "FRZ017901410"
+    },
+    {
+      "artist": "Gibson Brothers",
+      "title": "Cuba",
+      "services": {
+        "qobuz": "3759983"
+      },
+      "album": "The Complete Of Gibson Brothers",
+      "duration": 453,
+      "isrc": "FR58F7800090"
+    },
+    {
+      "artist": "Ottawan",
+      "title": "D.I.S.C.O.",
+      "services": {
+        "qobuz": "126798241"
+      },
+      "album": "D.I.S.C.O.",
+      "duration": 196,
+      "isrc": "FR58F7900100"
+    },
+    {
+      "artist": "Karen Cheryl",
+      "title": "Show Me You're Man Enough",
+      "services": {
+        "qobuz": "254558391"
+      },
+      "album": "Show Me You're Man Enough (Remasteris\u00e9 en 2024)",
+      "duration": 218,
+      "isrc": "FRZ042300447"
+    },
+    {
+      "artist": "Chantal Curtis",
+      "title": "Get Another Love",
+      "services": {
+        "qobuz": "299416894"
+      },
+      "album": "Get Another Love",
+      "duration": 530,
+      "isrc": "DEG932402575"
+    },
+    {
+      "artist": "David Christie",
+      "title": "Saddle Up",
+      "services": {
+        "qobuz": "131700157"
+      },
+      "album": "Saddle Up",
+      "duration": 332,
+      "isrc": "FRPI18200150"
+    },
+    {
+      "artist": "Spooky & Sue",
+      "title": "Swinging On A Star",
+      "services": {
+        "qobuz": "128471650"
+      },
+      "album": "Spooky & Sue",
+      "duration": 157,
+      "isrc": "NLC282100194"
+    },
+    {
+      "artist": "Teach In",
+      "title": "Ding-A-Dong (English Version)",
+      "services": {
+        "qobuz": "119963513"
+      },
+      "album": "Ding-A-Dong Winner Eurovision Festival 1975",
+      "duration": 147,
+      "isrc": "NLC282100050"
+    },
+    {
+      "artist": "The Internationals",
+      "title": "Young And In Love",
+      "services": {
+        "qobuz": "329076251"
+      },
+      "album": "Young And In Love",
+      "duration": 187,
+      "isrc": "NLC282500164"
+    },
+    {
+      "artist": "Luv",
+      "title": "You're The Greatest Lover",
+      "services": {
+        "qobuz": "387680367"
+      },
+      "album": "You're The Greatest Lover",
+      "duration": 151,
+      "isrc": "NLS242600011"
+    },
+    {
+      "artist": "Patricia Paay",
+      "title": "Moonraker",
+      "services": {
+        "qobuz": "274680943"
+      },
+      "album": "Malibu Touch",
+      "duration": 209,
+      "isrc": "NLUM72400028"
+    },
+    {
+      "artist": "ABBA",
+      "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "services": {
+        "qobuz": "15644312"
+      },
+      "album": "ABBA Gold (Anniversary Edition)",
+      "duration": 288,
+      "isrc": "SEAYD7901120"
+    },
+    {
+      "artist": "Babe",
+      "title": "(Never Listen To A) Bouzouki Player",
+      "services": {
+        "qobuz": "360724227"
+      },
+      "album": "Babe!",
+      "duration": 183,
+      "isrc": "NLUM72501356"
+    },
+    {
+      "artist": "Cashmere",
+      "title": "Love's What I Want",
+      "services": {
+        "qobuz": "176100724"
+      },
+      "album": "Love's What I Want",
+      "duration": 206,
+      "isrc": "NLP431100416"
+    },
+    {
+      "artist": "Spargo",
+      "title": "You And Me",
+      "services": {
+        "qobuz": "57637672"
+      },
+      "album": "Just For You And Me - The Greatest Hits Collection",
+      "duration": 254,
+      "isrc": "NLC288000122"
+    },
+    {
+      "artist": "Maywood",
+      "title": "Late At Night",
+      "services": {
+        "qobuz": "4633921"
+      },
+      "album": "Het Beste Van Maywood",
+      "duration": 204,
+      "isrc": "NLA278000096"
+    },
+    {
+      "artist": "Stars On 45",
+      "title": "Stars On 45",
+      "services": {
+        "qobuz": "37103934"
+      },
+      "album": "Stars On 45 - The Very Best Of ...",
+      "duration": 587,
+      "isrc": "NLC288100004"
+    },
+    {
+      "artist": "Doris D.",
+      "title": "And Again",
+      "services": {
+        "qobuz": "4175867"
+      },
+      "album": "Shine Up & Other Great Hits",
+      "duration": 230,
+      "isrc": "NLG620410690"
+    },
+    {
+      "artist": "Thunderstorm",
+      "title": "Hey You Get Ready",
+      "services": {
+        "qobuz": "116019541"
+      },
+      "album": "Thunderstorm",
+      "duration": 230,
+      "isrc": "NLE321700473"
+    },
+    {
+      "artist": "Time Bandits",
+      "title": "I'm Specialized in You",
+      "services": {
+        "qobuz": "2829905"
+      },
+      "album": "Greatest Hits",
+      "duration": 230,
+      "isrc": "NLD018211001"
+    },
+    {
+      "artist": "The Chaplin Band",
+      "title": "Il Veliero",
+      "services": {
+        "qobuz": "160828986"
+      },
+      "album": "Il Veliero",
+      "duration": 718,
+      "isrc": "NLP430910409"
+    },
+    {
+      "artist": "forrest",
+      "title": "She's So Divine",
+      "services": {
+        "qobuz": "55934091"
+      },
+      "album": "One Lover",
+      "duration": 355,
+      "isrc": "NLP431500131"
+    },
+    {
+      "artist": "Chapel Hart",
+      "title": "You Can Have Him Jolene",
+      "services": {
+        "qobuz": "127564977"
+      },
+      "album": "The Girls Are Back in Town",
+      "duration": 192,
+      "isrc": "TCAFQ2134545"
+    },
+    {
+      "artist": "Fantastique",
+      "title": "Costa Blanca",
+      "services": {
+        "qobuz": "36699839"
+      },
+      "album": "Costa Blanca",
+      "duration": 244,
+      "isrc": "NLC288200194"
+    },
+    {
+      "artist": "Dolly Dots",
+      "title": "Love Me Just a Little Bit More (Totally Hooked on You)",
+      "services": {
+        "qobuz": "19798671"
+      },
+      "album": "Dolly Dots - Love Me Just A Little Bit More / Greatest Hits (IA EP Bundle)",
+      "duration": 210,
+      "isrc": "NLA808300004"
+    },
+    {
+      "artist": "The Broads",
+      "title": "Sing Sing Sing (Mega Be-Bop Mix)",
+      "services": {
+        "qobuz": "116028629"
+      },
+      "album": "Sing Sing Sing",
+      "duration": 583,
+      "isrc": "NLE321803149"
+    },
+    {
+      "artist": "Barrabas",
+      "title": "Hi Jack",
+      "services": {
+        "qobuz": "100962506"
+      },
+      "album": "Soltad a Barrabas",
+      "duration": 346,
+      "isrc": "DEA370801282"
+    },
+    {
+      "artist": "Baccara",
+      "title": "Yes Sir, I Can Boogie",
+      "services": {
+        "qobuz": "348976"
+      },
+      "album": "Best Of",
+      "duration": 275,
+      "isrc": "DEC767700023"
+    },
+    {
+      "artist": "Disco Fever",
+      "title": "Raffaella Carr\u00e0 Hits Non Stop Megamix: Festa / A Far L'amore Comincia Tu / Rumore / Tanti Auguri / Maracaibo / Felicit\u00e0 T\u00e0 T\u00e0 / Ballo Ballo / Che Dolor",
+      "services": {
+        "qobuz": "43601601"
+      },
+      "album": "50 Top 80's Italo Dance Hits",
+      "duration": 1056,
+      "isrc": "FR6V81881318"
+    },
+    {
+      "artist": "Soul Iberica Band",
+      "title": "Baby Sitter",
+      "services": {
+        "qobuz": "301165106"
+      },
+      "album": "The Best of Disco Music, Vol. 3",
+      "duration": 215,
+      "isrc": "ES64E2413033"
+    },
+    {
+      "artist": "Dd Sound",
+      "title": "Shopping Baby",
+      "services": {
+        "qobuz": "161563969"
+      },
+      "album": "Dd Sound",
+      "duration": 343,
+      "isrc": "TCAGG2246301"
+    },
+    {
+      "artist": "Luisa Fernandez",
+      "title": "Stop - When You Do What You Do",
+      "services": {
+        "qobuz": "224926492"
+      },
+      "album": "Disco Darling",
+      "duration": 242,
+      "isrc": "DEA629262130"
+    },
+    {
+      "artist": "La Bionda",
+      "title": "One for You, One for Me",
+      "services": {
+        "qobuz": "220131896"
+      },
+      "album": "La Bionda",
+      "duration": 213,
+      "isrc": "USBI10000194"
+    },
+    {
+      "artist": "Chocolats",
+      "title": "Se\u00f1orita Por Favor",
+      "services": {
+        "qobuz": "126845635"
+      },
+      "album": "Los Sonidos Del Verano",
+      "duration": 156,
+      "isrc": "QM4TW1592201"
+    },
+    {
+      "artist": "BURNOUT SYNDROMES",
+      "title": "FLY HIGH!!",
+      "services": {
+        "qobuz": "95620487"
+      },
+      "album": "Lemon",
+      "duration": 244,
+      "isrc": "JPU901503546"
+    },
+    {
+      "artist": "Iv\u00e1n",
+      "title": "Sin Amor",
+      "services": {
+        "qobuz": "119724343"
+      },
+      "album": "Sin Amor",
+      "duration": 261,
+      "isrc": "ES5022100413"
+    },
+    {
+      "artist": "Azoto",
+      "title": "San Salvador",
+      "services": {
+        "qobuz": "220003054"
+      },
+      "album": "Disco Fizz",
+      "duration": 416,
+      "isrc": "NLP431800273"
+    },
+    {
+      "artist": "Easy Going",
+      "title": "Baby I Love You",
+      "services": {
+        "qobuz": "27014596"
+      },
+      "album": "Baby I Love You (Original) - Single",
+      "duration": 504,
+      "isrc": "ITU037800005"
+    },
+    {
+      "artist": "Passengers",
+      "title": "Hot Leather",
+      "services": {
+        "qobuz": "45806596"
+      },
+      "album": "Passengers",
+      "duration": 238,
+      "isrc": "USA560761856"
+    },
+    {
+      "artist": "PETER JACQUES BAND",
+      "title": "Walking On Music",
+      "services": {
+        "qobuz": "23156505"
+      },
+      "album": "Fire Night Dance (Original Album and Rare Tracks)",
+      "duration": 503,
+      "isrc": "ITB450800042"
+    },
+    {
+      "artist": "Tantra",
+      "title": "Hills Of Katmandu",
+      "services": {
+        "qobuz": "106311684"
+      },
+      "album": "Disco Recharge",
+      "duration": 279,
+      "isrc": "NLP437900007"
+    },
+    {
+      "artist": "Vivien Vee",
+      "title": "Give me a Break",
+      "services": {
+        "qobuz": "27013275"
+      },
+      "album": "Give me a Break (Original) - Single",
+      "duration": 531,
+      "isrc": "ITU037900007"
+    },
+    {
+      "artist": "Pino D'angio'",
+      "title": "Ma quale idea",
+      "services": {
+        "qobuz": "51775876"
+      },
+      "album": "Ma quale idea",
+      "duration": 262,
+      "isrc": "ITA647900295"
+    },
+    {
+      "artist": "Traks",
+      "title": "Long Train Running",
+      "services": {
+        "qobuz": "146310247"
+      },
+      "album": "Long Train Running",
+      "duration": 422,
+      "isrc": "ITE288220221"
+    },
+    {
+      "artist": "Azul y Negro",
+      "title": "The Night",
+      "services": {
+        "qobuz": "44859007"
+      },
+      "album": "El Color De Los Exitos",
+      "duration": 241,
+      "isrc": "ES5009700049"
+    },
+    {
+      "artist": "Club House",
+      "title": "Do it Again Medley with Billie Jean",
+      "services": {
+        "qobuz": "258771794"
+      },
+      "album": "Do it Again Medley with Billie Jean",
+      "duration": 385,
+      "isrc": "ITI058300002"
+    },
+    {
+      "artist": "Blackblood",
+      "title": "A.I.E.(A Mwana)",
+      "services": {
+        "qobuz": "148367328"
+      },
+      "album": "A.I.E. A'mwana - The Best Of Black Blood",
+      "duration": 172,
+      "isrc": "BEL019300005"
+    },
+    {
+      "artist": "Tele Music Classic Vaults",
+      "title": "OK Chicago",
+      "services": {
+        "qobuz": "235715237"
+      },
+      "album": "Tele Music, 30 Classics French Music Library, Vol 1",
+      "duration": 153,
+      "isrc": "QMANG2219217"
+    },
+    {
+      "artist": "Sublime",
+      "title": "5446 Thats My Number/ Ball And Chain",
+      "services": {
+        "qobuz": "33081881"
+      },
+      "album": "40oz. To Freedom",
+      "duration": 317,
+      "isrc": "USMC19544449"
+    },
+    {
+      "artist": "Stereolab",
+      "title": "People Do It All The Time",
+      "services": {
+        "qobuz": "79198158"
+      },
+      "album": "Cobra And Phases Group Play Voltage In The Milky Night",
+      "duration": 221,
+      "isrc": "USEE19900387"
+    },
+    {
+      "artist": "K7",
+      "title": "I Love to Turn You On (Zunga Zeng)",
+      "services": {
+        "qobuz": "169136918"
+      },
+      "album": "Swing Batta Swing",
+      "duration": 273,
+      "isrc": "USTB10300422"
+    },
+    {
+      "artist": "Rockets",
+      "title": "Future Woman",
+      "services": {
+        "qobuz": "78601403"
+      },
+      "album": "Rockets",
+      "duration": 353,
+      "isrc": "CH6321402934"
+    },
+    {
+      "artist": "Philarmonics",
+      "title": "For Elise",
+      "services": {
+        "qobuz": "104564069"
+      },
+      "album": "The Best Of",
+      "duration": 278,
+      "isrc": "BEL017800088"
+    },
+    {
+      "artist": "The S.S.O. Orchestra",
+      "title": "Right Here Right Now",
+      "services": {
+        "qobuz": "93679606"
+      },
+      "album": "Shine Your Light",
+      "duration": 313,
+      "isrc": "QM4TX2025142"
+    },
+    {
+      "artist": "Moon Boots",
+      "title": "STRONG MAN",
+      "services": {
+        "qobuz": "300782119"
+      },
+      "album": "STRONG MAN",
+      "duration": 185,
+      "isrc": "AUDCB1702930"
+    },
+    {
+      "artist": "Revelacion",
+      "title": "The House of the Rising Sun",
+      "services": {
+        "qobuz": "46330993"
+      },
+      "album": "The Best of Cerrone Productions",
+      "duration": 282,
+      "isrc": "FR0D01400010"
+    },
+    {
+      "artist": "Disco Bouzouki Band",
+      "title": "Greek Girls",
+      "services": {
+        "qobuz": "149507848"
+      },
+      "album": "Disco Bouzouki",
+      "duration": 257,
+      "isrc": "BEL017800111"
+    },
+    {
+      "artist": "Quartz",
+      "title": "Beyond the Clouds",
+      "services": {
+        "qobuz": "124276833"
+      },
+      "album": "Quartz",
+      "duration": 294,
+      "isrc": "USBEN1359302"
+    },
+    {
+      "artist": "Good News",
+      "title": "Australia",
+      "services": {
+        "qobuz": "104466621"
+      },
+      "album": "Australia",
+      "duration": 243,
+      "isrc": "BEL017900033"
+    },
+    {
+      "artist": "Two Man Sound",
+      "title": "Disco Samba",
+      "services": {
+        "qobuz": "336578031"
+      },
+      "album": "The Best Dance Music",
+      "duration": 423,
+      "isrc": "MXD941811758"
+    },
+    {
+      "artist": "Voyage",
+      "title": "We've Gotta Dance",
+      "services": {
+        "qobuz": "387125897"
+      },
+      "album": "Voyage presents Sylvia Mason",
+      "duration": 346,
+      "isrc": "FR8Y72300306"
+    },
+    {
+      "artist": "Mickey Dee",
+      "title": "Switch It Up",
+      "services": {
+        "qobuz": "83514481"
+      },
+      "album": "Switch It Up - Single",
+      "duration": 193,
+      "isrc": "USHM90807861"
+    },
+    {
+      "artist": "Full Force",
+      "title": "Your Love Makes Me High",
+      "services": {
+        "qobuz": "27489310"
+      },
+      "album": "Your Love Makes Me High",
+      "duration": 219,
+      "isrc": "USQX91501939"
+    },
+    {
+      "artist": "Rod",
+      "title": "Shake It Up (Do the Boogaloo)",
+      "services": {
+        "qobuz": "3071158"
+      },
+      "album": "Shake it up (do the boogaloo)",
+      "duration": 358,
+      "isrc": "FR03F8002850"
+    },
+    {
+      "artist": "Dance Reaction",
+      "title": "Disco Train",
+      "services": {
+        "qobuz": "258600086"
+      },
+      "album": "Disco Train",
+      "duration": 343,
+      "isrc": "NLP431040464"
+    },
+    {
+      "artist": "Tomcat",
+      "title": "Connecting Flight",
+      "services": {
+        "qobuz": "121032681"
+      },
+      "album": "Homeward",
+      "duration": 374,
+      "isrc": "DEL212102585"
+    }
+  ]
+}

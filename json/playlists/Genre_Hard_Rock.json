@@ -1,0 +1,1010 @@
+{
+  "name": "Genre: Hard Rock",
+  "services": {
+    "qobuz": "66737496",
+    "tidal": "40640b6a-98cd-49de-adac-cc825897b6ea"
+  },
+  "description": "Imported genre playlist: Hard Rock.",
+  "tracks": [
+    {
+      "artist": "Blue Cheer",
+      "title": "Summertime Blues",
+      "services": {
+        "qobuz": "61300886"
+      },
+      "album": "The History Of Blue Cheer: Good Times Are So Hard To Find",
+      "duration": 226,
+      "isrc": "USPR36806028"
+    },
+    {
+      "artist": "Steppenwolf",
+      "title": "Born To Be Wild",
+      "services": {
+        "qobuz": "20409861"
+      },
+      "album": "Steppenwolf",
+      "duration": 211,
+      "isrc": "USMC16846563"
+    },
+    {
+      "artist": "Grand Funk Railroad",
+      "title": "Inside Looking Out",
+      "services": {
+        "qobuz": "1009004"
+      },
+      "album": "Grand Funk (Red Album)",
+      "duration": 580,
+      "isrc": "USCA20200612"
+    },
+    {
+      "artist": "Led Zeppelin",
+      "title": "Whole Lotta Love",
+      "services": {
+        "qobuz": "17110879"
+      },
+      "album": "Led Zeppelin II",
+      "duration": 334,
+      "isrc": "USAT21207009"
+    },
+    {
+      "artist": "Free",
+      "title": "All Right Now",
+      "services": {
+        "qobuz": "4292143"
+      },
+      "album": "Fire And Water (Deluxe Edition)",
+      "duration": 332,
+      "isrc": "GBAAN7000001"
+    },
+    {
+      "artist": "James Gang",
+      "title": "Funk #49",
+      "services": {
+        "qobuz": "77510181"
+      },
+      "album": "Rides Again",
+      "duration": 246,
+      "isrc": "USMC17344505"
+    },
+    {
+      "artist": "Mountain",
+      "title": "Mississippi Queen",
+      "services": {
+        "qobuz": "89939"
+      },
+      "album": "Climbing!",
+      "duration": 151,
+      "isrc": "USSM10017943"
+    },
+    {
+      "artist": "Sir Lord Baltimore",
+      "title": "Kingdom Come",
+      "services": {
+        "qobuz": "54883185"
+      },
+      "album": "Kingdom Come",
+      "duration": 394,
+      "isrc": "USUM71008842"
+    },
+    {
+      "artist": "Faces",
+      "title": "Stay with Me",
+      "services": {
+        "qobuz": "26610701"
+      },
+      "album": "A Nod Is as Good as a Wink... to a Blind Horse",
+      "duration": 280,
+      "isrc": "USWB11400847"
+    },
+    {
+      "artist": "Leaf Hound",
+      "title": "Freelance Fiend",
+      "services": {
+        "qobuz": "3803851"
+      },
+      "album": "Growers Of Mushroom",
+      "duration": 190,
+      "isrc": "DED467100027"
+    },
+    {
+      "artist": "Toad",
+      "title": "Cotton Wood Hill",
+      "services": {
+        "qobuz": "10279212"
+      },
+      "album": "Toad",
+      "duration": 513,
+      "isrc": "DEBL60978194"
+    },
+    {
+      "artist": "Alice Cooper",
+      "title": "School's Out",
+      "services": {
+        "qobuz": "208261694"
+      },
+      "album": "School's Out",
+      "duration": 209,
+      "isrc": "USRH12103120"
+    },
+    {
+      "artist": "Deep Purple",
+      "title": "Highway Star",
+      "services": {
+        "qobuz": "6419035"
+      },
+      "album": "Machine Head",
+      "duration": 365,
+      "isrc": "GBDXG1200002"
+    },
+    {
+      "artist": "Humble Pie",
+      "title": "30 Days In The Hole",
+      "services": {
+        "qobuz": "24259726"
+      },
+      "album": "Smokin'",
+      "duration": 237,
+      "isrc": "USAM17200035"
+    },
+    {
+      "artist": "Uriah Heep",
+      "title": "Easy Livin'",
+      "services": {
+        "qobuz": "385569869"
+      },
+      "album": "Your Turn to Remember",
+      "duration": 156,
+      "isrc": "USMR17287066"
+    },
+    {
+      "artist": "Brownsville Station",
+      "title": "Smokin' in the Boy's Room",
+      "services": {
+        "qobuz": "2940371"
+      },
+      "album": "Yeah!",
+      "duration": 176,
+      "isrc": "USAT20107576"
+    },
+    {
+      "artist": "Budgie",
+      "title": "Breadfan",
+      "services": {
+        "qobuz": "365934375"
+      },
+      "album": "Never Turn Your Back On A Friend",
+      "duration": 365,
+      "isrc": "USUM70807087"
+    },
+    {
+      "artist": "Golden Earring",
+      "title": "Radar Love",
+      "services": {
+        "qobuz": "141765493"
+      },
+      "album": "Moontan",
+      "duration": 386,
+      "isrc": "NLC282100058"
+    },
+    {
+      "artist": "Montrose",
+      "title": "Rock Candy",
+      "services": {
+        "qobuz": "42520313"
+      },
+      "album": "Montrose (Deluxe Edition)",
+      "duration": 304,
+      "isrc": "USRH11701335"
+    },
+    {
+      "artist": "Rick Derringer",
+      "title": "Rock and Roll, Hoochie Koo",
+      "services": {
+        "qobuz": "73168309"
+      },
+      "album": "All American Boy (Expanded Edition)",
+      "duration": 225,
+      "isrc": "USSM10021862"
+    },
+    {
+      "artist": "The Sensational Alex Harvey Band",
+      "title": "Midnight Moses",
+      "services": {
+        "qobuz": "50519509"
+      },
+      "album": "Zalvation",
+      "duration": 304,
+      "isrc": "GBMRL0600002"
+    },
+    {
+      "artist": "Bachman-Turner Overdrive",
+      "title": "Not Fragile",
+      "services": {
+        "qobuz": "128578654"
+      },
+      "album": "Not Fragile",
+      "duration": 246,
+      "isrc": "USIR20000341"
+    },
+    {
+      "artist": "Bad Company",
+      "title": "Can't Get Enough",
+      "services": {
+        "qobuz": "23695790"
+      },
+      "album": "Bad Company",
+      "duration": 257,
+      "isrc": "USAT21500891"
+    },
+    {
+      "artist": "U.F.O.",
+      "title": "Doctor Doctor",
+      "services": {
+        "qobuz": "169167297"
+      },
+      "album": "Will the Last Man Standing (Turn Out the Light): The Best of UFO",
+      "duration": 250,
+      "isrc": "UKKP21900156"
+    },
+    {
+      "artist": "Aerosmith",
+      "title": "Walk This Way",
+      "services": {
+        "qobuz": "225811493"
+      },
+      "album": "Greatest Hits",
+      "duration": 219,
+      "isrc": "USSM19906481"
+    },
+    {
+      "artist": "Angel",
+      "title": "Tower",
+      "services": {
+        "qobuz": "54992026"
+      },
+      "album": "The Casablanca Years",
+      "duration": 417,
+      "isrc": "USDJ20200758"
+    },
+    {
+      "artist": "Armageddon",
+      "title": "Buzzard",
+      "services": {
+        "qobuz": "26868494"
+      },
+      "album": "Armageddon",
+      "duration": 501,
+      "isrc": "DESK91511101"
+    },
+    {
+      "artist": "Head East",
+      "title": "Never Been Any Reason",
+      "services": {
+        "qobuz": "131168612"
+      },
+      "album": "Flat As A Pancake",
+      "duration": 311,
+      "isrc": "USAM10110173"
+    },
+    {
+      "artist": "Moxy",
+      "title": "Sail On Sail Away",
+      "services": {
+        "qobuz": "12259685"
+      },
+      "album": "Moxy",
+      "duration": 292,
+      "isrc": "CAU117503005"
+    },
+    {
+      "artist": "Nazareth",
+      "title": "Hair of the Dog",
+      "services": {
+        "qobuz": "385582726"
+      },
+      "album": "Hair of the Dog",
+      "duration": 251,
+      "isrc": "GBCBR0402135"
+    },
+    {
+      "artist": "Ted Nugent",
+      "title": "Stranglehold",
+      "services": {
+        "qobuz": "3110247"
+      },
+      "album": "Ted Nugent",
+      "duration": 502,
+      "isrc": "USSM19804011"
+    },
+    {
+      "artist": "Kiss",
+      "title": "Detroit Rock City",
+      "services": {
+        "qobuz": "19998935"
+      },
+      "album": "Destroyer",
+      "duration": 314,
+      "isrc": "USPR37609134"
+    },
+    {
+      "artist": "Ritchie Blackmore's Rainbow",
+      "title": "Stargazer",
+      "services": {
+        "qobuz": "3881949"
+      },
+      "album": "Rising",
+      "duration": 505,
+      "isrc": "USPR37680077"
+    },
+    {
+      "artist": "Starz",
+      "title": "Cherry Baby",
+      "services": {
+        "qobuz": "67339236"
+      },
+      "album": "Violation",
+      "duration": 227,
+      "isrc": "USCA27700241"
+    },
+    {
+      "artist": "The Runaways",
+      "title": "Cherry Bomb",
+      "services": {
+        "qobuz": "8605566"
+      },
+      "album": "The Runaways",
+      "duration": 138,
+      "isrc": "USIR20200576"
+    },
+    {
+      "artist": "Thin Lizzy",
+      "title": "The Boys Are Back In Town",
+      "services": {
+        "qobuz": "711265"
+      },
+      "album": "The Boys Are Back In Town / Jailbreak",
+      "duration": 263,
+      "isrc": "GBF087600063"
+    },
+    {
+      "artist": "Blue \u00d6yster Cult",
+      "title": "Godzilla",
+      "services": {
+        "qobuz": "33443774"
+      },
+      "album": "Spectres",
+      "duration": 221,
+      "isrc": "USSM19917720"
+    },
+    {
+      "artist": "Detective",
+      "title": "Recognition",
+      "services": {
+        "qobuz": "127443242"
+      },
+      "album": "Detective",
+      "duration": 271,
+      "isrc": "QMFME2119610"
+    },
+    {
+      "artist": "Heart",
+      "title": "Barracuda",
+      "services": {
+        "qobuz": "49356"
+      },
+      "album": "Little Queen",
+      "duration": 261,
+      "isrc": "USSM10009075"
+    },
+    {
+      "artist": "Legs Diamond",
+      "title": "Woman",
+      "services": {
+        "qobuz": "48818415"
+      },
+      "album": "A Diamond is a Hard Rock",
+      "duration": 401,
+      "isrc": "GBD8D1700722"
+    },
+    {
+      "artist": "Ram Jam",
+      "title": "Black Betty",
+      "services": {
+        "qobuz": "19426653"
+      },
+      "album": "Ram Jam",
+      "duration": 240,
+      "isrc": "USSM10211288"
+    },
+    {
+      "artist": "Skarlett Riot",
+      "title": "Warrior",
+      "services": {
+        "qobuz": "99724893"
+      },
+      "album": "Regenerate",
+      "duration": 215,
+      "isrc": "SEXTE1701910"
+    },
+    {
+      "artist": "The Angels",
+      "title": "Am I Ever Gonna See Your Face Again (1979 Re-record)",
+      "services": {
+        "qobuz": "427149920"
+      },
+      "album": "Am I Ever Gonna See Your Face Again (50 Years On)",
+      "duration": 219,
+      "isrc": "AULI02567530"
+    },
+    {
+      "artist": "April Wine",
+      "title": "Roller",
+      "services": {
+        "qobuz": "198072967"
+      },
+      "album": "Classic Masters",
+      "duration": 259,
+      "isrc": "USCA20200106"
+    },
+    {
+      "artist": "Jeremy Jordan",
+      "title": "Raise a Little Hell",
+      "services": {
+        "qobuz": "192790793"
+      },
+      "album": "Bonnie & Clyde (Original Broadway Cast Recording)",
+      "duration": 188,
+      "isrc": "QMQYB1210010"
+    },
+    {
+      "artist": "Van Halen",
+      "title": "Runnin' with the Devil",
+      "services": {
+        "qobuz": "10474348"
+      },
+      "album": "Van Halen (Hi-Res Version)",
+      "duration": 216,
+      "isrc": "USWB11300431"
+    },
+    {
+      "artist": "AC/DC",
+      "title": "Highway to Hell",
+      "services": {
+        "qobuz": "19906039"
+      },
+      "album": "Highway To Hell",
+      "duration": 208,
+      "isrc": "AUAP07900028"
+    },
+    {
+      "artist": "Pat Travers",
+      "title": "Boom Boom (Out Go The Lights)",
+      "services": {
+        "qobuz": "112880761"
+      },
+      "album": "Live! Go For What You Know",
+      "duration": 306,
+      "isrc": "USWWW0201231"
+    },
+    {
+      "artist": "Scorpions",
+      "title": "Always Somewhere",
+      "services": {
+        "qobuz": "385569664"
+      },
+      "album": "Lovedrive",
+      "duration": 297,
+      "isrc": "DELV41501081"
+    },
+    {
+      "artist": "Triumph",
+      "title": "Lay It On The Line",
+      "services": {
+        "qobuz": "274179300"
+      },
+      "album": "Triumph: Rock And Roll Machine",
+      "duration": 245,
+      "isrc": "QM7YK1600235"
+    },
+    {
+      "artist": "Billy Squier",
+      "title": "The Stroke",
+      "services": {
+        "qobuz": "16657251"
+      },
+      "album": "Don't Say No",
+      "duration": 217,
+      "isrc": "USCA21001203"
+    },
+    {
+      "artist": "Joan Jett & The Blackhearts",
+      "title": "I Love Rock 'N Roll",
+      "services": {
+        "qobuz": "386731293"
+      },
+      "album": "I Love Rock 'N' Roll (Expanded Edition)",
+      "duration": 175,
+      "isrc": "USBH18100118"
+    },
+    {
+      "artist": "Night Ranger",
+      "title": "Don't Tell Me You Love Me",
+      "services": {
+        "qobuz": "418604701"
+      },
+      "album": "Don't Tell Me You Love Me",
+      "duration": 266,
+      "isrc": "ITG272600274"
+    },
+    {
+      "artist": "Def Leppard",
+      "title": "Rock Of Ages",
+      "services": {
+        "qobuz": "46564241"
+      },
+      "album": "Pyromania",
+      "duration": 247,
+      "isrc": "GBF088200420"
+    },
+    {
+      "artist": "Krokus",
+      "title": "Screaming in the Night",
+      "services": {
+        "qobuz": "202035"
+      },
+      "album": "Head Hunter",
+      "duration": 397,
+      "isrc": "USAR10000048"
+    },
+    {
+      "artist": "Bon Jovi",
+      "title": "Runaway",
+      "services": {
+        "qobuz": "112883703"
+      },
+      "album": "Bon Jovi",
+      "duration": 230,
+      "isrc": "USPR39402231"
+    },
+    {
+      "artist": "Ratt",
+      "title": "Round and Round",
+      "services": {
+        "qobuz": "385665988"
+      },
+      "album": "Out of the Cellar",
+      "duration": 265,
+      "isrc": "USAT29900560"
+    },
+    {
+      "artist": "Twisted Sister",
+      "title": "We're Not Gonna Take It",
+      "services": {
+        "qobuz": "387303460"
+      },
+      "album": "Stay Hungry",
+      "duration": 219,
+      "isrc": "USAT20000548"
+    },
+    {
+      "artist": "Cinderella",
+      "title": "Nobody's Fool",
+      "services": {
+        "qobuz": "3883374"
+      },
+      "album": "Night Songs",
+      "duration": 286,
+      "isrc": "USPR38630019"
+    },
+    {
+      "artist": "Europe",
+      "title": "Rock the Night",
+      "services": {
+        "qobuz": "88145"
+      },
+      "album": "The Final Countdown (Expanded Edition)",
+      "duration": 247,
+      "isrc": "USSM10105445"
+    },
+    {
+      "artist": "Poison",
+      "title": "Talk Dirty To Me",
+      "services": {
+        "qobuz": "34655986"
+      },
+      "album": "Look What The Cat Dragged In",
+      "duration": 224,
+      "isrc": "USCA28600090"
+    },
+    {
+      "artist": "Tesla (Band)",
+      "title": "Modern Day Cowboy",
+      "services": {
+        "qobuz": "755578"
+      },
+      "album": "Mechanical Resonance",
+      "duration": 318,
+      "isrc": "USGF18612007"
+    },
+    {
+      "artist": "Great White",
+      "title": "Rock Me",
+      "services": {
+        "qobuz": "198103717"
+      },
+      "album": "Recovery: Live!",
+      "duration": 437,
+      "isrc": "USCA28700116"
+    },
+    {
+      "artist": "Guns N' Roses",
+      "title": "Welcome To The Jungle",
+      "services": {
+        "qobuz": "51041290"
+      },
+      "album": "Appetite For Destruction (Super Deluxe) - 192 kHz",
+      "duration": 273,
+      "isrc": "USGF18714801"
+    },
+    {
+      "artist": "White Lion",
+      "title": "Wait",
+      "services": {
+        "qobuz": "31052323"
+      },
+      "album": "Pride",
+      "duration": 240,
+      "isrc": "USRH11600127"
+    },
+    {
+      "artist": "Whitesnake",
+      "title": "Still Of The Night",
+      "services": {
+        "qobuz": "379868279"
+      },
+      "album": "Whitesnake",
+      "duration": 397,
+      "isrc": "GB01A1800006"
+    },
+    {
+      "artist": "Kingdom Come",
+      "title": "Get It On",
+      "services": {
+        "qobuz": "4346151"
+      },
+      "album": "Kingdom Come",
+      "duration": 261,
+      "isrc": "USF068925250"
+    },
+    {
+      "artist": "Lita Ford",
+      "title": "Kiss Me Deadly",
+      "services": {
+        "qobuz": "198202"
+      },
+      "album": "Lita",
+      "duration": 241,
+      "isrc": "USRC18705885"
+    },
+    {
+      "artist": "Vixen",
+      "title": "Edge of a Broken Heart (Live)",
+      "services": {
+        "qobuz": "125180591"
+      },
+      "album": "Live Fire",
+      "duration": 342,
+      "isrc": "TCADQ1879064"
+    },
+    {
+      "artist": "Winger",
+      "title": "Seventeen",
+      "services": {
+        "qobuz": "173735608"
+      },
+      "album": "The Atlantic Albums",
+      "duration": 245,
+      "isrc": "USAT20902970"
+    },
+    {
+      "artist": "Blue Murder",
+      "title": "Jelly Roll",
+      "services": {
+        "qobuz": "54944406"
+      },
+      "album": "Blue Murder",
+      "duration": 282,
+      "isrc": "USGF19921204"
+    },
+    {
+      "artist": "L.A. Guns",
+      "title": "The Ballad Of Jayne",
+      "services": {
+        "qobuz": "60429084"
+      },
+      "album": "Cocked And Loaded",
+      "duration": 273,
+      "isrc": "USPR38930331"
+    },
+    {
+      "artist": "Mr. Big",
+      "title": "Addicted To That Rush",
+      "services": {
+        "qobuz": "61444892"
+      },
+      "album": "Big, Bigger, Biggest! The Best Of Mr. Big",
+      "duration": 285,
+      "isrc": "USAT20900869"
+    },
+    {
+      "artist": "M\u00f6tley Cr\u00fce",
+      "title": "Kickstart My Heart",
+      "services": {
+        "qobuz": "385614928"
+      },
+      "album": "Dr. Feelgood",
+      "duration": 282,
+      "isrc": "USBY29900215"
+    },
+    {
+      "artist": "Skid Row",
+      "title": "18 and Life",
+      "services": {
+        "qobuz": "380481634"
+      },
+      "album": "Skid Row",
+      "duration": 232,
+      "isrc": "USRH11804134"
+    },
+    {
+      "artist": "Damn Yankees",
+      "title": "Coming of Age",
+      "services": {
+        "qobuz": "11564421"
+      },
+      "album": "Damn Yankees",
+      "duration": 259,
+      "isrc": "USWB10902494"
+    },
+    {
+      "artist": "Extreme",
+      "title": "Get The Funk Out",
+      "services": {
+        "qobuz": "21758613"
+      },
+      "album": "Extreme II: Pornograffitti",
+      "duration": 263,
+      "isrc": "USAM19090004"
+    },
+    {
+      "artist": "The Quireboys",
+      "title": "7 O'Clock",
+      "services": {
+        "qobuz": "1986417"
+      },
+      "album": "A Bit Of What You Fancy",
+      "duration": 218,
+      "isrc": "GBAYE8900068"
+    },
+    {
+      "artist": "Thunder",
+      "title": "Dirty Love",
+      "services": {
+        "qobuz": "1790538"
+      },
+      "album": "Backstreet Symphony",
+      "duration": 324,
+      "isrc": "GBAYE0900941"
+    },
+    {
+      "artist": "Shotgun Messiah",
+      "title": "Heartbreak Blvd.",
+      "services": {
+        "qobuz": "62263703"
+      },
+      "album": "Second Coming",
+      "duration": 259,
+      "isrc": "USSM11602415"
+    },
+    {
+      "artist": "Ugly Kid Joe",
+      "title": "Everything About You",
+      "services": {
+        "qobuz": "54686567"
+      },
+      "album": "As Ugly As It Gets: The Very Best Of",
+      "duration": 254,
+      "isrc": "USMR19130361"
+    },
+    {
+      "artist": "Lenny Kravitz",
+      "title": "Are You Gonna Go My Way",
+      "services": {
+        "qobuz": "14603186"
+      },
+      "album": "Are You Gonna Go My Way",
+      "duration": 211,
+      "isrc": "USVI29300001"
+    },
+    {
+      "artist": "The Wildhearts",
+      "title": "I Wanna Go Where the People Go",
+      "services": {
+        "qobuz": "4264790"
+      },
+      "album": "P.H.U.Q.",
+      "duration": 306,
+      "isrc": "GBAHS0200017"
+    },
+    {
+      "artist": "King's X",
+      "title": "Dogman",
+      "services": {
+        "qobuz": "2003654"
+      },
+      "album": "Dogman",
+      "duration": 241,
+      "isrc": "USAT20102759"
+    },
+    {
+      "artist": "Buckcherry",
+      "title": "Lit Up",
+      "services": {
+        "qobuz": "9070184"
+      },
+      "album": "Buckcherry",
+      "duration": 215,
+      "isrc": "USDW19804401"
+    },
+    {
+      "artist": "The Darkness",
+      "title": "I Believe in a Thing Called Love",
+      "services": {
+        "qobuz": "221407514"
+      },
+      "album": "I Believe in a Thing Called Love",
+      "duration": 311,
+      "isrc": "GBAHT2300122"
+    },
+    {
+      "artist": "Velvet Revolver",
+      "title": "Slither",
+      "services": {
+        "qobuz": "276829613"
+      },
+      "album": "Contraband (Deluxe Edition)",
+      "duration": 248,
+      "isrc": "USRC10400063"
+    },
+    {
+      "artist": "The Answer",
+      "title": "Never Too Late",
+      "services": {
+        "qobuz": "3462595"
+      },
+      "album": "Rise (Special Edition)",
+      "duration": 237,
+      "isrc": "GBEEX0600034"
+    },
+    {
+      "artist": "Airbourne",
+      "title": "Runnin' Wild",
+      "services": {
+        "qobuz": "157070581"
+      },
+      "album": "Runnin' Wild",
+      "duration": 222,
+      "isrc": "NLA320786218"
+    },
+    {
+      "artist": "Halestorm",
+      "title": "I Miss the Misery",
+      "services": {
+        "qobuz": "5202083"
+      },
+      "album": "The Strange Case of...",
+      "duration": 183,
+      "isrc": "USAT21200150"
+    },
+    {
+      "artist": "Slash",
+      "title": "Anastasia",
+      "services": {
+        "qobuz": "38530666"
+      },
+      "album": "Live At The Roxy 25.09.14",
+      "duration": 416,
+      "isrc": "GBCBR1500019"
+    },
+    {
+      "artist": "The Winery Dogs",
+      "title": "Elevate",
+      "services": {
+        "qobuz": "126747730"
+      },
+      "album": "The Winery Dogs",
+      "duration": 301,
+      "isrc": "JPZ921302937"
+    },
+    {
+      "artist": "The Pretty Reckless",
+      "title": "Heaven Knows",
+      "services": {
+        "qobuz": "368590078"
+      },
+      "album": "Going to Hell",
+      "duration": 224,
+      "isrc": "USRZR1353301"
+    },
+    {
+      "artist": "The Dead Daisies",
+      "title": "Long Way to Go",
+      "services": {
+        "qobuz": "47377471"
+      },
+      "album": "Make Some Noise",
+      "duration": 268,
+      "isrc": "AUNKA1600001"
+    },
+    {
+      "artist": "Dorothy",
+      "title": "Raise Hell",
+      "services": {
+        "qobuz": "33082737"
+      },
+      "album": "ROCKISDEAD",
+      "duration": 182,
+      "isrc": "QMJMT1500706"
+    },
+    {
+      "artist": "Greta Van Fleet",
+      "title": "Highway Tune",
+      "services": {
+        "qobuz": "44716942"
+      },
+      "album": "From The Fires",
+      "duration": 180,
+      "isrc": "USUM71702892"
+    },
+    {
+      "artist": "The Glorious Sons",
+      "title": "S.O.S.",
+      "services": {
+        "qobuz": "51010354"
+      },
+      "album": "S.O.S.",
+      "duration": 195,
+      "isrc": "CABD61705406"
+    },
+    {
+      "artist": "Bob Dylan",
+      "title": "Let Me Die In My Footsteps",
+      "services": {
+        "qobuz": "357154836"
+      },
+      "album": "Through The Open Window: The Bootleg Series Vol. 18",
+      "duration": 290,
+      "isrc": "USSM11207362"
+    },
+    {
+      "artist": "Dirty Honey",
+      "title": "When I'm Gone",
+      "services": {
+        "qobuz": "308298313"
+      },
+      "album": "When I'm Gone",
+      "duration": 440,
+      "isrc": "QMFMF2423094"
+    },
+    {
+      "artist": "Mammoth",
+      "title": "Distance",
+      "services": {
+        "qobuz": "209037263"
+      },
+      "album": "Mammoth",
+      "duration": 254,
+      "isrc": "QM6XS2300783"
+    }
+  ]
+}

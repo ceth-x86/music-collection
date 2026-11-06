@@ -1,0 +1,1000 @@
+{
+  "name": "Genre: Acid Techno",
+  "services": {
+    "qobuz": "66718208",
+    "tidal": "a1fc1993-9aef-4f66-aa85-a60816ac88c2"
+  },
+  "description": "Imported genre playlist: Acid Techno.",
+  "tracks": [
+    {
+      "artist": "XPQ-21",
+      "title": "In Your Eyes",
+      "services": {
+        "qobuz": "97131523"
+      },
+      "album": "Alive Remixes",
+      "duration": 377,
+      "isrc": "DETH22000146"
+    },
+    {
+      "artist": "Pink Floyd",
+      "title": "Money",
+      "services": {
+        "qobuz": "47683556"
+      },
+      "album": "The Dark Side of the Moon",
+      "duration": 380,
+      "isrc": "GBN9Y1100081"
+    },
+    {
+      "artist": "Savoir Adore",
+      "title": "Body Heat",
+      "services": {
+        "qobuz": "145669661"
+      },
+      "album": "Full Bloom",
+      "duration": 188,
+      "isrc": "CAN111900020"
+    },
+    {
+      "artist": "Dismemberment Plan",
+      "title": "What Do You Want Me to Say?",
+      "services": {
+        "qobuz": "72746022"
+      },
+      "album": "Emergency & I",
+      "duration": 258,
+      "isrc": "US24E0410063"
+    },
+    {
+      "artist": "Emmanuel Top",
+      "title": "Turkish Bazar",
+      "services": {
+        "qobuz": "9366382"
+      },
+      "album": "Release",
+      "duration": 393,
+      "isrc": "FR4LO9400005"
+    },
+    {
+      "artist": "Skinshape",
+      "title": "Mandala",
+      "services": {
+        "qobuz": "144423798"
+      },
+      "album": "Oracolo",
+      "duration": 344,
+      "isrc": "GBLVL1500016"
+    },
+    {
+      "artist": "Nexus 6",
+      "title": "Ab Chic",
+      "services": {
+        "qobuz": "379825967"
+      },
+      "album": "The Noom E.P.",
+      "duration": 482,
+      "isrc": "GBHCD9308031"
+    },
+    {
+      "artist": "Hardfloor",
+      "title": "Into the Nature",
+      "services": {
+        "qobuz": "55187682"
+      },
+      "album": "TB Resucitation",
+      "duration": 471,
+      "isrc": "DEP999300005"
+    },
+    {
+      "artist": "AWeX",
+      "title": "It's Our Future",
+      "services": {
+        "qobuz": "126651254"
+      },
+      "album": "Frantic DJ Legends: Mixed by A+D+A+M Lab4",
+      "duration": 329,
+      "isrc": "DEE829500090"
+    },
+    {
+      "artist": "J\u00f6rg Henze",
+      "title": "Free Your Mind",
+      "services": {
+        "qobuz": "355738609"
+      },
+      "album": "Free Your Mind",
+      "duration": 246,
+      "isrc": "QZZ7R2528126"
+    },
+    {
+      "artist": "Yee-King",
+      "title": "Whack Whack",
+      "services": {
+        "qobuz": "4414658"
+      },
+      "album": "abugida",
+      "duration": 208,
+      "isrc": "GBZ3Q1100035"
+    },
+    {
+      "artist": "East End Dubs",
+      "title": "Searching",
+      "services": {
+        "qobuz": "296137295"
+      },
+      "album": "Searching",
+      "duration": 247,
+      "isrc": "GBLV62401852"
+    },
+    {
+      "artist": "Baltic House Orchestra",
+      "title": "I Don't Want To Set The World On Fire (Inspired by 'Fallout')",
+      "services": {
+        "qobuz": "261618215"
+      },
+      "album": "I Don't Want To Set The World On Fire (Inspired by 'Fallout')",
+      "duration": 202,
+      "isrc": "QZK6Q2477800"
+    },
+    {
+      "artist": "The Pineapple Thief",
+      "title": "Tightly Wound (Acoustic)",
+      "services": {
+        "qobuz": "51057791"
+      },
+      "album": "3000 Days",
+      "duration": 336,
+      "isrc": "GBCQV0900686"
+    },
+    {
+      "artist": "Orbit Culture",
+      "title": "Alienated",
+      "services": {
+        "qobuz": "210700541"
+      },
+      "album": "Descent",
+      "duration": 197,
+      "isrc": "QM6N22379413"
+    },
+    {
+      "artist": "Codefendants",
+      "title": "The Weathermen",
+      "services": {
+        "qobuz": "382026316"
+      },
+      "album": "LIFERS",
+      "duration": 181,
+      "isrc": "QZZEB2567729"
+    },
+    {
+      "artist": "Shpongle",
+      "title": "How the Jellyfish Jumped up the Mountain",
+      "services": {
+        "qobuz": "103071480"
+      },
+      "album": "Shpongle Remixed",
+      "duration": 361,
+      "isrc": "GBBMP1200641"
+    },
+    {
+      "artist": "Hofer Busch Held",
+      "title": "The Creeper",
+      "services": {
+        "qobuz": "239452748"
+      },
+      "album": "To Tortuga",
+      "duration": 138,
+      "isrc": "DEY142300015"
+    },
+    {
+      "artist": "A+E Dept",
+      "title": "The Rabbit's Name Was...",
+      "services": {
+        "qobuz": "200475984"
+      },
+      "album": "The Rabbit's Name Was..",
+      "duration": 418,
+      "isrc": "GBAZA7791401"
+    },
+    {
+      "artist": "Iron Maiden",
+      "title": "Man on the Edge",
+      "services": {
+        "qobuz": "25120854"
+      },
+      "album": "The X Factor",
+      "duration": 253,
+      "isrc": "GBCHB1500102"
+    },
+    {
+      "artist": "Kyle Eastwood",
+      "title": "Magnum Force \"Main Theme\"",
+      "services": {
+        "qobuz": "206124627"
+      },
+      "album": "Eastwood Symphonic",
+      "duration": 222,
+      "isrc": "FRPG52200440"
+    },
+    {
+      "artist": "The Buddy Rich Big Band",
+      "title": "Big Swing Face",
+      "services": {
+        "qobuz": "1063986"
+      },
+      "album": "Big Swing Face",
+      "duration": 334,
+      "isrc": "USBN29601263"
+    },
+    {
+      "artist": "GMS",
+      "title": "Acid Quest",
+      "services": {
+        "qobuz": "118353112"
+      },
+      "album": "Adverse Cambers",
+      "duration": 460,
+      "isrc": "GBKQU2135084"
+    },
+    {
+      "artist": "Lab4",
+      "title": "Reformation 2/021",
+      "services": {
+        "qobuz": "129082712"
+      },
+      "album": "Reformation 2/021",
+      "duration": 201,
+      "isrc": "NLD682103388"
+    },
+    {
+      "artist": "LNDN DRGS",
+      "title": "The Fee Is Mine",
+      "services": {
+        "qobuz": "254527183"
+      },
+      "album": "Affiliated 2",
+      "duration": 173,
+      "isrc": "USUYG1537458"
+    },
+    {
+      "artist": "Daisy Brain",
+      "title": "Boring",
+      "services": {
+        "qobuz": "123515311"
+      },
+      "album": "Boring",
+      "duration": 208,
+      "isrc": "FRX202161947"
+    },
+    {
+      "artist": "Holy Ghost Inc.",
+      "title": "Twister",
+      "services": {
+        "qobuz": "258691038"
+      },
+      "album": "Twister",
+      "duration": 378,
+      "isrc": "DEL029910076"
+    },
+    {
+      "artist": "The Staple Singers",
+      "title": "When Will We Be Paid",
+      "services": {
+        "qobuz": "81779809"
+      },
+      "album": "We'll Get Over",
+      "duration": 158,
+      "isrc": "USC4R1901673"
+    },
+    {
+      "artist": "Dogs on Acid",
+      "title": "Flushed",
+      "services": {
+        "qobuz": "77667291"
+      },
+      "album": "Dogs on Acid",
+      "duration": 146,
+      "isrc": "USA6M1514102"
+    },
+    {
+      "artist": "Disgusting Sisters",
+      "title": "Weirdo Magnet",
+      "services": {
+        "qobuz": "402506812"
+      },
+      "album": "Weirdo Magnet",
+      "duration": 167,
+      "isrc": "GBENL2604762"
+    },
+    {
+      "artist": "Kikagaku Moyo",
+      "title": "Orange Peel",
+      "services": {
+        "qobuz": "124546058"
+      },
+      "album": "Masana Temples",
+      "duration": 267,
+      "isrc": "TCADT1851285"
+    },
+    {
+      "artist": "NCT 127",
+      "title": "Amino Acid",
+      "services": {
+        "qobuz": "141395750"
+      },
+      "album": "\uc544\ub0a0\ub85c\uadf8 \ud2b8\ub9bd Analog Trip NCT 127 OST",
+      "duration": 213,
+      "isrc": "KRA302100406"
+    },
+    {
+      "artist": "The Animals",
+      "title": "Please Don't Let Me Be Misunderstood",
+      "services": {
+        "qobuz": "98388823"
+      },
+      "album": "We Gotta Get Outta Dis Place",
+      "duration": 501,
+      "isrc": "QZ5FN2068939"
+    },
+    {
+      "artist": "Benetti House Bar",
+      "title": "Feel the Funky Vibe",
+      "services": {
+        "qobuz": "369904803"
+      },
+      "album": "Devil Drinks NEGRONI",
+      "duration": 223,
+      "isrc": "QT6EY2578552"
+    },
+    {
+      "artist": "Sabrina Carpenter",
+      "title": "Nonsense",
+      "services": {
+        "qobuz": "164659617"
+      },
+      "album": "emails i can't send",
+      "duration": 163,
+      "isrc": "USUM72210708"
+    },
+    {
+      "artist": "Marvin Gaye",
+      "title": "Inner City Blues (Make Me Wanna Holler)",
+      "services": {
+        "qobuz": "16012446"
+      },
+      "album": "What's Going On",
+      "duration": 330,
+      "isrc": "USMO17100049"
+    },
+    {
+      "artist": "war dog",
+      "title": "God Damn The Pusher Man",
+      "services": {
+        "qobuz": "403232847"
+      },
+      "album": "The Label That Pays Me",
+      "duration": 207,
+      "isrc": "QZMEV2631432"
+    },
+    {
+      "artist": "Billy Manilli",
+      "title": "Garage Post-Rock/Fuck Pete Hegseth",
+      "services": {
+        "qobuz": "377793556"
+      },
+      "album": "Garage Post-Rock/You Don't Know Mogwai",
+      "duration": 102,
+      "isrc": "QT6G52515255"
+    },
+    {
+      "artist": "The Congos",
+      "title": "The Wrong Thing",
+      "services": {
+        "qobuz": "40374099"
+      },
+      "album": "Heart Of The Congos",
+      "duration": 182,
+      "isrc": "USVPR1601080"
+    },
+    {
+      "artist": "The Fall",
+      "title": "City Dweller",
+      "services": {
+        "qobuz": "343223636"
+      },
+      "album": "Middle Class Revolt",
+      "duration": 252,
+      "isrc": "GBBLY1602368"
+    },
+    {
+      "artist": "Gate 5 Ensemble",
+      "title": "Ring Around the Moon. A Dance Fantasm for Here and Now Phase 2: One, Two, Three, Four - X, Y, Zee",
+      "services": {
+        "qobuz": "4211156"
+      },
+      "album": "The Harry Partch Collection, Volume 1",
+      "duration": 132,
+      "isrc": "US4QP0462115"
+    },
+    {
+      "artist": "Len",
+      "title": "Steal My Sunshine",
+      "services": {
+        "qobuz": "46978963"
+      },
+      "album": "You Can't Stop The Bum Rush",
+      "duration": 265,
+      "isrc": "USSM19900189"
+    },
+    {
+      "artist": "Toni Braxton",
+      "title": "Find Me a Man",
+      "services": {
+        "qobuz": "9211205"
+      },
+      "album": "Secrets",
+      "duration": 269,
+      "isrc": "USLF29600187"
+    },
+    {
+      "artist": "Alien Ant Farm",
+      "title": "Smooth Criminal",
+      "services": {
+        "qobuz": "699960"
+      },
+      "album": "Anthology",
+      "duration": 209,
+      "isrc": "USDW10022224"
+    },
+    {
+      "artist": "LOOK MUM NO COMPUTER",
+      "title": "Keeping Busy, The Most Effective Therapy I\u2019ve Found",
+      "services": {
+        "qobuz": "355823491"
+      },
+      "album": "Keeping Busy, The Most Effective Therapy I\u2019ve Found",
+      "duration": 248,
+      "isrc": "QZRUP2500730"
+    },
+    {
+      "artist": "Geezer",
+      "title": "Shut Up Or Shit Out !",
+      "services": {
+        "qobuz": "430118803"
+      },
+      "album": "We Are Acid Family 001",
+      "duration": 444,
+      "isrc": "NLCK42609131"
+    },
+    {
+      "artist": "Anita O'Day",
+      "title": "The Party's Over (Remastered)",
+      "services": {
+        "qobuz": "64478471"
+      },
+      "album": "Four Classic Albums Plus (Anita O'day and Billy May Swing Rodgers and Hart / Anita O'day & The Three Sounds / Anita O'day Sings the Winners / Time for Two) [Remastered]",
+      "duration": 143,
+      "isrc": "GBBMH1413646"
+    },
+    {
+      "artist": "David Farrell",
+      "title": "I Lost Her to the Sea",
+      "services": {
+        "qobuz": "355820944"
+      },
+      "album": "Meltdown Season",
+      "duration": 169,
+      "isrc": "GXHND2523289"
+    },
+    {
+      "artist": "Don Dokken",
+      "title": "Crash 'N Burn",
+      "services": {
+        "qobuz": "13449676"
+      },
+      "album": "Up From The Ashes",
+      "duration": 304,
+      "isrc": "USGF19030101"
+    },
+    {
+      "artist": "Sinfonia Of London",
+      "title": "Say Yes",
+      "services": {
+        "qobuz": "126483890"
+      },
+      "album": "The Young and the Restless (Original Soundtrack)",
+      "duration": 65,
+      "isrc": "USJPL2100323"
+    },
+    {
+      "artist": "New Order",
+      "title": "Age of Consent",
+      "services": {
+        "qobuz": "35951273"
+      },
+      "album": "Power, Corruption & Lies",
+      "duration": 315,
+      "isrc": "GBAAP1500172"
+    },
+    {
+      "artist": "Acid Mothers Temple & The Melting Paraiso UFO",
+      "title": "Psycho Buddha",
+      "services": {
+        "qobuz": "104358367"
+      },
+      "album": "New Geocentric World of Acid Mothers Temple",
+      "duration": 1287,
+      "isrc": "USL4R2038055"
+    },
+    {
+      "artist": "Michael Jackson",
+      "title": "Human Nature",
+      "services": {
+        "qobuz": "7401"
+      },
+      "album": "Thriller",
+      "duration": 245,
+      "isrc": "USSM19902992"
+    },
+    {
+      "artist": "Dumpstaphunk",
+      "title": "Livin Ina World Gone Mad",
+      "services": {
+        "qobuz": "208583723"
+      },
+      "album": "Listen Hear",
+      "duration": 350,
+      "isrc": "GBDTM1227222"
+    },
+    {
+      "artist": "Tik Tok",
+      "title": "Acid Unstoppable",
+      "services": {
+        "qobuz": "151359410"
+      },
+      "album": "Acid Unstoppable E.P.",
+      "duration": 379,
+      "isrc": "GBKQU2221326"
+    },
+    {
+      "artist": "James Black",
+      "title": "For No Reason",
+      "services": {
+        "qobuz": "47820497"
+      },
+      "album": "This Time",
+      "duration": 240,
+      "isrc": "FRIDO1810355"
+    },
+    {
+      "artist": "Granuja",
+      "title": "Colombian Gold",
+      "services": {
+        "qobuz": "166829448"
+      },
+      "album": "Rap y Hierbas",
+      "duration": 149,
+      "isrc": "QZ5AB1716865"
+    },
+    {
+      "artist": "Nina Nesbitt",
+      "title": "Scotland In The Snow",
+      "services": {
+        "qobuz": "362113574"
+      },
+      "album": "Scotland In The Snow",
+      "duration": 248,
+      "isrc": "NL8RL2563284"
+    },
+    {
+      "artist": "Glee Cast",
+      "title": "Tik Tok (Glee Cast Version)",
+      "services": {
+        "qobuz": "47459760"
+      },
+      "album": "Glee: The Music, The Complete Season Two",
+      "duration": 199,
+      "isrc": "USQX91100217"
+    },
+    {
+      "artist": "ZERO Evolution",
+      "title": "Phantom Techno Frequencies",
+      "services": {
+        "qobuz": "389392856"
+      },
+      "album": "Halloween Techno Circuit Breaker",
+      "duration": 199,
+      "isrc": "CALVP2444168"
+    },
+    {
+      "artist": "Krallice",
+      "title": "Feed on the Blood of Rats",
+      "services": {
+        "qobuz": "122179048"
+      },
+      "album": "Mass Cathexis",
+      "duration": 300,
+      "isrc": "USHM22134224"
+    },
+    {
+      "artist": "BENJAMIN WILLIAM HASTINGS",
+      "title": "Still You",
+      "services": {
+        "qobuz": "328354004"
+      },
+      "album": "How I'd sing it on a sunday",
+      "duration": 435,
+      "isrc": "USUG12501226"
+    },
+    {
+      "artist": "Benji303",
+      "title": "NEVER TRUST A POLITICIAN!",
+      "services": {
+        "qobuz": "342519522"
+      },
+      "album": "303 Alliance Remix 003",
+      "duration": 456,
+      "isrc": "NLCK42510357"
+    },
+    {
+      "artist": "elsewhere",
+      "title": "Sundials & Sirens",
+      "services": {
+        "qobuz": "275958058"
+      },
+      "album": "Checkpoint EP",
+      "duration": 263,
+      "isrc": "UKRBP2400382"
+    },
+    {
+      "artist": "Matt Duncan",
+      "title": "The Horn of Plenty",
+      "services": {
+        "qobuz": "238937558"
+      },
+      "album": "Soft Times",
+      "duration": 186,
+      "isrc": "USQY51336653"
+    },
+    {
+      "artist": "Jan A.P. Kaczmarek",
+      "title": "Where Is Mr. Barrie?",
+      "services": {
+        "qobuz": "733568"
+      },
+      "album": "Finding Neverland",
+      "duration": 212,
+      "isrc": "USUMC0400288"
+    },
+    {
+      "artist": "Sam Roberts Band",
+      "title": "Bridge To Nowhere",
+      "services": {
+        "qobuz": "2428815"
+      },
+      "album": "Chemical City",
+      "duration": 189,
+      "isrc": "CAUM70500163"
+    },
+    {
+      "artist": "Dica",
+      "title": "The Way",
+      "services": {
+        "qobuz": "166129697"
+      },
+      "album": "Sorry For Your Neighbors",
+      "duration": 321,
+      "isrc": "QZMEM2235397"
+    },
+    {
+      "artist": "S-Tone Inc.",
+      "title": "Get Freaky Now",
+      "services": {
+        "qobuz": "66108972"
+      },
+      "album": "The Funk Connection",
+      "duration": 324,
+      "isrc": "ITI029200080"
+    },
+    {
+      "artist": "Ill Gotten Gains",
+      "title": "Tin",
+      "services": {
+        "qobuz": "313721493"
+      },
+      "album": "Odes to the Troublemakers",
+      "duration": 208,
+      "isrc": "TCAJE2595565"
+    },
+    {
+      "artist": "Dj Garth",
+      "title": "Twenty Minutes of Disco Glory (The Acid Rock Mix)",
+      "services": {
+        "qobuz": "357107073"
+      },
+      "album": "DJ-Kicks: Eris Drew",
+      "duration": 253,
+      "isrc": "DEG932504786"
+    },
+    {
+      "artist": "Acid Techno Ri0t",
+      "title": "HRP Illegal Rave 90s TRIBUTE",
+      "services": {
+        "qobuz": "246080097"
+      },
+      "album": "HRP Illegal Rave 90s TRIBUTE",
+      "duration": 419,
+      "isrc": "QZWFQ2352115"
+    },
+    {
+      "artist": "Brain 5",
+      "title": "Power of a Dark Side",
+      "services": {
+        "qobuz": "49950164"
+      },
+      "album": "Brain Compilation, Vol. 1",
+      "duration": 433,
+      "isrc": "DEH330601080"
+    },
+    {
+      "artist": "Brain 8",
+      "title": "Into the Future",
+      "services": {
+        "qobuz": "49950167"
+      },
+      "album": "Brain Compilation, Vol. 1",
+      "duration": 601,
+      "isrc": "DEH330600706"
+    },
+    {
+      "artist": "Brain 11",
+      "title": "Mystique",
+      "services": {
+        "qobuz": "49879201"
+      },
+      "album": "Brain Compilation, Vol. 2",
+      "duration": 485,
+      "isrc": "DEH330600952"
+    },
+    {
+      "artist": "Brain 13",
+      "title": "Acid Machines",
+      "services": {
+        "qobuz": "49879203"
+      },
+      "album": "Brain Compilation, Vol. 2",
+      "duration": 540,
+      "isrc": "DEH330600018"
+    },
+    {
+      "artist": "Sugar Ray",
+      "title": "Personal Space Invader",
+      "services": {
+        "qobuz": "2881773"
+      },
+      "album": "14:59",
+      "duration": 217,
+      "isrc": "USAT20902982"
+    },
+    {
+      "artist": "Brain 16",
+      "title": "The Acid Devil",
+      "services": {
+        "qobuz": "49879206"
+      },
+      "album": "Brain Compilation, Vol. 2",
+      "duration": 522,
+      "isrc": "DEH330601408"
+    },
+    {
+      "artist": "Brain 17",
+      "title": "Mysterious Place",
+      "services": {
+        "qobuz": "49879207"
+      },
+      "album": "Brain Compilation, Vol. 2",
+      "duration": 492,
+      "isrc": "DEH330600950"
+    },
+    {
+      "artist": "Brain 20",
+      "title": "Acid Motherfuckers",
+      "services": {
+        "qobuz": "49938152"
+      },
+      "album": "Brain Compilation, Vol. 3",
+      "duration": 472,
+      "isrc": "DEH330600023"
+    },
+    {
+      "artist": "Rain Sounds & White Noise",
+      "title": "Distant Rain for Brain Relaxation and Mindfulness To Repeat for 24 Hours",
+      "services": {
+        "qobuz": "116582652"
+      },
+      "album": "Rain Loopable",
+      "duration": 126,
+      "isrc": "NL3WF2001114"
+    },
+    {
+      "artist": "Brain 27",
+      "title": "Pneumatic Drill",
+      "services": {
+        "qobuz": "49825012"
+      },
+      "album": "Rinderwahn / Bse",
+      "duration": 272,
+      "isrc": "DEZ650510374"
+    },
+    {
+      "artist": "Chihiro Hikari",
+      "title": "Geometry",
+      "services": {
+        "qobuz": "312153224"
+      },
+      "album": "Best Acid Techno 2024",
+      "duration": 345,
+      "isrc": "NLCK42404460"
+    },
+    {
+      "artist": "VNDM",
+      "title": "Look at Me",
+      "services": {
+        "qobuz": "267218738"
+      },
+      "album": "Flash",
+      "duration": 287,
+      "isrc": "NLCK42407482"
+    },
+    {
+      "artist": "Accentbuster",
+      "title": "Lifeform Detected",
+      "services": {
+        "qobuz": "312153232"
+      },
+      "album": "Best Acid Techno 2024",
+      "duration": 350,
+      "isrc": "NLCK42404464"
+    },
+    {
+      "artist": "Citric Acid",
+      "title": "Vain",
+      "services": {
+        "qobuz": "312153233"
+      },
+      "album": "Best Acid Techno 2024",
+      "duration": 397,
+      "isrc": "NLCK42404463"
+    },
+    {
+      "artist": "Franz & Shape",
+      "title": "Fuzz",
+      "services": {
+        "qobuz": "374999565"
+      },
+      "album": "Best Acid Techno 2025",
+      "duration": 367,
+      "isrc": "NLCK42510431"
+    },
+    {
+      "artist": "Dima Gastrol\u00ebr",
+      "title": "Acid Wall",
+      "services": {
+        "qobuz": "374999568"
+      },
+      "album": "Best Acid Techno 2025",
+      "duration": 432,
+      "isrc": "NLCK42421876"
+    },
+    {
+      "artist": "G303",
+      "title": "Let Me Bang",
+      "services": {
+        "qobuz": "374999569"
+      },
+      "album": "Best Acid Techno 2025",
+      "duration": 469,
+      "isrc": "NLCK42501106"
+    },
+    {
+      "artist": "Acidulant",
+      "title": "Serpentacid",
+      "services": {
+        "qobuz": "374999570"
+      },
+      "album": "Best Acid Techno 2025",
+      "duration": 318,
+      "isrc": "NLCK42501101"
+    },
+    {
+      "artist": "Saytek",
+      "title": "Blend Acid25",
+      "services": {
+        "qobuz": "352532029"
+      },
+      "album": "Blend Acid25 , recorded at Rebel Union at FOLD LDN",
+      "duration": 443,
+      "isrc": "NLCK42512942"
+    },
+    {
+      "artist": "wrnr",
+      "title": "Orbit Energy",
+      "services": {
+        "qobuz": "374999574"
+      },
+      "album": "Best Acid Techno 2025",
+      "duration": 392,
+      "isrc": "NLCK42510466"
+    },
+    {
+      "artist": "Carara",
+      "title": "Overdrive",
+      "services": {
+        "qobuz": "374999575"
+      },
+      "album": "Best Acid Techno 2025",
+      "duration": 354,
+      "isrc": "NLCK42510445"
+    },
+    {
+      "artist": "Anml Mthr",
+      "title": "Sparkle Muffin",
+      "services": {
+        "qobuz": "300972017"
+      },
+      "album": "Sprakle Muffin EP",
+      "duration": 360,
+      "isrc": "NLCK42420133"
+    },
+    {
+      "artist": "Paul Renard (NL)",
+      "title": "Gravity",
+      "services": {
+        "qobuz": "374999564"
+      },
+      "album": "Best Acid Techno 2025",
+      "duration": 330,
+      "isrc": "NLCK42510419"
+    },
+    {
+      "artist": "Sour",
+      "title": "Worldframe",
+      "services": {
+        "qobuz": "350358894"
+      },
+      "album": "X-00F EP",
+      "duration": 325,
+      "isrc": "NLCK42512398"
+    },
+    {
+      "artist": "Minimum Syndicat",
+      "title": "Disclosures",
+      "services": {
+        "qobuz": "331470868"
+      },
+      "album": "Revelation EP",
+      "duration": 392,
+      "isrc": "NLCK42507020"
+    },
+    {
+      "artist": "Sarufaromeo",
+      "title": "Acid Nihonshu",
+      "services": {
+        "qobuz": "374999571"
+      },
+      "album": "Best Acid Techno 2025",
+      "duration": 316,
+      "isrc": "NLCK42501102"
+    },
+    {
+      "artist": "Diana Oliveira",
+      "title": "Desconhecida",
+      "services": {
+        "qobuz": "374999572"
+      },
+      "album": "Best Acid Techno 2025",
+      "duration": 373,
+      "isrc": "NLCK42510439"
+    }
+  ]
+}

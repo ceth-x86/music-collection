@@ -1,0 +1,1010 @@
+{
+  "name": "Genre: Progressive Trance",
+  "services": {
+    "qobuz": "66721248",
+    "tidal": "b4fc2359-01d8-484c-9868-6d6e20edab6a"
+  },
+  "description": "Imported genre playlist: Progressive Trance.",
+  "tracks": [
+    {
+      "artist": "Raul Mid\u00f3n",
+      "title": "All In Your Mind",
+      "services": {
+        "qobuz": "4532053"
+      },
+      "album": "State Of Mind",
+      "duration": 199,
+      "isrc": "USMR80400048"
+    },
+    {
+      "artist": "Libra Presents Taylor",
+      "title": "Anomaly - Calling Your Name",
+      "services": {
+        "qobuz": "397251134"
+      },
+      "album": "Platipus 30 Years",
+      "duration": 477,
+      "isrc": "GBCFW2400005"
+    },
+    {
+      "artist": "Salpa",
+      "title": "Seadog",
+      "services": {
+        "qobuz": "276598127"
+      },
+      "album": "Seadog",
+      "duration": 220,
+      "isrc": "ESA122498470"
+    },
+    {
+      "artist": "BT",
+      "title": "Flaming June",
+      "services": {
+        "qobuz": "34146092"
+      },
+      "album": "ESCM",
+      "duration": 505,
+      "isrc": "GBAHS1600301"
+    },
+    {
+      "artist": "L.S.G.",
+      "title": "The Hidden Sun Of Venus",
+      "services": {
+        "qobuz": "63379794"
+      },
+      "album": "Rendezvous In Outer Space",
+      "duration": 305,
+      "isrc": "DEL029510017"
+    },
+    {
+      "artist": "Sickmode",
+      "title": "Evolution",
+      "services": {
+        "qobuz": "106581204"
+      },
+      "album": "Hey x",
+      "duration": 171,
+      "isrc": "GBKQU2004022"
+    },
+    {
+      "artist": "Art Of Trance",
+      "title": "Octopus",
+      "services": {
+        "qobuz": "294439408"
+      },
+      "album": "Octopus",
+      "duration": 459,
+      "isrc": "UKR6V2484668"
+    },
+    {
+      "artist": "Terra Armoniosa",
+      "title": "Lunar Dreamscape",
+      "services": {
+        "qobuz": "252265080"
+      },
+      "album": "Lunar Dreamscape",
+      "duration": 178,
+      "isrc": "SE69Z2402958"
+    },
+    {
+      "artist": "Robert Plant",
+      "title": "Ship of Fools",
+      "services": {
+        "qobuz": "2436492"
+      },
+      "album": "Now and Zen",
+      "duration": 300,
+      "isrc": "USAT20616620"
+    },
+    {
+      "artist": "Marmion",
+      "title": "Sch\u00f6neberg",
+      "services": {
+        "qobuz": "204221331"
+      },
+      "album": "Sch\u00f6neberg",
+      "duration": 385,
+      "isrc": "DEL029310006"
+    },
+    {
+      "artist": "POB",
+      "title": "The Awakening",
+      "services": {
+        "qobuz": "4595909"
+      },
+      "album": "Magik Three",
+      "duration": 584,
+      "isrc": "NLE711110412"
+    },
+    {
+      "artist": "Journey",
+      "title": "Don't Stop Believin'",
+      "services": {
+        "qobuz": "38360"
+      },
+      "album": "The Essential Journey",
+      "duration": 248,
+      "isrc": "USSM18100116"
+    },
+    {
+      "artist": "Albion",
+      "title": "Air",
+      "services": {
+        "qobuz": "378306190"
+      },
+      "album": "Air",
+      "duration": 163,
+      "isrc": "NLF711501213"
+    },
+    {
+      "artist": "On Thorns I Lay",
+      "title": "Ethereal Blue",
+      "services": {
+        "qobuz": "279129366"
+      },
+      "album": "Future Narcotic",
+      "duration": 403,
+      "isrc": "NLWJ22200738"
+    },
+    {
+      "artist": "Humate",
+      "title": "Love Stimulation",
+      "services": {
+        "qobuz": "107290017"
+      },
+      "album": "Love Stimulation",
+      "duration": 468,
+      "isrc": "GBKQU2019451"
+    },
+    {
+      "artist": "Lost Tribe",
+      "title": "Gamemaster (ASOT 1271)",
+      "services": {
+        "qobuz": "406605052"
+      },
+      "album": "ASOT 1271 - A State of Trance Episode 1271",
+      "duration": 273,
+      "isrc": "NLF712601900"
+    },
+    {
+      "artist": "Buckshot LeFonque",
+      "title": "Phoenix",
+      "services": {
+        "qobuz": "447072"
+      },
+      "album": "Music Evolution",
+      "duration": 366,
+      "isrc": "USSM19603649"
+    },
+    {
+      "artist": "York",
+      "title": "The Awakening",
+      "services": {
+        "qobuz": "378310295"
+      },
+      "album": "YORK Mini Mix",
+      "duration": 213,
+      "isrc": "DEPN61100007"
+    },
+    {
+      "artist": "Breeder",
+      "title": "Twilo Thunder",
+      "services": {
+        "qobuz": "42787088"
+      },
+      "album": "Twilo Thunder",
+      "duration": 389,
+      "isrc": "NLD681701816"
+    },
+    {
+      "artist": "Ritchie Blackmore's Rainbow",
+      "title": "Stargazer",
+      "services": {
+        "qobuz": "3881949"
+      },
+      "album": "Rising",
+      "duration": 505,
+      "isrc": "USPR37680077"
+    },
+    {
+      "artist": "Olivia Rodrigo",
+      "title": "scared of my guitar",
+      "services": {
+        "qobuz": "258406307"
+      },
+      "album": "GUTS (spilled)",
+      "duration": 263,
+      "isrc": "USUG12305565"
+    },
+    {
+      "artist": "Solid Sessions",
+      "title": "Janeiro",
+      "services": {
+        "qobuz": "378229261"
+      },
+      "album": "Janeiro",
+      "duration": 379,
+      "isrc": "NLF712111437"
+    },
+    {
+      "artist": "Midway",
+      "title": "Monkey Forest",
+      "services": {
+        "qobuz": "337618964"
+      },
+      "album": "Monkey Forest",
+      "duration": 216,
+      "isrc": "NLE712500254"
+    },
+    {
+      "artist": "The Space Brothers",
+      "title": "Shine",
+      "services": {
+        "qobuz": "377902462"
+      },
+      "album": "Armada presents:Trance Classics, Vol. 2",
+      "duration": 393,
+      "isrc": "NLF710801770"
+    },
+    {
+      "artist": "Flea",
+      "title": "Free As I Want to Be",
+      "services": {
+        "qobuz": "382811310"
+      },
+      "album": "Honora",
+      "duration": 313,
+      "isrc": "USNO12500461"
+    },
+    {
+      "artist": "Space Manoeuvres",
+      "title": "Stage One",
+      "services": {
+        "qobuz": "380436729"
+      },
+      "album": "Trance Trax #1",
+      "duration": 430,
+      "isrc": "GBHCD1728869"
+    },
+    {
+      "artist": "Moogwai",
+      "title": "Viola",
+      "services": {
+        "qobuz": "55589522"
+      },
+      "album": "Viola",
+      "duration": 271,
+      "isrc": "NLD681804086"
+    },
+    {
+      "artist": "KillaHurtz",
+      "title": "West on 27th",
+      "services": {
+        "qobuz": "39853948"
+      },
+      "album": "House Definition, Vol. 4",
+      "duration": 504,
+      "isrc": "FR2X41746862"
+    },
+    {
+      "artist": "Insigma",
+      "title": "Open Our Eyes",
+      "services": {
+        "qobuz": "378330783"
+      },
+      "album": "Open Our Eyes",
+      "duration": 473,
+      "isrc": "NLF712506298"
+    },
+    {
+      "artist": "The Thrillseekers",
+      "title": "Synaesthesia",
+      "services": {
+        "qobuz": "377909115"
+      },
+      "album": "Synaesthesia",
+      "duration": 241,
+      "isrc": "NLF710903587"
+    },
+    {
+      "artist": "Ballroom Orchestra and Singers",
+      "title": "The Passenger (Train Spotting) (Jive/ 40 BPM)",
+      "services": {
+        "qobuz": "150041605"
+      },
+      "album": "Dancelife Presents: Dance Classics, Vol. 2 (Strict Dance Tempo)",
+      "duration": 186,
+      "isrc": "NLHR52121905"
+    },
+    {
+      "artist": "Saints & Sinners",
+      "title": "Peace",
+      "services": {
+        "qobuz": "336653660"
+      },
+      "album": "Peace",
+      "duration": 483,
+      "isrc": "DEPI82523484"
+    },
+    {
+      "artist": "Accadia",
+      "title": "Into The Dawn",
+      "services": {
+        "qobuz": "380436731"
+      },
+      "album": "Trance Trax #1",
+      "duration": 719,
+      "isrc": "GBHCD1728871"
+    },
+    {
+      "artist": "Ti\u00ebsto",
+      "title": "Suburban Train",
+      "services": {
+        "qobuz": "315497306"
+      },
+      "album": "In My Memory",
+      "duration": 622,
+      "isrc": "NOX9X3702009"
+    },
+    {
+      "artist": "Jayson Wayne Brown",
+      "title": "Cinematic Hollywood explorer intro",
+      "services": {
+        "qobuz": "418845641"
+      },
+      "album": "Whimsy at Full Tilt",
+      "duration": 104,
+      "isrc": "QMAHS2378239"
+    },
+    {
+      "artist": "Miro",
+      "title": "By Your Side",
+      "services": {
+        "qobuz": "320798028"
+      },
+      "album": "Emotions of Sunsets",
+      "duration": 327,
+      "isrc": "DK2X52500310"
+    },
+    {
+      "artist": "Ti\u00ebsto",
+      "title": "A Tear In The Open",
+      "services": {
+        "qobuz": "315593340"
+      },
+      "album": "Just Be",
+      "duration": 596,
+      "isrc": "NLE710582662"
+    },
+    {
+      "artist": "Aalto",
+      "title": "Rush",
+      "services": {
+        "qobuz": "424987501"
+      },
+      "album": "25 Years Of Anjuna Mixed By Trance Wax",
+      "duration": 410,
+      "isrc": "GBEWA2505296"
+    },
+    {
+      "artist": "L'Orchestra Cinematique",
+      "title": "Cinderella - Aeon",
+      "services": {
+        "qobuz": "91512719"
+      },
+      "album": "Disney Epics",
+      "duration": 199,
+      "isrc": "CB2CY0950721"
+    },
+    {
+      "artist": "Tranquility Base",
+      "title": "Razorfish (ASOT 1236) [Service For Dreamers]",
+      "services": {
+        "qobuz": "378320956"
+      },
+      "album": "ASOT 1236 - A State of Trance Episode 1236",
+      "duration": 225,
+      "isrc": "NLF712505166"
+    },
+    {
+      "artist": "Lange",
+      "title": "Sincere (Mixed)",
+      "services": {
+        "qobuz": "378240270"
+      },
+      "album": "A State Of Trance, Ibiza 2022",
+      "duration": 167,
+      "isrc": "NLF712206078"
+    },
+    {
+      "artist": "Mark Bates",
+      "title": "Touch Me",
+      "services": {
+        "qobuz": "4272887"
+      },
+      "album": "Touch Me",
+      "duration": 555,
+      "isrc": "GBUM70605822"
+    },
+    {
+      "artist": "Boston",
+      "title": "Foreplay / Long Time",
+      "services": {
+        "qobuz": "19179304"
+      },
+      "album": "Boston",
+      "duration": 467,
+      "isrc": "USSM17600873"
+    },
+    {
+      "artist": "P.O.S",
+      "title": "Gravity",
+      "services": {
+        "qobuz": "424949455"
+      },
+      "album": "Sunny Lax Presents: 20 Years Of Anjunabeats",
+      "duration": 241,
+      "isrc": "GBEWA1906936"
+    },
+    {
+      "artist": "Endre",
+      "title": "Kallocain (Mixed)",
+      "services": {
+        "qobuz": "378285551"
+      },
+      "album": "A State Of Trance Year Mix 2004 (Mixed)",
+      "duration": 56,
+      "isrc": "NLS241401457"
+    },
+    {
+      "artist": "Smith & Pledger",
+      "title": "Northern Lights",
+      "services": {
+        "qobuz": "424954631"
+      },
+      "album": "Gabriel & Dresden Presents: 20 Years Of Anjunabeats",
+      "duration": 433,
+      "isrc": "GBEWA2100660"
+    },
+    {
+      "artist": "Mark Otten",
+      "title": "Tranquility",
+      "services": {
+        "qobuz": "377879140"
+      },
+      "album": "Tranquility",
+      "duration": 585,
+      "isrc": "NLF710400011"
+    },
+    {
+      "artist": "Super8",
+      "title": "Alba",
+      "services": {
+        "qobuz": "60421082"
+      },
+      "album": "Alba",
+      "duration": 432,
+      "isrc": "NLD681901014"
+    },
+    {
+      "artist": "Arksun",
+      "title": "Arisen [Mix Cut]",
+      "services": {
+        "qobuz": "377933417"
+      },
+      "album": "A State Of Trance 2006 (Mixed by Armin van Buuren)",
+      "duration": 501,
+      "isrc": "NLF711101698"
+    },
+    {
+      "artist": "Gabriel & Dresden",
+      "title": "Arcadia",
+      "services": {
+        "qobuz": "53149696"
+      },
+      "album": "Arcadia",
+      "duration": 593,
+      "isrc": "NLF710500323"
+    },
+    {
+      "artist": "Fonzerelli",
+      "title": "Moonlight Party",
+      "services": {
+        "qobuz": "126773003"
+      },
+      "album": "Moonlight Party",
+      "duration": 413,
+      "isrc": "GBBRQ0600080"
+    },
+    {
+      "artist": "Mike Shiver",
+      "title": "Morning Drive",
+      "services": {
+        "qobuz": "6717330"
+      },
+      "album": "A State Of Mind",
+      "duration": 431,
+      "isrc": "USLZ41010574"
+    },
+    {
+      "artist": "$uicideboy$",
+      "title": "One Last Look at the Damage",
+      "services": {
+        "qobuz": "114030898"
+      },
+      "album": "Stop Staring At the Shadows",
+      "duration": 97,
+      "isrc": "QZAPK1900012"
+    },
+    {
+      "artist": "Mirco de Govia",
+      "title": "Voller Sterne",
+      "services": {
+        "qobuz": "235338166"
+      },
+      "album": "Voller Sterne (Nitrous Oxide Remix)",
+      "duration": 358,
+      "isrc": "DEL672300106"
+    },
+    {
+      "artist": "Perry O Neil",
+      "title": "Wave Force (Mix Cut)",
+      "services": {
+        "qobuz": "378128257"
+      },
+      "album": "A State Of Trance, Ibiza 2018 (Mixed by Armin van Buuren)",
+      "duration": 205,
+      "isrc": "NLF711808772"
+    },
+    {
+      "artist": "Whiteroom",
+      "title": "The Whiteroom",
+      "services": {
+        "qobuz": "58052462"
+      },
+      "album": "The Whiteroom",
+      "duration": 343,
+      "isrc": "NLD681900108"
+    },
+    {
+      "artist": "Bart Claessen",
+      "title": "90 Nights Of Summer (ABGT400)",
+      "services": {
+        "qobuz": "424952327"
+      },
+      "album": "Group Therapy 400 Live from London",
+      "duration": 404,
+      "isrc": "GBEWA1909319"
+    },
+    {
+      "artist": "Yilmaz Altanhan",
+      "title": "Eighties",
+      "services": {
+        "qobuz": "106921401"
+      },
+      "album": "The Gallery - 18 Years Mixed By Judge Jules, Simon Patterson & Gavyn Mytchel",
+      "duration": 383,
+      "isrc": "GBEWA0500009"
+    },
+    {
+      "artist": "Super8 & Tab",
+      "title": "Helsinki Scorchin\u2019 (ABGT319)",
+      "services": {
+        "qobuz": "424941510"
+      },
+      "album": "Group Therapy 319",
+      "duration": 221,
+      "isrc": "GBEWA1900709"
+    },
+    {
+      "artist": "Duderstadt",
+      "title": "Muhanjala (ASOT 1166)",
+      "services": {
+        "qobuz": "378270994"
+      },
+      "album": "ASOT 1166 - A State of Trance Episode 1166",
+      "duration": 138,
+      "isrc": "NLF712401771"
+    },
+    {
+      "artist": "Kuffdam & Plant",
+      "title": "Summer Dream",
+      "services": {
+        "qobuz": "46715880"
+      },
+      "album": "Summer Dream",
+      "duration": 499,
+      "isrc": "FR10S1804877"
+    },
+    {
+      "artist": "Above & Beyond",
+      "title": "Tri-State (Flashback) [ABGT620]",
+      "services": {
+        "qobuz": "424984112"
+      },
+      "album": "Group Therapy 620 (DJ Mix)",
+      "duration": 180,
+      "isrc": "GBEWA2501824"
+    },
+    {
+      "artist": "Arnej",
+      "title": "They Need Us",
+      "services": {
+        "qobuz": "378285638"
+      },
+      "album": "A State Of Trance Year Mix 2010",
+      "duration": 402,
+      "isrc": "NLF711000193"
+    },
+    {
+      "artist": "Boom Jinx",
+      "title": "Azzura",
+      "services": {
+        "qobuz": "106956664"
+      },
+      "album": "Azzura",
+      "duration": 396,
+      "isrc": "GBKQU1167201"
+    },
+    {
+      "artist": "Oliver Smith",
+      "title": "Faithful In Paradise",
+      "services": {
+        "qobuz": "257403307"
+      },
+      "album": "Faithful In Paradise",
+      "duration": 137,
+      "isrc": "SE69N2400279"
+    },
+    {
+      "artist": "Nitrous Oxide",
+      "title": "Downforce",
+      "services": {
+        "qobuz": "424914771"
+      },
+      "album": "Downforce",
+      "duration": 459,
+      "isrc": "GBEWA1000881"
+    },
+    {
+      "artist": "Rank 1",
+      "title": "Symfo (Sunrise Festival Theme 2009)",
+      "services": {
+        "qobuz": "14301654"
+      },
+      "album": "Symfo (Sunrise Festival Theme 2009)",
+      "duration": 424,
+      "isrc": "NLE800900253"
+    },
+    {
+      "artist": "Darren Tate",
+      "title": "When The Morning Comes (ABGT662)",
+      "services": {
+        "qobuz": "388785449"
+      },
+      "album": "Group Therapy 662 (DJ Mix)",
+      "duration": 318,
+      "isrc": "GBEWA2600444"
+    },
+    {
+      "artist": "Breeze Groove",
+      "title": "Breakfast Tango with Sunlight",
+      "services": {
+        "qobuz": "381188936"
+      },
+      "album": "Lazy Morning",
+      "duration": 142,
+      "isrc": "GBLLT2600649"
+    },
+    {
+      "artist": "Rex Mundi",
+      "title": "Opera of Northern Ocean",
+      "services": {
+        "qobuz": "50784333"
+      },
+      "album": "Opera of Northern Ocean",
+      "duration": 191,
+      "isrc": "NLD681802424"
+    },
+    {
+      "artist": "Pitbull Featuring Vein",
+      "title": "Mr. Worldwide (Intro)",
+      "services": {
+        "qobuz": "3635131"
+      },
+      "album": "Planet Pit (Deluxe Version)",
+      "duration": 84,
+      "isrc": "USJAY1100091"
+    },
+    {
+      "artist": "Andy Duguid",
+      "title": "Wasted",
+      "services": {
+        "qobuz": "6108160"
+      },
+      "album": "Wasted",
+      "duration": 503,
+      "isrc": "NLE710821102"
+    },
+    {
+      "artist": "Estiva",
+      "title": "I Feel Fine",
+      "services": {
+        "qobuz": "106976074"
+      },
+      "album": "I Feel Fine",
+      "duration": 539,
+      "isrc": "GBKQU0908200"
+    },
+    {
+      "artist": "Suspect 44",
+      "title": "Here Right Now",
+      "services": {
+        "qobuz": "378022723"
+      },
+      "album": "Here Right Now",
+      "duration": 225,
+      "isrc": "NLF711504018"
+    },
+    {
+      "artist": "Super8 & Tab",
+      "title": "Rubicon (ABGT400)",
+      "services": {
+        "qobuz": "424952304"
+      },
+      "album": "Group Therapy 400 Live from London",
+      "duration": 139,
+      "isrc": "GBEWA1909296"
+    },
+    {
+      "artist": "Mat zo",
+      "title": "The Sky",
+      "services": {
+        "qobuz": "424954627"
+      },
+      "album": "Gabriel & Dresden Presents: 20 Years Of Anjunabeats",
+      "duration": 270,
+      "isrc": "GBEWA2100656"
+    },
+    {
+      "artist": "Dinka",
+      "title": "Tales of the Sun",
+      "services": {
+        "qobuz": "206364386"
+      },
+      "album": "Tales of the Sun (Continuous Mix)",
+      "duration": 354,
+      "isrc": "CH3131100431"
+    },
+    {
+      "artist": "Gerard Butler",
+      "title": "Medley: Down Once More / Track Down This Murderer",
+      "services": {
+        "qobuz": "360590716"
+      },
+      "album": "The Phantom of the Opera (Original Motion Picture Soundtrack)",
+      "duration": 768,
+      "isrc": "USSM10414120"
+    },
+    {
+      "artist": "KhoMha",
+      "title": "The Dark Knight",
+      "services": {
+        "qobuz": "377967275"
+      },
+      "album": "Coldharbour presents KhoMha",
+      "duration": 234,
+      "isrc": "NLF711203747"
+    },
+    {
+      "artist": "Norin & Rad",
+      "title": "Bloom",
+      "services": {
+        "qobuz": "424951117"
+      },
+      "album": "Fatum Presents: 20 Years Of Anjunabeats",
+      "duration": 252,
+      "isrc": "GBEWA1908397"
+    },
+    {
+      "artist": "Mathias Eick",
+      "title": "Ten Minutes to Midnight",
+      "services": {
+        "qobuz": "197469204"
+      },
+      "album": "Morning Light",
+      "duration": 368,
+      "isrc": "NODBB1101080"
+    },
+    {
+      "artist": "James Horner",
+      "title": "Rose",
+      "services": {
+        "qobuz": "5139755"
+      },
+      "album": "Titanic (Original Motion Picture Soundtrack - Collector's Edition - Anniversary Edition)",
+      "duration": 172,
+      "isrc": "USSM19702327"
+    },
+    {
+      "artist": "Audien",
+      "title": "Wayfarer (ABGT400)",
+      "services": {
+        "qobuz": "424952333"
+      },
+      "album": "Group Therapy 400 Live from London",
+      "duration": 201,
+      "isrc": "GBEWA1909325"
+    },
+    {
+      "artist": "DJ Eco",
+      "title": "Borealis",
+      "services": {
+        "qobuz": "113524814"
+      },
+      "album": "Borealis",
+      "duration": 434,
+      "isrc": "GBKQU0904686"
+    },
+    {
+      "artist": "Alpha 9",
+      "title": "Come Home",
+      "services": {
+        "qobuz": "378194239"
+      },
+      "album": "Come Home",
+      "duration": 369,
+      "isrc": "NLQ881000625"
+    },
+    {
+      "artist": "Wrechiski",
+      "title": "Atlas (ABGT400)",
+      "services": {
+        "qobuz": "424952336"
+      },
+      "album": "Group Therapy 400 Live from London",
+      "duration": 282,
+      "isrc": "GBEWA1909328"
+    },
+    {
+      "artist": "C-Systems",
+      "title": "Close My Eyes",
+      "services": {
+        "qobuz": "113556298"
+      },
+      "album": "Close My Eyes",
+      "duration": 370,
+      "isrc": "GBKQU1012615"
+    },
+    {
+      "artist": "Myon",
+      "title": "Omen In The Rain",
+      "services": {
+        "qobuz": "424930726"
+      },
+      "album": "Anjunabeats Volume 13",
+      "duration": 326,
+      "isrc": "GBEWA1700066"
+    },
+    {
+      "artist": "Maor Levi",
+      "title": "Reflect Reliquified",
+      "services": {
+        "qobuz": "424989246"
+      },
+      "album": "Reflect Reliquified / Illumina Reliquified",
+      "duration": 254,
+      "isrc": "GBEWA2600210"
+    },
+    {
+      "artist": "Ilan Bluestone",
+      "title": "Sinai (Tritonia 505)",
+      "services": {
+        "qobuz": "318801159"
+      },
+      "album": "Tritonia 505",
+      "duration": 295,
+      "isrc": "GBKQU2519150"
+    },
+    {
+      "artist": "Genix",
+      "title": "Run (ABGT400)",
+      "services": {
+        "qobuz": "424952339"
+      },
+      "album": "Group Therapy 400 Live from London",
+      "duration": 208,
+      "isrc": "GBEWA1909331"
+    },
+    {
+      "artist": "Gai Barone",
+      "title": "Nexo",
+      "services": {
+        "qobuz": "42082527"
+      },
+      "album": "Nexo",
+      "duration": 248,
+      "isrc": "GBJAJ1700769"
+    },
+    {
+      "artist": "Basil O'Glue",
+      "title": "The First Deity (FSOE 731)",
+      "services": {
+        "qobuz": "141085605"
+      },
+      "album": "FSOE 731 - Future Sound Of Egypt Episode 731",
+      "duration": 277,
+      "isrc": "UKRMQ2101171"
+    },
+    {
+      "artist": "Matt Fax",
+      "title": "Shift",
+      "services": {
+        "qobuz": "106813172"
+      },
+      "album": "Shift",
+      "duration": 453,
+      "isrc": "GBKQU1462827"
+    },
+    {
+      "artist": "Grum",
+      "title": "Want U",
+      "services": {
+        "qobuz": "96452869"
+      },
+      "album": "Heartbeats: Ten",
+      "duration": 215,
+      "isrc": "GBC4T2020253"
+    },
+    {
+      "artist": "Sunny Lax",
+      "title": "Enceladus",
+      "services": {
+        "qobuz": "378039423"
+      },
+      "album": "A State Of Trance Radio Top 20 - January 2016",
+      "duration": 212,
+      "isrc": "GBEWA1501060"
+    },
+    {
+      "artist": "Elevven",
+      "title": "Vivi",
+      "services": {
+        "qobuz": "133350288"
+      },
+      "album": "Vivi",
+      "duration": 236,
+      "isrc": "CA6D22100749"
+    },
+    {
+      "artist": "Mari Kodama",
+      "title": "The Sleeping Beauty Suite, Op. 66a, TH 234 (Arr. S. Rachmaninoff): IV. Panorama",
+      "services": {
+        "qobuz": "221283160"
+      },
+      "album": "Tchaikovsky: Ballet Suites for Piano Duo",
+      "duration": 140,
+      "isrc": "NLE421503804"
+    },
+    {
+      "artist": "Farius",
+      "title": "A Big Life",
+      "services": {
+        "qobuz": "150351074"
+      },
+      "album": "A Big Life (Remixes)",
+      "duration": 251,
+      "isrc": "GBKQU2225944"
+    },
+    {
+      "artist": "flawed mangoes",
+      "title": "Surreal",
+      "services": {
+        "qobuz": "328586959"
+      },
+      "album": "Anomaly III",
+      "duration": 287,
+      "isrc": "QZZ4J2500145"
+    }
+  ]
+}

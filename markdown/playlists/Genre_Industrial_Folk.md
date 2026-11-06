@@ -1,0 +1,108 @@
+# Genre: Industrial Folk
+
+Imported genre playlist: Industrial Folk.
+
+Services: `qobuz:66710318`
+
+## Tracks (100)
+
+- **Sol Invictus** — Against the Modern World [Against the Modern World] (1:56) `isrc:DES561190803` `qobuz:189587146`
+- **Choeur Des Moines De L'Abbaye De Solesmes** — Comm : Pascha Nostrum (6), Lu 781 B [Gregorian Chant, Vol. 1] (1:19) `isrc:USA371076971` `qobuz:146765101`
+- **Death In June** — But, What Ends When the Symbols Shatter? [But, What Ends When the Symbols Shatter?] (3:15) `isrc:USI4R0606700` `qobuz:62629959`
+- **Holybrune** — A Song To Send Your Sadness Away [JoyRide] (3:34) `isrc:FR96X2187779` `qobuz:122016684`
+- **Fire + Ice** — Gilded by the Sun [Gilded by the Sun] (6:25) `isrc:USHM90788913` `qobuz:189661921`
+- **URNE** — To Die Twice [A Feast On Sorrow] (5:52) `isrc:GBPVV2305012` `qobuz:209329538`
+- **Nature And Organisation** — Wicker Man Song [Snow Leopard Messiah] (4:34) `isrc:DEZ901501284` `qobuz:26712950`
+- **Lise Davidsen** — R. Strauss: 8 Lieder aus Letzte Blätter, Op. 10: No. 8, Allerseelen [Live at the Met] (2:47) `isrc:USY3P2409159` `qobuz:376213785`
+- **Strength Through Joy** — A Grave for Burning Wings [The Force of Truth and Lies] (4:05) `isrc:USI4R0703757` `qobuz:71684566`
+- **Blood Axis** — The Gospel of Inhumanity [The Gospel Of Inhumanity] (6:13) `isrc:USHM90767748` `qobuz:68116128`
+- **Changes** — Fire of Life [Fire of Life] (4:19) `isrc:DEKB30810463` `qobuz:76249937`
+- **Der Blutharsch** — The Track of the Hunted, Pt. 3 [The Track of the Hunted] (4:27) `isrc:CH6542089070` `qobuz:98425628`
+- **Backworld** — Pleasure Park [Anthems From The Pleasure Park] (3:32) `isrc:USCGJ0830269` `qobuz:67217600`
+- **Ostara** — Nostalgia for the Future [Secret Homeland] (6:09) `isrc:DGA062311593` `qobuz:218711008`
+- **Kurdo** — Alors [KRISTALL] (2:44) `isrc:DEXG92100058` `qobuz:247160802`
+- **Forseti** — Windzeit [Windzeit] (3:46) `isrc:GX4R52180994` `qobuz:203120609`
+- **Wiener Singakademie** — Orff: Carmina Burana / Fortuna imperatrix mundi: I. "O Fortuna" [Orff: Carmina Burana] (2:18) `isrc:DEN961830851` `qobuz:57103736`
+- **Of The Wand & The Moon** — Lucifer [Lucifer] (4:27) `isrc:USA560880392` `qobuz:58081853`
+- **Hekate** — Sonnentanz [Ten Years of Endurance] (4:28) `isrc:DES560390315` `qobuz:189636425`
+- **Ordo Rosarius Equilibrio** — Who Stole the Song? [Do Angels Never Cry and Heaven Never Fall?] (6:34) `isrc:DEBZ71000302` `qobuz:134670651`
+- **Lux Interna** — Dark Fire/Revelator [New Wilderness Gospel] (8:58) `isrc:DES562310731` `qobuz:313235161`
+- **ROME** — To Die Among Strangers [To Die Among Strangers] (4:13) `isrc:DEZ900900443` `qobuz:91730139`
+- **Stolen** — Why We Chose to Die in Berlin (Mark Redder's Dying to Be Dancing Remix) [Fragment] (7:09) `isrc:FR9W11809662` `qobuz:88191878`
+- **Wizo** — Schönheit des Verfalls [Nichts wird wieder gut] (3:56) `isrc:DEG032358203` `qobuz:238271676`
+- **Charles Aznavour** — Die Kinder des Krieges [Sings In German - Best Of] (3:15) `isrc:FRUM72300341` `qobuz:271116429`
+- **NOX-LEVEL** — Cold Fusion [Singularity] (1:12) `isrc:ESA122658513` `qobuz:410531485`
+- **The Beatniks** — Ghost Of My Dream [Last Train To Exitown] (4:41) `isrc:JPTO01100879` `qobuz:4467135`
+- **Edgar Froese** — Tropic Of Capricorn [Beyond The Storm] (5:09) `isrc:GBAAA9901259` `qobuz:5114824`
+- **Sonne Hagal** — Ragnarok [Jordansfrost] (3:40) `isrc:DEKB30810090` `qobuz:76261627`
+- **Wings** — Silly Love Songs [Man on the Run] (2:46) `isrc:GBCCS2600001` `qobuz:389700603`
+- **Vince Guaraldi Trio** — Christmas Time Is Here [A Charlie Brown Christmas (Remastered & Expanded Edition)] (6:06) `isrc:USC4R1201097` `qobuz:22414985`
+- **Coheed and Cambria** — The Willing Well II: From Fear Through the Eyes of Madness [Good Apollo I'm Burning Star IV Volume One:  From Fear Through The Eyes Of Madness] (7:28) `isrc:USSM10504118` `qobuz:13065872`
+- **tastegangster** — Red Summer in the Fridge [Steal Your Tomato Core] (3:34) `isrc:QT6ET2617326` `qobuz:431848001`
+- **Rose rovine e amanti** — Rose rovine e amanti [Demian] (5:16) `isrc:USDY41695254` `qobuz:87369377`
+- **Tame Impala** — New Person, Same Old Mistakes [Currents] (6:02) `isrc:AUUM71500302` `qobuz:24770701`
+- **Calle della morte** — Senza fare rumore [Gente di malaffare] (4:22) `isrc:CH6541646115` `qobuz:104555393`
+- **Baby Tate** — I Am (feat. Flo Milli) [After The Rain] (3:02) `isrc:QZ5FA2050544` `qobuz:314375224`
+- **Kazy Lambist** — Oh My God (S+C+A+R+R Remix) [Oh My God (S+C+A+R+R Remix)] (3:17) `isrc:FR6F32000540` `qobuz:93263380`
+- **Edith Piaf** — Non, Je Ne Regrette Rien (No, I Regret Nothing) [Chansons] (2:25) `isrc:GBFHG1300844` `qobuz:63559795`
+- **Kummer** — Aber nein [Live aus der Wuhlheide] (5:04) `isrc:DECE72301558` `qobuz:210050976`
+- **Marching Orders** — Brothers in Arms [Dead End Street] (2:51) `isrc:CH6540873419` `qobuz:19022502`
+- **SAULT** — Wildfires [Untitled (Black Is)] (3:26) `isrc:UKMEH2000068` `qobuz:127347408`
+- **Nicholas Mazzio** — Moments Of Praise Cherubim and Seraphim Falling Down Before Thee Special Acapella Hymns 1 [Moments Of Praise Album 22] (0:55) `isrc:QMW8V2478547` `qobuz:392193270`
+- **Kieldfal** — Silhouetted by the Sun Part 1 [Silhouetted By the Sun] (4:01) `isrc:AUKDT2501793` `qobuz:319452561`
+- **Arditi** — Religion Of The Blood [Instrumental Version] [Religion Of The Blood (Special Bonus CD)] (4:34) `isrc:GX89G2274236` `qobuz:177375760`
+- **The Michael Schenker Group** — Victim of Illusion [Walk the Stage: The Official Bootleg Box Set] (5:12) `isrc:GBAYK0900166` `qobuz:169134170`
+- **Sinikka Langeland** — A Child Who Exists [Wind and Sun] (4:48) `isrc:DEB332277606` `qobuz:218760530`
+- **SAULT** — Wildfires [Untitled (Black Is)] (3:26) `isrc:UKMEH2000068` `qobuz:127347408`
+- **Diana Krall** — Let's Fall In Love [When I Look In Your Eyes] (4:19) `isrc:USGR19900036` `qobuz:19054031`
+- **Stevie Nicks** — Bella Donna (Demo) [Bella Donna] (3:33) `isrc:USRH11604724` `qobuz:35549907`
+- **Foresta DiFerro** — Oak Leaf [Bury Me Standing] (4:08) `isrc:DEKB30810234` `qobuz:76262116`
+- **Stefano Bollani** — Life on Nibiru [Live from Mars] (2:38) `isrc:IT7BP1600017` `qobuz:78101161`
+- **Bain Wolfkind** — Before This Night Is Through [Love Letters] (2:36) `isrc:TCAHK2386601` `qobuz:227314996`
+- **Soft Orbit Club** — Blue Smoke Signals [Luxury Lounge, Sunset & Chillout Essentials 2026 Vol.2] (2:59) `isrc:BED902601120` `qobuz:398542231`
+- **Ali OKUR Medya Konya PR Music** — Hotel Alhambra - La Guitarra Española Está LLorando! Estilo Clásico Eagles & Santana No DK IX [Hotel Alhambra - La Guitarra Española Está LLorando! Estilo Clásico Eagles & Santana! Álbumes de Música en Español] (6:17) `isrc:QZFZ32627453` `qobuz:381519049`
+- **Miquel Serra** — Sa Millor Cançó del Món [Miquel Serra (2009-2010)] (2:57) `isrc:USA561214464` `qobuz:67632700`
+- **Taphephobia** — Perpetual Existence [Access To A World of Pain] (4:01) `isrc:GBKQU1407674` `qobuz:113438915`
+- **Nikita** — Polet Nad Zemley [Mashina] (3:11) `isrc:FR6V81674331` `qobuz:8547860`
+- **Folkstorm** — Brandtal [Nihil Total] (5:02) `isrc:SEYFX1908906` `qobuz:173863848`
+- **Indigo Girls** — Dead Man's Hill [Swamp Ophelia] (4:42) `isrc:USSM10024542` `qobuz:35445`
+- **Précipices** — Sur les cimes du d​é​sespoir [Devant les affres de la mort] (6:40) `isrc:TCAHR2302939` `qobuz:240634626`
+- **Vox Quadrata** — Teil II: No. 13 Choral "Du heiliges Licht, edler Hort" [Carl Loewe: Palestrina  [Live]] (1:45) `isrc:DEN422507014` `qobuz:365955790`
+- **Dominique Visse** — Jubilate Domino II [Le Veilleur entre les Créneaux] (3:41) `isrc:DEX990920702` `qobuz:1661870`
+- **Matt Moln** — Le plus grand homme de la terre (et de loin) apparaît dans les miroirs enfumés (c'est moi!!!) [Saint-Ours] (5:30) `isrc:CAPDS2000013` `qobuz:315717641`
+- **Microphones** — I Am Bored [The Glow, Pt. 2] (1:36) `isrc:USI4R1130495` `qobuz:39418023`
+- **Ice Nine Kills** — The Nature Of The Beast [Every Trick In The Book] (3:38) `isrc:US5261522001` `qobuz:38969197`
+- **Hildegard Knef** — In dieser Stadt [Ich sehe die Welt durch deine Augen (Remastered)] (3:05) `isrc:DEA619350200` `qobuz:2949917`
+- **MUNA** — Number One Fan [Saves The World] (3:25) `isrc:USRC11900581` `qobuz:62273386`
+- **Joy Denalane** — Richter: This Bitter Earth / On the Nature of Daylight [Hope@Home] (6:36) `isrc:DEN962030303` `qobuz:97826616`
+- **Minnesota Orchestra** — I. Il sogno di Salomone [Respighi: Belkis, Regina di Saba, Ballata delle gnomidi & Pini di Roma] (8:59) `isrc:USFKZ0610542` `qobuz:300023726`
+- **Thomas Bergersen** — Rada [Illusions] (4:21) `isrc:US3DF2002172` `qobuz:128342038`
+- **Dino Murolo** — Quant'eri bella [CALABRIA FACIMU FESTA] (3:33) `isrc:ITL842600012` `qobuz:387754992`
+- **Recondita Stirpe** — 12 Caduti [Nessuna letargia] (3:02) `isrc:CH6541652510` `qobuz:105379647`
+- **In Ruin** — Refuge of Lies [A Ghost to Be Forgotten] (4:05) `isrc:DEKB31100150` `qobuz:76979492`
+- **Spiritual Front** — Song for the Old Man [Open Wounds (Deluxe Edition)] (5:55) `isrc:DEZ901300549` `qobuz:230255042`
+- **Luca Gherardi** — lunga e' la via di casa [Paesaggi Interiori] (4:34) `isrc:ESA122566847` `qobuz:368380350`
+- **James Last** — Schönes Wetter heute [Die schönsten Melodien der letzten 100 Jahre] (1:13) `isrc:DEF068100720` `qobuz:350876817`
+- **In Gowan Ring** — Hazel Steps [Hazel Steps through a Weathered Home] (5:09) `isrc:QZ22B1859988` `qobuz:176522307`
+- **André Manoukian** — Baby Alone In Babylone [Les Pianos de Gainsbourg] (2:43) `isrc:FRUM72100434` `qobuz:118150274`
+- **Bruce Springsteen** — Born In the U.S.A. [Nebraska '82: Expanded Edition] (3:10) `isrc:USSM18200376` `qobuz:354082105`
+- **Ryn Weaver** — Reasons Not To Die [Reasons Not To Die] (3:40) `isrc:USAT21811029` `qobuz:53385702`
+- **Aether Alchemist** — The Weight of Silence [The Fragile Tapestry] (5:49) `isrc:QT6EE2668627` `qobuz:430804137`
+- **Radiohead** — Untitled [Kid A] (0:52) `isrc:GBAYE0800815` `qobuz:33930461`
+- **Thy Will Be Done** — Mystery, Her Name [In Ancient Of Days] (4:33) `isrc:QZRUP2400022` `qobuz:253536745`
+- **31 Minutos** — El Prototipo J.A.J.A.M.I.N.A.T.O.R. [Arwrarwrirwrarwro (Banda Sonora Original de la Cuarta Temporada)] (0:49) `isrc:CLWW21500180` `qobuz:423387535`
+- **Saltatio Mortis** — Das kalte Herz [Wer Wind Sät] (3:57) `isrc:ATN260930505` `qobuz:364227381`
+- **blink-182** — Adam's Song [Enema Of The State] (4:09) `isrc:USMC19959122` `qobuz:115401006`
+- **Bibi und Tina** — Kapitel 01: Pferde, Strand und Meer (Folge 124) [Folge 124: Pferde, Strand und Meer] (1:30) `isrc:DEB582601496` `qobuz:403981426`
+- **Johannes Oerding** — Wo wir sind ist oben [Für immer ab jetzt] (3:08) `isrc:DEE861200760` `qobuz:7454639`
+- **Fabrizio Moro** — In un mondo di stronzi [Non ho paura di niente] (3:14) `isrc:ITDV92500350` `qobuz:411533698`
+- **Natalie Merchant** — Seven Years [Tigerlily] (5:35) `isrc:USEE11100409` `qobuz:6008172`
+- **Hendrik Lasure** — Wolkje [Het Wiel] (3:27) `isrc:BEN582200434` `qobuz:183713695`
+- **Lightworker** — Beyond the Pale [Fury by Failure] (3:56) `isrc:QMGVJ1900266` `qobuz:91341235`
+- **Sangre de Muerdago** — De lume e cinza [O Xardín] (4:39) `isrc:QMBZ92577575` `qobuz:343058384`
+- **Poeti Onirici** — In Dream [Hands Up for Italian Hip Hop, Vol. 3] (3:32) `isrc:FR6V82129264` `qobuz:13638080`
+- **Sad Lovers & Giants** — Happiness is Fragile [Where the Light Shines Through: The Bigger Picture 1981-2017] (3:15) `isrc:GBBLY1702688` `qobuz:120696627`
+- **Majdanek Waltz** — Ливень [Она] (3:37) `isrc:USDY42019911` `qobuz:92515095`
+- **Brent Faiyaz** — ALL MINE [WASTELAND] (3:36) `isrc:QM24S2203185` `qobuz:163687951`
+- **Tommy Twinkle** — Air on the G String [Good Night, Little Star] (1:19) `isrc:QMFMG2372039` `qobuz:247586956`
+- **Graham Reynolds** — Pevensey [The Portcullis] (2:05) `isrc:GBCKK2683301` `qobuz:392412363`

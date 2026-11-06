@@ -1,0 +1,108 @@
+# Genre: Technical Death Metal
+
+Imported genre playlist: Technical Death Metal.
+
+Services: `qobuz:66735442`
+
+## Tracks (100)
+
+- **Nocturnus** — Lake of Fire [The Key] (5:04) `isrc:GBBPB1700793` `qobuz:51010303`
+- **Atheist** — Unquestionable Presence [Unquestionable Presence] (4:07) `isrc:FR33T1227802` `qobuz:184904903`
+- **Cynic** — Veil of Maya [Focus] (5:20) `isrc:NLA329300800` `qobuz:2810459`
+- **Death** — Crystal Mountain [Symbolic [Remaster]] (5:07) `isrc:NLA329501700` `qobuz:2806585`
+- **Atrocity** — Todessehnsucht [Todessehnsucht] (3:47) `isrc:DER372013801` `qobuz:93949268`
+- **Demilich** — The Sixteenth Six-Tooth Son of Fourteen Four Regional Dimensions (Still Unnamed) [Nespithe] (3:29) `isrc:CH6542585738` `qobuz:364415111`
+- **Gorguts** — Obscura [Obscura] (4:04) `isrc:US4E41300501` `qobuz:29050966`
+- **Suffocation** — Liege of Inveracity [Effigy of the Forgotten] (4:31) `isrc:NLA329199999` `qobuz:5698716`
+- **Cryptopsy** — Slit Your Guts [None So Vile] (4:01) `isrc:USI4R0811469` `qobuz:71588334`
+- **Sadist** — India [Tribe] (4:45) `isrc:ITL790700012` `qobuz:27550731`
+- **Oppressor** — Genocide [Solstice Of Oppression] (5:34) `isrc:USA560452513` `qobuz:27255307`
+- **Monstrosity** — Fatal Millennium [Millennium] (4:35) `isrc:US4DT0610035` `qobuz:72930633`
+- **Theory In Practice** — Conspiracy In Cloning [Colonising the sun] (6:09) `isrc:FR6V80209250` `qobuz:1601579`
+- **Nitro Fun** — Warp Zone [Warp Zone] (3:06) `isrc:CA6D22000408` `qobuz:104319038`
+- **Decapitated** — Winds of Creation [Winds of Creation] (4:13) `isrc:GBBPB0400843` `qobuz:21489128`
+- **Nile** — Black Seeds of Vengeance [Black Seeds of Vengence] (3:35) `isrc:US2640044802` `qobuz:21115431`
+- **Arun Ghosh** — Pastoral Sympathy (This Land Is Mine) [But Where Are You Really From?] (3:33) `isrc:GBVFA1740003` `qobuz:173057055`
+- **Malignancy** — Intrauterine Cannibalism [Intrauterine Cannibalism] (1:42) `isrc:QZK6F2193412` `qobuz:129816146`
+- **Pyaemia** — Cerebral Cereal [Cerebral Cereal] (3:14) `isrc:USERN1000396` `qobuz:44604071`
+- **Contradiction** — In Zaire [The Origin of Violence] (4:12) `isrc:DEZ651351050` `qobuz:156716669`
+- **Mithras** — Worlds Beyond the Veil [Worlds Beyond the Veil] (4:33) `isrc:GBUGX1500014` `qobuz:83655811`
+- **Severed Savior** — Brutality Is Law [Brutality Is Law] (3:22) `isrc:USERN1007929` `qobuz:44731110`
+- **Decrepit Birth** — Prelude to the Apocalypse [And Time Begins] (1:24) `isrc:USERN1000422` `qobuz:44609274`
+- **Wormed** — Tunnel Of Ions [PlanisphÆrium] (3:29) `isrc:USRMX1200040` `qobuz:5396965`
+- **Psycroptic** — The Colour of Sleep [The Scepter of the Ancients] (5:05) `isrc:USERN1007909` `qobuz:125917319`
+- **Necrophagist** — Stabwound [Epitaph] (2:48) `isrc:US2640462801` `qobuz:60684990`
+- **Arsis** — The Face Of My Innocence [A Celebration Of Guilt] (5:31) `isrc:USRMX1500040` `qobuz:24446298`
+- **Diana Krall** — Abandoned Masquerade [The Girl In The Other Room] (5:13) `isrc:USGR10301337` `qobuz:54319187`
+- **Devolved** — Hybrid [Calculated] (3:43) `isrc:USERN1000089` `qobuz:44610200`
+- **Quo Vadis** — Silence Calls the Storm [Defiant Imagination] (5:02) `isrc:USCGH0867379` `qobuz:106894498`
+- **Coprofago** — Crippled Tracker [Unorthodox Creative Criteria] (3:19) `isrc:USA2P1133615` `qobuz:5851680`
+- **Neuraxis** — A Curative Struggle [Trilateral Progression] (3:42) `isrc:GBBPB0701694` `qobuz:94933629`
+- **Spawn of Possession** — Lash by Lash [Noctambulant] (4:10) `isrc:SEY7R1000602` `qobuz:197365105`
+- **Gory Blister** — Procession To Apocalypse (Intro) [Skymorphosis] (1:07) `isrc:NLB930600022` `qobuz:141303887`
+- **Elvis Presley** — Are You Lonesome Tonight? [Number Ones Of The Sixties] (3:10) `isrc:UK3XS1400281` `qobuz:28090484`
+- **Odious Mortem** — Fragmented Oblivion [Cryptic Implosion] (4:46) `isrc:US4LA0714801` `qobuz:5949631`
+- **Defeated Sanity** — Propelled Into Sacrilege [The Sanguinary Impetus] (4:20) `isrc:USRMX2000055` `qobuz:92816840`
+- **Brain Drill** — Gorification [Apocalyptic Feasting] (3:51) `isrc:USMBR0705433` `qobuz:60685296`
+- **The Faceless** — Planetary Duality I: Hideous Revelation [Planetary Duality] (1:34) `isrc:USYFZ0801308` `qobuz:338347578`
+- **Winds of Plague** — The Impaler [Decimate the Weak] (3:02) `isrc:US4E40840703` `qobuz:27575231`
+- **Obscura** — The Anticosmic Overload [Cosmogenesis] (4:16) `isrc:US2640903201` `qobuz:60650425`
+- **Gorod** — Disavow Your God [Process Of A New Decline] (4:50) `isrc:USRMX0900080` `qobuz:5949765`
+- **Ulcerate** — Drown Within [Everything Is Fire] (6:42) `isrc:USRMX0900001` `qobuz:54548682`
+- **Lou Reed** — Beginning of a Great Adventure (2020 Remaster) [New York] (5:00) `isrc:USRH12000197` `qobuz:98773462`
+- **Fleshgod Apocalypse** — In Honour Of Reason [Oracles] (4:26) `isrc:USRMX0900009` `qobuz:54332191`
+- **Circle of Contempt** — The Inception [Structures for Creation] (2:01) `isrc:QMEU31607763` `qobuz:128830460`
+- **Man Must Die** — It Comes In Threes [No Tolerance For Imperfection] (5:05) `isrc:US2640903304` `qobuz:60650199`
+- **Revocation** — Dismantle the Dictator [Existence Is Futile (Deluxe Version)] (3:57) `isrc:US2640906208` `qobuz:60770775`
+- **Deeds of Flesh** — Of What's to Come [Of What's to Come] (5:55) `isrc:USERN1000329` `qobuz:44751711`
+- **Soreption** — Deterioration of Minds [Deterioration of Minds] (3:20) `isrc:USERN1008846` `qobuz:44693399`
+- **Beyond Creation** — Omnipresent Perception [The Aura] (6:11) `isrc:CAB5L1300004` `qobuz:77793685`
+- **Cytotoxin** — Radiophobia [Radiophobia] (3:49) `isrc:USERN1008219` `qobuz:212149176`
+- **Inferi** — The Promethean Kings [The Path of Apotheosis] (6:09) `isrc:TCABS1379666` `qobuz:77860132`
+- **Dragonforce** — Through The Fire And Flames [Killer Elite] (7:19) `isrc:GBAJE0508258` `qobuz:204249692`
+- **Gigan** — Cosmic Triangular Communications [Multi-Dimensional Fractal-Sorcery And Super Science] (4:42) `isrc:USRMX1300065` `qobuz:11824104`
+- **Virvum** — Illuminance [Illuminance] (8:59) `isrc:CH6541609566` `qobuz:77788773`
+- **The Kennedy Veil** — Ad Noctum [Trinity of Falsehood] (2:43) `isrc:USERN1008618` `qobuz:44642448`
+- **The Cramps** — The Creature from the Black Leather Lagoon [Stay Sick!] (3:06) `isrc:USA3D1310108` `qobuz:52279702`
+- **Baring Teeth** — Ghost Chorus Among Old Ruins [Ghost Chorus Among Old Ruins] (4:22) `isrc:USRMX1400104` `qobuz:20469470`
+- **Abysmal Dawn** — Human Obsolescence [Obsolescence] (4:30) `isrc:US2641423901` `qobuz:19318790`
+- **Inanimate Existence** — Calling From A Dream [Calling From A Dream] (5:02) `isrc:QMZNK1600134` `qobuz:271798263`
+- **Allegaeon** — 1.618 [Elements of the Infinite] (4:17) `isrc:USMBR1410653` `qobuz:60622280`
+- **Fallujah** — The Flesh Prevails [The Flesh Prevails (10 Year Edition)] (3:22) `isrc:QM4TX2411635` `qobuz:256824456`
+- **Alkaloid** — Carbon Phrases [The Malkuth Grimoire] (9:31) `isrc:USCGH1574672` `qobuz:66092079`
+- **Pyrrhon** — Balkanized [The Mother of Virtues] (4:46) `isrc:US2641425604` `qobuz:14862525`
+- **Serocs** — Thanatophobia [The Phobos / Deimos Suite] (4:18) `isrc:USHM91817501` `qobuz:64735414`
+- **Iridium Cosmos** — I Wear Your Abscence [Kachō Fūgetsu] (2:06) `isrc:QT5M42639957` `qobuz:397370321`
+- **Myk Jung** — Ten Thousand Centuries [Zenith Is Decline - The Nine Lost Ballads] (4:40) `isrc:DEAD20610078` `qobuz:73834002`
+- **First Fragment** — Dasein [Dasein] (4:49) `isrc:QMZNK1600054` `qobuz:44709904`
+- **Krosis** — Buoyancy [Solem Vatem] (4:47) `isrc:QMZNK1800392` `qobuz:46340657`
+- **Vale of Pnath** — The Prodigal Empire [The Prodigal Empire] (3:11) `isrc:USRMX1500014` `qobuz:29785650`
+- **The Ritual Aura** — In the Warmth of Its Glow We Thrived [Heresiarch] (4:51) `isrc:QM3LS2300028` `qobuz:220979239`
+- **Artificial Brain** — Labyrinth Constellation [Labyrinth Constellation] (4:48) `isrc:USN681410008` `qobuz:52279829`
+- **Archspire** — Involuntary Doppelgänger [Relentless Mutation] (3:46) `isrc:FR33T1741101` `qobuz:77783578`
+- **Arkaik** — Reflections Within Dissonance [Reflections Within Dissonance] (4:48) `isrc:USERN1000060` `qobuz:44930181`
+- **Hadal Maw** — Oblique Order [Oblique Order] (5:19) `isrc:TCAFX2117659` `qobuz:138319470`
+- **Charles Wesley Godwin** — Dead To Rights [Lonely Mountain Town] (3:40) `isrc:USUG12500664` `qobuz:318348491`
+- **Vitriol** — The Parting of a Neck [To Bathe From The Throat Of Cowardice] (4:33) `isrc:GBDHC1908701` `qobuz:63512518`
+- **Xoth** — Casting the Sigil [Interdimensional Invocations] (4:52) `isrc:QZHN41941489` `qobuz:229979012`
+- **Unfathomable Ruination** — An Obsidian Perception [Enraged And Unbound] (6:02) `isrc:USRMX1800150` `qobuz:80757942`
+- **Beneath The Massacre** — Rise of the Fearmonger [Fearmonger] (2:35) `isrc:GBDHC2013701` `qobuz:81297609`
+- **Cryptic Shift** — The Arctic Chasm [Visitations from Enceladus] (7:46) `isrc:QM6MZ2010289` `qobuz:92971359`
+- **Wormhole** — The Weakest Among Us [The Weakest Among Us] (3:10) `isrc:CH6541783905` `qobuz:80772777`
+- **Emahoy Tsege Mariam Gebru** — The Last Tears of the Deceased [Spielt Eigen Kompositionen] (8:25) `isrc:QZSQG2202502` `qobuz:183855653`
+- **Yu Su** — Sunless feat. Memotone [Foundry] (3:05) `isrc:GXGYE2500114` `qobuz:397196340`
+- **Ænigmatum** — Forged from Bedlam [Deconsecrate] (5:43) `isrc:USJE72113801` `qobuz:123661089`
+- **Exocrine** — Maelstrom [Maelstrom] (4:33) `isrc:QM4TW2041173` `qobuz:88640670`
+- **Cognizance** — Nocturnal Emission [Malignant Dominion] (1:36) `isrc:USERN1010062` `qobuz:77405122`
+- **Alustrium** — This Hollow Ache [A Monument to Silence] (6:42) `isrc:QM4TW2143961` `qobuz:115771824`
+- **Aethereus** — Leiden [Leiden] (5:02) `isrc:QM3LS2100083` `qobuz:124365800`
+- **Hannes Grossmann** — To Sow the Seeds of Earth [The Crypts of Sleep] (4:24) `isrc:USHM21685348` `qobuz:77489902`
+- **Omnivortex** — Diagrams of Consciousness - Parallel Universe [Diagrams of Consciousness] (11:28) `isrc:FI3FC2083809` `qobuz:104395188`
+- **Cognitive** — Eniac [Malevolent Thoughts of a Hastened Extinction] (4:47) `isrc:QM4TX2100393` `qobuz:117072985`
+- **Hideous Divinity** — The Embalmer [Simulacrum] (4:36) `isrc:GBDHC1911202` `qobuz:68191364`
+- **ATRÆ BILIS** — Excruciate Incarnate [Aumicide] (6:09) `isrc:USJE72419710` `qobuz:254450870`
+- **Anachronism** — Meanders [Meanders] (4:00) `isrc:QZFZ42393654` `qobuz:195863127`
+- **Stortregn** — Impermanence [Impermanence] (2:19) `isrc:QM3LS2100040` `qobuz:106128198`
+- **Xenobiotic** — Mordrake I: Reverie [Mordrake] (2:57) `isrc:QM7281905142` `qobuz:81265999`
+- **Aeviterne** — Denature [The Ailing Facade] (4:49) `isrc:USN682226501` `qobuz:143348189`
+- **Inoculation** — Celestial Putridity [Celestial Putridity] (2:49) `isrc:QM6MZ2162121` `qobuz:118913600`

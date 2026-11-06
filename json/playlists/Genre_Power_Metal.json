@@ -1,0 +1,1010 @@
+{
+  "name": "Genre: Power Metal",
+  "services": {
+    "qobuz": "66736035",
+    "tidal": "a4920f8c-191c-4151-9709-b3323173da5f"
+  },
+  "description": "Imported genre playlist: Power Metal.",
+  "tracks": [
+    {
+      "artist": "Warlord",
+      "title": "Deliver Us From Evil",
+      "services": {
+        "qobuz": "136740729"
+      },
+      "album": "Deliver Us",
+      "duration": 369,
+      "isrc": "GB4J92107201"
+    },
+    {
+      "artist": "Jag Panzer",
+      "title": "The Crucifix",
+      "services": {
+        "qobuz": "27564245"
+      },
+      "album": "Decade of the Nail-Spiked Bat",
+      "duration": 451,
+      "isrc": "GBDHC0349320"
+    },
+    {
+      "artist": "Omen",
+      "title": "Battle Cry",
+      "services": {
+        "qobuz": "60827293"
+      },
+      "album": "Battle Cry",
+      "duration": 222,
+      "isrc": "USMBR0401142"
+    },
+    {
+      "artist": "Virgin Steele",
+      "title": "Noble Savage",
+      "services": {
+        "qobuz": "207417474"
+      },
+      "album": "Noble Savage",
+      "duration": 451,
+      "isrc": "DEA451102500"
+    },
+    {
+      "artist": "Beast In Black",
+      "title": "The Fifth Angel",
+      "services": {
+        "qobuz": "60739217"
+      },
+      "album": "Berserker",
+      "duration": 210,
+      "isrc": "DED831701297"
+    },
+    {
+      "artist": "Heir Apparent",
+      "title": "The Cloak",
+      "services": {
+        "qobuz": "77699965"
+      },
+      "album": "Graceful Inheritance",
+      "duration": 153,
+      "isrc": "USHM80317011"
+    },
+    {
+      "artist": "Helloween",
+      "title": "Future World",
+      "services": {
+        "qobuz": "381309341"
+      },
+      "album": "Keeper of the Seven Keys",
+      "duration": 242,
+      "isrc": "GB5KW2400894"
+    },
+    {
+      "artist": "Running Wild",
+      "title": "Under Jolly Roger",
+      "services": {
+        "qobuz": "385569717"
+      },
+      "album": "Riding the Storm: The Very Best of the Noise Years 1983-1995",
+      "duration": 282,
+      "isrc": "GBAJE0300753"
+    },
+    {
+      "artist": "Sanctuary",
+      "title": "Battle Angels",
+      "services": {
+        "qobuz": "32947"
+      },
+      "album": "Refuge Denied",
+      "duration": 291,
+      "isrc": "USSM10026140"
+    },
+    {
+      "artist": "Savatage",
+      "title": "Hall of the Mountain King",
+      "services": {
+        "qobuz": "33019076"
+      },
+      "album": "Hall of the Mountain King (2011 Edition)",
+      "duration": 333,
+      "isrc": "DEH841100564"
+    },
+    {
+      "artist": "The United States Army Field Band",
+      "title": "Sunrise at Angel's Gate",
+      "services": {
+        "qobuz": "306269707"
+      },
+      "album": "United States Army Field Band and Soldier's Chorus: Musical Ambassadors of the Army",
+      "duration": 524,
+      "isrc": "USA5R0511402"
+    },
+    {
+      "artist": "Rage",
+      "title": "Don't Fear the Winter",
+      "services": {
+        "qobuz": "189890590"
+      },
+      "album": "Perfect Man",
+      "duration": 207,
+      "isrc": "DEAT71518895"
+    },
+    {
+      "artist": "Blind Guardian",
+      "title": "Majesty",
+      "services": {
+        "qobuz": "61783143"
+      },
+      "album": "Battalions of Fear (Remastered 2017)",
+      "duration": 450,
+      "isrc": "DED831700943"
+    },
+    {
+      "artist": "Scanner",
+      "title": "Warp 7",
+      "services": {
+        "qobuz": "39804566"
+      },
+      "album": "Hypertrace",
+      "duration": 273,
+      "isrc": "DER371692001"
+    },
+    {
+      "artist": "Vicious Rumors",
+      "title": "Digital Dictator",
+      "services": {
+        "qobuz": "79573860"
+      },
+      "album": "Digital Dictator",
+      "duration": 196,
+      "isrc": "QM7281532487"
+    },
+    {
+      "artist": "RIOT",
+      "title": "Thundersteel",
+      "services": {
+        "qobuz": "2559"
+      },
+      "album": "Thundersteel",
+      "duration": 229,
+      "isrc": "USSM18700524"
+    },
+    {
+      "artist": "Crimson Glory",
+      "title": "Lady of Winter",
+      "services": {
+        "qobuz": "2810592"
+      },
+      "album": "Transcendence",
+      "duration": 239,
+      "isrc": "NLA328999999"
+    },
+    {
+      "artist": "Manowar",
+      "title": "Hail and Kill",
+      "services": {
+        "qobuz": "2003397"
+      },
+      "album": "Kings of Metal",
+      "duration": 356,
+      "isrc": "USAT20102851"
+    },
+    {
+      "artist": "Helstar",
+      "title": "Baptized In Blood",
+      "services": {
+        "qobuz": "60752854"
+      },
+      "album": "Nosferatu",
+      "duration": 264,
+      "isrc": "USMBR0501590"
+    },
+    {
+      "artist": "0Gravity",
+      "title": "Chase Your Dreams",
+      "services": {
+        "qobuz": "379637490"
+      },
+      "album": "Chase Your Dreams",
+      "duration": 360,
+      "isrc": "UKRMQ2501467"
+    },
+    {
+      "artist": "Rata Blanca",
+      "title": "La Leyenda Del Hada Y El Mago",
+      "services": {
+        "qobuz": "250768975"
+      },
+      "album": "Magos, Espadas Y Rosas",
+      "duration": 325,
+      "isrc": "ARF099000029"
+    },
+    {
+      "artist": "Heavens Gate",
+      "title": "Livin' in Hysteria",
+      "services": {
+        "qobuz": "49095677"
+      },
+      "album": "Livin' in Hysteria",
+      "duration": 278,
+      "isrc": "DET271370201"
+    },
+    {
+      "artist": "Royal Hunt",
+      "title": "Far Away",
+      "services": {
+        "qobuz": "83794673"
+      },
+      "album": "Moving Target",
+      "duration": 298,
+      "isrc": "DKRC39500204"
+    },
+    {
+      "artist": "Angra",
+      "title": "Carry On",
+      "services": {
+        "qobuz": "211961663"
+      },
+      "album": "Angels Cry",
+      "duration": 305,
+      "isrc": "BRBRI0500773"
+    },
+    {
+      "artist": "Grave Digger",
+      "title": "Rebellion (The Clans Are Marching)",
+      "services": {
+        "qobuz": "278785"
+      },
+      "album": "Masterpieces",
+      "duration": 244,
+      "isrc": "DEC689600439"
+    },
+    {
+      "artist": "Gamma Ray",
+      "title": "Rebellion in Dreamland",
+      "services": {
+        "qobuz": "88601069"
+      },
+      "album": "The Best (Of)",
+      "duration": 526,
+      "isrc": "DEH841400594"
+    },
+    {
+      "artist": "Stratovarius",
+      "title": "Black Diamond",
+      "services": {
+        "qobuz": "386598027"
+      },
+      "album": "Visions",
+      "duration": 339,
+      "isrc": "DEA249700002"
+    },
+    {
+      "artist": "Hammerfall",
+      "title": "The Dragon Lies Bleeding",
+      "services": {
+        "qobuz": "61268459"
+      },
+      "album": "Glory to the Brave",
+      "duration": 262,
+      "isrc": "DED839700431"
+    },
+    {
+      "artist": "Rhapsody",
+      "title": "Emerald Sword",
+      "services": {
+        "qobuz": "49046742"
+      },
+      "album": "Symphony of Enchanted Lands",
+      "duration": 261,
+      "isrc": "DET279800501"
+    },
+    {
+      "artist": "Iron Savior",
+      "title": "Heavy Metal Never Dies",
+      "services": {
+        "qobuz": "58120170"
+      },
+      "album": "The Landing",
+      "duration": 254,
+      "isrc": "DEU601103715"
+    },
+    {
+      "artist": "Brainstorm",
+      "title": "Nails in My Hands (Remastered)",
+      "services": {
+        "qobuz": "60887132"
+      },
+      "album": "Hungry",
+      "duration": 189,
+      "isrc": "USMBR1310229"
+    },
+    {
+      "artist": "Domine",
+      "title": "The Chronicles of the Black Sword",
+      "services": {
+        "qobuz": "45657748"
+      },
+      "album": "Champion Eternal",
+      "duration": 488,
+      "isrc": "USA561093358"
+    },
+    {
+      "artist": "Iced Earth",
+      "title": "Burning Times",
+      "services": {
+        "qobuz": "27562076"
+      },
+      "album": "Something Wicked This Way Comes",
+      "duration": 224,
+      "isrc": "US4E40491401"
+    },
+    {
+      "artist": "Primal Fear",
+      "title": "Chainbreaker",
+      "services": {
+        "qobuz": "298210625"
+      },
+      "album": "Primal Fear (Deluxe Edition)",
+      "duration": 265,
+      "isrc": "DED839739502"
+    },
+    {
+      "artist": "Labyrinth",
+      "title": "State of Grace",
+      "services": {
+        "qobuz": "10466960"
+      },
+      "album": "Return to Heaven Denied",
+      "duration": 188,
+      "isrc": "FR6V81859257"
+    },
+    {
+      "artist": "Edguy",
+      "title": "Vain Glory Opera",
+      "services": {
+        "qobuz": "58983377"
+      },
+      "album": "Vain Glory Opera",
+      "duration": 367,
+      "isrc": "DEZ900500571"
+    },
+    {
+      "artist": "Nocturnal Rites",
+      "title": "Ring of Steel",
+      "services": {
+        "qobuz": "27558505"
+      },
+      "album": "Tales of Mystery and Imagination",
+      "duration": 403,
+      "isrc": "US4E40590801"
+    },
+    {
+      "artist": "Narnia",
+      "title": "The Return of Aslan",
+      "services": {
+        "qobuz": "125056675"
+      },
+      "album": "Awakening",
+      "duration": 295,
+      "isrc": "TCACM1676892"
+    },
+    {
+      "artist": "Kaan Kanatl\u0131",
+      "title": "Timescape",
+      "services": {
+        "qobuz": "278952388"
+      },
+      "album": "Impulse Continuum",
+      "duration": 225,
+      "isrc": "QZNWU2423396"
+    },
+    {
+      "artist": "Tad Morose",
+      "title": "Matters of the Dark",
+      "services": {
+        "qobuz": "27555282"
+      },
+      "album": "Matters of the Dark",
+      "duration": 212,
+      "isrc": "US4E40409402"
+    },
+    {
+      "artist": "Sonata Arctica",
+      "title": "FullMoon",
+      "services": {
+        "qobuz": "190373852"
+      },
+      "album": "Ecliptica",
+      "duration": 306,
+      "isrc": "FISFS9900087"
+    },
+    {
+      "artist": "Vision Divine",
+      "title": "La Vita Fugge",
+      "services": {
+        "qobuz": "50558453"
+      },
+      "album": "Stream of Consciousness",
+      "duration": 280,
+      "isrc": "DEAR41844268"
+    },
+    {
+      "artist": "DARK MOOR",
+      "title": "Silver Lake",
+      "services": {
+        "qobuz": "150452192"
+      },
+      "album": "The Hall of the Olden Dreams",
+      "duration": 317,
+      "isrc": "QMDA61892439"
+    },
+    {
+      "artist": "Freedom Call",
+      "title": "Warriors",
+      "services": {
+        "qobuz": "387251015"
+      },
+      "album": "Ages of Light (1998-2013)",
+      "duration": 259,
+      "isrc": "DEA450202230"
+    },
+    {
+      "artist": "Metalium",
+      "title": "Smoke on the Water",
+      "services": {
+        "qobuz": "39799207"
+      },
+      "album": "Millenium Metal - Chapter One",
+      "duration": 337,
+      "isrc": "DER379919113"
+    },
+    {
+      "artist": "Kamelot",
+      "title": "The Fourth Legacy",
+      "services": {
+        "qobuz": "388097936"
+      },
+      "album": "The Fourth Legacy",
+      "duration": 295,
+      "isrc": "DEA249915002"
+    },
+    {
+      "artist": "Angel Dust",
+      "title": "Bleed",
+      "services": {
+        "qobuz": "27811328"
+      },
+      "album": "Bleed",
+      "duration": 281,
+      "isrc": "US4E40594301"
+    },
+    {
+      "artist": "Sinergy",
+      "title": "Beware the Heavens",
+      "services": {
+        "qobuz": "127992995"
+      },
+      "album": "Beware the Heavens",
+      "duration": 234,
+      "isrc": "DED830693805"
+    },
+    {
+      "artist": "At Vance",
+      "title": "Four Seasons - Summer",
+      "services": {
+        "qobuz": "91721069"
+      },
+      "album": "No Escape",
+      "duration": 200,
+      "isrc": "DEU600600486"
+    },
+    {
+      "artist": "Manticora",
+      "title": "When Forever Ends",
+      "services": {
+        "qobuz": "233644981"
+      },
+      "album": "Roots Of Eternity",
+      "duration": 412,
+      "isrc": "DKQ4A2302902"
+    },
+    {
+      "artist": "Lost Horizon",
+      "title": "Highlander (The One)",
+      "services": {
+        "qobuz": "22268746"
+      },
+      "album": "A Flame To The Ground Beneath",
+      "duration": 716,
+      "isrc": "GBCKC0200321"
+    },
+    {
+      "artist": "Avantasia",
+      "title": "The Seven Angels",
+      "services": {
+        "qobuz": "91716549"
+      },
+      "album": "The Metal Opera, Pt. 2",
+      "duration": 857,
+      "isrc": "DEZ900500287"
+    },
+    {
+      "artist": "Power Quest",
+      "title": "Wings of Forever",
+      "services": {
+        "qobuz": "61377331"
+      },
+      "album": "Wings of Forever",
+      "duration": 333,
+      "isrc": "SEXEN1900702"
+    },
+    {
+      "artist": "Dreamtale",
+      "title": "Fallen Star",
+      "services": {
+        "qobuz": "190527661"
+      },
+      "album": "Beyond Reality",
+      "duration": 265,
+      "isrc": "FIUM70700071"
+    },
+    {
+      "artist": "Dionysus",
+      "title": "Anima Mundi",
+      "services": {
+        "qobuz": "91719287"
+      },
+      "album": "Anima Mundi",
+      "duration": 213,
+      "isrc": "DEZ900500530"
+    },
+    {
+      "artist": "Felt",
+      "title": "Reign Of Elements",
+      "services": {
+        "qobuz": "321976686"
+      },
+      "album": "Underground Beatz",
+      "duration": 139,
+      "isrc": "GBWX32406519"
+    },
+    {
+      "artist": "Masterplan",
+      "title": "Spirit Never Die",
+      "services": {
+        "qobuz": "47713532"
+      },
+      "album": "Masterplan",
+      "duration": 326,
+      "isrc": "DET970200001"
+    },
+    {
+      "artist": "Twilightning",
+      "title": "Delirium Veil",
+      "services": {
+        "qobuz": "190529790"
+      },
+      "album": "Delirium Veil",
+      "duration": 256,
+      "isrc": "FISFS0200112"
+    },
+    {
+      "artist": "Highland Glory",
+      "title": "From the Cradle to the Brave",
+      "services": {
+        "qobuz": "270100199"
+      },
+      "album": "From the Cradle to the Brave",
+      "duration": 466,
+      "isrc": "NOAPI0927140"
+    },
+    {
+      "artist": "Hibria",
+      "title": "Steel Lord on Wheels",
+      "services": {
+        "qobuz": "21429456"
+      },
+      "album": "Defying the Rules",
+      "duration": 234,
+      "isrc": "DEKS80439002"
+    },
+    {
+      "artist": "Dragonland",
+      "title": "Starfall",
+      "services": {
+        "qobuz": "27539140"
+      },
+      "album": "Starfall",
+      "duration": 200,
+      "isrc": "GBDHC0405122"
+    },
+    {
+      "artist": "Rent Strike",
+      "title": "VI: Don't Let Love Bog You Down",
+      "services": {
+        "qobuz": "135328461"
+      },
+      "album": "IX",
+      "duration": 221,
+      "isrc": "USDHM1800049"
+    },
+    {
+      "artist": "Magic Kingdom",
+      "title": "Another Sun",
+      "services": {
+        "qobuz": "74731714"
+      },
+      "album": "Metallic Tragedy",
+      "duration": 278,
+      "isrc": "DET270406808"
+    },
+    {
+      "artist": "Sabaton",
+      "title": "Primo Victoria",
+      "services": {
+        "qobuz": "61782738"
+      },
+      "album": "Primo Victoria",
+      "duration": 250,
+      "isrc": "SE2EG1000101"
+    },
+    {
+      "artist": "Powerwolf",
+      "title": "Kiss of the Cobra King",
+      "services": {
+        "qobuz": "74750306"
+      },
+      "album": "Kiss of the Cobra King (New Version 2019)",
+      "duration": 229,
+      "isrc": "ATN262091901"
+    },
+    {
+      "artist": "Demons & Wizards",
+      "title": "Crimson King",
+      "services": {
+        "qobuz": "60411530"
+      },
+      "album": "Touched By The Crimson King (Remasters 2019)",
+      "duration": 345,
+      "isrc": "GBDHC1908101"
+    },
+    {
+      "artist": "Timeless Miracle",
+      "title": "Into the Enchanted Chamber",
+      "services": {
+        "qobuz": "196939519"
+      },
+      "album": "Into the Enchanted Chamber",
+      "duration": 365,
+      "isrc": "SEWKO1001003"
+    },
+    {
+      "artist": "Dragonforce",
+      "title": "Through The Fire And Flames",
+      "services": {
+        "qobuz": "204249692"
+      },
+      "album": "Killer Elite",
+      "duration": 439,
+      "isrc": "GBAJE0508258"
+    },
+    {
+      "artist": "Firewind",
+      "title": "I Am the Anger",
+      "services": {
+        "qobuz": "127323179"
+      },
+      "album": "Burning Earth",
+      "duration": 227,
+      "isrc": "TCAFJ2125064"
+    },
+    {
+      "artist": "Heavenly",
+      "title": "Virus",
+      "services": {
+        "qobuz": "91718675"
+      },
+      "album": "Virus",
+      "duration": 375,
+      "isrc": "DEZ900601656"
+    },
+    {
+      "artist": "Winterborn",
+      "title": "Wildheart",
+      "services": {
+        "qobuz": "39800514"
+      },
+      "album": "Cold Reality",
+      "duration": 311,
+      "isrc": "DER370652901"
+    },
+    {
+      "artist": "Ariel Marx",
+      "title": "Classical Gas (Main Title)",
+      "services": {
+        "qobuz": "356261989"
+      },
+      "album": "The Last Frontier: Season 1 (Apple TV+ Original Series Soundtrack)",
+      "duration": 67,
+      "isrc": "US23A9663762"
+    },
+    {
+      "artist": "Theocracy",
+      "title": "I Am",
+      "services": {
+        "qobuz": "58716874"
+      },
+      "album": "As the World Bleeds",
+      "duration": 660,
+      "isrc": "TCABB1195025"
+    },
+    {
+      "artist": "Bloodbound",
+      "title": "Nosferatu",
+      "services": {
+        "qobuz": "55677088"
+      },
+      "album": "Nosferatu",
+      "duration": 383,
+      "isrc": "DEU601103546"
+    },
+    {
+      "artist": "Cain's Offering",
+      "title": "I Will Build You a Rome",
+      "services": {
+        "qobuz": "23743744"
+      },
+      "album": "Stormcrow",
+      "duration": 280,
+      "isrc": "JPJ301501156"
+    },
+    {
+      "artist": "Unisonic",
+      "title": "Unisonic",
+      "services": {
+        "qobuz": "15890948"
+      },
+      "album": "Unisonic",
+      "duration": 205,
+      "isrc": "DEH841200037"
+    },
+    {
+      "artist": "Trick Or Treat",
+      "title": "Evil Needs Candy Too",
+      "services": {
+        "qobuz": "96237817"
+      },
+      "album": "Evil Needs Candy Too",
+      "duration": 250,
+      "isrc": "ITV780600105"
+    },
+    {
+      "artist": "GALNERYUS",
+      "title": "ANGEL OF SALVATION",
+      "services": {
+        "qobuz": "305657226"
+      },
+      "album": "ANGEL OF SALVATION",
+      "duration": 881,
+      "isrc": "JPVP01207609"
+    },
+    {
+      "artist": "Gloryhammer",
+      "title": "The Unicorn Invasion of Dundee",
+      "services": {
+        "qobuz": "37142853"
+      },
+      "album": "Tales from the Kingdom of Fife",
+      "duration": 266,
+      "isrc": "ATN261346102"
+    },
+    {
+      "artist": "Battle Beast",
+      "title": "King for a Day",
+      "services": {
+        "qobuz": "61262604"
+      },
+      "album": "Bringer of Pain",
+      "duration": 275,
+      "isrc": "DED831601546"
+    },
+    {
+      "artist": "Civil War",
+      "title": "I Will Rule the Universe",
+      "services": {
+        "qobuz": "99587941"
+      },
+      "album": "The Killer Angels",
+      "duration": 310,
+      "isrc": "SEXTE1300606"
+    },
+    {
+      "artist": "Serenity",
+      "title": "The Matricide",
+      "services": {
+        "qobuz": "39279203"
+      },
+      "album": "War of Ages",
+      "duration": 296,
+      "isrc": "ATN261347806"
+    },
+    {
+      "artist": "Twilight Force",
+      "title": "Battle of Arcane Might",
+      "services": {
+        "qobuz": "202005271"
+      },
+      "album": "Heroes Of Mighty Magic",
+      "duration": 306,
+      "isrc": "DED831600493"
+    },
+    {
+      "artist": "Helion Prime",
+      "title": "Life Finds a Way",
+      "services": {
+        "qobuz": "37400498"
+      },
+      "album": "Helion Prime",
+      "duration": 264,
+      "isrc": "DEU601706691"
+    },
+    {
+      "artist": "VICTORIUS",
+      "title": "Super Sonic Samurai",
+      "services": {
+        "qobuz": "74759506"
+      },
+      "album": "Space Ninjas from Hell",
+      "duration": 242,
+      "isrc": "ATN261989203"
+    },
+    {
+      "artist": "Serious Black",
+      "title": "High and Low",
+      "services": {
+        "qobuz": "21140090"
+      },
+      "album": "As Daylight Breaks",
+      "duration": 218,
+      "isrc": "DEU601505425"
+    },
+    {
+      "artist": "Symphonity",
+      "title": "Give Me Your Helping Hand",
+      "services": {
+        "qobuz": "210993232"
+      },
+      "album": "Voice from the Silence",
+      "duration": 309,
+      "isrc": "DET270810602"
+    },
+    {
+      "artist": "Unleash The Archers",
+      "title": "Apex",
+      "services": {
+        "qobuz": "49209080"
+      },
+      "album": "Apex",
+      "duration": 500,
+      "isrc": "ATN261771310"
+    },
+    {
+      "artist": "Rainbow Kitten Surprise",
+      "title": "Holy War",
+      "services": {
+        "qobuz": "46449540"
+      },
+      "album": "How to: Friend, Love, Freefall",
+      "duration": 174,
+      "isrc": "USAT21800177"
+    },
+    {
+      "artist": "Orden Ogan",
+      "title": "Gunman",
+      "services": {
+        "qobuz": "40731068"
+      },
+      "album": "Gunmen",
+      "duration": 318,
+      "isrc": "DEU601706950"
+    },
+    {
+      "artist": "Brothers of Metal",
+      "title": "Yggdrasil",
+      "services": {
+        "qobuz": "52413402"
+      },
+      "album": "Prophecy of Ragnar\u00f6k",
+      "duration": 272,
+      "isrc": "USCGJ1733170"
+    },
+    {
+      "artist": "WarKings",
+      "title": "Sparta",
+      "services": {
+        "qobuz": "79844573"
+      },
+      "album": "Reborn",
+      "duration": 207,
+      "isrc": "ATN261879208"
+    },
+    {
+      "artist": "Frozen Crown",
+      "title": "Kings",
+      "services": {
+        "qobuz": "220482413"
+      },
+      "album": "The Fallen King",
+      "duration": 247,
+      "isrc": "ITD291801644"
+    },
+    {
+      "artist": "Arion",
+      "title": "At the Break of Dawn",
+      "services": {
+        "qobuz": "52732250"
+      },
+      "album": "Life Is Not Beautiful",
+      "duration": 211,
+      "isrc": "FIRAN1600011"
+    },
+    {
+      "artist": "Judicator",
+      "title": "Spiritual Treason",
+      "services": {
+        "qobuz": "106296407"
+      },
+      "album": "The Last Emperor",
+      "duration": 376,
+      "isrc": "QMAAK1830924"
+    },
+    {
+      "artist": "Beast In Black",
+      "title": "Blind And Frozen",
+      "services": {
+        "qobuz": "60739213"
+      },
+      "album": "Berserker",
+      "duration": 304,
+      "isrc": "DED831701293"
+    },
+    {
+      "artist": "Majestica",
+      "title": "Above the Sky",
+      "services": {
+        "qobuz": "60415362"
+      },
+      "album": "Above the Sky",
+      "duration": 351,
+      "isrc": "DED831801924"
+    },
+    {
+      "artist": "NorthTale",
+      "title": "Higher",
+      "services": {
+        "qobuz": "61970095"
+      },
+      "album": "Welcome to Paradise",
+      "duration": 225,
+      "isrc": "DED831900284"
+    },
+    {
+      "artist": "Altaria",
+      "title": "Unchain the Rain",
+      "services": {
+        "qobuz": "85848601"
+      },
+      "album": "Divinity",
+      "duration": 221,
+      "isrc": "ATN262002001"
+    },
+    {
+      "artist": "Fellowship",
+      "title": "Glint",
+      "services": {
+        "qobuz": "240876810"
+      },
+      "album": "The Saberlight Chronicles",
+      "duration": 310,
+      "isrc": "ITD292202406"
+    }
+  ]
+}

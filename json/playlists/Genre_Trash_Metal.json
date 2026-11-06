@@ -1,0 +1,710 @@
+{
+  "name": "Genre: Trash Metal",
+  "services": {
+    "qobuz": "66734608",
+    "tidal": "278bd864-ef5b-4a54-a2f8-0871781f67a0"
+  },
+  "description": "Imported genre playlist: Trash Metal.",
+  "tracks": [
+    {
+      "artist": "Metallica",
+      "title": "Whiplash",
+      "services": {
+        "qobuz": "95787425"
+      },
+      "album": "Kill 'Em All",
+      "duration": 248,
+      "isrc": "QMKHM1600031"
+    },
+    {
+      "artist": "Slayer",
+      "title": "Chemical Warfare",
+      "services": {
+        "qobuz": "136741235"
+      },
+      "album": "Haunting the Chapel",
+      "duration": 361,
+      "isrc": "USMBR0704841"
+    },
+    {
+      "artist": "Anthrax",
+      "title": "Madhouse",
+      "services": {
+        "qobuz": "28266377"
+      },
+      "album": "Spreading The Disease",
+      "duration": 257,
+      "isrc": "USIR20000364"
+    },
+    {
+      "artist": "Megadeth",
+      "title": "Mechanix",
+      "services": {
+        "qobuz": "48322804"
+      },
+      "album": "Killing Is My Business...And Business Is Good - The Final Kill",
+      "duration": 263,
+      "isrc": "USSM11800375"
+    },
+    {
+      "artist": "Exodus",
+      "title": "Bonded by Blood",
+      "services": {
+        "qobuz": "25140800"
+      },
+      "album": "Bonded by Blood",
+      "duration": 224,
+      "isrc": "USSM11501836"
+    },
+    {
+      "artist": "Overkill",
+      "title": "Rotten to the Core",
+      "services": {
+        "qobuz": "60777372"
+      },
+      "album": "Live in Overhausen",
+      "duration": 417,
+      "isrc": "DED831701751"
+    },
+    {
+      "artist": "Destruction",
+      "title": "Curse The Gods",
+      "services": {
+        "qobuz": "242430507"
+      },
+      "album": "Eternal Devastation",
+      "duration": 361,
+      "isrc": "DELJ81743503"
+    },
+    {
+      "artist": "Onslaught",
+      "title": "Power from Hell",
+      "services": {
+        "qobuz": "319651503"
+      },
+      "album": "Origins Of Aggression",
+      "duration": 289,
+      "isrc": "DE1KY2405893"
+    },
+    {
+      "artist": "Testament",
+      "title": "Over the Wall",
+      "services": {
+        "qobuz": "2797246"
+      },
+      "album": "The Legacy",
+      "duration": 246,
+      "isrc": "USAT29900641"
+    },
+    {
+      "artist": "Death Angel",
+      "title": "The Ultra-Violence",
+      "services": {
+        "qobuz": "5481663"
+      },
+      "album": "The Ultra-Violence",
+      "duration": 633,
+      "isrc": "USRY20410123"
+    },
+    {
+      "artist": "Forbidden",
+      "title": "Through Eyes of Glass",
+      "services": {
+        "qobuz": "25125734"
+      },
+      "album": "Forbidden Evil",
+      "duration": 385,
+      "isrc": "USSM11501897"
+    },
+    {
+      "artist": "Heathen",
+      "title": "Death By Hanging",
+      "services": {
+        "qobuz": "25125751"
+      },
+      "album": "Breaking the Silence",
+      "duration": 304,
+      "isrc": "USSM11501918"
+    },
+    {
+      "artist": "Laaz Rockit",
+      "title": "Mob Justice",
+      "services": {
+        "qobuz": "39800073"
+      },
+      "album": "Annihilation Principle",
+      "duration": 301,
+      "isrc": "DER370962102"
+    },
+    {
+      "artist": "Dark Angel",
+      "title": "Merciless Death",
+      "services": {
+        "qobuz": "25125679"
+      },
+      "album": "Darkness Descends",
+      "duration": 242,
+      "isrc": "USSM11501768"
+    },
+    {
+      "artist": "Nuclear Assault",
+      "title": "Critical Mass",
+      "services": {
+        "qobuz": "23610696"
+      },
+      "album": "Handle With Care",
+      "duration": 198,
+      "isrc": "USSM11501596"
+    },
+    {
+      "artist": "Whiplash",
+      "title": "Power Thrashing Death",
+      "services": {
+        "qobuz": "2111603"
+      },
+      "album": "Power And Pain",
+      "duration": 253,
+      "isrc": "NLA329099963"
+    },
+    {
+      "artist": "Flotsam And Jetsam",
+      "title": "Hammerhead",
+      "services": {
+        "qobuz": "60887217"
+      },
+      "album": "Doomsday for the Deceiver",
+      "duration": 375,
+      "isrc": "USMBR0400913"
+    },
+    {
+      "artist": "Sacred Reich",
+      "title": "Surf Nicaragua",
+      "services": {
+        "qobuz": "112164160"
+      },
+      "album": "Surf Nicaragua",
+      "duration": 280,
+      "isrc": "USMBR2114623"
+    },
+    {
+      "artist": "Atrophy",
+      "title": "Chemical Dependency",
+      "services": {
+        "qobuz": "61939513"
+      },
+      "album": "Socialized Hate",
+      "duration": 246,
+      "isrc": "USRH11902114"
+    },
+    {
+      "artist": "Holy Terror",
+      "title": "Debt of Pain",
+      "services": {
+        "qobuz": "317814104"
+      },
+      "album": "Mind Wars",
+      "duration": 155,
+      "isrc": "UKF731707111"
+    },
+    {
+      "artist": "Voivod",
+      "title": "Tribal Convictions",
+      "services": {
+        "qobuz": "387263336"
+      },
+      "album": "Dimension Hatr\u00f6ss",
+      "duration": 291,
+      "isrc": "GBAJE8800963"
+    },
+    {
+      "artist": "Sodom",
+      "title": "Agent Orange",
+      "services": {
+        "qobuz": "381230203"
+      },
+      "album": "Agent Orange",
+      "duration": 365,
+      "isrc": "DEA451001580"
+    },
+    {
+      "artist": "Watchtower",
+      "title": "Control And Resistance",
+      "services": {
+        "qobuz": "385631007"
+      },
+      "album": "Control and Resistance",
+      "duration": 418,
+      "isrc": "GBAJE0609505"
+    },
+    {
+      "artist": "Nasty Savage",
+      "title": "Gladiator",
+      "services": {
+        "qobuz": "60706138"
+      },
+      "album": "Nasty Savage",
+      "duration": 263,
+      "isrc": "USMBR0401072"
+    },
+    {
+      "artist": "Annihilator",
+      "title": "Alison Hell",
+      "services": {
+        "qobuz": "2810579"
+      },
+      "album": "Alice In Hell",
+      "duration": 301,
+      "isrc": "NLA329880205"
+    },
+    {
+      "artist": "Wrathchild America",
+      "title": "Climbin' the Walls",
+      "services": {
+        "qobuz": "10469091"
+      },
+      "album": "Climbin' The Walls",
+      "duration": 266,
+      "isrc": "USAT20613858"
+    },
+    {
+      "artist": "Kreator",
+      "title": "Pleasure to Kill",
+      "services": {
+        "qobuz": "385633008"
+      },
+      "album": "Pleasure to Kill",
+      "duration": 248,
+      "isrc": "GBAJE8600556"
+    },
+    {
+      "artist": "Tankard",
+      "title": "The Morning After",
+      "services": {
+        "qobuz": "385323532"
+      },
+      "album": "The Morning After + Alien",
+      "duration": 266,
+      "isrc": "GB5KW1703101"
+    },
+    {
+      "artist": "Paradox",
+      "title": "Pray to the Godz of Wrath",
+      "services": {
+        "qobuz": "358886689"
+      },
+      "album": "Product of Imagination",
+      "duration": 283,
+      "isrc": "USRH12504448"
+    },
+    {
+      "artist": "Mekong Delta",
+      "title": "Symphony of Agony",
+      "services": {
+        "qobuz": "101663321"
+      },
+      "album": "Lurking Fear",
+      "duration": 308,
+      "isrc": "DEU600700877"
+    },
+    {
+      "artist": "Coroner",
+      "title": "Masked Jackal",
+      "services": {
+        "qobuz": "48632320"
+      },
+      "album": "Punishment for Decadence",
+      "duration": 287,
+      "isrc": "CH0011600064"
+    },
+    {
+      "artist": "Poltergeist",
+      "title": "Depression (Remastered)",
+      "services": {
+        "qobuz": "85294051"
+      },
+      "album": "Depression (Remaster)",
+      "duration": 322,
+      "isrc": "USCGH1414600"
+    },
+    {
+      "artist": "Artillery",
+      "title": "Terror Squad",
+      "services": {
+        "qobuz": "177184093"
+      },
+      "album": "Terror Squad",
+      "duration": 344,
+      "isrc": "DK9P51500203"
+    },
+    {
+      "artist": "Sabbat",
+      "title": "A Cautionary Tale",
+      "services": {
+        "qobuz": "385610448"
+      },
+      "album": "History of a Time to Come",
+      "duration": 256,
+      "isrc": "GBAJE0700368"
+    },
+    {
+      "artist": "Xentrix",
+      "title": "Crimes",
+      "services": {
+        "qobuz": "45740486"
+      },
+      "album": "Shattered Existence",
+      "duration": 341,
+      "isrc": "NLA321700314"
+    },
+    {
+      "artist": "Acid Reign",
+      "title": "Goddess",
+      "services": {
+        "qobuz": "149526372"
+      },
+      "album": "Anthology",
+      "duration": 182,
+      "isrc": "QM4TX2206445"
+    },
+    {
+      "artist": "D.A.M.",
+      "title": "Human Wreckage",
+      "services": {
+        "qobuz": "375956454"
+      },
+      "album": "Human Wreckage",
+      "duration": 313,
+      "isrc": "GB5KW2201855"
+    },
+    {
+      "artist": "Mezz Mezzrow",
+      "title": "Then came the killing",
+      "services": {
+        "qobuz": "171598546"
+      },
+      "album": "Then came the killing",
+      "duration": 221,
+      "isrc": "NLWJ22200001"
+    },
+    {
+      "artist": "Stone",
+      "title": "Get Stoned",
+      "services": {
+        "qobuz": "7002430"
+      },
+      "album": "Stone",
+      "duration": 260,
+      "isrc": "FIJKM8800050"
+    },
+    {
+      "artist": "Debustrol",
+      "title": "Vyhlazen\u00ed",
+      "services": {
+        "qobuz": "7452718"
+      },
+      "album": "Vyhlazeni",
+      "duration": 276,
+      "isrc": "CZA239500113"
+    },
+    {
+      "artist": "Re-Animator",
+      "title": "Re-Animator",
+      "services": {
+        "qobuz": "16403445"
+      },
+      "album": "Condemned To Eternity",
+      "duration": 365,
+      "isrc": "USY251037293"
+    },
+    {
+      "artist": "Sepultura",
+      "title": "Arise",
+      "services": {
+        "qobuz": "50290826"
+      },
+      "album": "Arise",
+      "duration": 197,
+      "isrc": "USRH11800042"
+    },
+    {
+      "artist": "Korzus",
+      "title": "Mass Illusion",
+      "services": {
+        "qobuz": "318302471"
+      },
+      "album": "Mass Illusion",
+      "duration": 283,
+      "isrc": "BQV8D0600044"
+    },
+    {
+      "artist": "Suicidal Angels",
+      "title": "Marching over Blood",
+      "services": {
+        "qobuz": "129822345"
+      },
+      "album": "Divide and Conquer",
+      "duration": 214,
+      "isrc": "ATN261404101"
+    },
+    {
+      "artist": "Chakal",
+      "title": "May Not The Mankind Suffer",
+      "services": {
+        "qobuz": "263620544"
+      },
+      "album": "Abominable Anno Domini",
+      "duration": 353,
+      "isrc": "BRCOG1002023"
+    },
+    {
+      "artist": "Next",
+      "title": "Invasi\u00f3n Nuclear",
+      "services": {
+        "qobuz": "64329154"
+      },
+      "album": "Invasi\u00f3n Nuclear",
+      "duration": 286,
+      "isrc": "FR59R1989851"
+    },
+    {
+      "artist": "Violator",
+      "title": "Atomic Nightmare",
+      "services": {
+        "qobuz": "94933202"
+      },
+      "album": "Thrashing Like a Maniac",
+      "duration": 219,
+      "isrc": "GBBPB0703365"
+    },
+    {
+      "artist": "Nervosa",
+      "title": "Death!",
+      "services": {
+        "qobuz": "37137334"
+      },
+      "album": "Victim of Yourself",
+      "duration": 231,
+      "isrc": "ATN261352008"
+    },
+    {
+      "artist": "Aspid",
+      "title": "It Came",
+      "services": {
+        "qobuz": "193075889"
+      },
+      "album": "Extravasation (2015 Remastered)",
+      "duration": 460,
+      "isrc": "GX89G2384160"
+    },
+    {
+      "artist": "Despair",
+      "title": "Decay Of Humanity",
+      "services": {
+        "qobuz": "29235868"
+      },
+      "album": "Decay Of Humanity",
+      "duration": 349,
+      "isrc": "US4E40571201"
+    },
+    {
+      "artist": "Dew-Scented",
+      "title": "In Flames",
+      "services": {
+        "qobuz": "273918813"
+      },
+      "album": "Immortelle",
+      "duration": 235,
+      "isrc": "GBDHC1245801"
+    },
+    {
+      "artist": "Mortal Sin",
+      "title": "I Am Immortal",
+      "services": {
+        "qobuz": "69022308"
+      },
+      "album": "Face of Despair",
+      "duration": 285,
+      "isrc": "AUAM10900438"
+    },
+    {
+      "artist": "Hobbs' Angel of Death",
+      "title": "Jack the Ripper",
+      "services": {
+        "qobuz": "56310479"
+      },
+      "album": "Hobb's Angel of Death",
+      "duration": 197,
+      "isrc": "AUIA30933905"
+    },
+    {
+      "artist": "Legend Fire United",
+      "title": "Szymanski - Hard Drill Polish Sniper",
+      "services": {
+        "qobuz": "404457155"
+      },
+      "album": "Yellow Navy Hardcore Dark Drill Warriors",
+      "duration": 136,
+      "isrc": "QT2VB2629032"
+    },
+    {
+      "artist": "Deliverance",
+      "title": "Weapons of Our Warfare",
+      "services": {
+        "qobuz": "77632064"
+      },
+      "album": "Headbangin' 201",
+      "duration": 168,
+      "isrc": "USHM90890769"
+    },
+    {
+      "artist": "Hexenhaus",
+      "title": "Toxic Threat",
+      "services": {
+        "qobuz": "319602075"
+      },
+      "album": "The Edge Of Eternity",
+      "duration": 251,
+      "isrc": "DE1KY2506012"
+    },
+    {
+      "artist": "Toxic Holocaust",
+      "title": "Hell on Earth",
+      "services": {
+        "qobuz": "81611199"
+      },
+      "album": "Hell on Earth",
+      "duration": 150,
+      "isrc": "USL4Q1975985"
+    },
+    {
+      "artist": "Lazarus A.D.",
+      "title": "Absolute Power",
+      "services": {
+        "qobuz": "60753507"
+      },
+      "album": "The Onslaught",
+      "duration": 265,
+      "isrc": "USMBR0906256"
+    },
+    {
+      "artist": "Evile",
+      "title": "Thrasher",
+      "services": {
+        "qobuz": "22872980"
+      },
+      "album": "Enter the Grave",
+      "duration": 189,
+      "isrc": "GBBPB0702150"
+    },
+    {
+      "artist": "Bonded By Blood",
+      "title": "Feed the Beast",
+      "services": {
+        "qobuz": "94933353"
+      },
+      "album": "Feed the Beast",
+      "duration": 292,
+      "isrc": "GBBPB0800111"
+    },
+    {
+      "artist": "Warbringer",
+      "title": "Total War",
+      "services": {
+        "qobuz": "47399228"
+      },
+      "album": "War Without End (Re-issue 2018)",
+      "duration": 270,
+      "isrc": "US4E40844601"
+    },
+    {
+      "artist": "Gama Bomb",
+      "title": "Slam Anthem",
+      "services": {
+        "qobuz": "32802762"
+      },
+      "album": "Tales from the Grave in Space",
+      "duration": 153,
+      "isrc": "GBBPB0803775"
+    },
+    {
+      "artist": "Dream Theater",
+      "title": "The Root of All Evil",
+      "services": {
+        "qobuz": "11120669"
+      },
+      "album": "Octavarium",
+      "duration": 506,
+      "isrc": "USEE10900726"
+    },
+    {
+      "artist": "Crisix",
+      "title": "Ultra Thrash",
+      "services": {
+        "qobuz": "213043564"
+      },
+      "album": "The Menace",
+      "duration": 309,
+      "isrc": "QM6MZ1435951"
+    },
+    {
+      "artist": "Angelus Apatrida",
+      "title": "You Are Next",
+      "services": {
+        "qobuz": "27541135"
+      },
+      "album": "The Call",
+      "duration": 304,
+      "isrc": "US4E41288901"
+    },
+    {
+      "artist": "Dust Bolt",
+      "title": "Violent Abolition",
+      "services": {
+        "qobuz": "37295385"
+      },
+      "album": "Violent Demolition",
+      "duration": 211,
+      "isrc": "ATN261244202"
+    },
+    {
+      "artist": "Lost Society",
+      "title": "Kill (Those Who Oppose Me)",
+      "services": {
+        "qobuz": "60745594"
+      },
+      "album": "Fast Loud Death",
+      "duration": 137,
+      "isrc": "DED831200596"
+    },
+    {
+      "artist": "Exmortus",
+      "title": "Slave to the Sword",
+      "services": {
+        "qobuz": "49210770"
+      },
+      "album": "Slave to the Sword",
+      "duration": 302,
+      "isrc": "USERN1008630"
+    },
+    {
+      "artist": "Vektor",
+      "title": "Tetrastructural Minds",
+      "services": {
+        "qobuz": "14673553"
+      },
+      "album": "Outer Isolation",
+      "duration": 321,
+      "isrc": "GBBPB1201762"
+    },
+    {
+      "artist": "High Command",
+      "title": "Inexorable Darkness",
+      "services": {
+        "qobuz": "73891806"
+      },
+      "album": "Beyond the Wall of Desolation",
+      "duration": 297,
+      "isrc": "USZPA0901815"
+    }
+  ]
+}

@@ -1,0 +1,1010 @@
+{
+  "name": "Genre: Slowcore",
+  "services": {
+    "qobuz": "66732958",
+    "tidal": "6ad04ea6-fd0a-4203-97a0-bb15fe12dad3"
+  },
+  "description": "Imported genre playlist: Slowcore.",
+  "tracks": [
+    {
+      "artist": "Codeine",
+      "title": "D",
+      "services": {
+        "qobuz": "171587520"
+      },
+      "album": "Frigid Stars",
+      "duration": 268,
+      "isrc": "USCW61220101"
+    },
+    {
+      "artist": "Red House Painters",
+      "title": "Katy Song",
+      "services": {
+        "qobuz": "2339753"
+      },
+      "album": "Red House Painters I",
+      "duration": 502,
+      "isrc": "GBAFL9300050"
+    },
+    {
+      "artist": "Chokebore",
+      "title": "Nobody",
+      "services": {
+        "qobuz": "75648923"
+      },
+      "album": "Clusterfuck '94",
+      "duration": 136,
+      "isrc": "US25T9921226"
+    },
+    {
+      "artist": "Idaho",
+      "title": "Gone",
+      "services": {
+        "qobuz": "94170114"
+      },
+      "album": "Year After Year",
+      "duration": 321,
+      "isrc": "USCN30700264"
+    },
+    {
+      "artist": "Seam",
+      "title": "Road to Madrid",
+      "services": {
+        "qobuz": "32669823"
+      },
+      "album": "The Problem With Me",
+      "duration": 359,
+      "isrc": "USTG39311803"
+    },
+    {
+      "artist": "Mazzy Star",
+      "title": "Fade Into You",
+      "services": {
+        "qobuz": "797846"
+      },
+      "album": "So Tonight That I Might See",
+      "duration": 295,
+      "isrc": "USCA29300105"
+    },
+    {
+      "artist": "American Music Club",
+      "title": "Wish The World Away",
+      "services": {
+        "qobuz": "8946049"
+      },
+      "album": "San Francisco",
+      "duration": 191,
+      "isrc": "GBAAA9400840"
+    },
+    {
+      "artist": "Come",
+      "title": "Let's Get Lost",
+      "services": {
+        "qobuz": "194780729"
+      },
+      "album": "Don't Ask Don't Tell",
+      "duration": 427,
+      "isrc": "GBAZP9400045"
+    },
+    {
+      "artist": "Ida",
+      "title": "Slow Dance",
+      "services": {
+        "qobuz": "374312386"
+      },
+      "album": "Tales Of Brave Ida",
+      "duration": 265,
+      "isrc": "USZ960810088"
+    },
+    {
+      "artist": "Bedhead",
+      "title": "The Rest Of The Day",
+      "services": {
+        "qobuz": "20787049"
+      },
+      "album": "Beheaded",
+      "duration": 379,
+      "isrc": "USCW61334002"
+    },
+    {
+      "artist": "Low",
+      "title": "Words",
+      "services": {
+        "qobuz": "828482"
+      },
+      "album": "I Could Live In Hope",
+      "duration": 348,
+      "isrc": "USCN39400028"
+    },
+    {
+      "artist": "Lisa Germano",
+      "title": "Cry Wolf",
+      "services": {
+        "qobuz": "2339685"
+      },
+      "album": "Geek the Girl",
+      "duration": 299,
+      "isrc": "GBAFL9400080"
+    },
+    {
+      "artist": "rex",
+      "title": "Come Down",
+      "services": {
+        "qobuz": "178152908"
+      },
+      "album": "Rex",
+      "duration": 436,
+      "isrc": "USCW62294404"
+    },
+    {
+      "artist": "Karate",
+      "title": "Gasoline",
+      "services": {
+        "qobuz": "117459898"
+      },
+      "album": "Karate",
+      "duration": 279,
+      "isrc": "USCW62190301"
+    },
+    {
+      "artist": "Spain",
+      "title": "Spiritual",
+      "services": {
+        "qobuz": "2810986"
+      },
+      "album": "The Blue Moods Of Spain",
+      "duration": 396,
+      "isrc": "USRY20411133"
+    },
+    {
+      "artist": "Bluetile Lounge",
+      "title": "The Weight (and the Sea)",
+      "services": {
+        "qobuz": "392563681"
+      },
+      "album": "Lowercase",
+      "duration": 569,
+      "isrc": "UST8K1420184"
+    },
+    {
+      "artist": "Stina Nordenstam",
+      "title": "Little Star",
+      "services": {
+        "qobuz": "22634904"
+      },
+      "album": "And She Closed Her Eyes",
+      "duration": 219,
+      "isrc": "SEPQA0900613"
+    },
+    {
+      "artist": "Radar Bros.",
+      "title": "Shoveling Sons",
+      "services": {
+        "qobuz": "33608072"
+      },
+      "album": "The Singing Hatchet",
+      "duration": 222,
+      "isrc": "GBCGR0070004"
+    },
+    {
+      "artist": "Acetone",
+      "title": "All The Time",
+      "services": {
+        "qobuz": "44988266"
+      },
+      "album": "Acetone",
+      "duration": 226,
+      "isrc": "USVP19700015"
+    },
+    {
+      "artist": "The Chamber Strings",
+      "title": "Flashing Star",
+      "services": {
+        "qobuz": "95708014"
+      },
+      "album": "Gospel Morning",
+      "duration": 326,
+      "isrc": "QM4TX2086373"
+    },
+    {
+      "artist": "Cat Power",
+      "title": "Metal Heart",
+      "services": {
+        "qobuz": "26434289"
+      },
+      "album": "Moon Pix",
+      "duration": 242,
+      "isrc": "USMTD9828605"
+    },
+    {
+      "artist": "Monroe Mustang",
+      "title": "Waking Up",
+      "services": {
+        "qobuz": "2968924"
+      },
+      "album": "Plain Sweeping Themes For The Unprepared",
+      "duration": 176,
+      "isrc": "US38Y0814101"
+    },
+    {
+      "artist": "Duster",
+      "title": "Inside Out",
+      "services": {
+        "qobuz": "50096161"
+      },
+      "album": "Stratosphere",
+      "duration": 141,
+      "isrc": "US68F0505011"
+    },
+    {
+      "artist": "Arab Strap",
+      "title": "The First Big Weekend",
+      "services": {
+        "qobuz": "3121889"
+      },
+      "album": "The Week Never Starts Round Here",
+      "duration": 292,
+      "isrc": "GBCGR9640000"
+    },
+    {
+      "artist": "Slow Runner",
+      "title": "The Sea Is Never Full",
+      "services": {
+        "qobuz": "245027535"
+      },
+      "album": "No Disassemble (Reassembled)",
+      "duration": 241,
+      "isrc": "TCAHR2346504"
+    },
+    {
+      "artist": "Benjamin Herman",
+      "title": "Knife In The Water",
+      "services": {
+        "qobuz": "178472784"
+      },
+      "album": "True Love's Flame",
+      "duration": 159,
+      "isrc": "NLH212200036"
+    },
+    {
+      "artist": "Sombr",
+      "title": "nothing left to say",
+      "services": {
+        "qobuz": "172233914"
+      },
+      "album": "nothing left to say",
+      "duration": 220,
+      "isrc": "QM3DF2144887"
+    },
+    {
+      "artist": "Sigur R\u00f3s",
+      "title": "Samskeyti",
+      "services": {
+        "qobuz": "4541249"
+      },
+      "album": "Hvarf - Heim",
+      "duration": 322,
+      "isrc": "GBKEE0700041"
+    },
+    {
+      "artist": "Elliott",
+      "title": "Drive On To Me",
+      "services": {
+        "qobuz": "139091456"
+      },
+      "album": "False Cathedrals",
+      "duration": 207,
+      "isrc": "USB4U0401036"
+    },
+    {
+      "artist": "Early Day Miners",
+      "title": "Return of the Native",
+      "services": {
+        "qobuz": "2967186"
+      },
+      "album": "Offshore",
+      "duration": 219,
+      "isrc": "US38W0613504"
+    },
+    {
+      "artist": "The For Carnation",
+      "title": "Moonbeams",
+      "services": {
+        "qobuz": "32668778"
+      },
+      "album": "The For Carnation",
+      "duration": 569,
+      "isrc": "USTG30021406"
+    },
+    {
+      "artist": "The Monkees",
+      "title": "You Just May Be the One",
+      "services": {
+        "qobuz": "11677071"
+      },
+      "album": "Summer 1967: The Complete U.S. Concert Recordings",
+      "duration": 205,
+      "isrc": "USRH10550388"
+    },
+    {
+      "artist": "Moji & the Midnight Sons",
+      "title": "Keep My Memory",
+      "services": {
+        "qobuz": "83706080"
+      },
+      "album": "What I Saw on the Way to Myself",
+      "duration": 290,
+      "isrc": "ISV441624802"
+    },
+    {
+      "artist": "Hope Sandoval & the Warm Inventions",
+      "title": "Suzanne",
+      "services": {
+        "qobuz": "34046839"
+      },
+      "album": "Bavarian Fruit Bread",
+      "duration": 294,
+      "isrc": "USA2P1382438"
+    },
+    {
+      "artist": "Sparklehorse",
+      "title": "Heart Of Darkness",
+      "services": {
+        "qobuz": "1971059"
+      },
+      "album": "Vivadixiesubmarinetransmissionplot",
+      "duration": 111,
+      "isrc": "USCA29500065"
+    },
+    {
+      "artist": "The New Year",
+      "title": "The End's Not Near",
+      "services": {
+        "qobuz": "32633394"
+      },
+      "album": "The End Is Near",
+      "duration": 224,
+      "isrc": "USTG30425601"
+    },
+    {
+      "artist": "Microphones",
+      "title": "I Want Wind to Blow",
+      "services": {
+        "qobuz": "39418009"
+      },
+      "album": "The Glow, Pt. 2",
+      "duration": 332,
+      "isrc": "USI4R1130481"
+    },
+    {
+      "artist": "Pedro The Lion",
+      "title": "The Poison",
+      "services": {
+        "qobuz": "48831995"
+      },
+      "album": "Achilles' Heel",
+      "duration": 223,
+      "isrc": "USA6M1299511"
+    },
+    {
+      "artist": "Rivulets",
+      "title": "CUTTER",
+      "services": {
+        "qobuz": "252690350"
+      },
+      "album": "DEBRIDEMENT DEMOS",
+      "duration": 252,
+      "isrc": "USCGJ2417338"
+    },
+    {
+      "artist": "Windsor For The Derby",
+      "title": "The Melody of a Fallen Tree",
+      "services": {
+        "qobuz": "2967107"
+      },
+      "album": "We Fight Til Death",
+      "duration": 490,
+      "isrc": "US38W0410306"
+    },
+    {
+      "artist": "Carissa's Wierd",
+      "title": "So You Wanna Be A Superhero",
+      "services": {
+        "qobuz": "382211882"
+      },
+      "album": "Songs About Leaving",
+      "duration": 219,
+      "isrc": "USHF31002203"
+    },
+    {
+      "artist": "Silver Mt. Zion",
+      "title": "13 Angels Standing Guard 'Round The Side Of Your Bed",
+      "services": {
+        "qobuz": "49816277"
+      },
+      "album": "He Has Left Us Alone But Shafts Of Light Sometimes Grace The Corner Of Our Rooms",
+      "duration": 442,
+      "isrc": "CACQ20700905"
+    },
+    {
+      "artist": "Damien Jurado",
+      "title": "Cloudy Shoes",
+      "services": {
+        "qobuz": "57706617"
+      },
+      "album": "Saint Bartlett",
+      "duration": 248,
+      "isrc": "US38W1019201"
+    },
+    {
+      "artist": "Explosions In The Sky",
+      "title": "Your Hand in Mine",
+      "services": {
+        "qobuz": "24041135"
+      },
+      "album": "The Earth Is Not a Cold Dead Place",
+      "duration": 497,
+      "isrc": "GBBRP0355005"
+    },
+    {
+      "artist": "Songs: Ohia",
+      "title": "Farewell Transmission",
+      "services": {
+        "qobuz": "57707221"
+      },
+      "album": "Magnolia Electric Co.",
+      "duration": 442,
+      "isrc": "US38W1330001"
+    },
+    {
+      "artist": "Sun Kil Moon",
+      "title": "Carry Me Ohio",
+      "services": {
+        "qobuz": "122969469"
+      },
+      "album": "Ghosts of the Great Highway",
+      "duration": 381,
+      "isrc": "USA2B0738302"
+    },
+    {
+      "artist": "Death Cab For Cutie",
+      "title": "Transatlanticism",
+      "services": {
+        "qobuz": "48689294"
+      },
+      "album": "Transatlanticism",
+      "duration": 475,
+      "isrc": "USBS50310285"
+    },
+    {
+      "artist": "Stars",
+      "title": "Starlight Telescope Tune",
+      "services": {
+        "qobuz": "429031627"
+      },
+      "album": "Neon Sweetheart Boulevard",
+      "duration": 276,
+      "isrc": "QT6EB2600118"
+    },
+    {
+      "artist": "The National",
+      "title": "About Today",
+      "services": {
+        "qobuz": "114600521"
+      },
+      "album": "Cherry Tree",
+      "duration": 250,
+      "isrc": "GBAFL2000327"
+    },
+    {
+      "artist": "jesu",
+      "title": "Tired Of Me (Deluxe)",
+      "services": {
+        "qobuz": "156367635"
+      },
+      "album": "jesu (Remaster Deluxe)",
+      "duration": 569,
+      "isrc": "QZHN82201767"
+    },
+    {
+      "artist": "Eluvium",
+      "title": "Under the Water It Glowed",
+      "services": {
+        "qobuz": "20977303"
+      },
+      "album": "Lambent Material",
+      "duration": 309,
+      "isrc": "USY6C0705702"
+    },
+    {
+      "artist": "Barzin",
+      "title": "All the While",
+      "services": {
+        "qobuz": "15369917"
+      },
+      "album": "To Live Alone in That Long Summer",
+      "duration": 222,
+      "isrc": "GBNTT1300042"
+    },
+    {
+      "artist": "Iron & Wine",
+      "title": "Naked as We Came",
+      "services": {
+        "qobuz": "407819034"
+      },
+      "album": "Our Endless Numbered Days",
+      "duration": 152,
+      "isrc": "USSUB0400095"
+    },
+    {
+      "artist": "Sufjan Stevens",
+      "title": "Casimir Pulaski Day",
+      "services": {
+        "qobuz": "20883001"
+      },
+      "album": "Illinois",
+      "duration": 353,
+      "isrc": "US64G0501410"
+    },
+    {
+      "artist": "Centro-Matic",
+      "title": "I, The Kite",
+      "services": {
+        "qobuz": "368541935"
+      },
+      "album": "Dual Hawks",
+      "duration": 182,
+      "isrc": "GBCEJ0800105"
+    },
+    {
+      "artist": "This Will Destroy You",
+      "title": "The Mighty Rio Grande",
+      "services": {
+        "qobuz": "46826305"
+      },
+      "album": "S/T",
+      "duration": 676,
+      "isrc": "US76L0710410"
+    },
+    {
+      "artist": "The Grand Opening",
+      "title": "Get Out",
+      "services": {
+        "qobuz": "49957498"
+      },
+      "album": "This Is Nowhere to Be Found",
+      "duration": 234,
+      "isrc": "DEU160600676"
+    },
+    {
+      "artist": "The Twilight Sad",
+      "title": "That Summer at Home I Had Become the Invisible Boy",
+      "services": {
+        "qobuz": "85265202"
+      },
+      "album": "That Summer at Home I Had Become the Invisible Boy",
+      "duration": 288,
+      "isrc": "GBGCT0600844"
+    },
+    {
+      "artist": "Caribou",
+      "title": "Sun",
+      "services": {
+        "qobuz": "243037079"
+      },
+      "album": "Swim",
+      "duration": 344,
+      "isrc": "DED621000415"
+    },
+    {
+      "artist": "Bon Iver",
+      "title": "Re: Stacks",
+      "services": {
+        "qobuz": "20956214"
+      },
+      "album": "For Emma, Forever Ago",
+      "duration": 401,
+      "isrc": "US38Y0811509"
+    },
+    {
+      "artist": "Mount Eerie",
+      "title": "Voice in Headphones",
+      "services": {
+        "qobuz": "71601090"
+      },
+      "album": "Lost Wisdom",
+      "duration": 147,
+      "isrc": "USI4R0806561"
+    },
+    {
+      "artist": "Grouper",
+      "title": "Heavy Water/I'd Rather Be Sleeping",
+      "services": {
+        "qobuz": "71526553"
+      },
+      "album": "Dragging a Dead Deer Up a Hill",
+      "duration": 173,
+      "isrc": "USI4R1115074"
+    },
+    {
+      "artist": "Have a Nice Life",
+      "title": "Bloodhail",
+      "services": {
+        "qobuz": "52289534"
+      },
+      "album": "Deathconsciousness",
+      "duration": 338,
+      "isrc": "USA2Z1410811"
+    },
+    {
+      "artist": "Balmorhea",
+      "title": "Remembrance",
+      "services": {
+        "qobuz": "20751303"
+      },
+      "album": "All Is Wild, All Is Silent",
+      "duration": 349,
+      "isrc": "US78L0910014"
+    },
+    {
+      "artist": "The Antlers",
+      "title": "Kettering",
+      "services": {
+        "qobuz": "64017178"
+      },
+      "album": "Hospice",
+      "duration": 311,
+      "isrc": "USJMZ0900024"
+    },
+    {
+      "artist": "Roar",
+      "title": "I Can't Handle Change",
+      "services": {
+        "qobuz": "292707014"
+      },
+      "album": "I Can't Handle Change",
+      "duration": 198,
+      "isrc": "USHM81020595"
+    },
+    {
+      "artist": "True Widow",
+      "title": "Night Witches",
+      "services": {
+        "qobuz": "11117252"
+      },
+      "album": "As High As The Highest Heavens And From The Center To The Circumference Of The Earth",
+      "duration": 195,
+      "isrc": "USKDO1100021"
+    },
+    {
+      "artist": "Giles Corey",
+      "title": "No One Is Ever Going to Want Me",
+      "services": {
+        "qobuz": "52279798"
+      },
+      "album": "Giles Corey",
+      "duration": 486,
+      "isrc": "USA2Z1511299"
+    },
+    {
+      "artist": "Low Roar",
+      "title": "I'll Keep Coming",
+      "services": {
+        "qobuz": "24816873"
+      },
+      "album": "Zero",
+      "duration": 352,
+      "isrc": "USXLG1400204"
+    },
+    {
+      "artist": "Cigarettes After Sex",
+      "title": "Nothing's Gonna Hurt You Baby",
+      "services": {
+        "qobuz": "113175844"
+      },
+      "album": "I.",
+      "duration": 286,
+      "isrc": "TCACJ1593857"
+    },
+    {
+      "artist": "Lana Del Rey",
+      "title": "Video Games",
+      "services": {
+        "qobuz": "31887416"
+      },
+      "album": "Born To Die",
+      "duration": 281,
+      "isrc": "GBUM71111621"
+    },
+    {
+      "artist": "Chromatics",
+      "title": "Shadow",
+      "services": {
+        "qobuz": "125716980"
+      },
+      "album": "Shadow",
+      "duration": 224,
+      "isrc": "QMMMF1500047"
+    },
+    {
+      "artist": "Alex G",
+      "title": "Sarah",
+      "services": {
+        "qobuz": "163369367"
+      },
+      "album": "Trick",
+      "duration": 176,
+      "isrc": "GBJET1400060"
+    },
+    {
+      "artist": "Current Joys",
+      "title": "New Flesh",
+      "services": {
+        "qobuz": "298231155"
+      },
+      "album": "Wild Heart",
+      "duration": 167,
+      "isrc": "TCACS1660968"
+    },
+    {
+      "artist": "Daughter",
+      "title": "Youth",
+      "services": {
+        "qobuz": "8019030"
+      },
+      "album": "If You Leave",
+      "duration": 253,
+      "isrc": "GBAFL1200314"
+    },
+    {
+      "artist": "salvia palth",
+      "title": "i was all over her",
+      "services": {
+        "qobuz": "254653649"
+      },
+      "album": "melanchole",
+      "duration": 161,
+      "isrc": "GBSMU1456120"
+    },
+    {
+      "artist": "London Grammar",
+      "title": "Strong",
+      "services": {
+        "qobuz": "11882610"
+      },
+      "album": "If You Wait",
+      "duration": 275,
+      "isrc": "GBCEN1300608"
+    },
+    {
+      "artist": "Sharon Van Etten",
+      "title": "Seventeen",
+      "services": {
+        "qobuz": "53965293"
+      },
+      "album": "Remind Me Tomorrow",
+      "duration": 265,
+      "isrc": "US38Y1833106"
+    },
+    {
+      "artist": "Planning For Burial",
+      "title": "Warmth of You",
+      "services": {
+        "qobuz": "38677759"
+      },
+      "album": "Below the House",
+      "duration": 213,
+      "isrc": "USA2Z1611575"
+    },
+    {
+      "artist": "Beach House",
+      "title": "Space Song",
+      "services": {
+        "qobuz": "26651993"
+      },
+      "album": "Depression Cherry",
+      "duration": 320,
+      "isrc": "USSUB1512203"
+    },
+    {
+      "artist": "Teen Suicide",
+      "title": "benzo",
+      "services": {
+        "qobuz": "83232048"
+      },
+      "album": "dc snuff film / waste yrself",
+      "duration": 153,
+      "isrc": "QMCE71300295"
+    },
+    {
+      "artist": "Cloakroom",
+      "title": "Paperweight",
+      "services": {
+        "qobuz": "83004157"
+      },
+      "album": "Further Out",
+      "duration": 409,
+      "isrc": "QMCE71300129"
+    },
+    {
+      "artist": "Horse Jumper of Love",
+      "title": "Ugly Brunette",
+      "services": {
+        "qobuz": "83214655"
+      },
+      "album": "Horse Jumper of Love",
+      "duration": 176,
+      "isrc": "QMCE71301343"
+    },
+    {
+      "artist": "Mitski",
+      "title": "I Bet on Losing Dogs",
+      "services": {
+        "qobuz": "30430838"
+      },
+      "album": "Puberty 2",
+      "duration": 170,
+      "isrc": "USJ5G1612306"
+    },
+    {
+      "artist": "Angel Olsen",
+      "title": "Sister",
+      "services": {
+        "qobuz": "32736511"
+      },
+      "album": "My Woman",
+      "duration": 466,
+      "isrc": "US38Y1628407"
+    },
+    {
+      "artist": "Big Thief",
+      "title": "Paul",
+      "services": {
+        "qobuz": "212139160"
+      },
+      "album": "Masterpiece",
+      "duration": 183,
+      "isrc": "US2U61623307"
+    },
+    {
+      "artist": "Bolland , Bolland",
+      "title": "God Won't You Carry Me Home (Empire Of The Sun)",
+      "services": {
+        "qobuz": "327766804"
+      },
+      "album": "Dream Factory",
+      "duration": 298,
+      "isrc": "DEA622303452"
+    },
+    {
+      "artist": "Slowdive",
+      "title": "Sugar for the Pill",
+      "services": {
+        "qobuz": "41790718"
+      },
+      "album": "Slowdive",
+      "duration": 271,
+      "isrc": "USJ5G1713204"
+    },
+    {
+      "artist": "Phoebe Bridgers",
+      "title": "Funeral",
+      "services": {
+        "qobuz": "42258054"
+      },
+      "album": "Stranger in the Alps",
+      "duration": 232,
+      "isrc": "USJ5G1714203"
+    },
+    {
+      "artist": "Julien Baker",
+      "title": "Appointments",
+      "services": {
+        "qobuz": "44281744"
+      },
+      "album": "Turn Out the Lights",
+      "duration": 273,
+      "isrc": "USMTD1710062"
+    },
+    {
+      "artist": "Fog Lake",
+      "title": "Novocaine",
+      "services": {
+        "qobuz": "280525996"
+      },
+      "album": "Dragonchaser",
+      "duration": 261,
+      "isrc": "TCACX1792028"
+    },
+    {
+      "artist": "Snail Mail",
+      "title": "Pristine",
+      "services": {
+        "qobuz": "50230249"
+      },
+      "album": "Lush",
+      "duration": 295,
+      "isrc": "USMTD1811091"
+    },
+    {
+      "artist": "Lucy Dacus",
+      "title": "Night Shift",
+      "services": {
+        "qobuz": "47394104"
+      },
+      "album": "Historian",
+      "duration": 391,
+      "isrc": "USMTD1810669"
+    },
+    {
+      "artist": "Faye Webster",
+      "title": "Kingston",
+      "services": {
+        "qobuz": "59318630"
+      },
+      "album": "Atlanta Millionaires Club",
+      "duration": 202,
+      "isrc": "US38W1837601"
+    },
+    {
+      "artist": "Caroline Polachek",
+      "title": "Butterfly Net (feat. Weyes Blood)",
+      "services": {
+        "qobuz": "253677605"
+      },
+      "album": "Desire, I Want To Turn Into You: Everasking Edition",
+      "duration": 333,
+      "isrc": "QM4TW2467782"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "when the party's over",
+      "services": {
+        "qobuz": "77469840"
+      },
+      "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+      "duration": 196,
+      "isrc": "USUM71815958"
+    },
+    {
+      "artist": "Crisis",
+      "title": "Diane",
+      "services": {
+        "qobuz": "63271430"
+      },
+      "album": "Armed To The Teeth / Kick It Out / Unreleased Songs",
+      "duration": 283,
+      "isrc": "USKUT1003902"
+    },
+    {
+      "artist": "Midwife",
+      "title": "S.W.I.M.",
+      "services": {
+        "qobuz": "84918607"
+      },
+      "album": "Forever",
+      "duration": 405,
+      "isrc": "USA2Z1901435"
+    },
+    {
+      "artist": "Adrianne Lenker",
+      "title": "anything",
+      "services": {
+        "qobuz": "99278043"
+      },
+      "album": "songs",
+      "duration": 202,
+      "isrc": "GBAFL2000252"
+    },
+    {
+      "artist": "Ethel Cain",
+      "title": "A House In Nebraska",
+      "services": {
+        "qobuz": "170718376"
+      },
+      "album": "Preacher\u2019s Daughter",
+      "duration": 466,
+      "isrc": "GBKPL2294752"
+    }
+  ]
+}

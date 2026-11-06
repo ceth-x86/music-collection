@@ -1,0 +1,980 @@
+{
+  "name": "Genre: Breakbeat",
+  "services": {
+    "qobuz": "66713724",
+    "tidal": "6eeb0fff-b0ea-41c5-8c6e-90ed2ef2666d"
+  },
+  "description": "Imported genre playlist: Breakbeat.",
+  "tracks": [
+    {
+      "artist": "N-Joi",
+      "title": "Anthem",
+      "services": {
+        "qobuz": "13263035"
+      },
+      "album": "Anthem",
+      "duration": 243,
+      "isrc": "GBARS9800005"
+    },
+    {
+      "artist": "2 Bad Mice",
+      "title": "Bombscare",
+      "services": {
+        "qobuz": "200914308"
+      },
+      "album": "Hold It Down / Waremouse / Bombscare / 2 Bad Mice (Remix)",
+      "duration": 324,
+      "isrc": "GBAGN9200017"
+    },
+    {
+      "artist": "Altern 8",
+      "title": "Activ-8 (Come with Me)",
+      "services": {
+        "qobuz": "30603510"
+      },
+      "album": "Greatest: Altern 8",
+      "duration": 334,
+      "isrc": "GBC499110001"
+    },
+    {
+      "artist": "Ariana Grande",
+      "title": "the boy is mine",
+      "services": {
+        "qobuz": "277047374"
+      },
+      "album": "the boy is mine",
+      "duration": 173,
+      "isrc": "USUM72400332"
+    },
+    {
+      "artist": "The Ragga Twins",
+      "title": "Spliffhead",
+      "services": {
+        "qobuz": "124923866"
+      },
+      "album": "How the East Was Won (1989 - 2009)",
+      "duration": 258,
+      "isrc": "TCADY1820305"
+    },
+    {
+      "artist": "The Prodigy",
+      "title": "Charly",
+      "services": {
+        "qobuz": "2343456"
+      },
+      "album": "Charly",
+      "duration": 322,
+      "isrc": "GBBKS9100015"
+    },
+    {
+      "artist": "Sonz of a Loop da Loop Era",
+      "title": "Far out",
+      "services": {
+        "qobuz": "203618925"
+      },
+      "album": "Far Out / Higher",
+      "duration": 295,
+      "isrc": "GBDLM1300556"
+    },
+    {
+      "artist": "Sl2",
+      "title": "On A Ragga Tip",
+      "services": {
+        "qobuz": "111612931"
+      },
+      "album": "The SL2 EP",
+      "duration": 300,
+      "isrc": "GBKQU1568392"
+    },
+    {
+      "artist": "Shut up and dance",
+      "title": "Raving I'm Raving - Remix.Mp3",
+      "services": {
+        "qobuz": "186200492"
+      },
+      "album": "Death Is Not the End",
+      "duration": 262,
+      "isrc": "USTC80935140"
+    },
+    {
+      "artist": "Acen",
+      "title": "Trip to the Moon (Part 3)",
+      "services": {
+        "qobuz": "70002589"
+      },
+      "album": "Hardcore Leaders Ii",
+      "duration": 395,
+      "isrc": "AUXN20902813"
+    },
+    {
+      "artist": "Liquid",
+      "title": "Sweet Harmony",
+      "services": {
+        "qobuz": "2343495"
+      },
+      "album": "Sweet Harmony",
+      "duration": 262,
+      "isrc": "GBBKS9200002"
+    },
+    {
+      "artist": "Kicks Like A Mule",
+      "title": "The Bouncer",
+      "services": {
+        "qobuz": "262114814"
+      },
+      "album": "XL Recordings: The First Chapters",
+      "duration": 364,
+      "isrc": "GBBKS9200103"
+    },
+    {
+      "artist": "Urban Shakedown",
+      "title": "Some Justice '95",
+      "services": {
+        "qobuz": "77090763"
+      },
+      "album": "Jungle Hits, Vol. 3",
+      "duration": 246,
+      "isrc": "GBCMZ0373742"
+    },
+    {
+      "artist": "Sourmash",
+      "title": "Pilgrimage To Paradise",
+      "services": {
+        "qobuz": "110471420"
+      },
+      "album": "Pilgrimage To Paradise",
+      "duration": 411,
+      "isrc": "GBKQU1765957"
+    },
+    {
+      "artist": "Monster Magnet",
+      "title": "Temple Of Your Dreams",
+      "services": {
+        "qobuz": "233786137"
+      },
+      "album": "Powertrip",
+      "duration": 275,
+      "isrc": "USAM19800092"
+    },
+    {
+      "artist": "Donna De Lory",
+      "title": "Jai Mata Kali (David Starfire, Freq Nasty, Dub Kirtan Allstars Mix)",
+      "services": {
+        "qobuz": "73530282"
+      },
+      "album": "Universal Light Remixes (From the Unchanging) [Bonus Track Edition]",
+      "duration": 333,
+      "isrc": "USUQH1400010"
+    },
+    {
+      "artist": "Secret Factory",
+      "title": "Neon Jaguar Odyssey",
+      "services": {
+        "qobuz": "251428742"
+      },
+      "album": "Neon Jaguar Odyssey EP",
+      "duration": 416,
+      "isrc": "DEU672400201"
+    },
+    {
+      "artist": "Curren$y",
+      "title": "Drop Zone",
+      "services": {
+        "qobuz": "319144360"
+      },
+      "album": "Never Catch Us",
+      "duration": 139,
+      "isrc": "QM4TX2508518"
+    },
+    {
+      "artist": "Meat Katie",
+      "title": "Can't Hear Ya!",
+      "services": {
+        "qobuz": "113608076"
+      },
+      "album": "Off The Bone",
+      "duration": 360,
+      "isrc": "GBYQF0900135"
+    },
+    {
+      "artist": "Michael Kiwanuka",
+      "title": "Solid Ground",
+      "services": {
+        "qobuz": "102486514"
+      },
+      "album": "Solid Ground",
+      "duration": 381,
+      "isrc": "GBUM72003220"
+    },
+    {
+      "artist": "Bah Samba",
+      "title": "Calma (feat. Isabel Fructuoso)",
+      "services": {
+        "qobuz": "83339590"
+      },
+      "album": "Beach Party Dance Mix Album",
+      "duration": 462,
+      "isrc": "GBDCD0500030"
+    },
+    {
+      "artist": "Pegasus",
+      "title": "How Much Can a Heart Break",
+      "services": {
+        "qobuz": "301178222"
+      },
+      "album": "Twisted Hearts Club",
+      "duration": 195,
+      "isrc": "CH4062401749"
+    },
+    {
+      "artist": "Diversion",
+      "title": "Dig The Connection",
+      "services": {
+        "qobuz": "106705134"
+      },
+      "album": "Connection",
+      "duration": 294,
+      "isrc": "GBKQU1858419"
+    },
+    {
+      "artist": "Waveform",
+      "title": "Breakers in Space (D.A.T. Remix)",
+      "services": {
+        "qobuz": "97956946"
+      },
+      "album": "DJ-Kicks (Avalon Emerson)",
+      "duration": 215,
+      "isrc": "DEG932003065"
+    },
+    {
+      "artist": "Orodruin",
+      "title": "War on the World",
+      "services": {
+        "qobuz": "72299219"
+      },
+      "album": "Ruins of Eternity",
+      "duration": 265,
+      "isrc": "ITI291902105"
+    },
+    {
+      "artist": "Joe List",
+      "title": "Dentists & Eye Doctors",
+      "services": {
+        "qobuz": "259439585"
+      },
+      "album": "I Hate Myself",
+      "duration": 334,
+      "isrc": "QZ5HC2005307"
+    },
+    {
+      "artist": "Blue Deep",
+      "title": "The Helicopter Tune",
+      "services": {
+        "qobuz": "77210515"
+      },
+      "album": "Touching Bass (Continuous DJ Mix by DJ Rap)",
+      "duration": 314,
+      "isrc": "USWR30910226"
+    },
+    {
+      "artist": "Dred Scott",
+      "title": "Check the Vibe",
+      "services": {
+        "qobuz": "397035972"
+      },
+      "album": "Breakin' Combs",
+      "duration": 211,
+      "isrc": "DEQ121753098"
+    },
+    {
+      "artist": "Shakti",
+      "title": "5 In The Morning, 6 In The Afternoon",
+      "services": {
+        "qobuz": "347184894"
+      },
+      "album": "Mind Explosion",
+      "duration": 510,
+      "isrc": "US92U2402642"
+    },
+    {
+      "artist": "SSeebhna",
+      "title": "Finished Symphony",
+      "services": {
+        "qobuz": "308031398"
+      },
+      "album": "Finished Symphony",
+      "duration": 444,
+      "isrc": "QZZ7W2408646"
+    },
+    {
+      "artist": "Jesus Loves You",
+      "title": "Bow Down Mister",
+      "services": {
+        "qobuz": "1064181"
+      },
+      "album": "At Worst...The Best Of Boy George And Culture Club",
+      "duration": 225,
+      "isrc": "GBAAA9100277"
+    },
+    {
+      "artist": "Ghost Town DJs",
+      "title": "My Boo",
+      "services": {
+        "qobuz": "52403623"
+      },
+      "album": "So So Def Bass All-Stars",
+      "duration": 346,
+      "isrc": "USSM19600644"
+    },
+    {
+      "artist": "Blues Company",
+      "title": "You Drive Me Crazy",
+      "services": {
+        "qobuz": "51783739"
+      },
+      "album": "X-Ray Blues",
+      "duration": 374,
+      "isrc": "DEB641300114"
+    },
+    {
+      "artist": "Eddie \"Lockjaw\" Davis",
+      "title": "Twins (Hackensack) [from the album \"Tough Tenors\"]",
+      "services": {
+        "qobuz": "6000202"
+      },
+      "album": "Griff & Lock (Complete Studio Recordings, 1960-1961)",
+      "duration": 393,
+      "isrc": "ES7710869009"
+    },
+    {
+      "artist": "Paul McCartney",
+      "title": "Ebony And Ivory",
+      "services": {
+        "qobuz": "25807539"
+      },
+      "album": "Tug Of War",
+      "duration": 226,
+      "isrc": "GBCCS1500038"
+    },
+    {
+      "artist": "Uberzone",
+      "title": "Botz (Elektro)",
+      "services": {
+        "qobuz": "220805031"
+      },
+      "album": "D.J. Trip Hop Mix",
+      "duration": 349,
+      "isrc": "USV351332377"
+    },
+    {
+      "artist": "Adam Freeland",
+      "title": "We Want Your Soul",
+      "services": {
+        "qobuz": "256816862"
+      },
+      "album": "Now & Them",
+      "duration": 307,
+      "isrc": "GBCTW0300004"
+    },
+    {
+      "artist": "Plump DJs",
+      "title": "The Push",
+      "services": {
+        "qobuz": "53828193"
+      },
+      "album": "The Push",
+      "duration": 400,
+      "isrc": "GBFEK0200016"
+    },
+    {
+      "artist": "George S. Clinton",
+      "title": "Assimilation",
+      "services": {
+        "qobuz": "31684918"
+      },
+      "album": "Bury My Heart At Wounded Knee",
+      "duration": 141,
+      "isrc": "US3M50786809"
+    },
+    {
+      "artist": "Damon Paul",
+      "title": "Acapulco",
+      "services": {
+        "qobuz": "54599705"
+      },
+      "album": "Berlin Minimal Underground",
+      "duration": 365,
+      "isrc": "DEY941201383"
+    },
+    {
+      "artist": "J-Walk",
+      "title": "Another Lover (feat. Pete Simpson)",
+      "services": {
+        "qobuz": "2017436"
+      },
+      "album": "A Night On The Rocks",
+      "duration": 267,
+      "isrc": "GBAHS0200259"
+    },
+    {
+      "artist": "Dan Siegel",
+      "title": "Line of Sight",
+      "services": {
+        "qobuz": "270020295"
+      },
+      "album": "Unity",
+      "duration": 292,
+      "isrc": "QM9LC1400194"
+    },
+    {
+      "artist": "The Mar-Keys",
+      "title": "Grab This Thing (Pt. 1)",
+      "services": {
+        "qobuz": "2575160"
+      },
+      "album": "Stax/Volt - The Complete Singles 1959-1968 - Volume 5",
+      "duration": 153,
+      "isrc": "USAT20003887"
+    },
+    {
+      "artist": "Yung Joc",
+      "title": "Don't Play wit It",
+      "services": {
+        "qobuz": "2926846"
+      },
+      "album": "New Joc City",
+      "duration": 241,
+      "isrc": "USBB40610090"
+    },
+    {
+      "artist": "The Darkness",
+      "title": "I Believe in a Thing Called Love",
+      "services": {
+        "qobuz": "2681745"
+      },
+      "album": "Permission to Land",
+      "duration": 216,
+      "isrc": "GBAHS0300635"
+    },
+    {
+      "artist": "Youth Reserve",
+      "title": "Panic Button",
+      "services": {
+        "qobuz": "203286817"
+      },
+      "album": "4AM",
+      "duration": 267,
+      "isrc": "NL2PP2100004"
+    },
+    {
+      "artist": "Olivia Kuper Harris",
+      "title": "Keep It Casual",
+      "services": {
+        "qobuz": "134294845"
+      },
+      "album": "Juicy",
+      "duration": 160,
+      "isrc": "QZES82053447"
+    },
+    {
+      "artist": "Elite Force",
+      "title": "Cali Sk8r",
+      "services": {
+        "qobuz": "48792553"
+      },
+      "album": "Revamped",
+      "duration": 406,
+      "isrc": "DEZ651004381"
+    },
+    {
+      "artist": "Evil Nine",
+      "title": "All The Cash",
+      "services": {
+        "qobuz": "256810475"
+      },
+      "album": "They Live!",
+      "duration": 292,
+      "isrc": "GBCTW0800134"
+    },
+    {
+      "artist": "Paragliders",
+      "title": "Change Me",
+      "services": {
+        "qobuz": "335200078"
+      },
+      "album": "Change Me",
+      "duration": 604,
+      "isrc": "DEL022510008"
+    },
+    {
+      "artist": "Future Funk Squad",
+      "title": "Protect You",
+      "services": {
+        "qobuz": "362884595"
+      },
+      "album": "Exclusive Remixes Remastered",
+      "duration": 334,
+      "isrc": "GXHUT2529740"
+    },
+    {
+      "artist": "Pyro Phunk",
+      "title": "Body Jamr",
+      "services": {
+        "qobuz": "332877800"
+      },
+      "album": "Body Jamr",
+      "duration": 279,
+      "isrc": "GBMA22514762"
+    },
+    {
+      "artist": "Hyper",
+      "title": "Spoiler",
+      "services": {
+        "qobuz": "400281372"
+      },
+      "album": "Lies",
+      "duration": 272,
+      "isrc": "CA5KR1042797"
+    },
+    {
+      "artist": "Set Mo",
+      "title": "Let Yourself Go",
+      "services": {
+        "qobuz": "231351797"
+      },
+      "album": "Flux",
+      "duration": 253,
+      "isrc": "QMFME2356983"
+    },
+    {
+      "artist": "Erik Gr\u00f6nwall",
+      "title": "Twisted Lullaby",
+      "services": {
+        "qobuz": "394618957"
+      },
+      "album": "Bad Bones",
+      "duration": 213,
+      "isrc": "SE67P2600601"
+    },
+    {
+      "artist": "The La's",
+      "title": "Come In Come Out",
+      "services": {
+        "qobuz": "13658302"
+      },
+      "album": "Lost Tunes",
+      "duration": 120,
+      "isrc": "GBUM70811898"
+    },
+    {
+      "artist": "Evolution",
+      "title": "This Pain (Remix)",
+      "services": {
+        "qobuz": "129744514"
+      },
+      "album": "About That Time (Remastered)",
+      "duration": 266,
+      "isrc": "USHM92119937"
+    },
+    {
+      "artist": "Emerson, Lake & Palmer",
+      "title": "Karn Evil 9 3rd Impression",
+      "services": {
+        "qobuz": "377325579"
+      },
+      "album": "Brain Salad Surgery",
+      "duration": 549,
+      "isrc": "GB5KW1600871"
+    },
+    {
+      "artist": "Sons of the Never Wrong",
+      "title": "Everyone's In The House",
+      "services": {
+        "qobuz": "135716763"
+      },
+      "album": "Undertaker's Songbook",
+      "duration": 280,
+      "isrc": "USHAQ2121008"
+    },
+    {
+      "artist": "Soul Of Man",
+      "title": "Outback",
+      "services": {
+        "qobuz": "53828433"
+      },
+      "album": "Back2Back EP",
+      "duration": 371,
+      "isrc": "GBFEK0300098"
+    },
+    {
+      "artist": "J Balvin",
+      "title": "Poblado",
+      "services": {
+        "qobuz": "123825489"
+      },
+      "album": "Poblado",
+      "duration": 392,
+      "isrc": "QZ5BF1600040"
+    },
+    {
+      "artist": "Ry Cooder",
+      "title": "Good Morning Mr. Railroad Man",
+      "services": {
+        "qobuz": "7631127"
+      },
+      "album": "Boomer's Story",
+      "duration": 271,
+      "isrc": "USWB10104813"
+    },
+    {
+      "artist": "Leon Vynehall",
+      "title": "Time",
+      "services": {
+        "qobuz": "17963902"
+      },
+      "album": "Will Saul presents: DJ-Kicks EP",
+      "duration": 421,
+      "isrc": "DEG931400562"
+    },
+    {
+      "artist": "The Undertones",
+      "title": "Thrill Me",
+      "services": {
+        "qobuz": "141536650"
+      },
+      "album": "Dig What You Need",
+      "duration": 179,
+      "isrc": "UKYBD2000101"
+    },
+    {
+      "artist": "Byron Lee's Allstars",
+      "title": "Can You Hear Me?",
+      "services": {
+        "qobuz": "204424873"
+      },
+      "album": "Soul-Ska",
+      "duration": 131,
+      "isrc": "GBFDB1800196"
+    },
+    {
+      "artist": "The C90s",
+      "title": "Shine a Light",
+      "services": {
+        "qobuz": "134670556"
+      },
+      "album": "Shine a Light",
+      "duration": 349,
+      "isrc": "CH3320900068"
+    },
+    {
+      "artist": "R\u00f6yksopp",
+      "title": "Circuit Breaker",
+      "services": {
+        "qobuz": "4688480"
+      },
+      "album": "The Understanding",
+      "duration": 324,
+      "isrc": "FRS940500068"
+    },
+    {
+      "artist": "ABBA",
+      "title": "Lay All Your Love On Me",
+      "services": {
+        "qobuz": "15644303"
+      },
+      "album": "ABBA Gold (Anniversary Edition)",
+      "duration": 272,
+      "isrc": "SEAYD8001090"
+    },
+    {
+      "artist": "Marie Madeleine",
+      "title": "Swimming Pool",
+      "services": {
+        "qobuz": "304929785"
+      },
+      "album": "Swimming Pool",
+      "duration": 314,
+      "isrc": "FXQ252400005"
+    },
+    {
+      "artist": "Luster",
+      "title": "No One To Hold You",
+      "services": {
+        "qobuz": "211608652"
+      },
+      "album": "Dopamine Loop",
+      "duration": 228,
+      "isrc": "QZHNA2340862"
+    },
+    {
+      "artist": "Drumattic Twins",
+      "title": "Feelin Kinda Strange",
+      "services": {
+        "qobuz": "53936415"
+      },
+      "album": "Feelin' Kinda Strange",
+      "duration": 442,
+      "isrc": "GBFEK0500186"
+    },
+    {
+      "artist": "Webbie",
+      "title": "Independent (feat. Boosie Badazz & Lil Phat)",
+      "services": {
+        "qobuz": "314686455"
+      },
+      "album": "Savage Life 2",
+      "duration": 250,
+      "isrc": "USAT20705690"
+    },
+    {
+      "artist": "Mark Mothersbaugh",
+      "title": "Stop and Sim",
+      "services": {
+        "qobuz": "96130700"
+      },
+      "album": "The Sims 2: Nightlife (Remixes) (Original Soundtrack)",
+      "duration": 212,
+      "isrc": "CAN110500373"
+    },
+    {
+      "artist": "Bohemian Club",
+      "title": "Ils attendent",
+      "services": {
+        "qobuz": "55767164"
+      },
+      "album": "Bohemian Groove",
+      "duration": 286,
+      "isrc": "TCADT1888841"
+    },
+    {
+      "artist": "Infusion",
+      "title": "Better World",
+      "services": {
+        "qobuz": "105005589"
+      },
+      "album": "Better World",
+      "duration": 539,
+      "isrc": "AUBM00448310"
+    },
+    {
+      "artist": "Jem Stone",
+      "title": "Disco Daze",
+      "services": {
+        "qobuz": "53874083"
+      },
+      "album": "Disco Daze",
+      "duration": 461,
+      "isrc": "GBFEK0500183"
+    },
+    {
+      "artist": "Cybortronik World Media",
+      "title": "Microphone Addict",
+      "services": {
+        "qobuz": "417681829"
+      },
+      "album": "eMERGENCY Bars 3",
+      "duration": 468,
+      "isrc": "GBMJG2005866"
+    },
+    {
+      "artist": "Teardropcity",
+      "title": "Metric Style",
+      "services": {
+        "qobuz": "161010897"
+      },
+      "album": "Style",
+      "duration": 75,
+      "isrc": "QZK6N2265402"
+    },
+    {
+      "artist": "Wolf Jay",
+      "title": "We Got The Funk",
+      "services": {
+        "qobuz": "388530759"
+      },
+      "album": "10 Years",
+      "duration": 346,
+      "isrc": "UKGB41900020"
+    },
+    {
+      "artist": "Splitloop",
+      "title": "Both Knees",
+      "services": {
+        "qobuz": "186324063"
+      },
+      "album": "Soul Roll",
+      "duration": 419,
+      "isrc": "GBFNF0500017"
+    },
+    {
+      "artist": "Stanton Warriors",
+      "title": "Pop Ya Cork",
+      "services": {
+        "qobuz": "109342144"
+      },
+      "album": "Pop Ya Cork",
+      "duration": 185,
+      "isrc": "GB9UU1800082"
+    },
+    {
+      "artist": "The Rogue Element",
+      "title": "Rogue Rock",
+      "services": {
+        "qobuz": "52931403"
+      },
+      "album": "Rogue Rock (Special Edition)",
+      "duration": 274,
+      "isrc": "GBEKG0300124"
+    },
+    {
+      "artist": "Abe Duque",
+      "title": "Ariel",
+      "services": {
+        "qobuz": "5088911"
+      },
+      "album": "Luna",
+      "duration": 528,
+      "isrc": "DET751000059"
+    },
+    {
+      "artist": "Damn Vandals",
+      "title": "Mad as Hell",
+      "services": {
+        "qobuz": "73918138"
+      },
+      "album": "Rocket out of London",
+      "duration": 152,
+      "isrc": "GBK6W1400026"
+    },
+    {
+      "artist": "U2",
+      "title": "Two Hearts Beat As One",
+      "services": {
+        "qobuz": "744478"
+      },
+      "album": "War",
+      "duration": 263,
+      "isrc": "GBUM70806028"
+    },
+    {
+      "artist": "Virtualmismo",
+      "title": "Mismoplastico",
+      "services": {
+        "qobuz": "319627495"
+      },
+      "album": "Mismoplastico",
+      "duration": 397,
+      "isrc": "IT00G0422231"
+    },
+    {
+      "artist": "Fort Knox Five",
+      "title": "The Brazilian Hipster",
+      "services": {
+        "qobuz": "62582894"
+      },
+      "album": "The Brazilian Hipster",
+      "duration": 240,
+      "isrc": "USZAK0400401"
+    },
+    {
+      "artist": "Paul Oakenfold",
+      "title": "Ready Steady Go!",
+      "services": {
+        "qobuz": "378001444"
+      },
+      "album": "Ready Steady Go!",
+      "duration": 240,
+      "isrc": "NLF711402205"
+    },
+    {
+      "artist": "Digital Breaks Foundation",
+      "title": "Way Back",
+      "services": {
+        "qobuz": "75404998"
+      },
+      "album": "The Land of the Monkey Snake",
+      "duration": 352,
+      "isrc": "GB25T0610079"
+    },
+    {
+      "artist": "Hedflux",
+      "title": "Mindcell",
+      "services": {
+        "qobuz": "26959417"
+      },
+      "album": "In Retrospect",
+      "duration": 438,
+      "isrc": "FRX871585968"
+    },
+    {
+      "artist": "Lady Waks",
+      "title": "Around The Globe",
+      "services": {
+        "qobuz": "111686209"
+      },
+      "album": "Bass Shakers 2015",
+      "duration": 405,
+      "isrc": "GBFG91512645"
+    },
+    {
+      "artist": "A. Skillz",
+      "title": "Dead Ringer (feat. Kymberley Kennedy)",
+      "services": {
+        "qobuz": "52873515"
+      },
+      "album": "Drop the Funk",
+      "duration": 257,
+      "isrc": "GBFEK1400349"
+    },
+    {
+      "artist": "Stanton Warriors",
+      "title": "Jerk That",
+      "services": {
+        "qobuz": "22998305"
+      },
+      "album": "Jerk That",
+      "duration": 252,
+      "isrc": "GB7EJ1400326"
+    },
+    {
+      "artist": "Marten H\u00f8rger",
+      "title": "LGFU",
+      "services": {
+        "qobuz": "46824654"
+      },
+      "album": "LGFU",
+      "duration": 257,
+      "isrc": "GBFEK1600363"
+    },
+    {
+      "artist": "The Get Down Brothers (Skylan Brooks, Tremaine Brown, Jr., Jaden Smith, Justice Smith & Shameik Moore)",
+      "title": "Break The Locks",
+      "services": {
+        "qobuz": "40190248"
+      },
+      "album": "The Get Down Part II: Original Soundtrack From The Netflix Original Series",
+      "duration": 294,
+      "isrc": "USRC11700635"
+    },
+    {
+      "artist": "Special Request",
+      "title": "Vortex 164",
+      "services": {
+        "qobuz": "303555218"
+      },
+      "album": "Special Request and Fwends",
+      "duration": 274,
+      "isrc": "GBEXH1900499"
+    },
+    {
+      "artist": "Overmono",
+      "title": "So U Kno",
+      "services": {
+        "qobuz": "191290502"
+      },
+      "album": "Good Lies",
+      "duration": 343,
+      "isrc": "UKLTE2100202"
+    }
+  ]
+}

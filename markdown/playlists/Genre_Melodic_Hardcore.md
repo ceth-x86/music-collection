@@ -1,0 +1,108 @@
+# Genre: Melodic Hardcore
+
+Imported genre playlist: Melodic Hardcore.
+
+Services: `qobuz:66736563` `tidal:3980958e-6add-4a03-b156-5ec786ca770d`
+
+## Tracks (100)
+
+- **Warriors of Awareness** — Faith in the Flames [Music Thru Thoughts and Farewell] (3:54) `isrc:QT6E82683777` `qobuz:428365042`
+- **Hüsker Dü** — Something I Learned Today [Zen Arcade] (2:02) `isrc:USA560766803` `qobuz:63480381`
+- **Dag Nasty** — Circles [Can I Say] (2:46) `isrc:US35U0401903` `qobuz:159950618`
+- **Verbal Assault** — Trial [Trial] (2:17) `isrc:QM6MZ1856868` `qobuz:79895933`
+- **Bad Religion** — Do What You Want [Suffer] (1:07) `isrc:USEP40303113` `qobuz:77643807`
+- **Turning Point** — Before the Dawn [It's Always Darkest... Before the Dawn] (1:39) `isrc:USA6M0404905` `qobuz:104254202`
+- **Pegboy** — Hardlight [Strong Reaction] (1:25) `isrc:USA4C9100710` `qobuz:32737289`
+- **Avail** — Simple Song [4AM Friday] (3:12) `isrc:USA6M0511001` `qobuz:77628115`
+- **Ignite** — Family [Call On My Brothers] (2:21) `isrc:USB4U0400996` `qobuz:139090861`
+- **Good Riddance** — Mother Superior [For God and Country] (3:06) `isrc:USFW40452307` `qobuz:347878917`
+- **Crown of thornz** — Icepick [Train Yard Blues/Mentally Vexed] (2:35) `isrc:USKUN1303106` `qobuz:17844481`
+- **Turnstile** — NEVER ENOUGH [NEVER ENOUGH] (4:47) `isrc:NLA322500053` `qobuz:339606224`
+- **Sven Wunder** — Setting Off [Daybreak] (3:18) `isrc:SEYJB2500101` `qobuz:336571058`
+- **88 Fingers Louie** — Punk Rock Rulebook [Back On The Streets (Remixed and Remastered)] (2:23) `isrc:USHR21905023` `qobuz:120897942`
+- **Death By Stereo** — Sing Along With The Patriotic Punks [If Looks Could Kill, I'd Watch You Die] (2:32) `isrc:US5740801902` `qobuz:123676128`
+- **Reach The Sky** — So Far From Home [So Far From Home] (1:57) `isrc:USVIC0011102` `qobuz:118263903`
+- **Bane** — Can We Start Again [It All Comes Down to This] (3:19) `isrc:US3X50405306` `qobuz:77866558`
+- **H2O** — One Life, One Chance [F.T.T.W.] (1:55) `isrc:USEP40342203` `qobuz:77631385`
+- **The Hope Conspiracy** — Animal Farm [Death Knows Your Name] (3:40) `isrc:USTC10650995` `qobuz:72951617`
+- **Kid Dynamite** — Heart A Tact [Cheap Shots, Youth Anthems] (1:31) `isrc:USA6M0408501` `qobuz:77639949`
+- **John Harle** — Spring-heeled Jack [The Tyburn Tree - Dark London] (4:29) `isrc:UK5EE1300003` `qobuz:151594713`
+- **AFI** — The Days Of The Phoenix [The Art Of Drowning] (3:27) `isrc:USNRR0400337` `qobuz:16846027`
+- **Raised Fist** — Killing It [Sound Of The Republic] (3:27) `isrc:SEVHC0515050` `qobuz:77647965`
+- **Strike Anywhere** — Chalkline [Change Is A Sound] (2:39) `isrc:USA6M0406009` `qobuz:77635781`
+- **Give Up The Ghost** — Love American [We're Down Til We're Underground] (2:11) `isrc:US3X50408302` `qobuz:77864034`
+- **Carry On** — Roll with the Punches [It's All Our Blood] (1:37) `isrc:USDRS0600501` `qobuz:18487423`
+- **As Friends Rust** — Coffee Black [As Friends Rust] (3:19) `isrc:US4K30400518` `qobuz:175977444`
+- **Nick Lowe** — Let's Stay in and Make Love [Quiet Please: The New Best of Nick Lowe] (3:50) `isrc:GBEEJ0100012` `qobuz:158632829`
+- **Rise Against** — Like The Angel [Revolutions Per Minute] (2:46) `isrc:USFW40465305` `qobuz:355859559`
+- **Paint It Black** — The Ledge [New Lexicon] (1:30) `isrc:USA6M0812601` `qobuz:77651218`
+- **None More Black** — Under My Feet [This Is Satire] (2:24) `isrc:USFW40671302` `qobuz:347844040`
+- **The Suicide File** — Twilight [Twilight] (1:31) `isrc:US5740805401` `qobuz:123671852`
+- **Only Crime** — R.J.R. [To the Nines] (2:04) `isrc:USFW40468201` `qobuz:347887992`
+- **With Honor** — Like Trumpets [This Is Our Revenge] (2:52) `isrc:USVIC0527601` `qobuz:118267389`
+- **J.D. LeChamp** — Whispered Promise [Ridge Down to the River] (4:43) `isrc:USD6M2300229` `qobuz:246637953`
+- **The Salt Collective** — Waiting for the End of Time [A Brief History of Blindness] (4:45) `isrc:QZR8Y2500311` `qobuz:352623510`
+- **A Wilhelm Scream** — The Horse [Career Suicide] (4:53) `isrc:USNRR0700696` `qobuz:16845899`
+- **Comeback Kid** — Wake The Dead [Wake The Dead] (3:17) `isrc:USVIC0524603` `qobuz:118258008`
+- **Killing The Dream** — Where The Heart Is [In Place Apart] (2:23) `isrc:USTC10791029` `qobuz:72952392`
+- **Modern Life Is War** — By the Sea [My Love My Way] (3:39) `isrc:USTC10651008` `qobuz:72952547`
+- **PVRIS** — Dead Weight [Use Me] (3:27) `isrc:USWB12000241` `qobuz:104070035`
+- **Western Addiction** — Mailer, Meet Jim [Cognicide] (1:37) `isrc:USFW40569802` `qobuz:347874007`
+- **Imogen Heap** — What Have You Done To Me? [I AM ___] (6:18) `isrc:GBJPX2400434` `qobuz:358836818`
+- **Crime In Stereo** — Bicycles For Afghanistan [The Troubled Stateside] (2:58) `isrc:USNRR0600659` `qobuz:16846081`
+- **Eddie Higgins** — Someone To Watch Over Me [Haunted Heart] (4:46) `isrc:US2W60408006` `qobuz:45689735`
+- **Jay B** — Verse die für immer bleiben [New Golden Era] (3:20) `isrc:TCAIJ2414490` `qobuz:270029119`
+- **Love Retro Jazz** — Go It Alone [Dream Weaving] (2:46) `isrc:QZAMM2298346` `qobuz:333866030`
+- **No Trigger** — The Honshu Underground [Canyoneer] (3:53) `isrc:USNRR0600650` `qobuz:16848865`
+- **Casey Jones** — Just Another Day In The Fla [The Few, The Proud, The Crucial] (1:46) `isrc:US28Y0400039` `qobuz:74804279`
+- **Shook Ones** — So Grown Up [Slaughter of the Insole] (3:22) `isrc:USB4U0401294` `qobuz:139093656`
+- **Beat Pushers** — Jump Up '99 (Guerilla Warfare Mix) [Hard Funk Encounter (E.P.)] (6:11) `isrc:QMTR31600247` `qobuz:77220417`
+- **The Carrier** — No: 51 [No Love Can Save Me] (3:18) `isrc:USHTV0810036` `qobuz:72949425`
+- **The Clarks** — A Million Miles Away [Rewind] (3:40) `isrc:TCACG1507240` `qobuz:128806139`
+- **Conan Gray** — The Final Fight [Found Heaven] (2:09) `isrc:USUM72400703` `qobuz:260461403`
+- **Red Hot Chili Peppers** — The Hunter [The Getaway] (4:00) `isrc:USWB11600640` `qobuz:32064377`
+- **Life Long Tragedy** — Collecting Dust [Runaways] (3:24) `isrc:USHTV0810002` `qobuz:72948925`
+- **JPEGMAFIA** — What the hip hop hell is this ? [I LAY DOWN MY LIFE FOR YOU: DIRECTOR'S CUT] (2:32) `isrc:QM4TW2597863` `qobuz:318440091`
+- **Death Is Not Glamorous** — This Life Is Huge [Soft Clicks] (2:18) `isrc:NOFYF0806010` `qobuz:147289592`
+- **Silent Majority** — Polar Bear Club [Life of a Spectator] (1:53) `isrc:QZHNC2280194` `qobuz:159299412`
+- **Stretch Arm Strong** — For The Record [A Revolution Transmission] (2:05) `isrc:USTN10120304` `qobuz:4380911`
+- **Stereophonics** — It Means Nothing [Pull The Pin] (3:48) `isrc:GBBLK0700161` `qobuz:13502764`
+- **Justun Wanted** — Defeat the Bastards [Violence,Vengeance and Retribution] (3:26) `isrc:USCGH2542979` `qobuz:313294369`
+- **Lacuna Coil** — I Wish You Were Dead [Sleepless Empire] (2:52) `isrc:GBDHC2340309` `qobuz:288893650`
+- **More Than Life** — Love Let Me Go [Love Let Me Go] (3:57) `isrc:QZES62187473` `qobuz:232464997`
+- **Sinking Ships** — Ghost Story [Disconnecting] (3:17) `isrc:USB4U0401454` `qobuz:139093099`
+- **Your Demise** — Burnt Tongues [Ignorance Never Dies] (2:55) `isrc:GBBPB0803719` `qobuz:94933274`
+- **Atlas Losing Grip** — The Curse [Currents] (3:25) `isrc:DEZ651350107` `qobuz:378058313`
+- **Esthero** — Breath From Another [Breath From Another] (4:47) `isrc:USSM19703469` `qobuz:5394524`
+- **Heartsounds** — The Song Inside Me [Until We Surrender] (3:34) `isrc:USEP41010001` `qobuz:77660404`
+- **Make Do And Mend** — Stay In The Sun [Everything You Ever Loved] (3:57) `isrc:USEK71216205` `qobuz:376990885`
+- **Lello Panico** — Three Hundred Pounds of Joy [The Willie Dixon Songbook] (4:06) `isrc:USL4Q1743318` `qobuz:81987030`
+- **Departures** — Teenage Haze [Teenage Haze] (1:46) `isrc:GX89G2398077` `qobuz:193445434`
+- **Landscapes** — Cemetary [Life Gone Wrong] (1:53) `isrc:USSTT1300044` `qobuz:322155699`
+- **Worthwhile** — Unlovable [Carry on Kid] (4:10) `isrc:QMUYR1300086` `qobuz:124861912`
+- **Bastions** — Haar [Majestic Desolation] (1:13) `isrc:GX34M2100065` `qobuz:147285038`
+- **Heart in Hand** — A Beautiful White [A Beautiful White] (4:02) `isrc:US4E41320202` `qobuz:28269189`
+- **Polar** — Black Days [Shadowed by Vultures] (3:21) `isrc:GBNSF1400014` `qobuz:73928501`
+- **No Bragging Rights** — Hope Theory [Cycles] (3:59) `isrc:USKO11201665` `qobuz:36695621`
+- **Great Collapse** — New Abolition [Holy War] (4:04) `isrc:DESG40800073` `qobuz:85315318`
+- **Conveyer** — No Future [No Future] (2:12) `isrc:USVIC1774507` `qobuz:118262178`
+- **Napoleon** — Newborn Mind [Newborn Mind] (4:24) `isrc:UK2D51600039` `qobuz:31202553`
+- **Angel Du$t** — Set Me Up [A.D.] (1:24) `isrc:QMFMF1419268` `qobuz:217113810`
+- **Renounced** — Beauty Is a Destructive Angel [Beauty Is a Destructive Angel] (4:42) `isrc:GBMLT1501393` `qobuz:116856742`
+- **Higher Power** — Low Season [27 Miles Underwater] (2:37) `isrc:NLA321900164` `qobuz:70010114`
+- **Praise** — All in a Dream [All in a Dream] (2:42) `isrc:USB4U2219601` `qobuz:148448736`
+- **Drug Church** — Weed Pin [Cheer] (4:42) `isrc:USSTT1700274` `qobuz:322145013`
+- **Turnstile** — Real Thing [Time & Space] (1:56) `isrc:NLA321700308` `qobuz:46439762`
+- **Giver** — Pills [Where the Cycle Breaks] (4:17) `isrc:GBMLT1501052` `qobuz:44679791`
+- **Gazelle Twin** — The Entire City [The Entire City] (2:23) `isrc:UKX5N1100003` `qobuz:176100570`
+- **High Vis** — Deserve It [Guided Tour] (3:13) `isrc:QZJCP2400120` `qobuz:277702340`
+- **Restraining Order** — This World Is Too Much [This World Is Too Much] (2:08) `isrc:QMCE71302552` `qobuz:151020823`
+- **The Rolling Stones** — Beast Of Burden [Some Girls] (4:25) `isrc:GBCJN7800009` `qobuz:54328845`
+- **Dragged Under** — Crooked Halos [Upright Animals] (3:17) `isrc:NLB932200604` `qobuz:148295135`
+- **Be Well** — Meaningless Measures [The Weight and the Cost] (2:53) `isrc:US3X52044101` `qobuz:95890015`
+- **One Step Closer** — Pringle Street [This Place You Know] (2:59) `isrc:QMCE71303185` `qobuz:122883963`
+- **Fiddlehead** — Heart to Heart [Between the Richness] (4:17) `isrc:QMCE71302770` `qobuz:116102956`
+- **Militarie Gun** — Do It Faster [Life Under The Gun] (1:47) `isrc:USC4R2328622` `qobuz:204294024`
+- **Koyö** — Moriches [Drives Out East] (2:13) `isrc:QMCE71303233` `qobuz:151026147`
+- **Destiny Bond** — The Glow [Be My Vengeance] (1:20) `isrc:QZK6L2363828` `qobuz:215760674`
+- **Mil-Spec** — Secret Passage [Marathon] (3:01) `isrc:USKSV2305501` `qobuz:230800542`

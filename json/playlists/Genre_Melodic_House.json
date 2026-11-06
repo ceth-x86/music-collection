@@ -1,0 +1,1009 @@
+{
+  "name": "Genre: Melodic House",
+  "services": {
+    "qobuz": "66716118"
+  },
+  "description": "Imported genre playlist: Melodic House.",
+  "tracks": [
+    {
+      "artist": "Lane 8",
+      "title": "Diamonds Feat. Solomon Grey",
+      "services": {
+        "qobuz": "21786767"
+      },
+      "album": "Poolside Mexico",
+      "duration": 354,
+      "isrc": "GBEWA1401150"
+    },
+    {
+      "artist": "Van Morrison",
+      "title": "Dark Night Of The Soul",
+      "services": {
+        "qobuz": "373514672"
+      },
+      "album": "Three Chords And The Truth",
+      "duration": 356,
+      "isrc": "GBCQT1900003"
+    },
+    {
+      "artist": "16 Bit Lolitas",
+      "title": "Deep In My Soul [Mix Cut]",
+      "services": {
+        "qobuz": "378017718"
+      },
+      "album": "Wake Your Mind Sessions 001 (Mixed by Cosmic Gate)",
+      "duration": 343,
+      "isrc": "NLF711501085"
+    },
+    {
+      "artist": "Martin Roth",
+      "title": "Maya",
+      "services": {
+        "qobuz": "23874185"
+      },
+      "album": "Miami Poolside 2015",
+      "duration": 496,
+      "isrc": "GBEWA1400803"
+    },
+    {
+      "artist": "John Doyle",
+      "title": "The Glad Eye / The Journeyman / The Wayward Son (Jigs to Reel)",
+      "services": {
+        "qobuz": "106537857"
+      },
+      "album": "Wayward Son",
+      "duration": 263,
+      "isrc": "USCO90540803"
+    },
+    {
+      "artist": "Eli & Fur",
+      "title": "Feel The Fire",
+      "services": {
+        "qobuz": "23874152"
+      },
+      "album": "Miami Poolside 2015",
+      "duration": 306,
+      "isrc": "GBEWA1401120"
+    },
+    {
+      "artist": "Universal Solution",
+      "title": "Bandur",
+      "services": {
+        "qobuz": "424990545"
+      },
+      "album": "25 Years Of Anjuna Mixed By James Grant",
+      "duration": 231,
+      "isrc": "GBEWA2506856"
+    },
+    {
+      "artist": "Alexander J Poe",
+      "title": "Shape Of You (feat. Jessica Courtland)",
+      "services": {
+        "qobuz": "427394843"
+      },
+      "album": "Take Me Home",
+      "duration": 192,
+      "isrc": "QT6E52674845"
+    },
+    {
+      "artist": "John Monkman",
+      "title": "Fractured Fate",
+      "services": {
+        "qobuz": "268142035"
+      },
+      "album": "Fate",
+      "duration": 426,
+      "isrc": "ITH641053588"
+    },
+    {
+      "artist": "Fejk\u00e1",
+      "title": "Maara",
+      "services": {
+        "qobuz": "424990194"
+      },
+      "album": "Anjunadeep 16",
+      "duration": 254,
+      "isrc": "GBEWA2600274"
+    },
+    {
+      "artist": "Downtown Party Network",
+      "title": "Space Me Out",
+      "services": {
+        "qobuz": "29877820"
+      },
+      "album": "Beach Rouge Vol. 2 - Beach House & Deep Disco",
+      "duration": 353,
+      "isrc": "GBEWA1500780"
+    },
+    {
+      "artist": "Thomas Schwartz",
+      "title": "Hymn To The Dawn",
+      "services": {
+        "qobuz": "358752052"
+      },
+      "album": "Hymn to the Dawn",
+      "duration": 196,
+      "isrc": "NLD682502594"
+    },
+    {
+      "artist": "Motorcitysoul",
+      "title": "Change You",
+      "services": {
+        "qobuz": "17934860"
+      },
+      "album": "Technique",
+      "duration": 613,
+      "isrc": "GBJPB0600099"
+    },
+    {
+      "artist": "Moon Boots",
+      "title": "Red Sky",
+      "services": {
+        "qobuz": "424932603"
+      },
+      "album": "First Landing",
+      "duration": 373,
+      "isrc": "GBEWA1701869"
+    },
+    {
+      "artist": "Simply Red",
+      "title": "If You Don't Know Me by Now",
+      "services": {
+        "qobuz": "4304546"
+      },
+      "album": "A New Flame",
+      "duration": 205,
+      "isrc": "GBCRL0800110"
+    },
+    {
+      "artist": "Yotto",
+      "title": "Fire Walk",
+      "services": {
+        "qobuz": "424930477"
+      },
+      "album": "Anjunadeep 08",
+      "duration": 358,
+      "isrc": "GBEWA1601712"
+    },
+    {
+      "artist": "Aiiso",
+      "title": "Your Love Is An Echo",
+      "services": {
+        "qobuz": "424930467"
+      },
+      "album": "Anjunadeep 08",
+      "duration": 331,
+      "isrc": "GBEWA1601702"
+    },
+    {
+      "artist": "Amateur Dance",
+      "title": "Dreamhack",
+      "services": {
+        "qobuz": "424930495"
+      },
+      "album": "Anjunadeep 08",
+      "duration": 259,
+      "isrc": "GBEWA1601730"
+    },
+    {
+      "artist": "Tinlicker",
+      "title": "Soon You\u2019ll Be Gone",
+      "services": {
+        "qobuz": "424930497"
+      },
+      "album": "Anjunadeep 08",
+      "duration": 312,
+      "isrc": "GBEWA1601732"
+    },
+    {
+      "artist": "Icarus",
+      "title": "Hiding",
+      "services": {
+        "qobuz": "424930499"
+      },
+      "album": "Anjunadeep 08",
+      "duration": 387,
+      "isrc": "GBAYE1703506"
+    },
+    {
+      "artist": "Lycoriscoris",
+      "title": "Flight",
+      "services": {
+        "qobuz": "424934707"
+      },
+      "album": "Anjunadeep 09",
+      "duration": 252,
+      "isrc": "GBEWA1702651"
+    },
+    {
+      "artist": "Modd",
+      "title": "Abenaki",
+      "services": {
+        "qobuz": "424934711"
+      },
+      "album": "Anjunadeep 09",
+      "duration": 226,
+      "isrc": "GBEWA1702655"
+    },
+    {
+      "artist": "Xinobi",
+      "title": "Far Away Place",
+      "services": {
+        "qobuz": "176639363"
+      },
+      "album": "Far Away Place (Remixes)",
+      "duration": 430,
+      "isrc": "GBEWA1702710"
+    },
+    {
+      "artist": "The Weeknd",
+      "title": "Wake Me Up (feat. Justice)",
+      "services": {
+        "qobuz": "315416312"
+      },
+      "album": "Hurry Up Tomorrow",
+      "duration": 308,
+      "isrc": "USUG12501128"
+    },
+    {
+      "artist": "Compuphonic",
+      "title": "Medicis",
+      "services": {
+        "qobuz": "424934716"
+      },
+      "album": "Anjunadeep 09",
+      "duration": 200,
+      "isrc": "GBEWA1702660"
+    },
+    {
+      "artist": "Fairchild",
+      "title": "The Light In You",
+      "services": {
+        "qobuz": "424934721"
+      },
+      "album": "Anjunadeep 09",
+      "duration": 396,
+      "isrc": "GBEWA1702665"
+    },
+    {
+      "artist": "Kora (CA)",
+      "title": "Nous",
+      "services": {
+        "qobuz": "424934729"
+      },
+      "album": "Anjunadeep 09",
+      "duration": 256,
+      "isrc": "GBEWA1702673"
+    },
+    {
+      "artist": "Hosini",
+      "title": "Syna",
+      "services": {
+        "qobuz": "424934730"
+      },
+      "album": "Anjunadeep 09",
+      "duration": 208,
+      "isrc": "GBEWA1702674"
+    },
+    {
+      "artist": "Antic",
+      "title": "Touch Of My Soul",
+      "services": {
+        "qobuz": "424934736"
+      },
+      "album": "Anjunadeep 09",
+      "duration": 314,
+      "isrc": "GBEWA1702680"
+    },
+    {
+      "artist": "David Hohme",
+      "title": "Soft Landing",
+      "services": {
+        "qobuz": "424934740"
+      },
+      "album": "Anjunadeep 09",
+      "duration": 423,
+      "isrc": "GBEWA1702684"
+    },
+    {
+      "artist": "OCULA",
+      "title": "Immunity",
+      "services": {
+        "qobuz": "424940907"
+      },
+      "album": "Anjunadeep 10",
+      "duration": 283,
+      "isrc": "GBEWA1900052"
+    },
+    {
+      "artist": "Baile",
+      "title": "Soft Light",
+      "services": {
+        "qobuz": "424940908"
+      },
+      "album": "Anjunadeep 10",
+      "duration": 213,
+      "isrc": "GBEWA1900053"
+    },
+    {
+      "artist": "CRi",
+      "title": "Initial",
+      "services": {
+        "qobuz": "424940915"
+      },
+      "album": "Anjunadeep 10",
+      "duration": 304,
+      "isrc": "GBEWA1900060"
+    },
+    {
+      "artist": "Grazze",
+      "title": "Querencia",
+      "services": {
+        "qobuz": "424940918"
+      },
+      "album": "Anjunadeep 10",
+      "duration": 208,
+      "isrc": "GBEWA1900063"
+    },
+    {
+      "artist": "Nuage",
+      "title": "H.A.L.O.",
+      "services": {
+        "qobuz": "424940919"
+      },
+      "album": "Anjunadeep 10",
+      "duration": 239,
+      "isrc": "GBEWA1900064"
+    },
+    {
+      "artist": "Boerd",
+      "title": "Someone",
+      "services": {
+        "qobuz": "424940920"
+      },
+      "album": "Anjunadeep 10",
+      "duration": 364,
+      "isrc": "GBEWA1900065"
+    },
+    {
+      "artist": "Ben B\u00f6hmer",
+      "title": "Little Lights",
+      "services": {
+        "qobuz": "424940922"
+      },
+      "album": "Anjunadeep 10",
+      "duration": 402,
+      "isrc": "GBEWA1900067"
+    },
+    {
+      "artist": "Savvas",
+      "title": "Peace Of Mind",
+      "services": {
+        "qobuz": "424990522"
+      },
+      "album": "25 Years Of Anjuna Mixed By James Grant",
+      "duration": 157,
+      "isrc": "GBEWA2506833"
+    },
+    {
+      "artist": "Dosem",
+      "title": "Stay True",
+      "services": {
+        "qobuz": "424940933"
+      },
+      "album": "Anjunadeep 10",
+      "duration": 312,
+      "isrc": "GBEWA1900078"
+    },
+    {
+      "artist": "Kidnap",
+      "title": "Tempest",
+      "services": {
+        "qobuz": "378168264"
+      },
+      "album": "Grow",
+      "duration": 317,
+      "isrc": "NLF711909418"
+    },
+    {
+      "artist": "HVMP",
+      "title": "Flora",
+      "services": {
+        "qobuz": "424945616"
+      },
+      "album": "Anjunadeep 11",
+      "duration": 271,
+      "isrc": "GBEWA1904132"
+    },
+    {
+      "artist": "Jerro",
+      "title": "Tunnel Vision",
+      "services": {
+        "qobuz": "424945617"
+      },
+      "album": "Anjunadeep 11",
+      "duration": 180,
+      "isrc": "GBEWA1904133"
+    },
+    {
+      "artist": "Miru",
+      "title": "Radiance",
+      "services": {
+        "qobuz": "424945618"
+      },
+      "album": "Anjunadeep 11",
+      "duration": 295,
+      "isrc": "GBEWA1904134"
+    },
+    {
+      "artist": "Leaving Laurel",
+      "title": "Through And Through",
+      "services": {
+        "qobuz": "424945619"
+      },
+      "album": "Anjunadeep 11",
+      "duration": 270,
+      "isrc": "GBEWA1904135"
+    },
+    {
+      "artist": "Hen Ogledd",
+      "title": "Paul is 9ft Tall (Marsh Gas)",
+      "services": {
+        "qobuz": "100940525"
+      },
+      "album": "Free Humans",
+      "duration": 288,
+      "isrc": "GBCEL2000126"
+    },
+    {
+      "artist": "Kasper Koman",
+      "title": "The Blind Navigator",
+      "services": {
+        "qobuz": "424945625"
+      },
+      "album": "Anjunadeep 11",
+      "duration": 204,
+      "isrc": "GBEWA1904141"
+    },
+    {
+      "artist": "Braxton",
+      "title": "Chiaroscuro",
+      "services": {
+        "qobuz": "424945626"
+      },
+      "album": "Anjunadeep 11",
+      "duration": 253,
+      "isrc": "GBEWA1904142"
+    },
+    {
+      "artist": "Luigi Sambuy",
+      "title": "Paper",
+      "services": {
+        "qobuz": "424945627"
+      },
+      "album": "Anjunadeep 11",
+      "duration": 239,
+      "isrc": "GBEWA1904143"
+    },
+    {
+      "artist": "Qrion",
+      "title": "Mars",
+      "services": {
+        "qobuz": "424945628"
+      },
+      "album": "Anjunadeep 11",
+      "duration": 160,
+      "isrc": "GBEWA1904144"
+    },
+    {
+      "artist": "Greenville Massive",
+      "title": "Morse",
+      "services": {
+        "qobuz": "424945630"
+      },
+      "album": "Anjunadeep 11",
+      "duration": 184,
+      "isrc": "GBEWA1904146"
+    },
+    {
+      "artist": "Nox Vahn",
+      "title": "Dream Of Love",
+      "services": {
+        "qobuz": "424945632"
+      },
+      "album": "Anjunadeep 11",
+      "duration": 297,
+      "isrc": "GBEWA1904148"
+    },
+    {
+      "artist": "Ole Biege",
+      "title": "The Glow",
+      "services": {
+        "qobuz": "424945634"
+      },
+      "album": "Anjunadeep 11",
+      "duration": 224,
+      "isrc": "GBEWA1904150"
+    },
+    {
+      "artist": "Qess",
+      "title": "Firethorn",
+      "services": {
+        "qobuz": "424945636"
+      },
+      "album": "Anjunadeep 11",
+      "duration": 167,
+      "isrc": "GBEWA1904152"
+    },
+    {
+      "artist": "Simon Doty",
+      "title": "This Time",
+      "services": {
+        "qobuz": "424945637"
+      },
+      "album": "Anjunadeep 11",
+      "duration": 336,
+      "isrc": "GBEWA1904153"
+    },
+    {
+      "artist": "Frost",
+      "title": "Overtones",
+      "services": {
+        "qobuz": "424945640"
+      },
+      "album": "Anjunadeep 11",
+      "duration": 265,
+      "isrc": "GBEWA1904156"
+    },
+    {
+      "artist": "The Dualz",
+      "title": "Inside Me",
+      "services": {
+        "qobuz": "424945647"
+      },
+      "album": "Anjunadeep 11",
+      "duration": 261,
+      "isrc": "GBEWA1904163"
+    },
+    {
+      "artist": "Zoo Brazil",
+      "title": "Dance With Me",
+      "services": {
+        "qobuz": "424945648"
+      },
+      "album": "Anjunadeep 11",
+      "duration": 199,
+      "isrc": "GBEWA1904164"
+    },
+    {
+      "artist": "Jon Gurd",
+      "title": "Rise",
+      "services": {
+        "qobuz": "424971489"
+      },
+      "album": "Anjunadeep 14",
+      "duration": 247,
+      "isrc": "GBEWA2301583"
+    },
+    {
+      "artist": "Alex Metric",
+      "title": "Upswing",
+      "services": {
+        "qobuz": "424945639"
+      },
+      "album": "Anjunadeep 11",
+      "duration": 268,
+      "isrc": "GBEWA1904155"
+    },
+    {
+      "artist": "Durante",
+      "title": "Days Pass",
+      "services": {
+        "qobuz": "424986379"
+      },
+      "album": "25 Years Of Anjuna Mixed By HANA",
+      "duration": 320,
+      "isrc": "GBEWA2504272"
+    },
+    {
+      "artist": "Buika",
+      "title": "La niebla",
+      "services": {
+        "qobuz": "2892775"
+      },
+      "album": "Ni\u00f1a de fuego",
+      "duration": 240,
+      "isrc": "ES5150800473"
+    },
+    {
+      "artist": "Bleachers",
+      "title": "i can't believe you're gone",
+      "services": {
+        "qobuz": "416668849"
+      },
+      "album": "everyone for ten minutes",
+      "duration": 206,
+      "isrc": "GBK3W2503559"
+    },
+    {
+      "artist": "Nordfold",
+      "title": "Letter to Lillehammer",
+      "services": {
+        "qobuz": "424962031"
+      },
+      "album": "Anjunadeep The Yearbook 2021",
+      "duration": 298,
+      "isrc": "GBEWA2200056"
+    },
+    {
+      "artist": "Out Run",
+      "title": "Gray Cloud",
+      "services": {
+        "qobuz": "364672138"
+      },
+      "album": "Gray Cloud",
+      "duration": 195,
+      "isrc": "DGA062572788"
+    },
+    {
+      "artist": "Gorillaz",
+      "title": "Stylo (feat. Mos Def and Bobby Womack)",
+      "services": {
+        "qobuz": "35543673"
+      },
+      "album": "Plastic Beach",
+      "duration": 271,
+      "isrc": "GBAYE1400436"
+    },
+    {
+      "artist": "Neil Quigley",
+      "title": "The Sky Calls To Us",
+      "services": {
+        "qobuz": "424934733"
+      },
+      "album": "Anjunadeep 09",
+      "duration": 320,
+      "isrc": "GBEWA1702677"
+    },
+    {
+      "artist": "Enamour",
+      "title": "Say Hello",
+      "services": {
+        "qobuz": "424962013"
+      },
+      "album": "Anjunadeep The Yearbook 2021",
+      "duration": 317,
+      "isrc": "GBEWA2200038"
+    },
+    {
+      "artist": "Ezequiel Arias",
+      "title": "Solar",
+      "services": {
+        "qobuz": "424990525"
+      },
+      "album": "25 Years Of Anjuna Mixed By James Grant",
+      "duration": 314,
+      "isrc": "GBEWA2506836"
+    },
+    {
+      "artist": "Duke Boara",
+      "title": "Rain",
+      "services": {
+        "qobuz": "112584879"
+      },
+      "album": "Rain",
+      "duration": 222,
+      "isrc": "GB2DY2100023"
+    },
+    {
+      "artist": "Franky Wah",
+      "title": "Boundaries",
+      "services": {
+        "qobuz": "424973034"
+      },
+      "album": "Anjunadeep presents 'Sunrise Deep House' (DJ Mix)",
+      "duration": 366,
+      "isrc": "GBEWA2303532"
+    },
+    {
+      "artist": "Michael FK",
+      "title": "Lost in Your Memory",
+      "services": {
+        "qobuz": "129805588"
+      },
+      "album": "Compilation (Silver Edition)",
+      "duration": 246,
+      "isrc": "QZBRF1863371"
+    },
+    {
+      "artist": "Westseven",
+      "title": "Realisation",
+      "services": {
+        "qobuz": "132820836"
+      },
+      "album": "Out Of Sight / Realisation",
+      "duration": 425,
+      "isrc": "GBLV62102617"
+    },
+    {
+      "artist": "Steven Weston",
+      "title": "Like I Used To (ABGT659)",
+      "services": {
+        "qobuz": "424989375"
+      },
+      "album": "Group Therapy 659 (DJ Mix)",
+      "duration": 260,
+      "isrc": "GBEWA2600041"
+    },
+    {
+      "artist": "Pink Floyd",
+      "title": "High Hopes",
+      "services": {
+        "qobuz": "47683894"
+      },
+      "album": "The Division Bell",
+      "duration": 511,
+      "isrc": "GBN9X1100022"
+    },
+    {
+      "artist": "Nils Hoffmann",
+      "title": "9 Days",
+      "services": {
+        "qobuz": "424974422"
+      },
+      "album": "Anjunadeep Essentials (DJ Mix)",
+      "duration": 318,
+      "isrc": "GBEWA2305342"
+    },
+    {
+      "artist": "Zyellez",
+      "title": "YOUR HEAD ON HER SHOULDER... WHY NOT MINE?~",
+      "services": {
+        "qobuz": "428206019"
+      },
+      "album": "LOVE WITHOUT A HEART IS JUST LUST",
+      "duration": 144,
+      "isrc": "QT6E82612810"
+    },
+    {
+      "artist": "S\u00e3o Miguel",
+      "title": "Hope In Balance",
+      "services": {
+        "qobuz": "424963679"
+      },
+      "album": "Hope In Balance (Jody Wisternoff & James Grant Remix)",
+      "duration": 334,
+      "isrc": "GBEWA2201770"
+    },
+    {
+      "artist": "Juno Mamba",
+      "title": "Us",
+      "services": {
+        "qobuz": "424969326"
+      },
+      "album": "Anjunadeep The Yearbook 2022",
+      "duration": 227,
+      "isrc": "GBEWA2207040"
+    },
+    {
+      "artist": "Makebo",
+      "title": "Back To The Roots",
+      "services": {
+        "qobuz": "378249026"
+      },
+      "album": "Armada Electronic Elements, 2023",
+      "duration": 286,
+      "isrc": "GBEWA2202590"
+    },
+    {
+      "artist": "Max Richter",
+      "title": "Richter: Dream 13",
+      "services": {
+        "qobuz": "29909415"
+      },
+      "album": "Sleep",
+      "duration": 202,
+      "isrc": "DEN961500412"
+    },
+    {
+      "artist": "Arashi",
+      "title": "Love so sweet : Reborn",
+      "services": {
+        "qobuz": "92680610"
+      },
+      "album": "Love so sweet : Reborn",
+      "duration": 206,
+      "isrc": "JPQ402000760"
+    },
+    {
+      "artist": "Natascha Polke",
+      "title": "Loose Lips",
+      "services": {
+        "qobuz": "424971480"
+      },
+      "album": "Anjunadeep 14",
+      "duration": 238,
+      "isrc": "GBEWA2301574"
+    },
+    {
+      "artist": "Claxy",
+      "title": "Closer",
+      "services": {
+        "qobuz": "424971482"
+      },
+      "album": "Anjunadeep 14",
+      "duration": 317,
+      "isrc": "GBEWA2301576"
+    },
+    {
+      "artist": "Sebastian Sellares",
+      "title": "Lullaby of the Seraphim",
+      "services": {
+        "qobuz": "424971486"
+      },
+      "album": "Anjunadeep 14",
+      "duration": 309,
+      "isrc": "GBEWA2301580"
+    },
+    {
+      "artist": "Legato",
+      "title": "Petals",
+      "services": {
+        "qobuz": "424971487"
+      },
+      "album": "Anjunadeep 14",
+      "duration": 309,
+      "isrc": "GBEWA2301581"
+    },
+    {
+      "artist": "Blake.08",
+      "title": "Eyes Ablaze",
+      "services": {
+        "qobuz": "424973023"
+      },
+      "album": "Eyes Ablaze EP",
+      "duration": 196,
+      "isrc": "GBEWA2303950"
+    },
+    {
+      "artist": "Ray Joseph",
+      "title": "Blue Nights",
+      "services": {
+        "qobuz": "424971505"
+      },
+      "album": "Anjunadeep 14",
+      "duration": 257,
+      "isrc": "GBEWA2301599"
+    },
+    {
+      "artist": "Romain Garcia",
+      "title": "Kili",
+      "services": {
+        "qobuz": "424971512"
+      },
+      "album": "Anjunadeep 14",
+      "duration": 255,
+      "isrc": "GBEWA2301606"
+    },
+    {
+      "artist": "Parallel Voices",
+      "title": "Your Love",
+      "services": {
+        "qobuz": "424977849"
+      },
+      "album": "Anjunadeep 15",
+      "duration": 194,
+      "isrc": "GBEWA2402620"
+    },
+    {
+      "artist": "MOTSA",
+      "title": "Feel This Way",
+      "services": {
+        "qobuz": "424977853"
+      },
+      "album": "Anjunadeep 15",
+      "duration": 327,
+      "isrc": "GBEWA2402624"
+    },
+    {
+      "artist": "Rezident",
+      "title": "Miracle",
+      "services": {
+        "qobuz": "424977859"
+      },
+      "album": "Anjunadeep 15",
+      "duration": 294,
+      "isrc": "GBEWA2402630"
+    },
+    {
+      "artist": "ANUQRAM",
+      "title": "This Beat",
+      "services": {
+        "qobuz": "424977860"
+      },
+      "album": "Anjunadeep 15",
+      "duration": 340,
+      "isrc": "GBEWA2402631"
+    },
+    {
+      "artist": "Jakatta",
+      "title": "American Dream",
+      "services": {
+        "qobuz": "424977862"
+      },
+      "album": "Anjunadeep 15",
+      "duration": 247,
+      "isrc": "GBEWA2402633"
+    },
+    {
+      "artist": "Kasablanca",
+      "title": "Daydream",
+      "services": {
+        "qobuz": "424977864"
+      },
+      "album": "Anjunadeep 15",
+      "duration": 178,
+      "isrc": "GBEWA2402635"
+    },
+    {
+      "artist": "Kloyd",
+      "title": "Will We Ever Learn",
+      "services": {
+        "qobuz": "424990190"
+      },
+      "album": "Anjunadeep 16",
+      "duration": 206,
+      "isrc": "GBEWA2600270"
+    },
+    {
+      "artist": "Orbit",
+      "title": "You",
+      "services": {
+        "qobuz": "350762728"
+      },
+      "album": "Countless Feelings But So Few Words",
+      "duration": 242,
+      "isrc": "QMDA72554549"
+    },
+    {
+      "artist": "Fejk\u00e1",
+      "title": "Maara",
+      "services": {
+        "qobuz": "322216039"
+      },
+      "album": "Azur",
+      "duration": 236,
+      "isrc": "DEINP2400001"
+    },
+    {
+      "artist": "Klangsberg",
+      "title": "Wavelost",
+      "services": {
+        "qobuz": "424990197"
+      },
+      "album": "Anjunadeep 16",
+      "duration": 204,
+      "isrc": "GBEWA2600277"
+    },
+    {
+      "artist": "Spencer Brown",
+      "title": "Comeback Kids",
+      "services": {
+        "qobuz": "424990465"
+      },
+      "album": "Comeback Kids / Sweat Equity",
+      "duration": 396,
+      "isrc": "GBEWA2601050"
+    },
+    {
+      "artist": "Melarmony",
+      "title": "Don't Let Me Go",
+      "services": {
+        "qobuz": "424991011"
+      },
+      "album": "Don't Let Me Go EP",
+      "duration": 218,
+      "isrc": "GBEWA2601270"
+    }
+  ]
+}

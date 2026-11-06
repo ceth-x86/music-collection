@@ -1,0 +1,108 @@
+# Genre: Doom Metal
+
+Imported genre playlist: Doom Metal.
+
+Services: `qobuz:66735594` `tidal:ea26d47a-9e36-460a-9038-e47cf1e8ab21`
+
+## Tracks (100)
+
+- **Black Sabbath** — Paranoid [Greatest Hits] (2:48) `isrc:GBAJE7000057` `qobuz:8816871`
+- **Witchfinder General** — Death Penalty [Death Penalty] (5:35) `isrc:GBACD1700803` `qobuz:279536710`
+- **Trouble** — Psalm 9 [Psalm 9 (Remastered 2020)] (4:48) `isrc:QM6MZ2009985` `qobuz:143024463`
+- **Anechoic Chamber Music** — The Black Hole Road [Thoroughfares And Blind Alleys] (12:46) `isrc:CAGOO2586019` `qobuz:402283568`
+- **Pentagram** — Forever My Queen [First Daze Here (Reissue)] (2:24) `isrc:US2641531101` `qobuz:32179346`
+- **Candlemass** — Solitude [Epicus Doomicus Metallicus] (5:38) `isrc:GBCQV0700944` `qobuz:50989783`
+- **Paul Chain Violet Theatre** — Welcome to My Hell [In the Darkness] (4:06) `isrc:USCGH1736631` `qobuz:84898218`
+- **Saint Vitus** — Born Too Late [Born Too Late] (6:53) `isrc:USA370539046` `qobuz:63487237`
+- **Dream Death** — Sealed In Blood [Journey Into Mystery] (6:26) `isrc:USGXD0612507` `qobuz:14974859`
+- **Count Raven** — The Poltergeist [Mammons War] (4:24) `isrc:SE3TG1300701` `qobuz:316855745`
+- **Cathedral** — Ebony Tears [Forest of Equilibrium] (7:46) `isrc:GBBPB0401851` `qobuz:22873087`
+- **Confessor** — Condemned [Sour Times] (4:40) `isrc:FR33T0510703` `qobuz:77775021`
+- **Révélation** — Salvation's Answer [Salvation's Answer] (8:24) `isrc:GBMLU9300602` `qobuz:114278471`
+- **Solitude Aeturnus** — Mirror Of Sorrow [Into the Depths of Sorrow] (7:37) `isrc:NLA321800212` `qobuz:53387028`
+- **Famous Last Words** — Banish - Famous Last Words [Dissenting Soundscapes and Songs of G.W.'s America] (4:28) `isrc:USHM20589765` `qobuz:98546458`
+- **Unorthodox** — Suicide King [Asylum] (2:59) `isrc:USHM81367438` `qobuz:97388088`
+- **Veni Domine** — Wisdom Calls (2024 Version) [Fall Babylon Fall] (8:18) `isrc:USY242429910` `qobuz:302843819`
+- **Devotchka** — Blessing in Disguise [A Mad And Faithful Telling] (5:48) `isrc:USEP40728107` `qobuz:77651541`
+- **Memento Mori** — The Riddle [Rhymes of Lunacy] (1:54) `isrc:SEXHQ9300410` `qobuz:179354594`
+- **Iron Man** — The Passage [The Passage] (0:48) `isrc:USKUT1003405` `qobuz:78777650`
+- **Solstice** — Earthsong 2025 [Clann] (7:14) `isrc:QAP6X2500045` `qobuz:370772219`
+- **Cleo Sol** — Golden Child (Jealous) [Heaven] (3:27) `isrc:UKMEH2300196` `qobuz:227432405`
+- **Abstrakt Algebra** — Stigmata [Abstrakt Algebra] (5:42) `isrc:SEWFK2205001` `qobuz:183050801`
+- **Memory Garden** — The Innocent Sleep [Tides] (4:51) `isrc:NLW500923006` `qobuz:56310578`
+- **Jeanette Kohn** — Recitative. Men inte heller nu/Arioso. Det är jag [En svensk Markuspassion] (2:05) `isrc:SEAGA0802270` `qobuz:306191062`
+- **Scald** — Night Sky [Will of the Gods is a Great Power] (9:12) `isrc:IT0501601701` `qobuz:79714049`
+- **Dawn Of Winter** — Where Low The Ravens Fly [In the Valley of Tears] (4:36) `isrc:SE3TG1700605` `qobuz:318013174`
+- **Pagan Altar** — Judgement of the Dead [Judgement of the Dead] (7:52) `isrc:QM6MZ2543777` `qobuz:352819640`
+- **While Heaven Wept** — Thus With A Kiss I Die [Sorrow Of The Angels] (16:58) `isrc:USX9P0958932` `qobuz:99304059`
+- **Doomsword** — Claidheamh Solais (Sword of Light) [My Name Will Live On] (6:42) `isrc:IT0500414005` `qobuz:45612481`
+- **Pale Divine** — Spinning Wheel [Pale Divine] (5:20) `isrc:USL4Q1856343` `qobuz:64183695`
+- **Andrea Krux** — White Tundra [Ethnic Female Vocals] (2:50) `isrc:QZHNC2277318` `qobuz:159290858`
+- **Reverend Bizarre** — Doom Over The World [II: Crush the Insects] (7:37) `isrc:FISFS0500067` `qobuz:195659395`
+- **Massive Attack** — Teardrop [Mezzanine] (5:30) `isrc:GBAAA9800322` `qobuz:1066045`
+- **Spiritus Mortis** — Doom Mood [Spiritus Mortis] (0:57) `isrc:FIFX91006505` `qobuz:77360896`
+- **Isole** — Forevermore [Forevermore] (6:05) `isrc:NLWJ22300041` `qobuz:185432705`
+- **Mirror Of Deception** — Haunted [Shards] (5:44) `isrc:DEOJ90600001` `qobuz:22394619`
+- **Warning** — Footprints [Watching from a Distance] (7:31) `isrc:GBLFP1795021` `qobuz:348211393`
+- **Hour Of 13** — The Gathering / Call to Satan [Salt the Dead: The Rare and Unreleased] (6:20) `isrc:USHM81792776` `qobuz:78042313`
+- **Isen Torr** — Mighty & Superior [Mighty & Superior] (8:54) `isrc:UK4MC2100070` `qobuz:170817855`
+- **Pink Floyd** — Astronomy Domine [The Piper at the Gates of Dawn] (4:11) `isrc:GBN9Y1100001` `qobuz:47683476`
+- **Atlantean Kodex** — Sol Invictus [The White Goddess] (10:55) `isrc:ITI291306302` `qobuz:74128028`
+- **Jex Thoth** — Nothing Left to Die [Jex Thoth] (5:09) `isrc:SE3TG1300401` `qobuz:315275957`
+- **Argus** — A Curse On The World [Boldly Stride the Doomed] (5:25) `isrc:ITI291105102` `qobuz:74148150`
+- **The Central Park North** — Between the Devil and the Deep Blue Sea [Between the Devil and the Deep Blue Sea] (3:35) `isrc:SE5W32305181` `qobuz:196208042`
+- **Altar of Oblivion** — Where Darkness Is Light [Grand Gesture of Defiance] (7:01) `isrc:USKUT1205601` `qobuz:66149395`
+- **Pilgrim** — Quest [Misery Wizard] (9:52) `isrc:USMBR1208716` `qobuz:60752988`
+- **Avatarium** — Moonhorse [Avatarium] (8:41) `isrc:DED831300553` `qobuz:60746085`
+- **Procession** — To Reap Heavens Apart [To Reap Heavens Apart] (9:21) `isrc:DEQN41300012` `qobuz:91725824`
+- **Below** — Bid You Farewell [Across the Dark River] (5:47) `isrc:USMBR1310386` `qobuz:60886980`
+- **The Midnight** — Love Is an Ocean [Syndicate] (5:22) `isrc:USUS12500062` `qobuz:359480983`
+- **Mavis Staples** — Wide River To Cross [Carry Me Home] (5:08) `isrc:USEP42175009` `qobuz:147361638`
+- **Crypt Sermon** — Temple Doors [Out of the Garden] (6:44) `isrc:QM6N21477199` `qobuz:83567640`
+- **Sorcerer** — The Dark Tower of the Sorcerer [In the Shadow of the Inverted Cross] (6:21) `isrc:USMBR1511036` `qobuz:60686263`
+- **Messa** — Leah [Feast for Water] (8:09) `isrc:ITJ351801648` `qobuz:53770786`
+- **Smoulder** — Ilian of Garathorm [Times of Obscene Evil and Wild Daring] (6:29) `isrc:ITI291901201` `qobuz:60071501`
+- **Apostle Of Solitude** — When the Darkness Comes [Until the Darkness Goes] (5:54) `isrc:ITI292101801` `qobuz:131418220`
+- **Khemmis** — Living Pyre [Deceiver] (5:12) `isrc:DED832100252` `qobuz:128464437`
+- **Pallbearer** — Where The Light Fades [Mind Burns Alive] (6:39) `isrc:DED832300704` `qobuz:254635338`
+- **Angel of Damnation** — Warning From The Sky [Ethereal Blasphemy] (5:36) `isrc:QM6N22555814` `qobuz:329337787`
+- **Thergothon** — Everlasting [Stream From The Heavens] (6:07) `isrc:GBCQV0900469` `qobuz:50995497`
+- **Funeral** — Taarene [Tragedies] (12:24) `isrc:USI4R0809575` `qobuz:177591314`
+- **Skepticism** — The March and the Stream [Lead and Aether] (10:34) `isrc:FI7S52100173` `qobuz:130335114`
+- **Shape Of Despair** — Angels of Distress [Angels Of Distress] (9:42) `isrc:FIUM71000132` `qobuz:195587541`
+- **Bobby O** — She Has A Way [Freedom In An Unfree World] (5:53) `isrc:USBKY0526575` `qobuz:60454769`
+- **Daniel Spaleniak** — One Last Thing Before We Immerse [Tape V] (1:25) `isrc:GBPVV2204166` `qobuz:146094077`
+- **Monolithe** — Monolithe I [Monolithe I] (51:59) `isrc:CH6542214106` `qobuz:312714171`
+- **Tyranny** — Sonorous Howl from Beyond the Stars [Tides of Awakening] (11:41) `isrc:USI4R0809595` `qobuz:71570985`
+- **Shintaro Sakamoto** — A Gleam Of Hope [How To Live With A Phantom] (3:26) `isrc:JPZ921110452` `qobuz:163659744`
+- **Evoken** — In Solitary Ruin [Antithesis of Light] (10:46) `isrc:GBCQV1100014` `qobuz:51131333`
+- **Mournful Congregation** — The Monad of Creation [The Monad of Creation] (20:55) `isrc:FR4E61300360` `qobuz:7985159`
+- **Ahab** — Below the Sun [The Call Of The Wretched Seas] (11:45) `isrc:ATN260619801` `qobuz:28458254`
+- **Doom:VS** — Aeternus [Aeternum Vale] (12:26) `isrc:CH6542058865` `qobuz:94613223`
+- **Gustavo Dudamel** — X. The Great Gate of Kiev [Mussorgsky : Pictures at an Exhibition] (5:40) `isrc:DEN961630515` `qobuz:35087191`
+- **Esoteric** — Circle [The Maniacal Vale] (20:45) `isrc:GBGWQ0800001` `qobuz:77774749`
+- **The Howling Void** — The Womb Beyond the World [The Womb Beyond the World] (14:19) `isrc:CH6542059151` `qobuz:94853997`
+- **Lycus** — Solar Chamber [Chasms] (10:41) `isrc:US2641631601` `qobuz:28231593`
+- **Bell Witch** — Mirror Reaper [Mirror Reaper] (83:15) `isrc:USN681710071` `qobuz:224909765`
+- **Un** — A Garden Where Nothing Grows [Sentiment] (15:33) `isrc:USCHW1813604` `qobuz:50801606`
+- **Atramentus** — Stygian I: From Tumultuous Heavens... (Descended Forth the Ceaseless Darkness) [Stygian] (16:28) `isrc:USJE72013501` `qobuz:96855432`
+- **Symphony X** — Paradise Lost [Paradise Lost] (6:32) `isrc:QM3MF1900105` `qobuz:125574265`
+- **Winter** — Servants of the Warsmen [Into Darkness] (4:23) `isrc:QM4TX2099149` `qobuz:91985985`
+- **Tiamat** — The Sleeping Beauty [Clouds] (4:10) `isrc:US4E40473605` `qobuz:47536588`
+- **Anathema** — Sleepless [Serenades] (4:11) `isrc:GBCQV9300014` `qobuz:50990028`
+- **Decomposed** — At Rest [Hope Finally Died...] (6:43) `isrc:GBADD9300304` `qobuz:190290711`
+- **Disembowelment** — The Tree of Life and Death [Transcendence Into the Peripheral / Dusk] (10:25) `isrc:US2640560401` `qobuz:60622064`
+- **Katatonia** — Gateways of Bereavement [Dance of December Souls] (8:15) `isrc:GBCQV0700276` `qobuz:50989770`
+- **My Dying Bride** — The Cry of Mankind [The Angel & The Dark River] (12:13) `isrc:GBCQV9500064` `qobuz:50991147`
+- **Rippikoulu** — Musta seremonia [Musta Seremonia] (6:24) `isrc:DEZ651342485` `qobuz:85898779`
+- **Slash** — The Unholy [World on Fire] (6:48) `isrc:US9T51400017` `qobuz:17132413`
+- **October Tide** — 12 Days Of Rain [12 Days Of Rain] (7:08) `isrc:SE5S62108201` `qobuz:137925962`
+- **SATURNUS** — Paradise Belongs To You [Paradise Belongs To You] (10:14) `isrc:DKFDD9600401` `qobuz:58080527`
+- **Runemagick** — Enter the Realm of Death [Enter the Realm of Death] (6:09) `isrc:GBDHC0502542` `qobuz:27568959`
+- **Camille Thomas** — Purcell: Dido and Aeneas, Z. 626 / Act III: "When I Am Laid in Earth" Dido's Lamento (Arr. by Mathieu Herzog for Cello and Strings) [Voice Of Hope] (3:48) `isrc:DEN961903650` `qobuz:87240333`
+- **Swallow The Sun** — Through Her Silvery Body [The Morning Never Came] (8:42) `isrc:FIFX90300029` `qobuz:190485382`
+- **Coffins** — Buried Death [Buried Death] (3:31) `isrc:USJE70810036` `qobuz:52192080`
+- **Novembers Doom** — The Pale Haunt Departure [The Pale Haunt Departure] (5:44) `isrc:US2420505201` `qobuz:189584180`
+- **A Dream Of Poe** — Lighthouses for the Dead [An Infinity Emerged] (10:27) `isrc:CH6451507019` `qobuz:29606349`
+- **Mourning Beloveth** — Narcissistic Funeral [The Sullen Sulcus] (13:33) `isrc:QZHNA2234526` `qobuz:157661906`
+- **Hooded Menace** — Fulfill the Curse [Gloom Immemorial] (6:55) `isrc:DEZ651350944` `qobuz:156736794`

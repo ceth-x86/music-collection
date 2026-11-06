@@ -1,0 +1,970 @@
+{
+  "name": "Genre: Deep House",
+  "services": {
+    "qobuz": "66715573",
+    "tidal": "3e1c0ef0-9732-4fd7-b380-eb622ccd6bf8"
+  },
+  "description": "Imported genre playlist: Deep House.",
+  "tracks": [
+    {
+      "artist": "Turbonegro",
+      "title": "Intro The Party Zone",
+      "services": {
+        "qobuz": "77645166"
+      },
+      "album": "Party Animals",
+      "duration": 120,
+      "isrc": "SEVHC0502010"
+    },
+    {
+      "artist": "Ladies of Soul feat. Berget Lewis & Glennis Grace & Edsilia Rombley & Candy Dulfer",
+      "title": "Final Hits Medley (I Feel It Coming/No Scrubs/Where Is The Love?/Shape Of You/Feels/Rockabye/I Want Your Love/Signs/Heartbreak Hotel/Groove Is In The Heart/Cheerleader/Follow The Leader/Locked Out Of Heaven)",
+      "services": {
+        "qobuz": "52749698"
+      },
+      "album": "Ladies of Soul Live at the Ziggo Dome 2018",
+      "duration": 990,
+      "isrc": "NLXV41800031"
+    },
+    {
+      "artist": "Nalin & Kane",
+      "title": "Beachball",
+      "services": {
+        "qobuz": "91640887"
+      },
+      "album": "Beachball",
+      "duration": 234,
+      "isrc": "DEN061600817"
+    },
+    {
+      "artist": "The Beatles",
+      "title": "All You Need Is Love",
+      "services": {
+        "qobuz": "30369109"
+      },
+      "album": "Magical Mystery Tour",
+      "duration": 230,
+      "isrc": "GBAYE0601643"
+    },
+    {
+      "artist": "Miguel Campbell",
+      "title": "Something Special",
+      "services": {
+        "qobuz": "202815936"
+      },
+      "album": "Back in Flight School",
+      "duration": 282,
+      "isrc": "GBK6Y1111002"
+    },
+    {
+      "artist": "Betoko",
+      "title": "U So Fine",
+      "services": {
+        "qobuz": "7123735"
+      },
+      "album": "U So Fine EP",
+      "duration": 380,
+      "isrc": "USNRS1230320"
+    },
+    {
+      "artist": "Dusky",
+      "title": "Careless",
+      "services": {
+        "qobuz": "17718826"
+      },
+      "album": "Careless",
+      "duration": 391,
+      "isrc": "GBJPB0500377"
+    },
+    {
+      "artist": "Route 94",
+      "title": "My Love (feat. Jess Glynne)",
+      "services": {
+        "qobuz": "24438356"
+      },
+      "album": "I Cry When I Laugh (Deluxe)",
+      "duration": 262,
+      "isrc": "GBAHS1500236"
+    },
+    {
+      "artist": "Maya Jane Coles",
+      "title": "What They Say",
+      "services": {
+        "qobuz": "168871173"
+      },
+      "album": "What They Say EP",
+      "duration": 400,
+      "isrc": "GBKPL1417035"
+    },
+    {
+      "artist": "Txomin Navarro",
+      "title": "Double Trouble",
+      "services": {
+        "qobuz": "418446040"
+      },
+      "album": "5 latidos",
+      "duration": 239,
+      "isrc": "QT5M52582620"
+    },
+    {
+      "artist": "Yes",
+      "title": "No Opportunity Necessary, No Experience Needed",
+      "services": {
+        "qobuz": "2942772"
+      },
+      "album": "Time and a Word",
+      "duration": 282,
+      "isrc": "USEE10251873"
+    },
+    {
+      "artist": "African Head Charge",
+      "title": "Push Me Pull You",
+      "services": {
+        "qobuz": "217520541"
+      },
+      "album": "A Trip To Bolgatanga",
+      "duration": 229,
+      "isrc": "GB5P59700062"
+    },
+    {
+      "artist": "Empire Of The Sun",
+      "title": "Walking On A Dream",
+      "services": {
+        "qobuz": "1746721"
+      },
+      "album": "Walking On A Dream",
+      "duration": 198,
+      "isrc": "AUEI10800039"
+    },
+    {
+      "artist": "Philip Cohran & The Artistic Heritage Ensemble",
+      "title": "Ain't Nobody Gonna Treat Us Like They Used to Do - The Spencer Jackson Family",
+      "services": {
+        "qobuz": "54337036"
+      },
+      "album": "The Zulu 45s Collection",
+      "duration": 168,
+      "isrc": "GBCTF1000078"
+    },
+    {
+      "artist": "Charli XCX",
+      "title": "Roll with Me",
+      "services": {
+        "qobuz": "39060444"
+      },
+      "album": "Number 1 Angel",
+      "duration": 202,
+      "isrc": "GBAHS1700243"
+    },
+    {
+      "artist": "Joe Louis Walker",
+      "title": "Bliss Street Blues",
+      "services": {
+        "qobuz": "7245294"
+      },
+      "album": "Guitar Brothers (10th Anniversary Reissue)",
+      "duration": 292,
+      "isrc": "GBAJD1182909"
+    },
+    {
+      "artist": "Ninetoes",
+      "title": "Finder",
+      "services": {
+        "qobuz": "334921525"
+      },
+      "album": "Ibiza Fever by Bob Sinclar",
+      "duration": 206,
+      "isrc": "DENC31800057"
+    },
+    {
+      "artist": "Nothing But Thieves",
+      "title": "Take This Lonely Heart",
+      "services": {
+        "qobuz": "52838742"
+      },
+      "album": "What Did You Think When You Made Me This Way?",
+      "duration": 241,
+      "isrc": "GBARL1801209"
+    },
+    {
+      "artist": "Ronnie Milsap",
+      "title": "Any Day Now",
+      "services": {
+        "qobuz": "62815932"
+      },
+      "album": "The Best Of Ronnie Milsap",
+      "duration": 221,
+      "isrc": "USRN19400367"
+    },
+    {
+      "artist": "Sirs",
+      "title": "Check It out Heritage",
+      "services": {
+        "qobuz": "40134180"
+      },
+      "album": "Check It out Heritage",
+      "duration": 458,
+      "isrc": "DEPI81700690"
+    },
+    {
+      "artist": "Dam Swindle",
+      "title": "Coffee in the Morning",
+      "services": {
+        "qobuz": "195086685"
+      },
+      "album": "Coffee in the Morning",
+      "duration": 225,
+      "isrc": "NLYV52000014"
+    },
+    {
+      "artist": "Chris Stussy",
+      "title": "Seeing & Believing",
+      "services": {
+        "qobuz": "233709415"
+      },
+      "album": "Across Ocean",
+      "duration": 211,
+      "isrc": "DEY472085295"
+    },
+    {
+      "artist": "Flea",
+      "title": "Traffic Lights (feat. Thom Yorke)",
+      "services": {
+        "qobuz": "382811303"
+      },
+      "album": "Honora",
+      "duration": 341,
+      "isrc": "USNO12500454"
+    },
+    {
+      "artist": "Chris Stussy",
+      "title": "Breather",
+      "services": {
+        "qobuz": "388068027"
+      },
+      "album": "Get Together",
+      "duration": 465,
+      "isrc": "UKACT2130817"
+    },
+    {
+      "artist": "Fred again..",
+      "title": "Marea (we\u2019ve lost dancing)",
+      "services": {
+        "qobuz": "118331198"
+      },
+      "album": "Actual Life (April 14 - December 17 2020)",
+      "duration": 285,
+      "isrc": "GBAHS2100041"
+    },
+    {
+      "artist": "Oden & Fatzo",
+      "title": "Lauren (I Can't Stay Forever)",
+      "services": {
+        "qobuz": "146983896"
+      },
+      "album": "Lauren (I Can't Stay Forever)",
+      "duration": 396,
+      "isrc": "DEE862102284"
+    },
+    {
+      "artist": "Chris Stussy",
+      "title": "All Night Long",
+      "services": {
+        "qobuz": "210817086"
+      },
+      "album": "All Night Long",
+      "duration": 234,
+      "isrc": "USZXT2351303"
+    },
+    {
+      "artist": "Chris Stussy",
+      "title": "Desire",
+      "services": {
+        "qobuz": "265321009"
+      },
+      "album": "Desire",
+      "duration": 171,
+      "isrc": "QM4TW2437510"
+    },
+    {
+      "artist": "Killer Be Killed",
+      "title": "Deconstructing Self-Destruction",
+      "services": {
+        "qobuz": "99981836"
+      },
+      "album": "Reluctant Hero",
+      "duration": 273,
+      "isrc": "DED832000642"
+    },
+    {
+      "artist": "ANOTR",
+      "title": "How You Feel (ft Leven Kali)",
+      "services": {
+        "qobuz": "312488762"
+      },
+      "album": "On A Trip",
+      "duration": 197,
+      "isrc": "USZXT2454115"
+    },
+    {
+      "artist": "Dennis Quin",
+      "title": "Treat You Right",
+      "services": {
+        "qobuz": "273019359"
+      },
+      "album": "Treat You Right",
+      "duration": 236,
+      "isrc": "GBKQU2449478"
+    },
+    {
+      "artist": "R\u00dcF\u00dcS DU SOL",
+      "title": "Lately",
+      "services": {
+        "qobuz": "339235305"
+      },
+      "album": "Inhale / Exhale Remixed, Vol. 2",
+      "duration": 216,
+      "isrc": "USRE12400439"
+    },
+    {
+      "artist": "Tom\u00e0n",
+      "title": "De Bongo Man",
+      "services": {
+        "qobuz": "279765084"
+      },
+      "album": "Dolce Far Niente",
+      "duration": 390,
+      "isrc": "GBKQU2469933"
+    },
+    {
+      "artist": "Mario Brunello",
+      "title": "Violin Sonata No. 3 in C Major, BWV 1005 (Arr. for Two Piccolo Cellos): I. Adagio",
+      "services": {
+        "qobuz": "376450017"
+      },
+      "album": "J. S. Bach on Nine Strings. Suite, Partita and Sonata for Two Piccolo Cellos",
+      "duration": 283,
+      "isrc": "FR46Y2559001"
+    },
+    {
+      "artist": "Booker T. & The M.G.'s",
+      "title": "Hang 'Em High",
+      "services": {
+        "qobuz": "62070612"
+      },
+      "album": "Soul Limbo",
+      "duration": 239,
+      "isrc": "USFI86800040"
+    },
+    {
+      "artist": "Gaskin",
+      "title": "Closer",
+      "services": {
+        "qobuz": "388435858"
+      },
+      "album": "Closer",
+      "duration": 234,
+      "isrc": "UKU932482797"
+    },
+    {
+      "artist": "Max Dean",
+      "title": "Can't Decide",
+      "services": {
+        "qobuz": "340452621"
+      },
+      "album": "Can't Decide",
+      "duration": 326,
+      "isrc": "GBAHT2500239"
+    },
+    {
+      "artist": "Brunello",
+      "title": "Melted",
+      "services": {
+        "qobuz": "400942300"
+      },
+      "album": "Melted",
+      "duration": 457,
+      "isrc": "CA5KR2589098"
+    },
+    {
+      "artist": "Josh Baker",
+      "title": "Back It Up",
+      "services": {
+        "qobuz": "324672621"
+      },
+      "album": "Back It Up",
+      "duration": 156,
+      "isrc": "US38Y2512970"
+    },
+    {
+      "artist": "Abity",
+      "title": "Spaceship",
+      "services": {
+        "qobuz": "399116668"
+      },
+      "album": "Black Roses",
+      "duration": 375,
+      "isrc": "FR59R2604047"
+    },
+    {
+      "artist": "Sidney Charles",
+      "title": "Take It Back (To The Old School)",
+      "services": {
+        "qobuz": "365975222"
+      },
+      "album": "Take It Back EP",
+      "duration": 213,
+      "isrc": "GXG4Y2500031"
+    },
+    {
+      "artist": "Sosa UK",
+      "title": "Time Away",
+      "services": {
+        "qobuz": "349664111"
+      },
+      "album": "ENDZ061",
+      "duration": 177,
+      "isrc": "GBKQU2577951"
+    },
+    {
+      "artist": "Gennaro",
+      "title": "Te Conoci",
+      "services": {
+        "qobuz": "349663697"
+      },
+      "album": "Sensual Disguise EP",
+      "duration": 190,
+      "isrc": "GBKQU2579564"
+    },
+    {
+      "artist": "Josh Baker",
+      "title": "Come Closer (feat. Sienna Sophia)",
+      "services": {
+        "qobuz": "371169893"
+      },
+      "album": "Come Closer EP",
+      "duration": 206,
+      "isrc": "US39N2548888"
+    },
+    {
+      "artist": "OMRI.",
+      "title": "Nothing Wrong",
+      "services": {
+        "qobuz": "335265471"
+      },
+      "album": "Nothing Wrong",
+      "duration": 316,
+      "isrc": "GB7NR2533202"
+    },
+    {
+      "artist": "M-High",
+      "title": "Craving What Ain't Mine",
+      "services": {
+        "qobuz": "375773393"
+      },
+      "album": "Craving What Ain't Mine",
+      "duration": 402,
+      "isrc": "UKACT2540058"
+    },
+    {
+      "artist": "Mita Gami",
+      "title": "All By Myself",
+      "services": {
+        "qobuz": "305153863"
+      },
+      "album": "All By Myself",
+      "duration": 209,
+      "isrc": "QMFME2461184"
+    },
+    {
+      "artist": "Dam Swindle",
+      "title": "Backyard Galaxy",
+      "services": {
+        "qobuz": "357615080"
+      },
+      "album": "Backyard Galaxy",
+      "duration": 282,
+      "isrc": "NLYV52500064"
+    },
+    {
+      "artist": "Across Boundaries",
+      "title": "Sakura",
+      "services": {
+        "qobuz": "388426912"
+      },
+      "album": "Sakura",
+      "duration": 384,
+      "isrc": "UKU932581530"
+    },
+    {
+      "artist": "KETTAMA",
+      "title": "Yosemite",
+      "services": {
+        "qobuz": "349610029"
+      },
+      "album": "Yosemite (Philip George Remix)",
+      "duration": 275,
+      "isrc": "USZXT2557092"
+    },
+    {
+      "artist": "OMRI.",
+      "title": "Nothing Wrong (Love Mix)",
+      "services": {
+        "qobuz": "372464161"
+      },
+      "album": "Crosstown Rebels present Alive in '25 - The Best Of Crosstown Rebels 2025",
+      "duration": 205,
+      "isrc": "GB7NR2533201"
+    },
+    {
+      "artist": "Vernis Rouge",
+      "title": "James Bande",
+      "services": {
+        "qobuz": "347326331"
+      },
+      "album": "James Bande",
+      "duration": 179,
+      "isrc": "DEH742443295"
+    },
+    {
+      "artist": "Roland Clark",
+      "title": "I Get Deep",
+      "services": {
+        "qobuz": "411726243"
+      },
+      "album": "Get Physical Radio by Meloko",
+      "duration": 380,
+      "isrc": "DEBE72600270"
+    },
+    {
+      "artist": "High Beam",
+      "title": "Just What I Said (Everything In Its Right Place)",
+      "services": {
+        "qobuz": "333858472"
+      },
+      "album": "Just What I Said (Everything In Its Right Place)",
+      "duration": 196,
+      "isrc": "QZES52582870"
+    },
+    {
+      "artist": "Joss Dean",
+      "title": "Was I Loved?",
+      "services": {
+        "qobuz": "354537609"
+      },
+      "album": "Was I Loved?",
+      "duration": 193,
+      "isrc": "GB6LY1602010"
+    },
+    {
+      "artist": "JAKKOB",
+      "title": "And Back",
+      "services": {
+        "qobuz": "374039669"
+      },
+      "album": "And Back",
+      "duration": 370,
+      "isrc": "GBLV62524041"
+    },
+    {
+      "artist": "Mita Gami",
+      "title": "Happiness Is Too Finesse",
+      "services": {
+        "qobuz": "340348494"
+      },
+      "album": "Untouchable EP",
+      "duration": 219,
+      "isrc": "GB7NR2533403"
+    },
+    {
+      "artist": "Yuvee",
+      "title": "Freydies",
+      "services": {
+        "qobuz": "424984034"
+      },
+      "album": "Freydies EP",
+      "duration": 233,
+      "isrc": "GBEWA2501620"
+    },
+    {
+      "artist": "Nick Curly",
+      "title": "Attention",
+      "services": {
+        "qobuz": "370327645"
+      },
+      "album": "Joystick EP",
+      "duration": 227,
+      "isrc": "GBLV62516848"
+    },
+    {
+      "artist": "Cam Stockman",
+      "title": "Into My Life (feat. Joyce Sims)",
+      "services": {
+        "qobuz": "385459707"
+      },
+      "album": "Into My Life (feat. Joyce Sims)",
+      "duration": 131,
+      "isrc": "US39N2579920"
+    },
+    {
+      "artist": "Caleb Laurenson",
+      "title": "Beautiful Thing",
+      "services": {
+        "qobuz": "394104334"
+      },
+      "album": "Beautiful Thing",
+      "duration": 180,
+      "isrc": "US39N2624236"
+    },
+    {
+      "artist": "Gorge",
+      "title": "Come With Me",
+      "services": {
+        "qobuz": "390590236"
+      },
+      "album": "Keep On Movin' EP",
+      "duration": 400,
+      "isrc": "DEW872601548"
+    },
+    {
+      "artist": "Reboot",
+      "title": "No Danger",
+      "services": {
+        "qobuz": "388594592"
+      },
+      "album": "House Call EP",
+      "duration": 218,
+      "isrc": "GBKQU2603585"
+    },
+    {
+      "artist": "Sidney Charles",
+      "title": "On My Mind",
+      "services": {
+        "qobuz": "383421581"
+      },
+      "album": "On My Mind",
+      "duration": 192,
+      "isrc": "QM4TW2618724"
+    },
+    {
+      "artist": "Yorkshire By Nature",
+      "title": "How My World Spins (feat. Monster Moe)",
+      "services": {
+        "qobuz": "413725486"
+      },
+      "album": "How My World Spins (feat. Monster Moe)",
+      "duration": 208,
+      "isrc": "QZWFR2677976"
+    },
+    {
+      "artist": "Ruze",
+      "title": "Does Ya Momma Know?",
+      "services": {
+        "qobuz": "383581589"
+      },
+      "album": "Does Ya Momma Know?",
+      "duration": 171,
+      "isrc": "NL8RL2604140"
+    },
+    {
+      "artist": "Reboot",
+      "title": "Here We Go",
+      "services": {
+        "qobuz": "388594593"
+      },
+      "album": "House Call EP",
+      "duration": 247,
+      "isrc": "GBKQU2603586"
+    },
+    {
+      "artist": "Gorge",
+      "title": "Keep On Movin'",
+      "services": {
+        "qobuz": "390590237"
+      },
+      "album": "Keep On Movin' EP",
+      "duration": 369,
+      "isrc": "DEW872601550"
+    },
+    {
+      "artist": "Alexander Ross",
+      "title": "Life In A Northern Town",
+      "services": {
+        "qobuz": "212271721"
+      },
+      "album": "The Long Journey Home (Deluxe Version)",
+      "duration": 283,
+      "isrc": "GBVSJ2200015"
+    },
+    {
+      "artist": "Nick Curly",
+      "title": "Switching Levels",
+      "services": {
+        "qobuz": "382547671"
+      },
+      "album": "Switching Levels EP",
+      "duration": 378,
+      "isrc": "DEW872506837"
+    },
+    {
+      "artist": "Eric Luttrell",
+      "title": "On The Line (ABGT664)",
+      "services": {
+        "qobuz": "424989636"
+      },
+      "album": "Group Therapy 664 (DJ Mix)",
+      "duration": 199,
+      "isrc": "GBEWA2600733"
+    },
+    {
+      "artist": "Hector Couto",
+      "title": "Day By Day",
+      "services": {
+        "qobuz": "384438527"
+      },
+      "album": "Magic EP",
+      "duration": 209,
+      "isrc": "GBKQU2603309"
+    },
+    {
+      "artist": "oskar med k",
+      "title": "On The Ground",
+      "services": {
+        "qobuz": "383920442"
+      },
+      "album": "On The Ground",
+      "duration": 134,
+      "isrc": "US3DF2604849"
+    },
+    {
+      "artist": "Yuvee",
+      "title": "Set The Fire",
+      "services": {
+        "qobuz": "381916207"
+      },
+      "album": "Crosstown Rebels present SPIRITS VIII",
+      "duration": 325,
+      "isrc": "GB7NR2658205"
+    },
+    {
+      "artist": "Reboot",
+      "title": "Blues",
+      "services": {
+        "qobuz": "388594594"
+      },
+      "album": "House Call EP",
+      "duration": 233,
+      "isrc": "GBKQU2603587"
+    },
+    {
+      "artist": "Raz Alon",
+      "title": "Hey It's Me",
+      "services": {
+        "qobuz": "381916203"
+      },
+      "album": "Crosstown Rebels present SPIRITS VIII",
+      "duration": 351,
+      "isrc": "GB7NR2658201"
+    },
+    {
+      "artist": "Roberto Sol",
+      "title": "Good to Me",
+      "services": {
+        "qobuz": "26600661"
+      },
+      "album": "Hotel Aurora",
+      "duration": 271,
+      "isrc": "DEMQ11501162"
+    },
+    {
+      "artist": "Mihai Popoviciu",
+      "title": "The Shake",
+      "services": {
+        "qobuz": "373509360"
+      },
+      "album": "The Shake",
+      "duration": 386,
+      "isrc": "DEL022680004"
+    },
+    {
+      "artist": "Sidney Charles",
+      "title": "Till The Early Mornin",
+      "services": {
+        "qobuz": "383421584"
+      },
+      "album": "On My Mind",
+      "duration": 369,
+      "isrc": "QM4TW2621209"
+    },
+    {
+      "artist": "Sidney Charles",
+      "title": "Astral Express",
+      "services": {
+        "qobuz": "383421583"
+      },
+      "album": "On My Mind",
+      "duration": 397,
+      "isrc": "QM4TW2621208"
+    },
+    {
+      "artist": "Sidney Charles",
+      "title": "The Missing Link",
+      "services": {
+        "qobuz": "383421582"
+      },
+      "album": "On My Mind",
+      "duration": 370,
+      "isrc": "QM4TW2621207"
+    },
+    {
+      "artist": "Sandrop",
+      "title": "Ready To Go",
+      "services": {
+        "qobuz": "390591654"
+      },
+      "album": "Say It EP",
+      "duration": 240,
+      "isrc": "GXDGV2600014"
+    },
+    {
+      "artist": "Yuvee",
+      "title": "Nowhere To Hide",
+      "services": {
+        "qobuz": "391774047"
+      },
+      "album": "Nowhere To Hide",
+      "duration": 292,
+      "isrc": "GBKQU2615013"
+    },
+    {
+      "artist": "Natema",
+      "title": "Moon House",
+      "services": {
+        "qobuz": "294064791"
+      },
+      "album": "Moon House",
+      "duration": 346,
+      "isrc": "BXWGB2400001"
+    },
+    {
+      "artist": "Sam Goku",
+      "title": "x-plor09 (much to give)",
+      "services": {
+        "qobuz": "382928011"
+      },
+      "album": "Explorations 03",
+      "duration": 453,
+      "isrc": "DECY62600001"
+    },
+    {
+      "artist": "6th Borough Project",
+      "title": "The Deal",
+      "services": {
+        "qobuz": "382210082"
+      },
+      "album": "The Deal EP",
+      "duration": 247,
+      "isrc": "GBZHR2500467"
+    },
+    {
+      "artist": "Kepler.",
+      "title": "Life",
+      "services": {
+        "qobuz": "385246562"
+      },
+      "album": "Life",
+      "duration": 361,
+      "isrc": "UKACT2641083"
+    },
+    {
+      "artist": "Sonic Youth",
+      "title": "Plastic Sun",
+      "services": {
+        "qobuz": "33572090"
+      },
+      "album": "Murray Street",
+      "duration": 134,
+      "isrc": "USIR10210947"
+    },
+    {
+      "artist": "6th Borough Project",
+      "title": "The Hertz",
+      "services": {
+        "qobuz": "382210056"
+      },
+      "album": "The Hertz",
+      "duration": 266,
+      "isrc": "GBZHR2600466"
+    },
+    {
+      "artist": "Colau",
+      "title": "Back To Basics",
+      "services": {
+        "qobuz": "384515650"
+      },
+      "album": "Back To Basics",
+      "duration": 361,
+      "isrc": "UKM6J2600004"
+    },
+    {
+      "artist": "D'Julz",
+      "title": "J'Y Vais",
+      "services": {
+        "qobuz": "390653130"
+      },
+      "album": "JV",
+      "duration": 289,
+      "isrc": "GBKQU2604607"
+    },
+    {
+      "artist": "Trilucid",
+      "title": "Let Go Of Your Pain (ABGT660)",
+      "services": {
+        "qobuz": "424989428"
+      },
+      "album": "Group Therapy 660 (DJ Mix)",
+      "duration": 265,
+      "isrc": "GBEWA2600141"
+    },
+    {
+      "artist": "Marc Lenz",
+      "title": "After Shock",
+      "services": {
+        "qobuz": "387370102"
+      },
+      "album": "Breath",
+      "duration": 477,
+      "isrc": "GB7NR2661262"
+    },
+    {
+      "artist": "DJ Swella",
+      "title": "Next To Me",
+      "services": {
+        "qobuz": "397129830"
+      },
+      "album": "EP3",
+      "duration": 338,
+      "isrc": "NLL562604493"
+    },
+    {
+      "artist": "Lil' Son Jackson",
+      "title": "Get High Everybody",
+      "services": {
+        "qobuz": "7025547"
+      },
+      "album": "Lil' Son Jackson, Vol. 2",
+      "duration": 128,
+      "isrc": "USA561308015"
+    },
+    {
+      "artist": "Mihai Popoviciu",
+      "title": "Interplay",
+      "services": {
+        "qobuz": "373509362"
+      },
+      "album": "The Shake",
+      "duration": 330,
+      "isrc": "DEL022680006"
+    }
+  ]
+}

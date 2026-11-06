@@ -1,0 +1,89 @@
+{
+  "name": "Judas Priest",
+  "services": {
+    "qobuz": "66387028",
+    "tidal": "ca2bdbf9-9793-4bcc-8485-b58a57ff6993"
+  },
+  "tracks": [
+    {
+      "artist": "Judas Priest",
+      "title": "Exciter",
+      "services": {
+        "qobuz": "110722"
+      },
+      "album": "Stained Class",
+      "duration": 332,
+      "isrc": "GBBBN0102351"
+    },
+    {
+      "artist": "Judas Priest",
+      "title": "Better by You, Better Than Me",
+      "services": {
+        "qobuz": "110724"
+      },
+      "album": "Stained Class",
+      "duration": 202,
+      "isrc": "GBBBN0102353"
+    },
+    {
+      "artist": "Judas Priest",
+      "title": "Delivering the Goods",
+      "services": {
+        "qobuz": "111467"
+      },
+      "album": "Killing Machine",
+      "duration": 257,
+      "isrc": "GBBBN0102360"
+    },
+    {
+      "artist": "Judas Priest",
+      "title": "Rock Forever",
+      "services": {
+        "qobuz": "111468"
+      },
+      "album": "Killing Machine",
+      "duration": 199,
+      "isrc": "GBBBN0102361"
+    },
+    {
+      "artist": "Judas Priest",
+      "title": "Hell Bent for Leather",
+      "services": {
+        "qobuz": "111470"
+      },
+      "album": "Killing Machine",
+      "duration": 160,
+      "isrc": "GBBBN0102363"
+    },
+    {
+      "artist": "Judas Priest",
+      "title": "Breaking the Law",
+      "services": {
+        "qobuz": "100981"
+      },
+      "album": "British Steel",
+      "duration": 153,
+      "isrc": "GBBBN8000007"
+    },
+    {
+      "artist": "Judas Priest",
+      "title": "The Rage",
+      "services": {
+        "qobuz": "100986"
+      },
+      "album": "British Steel",
+      "duration": 284,
+      "isrc": "GBBBN8002009"
+    },
+    {
+      "artist": "Judas Priest",
+      "title": "Desert Plains",
+      "services": {
+        "qobuz": "101345"
+      },
+      "album": "Point Of Entry",
+      "duration": 274,
+      "isrc": "GBBBN8102004"
+    }
+  ]
+}

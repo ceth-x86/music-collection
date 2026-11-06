@@ -1,0 +1,1009 @@
+{
+  "name": "Genre: Industrial Folk",
+  "services": {
+    "qobuz": "66710318"
+  },
+  "description": "Imported genre playlist: Industrial Folk.",
+  "tracks": [
+    {
+      "artist": "Sol Invictus",
+      "title": "Against the Modern World",
+      "services": {
+        "qobuz": "189587146"
+      },
+      "album": "Against the Modern World",
+      "duration": 116,
+      "isrc": "DES561190803"
+    },
+    {
+      "artist": "Choeur Des Moines De L'Abbaye De Solesmes",
+      "title": "Comm : Pascha Nostrum (6), Lu 781 B",
+      "services": {
+        "qobuz": "146765101"
+      },
+      "album": "Gregorian Chant, Vol. 1",
+      "duration": 79,
+      "isrc": "USA371076971"
+    },
+    {
+      "artist": "Death In June",
+      "title": "But, What Ends When the Symbols Shatter?",
+      "services": {
+        "qobuz": "62629959"
+      },
+      "album": "But, What Ends When the Symbols Shatter?",
+      "duration": 195,
+      "isrc": "USI4R0606700"
+    },
+    {
+      "artist": "Holybrune",
+      "title": "A Song To Send Your Sadness Away",
+      "services": {
+        "qobuz": "122016684"
+      },
+      "album": "JoyRide",
+      "duration": 214,
+      "isrc": "FR96X2187779"
+    },
+    {
+      "artist": "Fire + Ice",
+      "title": "Gilded by the Sun",
+      "services": {
+        "qobuz": "189661921"
+      },
+      "album": "Gilded by the Sun",
+      "duration": 385,
+      "isrc": "USHM90788913"
+    },
+    {
+      "artist": "URNE",
+      "title": "To Die Twice",
+      "services": {
+        "qobuz": "209329538"
+      },
+      "album": "A Feast On Sorrow",
+      "duration": 352,
+      "isrc": "GBPVV2305012"
+    },
+    {
+      "artist": "Nature And Organisation",
+      "title": "Wicker Man Song",
+      "services": {
+        "qobuz": "26712950"
+      },
+      "album": "Snow Leopard Messiah",
+      "duration": 274,
+      "isrc": "DEZ901501284"
+    },
+    {
+      "artist": "Lise Davidsen",
+      "title": "R. Strauss: 8 Lieder aus Letzte Bl\u00e4tter, Op. 10: No. 8, Allerseelen",
+      "services": {
+        "qobuz": "376213785"
+      },
+      "album": "Live at the Met",
+      "duration": 167,
+      "isrc": "USY3P2409159"
+    },
+    {
+      "artist": "Strength Through Joy",
+      "title": "A Grave for Burning Wings",
+      "services": {
+        "qobuz": "71684566"
+      },
+      "album": "The Force of Truth and Lies",
+      "duration": 245,
+      "isrc": "USI4R0703757"
+    },
+    {
+      "artist": "Blood Axis",
+      "title": "The Gospel of Inhumanity",
+      "services": {
+        "qobuz": "68116128"
+      },
+      "album": "The Gospel Of Inhumanity",
+      "duration": 373,
+      "isrc": "USHM90767748"
+    },
+    {
+      "artist": "Changes",
+      "title": "Fire of Life",
+      "services": {
+        "qobuz": "76249937"
+      },
+      "album": "Fire of Life",
+      "duration": 259,
+      "isrc": "DEKB30810463"
+    },
+    {
+      "artist": "Der Blutharsch",
+      "title": "The Track of the Hunted, Pt. 3",
+      "services": {
+        "qobuz": "98425628"
+      },
+      "album": "The Track of the Hunted",
+      "duration": 267,
+      "isrc": "CH6542089070"
+    },
+    {
+      "artist": "Backworld",
+      "title": "Pleasure Park",
+      "services": {
+        "qobuz": "67217600"
+      },
+      "album": "Anthems From The Pleasure Park",
+      "duration": 212,
+      "isrc": "USCGJ0830269"
+    },
+    {
+      "artist": "Ostara",
+      "title": "Nostalgia for the Future",
+      "services": {
+        "qobuz": "218711008"
+      },
+      "album": "Secret Homeland",
+      "duration": 369,
+      "isrc": "DGA062311593"
+    },
+    {
+      "artist": "Kurdo",
+      "title": "Alors",
+      "services": {
+        "qobuz": "247160802"
+      },
+      "album": "KRISTALL",
+      "duration": 164,
+      "isrc": "DEXG92100058"
+    },
+    {
+      "artist": "Forseti",
+      "title": "Windzeit",
+      "services": {
+        "qobuz": "203120609"
+      },
+      "album": "Windzeit",
+      "duration": 226,
+      "isrc": "GX4R52180994"
+    },
+    {
+      "artist": "Wiener Singakademie",
+      "title": "Orff: Carmina Burana / Fortuna imperatrix mundi: I. \"O Fortuna\"",
+      "services": {
+        "qobuz": "57103736"
+      },
+      "album": "Orff: Carmina Burana",
+      "duration": 138,
+      "isrc": "DEN961830851"
+    },
+    {
+      "artist": "Of The Wand & The Moon",
+      "title": "Lucifer",
+      "services": {
+        "qobuz": "58081853"
+      },
+      "album": "Lucifer",
+      "duration": 267,
+      "isrc": "USA560880392"
+    },
+    {
+      "artist": "Hekate",
+      "title": "Sonnentanz",
+      "services": {
+        "qobuz": "189636425"
+      },
+      "album": "Ten Years of Endurance",
+      "duration": 268,
+      "isrc": "DES560390315"
+    },
+    {
+      "artist": "Ordo Rosarius Equilibrio",
+      "title": "Who Stole the Song?",
+      "services": {
+        "qobuz": "134670651"
+      },
+      "album": "Do Angels Never Cry and Heaven Never Fall?",
+      "duration": 394,
+      "isrc": "DEBZ71000302"
+    },
+    {
+      "artist": "Lux Interna",
+      "title": "Dark Fire/Revelator",
+      "services": {
+        "qobuz": "313235161"
+      },
+      "album": "New Wilderness Gospel",
+      "duration": 538,
+      "isrc": "DES562310731"
+    },
+    {
+      "artist": "ROME",
+      "title": "To Die Among Strangers",
+      "services": {
+        "qobuz": "91730139"
+      },
+      "album": "To Die Among Strangers",
+      "duration": 253,
+      "isrc": "DEZ900900443"
+    },
+    {
+      "artist": "Stolen",
+      "title": "Why We Chose to Die in Berlin (Mark Redder's Dying to Be Dancing Remix)",
+      "services": {
+        "qobuz": "88191878"
+      },
+      "album": "Fragment",
+      "duration": 429,
+      "isrc": "FR9W11809662"
+    },
+    {
+      "artist": "Wizo",
+      "title": "Scho\u0308nheit des Verfalls",
+      "services": {
+        "qobuz": "238271676"
+      },
+      "album": "Nichts wird wieder gut",
+      "duration": 236,
+      "isrc": "DEG032358203"
+    },
+    {
+      "artist": "Charles Aznavour",
+      "title": "Die Kinder des Krieges",
+      "services": {
+        "qobuz": "271116429"
+      },
+      "album": "Sings In German - Best Of",
+      "duration": 195,
+      "isrc": "FRUM72300341"
+    },
+    {
+      "artist": "NOX-LEVEL",
+      "title": "Cold Fusion",
+      "services": {
+        "qobuz": "410531485"
+      },
+      "album": "Singularity",
+      "duration": 72,
+      "isrc": "ESA122658513"
+    },
+    {
+      "artist": "The Beatniks",
+      "title": "Ghost Of My Dream",
+      "services": {
+        "qobuz": "4467135"
+      },
+      "album": "Last Train To Exitown",
+      "duration": 281,
+      "isrc": "JPTO01100879"
+    },
+    {
+      "artist": "Edgar Froese",
+      "title": "Tropic Of Capricorn",
+      "services": {
+        "qobuz": "5114824"
+      },
+      "album": "Beyond The Storm",
+      "duration": 309,
+      "isrc": "GBAAA9901259"
+    },
+    {
+      "artist": "Sonne Hagal",
+      "title": "Ragnarok",
+      "services": {
+        "qobuz": "76261627"
+      },
+      "album": "Jordansfrost",
+      "duration": 220,
+      "isrc": "DEKB30810090"
+    },
+    {
+      "artist": "Wings",
+      "title": "Silly Love Songs",
+      "services": {
+        "qobuz": "389700603"
+      },
+      "album": "Man on the Run",
+      "duration": 166,
+      "isrc": "GBCCS2600001"
+    },
+    {
+      "artist": "Vince Guaraldi Trio",
+      "title": "Christmas Time Is Here",
+      "services": {
+        "qobuz": "22414985"
+      },
+      "album": "A Charlie Brown Christmas (Remastered & Expanded Edition)",
+      "duration": 366,
+      "isrc": "USC4R1201097"
+    },
+    {
+      "artist": "Coheed and Cambria",
+      "title": "The Willing Well II: From Fear Through the Eyes of Madness",
+      "services": {
+        "qobuz": "13065872"
+      },
+      "album": "Good Apollo I'm Burning Star IV Volume One:  From Fear Through The Eyes Of Madness",
+      "duration": 448,
+      "isrc": "USSM10504118"
+    },
+    {
+      "artist": "tastegangster",
+      "title": "Red Summer in the Fridge",
+      "services": {
+        "qobuz": "431848001"
+      },
+      "album": "Steal Your Tomato Core",
+      "duration": 214,
+      "isrc": "QT6ET2617326"
+    },
+    {
+      "artist": "Rose rovine e amanti",
+      "title": "Rose rovine e amanti",
+      "services": {
+        "qobuz": "87369377"
+      },
+      "album": "Demian",
+      "duration": 316,
+      "isrc": "USDY41695254"
+    },
+    {
+      "artist": "Tame Impala",
+      "title": "New Person, Same Old Mistakes",
+      "services": {
+        "qobuz": "24770701"
+      },
+      "album": "Currents",
+      "duration": 362,
+      "isrc": "AUUM71500302"
+    },
+    {
+      "artist": "Calle della morte",
+      "title": "Senza fare rumore",
+      "services": {
+        "qobuz": "104555393"
+      },
+      "album": "Gente di malaffare",
+      "duration": 262,
+      "isrc": "CH6541646115"
+    },
+    {
+      "artist": "Baby Tate",
+      "title": "I Am (feat. Flo Milli)",
+      "services": {
+        "qobuz": "314375224"
+      },
+      "album": "After The Rain",
+      "duration": 182,
+      "isrc": "QZ5FA2050544"
+    },
+    {
+      "artist": "Kazy Lambist",
+      "title": "Oh My God (S+C+A+R+R Remix)",
+      "services": {
+        "qobuz": "93263380"
+      },
+      "album": "Oh My God (S+C+A+R+R Remix)",
+      "duration": 197,
+      "isrc": "FR6F32000540"
+    },
+    {
+      "artist": "Edith Piaf",
+      "title": "Non, Je Ne Regrette Rien (No, I Regret Nothing)",
+      "services": {
+        "qobuz": "63559795"
+      },
+      "album": "Chansons",
+      "duration": 145,
+      "isrc": "GBFHG1300844"
+    },
+    {
+      "artist": "Kummer",
+      "title": "Aber nein",
+      "services": {
+        "qobuz": "210050976"
+      },
+      "album": "Live aus der Wuhlheide",
+      "duration": 304,
+      "isrc": "DECE72301558"
+    },
+    {
+      "artist": "Marching Orders",
+      "title": "Brothers in Arms",
+      "services": {
+        "qobuz": "19022502"
+      },
+      "album": "Dead End Street",
+      "duration": 171,
+      "isrc": "CH6540873419"
+    },
+    {
+      "artist": "SAULT",
+      "title": "Wildfires",
+      "services": {
+        "qobuz": "127347408"
+      },
+      "album": "Untitled (Black Is)",
+      "duration": 206,
+      "isrc": "UKMEH2000068"
+    },
+    {
+      "artist": "Nicholas Mazzio",
+      "title": "Moments Of Praise Cherubim and Seraphim Falling Down Before Thee Special Acapella Hymns 1",
+      "services": {
+        "qobuz": "392193270"
+      },
+      "album": "Moments Of Praise Album 22",
+      "duration": 55,
+      "isrc": "QMW8V2478547"
+    },
+    {
+      "artist": "Kieldfal",
+      "title": "Silhouetted by the Sun Part 1",
+      "services": {
+        "qobuz": "319452561"
+      },
+      "album": "Silhouetted By the Sun",
+      "duration": 241,
+      "isrc": "AUKDT2501793"
+    },
+    {
+      "artist": "Arditi",
+      "title": "Religion Of The Blood [Instrumental Version]",
+      "services": {
+        "qobuz": "177375760"
+      },
+      "album": "Religion Of The Blood (Special Bonus CD)",
+      "duration": 274,
+      "isrc": "GX89G2274236"
+    },
+    {
+      "artist": "The Michael Schenker Group",
+      "title": "Victim of Illusion",
+      "services": {
+        "qobuz": "169134170"
+      },
+      "album": "Walk the Stage: The Official Bootleg Box Set",
+      "duration": 312,
+      "isrc": "GBAYK0900166"
+    },
+    {
+      "artist": "Sinikka Langeland",
+      "title": "A Child Who Exists",
+      "services": {
+        "qobuz": "218760530"
+      },
+      "album": "Wind and Sun",
+      "duration": 288,
+      "isrc": "DEB332277606"
+    },
+    {
+      "artist": "SAULT",
+      "title": "Wildfires",
+      "services": {
+        "qobuz": "127347408"
+      },
+      "album": "Untitled (Black Is)",
+      "duration": 206,
+      "isrc": "UKMEH2000068"
+    },
+    {
+      "artist": "Diana Krall",
+      "title": "Let's Fall In Love",
+      "services": {
+        "qobuz": "19054031"
+      },
+      "album": "When I Look In Your Eyes",
+      "duration": 259,
+      "isrc": "USGR19900036"
+    },
+    {
+      "artist": "Stevie Nicks",
+      "title": "Bella Donna (Demo)",
+      "services": {
+        "qobuz": "35549907"
+      },
+      "album": "Bella Donna",
+      "duration": 213,
+      "isrc": "USRH11604724"
+    },
+    {
+      "artist": "Foresta DiFerro",
+      "title": "Oak Leaf",
+      "services": {
+        "qobuz": "76262116"
+      },
+      "album": "Bury Me Standing",
+      "duration": 248,
+      "isrc": "DEKB30810234"
+    },
+    {
+      "artist": "Stefano Bollani",
+      "title": "Life on Nibiru",
+      "services": {
+        "qobuz": "78101161"
+      },
+      "album": "Live from Mars",
+      "duration": 158,
+      "isrc": "IT7BP1600017"
+    },
+    {
+      "artist": "Bain Wolfkind",
+      "title": "Before This Night Is Through",
+      "services": {
+        "qobuz": "227314996"
+      },
+      "album": "Love Letters",
+      "duration": 156,
+      "isrc": "TCAHK2386601"
+    },
+    {
+      "artist": "Soft Orbit Club",
+      "title": "Blue Smoke Signals",
+      "services": {
+        "qobuz": "398542231"
+      },
+      "album": "Luxury Lounge, Sunset & Chillout Essentials 2026 Vol.2",
+      "duration": 179,
+      "isrc": "BED902601120"
+    },
+    {
+      "artist": "Ali OKUR Medya Konya PR Music",
+      "title": "Hotel Alhambra - La Guitarra Espa\u00f1ola Est\u00e1 LLorando! Estilo Cl\u00e1sico Eagles & Santana No DK IX",
+      "services": {
+        "qobuz": "381519049"
+      },
+      "album": "Hotel Alhambra - La Guitarra Espa\u00f1ola Est\u00e1 LLorando! Estilo Cl\u00e1sico Eagles & Santana! \u00c1lbumes de M\u00fasica en Espa\u00f1ol",
+      "duration": 377,
+      "isrc": "QZFZ32627453"
+    },
+    {
+      "artist": "Miquel Serra",
+      "title": "Sa Millor Can\u00e7\u00f3 del M\u00f3n",
+      "services": {
+        "qobuz": "67632700"
+      },
+      "album": "Miquel Serra (2009-2010)",
+      "duration": 177,
+      "isrc": "USA561214464"
+    },
+    {
+      "artist": "Taphephobia",
+      "title": "Perpetual Existence",
+      "services": {
+        "qobuz": "113438915"
+      },
+      "album": "Access To A World of Pain",
+      "duration": 241,
+      "isrc": "GBKQU1407674"
+    },
+    {
+      "artist": "Nikita",
+      "title": "Polet Nad Zemley",
+      "services": {
+        "qobuz": "8547860"
+      },
+      "album": "Mashina",
+      "duration": 191,
+      "isrc": "FR6V81674331"
+    },
+    {
+      "artist": "Folkstorm",
+      "title": "Brandtal",
+      "services": {
+        "qobuz": "173863848"
+      },
+      "album": "Nihil Total",
+      "duration": 302,
+      "isrc": "SEYFX1908906"
+    },
+    {
+      "artist": "Indigo Girls",
+      "title": "Dead Man's Hill",
+      "services": {
+        "qobuz": "35445"
+      },
+      "album": "Swamp Ophelia",
+      "duration": 282,
+      "isrc": "USSM10024542"
+    },
+    {
+      "artist": "Pr\u00e9cipices",
+      "title": "Sur les cimes du d\u200b\u00e9\u200bsespoir",
+      "services": {
+        "qobuz": "240634626"
+      },
+      "album": "Devant les affres de la mort",
+      "duration": 400,
+      "isrc": "TCAHR2302939"
+    },
+    {
+      "artist": "Vox Quadrata",
+      "title": "Teil II: No. 13 Choral \"Du heiliges Licht, edler Hort\"",
+      "services": {
+        "qobuz": "365955790"
+      },
+      "album": "Carl Loewe: Palestrina  [Live]",
+      "duration": 105,
+      "isrc": "DEN422507014"
+    },
+    {
+      "artist": "Dominique Visse",
+      "title": "Jubilate Domino II",
+      "services": {
+        "qobuz": "1661870"
+      },
+      "album": "Le Veilleur entre les Cr\u00e9neaux",
+      "duration": 221,
+      "isrc": "DEX990920702"
+    },
+    {
+      "artist": "Matt Moln",
+      "title": "Le plus grand homme de la terre (et de loin) appara\u00eet dans les miroirs enfum\u00e9s (c'est moi!!!)",
+      "services": {
+        "qobuz": "315717641"
+      },
+      "album": "Saint-Ours",
+      "duration": 330,
+      "isrc": "CAPDS2000013"
+    },
+    {
+      "artist": "Microphones",
+      "title": "I Am Bored",
+      "services": {
+        "qobuz": "39418023"
+      },
+      "album": "The Glow, Pt. 2",
+      "duration": 96,
+      "isrc": "USI4R1130495"
+    },
+    {
+      "artist": "Ice Nine Kills",
+      "title": "The Nature Of The Beast",
+      "services": {
+        "qobuz": "38969197"
+      },
+      "album": "Every Trick In The Book",
+      "duration": 218,
+      "isrc": "US5261522001"
+    },
+    {
+      "artist": "Hildegard Knef",
+      "title": "In dieser Stadt",
+      "services": {
+        "qobuz": "2949917"
+      },
+      "album": "Ich sehe die Welt durch deine Augen (Remastered)",
+      "duration": 185,
+      "isrc": "DEA619350200"
+    },
+    {
+      "artist": "MUNA",
+      "title": "Number One Fan",
+      "services": {
+        "qobuz": "62273386"
+      },
+      "album": "Saves The World",
+      "duration": 205,
+      "isrc": "USRC11900581"
+    },
+    {
+      "artist": "Joy Denalane",
+      "title": "Richter: This Bitter Earth / On the Nature of Daylight",
+      "services": {
+        "qobuz": "97826616"
+      },
+      "album": "Hope@Home",
+      "duration": 396,
+      "isrc": "DEN962030303"
+    },
+    {
+      "artist": "Minnesota Orchestra",
+      "title": "I. Il sogno di Salomone",
+      "services": {
+        "qobuz": "300023726"
+      },
+      "album": "Respighi: Belkis, Regina di Saba, Ballata delle gnomidi & Pini di Roma",
+      "duration": 539,
+      "isrc": "USFKZ0610542"
+    },
+    {
+      "artist": "Thomas Bergersen",
+      "title": "Rada",
+      "services": {
+        "qobuz": "128342038"
+      },
+      "album": "Illusions",
+      "duration": 261,
+      "isrc": "US3DF2002172"
+    },
+    {
+      "artist": "Dino Murolo",
+      "title": "Quant'eri bella",
+      "services": {
+        "qobuz": "387754992"
+      },
+      "album": "CALABRIA FACIMU FESTA",
+      "duration": 213,
+      "isrc": "ITL842600012"
+    },
+    {
+      "artist": "Recondita Stirpe",
+      "title": "12 Caduti",
+      "services": {
+        "qobuz": "105379647"
+      },
+      "album": "Nessuna letargia",
+      "duration": 182,
+      "isrc": "CH6541652510"
+    },
+    {
+      "artist": "In Ruin",
+      "title": "Refuge of Lies",
+      "services": {
+        "qobuz": "76979492"
+      },
+      "album": "A Ghost to Be Forgotten",
+      "duration": 245,
+      "isrc": "DEKB31100150"
+    },
+    {
+      "artist": "Spiritual Front",
+      "title": "Song for the Old Man",
+      "services": {
+        "qobuz": "230255042"
+      },
+      "album": "Open Wounds (Deluxe Edition)",
+      "duration": 355,
+      "isrc": "DEZ901300549"
+    },
+    {
+      "artist": "Luca Gherardi",
+      "title": "lunga e' la via di casa",
+      "services": {
+        "qobuz": "368380350"
+      },
+      "album": "Paesaggi Interiori",
+      "duration": 274,
+      "isrc": "ESA122566847"
+    },
+    {
+      "artist": "James Last",
+      "title": "Sch\u00f6nes Wetter heute",
+      "services": {
+        "qobuz": "350876817"
+      },
+      "album": "Die sch\u00f6nsten Melodien der letzten 100 Jahre",
+      "duration": 73,
+      "isrc": "DEF068100720"
+    },
+    {
+      "artist": "In Gowan Ring",
+      "title": "Hazel Steps",
+      "services": {
+        "qobuz": "176522307"
+      },
+      "album": "Hazel Steps through a Weathered Home",
+      "duration": 309,
+      "isrc": "QZ22B1859988"
+    },
+    {
+      "artist": "Andr\u00e9 Manoukian",
+      "title": "Baby Alone In Babylone",
+      "services": {
+        "qobuz": "118150274"
+      },
+      "album": "Les Pianos de Gainsbourg",
+      "duration": 163,
+      "isrc": "FRUM72100434"
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "title": "Born In the U.S.A.",
+      "services": {
+        "qobuz": "354082105"
+      },
+      "album": "Nebraska '82: Expanded Edition",
+      "duration": 190,
+      "isrc": "USSM18200376"
+    },
+    {
+      "artist": "Ryn Weaver",
+      "title": "Reasons Not To Die",
+      "services": {
+        "qobuz": "53385702"
+      },
+      "album": "Reasons Not To Die",
+      "duration": 220,
+      "isrc": "USAT21811029"
+    },
+    {
+      "artist": "Aether Alchemist",
+      "title": "The Weight of Silence",
+      "services": {
+        "qobuz": "430804137"
+      },
+      "album": "The Fragile Tapestry",
+      "duration": 349,
+      "isrc": "QT6EE2668627"
+    },
+    {
+      "artist": "Radiohead",
+      "title": "Untitled",
+      "services": {
+        "qobuz": "33930461"
+      },
+      "album": "Kid A",
+      "duration": 52,
+      "isrc": "GBAYE0800815"
+    },
+    {
+      "artist": "Thy Will Be Done",
+      "title": "Mystery, Her Name",
+      "services": {
+        "qobuz": "253536745"
+      },
+      "album": "In Ancient Of Days",
+      "duration": 273,
+      "isrc": "QZRUP2400022"
+    },
+    {
+      "artist": "31 Minutos",
+      "title": "El Prototipo J.A.J.A.M.I.N.A.T.O.R.",
+      "services": {
+        "qobuz": "423387535"
+      },
+      "album": "Arwrarwrirwrarwro (Banda Sonora Original de la Cuarta Temporada)",
+      "duration": 49,
+      "isrc": "CLWW21500180"
+    },
+    {
+      "artist": "Saltatio Mortis",
+      "title": "Das kalte Herz",
+      "services": {
+        "qobuz": "364227381"
+      },
+      "album": "Wer Wind S\u00e4t",
+      "duration": 237,
+      "isrc": "ATN260930505"
+    },
+    {
+      "artist": "blink-182",
+      "title": "Adam's Song",
+      "services": {
+        "qobuz": "115401006"
+      },
+      "album": "Enema Of The State",
+      "duration": 249,
+      "isrc": "USMC19959122"
+    },
+    {
+      "artist": "Bibi und Tina",
+      "title": "Kapitel 01: Pferde, Strand und Meer (Folge 124)",
+      "services": {
+        "qobuz": "403981426"
+      },
+      "album": "Folge 124: Pferde, Strand und Meer",
+      "duration": 90,
+      "isrc": "DEB582601496"
+    },
+    {
+      "artist": "Johannes Oerding",
+      "title": "Wo wir sind ist oben",
+      "services": {
+        "qobuz": "7454639"
+      },
+      "album": "F\u00fcr immer ab jetzt",
+      "duration": 188,
+      "isrc": "DEE861200760"
+    },
+    {
+      "artist": "Fabrizio Moro",
+      "title": "In un mondo di stronzi",
+      "services": {
+        "qobuz": "411533698"
+      },
+      "album": "Non ho paura di niente",
+      "duration": 194,
+      "isrc": "ITDV92500350"
+    },
+    {
+      "artist": "Natalie Merchant",
+      "title": "Seven Years",
+      "services": {
+        "qobuz": "6008172"
+      },
+      "album": "Tigerlily",
+      "duration": 335,
+      "isrc": "USEE11100409"
+    },
+    {
+      "artist": "Hendrik Lasure",
+      "title": "Wolkje",
+      "services": {
+        "qobuz": "183713695"
+      },
+      "album": "Het Wiel",
+      "duration": 207,
+      "isrc": "BEN582200434"
+    },
+    {
+      "artist": "Lightworker",
+      "title": "Beyond the Pale",
+      "services": {
+        "qobuz": "91341235"
+      },
+      "album": "Fury by Failure",
+      "duration": 236,
+      "isrc": "QMGVJ1900266"
+    },
+    {
+      "artist": "Sangre de Muerdago",
+      "title": "De lume e cinza",
+      "services": {
+        "qobuz": "343058384"
+      },
+      "album": "O Xard\u00edn",
+      "duration": 279,
+      "isrc": "QMBZ92577575"
+    },
+    {
+      "artist": "Poeti Onirici",
+      "title": "In Dream",
+      "services": {
+        "qobuz": "13638080"
+      },
+      "album": "Hands Up for Italian Hip Hop, Vol. 3",
+      "duration": 212,
+      "isrc": "FR6V82129264"
+    },
+    {
+      "artist": "Sad Lovers & Giants",
+      "title": "Happiness is Fragile",
+      "services": {
+        "qobuz": "120696627"
+      },
+      "album": "Where the Light Shines Through: The Bigger Picture 1981-2017",
+      "duration": 195,
+      "isrc": "GBBLY1702688"
+    },
+    {
+      "artist": "Majdanek Waltz",
+      "title": "\u041b\u0438\u0432\u0435\u043d\u044c",
+      "services": {
+        "qobuz": "92515095"
+      },
+      "album": "\u041e\u043d\u0430",
+      "duration": 217,
+      "isrc": "USDY42019911"
+    },
+    {
+      "artist": "Brent Faiyaz",
+      "title": "ALL MINE",
+      "services": {
+        "qobuz": "163687951"
+      },
+      "album": "WASTELAND",
+      "duration": 216,
+      "isrc": "QM24S2203185"
+    },
+    {
+      "artist": "Tommy Twinkle",
+      "title": "Air on the G String",
+      "services": {
+        "qobuz": "247586956"
+      },
+      "album": "Good Night, Little Star",
+      "duration": 79,
+      "isrc": "QMFMG2372039"
+    },
+    {
+      "artist": "Graham Reynolds",
+      "title": "Pevensey",
+      "services": {
+        "qobuz": "392412363"
+      },
+      "album": "The Portcullis",
+      "duration": 125,
+      "isrc": "GBCKK2683301"
+    }
+  ]
+}

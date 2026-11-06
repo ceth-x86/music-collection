@@ -1,0 +1,108 @@
+# Genre: Blues Rock
+
+Imported genre playlist: Blues Rock.
+
+Services: `qobuz:66737067`
+
+## Tracks (100)
+
+- **Lonnie Mack** — Memphis [For Collectors Only (The Wham Of That Memphis Man)] (2:33) `isrc:USEE10251298` `qobuz:33951208`
+- **The Yardbirds** — Good Morning Little Schoolgirl [For Your Love] (2:49) `isrc:GBAWA0515172` `qobuz:276018549`
+- **The Paul Butterfield Blues Band** — Born in Chicago [The Paul Butterfield Blues Band] (3:09) `isrc:USEE11400950` `qobuz:25184450`
+- **John Mayall & The Bluesbreakers** — All Your Love [Blues Breakers] (3:36) `isrc:GBF076600010` `qobuz:53120884`
+- **Cream** — Spoonful [Fresh Cream] (6:31) `isrc:GBA076600010` `qobuz:15774607`
+- **Savoy Brown** — Ain't Superstitious [Shake Down] (3:32) `isrc:GBF076722530` `qobuz:13326665`
+- **The Blues Project** — I Can't Keep From Crying Sometimes [Projections] (4:27) `isrc:USF096725080` `qobuz:25286722`
+- **Canned Heat** — Rollin' And Tumblin' [Canned Heat] (3:11) `isrc:USEM38700072` `qobuz:19506418`
+- **Ten Years After** — I Want To Know [Ten Years After] (2:09) `isrc:GBF076721150` `qobuz:634570`
+- **The Electric Flag** — Killing Floor [A Long Time Comin'] (4:09) `isrc:USSM19916922` `qobuz:2631591`
+- **Michael Bloomfield** — Albert's Shuffle [Super Session] (6:53) `isrc:USSM19917711` `qobuz:13358470`
+- **Chicken Shack** — Mean Old World [The Complete Blue Horizon Sessions] (3:12) `isrc:GBBBN0500678` `qobuz:355165`
+- **Fleetwood Mac** — Need Your Love So Bad [Fleetwood Mac's Greatest Hits] (3:53) `isrc:GBBBN6802029` `qobuz:13361097`
+- **Jeff Beck** — You Shook Me [British Invasion Blues Rock] (2:30) `isrc:GBAYE0500533` `qobuz:178496599`
+- **Various Interprets** — Warning [The Blue Horizon Story 1965 - 1970 Vol.1] (3:22) `isrc:GBBBN6700020` `qobuz:5058320`
+- **Johnny Winter** — Mean Town Blues [Johnny Winter And / Live] (8:57) `isrc:USSM19912880` `qobuz:47677`
+- **Blodwyn Pig** — Sing Me a Song That I Know [Ahead Rings Out] (3:08) `isrc:GBAYK0600047` `qobuz:169152997`
+- **Juicy Lucy** — Who Do You Love [Juicy Lucy] (3:03) `isrc:DESK96990302` `qobuz:126153600`
+- **The Groundhogs** — Cherry Red [Split] (5:43) `isrc:GBAYE0300916` `qobuz:194716643`
+- **Eric Clapton** — After Midnight [The Lady In The Balcony: Lockdown Sessions] (5:00) `isrc:GBCBR2100083` `qobuz:131558991`
+- **Black Cat Bones** — Chauffeur [Barbed Wire Sandwich] (5:17) `isrc:GBBBA7060960` `qobuz:120355657`
+- **The J. Geils Band** — First I Look At The Purse [Full House "Live"] (4:08) `isrc:USAT20102370` `qobuz:2798157`
+- **Free** — Fire And Water [Fire And Water (Deluxe Edition)] (4:00) `isrc:GBAAN7100002` `qobuz:4292137`
+- **Taste** — What’s Going On [What's Going On; Isle Of Wight Festival 1970] (5:32) `isrc:GBCBR1500147` `qobuz:40859204`
+- **Rory Gallagher** — Laundromat [Rory Gallagher] (4:38) `isrc:GBUM71800024` `qobuz:102900390`
+- **Foghat** — I Just Want to Make Love to You [Road Fever: The Complete Bearsville Recordings 1972-1975] (4:21) `isrc:USRH10175071` `qobuz:208402965`
+- **Humble Pie** — Hot 'N' Nasty [Smokin'] (3:21) `isrc:USAM17200032` `qobuz:190017997`
+- **Little Feat** — Cold, Cold, Cold [Sailin' Shoes] (4:00) `isrc:USRH12202118` `qobuz:208072924`
+- **West, Bruce & Laing** — The Doctor [Why Dontcha] (4:27) `isrc:USSM19912664` `qobuz:45391`
+- **Jo Jo Gunne** — Run Run Run [Jo Jo Gunne] (2:35) `isrc:USEE10184779` `qobuz:2942973`
+- **Roy Buchanan** — The Messiah Will Come Again [Roy Buchanan] (5:54) `isrc:USF067225070` `qobuz:46677588`
+- **Joe Walsh** — Rocky Mountain Way [The Smoker You Drink, The Player You Get] (5:15) `isrc:USMC17344516` `qobuz:52370445`
+- **ZZ Top** — LA Grange [The ZZ Top Sixpack] (3:54) `isrc:USWB19903511` `qobuz:387308662`
+- **Robin Trower** — Bridge of Sighs [Bridge Of Sighs] (5:01) `isrc:GBAYK0700124` `qobuz:169179076`
+- **Back Street Crawler** — Hoo Doo Woman [The Band Plays On] (4:17) `isrc:USAT20302563` `qobuz:26528509`
+- **Frankie Miller** — A Fool in Love [The Very Best of Frankie Miller] (3:02) `isrc:GBAYK7800099` `qobuz:169151262`
+- **Dr. Feelgood** — Roxette [Down By The Jetty (Collectors Edition)] (2:56) `isrc:GBAYE0600597` `qobuz:820298`
+- **JJ Cale** — Cocaine [Troubadour] (2:49) `isrc:NLF057690004` `qobuz:625129`
+- **Climax Blues Band** — Couldn't Get It Right [Gold Plated] (3:18) `isrc:GBEHT0400579` `qobuz:385311552`
+- **Peter Frampton** — Do You Feel Like We Do [Frampton Comes Alive ! (35th Anniversary Deluxe Edition)] (13:46) `isrc:USAM10000278` `qobuz:3930773`
+- **Frank Marino & Mahogany Rush** — Dragonfly [Live (Expanded Edition)] (5:27) `isrc:USSM19914500` `qobuz:44434737`
+- **George Thorogood & The Destroyers** — Move It On Over [The Baddest Of George Thorogood And The Destroyers] (4:18) `isrc:USRO27802401` `qobuz:52484658`
+- **Pat Travers** — Boom Boom (Out Go The Lights) [Live! Go For What You Know] (5:06) `isrc:USWWW0201231` `qobuz:112880761`
+- **Peter Green** — Slabo Day [In the Skies] (5:09) `isrc:GBAJE0500904` `qobuz:385641502`
+- **The Fabulous Thunderbirds** — Can't Tear It Up Enuff [T_Bird Rhythm] (3:01) `isrc:US48M0900045` `qobuz:336668948`
+- **Stevie Ray Vaughan & Double Trouble** — Texas Flood [The Real Deal: Greatest Hits Volume 1] (5:20) `isrc:USSM18300419` `qobuz:2719167`
+- **David Richards** — Iceman [Albert Collins and the Icebreakers (Live '92 / '93)] (3:56) `isrc:GBAAA9500611` `qobuz:4747732`
+- **The Robert Cray Band** — Smoking Gun [Cookin' In Mobile] (7:15) `isrc:USGHT1000069` `qobuz:13212617`
+- **Colin James** — Five Long Years [Colin James] (4:36) `isrc:USVI28800057` `qobuz:4940562`
+- **Jeff Healey** — Blue Jean Blues [See the Light] (5:39) `isrc:USAR18800115` `qobuz:20688247`
+- **Robben Ford** — Talk to Your Daughter [Talk To Your Daughter] (4:10) `isrc:USWB10100117` `qobuz:2025091`
+- **Walter Trout Band** — Life In The Jungle [Life In The Jungle] (5:44) `isrc:NLB930501332` `qobuz:141300583`
+- **Gary Moore** — Still Got The Blues [Still Got The Blues] (6:10) `isrc:GBAAA9000090` `qobuz:1951256`
+- **Bernard Allison** — Next Generation [No Mercy] (5:32) `isrc:DEB649400015` `qobuz:51695482`
+- **Buddy Guy** — Damn Right, I've Got the Blues [Damn Right, I've Got The Blues] (4:31) `isrc:USSV10300100` `qobuz:321957`
+- **Tab Benoit** — Nice And Warm [Nice And Warm] (7:18) `isrc:USVG29983553` `qobuz:12989808`
+- **Big Sugar** — Diggin' A Hole [Hemi-Vision] (4:37) `isrc:CAA149600281` `qobuz:102100800`
+- **Popa Chubby** — More Time Making Love [It's A Mighty Hard Road] (3:55) `isrc:FRE262000110` `qobuz:84052177`
+- **Jimmie Vaughan** — Six Strings Down [Strange Pleasure] (4:23) `isrc:USSM10025375` `qobuz:38229`
+- **Various Interprets** — My Way Down [Texas Sugar Strat Magik] (4:36) `isrc:GBAHJ9500009` `qobuz:215988`
+- **Coco Montoya** — Gotta Mind to Travel [Blind Pig Presents: Road Trip Blues] (3:50) `isrc:USBP10302002` `qobuz:24730915`
+- **Luther Allison** — Bad Love [Bad Love] (6:22) `isrc:US2Y30602197` `qobuz:260615995`
+- **Kenny Wayne Shepherd** — Blue on Black - Live [Live in Chicago] (5:32) `isrc:NLA321090259` `qobuz:124926326`
+- **Jonny Lang** — Lie To Me [Lie To Me] (4:11) `isrc:USAM19674587` `qobuz:3965260`
+- **Susan Tedeschi** — Just Won't Burn [Just Won't Burn] (4:46) `isrc:USTC19816408` `qobuz:216680840`
+- **North Mississippi Allstars** — Shake 'Em On Down [Shake Hands With Shorty] (4:08) `isrc:USTC10017701` `qobuz:298182546`
+- **Eric Sardinas** — Treat Me Right [Notodden Blues Festival-The Best of People and Blues-Nbf Vol. 3] (4:13) `isrc:NOXGK0413150` `qobuz:198229017`
+- **Beth Hart** — Leave The Light On [Leave The Light On] (4:03) `isrc:USKO10302394` `qobuz:4986782`
+- **Tommy Castro** — Painkiller [Painkiller] (3:49) `isrc:USBP10711103` `qobuz:3789377`
+- **Ana Popovic** — Still Making History [Still Making History] (6:13) `isrc:US3H80700244` `qobuz:405907696`
+- **Henrik Freischlader** — She Ain't Got the Blues [Live 2014 (Nighttrain To Budapest Farewell Tour)] (6:28) `isrc:DEW271302508` `qobuz:22801495`
+- **Philip Sayce** — Alchemy (Live) [Scorched Earth, Vol.1 (Live)] (7:36) `isrc:CAW111600228` `qobuz:351781868`
+- **Joe Bonamassa** — The Ballad of John Henry [The Ballad of John Henry] (6:25) `isrc:USMH50800015` `qobuz:15738214`
+- **Kodaline** — The One [Coming Up for Air] (3:52) `isrc:GBARL1401580` `qobuz:22084975`
+- **Joanne Shaw Taylor** — Diamonds in the Dirt [Diamonds in the Dirt] (5:07) `isrc:DEFR11000103` `qobuz:260697227`
+- **matt schofield** — Ear To The Ground [Ear To The Ground] (5:46) `isrc:GBJYQ0700079` `qobuz:168435359`
+- **Tedeschi Trucks Band** — Midnight in Harlem [Revelator] (5:53) `isrc:USSM11101896` `qobuz:18435789`
+- **Reignwolf** — Are You Satisfied? [Are You Satisfied?] (3:34) `isrc:TCABP1368115` `qobuz:306387299`
+- **King King** — Take My Hand [Take My Hand] (3:49) `isrc:GBKLA1102602` `qobuz:151592767`
+- **Dan Patlansky** — Big Things Going Down [Wooden Thoughts] (7:15) `isrc:ZA63W1400029` `qobuz:26770716`
+- **Blues Pills** — High Class Woman [Blues Pills] (4:28) `isrc:DED831400532` `qobuz:60746057`
+- **Jared James Nichols** — Honey Forgive Me [Black Magic] (2:22) `isrc:FR1PP1700610` `qobuz:43455435`
+- **Sari Schorr** — Ain't Got No Money [A Force of Nature] (5:13) `isrc:GBKLA1604401` `qobuz:151611678`
+- **Fantastic Negrito** — Lost in a Crowd [The Last Days of Oakland] (5:00) `isrc:FR10S1670243` `qobuz:368524309`
+- **The Record Company** — Off The Ground [Give It Back To You] (4:14) `isrc:USC4R1504254` `qobuz:30016622`
+- **The Temperance Movement** — Only Friend [The Temperance Movement] (4:28) `isrc:GBBPB1302666` `qobuz:97493525`
+- **The Blue Stones** — Black Holes (Solid Ground) [Black Holes] (3:05) `isrc:TCACN1677390` `qobuz:51745606`
+- **Rival Sons** — Do Your Worst [Feral Roots] (3:30) `isrc:USAT21810979` `qobuz:55658411`
+- **Gary Clark Jr.** — This Land [This Land] (5:41) `isrc:USWB11802269` `qobuz:57635379`
+- **Samantha Fish** — Kill Or Be Kind [Kill Or Be Kind] (3:45) `isrc:USRO21901582` `qobuz:63230912`
+- **Kris Barras Band** — Ignite (Light It Up) [Light It Up] (3:16) `isrc:NLB931901824` `qobuz:141292616`
+- **The Teskey Brothers** — Rain [Run Home Slow] (4:14) `isrc:AULI01924210` `qobuz:61355764`
+- **Ally Venable** — Texas Honey [Texas Honey] (2:27) `isrc:DEFR11900033` `qobuz:260644613`
+- **The Cold Stares** — Ways [WAYS] (3:46) `isrc:QZ8GX1700596` `qobuz:222647882`
+- **GA-20** — Easy On The Eyes [Crackdown] (3:31) `isrc:QZDMQ2250003` `qobuz:159541387`
+- **Larkin Poe** — She's A Self Made Man [Paint The Roses] (4:24) `isrc:US9ZA2100007` `qobuz:368554002`
+- **Marcus King** — The Well [El Dorado] (2:57) `isrc:USC4R1906988` `qobuz:84607862`
+- **Thad Fiscella** — When We Meet Again [Free to Fly] (3:20) `isrc:USHM91416786` `qobuz:91219111`
+- **Kaleo** — Way down We Go [A/B] (3:40) `isrc:USAT21502123` `qobuz:31934143`
+- **Christone "Kingfish" Ingram** — 662 [662] (3:17) `isrc:USARL2100501` `qobuz:397239043`

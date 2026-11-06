@@ -1,0 +1,108 @@
+# Genre: Contemporary R&B
+
+Imported genre playlist: Contemporary R&B.
+
+Services: `qobuz:66736862`
+
+## Tracks (100)
+
+- **Whitney Houston** — I'm Your Baby Tonight [I'm Your Baby Tonight] (4:59) `isrc:USAR19000129` `qobuz:3110592`
+- **Shanice** — I Love Your Smile [Inner Child] (4:18) `isrc:USMO19190003` `qobuz:8589477`
+- **Boyz II Men** — End Of The Road [Legacy: The Greatest Hits Collection] (5:49) `isrc:USMO19200465` `qobuz:59989722`
+- **Chanté Moore** — Love's Taken Over [Precious] (6:37) `isrc:USMC19138314` `qobuz:57047731`
+- **En Vogue** — My Lovin' (You're Never Gonna Get It) [Hype Radio Remix] [My Lovin' (You're Never Gonna Get It) [Hype Radio Remix]] (5:12) `isrc:USRH12200022` `qobuz:146543872`
+- **Jade** — Don't Walk Away [Jade To The Max] (3:36) `isrc:USWB10104203` `qobuz:2112850`
+- **SWV** — Weak [It's About Time] (4:52) `isrc:USRC19205518` `qobuz:4857833`
+- **Shai** — If I Ever Fall In Love [If I Ever Fall In Love] (3:09) `isrc:USWWW0202541` `qobuz:499192`
+- **H-Town** — Knockin' da Boots [Knockin' da Boots] (2:42) `isrc:QM6XS1900990` `qobuz:62600507`
+- **Janet Jackson** — That's The Way Love Goes [janet.] (4:25) `isrc:GBAAA9300170` `qobuz:4914290`
+- **R. Kelly** — Bump n' Grind [The Essential R. Kelly] (4:14) `isrc:GBAHK9300172` `qobuz:15971720`
+- **Silk** — Freak Me [The Best of Silk] (4:34) `isrc:USEE10182080` `qobuz:2953702`
+- **Tevin Campbell** — Can We Talk [The Best of Tevin Campbell] (4:44) `isrc:USQW19300001` `qobuz:45030889`
+- **Tony! Toni! Toné!** — Anniversary [Sons Of Soul] (9:18) `isrc:USPR39300111` `qobuz:13399174`
+- **Changing Faces** — Stroke You Up [Changing Faces] (5:52) `isrc:USBB19400014` `qobuz:2416095`
+- **TLC** — Creep [Crazysexycool] (4:28) `isrc:USLF29400135` `qobuz:4849645`
+- **Aaliyah** — One In A Million [One In A Million] (4:30) `isrc:USUYG1353137` `qobuz:290603620`
+- **Dru Hill** — In My Bed [Dru Hill] (4:44) `isrc:USIR29600363` `qobuz:3882005`
+- **Ginuwine** — Pony [Ginuwine... The Bachelor] (5:24) `isrc:USSM19601388` `qobuz:26605594`
+- **Toni Braxton** — You're Makin' Me High [Secrets] (4:27) `isrc:USLF29600019` `qobuz:9211198`
+- **Usher** — You Make Me Wanna... [My Way] (3:39) `isrc:USLF29900480` `qobuz:172197439`
+- **112** — Cupid [112] (4:11) `isrc:USBB40580279` `qobuz:3019083`
+- **Brandy** — Have You Ever [Never Say Never] (4:33) `isrc:USAT29800470` `qobuz:2925875`
+- **Deborah Cox** — Nobody's Supposed to Be Here [One Wish] (4:21) `isrc:USAR19800100` `qobuz:4866245`
+- **Monica** — Angel of Mine [The Boy Is Mine] (4:10) `isrc:USAR19800077` `qobuz:184468`
+- **Playa** — Cheers 2 U [Cheers 2 U] (5:10) `isrc:USRL19800012` `qobuz:54288587`
+- **Tamia** — So Into You [Tamia] (4:22) `isrc:USWB11002076` `qobuz:2416784`
+- **Tatyana Ali** — Daydreamin' [Kiss The Sky] (4:58) `isrc:USSM19801140` `qobuz:10108586`
+- **Tyrese** — Sweet Lady [Tyrese] (4:50) `isrc:USRC19807109` `qobuz:4864400`
+- **702** — Where My Girls At [702] (2:46) `isrc:USMO19984788` `qobuz:778514`
+- **Blaque** — 808 [Blaque] (5:06) `isrc:USSM19804033` `qobuz:11476257`
+- **Brian McKnight** — Back At One [Back At One] (4:23) `isrc:USMO19900016` `qobuz:3881297`
+- **Destiny's Child** — Say My Name [The Writing's On The Wall] (4:31) `isrc:USSM19901056` `qobuz:398049`
+- **Donell Jones** — Where I Wanna Be [Where I Wanna Be] (4:13) `isrc:USLF29900194` `qobuz:202795`
+- **Ideal** — Get Gone [Ideal] (4:34) `isrc:USVI29900080` `qobuz:4789683`
+- **Sisqó** — Thong Song [Unleash The Dragon] (4:13) `isrc:USDJ29905218` `qobuz:4343354`
+- **Carl Thomas** — I Wish [Emotional] (3:48) `isrc:USBB40581013` `qobuz:2974505`
+- **Jagged Edge** — Let's Get Married [The Hits] (4:09) `isrc:USSM10009558` `qobuz:13017266`
+- **Joe** — I Wanna Know [My Name Is Joe] (4:56) `isrc:USJI10000057` `qobuz:233265`
+- **Kandi** — Don't Think I'm Not [Hey Kandi...] (4:03) `isrc:USSM10007873` `qobuz:32473`
+- **Mya** — Case Of The Ex (Whatcha Gonna Do) [Fear Of Flying] (3:55) `isrc:USIR10000805` `qobuz:92764665`
+- **Next** — Wifey [Platinum & Gold Collection] (4:03) `isrc:USAR10000271` `qobuz:206427`
+- **Sammie** — I Like It [From The Bottom To The Top] (4:10) `isrc:USFE19900005` `qobuz:4612587`
+- **Blu Cantrell** — Hit 'Em Up Style (Oops!) [Shades Of Blu] (4:10) `isrc:USAR10100372` `qobuz:258427214`
+- **Christina Milian** — AM To PM [Christina Milian] (3:51) `isrc:USIR20110076` `qobuz:13487397`
+- **Tank** — Maybe I Deserve [Force of Nature] (4:49) `isrc:USUYG1352983` `qobuz:337076314`
+- **Ashanti** — Foolish [Ashanti] (3:47) `isrc:USDJ20200199` `qobuz:784151`
+- **Avant** — Separated [My Thoughts] (4:15) `isrc:USMC10000059` `qobuz:58246547`
+- **B2K** — Girlfriend [Pandemonium!] (3:26) `isrc:USSM10300441` `qobuz:113594`
+- **Nivea** — Laundromat [Nivea] (4:23) `isrc:USJI10300007` `qobuz:47021669`
+- **Beyoncé** — Me, Myself and I [Dangerously In Love] (5:01) `isrc:USSM10305419` `qobuz:97464`
+- **Ruben Studdard** — Sorry 2004 [Soulful] (4:21) `isrc:GBCTA0300324` `qobuz:13189388`
+- **JoJo** — Leave (Get Out) [JoJo] (4:02) `isrc:USUYG1353158` `qobuz:337077120`
+- **Lloyd** — Get It Shawty [Street Love] (3:28) `isrc:USUM70721403` `qobuz:2448255`
+- **Mario** — Let Me Love You [Let Me Love You] (4:16) `isrc:USJAY0400348` `qobuz:348232`
+- **Mario Winans** — I Don't Wanna Know (feat. Enya & P. Diddy) [2016 Remaster] [Bad Boy 20th Anniversary Box Set Edition] (4:17) `isrc:USRH11603418` `qobuz:34368381`
+- **Omarion** — O [O] (4:40) `isrc:USSM10412688` `qobuz:4865052`
+- **Amerie** — 1 Thing [Touch] (3:58) `isrc:USSM10500100` `qobuz:160119`
+- **Bobby V.** — Slow Down [Disturbing Tha Peace Presents Bobby Valentino] (4:18) `isrc:USDJ20500006` `qobuz:13368190`
+- **Mariah Carey** — We Belong Together [The Emancipation Of Mimi] (3:21) `isrc:USIR20500195` `qobuz:338023573`
+- **Marques Houston** — Circle [Veteran] (4:04) `isrc:USUM70615128` `qobuz:4270885`
+- **Pretty Ricky** — Grind With Me [Bluestars] (3:57) `isrc:USAT20502447` `qobuz:2926101`
+- **Ray J** — One Wish [Raydiation] (5:37) `isrc:USUYG1160553` `qobuz:202973195`
+- **Teairra Marí** — Make Her Feel Good [Roc-A-Fella Records Presents Teairra Marí] (3:45) `isrc:USUM70501823` `qobuz:2383488`
+- **Cassie** — Me & U [Cassie] (3:12) `isrc:USBB40610361` `qobuz:2927106`
+- **Cherish** — Unappreciated [Unappreciated] (3:55) `isrc:USCA20600599` `qobuz:1941218`
+- **Ciara** — Promise [The Evolution] (4:27) `isrc:USLF20600562` `qobuz:493286`
+- **Fantasia** — When I See U [Fantasia] (3:37) `isrc:GBCTA0600240` `qobuz:4865630`
+- **Heather Headley** — In My Mind [In My Mind] (4:05) `isrc:USRC10503423` `qobuz:13315330`
+- **Letoya** — Torn [LeToya] (4:21) `isrc:USCA20501679` `qobuz:212775563`
+- **Ne-Yo** — So Sick [In My Own Words] (3:27) `isrc:USUM70501633` `qobuz:736230`
+- **Chris Brown** — With You [With You] (4:12) `isrc:USJI10700711` `qobuz:4846754`
+- **J Holiday** — Bed [Back Of My Lac'] (4:33) `isrc:USCA20703432` `qobuz:4605250`
+- **Trey Songz** — Can't Help but Wait [Trey Day] (3:26) `isrc:USAT20703795` `qobuz:2932669`
+- **Day26** — Since You've Been Gone [DAY26] (4:10) `isrc:USBB40801682` `qobuz:2931529`
+- **Jazmine Sullivan** — Bust Your Windows [Fearless] (4:26) `isrc:USJAY0800118` `qobuz:4852498`
+- **Jennifer Hudson** — Spotlight [Jennifer Hudson] (4:10) `isrc:USAR10800074` `qobuz:4847559`
+- **Ryan Leslie** — Addiction [Ryan Leslie] (3:59) `isrc:USC7R0800130` `qobuz:116040057`
+- **Chrisette Michele** — Epiphany (I'm Leaving) [Epiphany] (3:28) `isrc:USUM70952927` `qobuz:747431`
+- **Jeremih** — Birthday Sex [Jeremih] (3:46) `isrc:USUM70959630` `qobuz:749019`
+- **Keri Hilson** — Energy [In A Perfect World...] (3:29) `isrc:USUM70818261` `qobuz:4216011`
+- **Pleasure P** — Did You Wrong [Did You Wrong] (4:18) `isrc:USAT20802989` `qobuz:2930953`
+- **The-Dream** — Falsetto [Love/Hate] (4:31) `isrc:USUM70761838` `qobuz:2452755`
+- **Elle Varner** — Refill [Perfectly Imperfect] (3:59) `isrc:USRC11100947` `qobuz:6089090`
+- **Kelly Rowland** — Kisses Down Low [Talk A Good Game] (4:14) `isrc:USUM71300893` `qobuz:9798579`
+- **Tamar Braxton** — Love and War [Love and War] (4:01) `isrc:USSM11301001` `qobuz:11397628`
+- **Tinashe** — Pretend [Aquarius] (3:52) `isrc:USRC11401782` `qobuz:19631730`
+- **Ro James** — Permission [ELDORADO] (4:39) `isrc:USRC11502056` `qobuz:32172922`
+- **Kehlani** — Distraction [SweetSexySavage] (3:56) `isrc:USAT21602092` `qobuz:36590746`
+- **Sevyn Streeter** — Before I Do [Girl Disrupted] (3:57) `isrc:USAT21603418` `qobuz:42020964`
+- **Ella Mai** — Boo'd Up [Ella Mai] (3:59) `isrc:USUM71814738` `qobuz:54220904`
+- **Lucky Daye** — Over [Over] (3:25) `isrc:USRC12102179` `qobuz:131943491`
+- **Mahalia** — Sober [Sober] (4:26) `isrc:GBAHS1700529` `qobuz:41719558`
+- **Chloe x Halle** — Do It [Ungodly Hour] (2:56) `isrc:USSM12002039` `qobuz:95526140`
+- **Giveon** — Heartbreak Anniversary [When It's All Said And Done... Take Time] (3:18) `isrc:USSM12000998` `qobuz:116556669`
+- **H.E.R.** — Damage [Back of My Mind] (3:47) `isrc:USRC11903897` `qobuz:123150351`
+- **Muni Long** — Hrs & Hrs [Public Displays Of Affection: The Album] (3:24) `isrc:QZAKB2136210` `qobuz:174682946`
+- **Coco Jones** — ICU [What I Didn’t Tell You] (4:01) `isrc:USUM72216687` `qobuz:194580182`
+- **Normani** — Fair [Fair] (3:04) `isrc:USRC12200487` `qobuz:149906933`
+- **Victoria Monet** — On My Mama [JAGUAR II] (3:04) `isrc:USRC12204025` `qobuz:212142342`

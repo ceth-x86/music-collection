@@ -1,0 +1,999 @@
+{
+  "name": "Genre: Rotterdam Hardcore",
+  "services": {
+    "qobuz": "66715155"
+  },
+  "description": "Imported genre playlist: Rotterdam Hardcore.",
+  "tracks": [
+    {
+      "artist": "King Kismet",
+      "title": "Jungle Rhythm",
+      "services": {
+        "qobuz": "325625099"
+      },
+      "album": "Afro House Evolution, Vol. 18",
+      "duration": 284,
+      "isrc": "GBLV62408730"
+    },
+    {
+      "artist": "Two To the Power",
+      "title": "Noise & Music",
+      "services": {
+        "qobuz": "203149758"
+      },
+      "album": "Archie Hamilton Higher Repurpose Mixes",
+      "duration": 514,
+      "isrc": "GBJX33720010"
+    },
+    {
+      "artist": "Break Zero",
+      "title": "1 2 3 4",
+      "services": {
+        "qobuz": "44765254"
+      },
+      "album": "1 2 3 4",
+      "duration": 219,
+      "isrc": "NLQS91700145"
+    },
+    {
+      "artist": "Mary Hubert \u200e",
+      "title": "Why Can't We Live Together",
+      "services": {
+        "qobuz": "102457827"
+      },
+      "album": "I'm Coming on the Scene",
+      "duration": 333,
+      "isrc": "IT00D9000703"
+    },
+    {
+      "artist": "Melanie De Biasio, Teun Verbruggen, Axel Gilain, Pascal Paulus, Pascal Mohy",
+      "title": "A Stomach Is Burning (feat. Steve Houben)",
+      "services": {
+        "qobuz": "1801784"
+      },
+      "album": "A Stomach Is Burning (feat. Steve Houben)",
+      "duration": 304,
+      "isrc": "BEZ250719302"
+    },
+    {
+      "artist": "Sperminator",
+      "title": "No Woman Allowed",
+      "services": {
+        "qobuz": "378275423"
+      },
+      "album": "No Woman Allowed",
+      "duration": 258,
+      "isrc": "NLC050200948"
+    },
+    {
+      "artist": "Hartmut Haenchen",
+      "title": "#",
+      "services": {
+        "qobuz": "58109338"
+      },
+      "album": "German and Italian Christmas Music",
+      "duration": 78,
+      "isrc": "USSM19910701"
+    },
+    {
+      "artist": "Ronan Keating",
+      "title": "Forever And Ever Amen",
+      "services": {
+        "qobuz": "114696746"
+      },
+      "album": "Forever And Ever, Amen",
+      "duration": 187,
+      "isrc": "GBUM72100203"
+    },
+    {
+      "artist": "Balamory",
+      "title": "Jump Up A Little Higher",
+      "services": {
+        "qobuz": "52501839"
+      },
+      "album": "Strike Up The Band!",
+      "duration": 152,
+      "isrc": "GBCAD1000830"
+    },
+    {
+      "artist": "Dj Rob",
+      "title": "Boy's Interface",
+      "services": {
+        "qobuz": "378299981"
+      },
+      "album": "Boy\u2019s Interface",
+      "duration": 84,
+      "isrc": "NLF712408627"
+    },
+    {
+      "artist": "TMSOFT",
+      "title": "BART Subway Train",
+      "services": {
+        "qobuz": "224260166"
+      },
+      "album": "Train Sounds",
+      "duration": 1800,
+      "isrc": "QZWDD2351842"
+    },
+    {
+      "artist": "Frans Br\u00fcggen",
+      "title": "Der fluyten lust-hof, Vol. I: No. 56, Pavane lachryme: Modo 4",
+      "services": {
+        "qobuz": "402446284"
+      },
+      "album": "Early Music Bangers - Unequal Temperament, Equal Energy",
+      "duration": 125,
+      "isrc": "DEA806501004"
+    },
+    {
+      "artist": "Blame the Comedian",
+      "title": "State of Attack",
+      "services": {
+        "qobuz": "367525594"
+      },
+      "album": "Rickey Smiley Presents 3 the Hard Way",
+      "duration": 106,
+      "isrc": "USGEK2500606"
+    },
+    {
+      "artist": "Bald Terror",
+      "title": "Rotterdam",
+      "services": {
+        "qobuz": "378274257"
+      },
+      "album": "Drummachine (Remixes)",
+      "duration": 289,
+      "isrc": "NLC050200916"
+    },
+    {
+      "artist": "Hi_Tack",
+      "title": "Say Say Say (Waiting 4 U)",
+      "services": {
+        "qobuz": "104446556"
+      },
+      "album": "Say Say Say (Waiting 4 U)",
+      "duration": 153,
+      "isrc": "NLZ542001774"
+    },
+    {
+      "artist": "Dio",
+      "title": "I Am",
+      "services": {
+        "qobuz": "385568417"
+      },
+      "album": "Master of the Moon",
+      "duration": 300,
+      "isrc": "GBAJE0400811"
+    },
+    {
+      "artist": "Neophyte",
+      "title": "Komen Wij Uit Rotterdam",
+      "services": {
+        "qobuz": "335476363"
+      },
+      "album": "Hardcore",
+      "duration": 247,
+      "isrc": "NLC050200998"
+    },
+    {
+      "artist": "Armageddon",
+      "title": "You'll Never Be Mine",
+      "services": {
+        "qobuz": "378288957"
+      },
+      "album": "You'll Never Be Mine",
+      "duration": 310,
+      "isrc": "NLC050200974"
+    },
+    {
+      "artist": "Pucho And The Latin Soul Brothers",
+      "title": "Slippin' Into Darkness",
+      "services": {
+        "qobuz": "97365324"
+      },
+      "album": "Rip A Dip",
+      "duration": 381,
+      "isrc": "USFI89500038"
+    },
+    {
+      "artist": "Kraftman",
+      "title": "King Of The Mountains",
+      "services": {
+        "qobuz": "361115258"
+      },
+      "album": "Short Circuit (The Singles)",
+      "duration": 213,
+      "isrc": "QT3F82517990"
+    },
+    {
+      "artist": "Sopik",
+      "title": "Have you ever fuck on cocaine (remastered)",
+      "services": {
+        "qobuz": "402703129"
+      },
+      "album": "Finder Collection Vol.4",
+      "duration": 284,
+      "isrc": "CA5KR2384501"
+    },
+    {
+      "artist": "Nightraver",
+      "title": "So",
+      "services": {
+        "qobuz": "92671412"
+      },
+      "album": "The Stunned Guys' Rewinds - Millenium Hardcore 2000-2012",
+      "duration": 254,
+      "isrc": "ITD131800271"
+    },
+    {
+      "artist": "Emis Killa",
+      "title": "13 anni - prod. by Don Joe (feat. Bassi Maestro, Giso e Clark P.)",
+      "services": {
+        "qobuz": "43221121"
+      },
+      "album": "Keta Music - Volume 2",
+      "duration": 192,
+      "isrc": "ITB261500650"
+    },
+    {
+      "artist": "Leith Ross",
+      "title": "Too Much Time In My House Alone",
+      "services": {
+        "qobuz": "242461970"
+      },
+      "album": "To Learn, More",
+      "duration": 244,
+      "isrc": "USUM72302975"
+    },
+    {
+      "artist": "Beck",
+      "title": "Loser",
+      "services": {
+        "qobuz": "44530203"
+      },
+      "album": "Mellow Gold",
+      "duration": 235,
+      "isrc": "USGF19463401"
+    },
+    {
+      "artist": "Grandson",
+      "title": "Stick Up",
+      "services": {
+        "qobuz": "50444225"
+      },
+      "album": "a modern tragedy vol. 1",
+      "duration": 222,
+      "isrc": "USAT21802527"
+    },
+    {
+      "artist": "Bodylotion",
+      "title": "Ik wil Hakke!",
+      "services": {
+        "qobuz": "297013477"
+      },
+      "album": "Ik Wil Hakke",
+      "duration": 257,
+      "isrc": "NLC050201279"
+    },
+    {
+      "artist": "Scott & Leon",
+      "title": "You Used to Hold Me",
+      "services": {
+        "qobuz": "431687316"
+      },
+      "album": "Scott & Leon - You Used to Hold Me",
+      "duration": 444,
+      "isrc": "GBWFD1200163"
+    },
+    {
+      "artist": "Bournemouth Symphony Orchestra",
+      "title": "\u201cHeroes\": IV. Sons Of The Silent Age",
+      "services": {
+        "qobuz": "171659107"
+      },
+      "album": "Moonage Daydream \u2013 A Brett Morgen Film",
+      "duration": 141,
+      "isrc": "HKI190669105"
+    },
+    {
+      "artist": "Thunderball",
+      "title": "Bonzai Channel One",
+      "services": {
+        "qobuz": "299232723"
+      },
+      "album": "Bonzai Channel One",
+      "duration": 155,
+      "isrc": "BEIW12400720"
+    },
+    {
+      "artist": "Testament",
+      "title": "Signs of Chaos",
+      "services": {
+        "qobuz": "2999480"
+      },
+      "album": "The Ritual",
+      "duration": 30,
+      "isrc": "USAT20003029"
+    },
+    {
+      "artist": "DJ Paul",
+      "title": "Talk Yo Ass Off (Remix) [Bonus Track]",
+      "services": {
+        "qobuz": "73110063"
+      },
+      "album": "Volume 16: The Original Masters",
+      "duration": 278,
+      "isrc": "USASN1302890"
+    },
+    {
+      "artist": "The Strokes",
+      "title": "Last Nite",
+      "services": {
+        "qobuz": "19018"
+      },
+      "album": "Is This It",
+      "duration": 193,
+      "isrc": "USRC10100765"
+    },
+    {
+      "artist": "Eyjafjalla Experience",
+      "title": "Fals Ekki Vals",
+      "services": {
+        "qobuz": "75301831"
+      },
+      "album": "We\u00b4re Gonna Fuck This Country Up: The Holland Sessions",
+      "duration": 319,
+      "isrc": "USHM21531964"
+    },
+    {
+      "artist": "fly_by_wire",
+      "title": "on and off",
+      "services": {
+        "qobuz": "244768438"
+      },
+      "album": "on and off",
+      "duration": 126,
+      "isrc": "SE5W32309780"
+    },
+    {
+      "artist": "The 8-Bit Big Band",
+      "title": "I Wanna Take You for a Ride (Inspired by Marvel vs Capcom 2)",
+      "services": {
+        "qobuz": "230810236"
+      },
+      "album": "Game Changer",
+      "duration": 281,
+      "isrc": "USL4Q2378862"
+    },
+    {
+      "artist": "Baron Von Trax",
+      "title": "Can't Get Enough",
+      "services": {
+        "qobuz": "396587519"
+      },
+      "album": "Piano House Is Dead, Long Live Piano House",
+      "duration": 260,
+      "isrc": "CA5KR2537841"
+    },
+    {
+      "artist": "Stephen Layton",
+      "title": "Sviridov: Pesni Bezvremenya \"Songs of Troubled Times\": III. Vesna i koldun \"Spring and the Sorcerer\"",
+      "services": {
+        "qobuz": "230087296"
+      },
+      "album": "Ikon, Vol. 1: Sacred Choral Music from Russia & Eastern Europe",
+      "duration": 264,
+      "isrc": "GBAJY9792806"
+    },
+    {
+      "artist": "Lenny Dee",
+      "title": "Raw",
+      "services": {
+        "qobuz": "312760719"
+      },
+      "album": "OTT - RAW",
+      "duration": 293,
+      "isrc": "USZUT9300066"
+    },
+    {
+      "artist": "Degradead",
+      "title": "Genetic Waste",
+      "services": {
+        "qobuz": "11765302"
+      },
+      "album": "Til Death Do Us Apart",
+      "duration": 230,
+      "isrc": "SEXYA0800101"
+    },
+    {
+      "artist": "Bass Reaction",
+      "title": "Technophobia",
+      "services": {
+        "qobuz": "111582727"
+      },
+      "album": "Technophobia",
+      "duration": 239,
+      "isrc": "GBKQU1572106"
+    },
+    {
+      "artist": "BBC Philharmonic Orchestra",
+      "title": "III. The Creation of the First Sea Creatures -",
+      "services": {
+        "qobuz": "306289125"
+      },
+      "album": "Maxwell Davies: The Beltane Fire, The Turn of the Tide & Sir Charles His Pavan",
+      "duration": 79,
+      "isrc": "HKI191207410"
+    },
+    {
+      "artist": "Prof",
+      "title": "Brrrr",
+      "services": {
+        "qobuz": "397827617"
+      },
+      "album": "Good Time Boy",
+      "duration": 148,
+      "isrc": "QZ5FN2695448"
+    },
+    {
+      "artist": "Rave Creator",
+      "title": "Bleep Blaster",
+      "services": {
+        "qobuz": "22986306"
+      },
+      "album": "Marc Acardipane Best of 1989-1998, Vol. 2",
+      "duration": 199,
+      "isrc": "DEN450600042"
+    },
+    {
+      "artist": "L\u00e9a Sen",
+      "title": "lvl 11 \u2013 EDGE OF THE MAP (UNPLUGGED)",
+      "services": {
+        "qobuz": "361986816"
+      },
+      "album": "LEVELS (UNPLUGGED)",
+      "duration": 175,
+      "isrc": "USBQU2500339"
+    },
+    {
+      "artist": "Depeche Mode",
+      "title": "Personal Jesus",
+      "services": {
+        "qobuz": "36114844"
+      },
+      "album": "Violator (Deluxe)",
+      "duration": 295,
+      "isrc": "GBAJH0600289"
+    },
+    {
+      "artist": "We Are Scientists",
+      "title": "Lethal Enforcer",
+      "services": {
+        "qobuz": "1760611"
+      },
+      "album": "Brain Thrust Mastery",
+      "duration": 281,
+      "isrc": "GBAAA0800038"
+    },
+    {
+      "artist": "Cutty Ranks",
+      "title": "A Who Seh Ne Dun (Wake De Man)",
+      "services": {
+        "qobuz": "4583690"
+      },
+      "album": "Six Million Ways To Die",
+      "duration": 206,
+      "isrc": "USPO19600020"
+    },
+    {
+      "artist": "Skara Brae",
+      "title": "Cad \u00c9 Sin Don T\u00e9 Sin?",
+      "services": {
+        "qobuz": "146677348"
+      },
+      "album": "Skara Brae",
+      "duration": 140,
+      "isrc": "USA371006521"
+    },
+    {
+      "artist": "Bald Maniax",
+      "title": "Creators of Rotterdam Hardcore",
+      "services": {
+        "qobuz": "304951750"
+      },
+      "album": "Rotterdam Records 100",
+      "duration": 297,
+      "isrc": "NLC050700106"
+    },
+    {
+      "artist": "X CLUB.",
+      "title": "Feel The Beat",
+      "services": {
+        "qobuz": "252008090"
+      },
+      "album": "Wrestling With New Technique",
+      "duration": 281,
+      "isrc": "USLZJ2421837"
+    },
+    {
+      "artist": "Pauls Jets",
+      "title": "Smash",
+      "services": {
+        "qobuz": "350769028"
+      },
+      "album": "Morgen sind wir Fantasy",
+      "duration": 176,
+      "isrc": "DEEH62500166"
+    },
+    {
+      "artist": "The Scotchman",
+      "title": "Asylum",
+      "services": {
+        "qobuz": "111632101"
+      },
+      "album": "Mayhem",
+      "duration": 227,
+      "isrc": "GBKQU1554377"
+    },
+    {
+      "artist": "Scott Hamilton",
+      "title": "Fly Me to the Moon",
+      "services": {
+        "qobuz": "134243516"
+      },
+      "album": "Two for the Road",
+      "duration": 482,
+      "isrc": "ES5302171741"
+    },
+    {
+      "artist": "All Good Things",
+      "title": "Search and Destroy (feat. Dan Murphy)",
+      "services": {
+        "qobuz": "155551384"
+      },
+      "album": "All Good Songs",
+      "duration": 247,
+      "isrc": "TCACT1600745"
+    },
+    {
+      "artist": "How To Destroy Angels",
+      "title": "The loop closes",
+      "services": {
+        "qobuz": "6966653"
+      },
+      "album": "An omen EP_",
+      "duration": 288,
+      "isrc": "USQX91201514"
+    },
+    {
+      "artist": "George Jordan",
+      "title": "The Rhythm Is Here",
+      "services": {
+        "qobuz": "418013609"
+      },
+      "album": "Gotta Have It EP",
+      "duration": 342,
+      "isrc": "CA5KR2652425"
+    },
+    {
+      "artist": "Armin van Buuren",
+      "title": "Techno Trance",
+      "services": {
+        "qobuz": "378320890"
+      },
+      "album": "Techno Trance",
+      "duration": 216,
+      "isrc": "NLF712505313"
+    },
+    {
+      "artist": "Forze DJ Team",
+      "title": "One To The Two",
+      "services": {
+        "qobuz": "299642690"
+      },
+      "album": "A New Beginning",
+      "duration": 153,
+      "isrc": "NLC050200679"
+    },
+    {
+      "artist": "Elvis Costello",
+      "title": "(What's So Funny 'Bout) Peace, Love And Understanding",
+      "services": {
+        "qobuz": "108354962"
+      },
+      "album": "Armed Forces",
+      "duration": 212,
+      "isrc": "GBASQ7900053"
+    },
+    {
+      "artist": "Paul Elstak",
+      "title": "Rainbow in the Sky",
+      "services": {
+        "qobuz": "378268023"
+      },
+      "album": "Happy Hardcore Top 100 (Best Ever)",
+      "duration": 207,
+      "isrc": "NLC050201093"
+    },
+    {
+      "artist": "Goat Roti",
+      "title": "Life Is a Mystery",
+      "services": {
+        "qobuz": "174763727"
+      },
+      "album": "Itinerary",
+      "duration": 62,
+      "isrc": "USE831562583"
+    },
+    {
+      "artist": "Rave Nation",
+      "title": "Going Crazy",
+      "services": {
+        "qobuz": "378268608"
+      },
+      "album": "Happy Hardcore Top 100",
+      "duration": 325,
+      "isrc": "NLC050200661"
+    },
+    {
+      "artist": "The Screamin' Cheetah Wheelies",
+      "title": "Right Place, Wrong Time",
+      "services": {
+        "qobuz": "47257884"
+      },
+      "album": "Big Wheel",
+      "duration": 216,
+      "isrc": "USCA19886864"
+    },
+    {
+      "artist": "The Stunned Guys",
+      "title": "Love really sucks",
+      "services": {
+        "qobuz": "270212502"
+      },
+      "album": "The Stunned Guys' Rewinds - Early Hardcore 1994-1997",
+      "duration": 230,
+      "isrc": "ITD131800213"
+    },
+    {
+      "artist": "Hristo Nedelkov Kutelov",
+      "title": "Batyovata baldazka (Big Brother\u2019s Sister-in-Law)",
+      "services": {
+        "qobuz": "68981862"
+      },
+      "album": "Sound Portraits from Bulgaria: A Journey to a Vanished World",
+      "duration": 116,
+      "isrc": "USSF11858708"
+    },
+    {
+      "artist": "Electric Soldierz",
+      "title": "Ultra Xtra Hard Bass Surge X Midnight Reactor",
+      "services": {
+        "qobuz": "399863567"
+      },
+      "album": "Midnight Reactor",
+      "duration": 312,
+      "isrc": "GXJBU2609734"
+    },
+    {
+      "artist": "Hillbilly Hellcats",
+      "title": "Hillbillies On Speed",
+      "services": {
+        "qobuz": "77717027"
+      },
+      "album": "Rev it up with Taz",
+      "duration": 152,
+      "isrc": "USHM20348469"
+    },
+    {
+      "artist": "J A Y E L E C T R O N I C A",
+      "title": "Road To Perdition",
+      "services": {
+        "qobuz": "358029597"
+      },
+      "album": "Act II: The Patents of Nobility (the turn)",
+      "duration": 214,
+      "isrc": "USA2P2036091"
+    },
+    {
+      "artist": "Paul Elstak",
+      "title": "Rainbow in the Sky",
+      "services": {
+        "qobuz": "378268023"
+      },
+      "album": "Happy Hardcore Top 100 (Best Ever)",
+      "duration": 207,
+      "isrc": "NLC050201093"
+    },
+    {
+      "artist": "Art Bleek",
+      "title": "Cold As Ice",
+      "services": {
+        "qobuz": "413766123"
+      },
+      "album": "Sweet Sonic Groove",
+      "duration": 179,
+      "isrc": "GB8X82559955"
+    },
+    {
+      "artist": "Enigma",
+      "title": "Turn Around",
+      "services": {
+        "qobuz": "61660671"
+      },
+      "album": "Love Sensuality Devotion: Greatest Hits & Remixes",
+      "duration": 231,
+      "isrc": "DEG120102002"
+    },
+    {
+      "artist": "Coone",
+      "title": "Jiiieehaaaa (Warrior Workout 2026 OST)",
+      "services": {
+        "qobuz": "422143470"
+      },
+      "album": "Jiiieehaaaa (Warrior Workout 2026 OST)",
+      "duration": 159,
+      "isrc": "NLH2L2600154"
+    },
+    {
+      "artist": "247 Street",
+      "title": "B.I.G DOPE | No Lies",
+      "services": {
+        "qobuz": "431796415"
+      },
+      "album": "B.I.G DOPE | No Lies",
+      "duration": 150,
+      "isrc": "QT6ET2603032"
+    },
+    {
+      "artist": "Hardheads",
+      "title": "I'm A Gabber Baby",
+      "services": {
+        "qobuz": "120983544"
+      },
+      "album": "25 Years Megarave Records, Pt. 2: The Digital Hardcore Age",
+      "duration": 285,
+      "isrc": "NLS161802636"
+    },
+    {
+      "artist": "The Gregory Brothers",
+      "title": "The Last Goodbye",
+      "services": {
+        "qobuz": "156752213"
+      },
+      "album": "The Last Goodbye",
+      "duration": 198,
+      "isrc": "US92U1906285"
+    },
+    {
+      "artist": "Radio-Sinfonieorchester Stuttgart des SWR",
+      "title": "I. Adagio molto (Live)",
+      "services": {
+        "qobuz": "306215480"
+      },
+      "album": "Beethoven: Complete Symphonies (Live)",
+      "duration": 524,
+      "isrc": "DEA550205648"
+    },
+    {
+      "artist": "R. Kelly",
+      "title": "Feelin' On Yo Booty - Dirty South Mix featuring YoungBloodz",
+      "services": {
+        "qobuz": "354444"
+      },
+      "album": "Remix City Volume 1",
+      "duration": 207,
+      "isrc": "USJI10500675"
+    },
+    {
+      "artist": "Hard Creation",
+      "title": "Who Came to Party",
+      "services": {
+        "qobuz": "378268601"
+      },
+      "album": "Happy Hardcore Top 100",
+      "duration": 236,
+      "isrc": "NLC050200717"
+    },
+    {
+      "artist": "Dr Z-Vago",
+      "title": "The Bat Device",
+      "services": {
+        "qobuz": "234898681"
+      },
+      "album": "Hardcore Never Dies",
+      "duration": 313,
+      "isrc": "NLS160700497"
+    },
+    {
+      "artist": "Steve Vai",
+      "title": "Here & Now",
+      "services": {
+        "qobuz": "48685"
+      },
+      "album": "SEX & RELIGION",
+      "duration": 287,
+      "isrc": "USSM19300234"
+    },
+    {
+      "artist": "Cinnamon Soulettes",
+      "title": "I'll Show You How",
+      "services": {
+        "qobuz": "200792036"
+      },
+      "album": "I'll Show You How / Wishing On A Wishing Well",
+      "duration": 189,
+      "isrc": "UK9AV2300397"
+    },
+    {
+      "artist": "P!nk",
+      "title": "You Make Me Sick",
+      "services": {
+        "qobuz": "60899549"
+      },
+      "album": "Can't Take Me Home (Expanded Edition)",
+      "duration": 247,
+      "isrc": "USLF20000534"
+    },
+    {
+      "artist": "Sound Enhancerz",
+      "title": "The Strong Survive",
+      "services": {
+        "qobuz": "24802903"
+      },
+      "album": "Pussy lounge 2015",
+      "duration": 224,
+      "isrc": "NLE801515003"
+    },
+    {
+      "artist": "Jamie Cullum",
+      "title": "Don't Let Me Be Misunderstood",
+      "services": {
+        "qobuz": "19715739"
+      },
+      "album": "Interlude",
+      "duration": 179,
+      "isrc": "GBUM71404365"
+    },
+    {
+      "artist": "Watermelon Funk",
+      "title": "Shibuya (feat. Philly G, Wais P & Dag Force)",
+      "services": {
+        "qobuz": "417291285"
+      },
+      "album": "Shibuya (feat. Philly G, Wais P & Dag Force)",
+      "duration": 230,
+      "isrc": "QZZ792675078"
+    },
+    {
+      "artist": "Masters Of Ceremony",
+      "title": "Hardcore To Da Bone",
+      "services": {
+        "qobuz": "296602594"
+      },
+      "album": "Hardcore To Da Bone",
+      "duration": 316,
+      "isrc": "NLC050200686"
+    },
+    {
+      "artist": "Eliquate",
+      "title": "All the Lonely Fuck Ups (feat. Homeless)",
+      "services": {
+        "qobuz": "74935155"
+      },
+      "album": "Arch Rhythm",
+      "duration": 189,
+      "isrc": "USX9P1013655"
+    },
+    {
+      "artist": "Lucinda Williams",
+      "title": "So Much Trouble In The World (feat. Mavis Staples)",
+      "services": {
+        "qobuz": "360303253"
+      },
+      "album": "World's Gone Wrong",
+      "duration": 275,
+      "isrc": "QMDA72583271"
+    },
+    {
+      "artist": "Nicholas Craven",
+      "title": "Speedy Recovery",
+      "services": {
+        "qobuz": "244315188"
+      },
+      "album": "Penalty of Leadership",
+      "duration": 196,
+      "isrc": "TCAHS2334446"
+    },
+    {
+      "artist": "Michel F. April",
+      "title": "The Trickster",
+      "services": {
+        "qobuz": "235111101"
+      },
+      "album": "Dead by Daylight, Vol. 3 (Original Video Game Soundtrack)",
+      "duration": 74,
+      "isrc": "CAA502351414"
+    },
+    {
+      "artist": "Ultimate Buzz",
+      "title": "Rofos Theme",
+      "services": {
+        "qobuz": "43886926"
+      },
+      "album": "Best of the Buzz",
+      "duration": 239,
+      "isrc": "AUXN21400246"
+    },
+    {
+      "artist": "Pino Sallusti",
+      "title": "Do It Again",
+      "services": {
+        "qobuz": "37248637"
+      },
+      "album": "Night of Dreams",
+      "duration": 455,
+      "isrc": "ITE871605719"
+    },
+    {
+      "artist": "Mop Mop",
+      "title": "Destination",
+      "services": {
+        "qobuz": "17899844"
+      },
+      "album": "Ritual of the Savage Remix Ep",
+      "duration": 536,
+      "isrc": "DEQ921000024"
+    },
+    {
+      "artist": "Nothing But Thieves",
+      "title": "Graveyard Whistling",
+      "services": {
+        "qobuz": "27398437"
+      },
+      "album": "Nothing But Thieves",
+      "duration": 232,
+      "isrc": "GBARL1500790"
+    },
+    {
+      "artist": "Cerrone",
+      "title": "You Are the One",
+      "services": {
+        "qobuz": "155712614"
+      },
+      "album": "Best of Remixes",
+      "duration": 295,
+      "isrc": "FR0D02200085"
+    },
+    {
+      "artist": "Pineal Gland Activator",
+      "title": "Pineal Gland Deep Noise",
+      "services": {
+        "qobuz": "165655910"
+      },
+      "album": "Comfortable Soothing Sleep Sounds",
+      "duration": 125,
+      "isrc": "FRX282255649"
+    },
+    {
+      "artist": "Orange Juice",
+      "title": "I Can't Help Myself",
+      "services": {
+        "qobuz": "169116391"
+      },
+      "album": "Rip It Up",
+      "duration": 307,
+      "isrc": "GBCEL1000582"
+    },
+    {
+      "artist": "The Beaches",
+      "title": "Did I Say Too Much",
+      "services": {
+        "qobuz": "329659905"
+      },
+      "album": "No Hard Feelings",
+      "duration": 188,
+      "isrc": "QM6N22532885"
+    }
+  ]
+}

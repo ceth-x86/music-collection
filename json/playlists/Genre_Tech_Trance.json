@@ -1,0 +1,1009 @@
+{
+  "name": "Genre: Tech Trance",
+  "services": {
+    "qobuz": "66721530"
+  },
+  "description": "Imported genre playlist: Tech Trance.",
+  "tracks": [
+    {
+      "artist": "L.S.G.",
+      "title": "Blueprint",
+      "services": {
+        "qobuz": "318509069"
+      },
+      "album": "The Best Of L.S.G.: The Singles Reworked",
+      "duration": 456,
+      "isrc": "DEKB72050185"
+    },
+    {
+      "artist": "Marmion",
+      "title": "Sch\u00f6neberg",
+      "services": {
+        "qobuz": "204221331"
+      },
+      "album": "Sch\u00f6neberg",
+      "duration": 385,
+      "isrc": "DEL029310006"
+    },
+    {
+      "artist": "Energy 52",
+      "title": "Caf\u00e9 del Mar",
+      "services": {
+        "qobuz": "224060022"
+      },
+      "album": "Caf\u00e9 Del Mar",
+      "duration": 219,
+      "isrc": "DEL029760009"
+    },
+    {
+      "artist": "Mario Piu'",
+      "title": "Communication [Somebody Answer the Phone]",
+      "services": {
+        "qobuz": "207267080"
+      },
+      "album": "Communication [Somebody Answer the Phone]",
+      "duration": 258,
+      "isrc": "NLE712300314"
+    },
+    {
+      "artist": "The Alan Parsons Project",
+      "title": "You're Gonna Get Your Fingers Burned",
+      "services": {
+        "qobuz": "38623129"
+      },
+      "album": "Eye In The Sky",
+      "duration": 261,
+      "isrc": "USAR18200167"
+    },
+    {
+      "artist": "Christopher Lawrence",
+      "title": "Rush Hour",
+      "services": {
+        "qobuz": "113616712"
+      },
+      "album": "Rush Hour / Ride the Light",
+      "duration": 444,
+      "isrc": "US4L70400010"
+    },
+    {
+      "artist": "Randy Katana",
+      "title": "Fancy Fair",
+      "services": {
+        "qobuz": "48293949"
+      },
+      "album": "Fancy Fair 2005",
+      "duration": 386,
+      "isrc": "NLC280410181"
+    },
+    {
+      "artist": "Ti\u00ebsto",
+      "title": "Lethal Industry",
+      "services": {
+        "qobuz": "315597359"
+      },
+      "album": "Magikal Journey -The Hits Collection 1998 - 2008",
+      "duration": 163,
+      "isrc": "NLE710280422"
+    },
+    {
+      "artist": "Marco V",
+      "title": "Simulated",
+      "services": {
+        "qobuz": "25749977"
+      },
+      "album": "Simulated",
+      "duration": 191,
+      "isrc": "NLE800510078"
+    },
+    {
+      "artist": "Frank Biazzi",
+      "title": "Turbulence",
+      "services": {
+        "qobuz": "104242720"
+      },
+      "album": "Turbulence",
+      "duration": 405,
+      "isrc": "BEN580200089"
+    },
+    {
+      "artist": "Svenson & Gielen",
+      "title": "Twisted",
+      "services": {
+        "qobuz": "198620300"
+      },
+      "album": "The Beauty Of Silence",
+      "duration": 183,
+      "isrc": "NLE800510072"
+    },
+    {
+      "artist": "The Quest",
+      "title": "C Sharp",
+      "services": {
+        "qobuz": "122750167"
+      },
+      "album": "C Sharp",
+      "duration": 191,
+      "isrc": "NLD682102230"
+    },
+    {
+      "artist": "Mauro Picotto",
+      "title": "I'm in Heaven",
+      "services": {
+        "qobuz": "62583629"
+      },
+      "album": "I'm in Heaven",
+      "duration": 422,
+      "isrc": "ITE341900029"
+    },
+    {
+      "artist": "Filterheadz",
+      "title": "Yimanya (Mixed)",
+      "services": {
+        "qobuz": "378285552"
+      },
+      "album": "A State Of Trance Year Mix 2004 (Mixed)",
+      "duration": 113,
+      "isrc": "NLS241401458"
+    },
+    {
+      "artist": "Thomas Bitell",
+      "title": "cold nights",
+      "services": {
+        "qobuz": "397879752"
+      },
+      "album": "Distant Light and the Soft Nostalgia",
+      "duration": 202,
+      "isrc": "QZNWT2619421"
+    },
+    {
+      "artist": "Rank 1",
+      "title": "Beats At Rank-1 Dotcom",
+      "services": {
+        "qobuz": "18692229"
+      },
+      "album": "Beats At Rank-1 Dotcom",
+      "duration": 418,
+      "isrc": "NLE800400064"
+    },
+    {
+      "artist": "Igor S and Friends",
+      "title": "Boomerang",
+      "services": {
+        "qobuz": "369830192"
+      },
+      "album": "The History",
+      "duration": 386,
+      "isrc": "ITJ871500062"
+    },
+    {
+      "artist": "Courtney Barnett",
+      "title": "Stay In Your Lane",
+      "services": {
+        "qobuz": "374403604"
+      },
+      "album": "Creature of Habit",
+      "duration": 194,
+      "isrc": "USQE92500127"
+    },
+    {
+      "artist": "Fred Baker",
+      "title": "Genetic",
+      "services": {
+        "qobuz": "416311561"
+      },
+      "album": "Genetic",
+      "duration": 243,
+      "isrc": "BEE322605004"
+    },
+    {
+      "artist": "Substate",
+      "title": "Horizon",
+      "services": {
+        "qobuz": "68882178"
+      },
+      "album": "Horizon",
+      "duration": 550,
+      "isrc": "USV351468327"
+    },
+    {
+      "artist": "Ida Sand",
+      "title": "I Will Be Right There",
+      "services": {
+        "qobuz": "370982172"
+      },
+      "album": "I Will Be Right There",
+      "duration": 268,
+      "isrc": "DEA892600065"
+    },
+    {
+      "artist": "Afrika Bambaataa",
+      "title": "Mind Control",
+      "services": {
+        "qobuz": "307600666"
+      },
+      "album": "Mind Control",
+      "duration": 430,
+      "isrc": "IT00G9713073"
+    },
+    {
+      "artist": "Ricky Fobis",
+      "title": "No Regular",
+      "services": {
+        "qobuz": "122706253"
+      },
+      "album": "No Regular",
+      "duration": 391,
+      "isrc": "ITC400200081"
+    },
+    {
+      "artist": "Mark Norman",
+      "title": "Phantom Manor",
+      "services": {
+        "qobuz": "42391507"
+      },
+      "album": "Phantom Manor",
+      "duration": 427,
+      "isrc": "NLE711700212"
+    },
+    {
+      "artist": "Krzysztof Chochlow",
+      "title": "Express (Original Mix)",
+      "services": {
+        "qobuz": "68633446"
+      },
+      "album": "Nothing To Say",
+      "duration": 461,
+      "isrc": "GBJAL0800057"
+    },
+    {
+      "artist": "Butterfly",
+      "title": "Hardlove (Motion Anthem 2013)",
+      "services": {
+        "qobuz": "28886009"
+      },
+      "album": "Trance Invasion 2",
+      "duration": 187,
+      "isrc": "CH0311300559"
+    },
+    {
+      "artist": "Ohio Players",
+      "title": "Runnin From The Devil",
+      "services": {
+        "qobuz": "112883781"
+      },
+      "album": "Fire",
+      "duration": 288,
+      "isrc": "USWWW0128392"
+    },
+    {
+      "artist": "Liquid Spill",
+      "title": "5 Elements",
+      "services": {
+        "qobuz": "48029293"
+      },
+      "album": "Back to the Past - Remix Collection",
+      "duration": 422,
+      "isrc": "DEBA71500154"
+    },
+    {
+      "artist": "DVBBS",
+      "title": "Tsunami",
+      "services": {
+        "qobuz": "47407316"
+      },
+      "album": "Tsunami",
+      "duration": 236,
+      "isrc": "NLWV71300021"
+    },
+    {
+      "artist": "Abel Ramos",
+      "title": "Aquarius",
+      "services": {
+        "qobuz": "46837065"
+      },
+      "album": "DJ Vibe Presents Global Grooves 3",
+      "duration": 268,
+      "isrc": "QMDA61825358"
+    },
+    {
+      "artist": "Scott Mac",
+      "title": "Damager 02",
+      "services": {
+        "qobuz": "103582863"
+      },
+      "album": "Damager 02",
+      "duration": 210,
+      "isrc": "NLE712000854"
+    },
+    {
+      "artist": "Ron van den Beuken",
+      "title": "Timeless",
+      "services": {
+        "qobuz": "55782173"
+      },
+      "album": "Timeless",
+      "duration": 199,
+      "isrc": "NLC280310092"
+    },
+    {
+      "artist": "DJ Isaac",
+      "title": "Burn (Sub Zero Project Remix)",
+      "services": {
+        "qobuz": "49396695"
+      },
+      "album": "Burn (Sub Zero Project Remix)",
+      "duration": 244,
+      "isrc": "BEB681700242"
+    },
+    {
+      "artist": "Pavement",
+      "title": "Harness Your Hopes",
+      "services": {
+        "qobuz": "59237310"
+      },
+      "album": "Brighten the Corners: Nicene Creedence Ed.",
+      "duration": 206,
+      "isrc": "USMTD0880519"
+    },
+    {
+      "artist": "Charlie Haden Quartet West",
+      "title": "Let's Call It A Day",
+      "services": {
+        "qobuz": "2575627"
+      },
+      "album": "Sophisticated Ladies",
+      "duration": 351,
+      "isrc": "GBUM71027083"
+    },
+    {
+      "artist": "Ernesto vs. Bastian",
+      "title": "Dark Side Of The Moon",
+      "services": {
+        "qobuz": "21198318"
+      },
+      "album": "Dark Side Of The Moon",
+      "duration": 483,
+      "isrc": "NLE800500004"
+    },
+    {
+      "artist": "Ronald van Gelderen",
+      "title": "Calling 99",
+      "services": {
+        "qobuz": "392320384"
+      },
+      "album": "Calling 99",
+      "duration": 490,
+      "isrc": "GBKQU2602809"
+    },
+    {
+      "artist": "Jochen Miller",
+      "title": "India",
+      "services": {
+        "qobuz": "14877424"
+      },
+      "album": "Best of Trance Vol. 2",
+      "duration": 474,
+      "isrc": "NLE800500015"
+    },
+    {
+      "artist": "Victor Joop Lasut",
+      "title": "Change the World",
+      "services": {
+        "qobuz": "337197307"
+      },
+      "album": "Change the World",
+      "duration": 195,
+      "isrc": "AEA3A2176874"
+    },
+    {
+      "artist": "Marcel Woods",
+      "title": "Advanced",
+      "services": {
+        "qobuz": "7062297"
+      },
+      "album": "Open All Hours",
+      "duration": 371,
+      "isrc": "NLE801100435"
+    },
+    {
+      "artist": "Bart Claessen",
+      "title": "Playmo (1st Play) [Mixed]",
+      "services": {
+        "qobuz": "420172879"
+      },
+      "album": "Live at EDC Las Vegas 2026 (Highlights)",
+      "duration": 145,
+      "isrc": "NLF712602853"
+    },
+    {
+      "artist": "Rotersand",
+      "title": "Social Distortion",
+      "services": {
+        "qobuz": "91731728"
+      },
+      "album": "Electric Elephant",
+      "duration": 436,
+      "isrc": "DEZ901400775"
+    },
+    {
+      "artist": "Funkmaster Flex",
+      "title": "Ill Bomb",
+      "services": {
+        "qobuz": "23114215"
+      },
+      "album": "G. O. A. T. Featuring James T. Smith: The Greatest Of All Time",
+      "duration": 241,
+      "isrc": "USDJ20010371"
+    },
+    {
+      "artist": "Lloyd Cole",
+      "title": "Wolves",
+      "services": {
+        "qobuz": "205948049"
+      },
+      "album": "Warm by the Fire",
+      "duration": 224,
+      "isrc": "DEH842300078"
+    },
+    {
+      "artist": "Sander Van Doorn",
+      "title": "Gold Skies (feat. Aleesia)",
+      "services": {
+        "qobuz": "47599615"
+      },
+      "album": "Gold Skies (feat. Aleesia)",
+      "duration": 236,
+      "isrc": "NLZ541400459"
+    },
+    {
+      "artist": "Wippenberg",
+      "title": "Chakalaka",
+      "services": {
+        "qobuz": "25416722"
+      },
+      "album": "Chakalaka",
+      "duration": 205,
+      "isrc": "NLE800800323"
+    },
+    {
+      "artist": "Dirt Devils",
+      "title": "The Drill (Flashback) [ABGT293]",
+      "services": {
+        "qobuz": "424938620"
+      },
+      "album": "Group Therapy 293",
+      "duration": 253,
+      "isrc": "GBEWA1802282"
+    },
+    {
+      "artist": "Evan JPL",
+      "title": "Midnight Blue Skies",
+      "services": {
+        "qobuz": "306978783"
+      },
+      "album": "Moonlight Bay",
+      "duration": 212,
+      "isrc": "GXF9Q2487915"
+    },
+    {
+      "artist": "Foylee",
+      "title": "Hot Fuzz (Fabio Stein Remix)",
+      "services": {
+        "qobuz": "68627964"
+      },
+      "album": "Slinky Trance Volume 1",
+      "duration": 505,
+      "isrc": "GBTGU1000003"
+    },
+    {
+      "artist": "The Hard Quartet",
+      "title": "Action For Military Boys",
+      "services": {
+        "qobuz": "280452835"
+      },
+      "album": "The Hard Quartet",
+      "duration": 290,
+      "isrc": "USMTD2400136"
+    },
+    {
+      "artist": "Simon Patterson",
+      "title": "Bulldozer (V2)",
+      "services": {
+        "qobuz": "378314884"
+      },
+      "album": "A State of Trance Radio Top 50 - 2025, Vol. 1",
+      "duration": 195,
+      "isrc": "NLF712500350"
+    },
+    {
+      "artist": "Heatbeat",
+      "title": "Push Over",
+      "services": {
+        "qobuz": "58881748"
+      },
+      "album": "25 Global Tunes, Vol. 4",
+      "duration": 250,
+      "isrc": "NLF710800405"
+    },
+    {
+      "artist": "John Askew",
+      "title": "Vellum (Original Mix)",
+      "services": {
+        "qobuz": "68641264"
+      },
+      "album": "Lower the Tone",
+      "duration": 488,
+      "isrc": "GBJAL0500056"
+    },
+    {
+      "artist": "Sean Tyas",
+      "title": "Lift",
+      "services": {
+        "qobuz": "68643296"
+      },
+      "album": "Militant Artists Presents... Chris Hampshire",
+      "duration": 509,
+      "isrc": "GBJAL1000166"
+    },
+    {
+      "artist": "DJ_Johno",
+      "title": "Time Machine",
+      "services": {
+        "qobuz": "432118976"
+      },
+      "album": "Time Machine",
+      "duration": 283,
+      "isrc": "QT6ET2689690"
+    },
+    {
+      "artist": "Planet Booty",
+      "title": "Naughty",
+      "services": {
+        "qobuz": "125685903"
+      },
+      "album": "Guilty Pleasure",
+      "duration": 203,
+      "isrc": "TCAEG1999584"
+    },
+    {
+      "artist": "Michael Franks",
+      "title": "Woman In The Waves",
+      "services": {
+        "qobuz": "4613922"
+      },
+      "album": "Blue Pacific",
+      "duration": 358,
+      "isrc": "USRE19900265"
+    },
+    {
+      "artist": "Nenes",
+      "title": "Platinum",
+      "services": {
+        "qobuz": "8277461"
+      },
+      "album": "Trance Revelations Progress 7 The Classic Edition",
+      "duration": 453,
+      "isrc": "NLE800700040"
+    },
+    {
+      "artist": "Armin van Buuren",
+      "title": "Control Freak (ASOT 1266)",
+      "services": {
+        "qobuz": "398529904"
+      },
+      "album": "ASOT 1266 - A State of Trance Episode 1266",
+      "duration": 205,
+      "isrc": "NLF712601222"
+    },
+    {
+      "artist": "Timmy & Tommy",
+      "title": "Full Tiltin",
+      "services": {
+        "qobuz": "113573077"
+      },
+      "album": "Full Tiltin",
+      "duration": 438,
+      "isrc": "IEBRM0800001"
+    },
+    {
+      "artist": "David Bowie",
+      "title": "The Jean Genie",
+      "services": {
+        "qobuz": "176796786"
+      },
+      "album": "Unplugged & Slightly Phased",
+      "duration": 318,
+      "isrc": "USY251965630"
+    },
+    {
+      "artist": "The Osborne Brothers",
+      "title": "Fourteen Carat Mind",
+      "services": {
+        "qobuz": "72732117"
+      },
+      "album": "Hillbilly Fever",
+      "duration": 140,
+      "isrc": "USEWC0770730"
+    },
+    {
+      "artist": "Avatar",
+      "title": "Let It Burn",
+      "services": {
+        "qobuz": "51048496"
+      },
+      "album": "Black Waltz",
+      "duration": 212,
+      "isrc": "SEVWR1100507"
+    },
+    {
+      "artist": "The Weeknd",
+      "title": "Take Me Back To LA",
+      "services": {
+        "qobuz": "315416326"
+      },
+      "album": "Hurry Up Tomorrow",
+      "duration": 253,
+      "isrc": "USUG12501140"
+    },
+    {
+      "artist": "Ltj Xperience",
+      "title": "Feel the Real",
+      "services": {
+        "qobuz": "63985077"
+      },
+      "album": "Radio Yacht Monte Carlo Coast",
+      "duration": 445,
+      "isrc": "ITI020000155"
+    },
+    {
+      "artist": "Marcus Sch\u00f6ssow",
+      "title": "Genre This",
+      "services": {
+        "qobuz": "47910957"
+      },
+      "album": "Genre This",
+      "duration": 510,
+      "isrc": "NLC281010645"
+    },
+    {
+      "artist": "Chris Schweizer",
+      "title": "Nekrohsis",
+      "services": {
+        "qobuz": "5928444"
+      },
+      "album": "Dub Tech Recordings - Best Of 2010",
+      "duration": 344,
+      "isrc": "SVA010600374"
+    },
+    {
+      "artist": "Pulse & Sphere",
+      "title": "Explosions",
+      "services": {
+        "qobuz": "410782491"
+      },
+      "album": "Explosions",
+      "duration": 264,
+      "isrc": "GBKQU2633106"
+    },
+    {
+      "artist": "Stereophonics",
+      "title": "Taken a Tumble",
+      "services": {
+        "qobuz": "42401164"
+      },
+      "album": "Scream Above the Sounds",
+      "duration": 216,
+      "isrc": "GBAYE1703285"
+    },
+    {
+      "artist": "Charli XCX",
+      "title": "Sympathy is a knife",
+      "services": {
+        "qobuz": "271137855"
+      },
+      "album": "Brat and it\u2019s the same but there\u2019s three more songs so it\u2019s not",
+      "duration": 151,
+      "isrc": "USAT22401343"
+    },
+    {
+      "artist": "Organ Donors",
+      "title": "Bomb Thrush",
+      "services": {
+        "qobuz": "273681566"
+      },
+      "album": "Secret Vinyl Album, Vol. 4",
+      "duration": 284,
+      "isrc": "GBKQU2461500"
+    },
+    {
+      "artist": "Curve",
+      "title": "Mission from God",
+      "services": {
+        "qobuz": "13762791"
+      },
+      "album": "The Way Of Curve",
+      "duration": 247,
+      "isrc": "GBARL0400277"
+    },
+    {
+      "artist": "4Th Impact",
+      "title": "K(NO)W MORE",
+      "services": {
+        "qobuz": "149978924"
+      },
+      "album": "K(NO)W MORE",
+      "duration": 211,
+      "isrc": "QMEZE1942617"
+    },
+    {
+      "artist": "Nu:Tone",
+      "title": "Upgrade",
+      "services": {
+        "qobuz": "207681090"
+      },
+      "album": "Hospitalised",
+      "duration": 361,
+      "isrc": "GBCJY0610024"
+    },
+    {
+      "artist": "Ummet Ozcan",
+      "title": "The Box",
+      "services": {
+        "qobuz": "47214080"
+      },
+      "album": "The Box",
+      "duration": 361,
+      "isrc": "NLC281210447"
+    },
+    {
+      "artist": "Renegade System",
+      "title": "Flintstone",
+      "services": {
+        "qobuz": "195919764"
+      },
+      "album": "Sub-Terra Resistance: Volume 1",
+      "duration": 236,
+      "isrc": "NLD682300627"
+    },
+    {
+      "artist": "Activa",
+      "title": "Telic [Pt. One]",
+      "services": {
+        "qobuz": "97395776"
+      },
+      "album": "To The Point",
+      "duration": 483,
+      "isrc": "GBJAL1100186"
+    },
+    {
+      "artist": "Shanti People",
+      "title": "Asato",
+      "services": {
+        "qobuz": "85593536"
+      },
+      "album": "Asato",
+      "duration": 406,
+      "isrc": "DKZVA2000074"
+    },
+    {
+      "artist": "Neal Scarborough",
+      "title": "Kanya",
+      "services": {
+        "qobuz": "377924510"
+      },
+      "album": "50 Trance Tunes, Vol. 24",
+      "duration": 582,
+      "isrc": "NLF711001550"
+    },
+    {
+      "artist": "Ruben de Ronde",
+      "title": "Away From You",
+      "services": {
+        "qobuz": "231068578"
+      },
+      "album": "Away From You",
+      "duration": 234,
+      "isrc": "NLJ5V2100083"
+    },
+    {
+      "artist": "Greg Downey",
+      "title": "P45",
+      "services": {
+        "qobuz": "40447236"
+      },
+      "album": "P45",
+      "duration": 453,
+      "isrc": "NLD681700854"
+    },
+    {
+      "artist": "Mark Sherry",
+      "title": "Sangre Caliente",
+      "services": {
+        "qobuz": "74387108"
+      },
+      "album": "Sangre Caliente",
+      "duration": 228,
+      "isrc": "GBGWM1920257"
+    },
+    {
+      "artist": "Allen Watts",
+      "title": "Spectral",
+      "services": {
+        "qobuz": "220898443"
+      },
+      "album": "Spectral",
+      "duration": 177,
+      "isrc": "UKRMQ2300827"
+    },
+    {
+      "artist": "Ayda",
+      "title": "Pharaoh",
+      "services": {
+        "qobuz": "106951975"
+      },
+      "album": "Pharaoh",
+      "duration": 408,
+      "isrc": "GBKQU1297665"
+    },
+    {
+      "artist": "Matt Corby",
+      "title": "Never Tear Us Apart",
+      "services": {
+        "qobuz": "388621368"
+      },
+      "album": "Live From Sydney ABC NYE 2025",
+      "duration": 252,
+      "isrc": "AU2DY2600031"
+    },
+    {
+      "artist": "bryan kearney",
+      "title": "Te Amo",
+      "services": {
+        "qobuz": "237141738"
+      },
+      "album": "Te Amo",
+      "duration": 404,
+      "isrc": "GBLV62300757"
+    },
+    {
+      "artist": "Alex Di Stefano",
+      "title": "Escape from the Past",
+      "services": {
+        "qobuz": "33086028"
+      },
+      "album": "Outburst presents Prism Volume 1",
+      "duration": 437,
+      "isrc": "GBGWM1410007"
+    },
+    {
+      "artist": "Fisherman & Hawkins",
+      "title": "Apache (Mix Cut)",
+      "services": {
+        "qobuz": "377991959"
+      },
+      "album": "A State Of Trance Year Mix 2013",
+      "duration": 72,
+      "isrc": "NLF711314179"
+    },
+    {
+      "artist": "Indecent Noise",
+      "title": "Make You Move",
+      "services": {
+        "qobuz": "365530108"
+      },
+      "album": "Make You Move",
+      "duration": 201,
+      "isrc": "NL2J92509854"
+    },
+    {
+      "artist": "Jordan Suckley",
+      "title": "Elation",
+      "services": {
+        "qobuz": "21650419"
+      },
+      "album": "Elation",
+      "duration": 470,
+      "isrc": "NLD681401451"
+    },
+    {
+      "artist": "Tempo Giusto",
+      "title": "Benzin",
+      "services": {
+        "qobuz": "106799238"
+      },
+      "album": "Benzin",
+      "duration": 327,
+      "isrc": "GBLV61411116"
+    },
+    {
+      "artist": "Nick Mason's Saucerful of Secrets",
+      "title": "Interstellar Overdrive",
+      "services": {
+        "qobuz": "85153294"
+      },
+      "album": "Live at the Roundhouse",
+      "duration": 349,
+      "isrc": "USQX91903054"
+    },
+    {
+      "artist": "Paul Denton",
+      "title": "Searching the Sky",
+      "services": {
+        "qobuz": "31074331"
+      },
+      "album": "Searching the Sky",
+      "duration": 520,
+      "isrc": "NLD681600636"
+    },
+    {
+      "artist": "The Avalanches",
+      "title": "Interstellar Love",
+      "services": {
+        "qobuz": "108680074"
+      },
+      "album": "We Will Always Love You",
+      "duration": 218,
+      "isrc": "AUUM72000708"
+    },
+    {
+      "artist": "DJ Jus-Ed",
+      "title": "ReTrace Your Life",
+      "services": {
+        "qobuz": "270314274"
+      },
+      "album": "DJ Jus-Ed vs DJ Qu Real House Music",
+      "duration": 468,
+      "isrc": "QM4TW2222241"
+    },
+    {
+      "artist": "Lostly",
+      "title": "No Direction Home (feat. Amber Traill)",
+      "services": {
+        "qobuz": "68661997"
+      },
+      "album": "Discover Digital Sessions 006 (Mixed by Rich Smith)",
+      "duration": 373,
+      "isrc": "GBJAL1500019"
+    },
+    {
+      "artist": "Dr. Ring-Ding",
+      "title": "Dancing in the Rain",
+      "services": {
+        "qobuz": "98483683"
+      },
+      "album": "The Remedy",
+      "duration": 227,
+      "isrc": "DEAE22000008"
+    },
+    {
+      "artist": "Norah Jones",
+      "title": "Black Hole Sun",
+      "services": {
+        "qobuz": "115851720"
+      },
+      "album": "...\u2018Til We Meet Again",
+      "duration": 431,
+      "isrc": "USUM72100322"
+    },
+    {
+      "artist": "Billy Gillies",
+      "title": "Stay Happy",
+      "services": {
+        "qobuz": "298112060"
+      },
+      "album": "Stay Happy",
+      "duration": 168,
+      "isrc": "USAT22409686"
+    },
+    {
+      "artist": "Sebec",
+      "title": "Sentient Town",
+      "services": {
+        "qobuz": "387785401"
+      },
+      "album": "Park Gate Rust",
+      "duration": 116,
+      "isrc": "GBPS85528472"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+# Genre: Baroque Pop
+
+Imported genre playlist: Baroque Pop.
+
+Services: `qobuz:66736227` `tidal:27ee7224-dbe8-49a1-b6b2-826ce8437b82`
+
+## Tracks (100)
+
+- **The Left Banke** — Walk Away Renee [Walk Away Renée/Pretty Ballerina] (2:44) `isrc:USIR20180419` `qobuz:73044198`
+- **The Beatles** — Eleanor Rigby [Revolver] (2:06) `isrc:GBUM72202545` `qobuz:172443631`
+- **The Beach Boys** — God Only Knows [Pet Sounds] (2:55) `isrc:USCA29600662` `qobuz:26841847`
+- **The Rolling Stones** — Lady Jane (Mono Version) [Aftermath (Original UK Edition)] (3:09) `isrc:USA176610040` `qobuz:21101687`
+- **The Kinks** — Sunny Afternoon [Too Much on My Mind] (3:34) `isrc:QM6P41762643` `qobuz:68767924`
+- **The Walker Brothers** — The Sun Ain't Gonna Shine Anymore [The Sun Ain't Gonna Shine Anymore] (3:03) `isrc:USMR16687610` `qobuz:223826765`
+- **The Mamas & The Papas** — Monday, Monday [If You Can Believe Your Eyes & Ears] (3:27) `isrc:USMC16546367` `qobuz:47367993`
+- **The Association** — Along Comes Mary [Greatest Hits] (2:51) `isrc:USWB11400793` `qobuz:16473389`
+- **CatStephens** — Summer Wine [Summer Wine] (4:11) `isrc:QT6F62508438` `qobuz:371516867`
+- **Herman's Hermits** — No Milk Today (2003 Remaster) [Into Something Good (The Mickie Most Years 1964-1972)] (2:53) `isrc:GBAYE0300674` `qobuz:1732976`
+- **Love** — Alone Again Or [Forever Changes] (3:17) `isrc:USEE11500314` `qobuz:25664461`
+- **Procol Harum** — A Whiter Shade Of Pale [The Sunday Concert] (5:15) `isrc:USY252412535` `qobuz:276781901`
+- **Bee Gees** — To Love Somebody [Timeless - The All-Time Greatest Hits] (3:00) `isrc:GBAKW6701004` `qobuz:116314820`
+- **The Hollies** — King Midas in Reverse [The Air That I Breathe - The Very Best of the Hollies] (3:02) `isrc:GBGYU6700010` `qobuz:4457103`
+- **Harpers Bizarre** — 59th Street Bridge Song [Feelin' Groovy: The Best Of Harpers Bizarre Featuring The 59th Street Bridge Song] (2:31) `isrc:USWB19601251` `qobuz:2840086`
+- **The Free Design** — Kites Are Fun [Kites Are Fun] (2:42) `isrc:USAN40600001` `qobuz:313170164`
+- **Scott Bradlee** — Different Drum [Different Drum (feat. Nicole Atkins)] (3:03) `isrc:QZMEM2177148` `qobuz:130233503`
+- **Keith West** — Excerpt from a Teenage Opera [Grocer Jack] (4:42) `isrc:GBAYE6600534` `qobuz:174215073`
+- **Nico** — The Fairest Of The Seasons [Chelsea Girl] (4:10) `isrc:USF096625380` `qobuz:62632986`
+- **The Merry-Go-Round** — Live [The Merry-Go-Round] (2:34) `isrc:USAM10110007` `qobuz:52432581`
+- **The Cowsills** — The Rain, the Park & Other Things (Rerecorded) [The Rain, the Park & Other Things / Indian Lake (Rerecorded Version)] (2:50) `isrc:USDEI2374919` `qobuz:294137420`
+- **Spanky and Our Gang** — Sunday Will Never Be the Same [Like to Get to Know You] (2:55) `isrc:UKDNQ1505662` `qobuz:51933160`
+- **Alabama** — If You're Gonna Play in Texas (You Gotta Have a Fiddle in the Band) [Roll On] (4:29) `isrc:USRN19400218` `qobuz:201122`
+- **Gene Clark** — So You Say You Lost Your Baby [Gene Clark With The Gosdin Brothers + bonus tracks] (2:07) `isrc:USSM16601839` `qobuz:47320056`
+- **The Byrds** — Lady Friend [Younger Than Yesterday] (2:30) `isrc:USSM16700032` `qobuz:11403115`
+- **Sagittarius** — My World Fell Down [Present Tense (Expanded Edition)] (2:54) `isrc:USSM16701426` `qobuz:2632229`
+- **Van Dyke Parks** — Vine Street [Song Cycle] (3:40) `isrc:USWB10102763` `qobuz:27299673`
+- **The Moody Blues** — Nights In White Satin [Nights In White Satin] (4:25) `isrc:GBA176700080` `qobuz:41004384`
+- **Dave Davies** — Death of a Clown [Kinked] (3:16) `isrc:USKO10600147` `qobuz:67952372`
+- **The Supremes** — Love Is Here And Now You're Gone [The #1's] (2:48) `isrc:USMO10300719` `qobuz:3870070`
+- **The Zombies** — Care Of Cell 44 [Odessey and Oracle] (3:57) `isrc:GBCBS6732201` `qobuz:241495597`
+- **The Millennium** — To Claudia on Thursday [Begin] (3:25) `isrc:USSM16801609` `qobuz:2694514`
+- **Margo Guryan** — Sunday Morning [Take A Picture] (2:20) `isrc:USOEG0080801` `qobuz:210481574`
+- **JK & Co.** — Fly [Suddenly One Summer] (4:45) `isrc:US3M50891202` `qobuz:31680543`
+- **Eternity's Children** — Mrs. Bluebird [Eternity's Children] (3:19) `isrc:GBBLY0200277` `qobuz:83252741`
+- **Aphrodite's Child** — Rain And Tears [End Of The World] (3:17) `isrc:NLF056890022` `qobuz:370669145`
+- **Richard Harris** — MacArthur Park [A Tramp Shining] (7:29) `isrc:USWWW0200044` `qobuz:54758981`
+- **Barry Ryan** — Eloise [The Very Best Of Barry Ryan] (5:45) `isrc:DEF066918180` `qobuz:757175`
+- **Scott Walker** — Jackie [Scott 2] (3:21) `isrc:GBF086700033` `qobuz:9285097`
+- **Harry Nilsson** — I Guess the Lord Must Be in New York City [Harry] (2:43) `isrc:USRC16901014` `qobuz:44257463`
+- **Serge Gainsbourg** — Initials B.B. [Initials B.B.] (3:33) `isrc:FRZ036800400` `qobuz:30325521`
+- **Françoise Hardy** — Comment te dire adieu (Remasterisé en 2016) [Comment te dire adieu] (2:28) `isrc:FR65X1600061` `qobuz:34751532`
+- **The Monkees** — Mr. Webster [Headquarters] (2:06) `isrc:USRH11301057` `qobuz:13087885`
+- **Robin Gibb** — Saved By The Bell [Saved By The Bell (The Collected Works Of Robin Gibb 1968-1970)] (3:08) `isrc:GBUM71800667` `qobuz:50884263`
+- **Ron McClure** — Fun and Games [Closer to Your Tears] (6:17) `isrc:DKARS9702101` `qobuz:39297616`
+- **Tom Northcott** — Sunny Goodge Street [Sunny Goodge Street: The Warner Bros. Recordings] (3:08) `isrc:USWB10703765` `qobuz:35621009`
+- **Wallace Collection** — Daydream [Laughing Cavalier] (4:59) `isrc:GBAYE6900101` `qobuz:42276337`
+- **Emitt Rhodes** — Lullabye [The Emitt Rhodes Recordings (1969-1973)] (1:05) `isrc:USMC17054044` `qobuz:60565507`
+- **Nick Drake** — Northern Sky [Bryter Layter] (3:43) `isrc:GBAAN7000016` `qobuz:226780443`
+- **Montage** — I Shall Call Her Mary [Montage] (2:24) `isrc:USCA26900173` `qobuz:57199138`
+- **John Randolph Marr** — Raggedy Ann [John Randolph Marr] (2:27) `isrc:USRH12202055` `qobuz:320158913`
+- **Appaloosa** — Tulu Rogers [Appaloosa] (3:56) `isrc:USSM16901427` `qobuz:60829597`
+- **The Pleasure Fair** — Turnaway [The Pleasure Fair] (2:04) `isrc:USUM72300281` `qobuz:204339118`
+- **NORA Guthrie** — Home Before Dark [Sky Girl] (2:36) `isrc:DETB31640016` `qobuz:92913979`
+- **H. P. Lovecraft** — Blue Jack Of Diamonds [H. P. Lovecraft II] (3:08) `isrc:USIR20000416` `qobuz:89517830`
+- **Bonnie Dobson** — Time [Bonnie Dobson] (3:07) `isrc:USRC10600356` `qobuz:44735441`
+- **The Blades of Grass** — Satin Slipper [The Blades of Grass Are Not for Smoking] (2:04) `isrc:GBAYE2301300` `qobuz:242731290`
+- **David Garrett** — Can’t Get You Out of My Head [Millennium Symphony] (3:54) `isrc:DEUM72405653` `qobuz:294530132`
+- **Russ Giguere** — My Plan [Hexagram 16] (4:40) `isrc:USWB11301708` `qobuz:13308222`
+- **Neon Philharmonic** — You Lied [Brilliant Colors: The Complete Warner Bros. Recordings] (3:29) `isrc:USWB10301896` `qobuz:2182109`
+- **The Common People** — I Have Been Alone [Of The People / By The People / For The People - Remastered + 4 bonus tracks] (3:09) `isrc:GBSMU1551651` `qobuz:368474244`
+- **Philip Brunelle** — The Tender Land, Act 2, Scene 3: "Laurie, you know… I'm gettin' tired of travellin' through" (Martin) [Copland: The Tender Land] (2:59) `isrc:GBAYC8905361` `qobuz:138713820`
+- **Rosebud** — Lorelei [Rosebud] (3:52) `isrc:USRE10301692` `qobuz:2850204`
+- **Genesis** — Am I Very Wrong? [Come Join My Orchestra: The British Baroque Pop Sound 1967-73] (3:31) `isrc:GBCBT6990023` `qobuz:121728515`
+- **Honeybus** — (Do I Figure) In Your Life [She Flies Like A Bird] (2:34) `isrc:GBAJE6700355` `qobuz:391833401`
+- **John McAndrew** — Freedoms In Our Blood [BETTER SIDE OF ME] (3:44) `isrc:US7CU2400038` `qobuz:325507740`
+- **Michael Blount** — Acorn Street [Curiosity Shop, Volume 1: A Collection of Rare Aural Antiquities and Objet D'art from the British Isles, 1968-1971] (1:33) `isrc:CYRLD1501401` `qobuz:30641265`
+- **Simon & Garfunkel** — Flowers Never Bend with the Rainfall [Parsley, Sage, Rosemary And Thyme] (2:15) `isrc:USSM16600257` `qobuz:62467629`
+- **Tony Hazzard** — The Sound Of The Candyman's Trumpet [Come Join My Orchestra: The British Baroque Pop Sound 1967-73] (2:33) `isrc:GBBLY0607515` `qobuz:121728512`
+- **Picadilly Line** — Your Dog Won't Bark [The Huge World of Emily Small] (2:57) `isrc:GBBLY0903261` `qobuz:152578974`
+- **John Williams** — Can't Find Time For Anything Now [Come Join My Orchestra: The British Baroque Pop Sound 1967-73] (2:13) `isrc:GBBLY1603424` `qobuz:121728514`
+- **Warm Sounds** — Sticks And Stones [Mike Hurst: The Sixties Productions] (3:23) `isrc:GBHMX0930206` `qobuz:119092932`
+- **The Alan Bown** — You're Not in My Class [Outward Bown] (3:34) `isrc:GBBLY1200231` `qobuz:152580317`
+- **Neil MacArthur** — Don't Try To Explain [Come Join My Orchestra: The British Baroque Pop Sound 1967-73] (3:22) `isrc:GBHMX0212314` `qobuz:121728519`
+- **The Fall** — Popcorn Double Feature [Extricate] (3:43) `isrc:GBF089000747` `qobuz:11521970`
+- **The Left Banke** — Barterers And Their Wives [Walk Away Renée/Pretty Ballerina] (3:00) `isrc:USUM71918799` `qobuz:73044194`
+- **Laza Morgan** — One By One [One By One (feat. Mavado)] (3:17) `isrc:USAT21100418` `qobuz:4688633`
+- **The Bliss** — Courtyards Of Castile [Come Join My Orchestra: The British Baroque Pop Sound 1967-73] (2:56) `isrc:GBLFV1400980` `qobuz:121728522`
+- **The Orange Bicycle** — Competition [Old Feet, New Socks: The Many Faces of Wil Malone 1965-72] (2:40) `isrc:GBFDB1000894` `qobuz:247269633`
+- **Mike Batt** — I See Wonderful Things In You [Curiosity Shop, Vol. 6 (A Rare Collection of Aural Antiquities and Objets d’Art 1967-1971)] (2:41) `isrc:CYA1E2001503` `qobuz:111049755`
+- **Billy Nicholls** — This Song Is Green [Come Join My Orchestra: The British Baroque Pop Sound 1967-73] (2:56) `isrc:GBBLY1804490` `qobuz:121728525`
+- **Miles Davis Quintet** — I Could Write A Book [Relaxin' With The Miles Davis Quintet] (5:10) `isrc:USC4R1604592` `qobuz:30174159`
+- **John Pantry** — Battle Of Trafalgar [Come Join My Orchestra: The British Baroque Pop Sound 1967-73] (1:55) `isrc:GBBLY1804492` `qobuz:121728528`
+- **Forever Amber** — Letters From Her [Come Join My Orchestra: The British Baroque Pop Sound 1967-73] (1:58) `isrc:GBBLY1804493` `qobuz:121728529`
+- **Andy Ellison** — It's Been a Long Time [Wall To Wall Jive] (3:06) `isrc:GBMMS2200031` `qobuz:238318055`
+- **Paper Bubble** — Fillin' a Gap [Scenery] (3:17) `isrc:QM6N21473792` `qobuz:166229778`
+- **Nirvana** — Illinois [To Markos III] (3:37) `isrc:GBAAN0300612` `qobuz:4365047`
+- **Fickle Pickle** — Saturday [A Complete Pickle] (3:05) `isrc:GBFDB1800071` `qobuz:189722540`
+- **Donovan** — Writer in the sun [Mellow Yellow] (4:33) `isrc:USSM10503181` `qobuz:103450`
+- **The Humblebums** — Rick Rack [Humble Beginnings: The Complete Transatlantic Recordings 1969-74] (2:49) `isrc:GBAJE6900651` `qobuz:387275372`
+- **David Bowie** — Life on Mars? [Hunky Dory] (3:55) `isrc:USJT11500153` `qobuz:25311815`
+- **John Cale** — Paris 1919 [Paris 1919] (4:03) `isrc:GBCEL2303345` `qobuz:297826153`
+- **Sparks** — This Town Ain't Big Enough For Both Of Us [Kimono My House] (3:04) `isrc:GBAAN7400025` `qobuz:13654987`
+- **The Stranglers** — Golden Brown [La Folie] (3:27) `isrc:GBAYE8100053` `qobuz:1004735`
+- **Madonna** — Dear Jessie [Like A Prayer] (4:21) `isrc:USWB10002781` `qobuz:2078405`
+- **The Divine Comedy** — National Express [Fin De Siècle] (5:06) `isrc:GBNFD2000215` `qobuz:102471806`
+- **Rufus Wainwright** — Cigarettes And Chocolate Milk [Vibrate: The Best Of] (4:41) `isrc:USDW10022134` `qobuz:14831095`
+- **Panic! At The Disco** — Nine in the Afternoon [Nine in the Afternoon] (3:12) `isrc:USAT20800754` `qobuz:2931420`
+- **The Lemon Twigs** — As Long As We're Together [Do Hollywood] (5:03) `isrc:GBAFL1600336` `qobuz:36840381`
+- **Angel Olsen** — All Mirrors [All Mirrors] (4:42) `isrc:US38Y1934402` `qobuz:64887627`

@@ -1,0 +1,108 @@
+# Genre: Future Bass
+
+Imported genre playlist: Future Bass.
+
+Services: `qobuz:66713275` `tidal:f14d243b-d842-4373-980f-4998197cdc48`
+
+## Tracks (100)
+
+- **Cashmere Cat** — Mirror Maru [Mirror Maru - EP] (4:02) `isrc:DEZ651212701` `qobuz:49178133`
+- **Hudson Mohawke** — Chimes [Chimes] (3:31) `isrc:GBBPW1400187` `qobuz:19722548`
+- **Rustie** — Slasherr [Triadzz / Slasherr] (3:38) `isrc:GB7CH1300020` `qobuz:49190792`
+- **Ryan Hemsworth** — Snow In Newark (feat. Dawn Golden) [Snow In Newark] (4:03) `isrc:CAL451457503` `qobuz:50482971`
+- **The Buena High School Choir** — What Are You Doing New Year's Eve? [Not-so-Silent Night, Vol. 1] (3:34) `isrc:USHM91660628` `qobuz:84292972`
+- **Basenji** — Dawn [Trackpad] (3:19) `isrc:AUFF01400629` `qobuz:229899460`
+- **Lindsay Lowend** — GT40 [Windfish] (2:13) `isrc:USA2P1330417` `qobuz:62924789`
+- **Wave Racer** — Streamers [Streamers] (3:30) `isrc:AUFF01400522` `qobuz:229902580`
+- **dMb** — I'm On Da Floor (feat. M.O.E.) [I'm Bout Money] (3:18) `isrc:USHM90922570` `qobuz:73442508`
+- **ODESZA** — Say My Name (feat. Zyra) [In Return] (4:22) `isrc:GBCFB1404201` `qobuz:18529013`
+- **Giraffage** — Tell Me [No Reason] (3:48) `isrc:QMSDU1400135` `qobuz:104396118`
+- **Birdy** — Skinny Love [Skinny Love Remixes] (4:00) `isrc:GBAHS1400260` `qobuz:45131567`
+- **Jai Wolf** — Indian Summer [Indian Summer] (4:08) `isrc:USQY51566563` `qobuz:357663195`
+- **Louis The Child** — It's Strange [It's Strange] (4:06) `isrc:TCACI1515173` `qobuz:27998603`
+- **Kiiara** — Gold [low kii savage] (3:46) `isrc:USAT21503773` `qobuz:30996385`
+- **Sabrina Claudio** — Belong to You (feat. 6LACK) [About Time] (3:05) `isrc:USAT21704018` `qobuz:44056771`
+- **Del Water Gap** — Ode to a Conversation Stuck in Your Throat [Del Water Gap] (3:19) `isrc:USAT22002240` `qobuz:133868192`
+- **Ekali** — Braids [A World Away] (2:45) `isrc:USAT22000052` `qobuz:85416212`
+- **Alison Wonderland** — U Don’t Know [Run] (4:04) `isrc:AUUM71402044` `qobuz:26588514`
+- **Snail's House** — Hot Milk [Ordinary Songs 2] (4:06) `isrc:TCADC1787671` `qobuz:124039560`
+- **Sweater Beats** — Hey Ya [Hey Ya] (3:07) `isrc:USYBL1600586` `qobuz:139917091`
+- **JOHN ELLIS** — Nowny Dreams [Roots, branches & leaves] (7:58) `isrc:ES7710512403` `qobuz:25334541`
+- **Mura Masa** — Love$ick [Mura Masa] (3:12) `isrc:GBUM71605141` `qobuz:39976788`
+- **Marshmello** — Alone [Alone] (4:33) `isrc:CA6D21600147` `qobuz:58028136`
+- **Martin Garrix** — In the Name of Love [In the Name of Love] (3:18) `isrc:NLM5S1600003` `qobuz:33923326`
+- **Ookay** — Thief [Thief] (4:00) `isrc:USUG11600668` `qobuz:34516564`
+- **Chet Porter** — Stay [Stay] (4:05) `isrc:QMLD61406168` `qobuz:122386279`
+- **Kasbo** — Again [Again] (3:49) `isrc:CA6D21500299` `qobuz:58030104`
+- **Droeloe** — Bon Voyage [Bon Voyage] (4:14) `isrc:CA6D21600313` `qobuz:58026570`
+- **WRLD** — By Design [By Design] (4:46) `isrc:CA6D21600206` `qobuz:58027000`
+- **Slushii** — To Say Goodbye [To Say Goodbye] (3:53) `isrc:TCACR1685608` `qobuz:124707813`
+- **Dawn Golden** — All I Want [Still Life] (3:33) `isrc:USCJ81401278` `qobuz:207361461`
+- **Robotaki** — Ghostboy [Ghostboy] (4:18) `isrc:DEVF11600002` `qobuz:50347448`
+- **Vincent Peirani** — And I Love Her [So Quiet] (4:00) `isrc:FR9W11826579` `qobuz:60320351`
+- **Bearson** — Pink Medicine [Pink Medicine] (3:53) `isrc:TCACF1531130` `qobuz:232887984`
+- **Sia** — Helium (Sia vs. David Guetta & Afrojack) [Helium (Sia vs. David Guetta & Afrojack)] (3:57) `isrc:USAT21800455` `qobuz:46736413`
+- **Joshua Lemon** — Don't Let Me Down [Music Top Hits 2016] (3:21) `isrc:BET231632752` `qobuz:35569074`
+- **Flume & Kai** — Never Be Like You [Never Be Like You] (3:55) `isrc:AUFF01500784` `qobuz:33460972`
+- **San Holo** — Light [Light] (4:00) `isrc:NLRD51630379` `qobuz:38355457`
+- **The Vines** — Candy Flippin' Girl [Future Primitive] (2:32) `isrc:AUBM01100075` `qobuz:3609897`
+- **illenium** — Fractures [Fractures  [feat. Nevve]] (5:01) `isrc:TCADE1705927` `qobuz:249833077`
+- **Gryffin** — Heading Home [Heading Home] (4:31) `isrc:USUM71600206` `qobuz:29634525`
+- **Dabin** — Alive [Wild Youth] (6:05) `isrc:USA2P1908819` `qobuz:221235451`
+- **Taska Black** — In Your Eyes [In Your Eyes] (3:42) `isrc:USA2P1824589` `qobuz:221234848`
+- **Conro** — Close [Close] (3:04) `isrc:CA6D21700172` `qobuz:59913311`
+- **K?d** — Lose Myself [Lose Myself] (3:50) `isrc:CHB701700041` `qobuz:186462268`
+- **Slander** — Superhuman [Superhuman] (4:28) `isrc:CA6D21700159` `qobuz:58023914`
+- **Duumu** — Illuminate [Illuminate] (4:02) `isrc:CA6D21700081` `qobuz:58024639`
+- **Just A Gent** — Open Spaces [Open Spaces] (3:26) `isrc:CA6D21900233` `qobuz:66932471`
+- **Alison Wonderland** — Thirst [Thirst] (3:24) `isrc:AUUM72300007` `qobuz:199346755`
+- **Electric Mantis** — Daybreak [Daybreak] (3:00) `isrc:QZ22B1607034` `qobuz:50352215`
+- **Glacier** — Ubi [Temple Inward] (5:52) `isrc:CA6D22000005` `qobuz:87463994`
+- **Zedd** — Stay [Stay] (3:30) `isrc:USUM71700736` `qobuz:38781364`
+- **Maxence Luchi** — Tired (feat. Anne-Caroline Joy) [Feel Free] (3:14) `isrc:FR59R1736061` `qobuz:58726933`
+- **Hardwell** — Creatures Of The Night [Creatures Of The Night] (3:00) `isrc:NLQ8D1700084` `qobuz:40553810`
+- **BTS** — DNA [Love Yourself 結 'Answer'] (3:42) `isrc:QM6MZ1886133` `qobuz:140529182`
+- **Vindata** — Favor [Favor] (3:42) `isrc:USAT21702387` `qobuz:42499695`
+- **Lost Kings** — Phone Down [Phone Down] (3:35) `isrc:USRC11602008` `qobuz:35245558`
+- **Said The Sky** — All I Got [Wide-Eyed] (5:15) `isrc:USQY51792370` `qobuz:221235199`
+- **Duskus** — Holding U [Holding U] (2:47) `isrc:NLRD51632788` `qobuz:376021124`
+- **Mariah Carey** — Fantasy [Daydream] (4:03) `isrc:USSM19501031` `qobuz:7416`
+- **Sam Gellaitry** — Duo [Duo] (2:06) `isrc:GBAYE2100386` `qobuz:119501070`
+- **Kavinsky** — Pulsar [Reborn] (3:34) `isrc:FRS712100100` `qobuz:145124200`
+- **Grant** — Wishes [Wishes] (4:01) `isrc:CA6D21900054` `qobuz:65951965`
+- **Eminem** — Without Me [The Eminem Show] (4:50) `isrc:USIR10211038` `qobuz:3879026`
+- **Didrick** — Ready to Fly [Ready to Fly] (3:10) `isrc:CA6D21700315` `qobuz:58015601`
+- **Steve Aoki** — Waste It On Me [Neon Future III] (3:12) `isrc:USUS11800289` `qobuz:55380606`
+- **Exo** — Love Shot [Love Shot – The 5th Album Repackage] (3:20) `isrc:KRA301800573` `qobuz:66323685`
+- **Grey** — I Miss You [I Miss You] (3:11) `isrc:USUM71700035` `qobuz:37675663`
+- **Seven Lions** — Cold Skin [Cold Skin] (3:31) `isrc:CA6D21600312` `qobuz:58026572`
+- **Mitis** — By My Side ['Til the End] (3:10) `isrc:USA2P1804762` `qobuz:221234779`
+- **INZO** — Overthinker [Overthinker] (4:28) `isrc:QM24S1819020` `qobuz:387937234`
+- **ARMNHMR** — On the Floor [Manufactured Music Ibiza 2014] (4:07) `isrc:NLD681400277` `qobuz:17683194`
+- **LIONE** — Kids (with Miranda Glory) [Kids (with Miranda Glory)] (4:20) `isrc:CYA111800452` `qobuz:88793778`
+- **Indie Folker** — Silver Screen [Monsters In Rome] (4:53) `isrc:USCGJ1081132` `qobuz:78563688`
+- **WAVEDASH** — Dummo Loop [World Famous Tour] (3:37) `isrc:CA5KR2094007` `qobuz:414182136`
+- **Nurko** — If It Isn't You [If It Isn't You] (3:52) `isrc:USA2P1957098` `qobuz:189774527`
+- **DARK BLUES** — Deep in the Black [Deep Water Pulling] (2:54) `isrc:SE6TI2652803` `qobuz:431127032`
+- **Less Gravity** — Face My Fears [Face My Fears] (2:24) `isrc:QZDA61921745` `qobuz:148149728`
+- **Armin van Buuren** — Wild Wild Son [Wild Wild Son] (3:33) `isrc:NLF711810973` `qobuz:378134505`
+- **Red Velvet** — Psycho [‘The ReVe Festival’ Finale] (3:30) `isrc:KRA301900597` `qobuz:83481952`
+- **Krewella** — Greenlights [zer0] (2:42) `isrc:USA2P1960948` `qobuz:85893207`
+- **Porter Robinson** — Look at the Sky [Nurture] (5:09) `isrc:USQE92000004` `qobuz:120283358`
+- **Wreckno** — DICC (feat. Moore Kismet) [DICC (feat. Moore Kismet)] (2:41) `isrc:QZUCN2201803` `qobuz:274406217`
+- **Grandtheft** — Easy Go [Easy Go] (3:11) `isrc:USZ4V1600239` `qobuz:36027317`
+- **Big Wild** — 6's to 9's [Superdream] (3:26) `isrc:GBCFB1800325` `qobuz:58482323`
+- **Tails** — Ghosted [Ghosted] (3:23) `isrc:CA6D21800102` `qobuz:58013305`
+- **Son Tung M-TP** — Lạc Trôi [Lạc Trôi] (3:52) `isrc:FRX201661143` `qobuz:229627330`
+- **nanobii** — Bubble Beam [Bubble Beam] (2:58) `isrc:CA6D21700076` `qobuz:58024647`
+- **Hyper Potions** — Friends [Friends] (3:40) `isrc:QZ8LD1714244` `qobuz:133223463`
+- **Mammal Hands** — Helios [Circadia] (4:11) `isrc:DEA892600076` `qobuz:369843907`
+- **Moe Shop** — Love Taste [Love Taste] (2:56) `isrc:QZES71984354` `qobuz:340940818`
+- **GHOST DATA** — Full Bodied [Void Walker] (4:08) `isrc:SE5VF1801693` `qobuz:268649151`
+- **MEMBA** — Schools Out [Saga-II] (2:55) `isrc:USA2P1822434` `qobuz:122385897`
+- **XIUMIN** — Young & Free [Young & Free] (3:22) `isrc:KRA301700299` `qobuz:66653148`
+- **Pluko** — i want you [CLASS XIX] (3:06) `isrc:QM24S1918838` `qobuz:96909587`
+- **OTR** — Midnight Sun [Lost At Midnight] (3:55) `isrc:USUG11904395` `qobuz:86976277`
+- **NewJeans** — Hype Boy [NewJeans 1st EP 'New Jeans'] (2:59) `isrc:USA2P2230222` `qobuz:167875831`
+- **Afrojack** — Another Life [Another Life] (3:28) `isrc:CYA221700023` `qobuz:40269985`
+- **Triples** — Girls Never Die [<ASSEMBLE24>] (3:07) `isrc:KRA382402695` `qobuz:265805211`

@@ -1,0 +1,105 @@
+# Genre: Nu Metal
+
+Imported genre playlist: Nu Metal.
+
+Services: `qobuz:66733980` `tidal:41578249-0612-4f5f-b964-cc0e9e8b5eb8`
+
+## Tracks (97)
+
+- **Korn** — Blind [Korn] (4:18) `isrc:USSM10022054` `qobuz:4858474`
+- **(Hed) Planet Earth** — Serpent Boy [(Hed)Pe] (5:53) `isrc:USJI19710127` `qobuz:188209`
+- **Coal Chamber** — Loco [Coal Chamber] (4:14) `isrc:NLA329780033` `qobuz:168708752`
+- **Deftones** — My Own Summer (Shove It) [Around the Fur] (3:35) `isrc:USRE11600084` `qobuz:31159546`
+- **Guano Apes** — Open Your Eyes [Proud Like a God] (3:07) `isrc:DEC689700412` `qobuz:183948`
+- **Nothingface** — Defaced [Nothingface] (3:15) `isrc:USHM81299545` `qobuz:84291448`
+- **Snot** — Stoopid [Get Some] (3:51) `isrc:USGF19711002` `qobuz:2378186`
+- **Kid Rock** — Bawitdaba [Devil Without a Cause] (4:27) `isrc:USAT21207362` `qobuz:11091922`
+- **Ultraspank** — Push [Progress] (3:51) `isrc:USSM10006341` `qobuz:5051591`
+- **Crazy Town** — Butterfly [The Gift Of Game] (3:36) `isrc:USSM19911429` `qobuz:29267`
+- **Limp Bizkit** — Break Stuff [Significant Other] (2:46) `isrc:USIR19902309` `qobuz:22393769`
+- **Machine Head** — From This Day [The Burning Red] (3:56) `isrc:NLA329980217` `qobuz:6284526`
+- **Powerman 5000** — When Worlds Collide [Tonight The Stars Revolt] (2:57) `isrc:USDW19910703` `qobuz:699819`
+- **Slapshock** — Agent Orange [4th Degree Burn] (4:05) `isrc:PHO019900132` `qobuz:358854629`
+- **Slipknot** — Wait and Bleed [Slipknot] (2:27) `isrc:NLA329980194` `qobuz:2809376`
+- **Staind** — Mudshovel [Dysfunction] (4:41) `isrc:USEE19800351` `qobuz:2051944`
+- **Videodrone** — Ty Jonathan Down [Videodrone] (4:21) `isrc:USRE19900001` `qobuz:2007348`
+- **28 Days** — Rip It Up [Heaven Is a Halfpipe] (3:39) `isrc:AUMU00000053` `qobuz:177350012`
+- **Bender** — Superfly [Jehovah's Hitlist] (2:53) `isrc:USTV10000088` `qobuz:48526693`
+- **Cold** — Just Got Wicked [13 Ways To Bleed Onstage] (4:00) `isrc:USIR10000875` `qobuz:753980`
+- **Disturbed** — Down with the Sickness [The Sickness] (4:39) `isrc:USRE11500333` `qobuz:35549998`
+- **Creedence Clearwater Revival** — I Heard It Through The Grapevine [Cosmo's Factory] (11:07) `isrc:USFI87000061` `qobuz:17697027`
+- **Kittie** — Brackish [Spit] (3:09) `isrc:USAR50010126` `qobuz:25905655`
+- **Linkin Park** — One Step Closer [Hybrid Theory (Hi-Res Version)] (2:35) `isrc:USWB11201316` `qobuz:7020288`
+- **Mudvayne** — Dig [L.D. 50] (2:42) `isrc:USSM10010700` `qobuz:31964`
+- **Nonpoint** — What A Day [Statement] (3:18) `isrc:USMC10001516` `qobuz:53727329`
+- **One Minute Silence** — I Wear My Skin [One Lie Fits All] (3:28) `isrc:GBCVT0300049` `qobuz:167119183`
+- **Papa Roach** — Last Resort [Infest] (3:19) `isrc:USDW10021712` `qobuz:58261625`
+- **Primer 55** — Loose [Introduction To Mayhem] (3:02) `isrc:USIR29905509` `qobuz:54321889`
+- **Shuvel** — Set It Off [Set It Off] (3:56) `isrc:USIR10000905` `qobuz:54331295`
+- **Slaves On Dope** — Pushing Me [Klepto] (3:12) `isrc:CAJ229916960` `qobuz:179436596`
+- **Soulfly** — Back to the Primitive [Primitive] (4:22) `isrc:NLA320019178` `qobuz:2809245`
+- **Spineshank** — Synthetic [The Height of Callousness [Special Edition]] (3:09) `isrc:NLA320019154` `qobuz:2809213`
+- **Sunk Loto** — Sunken Eyes [Big Picture Lies (Deluxe Version)] (4:34) `isrc:AUSM00000168` `qobuz:71182139`
+- **Taproot** — Poem [Welcome] (3:09) `isrc:USAT20201778` `qobuz:2925143`
+- **Dropkick Murphys** — Smash Shit Up [Turn Up That Dial] (3:49) `isrc:USK251300081` `qobuz:149738837`
+- **The Deadlights** — Amplifier [The Deadlights] (3:25) `isrc:USEE19900213` `qobuz:32469426`
+- **The Union Underground** — Turn Me On "Mr. Deadman" [...An Education In Rebellion] (2:38) `isrc:USSM10000893` `qobuz:13376658`
+- **40 Below Summer** — Step Into the Sideshow [Side Show Freaks] (3:06) `isrc:USPJ90800024` `qobuz:76727658`
+- **Adema** — Giving In [Adema] (4:33) `isrc:USAR10100175` `qobuz:4876538`
+- **Alien Ant Farm** — Movies [Anthology] (3:15) `isrc:USDW10022217` `qobuz:699950`
+- **Boy Hits Car** — Lovefurypassionenergy [Worldwide Alive] (8:53) `isrc:QM6XS2000425` `qobuz:100145744`
+- **Crossbreed** — Underlined [Synthetic Division] (4:22) `isrc:TCAFP2146422` `qobuz:127383615`
+- **Darwin's Waiting Room** — Feel So Stupid (Table 9) [Orphan] (3:14) `isrc:USMC10110567` `qobuz:30870444`
+- **Drowning Pool** — Bodies [Sinner] (3:21) `isrc:USWU30006502` `qobuz:17795408`
+- **Dry Kill Logic** — Nightmare [The Darker Side of Nonsense] (3:05) `isrc:NLA320119417` `qobuz:2808956`
+- **Endo** — Suffer [Evolve] (4:00) `isrc:USSM10017515` `qobuz:41637`
+- **Flaw** — Payback [Through The Eyes] (4:01) `isrc:USUR10110793` `qobuz:58246041`
+- **From Zero** — Check Ya [One Nation Under] (3:21) `isrc:USAR10100063` `qobuz:13533004`
+- **Ill Niño** — What Comes Around [Revolution Revolucion] (3:45) `isrc:NLA320119509` `qobuz:2809015`
+- **Insolence** — Poison Well [Revolution] (3:29) `isrc:USMV20100067` `qobuz:2948548`
+- **Lifer** — Boring [Lifer] (3:46) `isrc:USUR10110303` `qobuz:5405763`
+- **No One** — Chemical [No One] (3:41) `isrc:USCGH2476108` `qobuz:250347063`
+- **NullSet** — Speechless [Nullset] (3:39) `isrc:USZXT0811143` `qobuz:260258626`
+- **Onesidezero** — Instead Laugh [Is This Room Getting Smaller?] (3:55) `isrc:USMV20100106` `qobuz:11743289`
+- **P.O.D.** — Alive [Satellite] (3:23) `isrc:USRH12101125` `qobuz:123013863`
+- **Pressure 4-5** — Beat The World [Burning The Process] (3:00) `isrc:USDW10110203` `qobuz:4337918`
+- **Seth Slaydon Project** — Room to Breathe [Permission to Live Loud] (4:58) `isrc:QT6E72697210` `qobuz:428164208`
+- **FaithXtractor** — Relative First Occurrence [Contempt for a Failed Dimension] (3:25) `isrc:QMFME2232217` `qobuz:191515310`
+- **Reveille** — What You Got [Bleed the Sky] (2:26) `isrc:QM4TX2558903` `qobuz:362686190`
+- **Saliva** — Click Click Boom [Every Six Seconds] (4:12) `isrc:USIR20110005` `qobuz:52352240`
+- **Sevendust** — Denial [Home] (4:17) `isrc:USTV19900046` `qobuz:27883810`
+- **Skrape** — Waste [New Killer America] (3:29) `isrc:USRC10000941` `qobuz:47249505`
+- **SOiL** — Halo [Scars (Expanded Edition)] (3:15) `isrc:USJAY0100076` `qobuz:4284417`
+- **Stereomud** — Pain [Perfect Self] (3:37) `isrc:USLR50100095` `qobuz:118489`
+- **Superheist** — Crank the System [The History Between Us] (3:45) `isrc:AUOWA1201841` `qobuz:237660960`
+- **Magic Wands** — Daylight [Switched] (6:00) `isrc:US57M2331618` `qobuz:221507547`
+- **System Of A Down** — Chop Suey! [Toxicity] (3:30) `isrc:USSM10107256` `qobuz:12983955`
+- **ünloco** — Face Down [Healing] (4:04) `isrc:USMV20000213` `qobuz:2885650`
+- **12 Stones** — Broken Road [Anthem For The Underdog] (4:00) `isrc:USWU30700043` `qobuz:17979210`
+- **Blindspott** — Nil By Mouth [Blindspott] (3:36) `isrc:USCGH0521126` `qobuz:68108072`
+- **Carajo** — Sacate la Mierda [Sacate la Mierda] (4:40) `isrc:ARG601600179` `qobuz:319048376`
+- **Downthesun** — We All Die [downthesun] (3:23) `isrc:NLA320219898` `qobuz:2808644`
+- **Dry Cell** — Body Crumbles [Queen Of The Damned (Music From The Motion Picture)] (3:03) `isrc:USWB10200225` `qobuz:44137024`
+- **Earshot** — Wait [Two] (3:32) `isrc:USWB10400590` `qobuz:2842439`
+- **Five Pointe O** — Double X Minus [Untitled] (3:22) `isrc:NLA320119651` `qobuz:2808889`
+- **Otep** — Blood Pigs [Sevas Tra] (4:03) `isrc:USCA20200291` `qobuz:4688100`
+- **Pleymo** — New Wave [Episode 2 : Medecine Cake] (3:31) `isrc:FRZ080103940` `qobuz:55590232`
+- **Project 86** — Oblivion [Songs To Burn Bridges By] (4:02) `isrc:USTN10422931` `qobuz:4412180`
+- **Pulse Ultra** — Build Your Cages [Headspace (EXPLICIT)] (3:54) `isrc:USAT20200728` `qobuz:2925135`
+- **RA** — Do You Call My Name [The Best of Ra Unplugged EP] (5:18) `isrc:TCABX1464646` `qobuz:123832356`
+- **Skindred** — Nobody [Babylon] (3:56) `isrc:USAT20400765` `qobuz:11733977`
+- **Andreas Guskos** — Future Airplanes&Spaceships [New Home] (3:41) `isrc:QZNWX2541186` `qobuz:334638719`
+- **Sugarcoma** — Zero Star [Becoming Something Else] (3:14) `isrc:GBCKC0200234` `qobuz:22160095`
+- **The Blank Theory** — Middle Of Nowhere [Beyond The Calm Of The Corridor] (4:05) `isrc:USNLR0200026` `qobuz:59936781`
+- **TRUSTcompany** — Downfall [The Lonely Position Of Neutral] (3:11) `isrc:USIR10210977` `qobuz:58450395`
+- **Element Eighty** — Broken Promises [Música de Videojuegos] (3:17) `isrc:USUR10300935` `qobuz:346146390`
+- **Anthrax** — Inside Out [Volume 8: The Threat is Real] (5:31) `isrc:USME31900539` `qobuz:76126467`
+- **Motograter** — Down [Motograter] (3:29) `isrc:USEE10340398` `qobuz:2783659`
+- **Mushroomhead** — Sun Doesn't Rise [XIII] (3:13) `isrc:USUR10300762` `qobuz:54893236`
+- **Revis** — Caught In The Rain [Places For Breathing] (3:30) `isrc:USSM10211502` `qobuz:2636754`
+- **Jerk** — Sucked In [When Pure Is Defiled] (2:53) `isrc:AUSM00300047` `qobuz:85336565`
+- **PMM** — Painkiller Introduction [Professional Murder Music] (3:50) `isrc:USIR10001010` `qobuz:754004`
+- **Twin Method** — The Abrasive [The Volume Of Self] (3:06) `isrc:USA370658736` `qobuz:64332663`
+- **Ocean Grove** — Intimate Alien [The Rhapsody Tapes] (3:32) `isrc:AUI441600308` `qobuz:282436112`
+- **Blind Channel** — Dark Side [Dark Side] (2:57) `isrc:FIRAN2100001` `qobuz:410192668`
+- **Tetrarch** — I'm Not Right [Unstable] (3:46) `isrc:TCAEU2004356` `qobuz:111622298`

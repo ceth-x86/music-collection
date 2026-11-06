@@ -1,0 +1,609 @@
+{
+  "name": "Genre: Acid House",
+  "services": {
+    "qobuz": "66715308"
+  },
+  "description": "Imported genre playlist: Acid House.",
+  "tracks": [
+    {
+      "artist": "Sleezy D.",
+      "title": "I've Lost Control",
+      "services": {
+        "qobuz": "142431384"
+      },
+      "album": "I've Lost Control",
+      "duration": 585,
+      "isrc": "GBBLG0100543"
+    },
+    {
+      "artist": "Phuture",
+      "title": "Acid Tracks",
+      "services": {
+        "qobuz": "17416454"
+      },
+      "album": "Acid Tracks",
+      "duration": 739,
+      "isrc": "QMFMF1498221"
+    },
+    {
+      "artist": "Armando",
+      "title": "Land Of Confusion",
+      "services": {
+        "qobuz": "142430789"
+      },
+      "album": "Trax Classix",
+      "duration": 178,
+      "isrc": "GBBLG0100361"
+    },
+    {
+      "artist": "Tyree",
+      "title": "Acid Over",
+      "services": {
+        "qobuz": "3077402"
+      },
+      "album": "Jack'd Volume 1",
+      "duration": 307,
+      "isrc": "DEBL60706486"
+    },
+    {
+      "artist": "James Morrison",
+      "title": "Imagination",
+      "services": {
+        "qobuz": "313864592"
+      },
+      "album": "Two The Max",
+      "duration": 310,
+      "isrc": "AUOM01902891"
+    },
+    {
+      "artist": "Jennifer Kropke",
+      "title": "The Endless Powers Of Me",
+      "services": {
+        "qobuz": "404358285"
+      },
+      "album": "The Endless Powers Of Me",
+      "duration": 281,
+      "isrc": "QZTAY2670674"
+    },
+    {
+      "artist": "Fast Eddie",
+      "title": "Acid Thunder",
+      "services": {
+        "qobuz": "361533995"
+      },
+      "album": "Jack to the Sound",
+      "duration": 272,
+      "isrc": "QM8RJ1400046"
+    },
+    {
+      "artist": "DJ Pierre",
+      "title": "Box Energy",
+      "services": {
+        "qobuz": "142430556"
+      },
+      "album": "Phuture and Other Classics from DJ Pierre",
+      "duration": 370,
+      "isrc": "GBBLG0100398"
+    },
+    {
+      "artist": "Pierre's Pfantasy Club",
+      "title": "Dream Girl",
+      "services": {
+        "qobuz": "142430493"
+      },
+      "album": "Fantasy Girl",
+      "duration": 347,
+      "isrc": "GBBLG0100349"
+    },
+    {
+      "artist": "Laurent X",
+      "title": "Machines (Apocalypse Mix)",
+      "services": {
+        "qobuz": "78281491"
+      },
+      "album": "Machines",
+      "duration": 410,
+      "isrc": "USV291496951"
+    },
+    {
+      "artist": "Durr & Csqrd",
+      "title": "Maurice Joshua - This Is Acid (Cover By durr)",
+      "services": {
+        "qobuz": "74458572"
+      },
+      "album": "Where Tennis Balls Talk",
+      "duration": 293,
+      "isrc": "USX9P1072873"
+    },
+    {
+      "artist": "BamBam",
+      "title": "Where's your Child ?",
+      "services": {
+        "qobuz": "67264392"
+      },
+      "album": "Westbrook Classic Club Hits",
+      "duration": 313,
+      "isrc": "USCGJ0626068"
+    },
+    {
+      "artist": "Mike Dunn",
+      "title": "Magic Feet",
+      "services": {
+        "qobuz": "142430445"
+      },
+      "album": "Magic Feet (The Remixes)",
+      "duration": 347,
+      "isrc": "GBBLG9200143"
+    },
+    {
+      "artist": "Lidell Townsell",
+      "title": "Jack'n Tall",
+      "services": {
+        "qobuz": "142431027"
+      },
+      "album": "Jack the House",
+      "duration": 324,
+      "isrc": "GBBLG8800113"
+    },
+    {
+      "artist": "Mr. Lee",
+      "title": "Art Of Acid",
+      "services": {
+        "qobuz": "142431101"
+      },
+      "album": "The Acid Fantaslee",
+      "duration": 514,
+      "isrc": "GBBLG8800079"
+    },
+    {
+      "artist": "Adonis",
+      "title": "Clap Me (Sam McQueen 3rd St Beach Mix)",
+      "services": {
+        "qobuz": "290312215"
+      },
+      "album": "Clap Me (Remixes)",
+      "duration": 379,
+      "isrc": "US3VR0900006"
+    },
+    {
+      "artist": "Gene Hunt",
+      "title": "Living In A Land",
+      "services": {
+        "qobuz": "142430674"
+      },
+      "album": "Living Again",
+      "duration": 331,
+      "isrc": "GBBLG0100357"
+    },
+    {
+      "artist": "Ricky Van Shelton",
+      "title": "Life Turned Her That Way",
+      "services": {
+        "qobuz": "47257020"
+      },
+      "album": "Wild-Eyed Dream",
+      "duration": 202,
+      "isrc": "USSM19913794"
+    },
+    {
+      "artist": "Shawn Christopher",
+      "title": "Another Sleepless Night",
+      "services": {
+        "qobuz": "179155640"
+      },
+      "album": "Another Sleepless Night",
+      "duration": 392,
+      "isrc": "GBARK0600005"
+    },
+    {
+      "artist": "Farley Jackmaster Funk",
+      "title": "The Acid Life",
+      "services": {
+        "qobuz": "142431372"
+      },
+      "album": "Greatest",
+      "duration": 275,
+      "isrc": "GBBLG0100358"
+    },
+    {
+      "artist": "A Guy Called Gerald",
+      "title": "Voodoo Ray",
+      "services": {
+        "qobuz": "290338705"
+      },
+      "album": "Hot Lemonade",
+      "duration": 267,
+      "isrc": "GBGWW0400001"
+    },
+    {
+      "artist": "Humanoid",
+      "title": "Stakker Humanoid",
+      "services": {
+        "qobuz": "168213972"
+      },
+      "album": "Stakker Humanoid",
+      "duration": 296,
+      "isrc": "GBKPL1828418"
+    },
+    {
+      "artist": "Baby Ford",
+      "title": "Oochy Koochy (F.U. Baby Yeh Yeh)",
+      "services": {
+        "qobuz": "330577722"
+      },
+      "album": "Oochy Koochy (F.U. Baby Yeh Yeh)",
+      "duration": 345,
+      "isrc": "FRX201771720"
+    },
+    {
+      "artist": "S'Express",
+      "title": "Theme From S'Express",
+      "services": {
+        "qobuz": "2620296"
+      },
+      "album": "Original Soundtrack",
+      "duration": 359,
+      "isrc": "GBARL0601816"
+    },
+    {
+      "artist": "D-Mob",
+      "title": "We Call It Acieeed (feat. Gary Haisman)",
+      "services": {
+        "qobuz": "81219117"
+      },
+      "album": "We Call It Acieeed (feat. Gary Haisman)",
+      "duration": 197,
+      "isrc": "GBAAP1900142"
+    },
+    {
+      "artist": "808 State",
+      "title": "Pacific State",
+      "services": {
+        "qobuz": "129595020"
+      },
+      "album": "ESP: The 808 State Effect",
+      "duration": 350,
+      "isrc": "GBAHW1100023"
+    },
+    {
+      "artist": "Orbital",
+      "title": "Chime (Edit)",
+      "services": {
+        "qobuz": "292964718"
+      },
+      "album": "A Beginner's Guide",
+      "duration": 193,
+      "isrc": "GBAAP0200238"
+    },
+    {
+      "artist": "Various Interprets",
+      "title": "Everything Starts With An 'E'",
+      "services": {
+        "qobuz": "12270081"
+      },
+      "album": "Fascinating Rhythms",
+      "duration": 216,
+      "isrc": "GBUM71307182"
+    },
+    {
+      "artist": "Guru Josh",
+      "title": "Infinity",
+      "services": {
+        "qobuz": "227842"
+      },
+      "album": "Infinity",
+      "duration": 241,
+      "isrc": "GBARL9000068"
+    },
+    {
+      "artist": "Phantasia",
+      "title": "Inner Light",
+      "services": {
+        "qobuz": "245150912"
+      },
+      "album": "Ooo",
+      "duration": 321,
+      "isrc": "UKR6V2383458"
+    },
+    {
+      "artist": "Hithouse",
+      "title": "Jack to the Sound of the Underground 2012 (feat. Addy van der Zwan & Jerry Beke)",
+      "services": {
+        "qobuz": "47626521"
+      },
+      "album": "Jack To The Sound Of The Underground 2012 (feat. Addy van der Zwan & Jerry Beke)",
+      "duration": 386,
+      "isrc": "NLC281210053"
+    },
+    {
+      "artist": "Cappella",
+      "title": "Helyom Halib (House Revenge Mix)",
+      "services": {
+        "qobuz": "69561617"
+      },
+      "album": "U Got 2 Let the Music: Best Of",
+      "duration": 391,
+      "isrc": "DEA310909729"
+    },
+    {
+      "artist": "Adonis",
+      "title": "H.O.U.S.E. (Phuture Mix)",
+      "services": {
+        "qobuz": "298289567"
+      },
+      "album": "H.O.U.S.E. (Phuture Mix)",
+      "duration": 368,
+      "isrc": "US3VR8800045"
+    },
+    {
+      "artist": "MANBEARCOW",
+      "title": "ManBearCow Ate Christmas [Jolly Roger]",
+      "services": {
+        "qobuz": "368547228"
+      },
+      "album": "A ManBearCow Christmas",
+      "duration": 200,
+      "isrc": "USY282512946"
+    },
+    {
+      "artist": "Soul  II Soul",
+      "title": "A Dream's A Dream",
+      "services": {
+        "qobuz": "4676881"
+      },
+      "album": "The Club Mix Hits",
+      "duration": 268,
+      "isrc": "GBAAA9000030"
+    },
+    {
+      "artist": "Amy Winehouse",
+      "title": "Tears Dry On Their Own",
+      "services": {
+        "qobuz": "25273061"
+      },
+      "album": "Back To Black",
+      "duration": 186,
+      "isrc": "GBUM70603494"
+    },
+    {
+      "artist": "The Loud House",
+      "title": "Play It Loud",
+      "services": {
+        "qobuz": "186246438"
+      },
+      "album": "Really Loud Music",
+      "duration": 53,
+      "isrc": "USN1R2006001"
+    },
+    {
+      "artist": "Alaska Y Dinarama",
+      "title": "Bailando",
+      "services": {
+        "qobuz": "830346"
+      },
+      "album": "Diez-Remasters",
+      "duration": 225,
+      "isrc": "ES5080600682"
+    },
+    {
+      "artist": "Phortune",
+      "title": "Can You Feel The Bass?",
+      "services": {
+        "qobuz": "142430551"
+      },
+      "album": "Phuture and Other Classics from DJ Pierre",
+      "duration": 312,
+      "isrc": "GBBLG0100394"
+    },
+    {
+      "artist": "Kool Brown",
+      "title": "As Da Wrld Turns",
+      "services": {
+        "qobuz": "325947283"
+      },
+      "album": "BRNZ",
+      "duration": 166,
+      "isrc": "QZQAY2551580"
+    },
+    {
+      "artist": "Bang The Party",
+      "title": "Bang Bang You're Mine",
+      "services": {
+        "qobuz": "138169545"
+      },
+      "album": "Richard Sen Presents This Ain't Chicago - The Underground Sound of UK House & Acid 1987-1991",
+      "duration": 371,
+      "isrc": "DEG931290080"
+    },
+    {
+      "artist": "Window Smashers",
+      "title": "Free to Be",
+      "services": {
+        "qobuz": "138169546"
+      },
+      "album": "Richard Sen Presents This Ain't Chicago - The Underground Sound of UK House & Acid 1987-1991",
+      "duration": 344,
+      "isrc": "DEG931290081"
+    },
+    {
+      "artist": "Julian Jonah",
+      "title": "Jealousy And Lies (Alternative Dance Mix)",
+      "services": {
+        "qobuz": "427918174"
+      },
+      "album": "Jealousy And Lies",
+      "duration": 323,
+      "isrc": "GBBLY2503206"
+    },
+    {
+      "artist": "Man With No Name",
+      "title": "From Within the Mind of My 909",
+      "services": {
+        "qobuz": "138169549"
+      },
+      "album": "Richard Sen Presents This Ain't Chicago - The Underground Sound of UK House & Acid 1987-1991",
+      "duration": 297,
+      "isrc": "DEG931290083"
+    },
+    {
+      "artist": "Rio Rhythm Band",
+      "title": "Cuban Jakkin'",
+      "services": {
+        "qobuz": "138169550"
+      },
+      "album": "Richard Sen Presents This Ain't Chicago - The Underground Sound of UK House & Acid 1987-1991",
+      "duration": 400,
+      "isrc": "DEG931290084"
+    },
+    {
+      "artist": "Playtime Toons",
+      "title": "Shaker Song",
+      "services": {
+        "qobuz": "138169551"
+      },
+      "album": "Richard Sen Presents This Ain't Chicago - The Underground Sound of UK House & Acid 1987-1991",
+      "duration": 264,
+      "isrc": "DEG931290085"
+    },
+    {
+      "artist": "Jigzaw",
+      "title": "PARA MENTALIT\u00c4T",
+      "services": {
+        "qobuz": "314950939"
+      },
+      "album": "Para Mentalit\u00e4t",
+      "duration": 161,
+      "isrc": "DEY472571055"
+    },
+    {
+      "artist": "Exocet",
+      "title": "Safety Zone",
+      "services": {
+        "qobuz": "151904326"
+      },
+      "album": "Lethal Weapon",
+      "duration": 275,
+      "isrc": "GBKQU2233597"
+    },
+    {
+      "artist": "Return Of The Living Acid",
+      "title": "Twin Tub",
+      "services": {
+        "qobuz": "138169552"
+      },
+      "album": "Richard Sen Presents This Ain't Chicago - The Underground Sound of UK House & Acid 1987-1991",
+      "duration": 334,
+      "isrc": "DEG931290088"
+    },
+    {
+      "artist": "CXX",
+      "title": "The Comfort of Strangers (Mix by Rhythm Doctor)",
+      "services": {
+        "qobuz": "138169553"
+      },
+      "album": "Richard Sen Presents This Ain't Chicago - The Underground Sound of UK House & Acid 1987-1991",
+      "duration": 340,
+      "isrc": "DEG931290090"
+    },
+    {
+      "artist": "Julie Stapleton",
+      "title": "Where's the Love Gone",
+      "services": {
+        "qobuz": "138169554"
+      },
+      "album": "Richard Sen Presents This Ain't Chicago - The Underground Sound of UK House & Acid 1987-1991",
+      "duration": 344,
+      "isrc": "DEG931290091"
+    },
+    {
+      "artist": "Rohan Delano",
+      "title": "Inflight",
+      "services": {
+        "qobuz": "174695299"
+      },
+      "album": "Inflight b/w The Way I Love You",
+      "duration": 320,
+      "isrc": "USCW62123003"
+    },
+    {
+      "artist": "Sly And Lovechild",
+      "title": "The World According to Sly & Lovechild",
+      "services": {
+        "qobuz": "138169555"
+      },
+      "album": "Richard Sen Presents This Ain't Chicago - The Underground Sound of UK House & Acid 1987-1991",
+      "duration": 501,
+      "isrc": "DEG931290092"
+    },
+    {
+      "artist": "Ability II",
+      "title": "Pressure Dub",
+      "services": {
+        "qobuz": "107285465"
+      },
+      "album": "Pressure Dub",
+      "duration": 330,
+      "isrc": "GBKQU2028063"
+    },
+    {
+      "artist": "Depeche Mode",
+      "title": "Dream On",
+      "services": {
+        "qobuz": "151088180"
+      },
+      "album": "Exciter | The 12\" Singles",
+      "duration": 323,
+      "isrc": "GBAJH0400166"
+    },
+    {
+      "artist": "M. D. EMM",
+      "title": "1666",
+      "services": {
+        "qobuz": "138169557"
+      },
+      "album": "Richard Sen Presents This Ain't Chicago - The Underground Sound of UK House & Acid 1987-1991",
+      "duration": 392,
+      "isrc": "DEG931290095"
+    },
+    {
+      "artist": "Colm III",
+      "title": "Take Me High",
+      "services": {
+        "qobuz": "138169558"
+      },
+      "album": "Richard Sen Presents This Ain't Chicago - The Underground Sound of UK House & Acid 1987-1991",
+      "duration": 433,
+      "isrc": "DEG931290096"
+    },
+    {
+      "artist": "S.L.F.",
+      "title": "Show Me What You Got",
+      "services": {
+        "qobuz": "138169559"
+      },
+      "album": "Richard Sen Presents This Ain't Chicago - The Underground Sound of UK House & Acid 1987-1991",
+      "duration": 402,
+      "isrc": "DEG931290097"
+    },
+    {
+      "artist": "Paul Rutherford",
+      "title": "Get Real",
+      "services": {
+        "qobuz": "214568691"
+      },
+      "album": "Get Real",
+      "duration": 502,
+      "isrc": "GBSCL1334011"
+    },
+    {
+      "artist": "Bizarre Inc",
+      "title": "I'm Gonna Get You",
+      "services": {
+        "qobuz": "120361332"
+      },
+      "album": "Bizarre Inc Energique",
+      "duration": 321,
+      "isrc": "FR96X2108984"
+    }
+  ]
+}

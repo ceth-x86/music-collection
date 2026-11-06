@@ -1,0 +1,520 @@
+{
+  "name": "Genre: Power Noise",
+  "services": {
+    "qobuz": "66733629",
+    "tidal": "7ecdd257-a103-4fc2-b0ae-070b419989b8"
+  },
+  "description": "Imported genre playlist: Power Noise.",
+  "tracks": [
+    {
+      "artist": "The Nice",
+      "title": "Pathetique (Symphony No. 6, 3rd Movement)",
+      "services": {
+        "qobuz": "1779784"
+      },
+      "album": "Five Bridges",
+      "duration": 569,
+      "isrc": "GBAAA0900006"
+    },
+    {
+      "artist": "Converter",
+      "title": "Denogginizer",
+      "services": {
+        "qobuz": "71681103"
+      },
+      "album": "Coma",
+      "duration": 582,
+      "isrc": "USI4R0607148"
+    },
+    {
+      "artist": "Imminent Starvation",
+      "title": "Urbanib",
+      "services": {
+        "qobuz": "71670118"
+      },
+      "album": "North",
+      "duration": 359,
+      "isrc": "USI4R0609555"
+    },
+    {
+      "artist": "Synapscape",
+      "title": "New Order",
+      "services": {
+        "qobuz": "71682987"
+      },
+      "album": "So What",
+      "duration": 407,
+      "isrc": "USI4R0610900"
+    },
+    {
+      "artist": "Slayyyter",
+      "title": "OLD TECHNOLOGY",
+      "services": {
+        "qobuz": "403844159"
+      },
+      "album": "WOR$T GIRL IN AMERICA",
+      "duration": 159,
+      "isrc": "USQX92506908"
+    },
+    {
+      "artist": "Terrorfakt",
+      "title": "Achtung!",
+      "services": {
+        "qobuz": "34808030"
+      },
+      "album": "Cold Steel World",
+      "duration": 303,
+      "isrc": "US57M0533501"
+    },
+    {
+      "artist": "Walls of Jericho",
+      "title": "Relentless",
+      "services": {
+        "qobuz": "37196427"
+      },
+      "album": "No One Can Save You from Yourself",
+      "duration": 208,
+      "isrc": "ATN261665407"
+    },
+    {
+      "artist": "New Order",
+      "title": "Blue Monday '88",
+      "services": {
+        "qobuz": "33382305"
+      },
+      "album": "Singles",
+      "duration": 252,
+      "isrc": "GBAAP1500077"
+    },
+    {
+      "artist": "Mark Lowry",
+      "title": "What a Saviour He Is",
+      "services": {
+        "qobuz": "97552194"
+      },
+      "album": "For the First Time On Planet Earth",
+      "duration": 250,
+      "isrc": "USWR60301246"
+    },
+    {
+      "artist": "Daniel Darc",
+      "title": "Inutile et hors d'usage",
+      "services": {
+        "qobuz": "58730155"
+      },
+      "album": "Cr\u00e8vec\u0153ur (2019 remastered)",
+      "duration": 195,
+      "isrc": "FR98Z0380050"
+    },
+    {
+      "artist": "Eric Clapton",
+      "title": "Nobody Knows You When You're Down And Out",
+      "services": {
+        "qobuz": "131558986"
+      },
+      "album": "The Lady In The Balcony: Lockdown Sessions",
+      "duration": 185,
+      "isrc": "GBCBR2100078"
+    },
+    {
+      "artist": "Last Days of S.E.X.",
+      "title": "Noise Against the Nation",
+      "services": {
+        "qobuz": "49036049"
+      },
+      "album": "Sabotage Normality",
+      "duration": 263,
+      "isrc": "DEZ651707445"
+    },
+    {
+      "artist": "Suzanne Vega",
+      "title": "Wooden Horse (Casper Hauser's Song)",
+      "services": {
+        "qobuz": "131792514"
+      },
+      "album": "Solitude Standing",
+      "duration": 313,
+      "isrc": "USAM18790010"
+    },
+    {
+      "artist": "La mandarina saltarina",
+      "title": "No soy ridicula sino citrus reticula",
+      "services": {
+        "qobuz": "270290481"
+      },
+      "album": "La Mandarina Saltarina 1",
+      "duration": 83,
+      "isrc": "ESA122479374"
+    },
+    {
+      "artist": "Katran",
+      "title": "Mirror Reflection",
+      "services": {
+        "qobuz": "307355844"
+      },
+      "album": "Above The Concrete",
+      "duration": 374,
+      "isrc": "QMFMF2419262"
+    },
+    {
+      "artist": "Xotox",
+      "title": "Niemandskind",
+      "services": {
+        "qobuz": "412982440"
+      },
+      "album": "Dokumentation 2",
+      "duration": 347,
+      "isrc": "FR96X2649984"
+    },
+    {
+      "artist": "Nero Kolero",
+      "title": "Sommerzeit (feat. The Sick German)",
+      "services": {
+        "qobuz": "273156233"
+      },
+      "album": "Boogie Nights",
+      "duration": 260,
+      "isrc": "IEWNY2442868"
+    },
+    {
+      "artist": "Mono No Aware",
+      "title": "me to me II",
+      "services": {
+        "qobuz": "353354947"
+      },
+      "album": "\u8d70\u99ac\u706f",
+      "duration": 340,
+      "isrc": "JPJ902503630"
+    },
+    {
+      "artist": "Yura Yura Teikoku",
+      "title": "Hollow Me (Alternate Version)",
+      "services": {
+        "qobuz": "95593291"
+      },
+      "album": "REMIX 2005-2008",
+      "duration": 362,
+      "isrc": "JPN300800521"
+    },
+    {
+      "artist": "Joey G Productions",
+      "title": "Why Can't We Have Peace",
+      "services": {
+        "qobuz": "356392175"
+      },
+      "album": "Why Can't We Have Peace",
+      "duration": 222,
+      "isrc": "GXHND2533003"
+    },
+    {
+      "artist": "ashtar being",
+      "title": "528 Hz Cultivate Peace",
+      "services": {
+        "qobuz": "275223711"
+      },
+      "album": "Peace",
+      "duration": 134,
+      "isrc": "TCAIL2416494"
+    },
+    {
+      "artist": "Templer",
+      "title": "I Am My Enemy",
+      "services": {
+        "qobuz": "307340897"
+      },
+      "album": "FORMS OF HANDS 21",
+      "duration": 425,
+      "isrc": "QMFMF2419532"
+    },
+    {
+      "artist": "Leonora Mystic",
+      "title": "Moonlit Melt",
+      "services": {
+        "qobuz": "403059985"
+      },
+      "album": "Cold Sun Rising",
+      "duration": 218,
+      "isrc": "PLS922605948"
+    },
+    {
+      "artist": "Riverside",
+      "title": "The Depth of Self-Delusion",
+      "services": {
+        "qobuz": "134674096"
+      },
+      "album": "Riverside 20 - The Shorts & The Longs",
+      "duration": 299,
+      "isrc": "GBDHC2128810"
+    },
+    {
+      "artist": "Sans-Fin",
+      "title": "Cuir Noir",
+      "services": {
+        "qobuz": "307597124"
+      },
+      "album": "FORMS OF HANDS 22",
+      "duration": 304,
+      "isrc": "QMFMF2415965"
+    },
+    {
+      "artist": "Strobo.Lolita",
+      "title": "Der Innere Tod",
+      "services": {
+        "qobuz": "307597117"
+      },
+      "album": "FORMS OF HANDS 22",
+      "duration": 311,
+      "isrc": "QMFMF2415958"
+    },
+    {
+      "artist": "Young Fathers",
+      "title": "Don't Fight the Young",
+      "services": {
+        "qobuz": "390776891"
+      },
+      "album": "HELP(2)",
+      "duration": 147,
+      "isrc": "GBAZP2500249"
+    },
+    {
+      "artist": "Cameron Winter",
+      "title": "Love Takes Miles",
+      "services": {
+        "qobuz": "287849443"
+      },
+      "album": "Heavy Metal",
+      "duration": 198,
+      "isrc": "USBQU2400171"
+    },
+    {
+      "artist": "Monya",
+      "title": "Wollust",
+      "services": {
+        "qobuz": "307597126"
+      },
+      "album": "FORMS OF HANDS 22",
+      "duration": 278,
+      "isrc": "QMFMF2415967"
+    },
+    {
+      "artist": "Ah Cama-Sotz",
+      "title": "Hidden Roots",
+      "services": {
+        "qobuz": "307597130"
+      },
+      "album": "FORMS OF HANDS 22",
+      "duration": 294,
+      "isrc": "QMFMF2415971"
+    },
+    {
+      "artist": "Hysteresis",
+      "title": "Acidtek",
+      "services": {
+        "qobuz": "307533046"
+      },
+      "album": "FORMS OF HANDS 23",
+      "duration": 330,
+      "isrc": "QMFMF2414618"
+    },
+    {
+      "artist": "MS Gentur + Sven Phalanx",
+      "title": "Gedankenkontrolle",
+      "services": {
+        "qobuz": "307533045"
+      },
+      "album": "FORMS OF HANDS 23",
+      "duration": 288,
+      "isrc": "QMFMF2414617"
+    },
+    {
+      "artist": "Heimstatt Yipotash",
+      "title": "Nemesis",
+      "services": {
+        "qobuz": "307533053"
+      },
+      "album": "FORMS OF HANDS 23",
+      "duration": 254,
+      "isrc": "QMFMF2414625"
+    },
+    {
+      "artist": "S.K.E.T.",
+      "title": "How to Respond to Populism",
+      "services": {
+        "qobuz": "307533055"
+      },
+      "album": "FORMS OF HANDS 23",
+      "duration": 235,
+      "isrc": "QMFMF2414627"
+    },
+    {
+      "artist": "Greyhound",
+      "title": "Excitation Transfer Effect",
+      "services": {
+        "qobuz": "307533047"
+      },
+      "album": "FORMS OF HANDS 23",
+      "duration": 317,
+      "isrc": "QMFMF2414619"
+    },
+    {
+      "artist": "ICD-10",
+      "title": "Entangled",
+      "services": {
+        "qobuz": "307533044"
+      },
+      "album": "FORMS OF HANDS 23",
+      "duration": 302,
+      "isrc": "QMFMF2414616"
+    },
+    {
+      "artist": "Supersimmetria",
+      "title": "Magnetar",
+      "services": {
+        "qobuz": "307533052"
+      },
+      "album": "FORMS OF HANDS 23",
+      "duration": 283,
+      "isrc": "QMFMF2414624"
+    },
+    {
+      "artist": "13th Monkey",
+      "title": "Circadian Rhythm",
+      "services": {
+        "qobuz": "307533054"
+      },
+      "album": "FORMS OF HANDS 23",
+      "duration": 308,
+      "isrc": "QMFMF2414626"
+    },
+    {
+      "artist": "Anarchotech",
+      "title": "From the Ashes of the Old",
+      "services": {
+        "qobuz": "307533043"
+      },
+      "album": "FORMS OF HANDS 23",
+      "duration": 353,
+      "isrc": "QMFMF2414615"
+    },
+    {
+      "artist": "Icehouse",
+      "title": "Hey Little Girl",
+      "services": {
+        "qobuz": "73060622"
+      },
+      "album": "The Extended Mixes Vol. 2",
+      "duration": 301,
+      "isrc": "AUC441300168"
+    },
+    {
+      "artist": "Evanescence",
+      "title": "Taking Over Me",
+      "services": {
+        "qobuz": "17795401"
+      },
+      "album": "Fallen",
+      "duration": 228,
+      "isrc": "USWU30200114"
+    },
+    {
+      "artist": "Esplendor Geom\u00e9trico",
+      "title": "Urgencia",
+      "services": {
+        "qobuz": "307533056"
+      },
+      "album": "FORMS OF HANDS 23",
+      "duration": 341,
+      "isrc": "QMFMF2414628"
+    },
+    {
+      "artist": "Good Riddance",
+      "title": "Pox Americana",
+      "services": {
+        "qobuz": "347861572"
+      },
+      "album": "Thoughts and Prayers",
+      "duration": 88,
+      "isrc": "USFW41912410"
+    },
+    {
+      "artist": "Morbid Angel",
+      "title": "10 More Dead (Deconstructed)",
+      "services": {
+        "qobuz": "104902622"
+      },
+      "album": "Illud Divinum Insanus - The Remixes Complete",
+      "duration": 269,
+      "isrc": "FR33T1125635"
+    },
+    {
+      "artist": "Bruce Cockburn",
+      "title": "Dust And Diesel",
+      "services": {
+        "qobuz": "319867268"
+      },
+      "album": "Stealing Fire (Deluxe Edition)",
+      "duration": 330,
+      "isrc": "CAT248400303"
+    },
+    {
+      "artist": "Nullvektor",
+      "title": "Wiederholung",
+      "services": {
+        "qobuz": "49048888"
+      },
+      "album": "Marathonmann",
+      "duration": 278,
+      "isrc": "DEZ651350712"
+    },
+    {
+      "artist": "VAST",
+      "title": "Here's to All the People I Have Lost",
+      "services": {
+        "qobuz": "72741884"
+      },
+      "album": "Me and You",
+      "duration": 262,
+      "isrc": "USA2B0945803"
+    },
+    {
+      "artist": "Incendie",
+      "title": "One Cursed Dance",
+      "services": {
+        "qobuz": "211204005"
+      },
+      "album": "One Cursed Dance",
+      "duration": 376,
+      "isrc": "QM6P42345624"
+    },
+    {
+      "artist": "Marie Erickson",
+      "title": "Delirium Tremens",
+      "services": {
+        "qobuz": "370963942"
+      },
+      "album": "Delirium Tremens",
+      "duration": 200,
+      "isrc": "QZV2N2288721"
+    },
+    {
+      "artist": "Statiqbloom",
+      "title": "Wipe Away Neither Sorrow",
+      "services": {
+        "qobuz": "351869854"
+      },
+      "album": "Folding In",
+      "duration": 344,
+      "isrc": "QMDA72566403"
+    },
+    {
+      "artist": "Iron Maiden",
+      "title": "The Writing on the Wall",
+      "services": {
+        "qobuz": "126886855"
+      },
+      "album": "Senjutsu",
+      "duration": 373,
+      "isrc": "GBCHB2100003"
+    }
+  ]
+}

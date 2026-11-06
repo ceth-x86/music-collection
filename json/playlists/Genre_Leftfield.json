@@ -1,0 +1,970 @@
+{
+  "name": "Genre: Leftfield",
+  "services": {
+    "qobuz": "66714496",
+    "tidal": "2db5cc5e-8a55-490b-97fa-83b112e4165e"
+  },
+  "description": "Imported genre playlist: Leftfield.",
+  "tracks": [
+    {
+      "artist": "Leftfield",
+      "title": "Original",
+      "services": {
+        "qobuz": "39996785"
+      },
+      "album": "Leftism",
+      "duration": 383,
+      "isrc": "GBARL1700451"
+    },
+    {
+      "artist": "Isol\u00e9e",
+      "title": "Beau Mot Plage",
+      "services": {
+        "qobuz": "309285685"
+      },
+      "album": "Beau Mot Plage",
+      "duration": 233,
+      "isrc": "GBCPZ1004572"
+    },
+    {
+      "artist": "Michael Dulin",
+      "title": "Deck the Halls",
+      "services": {
+        "qobuz": "73998545"
+      },
+      "album": "Christmas At Our House",
+      "duration": 189,
+      "isrc": "USHM80524485"
+    },
+    {
+      "artist": "Ricardo Villalobos",
+      "title": "Easy Lee",
+      "services": {
+        "qobuz": "360665731"
+      },
+      "album": "Easy Lee",
+      "duration": 445,
+      "isrc": "GBEWY2100264"
+    },
+    {
+      "artist": "Mathew Jonson",
+      "title": "Decompression",
+      "services": {
+        "qobuz": "92856503"
+      },
+      "album": "Nothing Much",
+      "duration": 653,
+      "isrc": "CAM260450013"
+    },
+    {
+      "artist": "The Other People Place",
+      "title": "Let Me Be Me",
+      "services": {
+        "qobuz": "79173953"
+      },
+      "album": "Lifestyles Of The Laptop Caf\u00e9",
+      "duration": 466,
+      "isrc": "GBBPW0100096"
+    },
+    {
+      "artist": "Groove Armada",
+      "title": "Superstylin'",
+      "services": {
+        "qobuz": "263284"
+      },
+      "album": "Goodbye Country (Hello Nightclub)",
+      "duration": 360,
+      "isrc": "GBAHK0100089"
+    },
+    {
+      "artist": "Herbert",
+      "title": "The Audience",
+      "services": {
+        "qobuz": "90519869"
+      },
+      "album": "Bodily Functions",
+      "duration": 378,
+      "isrc": "GBDJX1300146"
+    },
+    {
+      "artist": "Luomo",
+      "title": "Tessio (Remastered)",
+      "services": {
+        "qobuz": "91491191"
+      },
+      "album": "Vocalcity (20th Anniversary Re-Master)",
+      "duration": 731,
+      "isrc": "UK8261900262"
+    },
+    {
+      "artist": "S.W.",
+      "title": "E2-E4",
+      "services": {
+        "qobuz": "45332053"
+      },
+      "album": "House On The Beach, Vol. 9",
+      "duration": 465,
+      "isrc": "FRX201767979"
+    },
+    {
+      "artist": "The Future Sound Of London",
+      "title": "Papua New Guinea",
+      "services": {
+        "qobuz": "76770645"
+      },
+      "album": "Papua New Guinea",
+      "duration": 231,
+      "isrc": "GBELY0600030"
+    },
+    {
+      "artist": "The Orb",
+      "title": "Little Fluffy Clouds",
+      "services": {
+        "qobuz": "58616025"
+      },
+      "album": "Adventures Beyond The Ultraworld",
+      "duration": 267,
+      "isrc": "GBAAN9100004"
+    },
+    {
+      "artist": "Aphex Twin",
+      "title": "Windowlicker",
+      "services": {
+        "qobuz": "3812730"
+      },
+      "album": "Windowlicker",
+      "duration": 365,
+      "isrc": "GBBPW9900038"
+    },
+    {
+      "artist": "KOAN Sound",
+      "title": "Lost In Thought",
+      "services": {
+        "qobuz": "22957950"
+      },
+      "album": "Dynasty EP",
+      "duration": 399,
+      "isrc": "USQY51452977"
+    },
+    {
+      "artist": "Plastikman",
+      "title": "Spastik",
+      "services": {
+        "qobuz": "92713869"
+      },
+      "album": "Recycled Plastik",
+      "duration": 555,
+      "isrc": "CAM261800030"
+    },
+    {
+      "artist": "Unkle",
+      "title": "Rabbit In Your Headlights",
+      "services": {
+        "qobuz": "53283424"
+      },
+      "album": "The Man From Mo\u2019 Wax",
+      "duration": 381,
+      "isrc": "GBAQH9800046"
+    },
+    {
+      "artist": "Mouse On Mars",
+      "title": "Cut the Gain",
+      "services": {
+        "qobuz": "55156466"
+      },
+      "album": "Wipe That Sound",
+      "duration": 293,
+      "isrc": "DEY170444001"
+    },
+    {
+      "artist": "Amon Tobin",
+      "title": "Creature 4",
+      "services": {
+        "qobuz": "215874641"
+      },
+      "album": "Electronic Music for the Sydney Opera House",
+      "duration": 188,
+      "isrc": "QZ5FN2046822"
+    },
+    {
+      "artist": "Bad Omens",
+      "title": "THE DEATH OF PEACE OF MIND",
+      "services": {
+        "qobuz": "338331358"
+      },
+      "album": "THE DEATH OF PEACE OF MIND",
+      "duration": 241,
+      "isrc": "USYFZ2264204"
+    },
+    {
+      "artist": "Jeff Mills",
+      "title": "The Bells",
+      "services": {
+        "qobuz": "295033856"
+      },
+      "album": "SIGHT SOUND AND SPACE",
+      "duration": 285,
+      "isrc": "USAX10000249"
+    },
+    {
+      "artist": "James Holden",
+      "title": "Lump",
+      "services": {
+        "qobuz": "3464348"
+      },
+      "album": "The Idiots Are Winning",
+      "duration": 370,
+      "isrc": "GBLBR0500012"
+    },
+    {
+      "artist": "The Field",
+      "title": "Over The Ice",
+      "services": {
+        "qobuz": "141538038"
+      },
+      "album": "From Here We Go Sublime",
+      "duration": 416,
+      "isrc": "DEU670600071"
+    },
+    {
+      "artist": "Actress",
+      "title": "Hubble",
+      "services": {
+        "qobuz": "48500615"
+      },
+      "album": "LAGEOS",
+      "duration": 258,
+      "isrc": "GBCFB1800124"
+    },
+    {
+      "artist": "Joy Orbison",
+      "title": "Hyph Mngo",
+      "services": {
+        "qobuz": "114941775"
+      },
+      "album": "Hyph Mngo / Wet Look",
+      "duration": 338,
+      "isrc": "GBHQT0900027"
+    },
+    {
+      "artist": "The Used",
+      "title": "Blood on My Hands",
+      "services": {
+        "qobuz": "2844980"
+      },
+      "album": "Artwork",
+      "duration": 197,
+      "isrc": "USRE10901079"
+    },
+    {
+      "artist": "Floating Points",
+      "title": "Vacuum Boogie",
+      "services": {
+        "qobuz": "58821184"
+      },
+      "album": "Vacuum Boogie",
+      "duration": 368,
+      "isrc": "GB4HG0900001"
+    },
+    {
+      "artist": "Bruce Brubaker",
+      "title": "Two Pages",
+      "services": {
+        "qobuz": "109339699"
+      },
+      "album": "Glassforms Versions",
+      "duration": 536,
+      "isrc": "FRT092000143"
+    },
+    {
+      "artist": "Bicep",
+      "title": "Atlas",
+      "services": {
+        "qobuz": "112281482"
+      },
+      "album": "Isles",
+      "duration": 348,
+      "isrc": "GBCFB2000044"
+    },
+    {
+      "artist": "Bj\u00f6rk",
+      "title": "Hidden Place",
+      "services": {
+        "qobuz": "249107296"
+      },
+      "album": "Vespertine",
+      "duration": 329,
+      "isrc": "GBBTF0100008"
+    },
+    {
+      "artist": "Mister Tenebrio",
+      "title": "Rippin Kittin",
+      "services": {
+        "qobuz": "107289762"
+      },
+      "album": "Rippin Kittin",
+      "duration": 554,
+      "isrc": "GBKQU2015226"
+    },
+    {
+      "artist": "Kode9",
+      "title": "9 Samurai",
+      "services": {
+        "qobuz": "61219092"
+      },
+      "album": "Memories of the Future",
+      "duration": 220,
+      "isrc": "GBLZC0600030"
+    },
+    {
+      "artist": "Underworld",
+      "title": "Two Months Off",
+      "services": {
+        "qobuz": "18131743"
+      },
+      "album": "A Hundred Days Off",
+      "duration": 547,
+      "isrc": "GBBLK0200119"
+    },
+    {
+      "artist": "Ricardo Villalobos",
+      "title": "Que bel epoque 2006",
+      "services": {
+        "qobuz": "10279786"
+      },
+      "album": "Salvador",
+      "duration": 777,
+      "isrc": "DEBL60602564"
+    },
+    {
+      "artist": "Nicolas Jaar",
+      "title": "Too Many Kids Finding Rain In the Dust",
+      "services": {
+        "qobuz": "8917736"
+      },
+      "album": "Remixes, Vol. 1",
+      "duration": 356,
+      "isrc": "FR2T01100023"
+    },
+    {
+      "artist": "Oni Ayhun",
+      "title": "OAR003-B",
+      "services": {
+        "qobuz": "223603793"
+      },
+      "album": "OAR003",
+      "duration": 674,
+      "isrc": "DECY50973032"
+    },
+    {
+      "artist": "Artificial Intelligence",
+      "title": "Desperado",
+      "services": {
+        "qobuz": "46845780"
+      },
+      "album": "Desperado / Moving On",
+      "duration": 380,
+      "isrc": "GBCEQ1210337"
+    },
+    {
+      "artist": "Juan Atkins",
+      "title": "No U.F.Os (inst.)",
+      "services": {
+        "qobuz": "74113554"
+      },
+      "album": "Submerge Vol.1:Detroit Techno",
+      "duration": 418,
+      "isrc": "USGUM0810123"
+    },
+    {
+      "artist": "Shudder To Think",
+      "title": "Speed Of Love",
+      "services": {
+        "qobuz": "2631203"
+      },
+      "album": "First Love, Last Rites Music From The Motion Picture",
+      "duration": 155,
+      "isrc": "USSM19703583"
+    },
+    {
+      "artist": "Stereolab",
+      "title": "Metronomic Underground",
+      "services": {
+        "qobuz": "79173662"
+      },
+      "album": "Emperor Tomato Ketchup",
+      "duration": 474,
+      "isrc": "USEE19694710"
+    },
+    {
+      "artist": "Pantha Du Prince",
+      "title": "Lay in a Shimmer",
+      "services": {
+        "qobuz": "393773749"
+      },
+      "album": "Black Noise",
+      "duration": 397,
+      "isrc": "GBCVZ0902722"
+    },
+    {
+      "artist": "Laurel Halo",
+      "title": "Airsick",
+      "services": {
+        "qobuz": "61218106"
+      },
+      "album": "Quarantine",
+      "duration": 238,
+      "isrc": "GBLZC1200029"
+    },
+    {
+      "artist": "Oneohtrix Point Never",
+      "title": "Chrome Country",
+      "services": {
+        "qobuz": "11699555"
+      },
+      "album": "R Plus Seven",
+      "duration": 305,
+      "isrc": "GBBPW1300079"
+    },
+    {
+      "artist": "Gilla Band",
+      "title": "Why They Hide Their Bodies Under My Garage",
+      "services": {
+        "qobuz": "23476723"
+      },
+      "album": "The Early Years",
+      "duration": 477,
+      "isrc": "GBCVZ1403661"
+    },
+    {
+      "artist": "Objekt",
+      "title": "Ganzfeld",
+      "services": {
+        "qobuz": "397664171"
+      },
+      "album": "Ganzfeld",
+      "duration": 356,
+      "isrc": "GBQLP2400527"
+    },
+    {
+      "artist": "Burial",
+      "title": "South London Boroughs",
+      "services": {
+        "qobuz": "61348405"
+      },
+      "album": "South London Boroughs EP",
+      "duration": 306,
+      "isrc": "GBLZC0500001"
+    },
+    {
+      "artist": "Clams Casino",
+      "title": "I'm God",
+      "services": {
+        "qobuz": "97183939"
+      },
+      "album": "Instrumental Relics",
+      "duration": 277,
+      "isrc": "QM24S2003584"
+    },
+    {
+      "artist": "Actress",
+      "title": "R.I.P.",
+      "services": {
+        "qobuz": "49118499"
+      },
+      "album": "R.I.P.",
+      "duration": 76,
+      "isrc": "DEZ651203732"
+    },
+    {
+      "artist": "Andy Stott",
+      "title": "Luxury Problems",
+      "services": {
+        "qobuz": "119885185"
+      },
+      "album": "Luxury Problems",
+      "duration": 303,
+      "isrc": "USA2Z1212006"
+    },
+    {
+      "artist": "Yves Tumor",
+      "title": "Noid",
+      "services": {
+        "qobuz": "79174525"
+      },
+      "album": "Safe In The Hands of Love",
+      "duration": 209,
+      "isrc": "GBBPW1800122"
+    },
+    {
+      "artist": "Hudson Mohawke",
+      "title": "Forever 1",
+      "services": {
+        "qobuz": "33260714"
+      },
+      "album": "Forever 1",
+      "duration": 195,
+      "isrc": "GBBPW1500225"
+    },
+    {
+      "artist": "Rustie",
+      "title": "Glass Swords",
+      "services": {
+        "qobuz": "3948216"
+      },
+      "album": "Glass Swords",
+      "duration": 140,
+      "isrc": "GBBPW1100123"
+    },
+    {
+      "artist": "Sasheen",
+      "title": "LFO Conversations",
+      "services": {
+        "qobuz": "269669312"
+      },
+      "album": "Higher Self",
+      "duration": 511,
+      "isrc": "NLHR22400324"
+    },
+    {
+      "artist": "Burial",
+      "title": "Archangel",
+      "services": {
+        "qobuz": "60896647"
+      },
+      "album": "Untrue",
+      "duration": 240,
+      "isrc": "GBLZC0700013"
+    },
+    {
+      "artist": "Nick Leon",
+      "title": "Xtasis",
+      "services": {
+        "qobuz": "385528489"
+      },
+      "album": "DJ-Kicks: Sofia Kourtesis",
+      "duration": 262,
+      "isrc": "DEG932600133"
+    },
+    {
+      "artist": "Underground resistance",
+      "title": "Nannytown",
+      "services": {
+        "qobuz": "23825360"
+      },
+      "album": "Intersteller Fugitives",
+      "duration": 301,
+      "isrc": "USGUM0710106"
+    },
+    {
+      "artist": "Diana Ross",
+      "title": "Chain Reaction",
+      "services": {
+        "qobuz": "4636703"
+      },
+      "album": "Eaten Alive",
+      "duration": 229,
+      "isrc": "GBAYE8500113"
+    },
+    {
+      "artist": "The Knife",
+      "title": "Silent Shout",
+      "services": {
+        "qobuz": "172626919"
+      },
+      "album": "Silent Shout",
+      "duration": 293,
+      "isrc": "SEWCE0600201"
+    },
+    {
+      "artist": "Sully Erna",
+      "title": "Sinner's Prayer",
+      "services": {
+        "qobuz": "2530553"
+      },
+      "album": "Avalon",
+      "duration": 257,
+      "isrc": "USUM71018381"
+    },
+    {
+      "artist": "Arca",
+      "title": "Piel",
+      "services": {
+        "qobuz": "39645676"
+      },
+      "album": "Arca",
+      "duration": 248,
+      "isrc": "GBBKS1700087"
+    },
+    {
+      "artist": "SOPHIE",
+      "title": "JUST LIKE WE NEVER SAID GOODBYE",
+      "services": {
+        "qobuz": "339884054"
+      },
+      "album": "PRODUCT",
+      "duration": 188,
+      "isrc": "GB7CH1500017"
+    },
+    {
+      "artist": "Laurel Halo",
+      "title": "Raw Silk Uncut Wood",
+      "services": {
+        "qobuz": "433684580"
+      },
+      "album": "Raw Silk Uncut Wood",
+      "duration": 600,
+      "isrc": "QM4TX1876436"
+    },
+    {
+      "artist": "SOPHIE",
+      "title": "BIPP",
+      "services": {
+        "qobuz": "339884044"
+      },
+      "album": "PRODUCT",
+      "duration": 180,
+      "isrc": "GB7CH1300005"
+    },
+    {
+      "artist": "Major Lazer",
+      "title": "Lean On (feat. M\u00d8 & DJ Snake)",
+      "services": {
+        "qobuz": "23426457"
+      },
+      "album": "Peace Is the Mission",
+      "duration": 176,
+      "isrc": "QMUY41500008"
+    },
+    {
+      "artist": "Joy Orbison",
+      "title": "Transition 2",
+      "services": {
+        "qobuz": "49260884"
+      },
+      "album": "Transition 2 / Systems Align",
+      "duration": 437,
+      "isrc": "GBUMC1800004"
+    },
+    {
+      "artist": "Amnesia Scanner",
+      "title": "AS Truth",
+      "services": {
+        "qobuz": "37085124"
+      },
+      "album": "AS Truth",
+      "duration": 244,
+      "isrc": "UK7MC1600174"
+    },
+    {
+      "artist": "Lotic",
+      "title": "Heterocetera",
+      "services": {
+        "qobuz": "22484475"
+      },
+      "album": "Heterocetera",
+      "duration": 217,
+      "isrc": "GBCW31500163"
+    },
+    {
+      "artist": "Tirzah",
+      "title": "Go Now",
+      "services": {
+        "qobuz": "49422288"
+      },
+      "album": "Devotion",
+      "duration": 186,
+      "isrc": "GBCEL1800133"
+    },
+    {
+      "artist": "Tirzah",
+      "title": "their Love",
+      "services": {
+        "qobuz": "220419100"
+      },
+      "album": "trip9love...???",
+      "duration": 152,
+      "isrc": "GBCEL2303156"
+    },
+    {
+      "artist": "Bj\u00f6rk",
+      "title": "Atopos",
+      "services": {
+        "qobuz": "176827768"
+      },
+      "album": "Fossora",
+      "duration": 286,
+      "isrc": "GBBTF2200050"
+    },
+    {
+      "artist": "R\u00dcF\u00dcS DU SOL",
+      "title": "Break My Love",
+      "services": {
+        "qobuz": "288225846"
+      },
+      "album": "Inhale / Exhale",
+      "duration": 260,
+      "isrc": "USRE12400414"
+    },
+    {
+      "artist": "Westbam",
+      "title": "Oldschool, Baby",
+      "services": {
+        "qobuz": "234853789"
+      },
+      "album": "Oldschool, Baby",
+      "duration": 333,
+      "isrc": "DEE190200135"
+    },
+    {
+      "artist": "Wild Beasts",
+      "title": "Hooting & Howling",
+      "services": {
+        "qobuz": "2538933"
+      },
+      "album": "Two Dancers",
+      "duration": 275,
+      "isrc": "GBCEL0900337"
+    },
+    {
+      "artist": "Totimoshi",
+      "title": "Rose",
+      "services": {
+        "qobuz": "6001305"
+      },
+      "album": "Avenger",
+      "duration": 227,
+      "isrc": "TCAAZ1114138"
+    },
+    {
+      "artist": "Skee Mask",
+      "title": "Session Add",
+      "services": {
+        "qobuz": "50349451"
+      },
+      "album": "Compro",
+      "duration": 380,
+      "isrc": "DEOB61800330"
+    },
+    {
+      "artist": "Peverelist",
+      "title": "Still Early",
+      "services": {
+        "qobuz": "46825988"
+      },
+      "album": "Tessellations",
+      "duration": 420,
+      "isrc": "GBRYX1700199"
+    },
+    {
+      "artist": "Kelly Lee Owens",
+      "title": "Arpeggi",
+      "services": {
+        "qobuz": "87285532"
+      },
+      "album": "Inner Song",
+      "duration": 285,
+      "isrc": "NOSTS2072010"
+    },
+    {
+      "artist": "Sampha",
+      "title": "Kora Sings",
+      "services": {
+        "qobuz": "38175302"
+      },
+      "album": "Process",
+      "duration": 258,
+      "isrc": "UK7MC1600044"
+    },
+    {
+      "artist": "Marcus Intalex",
+      "title": "Temperance",
+      "services": {
+        "qobuz": "221002886"
+      },
+      "album": "Zumbar / Temperance",
+      "duration": 432,
+      "isrc": "GBZPZ0400008"
+    },
+    {
+      "artist": "Mala",
+      "title": "Anti War Dub",
+      "services": {
+        "qobuz": "123134287"
+      },
+      "album": "Anti War Dub",
+      "duration": 382,
+      "isrc": "UKHAU2000357"
+    },
+    {
+      "artist": "Barker",
+      "title": "Reframing",
+      "services": {
+        "qobuz": "314381742"
+      },
+      "album": "Stochastic Drift",
+      "duration": 239,
+      "isrc": "NOSTS2525020"
+    },
+    {
+      "artist": "Burial",
+      "title": "Dreamfear",
+      "services": {
+        "qobuz": "248694621"
+      },
+      "album": "Dreamfear / Boy Sent From Above",
+      "duration": 773,
+      "isrc": "GBBKS2300284"
+    },
+    {
+      "artist": "Simo Cell",
+      "title": "Pending in the Pattern",
+      "services": {
+        "qobuz": "101654248"
+      },
+      "album": "Kill Me or Negociate",
+      "duration": 264,
+      "isrc": "FRX762060702"
+    },
+    {
+      "artist": "Call Super",
+      "title": "Fly Black Stork",
+      "services": {
+        "qobuz": "352761325"
+      },
+      "album": "Eulo Cramps",
+      "duration": 226,
+      "isrc": "GBHLW2301811"
+    },
+    {
+      "artist": "The Waterboys",
+      "title": "The Pan Within",
+      "services": {
+        "qobuz": "169134413"
+      },
+      "album": "This Is the Sea",
+      "duration": 372,
+      "isrc": "GBAYK0400028"
+    },
+    {
+      "artist": "Akkord",
+      "title": "HTH020",
+      "services": {
+        "qobuz": "304200902"
+      },
+      "album": "HTH035",
+      "duration": 646,
+      "isrc": "GBEXH1400150"
+    },
+    {
+      "artist": "J-LES",
+      "title": "Everybody Aint Your Friend (feat. DJ RED BOTTOM)",
+      "services": {
+        "qobuz": "430437951"
+      },
+      "album": "Everybody Aint Your Friend (feat. DJ RED BOTTOM)",
+      "duration": 239,
+      "isrc": "QT6ED2686028"
+    },
+    {
+      "artist": "Autechre",
+      "title": "t1a1",
+      "services": {
+        "qobuz": "79176116"
+      },
+      "album": "NTS Session 1",
+      "duration": 1119,
+      "isrc": "GBBPW1800037"
+    },
+    {
+      "artist": "Kelela",
+      "title": "Rewind",
+      "services": {
+        "qobuz": "79175499"
+      },
+      "album": "Hallucinogen",
+      "duration": 238,
+      "isrc": "GBBPW1500156"
+    },
+    {
+      "artist": "Shinichi Atobe",
+      "title": "Butterfly Effect",
+      "services": {
+        "qobuz": "48594780"
+      },
+      "album": "Butterfly Effect",
+      "duration": 712,
+      "isrc": "USA2Z1810682"
+    },
+    {
+      "artist": "Arca",
+      "title": "Miel",
+      "services": {
+        "qobuz": "39645687"
+      },
+      "album": "Arca",
+      "duration": 176,
+      "isrc": "GBBKS1700098"
+    },
+    {
+      "artist": "Caterina Barbieri",
+      "title": "Fantas",
+      "services": {
+        "qobuz": "203070931"
+      },
+      "album": "Ecstatic Computation",
+      "duration": 631,
+      "isrc": "ATE691925901"
+    },
+    {
+      "artist": "Gregory Alan Isakov",
+      "title": "Big Black Car",
+      "services": {
+        "qobuz": "74461074"
+      },
+      "album": "This Empty Northern Hemisphere",
+      "duration": 217,
+      "isrc": "USCGJ0988301"
+    },
+    {
+      "artist": "Arooj Aftab",
+      "title": "Baghon Main",
+      "services": {
+        "qobuz": "140766305"
+      },
+      "album": "Vulture Prince",
+      "duration": 404,
+      "isrc": "QM87N2000001"
+    },
+    {
+      "artist": "Actress",
+      "title": "Push Power ( a 1 )",
+      "services": {
+        "qobuz": "234232113"
+      },
+      "album": "LXXXVIII",
+      "duration": 249,
+      "isrc": "GBCFB2300408"
+    },
+    {
+      "artist": "Oneohtrix Point Never",
+      "title": "Zebra",
+      "services": {
+        "qobuz": "11699548"
+      },
+      "album": "R Plus Seven",
+      "duration": 404,
+      "isrc": "GBBPW1300074"
+    },
+    {
+      "artist": "Red Axes",
+      "title": "Brotherhood (of the Misunderstood)",
+      "services": {
+        "qobuz": "91003652"
+      },
+      "album": "Red Axes",
+      "duration": 247,
+      "isrc": "USA2P2012887"
+    }
+  ]
+}

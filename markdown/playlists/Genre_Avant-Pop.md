@@ -1,0 +1,108 @@
+# Genre: Avant-Pop
+
+Imported genre playlist: Avant-Pop.
+
+Services: `qobuz:66736163` `tidal:91114d91-606f-4c93-91c8-47e9df681f42`
+
+## Tracks (100)
+
+- **Roxy Music** — In Every Dream Home A Heartache [For Your Pleasure] (5:29) `isrc:GBAAA9900169` `qobuz:1067060`
+- **Todd Rundgren** — International Feel [A Wizard / A True Star] (2:50) `isrc:USRH11502639` `qobuz:30325634`
+- **Kraftwerk** — Autobahn [Autobahn] (4:31) `isrc:GBAYE2500013` `qobuz:316792295`
+- **Brian Eno** — Third Uncle [Taking Tiger Mountain (By Strategy)] (4:47) `isrc:GBAAA0400069` `qobuz:4395599`
+- **Sparks** — This Town Ain't Big Enough For Both Of Us [Kimono My House] (3:04) `isrc:GBAAN7400025` `qobuz:13654987`
+- **10cc** — I'm Not In Love [20th Century Masters: The Millennium Collection: Best Of 10CC] (6:07) `isrc:GBF087500001` `qobuz:21561044`
+- **David Bowie** — Sound and Vision [Low] (3:03) `isrc:USJT11600348` `qobuz:44528106`
+- **Suicide** — Cheree [Suicide] (3:42) `isrc:GB5KW1602344` `qobuz:385321153`
+- **The Normal** — Warm Leatherette [Warm Leatherette / T.V.O.D.] (3:23) `isrc:GBAJH0400898` `qobuz:52081057`
+- **The Residents** — Constantinople [Duck Stab] (2:26) `isrc:GBBLY1701092` `qobuz:78214051`
+- **The Buggles** — Video Killed The Radio Star [The Age Of Plastic] (4:13) `isrc:GBAAN7900013` `qobuz:68676893`
+- **Lene Lovich** — Lucky Number [Stateless] (2:51) `isrc:GBCCG7900001` `qobuz:26201749`
+- **Tubeway Army** — Are 'Friends' Electric? [Replicas] (5:23) `isrc:GBAZP9700052` `qobuz:26441450`
+- **The B-52's** — Rock Lobster [The B-52's] (6:52) `isrc:USIR27900014` `qobuz:24201982`
+- **Yellow Magic Orchestra** — RYDEEN [Solid State Survivor] (4:26) `isrc:JPAL09900370` `qobuz:55763418`
+- **Orchestral Manoeuvres in the dark (OMD)** — Enola Gay [The OMD Singles] (3:32) `isrc:GBAAA8000002` `qobuz:1050075`
+- **Devo** — Girl U Want [Oh No It's Devo / Freedom Of Choice] (2:57) `isrc:GBAAA8000464` `qobuz:4622761`
+- **Peter Gabriel** — Intruder [Peter Gabriel 3: Melt] (4:54) `isrc:GBCPB0900654` `qobuz:79758114`
+- **Talking Heads** — Once in a Lifetime [Remain In Light] (4:21) `isrc:USWB10502889` `qobuz:5250687`
+- **Tom Tom Club** — Genius of Love [Genius of Live] (7:15) `isrc:US66W1001844` `qobuz:77695455`
+- **Japan** — Ghosts [Tin Drum] (4:36) `isrc:GBAAA0300385` `qobuz:1736002`
+- **Klaus Nomi** — Total Eclipse [Klaus Nomi] (3:30) `isrc:FRZ080802024` `qobuz:201477999`
+- **Yoko Ono** — Walking On Thin Ice [Yes, I'm A Witch] (5:07) `isrc:USCN30600137` `qobuz:831584`
+- **Laurie Anderson** — O Superman [Big Science] (8:25) `isrc:USNO10750554` `qobuz:11362185`
+- **Thomas Dolby** — She Blinded Me With Science [Blinded With Science] (3:41) `isrc:GBAYE8200083` `qobuz:385582032`
+- **Kate Bush** — The Dreaming [The Dreaming] (4:40) `isrc:GBAYE1800855` `qobuz:199956361`
+- **Malcolm McLaren** — Buffalo Gals [Duck Rock] (4:19) `isrc:GBAAA8300092` `qobuz:1726973`
+- **New Order** — Blue Monday [Singles] (7:31) `isrc:GBAAP1500066` `qobuz:33382287`
+- **Art Of Noise** — Close (To The Edit) [(Who's Afraid Of) The Art Of Noise?] (5:35) `isrc:GBUM71801124` `qobuz:53902787`
+- **Cabaret Voltaire** — Sensoria [#8385 Collected Works 1983 - 1985] (6:16) `isrc:GBR8R1300799` `qobuz:33630702`
+- **Prince** — When Doves Cry [Purple Rain] (5:54) `isrc:USWB10001877` `qobuz:267095402`
+- **Yello** — Oh Yeah [Touch Yello] (2:26) `isrc:DEUM70905602` `qobuz:34736413`
+- **Grace Jones** — Slave To The Rhythm [Slave To The Rhythm] (6:34) `isrc:USIR28500203` `qobuz:120786085`
+- **Scritti Politti** — The Sweetest Girl [Absolute] (6:17) `isrc:GBAAA0100583` `qobuz:218385792`
+- **Propaganda** — Duel [A Secret Wish] (4:41) `isrc:GBAHW0000197` `qobuz:131632127`
+- **Depeche Mode** — Stripped [The Singles 86-98] (3:51) `isrc:GBAJH9800137` `qobuz:1762134`
+- **Sinéad O'Connor** — Mandinka [The Lion and the Cobra] (3:47) `isrc:GBAYK8700069` `qobuz:169157108`
+- **Pet Shop Boys** — It's a Sin [Discography - Complete Singles Collection] (5:01) `isrc:GBAYE8700057` `qobuz:797823`
+- **David Sylvian** — Orpheus [Secrets Of The Beehive] (4:51) `isrc:GBAAA0300438` `qobuz:59084762`
+- **Neneh Cherry** — Buffalo Stance [Raw Like Sushi] (5:43) `isrc:GBAAA8800048` `qobuz:85945500`
+- **Enigma** — Sadeness [The Platinum Collection] (4:20) `isrc:DEG129000013` `qobuz:1752657`
+- **Saint Etienne** — Only Love Can Break Your Heart [Foxbase Alpha] (4:29) `isrc:USWB19903894` `qobuz:2934430`
+- **Primal Scream** — Loaded [Maximum Rock'n'Roll: The Singles (Remastered)] (4:23) `isrc:GBARL1900107` `qobuz:60931494`
+- **Stereo MC's** — Connected [Connected] (5:13) `isrc:GBAAN9290023` `qobuz:757671`
+- **PJ Harvey** — Down By The Water [To Bring You My Love - Demos] (3:05) `isrc:GBUM72001545` `qobuz:96880210`
+- **Underworld** — Born Slippy (Nuxx) [Born Slippy (Nuxx)] (4:24) `isrc:GBCGL9800026` `qobuz:38011612`
+- **Cibo Matto** — Sugar Water [Viva! La Woman] (4:29) `isrc:USWB19500082` `qobuz:2858315`
+- **Beck** — Where It's At [Odelay] (5:31) `isrc:USIR10400603` `qobuz:37457527`
+- **Tori Amos** — Professional Widow [Boys for Pele] (4:32) `isrc:USRH11604343` `qobuz:35126818`
+- **Daft Punk** — Around the World [Homework] (7:08) `isrc:GBDUW0600009` `qobuz:1065482`
+- **The Chemical Brothers** — Block Rockin' Beats [Dig Your Own Hole] (5:13) `isrc:GBAAA9700048` `qobuz:1065661`
+- **The Prodigy** — Firestarter [The Fat of the Land - Expanded Edition] (4:39) `isrc:GBBKS9700080` `qobuz:7008315`
+- **Björk** — Jóga [Homogenic] (5:05) `isrc:GBBTF9700093` `qobuz:249106118`
+- **Stereolab** — Miss Modular [Dots And Loops] (4:29) `isrc:USEE19792077` `qobuz:79198111`
+- **Radiohead** — Paranoid Android [OK Computer OKNOTOK 1997 2017] (6:23) `isrc:GBBKS1700185` `qobuz:41692581`
+- **Cornelius** — Star Fruit Surf Rider (Damon Albarn Remix) [FM - Fantasma reMixes] (4:55) `isrc:USMTD9934905` `qobuz:71606143`
+- **Air** — Sexy Boy [Moon Safari] (4:58) `isrc:FRS639700560` `qobuz:1065807`
+- **Madonna** — Frozen [Ray Of Light] (6:07) `isrc:USWB19800001` `qobuz:2126948`
+- **Fiona Apple** — Paper Bag [When The Pawn...] (3:39) `isrc:USSM19910365` `qobuz:36548`
+- **The Flaming Lips** — Race for the Prize [The Soft Bulletin] (4:18) `isrc:USWB11602529` `qobuz:41508828`
+- **The Avalanches** — Frontier Psychiatrist [Since I Left You] (4:47) `isrc:AUMPO0000031` `qobuz:58599763`
+- **Peaches** — Fuck the Pain Away [The Teaches of Peaches] (4:10) `isrc:GBBKS0000479` `qobuz:34265054`
+- **Fischerspooner** — Emerge [#1] (4:48) `isrc:USFS20200002` `qobuz:1011683`
+- **Ladytron** — Seventeen [Light & Magic] (4:37) `isrc:CAN111000309` `qobuz:154193585`
+- **The Postal Service** — Such Great Heights [Give Up] (4:26) `isrc:USSUB1304502` `qobuz:407823680`
+- **Goldfrapp** — Strict Machine [Black Cherry] (3:51) `isrc:GBAJH0300036` `qobuz:385581313`
+- **The Go! Team** — Ladyflash [Thunder, Lightning, Strike] (4:16) `isrc:GBCSG0500229` `qobuz:49427864`
+- **Gorillaz** — Feel Good Inc. [The Singles Collection 2001-2011] (3:41) `isrc:GBAYE1400422` `qobuz:35534430`
+- **Imogen Heap** — Hide and Seek [Speak for Yourself] (4:28) `isrc:GBJPX0500005` `qobuz:308243049`
+- **Róisín Murphy** — Ramalama (Bang Bang) [Ruby Blue] (3:35) `isrc:GBBND0501431` `qobuz:388086497`
+- **Of Montreal** — Wraith Pinned to the Mist and Other Games [The Sunlandic Twins] (4:17) `isrc:US3R40500054` `qobuz:3135656`
+- **Hot Chip** — Over And Over [The Warning] (5:47) `isrc:GBAYE0501516` `qobuz:41822843`
+- **The Knife** — Silent Shout [Silent Shout] (4:53) `isrc:SEWCE0600201` `qobuz:172626919`
+- **TV On The Radio** — Wolf Like Me [Return To Cookie Mountain] (4:37) `isrc:USTG30626805` `qobuz:53733338`
+- **M.I.A.** — Paper Planes [Kala] (3:25) `isrc:GBBKS0700215` `qobuz:2484064`
+- **MGMT** — Time to Pretend [Oracular Spectacular] (4:21) `isrc:USSM10702127` `qobuz:16628`
+- **Santigold** — L.E.S Artistes [Santigold] (3:26) `isrc:GBPPE0700023` `qobuz:20706558`
+- **Yeah Yeah Yeahs** — Heads Will Roll [It's Blitz!] (3:41) `isrc:GBUM70900924` `qobuz:747482`
+- **Fever Ray** — If I Had a Heart [Fever Ray] (3:47) `isrc:SEWCE0900201` `qobuz:19772684`
+- **Animal Collective** — My Girls [Merriweather Post Pavilion] (5:40) `isrc:GBCEL0800810` `qobuz:2501503`
+- **Tune-Yards** — Gangsta [W H O K I L L] (3:58) `isrc:GBAFL1100004` `qobuz:3547160`
+- **Kimbra** — Settle Down [Vows] (4:01) `isrc:USWB11200653` `qobuz:5413434`
+- **Grimes** — Genesis [Visions] (4:15) `isrc:CA21O1200002` `qobuz:5177860`
+- **Janelle Monáe** — Q.U.E.E.N. (feat. Erykah Badu) [The Electric Lady] (5:10) `isrc:USBB41300015` `qobuz:37286994`
+- **St. Vincent** — Digital Witness [St. Vincent] (3:22) `isrc:USUM71318966` `qobuz:14580179`
+- **Perfume Genius** — Queen [Too Bright] (3:50) `isrc:GBYPZ1400121` `qobuz:19453161`
+- **Christine and the Queens** — Tilted [Chaleur Humaine] (3:53) `isrc:FR6P11500950` `qobuz:46329549`
+- **FKA twigs** — Two Weeks [LP1] (4:07) `isrc:UK7MC1400274` `qobuz:39294239`
+- **Susanne Sundfør** — Delirious [Ten Love Songs] (4:55) `isrc:NOAGW1400191` `qobuz:45255589`
+- **ANOHNI** — Drone Bomb Me [HOPELESSNESS] (4:10) `isrc:US38W1633311` `qobuz:33933448`
+- **Arca** — Anoche [Arca] (3:37) `isrc:GBBKS1700088` `qobuz:39645677`
+- **SOPHIE** — It's Okay To Cry [OIL OF EVERY PEARL'S UN-INSIDES] (3:50) `isrc:AUFF01700121` `qobuz:50640557`
+- **ROSALÍA** — MALAMENTE [El Mal Querer] (2:30) `isrc:ES5021800275` `qobuz:53485801`
+- **Billie Eilish** — bury a friend [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?] (3:13) `isrc:USUM71900770` `qobuz:77469843`
+- **Caroline Polachek** — So Hot You're Hurting My Feelings [Pang] (3:03) `isrc:USSM11902945` `qobuz:74937678`
+- **Yves Tumor** — Gospel For A New Century [Heaven To A Tortured Mind] (3:18) `isrc:GBBPW1900277` `qobuz:91635324`
+- **Rina Sawayama** — XS [SAWAYAMA] (3:20) `isrc:GBK3W1901224` `qobuz:84075864`
+- **Tirzah** — Send Me [Colourgrade] (4:03) `isrc:GBCEL2100186` `qobuz:124680470`
+- **Shygirl** — Firefly [Nymph] (3:18) `isrc:GBMVH2200500` `qobuz:157222330`
+- **Jockstrap** — Glasgow [I Love You Jennifer B] (5:34) `isrc:GBCVZ2200083` `qobuz:158919058`

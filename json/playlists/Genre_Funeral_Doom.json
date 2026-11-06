@@ -1,0 +1,559 @@
+{
+  "name": "Genre: Funeral Doom",
+  "services": {
+    "qobuz": "66735642"
+  },
+  "description": "Imported genre playlist: Funeral Doom.",
+  "tracks": [
+    {
+      "artist": "Thergothon",
+      "title": "Yet The Watchers Guard",
+      "services": {
+        "qobuz": "50995498"
+      },
+      "album": "Stream From The Heavens",
+      "duration": 535,
+      "isrc": "GBCQV0900470"
+    },
+    {
+      "artist": "Funeral",
+      "title": "Taarene",
+      "services": {
+        "qobuz": "177591314"
+      },
+      "album": "Tragedies",
+      "duration": 744,
+      "isrc": "USI4R0809575"
+    },
+    {
+      "artist": "Skepticism",
+      "title": "Sign of a Storm",
+      "services": {
+        "qobuz": "121905778"
+      },
+      "album": "Stormcrowfleet",
+      "duration": 613,
+      "isrc": "QM6P42106266"
+    },
+    {
+      "artist": "Esoteric",
+      "title": "Creation (Through Destruction)",
+      "services": {
+        "qobuz": "117444097"
+      },
+      "album": "The Pernicious Enigma",
+      "duration": 794,
+      "isrc": "UK67E1600028"
+    },
+    {
+      "artist": "Evoken",
+      "title": "Tragedy Eternal",
+      "services": {
+        "qobuz": "71584141"
+      },
+      "album": "Embrace the Emptiness",
+      "duration": 592,
+      "isrc": "US6R21303807"
+    },
+    {
+      "artist": "The Eden Symphony Orchestra",
+      "title": "Whispering Hope",
+      "services": {
+        "qobuz": "8094917"
+      },
+      "album": "My Faith Looks Up To Thee - Hymns Of Hope from the Classic Worship series",
+      "duration": 379,
+      "isrc": "USG5S1223210"
+    },
+    {
+      "artist": "Mournful Congregation",
+      "title": "Tears from a Grieving Heart",
+      "services": {
+        "qobuz": "8002527"
+      },
+      "album": "Tears from a Grieving Heart",
+      "duration": 602,
+      "isrc": "FR4E61300220"
+    },
+    {
+      "artist": "Shape Of Despair",
+      "title": "...In The Mist",
+      "services": {
+        "qobuz": "195768855"
+      },
+      "album": "Shades Of...",
+      "duration": 823,
+      "isrc": "FIUM71000126"
+    },
+    {
+      "artist": "The Who",
+      "title": "Blue Red And Grey",
+      "services": {
+        "qobuz": "20130045"
+      },
+      "album": "The Who By Numbers",
+      "duration": 169,
+      "isrc": "GBUM71405459"
+    },
+    {
+      "artist": "Longing For Dawn",
+      "title": "One Lonely Path",
+      "services": {
+        "qobuz": "73838184"
+      },
+      "album": "One Lonely Path",
+      "duration": 288,
+      "isrc": "CAAD20710228"
+    },
+    {
+      "artist": "Pantheist",
+      "title": "Curse the Morning Light",
+      "services": {
+        "qobuz": "71575110"
+      },
+      "album": "O Solitude",
+      "duration": 1097,
+      "isrc": "USI4R0810011"
+    },
+    {
+      "artist": "Catacombs",
+      "title": "In The Depths Of R'lyeh",
+      "services": {
+        "qobuz": "64305086"
+      },
+      "album": "In The Depths Of R'lyeh",
+      "duration": 676,
+      "isrc": "USA560617808"
+    },
+    {
+      "artist": "Monolithe",
+      "title": "Monolithe I",
+      "services": {
+        "qobuz": "312714171"
+      },
+      "album": "Monolithe I",
+      "duration": 3119,
+      "isrc": "CH6542214106"
+    },
+    {
+      "artist": "Nortt",
+      "title": "Sorgesalmen",
+      "services": {
+        "qobuz": "29584053"
+      },
+      "album": "Graven",
+      "duration": 591,
+      "isrc": "USY251632335"
+    },
+    {
+      "artist": "Joel Frederiksen",
+      "title": "Ocean",
+      "services": {
+        "qobuz": "139310786"
+      },
+      "album": "Requiem for a Pink Moon",
+      "duration": 194,
+      "isrc": "FRZ141155240"
+    },
+    {
+      "artist": "Tyranny",
+      "title": "Passing Through Ague",
+      "services": {
+        "qobuz": "71568470"
+      },
+      "album": "Bleak Vistae",
+      "duration": 813,
+      "isrc": "USI4R0809961"
+    },
+    {
+      "artist": "The Hello Darlins",
+      "title": "Catch That Train",
+      "services": {
+        "qobuz": "120185961"
+      },
+      "album": "Go by Feel",
+      "duration": 241,
+      "isrc": "CANOA2000002"
+    },
+    {
+      "artist": "Orchestre de Picardie",
+      "title": "Images pour piano, premi\u00e8re serie, L. 110: II. Hommage \u00e0 Rameau",
+      "services": {
+        "qobuz": "85538190"
+      },
+      "album": "The Sound of Trees",
+      "duration": 398,
+      "isrc": "FR7MS1974007"
+    },
+    {
+      "artist": "Ahab",
+      "title": "Below the Sun",
+      "services": {
+        "qobuz": "28458254"
+      },
+      "album": "The Call Of The Wretched Seas",
+      "duration": 705,
+      "isrc": "ATN260619801"
+    },
+    {
+      "artist": "Ea",
+      "title": "Ea Taesse",
+      "services": {
+        "qobuz": "60266078"
+      },
+      "album": "Ea Taesse",
+      "duration": 1374,
+      "isrc": "CH6541924593"
+    },
+    {
+      "artist": "Rigor Sardonicous",
+      "title": "Wall of Darkness",
+      "services": {
+        "qobuz": "71581937"
+      },
+      "album": "Principia Sardonica",
+      "duration": 412,
+      "isrc": "USI4R0808906"
+    },
+    {
+      "artist": "Abstract Spirit",
+      "title": "Sepulchral Winter",
+      "services": {
+        "qobuz": "95097719"
+      },
+      "album": "Tragedy and Weeds",
+      "duration": 799,
+      "isrc": "CH6542063044"
+    },
+    {
+      "artist": "In Mourning",
+      "title": "Solitude and silence",
+      "services": {
+        "qobuz": "142107517"
+      },
+      "album": "The Bleeding Veil",
+      "duration": 375,
+      "isrc": "SE5S62105503"
+    },
+    {
+      "artist": "Ranno Vollman",
+      "title": "Delirium 2.0",
+      "services": {
+        "qobuz": "51408371"
+      },
+      "album": "Rising Sun / Chapter 1",
+      "duration": 540,
+      "isrc": "GBKQU1833368"
+    },
+    {
+      "artist": "The Howling Void",
+      "title": "Megaliths of the Abyss",
+      "services": {
+        "qobuz": "71564972"
+      },
+      "album": "Megaliths of the Abyss",
+      "duration": 605,
+      "isrc": "USI4R0804946"
+    },
+    {
+      "artist": "Shintaro Sakamoto",
+      "title": "A Gleam Of Hope",
+      "services": {
+        "qobuz": "163659744"
+      },
+      "album": "How To Live With A Phantom",
+      "duration": 206,
+      "isrc": "JPZ921110452"
+    },
+    {
+      "artist": "Doom:VS",
+      "title": "Dead Words Speak",
+      "services": {
+        "qobuz": "94613255"
+      },
+      "album": "Dead Words Speak",
+      "duration": 480,
+      "isrc": "CH6542058879"
+    },
+    {
+      "artist": "Helllight",
+      "title": "In Memory of the Old Spirits",
+      "services": {
+        "qobuz": "237402690"
+      },
+      "album": "In Memory of the Old Spirits",
+      "duration": 735,
+      "isrc": "QZW9L2310674"
+    },
+    {
+      "artist": "Loss",
+      "title": "Cut up, Depressed and Alone",
+      "services": {
+        "qobuz": "164396980"
+      },
+      "album": "Despond",
+      "duration": 562,
+      "isrc": "USN681110074"
+    },
+    {
+      "artist": "Omit",
+      "title": "Dissolve",
+      "services": {
+        "qobuz": "84552274"
+      },
+      "album": "Repose",
+      "duration": 854,
+      "isrc": "NO2VE1101030"
+    },
+    {
+      "artist": "flower night",
+      "title": "A Sea of Empty Faces",
+      "services": {
+        "qobuz": "422809109"
+      },
+      "album": "The Deep End of Sorrow",
+      "duration": 440,
+      "isrc": "GXHND2657295"
+    },
+    {
+      "artist": "Eye Of Solitude",
+      "title": "ACT I (Between Two Worlds (Occularis Infernum)",
+      "services": {
+        "qobuz": "194350159"
+      },
+      "album": "Canto III",
+      "duration": 846,
+      "isrc": "QZFZ32350769"
+    },
+    {
+      "artist": "Aldebaran",
+      "title": "Occultation of Ocular Tauri",
+      "services": {
+        "qobuz": "41091817"
+      },
+      "album": "Embracing the Lightless Depths",
+      "duration": 398,
+      "isrc": "USN681210027"
+    },
+    {
+      "artist": "Enon",
+      "title": "Law of Johnny Dolittle",
+      "services": {
+        "qobuz": "32634245"
+      },
+      "album": "Grass Geysers...Carbon Clouds",
+      "duration": 172,
+      "isrc": "USTG30731113"
+    },
+    {
+      "artist": "Consummatum Est",
+      "title": "Vertebra",
+      "services": {
+        "qobuz": "114977067"
+      },
+      "album": "Hypnagogia",
+      "duration": 675,
+      "isrc": "GBSMU3882876"
+    },
+    {
+      "artist": "Sektarism",
+      "title": "Hosanna Sathana",
+      "services": {
+        "qobuz": "71588842"
+      },
+      "album": "Le Son des Stigmates",
+      "duration": 1280,
+      "isrc": "USA561461365"
+    },
+    {
+      "artist": "Frowning",
+      "title": "Murdered By Grief",
+      "services": {
+        "qobuz": "302740599"
+      },
+      "album": "Funeral Impressions 10th Anniversary",
+      "duration": 950,
+      "isrc": "QZZ7M2453811"
+    },
+    {
+      "artist": "Lycus",
+      "title": "Tempest",
+      "services": {
+        "qobuz": "19648041"
+      },
+      "album": "Tempest",
+      "duration": 1235,
+      "isrc": "USJE71310010"
+    },
+    {
+      "artist": "Midtown",
+      "title": "The Tragedy of the Human Condition",
+      "services": {
+        "qobuz": "47160729"
+      },
+      "album": "Forget What You Know",
+      "duration": 69,
+      "isrc": "USSM10403972"
+    },
+    {
+      "artist": "Profetus",
+      "title": "The Sadness Of Time Passing",
+      "services": {
+        "qobuz": "71456211"
+      },
+      "album": "The Sadness Of Time Passing",
+      "duration": 873,
+      "isrc": "USY251979238"
+    },
+    {
+      "artist": "Harbours & Oceans",
+      "title": "Slow Drift",
+      "services": {
+        "qobuz": "234784732"
+      },
+      "album": "Slow Drift",
+      "duration": 136,
+      "isrc": "SE5Q52303191"
+    },
+    {
+      "artist": "Funeral Moth",
+      "title": "Transience",
+      "services": {
+        "qobuz": "81275458"
+      },
+      "album": "Transience",
+      "duration": 1319,
+      "isrc": "USCGH1644048"
+    },
+    {
+      "artist": "Not Operated",
+      "title": "Ad Infinitum",
+      "services": {
+        "qobuz": "378466054"
+      },
+      "album": "Arcana Coelestia",
+      "duration": 465,
+      "isrc": "FR96X2569920"
+    },
+    {
+      "artist": "Un",
+      "title": "The Tomb of All Things",
+      "services": {
+        "qobuz": "101077836"
+      },
+      "album": "The Tomb of All Things (Reissue)",
+      "duration": 802,
+      "isrc": "USCHW2016805"
+    },
+    {
+      "artist": "Primal Fear",
+      "title": "When Death Comes Knocking",
+      "services": {
+        "qobuz": "298210807"
+      },
+      "album": "Delivering the Black",
+      "duration": 418,
+      "isrc": "ITG271400079"
+    },
+    {
+      "artist": "Et Moriemur",
+      "title": "Libera Me",
+      "services": {
+        "qobuz": "74841014"
+      },
+      "album": "Epigrammata",
+      "duration": 318,
+      "isrc": "USCGJ1852304"
+    },
+    {
+      "artist": "Illimitable Dolor",
+      "title": "Leaden Light Her Coils",
+      "services": {
+        "qobuz": "79719295"
+      },
+      "album": "Leaden Light",
+      "duration": 828,
+      "isrc": "QMEU31904564"
+    },
+    {
+      "artist": "Bell Witch",
+      "title": "Mirror Reaper",
+      "services": {
+        "qobuz": "224909765"
+      },
+      "album": "Mirror Reaper",
+      "duration": 4995,
+      "isrc": "USN681710071"
+    },
+    {
+      "artist": "Morbid Angel",
+      "title": "Dawn of the Angry",
+      "services": {
+        "qobuz": "22879455"
+      },
+      "album": "Domination",
+      "duration": 279,
+      "isrc": "GBBPB0401926"
+    },
+    {
+      "artist": "Mesmur",
+      "title": "Lapse",
+      "services": {
+        "qobuz": "22195301"
+      },
+      "album": "Mesmur",
+      "duration": 574,
+      "isrc": "ITJ351401391"
+    },
+    {
+      "artist": "Downfall of Gaia",
+      "title": "Carved into Shadows",
+      "services": {
+        "qobuz": "60752394"
+      },
+      "album": "Aeon Unveils the Thrones of Decay",
+      "duration": 620,
+      "isrc": "USMBR1410913"
+    },
+    {
+      "artist": "Suzanne Ciani",
+      "title": "Golden Apples Of The Sun",
+      "services": {
+        "qobuz": "212044823"
+      },
+      "album": "Golden Apples of the Sun",
+      "duration": 273,
+      "isrc": "QM6P42360649"
+    },
+    {
+      "artist": "Fvnerals",
+      "title": "Wounds",
+      "services": {
+        "qobuz": "189661055"
+      },
+      "album": "Wounds",
+      "duration": 360,
+      "isrc": "GBLFP1627989"
+    },
+    {
+      "artist": "Kasper M\u00e4kel\u00e4",
+      "title": "Valo ja Varjo",
+      "services": {
+        "qobuz": "296014619"
+      },
+      "album": "Valot Syttyv\u00e4t Taas",
+      "duration": 131,
+      "isrc": "QT2VB2482705"
+    },
+    {
+      "artist": "Atramentus",
+      "title": "Stygian III: Perennial Voyage (Across the Perpetual Planes of Crying Frost & Steel-Eroding Blizzards)",
+      "services": {
+        "qobuz": "96855434"
+      },
+      "album": "Stygian",
+      "duration": 1397,
+      "isrc": "USJE72013503"
+    }
+  ]
+}

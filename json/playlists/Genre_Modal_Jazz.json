@@ -1,0 +1,580 @@
+{
+  "name": "Genre: Modal Jazz",
+  "services": {
+    "qobuz": "66733898",
+    "tidal": "09d92786-26e0-42f4-af90-9ef517c0867c"
+  },
+  "description": "Imported genre playlist: Modal Jazz.",
+  "tracks": [
+    {
+      "artist": "Ahmad Jamal",
+      "title": "Poinciana",
+      "services": {
+        "qobuz": "62742442"
+      },
+      "album": "Ballades",
+      "duration": 268,
+      "isrc": "FR7JM1869040"
+    },
+    {
+      "artist": "Cannonball Adderley Quintet",
+      "title": "Nardis",
+      "services": {
+        "qobuz": "511644"
+      },
+      "album": "Portrait Of Cannonball",
+      "duration": 330,
+      "isrc": "USFI85800228"
+    },
+    {
+      "artist": "Miles Davis",
+      "title": "So What",
+      "services": {
+        "qobuz": "13176083"
+      },
+      "album": "Kind Of Blue",
+      "duration": 547,
+      "isrc": "USSM15900113"
+    },
+    {
+      "artist": "Bill Evans",
+      "title": "Peace Piece",
+      "services": {
+        "qobuz": "3938789"
+      },
+      "album": "Everybody Digs Bill Evans (Keepnews Collection)",
+      "duration": 404,
+      "isrc": "USFI80700085"
+    },
+    {
+      "artist": "Randy Weston",
+      "title": "Little Niles",
+      "services": {
+        "qobuz": "56003692"
+      },
+      "album": "Little Niles",
+      "duration": 360,
+      "isrc": "USUM71814522"
+    },
+    {
+      "artist": "Julito Collazo",
+      "title": "Afro Blue",
+      "services": {
+        "qobuz": "75105"
+      },
+      "album": "Mongo Santamaria's Greatest Hits",
+      "duration": 624,
+      "isrc": "USSM10004873"
+    },
+    {
+      "artist": "George Russell Sextet",
+      "title": "Stratusphunk",
+      "services": {
+        "qobuz": "290752779"
+      },
+      "album": "Stratusphunk (+ The Stratus Seekers)",
+      "duration": 366,
+      "isrc": "USFI86000180"
+    },
+    {
+      "artist": "Oliver Nelson",
+      "title": "Stolen Moments",
+      "services": {
+        "qobuz": "123939799"
+      },
+      "album": "The Blues And The Abstract Truth",
+      "duration": 524,
+      "isrc": "USMC16151944"
+    },
+    {
+      "artist": "Yusef Lateef",
+      "title": "Love Theme (From Spartacus)",
+      "services": {
+        "qobuz": "237990873"
+      },
+      "album": "Eastern Sounds",
+      "duration": 251,
+      "isrc": "UKPFB1892435"
+    },
+    {
+      "artist": "Roy Haynes Quartet",
+      "title": "Snap Crackle",
+      "services": {
+        "qobuz": "56802005"
+      },
+      "album": "Out Of The Afternoon",
+      "duration": 251,
+      "isrc": "USMC16247618"
+    },
+    {
+      "artist": "John Coltrane",
+      "title": "Impressions",
+      "services": {
+        "qobuz": "50375446"
+      },
+      "album": "Both Directions At Once: The Lost Album (Deluxe Edition)",
+      "duration": 277,
+      "isrc": "USUM71807149"
+    },
+    {
+      "artist": "Jackie McLean",
+      "title": "Melody For Melonae",
+      "services": {
+        "qobuz": "15936768"
+      },
+      "album": "Let Freedom Ring",
+      "duration": 799,
+      "isrc": "USBN20700209"
+    },
+    {
+      "artist": "Thelonious Monk",
+      "title": "Ba-Lue Bolivar Ba-Lues-Are",
+      "services": {
+        "qobuz": "23317549"
+      },
+      "album": "Brilliant Corners",
+      "duration": 798,
+      "isrc": "USC4R0720061"
+    },
+    {
+      "artist": "Kenny Dorham",
+      "title": "Una Mas (One More Time)",
+      "services": {
+        "qobuz": "21573329"
+      },
+      "album": "Una Mas",
+      "duration": 915,
+      "isrc": "USUM71417039"
+    },
+    {
+      "artist": "The Dave Brubeck Quartet",
+      "title": "Koto Song",
+      "services": {
+        "qobuz": "57624443"
+      },
+      "album": "Jazz Impressions Of Japan",
+      "duration": 181,
+      "isrc": "USSM10016161"
+    },
+    {
+      "artist": "Rahsaan Roland Kirk",
+      "title": "Serenade to a Cuckoo",
+      "services": {
+        "qobuz": "6005347"
+      },
+      "album": "Kirkatron",
+      "duration": 217,
+      "isrc": "USWB11102929"
+    },
+    {
+      "artist": "Art Blakey & The Jazz Messengers",
+      "title": "The Freedom Rider",
+      "services": {
+        "qobuz": "1058653"
+      },
+      "album": "The Freedom Rider",
+      "duration": 448,
+      "isrc": "USBN29400426"
+    },
+    {
+      "artist": "Grant Green",
+      "title": "Idle Moments",
+      "services": {
+        "qobuz": "15936781"
+      },
+      "album": "Idle Moments",
+      "duration": 894,
+      "isrc": "USBN28800633"
+    },
+    {
+      "artist": "Pete La Roca",
+      "title": "Basra",
+      "services": {
+        "qobuz": "1076879"
+      },
+      "album": "Basra",
+      "duration": 599,
+      "isrc": "USBN20400500"
+    },
+    {
+      "artist": "Herbie Hancock",
+      "title": "Maiden Voyage",
+      "services": {
+        "qobuz": "15936742"
+      },
+      "album": "Maiden Voyage",
+      "duration": 476,
+      "isrc": "USBN21200624"
+    },
+    {
+      "artist": "Dexter Gordon",
+      "title": "Tanya",
+      "services": {
+        "qobuz": "21990318"
+      },
+      "album": "One Flight Up",
+      "duration": 1103,
+      "isrc": "USUM71418004"
+    },
+    {
+      "artist": "Bobby Hutcherson",
+      "title": "Tranquillity",
+      "services": {
+        "qobuz": "1060445"
+      },
+      "album": "Components",
+      "duration": 303,
+      "isrc": "USBN29400195"
+    },
+    {
+      "artist": "Larry Young",
+      "title": "Zoltan",
+      "services": {
+        "qobuz": "15937781"
+      },
+      "album": "Unity",
+      "duration": 458,
+      "isrc": "USBN21200691"
+    },
+    {
+      "artist": "Lee Morgan",
+      "title": "Search For The New Land",
+      "services": {
+        "qobuz": "15936665"
+      },
+      "album": "Search For The New Land",
+      "duration": 946,
+      "isrc": "USBN20000326"
+    },
+    {
+      "artist": "Joe Henderson",
+      "title": "Inner Urge",
+      "services": {
+        "qobuz": "4520537"
+      },
+      "album": "Inner Urge",
+      "duration": 718,
+      "isrc": "USBN20300432"
+    },
+    {
+      "artist": "Eddie Harris",
+      "title": "Freedom Jazz Dance",
+      "services": {
+        "qobuz": "2947337"
+      },
+      "album": "The In Sound",
+      "duration": 586,
+      "isrc": "USAT20105895"
+    },
+    {
+      "artist": "Gabor Szabo",
+      "title": "Gypsy Queen",
+      "services": {
+        "qobuz": "29440756"
+      },
+      "album": "Spellbinder",
+      "duration": 313,
+      "isrc": "USMC16690552"
+    },
+    {
+      "artist": "Charles Lloyd",
+      "title": "Forest Flower: Sunrise / Sunset",
+      "services": {
+        "qobuz": "782277"
+      },
+      "album": "Voice In The Night",
+      "duration": 922,
+      "isrc": "DEB339867407"
+    },
+    {
+      "artist": "Tony Williams",
+      "title": "Two Pieces Of One: Red",
+      "services": {
+        "qobuz": "993951"
+      },
+      "album": "Life Time",
+      "duration": 486,
+      "isrc": "USBN29801084"
+    },
+    {
+      "artist": "Sonny Rollins",
+      "title": "East Broadway Run Down",
+      "services": {
+        "qobuz": "60546789"
+      },
+      "album": "East Broadway Run Down",
+      "duration": 1224,
+      "isrc": "USMC16611225"
+    },
+    {
+      "artist": "Wayne Shorter",
+      "title": "Footprints",
+      "services": {
+        "qobuz": "21863947"
+      },
+      "album": "Adam's Apple",
+      "duration": 450,
+      "isrc": "USBN28500087"
+    },
+    {
+      "artist": "McCoy Tyner",
+      "title": "Passion Dance",
+      "services": {
+        "qobuz": "15936683"
+      },
+      "album": "The Real McCoy",
+      "duration": 526,
+      "isrc": "USBN21201010"
+    },
+    {
+      "artist": "Freddie Hubbard",
+      "title": "Little Sunflower",
+      "services": {
+        "qobuz": "2947657"
+      },
+      "album": "Backlash",
+      "duration": 475,
+      "isrc": "USAT20201622"
+    },
+    {
+      "artist": "Joe Chambers",
+      "title": "Mirrors",
+      "services": {
+        "qobuz": "992553"
+      },
+      "album": "Mirrors",
+      "duration": 365,
+      "isrc": "USBN29800770"
+    },
+    {
+      "artist": "Don Rendell Quintet",
+      "title": "Euroaquilo",
+      "services": {
+        "qobuz": "122098695"
+      },
+      "album": "Space Walk",
+      "duration": 403,
+      "isrc": "GBUM72006909"
+    },
+    {
+      "artist": "Pat Martino",
+      "title": "The Visit",
+      "services": {
+        "qobuz": "59433779"
+      },
+      "album": "Footprints",
+      "duration": 273,
+      "isrc": "USSJ10300621"
+    },
+    {
+      "artist": "Gary Burton",
+      "title": "Crystal Silence",
+      "services": {
+        "qobuz": "39774715"
+      },
+      "album": "Crystal Silence",
+      "duration": 546,
+      "isrc": "DEB337202405"
+    },
+    {
+      "artist": "Dave Holland Quartet",
+      "title": "Conference Of The Birds",
+      "services": {
+        "qobuz": "39774706"
+      },
+      "album": "Conference Of The Birds",
+      "duration": 279,
+      "isrc": "DEB337202703"
+    },
+    {
+      "artist": "Joe Farrell",
+      "title": "Moon Germs",
+      "services": {
+        "qobuz": "70441"
+      },
+      "album": "Moon Germs",
+      "duration": 444,
+      "isrc": "USSM10113497"
+    },
+    {
+      "artist": "David Liebman",
+      "title": "Pablo's Story",
+      "services": {
+        "qobuz": "6746513"
+      },
+      "album": "Lookout Farm",
+      "duration": 843,
+      "isrc": "DEB337303901"
+    },
+    {
+      "artist": "Paul Motian",
+      "title": "Georgian Bay",
+      "services": {
+        "qobuz": "371799463"
+      },
+      "album": "Conception Vessel",
+      "duration": 456,
+      "isrc": "DEB337202801"
+    },
+    {
+      "artist": "Eberhard Weber",
+      "title": "The Colours Of Chlo\u00eb",
+      "services": {
+        "qobuz": "219425432"
+      },
+      "album": "The Colours Of Chlo\u00eb",
+      "duration": 469,
+      "isrc": "DEB337304202"
+    },
+    {
+      "artist": "Jan Garbarek",
+      "title": "Dansere",
+      "services": {
+        "qobuz": "627615"
+      },
+      "album": "Dansere",
+      "duration": 905,
+      "isrc": "DEB337507501"
+    },
+    {
+      "artist": "Joyful Melodies Bliss",
+      "title": "Keith Jarrett - The Ko\u0308ln Concert (Part I)",
+      "services": {
+        "qobuz": "277194654"
+      },
+      "album": "Thelonious Monk - \uc7ac\uc988\ud53c\uc544\ub178BGM\ubaa8\uc74c",
+      "duration": 240,
+      "isrc": "QZTAT2432302"
+    },
+    {
+      "artist": "John Abercrombie",
+      "title": "Timeless",
+      "services": {
+        "qobuz": "35329559"
+      },
+      "album": "Timeless",
+      "duration": 722,
+      "isrc": "DEB337404706"
+    },
+    {
+      "artist": "Ralph Towner",
+      "title": "Icarus",
+      "services": {
+        "qobuz": "629134"
+      },
+      "album": "Matchbook",
+      "duration": 351,
+      "isrc": "DEB337405604"
+    },
+    {
+      "artist": "Kenny Wheeler",
+      "title": "Heyoke",
+      "services": {
+        "qobuz": "372680950"
+      },
+      "album": "Gnu High",
+      "duration": 1318,
+      "isrc": "DEB337506901"
+    },
+    {
+      "artist": "Enrico Rava",
+      "title": "Speechless",
+      "services": {
+        "qobuz": "30047426"
+      },
+      "album": "On The Dance Floor - Parco della Musica Jazz Lab - Live At The Rome Auditorium",
+      "duration": 397,
+      "isrc": "DEB331129301"
+    },
+    {
+      "artist": "Dexter Gordon",
+      "title": "The Moontrane",
+      "services": {
+        "qobuz": "47501309"
+      },
+      "album": "The Essential Woody Shaw / The Columbia Years",
+      "duration": 396,
+      "isrc": "USSM17700234"
+    },
+    {
+      "artist": "Tomasz Sta\u0144ko",
+      "title": "Svantetic",
+      "services": {
+        "qobuz": "52114346"
+      },
+      "album": "Litania - Music Of Krzysztof Komeda",
+      "duration": 661,
+      "isrc": "DEB339763601"
+    },
+    {
+      "artist": "Mal Waldron",
+      "title": "Warm Canto",
+      "services": {
+        "qobuz": "290762377"
+      },
+      "album": "The Quest",
+      "duration": 340,
+      "isrc": "USC4R2443078"
+    },
+    {
+      "artist": "Gary Peacock",
+      "title": "Vignette",
+      "services": {
+        "qobuz": "127258930"
+      },
+      "album": "Tales Of Another",
+      "duration": 431,
+      "isrc": "DEB337710101"
+    },
+    {
+      "artist": "Kenny Barron",
+      "title": "Voyage",
+      "services": {
+        "qobuz": "6348488"
+      },
+      "album": "What If?",
+      "duration": 303,
+      "isrc": "DEA598601305"
+    },
+    {
+      "artist": "Michael Brecker",
+      "title": "Song For Bilbao",
+      "services": {
+        "qobuz": "58840464"
+      },
+      "album": "Tales From The Hudson",
+      "duration": 343,
+      "isrc": "USGR19610138"
+    },
+    {
+      "artist": "Tord Gustavsen Trio",
+      "title": "Being There",
+      "services": {
+        "qobuz": "29928640"
+      },
+      "album": "The Ground",
+      "duration": 257,
+      "isrc": "DEB330489202"
+    },
+    {
+      "artist": "Mark Turner",
+      "title": "Iverson's Odyssey",
+      "services": {
+        "qobuz": "2113755"
+      },
+      "album": "Dharma Days",
+      "duration": 452,
+      "isrc": "USWB10100214"
+    },
+    {
+      "artist": "Ron Miles",
+      "title": "Rainbow Sign",
+      "services": {
+        "qobuz": "99657693"
+      },
+      "album": "Rainbow Sign",
+      "duration": 428,
+      "isrc": "USUM72012140"
+    }
+  ]
+}

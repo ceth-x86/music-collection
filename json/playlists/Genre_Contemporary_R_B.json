@@ -1,0 +1,1009 @@
+{
+  "name": "Genre: Contemporary R&B",
+  "services": {
+    "qobuz": "66736862"
+  },
+  "description": "Imported genre playlist: Contemporary R&B.",
+  "tracks": [
+    {
+      "artist": "Whitney Houston",
+      "title": "I'm Your Baby Tonight",
+      "services": {
+        "qobuz": "3110592"
+      },
+      "album": "I'm Your Baby Tonight",
+      "duration": 299,
+      "isrc": "USAR19000129"
+    },
+    {
+      "artist": "Shanice",
+      "title": "I Love Your Smile",
+      "services": {
+        "qobuz": "8589477"
+      },
+      "album": "Inner Child",
+      "duration": 258,
+      "isrc": "USMO19190003"
+    },
+    {
+      "artist": "Boyz II Men",
+      "title": "End Of The Road",
+      "services": {
+        "qobuz": "59989722"
+      },
+      "album": "Legacy: The Greatest Hits Collection",
+      "duration": 349,
+      "isrc": "USMO19200465"
+    },
+    {
+      "artist": "Chant\u00e9 Moore",
+      "title": "Love's Taken Over",
+      "services": {
+        "qobuz": "57047731"
+      },
+      "album": "Precious",
+      "duration": 397,
+      "isrc": "USMC19138314"
+    },
+    {
+      "artist": "En Vogue",
+      "title": "My Lovin' (You're Never Gonna Get It) [Hype Radio Remix]",
+      "services": {
+        "qobuz": "146543872"
+      },
+      "album": "My Lovin' (You're Never Gonna Get It) [Hype Radio Remix]",
+      "duration": 312,
+      "isrc": "USRH12200022"
+    },
+    {
+      "artist": "Jade",
+      "title": "Don't Walk Away",
+      "services": {
+        "qobuz": "2112850"
+      },
+      "album": "Jade To The Max",
+      "duration": 216,
+      "isrc": "USWB10104203"
+    },
+    {
+      "artist": "SWV",
+      "title": "Weak",
+      "services": {
+        "qobuz": "4857833"
+      },
+      "album": "It's About Time",
+      "duration": 292,
+      "isrc": "USRC19205518"
+    },
+    {
+      "artist": "Shai",
+      "title": "If I Ever Fall In Love",
+      "services": {
+        "qobuz": "499192"
+      },
+      "album": "If I Ever Fall In Love",
+      "duration": 189,
+      "isrc": "USWWW0202541"
+    },
+    {
+      "artist": "H-Town",
+      "title": "Knockin' da Boots",
+      "services": {
+        "qobuz": "62600507"
+      },
+      "album": "Knockin' da Boots",
+      "duration": 162,
+      "isrc": "QM6XS1900990"
+    },
+    {
+      "artist": "Janet Jackson",
+      "title": "That's The Way Love Goes",
+      "services": {
+        "qobuz": "4914290"
+      },
+      "album": "janet.",
+      "duration": 265,
+      "isrc": "GBAAA9300170"
+    },
+    {
+      "artist": "R. Kelly",
+      "title": "Bump n' Grind",
+      "services": {
+        "qobuz": "15971720"
+      },
+      "album": "The Essential R. Kelly",
+      "duration": 254,
+      "isrc": "GBAHK9300172"
+    },
+    {
+      "artist": "Silk",
+      "title": "Freak Me",
+      "services": {
+        "qobuz": "2953702"
+      },
+      "album": "The Best of Silk",
+      "duration": 274,
+      "isrc": "USEE10182080"
+    },
+    {
+      "artist": "Tevin Campbell",
+      "title": "Can We Talk",
+      "services": {
+        "qobuz": "45030889"
+      },
+      "album": "The Best of Tevin Campbell",
+      "duration": 284,
+      "isrc": "USQW19300001"
+    },
+    {
+      "artist": "Tony! Toni! Ton\u00e9!",
+      "title": "Anniversary",
+      "services": {
+        "qobuz": "13399174"
+      },
+      "album": "Sons Of Soul",
+      "duration": 558,
+      "isrc": "USPR39300111"
+    },
+    {
+      "artist": "Changing Faces",
+      "title": "Stroke You Up",
+      "services": {
+        "qobuz": "2416095"
+      },
+      "album": "Changing Faces",
+      "duration": 352,
+      "isrc": "USBB19400014"
+    },
+    {
+      "artist": "TLC",
+      "title": "Creep",
+      "services": {
+        "qobuz": "4849645"
+      },
+      "album": "Crazysexycool",
+      "duration": 268,
+      "isrc": "USLF29400135"
+    },
+    {
+      "artist": "Aaliyah",
+      "title": "One In A Million",
+      "services": {
+        "qobuz": "290603620"
+      },
+      "album": "One In A Million",
+      "duration": 270,
+      "isrc": "USUYG1353137"
+    },
+    {
+      "artist": "Dru Hill",
+      "title": "In My Bed",
+      "services": {
+        "qobuz": "3882005"
+      },
+      "album": "Dru Hill",
+      "duration": 284,
+      "isrc": "USIR29600363"
+    },
+    {
+      "artist": "Ginuwine",
+      "title": "Pony",
+      "services": {
+        "qobuz": "26605594"
+      },
+      "album": "Ginuwine... The Bachelor",
+      "duration": 324,
+      "isrc": "USSM19601388"
+    },
+    {
+      "artist": "Toni Braxton",
+      "title": "You're Makin' Me High",
+      "services": {
+        "qobuz": "9211198"
+      },
+      "album": "Secrets",
+      "duration": 267,
+      "isrc": "USLF29600019"
+    },
+    {
+      "artist": "Usher",
+      "title": "You Make Me Wanna...",
+      "services": {
+        "qobuz": "172197439"
+      },
+      "album": "My Way",
+      "duration": 219,
+      "isrc": "USLF29900480"
+    },
+    {
+      "artist": "112",
+      "title": "Cupid",
+      "services": {
+        "qobuz": "3019083"
+      },
+      "album": "112",
+      "duration": 251,
+      "isrc": "USBB40580279"
+    },
+    {
+      "artist": "Brandy",
+      "title": "Have You Ever",
+      "services": {
+        "qobuz": "2925875"
+      },
+      "album": "Never Say Never",
+      "duration": 273,
+      "isrc": "USAT29800470"
+    },
+    {
+      "artist": "Deborah Cox",
+      "title": "Nobody's Supposed to Be Here",
+      "services": {
+        "qobuz": "4866245"
+      },
+      "album": "One Wish",
+      "duration": 261,
+      "isrc": "USAR19800100"
+    },
+    {
+      "artist": "Monica",
+      "title": "Angel of Mine",
+      "services": {
+        "qobuz": "184468"
+      },
+      "album": "The Boy Is Mine",
+      "duration": 250,
+      "isrc": "USAR19800077"
+    },
+    {
+      "artist": "Playa",
+      "title": "Cheers 2 U",
+      "services": {
+        "qobuz": "54288587"
+      },
+      "album": "Cheers 2 U",
+      "duration": 310,
+      "isrc": "USRL19800012"
+    },
+    {
+      "artist": "Tamia",
+      "title": "So Into You",
+      "services": {
+        "qobuz": "2416784"
+      },
+      "album": "Tamia",
+      "duration": 262,
+      "isrc": "USWB11002076"
+    },
+    {
+      "artist": "Tatyana Ali",
+      "title": "Daydreamin'",
+      "services": {
+        "qobuz": "10108586"
+      },
+      "album": "Kiss The Sky",
+      "duration": 298,
+      "isrc": "USSM19801140"
+    },
+    {
+      "artist": "Tyrese",
+      "title": "Sweet Lady",
+      "services": {
+        "qobuz": "4864400"
+      },
+      "album": "Tyrese",
+      "duration": 290,
+      "isrc": "USRC19807109"
+    },
+    {
+      "artist": "702",
+      "title": "Where My Girls At",
+      "services": {
+        "qobuz": "778514"
+      },
+      "album": "702",
+      "duration": 166,
+      "isrc": "USMO19984788"
+    },
+    {
+      "artist": "Blaque",
+      "title": "808",
+      "services": {
+        "qobuz": "11476257"
+      },
+      "album": "Blaque",
+      "duration": 306,
+      "isrc": "USSM19804033"
+    },
+    {
+      "artist": "Brian McKnight",
+      "title": "Back At One",
+      "services": {
+        "qobuz": "3881297"
+      },
+      "album": "Back At One",
+      "duration": 263,
+      "isrc": "USMO19900016"
+    },
+    {
+      "artist": "Destiny's Child",
+      "title": "Say My Name",
+      "services": {
+        "qobuz": "398049"
+      },
+      "album": "The Writing's On The Wall",
+      "duration": 271,
+      "isrc": "USSM19901056"
+    },
+    {
+      "artist": "Donell Jones",
+      "title": "Where I Wanna Be",
+      "services": {
+        "qobuz": "202795"
+      },
+      "album": "Where I Wanna Be",
+      "duration": 253,
+      "isrc": "USLF29900194"
+    },
+    {
+      "artist": "Ideal",
+      "title": "Get Gone",
+      "services": {
+        "qobuz": "4789683"
+      },
+      "album": "Ideal",
+      "duration": 274,
+      "isrc": "USVI29900080"
+    },
+    {
+      "artist": "Sisq\u00f3",
+      "title": "Thong Song",
+      "services": {
+        "qobuz": "4343354"
+      },
+      "album": "Unleash The Dragon",
+      "duration": 253,
+      "isrc": "USDJ29905218"
+    },
+    {
+      "artist": "Carl Thomas",
+      "title": "I Wish",
+      "services": {
+        "qobuz": "2974505"
+      },
+      "album": "Emotional",
+      "duration": 228,
+      "isrc": "USBB40581013"
+    },
+    {
+      "artist": "Jagged Edge",
+      "title": "Let's Get Married",
+      "services": {
+        "qobuz": "13017266"
+      },
+      "album": "The Hits",
+      "duration": 249,
+      "isrc": "USSM10009558"
+    },
+    {
+      "artist": "Joe",
+      "title": "I Wanna Know",
+      "services": {
+        "qobuz": "233265"
+      },
+      "album": "My Name Is Joe",
+      "duration": 296,
+      "isrc": "USJI10000057"
+    },
+    {
+      "artist": "Kandi",
+      "title": "Don't Think I'm Not",
+      "services": {
+        "qobuz": "32473"
+      },
+      "album": "Hey Kandi...",
+      "duration": 243,
+      "isrc": "USSM10007873"
+    },
+    {
+      "artist": "Mya",
+      "title": "Case Of The Ex (Whatcha Gonna Do)",
+      "services": {
+        "qobuz": "92764665"
+      },
+      "album": "Fear Of Flying",
+      "duration": 235,
+      "isrc": "USIR10000805"
+    },
+    {
+      "artist": "Next",
+      "title": "Wifey",
+      "services": {
+        "qobuz": "206427"
+      },
+      "album": "Platinum & Gold Collection",
+      "duration": 243,
+      "isrc": "USAR10000271"
+    },
+    {
+      "artist": "Sammie",
+      "title": "I Like It",
+      "services": {
+        "qobuz": "4612587"
+      },
+      "album": "From The Bottom To The Top",
+      "duration": 250,
+      "isrc": "USFE19900005"
+    },
+    {
+      "artist": "Blu Cantrell",
+      "title": "Hit 'Em Up Style (Oops!)",
+      "services": {
+        "qobuz": "258427214"
+      },
+      "album": "Shades Of Blu",
+      "duration": 250,
+      "isrc": "USAR10100372"
+    },
+    {
+      "artist": "Christina Milian",
+      "title": "AM To PM",
+      "services": {
+        "qobuz": "13487397"
+      },
+      "album": "Christina Milian",
+      "duration": 231,
+      "isrc": "USIR20110076"
+    },
+    {
+      "artist": "Tank",
+      "title": "Maybe I Deserve",
+      "services": {
+        "qobuz": "337076314"
+      },
+      "album": "Force of Nature",
+      "duration": 289,
+      "isrc": "USUYG1352983"
+    },
+    {
+      "artist": "Ashanti",
+      "title": "Foolish",
+      "services": {
+        "qobuz": "784151"
+      },
+      "album": "Ashanti",
+      "duration": 227,
+      "isrc": "USDJ20200199"
+    },
+    {
+      "artist": "Avant",
+      "title": "Separated",
+      "services": {
+        "qobuz": "58246547"
+      },
+      "album": "My Thoughts",
+      "duration": 255,
+      "isrc": "USMC10000059"
+    },
+    {
+      "artist": "B2K",
+      "title": "Girlfriend",
+      "services": {
+        "qobuz": "113594"
+      },
+      "album": "Pandemonium!",
+      "duration": 206,
+      "isrc": "USSM10300441"
+    },
+    {
+      "artist": "Nivea",
+      "title": "Laundromat",
+      "services": {
+        "qobuz": "47021669"
+      },
+      "album": "Nivea",
+      "duration": 263,
+      "isrc": "USJI10300007"
+    },
+    {
+      "artist": "Beyonc\u00e9",
+      "title": "Me, Myself and I",
+      "services": {
+        "qobuz": "97464"
+      },
+      "album": "Dangerously In Love",
+      "duration": 301,
+      "isrc": "USSM10305419"
+    },
+    {
+      "artist": "Ruben Studdard",
+      "title": "Sorry 2004",
+      "services": {
+        "qobuz": "13189388"
+      },
+      "album": "Soulful",
+      "duration": 261,
+      "isrc": "GBCTA0300324"
+    },
+    {
+      "artist": "JoJo",
+      "title": "Leave (Get Out)",
+      "services": {
+        "qobuz": "337077120"
+      },
+      "album": "JoJo",
+      "duration": 242,
+      "isrc": "USUYG1353158"
+    },
+    {
+      "artist": "Lloyd",
+      "title": "Get It Shawty",
+      "services": {
+        "qobuz": "2448255"
+      },
+      "album": "Street Love",
+      "duration": 208,
+      "isrc": "USUM70721403"
+    },
+    {
+      "artist": "Mario",
+      "title": "Let Me Love You",
+      "services": {
+        "qobuz": "348232"
+      },
+      "album": "Let Me Love You",
+      "duration": 256,
+      "isrc": "USJAY0400348"
+    },
+    {
+      "artist": "Mario Winans",
+      "title": "I Don't Wanna Know (feat. Enya & P. Diddy) [2016 Remaster]",
+      "services": {
+        "qobuz": "34368381"
+      },
+      "album": "Bad Boy 20th Anniversary Box Set Edition",
+      "duration": 257,
+      "isrc": "USRH11603418"
+    },
+    {
+      "artist": "Omarion",
+      "title": "O",
+      "services": {
+        "qobuz": "4865052"
+      },
+      "album": "O",
+      "duration": 280,
+      "isrc": "USSM10412688"
+    },
+    {
+      "artist": "Amerie",
+      "title": "1 Thing",
+      "services": {
+        "qobuz": "160119"
+      },
+      "album": "Touch",
+      "duration": 238,
+      "isrc": "USSM10500100"
+    },
+    {
+      "artist": "Bobby V.",
+      "title": "Slow Down",
+      "services": {
+        "qobuz": "13368190"
+      },
+      "album": "Disturbing Tha Peace Presents Bobby Valentino",
+      "duration": 258,
+      "isrc": "USDJ20500006"
+    },
+    {
+      "artist": "Mariah Carey",
+      "title": "We Belong Together",
+      "services": {
+        "qobuz": "338023573"
+      },
+      "album": "The Emancipation Of Mimi",
+      "duration": 201,
+      "isrc": "USIR20500195"
+    },
+    {
+      "artist": "Marques Houston",
+      "title": "Circle",
+      "services": {
+        "qobuz": "4270885"
+      },
+      "album": "Veteran",
+      "duration": 244,
+      "isrc": "USUM70615128"
+    },
+    {
+      "artist": "Pretty Ricky",
+      "title": "Grind With Me",
+      "services": {
+        "qobuz": "2926101"
+      },
+      "album": "Bluestars",
+      "duration": 237,
+      "isrc": "USAT20502447"
+    },
+    {
+      "artist": "Ray J",
+      "title": "One Wish",
+      "services": {
+        "qobuz": "202973195"
+      },
+      "album": "Raydiation",
+      "duration": 337,
+      "isrc": "USUYG1160553"
+    },
+    {
+      "artist": "Teairra Mar\u00ed",
+      "title": "Make Her Feel Good",
+      "services": {
+        "qobuz": "2383488"
+      },
+      "album": "Roc-A-Fella Records Presents Teairra Mar\u00ed",
+      "duration": 225,
+      "isrc": "USUM70501823"
+    },
+    {
+      "artist": "Cassie",
+      "title": "Me & U",
+      "services": {
+        "qobuz": "2927106"
+      },
+      "album": "Cassie",
+      "duration": 192,
+      "isrc": "USBB40610361"
+    },
+    {
+      "artist": "Cherish",
+      "title": "Unappreciated",
+      "services": {
+        "qobuz": "1941218"
+      },
+      "album": "Unappreciated",
+      "duration": 235,
+      "isrc": "USCA20600599"
+    },
+    {
+      "artist": "Ciara",
+      "title": "Promise",
+      "services": {
+        "qobuz": "493286"
+      },
+      "album": "The Evolution",
+      "duration": 267,
+      "isrc": "USLF20600562"
+    },
+    {
+      "artist": "Fantasia",
+      "title": "When I See U",
+      "services": {
+        "qobuz": "4865630"
+      },
+      "album": "Fantasia",
+      "duration": 217,
+      "isrc": "GBCTA0600240"
+    },
+    {
+      "artist": "Heather Headley",
+      "title": "In My Mind",
+      "services": {
+        "qobuz": "13315330"
+      },
+      "album": "In My Mind",
+      "duration": 245,
+      "isrc": "USRC10503423"
+    },
+    {
+      "artist": "Letoya",
+      "title": "Torn",
+      "services": {
+        "qobuz": "212775563"
+      },
+      "album": "LeToya",
+      "duration": 261,
+      "isrc": "USCA20501679"
+    },
+    {
+      "artist": "Ne-Yo",
+      "title": "So Sick",
+      "services": {
+        "qobuz": "736230"
+      },
+      "album": "In My Own Words",
+      "duration": 207,
+      "isrc": "USUM70501633"
+    },
+    {
+      "artist": "Chris Brown",
+      "title": "With You",
+      "services": {
+        "qobuz": "4846754"
+      },
+      "album": "With You",
+      "duration": 252,
+      "isrc": "USJI10700711"
+    },
+    {
+      "artist": "J Holiday",
+      "title": "Bed",
+      "services": {
+        "qobuz": "4605250"
+      },
+      "album": "Back Of My Lac'",
+      "duration": 273,
+      "isrc": "USCA20703432"
+    },
+    {
+      "artist": "Trey Songz",
+      "title": "Can't Help but Wait",
+      "services": {
+        "qobuz": "2932669"
+      },
+      "album": "Trey Day",
+      "duration": 206,
+      "isrc": "USAT20703795"
+    },
+    {
+      "artist": "Day26",
+      "title": "Since You've Been Gone",
+      "services": {
+        "qobuz": "2931529"
+      },
+      "album": "DAY26",
+      "duration": 250,
+      "isrc": "USBB40801682"
+    },
+    {
+      "artist": "Jazmine Sullivan",
+      "title": "Bust Your Windows",
+      "services": {
+        "qobuz": "4852498"
+      },
+      "album": "Fearless",
+      "duration": 266,
+      "isrc": "USJAY0800118"
+    },
+    {
+      "artist": "Jennifer Hudson",
+      "title": "Spotlight",
+      "services": {
+        "qobuz": "4847559"
+      },
+      "album": "Jennifer Hudson",
+      "duration": 250,
+      "isrc": "USAR10800074"
+    },
+    {
+      "artist": "Ryan Leslie",
+      "title": "Addiction",
+      "services": {
+        "qobuz": "116040057"
+      },
+      "album": "Ryan Leslie",
+      "duration": 239,
+      "isrc": "USC7R0800130"
+    },
+    {
+      "artist": "Chrisette Michele",
+      "title": "Epiphany (I'm Leaving)",
+      "services": {
+        "qobuz": "747431"
+      },
+      "album": "Epiphany",
+      "duration": 208,
+      "isrc": "USUM70952927"
+    },
+    {
+      "artist": "Jeremih",
+      "title": "Birthday Sex",
+      "services": {
+        "qobuz": "749019"
+      },
+      "album": "Jeremih",
+      "duration": 226,
+      "isrc": "USUM70959630"
+    },
+    {
+      "artist": "Keri Hilson",
+      "title": "Energy",
+      "services": {
+        "qobuz": "4216011"
+      },
+      "album": "In A Perfect World...",
+      "duration": 209,
+      "isrc": "USUM70818261"
+    },
+    {
+      "artist": "Pleasure P",
+      "title": "Did You Wrong",
+      "services": {
+        "qobuz": "2930953"
+      },
+      "album": "Did You Wrong",
+      "duration": 258,
+      "isrc": "USAT20802989"
+    },
+    {
+      "artist": "The-Dream",
+      "title": "Falsetto",
+      "services": {
+        "qobuz": "2452755"
+      },
+      "album": "Love/Hate",
+      "duration": 271,
+      "isrc": "USUM70761838"
+    },
+    {
+      "artist": "Elle Varner",
+      "title": "Refill",
+      "services": {
+        "qobuz": "6089090"
+      },
+      "album": "Perfectly Imperfect",
+      "duration": 239,
+      "isrc": "USRC11100947"
+    },
+    {
+      "artist": "Kelly Rowland",
+      "title": "Kisses Down Low",
+      "services": {
+        "qobuz": "9798579"
+      },
+      "album": "Talk A Good Game",
+      "duration": 254,
+      "isrc": "USUM71300893"
+    },
+    {
+      "artist": "Tamar Braxton",
+      "title": "Love and War",
+      "services": {
+        "qobuz": "11397628"
+      },
+      "album": "Love and War",
+      "duration": 241,
+      "isrc": "USSM11301001"
+    },
+    {
+      "artist": "Tinashe",
+      "title": "Pretend",
+      "services": {
+        "qobuz": "19631730"
+      },
+      "album": "Aquarius",
+      "duration": 232,
+      "isrc": "USRC11401782"
+    },
+    {
+      "artist": "Ro James",
+      "title": "Permission",
+      "services": {
+        "qobuz": "32172922"
+      },
+      "album": "ELDORADO",
+      "duration": 279,
+      "isrc": "USRC11502056"
+    },
+    {
+      "artist": "Kehlani",
+      "title": "Distraction",
+      "services": {
+        "qobuz": "36590746"
+      },
+      "album": "SweetSexySavage",
+      "duration": 236,
+      "isrc": "USAT21602092"
+    },
+    {
+      "artist": "Sevyn Streeter",
+      "title": "Before I Do",
+      "services": {
+        "qobuz": "42020964"
+      },
+      "album": "Girl Disrupted",
+      "duration": 237,
+      "isrc": "USAT21603418"
+    },
+    {
+      "artist": "Ella Mai",
+      "title": "Boo'd Up",
+      "services": {
+        "qobuz": "54220904"
+      },
+      "album": "Ella Mai",
+      "duration": 239,
+      "isrc": "USUM71814738"
+    },
+    {
+      "artist": "Lucky Daye",
+      "title": "Over",
+      "services": {
+        "qobuz": "131943491"
+      },
+      "album": "Over",
+      "duration": 205,
+      "isrc": "USRC12102179"
+    },
+    {
+      "artist": "Mahalia",
+      "title": "Sober",
+      "services": {
+        "qobuz": "41719558"
+      },
+      "album": "Sober",
+      "duration": 266,
+      "isrc": "GBAHS1700529"
+    },
+    {
+      "artist": "Chloe x Halle",
+      "title": "Do It",
+      "services": {
+        "qobuz": "95526140"
+      },
+      "album": "Ungodly Hour",
+      "duration": 176,
+      "isrc": "USSM12002039"
+    },
+    {
+      "artist": "Giveon",
+      "title": "Heartbreak Anniversary",
+      "services": {
+        "qobuz": "116556669"
+      },
+      "album": "When It's All Said And Done... Take Time",
+      "duration": 198,
+      "isrc": "USSM12000998"
+    },
+    {
+      "artist": "H.E.R.",
+      "title": "Damage",
+      "services": {
+        "qobuz": "123150351"
+      },
+      "album": "Back of My Mind",
+      "duration": 227,
+      "isrc": "USRC11903897"
+    },
+    {
+      "artist": "Muni Long",
+      "title": "Hrs & Hrs",
+      "services": {
+        "qobuz": "174682946"
+      },
+      "album": "Public Displays Of Affection: The Album",
+      "duration": 204,
+      "isrc": "QZAKB2136210"
+    },
+    {
+      "artist": "Coco Jones",
+      "title": "ICU",
+      "services": {
+        "qobuz": "194580182"
+      },
+      "album": "What I Didn\u2019t Tell You",
+      "duration": 241,
+      "isrc": "USUM72216687"
+    },
+    {
+      "artist": "Normani",
+      "title": "Fair",
+      "services": {
+        "qobuz": "149906933"
+      },
+      "album": "Fair",
+      "duration": 184,
+      "isrc": "USRC12200487"
+    },
+    {
+      "artist": "Victoria Monet",
+      "title": "On My Mama",
+      "services": {
+        "qobuz": "212142342"
+      },
+      "album": "JAGUAR II",
+      "duration": 184,
+      "isrc": "USRC12204025"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+# Genre: Electroclash
+
+Imported genre playlist: Electroclash.
+
+Services: `qobuz:66717933` `tidal:cb8bc155-7831-44af-988d-596701e7f10b`
+
+## Tracks (100)
+
+- **Freygolo** — Save the Planet, Kill Yourself [Rare Tracks] (2:28) `isrc:CH6542098549` `qobuz:131104639`
+- **Jacob Miller** — I'm Just A Dread/ One Shut (Original 12' Disco Mix) [Jacob Miller Lives On] (6:28) `isrc:USVPR0713797` `qobuz:2000926`
+- **David Gates** — Help Is on the Way [First] (2:55) `isrc:USEE10251355` `qobuz:2881569`
+- **Alexander Malofeev** — Polka in D Minor [Forgotten Melodies] (0:51) `isrc:USSM12503775` `qobuz:356876064`
+- **Iron Sy** — Flée flée ! (Soirée impeccable) [Exercice De Style] (3:24) `isrc:FRZ089900500` `qobuz:57637184`
+- **Dynamik Bass System** — Arabian Dreams [The Mighty Machine] (9:13) `isrc:DEGD30700282` `qobuz:48812224`
+- **Raz & Afla** — We Taya [Remixes Of Resistance] (6:36) `isrc:GBLQT2500034` `qobuz:342342557`
+- **Anthony Shakir** — Arise [Arise - Single] (8:02) `isrc:FR9W10909862` `qobuz:367298125`
+- **Inner City** — Big Fun [Big Fun] (9:52) `isrc:GBENL0300134` `qobuz:3121469`
+- **Steril** — Grey [essentials] (4:18) `isrc:GBKQU2525028` `qobuz:329890664`
+- **Slam** — Body Pressure [Archive Edits LP] (5:17) `isrc:GBBVL1912407` `qobuz:77654038`
+- **Broods** — Like A Woman [Space Island] (3:10) `isrc:AU2DY2100155` `qobuz:136890729`
+- **Daryl Hall & John Oates** — Out of Touch [Big Bam Boom] (4:22) `isrc:USRC18403649` `qobuz:212232`
+- **Pascal Wokan** — Kapitel 28 - Das Lied der Toten - Nekromanten-Zyklus, Band 1 [Das Lied der Toten - Nekromanten-Zyklus, Band 1] (3:08) `isrc:DEVU52564091` `qobuz:339169854`
+- **Chaka Khan** — Love of a Lifetime [Japanese Singles Collection-Greatest Hits] (4:23) `isrc:USWB10503717` `qobuz:196017278`
+- **Bob Dylan** — Are You Ready [Saved] (4:45) `isrc:USSM11304608` `qobuz:11835530`
+- **Felix Da Housecat** — I Just Want to Be a Lesbian [I Just Want to Be a Lesbian] (7:52) `isrc:QMH9X1300006` `qobuz:9983022`
+- **J.O.S.H.U.A** — Sunset 2 The Left! [Three Phase] (5:43) `isrc:USA2P2604951` `qobuz:387794041`
+- **Denzel Curry** — SUPER SAIYAN SUPERMAN | ZUPER ZA1YAN ZUPERMAN [TA13OO] (2:12) `isrc:USC4R1802451` `qobuz:51424318`
+- **Fix** — Flash [Flash] (4:25) `isrc:USGUM0610025` `qobuz:4100342`
+- **Fischerspooner** — Emerge [#1] (4:48) `isrc:USFS20200002` `qobuz:1011683`
+- **Miss Kittin** — Frank Sinatra [First Album] (3:55) `isrc:DEGQ20700024` `qobuz:55131700`
+- **Peaches** — Fuck the Pain Away [The Teaches of Peaches] (4:10) `isrc:GBBKS0000479` `qobuz:34265054`
+- **Ladytron** — Playgirl [604] (3:49) `isrc:CAN111000313` `qobuz:154188572`
+- **ADULT.** — Hand To Phone (Cordless Mix) [Resuscitation] (5:19) `isrc:US2J71207102` `qobuz:20775230`
+- **Felix Da Housecat** — Silver Screen (Shower Scene) [Kittenz and Thee Glitz] (4:40) `isrc:GBJX32716023` `qobuz:202886592`
+- **Tiga** — Sunglasses at Night [Sunglasses at Night] (3:43) `isrc:DEG932001576` `qobuz:378284527`
+- **Chicks On Speed** — Fashion Rules [99 Cents] (4:26) `isrc:DEG120301011` `qobuz:4650755`
+- **Toktok** — Missy Queen's Gonna Die [Missy Queen Is Gonna Die] (4:13) `isrc:DEAE60000055` `qobuz:50349972`
+- **Princess Superstar** — Bad Babysitter [Princess Superstar Is] (3:35) `isrc:TCADS1857489` `qobuz:236789593`
+- **Mount Sims** — How We Do [UltraSex] (3:54) `isrc:US25T9915124` `qobuz:74810062`
+- **Broken Note** — Alternative Facts [Exit the Void] (4:02) `isrc:UKMGS1900003` `qobuz:93403495`
+- **Stevie Wonder** — You Are The Sunshine Of My Life [Talking Book] (2:58) `isrc:USMO17282852` `qobuz:16012381`
+- **Nightmares On Wax** — You Wish [In A Space Outta Sound] (3:29) `isrc:GBBPW0500164` `qobuz:3776350`
+- **Soviet Malpensa** — Easy Lucky Free [WASTE OF PAINT: A TRIBUTE TO BRIGHT EYES] (4:21) `isrc:IT7LD2600471` `qobuz:391748863`
+- **Halou** — Political [Wiser] (3:24) `isrc:CAN110100253` `qobuz:140464341`
+- **Larry Tee** — Black Pussy’s Revenge [Fashion Queen / Black Pussy's Revenge] (8:16) `isrc:GBLTF2200032` `qobuz:203711206`
+- **Backstreet Boys** — I Want It That Way [The Hits - Chapter One] (3:33) `isrc:USJI19910614` `qobuz:14307153`
+- **Academy of St. Martin in the Fields** — Mozart: Symphony No. 25 in G Minor, K. 183: I. Allegro con brio [Amadeus] (7:40) `isrc:NLA507802439` `qobuz:8509150`
+- **Joao Erbetta** — Ver o Mar [Coisa Mais Linda Season 1 (Original Music from the Netflix Series)] (2:17) `isrc:QZ8BZ1900316` `qobuz:194866985`
+- **Crazy Peppsta** — Do Ya Thang [Do Ya Thang] (3:18) `isrc:QZES51952259` `qobuz:420474413`
+- **Edyta Gorniak** — Linger [Edyta Gorniak] (4:12) `isrc:PLA559700075` `qobuz:45083245`
+- **Paul Young** — Come Back and Stay [No Parlez] (4:24) `isrc:GBARL0800680` `qobuz:446843`
+- **Monotrona** — 90-Seconds Wonder [Hawkeye & Firebird] (1:11) `isrc:US99F0502304` `qobuz:14485313`
+- **Chloë Hanslip** — Violin Concerto No. 2 in B Minor, Op. 7: III. Rondo "La Campanella" [Chloë] (5:42) `isrc:GBDYG0100009` `qobuz:2971760`
+- **Hall of Halls** — The Tale of Tsar Saltan: The Flight of the Bumble-Bee (Arranged by Tatsushi Omori) [Resonance Across the Centuries — Hall of Halls] (1:13) `isrc:JPV342600011` `qobuz:409597096`
+- **Roc Marciano** — Rubber Hand Grip [The Elephant Man's Bones] (3:29) `isrc:USUYG1439939` `qobuz:169356270`
+- **Arpanet** — Wireless Internet [Wireless Internet] (5:54) `isrc:FRS710200009` `qobuz:262051343`
+- **System 01** — Drugs Work [System 01 1990​-​1994] (4:42) `isrc:QM4TW2240465` `qobuz:145837813`
+- **T.Raumschmiere** — Energiekrise [Stromschleifen - EP] (5:40) `isrc:DEX180500197` `qobuz:30170320`
+- **Audible** — Estress Audio [Low Lifestyle] (5:27) `isrc:GBHKS0200005` `qobuz:2874627`
+- **Soft Machine** — A Certain Kind [The Soft Machine] (4:13) `isrc:USMC16853765` `qobuz:2421468`
+- **A1 People** — Detroit Style [The Yellow Album] (5:29) `isrc:GBCKV0210608` `qobuz:48067567`
+- **Effcee** — Fashion [This Is Electroclash] (3:42) `isrc:USA560619901` `qobuz:51122402`
+- **Northern Lite** — Treat Me Better [Reach the Sun] (5:08) `isrc:DEZ420400007` `qobuz:134995193`
+- **Joy Electric** — We Are Rock [The Art And Craft Of Popular Music] (3:27) `isrc:USBR20216533` `qobuz:4411293`
+- **Technova** — Mind Games [Dirty Secrets] (4:19) `isrc:US25T9912601` `qobuz:75243731`
+- **Freezepop** — bike thief [Fancy Ultra-Fresh] (3:53) `isrc:USHM90409113` `qobuz:76101926`
+- **Ambra Red** — She's A Model [Electronic Creations For Special People] (4:19) `isrc:USCGH1037373` `qobuz:66254771`
+- **Les Tétines Noires** — Boys (And Girl Mix) [Destroy All DJs] (3:30) `isrc:USA560801470` `qobuz:51072004`
+- **Distant** — Cradled in Shards of Glass [Tsukuyomi: The Origin] (3:42) `isrc:GBDHC2448906` `qobuz:285260934`
+- **Toilet Mermaid's Unicorn Ninja Songbook Pingpong** — Midnight Doodoo Woke You up at the Police Station [Sucking Cringy Whimp Dudette Dork Songs] (1:47) `isrc:USCGJ2490741` `qobuz:257000759`
+- **Berlin** — Sex (I'm A…) (Rosetta Stone Mix) [Hits Of The '80s & New Remixes] (4:42) `isrc:USA371411502` `qobuz:51017265`
+- **Waldorf** — You're My Disco [Waldorf EP] (3:39) `isrc:QZTBB2335421` `qobuz:239822851`
+- **Dirty Sanchez** — Asymmetric [Really Rich Italian Satanists] (6:41) `isrc:USA370581644` `qobuz:51112287`
+- **Bis** — Don’t Let the Rain Come Down [Return to Central] (3:50) `isrc:UKUJK2200011` `qobuz:144710224`
+- **Freaks** — The Creeps (You’re Giving Me) [The Creeps (You're Giving Me) EP] (6:25) `isrc:GBCWJ2000114` `qobuz:313820179`
+- **Psychonauts** — Hips for Scotland [L'elephant Ibiza Volumen 2] (4:08) `isrc:DEN400912104` `qobuz:206263215`
+- **Daft Punk feat. Pharrell Williams** — Get Lucky [Random Access Memories] (6:09) `isrc:USQX91300108` `qobuz:9140031`
+- **Ben Harper & The Innocent Criminals** — When Sex Was Dirty [Call It What It Is] (3:50) `isrc:USC4R1504239` `qobuz:31142734`
+- **The Legendary Pink Dots** — Love In A Plain Brown Envelope [Traumstadt 2] (6:22) `isrc:ATKH52445706` `qobuz:373569923`
+- **Bad Company** — Rhythm Machine [Desolation Angels (40th Anniversary Edition)] (3:47) `isrc:USRH11900376` `qobuz:82010821`
+- **Crack: We Are Rock** — Animal Trap [Live In Africa!] (5:25) `isrc:US2L20210041` `qobuz:72748997`
+- **Django Django** — Glowing in the Dark [Glowing in the Dark] (2:59) `isrc:GBMVH2000390` `qobuz:104319310`
+- **Slava Tsukerman** — Me & My Rhythm Box [Liquid Sky] (2:51) `isrc:GB9TP1900379` `qobuz:61082378`
+- **KC And The Sunshine Band** — (Shake Shake Shake) Shake Your Booty [Get Down Tonight] (3:05) `isrc:GBAYE7600024` `qobuz:173765669`
+- **Michel Camilo** — Uptown Manhattan [On Fire] (4:47) `isrc:USSM18900817` `qobuz:13515241`
+- **Goldfrapp** — Strict Machine [Black Cherry] (3:51) `isrc:GBAJH0300036` `qobuz:385581313`
+- **Matt Johnson** — In It To Win It [Warrior Princess] (4:08) `isrc:FRZ132504002` `qobuz:320246726`
+- **Vive La Fête** — Nuit Blanche [10 Ans de Fête] (3:25) `isrc:BEY270300004` `qobuz:124123289`
+- **Kap Bambino** — Dead Lazers [Blacklist] (3:25) `isrc:FR6P10900040` `qobuz:1723531`
+- **Black Strobe** — Me & Madonna [Kitsuné: Me & Madonna] (5:08) `isrc:FR7R61000009` `qobuz:2747643`
+- **Alter Ego** — Rocker [Rocker] (4:46) `isrc:DEZ651357699` `qobuz:49134374`
+- **Soulwax** — E Talking [E Talking] (6:08) `isrc:BEP010400146` `qobuz:3157306`
+- **MSTRKRFT** — Work On You [The Looks] (6:02) `isrc:CAL450691402` `qobuz:50483249`
+- **Uffie** — Pop The Glock [Sex Dreams And Denim Jeans] (3:30) `isrc:FR0NT0500057` `qobuz:46335538`
+- **Justice** — D.A.N.C.E. [Justice] (4:02) `isrc:FR0NT0700420` `qobuz:1722788`
+- **Yelle** — Je veux te voir [Pop-Up] (4:21) `isrc:FRZ110701305` `qobuz:4790971`
+- **New Young Pony Club** — Ice Cream [Ice Cream] (3:10) `isrc:AUUM70700142` `qobuz:4924026`
+- **Simian Mobile Disco** — Hustler [Hustler] (3:44) `isrc:GBDNH0700444` `qobuz:885801`
+- **Digitalism** — Zdarlight [Idealism] (5:40) `isrc:GBUM71207141` `qobuz:256247309`
+- **The Presets** — My People [Apocalypso] (4:27) `isrc:AUUM70700903` `qobuz:13166905`
+- **The Whip** — Trash [X Marks Destination] (6:23) `isrc:GBEFR0801291` `qobuz:91721473`
+- **Does It Offend You, Yeah?** — We Are Rockstars [We Are Rockstars] (2:58) `isrc:GBAAA0701625` `qobuz:2488088`
+- **Late Of The Pier** — Space and the Woods [Space and the Woods / Focker] (7:56) `isrc:GBAYE0800648` `qobuz:19096723`
+- **Snow Strippers** — Just Your Doll [Night Killaz Vol. 1] (2:27) `isrc:USZ4V2300275` `qobuz:362887436`
+- **Frost Children** — CONTROL [SISTER] (2:35) `isrc:QZVM32200423` `qobuz:334293151`
+- **The Hellp** — Go Somewhere [LL] (3:22) `isrc:USAT22408349` `qobuz:296428679`
+- **The Dare** — Girls [The Sex EP] (1:59) `isrc:USA2B2202911` `qobuz:210897973`
+- **bassvictim** — Canary Wharf freestyle [Canary Wharf freestyle] (2:41) `isrc:UKQNV2300156` `qobuz:400872717`

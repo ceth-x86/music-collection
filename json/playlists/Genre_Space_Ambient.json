@@ -1,0 +1,480 @@
+{
+  "name": "Genre: Space Ambient",
+  "services": {
+    "qobuz": "66712682",
+    "tidal": "4292d406-4556-4051-b33a-4f5a6353b090"
+  },
+  "description": "Imported genre playlist: Space Ambient.",
+  "tracks": [
+    {
+      "artist": "Tangerine Dream",
+      "title": "Phaedra 2014",
+      "services": {
+        "qobuz": "84145837"
+      },
+      "album": "Recurring Dreams",
+      "duration": 495,
+      "isrc": "QMEU31922869"
+    },
+    {
+      "artist": "Edgar Froese",
+      "title": "Epsilon In Malaysian Pale",
+      "services": {
+        "qobuz": "5114814"
+      },
+      "album": "Beyond The Storm",
+      "duration": 329,
+      "isrc": "GBAAA9901249"
+    },
+    {
+      "artist": "Klaus Schulze",
+      "title": "Floating",
+      "services": {
+        "qobuz": "2410956"
+      },
+      "album": "Moondawn",
+      "duration": 1605,
+      "isrc": "DEF087625050"
+    },
+    {
+      "artist": "Ashra",
+      "title": "Sunrain",
+      "services": {
+        "qobuz": "4622864"
+      },
+      "album": "New Age Of Earth",
+      "duration": 452,
+      "isrc": "GBAAA7700153"
+    },
+    {
+      "artist": "Peter Baumann",
+      "title": "Bicentennial Presentation",
+      "services": {
+        "qobuz": "30048579"
+      },
+      "album": "Romance 76",
+      "duration": 292,
+      "isrc": "GBAAA7600386"
+    },
+    {
+      "artist": "Christian Prommer",
+      "title": "Oxyg\u00e8ne (Part IV)",
+      "services": {
+        "qobuz": "17581889"
+      },
+      "album": "Drumlesson Zwei",
+      "duration": 176,
+      "isrc": "DEG931000005"
+    },
+    {
+      "artist": "Isao Tomita",
+      "title": "Uranus, the Magician. Allegro - Neptune, the Mystic. Andante - Allegretto",
+      "services": {
+        "qobuz": "5091042"
+      },
+      "album": "The Planets",
+      "duration": 586,
+      "isrc": "USBC10301358"
+    },
+    {
+      "artist": "Synergy",
+      "title": "Phobos & Diemos Go to Mars",
+      "services": {
+        "qobuz": "59674266"
+      },
+      "album": "Cords",
+      "duration": 428,
+      "isrc": "USSY17800014"
+    },
+    {
+      "artist": "Michael Hoenig",
+      "title": "Departure from the Northern Wasteland",
+      "services": {
+        "qobuz": "77514130"
+      },
+      "album": "Departure from the Northern Wasteland",
+      "duration": 1255,
+      "isrc": "DEA748700288"
+    },
+    {
+      "artist": "Michael Stearns",
+      "title": "\u201cIn the Beginning\u2026\u201d",
+      "services": {
+        "qobuz": "144860105"
+      },
+      "album": "Planetary Unfolding",
+      "duration": 479,
+      "isrc": "USHK92239401"
+    },
+    {
+      "artist": "Craig Leon",
+      "title": "Ring with Three Concentric Discs",
+      "services": {
+        "qobuz": "54975701"
+      },
+      "album": "Anthology of Interplanetary Folk Music Vol. 1: Nommos / Visiting",
+      "duration": 385,
+      "isrc": "GBZN61300014"
+    },
+    {
+      "artist": "Suzanne Ciani",
+      "title": "The Second Wave - Sirens",
+      "services": {
+        "qobuz": "70881095"
+      },
+      "album": "Seven Waves",
+      "duration": 437,
+      "isrc": "USHM90466044"
+    },
+    {
+      "artist": "Bong Wraith",
+      "title": "An Ending (Ascent)",
+      "services": {
+        "qobuz": "291107695"
+      },
+      "album": "Bong Wraith",
+      "duration": 441,
+      "isrc": "QZWFH2464652"
+    },
+    {
+      "artist": "Steve Roach",
+      "title": "Structures from Silence",
+      "services": {
+        "qobuz": "247506239"
+      },
+      "album": "Structures from Silence (Deluxe)",
+      "duration": 1720,
+      "isrc": "USHK92441603"
+    },
+    {
+      "artist": "Constance Demby",
+      "title": "Novus Magnificat, Pt. 1: Ascent",
+      "services": {
+        "qobuz": "242739000"
+      },
+      "album": "Novus Magnificat: Through the Stargate",
+      "duration": 312,
+      "isrc": "USAKS0601308"
+    },
+    {
+      "artist": "Thom Brennan",
+      "title": "Mountains",
+      "services": {
+        "qobuz": "108220098"
+      },
+      "album": "Mountains",
+      "duration": 1620,
+      "isrc": "USHM90598444"
+    },
+    {
+      "artist": "Jonn Serrie",
+      "title": "Tingri Maiden",
+      "services": {
+        "qobuz": "379654525"
+      },
+      "album": "Tingri",
+      "duration": 563,
+      "isrc": "QM6N21598528"
+    },
+    {
+      "artist": "Kevin Braheny Fortune",
+      "title": "After I Said Goodnight",
+      "services": {
+        "qobuz": "242741865"
+      },
+      "album": "Lullaby for the Hearts of Space",
+      "duration": 1992,
+      "isrc": "USAKS1700001"
+    },
+    {
+      "artist": "Tim Clark",
+      "title": "Silver Caravan",
+      "services": {
+        "qobuz": "243027983"
+      },
+      "album": "Hearts of Space: Universe Sampler 90",
+      "duration": 383,
+      "isrc": "USAKS0501802"
+    },
+    {
+      "artist": "Steve McDonald",
+      "title": "Arcturian Sunbird",
+      "services": {
+        "qobuz": "242922977"
+      },
+      "album": "Spinfield",
+      "duration": 551,
+      "isrc": "USAKS0600210"
+    },
+    {
+      "artist": "Bill Douglas",
+      "title": "Highland",
+      "services": {
+        "qobuz": "242922876"
+      },
+      "album": "Jewel Lake",
+      "duration": 203,
+      "isrc": "USAKS0600216"
+    },
+    {
+      "artist": "Ang\u00e9lico",
+      "title": "Bailarina",
+      "services": {
+        "qobuz": "67291059"
+      },
+      "album": "Ang\u00e9lico",
+      "duration": 236,
+      "isrc": "PTFA10800811"
+    },
+    {
+      "artist": "Raphael",
+      "title": "Disappearing Into You",
+      "services": {
+        "qobuz": "332664930"
+      },
+      "album": "Music To Disappear In",
+      "duration": 528,
+      "isrc": "USAKS0500350"
+    },
+    {
+      "artist": "Nik Tyndall",
+      "title": "Moments",
+      "services": {
+        "qobuz": "243027992"
+      },
+      "album": "Hearts of Space: Universe Sampler 90",
+      "duration": 268,
+      "isrc": "USAKS0501811"
+    },
+    {
+      "artist": "Shiho",
+      "title": "Sakura",
+      "services": {
+        "qobuz": "243027993"
+      },
+      "album": "Hearts of Space: Universe Sampler 90",
+      "duration": 235,
+      "isrc": "USAKS0501812"
+    },
+    {
+      "artist": "Al Gromer Khan",
+      "title": "Moghul Lace",
+      "services": {
+        "qobuz": "242923340"
+      },
+      "album": "Mahogany Nights",
+      "duration": 367,
+      "isrc": "USAKS0600068"
+    },
+    {
+      "artist": "Heavenly Music Corporation",
+      "title": "Cloud Structure Silence",
+      "services": {
+        "qobuz": "91751556"
+      },
+      "album": "In a Garden of Eden",
+      "duration": 306,
+      "isrc": "QMDA71563463"
+    },
+    {
+      "artist": "Pete Namlook",
+      "title": "Wind",
+      "services": {
+        "qobuz": "184966094"
+      },
+      "album": "Air I (2021 Remaster)",
+      "duration": 473,
+      "isrc": "QZTAY2255465"
+    },
+    {
+      "artist": "Ian Boddy",
+      "title": "Surface Flight",
+      "services": {
+        "qobuz": "167422627"
+      },
+      "album": "The Deep",
+      "duration": 528,
+      "isrc": "GBJJM0800081"
+    },
+    {
+      "artist": "Tetsu Inoue",
+      "title": "flow",
+      "services": {
+        "qobuz": "167457374"
+      },
+      "album": "Yolo",
+      "duration": 312,
+      "isrc": "GBJJM0500047"
+    },
+    {
+      "artist": "Vangelis",
+      "title": "Blade Runner Blues",
+      "services": {
+        "qobuz": "2015671"
+      },
+      "album": "Blade Runner (Music From The Original Soundtrack)",
+      "duration": 534,
+      "isrc": "GBAHS0104437"
+    },
+    {
+      "artist": "Robert Schroeder",
+      "title": "Destination Galactica",
+      "services": {
+        "qobuz": "87427297"
+      },
+      "album": "30 Years After",
+      "duration": 515,
+      "isrc": "USHM90950718"
+    },
+    {
+      "artist": "Alpha Wave Movement",
+      "title": "Transcendences",
+      "services": {
+        "qobuz": "66141988"
+      },
+      "album": "Transcendence",
+      "duration": 536,
+      "isrc": "USHM81472673"
+    },
+    {
+      "artist": "Robert Rich",
+      "title": "Calling By Stormlight",
+      "services": {
+        "qobuz": "242943404"
+      },
+      "album": "A Troubled Resting Place",
+      "duration": 309,
+      "isrc": "USAKS0600412"
+    },
+    {
+      "artist": "Robert Scott Thompson",
+      "title": "Dreamsong",
+      "services": {
+        "qobuz": "176097313"
+      },
+      "album": "The Silent Shore",
+      "duration": 504,
+      "isrc": "GBKPL2009919"
+    },
+    {
+      "artist": "Biosphere",
+      "title": "Kobresia",
+      "services": {
+        "qobuz": "49282301"
+      },
+      "album": "Substrata 2",
+      "duration": 432,
+      "isrc": "GBJYX0505024"
+    },
+    {
+      "artist": "Rudy Adrian",
+      "title": "Night Sky",
+      "services": {
+        "qobuz": "300366260"
+      },
+      "album": "Adrian, Rudy: The Healing Lake",
+      "duration": 327,
+      "isrc": "HKC830004704"
+    },
+    {
+      "artist": "Entheogenic",
+      "title": "Celestial Mechanics",
+      "services": {
+        "qobuz": "99895059"
+      },
+      "album": "Animism",
+      "duration": 502,
+      "isrc": "USHM92064261"
+    },
+    {
+      "artist": "Craig Padilla",
+      "title": "Ascension",
+      "services": {
+        "qobuz": "66272907"
+      },
+      "album": "Genesis",
+      "duration": 847,
+      "isrc": "USSP50414004"
+    },
+    {
+      "artist": "Joe Satriani",
+      "title": "Up in the Sky",
+      "services": {
+        "qobuz": "16067656"
+      },
+      "album": "Crystal Planet",
+      "duration": 248,
+      "isrc": "USSM19703009"
+    },
+    {
+      "artist": "Max Corbacho",
+      "title": "The Great Breath",
+      "services": {
+        "qobuz": "106397170"
+      },
+      "album": "BreathStream",
+      "duration": 771,
+      "isrc": "USHM90832622"
+    },
+    {
+      "artist": "Jeff Pearce",
+      "title": "The Light Beyond",
+      "services": {
+        "qobuz": "79449597"
+      },
+      "album": "The Light Beyond",
+      "duration": 140,
+      "isrc": "USHM91333329"
+    },
+    {
+      "artist": "Between Interval",
+      "title": "The Tides of Time",
+      "services": {
+        "qobuz": "66263719"
+      },
+      "album": "Autumn Continent",
+      "duration": 278,
+      "isrc": "USSP50616008"
+    },
+    {
+      "artist": "Tom Heasley",
+      "title": "Where the Earth Meets the Sky",
+      "services": {
+        "qobuz": "77647441"
+      },
+      "album": "Where the Earth Meets the Sky",
+      "duration": 965,
+      "isrc": "GBGUL0110276"
+    },
+    {
+      "artist": "Craig Padilla",
+      "title": "A New Space Revealing",
+      "services": {
+        "qobuz": "282438345"
+      },
+      "album": "To Sleep On Stellar Winds",
+      "duration": 792,
+      "isrc": "USSP52491013"
+    },
+    {
+      "artist": "Alio Die",
+      "title": "Aura Seminalis - Pt. I",
+      "services": {
+        "qobuz": "71881071"
+      },
+      "album": "Aura Seminalis",
+      "duration": 341,
+      "isrc": "USI4R1000282"
+    },
+    {
+      "artist": "Radio Science Fiction",
+      "title": "The Martian Chronicles - The 1950 Radio Broadcast",
+      "services": {
+        "qobuz": "65718752"
+      },
+      "album": "The Best Of Radio Science Fiction",
+      "duration": 1508,
+      "isrc": "USA560734717"
+    }
+  ]
+}

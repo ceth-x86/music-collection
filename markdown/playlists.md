@@ -1,0 +1,324 @@
+# Playlists (302)
+
+- [Alt Classics](playlists/Alt_Classics.md) — The finest in alternative & indie all in one place. Press shuffle and play. (Cover: The Nerves / Photo: Patty Heffley, press) `tidal:8b093ae5-d367-494f-b4bb-9a7dce404692`
+- [Ambient, Minimal Ambient](playlists/Ambient_Minimal_Ambient.md) `tidal:578ceebd-ff7b-462a-9cfa-bca48d8dd5ba`
+- [Ambient Reverie](playlists/Ambient_Reverie.md) — All things ambient, atmospheric, experimental and downtempo. (Cover: Kali Malone / Photo: Secretly, press / Credit: Kingsley Ifill) `tidal:62eb0635-1bc6-4043-b564-f5f054dab918`
+- [Annihilator](playlists/Annihilator.md) `qobuz:65981262`
+- [Anthrax](playlists/Anthrax.md) `qobuz:66562981`
+- [Art Rock: New Experimental](playlists/Art_Rock_New_Experimental.md) — Explore the outer limits of alternative music with this playlist of the experimental and ethereal, from avant garde, noise, post-rock/punk to other exciting and mind-bending sounds of today. (Cover: Yr Knives / Photo: Nathan Keay, press) `tidal:47bfe3c2-0668-44ba-8667-76b8c1370185`
+- [Asking Alexandria, Essentials](playlists/Asking_Alexandria_Essentials.md) `tidal:ce41ed13-e05d-4422-9aec-b78226e2c756`
+- [Assemblage 23](playlists/Assemblage_23.md) [1 tracks] `qobuz:66172581`
+- [Bathory Essentials](playlists/Bathory_Essentials.md) `tidal:0a04512e-5cb9-4f5c-afa5-258078682bd0`
+- [Best Of 192 kHz](playlists/Best_Of_192_kHz.md) [200 tracks] — If you are looking for the perfect playlist to test your hi-fi system, you'll find it here! This selection of songs in 192 kHz is a colourful mix of all musical genres and eras in the best possible sound quality. Get the most out of your audio equipment and treat your ears with songs by Michael Jackson, John Coltrane, Sarah Vaughan, Miles Davis, Ray Charles, Aretha Franklin, Madonna, Frank Sinatra, Elvis Presley, The Rolling Stones, Bruce Springsteen, Rush, Creedence Clearwater Revival, Janis Joplin, Keith Jarrett and many more! `qobuz:5957167`
+- [Big Big Train Essentials](playlists/Big_Big_Train_Essentials.md) `tidal:0d4fea70-9882-40c8-be2c-cec187e4e02a`
+- [Big Dance Energy: Best New Tracks](playlists/Big_Dance_Energy_Best_New_Tracks.md) — Brand new releases from the biggest names in dance. (Cover: Shimza x Alok x Ayra Starr / Photo: Helix, press) `tidal:4261748a-4287-4758-aaab-6d5be3e99e52`
+- [Bon Jovi](playlists/Bon_Jovi.md) [6 tracks] `qobuz:66895028`
+- [Bruce Springsteen](playlists/Bruce_Springsteen.md) [3 tracks] `qobuz:66929432` `tidal:b1a43f22-341a-45fe-a9a8-717809ef369b`
+- [Bullet for My Valentine, Essentials](playlists/Bullet_for_My_Valentine_Essentials.md) `tidal:2fd90939-6735-4d2f-a0e1-71bae982a106`
+- [Charlotte de Witte Essentials](playlists/Charlotte_de_Witte_Essentials.md) `tidal:072b9a6f-4fa2-4e14-b7f9-e49d768b5480`
+- [Converge, Essentials](playlists/Converge_Essentials.md) `tidal:17564a08-f036-4acf-8d73-899c029dfe40`
+- [Dark Folk, Neoclassical Folk](playlists/Dark_Folk_Neoclassical_Folk.md) — Neoclassical Folk is a dark folk subgenre characterized by orchestral instrumentation, classical composition structures, and chamber-folk aesthetics. It blends neofolk’s acoustic, earthy darkness with neoclassical elements like string ensembles, piano, and choral vocals. This niche sits under the Dark Folk umbrella (alongside sibling styles like Apocalyptic Folk, Martial Folk, Pagan Folk, etc.) `tidal:5f4235b1-ab46-4b77-abdd-7b46c1936dee`
+- [David Bowie Essentials](playlists/David_Bowie_Essentials.md) `tidal:d3e61305-e2af-4fdb-b1e3-753eefc8270d`
+- [David Byrne, Essentials](playlists/David_Byrne_Essentials.md) `tidal:f251b1d6-69f9-46e0-85c3-6dcf17538883`
+- [David Byrne, Setlist, Who Is the Sky? (2026)](playlists/David_Byrne_Setlist_Who_Is_the_Sky_2026.md) — Spark Arena, Auckland, New Zealand (2026-01-14) `tidal:8a0b1214-cf49-4c9d-a474-0cf4d4ea6402`
+- [Death From Above 1979 Essentials](playlists/Death_From_Above_1979_Essentials.md) `tidal:911d3ff1-23c7-4351-adad-46a3a52345e0`
+- [Deep Purple](playlists/Deep_Purple.md) [1 tracks] `qobuz:66546159`
+- [Deftones Essentials](playlists/Deftones_Essentials.md) `tidal:cfe70860-cbad-4672-843b-59f47205809b`
+- [Detroit Flow](playlists/Detroit_Flow.md) `tidal:a6dbb7d6-8965-459f-bf17-2e9b864751ec`
+- [Detroit Flow, Post Rock Edition](playlists/Detroit_Flow_Post_Rock_Edition.md) `tidal:028b0dde-7218-49c1-ae9f-17f7f2a04b68`
+- [Devin Townsend Essentials](playlists/Devin_Townsend_Essentials.md) `tidal:2b11aeaf-df3f-44d1-80df-20c0a45216b0`
+- [Dolphin, Essentials](playlists/Dolphin_Essentials.md) `tidal:5ec150eb-c357-4456-bea6-e134d77acc0c`
+- [Editors, Essentials](playlists/Editors_Essentials.md) `tidal:49bf09d8-6a85-4a4b-b01c-fd4bd6e84f53`
+- [Electronic, Bass, Jungle](playlists/Electronic_Bass_Jungle.md) `tidal:d967c427-7142-4568-b6df-f0982167e553`
+- [Electronic, Bass, Trap](playlists/Electronic_Bass_Trap.md) `tidal:8a81df9f-2924-49eb-83dd-5de90261a1ec`
+- [Epica Essentials](playlists/Epica_Essentials.md) `tidal:3c6ab8dc-312c-4cd6-80ab-8ff22bc353e2`
+- [Essentials: Saga](playlists/Essentials_Saga.md) [6 tracks] `qobuz:66706039`
+- [Evergrey](playlists/Evergrey.md) `qobuz:67105717` `tidal:d8d51a69-626b-4c52-b72a-62f67cb13372`
+- [Extreme Metal Music](playlists/Extreme_Metal_Music.md) — A variety of extreme metal, including death metal, deathcore and grindcore. (Cover: Underdark / Photo: Church Road Records, press) `tidal:a9d609b8-33d6-4759-a55f-8ed936732be8`
+- [Foo Fighters Essentials](playlists/Foo_Fighters_Essentials.md) `tidal:d526ab0a-ff9c-48b2-bf3d-fe70a7aba20c`
+- [Future Proof: Best New Electronic](playlists/Future_Proof_Best_New_Electronic.md) — New and essential electronic music from ones to watch to legacy innovators. (Cover: Tim Reaper / Photo: Hyperdub, press / Credit: Jimmy Mould) `tidal:a85b5abe-178e-4d5b-85c9-dd70471ec86f`
+- [Gamma Ray](playlists/Gamma_Ray.md) `qobuz:66454789`
+- [Genre: Acid House](playlists/Genre_Acid_House.md) [60 tracks] — Imported genre playlist: Acid House. `qobuz:66715308`
+- [Genre: Acid Techno](playlists/Genre_Acid_Techno.md) [99 tracks] — Imported genre playlist: Acid Techno. `qobuz:66718208` `tidal:a1fc1993-9aef-4f66-aa85-a60816ac88c2`
+- [Genre: Adult Contemporary](playlists/Genre_Adult_Contemporary.md) [100 tracks] — Imported genre playlist: Adult Contemporary. `qobuz:66736104`
+- [Genre: Aggrotech](playlists/Genre_Aggrotech.md) [99 tracks] — Imported genre playlist: Aggrotech. `qobuz:66733388` `tidal:e3a2885f-5bec-4f75-8cb5-e95d75524616`
+- [Genre: Ambient IDM](playlists/Genre_Ambient_IDM.md) [100 tracks] — Imported genre playlist: Ambient IDM. `qobuz:66716762` `tidal:370c728c-2a5b-4c7d-9513-ee873abaac56`
+- [Genre: Ambient Techno](playlists/Genre_Ambient_Techno.md) [46 tracks] — Ambient Techno is a subgenre that fuses the driving, hypnotic rhythmic foundations of techno with the atmospheric, expansive textures of ambient music. It prioritizes mood, sound design, and immersive "headspace" over traditional dance-floor energy, typically featuring subtle, recurring synth pads, deep melodic layers, and a steady, unobtrusive beat. `qobuz:66711496` `tidal:7681d23a-3432-4f16-afd5-65a4ceac686a`
+- [Genre: Apocalyptic Folk](playlists/Genre_Apocalyptic_Folk.md) [91 tracks] — Imported genre playlist: Apocalyptic Folk. `qobuz:66709887` `tidal:c956512f-d2c0-42a0-9535-1c6d1811c31d`
+- [Genre: Arena Rock](playlists/Genre_Arena_Rock.md) [100 tracks] — Imported genre playlist: Arena Rock. `qobuz:66736996` `tidal:848b4ec8-5d54-459c-8d99-ac9e42d67b40`
+- [Genre: Art Noise Rock](playlists/Genre_Art_Noise_Rock.md) [100 tracks] — Imported genre playlist: Art Noise Rock. `qobuz:66737181`
+- [Genre: Art Rock](playlists/Genre_Art_Rock.md) [100 tracks] — Imported genre playlist: Art Rock. `qobuz:66737023` `tidal:3f11271b-95d5-4464-ae02-de3eba2aacb3`
+- [Genre: Atmospheric Black Metal](playlists/Genre_Atmospheric_Black_Metal.md) [75 tracks] — Imported genre playlist: Atmospheric Black Metal. `qobuz:66734064` `tidal:16d8a25b-44fd-4039-99f4-b58663cf8228`
+- [Genre: Avant-Garde Jazz](playlists/Genre_Avant-Garde_Jazz.md) [100 tracks] — Imported genre playlist: Avant-Garde Jazz. `qobuz:66733713`
+- [Genre: Avant-Pop](playlists/Genre_Avant-Pop.md) [100 tracks] — Imported genre playlist: Avant-Pop. `qobuz:66736163` `tidal:91114d91-606f-4c93-91c8-47e9df681f42`
+- [Genre: Avant Prog](playlists/Genre_Avant_Prog.md) [100 tracks] — Imported genre playlist: Avant Prog. `qobuz:66737660` `tidal:eb280ab4-ee82-4ea9-9048-c1e6b1319809`
+- [Genre: Avantgarde Black Metal](playlists/Genre_Avantgarde_Black_Metal.md) [40 tracks] — Imported genre playlist: Avantgarde Black Metal. `qobuz:66734120`
+- [Genre: Avantgarde Metal](playlists/Genre_Avantgarde_Metal.md) [100 tracks] — Imported genre playlist: Avantgarde Metal. `qobuz:66735814`
+- [Genre: Avantgarde Rock](playlists/Genre_Avantgarde_Rock.md) [100 tracks] — Imported genre playlist: Avantgarde Rock. `qobuz:66737249`
+- [Genre: Balearic Trance](playlists/Genre_Balearic_Trance.md) [100 tracks] — Imported genre playlist: Balearic Trance. `qobuz:66720653`
+- [Genre: Baroque Indie](playlists/Genre_Baroque_Indie.md) [100 tracks] — Imported genre playlist: Baroque Indie. `qobuz:66732483`
+- [Genre: Baroque Pop](playlists/Genre_Baroque_Pop.md) [100 tracks] — Imported genre playlist: Baroque Pop. `qobuz:66736227` `tidal:27ee7224-dbe8-49a1-b6b2-826ce8437b82`
+- [Genre: Bass House](playlists/Genre_Bass_House.md) [100 tracks] — Imported genre playlist: Bass House. `qobuz:66715431`
+- [Genre: Berlin Techno](playlists/Genre_Berlin_Techno.md) [100 tracks] — Imported genre playlist: Berlin Techno. `qobuz:66718440` `tidal:fd9ca087-09b9-4154-bfb9-d6e9e3c72b87`
+- [Genre: Big Beat](playlists/Genre_Big_Beat.md) [100 tracks] — Imported genre playlist: Big Beat. `qobuz:66713456` `tidal:f4848422-5646-474a-8e16-b1e26cd85f6a`
+- [Genre: Blackgaze](playlists/Genre_Blackgaze.md) [40 tracks] — Imported genre playlist: Blackgaze. `qobuz:66734174` `tidal:9d7d21b3-d8e4-461a-b849-d469e8755140`
+- [Genre: Blues Rock](playlists/Genre_Blues_Rock.md) [100 tracks] — Imported genre playlist: Blues Rock. `qobuz:66737067`
+- [Genre: Braindance](playlists/Genre_Braindance.md) [99 tracks] — Imported genre playlist: Braindance. `qobuz:66716969` `tidal:e179a7ee-bfea-4a74-abed-41dd50bf926d`
+- [Genre: Breakbeat](playlists/Genre_Breakbeat.md) [97 tracks] — Imported genre playlist: Breakbeat. `qobuz:66713724` `tidal:6eeb0fff-b0ea-41c5-8c6e-90ed2ef2666d`
+- [Genre: Britpop](playlists/Genre_Britpop.md) [100 tracks] — Imported genre playlist: Britpop. `qobuz:66708544`
+- [Genre: Chamber Pop](playlists/Genre_Chamber_Pop.md) [100 tracks] — Imported genre playlist: Chamber Pop. `qobuz:66736270` `tidal:99c99865-f5e7-4f61-8c38-16715797b57b`
+- [Genre: Classic Ambient](playlists/Genre_Classic_Ambient.md) [98 tracks] — Imported genre playlist: Classic Ambient. `qobuz:66711646` `tidal:515aa2c5-bebf-467b-b3e0-cb57e1778fcd`
+- [Genre: Classic Disco](playlists/Genre_Classic_Disco.md) [100 tracks] — Imported genre playlist: Classic Disco. `qobuz:66736919`
+- [Genre: Classic Electro](playlists/Genre_Classic_Electro.md) [100 tracks] — Imported genre playlist: Classic Electro. `qobuz:66714122` `tidal:c54f81ff-b042-431f-8ad0-cbc892f35f7b`
+- [Genre: Classic IDM](playlists/Genre_Classic_IDM.md) [72 tracks] — Imported genre playlist: Classic IDM. `qobuz:66717127` `tidal:c03a8f00-ee33-46fb-8845-03283ff697b1`
+- [Genre: Classic Punk](playlists/Genre_Classic_Punk.md) [100 tracks] — Imported genre playlist: Classic Punk. `qobuz:66736397` `tidal:d7b825ae-4077-4e3c-a466-e67dd8a5e889`
+- [Genre: Classic Rock](playlists/Genre_Classic_Rock.md) [100 tracks] — Imported genre playlist: Classic Rock. `qobuz:66737110` `tidal:11688735-854e-43bd-b099-b5e82acc75c4`
+- [Genre: Classic Synthpop](playlists/Genre_Classic_Synthpop.md) [100 tracks] — Imported genre playlist: Classic Synthpop. `qobuz:66717704` `tidal:e1506eac-af76-4e6a-842a-c620439f21b7`
+- [Genre: Classic Trance](playlists/Genre_Classic_Trance.md) [99 tracks] — Imported genre playlist: Classic Trance. `qobuz:66720828` `tidal:82cf96d6-173c-47a6-bf43-cdb9872986c7`
+- [Genre: College Rock](playlists/Genre_College_Rock.md) [100 tracks] — Imported genre playlist: College Rock. `qobuz:66737503` `tidal:50329627-ad20-4d10-bcf5-73d5110f9e37`
+- [Genre: Contemporary Folk](playlists/Genre_Contemporary_Folk.md) [100 tracks] — Imported genre playlist: Contemporary Folk. `qobuz:66732334`
+- [Genre: Contemporary R&B](playlists/Genre_Contemporary_R_B.md) [100 tracks] — Imported genre playlist: Contemporary R&B. `qobuz:66736862`
+- [Genre: Cool Jazz](playlists/Genre_Cool_Jazz.md) [95 tracks] — Imported genre playlist: Cool Jazz. `qobuz:66733850` `tidal:2e72a468-f1ec-4bd3-a69f-6b34d15fe556`
+- [Genre: Crossover Rock](playlists/Genre_Crossover_Rock.md) [100 tracks] — Imported genre playlist: Crossover Rock. `qobuz:66708977`
+- [Genre: Dance Pop](playlists/Genre_Dance_Pop.md) [100 tracks] — Imported genre playlist: Dance Pop. `qobuz:66736319` `tidal:69a21fa7-f149-434e-b40a-cab95aba927a`
+- [Genre: Dance-Punk](playlists/Genre_Dance-Punk.md) [100 tracks] — Imported genre playlist: Dance-Punk. `qobuz:66708773` `tidal:55c8d045-e1ee-46a7-899a-2d5f89d3fe22`
+- [Genre: Dark Ambient](playlists/Genre_Dark_Ambient.md) [100 tracks] — Imported genre playlist: Dark Ambient. `qobuz:66711886` `tidal:3dc9713d-f285-4c4b-9c06-77a91cb79d27`
+- [Genre: Dark Electro](playlists/Genre_Dark_Electro.md) [100 tracks] — Imported genre playlist: Dark Electro. `qobuz:66714359` `tidal:63fe5cef-cd63-4316-8365-ad5dff335897`
+- [Genre: Dark Synthpop](playlists/Genre_Dark_Synthpop.md) [100 tracks] — Imported genre playlist: Dark Synthpop. `qobuz:66717732` `tidal:e29f6ea2-fc4e-4217-a942-5f129c9d73b8`
+- [Genre: Death Doom](playlists/Genre_Death_Doom.md) [100 tracks] — Imported genre playlist: Death Doom. `qobuz:66735530`
+- [Genre: Deathcore](playlists/Genre_Deathcore.md) [100 tracks] — Brutal fusion of death metal and metalcore featuring bone-crushing breakdowns, blast beats, and guttural vocals. `qobuz:67894618` `tidal:8ab053d6-a1ff-441a-b1ac-23ac9a63c82b`
+- [Genre: Deep House](playlists/Genre_Deep_House.md) [96 tracks] — Imported genre playlist: Deep House. `qobuz:66715573` `tidal:3e1c0ef0-9732-4fd7-b380-eb622ccd6bf8`
+- [Genre: Detroit Techno](playlists/Genre_Detroit_Techno.md) [98 tracks] — Imported genre playlist: Detroit Techno. `qobuz:66718697` `tidal:8ac70b1f-64ea-4fa1-9cb3-f267d26dde9e`
+- [Genre: Djent](playlists/Genre_Djent.md) [81 tracks] — Imported genre playlist: Djent. `qobuz:66734762` `tidal:3fe9b715-a522-4fc7-a532-326a9578bbd6`
+- [Genre: Doom Gothic Metal](playlists/Genre_Doom_Gothic_Metal.md) [44 tracks] — Imported genre playlist: Doom Gothic Metal. `qobuz:66735859`
+- [Genre: Doom Metal](playlists/Genre_Doom_Metal.md) [100 tracks] — Imported genre playlist: Doom Metal. `qobuz:66735594` `tidal:ea26d47a-9e36-460a-9038-e47cf1e8ab21`
+- [Genre: Dream Pop](playlists/Genre_Dream_Pop.md) [100 tracks] — Imported genre playlist: Dream Pop. `qobuz:66732534` `tidal:e125c16c-a390-455c-b9cf-a054323b827d`
+- [Genre: Dream Synthpop](playlists/Genre_Dream_Synthpop.md) [100 tracks] — Imported genre playlist: Dream Synthpop. `qobuz:66717858`
+- [Genre: Drone / Minimal Ambient](playlists/Genre_Drone_Minimal_Ambient.md) [80 tracks] — Drone/Minimal Ambient is a genre defined by extreme sonic reduction and sustained, evolving soundscapes. It prioritizes texture, resonance, and slow temporal shifts over traditional melody or rhythm, utilizing long-duration tones (drones) and sparse arrangements to create a meditative, immersive environment where the listener's focus shifts from musical progression to the physical experience of sound itself. `qobuz:66712114`
+- [Genre: Drum and Bass](playlists/Genre_Drum_and_Bass.md) [100 tracks] — Imported genre playlist: Drum and Bass. `qobuz:66712876` `tidal:5d0157c4-2c85-401f-ab37-f68d9c77ddbc`
+- [Genre: Dub Techno](playlists/Genre_Dub_Techno.md) [98 tracks] — Imported genre playlist: Dub Techno. `qobuz:66718885` `tidal:8cf2f74f-b9df-4b45-99f5-fc8e568153ed`
+- [Genre: Dubstep](playlists/Genre_Dubstep.md) [99 tracks] — Imported genre playlist: Dubstep. `qobuz:66713075` `tidal:de93c3c0-f8c7-41a1-afe4-034052eb7055`
+- [Genre: EBM](playlists/Genre_EBM.md) [100 tracks] — Imported genre playlist: EBM. `qobuz:66733016` `tidal:accf94c4-f8a3-4d5d-a9d4-79c99545898d`
+- [Genre: Eclectic Prog](playlists/Genre_Eclectic_Prog.md) [100 tracks] — Imported genre playlist: Eclectic Prog. `qobuz:66737699`
+- [Genre: Electro House](playlists/Genre_Electro_House.md) [99 tracks] — Imported genre playlist: Electro House. `qobuz:66715783`
+- [Genre: Electro IDM](playlists/Genre_Electro_IDM.md) [100 tracks] — Imported genre playlist: Electro IDM. `qobuz:66717334` `tidal:5d5cef44-accb-4d4f-8bda-967324dfcee0`
+- [Genre: Electro Industrial](playlists/Genre_Electro_Industrial.md) [43 tracks] — Dark, aggressive electronic music combining industrial noise, heavy dance beats, distorted vocals, and synth sequences. `qobuz:66733086` `tidal:9c951f65-bb0a-4d14-8c5d-acf033c35533`
+- [Genre: Electroclash](playlists/Genre_Electroclash.md) [100 tracks] — Imported genre playlist: Electroclash. `qobuz:66717933` `tidal:cb8bc155-7831-44af-988d-596701e7f10b`
+- [Genre: Electronic Rock](playlists/Genre_Electronic_Rock.md) [100 tracks] — Imported genre playlist: Electronic Rock. `qobuz:66709189`
+- [Genre: Electropop](playlists/Genre_Electropop.md) [100 tracks] — Imported genre playlist: Electropop. `qobuz:66736352` `tidal:2de1a019-5bd4-47c5-9dba-9d0809d4e299`
+- [Genre: Emo](playlists/Genre_Emo.md) [100 tracks] — Imported genre playlist: Emo. `qobuz:66736454`
+- [Genre: Euro Disco](playlists/Genre_Euro_Disco.md) [100 tracks] — Imported genre playlist: Euro Disco. `qobuz:66736979`
+- [Genre: Experimental Hip-Hop](playlists/Genre_Experimental_Hip-Hop.md) [100 tracks] — Imported genre playlist: Experimental Hip-Hop. `qobuz:66732365` `tidal:67a89451-caa7-4c55-a734-4a8eae34d2ce`
+- [Genre: Experimental IDM / Post IDM](playlists/Genre_Experimental_IDM_Post_IDM.md) [100 tracks] — Imported genre playlist: Experimental IDM / Post IDM. `qobuz:66717491`
+- [Genre: Folk Metal](playlists/Genre_Folk_Metal.md) [54 tracks] — Imported genre playlist: Folk Metal. `qobuz:66735914` `tidal:45bbea10-06f0-4943-b00f-c6984198dfcb`
+- [Genre: Folk Rock](playlists/Genre_Folk_Rock.md) [100 tracks] — Imported genre playlist: Folk Rock. `qobuz:66737385` `tidal:33c7314e-4e1e-4810-b0d5-cb9785257a5d`
+- [Genre: Forest Folk](playlists/Genre_Forest_Folk.md) [94 tracks] — Imported genre playlist: Forest Folk. `qobuz:66710020` `tidal:e0372a87-1871-4b84-be22-e7a594edd829`
+- [Genre: Free Jazz](playlists/Genre_Free_Jazz.md) [100 tracks] — Imported genre playlist: Free Jazz. `qobuz:66733784`
+- [Genre: Funeral Doom](playlists/Genre_Funeral_Doom.md) [55 tracks] — Imported genre playlist: Funeral Doom. `qobuz:66735642`
+- [Genre: Future Bass](playlists/Genre_Future_Bass.md) [100 tracks] — Imported genre playlist: Future Bass. `qobuz:66713275` `tidal:f14d243b-d842-4373-980f-4998197cdc48`
+- [Genre: Future House](playlists/Genre_Future_House.md) [100 tracks] — Imported genre playlist: Future House. `qobuz:66715962`
+- [Genre: Futurepop](playlists/Genre_Futurepop.md) [65 tracks] — Imported genre playlist: Futurepop. `qobuz:66733170` `tidal:c654b4f8-be83-4c40-8345-794c521685ad`
+- [Genre: Garage Rock](playlists/Genre_Garage_Rock.md) [100 tracks] — Imported genre playlist: Garage Rock. `qobuz:66737439` `tidal:a228026e-4cdd-4cc5-9e41-3fe610254a71`
+- [Genre: Glam Rock](playlists/Genre_Glam_Rock.md) [92 tracks] — Imported genre playlist: Glam Rock. `qobuz:66737483`
+- [Genre: Glitch / Microsound](playlists/Genre_Glitch_Microsound.md) [99 tracks] — Imported genre playlist: Glitch / Microsound. `qobuz:66717632`
+- [Genre: Gothic Americana](playlists/Genre_Gothic_Americana.md) [100 tracks] — Imported genre playlist: Gothic Americana. `qobuz:66710133`
+- [Genre: Gothic Metal](playlists/Genre_Gothic_Metal.md) [76 tracks] — Imported genre playlist: Gothic Metal. `qobuz:66735946`
+- [Genre: Gothic Rock](playlists/Genre_Gothic_Rock.md) [99 tracks] — Imported genre playlist: Gothic Rock. `qobuz:66736781` `tidal:6fe6badd-961e-4024-8857-3bb41949dedd`
+- [Genre: Groove Metal](playlists/Genre_Groove_Metal.md) [100 tracks] — Imported genre playlist: Groove Metal. `qobuz:66734452` `tidal:0603d5ca-777c-4774-b475-55e41bbbd179`
+- [Genre: Grunge](playlists/Genre_Grunge.md) [100 tracks] — Imported genre playlist: Grunge. `qobuz:66709527` `tidal:b6a3ce1b-8ca4-4455-b2ec-bbff9795f1e3`
+- [Genre: Happy Hardcore](playlists/Genre_Happy_Hardcore.md) [100 tracks] — Imported genre playlist: Happy Hardcore. `qobuz:66714815` `tidal:8ad97f66-d96e-475f-9e18-57b3edd08b97`
+- [Genre: Hard Rock](playlists/Genre_Hard_Rock.md) [100 tracks] — Imported genre playlist: Hard Rock. `qobuz:66737496` `tidal:40640b6a-98cd-49de-adac-cc825897b6ea`
+- [Genre: Hard Techno](playlists/Genre_Hard_Techno.md) [100 tracks] — Imported genre playlist: Hard Techno. `qobuz:66719176`
+- [Genre: Hard Trance](playlists/Genre_Hard_Trance.md) [100 tracks] — Imported genre playlist: Hard Trance. `qobuz:66721061` `tidal:4d566d57-8bd7-49e6-8636-8233c990bf00`
+- [Genre: Heavy Metal](playlists/Genre_Heavy_Metal.md) [100 tracks] — Imported genre playlist: Heavy Metal. `qobuz:66734535` `tidal:725f7a43-aded-413b-9e23-87ad9fcaedb7`
+- [Genre: Hyper Pop](playlists/Genre_Hyper_Pop.md) [100 tracks] — Imported genre playlist: Hyper Pop. `qobuz:66736375`
+- [Genre: Hypnotic Techno](playlists/Genre_Hypnotic_Techno.md) [98 tracks] — Imported genre playlist: Hypnotic Techno. `qobuz:66719299` `tidal:adf848a6-0dcc-41c2-9e0c-767e9f701925`
+- [Genre: Indie Folk](playlists/Genre_Indie_Folk.md) [100 tracks] — Imported genre playlist: Indie Folk. `qobuz:66732674` `tidal:a4ba9ce6-23fc-41fe-9e10-ad8a2ed94a33`
+- [Genre: Indie Pop](playlists/Genre_Indie_Pop.md) [100 tracks] — Imported genre playlist: Indie Pop. `qobuz:66732737` `tidal:f07136c1-fb83-4ecf-8e83-8f62f9062823`
+- [Genre: Indie Synthpop](playlists/Genre_Indie_Synthpop.md) [100 tracks] — Imported genre playlist: Indie Synthpop. `qobuz:66717984` `tidal:7b7e22db-484b-48f7-9a4c-3dabeb40d339`
+- [Genre: Indietronica](playlists/Genre_Indietronica.md) [111 tracks] — Indietronica is a hybrid genre that blends the DIY spirit, song-oriented structures, and guitar-driven aesthetic of indie rock with the synthetic textures and production techniques of electronic music. It is characterized by the integration of sequencers, drum machines, and synthesizers into traditional rock instrumentation, resulting in a sound that remains intimate and melodic while exploring experimental, glitch-influenced, or lo-fi electronic arrangements. `qobuz:66732790` `tidal:ff76ff1a-368a-490a-9291-4562c798f587`
+- [Genre: Industrial Ambient](playlists/Genre_Industrial_Ambient.md) [39 tracks] — Cold, dystopian soundscapes blending atmospheric ambient with metallic scrapes, factory hums, and industrial noise. `qobuz:67894778` `tidal:5f02be18-d462-44e5-a3e9-0037413ccc80`
+- [Genre: Industrial Folk](playlists/Genre_Industrial_Folk.md) [100 tracks] — Imported genre playlist: Industrial Folk. `qobuz:66710318`
+- [Genre: Industrial Hardcore](playlists/Genre_Industrial_Hardcore.md) [47 tracks] — Imported genre playlist: Industrial Hardcore. `qobuz:66714943`
+- [Genre: Industrial Noise](playlists/Genre_Industrial_Noise.md) [99 tracks] — Imported genre playlist: Industrial Noise. `qobuz:66733451` `tidal:a7ae907f-1589-44c3-9b96-2a8ed8ab9461`
+- [Genre: Industrial Rock](playlists/Genre_Industrial_Rock.md) [100 tracks] — Imported genre playlist: Industrial Rock. `qobuz:66733270`
+- [Genre: Jangle Pop](playlists/Genre_Jangle_Pop.md) [100 tracks] — Imported genre playlist: Jangle Pop. `qobuz:66732853` `tidal:f8bb2aeb-79b8-4769-a868-6557fce34aad`
+- [Genre: Jazz Rock Prog](playlists/Genre_Jazz_Rock_Prog.md) [100 tracks] — Imported genre playlist: Jazz Rock Prog. `qobuz:66737752`
+- [Genre: Krautrock](playlists/Genre_Krautrock.md) [87 tracks] — Imported genre playlist: Krautrock. `qobuz:66737826` `tidal:8b310626-94d3-43a1-9312-50041626d178`
+- [Genre: Leftfield](playlists/Genre_Leftfield.md) [96 tracks] — Imported genre playlist: Leftfield. `qobuz:66714496` `tidal:2db5cc5e-8a55-490b-97fa-83b112e4165e`
+- [Genre: Martial Folk](playlists/Genre_Martial_Folk.md) [45 tracks] — Imported genre playlist: Martial Folk. `qobuz:66710442` `tidal:0746aede-25bd-49b2-8220-c7bffe955414`
+- [Genre: Math Rock](playlists/Genre_Math_Rock.md) [60 tracks] — Imported genre playlist: Math Rock. `qobuz:66709285`
+- [Genre: Mathcore](playlists/Genre_Mathcore.md) [99 tracks] — Imported genre playlist: Mathcore. `qobuz:66736503` `tidal:bf788fb1-ca68-472b-acd7-a5e31e0ba624`
+- [Genre: Melodic Black Metal](playlists/Genre_Melodic_Black_Metal.md) [50 tracks] — Imported genre playlist: Melodic Black Metal. `qobuz:66734207` `tidal:75d87573-0f4b-45c1-aa3c-52b35239d6dc`
+- [Genre: Melodic Death Metal](playlists/Genre_Melodic_Death_Metal.md) [100 tracks] — Imported genre playlist: Melodic Death Metal. `qobuz:66735136`
+- [Genre: Melodic Hardcore](playlists/Genre_Melodic_Hardcore.md) [100 tracks] — Imported genre playlist: Melodic Hardcore. `qobuz:66736563` `tidal:3980958e-6add-4a03-b156-5ec786ca770d`
+- [Genre: Melodic House](playlists/Genre_Melodic_House.md) [100 tracks] — Imported genre playlist: Melodic House. `qobuz:66716118`
+- [Genre: Melodic Techno](playlists/Genre_Melodic_Techno.md) [92 tracks] — Melodic Techno is a subgenre that marries the steady, driving 4/4 pulse of techno with rich, emotive harmonic layers and intricate synthesizer melodies. Unlike the more abrasive or stripped-back industrial forms of the genre, Melodic Techno emphasizes atmosphere, epic builds, and poignant chord progressions, creating a sound that is both club-ready and deeply cinematic or melancholic in nature. `qobuz:66719422` `tidal:3b06786e-02f6-4c28-8f2b-f7c620445ab4`
+- [Genre: Metalcore](playlists/Genre_Metalcore.md) [96 tracks] — Imported genre playlist: Metalcore. `qobuz:66734868` `tidal:bde54b80-412e-494c-bda3-feea54e2e440`
+- [Genre: Minimal Techno](playlists/Genre_Minimal_Techno.md) [67 tracks] — Imported genre playlist: Minimal Techno. `qobuz:66719612` `tidal:56197662-ea7b-4152-a51e-1a4aaf95f192`
+- [Genre: Modal Jazz](playlists/Genre_Modal_Jazz.md) [57 tracks] — Imported genre playlist: Modal Jazz. `qobuz:66733898` `tidal:09d92786-26e0-42f4-af90-9ef517c0867c`
+- [Genre: Modern Prog Rock](playlists/Genre_Modern_Prog_Rock.md) [55 tracks] — Modern Progressive Rock is a genre that blends the intricate musicianship, long-form compositions, and conceptual depth of 1970s prog with contemporary production techniques, modern heavy metal elements, and atmospheric textures. It is defined by its refusal to adhere to traditional song structures, prioritizing technical virtuosity, complex time signatures, and immersive, often cinematic, soundscapes. `qobuz:66737893` `tidal:1b3060be-26a7-4aac-8704-cbc90065dffb`
+- [Genre: Neo-Prog](playlists/Genre_Neo-Prog.md) [100 tracks] — Imported genre playlist: Neo-Prog. `qobuz:66737939` `tidal:4fe9d3cd-cb2e-45d0-9bca-a386b1e888f1`
+- [Genre: Neoclassic folk](playlists/Genre_Neoclassic_folk.md) [78 tracks] — Imported genre playlist: Neoclassic folk. `qobuz:66710552`
+- [Genre: New Age Ambient](playlists/Genre_New_Age_Ambient.md) [100 tracks] — Imported genre playlist: New Age Ambient. `qobuz:66712413` `tidal:6446fd31-5777-415e-a451-5c886a153550`
+- [Genre: New Wave](playlists/Genre_New_Wave.md) [70 tracks] — Catchy 80s post-punk subgenre blending synth-pop melodies, stylish art-rock attitude, and vibrant danceable rhythms. `qobuz:66736836` `tidal:9d2fe04d-0123-4951-a9e4-d0ddb499dd89`
+- [Genre: Noise Electronic](playlists/Genre_Noise_Electronic.md) [52 tracks] — Imported genre playlist: Noise Electronic. `qobuz:66714631`
+- [Genre: Noise Rock](playlists/Genre_Noise_Rock.md) [99 tracks] — Imported genre playlist: Noise Rock. `qobuz:66737293` `tidal:9fdc765a-4e6e-4a07-8dfc-06c1a22a6c21`
+- [Genre: Nu Metal](playlists/Genre_Nu_Metal.md) [97 tracks] — Imported genre playlist: Nu Metal. `qobuz:66733980` `tidal:41578249-0612-4f5f-b964-cc0e9e8b5eb8`
+- [Genre: Occult Folk](playlists/Genre_Occult_Folk.md) [98 tracks] — Imported genre playlist: Occult Folk. `qobuz:66710793` `tidal:d6a3d0a6-9d4c-4ff3-a947-6b3d79e6fdac`
+- [Genre: Old School Death Metal](playlists/Genre_Old_School_Death_Metal.md) [100 tracks] — Imported genre playlist: Old School Death Metal. `qobuz:66735251`
+- [Genre: Pagan Folk](playlists/Genre_Pagan_Folk.md) [100 tracks] — Imported genre playlist: Pagan Folk. `qobuz:66710961` `tidal:ef60476e-1110-4a2e-afbb-5e82e3bfd781`
+- [Genre: Peak Techno](playlists/Genre_Peak_Techno.md) [61 tracks] — Imported genre playlist: Peak Techno. `qobuz:66719700`
+- [Genre: Pop Punk](playlists/Genre_Pop_Punk.md) [100 tracks] — Imported genre playlist: Pop Punk. `qobuz:66736703` `tidal:be53a8ad-a57a-4f55-98c7-3a26c7c11679`
+- [Genre: Pop Rock](playlists/Genre_Pop_Rock.md) [100 tracks] — Imported genre playlist: Pop Rock. `qobuz:66737531` `tidal:d36eb54f-d455-4256-9abf-54207a2894df`
+- [Genre: Post Black Metal](playlists/Genre_Post_Black_Metal.md) [100 tracks] — Imported genre playlist: Post Black Metal. `qobuz:66734251`
+- [Genre: Post Grunge](playlists/Genre_Post_Grunge.md) [99 tracks] — Imported genre playlist: Post Grunge. `qobuz:66709722`
+- [Genre: Post Hardcore](playlists/Genre_Post_Hardcore.md) [85 tracks] — Imported genre playlist: Post Hardcore. `qobuz:66736610` `tidal:de89dfba-3d0e-4f2d-b980-b9544c29501d`
+- [Genre: Post-Industrial](playlists/Genre_Post-Industrial.md) [34 tracks] — Imported genre playlist: Post-Industrial. `qobuz:66733498`
+- [Genre: Post Metal](playlists/Genre_Post_Metal.md) [74 tracks] — Imported genre playlist: Post Metal. `qobuz:66735986` `tidal:dd7cf04d-eec8-4416-bc6c-d9461f4d0af3`
+- [Genre: Post Rock](playlists/Genre_Post_Rock.md) [100 tracks] — Imported genre playlist: Post Rock. `qobuz:66732905` `tidal:6181791d-74ba-43e2-bc68-d11175b90598`
+- [Genre: Power Electronic](playlists/Genre_Power_Electronic.md) [100 tracks] — Imported genre playlist: Power Electronic. `qobuz:66733578` `tidal:cda76ee4-8032-4723-b616-a2e0d1c060e4`
+- [Genre: Power Metal](playlists/Genre_Power_Metal.md) [100 tracks] — Imported genre playlist: Power Metal. `qobuz:66736035` `tidal:a4920f8c-191c-4151-9709-b3323173da5f`
+- [Genre: Power Noise](playlists/Genre_Power_Noise.md) [51 tracks] — Imported genre playlist: Power Noise. `qobuz:66733629` `tidal:7ecdd257-a103-4fc2-b0ae-070b419989b8`
+- [Genre: Power Pop](playlists/Genre_Power_Pop.md) [100 tracks] — Imported genre playlist: Power Pop. `qobuz:66737579`
+- [Genre: Progressive Death Metal](playlists/Genre_Progressive_Death_Metal.md) [100 tracks] — Imported genre playlist: Progressive Death Metal. `qobuz:66735339`
+- [Genre: Progressive House](playlists/Genre_Progressive_House.md) [92 tracks] — Imported genre playlist: Progressive House. `qobuz:66716198` `tidal:c3f7192a-04ef-4ea6-9168-9856c3254377`
+- [Genre: Progressive Metal](playlists/Genre_Progressive_Metal.md) [98 tracks] — Imported genre playlist: Progressive Metal. `qobuz:66734992` `tidal:22a3ae67-fd96-42cb-8e2b-e481f3adac34`
+- [Genre: Progressive techno](playlists/Genre_Progressive_techno.md) [94 tracks] — Imported genre playlist: Progressive techno. `qobuz:66719965` `tidal:23136039-8a51-4b22-b8af-5328901838de`
+- [Genre: Progressive Trance](playlists/Genre_Progressive_Trance.md) [100 tracks] — Imported genre playlist: Progressive Trance. `qobuz:66721248` `tidal:b4fc2359-01d8-484c-9868-6d6e20edab6a`
+- [Genre: Psybient](playlists/Genre_Psybient.md) [100 tracks] — Imported genre playlist: Psybient. `qobuz:66712575` `tidal:74652dc3-fba8-4b27-bc90-c8e1e10219d5`
+- [Genre: Psychodelic Dark Folk](playlists/Genre_Psychodelic_Dark_Folk.md) [100 tracks] — Imported genre playlist: Psychodelic Dark Folk. `qobuz:66711189`
+- [Genre: Psychodelic Rock](playlists/Genre_Psychodelic_Rock.md) [100 tracks] — Imported genre playlist: Psychodelic Rock. `qobuz:66738038` `tidal:2c2ac53e-353e-437c-bc55-6b71c7ba9a49`
+- [Genre: Psytrance](playlists/Genre_Psytrance.md) [95 tracks] — Imported genre playlist: Psytrance. `qobuz:66721344` `tidal:93ddaab0-96f2-4837-9984-bf0c519d09ee`
+- [Genre: Rave techno](playlists/Genre_Rave_techno.md) [97 tracks] — Imported genre playlist: Rave techno. `qobuz:66720137` `tidal:1e1445bb-efbe-444c-b630-378528d68392`
+- [Genre: Raw Black Metal](playlists/Genre_Raw_Black_Metal.md) [79 tracks] — Imported genre playlist: Raw Black Metal. `qobuz:66734340` `tidal:8f7005b9-13ac-43e3-bc6d-5f497d17bf7e`
+- [Genre: Ritual Folk](playlists/Genre_Ritual_Folk.md) [44 tracks] — Imported genre playlist: Ritual Folk. `qobuz:66711297`
+- [Genre: Rotterdam Hardcore](playlists/Genre_Rotterdam_Hardcore.md) [99 tracks] — Imported genre playlist: Rotterdam Hardcore. `qobuz:66715155`
+- [Genre: Schranz](playlists/Genre_Schranz.md) [100 tracks] — Imported genre playlist: Schranz. `qobuz:66720405` `tidal:cc6ababb-6f70-43a4-b0f5-ea58fa17e489`
+- [Genre: Screamo](playlists/Genre_Screamo.md) [100 tracks] — Imported genre playlist: Screamo. `qobuz:66736658` `tidal:b695d215-ba75-4703-abdc-232fc6e02e75`
+- [Genre: Shoegaze](playlists/Genre_Shoegaze.md) [100 tracks] — Imported genre playlist: Shoegaze. `qobuz:66732596` `tidal:69042ea1-ccfe-4374-975d-d759808b6b17`
+- [Genre: Slowcore](playlists/Genre_Slowcore.md) [100 tracks] — Imported genre playlist: Slowcore. `qobuz:66732958` `tidal:6ad04ea6-fd0a-4203-97a0-bb15fe12dad3`
+- [Genre: Sludge Metal](playlists/Genre_Sludge_Metal.md) [100 tracks] — Imported genre playlist: Sludge Metal. `qobuz:66735734` `tidal:eb57213a-bf50-4212-b9d1-d0d18d2fd5a1`
+- [Genre: Soft Rock](playlists/Genre_Soft_Rock.md) [100 tracks] — Imported genre playlist: Soft Rock. `qobuz:66737623` `tidal:543ba226-f240-41f4-967c-cbaee50caf00`
+- [Genre: Southern Rock](playlists/Genre_Southern_Rock.md) [100 tracks] — Imported genre playlist: Southern Rock. `qobuz:66738121`
+- [Genre: Space Ambient](playlists/Genre_Space_Ambient.md) [47 tracks] — Imported genre playlist: Space Ambient. `qobuz:66712682` `tidal:4292d406-4556-4051-b33a-4f5a6353b090`
+- [Genre: Space Rock](playlists/Genre_Space_Rock.md) [100 tracks] — Imported genre playlist: Space Rock. `qobuz:66737979` `tidal:2acd513d-0469-4887-b5bf-9f21fe507d61`
+- [Genre: Symphonic Black Metal](playlists/Genre_Symphonic_Black_Metal.md) [49 tracks] — Imported genre playlist: Symphonic Black Metal. `qobuz:66734374` `tidal:27f6e354-fef5-424d-95a3-4bef2cafe242`
+- [Genre: Symphonic Metal](playlists/Genre_Symphonic_Metal.md) [100 tracks] — Imported genre playlist: Symphonic Metal. `qobuz:66736061` `tidal:b4dcb063-f07b-48d4-8ae5-099284ae3968`
+- [Genre: Symphonic Prog](playlists/Genre_Symphonic_Prog.md) [45 tracks] — Imported genre playlist: Symphonic Prog. `qobuz:66737993` `tidal:db52b186-0f84-4897-bd99-927abaaef526`
+- [Genre: Tech House](playlists/Genre_Tech_House.md) [100 tracks] — Imported genre playlist: Tech House. `qobuz:66716403` `tidal:9a70d56e-13f3-4f8d-afbd-d978004ac9da`
+- [Genre: Tech Trance](playlists/Genre_Tech_Trance.md) [100 tracks] — Imported genre playlist: Tech Trance. `qobuz:66721530`
+- [Genre: Technical Death Metal](playlists/Genre_Technical_Death_Metal.md) [100 tracks] — Imported genre playlist: Technical Death Metal. `qobuz:66735442`
+- [Genre: Trash Metal](playlists/Genre_Trash_Metal.md) [70 tracks] — Imported genre playlist: Trash Metal. `qobuz:66734608` `tidal:278bd864-ef5b-4a54-a2f8-0871781f67a0`
+- [Genre: Tribal House](playlists/Genre_Tribal_House.md) [100 tracks] — Imported genre playlist: Tribal House. `qobuz:66716569`
+- [Genre: Trip-Hop](playlists/Genre_Trip-Hop.md) [100 tracks] — Imported genre playlist: Trip-Hop. `qobuz:66713889` `tidal:ed2b6a30-b34e-4f10-bc72-f5671a50c937`
+- [Genre: Underground Hip-Hop](playlists/Genre_Underground_Hip-Hop.md) [100 tracks] — Imported genre playlist: Underground Hip-Hop. `qobuz:66732413` `tidal:bfb04786-4297-4288-9104-f4cff671551b`
+- [Genre: Uplifting Trance](playlists/Genre_Uplifting_Trance.md) [100 tracks] — Imported genre playlist: Uplifting Trance. `qobuz:66732291` `tidal:28d2c34d-552d-4df8-9f95-d6a66e1d1c5d`
+- [Genre: Viking Metal](playlists/Genre_Viking_Metal.md) [30 tracks] — Imported genre playlist: Viking Metal. `qobuz:66736069`
+- [Hardcore, Frenchcore](playlists/Hardcore_Frenchcore.md) `tidal:23fdab5e-2d25-4fa7-98e0-cbe0624ba60c`
+- [Hardcore, Grindcore](playlists/Hardcore_Grindcore.md) `tidal:9557000f-f717-4661-9273-7bde5b44a760`
+- [Hardcore, Hardcore Punk](playlists/Hardcore_Hardcore_Punk.md) — Created from CSV import `tidal:c1c20a35-0048-4edd-ace0-d56113fbbfe2`
+- [Hardcore, Mainstream Hardcore](playlists/Hardcore_Mainstream_Hardcore.md) `tidal:96f82b4f-28bb-4fad-84f9-2ac6f8a632b5`
+- [Hawkwind](playlists/Hawkwind.md) `qobuz:66618160`
+- [Helloween Essentials](playlists/Helloween_Essentials.md) `tidal:72bd46b9-c7a2-4bd5-a4a5-34bcc68d4ce2`
+- [HIM, Essentials](playlists/HIM_Essentials.md) `tidal:71576520-4420-4a45-b1c4-f60ae8177e42`
+- [Hot Rocks: Best New Tracks](playlists/Hot_Rocks_Best_New_Tracks.md) — All the new rock releases you need in your everyday life; from mainstream to alternative. (Cover: Queens of the Stone Age / Photo: Beggars, press) `tidal:9fb4e85c-31c3-44ae-8816-256029f961bd`
+- [House, Chicago House](playlists/House_Chicago_House.md) `tidal:35f6cecf-ff18-4842-b38c-f614f0b78f77`
+- [House, Garage](playlists/House_Garage.md) `tidal:720ad26f-8c01-4236-9e3d-d42d715ee193`
+- [House, Minimal House](playlists/House_Minimal_House.md) `tidal:0e3a224e-8c9a-466f-9a21-14501817e1a8`
+- [Iconic Venues: Berghain | Panorama Bar (Berlin)](playlists/Iconic_Venues_Berghain_Panorama_Bar_Berlin.md) — Berlin's Berghain | Panorama Bar is the most exclusive, hedonistic and infamously sex-positive techno club in the world. Here are 50 stone-cold house and techno classics that have set European dancefloors alight for decades. (Photo: PYMCA / Getty) `tidal:d5c84fb6-c422-4e2e-bc68-14759b103b2b`
+- [IDM, Glitch](playlists/IDM_Glitch.md) `tidal:e36a44b0-15c5-4ef2-82c1-cb41f299ef73`
+- [IDM, Post IDM](playlists/IDM_Post_IDM.md) `tidal:bcd1369b-6380-406a-982b-d44ce05c2fca`
+- [Ihsahn](playlists/Ihsahn.md) [2 tracks] `qobuz:66430686`
+- [Inbox](playlists/Inbox.md) [18 tracks] `qobuz:60273647`
+- [Indie Circus: Best New Tracks](playlists/Indie_Circus_Best_New_Tracks.md) — The best and most exciting in new indie & alternative. Check out artists you already love and discover future obsessions. (Cover: THAO / Photo: Kill Rock Stars, press) `tidal:c3163d0a-b486-4003-987c-cd05a60b6763`
+- [Indie, Indie Rock](playlists/Indie_Indie_Rock.md) `tidal:e119b56a-b23b-4de3-a1dd-176d3e0b567a`
+- [Interpol, Essentials](playlists/Interpol_Essentials.md) `tidal:3fca9f12-3894-461b-8748-11435fa7df5e`
+- [Iron Maiden Essentials](playlists/Iron_Maiden_Essentials.md) `tidal:1f6a7b35-959d-496a-abce-9d4662620737`
+- [Jazz, Jazz Rock](playlists/Jazz_Jazz_Rock.md) `tidal:4480ecb8-cb15-4bef-ac38-f6a9f5b6a39f`
+- [Jazz, Post Bop](playlists/Jazz_Post_Bop.md) `tidal:a071b5ab-d730-4da9-a90d-dd8f989eddf7`
+- [Jazz, Spiritual Jazz](playlists/Jazz_Spiritual_Jazz.md) `tidal:e3445549-10c4-4bcb-9e42-31ba2105e5ee`
+- [Judas Priest](playlists/Judas_Priest.md) [8 tracks] `qobuz:66387028` `tidal:ca2bdbf9-9793-4bcc-8485-b58a57ff6993`
+- [King Diamond, Essentials](playlists/King_Diamond_Essentials.md) `tidal:e87a3af6-6431-4b1b-91fa-0755860ed458`
+- [Kiss](playlists/Kiss.md) [20 tracks] `qobuz:66053696`
+- [KMFDM Esentials](playlists/KMFDM_Esentials.md) `tidal:b15f2999-fe50-4829-a375-92b5b1398390`
+- [Kreator](playlists/Kreator.md) [2 tracks] `qobuz:66546508`
+- [Lenny Kravitz](playlists/Lenny_Kravitz.md) [1 tracks] `qobuz:66543311`
+- [Long Distance Calling Essentials](playlists/Long_Distance_Calling_Essentials.md) `tidal:d2f7b96e-1ffd-437c-99bd-0f7d542b6601`
+- [Megadeath Essentials](playlists/Megadeath_Essentials.md) `tidal:9e1f0126-65cb-4eb2-959a-d9f534bcdd44`
+- [Metal, Death, Melodic Death](playlists/Metal_Death_Melodic_Death.md) `tidal:3bc6bb87-d048-467a-8754-870307388a25`
+- [Metal, Death, Progressive](playlists/Metal_Death_Progressive.md) `tidal:96717122-8688-43f2-8f30-43f81f18e14d`
+- [Metal, Death, Technical](playlists/Metal_Death_Technical.md) `tidal:d4783a9e-1fb3-4739-a095-67d2c4f87ab4`
+- [Metal, Industrial Metal](playlists/Metal_Industrial_Metal.md) `tidal:f7a31047-5a6d-48fe-8544-ff7ab50009db`
+- [Modern Jazz: Best New Tracks](playlists/Modern_Jazz_Best_New_Tracks.md) — Hear some of the finest instrumentalists in jazz today. (Cover: James Brandon Lewis / Photo: Eva Kapanadze) `tidal:70efda1e-e36f-4ad2-b97e-3e1a2bcc2398`
+- [Modern Rock Classics](playlists/Modern_Rock_Classics.md) — Modern day rock classics from the 1990s and onwards. Play loud! (Cover: Cold War Kids, 2006 / Photo: Matt Wignall, press) `tidal:425691bb-476f-44a8-bcbd-a932f4f65082`
+- [Motörhead](playlists/Motörhead.md) `qobuz:66053964`
+- [MTV Unplugged](playlists/MTV_Unplugged.md) [70 tracks] — Started at the end of the 80s with Bon Jovi, the MTV unplugged series quickly became the place to be for trendy groups... in unplugged style! Nearly all the big names had their turn: Eagles, Bob Dylan, Björk, Alanis Morissette, R.E.M., The Corrs, Neil Young, Oasis, Jimmy Page & Robert Plant, Mariah Carey, Florence + The Machine... But two concerts in particular stand out: Eric Clapton and Nirvana who respectively sold 7 and 5 million copies of their "MTV Unplugged" performances. `qobuz:4457755`
+- [Mu Ziq, Essentials](playlists/Mu_Ziq_Essentials.md) `tidal:94024700-31f7-458e-9e54-71fb3b02e9d3`
+- [My Most Listened](playlists/My_Most_Listened.md) — Lorna Shore, Epica, Mayhem and more `tidal:01019e94c5cb171e3d3d7f16d86c1c`
+- [New in Alternative Rock](playlists/New_in_Alternative_Rock.md) [80 tracks] — Treat yourself to a good dose of energy with the latest in alternative rock. 
+Last update: 27.7.2026. Featuring The Xcerts, chest., Mayday Parade, Coach Party, Citizen, Slothrust, The Haunt, Russian Circles, Jutes, No Joy, lina-mariah, BODEGA, madfolk, Saint Agnes, Tooth, LA Priest, ME., Y, Keo, Pancho, Papa Roach, False Advertising, Gurriers, Shinedown, Wilt...
+
+Photo: Sprints © Emilia Spitale `qobuz:6866405`
+- [New in IDM, Glitch & Experimental](playlists/New_in_IDM_Glitch_Experimental.md) [80 tracks] — Our selection of the latest releases and reissues in IDM, Glitch and other stylistic experiments. This is a space where deconstructed rhythms collide with synthesizers and software that is being pushed to its limits with demanding arrangements and rough sonorities... For those who like to listen carefully, here you'll find a selection of highly complex electronic music.
+
+Last updated on 20.7.2026. With Anastasia Kristensen, Foodman, gyrofield, Satoshi Osei, Hannah Peel, Clark, MUN SING, dgoHn, FaltyDL, Lazy Ants, FIRE-TOOLZ, Upsammy, Paperclip Minimiser, Tristan Arp, Ital Tek, Heavee, Air Max '97, Loraine James, Throwing Snow, Kent Watari, Xylitol, Proc Fiskal, Rob Clouth, Gooooose, Kavari, Skrillex, Nondi_, Nick Leon, CoLD SToRAGE, Oneohtrix Point Never, Wordcolour, Bancal, Daisuke Tanabe...
+
+Photo: Horse Lords © Kasia Zacharko `qobuz:58707238`
+- [New in Indie](playlists/New_in_Indie.md) [80 tracks] — Listen to the latest Indie releases, updated 27.7.2026.
+With Sylvan Esso, The Strokes, Nieve Ella, Teenage Fanclub, Alice Barlow, Maddie Ashman, Soft Loft, Alex Cameron, Stef Chura, IAN SWEET, Protomartyr, Protomartyr, Eels, Chloe Slater, The Snuts, Love Spells, Giant Rooks, Tiny Habits, Alex Izenberg, Greg Freeman, Helado Tropical, Babehoven, beabadoobee, Man/Woman/Chainsaw, Yard Act, Julia Jacklin, Beck, Swapmeet, Tricky, Dry Cleaning...
+
+Photo: Mary in the Junkyars © Xander Lewis `qobuz:5956789`
+- [New in Jazz](playlists/New_in_Jazz.md) [80 tracks] — Listen to the latest Jazz releases, updated on 29.7.2026. 
+With Lizz Wright, Marshall Allen, Orquesta Akokán, Fergus McCreadie, Ayumi Tanaka, Henry Threadgill, Linda Sikhakhane, Charles Lloyd, Jocelyn Gould, Dave Holland, Denise Donatelli, Emile Parisien, Mama Terra, Joey Alexander, Miki Yamanaka, Kiefer, Richard Spaven, corto.alto, Ancient Infinity Orchestra, Mark Guiliana, Kaoru Watanabe, Tyreek McDole, Cécile McLorin Salvant, Kalia Vandever, James Brandon Lewis Quartet, Cindy Blackman Santana, Pat Metheny, Nduduzo Makhathini, Steve Swallow, Empirical, Sullivan Fortner, Nate Smith...
+
+Photo: Selma Savolainen © Severi Uusitalo `qobuz:5956760`
+- [New in Metal](playlists/New_in_Metal.md) [80 tracks] — Discover our selection of the freshest metal releases. Heavy metal, black metal, death metal, doom metal, power metal or metalcore, explore the genre in all its facets. 
+Last updated on 17.7.2026. With Mastodon, Anthrax, Bring Me The Horizon, Accept, Amon Amarth, Bury Tomorrow, Invocation Ritual, Loathe, Motionless In White, Protest The Hero, Haken, Native James, Bad Wolves, Brymir, Boundaries, The Ocean, Ice Nine Kills, Russian Circles, Employed To Serve, No Cure, In This Moment, Amberian Dawn, The Hu, Arion, Siamese, Nothingness, Green Lung, Like Moths To Flames, Monument Of Misanthropy, Fuming Mouth, Astriferous, Kingdom Of Giants, Deadweight, Big Noter, Wailin' Storms, Southpaw FLHC, Zuko, Lumens, Harlott, Dimmu Borgir, Converge, Electric Callboy, Monolord, Five Finger Death Punch, Witch Club Satan, Tarja, DevilDriver...
+
+Photo: Mastodon © William Lacalmontie `qobuz:5956794`
+- [New in Rock](playlists/New_in_Rock.md) [80 tracks] — Listen to the latest Rock releases, last updated 27.7.2026. With Chelsea Wolfe, Wild Pink, Robyn Hitchcock, Mayday Parade, Rezn, The Tubs, The Jayhawks, Russian Circles, MCKENNA Grace, The Olivia Tremor Control, Queens Of The Stone Age, Quicksand, The Menzingers, Arab Strap, The Buoys, Lenny Kaye, Keo, Agatha is Dead!, Ty Segall, As It Is, Split Dogs, Sun Voyager...
+
+Photo: Dinosaur Jr © Jeff Fowler `qobuz:5956680`
+- [New Metal Videos](playlists/New_Metal_Videos.md) — Find your recent favorite metal and hard rock music videos in this playlist. (Cover: Slipknot / Photo: Roadrunner, press) `tidal:3015143b-b031-4659-b1b4-587ecbbdfd6f`
+- [New Rock Videos](playlists/New_Rock_Videos.md) — The latest rock videos you need to see. (Cover: U2 - Silencio, Universal) `tidal:473622e4-d59b-46e7-b34c-9bd29b10b2c7`
+- [Out There: Best New Jazz](playlists/Out_There_Best_New_Jazz.md) — Groundbreaking art is often defined by its inability to be categorized. We highlight sonic shards mined from the vast terrain of new jazz and jazz-adjacent music, from the experimental to the straight-up grooving. (Cover: Jeremiah Chiu / Photo: Brian Guido) `tidal:0bfac8e5-4ff8-44e4-b112-5fb71d39bcc1`
+- [Ozzy Osbourne](playlists/Ozzy_Osbourne.md) `qobuz:66572221`
+- [Pop, Hyperpop](playlists/Pop_Hyperpop.md) — Hyperpop is a maximalist, internet-native strain of pop that pushes melodies and emotion to extremes: blown-out, heavily compressed production; bright synthetic timbres; pitch-shifted/Auto-Tuned vocals; glitchy jump-cuts; and candy-sweet hooks delivered w `tidal:b9c03281-307b-49ca-ac0b-6bdcae5a853f`
+- [Post Punk, Coldwave](playlists/Post_Punk_Coldwave.md) `tidal:2f7783ac-7f02-4133-9253-d579ac4d14ef`
+- [Post Punk, Darkwave](playlists/Post_Punk_Darkwave.md) `tidal:6743ccda-bc8b-48b5-9466-c7de209d30ff`
+- [Post Punk, Post Punk Revival](playlists/Post_Punk_Post_Punk_Revival.md) `tidal:8ead541d-6876-44b2-a87b-2a22ed192559`
+- [Progressive, Canterbury Scene](playlists/Progressive_Canterbury_Scene.md) `tidal:b46d6a5e-d12e-4648-953c-3ece70e03bd6`
+- [Rage](playlists/Rage.md) `qobuz:66409683` `tidal:be85afcc-057b-49e9-a839-11994b69068b`
+- [Rave 24/7: Best New Club Tracks](playlists/Rave_24_7_Best_New_Club_Tracks.md) — Presenting the latest club and rave ready bangers. (Cover: TAKI / Photo: Ditto, press) `tidal:40adb971-fcc9-47a1-8065-b3fd3da1e0fb`
+- [Robert Plant Essentials](playlists/Robert_Plant_Essentials.md) `tidal:cefce856-c800-498a-96e1-909ae2436695`
+- [Rock, Avant-Garde Rock](playlists/Rock_Avant-Garde_Rock.md) `tidal:ed38bcf0-a079-4ac9-942f-f7f64ef17f5a`
+- [Rush](playlists/Rush.md) [3 tracks] `qobuz:67132330`
+- [Sepultura, Essentials](playlists/Sepultura_Essentials.md) `tidal:8214cbd0-0640-4ded-8488-afd8a6b68dc1`
+- [Shuffle](playlists/Shuffle.md) [4 tracks] `qobuz:63034338` `tidal:b2d75fc0-1a22-4d90-9a97-d19baab35992`
+- [Skinny Puppy Essentials](playlists/Skinny_Puppy_Essentials.md) `tidal:cc00f9a4-4388-4023-accf-6f9549d64f66`
+- [Sodom](playlists/Sodom.md) `qobuz:66562979`
+- [Stone Temple Pilots](playlists/Stone_Temple_Pilots.md) [1 tracks] `qobuz:66938749`
+- [Suede](playlists/Suede.md) [1 tracks] `qobuz:67062290`
+- [Synthpop, Synthwave](playlists/Synthpop_Synthwave.md) `tidal:a5470edd-aaef-4906-a0cf-253b9eec7d5b`
+- [TECH PACK](playlists/TECH_PACK.md) — rekordbox and TIDAL present TECH PACK - the latest in Techno and Minimal. `tidal:e6be1150-3743-4518-95f3-2e60b235e972`
+- [Techno, Deep Techno](playlists/Techno_Deep_Techno.md) — Deep Techno is a moody and immersive style of techno characterized by subtle grooves, rich textures, and a focus on atmosphere over intensity—often slow-building and introspective. `tidal:c7d1dff3-dbca-473a-b4e8-f60d2a9b4082`
+- [Techno, Experimental Techno](playlists/Techno_Experimental_Techno.md) — Experimental Techno is a boundary-pushing form of techno that explores unconventional structures, sound design, and textures—often blending elements from noise, ambient, and avant-garde music. `tidal:5b7a8f22-1f7f-4d1b-95d3-b9a7aab49892`
+- [Techno, Industrial Techno](playlists/Techno_Industrial_Techno.md) — Industrial Techno is a harsh, aggressive style of techno that incorporates distorted sounds, mechanical textures, and heavy, pounding rhythms—drawing influence from industrial music and noise. `tidal:d848c4cc-3a06-43ed-b3e0-1bbbe43efbb5`
+- [Techno, Peak Time](playlists/Techno_Peak_Time.md) `tidal:871a9d36-9b79-4540-be42-e2ba4c374194`
+- [The Amity Affiction Essentials](playlists/The_Amity_Affiction_Essentials.md) `tidal:cd00a041-26eb-432f-8376-37e5851bd849`
+- [The Avant Garden](playlists/The_Avant_Garden.md) — Your musical garden for avant-garde, minimalism, modern composition, contemporary classical, experimental, ambient and other sonic explorers from a vast terrain of modern music. (Cover: Exceptet / Photo: press) `tidal:296455c5-cdb3-4f3a-a1f4-69cea046259e`
+- [The Future Sound of London](playlists/The_Future_Sound_of_London.md) [12 tracks] `qobuz:67129622` `tidal:35f01305-f54f-4ae7-a783-0250bb55ad83`
+- [The Hirsch Effect Essentials](playlists/The_Hirsch_Effect_Essentials.md) `tidal:552eb5df-ba1f-4234-8af6-01084d53e4e6`
+- [The Ideal Jazz Discography](playlists/The_Ideal_Jazz_Discography.md) [100 tracks] — The music experts at Qobuz have carefully curated a collection of must-have masterpieces for every genre. The albums in the Qobuz Ideal Discography were chosen for being faultless, for their groundbreaking impact, or the way they elevated their genre to new heights—each one marking a pivotal moment in music history.
+
+This playlist showcases the very best jazz albums from our Ideal Discography. It's your chance to (re)discover iconic recordings by the most legendary jazz artists of all time! `qobuz:28377257`
+- [The Metallist: Best New Metal & Hard Rock](playlists/The_Metallist_Best_New_Metal_Hard_Rock.md) — The new songs you need to know from across hard rock and metal spectrum. (Cover: Cult Of Luna / Photo: SIVIANA, RED CRK AB, press) `tidal:7c50bdc8-a448-452c-9289-20815c6140e9`
+- [The Rolling Stones](playlists/The_Rolling_Stones.md) [11 tracks] `qobuz:65972954`
+- [The Weeknd](playlists/The_Weeknd.md) [5 tracks] `qobuz:67166924`
+- [UFO Essentials](playlists/UFO_Essentials.md) `tidal:e09795d2-a8a9-4c00-a056-21ee3eac5c57`
+- [URNE Essentials](playlists/URNE_Essentials.md) `tidal:1287085d-0eaf-411c-b4a8-f64b82ba9334`
+- [WASP, Essentials](playlists/WASP_Essentials.md) `tidal:ea6dd70b-c398-4b21-9dd6-2a8c200556ce`
+- [.WAV: Hip-Hop & R&B](playlists/.WAV_Hip-Hop_R_B.md) — Out of the box. In with the now. (Cover: Molly Santana // Photo: Press) `tidal:89da042d-3d09-472e-b6e0-53b5350c1b92`
+- [Within Temptation Essentials](playlists/Within_Temptation_Essentials.md) `tidal:179ee0fe-0f81-4935-a26c-fb7e5c8c8ab4`
+- [Yes Essentials](playlists/Yes_Essentials.md) `tidal:541b7d41-cfa9-4d83-9329-16e209cf5358`

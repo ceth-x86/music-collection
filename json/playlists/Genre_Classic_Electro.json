@@ -1,0 +1,1010 @@
+{
+  "name": "Genre: Classic Electro",
+  "services": {
+    "qobuz": "66714122",
+    "tidal": "c54f81ff-b042-431f-8ad0-cbc892f35f7b"
+  },
+  "description": "Imported genre playlist: Classic Electro.",
+  "tracks": [
+    {
+      "artist": "Ryuichi Sakamoto",
+      "title": "riot in Lagos",
+      "services": {
+        "qobuz": "71185950"
+      },
+      "album": "B-2 Unit",
+      "duration": 340,
+      "isrc": "JPAL01900670"
+    },
+    {
+      "artist": "Afrika Bambaataa & The Soul Sonic Force",
+      "title": "Planet Rock",
+      "services": {
+        "qobuz": "9159920"
+      },
+      "album": "Planet Rock (1996 Version)",
+      "duration": 456,
+      "isrc": "USGZ20600363"
+    },
+    {
+      "artist": "Man Parrish",
+      "title": "Hip Hop, Be Bop (Don\u2019t Stop)",
+      "services": {
+        "qobuz": "10939552"
+      },
+      "album": "Hip Hop Be Bop (Don\u2019t Stop)",
+      "duration": 340,
+      "isrc": "CAU118202006"
+    },
+    {
+      "artist": "Warp 9",
+      "title": "Nunk (New Wave Funk)",
+      "services": {
+        "qobuz": "15672132"
+      },
+      "album": "It's a Beat Wave",
+      "duration": 496,
+      "isrc": "CAU118203801"
+    },
+    {
+      "artist": "Planet Patrol",
+      "title": "Play at Your Own Risk",
+      "services": {
+        "qobuz": "169117451"
+      },
+      "album": "Planet Patrol",
+      "duration": 467,
+      "isrc": "USTB11800509"
+    },
+    {
+      "artist": "Malcolm McLaren",
+      "title": "Buffalo Gals",
+      "services": {
+        "qobuz": "1726973"
+      },
+      "album": "Duck Rock",
+      "duration": 259,
+      "isrc": "GBAAA8300092"
+    },
+    {
+      "artist": "Tyrone Brunson",
+      "title": "The Smurf",
+      "services": {
+        "qobuz": "97355621"
+      },
+      "album": "Sticky Situation (Expanded)",
+      "duration": 374,
+      "isrc": "USHM82061976"
+    },
+    {
+      "artist": "Whodini",
+      "title": "Magic's Wand",
+      "services": {
+        "qobuz": "37990753"
+      },
+      "album": "Whodini",
+      "duration": 337,
+      "isrc": "GBAHK9400184"
+    },
+    {
+      "artist": "Quadrant Six",
+      "title": "Body Mechanic",
+      "services": {
+        "qobuz": "74438288"
+      },
+      "album": "Body Mechanic",
+      "duration": 423,
+      "isrc": "USGZ20822929"
+    },
+    {
+      "artist": "Rockers Revenge",
+      "title": "Walking on Sunshine '82",
+      "services": {
+        "qobuz": "32770015"
+      },
+      "album": "Walking on Sunshine (feat. Donnie Calvin)",
+      "duration": 575,
+      "isrc": "USWR39100019"
+    },
+    {
+      "artist": "Herbie Hancock",
+      "title": "Rockit",
+      "services": {
+        "qobuz": "38710"
+      },
+      "album": "Future Shock",
+      "duration": 325,
+      "isrc": "USSM19804808"
+    },
+    {
+      "artist": "Hashim",
+      "title": "Al-Naafiysh (The Soul)",
+      "services": {
+        "qobuz": "74169556"
+      },
+      "album": "Al-Naafiysh (The Soul)",
+      "duration": 405,
+      "isrc": "USCRI1549201"
+    },
+    {
+      "artist": "Cybotron",
+      "title": "Clear",
+      "services": {
+        "qobuz": "102668717"
+      },
+      "album": "Clear",
+      "duration": 294,
+      "isrc": "USFI88300051"
+    },
+    {
+      "artist": "Twilight 22",
+      "title": "Electric Kingdom",
+      "services": {
+        "qobuz": "55350799"
+      },
+      "album": "Twilight 22",
+      "duration": 286,
+      "isrc": "USVG20600937"
+    },
+    {
+      "artist": "Jonzun Crew",
+      "title": "Pack Jam (Look Out for the OVC)",
+      "services": {
+        "qobuz": "169114222"
+      },
+      "album": "Lost in Space",
+      "duration": 411,
+      "isrc": "USTB10300344"
+    },
+    {
+      "artist": "West Street Mob",
+      "title": "Break Dance - Electric Boogie",
+      "services": {
+        "qobuz": "388676312"
+      },
+      "album": "Break Dance - Electric Boogie",
+      "duration": 311,
+      "isrc": "GBAJE8300014"
+    },
+    {
+      "artist": "C.E.B.",
+      "title": "Get the Point",
+      "services": {
+        "qobuz": "28937071"
+      },
+      "album": "Countin' Endless Bank",
+      "duration": 235,
+      "isrc": "USSM11504769"
+    },
+    {
+      "artist": "The Bird and the Bee",
+      "title": "Ray Gun",
+      "services": {
+        "qobuz": "54871315"
+      },
+      "album": "Ray Guns Are Not Just The Future",
+      "duration": 281,
+      "isrc": "USBN20800598"
+    },
+    {
+      "artist": "K-9 Corp",
+      "title": "Dog Talk",
+      "services": {
+        "qobuz": "4551538"
+      },
+      "album": "Greatest Hits: Straight Up",
+      "duration": 575,
+      "isrc": "USCA20000342"
+    },
+    {
+      "artist": "G Force",
+      "title": "Feel the Force (feat. Captain Cee)",
+      "services": {
+        "qobuz": "124043446"
+      },
+      "album": "Feel the Force (feat. Captain Cee)",
+      "duration": 441,
+      "isrc": "TCACG1576590"
+    },
+    {
+      "artist": "Captain Rock",
+      "title": "Return of Captain Rock",
+      "services": {
+        "qobuz": "168998331"
+      },
+      "album": "To the Future Shock",
+      "duration": 236,
+      "isrc": "QMZ961118846"
+    },
+    {
+      "artist": "The Packman",
+      "title": "I'm the Packman (Eat Everything I Can)",
+      "services": {
+        "qobuz": "161738997"
+      },
+      "album": "I'm the Packman (Eat Everything I Can)",
+      "duration": 396,
+      "isrc": "QM6MZ2276865"
+    },
+    {
+      "artist": "Xena",
+      "title": "On the Upside",
+      "services": {
+        "qobuz": "15672277"
+      },
+      "album": "Star Funk, Vol. 4",
+      "duration": 351,
+      "isrc": "CAU118307207"
+    },
+    {
+      "artist": "Backspin",
+      "title": "Master Rap Megamix :: Rapper's Delight + Tough + The Breaks + Partytime + Push it",
+      "services": {
+        "qobuz": "101811601"
+      },
+      "album": "Master Rap Megamix",
+      "duration": 386,
+      "isrc": "DEE989800018"
+    },
+    {
+      "artist": "The Beach Boys",
+      "title": "Sloop John B",
+      "services": {
+        "qobuz": "6848884"
+      },
+      "album": "Pet Sounds",
+      "duration": 181,
+      "isrc": "USCA21201794"
+    },
+    {
+      "artist": "Mandrill",
+      "title": "Two Sisters Of Mystery",
+      "services": {
+        "qobuz": "53077856"
+      },
+      "album": "Just Outside Of Town",
+      "duration": 219,
+      "isrc": "USUR10300358"
+    },
+    {
+      "artist": "Captain Rapp",
+      "title": "Bad Times (I Can't Stand It), Pt. 1",
+      "services": {
+        "qobuz": "146321435"
+      },
+      "album": "Bad Times (I Can't Stand It) / Rock the Beat",
+      "duration": 407,
+      "isrc": "QMFMF2139198"
+    },
+    {
+      "artist": "Newcleus",
+      "title": "Computer Age (Push the Button)",
+      "services": {
+        "qobuz": "73771146"
+      },
+      "album": "Jam On Revenge",
+      "duration": 460,
+      "isrc": "USCCK0710015"
+    },
+    {
+      "artist": "Newcleus",
+      "title": "Jam On It",
+      "services": {
+        "qobuz": "73771151"
+      },
+      "album": "Jam On Revenge",
+      "duration": 383,
+      "isrc": "USCCK0710020"
+    },
+    {
+      "artist": "Divine Sounds",
+      "title": "What People Do For Money",
+      "services": {
+        "qobuz": "49199753"
+      },
+      "album": "What People Do For Money",
+      "duration": 506,
+      "isrc": "NLP431600577"
+    },
+    {
+      "artist": "AJJ",
+      "title": "We Didn't Come Here to Rock",
+      "services": {
+        "qobuz": "264856930"
+      },
+      "album": "Can't Maintain",
+      "duration": 143,
+      "isrc": "US4ZV0910384"
+    },
+    {
+      "artist": "Pumpkin",
+      "title": "King of the Beat",
+      "services": {
+        "qobuz": "109391112"
+      },
+      "album": "King of the Beat",
+      "duration": 368,
+      "isrc": "USRC12002250"
+    },
+    {
+      "artist": "Davy DMX",
+      "title": "One for the Treble (Fresh)",
+      "services": {
+        "qobuz": "198142062"
+      },
+      "album": "One For The Treble (Fresh)",
+      "duration": 389,
+      "isrc": "QZAKB2320674"
+    },
+    {
+      "artist": "Fresh 3 MC's",
+      "title": "Fresh",
+      "services": {
+        "qobuz": "100227765"
+      },
+      "album": "Profile Singles",
+      "duration": 376,
+      "isrc": "USRC12001140"
+    },
+    {
+      "artist": "Steps Ahead",
+      "title": "Radio-Active",
+      "services": {
+        "qobuz": "2855037"
+      },
+      "album": "Modern Times",
+      "duration": 532,
+      "isrc": "USNO18435105"
+    },
+    {
+      "artist": "Home Made Kazoku",
+      "title": "Get Fun-Key - space in your space",
+      "services": {
+        "qobuz": "95647597"
+      },
+      "album": "FAMILIA",
+      "duration": 256,
+      "isrc": "JPKS00700154"
+    },
+    {
+      "artist": "Leonard Bernstein",
+      "title": "How a Great Symphony Was Written - Leonard Bernstein Talks About the First Movement of Beethoven's Fifth Symphony",
+      "services": {
+        "qobuz": "44584600"
+      },
+      "album": "Beethoven: Symphony No. 5 in C Minor, Op. 67 - Bernstein talks \"How a Great Smphony was Written\"",
+      "duration": 722,
+      "isrc": "USSM11702526"
+    },
+    {
+      "artist": "The Mohawks",
+      "title": "The Champ",
+      "services": {
+        "qobuz": "262892313"
+      },
+      "album": "Arthur Baker presents Breaker's Revenge - Original B-Boy and B-Girl Breakdance Classics 1970-84",
+      "duration": 158,
+      "isrc": "GBVVQ1600276"
+    },
+    {
+      "artist": "Atrahddis",
+      "title": "Knights of the Bass Table",
+      "services": {
+        "qobuz": "322468771"
+      },
+      "album": "Medieval Techno",
+      "duration": 65,
+      "isrc": "QZES52575748"
+    },
+    {
+      "artist": "The Fantastic Aleems",
+      "title": "Release Yourself",
+      "services": {
+        "qobuz": "228119849"
+      },
+      "album": "Release Yourself: The NIA Sessions",
+      "duration": 360,
+      "isrc": "QMZ961118845"
+    },
+    {
+      "artist": "Fantasy 3",
+      "title": "Buck Stops Here",
+      "services": {
+        "qobuz": "75469745"
+      },
+      "album": "It's Your Rock",
+      "duration": 601,
+      "isrc": "USHM21734295"
+    },
+    {
+      "artist": "London Boys",
+      "title": "High Fidelity",
+      "services": {
+        "qobuz": "336506169"
+      },
+      "album": "Sweet Soul Music",
+      "duration": 237,
+      "isrc": "DEA610100446"
+    },
+    {
+      "artist": "Mr. Undercover",
+      "title": "Rocket Man (I Think It's Going to Be a Long Long Time)",
+      "services": {
+        "qobuz": "104332551"
+      },
+      "album": "Great Piano Cover Songs",
+      "duration": 275,
+      "isrc": "DEMF32000045"
+    },
+    {
+      "artist": "Strafe",
+      "title": "Set It Off (Vocal)",
+      "services": {
+        "qobuz": "90586613"
+      },
+      "album": "\"the original\" Set It Off",
+      "duration": 585,
+      "isrc": "USHM80702689"
+    },
+    {
+      "artist": "The RussellBrothers",
+      "title": "The Party Scene",
+      "services": {
+        "qobuz": "236063277"
+      },
+      "album": "The Party Scene",
+      "duration": 414,
+      "isrc": "USL4R2380892"
+    },
+    {
+      "artist": "Haiku Salut",
+      "title": "Sounds Like There's A Pacman Crunching Away At Your Heart",
+      "services": {
+        "qobuz": "237805959"
+      },
+      "album": "Tricolore",
+      "duration": 295,
+      "isrc": "GBHLW1310481"
+    },
+    {
+      "artist": "The Egyptian Lover",
+      "title": "Egypt Egypt",
+      "services": {
+        "qobuz": "14892317"
+      },
+      "album": "On the Nile",
+      "duration": 318,
+      "isrc": "USLW78466305"
+    },
+    {
+      "artist": "Time Zone",
+      "title": "The Wildstyle",
+      "services": {
+        "qobuz": "6920595"
+      },
+      "album": "Zulu Wildstyle",
+      "duration": 498,
+      "isrc": "GBHCD1150091"
+    },
+    {
+      "artist": "Poets Of The Fall",
+      "title": "Dancing on Broken Glass",
+      "services": {
+        "qobuz": "53051834"
+      },
+      "album": "Ultraviolet",
+      "duration": 234,
+      "isrc": "FIP9F1800003"
+    },
+    {
+      "artist": "Full Blown Kirk",
+      "title": "real time",
+      "services": {
+        "qobuz": "75506848"
+      },
+      "album": "Zero Day",
+      "duration": 254,
+      "isrc": "USHM20401398"
+    },
+    {
+      "artist": "Alina Music",
+      "title": "Heart Sync Beat",
+      "services": {
+        "qobuz": "404513833"
+      },
+      "album": "Always and Forever",
+      "duration": 178,
+      "isrc": "GXJBV2666159"
+    },
+    {
+      "artist": "Cheek",
+      "title": "Venus (Sunshine People) [DJ Gregory U.Pass]",
+      "services": {
+        "qobuz": "31189350"
+      },
+      "album": "Versatile Classics, Vol. 4",
+      "duration": 434,
+      "isrc": "FR08Q1600011"
+    },
+    {
+      "artist": "Lofi Hip Hop",
+      "title": "Radio Mix Jam",
+      "services": {
+        "qobuz": "385241540"
+      },
+      "album": "Beat Street Radio",
+      "duration": 145,
+      "isrc": "USA2P2603301"
+    },
+    {
+      "artist": "Shannon",
+      "title": "Let the Music Play",
+      "services": {
+        "qobuz": "52498391"
+      },
+      "album": "Let the Music Play",
+      "duration": 371,
+      "isrc": "CAU118401867"
+    },
+    {
+      "artist": "Dr. Jeckyll & Mr. Hyde",
+      "title": "Fast Life",
+      "services": {
+        "qobuz": "111918770"
+      },
+      "album": "Profile Singles",
+      "duration": 439,
+      "isrc": "USRC12001122"
+    },
+    {
+      "artist": "Bobby Broom",
+      "title": "Beat Freak",
+      "services": {
+        "qobuz": "2545075"
+      },
+      "album": "Livin' For The Beat",
+      "duration": 253,
+      "isrc": "USAR10900343"
+    },
+    {
+      "artist": "The Real Roxanne",
+      "title": "Bang Zoom (Let's Go-Go)",
+      "services": {
+        "qobuz": "32720475"
+      },
+      "album": "The Real Roxanne",
+      "duration": 357,
+      "isrc": "US39N0400300"
+    },
+    {
+      "artist": "Arabian Prince",
+      "title": "Panic Zone",
+      "services": {
+        "qobuz": "122262080"
+      },
+      "album": "Innovative Life",
+      "duration": 213,
+      "isrc": "US2S70892008"
+    },
+    {
+      "artist": "Break Machine",
+      "title": "Street Dance",
+      "services": {
+        "qobuz": "1397683"
+      },
+      "album": "Street Dance",
+      "duration": 389,
+      "isrc": "FR6V80878805"
+    },
+    {
+      "artist": "Ollie & Jerry",
+      "title": "Breakin'...There's No Stopping Us",
+      "services": {
+        "qobuz": "58075992"
+      },
+      "album": "Classic 80s Movie Songs",
+      "duration": 219,
+      "isrc": "USUR10301342"
+    },
+    {
+      "artist": "Pretty Tony",
+      "title": "Fix It In The Mix",
+      "services": {
+        "qobuz": "74432052"
+      },
+      "album": "Fix It In The Mix",
+      "duration": 360,
+      "isrc": "USGZ20716905"
+    },
+    {
+      "artist": "Electrik Funk",
+      "title": "On a Journey",
+      "services": {
+        "qobuz": "9352967"
+      },
+      "album": "Prelude's Greatest Hits, Vol. 6",
+      "duration": 341,
+      "isrc": "CAU118207796"
+    },
+    {
+      "artist": "Timbaland",
+      "title": "The Way I Are",
+      "services": {
+        "qobuz": "4269711"
+      },
+      "album": "Shock Value",
+      "duration": 179,
+      "isrc": "USUM70722806"
+    },
+    {
+      "artist": "Dominatrix",
+      "title": "The Dominatrix Sleeps Tonight",
+      "services": {
+        "qobuz": "150860595"
+      },
+      "album": "The Dominatrix Sleeps Tonight",
+      "duration": 213,
+      "isrc": "US4F92201010"
+    },
+    {
+      "artist": "Miscellaneous",
+      "title": "As The World Keeps Turning",
+      "services": {
+        "qobuz": "4298727"
+      },
+      "album": "Dr. Dre Presents... The Aftermath",
+      "duration": 283,
+      "isrc": "USIR19601098"
+    },
+    {
+      "artist": "Electro Lounge All Stars, Ibiza DJ Rockerz, Ibiza Deep House Lounge",
+      "title": "Hot Bodies on the Beach",
+      "services": {
+        "qobuz": "84007178"
+      },
+      "album": "Super Chillout EDM Carnival Beats Club Mix 2020",
+      "duration": 224,
+      "isrc": "PLS921804965"
+    },
+    {
+      "artist": "Fearless Four",
+      "title": "Dedication",
+      "services": {
+        "qobuz": "171491570"
+      },
+      "album": "Tuff City Records: Original Old School Recordings, Vol. 1",
+      "duration": 340,
+      "isrc": "QMZ961114699"
+    },
+    {
+      "artist": "Chief Rocker Busy Bee",
+      "title": "Busy Bee vs kool moe Dee The First battle in Hiphop",
+      "services": {
+        "qobuz": "71866645"
+      },
+      "album": "Pioneers of Hip-Hop - Vol One",
+      "duration": 735,
+      "isrc": "USHM20634168"
+    },
+    {
+      "artist": "Def Star Audio Emperor",
+      "title": "Offline",
+      "services": {
+        "qobuz": "353996741"
+      },
+      "album": "For Meget",
+      "duration": 93,
+      "isrc": "QMFME2500299"
+    },
+    {
+      "artist": "N.Y.C. Cutter",
+      "title": "D.J. Cuttin",
+      "services": {
+        "qobuz": "390845396"
+      },
+      "album": "D.J. Cuttin",
+      "duration": 290,
+      "isrc": "QZLBC2601953"
+    },
+    {
+      "artist": "Mantronix",
+      "title": "Needle To The Groove",
+      "services": {
+        "qobuz": "4688337"
+      },
+      "album": "Mantronix",
+      "duration": 224,
+      "isrc": "GBAAA0500280"
+    },
+    {
+      "artist": "World Class Wreckin Cru",
+      "title": "Turn off the lights",
+      "services": {
+        "qobuz": "99100196"
+      },
+      "album": "greatest hits plus",
+      "duration": 349,
+      "isrc": "USCGJ0668475"
+    },
+    {
+      "artist": "D.ST.",
+      "title": "Home Of Hip Hop",
+      "services": {
+        "qobuz": "7172571"
+      },
+      "album": "Beat Freaks",
+      "duration": 231,
+      "isrc": "GBHCD8650000"
+    },
+    {
+      "artist": "Rock Master Scott",
+      "title": "The Request Line",
+      "services": {
+        "qobuz": "79199652"
+      },
+      "album": "Request Line / The Roof Is On Fire",
+      "duration": 406,
+      "isrc": "NLP438400003"
+    },
+    {
+      "artist": "Colde",
+      "title": "Star",
+      "services": {
+        "qobuz": "215812153"
+      },
+      "album": "See You in My 19th Life, Pt. 2",
+      "duration": 220,
+      "isrc": "KRA492300561"
+    },
+    {
+      "artist": "MC Craig \"G\"",
+      "title": "Shout [Rap Version]",
+      "services": {
+        "qobuz": "390845211"
+      },
+      "album": "Shout",
+      "duration": 278,
+      "isrc": "QZLBC2601954"
+    },
+    {
+      "artist": "Freestyle",
+      "title": "Don't Stop The Rock",
+      "services": {
+        "qobuz": "9130468"
+      },
+      "album": "Don't Stop The Rock",
+      "duration": 332,
+      "isrc": "USGZ20716691"
+    },
+    {
+      "artist": "Blacastan",
+      "title": "Dynamic Duo",
+      "services": {
+        "qobuz": "67960348"
+      },
+      "album": "The Master of Reality",
+      "duration": 205,
+      "isrc": "USCGH1204652"
+    },
+    {
+      "artist": "Uncle Jamm's Army",
+      "title": "Dial-A-Freak",
+      "services": {
+        "qobuz": "31951765"
+      },
+      "album": "DJ-Kicks (DaM-Funk)",
+      "duration": 369,
+      "isrc": "DEG931691567"
+    },
+    {
+      "artist": "Tricky Tee",
+      "title": "Leave It to the Drums (Here Come the Drums)",
+      "services": {
+        "qobuz": "77200922"
+      },
+      "album": "DJ Cerock: Throwback Attack",
+      "duration": 92,
+      "isrc": "USWR38500670"
+    },
+    {
+      "artist": "Bucks Fizz",
+      "title": "Oh Suzanne",
+      "services": {
+        "qobuz": "8712316"
+      },
+      "album": "The Best Of The Lost Masters...And More!",
+      "duration": 397,
+      "isrc": "GBARL0600989"
+    },
+    {
+      "artist": "The Buttertones",
+      "title": "Awesome Monster",
+      "services": {
+        "qobuz": "348247165"
+      },
+      "album": "Face to Face With Fantasy",
+      "duration": 145,
+      "isrc": "TCAIF2420920"
+    },
+    {
+      "artist": "Freddie James",
+      "title": "Get up and Boogie",
+      "services": {
+        "qobuz": "35855746"
+      },
+      "album": "The Original Masters, Vol. 4 the Music History of the Disco",
+      "duration": 420,
+      "isrc": "GB7LE0900272"
+    },
+    {
+      "artist": "12:41",
+      "title": "Success Is the Word",
+      "services": {
+        "qobuz": "77202107"
+      },
+      "album": "The Rap Pack",
+      "duration": 250,
+      "isrc": "USWR30753150"
+    },
+    {
+      "artist": "Studio Allstars",
+      "title": "Baby Got Back - (Tribute to Sir Mix-a-lot)",
+      "services": {
+        "qobuz": "89309557"
+      },
+      "album": "All American Rap/Hip Hop",
+      "duration": 267,
+      "isrc": "GBQRF0813896"
+    },
+    {
+      "artist": "T-la Rock",
+      "title": "Breaking Bells (Club)",
+      "services": {
+        "qobuz": "77202850"
+      },
+      "album": "King of the Beats (Anthology 1985-1988)",
+      "duration": 325,
+      "isrc": "USWR30753203"
+    },
+    {
+      "artist": "James",
+      "title": "She's A Star",
+      "services": {
+        "qobuz": "4388863"
+      },
+      "album": "Fresh As A Daisy - The Singles",
+      "duration": 219,
+      "isrc": "GBF089607522"
+    },
+    {
+      "artist": "Skinny Boys",
+      "title": "Rip the Cut",
+      "services": {
+        "qobuz": "77213732"
+      },
+      "album": "Weightless",
+      "duration": 168,
+      "isrc": "USWR31651508"
+    },
+    {
+      "artist": "Mc Chill",
+      "title": "Downbeats (Beat Them Down)",
+      "services": {
+        "qobuz": "92917962"
+      },
+      "album": "Downbeats (Beat Them Down)",
+      "duration": 408,
+      "isrc": "USWR38501117"
+    },
+    {
+      "artist": "The Hollies",
+      "title": "Draggin' My Heels",
+      "services": {
+        "qobuz": "6141327"
+      },
+      "album": "Down To The Sea And Back: The Continuing Journey Of The Balearic Beat. Volume 1.",
+      "duration": 392,
+      "isrc": "GB4XK1000110"
+    },
+    {
+      "artist": "The Toxic Avenger",
+      "title": "Bad Girls Need Love Too (Extended Version)",
+      "services": {
+        "qobuz": "44867007"
+      },
+      "album": "Bad Girls Need Love Too",
+      "duration": 294,
+      "isrc": "FR9EJ1700010"
+    },
+    {
+      "artist": "Asleep At The Wheel",
+      "title": "Bring It On Down To My House",
+      "services": {
+        "qobuz": "4683265"
+      },
+      "album": "Asleep At The Wheel Tribute To The Music Of Bob Wills And The Texas Playboys",
+      "duration": 168,
+      "isrc": "USCN19300206"
+    },
+    {
+      "artist": "L.A. Dream Team",
+      "title": "Rockberry Jam",
+      "services": {
+        "qobuz": "8564577"
+      },
+      "album": "Kings Of The West Coast",
+      "duration": 316,
+      "isrc": "USUM71215740"
+    },
+    {
+      "artist": "The Classical Two",
+      "title": "Rap's New Generation PT2 (2025)",
+      "services": {
+        "qobuz": "341278348"
+      },
+      "album": "Rap's New Generation PT2 (2025)",
+      "duration": 199,
+      "isrc": "QZTB42577103"
+    },
+    {
+      "artist": "Dynamix II",
+      "title": "Just Give The DJ A Break",
+      "services": {
+        "qobuz": "5915682"
+      },
+      "album": "Dynamix II - The Album",
+      "duration": 276,
+      "isrc": "USEPW0800436"
+    },
+    {
+      "artist": "Furac\u00e3o 2000",
+      "title": "Rap Will Never Die (Mel\u00f4 da Pantera N\u00b0 4)",
+      "services": {
+        "qobuz": "160761911"
+      },
+      "album": "Furac\u00e3o 2000 (1988)",
+      "duration": 269,
+      "isrc": "ZZOPM2115711"
+    },
+    {
+      "artist": "Ajcjack",
+      "title": "Original Concept",
+      "services": {
+        "qobuz": "317296343"
+      },
+      "album": "Can You Feel It",
+      "duration": 156,
+      "isrc": "USCGJ2530725"
+    },
+    {
+      "artist": "Full Force",
+      "title": "Alice",
+      "services": {
+        "qobuz": "3371896"
+      },
+      "album": "Full Force + Bonus Tracks",
+      "duration": 354,
+      "isrc": "USSM18510023"
+    },
+    {
+      "artist": "Whistle",
+      "title": "(Nothing Serious) Just Buggin'",
+      "services": {
+        "qobuz": "32717656"
+      },
+      "album": "Whistle",
+      "duration": 307,
+      "isrc": "US39N0400399"
+    },
+    {
+      "artist": "Mc Shan",
+      "title": "He Cuts so Fresh (Original 12\" Vocal Version)",
+      "services": {
+        "qobuz": "11564325"
+      },
+      "album": "Down By Law",
+      "duration": 309,
+      "isrc": "USRH10902654"
+    }
+  ]
+}

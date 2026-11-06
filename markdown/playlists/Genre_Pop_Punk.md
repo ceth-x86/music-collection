@@ -1,0 +1,108 @@
+# Genre: Pop Punk
+
+Imported genre playlist: Pop Punk.
+
+Services: `qobuz:66736703` `tidal:be53a8ad-a57a-4f55-98c7-3a26c7c11679`
+
+## Tracks (100)
+
+- **Descendents** — Suburban Home [Milo Goes to College] (1:40) `isrc:USA370538803` `qobuz:150069632`
+- **Shonen Knife** — Twist Barbie [Shonen Knife on Audiotree Live] (2:18) `isrc:QM99V1810102` `qobuz:92309824`
+- **ALL** — She's My Ex [Allroy's Revenge] (3:17) `isrc:USA370538662` `qobuz:63484817`
+- **Screeching Weasel** — My Brain Hurts [My Brain Hurts] (3:07) `isrc:USB750512014` `qobuz:221334650`
+- **Big Star** — Big Black Car [Complete Third] (4:41) `isrc:QMWHB1606971` `qobuz:35533252`
+- **The Mitchell Brothers** — Excuse My Brother [A Breath Of Fresh Attire] (5:20) `isrc:GBAHT0500342` `qobuz:2684079`
+- **The Queers** — Punk Rock Girls [Don't Back Down] (2:42) `isrc:USB750700062` `qobuz:273836450`
+- **J. Church** — Yellow, Blue and Green [Open Road: The Allied Years] (3:17) `isrc:US4KC0722808` `qobuz:34908494`
+- **Pansy Division** — Fem in a Black Leather Jacket [The Essential Pansy Division] (2:03) `isrc:QMPKX1602082` `qobuz:185672357`
+- **The Muffs** — Lucky Guy [The Muffs] (2:47) `isrc:USWB10104467` `qobuz:2005863`
+- **Green Day** — Basket Case [Dookie] (3:02) `isrc:USRE11600554` `qobuz:35615398`
+- **The Offspring** — Self Esteem [Smash] (4:17) `isrc:USEP40710208` `qobuz:77654452`
+- **Smoking Popes** — Need You Around [At Metro] (3:45) `isrc:USVIC0629515` `qobuz:118264755`
+- **Ahmad Jamal** — The Girl Next Door [Ahmad's Blues] (3:26) `isrc:USGR10200602` `qobuz:3955089`
+- **The Mr. T Experience** — Even Hitler Had a Girlfriend [Our Bodies Our Selves] (2:39) `isrc:USA561079818` `qobuz:70951785`
+- **Nerf Herder** — Van Halen [Nerf Herder] (3:38) `isrc:USAR19600250` `qobuz:214700`
+- **The Vandals** — My Girlfriend's Dead [Hitler Bad, Vandals Good] (2:40) `isrc:USNRR0400198` `qobuz:16846559`
+- **blink-182** — Dammit [Dude Ranch] (2:45) `isrc:USCR29752442` `qobuz:115401065`
+- **MxPx** — Punk Rawk Show [Teenage Politics] (2:32) `isrc:USTN19555645` `qobuz:1958604`
+- **Fenix TX** — All My Fault [Fenix TX] (2:48) `isrc:USMC19959243` `qobuz:3880876`
+- **Chixdiggit!** — Chupacabras [Born on the First of July] (2:00) `isrc:USFW40501604` `qobuz:347862285`
+- **Huntingtons** — Alison's The Bomb [Ciao Italia! Live At Punk Rock Raduno 5] (2:00) `isrc:QZTB32478956` `qobuz:282824171`
+- **The Ataris** — San Dimas High School Football Rules [Blue Skies, Broken Hearts...Next 12 Exits] (2:47) `isrc:USKFR0410058` `qobuz:17947169`
+- **The Bouncing Souls** — Hopeless Romantic [Hopeless Romantic] (2:07) `isrc:USEP40343301` `qobuz:77630865`
+- **Lit** — My Own Worst Enemy [A Place In The Sun] (2:49) `isrc:USRC19808159` `qobuz:208867`
+- **GOB** — Soda [Too Late… No Friends] (1:35) `isrc:CAN119900201` `qobuz:127550405`
+- **Allister** — Somewhere On Fullerton [Last Stop Suburbia] (2:39) `isrc:USDTR0300111` `qobuz:134273269`
+- **Taylor Swift** — Guilty as Sin? [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY] (4:14) `isrc:USUG12401036` `qobuz:263179387`
+- **SR-71** — Right Now [Now You See Inside] (2:47) `isrc:USRC10000206` `qobuz:209334`
+- **Mest** — Drawing Board [Destination Unknown] (3:31) `isrc:USMV20000072` `qobuz:2113875`
+- **Jamies Elsewhere** — The Illusionist (feat. Tyler Carter) [Rebel-Revive] (3:18) `isrc:TCABT1491653` `qobuz:124039021`
+- **RIDDLIN' KIDS** — I Feel Fine [Hurry Up and Wait] (2:37) `isrc:USSM10114040` `qobuz:180980073`
+- **Bodyjar** — Not the Same [How It Works] (3:09) `isrc:USA2P1634993` `qobuz:285221885`
+- **Slick Shoes** — Angel [Wake Up Screaming] (2:16) `isrc:USTN10053150` `qobuz:931171`
+- **Sum 41** — Fat Lip [All Killer, No Filler] (2:58) `isrc:USIR20110124` `qobuz:3879618`
+- **Alkaline Trio** — Stupid Kid [From Here To Infirmary] (2:23) `isrc:USVR90235304` `qobuz:389022491`
+- **Rufio** — Above Me [Perhaps, I Suppose...] (3:12) `isrc:US28B0500370` `qobuz:59926706`
+- **The Apers** — Eyes Wide Open [S/T] (2:46) `isrc:US4ZV1200092` `qobuz:60616871`
+- **New Found Glory** — My Friends Over You [Sticks And Stones] (3:39) `isrc:USMC10200363` `qobuz:64367367`
+- **Good Charlotte** — The Anthem [The Young and The Hopeless] (2:55) `isrc:USSM10209827` `qobuz:419471`
+- **Simple Plan** — I'd Do Anything [No Pads, No Helmets...Just Balls] (3:17) `isrc:USAT20200123` `qobuz:47765956`
+- **Avril Lavigne** — Sk8er Boi [Let Go] (3:24) `isrc:USAR10200229` `qobuz:12986019`
+- **Bowling For Soup** — Girl All the Bad Guys Want [Drunk Enough To Dance] (3:17) `isrc:USJI10200080` `qobuz:7602008`
+- **The Starting Line** — The Best Of Me [The Make Yourself At Home - EP] (4:44) `isrc:USDTR0300060` `qobuz:134273240`
+- **Something Corporate** — Punk Rock Princess [Played In Space: The Best of Something Corporate] (3:53) `isrc:USMC10111819` `qobuz:115882484`
+- **Midtown** — Give It Up [Forget What You Know] (3:39) `isrc:USSM10404531` `qobuz:47160723`
+- **Home Grown** — You're Not Alone [Kings Of Pop] (3:45) `isrc:USDTR0300118` `qobuz:134269986`
+- **Tsunami Bomb** — Take the Reins [Live at the Glasshouse] (3:01) `isrc:QM6XS2202781` `qobuz:196256809`
+- **The All-American Rejects** — Swing, Swing [The All-American Rejects] (3:53) `isrc:USDW10200529` `qobuz:61110335`
+- **Yellowcard** — Ocean Avenue [Ocean Avenue] (3:17) `isrc:USCA20300233` `qobuz:4465269`
+- **Motion City Soundtrack** — The Future Freaks Me Out [I Am The Movie] (3:36) `isrc:USEP40377103` `qobuz:77639852`
+- **Spitalfield** — I Loved The Way She Said L.A. [Remember Right Now] (3:18) `isrc:USVIC0320204` `qobuz:118265757`
+- **Dirty Vegas** — Lost Not Found [Days Go By (The Retrospective)] (4:05) `isrc:GBAYE0200655` `qobuz:337534487`
+- **Autopilot Off** — Clockwork [Make A Sound] (3:03) `isrc:USIR20300476` `qobuz:57225942`
+- **Sugarcult** — Memory [Bouncing Off The Walls] (3:43) `isrc:USADD0330504` `qobuz:61897149`
+- **The Matches** — Chain Me Free [E Von Dahl Killed the Locals] (3:14) `isrc:TCADR1806979` `qobuz:124916659`
+- **Relient k** — Be My Escape [Mmhmm] (4:00) `isrc:USGOT0406068` `qobuz:102412592`
+- **The F-Ups** — Lazy Generation [The F-Ups] (2:24) `isrc:USCA20400457` `qobuz:4914682`
+- **The Academy Is...** — Slow Down [EMO Bangers] (4:02) `isrc:US56V0407103` `qobuz:252969248`
+- **Fall Out Boy** — Sugar, We're Goin Down [From Under The Cork Tree] (3:49) `isrc:USIR20500201` `qobuz:363229677`
+- **Cartel** — Honestly [Chroma] (3:27) `isrc:US28B0500335` `qobuz:46990063`
+- **Houston Calls** — Bob and Bonnie [A Collection of Short Stories] (3:45) `isrc:GBAJE0503700` `qobuz:144021793`
+- **Hit The Lights** — Bodybag [This is a Stick Up…don't Make It a Murder] (3:09) `isrc:US72W0610186` `qobuz:80183777`
+- **Cute Is What We Aim For** — The Curse of Curves [The Curse Of Curves (Digital Download)] (3:23) `isrc:US56V0608708` `qobuz:2932720`
+- **Boys Like Girls** — The Great Escape [Boys Like Girls] (3:26) `isrc:USSM10603069` `qobuz:46882384`
+- **Alanis Morissette** — You Oughta Know (Jimmy the Saint Blend) / Your House (A Capella) [2015 Remaster] [Jagged Little Pill] (8:10) `isrc:USMV21500048` `qobuz:27891015`
+- **Paramore** — Misery Business [Riot!] (3:31) `isrc:USAT21300089` `qobuz:11091746`
+- **All Time Low** — Dear Maria, Count Me In [Dear Maria, Count Me In] (3:02) `isrc:USHR20747017` `qobuz:120902917`
+- **We The Kings** — Check Yes, Juliet [So Far] (3:40) `isrc:USKFE0700003` `qobuz:388781862`
+- **Mayday Parade** — Jamie All Over [A Lesson In Romantics] (3:35) `isrc:US5260709901` `qobuz:39283665`
+- **Faber Drive** — Tongue Tied [Seven Second Surgery] (3:15) `isrc:CAB392504831` `qobuz:412868168`
+- **Valencia** — The Space Between [This Could be a Possibility] (3:37) `isrc:USBAL0500001` `qobuz:246038196`
+- **The Maine** — Into Your Arms [Can't Stop Won't Stop] (3:59) `isrc:US5260811205` `qobuz:38761772`
+- **Forever The Sickest Kids** — Whoa Oh! (Me vs Everyone) [Underdog Alma Mater] (3:25) `isrc:USUM70808193` `qobuz:22393753`
+- **Hey Monday** — Homecoming [Hold On Tight] (3:58) `isrc:USSM10803206` `qobuz:441458`
+- **The Summer Set** — Chelsea [Love Like This] (2:40) `isrc:USRZR0904703` `qobuz:54447044`
+- **Every Avenue** — Tell Me I'm A Wreck [Picture Perfect] (3:40) `isrc:US5260912803` `qobuz:41145882`
+- **Fireworks** — Detroit [All I Have to Offer Is My Own Confusion] (3:56) `isrc:US72W1110795` `qobuz:80188422`
+- **Man Overboard** — Love Your Friends, Die Laughing [Man Overboard] (2:21) `isrc:USEK71217313` `qobuz:383053367`
+- **The Wonder Years** — Came Out Swinging [Suburbia I've Given You All and Now I'm Nothing] (4:04) `isrc:USHR21166002` `qobuz:120901804`
+- **Transit** — Long Lost Friends [Listen & Forgive] (3:34) `isrc:USEK71114302` `qobuz:380480294`
+- **State Champs** — Secrets [Around the World and Back] (3:44) `isrc:USSTT1500132` `qobuz:322153172`
+- **The Story So Far** — Quicksand [Under Soil and Dirt] (2:38) `isrc:USSTT1100026` `qobuz:322148924`
+- **Real Friends** — I've Given Up on You [Put Yourself Back Together] (2:44) `isrc:USQY51379754` `qobuz:96715878`
+- **Neck Deep** — Can't Kick Up The Roots [Life's Not Out To Get You] (2:49) `isrc:USHR21579003` `qobuz:120898344`
+- **Knuckle Puck** — Pretense [Copacetic] (3:05) `isrc:USEK71527810` `qobuz:385576051`
+- **Seaway** — Best Mistake [Colour Blind] (3:17) `isrc:USSTT1500144` `qobuz:322153010`
+- **As It Is** — Dial Tones [Never Happy, Ever After] (3:20) `isrc:US5261520899` `qobuz:31130473`
+- **Waterparks** — Stupid for You [Double Dare] (3:11) `isrc:US3X51636703` `qobuz:36025283`
+- **Boston Manor** — Laika [Be Nothing.] (3:17) `isrc:USSTT1600061` `qobuz:322129579`
+- **WSTR** — Footprints [Red, Green Or Inbetween] (3:09) `isrc:USZZ81610027` `qobuz:120898893`
+- **Stand Atlantic** — Lavender Bones [Skinny Dipping] (3:24) `isrc:USHR21811801` `qobuz:120897665`
+- **Alex Melton** — my ex's best friend [my ex's best friend (Blink Version)] (2:36) `isrc:QZNWU2141575` `qobuz:136496703`
+- **KennyHoopla** — how will i rest in peace if i'm buried by a highway?// [how will i rest in peace if i'm buried by a highway?//] (3:38) `isrc:USQX92000282` `qobuz:92386268`
+- **jxdn** — ANGELS & DEMONS [ANGELS & DEMONS] (2:40) `isrc:USAT22003132` `qobuz:94312783`
+- **Meet Me @ The Altar** — Garden [Garden] (3:40) `isrc:USAT22005996` `qobuz:103131867`
+- **Willow** — t r a n s p a r e n t s o u l [lately I feel EVERYTHING] (2:48) `isrc:QMJMT2103571` `qobuz:122031268`
+- **Maggie Lindemann** — break me! [SUCKERPUNCH (deluxe version)] (2:33) `isrc:QZMLX2000065` `qobuz:251702009`
+- **The Linda Lindas** — Growing Up [Growing Up] (3:06) `isrc:USEP42145003` `qobuz:143179099`
+- **Hot Milk** — Candy Coated Lie$ [Candy Coated Lie$] (2:57) `isrc:TCAEN1932970` `qobuz:125675808`

@@ -1,0 +1,960 @@
+{
+  "name": "Genre: Psytrance",
+  "services": {
+    "qobuz": "66721344",
+    "tidal": "93ddaab0-96f2-4837-9984-bf0c519d09ee"
+  },
+  "description": "Imported genre playlist: Psytrance.",
+  "tracks": [
+    {
+      "artist": "Astral Projection",
+      "title": "Mahadeva '99",
+      "services": {
+        "qobuz": "7833446"
+      },
+      "album": "Another World",
+      "duration": 502,
+      "isrc": "USA2P0600653"
+    },
+    {
+      "artist": "Tujiko Noriko",
+      "title": "Gondola Song",
+      "services": {
+        "qobuz": "89520299"
+      },
+      "album": "Kuro (OST)",
+      "duration": 58,
+      "isrc": "USYBL1900554"
+    },
+    {
+      "artist": "Astral Projection",
+      "title": "Butterfly Trip",
+      "services": {
+        "qobuz": "5770727"
+      },
+      "album": "Trust In Trance 2",
+      "duration": 520,
+      "isrc": "USA2P0600718"
+    },
+    {
+      "artist": "Electric Universe",
+      "title": "One Love",
+      "services": {
+        "qobuz": "5967696"
+      },
+      "album": "One Love",
+      "duration": 677,
+      "isrc": "USA2P0606554"
+    },
+    {
+      "artist": "Total Eclipse",
+      "title": "Blade Runner",
+      "services": {
+        "qobuz": "127588180"
+      },
+      "album": "Bordeaux Live 1997",
+      "duration": 554,
+      "isrc": "GBKQU2184286"
+    },
+    {
+      "artist": "The Infinity Project",
+      "title": "Feeling Weird",
+      "services": {
+        "qobuz": "113580298"
+      },
+      "album": "Raja Ram's Anthology",
+      "duration": 341,
+      "isrc": "GBKQU1458178"
+    },
+    {
+      "artist": "Hallucinogen",
+      "title": "L.S.D.",
+      "services": {
+        "qobuz": "5762598"
+      },
+      "album": "Twisted",
+      "duration": 403,
+      "isrc": "USA2P0300457"
+    },
+    {
+      "artist": "Spectral",
+      "title": "Moonstone",
+      "services": {
+        "qobuz": "220717386"
+      },
+      "album": "Retrodelic Vibes 6",
+      "duration": 431,
+      "isrc": "IL1211808807"
+    },
+    {
+      "artist": "Technossomy",
+      "title": "Pyramid",
+      "services": {
+        "qobuz": "146363606"
+      },
+      "album": "Synthetic Flesh",
+      "duration": 581,
+      "isrc": "QZFZ72207406"
+    },
+    {
+      "artist": "Etnica",
+      "title": "Vicky's Dream",
+      "services": {
+        "qobuz": "211943291"
+      },
+      "album": "The Juggeling Alchemists Under The Black Light",
+      "duration": 550,
+      "isrc": "GBKQU2350808"
+    },
+    {
+      "artist": "Man With No Name",
+      "title": "Azymuth",
+      "services": {
+        "qobuz": "2343682"
+      },
+      "album": "Moment of Truth",
+      "duration": 478,
+      "isrc": "GBBKS9600084"
+    },
+    {
+      "artist": "Cosmosis",
+      "title": "Cannabanoid",
+      "services": {
+        "qobuz": "83606696"
+      },
+      "album": "Cosmology",
+      "duration": 518,
+      "isrc": "GBDLM0790047"
+    },
+    {
+      "artist": "Doof",
+      "title": "Let's Turn On",
+      "services": {
+        "qobuz": "111773817"
+      },
+      "album": "Let's Turn On - Remixed & Remastered",
+      "duration": 579,
+      "isrc": "GBLV61906627"
+    },
+    {
+      "artist": "Transwave",
+      "title": "Land of Freedom",
+      "services": {
+        "qobuz": "1451100"
+      },
+      "album": "Phototropic",
+      "duration": 445,
+      "isrc": "FR6V80931085"
+    },
+    {
+      "artist": "Bliss",
+      "title": "Trippy Blinders",
+      "services": {
+        "qobuz": "141935589"
+      },
+      "album": "Sacred Garden, Vol. 2",
+      "duration": 470,
+      "isrc": "USA2P2113185"
+    },
+    {
+      "artist": "Space Tribe",
+      "title": "Sonic Mandala",
+      "services": {
+        "qobuz": "95821176"
+      },
+      "album": "Sonic Mandala",
+      "duration": 567,
+      "isrc": "USA2P0600034"
+    },
+    {
+      "artist": "Ace Ventura",
+      "title": "Biological Computer",
+      "services": {
+        "qobuz": "84457205"
+      },
+      "album": "Biological Computer",
+      "duration": 393,
+      "isrc": "DKZVA1761314"
+    },
+    {
+      "artist": "Dimension 5",
+      "title": "Iron Sun",
+      "services": {
+        "qobuz": "113587154"
+      },
+      "album": "Transdimensional",
+      "duration": 537,
+      "isrc": "SEYOK0994533"
+    },
+    {
+      "artist": "Amy Macdonald",
+      "title": "This Is The Life",
+      "services": {
+        "qobuz": "4302503"
+      },
+      "album": "This is The Life",
+      "duration": 184,
+      "isrc": "GBUM70607840"
+    },
+    {
+      "artist": "MFG",
+      "title": "When We Dream",
+      "services": {
+        "qobuz": "210620746"
+      },
+      "album": "Lost Treasures",
+      "duration": 539,
+      "isrc": "UKR6V2341458"
+    },
+    {
+      "artist": "Pleiadians",
+      "title": "Time Dilation",
+      "services": {
+        "qobuz": "296392987"
+      },
+      "album": "Single Collection",
+      "duration": 598,
+      "isrc": "GBLV62401165"
+    },
+    {
+      "artist": "Shakta",
+      "title": "Silicon Trip",
+      "services": {
+        "qobuz": "204500117"
+      },
+      "album": "Silicon Trip",
+      "duration": 449,
+      "isrc": "SEYOK1933691"
+    },
+    {
+      "artist": "Tandu",
+      "title": "New Aura",
+      "services": {
+        "qobuz": "423450934"
+      },
+      "album": "Multimoods",
+      "duration": 610,
+      "isrc": "USQY50942286"
+    },
+    {
+      "artist": "Beckenhorst Singers",
+      "title": "I Want to Walk as a Child of the Light",
+      "services": {
+        "qobuz": "265701131"
+      },
+      "album": "Beckenhorst Choral Music Fall 2024",
+      "duration": 295,
+      "isrc": "USHM22439932"
+    },
+    {
+      "artist": "UX",
+      "title": "Master Of The Universe",
+      "services": {
+        "qobuz": "112450465"
+      },
+      "album": "Lucid Flux",
+      "duration": 605,
+      "isrc": "GBKQU1462050"
+    },
+    {
+      "artist": "Oforia",
+      "title": "Delirious",
+      "services": {
+        "qobuz": "423469024"
+      },
+      "album": "Delirious",
+      "duration": 545,
+      "isrc": "USQY50942307"
+    },
+    {
+      "artist": "Pigs In Space",
+      "title": "Invisible Contact",
+      "services": {
+        "qobuz": "424961010"
+      },
+      "album": "Pigs in Space",
+      "duration": 489,
+      "isrc": "USQY50942291"
+    },
+    {
+      "artist": "Sun Project",
+      "title": "I Feel",
+      "services": {
+        "qobuz": "53353520"
+      },
+      "album": "I Feel",
+      "duration": 397,
+      "isrc": "UKACT1864820"
+    },
+    {
+      "artist": "The Muses Rapt",
+      "title": "Spiritual Healing",
+      "services": {
+        "qobuz": "83477196"
+      },
+      "album": "Dream Creation - Sound of Freedom",
+      "duration": 567,
+      "isrc": "GBDLM0790114"
+    },
+    {
+      "artist": "Blue Planet Corporation",
+      "title": "Crystal",
+      "services": {
+        "qobuz": "113501970"
+      },
+      "album": "A Blueprint For Survival",
+      "duration": 527,
+      "isrc": "GBLV61906593"
+    },
+    {
+      "artist": "Human Blue",
+      "title": "Trust In Rythm",
+      "services": {
+        "qobuz": "26071831"
+      },
+      "album": "Ice",
+      "duration": 557,
+      "isrc": "USLZJ1537358"
+    },
+    {
+      "artist": "Infected Mushroom",
+      "title": "The Gathering",
+      "services": {
+        "qobuz": "47944989"
+      },
+      "album": "The Gathering",
+      "duration": 463,
+      "isrc": "IL1089901069"
+    },
+    {
+      "artist": "Orichalcum",
+      "title": "Wicked Mille",
+      "services": {
+        "qobuz": "113247327"
+      },
+      "album": "Goa Classics 2",
+      "duration": 556,
+      "isrc": "GBKVK0600783"
+    },
+    {
+      "artist": "Psysex",
+      "title": "Experimental Procedure",
+      "services": {
+        "qobuz": "59854510"
+      },
+      "album": "Expressions of Rage",
+      "duration": 540,
+      "isrc": "USA2P1133029"
+    },
+    {
+      "artist": "Space Cat",
+      "title": "Funky",
+      "services": {
+        "qobuz": "425911453"
+      },
+      "album": "Beam Me Up",
+      "duration": 644,
+      "isrc": "IL1210905808"
+    },
+    {
+      "artist": "X Dream",
+      "title": "Coming Soon",
+      "services": {
+        "qobuz": "15773175"
+      },
+      "album": "The Best 1991-2001",
+      "duration": 426,
+      "isrc": "USA2P0610419"
+    },
+    {
+      "artist": "Yahel",
+      "title": "Voyage",
+      "services": {
+        "qobuz": "109731260"
+      },
+      "album": "Voyage",
+      "duration": 389,
+      "isrc": "GBKQU1839259"
+    },
+    {
+      "artist": "Skazi",
+      "title": "Hit 'N' Run",
+      "services": {
+        "qobuz": "92068036"
+      },
+      "album": "Total Anarchy",
+      "duration": 458,
+      "isrc": "USA560977278"
+    },
+    {
+      "artist": "Sesto Sento",
+      "title": "Key To The Universe",
+      "services": {
+        "qobuz": "111695516"
+      },
+      "album": "The Melody Factory",
+      "duration": 337,
+      "isrc": "GBKQU1540255"
+    },
+    {
+      "artist": "Logic Bomb",
+      "title": "Unlimited",
+      "services": {
+        "qobuz": "113615101"
+      },
+      "album": "Unlimited",
+      "duration": 464,
+      "isrc": "GBKQU1458148"
+    },
+    {
+      "artist": "1200 Micrograms",
+      "title": "Mescaline",
+      "services": {
+        "qobuz": "7330621"
+      },
+      "album": "1200 Micrograms",
+      "duration": 393,
+      "isrc": "USQY50927731"
+    },
+    {
+      "artist": "Astrix",
+      "title": "Deep Jungle Walk",
+      "services": {
+        "qobuz": "59835217"
+      },
+      "album": "He.art",
+      "duration": 554,
+      "isrc": "USA2P1611449"
+    },
+    {
+      "artist": "Alien Project",
+      "title": "Aztechno Dream",
+      "services": {
+        "qobuz": "5825741"
+      },
+      "album": "Aztechno Dream",
+      "duration": 488,
+      "isrc": "GBKVK0500035"
+    },
+    {
+      "artist": "Cosma (IL)",
+      "title": "Nonstop",
+      "services": {
+        "qobuz": "212062346"
+      },
+      "album": "Nonstop",
+      "duration": 435,
+      "isrc": "UKR6V2372095"
+    },
+    {
+      "artist": "Wrecked Machines",
+      "title": "Rise",
+      "services": {
+        "qobuz": "358629258"
+      },
+      "album": "Rise",
+      "duration": 408,
+      "isrc": "NLRD52423862"
+    },
+    {
+      "artist": "Talamasca",
+      "title": "The Time Machine",
+      "services": {
+        "qobuz": "111430472"
+      },
+      "album": "The Time Machine",
+      "duration": 524,
+      "isrc": "GBKQU1587501"
+    },
+    {
+      "artist": "Sacred Bansuri",
+      "title": "Forest Dream",
+      "services": {
+        "qobuz": "211742966"
+      },
+      "album": "Forest Dream",
+      "duration": 156,
+      "isrc": "SE66H2300558"
+    },
+    {
+      "artist": "Ticon",
+      "title": "Back to Basic",
+      "services": {
+        "qobuz": "84461722"
+      },
+      "album": "Aero",
+      "duration": 488,
+      "isrc": "DKZVA1560760"
+    },
+    {
+      "artist": "Tokyo Blade",
+      "title": "The Lights of Soho",
+      "services": {
+        "qobuz": "314979328"
+      },
+      "album": "Dark Revolution",
+      "duration": 274,
+      "isrc": "UKJXT2000109"
+    },
+    {
+      "artist": "Son Kite",
+      "title": "Game & Watch",
+      "services": {
+        "qobuz": "84461708"
+      },
+      "album": "Colours",
+      "duration": 527,
+      "isrc": "DKZVA1460641"
+    },
+    {
+      "artist": "Absolum",
+      "title": "The Stomper",
+      "services": {
+        "qobuz": "23686868"
+      },
+      "album": "Inside The Sphere",
+      "duration": 448,
+      "isrc": "USA2P0501636"
+    },
+    {
+      "artist": "Vibe Tribe",
+      "title": "Melodrama",
+      "services": {
+        "qobuz": "147514364"
+      },
+      "album": "Melodrama",
+      "duration": 448,
+      "isrc": "IL4630400432"
+    },
+    {
+      "artist": "Sub6",
+      "title": "7th Son",
+      "services": {
+        "qobuz": "434189922"
+      },
+      "album": "Highlights",
+      "duration": 252,
+      "isrc": "UKR6V2174617"
+    },
+    {
+      "artist": "Aphid Moon",
+      "title": "Axel",
+      "services": {
+        "qobuz": "113613530"
+      },
+      "album": "Global Culture",
+      "duration": 455,
+      "isrc": "USA2P0605737"
+    },
+    {
+      "artist": "Killerwatts",
+      "title": "Freaky Family",
+      "services": {
+        "qobuz": "339968236"
+      },
+      "album": "Freaky Family",
+      "duration": 448,
+      "isrc": "GBKQU2554300"
+    },
+    {
+      "artist": "Loud",
+      "title": "5 Billion Stars",
+      "services": {
+        "qobuz": "109744651"
+      },
+      "album": "5 Billion Stars",
+      "duration": 725,
+      "isrc": "DKZVA2000410"
+    },
+    {
+      "artist": "U-Recken",
+      "title": "Let It Rain",
+      "services": {
+        "qobuz": "6151235"
+      },
+      "album": "Deeper Into Man",
+      "duration": 505,
+      "isrc": "USQY50940027"
+    },
+    {
+      "artist": "Protoculture",
+      "title": "Out of Reality",
+      "services": {
+        "qobuz": "113603781"
+      },
+      "album": "Circadians",
+      "duration": 460,
+      "isrc": "USA2P0605663"
+    },
+    {
+      "artist": "Goasia",
+      "title": "From Other Spaces",
+      "services": {
+        "qobuz": "113577126"
+      },
+      "album": "From Other Spaces",
+      "duration": 527,
+      "isrc": "SEYOK0994624"
+    },
+    {
+      "artist": "Filteria",
+      "title": "Filtertraces",
+      "services": {
+        "qobuz": "164266734"
+      },
+      "album": "Daze Of Our Lives",
+      "duration": 618,
+      "isrc": "SEYOK2219082"
+    },
+    {
+      "artist": "Ace Ventura",
+      "title": "Serenity Now",
+      "services": {
+        "qobuz": "73449062"
+      },
+      "album": "Rebirth",
+      "duration": 462,
+      "isrc": "DKZVA0810002"
+    },
+    {
+      "artist": "Xerox & Illumination",
+      "title": "Night Shift",
+      "services": {
+        "qobuz": "95106292"
+      },
+      "album": "Rmx",
+      "duration": 590,
+      "isrc": "USQY50932711"
+    },
+    {
+      "artist": "Psykovsky",
+      "title": "l'amour est bleu",
+      "services": {
+        "qobuz": "236569798"
+      },
+      "album": "Lubeauv\u044c",
+      "duration": 249,
+      "isrc": "QZDA62317428"
+    },
+    {
+      "artist": "Liquid Soul",
+      "title": "Love in Stereo",
+      "services": {
+        "qobuz": "84477416"
+      },
+      "album": "Love in Stereo",
+      "duration": 476,
+      "isrc": "DKZVA0800604"
+    },
+    {
+      "artist": "Khetzal",
+      "title": "Anamatha",
+      "services": {
+        "qobuz": "113599076"
+      },
+      "album": "Corolle",
+      "duration": 533,
+      "isrc": "SEYOK0994640"
+    },
+    {
+      "artist": "Freedom Fighters",
+      "title": "Era",
+      "services": {
+        "qobuz": "93637425"
+      },
+      "album": "Era",
+      "duration": 576,
+      "isrc": "UKR6V2031163"
+    },
+    {
+      "artist": "Richard Anthony",
+      "title": "Le sirop typhon",
+      "services": {
+        "qobuz": "4644092"
+      },
+      "album": "Les Plus Belles Chansons",
+      "duration": 209,
+      "isrc": "FRZ116900740"
+    },
+    {
+      "artist": "Atriohm",
+      "title": "Ukalen",
+      "services": {
+        "qobuz": "119704787"
+      },
+      "album": "Ukalen",
+      "duration": 472,
+      "isrc": "NLD910900010"
+    },
+    {
+      "artist": "Ajja",
+      "title": "Bebopper",
+      "services": {
+        "qobuz": "7469590"
+      },
+      "album": "Tulpa",
+      "duration": 457,
+      "isrc": "USA2P1295929"
+    },
+    {
+      "artist": "SYNC.EXE",
+      "title": "Kaleidoscope",
+      "services": {
+        "qobuz": "218016235"
+      },
+      "album": "Equinox II",
+      "duration": 164,
+      "isrc": "QM3DF2254222"
+    },
+    {
+      "artist": "Sonic Species",
+      "title": "Just Another Freak",
+      "services": {
+        "qobuz": "110431486"
+      },
+      "album": "Goa Session",
+      "duration": 411,
+      "isrc": "GBBYB1501906"
+    },
+    {
+      "artist": "Captain Hook",
+      "title": "Origin",
+      "services": {
+        "qobuz": "84394207"
+      },
+      "album": "Origin",
+      "duration": 610,
+      "isrc": "DKZVA1862080"
+    },
+    {
+      "artist": "Faders",
+      "title": "Psychedelic Theory",
+      "services": {
+        "qobuz": "110431488"
+      },
+      "album": "Goa Session",
+      "duration": 368,
+      "isrc": "GBBYB1501908"
+    },
+    {
+      "artist": "Morten Granau",
+      "title": "The Collective",
+      "services": {
+        "qobuz": "122015107"
+      },
+      "album": "Pack",
+      "duration": 501,
+      "isrc": "DEKC41500024"
+    },
+    {
+      "artist": "Outsiders",
+      "title": "Completely Different",
+      "services": {
+        "qobuz": "104342956"
+      },
+      "album": "Djantrix Collection 001",
+      "duration": 427,
+      "isrc": "USA2P1938031"
+    },
+    {
+      "artist": "Ludwig G\u00f6ransson",
+      "title": "Quantum Mechanics",
+      "services": {
+        "qobuz": "218691309"
+      },
+      "album": "Oppenheimer (Original Motion Picture Soundtrack)",
+      "duration": 180,
+      "isrc": "USQ4E2204393"
+    },
+    {
+      "artist": "Semargl",
+      "title": "In Outsiders",
+      "services": {
+        "qobuz": "426038760"
+      },
+      "album": "Knowledge Of The Others",
+      "duration": 168,
+      "isrc": "QT6F82588823"
+    },
+    {
+      "artist": "Timo Tolkki\u2019s Avalon",
+      "title": "Rise of the 4th Reich",
+      "services": {
+        "qobuz": "45803874"
+      },
+      "album": "Angels of the Apocalypse",
+      "duration": 283,
+      "isrc": "ITG271400250"
+    },
+    {
+      "artist": "Ranji",
+      "title": "Power of Acid",
+      "services": {
+        "qobuz": "45387859"
+      },
+      "album": "Blue Tunes Mega Pack",
+      "duration": 410,
+      "isrc": "DEGA21702314"
+    },
+    {
+      "artist": "Joy Division",
+      "title": "Transmission",
+      "services": {
+        "qobuz": "24618109"
+      },
+      "album": "Substance 1977 - 1980",
+      "duration": 217,
+      "isrc": "GBCRL1500062"
+    },
+    {
+      "artist": "Inner Circle",
+      "title": "Bad Boys",
+      "services": {
+        "qobuz": "238431714"
+      },
+      "album": "Blazzin' Fire",
+      "duration": 229,
+      "isrc": "USA2P1004784"
+    },
+    {
+      "artist": "Mad@Faq*,Tatanka",
+      "title": "Make Some Noise",
+      "services": {
+        "qobuz": "74843927"
+      },
+      "album": "Maxi Hardstyle Compilation Vol. 3",
+      "duration": 449,
+      "isrc": "ITK100700130"
+    },
+    {
+      "artist": "Blastoyz",
+      "title": "Mandala",
+      "services": {
+        "qobuz": "402071781"
+      },
+      "album": "Blueprint. Legacy.",
+      "duration": 357,
+      "isrc": "BEY921717253"
+    },
+    {
+      "artist": "ACID BOYZ",
+      "title": "Crank That (Soulja Boy)",
+      "services": {
+        "qobuz": "362853664"
+      },
+      "album": "Crank That (Soulja Boy)",
+      "duration": 131,
+      "isrc": "US38Y2594575"
+    },
+    {
+      "artist": "Art Of Noise",
+      "title": "Moments In Love",
+      "services": {
+        "qobuz": "55378200"
+      },
+      "album": "Daft",
+      "duration": 617,
+      "isrc": "GBAHW0000221"
+    },
+    {
+      "artist": "Isabelle Faust",
+      "title": "III. Rondo allegro",
+      "services": {
+        "qobuz": "4838759"
+      },
+      "album": "Berg - Beethoven : Violin Concertos",
+      "duration": 514,
+      "isrc": "FRZ141026050"
+    },
+    {
+      "artist": "Made in M",
+      "title": "Mushroom Kingdom",
+      "services": {
+        "qobuz": "181166021"
+      },
+      "album": "Fungus",
+      "duration": 84,
+      "isrc": "TCADY1814998"
+    },
+    {
+      "artist": "Jack Garratt",
+      "title": "The Love You're Given",
+      "services": {
+        "qobuz": "30048212"
+      },
+      "album": "Phase",
+      "duration": 300,
+      "isrc": "GBUM71406400"
+    },
+    {
+      "artist": "Laufey",
+      "title": "Serendipity",
+      "services": {
+        "qobuz": "213067621"
+      },
+      "album": "Bewitched",
+      "duration": 219,
+      "isrc": "QM6P42387623"
+    },
+    {
+      "artist": "Technical Hitch",
+      "title": "Mama India (Shantrip) Remaster",
+      "services": {
+        "qobuz": "139480270"
+      },
+      "album": "Mama India (Shantrip) Remaster",
+      "duration": 509,
+      "isrc": "QZPLR2166475"
+    },
+    {
+      "artist": "Mandragora",
+      "title": "Codeine",
+      "services": {
+        "qobuz": "109415192"
+      },
+      "album": "Disc 1",
+      "duration": 329,
+      "isrc": "GBKQU1873058"
+    },
+    {
+      "artist": "Vertical Mode",
+      "title": "Trust the Universe",
+      "services": {
+        "qobuz": "143450922"
+      },
+      "album": "Trust the Universe",
+      "duration": 521,
+      "isrc": "USA2P1915528"
+    },
+    {
+      "artist": "Dekel",
+      "title": "Ancient Future",
+      "services": {
+        "qobuz": "117069416"
+      },
+      "album": "Ancient Future",
+      "duration": 535,
+      "isrc": "UKR6V2180992"
+    },
+    {
+      "artist": "Alpha Wave Movement",
+      "title": "Portal Full of Stars",
+      "services": {
+        "qobuz": "66138936"
+      },
+      "album": "A Distant Signal",
+      "duration": 446,
+      "isrc": "USCGH0717900"
+    },
+    {
+      "artist": "Zenzile",
+      "title": "Panama Red",
+      "services": {
+        "qobuz": "123609660"
+      },
+      "album": "Modus Vivendi",
+      "duration": 317,
+      "isrc": "FRP620400160"
+    }
+  ]
+}

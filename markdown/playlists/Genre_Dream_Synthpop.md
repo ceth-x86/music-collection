@@ -1,0 +1,108 @@
+# Genre: Dream Synthpop
+
+Imported genre playlist: Dream Synthpop.
+
+Services: `qobuz:66717858`
+
+## Tracks (100)
+
+- **Broadcast** — Come On Let's Go [The Noise Made By People] (3:17) `isrc:GBBPW9900176` `qobuz:3775839`
+- **DNTEL** — (This Is) The Dream Of Evan And Chan [I Thought I Was Over That] (3:41) `isrc:DEX260505604` `qobuz:30071036`
+- **Frou Frou** — Let Go [Details] (4:12) `isrc:GBAAN0200016` `qobuz:2467973`
+- **The Postal Service** — Such Great Heights [Give Up] (4:26) `isrc:USSUB1304502` `qobuz:407823680`
+- **The Knife** — Heartbeats [Deep Cuts] (3:51) `isrc:SEWCE0400201` `qobuz:168786685`
+- **M83** — Run Into Flowers [Dead Cities, Red Seas & Lost Ghosts] (4:09) `isrc:FR86W0300280` `qobuz:18493192`
+- **Junior Boys** — In The Morning [So This Is Goodbye] (4:46) `isrc:GBCEL0600186` `qobuz:2523625`
+- **Lali Puna** — Faking The Books [Faking The Books] (4:00) `isrc:DEX260404401` `qobuz:30072587`
+- **Imogen Heap** — Headlock [Speak for Yourself] (3:35) `isrc:GBJPX0500001` `qobuz:308205070`
+- **Röyksopp** — What Else Is There? [The Understanding] (5:17) `isrc:FRS940500063` `qobuz:4688479`
+- **Sally Shapiro** — I'll Be By Your Side [Disco Romance] (5:27) `isrc:ATE730600001` `qobuz:181614522`
+- **The Radio Dept.** — Strange Things Will Happen [Lesser Matters] (4:28) `isrc:SEVMM0206010` `qobuz:58597880`
+- **Au Revoir Simone** — Another Likely Story [Still Night, Still Light] (4:39) `isrc:GBGEY0900041` `qobuz:233849459`
+- **Chromatics** — Cherry [Cherry (Deluxe)] (4:31) `isrc:QMMMF1300022` `qobuz:125719772`
+- **Goldfrapp** — A&E [Seventh Tree] (3:17) `isrc:GBAJH0700733` `qobuz:387100050`
+- **Washed Out** — Feel It All Around [Life of Leisure] (3:12) `isrc:USMEX0800099` `qobuz:125609793`
+- **Neon Indian** — Deadbeat Summer [Psychic Chasms] (4:03) `isrc:US6AK0900003` `qobuz:26689408`
+- **Memory Tapes** — Today Is Our Life [Player Piano] (5:14) `isrc:US22N1106403` `qobuz:156378137`
+- **Owl City** — Fireflies [Ocean Eyes] (3:48) `isrc:USUM70972068` `qobuz:750119`
+- **Desire** — Under Your Spell [Desire] (4:56) `isrc:USL840910008` `qobuz:125717168`
+- **Ellie Goulding** — Lights [Bright Lights] (3:30) `isrc:GBUM71028043` `qobuz:2859821`
+- **Toro y Moi** — Blessa [Causers Of This] (2:43) `isrc:US22N1005201` `qobuz:97219029`
+- **Twin Shadow** — Slow [Forget] (3:54) `isrc:GBAFL1000229` `qobuz:2543866`
+- **Glasser** — Apply [Ring] (4:59) `isrc:USMTD1000498` `qobuz:2533416`
+- **Delorean** — Real Love [Subiza] (6:06) `isrc:ES7001009802` `qobuz:286405796`
+- **The Naked And Famous** — Young Blood [Passive Me, Aggressive You] (4:06) `isrc:NZNK11000001` `qobuz:388668376`
+- **Ariel Pink** — Round and Round [Before Today] (5:08) `isrc:GBAFL1000046` `qobuz:2534789`
+- **Active Child** — Hanging On [You Are All I See] (5:21) `isrc:USVR91168102` `qobuz:387106749`
+- **Small Black** — Despicable Dogs [Small Black] (3:54) `isrc:US38Y1017301` `qobuz:193046285`
+- **Still Corners** — The Trip - 2023 Remaster [Strange Pleasures: 10th Anniversary Edition (2023 Remaster)] (6:13) `isrc:USSUB1203501` `qobuz:208533389`
+- **Craft Spells** — After the Moment [Idle Labor] (4:00) `isrc:US8YA1110054` `qobuz:20789803`
+- **The Sound of Arrows** — Into The Clouds [Voyage] (4:12) `isrc:GBX5K1100020` `qobuz:70262689`
+- **Strfkr** — Golden Light [Miracle Mile] (4:43) `isrc:US3R41324814` `qobuz:181985444`
+- **Little Dragon** — Ritual Union [Ritual Union] (3:30) `isrc:GBEWK1100037` `qobuz:397433533`
+- **John Maus** — Hey Moon [We Must Become the Pitiless Censors of Ourselves] (4:08) `isrc:GBVCE1149004` `qobuz:37792129`
+- **Purity Ring** — fineshrine [shrines] (3:29) `isrc:GBAFL1200171` `qobuz:6035343`
+- **Grimes** — Genesis [Visions] (4:15) `isrc:CA21O1200002` `qobuz:5177860`
+- **CHVRCHES** — Tether [The Bones Of What You Believe] (4:46) `isrc:GBZN82300004` `qobuz:232776856`
+- **Jessy Lanza** — Kathy Lee [Pull My Hair Back] (4:09) `isrc:GBLZC1300051` `qobuz:61343447`
+- **MS MR** — Hurricane [Secondhand Rapture] (3:46) `isrc:USSM11203044` `qobuz:9128578`
+- **London Grammar** — Strong [If You Wait] (4:35) `isrc:GBCEN1300608` `qobuz:11882610`
+- **Blue Hawaii** — Try To Be [Untogether] (3:52) `isrc:CA21O1300016` `qobuz:20993322`
+- **Kyla La Grange** — Cut Your Teeth [Cut Your Teeth] (6:39) `isrc:GBARL1400295` `qobuz:15115167`
+- **St. Lucia** — Elevate [When The Night (Deluxe)] (5:08) `isrc:USSM11303710` `qobuz:17426462`
+- **Tegan And Sara** — Closer [Heartthrob] (3:30) `isrc:USWB11202179` `qobuz:7568681`
+- **Lorde** — Ribs [Pure Heroine] (4:18) `isrc:NZUM71300122` `qobuz:14876250`
+- **Charli XCX** — You (Ha Ha Ha) [You (Ha Ha Ha)] (5:04) `isrc:GBAHS1300014` `qobuz:7752344`
+- **POLIÇA** — Wandering Star [Give You The Ghost] (5:04) `isrc:USNY91112310` `qobuz:49427246`
+- **The Chain Gang of 1974** — Sleepwalking [Daydream Forever] (3:37) `isrc:USWB11302194` `qobuz:14458554`
+- **Sylvan Esso** — Coffee [Sylvan Esso] (4:28) `isrc:USBQU1400001` `qobuz:121489316`
+- **Sohn** — The Wheel [Tremors] (3:52) `isrc:GBAFL1400005` `qobuz:15991062`
+- **Mø** — Pilgrim [No Mythologies to Follow (Deluxe)] (3:52) `isrc:DKADG1300179` `qobuz:15991966`
+- **Broods** — Bridges [Evergreen] (3:11) `isrc:GBUM71308964` `qobuz:20608857`
+- **Haerts** — Wings [HAERTS] (4:58) `isrc:USQX91300775` `qobuz:20016249`
+- **Phantogram** — Fall In Love [Voices] (3:43) `isrc:USUM71318566` `qobuz:16175509`
+- **Susanne Sundfør** — Accelerate [Ten Love Songs] (5:26) `isrc:NOAGW1400186` `qobuz:45255584`
+- **Carly Rae Jepsen** — Run Away With Me [Emotion] (4:11) `isrc:USUM71507009` `qobuz:32351658`
+- **Olly Alexander (Years & Years)** — King [Night Call] (3:35) `isrc:GBUM71406892` `qobuz:141138807`
+- **Oh Wonder** — Lose It [Oh Wonder] (3:50) `isrc:GB9L31400027` `qobuz:26727238`
+- **Troye Sivan** — YOUTH [Blue Neighbourhood] (3:05) `isrc:AUUM71501373` `qobuz:392029656`
+- **Halsey** — Colors [BADLANDS (version Deluxe)] (4:10) `isrc:USUM71507629` `qobuz:25590960`
+- **AURORA** — Runaway [Running With The Wolves] (4:10) `isrc:GBUM71500527` `qobuz:24017667`
+- **Shura** — Touch [Nothing's Real] (3:34) `isrc:GBUM71600706` `qobuz:33437802`
+- **Yumi Zouma** — Keep It Close To Me [Yoncalla] (3:14) `isrc:USA2B1601167` `qobuz:135651174`
+- **Tender** — Erode [Modern Addiction] (4:09) `isrc:USBQU1700047` `qobuz:41948528`
+- **Kate Boy** — Northern Lights [One] (3:36) `isrc:US53Q1200048` `qobuz:27869215`
+- **The Japanese House** — Pools to Bathe In [Pools to Bathe In] (4:19) `isrc:GBK3W1000355` `qobuz:22970343`
+- **MUNA** — I Know A Place [About U] (4:32) `isrc:USRC11602620` `qobuz:38203069`
+- **Allie X** — Paper Love [CollXtion II] (3:17) `isrc:GBLFP1708886` `qobuz:171634573`
+- **SE SO NEON** — Twit Winter [〈NOW〉] (4:21) `isrc:QM6N22593546` `qobuz:339106307`
+- **Kedr Livanskiy** — Ariadna (ариадна) [Ariadna] (5:30) `isrc:QM2PB1700007` `qobuz:42733669`
+- **Throwing Shade** — Marble Air [House Of Silk] (4:03) `isrc:GBCFB1505604` `qobuz:29883950`
+- **Kllo** — Bolide [Bolide] (3:56) `isrc:US2J71607102` `qobuz:33490117`
+- **Isabel Rose** — Reflections (Frankie Knuckles & Eric Kupper Remix) [Trouble in Paradise] (6:36) `isrc:URS371400080` `qobuz:77166870`
+- **Kaleida** — Think [Think] (3:31) `isrc:GBMYF1500001` `qobuz:349175276`
+- **Sigrid** — Don't Kill My Vibe [Sucker Punch] (3:04) `isrc:GBUM71700020` `qobuz:59670711`
+- **Robyn** — Because It's In The Music [Honey] (4:34) `isrc:SEWKZ1800024` `qobuz:94171472`
+- **Let's Eat Grandma** — Hot Pink [I'm All Ears] (4:08) `isrc:GBKZV1800003` `qobuz:47757412`
+- **Men I Trust** — Show Me How [Show Me How] (3:35) `isrc:TCADM1873570` `qobuz:242125920`
+- **Fickle Friends** — Swim [You Are Someone Else] (3:17) `isrc:GBUM71706149` `qobuz:47888944`
+- **Cannons** — Fire for You [Shadows] (3:51) `isrc:USSM12004811` `qobuz:98582344`
+- **Caroline Polachek** — So Hot You're Hurting My Feelings [Pang] (3:03) `isrc:USSM11902945` `qobuz:74937678`
+- **Hatchie** — Sure [Sugar & Spice] (4:09) `isrc:AULI01714250` `qobuz:48323497`
+- **Christine and the Queens** — People, I've been sad [People, I've been sad] (4:20) `isrc:FR6P11901360` `qobuz:85639692`
+- **Mint Julep** — Blinded [Stray Fantasies] (3:47) `isrc:US78L1919401` `qobuz:80103072`
+- **Oklou** — god's chariots [Galore] (3:03) `isrc:GBKPL2015015` `qobuz:172714548`
+- **Sufjan Stevens** — Video Game [The Ascension] (4:15) `isrc:US64G2015003` `qobuz:96940827`
+- **Magdalena Bay** — You Lose! [Mercurial World] (3:24) `isrc:QM6N22162296` `qobuz:122855197`
+- **Japanese Breakfast** — Be Sweet [Jubilee] (3:15) `isrc:USJ5G2022502` `qobuz:116463001`
+- **Shoestrings** — Gone [Gone] (4:57) `isrc:USR7P2118601` `qobuz:131341709`
+- **yeule** — Pixel Affection [Serotonin II] (3:39) `isrc:QM6YT1902805` `qobuz:64478875`
+- **Mitski** — The Only Heartbreaker [Laurel Hell] (3:04) `isrc:USJ5G2125006` `qobuz:146128191`
+- **Night Tapes** — Selene [Selene] (4:54) `isrc:CAN112300308` `qobuz:194517998`
+- **Maraschino** — Angelface [Hollywood Piano] (5:48) `isrc:US25X2203409` `qobuz:216033210`
+- **Sneakpeek** — Strawberry Reality [Scene Within A Dream] (3:11) `isrc:QZAKB2339609` `qobuz:212238663`
+- **Jojo R Manny** — It’s Been Raining a Lot Lately, Especially Late-Nights into the Early Morning [Rumination] (5:31) `isrc:TCAIJ2449205` `qobuz:272163483`
+- **Röya** — Cruise [Cruise] (2:55) `isrc:DEA622402222` `qobuz:275599926`
+- **Bruce Hornsby** — Every Little Kiss [The Way It Is] (5:48) `isrc:USRC18507941` `qobuz:176686`
+- **Oslo Twins** — I Wake Up Slowly [I Wake Up Slowly] (2:42) `isrc:UK6822500088` `qobuz:315065439`
+- **Susannah Joffe** — Horses Can't Outrun Me [Horses Can't Outrun Me] (4:00) `isrc:QZNJV2549358` `qobuz:334260250`

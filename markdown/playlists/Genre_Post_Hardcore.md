@@ -1,0 +1,93 @@
+# Genre: Post Hardcore
+
+Imported genre playlist: Post Hardcore.
+
+Services: `qobuz:66736610` `tidal:de89dfba-3d0e-4f2d-b980-b9544c29501d`
+
+## Tracks (85)
+
+- **Hüsker Dü** — Something I Learned Today [Zen Arcade] (2:02) `isrc:USA560766803` `qobuz:63480381`
+- **Minutemen** — Corona [Double Nickels on the Dime] (2:25) `isrc:USA370538099` `qobuz:24534632`
+- **Rites of Spring** — For Want Of [Rites of Spring] (3:10) `isrc:US35U0401603` `qobuz:159949480`
+- **Gray Matter** — Burn No Bridges [Take It Back] (2:39) `isrc:US35U1302102` `qobuz:154116817`
+- **Big Black** — Kerosene [Atomizer (Remastered)] (6:03) `isrc:USTG31409304` `qobuz:32621490`
+- **Embrace** — Dance Of Days [Embrace] (2:16) `isrc:US35U0402402` `qobuz:159950226`
+- **Fugazi** — Waiting Room [13 Songs] (2:53) `isrc:US35U0403601` `qobuz:159963156`
+- **NoMeansNo** — It's Catching Up [Wrong] (3:29) `isrc:US2B22407701` `qobuz:266678950`
+- **Bitch Magnet** — Motor [Umber] (3:47) `isrc:USY6C1115011` `qobuz:20877653`
+- **Pitchfork** — Placebo [Eucalyptus / Saturn Outhouse] (3:54) `isrc:US2850411602` `qobuz:52233472`
+- **Shudder To Think** — Speak [Ten Spot] (4:12) `isrc:US35U1304605` `qobuz:159951223`
+- **Nation of Ulysses** — Target: U.S.A. [13-Point Program to Destroy America] (1:44) `isrc:US35U0405712` `qobuz:159950315`
+- **Jawbox** — Tools And Chrome [Grippe + 5] (2:31) `isrc:US35U1305203` `qobuz:159949498`
+- **Helmet** — Unsung [Meantime] (3:56) `isrc:USIR19200544` `qobuz:3898895`
+- **Circus Lupus** — Unrequited [Super Genius + 2 songs] (3:43) `isrc:US35U0406301` `qobuz:159951878`
+- **Jawbreaker** — Chesterfield King [Bivouac] (3:55) `isrc:USA6N1210003` `qobuz:220936015`
+- **Quicksand** — Fazer [Slip] (3:13) `isrc:USUR10080043` `qobuz:42686251`
+- **Lungfish** — Creation Story [Rainbows From Atoms] (3:33) `isrc:US35U0407806` `qobuz:159951837`
+- **Unwound** — Nervous Energy [Fake Train] (4:49) `isrc:USCW61201015` `qobuz:219353995`
+- **Moss Icon** — Locket [Lyburnum Wits End Liberation Fly] (4:33) `isrc:USY6C1220104` `qobuz:186374197`
+- **Drive Like Jehu** — Here Come the Rome Plows [Yank Crime] (5:44) `isrc:US2850411501` `qobuz:18560900`
+- **Rodan** — The Everyday World of Bodies [Rusty] (11:55) `isrc:USA4C9402403` `qobuz:32673452`
+- **Sunny Day Real Estate** — In Circles [Diary] (4:58) `isrc:USSUB0984602` `qobuz:407819334`
+- **Hoover** — Electrolux [The Lurid Traversal of Route 7] (7:09) `isrc:US35U0408903` `qobuz:159963187`
+- **Indian Summer** — Woolworm [Giving Birth to Thunder] (7:25) `isrc:USCW61921203` `qobuz:63286052`
+- **June Of 44** — Have a Safe Trip, Dear [Engine Takes to Water] (8:26) `isrc:USA4C9503201` `qobuz:32628797`
+- **Cap'n Jazz** — Little League [Analphabetapolothology] (3:56) `isrc:USA6M0403601` `qobuz:77631048`
+- **Texas Is The Reason** — Back And To The Left [Do You Know Who You Are?: The Complete Collection] (3:55) `isrc:USB4U1315107` `qobuz:139038090`
+- **The Crownhate Ruin** — Ride Your Ride [Until The Eagle Grins] (4:25) `isrc:US35U0409801` `qobuz:159952019`
+- **Sense Field** — Save Yourself [Tonight And Forever] (3:18) `isrc:CAN110100142` `qobuz:154863175`
+- **Snapcase** — Caboose [Progression Through Unlearning] (2:33) `isrc:USVIC9705101` `qobuz:118265706`
+- **Shiner** — The Simple Truth [The Egg] (7:57) `isrc:US24E0410024` `qobuz:72748805`
+- **Arlo Parks** — Hope [Collapsed In Sunbeams] (4:30) `isrc:GBKZV2000121` `qobuz:103568567`
+- **Saetia** — Venus and Bacchus [Collected] (3:19) `isrc:QMFMF1545233` `qobuz:44882376`
+- **Mineral** — Gloria [The Power Of Failing] (3:44) `isrc:USA771400059` `qobuz:372512708`
+- **Smart Went Crazy** — Con Art [Con Art] (5:03) `isrc:US35U0411205` `qobuz:159950791`
+- **FAR** — Mother Mary [Water & Solutions] (2:15) `isrc:USSM19702812` `qobuz:32319`
+- **At The Drive-In** — Chanbara [In / Casino / Out] (2:59) `isrc:US37N0430002` `qobuz:35084419`
+- **Braid** — The New Nathan Detroits [Frame and Canvas] (4:17) `isrc:US3R49801801` `qobuz:3197747`
+- **Christie Front Drive** — About Two Days [Stereo] (6:07) `isrc:USBNA0500038` `qobuz:46888291`
+- **knapsack** — Courage Was Confused [Day Three of My New Life] (3:51) `isrc:USGKX9809502` `qobuz:72717215`
+- **Dismemberment Plan** — You Are Invited [Emergency & I] (4:52) `isrc:US24E0410067` `qobuz:72746026`
+- **Refused** — New Noise [The Shape Of Punk To Come] (5:10) `isrc:SEVHC9801060` `qobuz:77631897`
+- **Burning Airlines** — The Escape Engine [Mission: Control!] (2:54) `isrc:US24E0410077` `qobuz:72778556`
+- **Grade** — Stolen Bikes Ride Faster [Under The Radar] (3:28) `isrc:USVIC9910909` `qobuz:118267545`
+- **Glassjaw** — Tip Your Bartender [Worship And Tribute] (2:59) `isrc:USWB10201338` `qobuz:10576035`
+- **Hot Snakes** — If Credit's What Matters I'll Take Credit [Automatic Midnight] (2:32) `isrc:USSUB1721701` `qobuz:407822333`
+- **Planes Mistaken For Stars** — Copper and Stars [Planes Mistaken for Stars] (3:31) `isrc:QM4TX2078334` `qobuz:91149793`
+- **Thursday** — Understanding In A Car Crash [Full Collapse] (4:22) `isrc:USVIC0114502` `qobuz:121964722`
+- **From Autumn To Ashes** — The After Dinner Payback [The Fiction We Live] (2:51) `isrc:USVR90238601` `qobuz:387106434`
+- **Further Seems Forever** — The Moon Is Down [The Moon Is Down] (3:12) `isrc:USTN10018801` `qobuz:931200`
+- **Pageninetynine** — In Love with an Apparition [Document 10] (3:40) `isrc:QM6N21706859` `qobuz:75385790`
+- **City of Caterpillar** — And You're Wondering How a Top Floor Could Replace Heaven [City of Caterpillar] (8:32) `isrc:QM6N21409785` `qobuz:79134583`
+- **Thrice** — Deadbolt [The Illusion of Safety] (3:00) `isrc:USHR20338016` `qobuz:120900919`
+- **The Used** — The Taste of Ink [The Used] (3:28) `isrc:USRE10200741` `qobuz:11743308`
+- **Alexisonfire** — Accidents ["Watch out!"] (4:09) `isrc:CADE70901055` `qobuz:80059582`
+- **Finch** — What It Is To Burn [What It Is To Burn] (4:29) `isrc:USMC10200944` `qobuz:3953906`
+- **Sparta** — Cut Your Ribbon [Wiretap Scars] (3:04) `isrc:USDW10200292` `qobuz:700029`
+- **The Blood Brothers** — Love Rhymes With Hideous Car Wreck [Crimes] (3:14) `isrc:USVT10400148` `qobuz:77659425`
+- **Funeral For A Friend** — Juneau [Casually Dressed And Deep In Conversation] (3:36) `isrc:GBAHS0300626` `qobuz:2682297`
+- **Hell Is For Heroes** — I Can Climb Mountains [I Can Climb Mountains] (3:04) `isrc:GBAYE0200920` `qobuz:45928572`
+- **Million Dead** — Smiling at Strangers on Trains [Smiling at Strangers on Trains] (3:00) `isrc:GBCRE2500003` `qobuz:355382584`
+- **Saosin** — Seven Years [Translating the Name] (3:12) `isrc:TCABD1270059` `qobuz:189817143`
+- **Emery** — Walls [The Weak's End] (3:23) `isrc:USTN10321444` `qobuz:4409299`
+- **Circle Takes the Square** — Non Objective Portrait of Karma [As the Roots Undo] (6:42) `isrc:USBE71910006` `qobuz:65332196`
+- **Carly Simon** — That's the Way I've Always Heard It Should Be [These Are The Good Old Days: The Carly Simon & Jac Holzman Story] (4:17) `isrc:USRH12301349` `qobuz:218344903`
+- **Circa Survive** — Act Appalled [Juturna] (3:20) `isrc:US3X50510302` `qobuz:77864098`
+- **The Receiving End Of Sirens** — Planning a Prison Break [Between the Heart and the Synapse] (5:18) `isrc:US72W0510142` `qobuz:80183096`
+- **Silverstein** — Smile In Your Sleep [Discovering The Waterfront] (3:13) `isrc:USVIC0632402` `qobuz:118261256`
+- **Chiodos** — Baby, You Wouldn't Last A Minute On The Creek [All's Well That Ends Well] (4:40) `isrc:US3X50511105` `qobuz:77864321`
+- **The Fall of Troy** — F.C.P.R.E.M.I.X. [Doppelganger] (3:57) `isrc:US3X50511203` `qobuz:58129520`
+- **Bear vs. Shark** — Ma Jolie [Right Now, You're in the Best of Hands] (3:51) `isrc:US3X50408501` `qobuz:77859409`
+- **Fear Before The March Of Flames** — Taking Cassandra to the End of the World Party [The Always Open Mouth] (2:44) `isrc:US3X50612104` `qobuz:77860153`
+- **mewithoutYou** — January 1979 [Catch For Us The Foxes] (3:26) `isrc:USTN10424756` `qobuz:4412237`
+- **Dance Gavin Dance** — And I Told Them I Invented Times New Roman [Downtown Battle Mountain] (4:48) `isrc:USEK70704602` `qobuz:385323765`
+- **Balance and Composure** — Tiny Raindrop [The Things We Think We're Missing] (3:33) `isrc:USZZ81310102` `qobuz:264191867`
+- **Hail The Sun** — Human Target Practice [Wake] (3:54) `isrc:USHM91404605` `qobuz:387126780`
+- **Casey** — Phosphenes [Where I Go When I Am Sleeping] (3:23) `isrc:GBJSG1727003` `qobuz:300841134`
+- **Drug Church** — Weed Pin [Cheer] (4:42) `isrc:USSTT1700274` `qobuz:322145013`
+- **The Armed** — AN ITERATION [ULTRAPOP] (2:53) `isrc:USA2P1950625` `qobuz:330293018`
+- **Birds in row** — 15-38 [We Already Lost the World] (3:19) `isrc:QZ22D1800031` `qobuz:72950138`
+- **Holding Absence** — Afterlife [The Greatest Mistake of My Life] (3:46) `isrc:DED832000701` `qobuz:102843780`
+- **Royal Coda** — Cut Me Under [Cut Me Under] (3:40) `isrc:TCADO1859169` `qobuz:371973201`
+- **Frail Body** — Your Death Makes Me Wish Heaven Was Real [A Brief Memoriam] (4:23) `isrc:QZ22D1900052` `qobuz:74628370`
+- **Infant Island** — Another Cycle [Obsidian Wreath] (2:51) `isrc:QZ22D2400017` `qobuz:229332255`

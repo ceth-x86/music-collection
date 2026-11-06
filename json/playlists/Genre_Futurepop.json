@@ -1,0 +1,660 @@
+{
+  "name": "Genre: Futurepop",
+  "services": {
+    "qobuz": "66733170",
+    "tidal": "c654b4f8-be83-4c40-8345-794c521685ad"
+  },
+  "description": "Imported genre playlist: Futurepop.",
+  "tracks": [
+    {
+      "artist": "VNV Nation",
+      "title": "Beloved",
+      "services": {
+        "qobuz": "218969733"
+      },
+      "album": "Futureperfect",
+      "duration": 444,
+      "isrc": "DEBL60618993"
+    },
+    {
+      "artist": "Covenant",
+      "title": "Dead Stars",
+      "services": {
+        "qobuz": "189652494"
+      },
+      "album": "United States of Mind",
+      "duration": 290,
+      "isrc": "US57M0516108"
+    },
+    {
+      "artist": "Apoptygma Berzerk",
+      "title": "Kathy's Song",
+      "services": {
+        "qobuz": "185553875"
+      },
+      "album": "Kids In Crime (Musikk Fra TV2 Serien)",
+      "duration": 242,
+      "isrc": "DEDS30700096"
+    },
+    {
+      "artist": "Neuroticfish",
+      "title": "Velocity",
+      "services": {
+        "qobuz": "308364837"
+      },
+      "album": "Les Chansons Neurotiques",
+      "duration": 300,
+      "isrc": "DELJ81880755"
+    },
+    {
+      "artist": "Rotersand",
+      "title": "Exterminate Annihilate Destroy",
+      "services": {
+        "qobuz": "189654533"
+      },
+      "album": "Dependent Club Anthems",
+      "duration": 317,
+      "isrc": "DEP510508701"
+    },
+    {
+      "artist": "Solar Fake",
+      "title": "Under Control",
+      "services": {
+        "qobuz": "134942603"
+      },
+      "album": "Another Manic Episode",
+      "duration": 280,
+      "isrc": "DEBZ71500298"
+    },
+    {
+      "artist": "CHROM",
+      "title": "Memories",
+      "services": {
+        "qobuz": "134828224"
+      },
+      "album": "Synthetic Movement",
+      "duration": 318,
+      "isrc": "DEBZ71200037"
+    },
+    {
+      "artist": "mind.in.a.box",
+      "title": "Amnesia",
+      "services": {
+        "qobuz": "91848574"
+      },
+      "album": "Crossroads",
+      "duration": 442,
+      "isrc": "DEP510712402"
+    },
+    {
+      "artist": "Pride And Fall",
+      "title": "I Wither",
+      "services": {
+        "qobuz": "189654234"
+      },
+      "album": "In My Time of Dying",
+      "duration": 399,
+      "isrc": "DEP510712503"
+    },
+    {
+      "artist": "Solitary Experiments",
+      "title": "Delight",
+      "services": {
+        "qobuz": "135008175"
+      },
+      "album": "Mind over Matter",
+      "duration": 268,
+      "isrc": "DEBZ70500164"
+    },
+    {
+      "artist": "A\u00efboforcen",
+      "title": "Psychosomatic Complaints",
+      "services": {
+        "qobuz": "57491173"
+      },
+      "album": "Kafarna\u00fcm (Deluxe Edition)",
+      "duration": 350,
+      "isrc": "BEC260473306"
+    },
+    {
+      "artist": "Assemblage 23",
+      "title": "I am the Rain",
+      "services": {
+        "qobuz": "100228570"
+      },
+      "album": "Failure",
+      "duration": 400,
+      "isrc": "DEU550102602"
+    },
+    {
+      "artist": "Angels & Agony",
+      "title": "The Road Not Taken",
+      "services": {
+        "qobuz": "134941959"
+      },
+      "album": "Monument",
+      "duration": 217,
+      "isrc": "DEBZ71400500"
+    },
+    {
+      "artist": "Seabound",
+      "title": "Torn",
+      "services": {
+        "qobuz": "189653144"
+      },
+      "album": "Contact",
+      "duration": 444,
+      "isrc": "DEP510306303"
+    },
+    {
+      "artist": "cut.rate.box",
+      "title": "New Religion",
+      "services": {
+        "qobuz": "391684232"
+      },
+      "album": "Maps Of Stone (2025 - 1988)",
+      "duration": 365,
+      "isrc": "BEC262609207"
+    },
+    {
+      "artist": "Echo Image",
+      "title": "Need To Be Proud",
+      "services": {
+        "qobuz": "81965505"
+      },
+      "album": "Compuphonic",
+      "duration": 290,
+      "isrc": "NO27D1202007"
+    },
+    {
+      "artist": "The Echoing Green",
+      "title": "Apology",
+      "services": {
+        "qobuz": "74643853"
+      },
+      "album": "The Winter of Our Discontent",
+      "duration": 277,
+      "isrc": "USHM20332909"
+    },
+    {
+      "artist": "Culture Kult\u00fcr",
+      "title": "Forever_Redux",
+      "services": {
+        "qobuz": "336753018"
+      },
+      "album": "Time",
+      "duration": 310,
+      "isrc": "QM7282559037"
+    },
+    {
+      "artist": "Accessory",
+      "title": "Crave",
+      "services": {
+        "qobuz": "135008464"
+      },
+      "album": "Jukka2147.De",
+      "duration": 316,
+      "isrc": "DEBZ70100061"
+    },
+    {
+      "artist": "Beborn Beton",
+      "title": "Dancer In The Dark",
+      "services": {
+        "qobuz": "188817721"
+      },
+      "album": "Darkness Falls Again",
+      "duration": 322,
+      "isrc": "DES562310702"
+    },
+    {
+      "artist": "L'\u00e2me Immortelle",
+      "title": "Life Will Never Be the Same Again",
+      "services": {
+        "qobuz": "23067025"
+      },
+      "album": "Lieder die wie Wunden bluten",
+      "duration": 339,
+      "isrc": "DEZ901500736"
+    },
+    {
+      "artist": "Armageddon Dildos",
+      "title": "Dance on Dead Bodies",
+      "services": {
+        "qobuz": "140824348"
+      },
+      "album": "Destruction",
+      "duration": 257,
+      "isrc": "BEC262187506"
+    },
+    {
+      "artist": "Michigan",
+      "title": "Sorrows",
+      "services": {
+        "qobuz": "197480719"
+      },
+      "album": "Ultimate Sky",
+      "duration": 242,
+      "isrc": "SETGM0400705"
+    },
+    {
+      "artist": "Solitary Experiments",
+      "title": "Rise and Fall",
+      "services": {
+        "qobuz": "134661386"
+      },
+      "album": "The Beauty Lies...",
+      "duration": 316,
+      "isrc": "DEBZ70900477"
+    },
+    {
+      "artist": "Bruderschaft",
+      "title": "Forever",
+      "services": {
+        "qobuz": "8468905"
+      },
+      "album": "Forever",
+      "duration": 488,
+      "isrc": "BEC260302311"
+    },
+    {
+      "artist": "VANGUARD",
+      "title": "A Different Story",
+      "services": {
+        "qobuz": "37727763"
+      },
+      "album": "A Different Story",
+      "duration": 303,
+      "isrc": "DEKV21612575"
+    },
+    {
+      "artist": "Rroyce",
+      "title": "Who Needs",
+      "services": {
+        "qobuz": "43534458"
+      },
+      "album": "Karoshi (Deluxe)",
+      "duration": 404,
+      "isrc": "DEKV21612715"
+    },
+    {
+      "artist": "Namnambulu",
+      "title": "Return",
+      "services": {
+        "qobuz": "40372323"
+      },
+      "album": "Infacted Compilation, Vol. 6",
+      "duration": 222,
+      "isrc": "DEKV21612617"
+    },
+    {
+      "artist": "Ruined Conflict",
+      "title": "Providence",
+      "services": {
+        "qobuz": "58102132"
+      },
+      "album": "Valediction",
+      "duration": 339,
+      "isrc": "DEKV21800181"
+    },
+    {
+      "artist": "Binary Park",
+      "title": "The Last Ones Alive",
+      "services": {
+        "qobuz": "62768655"
+      },
+      "album": "Infacted Compilation, Vol. 7",
+      "duration": 606,
+      "isrc": "DEKV21800404"
+    },
+    {
+      "artist": "Lights of Euphoria",
+      "title": "In Love with the Night (Pearls of Dew Remix)",
+      "services": {
+        "qobuz": "20948075"
+      },
+      "album": "Querschnitt",
+      "duration": 235,
+      "isrc": "DEKV20300031"
+    },
+    {
+      "artist": "Zynic",
+      "title": "Algorythm Slave (Frozen Plasma Remix)",
+      "services": {
+        "qobuz": "208100376"
+      },
+      "album": "Extend the End",
+      "duration": 259,
+      "isrc": "TCAGY2371195"
+    },
+    {
+      "artist": "Grendel",
+      "title": "Something Real",
+      "services": {
+        "qobuz": "62768653"
+      },
+      "album": "Infacted Compilation, Vol. 7",
+      "duration": 236,
+      "isrc": "DEKV21800402"
+    },
+    {
+      "artist": "In Strict Confidence",
+      "title": "Herz",
+      "services": {
+        "qobuz": "44807657"
+      },
+      "album": "Herz & Frozen Kisses",
+      "duration": 306,
+      "isrc": "DEAY91200301"
+    },
+    {
+      "artist": "Massiv In Mensch",
+      "title": "Mein Letztes Bonbon",
+      "services": {
+        "qobuz": "73832139"
+      },
+      "album": "Dark Rave",
+      "duration": 344,
+      "isrc": "CAAD20500456"
+    },
+    {
+      "artist": "Liquid Divine",
+      "title": "Low.Life.Complex",
+      "services": {
+        "qobuz": "91731849"
+      },
+      "album": "Interface",
+      "duration": 329,
+      "isrc": "DEZ900700432"
+    },
+    {
+      "artist": "Null Device",
+      "title": "Electrified",
+      "services": {
+        "qobuz": "84347878"
+      },
+      "album": "A Million Different Moments",
+      "duration": 359,
+      "isrc": "USHM20464795"
+    },
+    {
+      "artist": "8kHz Mono",
+      "title": "Step by Step",
+      "services": {
+        "qobuz": "198158338"
+      },
+      "album": "Monochromator",
+      "duration": 307,
+      "isrc": "SEYFX0400105"
+    },
+    {
+      "artist": "State Of The Union",
+      "title": "Industrial",
+      "services": {
+        "qobuz": "59813967"
+      },
+      "album": "Industrial Slither",
+      "duration": 282,
+      "isrc": "DEKV21800275"
+    },
+    {
+      "artist": "State Of The Union",
+      "title": "Bad Flower",
+      "services": {
+        "qobuz": "92158279"
+      },
+      "album": "Bad Flower",
+      "duration": 351,
+      "isrc": "DEKV21800705"
+    },
+    {
+      "artist": "Destroy Me Again",
+      "title": "Unhappiness",
+      "services": {
+        "qobuz": "294014106"
+      },
+      "album": "Unhappiness",
+      "duration": 212,
+      "isrc": "DEKV21802377"
+    },
+    {
+      "artist": "Orange Sector",
+      "title": "Zerst\u00f6rer",
+      "services": {
+        "qobuz": "90699988"
+      },
+      "album": "Zerst\u00f6rer",
+      "duration": 249,
+      "isrc": "DEKV21800659"
+    },
+    {
+      "artist": "Militant Cheerleaders On The Move",
+      "title": "Neuropa",
+      "services": {
+        "qobuz": "196756943"
+      },
+      "album": "Strike One",
+      "duration": 215,
+      "isrc": "SETGM0501101"
+    },
+    {
+      "artist": "Sturm Caf\u00e9",
+      "title": "Europa",
+      "services": {
+        "qobuz": "204499577"
+      },
+      "album": "Fernes Land 1987",
+      "duration": 366,
+      "isrc": "SEYOK2160379"
+    },
+    {
+      "artist": "Snog",
+      "title": "Everything Is Under Control",
+      "services": {
+        "qobuz": "8022238"
+      },
+      "album": "Everything Is Under Control",
+      "duration": 236,
+      "isrc": "US57M1385204"
+    },
+    {
+      "artist": "Menschdefekt",
+      "title": "Instincts of Corruption",
+      "services": {
+        "qobuz": "20893037"
+      },
+      "album": "Infacted Compilation, Vol. 5",
+      "duration": 386,
+      "isrc": "DEKV20910597"
+    },
+    {
+      "artist": "Torul",
+      "title": "Best Moments",
+      "services": {
+        "qobuz": "87761214"
+      },
+      "album": "Best Moments",
+      "duration": 286,
+      "isrc": "DEKV21800605"
+    },
+    {
+      "artist": "VNV Nation",
+      "title": "Standing",
+      "services": {
+        "qobuz": "218970277"
+      },
+      "album": "Empires",
+      "duration": 340,
+      "isrc": "DEBL61500357"
+    },
+    {
+      "artist": "Covenant",
+      "title": "Call the Ships to Port",
+      "services": {
+        "qobuz": "13797025"
+      },
+      "album": "Call The Ships To Port",
+      "duration": 364,
+      "isrc": "DEE860200767"
+    },
+    {
+      "artist": "Apoptygma Berzerk",
+      "title": "In This Together",
+      "services": {
+        "qobuz": "63396180"
+      },
+      "album": "You And Me Against The World",
+      "duration": 266,
+      "isrc": "DEC760500137"
+    },
+    {
+      "artist": "Assemblage 23",
+      "title": "Disappoint",
+      "services": {
+        "qobuz": "131382063"
+      },
+      "album": "Failure",
+      "duration": 333,
+      "isrc": "US57M2127305"
+    },
+    {
+      "artist": "Frozen Plasma",
+      "title": "Tanz die Revolution",
+      "services": {
+        "qobuz": "365243620"
+      },
+      "album": "Tanz die Revolution",
+      "duration": 286,
+      "isrc": "DEKV20810124"
+    },
+    {
+      "artist": "Icon of Coil",
+      "title": "Shallow Nation",
+      "services": {
+        "qobuz": "95766582"
+      },
+      "album": "Serenity Is The Devil",
+      "duration": 283,
+      "isrc": "US57M0518803"
+    },
+    {
+      "artist": "Mesh",
+      "title": "Crash",
+      "services": {
+        "qobuz": "83386857"
+      },
+      "album": "We Collide",
+      "duration": 261,
+      "isrc": "DEBC40800231"
+    },
+    {
+      "artist": "Edge Of Dawn",
+      "title": "The Flight (Lux)",
+      "services": {
+        "qobuz": "189653610"
+      },
+      "album": "The Flight (Lux)",
+      "duration": 321,
+      "isrc": "US57M0539902"
+    },
+    {
+      "artist": "Colony 5",
+      "title": "Knives",
+      "services": {
+        "qobuz": "198958781"
+      },
+      "album": "Knives",
+      "duration": 334,
+      "isrc": "SETGM0701004"
+    },
+    {
+      "artist": "Code 64",
+      "title": "Leaving Earth",
+      "services": {
+        "qobuz": "385071726"
+      },
+      "album": "Departure",
+      "duration": 338,
+      "isrc": "SETGM0600102"
+    },
+    {
+      "artist": "Beborn Beton",
+      "title": "Daisy Cutter",
+      "services": {
+        "qobuz": "189602553"
+      },
+      "album": "A Worthy Compensation",
+      "duration": 314,
+      "isrc": "DES561599701"
+    },
+    {
+      "artist": "Pride And Fall",
+      "title": "The Painful Regret",
+      "services": {
+        "qobuz": "189654233"
+      },
+      "album": "In My Time of Dying",
+      "duration": 354,
+      "isrc": "DEP510712502"
+    },
+    {
+      "artist": "Rotersand",
+      "title": "War on Error",
+      "services": {
+        "qobuz": "20790531"
+      },
+      "album": "War on Error",
+      "duration": 274,
+      "isrc": "DEZ900900696"
+    },
+    {
+      "artist": "Iris",
+      "title": "Appetite",
+      "services": {
+        "qobuz": "189606074"
+      },
+      "album": "Wrath",
+      "duration": 193,
+      "isrc": "USYJG0710019"
+    },
+    {
+      "artist": "Seabound",
+      "title": "Hooked",
+      "services": {
+        "qobuz": "189652781"
+      },
+      "album": "No Sleep Demon",
+      "duration": 296,
+      "isrc": "DEP510102507"
+    },
+    {
+      "artist": "De/Vision",
+      "title": "Rage",
+      "services": {
+        "qobuz": "23169266"
+      },
+      "album": "The Mix 3.0",
+      "duration": 291,
+      "isrc": "DEMT31100030"
+    },
+    {
+      "artist": "Syrian",
+      "title": "She Is the Dark (Radio Edit)",
+      "services": {
+        "qobuz": "90918864"
+      },
+      "album": "Alternate and Remixed .01",
+      "duration": 268,
+      "isrc": "USCGH1817457"
+    },
+    {
+      "artist": "Ashbury Heights",
+      "title": "Spiders",
+      "services": {
+        "qobuz": "134665476"
+      },
+      "album": "Morningstar in a Black Car",
+      "duration": 324,
+      "isrc": "DEBZ70800153"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+# Genre: Avantgarde Rock
+
+Imported genre playlist: Avantgarde Rock.
+
+Services: `qobuz:66737249`
+
+## Tracks (100)
+
+- **The Fugs** — CIA Man [Refuse To Be Burnt-Out] (3:28) `isrc:USX7M1001010` `qobuz:14453610`
+- **The Monks** — Monk Time [The Early Years 1964 - 1965] (2:24) `isrc:USDEA0904101` `qobuz:313175890`
+- **Bonzo Dog Doo Dah Band** — The Intro and the Outro [A Dog's Life (The Albums 1967 - 1972)] (3:02) `isrc:GBAYE0701005` `qobuz:3133999`
+- **The Doors** — Horse Latitudes [Strange Days (50th Anniversary Expanded Edition)] (1:35) `isrc:USRH11703373` `qobuz:43509063`
+- **Frank Zappa** — Brown Shoes Don't Make It [Absolutely Free] (7:29) `isrc:USZPE1200029` `qobuz:118330637`
+- **The Red Krayola** — Hurricane Fighter Plane [The Parable Of Arable Land / God Bless The Red Krayola And All Who Sail With It Vol. 1] (3:31) `isrc:USFB20607806` `qobuz:2238321`
+- **Fifty Foot Hose** — If Not This Time [Cauldron] (3:38) `isrc:GB03A0916771` `qobuz:156024357`
+- **Lothar and the Hand People** — Machines [Machines: Amherst 1969] (2:20) `isrc:USCWY1900610` `qobuz:86172975`
+- **The United States Of America** — The American Metaphysical Circus [The United States Of America] (4:57) `isrc:USSM16801788` `qobuz:4959068`
+- **Silver Apples** — Oscillations [Silver Apples] (2:47) `isrc:USMC16811187` `qobuz:34218862`
+- **The Beatles** — Revolution 9 [The Beatles (White Album) [Super Deluxe]] (8:20) `isrc:GBUM71802729` `qobuz:53668107`
+- **The Velvet Underground** — Sister Ray [White Light / White Heat] (17:31) `isrc:USPR36805196` `qobuz:52482732`
+- **The Band** — Caledonia Mission [Music From Big Pink] (2:54) `isrc:USCA20000893` `qobuz:15435938`
+- **Captain Beefheart** — Ry Cooder talks about working with The Captain and The Magic Band [The Captain's Last Live Concert Plus...] (1:19) `isrc:GBRHE0710138` `qobuz:237731530`
+- **White Noise** — Love Without Sound [An Electric Storm] (3:06) `isrc:GBAAN0300253` `qobuz:4277778`
+- **Nico** — Janitor Of Lunacy [Desertshore] (4:03) `isrc:GBCEL2303237` `qobuz:250782141`
+- **Brian Eno** — Needles In The Camel's Eye [Here Come The Warm Jets] (3:10) `isrc:GBAAA0400054` `qobuz:4583084`
+- **John Cale** — Fear Is A Man's Best Friend [Fear] (3:52) `isrc:GBAAN7400059` `qobuz:633366`
+- **Lou Reed** — Metal Machine Music, Pt. 1 [Metal Machine Music] (16:05) `isrc:USRC10000879` `qobuz:183246`
+- **Patti Smith** — Birdland [Horses (50th Anniversary)] (9:13) `isrc:USAR17500206` `qobuz:351836223`
+- **Gary Wilson** — 6.4 = Make Out [You Think You Really Know Me] (5:01) `isrc:USG320600011` `qobuz:74339623`
+- **Suicide** — Ghost Rider [Suicide] (2:33) `isrc:GB5KW1602342` `qobuz:385321151`
+- **Ultravox** — I Want To Be A Machine [Ultravox!] (7:21) `isrc:GBAAN7700034` `qobuz:4389369`
+- **David Bowie** — Warszawa [Low] (6:27) `isrc:USJT11600352` `qobuz:44528110`
+- **Devo** — Jocko Homo [Q: Are We Not Men?  A: We Are Devo / Devo Live] (3:39) `isrc:GBAAA7800026` `qobuz:4622733`
+- **Magazine** — Shot By Both Sides [Real Life] (4:03) `isrc:GBAAA0700206` `qobuz:835438`
+- **Pere Ubu** — Final Solution [Terminal Tower] (4:58) `isrc:GBCKK1837903` `qobuz:194592655`
+- **The Residents** — Constantinople [Duck Stab] (2:26) `isrc:GBBLY1701092` `qobuz:78214051`
+- **Wire** — A Touching Display [154] (6:55) `isrc:GBAYE0400747` `qobuz:46760518`
+- **Talking Heads** — Big Business / I Zimbra (Live) [Stop Making Sense (Deluxe Edition)] (7:23) `isrc:USRH12300832` `qobuz:217552741`
+- **The Pop Group** — She Is Beyond Good And Evil [She Is Beyond Good And Evil / 3:38] (3:22) `isrc:UK8DN1700042` `qobuz:66352398`
+- **The Raincoats** — No Side to Fall In [The Raincoats] (1:49) `isrc:GB5ZC0900002` `qobuz:77345103`
+- **Chrome** — TV As Eyes [Half Machine Lip Moves / Alien Soundtracks] (2:19) `isrc:USA560668619` `qobuz:50997507`
+- **Cabaret Voltaire** — Nag, Nag, Nag [The Original Sound of Sheffield: '78 / '82 Best Of] (4:38) `isrc:GBAJH0402421` `qobuz:1940918`
+- **Robert Fripp** — Exposure [Exposure] (4:26) `isrc:GBCTX1800883` `qobuz:75829459`
+- **Snakefinger** — The Man in the Dark Sedan [Greener Postures] (4:33) `isrc:ATKH51622503` `qobuz:48327953`
+- **Swell Maps** — Let's Build A Car [International Rescue] (3:01) `isrc:US27U0403503` `qobuz:71830643`
+- **The Fall** — The Classical [Hex Enduction Hour] (5:16) `isrc:QMFMF1526371` `qobuz:120486665`
+- **Young Marble Giants** — N.I.T.A. [Colossal Youth] (3:31) `isrc:GBCEL0700246` `qobuz:103317945`
+- **Tuxedomoon** — No Tears [Solve Et Coagula (The Best Of Tuxedomoon)] (5:40) `isrc:BEG207800010` `qobuz:3156376`
+- **Brian Eno & David Byrne** — America Is Waiting [My Life In The Bush Of Ghosts] (3:37) `isrc:GBAAA8100270` `qobuz:4395285`
+- **Glenn Branca** — The Ascension [The Ascension] (13:09) `isrc:US22N0420205` `qobuz:156380757`
+- **Laurie Anderson** — O Superman [Big Science] (8:25) `isrc:USNO10750554` `qobuz:11362185`
+- **Public Image Ltd.** — Flowers Of Romance [Flowers Of Romance] (2:49) `isrc:GBAAA1100099` `qobuz:4789364`
+- **Renaldo & The Loaf** — 120 Before Zero [Breadcrumbs] (4:23) `isrc:QMFMF1599318` `qobuz:44962827`
+- **The Birthday Party** — Release The Bats [Junkyard] (2:31) `isrc:GBAFL8200058` `qobuz:58599202`
+- **The Lounge Lizards** — Bob the Bob [Voice Of Chunk] (2:07) `isrc:USSBM0101201` `qobuz:74714643`
+- **This Heat** — Paper Hats [Deceit] (6:02) `isrc:GBTFC1700021` `qobuz:99157265`
+- **Art Of Noise** — Close (To The Edit) [(Who's Afraid Of) The Art Of Noise?] (5:35) `isrc:GBUM71801124` `qobuz:53902787`
+- **Butthole Surfers** — Sweat Loaf [Locust Abortion Technician] (5:11) `isrc:USMTD2300578` `qobuz:271773210`
+- **Mark Stewart and The Maffia & Mark Stewart** — Liberty City [Learning to Cope With Cowardice] (5:36) `isrc:UK8DN1700016` `qobuz:53913019`
+- **The Ex** — State of Shock [Scrabbling At The Lock] (6:06) `isrc:NLL500500219` `qobuz:246981139`
+- **Dog Faced Hermans** — Jan 9 [Hum Of Life] (4:57) `isrc:QZDA82220732` `qobuz:149031181`
+- **Einstürzende Neubauten** — Feurio! [Haus der Lüge] (5:45) `isrc:GBEEL8850002` `qobuz:54392338`
+- **The Young Gods** — Kissing the Sun [Only Heaven] (4:29) `isrc:BEP010590274` `qobuz:346065398`
+- **Bongwater** — Chicken Pussy [The Power of Pussy] (1:40) `isrc:USIR40562205` `qobuz:14965537`
+- **Mercury Rev** — Chasing A Bee [Yerself Is Steam] (7:11) `isrc:GBCST9180401` `qobuz:73566736`
+- **Mr. Bungle** — Carousel [Mr. Bungle] (5:13) `isrc:USWB19903995` `qobuz:2934279`
+- **U2** — With Or Without You [The Joshua Tree] (4:55) `isrc:GBUM70709792` `qobuz:740353`
+- **Slint** — Good Morning, Captain [Spiderland (remastered)] (7:41) `isrc:USTG31436406` `qobuz:32668927`
+- **Bruno Mars** — Treasure [Unorthodox Jukebox (Hi-Res Version)] (2:58) `isrc:USAT21206710` `qobuz:8766352`
+- **Primus** — My Name Is Mud [Pork Soda] (4:46) `isrc:USIR19300506` `qobuz:56801093`
+- **The Flaming Lips** — She Don't Use Jelly [Transmissions From the Satellite Heart] (3:40) `isrc:USWB11700505` `qobuz:40435371`
+- **Bark Psychosis** — The Loom [Hex] (5:15) `isrc:GBAAA9401050` `qobuz:4653163`
+- **Loop Collective** — The Sea and Cake [Remixes] (4:38) `isrc:USHM90915060` `qobuz:82376319`
+- **Björk** — Army Of Me [Post] (3:54) `isrc:GBBTF0200244` `qobuz:249106593`
+- **Don Caballero** — Fire Back About Your New Baby's Sex [American Don] (4:43) `isrc:USTG30021801` `qobuz:32674056`
+- **Gastr del Sol** — The Seasons Reverse [Camoufleur] (5:51) `isrc:US58L0513301` `qobuz:48466630`
+- **Stereolab** — Metronomic Underground [Emperor Tomato Ketchup] (7:54) `isrc:USEE19694710` `qobuz:79173662`
+- **The Olivia Tremor Control** — Jumping Fences [Dusk at Cubist Castle] (1:52) `isrc:USG590610052` `qobuz:20821067`
+- **Cornelius** — Star Fruit Surf Rider (Damon Albarn Remix) [FM - Fantasma reMixes] (4:55) `isrc:USMTD9934905` `qobuz:71606143`
+- **Lifte** — The Dead Flag Blues [The Dead Flag Blues (feat. Jameson Day) [Abridged]] (7:24) `isrc:QZNWU2263748` `qobuz:172589487`
+- **Radiohead** — Paranoid Android [OK Computer OKNOTOK 1997 2017] (6:23) `isrc:GBBKS1700185` `qobuz:41692581`
+- **The Beta Band** — Dry The Rain (Remaster) [The Three E.P.’s (20th Anniversary Remaster)] (6:03) `isrc:GBMVH1800440` `qobuz:51532079`
+- **Ween** — Spinal Meningitis (Got Me Down) [Chocolate and Cheese] (2:52) `isrc:USRH12401242` `qobuz:270785603`
+- **Enon** — Natural Disasters [High Society] (2:50) `isrc:USTG30223511` `qobuz:32678261`
+- **Fireworks** — Sheets of Easter [Koozies, Woodies, and Beers: A Brah/Ocropolis Benefit Compilation for Japan Relief] (5:31) `isrc:US38Y1202105` `qobuz:5247703`
+- **The Books** — Smells Like Content [Lost and Safe (Remastered)] (3:42) `isrc:USY6C1118204` `qobuz:20786953`
+- **Deerhoof** — Milk Man [Milk Man] (4:23) `isrc:USKRS0340601` `qobuz:163342537`
+- **Secret Chiefs 3** — Renunciation [Hurqalya: 2nd Grand Constitution and Bylaws] (4:29) `isrc:USA3V0400116` `qobuz:52190451`
+- **Sleepytime Gorilla Museum** — Salamander in Two Worlds [of the Last Human Being] (6:30) `isrc:USJZA2480101` `qobuz:234319544`
+- **The Fiery Furnaces** — Quay Cur [Blueberry Boat] (10:25) `isrc:GBCVZ0300843` `qobuz:136114823`
+- **Xiu Xiu** — Apistat Commander [A Promise] (4:35) `isrc:USKRS0302402` `qobuz:73670829`
+- **Liars** — Plaster Casts of Everything [Liars] (3:56) `isrc:GBAJH0700432` `qobuz:5999845`
+- **TV On The Radio** — Wolf Like Me [Return To Cookie Mountain] (4:37) `isrc:USTG30626805` `qobuz:53733338`
+- **Animal Collective** — Peacebone [Strawberry Jam] (5:13) `isrc:GBCEL0700347` `qobuz:2501445`
+- **Battles** — Atlas [Mirrored] (7:06) `isrc:GBBPW0700009` `qobuz:3776541`
+- **Of Montreal** — The Past Is A Grotesque Animal [The Past Is A Grotesque Animal] (11:53) `isrc:US3R40612407` `qobuz:181989937`
+- **Women** — Eyesore [Public Strain] (6:25) `isrc:US38Y1015211` `qobuz:2307233`
+- **Dirty Projectors** — Stillness Is The Move [Bitte Orca] (5:14) `isrc:GBCEL0900173` `qobuz:2501665`
+- **Tune-Yards** — Bizness [W H O K I L L] (4:22) `isrc:GBAFL1100007` `qobuz:3547163`
+- **St. Vincent** — Digital Witness [St. Vincent] (3:22) `isrc:USUM71318966` `qobuz:14580179`
+- **Palm** — Dog Milk [Rock Island] (5:19) `isrc:US22N1812403` `qobuz:156379493`
+- **Anna von Hausswolff** — The Truth the Glow the Fall [Live at Montreux Jazz Festival] (8:32) `isrc:USZPA0901972` `qobuz:139092824`
+- **Black Country, New Road** — Sunglasses [For the first time] (9:50) `isrc:GBCFB2000568` `qobuz:114217495`
+- **black midi** — John L [Cavalcade] (5:13) `isrc:GBCVZ2000251` `qobuz:119702680`
+- **Squid** — Narrator [Bright Green Field] (8:28) `isrc:GBBPW2000224` `qobuz:120957303`
+- **caroline** — Dark blue [caroline] (6:36) `isrc:GBCVZ2100182` `qobuz:135441907`
+- **The Smile** — Thin Thing [A Light for Attracting Attention] (4:30) `isrc:GBBKS2200005` `qobuz:154186860`
+- **Grote Geelstaart** — Maalstroom [Maalstroom] (1:44) `isrc:QZFZ32688379` `qobuz:422107824`

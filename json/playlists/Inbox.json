@@ -1,0 +1,188 @@
+{
+  "name": "Inbox",
+  "services": {
+    "qobuz": "60273647"
+  },
+  "tracks": [
+    {
+      "artist": "\u0417\u043e\u043b\u043e\u0442\u044b\u0435 \u0437\u0443\u0431\u044b",
+      "title": "\u0421\u043b\u0438\u0448\u043a\u043e\u043c \u043c\u043d\u043e\u0433\u043e \u0441\u043b\u0443\u0447\u0430\u0439\u043d\u044b\u0445 \u0441\u043c\u0435\u0440\u0442\u0435\u0439",
+      "services": {
+        "qobuz": "398799952"
+      },
+      "album": "\u0421\u043b\u0438\u0448\u043a\u043e\u043c \u043c\u043d\u043e\u0433\u043e \u0441\u043b\u0443\u0447\u0430\u0439\u043d\u044b\u0445 \u0441\u043c\u0435\u0440\u0442\u0435\u0439",
+      "duration": 596,
+      "isrc": "FR2X42698045"
+    },
+    {
+      "artist": "KMFDM",
+      "title": "YO\u00dc (INHALT Kunst '93 Remix)",
+      "services": {
+        "qobuz": "411703640"
+      },
+      "album": "YO\u00dc",
+      "duration": 310,
+      "isrc": "US57M2544023"
+    },
+    {
+      "artist": "KMFDM",
+      "title": "YO\u00dc",
+      "services": {
+        "qobuz": "411703641"
+      },
+      "album": "YO\u00dc",
+      "duration": 250,
+      "isrc": "US57M2544005"
+    },
+    {
+      "artist": "The Horrors",
+      "title": "The Feeling Is Gone (Xquisite Korpse Rework)",
+      "services": {
+        "qobuz": "410551655"
+      },
+      "album": "The Feeling Is Gone (Xquisite Korpse Rework)",
+      "duration": 397,
+      "isrc": "USA2P2610673"
+    },
+    {
+      "artist": "The Horrors",
+      "title": "The Feeling Is Gone",
+      "services": {
+        "qobuz": "410551656"
+      },
+      "album": "The Feeling Is Gone (Xquisite Korpse Rework)",
+      "duration": 245,
+      "isrc": "GBUM72403945"
+    },
+    {
+      "artist": "Panopticon",
+      "title": "The Great Silence, Extinct",
+      "services": {
+        "qobuz": "412416179"
+      },
+      "album": "The Great Silence, Extinct",
+      "duration": 534,
+      "isrc": "SE6722600102"
+    },
+    {
+      "artist": "Panopticon",
+      "title": "The White Cedars",
+      "services": {
+        "qobuz": "412416180"
+      },
+      "album": "The Great Silence, Extinct",
+      "duration": 510,
+      "isrc": "SE6722600104"
+    },
+    {
+      "artist": "Korn",
+      "title": "Reward the Scars",
+      "services": {
+        "qobuz": "410587347"
+      },
+      "album": "Reward the Scars",
+      "duration": 215,
+      "isrc": "USC4R2666412"
+    },
+    {
+      "artist": "Tricky",
+      "title": "Out of Place",
+      "services": {
+        "qobuz": "404570258"
+      },
+      "album": "Out of Place",
+      "duration": 157,
+      "isrc": "DEG932601790"
+    },
+    {
+      "artist": "Devin Townsend",
+      "title": "Home at Night",
+      "services": {
+        "qobuz": "405853755"
+      },
+      "album": "Home at Night",
+      "duration": 315,
+      "isrc": "CA1TB2600013"
+    },
+    {
+      "artist": "Devin Townsend",
+      "title": "Home at Night",
+      "services": {
+        "qobuz": "405853756"
+      },
+      "album": "Home at Night",
+      "duration": 314,
+      "isrc": "CA1TB2600037"
+    },
+    {
+      "artist": "Peter Gabriel",
+      "title": "Till Your Mind Is Shining",
+      "services": {
+        "qobuz": "408830922"
+      },
+      "album": "Till Your Mind Is Shining",
+      "duration": 307,
+      "isrc": "GBCPB2602200"
+    },
+    {
+      "artist": "Jack White",
+      "title": "G.O.D. And The Broken Ribs",
+      "services": {
+        "qobuz": "399231358"
+      },
+      "album": "G.O.D. And The Broken Ribs / Derecho Demonico",
+      "duration": 223,
+      "isrc": "US3JJ2601440"
+    },
+    {
+      "artist": "Jack White",
+      "title": "Derecho Demonico",
+      "services": {
+        "qobuz": "399231359"
+      },
+      "album": "G.O.D. And The Broken Ribs / Derecho Demonico",
+      "duration": 233,
+      "isrc": "US3JJ2601441"
+    },
+    {
+      "artist": "Cyhra",
+      "title": "Bleed With Pride",
+      "services": {
+        "qobuz": "397924590"
+      },
+      "album": "Bleed With Pride",
+      "duration": 192,
+      "isrc": "DE1KY2607252"
+    },
+    {
+      "artist": "Converge",
+      "title": "Hum of Hurt",
+      "services": {
+        "qobuz": "398877102"
+      },
+      "album": "Hum of Hurt",
+      "duration": 215,
+      "isrc": "USEP42542019"
+    },
+    {
+      "artist": "Vanden Plas",
+      "title": "Far Off Grace",
+      "services": {
+        "qobuz": "400260617"
+      },
+      "album": "Far Off Grace",
+      "duration": 458,
+      "isrc": "ITG272600109"
+    },
+    {
+      "artist": "Devin Townsend",
+      "title": "Enter the City",
+      "services": {
+        "qobuz": "397898270"
+      },
+      "album": "Enter the City",
+      "duration": 154,
+      "isrc": "CA1TB2600029"
+    }
+  ]
+}

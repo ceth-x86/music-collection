@@ -1,0 +1,920 @@
+{
+  "name": "Genre: Apocalyptic Folk",
+  "services": {
+    "qobuz": "66709887",
+    "tidal": "c956512f-d2c0-42a0-9535-1c6d1811c31d"
+  },
+  "description": "Imported genre playlist: Apocalyptic Folk.",
+  "tracks": [
+    {
+      "artist": "The Revolutionary Army of the Infant Jesus",
+      "title": "The Road Home",
+      "services": {
+        "qobuz": "274091636"
+      },
+      "album": "The Dream We Carry EP",
+      "duration": 227,
+      "isrc": "GX5632420007"
+    },
+    {
+      "artist": "Sol Invictus",
+      "title": "Against the Modern World",
+      "services": {
+        "qobuz": "189587146"
+      },
+      "album": "Against the Modern World",
+      "duration": 116,
+      "isrc": "DES561190803"
+    },
+    {
+      "artist": "Dead Can Dance",
+      "title": "The Host of Seraphim",
+      "services": {
+        "qobuz": "2534354"
+      },
+      "album": "A Passage In Time",
+      "duration": 377,
+      "isrc": "GBAFL9000322"
+    },
+    {
+      "artist": "Tennis",
+      "title": "Always The Same",
+      "services": {
+        "qobuz": "316843848"
+      },
+      "album": "Face Down In The Garden",
+      "duration": 197,
+      "isrc": "QMEU32501056"
+    },
+    {
+      "artist": "Swans",
+      "title": "God Damn The Sun",
+      "services": {
+        "qobuz": "262686842"
+      },
+      "album": "The Burning World",
+      "duration": 260,
+      "isrc": "USUM71103675"
+    },
+    {
+      "artist": "The White Stripes",
+      "title": "Fell In Love With a Girl",
+      "services": {
+        "qobuz": "102570093"
+      },
+      "album": "White Blood Cells",
+      "duration": 110,
+      "isrc": "GBBKS0100352"
+    },
+    {
+      "artist": "TheCamboStation",
+      "title": "Your Name Is a Papercut",
+      "services": {
+        "qobuz": "378493730"
+      },
+      "album": "Deep Sadness Love Song (Sad Love Story)",
+      "duration": 257,
+      "isrc": "GXJBS2555102"
+    },
+    {
+      "artist": "Death In June",
+      "title": "But, What Ends When the Symbols Shatter?",
+      "services": {
+        "qobuz": "62629959"
+      },
+      "album": "But, What Ends When the Symbols Shatter?",
+      "duration": 195,
+      "isrc": "USI4R0606700"
+    },
+    {
+      "artist": "Fire + Ice",
+      "title": "Gilded by the Sun",
+      "services": {
+        "qobuz": "189661921"
+      },
+      "album": "Gilded by the Sun",
+      "duration": 385,
+      "isrc": "USHM90788913"
+    },
+    {
+      "artist": "Romance",
+      "title": "Kiss The Blood Off My Hands",
+      "services": {
+        "qobuz": "334061403"
+      },
+      "album": "Love Is Colder Than Death",
+      "duration": 273,
+      "isrc": "QZNWW2533405"
+    },
+    {
+      "artist": "Ataraxia",
+      "title": "The Moon Sang on the April Chair",
+      "services": {
+        "qobuz": "143104166"
+      },
+      "album": "The Moon Sang on the April Chair",
+      "duration": 386,
+      "isrc": "CH6541690944"
+    },
+    {
+      "artist": "Changes",
+      "title": "Fire of Life",
+      "services": {
+        "qobuz": "76249937"
+      },
+      "album": "Fire of Life",
+      "duration": 259,
+      "isrc": "DEKB30810463"
+    },
+    {
+      "artist": "Nature And Organisation",
+      "title": "Wicker Man Song",
+      "services": {
+        "qobuz": "26712950"
+      },
+      "album": "Snow Leopard Messiah",
+      "duration": 274,
+      "isrc": "DEZ901501284"
+    },
+    {
+      "artist": "True Red",
+      "title": "The Moon Lay Hidden Beneath a Rhythm",
+      "services": {
+        "qobuz": "343331552"
+      },
+      "album": "The Moon Lay Hidden Beneath a Rhythm",
+      "duration": 160,
+      "isrc": "QZKWA2327269"
+    },
+    {
+      "artist": "Faith and the Muse",
+      "title": "Elyria",
+      "services": {
+        "qobuz": "5904348"
+      },
+      "album": "Elyria",
+      "duration": 265,
+      "isrc": "US57M0520701"
+    },
+    {
+      "artist": "Sopor Aeternus & The Ensemble Of Shadows",
+      "title": "In der Pal\u00e4stra",
+      "services": {
+        "qobuz": "137847615"
+      },
+      "album": "In der Pal\u00e4stra",
+      "duration": 429,
+      "isrc": "DEZ900800246"
+    },
+    {
+      "artist": "Lise Davidsen",
+      "title": "R. Strauss: 8 Lieder aus Letzte Bl\u00e4tter, Op. 10: No. 8, Allerseelen",
+      "services": {
+        "qobuz": "376213785"
+      },
+      "album": "Live at the Met",
+      "duration": 167,
+      "isrc": "USY3P2409159"
+    },
+    {
+      "artist": "Blood Axis",
+      "title": "Reign I Forever",
+      "services": {
+        "qobuz": "68116247"
+      },
+      "album": "Bl\u00f3t: Sacrifice in Sweden",
+      "duration": 441,
+      "isrc": "USHM90778636"
+    },
+    {
+      "artist": "Qntal",
+      "title": "Ad mortem festinamus",
+      "services": {
+        "qobuz": "16307941"
+      },
+      "album": "Qntal I",
+      "duration": 368,
+      "isrc": "US37B0701392"
+    },
+    {
+      "artist": "A Challenge Of Honour",
+      "title": "Preparing the Village",
+      "services": {
+        "qobuz": "218599613"
+      },
+      "album": "Seven Samurai",
+      "duration": 324,
+      "isrc": "GX38U2343226"
+    },
+    {
+      "artist": "Arcana",
+      "title": "Dark Age of Reason",
+      "services": {
+        "qobuz": "73837463"
+      },
+      "album": "Dark Age of Reason",
+      "duration": 419,
+      "isrc": "CAAD21010294"
+    },
+    {
+      "artist": "Camerata Mediolanense",
+      "title": "Rappresentazione",
+      "services": {
+        "qobuz": "189589792"
+      },
+      "album": "Campo di marte",
+      "duration": 373,
+      "isrc": "DES561394105"
+    },
+    {
+      "artist": "Mano Solo",
+      "title": "Les habitants du feu rouge",
+      "services": {
+        "qobuz": "2025675"
+      },
+      "album": "Dehors",
+      "duration": 220,
+      "isrc": "FRZ160000260"
+    },
+    {
+      "artist": "Bill Charlap",
+      "title": "Blue Orchids",
+      "services": {
+        "qobuz": "1006452"
+      },
+      "album": "Stardust: The Music Of Hoagy Carmichael",
+      "duration": 354,
+      "isrc": "USBN20200008"
+    },
+    {
+      "artist": "Darkwood",
+      "title": "Wintermarchen",
+      "services": {
+        "qobuz": "76256894"
+      },
+      "album": "Notwendfeuer",
+      "duration": 321,
+      "isrc": "DEKB30810222"
+    },
+    {
+      "artist": "Scylla",
+      "title": "HAYAWAN",
+      "services": {
+        "qobuz": "382520451"
+      },
+      "album": "HAYAWAN",
+      "duration": 246,
+      "isrc": "FRX852503100"
+    },
+    {
+      "artist": "Ostara",
+      "title": "Bavaria",
+      "services": {
+        "qobuz": "218713787"
+      },
+      "album": "Kingdom Gone",
+      "duration": 285,
+      "isrc": "DGA062312996"
+    },
+    {
+      "artist": "Charly Voodoo",
+      "title": "\u00c0 la fin cette berg\u00e8re",
+      "services": {
+        "qobuz": "230883889"
+      },
+      "album": "Les secrets de la princesse de Cadignan (Bande originale du film)",
+      "duration": 132,
+      "isrc": "FR2FD2300073"
+    },
+    {
+      "artist": "Der Blutharsch",
+      "title": "The Philosopher's Stone 4",
+      "services": {
+        "qobuz": "76258390"
+      },
+      "album": "The Philosopher's Stone",
+      "duration": 327,
+      "isrc": "DEKB30810243"
+    },
+    {
+      "artist": "Forseti",
+      "title": "Welkes Blatt",
+      "services": {
+        "qobuz": "203120605"
+      },
+      "album": "Windzeit",
+      "duration": 194,
+      "isrc": "GX4R52180998"
+    },
+    {
+      "artist": "Derni\u00e8re Volont\u00e9",
+      "title": "La Croix Sacree",
+      "services": {
+        "qobuz": "76257704"
+      },
+      "album": "Obeir Et Mourir",
+      "duration": 181,
+      "isrc": "DEKB30910371"
+    },
+    {
+      "artist": "Ordo Equitum Solis",
+      "title": "Into This Funny Play (Acoustic mix)",
+      "services": {
+        "qobuz": "319804743"
+      },
+      "album": "Signs",
+      "duration": 222,
+      "isrc": "FR9W19900381"
+    },
+    {
+      "artist": "Hekate",
+      "title": "Sonnentanz",
+      "services": {
+        "qobuz": "189636425"
+      },
+      "album": "Ten Years of Endurance",
+      "duration": 268,
+      "isrc": "DES560390315"
+    },
+    {
+      "artist": "Coph Nia",
+      "title": "That Which Remains",
+      "services": {
+        "qobuz": "47894287"
+      },
+      "album": "That Which Remains",
+      "duration": 693,
+      "isrc": "QMBZ91766976"
+    },
+    {
+      "artist": "Henry Jackman",
+      "title": "Leading the Charge",
+      "services": {
+        "qobuz": "120544754"
+      },
+      "album": "The Falcon and the Winter Soldier: Vol. 2 (Episodes 4-6)",
+      "duration": 160,
+      "isrc": "USHR12141574"
+    },
+    {
+      "artist": "Meshell Ndegeocello",
+      "title": "Travel",
+      "services": {
+        "qobuz": "268160240"
+      },
+      "album": "No More Water: The Gospel Of James Baldwin",
+      "duration": 249,
+      "isrc": "USUM72403948"
+    },
+    {
+      "artist": "Kurdo",
+      "title": "Alors",
+      "services": {
+        "qobuz": "247160802"
+      },
+      "album": "KRISTALL",
+      "duration": 164,
+      "isrc": "DEXG92100058"
+    },
+    {
+      "artist": "In Gowan Ring",
+      "title": "The Wind that Cracks the Leaves",
+      "services": {
+        "qobuz": "176522312"
+      },
+      "album": "Hazel Steps through a Weathered Home",
+      "duration": 384,
+      "isrc": "QZ22B1859993"
+    },
+    {
+      "artist": "Angels of Light",
+      "title": "New Mother",
+      "services": {
+        "qobuz": "48065679"
+      },
+      "album": "New Mother",
+      "duration": 275,
+      "isrc": "USA3T0400059"
+    },
+    {
+      "artist": "Kreator",
+      "title": "When the Sun Burns Red",
+      "services": {
+        "qobuz": "385658011"
+      },
+      "album": "Coma of Souls",
+      "duration": 331,
+      "isrc": "GBAJE9000135"
+    },
+    {
+      "artist": "Panopticon",
+      "title": "The White Cedars",
+      "services": {
+        "qobuz": "412416180"
+      },
+      "album": "The Great Silence, Extinct",
+      "duration": 510,
+      "isrc": "SE6722600104"
+    },
+    {
+      "artist": "Son Lux",
+      "title": "Let Me Follow",
+      "services": {
+        "qobuz": "292860796"
+      },
+      "album": "Original Music from and Inspired By: The Disappearance of Eleanor Rigby (Original Motion Picture Soundtrack)",
+      "duration": 288,
+      "isrc": "USYAH1400021"
+    },
+    {
+      "artist": "Tenhi",
+      "title": "Saattue",
+      "services": {
+        "qobuz": "198599153"
+      },
+      "album": "Valkama",
+      "duration": 669,
+      "isrc": "DES562310458"
+    },
+    {
+      "artist": "Hagalaz Runedance",
+      "title": "Frigga's Web",
+      "services": {
+        "qobuz": "56196979"
+      },
+      "album": "Frigga's Web",
+      "duration": 278,
+      "isrc": "NLKAR0904003"
+    },
+    {
+      "artist": "Ordo Rosarius Equilibrio",
+      "title": "Make Love, and War",
+      "services": {
+        "qobuz": "134825289"
+      },
+      "album": "Make Love & War - The Wedlock of Roses & Equilibrium",
+      "duration": 308,
+      "isrc": "DEBZ71101010"
+    },
+    {
+      "artist": "Of The Wand & The Moon",
+      "title": "Lost In Emptiness",
+      "services": {
+        "qobuz": "58083749"
+      },
+      "album": "Emptiness Emptiness Emptiness (2010 re-release)",
+      "duration": 264,
+      "isrc": "DKFDD1000401"
+    },
+    {
+      "artist": "Of The Wand & The Moon",
+      "title": "I Crave For You",
+      "services": {
+        "qobuz": "58059015"
+      },
+      "album": "Nighttime Nightrhymes (2010 Re-release)",
+      "duration": 170,
+      "isrc": "DKFDD9900102"
+    },
+    {
+      "artist": "Nest",
+      "title": "The Silvershade Lynx",
+      "services": {
+        "qobuz": "138643873"
+      },
+      "album": "Woodsmoke",
+      "duration": 394,
+      "isrc": "FI2A70300001"
+    },
+    {
+      "artist": "Empyrium",
+      "title": "Where at Night the Wood Grouse Plays",
+      "services": {
+        "qobuz": "189639697"
+      },
+      "album": "Where at Night the Wood Grouse Plays",
+      "duration": 331,
+      "isrc": "DES569901501"
+    },
+    {
+      "artist": "Theodor Bastard",
+      "title": "Pustota",
+      "services": {
+        "qobuz": "91873853"
+      },
+      "album": "Pustota",
+      "duration": 239,
+      "isrc": "USHM91231463"
+    },
+    {
+      "artist": "Von Thronstahl",
+      "title": "The Age Of Decay And Democrazy",
+      "services": {
+        "qobuz": "56260235"
+      },
+      "album": "Sacrificare",
+      "duration": 317,
+      "isrc": "GBAS91208201"
+    },
+    {
+      "artist": "Sonne Hagal",
+      "title": "Ragnarok",
+      "services": {
+        "qobuz": "76261627"
+      },
+      "album": "Jordansfrost",
+      "duration": 220,
+      "isrc": "DEKB30810090"
+    },
+    {
+      "artist": "Swallow The Sun",
+      "title": "...and Heavens Cried Blood",
+      "services": {
+        "qobuz": "190404191"
+      },
+      "album": "New Moon",
+      "duration": 377,
+      "isrc": "FIUM70900954"
+    },
+    {
+      "artist": "Sieben",
+      "title": "Ogham The Moon",
+      "services": {
+        "qobuz": "167253352"
+      },
+      "album": "Ogham Inside The Night / Sex And Wildflowers",
+      "duration": 253,
+      "isrc": "GBZEA0900090"
+    },
+    {
+      "artist": "Fr\u00e4km\u00fcndt",
+      "title": "D'draachejongfer",
+      "services": {
+        "qobuz": "189591161"
+      },
+      "album": "Heiwehland",
+      "duration": 325,
+      "isrc": "DES561495210"
+    },
+    {
+      "artist": "Matt Elliott",
+      "title": "The Right To Cry",
+      "services": {
+        "qobuz": "338077732"
+      },
+      "album": "Only Myocardial Infarction Can Break Your Heart",
+      "duration": 1038,
+      "isrc": "FR24Q1321001"
+    },
+    {
+      "artist": "The Coup",
+      "title": "Piss On Your Grave",
+      "services": {
+        "qobuz": "52231668"
+      },
+      "album": "Steal This Double Album",
+      "duration": 327,
+      "isrc": "USKX50700013"
+    },
+    {
+      "artist": "Derni\u00e8re Volont\u00e9",
+      "title": "Au Travers Des Lauriers",
+      "services": {
+        "qobuz": "76262208"
+      },
+      "album": "Devant Le Miroir",
+      "duration": 312,
+      "isrc": "DEKB30810140"
+    },
+    {
+      "artist": "Spiritual Front",
+      "title": "Darkroom Friendship",
+      "services": {
+        "qobuz": "189655994"
+      },
+      "album": "Rotten Roma Casino",
+      "duration": 200,
+      "isrc": "DEZ901000691"
+    },
+    {
+      "artist": "Sun Kil Moon",
+      "title": "Lily and Parrots",
+      "services": {
+        "qobuz": "122969474"
+      },
+      "album": "Ghosts of the Great Highway",
+      "duration": 258,
+      "isrc": "USA2B0738307"
+    },
+    {
+      "artist": "Cocteau Twins",
+      "title": "The Hollow Men",
+      "services": {
+        "qobuz": "87275258"
+      },
+      "album": "Garlands",
+      "duration": 304,
+      "isrc": "GBAFL1900316"
+    },
+    {
+      "artist": "Ordo Rosarius Equilibrio",
+      "title": "A Song 4 Hate & Devotion",
+      "services": {
+        "qobuz": "134648571"
+      },
+      "album": "Songs 4 Hate & Devotion",
+      "duration": 271,
+      "isrc": "DEBZ71000468"
+    },
+    {
+      "artist": "ROME",
+      "title": "A Burden of Flowers",
+      "services": {
+        "qobuz": "92040524"
+      },
+      "album": "Nera",
+      "duration": 184,
+      "isrc": "DEZ901000786"
+    },
+    {
+      "artist": "Beatkonstruktor",
+      "title": "Sektor 82 Sturmgericht",
+      "services": {
+        "qobuz": "376252470"
+      },
+      "album": "Blutmond Chronik III \u2013 Der Nachtsturm",
+      "duration": 187,
+      "isrc": "GXJBL2587869"
+    },
+    {
+      "artist": "Xmal Deutschland",
+      "title": "Nachtschatten",
+      "services": {
+        "qobuz": "2485206"
+      },
+      "album": "Tocsin",
+      "duration": 236,
+      "isrc": "GBAFL8400007"
+    },
+    {
+      "artist": "Neun Welten",
+      "title": "Valg",
+      "services": {
+        "qobuz": "189637345"
+      },
+      "album": "Vergessene Pfade",
+      "duration": 369,
+      "isrc": "DES560693201"
+    },
+    {
+      "artist": "Owl City",
+      "title": "Good Time",
+      "services": {
+        "qobuz": "6217922"
+      },
+      "album": "The Midsummer Station",
+      "duration": 205,
+      "isrc": "USUM71206288"
+    },
+    {
+      "artist": "Son Of The Velvet Rat",
+      "title": "Bewildering Black & White Moments Captured On Trail Cams",
+      "services": {
+        "qobuz": "237533981"
+      },
+      "album": "Ghost Ranch",
+      "duration": 249,
+      "isrc": "QZ3AK2300217"
+    },
+    {
+      "artist": "ROME",
+      "title": "Der Brandtaucher",
+      "services": {
+        "qobuz": "26713386"
+      },
+      "album": "Anthology 2005-2015",
+      "duration": 257,
+      "isrc": "DEZ901501309"
+    },
+    {
+      "artist": "ROME",
+      "title": "To Die Among Strangers",
+      "services": {
+        "qobuz": "331743344"
+      },
+      "album": "Flowers from Exile",
+      "duration": 254,
+      "isrc": "DEZ902400195"
+    },
+    {
+      "artist": "ROME",
+      "title": "The Accidents of Gesture",
+      "services": {
+        "qobuz": "331743339"
+      },
+      "album": "Flowers from Exile",
+      "duration": 315,
+      "isrc": "DEZ902400190"
+    },
+    {
+      "artist": "Sen Svaja",
+      "title": "Epas",
+      "services": {
+        "qobuz": "93167066"
+      },
+      "album": "Kraitis I\u0161 Pelk\u0117s - Dowry From A Swamp",
+      "duration": 701,
+      "isrc": "LTA311800010"
+    },
+    {
+      "artist": "Jean Victor Arthur Guillou",
+      "title": "3 Pieces for Organ: No. 3, Piece Heroique in B Minor, M. 37",
+      "services": {
+        "qobuz": "300290067"
+      },
+      "album": "Franck, C.: Organ Music",
+      "duration": 522,
+      "isrc": "USKC60710163"
+    },
+    {
+      "artist": "Chelsea Wolfe",
+      "title": "Feral Love",
+      "services": {
+        "qobuz": "330295809"
+      },
+      "album": "Pain Is Beauty",
+      "duration": 202,
+      "isrc": "USA2P1332106"
+    },
+    {
+      "artist": "Chelsea Wolfe",
+      "title": "Flatlands",
+      "services": {
+        "qobuz": "330300665"
+      },
+      "album": "Unknown Rooms: A Collection of Acoustic Songs",
+      "duration": 240,
+      "isrc": "USA2P1231895"
+    },
+    {
+      "artist": "Chelsea Wolfe",
+      "title": "The Warden",
+      "services": {
+        "qobuz": "330295812"
+      },
+      "album": "Pain Is Beauty",
+      "duration": 232,
+      "isrc": "USA2P1332109"
+    },
+    {
+      "artist": "Choir of King's College, Cambridge",
+      "title": "The Light of Life, Op. 29: Light of the World",
+      "services": {
+        "qobuz": "148716692"
+      },
+      "album": "Now the Green Blade Riseth: Choral Music for Easter",
+      "duration": 303,
+      "isrc": "GBMY52206516"
+    },
+    {
+      "artist": "Boys Hotel",
+      "title": "Ancient Downer",
+      "services": {
+        "qobuz": "152041423"
+      },
+      "album": "Ancient Downer",
+      "duration": 251,
+      "isrc": "GBKQU2233815"
+    },
+    {
+      "artist": "Brown Bird",
+      "title": "End Of Days",
+      "services": {
+        "qobuz": "73790832"
+      },
+      "album": "Salt For Salt",
+      "duration": 183,
+      "isrc": "USQNL1100008"
+    },
+    {
+      "artist": "Wardruna",
+      "title": "Helvegen",
+      "services": {
+        "qobuz": "269936663"
+      },
+      "album": "Runaljod \u2013 Yggdrasil",
+      "duration": 431,
+      "isrc": "NOCVC1304110"
+    },
+    {
+      "artist": "When In Rome",
+      "title": "The Promise",
+      "services": {
+        "qobuz": "1947989"
+      },
+      "album": "When In Rome",
+      "duration": 220,
+      "isrc": "GBAAA8800494"
+    },
+    {
+      "artist": "Heilung",
+      "title": "Krigsgaldr",
+      "services": {
+        "qobuz": "77782812"
+      },
+      "album": "Ofnir",
+      "duration": 538,
+      "isrc": "DK5B41400102"
+    },
+    {
+      "artist": "Darkher",
+      "title": "Moths",
+      "services": {
+        "qobuz": "189621121"
+      },
+      "album": "Realms",
+      "duration": 309,
+      "isrc": "DES561618703"
+    },
+    {
+      "artist": "Emma Ruth Rundle",
+      "title": "Marked for Death",
+      "services": {
+        "qobuz": "46390524"
+      },
+      "album": "Marked for Death",
+      "duration": 219,
+      "isrc": "QMLD61402153"
+    },
+    {
+      "artist": "Polly Paulusma",
+      "title": "Snakeskin",
+      "services": {
+        "qobuz": "163276825"
+      },
+      "album": "The Pivot on Which the World Turns",
+      "duration": 156,
+      "isrc": "GB4352200004"
+    },
+    {
+      "artist": "ROME",
+      "title": "The Secret Germany (For Paul Celan)",
+      "services": {
+        "qobuz": "32566497"
+      },
+      "album": "The Hyperion Machine",
+      "duration": 249,
+      "isrc": "FR2X41672499"
+    },
+    {
+      "artist": "Sangre de Muerdago",
+      "title": "The Paths of Mannaz",
+      "services": {
+        "qobuz": "85300370"
+      },
+      "album": "Deixademe Morrer no Bosque",
+      "duration": 449,
+      "isrc": "ES5301866733"
+    },
+    {
+      "artist": "Fit For An Autopsy",
+      "title": "Black Mammoth",
+      "services": {
+        "qobuz": "44468357"
+      },
+      "album": "The Great Collapse (Rain City Deluxe Version)",
+      "duration": 278,
+      "isrc": "USKO11700034"
+    },
+    {
+      "artist": "The Devil's Trade",
+      "title": "The Sleep That Dragged You Away",
+      "services": {
+        "qobuz": "353842290"
+      },
+      "album": "Nincs Szennyezetlen Sz\u00e9p",
+      "duration": 473,
+      "isrc": "QM7282505984"
+    },
+    {
+      "artist": "Hydras Dream",
+      "title": "Last Evening of the Year",
+      "services": {
+        "qobuz": "95463772"
+      },
+      "album": "The Little Match Girl",
+      "duration": 190,
+      "isrc": "DERK91419601"
+    },
+    {
+      "artist": "Cinder Well",
+      "title": "Returning",
+      "services": {
+        "qobuz": "343695311"
+      },
+      "album": "Cadence",
+      "duration": 251,
+      "isrc": "USFVZ2290891"
+    }
+  ]
+}

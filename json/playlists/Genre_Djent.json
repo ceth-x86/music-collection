@@ -1,0 +1,820 @@
+{
+  "name": "Genre: Djent",
+  "services": {
+    "qobuz": "66734762",
+    "tidal": "3fe9b715-a522-4fc7-a532-326a9578bbd6"
+  },
+  "description": "Imported genre playlist: Djent.",
+  "tracks": [
+    {
+      "artist": "Meshuggah",
+      "title": "Rational Gaze",
+      "services": {
+        "qobuz": "298208194"
+      },
+      "album": "Nothing",
+      "duration": 326,
+      "isrc": "DED830695302"
+    },
+    {
+      "artist": "Meshuggah",
+      "title": "Stengah",
+      "services": {
+        "qobuz": "298208193"
+      },
+      "album": "Nothing",
+      "duration": 338,
+      "isrc": "DED830695301"
+    },
+    {
+      "artist": "Meshuggah",
+      "title": "New Millennium Cyanide Christ",
+      "services": {
+        "qobuz": "298220308"
+      },
+      "album": "Chaosphere (25th Anniversary Remastered 2023 Edition)",
+      "duration": 335,
+      "isrc": "DE1AH2310902"
+    },
+    {
+      "artist": "Meshuggah",
+      "title": "Future Breed Machine",
+      "services": {
+        "qobuz": "298207056"
+      },
+      "album": "Destroy Erase Improve (Reloaded)",
+      "duration": 348,
+      "isrc": "DED839531401"
+    },
+    {
+      "artist": "Mnemic",
+      "title": "Door 2.12",
+      "services": {
+        "qobuz": "61387524"
+      },
+      "album": "The Audio Injected Soul",
+      "duration": 262,
+      "isrc": "DED830476102"
+    },
+    {
+      "artist": "Strapping Young Lad",
+      "title": "Almost Again",
+      "services": {
+        "qobuz": "27585051"
+      },
+      "album": "The New Black",
+      "duration": 224,
+      "isrc": "US4E40642709"
+    },
+    {
+      "artist": "Killer Be Killed",
+      "title": "Deconstructing Self-Destruction",
+      "services": {
+        "qobuz": "99981836"
+      },
+      "album": "Reluctant Hero",
+      "duration": 273,
+      "isrc": "DED832000642"
+    },
+    {
+      "artist": "Meshuggah",
+      "title": "Perpetual Black Second",
+      "services": {
+        "qobuz": "298208195"
+      },
+      "album": "Nothing",
+      "duration": 279,
+      "isrc": "DED830695303"
+    },
+    {
+      "artist": "Meshuggah",
+      "title": "Combustion",
+      "services": {
+        "qobuz": "298221176"
+      },
+      "album": "Obzen",
+      "duration": 248,
+      "isrc": "DE1AH2308801"
+    },
+    {
+      "artist": "Meshuggah",
+      "title": "Shed",
+      "services": {
+        "qobuz": "298209525"
+      },
+      "album": "Catch Thirty Three",
+      "duration": 214,
+      "isrc": "DED830583610"
+    },
+    {
+      "artist": "Animals As Leaders",
+      "title": "Cafo",
+      "services": {
+        "qobuz": "49176979"
+      },
+      "album": "Animals as Leaders - Encore Edition",
+      "duration": 401,
+      "isrc": "USRZR0904308"
+    },
+    {
+      "artist": "Periphery",
+      "title": "Icarus Lives",
+      "services": {
+        "qobuz": "269303216"
+      },
+      "album": "Periphery",
+      "duration": 190,
+      "isrc": "NLA321089764"
+    },
+    {
+      "artist": "TesseracT",
+      "title": "Acceptance - Concealing Fate, Pt. 1",
+      "services": {
+        "qobuz": "27555597"
+      },
+      "album": "One",
+      "duration": 514,
+      "isrc": "US4E41174303"
+    },
+    {
+      "artist": "Chimp Spanner",
+      "title": "At the Dream's Edge",
+      "services": {
+        "qobuz": "69786526"
+      },
+      "album": "At the Dreams Edge",
+      "duration": 231,
+      "isrc": "GBTBS1000003"
+    },
+    {
+      "artist": "The HAARP Machine",
+      "title": "Esoteric Agenda",
+      "services": {
+        "qobuz": "338346532"
+      },
+      "album": "Disclosure",
+      "duration": 234,
+      "isrc": "USYFZ1210801"
+    },
+    {
+      "artist": "Uneven Structure",
+      "title": "Awaken",
+      "services": {
+        "qobuz": "69784149"
+      },
+      "album": "Februus",
+      "duration": 395,
+      "isrc": "GBTBS1100047"
+    },
+    {
+      "artist": "TesseracT",
+      "title": "Eden",
+      "services": {
+        "qobuz": "27555608"
+      },
+      "album": "One",
+      "duration": 543,
+      "isrc": "US4E41174311"
+    },
+    {
+      "artist": "Periphery",
+      "title": "All New Materials",
+      "services": {
+        "qobuz": "269303214"
+      },
+      "album": "Periphery",
+      "duration": 320,
+      "isrc": "NLA321089762"
+    },
+    {
+      "artist": "Animals As Leaders",
+      "title": "New Eden",
+      "services": {
+        "qobuz": "49210723"
+      },
+      "album": "Weightless",
+      "duration": 160,
+      "isrc": "USERN1007749"
+    },
+    {
+      "artist": "The Red Krayola",
+      "title": "Parable Of Arable Land",
+      "services": {
+        "qobuz": "2230102"
+      },
+      "album": "The Parable Of Arable Land - God Bless The Red Krayola And All Who Sail With It",
+      "duration": 181,
+      "isrc": "USFB20607814"
+    },
+    {
+      "artist": "TesseracT",
+      "title": "Deception - Concealing Fate, Pt. 2",
+      "services": {
+        "qobuz": "27555599"
+      },
+      "album": "One",
+      "duration": 323,
+      "isrc": "US4E41174304"
+    },
+    {
+      "artist": "Periphery",
+      "title": "Make Total Destroy",
+      "services": {
+        "qobuz": "262536373"
+      },
+      "album": "Periphery II",
+      "duration": 267,
+      "isrc": "USYFZ1222409"
+    },
+    {
+      "artist": "Periphery",
+      "title": "Scarlet",
+      "services": {
+        "qobuz": "262536369"
+      },
+      "album": "Periphery II",
+      "duration": 248,
+      "isrc": "USYFZ1222405"
+    },
+    {
+      "artist": "The Contortionist",
+      "title": "Language I: Intuition",
+      "services": {
+        "qobuz": "22811724"
+      },
+      "album": "Language",
+      "duration": 324,
+      "isrc": "USKO11401007"
+    },
+    {
+      "artist": "TesseracT",
+      "title": "Of Mind - Exile",
+      "services": {
+        "qobuz": "27564451"
+      },
+      "album": "Altered State",
+      "duration": 530,
+      "isrc": "US4E41397405"
+    },
+    {
+      "artist": "TesseracT",
+      "title": "Of Matter - Proxy",
+      "services": {
+        "qobuz": "27564446"
+      },
+      "album": "Altered State",
+      "duration": 305,
+      "isrc": "US4E41397401"
+    },
+    {
+      "artist": "Periphery",
+      "title": "Marigold",
+      "services": {
+        "qobuz": "262536681"
+      },
+      "album": "Periphery III: Select Difficulty",
+      "duration": 439,
+      "isrc": "USYFZ1671003"
+    },
+    {
+      "artist": "vildhjarta",
+      "title": "Shadow",
+      "services": {
+        "qobuz": "137632242"
+      },
+      "album": "m\u00e5sstaden (forte)",
+      "duration": 218,
+      "isrc": "GBDHC2227901"
+    },
+    {
+      "artist": "vildhjarta",
+      "title": "Dagger",
+      "services": {
+        "qobuz": "137632243"
+      },
+      "album": "m\u00e5sstaden (forte)",
+      "duration": 265,
+      "isrc": "GBDHC2227902"
+    },
+    {
+      "artist": "Monuments",
+      "title": "I, The Creator",
+      "services": {
+        "qobuz": "28631106"
+      },
+      "album": "The Amanuensis",
+      "duration": 234,
+      "isrc": "US4E41413201"
+    },
+    {
+      "artist": "Monuments",
+      "title": "Atlas",
+      "services": {
+        "qobuz": "28631108"
+      },
+      "album": "The Amanuensis",
+      "duration": 202,
+      "isrc": "US4E41413203"
+    },
+    {
+      "artist": "Puscifer",
+      "title": "The Algorithm (Sessanta Live Mix)",
+      "services": {
+        "qobuz": "387768356"
+      },
+      "album": "Normal Isn't",
+      "duration": 255,
+      "isrc": "QMRSZ2501802"
+    },
+    {
+      "artist": "ASTRA MIRROR",
+      "title": "The Gate Opens",
+      "services": {
+        "qobuz": "429833067"
+      },
+      "album": "Cascade State: Sunny Intervals",
+      "duration": 299,
+      "isrc": "QT6EC2683362"
+    },
+    {
+      "artist": "I built the Sky",
+      "title": "The Start Of Something Beautiful",
+      "services": {
+        "qobuz": "384034628"
+      },
+      "album": "Promise Me You'll Thrive",
+      "duration": 258,
+      "isrc": "FR10S2630633"
+    },
+    {
+      "artist": "The Amity Affliction",
+      "title": "Open Letter",
+      "services": {
+        "qobuz": "7388991"
+      },
+      "album": "Chasing Ghosts",
+      "duration": 260,
+      "isrc": "NLA321292415"
+    },
+    {
+      "artist": "Faded Fedora",
+      "title": "Axiom Lullaby",
+      "services": {
+        "qobuz": "270339408"
+      },
+      "album": "Periphery of a Dream",
+      "duration": 162,
+      "isrc": "USHM82417319"
+    },
+    {
+      "artist": "Periphery",
+      "title": "Stranger Things",
+      "services": {
+        "qobuz": "262535930"
+      },
+      "album": "Juggernaut: Omega",
+      "duration": 455,
+      "isrc": "USYFZ1556407"
+    },
+    {
+      "artist": "Panopticon",
+      "title": "En hvit ravns d\u00f8d",
+      "services": {
+        "qobuz": "212553491"
+      },
+      "album": "The Scars of Man on the Once Nameless Wilderness, Pt. 1",
+      "duration": 578,
+      "isrc": "SEVVF1800102"
+    },
+    {
+      "artist": "Animals As Leaders",
+      "title": "Point to Point",
+      "services": {
+        "qobuz": "49176981"
+      },
+      "album": "Animals as Leaders - Encore Edition",
+      "duration": 104,
+      "isrc": "USRZR0904310"
+    },
+    {
+      "artist": "Periphery",
+      "title": "The Bad Thing",
+      "services": {
+        "qobuz": "262535925"
+      },
+      "album": "Juggernaut: Omega",
+      "duration": 353,
+      "isrc": "USYFZ1556402"
+    },
+    {
+      "artist": "Animals As Leaders",
+      "title": "Physical Education",
+      "services": {
+        "qobuz": "341063988"
+      },
+      "album": "The Joy of Motion",
+      "duration": 280,
+      "isrc": "USYFZ1447405"
+    },
+    {
+      "artist": "Animals As Leaders",
+      "title": "The Brain Dance",
+      "services": {
+        "qobuz": "338437623"
+      },
+      "album": "The Madness Of Many",
+      "duration": 420,
+      "isrc": "USYFZ1674809"
+    },
+    {
+      "artist": "Vola",
+      "title": "Stray The Skies",
+      "services": {
+        "qobuz": "141291742"
+      },
+      "album": "Inmazes",
+      "duration": 253,
+      "isrc": "NLB931600514"
+    },
+    {
+      "artist": "Vola",
+      "title": "Starburn",
+      "services": {
+        "qobuz": "141291743"
+      },
+      "album": "Inmazes",
+      "duration": 365,
+      "isrc": "NLB931600515"
+    },
+    {
+      "artist": "vildhjarta",
+      "title": "m\u00e5sstadens nationals\u00e5ng (under vatten)",
+      "services": {
+        "qobuz": "127525067"
+      },
+      "album": "m\u00e5sstaden under vatten",
+      "duration": 333,
+      "isrc": "GBDHC2013509"
+    },
+    {
+      "artist": "vildhjarta",
+      "title": "den helige anden",
+      "services": {
+        "qobuz": "127525065"
+      },
+      "album": "m\u00e5sstaden under vatten",
+      "duration": 326,
+      "isrc": "GBDHC2013507"
+    },
+    {
+      "artist": "Intervals",
+      "title": "Touch and Go",
+      "services": {
+        "qobuz": "430828155"
+      },
+      "album": "The Way Forward",
+      "duration": 261,
+      "isrc": "TCADH1755548"
+    },
+    {
+      "artist": "Plini",
+      "title": "Electric Sunrise",
+      "services": {
+        "qobuz": "148258370"
+      },
+      "album": "Handmade Cities",
+      "duration": 305,
+      "isrc": "TCACR1606807"
+    },
+    {
+      "artist": "Plini",
+      "title": "Every Piece Matters",
+      "services": {
+        "qobuz": "148258373"
+      },
+      "album": "Handmade Cities",
+      "duration": 220,
+      "isrc": "TCACR1606810"
+    },
+    {
+      "artist": "Animals As Leaders",
+      "title": "The Glass Bridge",
+      "services": {
+        "qobuz": "338437622"
+      },
+      "album": "The Madness Of Many",
+      "duration": 303,
+      "isrc": "USYFZ1674808"
+    },
+    {
+      "artist": "Kerry Muzzey",
+      "title": "The Secret History",
+      "services": {
+        "qobuz": "425906928"
+      },
+      "album": "Kerry Muzzey: The Architect",
+      "duration": 302,
+      "isrc": "USHM21496801"
+    },
+    {
+      "artist": "Mentis",
+      "title": "Heaven",
+      "services": {
+        "qobuz": "248241148"
+      },
+      "album": "Heaven",
+      "duration": 148,
+      "isrc": "UKRVV1900367"
+    },
+    {
+      "artist": "Joey Bada$$",
+      "title": "DARK AURA",
+      "services": {
+        "qobuz": "354054391"
+      },
+      "album": "Lonely At The Top",
+      "duration": 173,
+      "isrc": "USQX92502622"
+    },
+    {
+      "artist": "Scale The Summit",
+      "title": "Atlas Novus",
+      "services": {
+        "qobuz": "49163806"
+      },
+      "album": "The Migration",
+      "duration": 307,
+      "isrc": "USERN1008449"
+    },
+    {
+      "artist": "Polyphia",
+      "title": "G.O.A.T.",
+      "services": {
+        "qobuz": "52397897"
+      },
+      "album": "New Levels New Devils",
+      "duration": 215,
+      "isrc": "ITH711800114"
+    },
+    {
+      "artist": "Arch Echo",
+      "title": "Color Wheel",
+      "services": {
+        "qobuz": "66738829"
+      },
+      "album": "Arch Echo",
+      "duration": 361,
+      "isrc": "USDY41717156"
+    },
+    {
+      "artist": "Humanity's Last Breath",
+      "title": "Godhood",
+      "services": {
+        "qobuz": "376488968"
+      },
+      "album": "Godhood",
+      "duration": 197,
+      "isrc": "GBDHC2448002"
+    },
+    {
+      "artist": "Polyphia",
+      "title": "Drown",
+      "services": {
+        "qobuz": "52397892"
+      },
+      "album": "New Levels New Devils",
+      "duration": 234,
+      "isrc": "ITH711800109"
+    },
+    {
+      "artist": "The Dali Thundering Concept",
+      "title": "Lost in Transaction",
+      "services": {
+        "qobuz": "191304766"
+      },
+      "album": "All Mighty Men",
+      "duration": 255,
+      "isrc": "QZWDE2254025"
+    },
+    {
+      "artist": "Periphery",
+      "title": "Wildfire",
+      "services": {
+        "qobuz": "187329122"
+      },
+      "album": "Periphery V: Djent Is Not A Genre",
+      "duration": 425,
+      "isrc": "QZNWP2230301"
+    },
+    {
+      "artist": "Sleep Token",
+      "title": "The Summoning",
+      "services": {
+        "qobuz": "195178291"
+      },
+      "album": "Take Me Back To Eden",
+      "duration": 395,
+      "isrc": "GBUM72200352"
+    },
+    {
+      "artist": "Dua Lipa",
+      "title": "End Of An Era (Live from the Royal Albert Hall)",
+      "services": {
+        "qobuz": "301689724"
+      },
+      "album": "Dua Lipa - Live from the Royal Albert Hall",
+      "duration": 239,
+      "isrc": "GBAHT2400724"
+    },
+    {
+      "artist": "TesseracT",
+      "title": "Natural Disaster",
+      "services": {
+        "qobuz": "215519974"
+      },
+      "album": "War Of Being",
+      "duration": 366,
+      "isrc": "GBCQV2200638"
+    },
+    {
+      "artist": "Gojira",
+      "title": "Born in Winter",
+      "services": {
+        "qobuz": "5650388"
+      },
+      "album": "L'Enfant Sauvage",
+      "duration": 230,
+      "isrc": "NLA321292212"
+    },
+    {
+      "artist": "Periphery",
+      "title": "Satellites",
+      "services": {
+        "qobuz": "180855610"
+      },
+      "album": "Periphery IV: HAIL STAN",
+      "duration": 565,
+      "isrc": "USKO11900027"
+    },
+    {
+      "artist": "Periphery",
+      "title": "Blood Eagle",
+      "services": {
+        "qobuz": "180855603"
+      },
+      "album": "Periphery IV: HAIL STAN",
+      "duration": 358,
+      "isrc": "USKO11900020"
+    },
+    {
+      "artist": "The Contortionist",
+      "title": "Monochrome (Pensive)",
+      "services": {
+        "qobuz": "41196307"
+      },
+      "album": "Clairvoyant",
+      "duration": 564,
+      "isrc": "USKO11700436"
+    },
+    {
+      "artist": "Loathe",
+      "title": "New Faces in the Dark",
+      "services": {
+        "qobuz": "80249741"
+      },
+      "album": "I Let It in and It Took Everything",
+      "duration": 192,
+      "isrc": "DED831901039"
+    },
+    {
+      "artist": "Northlane",
+      "title": "Obsidian",
+      "services": {
+        "qobuz": "134038981"
+      },
+      "album": "Obsidian",
+      "duration": 236,
+      "isrc": "FRX452155420"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "title": "JUGGERNAUT",
+      "services": {
+        "qobuz": "124521687"
+      },
+      "album": "CALL ME IF YOU GET LOST",
+      "duration": 146,
+      "isrc": "USQX92102142"
+    },
+    {
+      "artist": "Uneven Structure",
+      "title": "The Designer's Lead",
+      "services": {
+        "qobuz": "69783827"
+      },
+      "album": "8",
+      "duration": 122,
+      "isrc": "UK2D51300006"
+    },
+    {
+      "artist": "Evergrey",
+      "title": "Welcome To The Pattern",
+      "services": {
+        "qobuz": "394232791"
+      },
+      "album": "Architects Of A New Weave",
+      "duration": 72,
+      "isrc": "ATN262641621"
+    },
+    {
+      "artist": "Periphery",
+      "title": "Reptile",
+      "services": {
+        "qobuz": "180855602"
+      },
+      "album": "Periphery IV: HAIL STAN",
+      "duration": 1003,
+      "isrc": "USKO11900019"
+    },
+    {
+      "artist": "Animals As Leaders",
+      "title": "The Woven Web",
+      "services": {
+        "qobuz": "341063993"
+      },
+      "album": "The Joy of Motion",
+      "duration": 247,
+      "isrc": "USYFZ1447410"
+    },
+    {
+      "artist": "Luminary",
+      "title": "Counting the Moments",
+      "services": {
+        "qobuz": "279795861"
+      },
+      "album": "Counting the Moments",
+      "duration": 219,
+      "isrc": "GXD7V2226183"
+    },
+    {
+      "artist": "Pinch",
+      "title": "Reptile Brain",
+      "services": {
+        "qobuz": "337339886"
+      },
+      "album": "Reptile Brain",
+      "duration": 222,
+      "isrc": "QZTAS2504797"
+    },
+    {
+      "artist": "Veil Of Maya",
+      "title": "Fracture",
+      "services": {
+        "qobuz": "338250306"
+      },
+      "album": "False Idol",
+      "duration": 194,
+      "isrc": "USYFZ1787602"
+    },
+    {
+      "artist": "Erra",
+      "title": "Dreamwalkers",
+      "services": {
+        "qobuz": "12183489"
+      },
+      "album": "Augment",
+      "duration": 236,
+      "isrc": "USF271352803"
+    },
+    {
+      "artist": "Northlane",
+      "title": "Quantum Flux",
+      "services": {
+        "qobuz": "282448584"
+      },
+      "album": "Singularity",
+      "duration": 243,
+      "isrc": "AUI441200090"
+    },
+    {
+      "artist": "Volumes",
+      "title": "Wormholes",
+      "services": {
+        "qobuz": "110194679"
+      },
+      "album": "Via",
+      "duration": 331,
+      "isrc": "USFK91100270"
+    },
+    {
+      "artist": "Between the Buried and Me",
+      "title": "Astral Body",
+      "services": {
+        "qobuz": "60847104"
+      },
+      "album": "The Parallax II: Future Sequence",
+      "duration": 301,
+      "isrc": "USMBR1209208"
+    }
+  ]
+}

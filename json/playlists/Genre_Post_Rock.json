@@ -1,0 +1,1010 @@
+{
+  "name": "Genre: Post Rock",
+  "services": {
+    "qobuz": "66732905",
+    "tidal": "6181791d-74ba-43e2-bc68-d11175b90598"
+  },
+  "description": "Imported genre playlist: Post Rock.",
+  "tracks": [
+    {
+      "artist": "Talk Talk",
+      "title": "The Rainbow",
+      "services": {
+        "qobuz": "19081046"
+      },
+      "album": "Spirit Of Eden (Remastered Hi-Res Version)",
+      "duration": 485,
+      "isrc": "GBAYE8800260"
+    },
+    {
+      "artist": "Slint",
+      "title": "Good Morning, Captain",
+      "services": {
+        "qobuz": "32668927"
+      },
+      "album": "Spiderland (remastered)",
+      "duration": 461,
+      "isrc": "USTG31436406"
+    },
+    {
+      "artist": "Seefeel",
+      "title": "Climactic Phase No.3",
+      "services": {
+        "qobuz": "2331832"
+      },
+      "album": "Quique",
+      "duration": 504,
+      "isrc": "GBBNZ9300050"
+    },
+    {
+      "artist": "Labradford",
+      "title": "Listening in Depth",
+      "services": {
+        "qobuz": "25021920"
+      },
+      "album": "Prazision LP",
+      "duration": 452,
+      "isrc": "USI4R0401535"
+    },
+    {
+      "artist": "Disco Inferno",
+      "title": "Even The Sea Sides AgaInst Us",
+      "services": {
+        "qobuz": "249091965"
+      },
+      "album": "D.I. Go Pop",
+      "duration": 224,
+      "isrc": "GBBTF0400176"
+    },
+    {
+      "artist": "Bark Psychosis",
+      "title": "A Street Scene",
+      "services": {
+        "qobuz": "4653164"
+      },
+      "album": "Hex",
+      "duration": 335,
+      "isrc": "GBAAA9401052"
+    },
+    {
+      "artist": "main",
+      "title": "Crater Scar",
+      "services": {
+        "qobuz": "2484746"
+      },
+      "album": "Motion Pool",
+      "duration": 591,
+      "isrc": "GBAZP9400183"
+    },
+    {
+      "artist": "Cul De Sac",
+      "title": "Graveyard for Robots",
+      "services": {
+        "qobuz": "291120459"
+      },
+      "album": "I Don't Want To Go To Bed",
+      "duration": 692,
+      "isrc": "USAJ69702903"
+    },
+    {
+      "artist": "Kesha",
+      "title": "Gold Trans Am",
+      "services": {
+        "qobuz": "58840949"
+      },
+      "album": "Warrior (Expanded Edition)",
+      "duration": 200,
+      "isrc": "USRC11201146"
+    },
+    {
+      "artist": "Sc Static",
+      "title": "Mr. E (Dedication to Braetan)",
+      "services": {
+        "qobuz": "303289140"
+      },
+      "album": "Third Person",
+      "duration": 270,
+      "isrc": "TCAIZ2486847"
+    },
+    {
+      "artist": "Gastr del Sol",
+      "title": "The Sea Incertain",
+      "services": {
+        "qobuz": "48468582"
+      },
+      "album": "Upgrade & Afterlife",
+      "duration": 372,
+      "isrc": "US58L1509003"
+    },
+    {
+      "artist": "Aerial M",
+      "title": "Dazed and Awake",
+      "services": {
+        "qobuz": "48466264"
+      },
+      "album": "Aerial M",
+      "duration": 316,
+      "isrc": "US58L0511401"
+    },
+    {
+      "artist": "Mogwai",
+      "title": "Mogwai Fear Satan",
+      "services": {
+        "qobuz": "179401607"
+      },
+      "album": "Mogwai Young Team",
+      "duration": 979,
+      "isrc": "GBCGR2260010"
+    },
+    {
+      "artist": "Lifte",
+      "title": "The Dead Flag Blues",
+      "services": {
+        "qobuz": "172589487"
+      },
+      "album": "The Dead Flag Blues (feat. Jameson Day) [Abridged]",
+      "duration": 444,
+      "isrc": "QZNWU2263748"
+    },
+    {
+      "artist": "To Rococo Rot",
+      "title": "Modern Homes",
+      "services": {
+        "qobuz": "243057165"
+      },
+      "album": "Veiculo",
+      "duration": 208,
+      "isrc": "DED629799003"
+    },
+    {
+      "artist": "Dirty Three",
+      "title": "Sue's Last Ride",
+      "services": {
+        "qobuz": "20004270"
+      },
+      "album": "Horse Stories",
+      "duration": 441,
+      "isrc": "USTG39616502"
+    },
+    {
+      "artist": "Tristeza",
+      "title": "When We Glow",
+      "services": {
+        "qobuz": "331359744"
+      },
+      "album": "Spine And Sensory (Expanded And Remastered)",
+      "duration": 375,
+      "isrc": "USBRL0300128"
+    },
+    {
+      "artist": "Tarentel",
+      "title": "For Carl Sagan",
+      "services": {
+        "qobuz": "31693959"
+      },
+      "album": "From Bone to Satellite",
+      "duration": 1292,
+      "isrc": "USY6C0702304"
+    },
+    {
+      "artist": "Papa M",
+      "title": "I Am Not Lonely With Cricket",
+      "services": {
+        "qobuz": "48467431"
+      },
+      "album": "Live From A Shark Cage",
+      "duration": 895,
+      "isrc": "US58L0517008"
+    },
+    {
+      "artist": "The Album Leaf",
+      "title": "A Short Story",
+      "services": {
+        "qobuz": "143516983"
+      },
+      "album": "An Orchestrated Rise to Fall",
+      "duration": 854,
+      "isrc": "USTCZ0989858"
+    },
+    {
+      "artist": "Rachel's",
+      "title": "A French Galleasse",
+      "services": {
+        "qobuz": "32677696"
+      },
+      "album": "Selenography",
+      "duration": 373,
+      "isrc": "USA4C9905501"
+    },
+    {
+      "artist": "Sigur R\u00f3s",
+      "title": "Svefn-g-englar",
+      "services": {
+        "qobuz": "57352333"
+      },
+      "album": "\u00c1g\u00e6tis byrjun",
+      "duration": 606,
+      "isrc": "GBDCA9900067"
+    },
+    {
+      "artist": "Rothko",
+      "title": "Roads Become Rivers",
+      "services": {
+        "qobuz": "2368928"
+      },
+      "album": "A Negative for Francis",
+      "duration": 194,
+      "isrc": "GBDRC9901202"
+    },
+    {
+      "artist": "Mice Parade",
+      "title": "Eyes See Stars",
+      "services": {
+        "qobuz": "146793410"
+      },
+      "album": "lapap\u1ecd",
+      "duration": 256,
+      "isrc": "GBDCA2003687"
+    },
+    {
+      "artist": "Do Make Say Think",
+      "title": "The Landlord Is Dead",
+      "services": {
+        "qobuz": "49816095"
+      },
+      "album": "Goodbye Enemy Airship The Landlord Is Dead",
+      "duration": 339,
+      "isrc": "CACQ20701003"
+    },
+    {
+      "artist": "EFS Afterdark",
+      "title": "America Is a Way of Life",
+      "services": {
+        "qobuz": "432394351"
+      },
+      "album": "The Wall Between Us",
+      "duration": 314,
+      "isrc": "QT6EU2663093"
+    },
+    {
+      "artist": "Giardini di Mir\u00f2",
+      "title": "The Beauty Tape Rider",
+      "services": {
+        "qobuz": "45604619"
+      },
+      "album": "The Academic Rise of Falling Drifters",
+      "duration": 311,
+      "isrc": "IT0501206123"
+    },
+    {
+      "artist": "Unwed Sailor",
+      "title": "The Faithful Anchor",
+      "services": {
+        "qobuz": "324778999"
+      },
+      "album": "The Faithful Anchor",
+      "duration": 209,
+      "isrc": "USA970204253"
+    },
+    {
+      "artist": "The Mercury Program",
+      "title": "Tequesta",
+      "services": {
+        "qobuz": "259897692"
+      },
+      "album": "A Data Learn the Language",
+      "duration": 458,
+      "isrc": "USTS40211497"
+    },
+    {
+      "artist": "MASERATI",
+      "title": "Ambassador Of Cinema",
+      "services": {
+        "qobuz": "144874553"
+      },
+      "album": "The Language Of Cities",
+      "duration": 364,
+      "isrc": "USY6C2035001"
+    },
+    {
+      "artist": "Saxon Shore",
+      "title": "Twilight Is Our Advocate Tonight",
+      "services": {
+        "qobuz": "125097352"
+      },
+      "album": "Be a Bright Blue",
+      "duration": 473,
+      "isrc": "USA970506506"
+    },
+    {
+      "artist": "Ester Drang",
+      "title": "Oceans Of You",
+      "services": {
+        "qobuz": "77648437"
+      },
+      "album": "Infinite Keys",
+      "duration": 292,
+      "isrc": "USA6M0408203"
+    },
+    {
+      "artist": "Aereogramme",
+      "title": "A Simple Process Of Elimination",
+      "services": {
+        "qobuz": "3149558"
+      },
+      "album": "Sleep & Release",
+      "duration": 348,
+      "isrc": "GBCGR0290002"
+    },
+    {
+      "artist": "Austin TV",
+      "title": "Ella No Me Conoce",
+      "services": {
+        "qobuz": "259391276"
+      },
+      "album": "La \u00daltima Noche Del Mundo",
+      "duration": 288,
+      "isrc": "USHM91355900"
+    },
+    {
+      "artist": "Explosions In The Sky",
+      "title": "Your Hand in Mine",
+      "services": {
+        "qobuz": "24041135"
+      },
+      "album": "The Earth Is Not a Cold Dead Place",
+      "duration": 497,
+      "isrc": "GBBRP0355005"
+    },
+    {
+      "artist": "Silver Mt. Zion",
+      "title": "God Bless Our Dead Marines",
+      "services": {
+        "qobuz": "49816567"
+      },
+      "album": "Horses In The Sky",
+      "duration": 704,
+      "isrc": "CACQ20703301"
+    },
+    {
+      "artist": "Grails",
+      "title": "Reincarnation Blues",
+      "services": {
+        "qobuz": "20808468"
+      },
+      "album": "Doomsdayer's Holiday",
+      "duration": 265,
+      "isrc": "USY6C0814402"
+    },
+    {
+      "artist": "MONO",
+      "title": "Halcyon (Beautiful Days)",
+      "services": {
+        "qobuz": "20777279"
+      },
+      "album": "Holy Ground: NYC Live with the Wordless Music Orchestra",
+      "duration": 558,
+      "isrc": "USY6C1015908"
+    },
+    {
+      "artist": "65daysofstatic",
+      "title": "Radio Protector",
+      "services": {
+        "qobuz": "74809083"
+      },
+      "album": "Radio Protector",
+      "duration": 328,
+      "isrc": "GBNTT0600131"
+    },
+    {
+      "artist": "The Samuel Jackson Five",
+      "title": "Skinflick Dress Rehearsal",
+      "services": {
+        "qobuz": "196970278"
+      },
+      "album": "Easily Misunderstood",
+      "duration": 346,
+      "isrc": "NODCD0501001"
+    },
+    {
+      "artist": "God is an Astronaut",
+      "title": "All Is Violent, All Is Bright",
+      "services": {
+        "qobuz": "124096411"
+      },
+      "album": "All Is Violent, All Is Bright (2011 Remastered Edition)",
+      "duration": 251,
+      "isrc": "TCABC1111566"
+    },
+    {
+      "artist": "The Evpatoria Report",
+      "title": "Taijin Kyofusho",
+      "services": {
+        "qobuz": "76707658"
+      },
+      "album": "Golevka",
+      "duration": 660,
+      "isrc": "CH6580901402"
+    },
+    {
+      "artist": "El Ten Eleven",
+      "title": "My Only Swerving",
+      "services": {
+        "qobuz": "63858721"
+      },
+      "album": "El Ten Eleven",
+      "duration": 314,
+      "isrc": "US37V0517201"
+    },
+    {
+      "artist": "Hammock",
+      "title": "Turn Away and Return",
+      "services": {
+        "qobuz": "126955648"
+      },
+      "album": "Everything and Nothing",
+      "duration": 313,
+      "isrc": "US7QT1500007"
+    },
+    {
+      "artist": "The Six Parts Seven",
+      "title": "What You Love You Must Love Now",
+      "services": {
+        "qobuz": "20787796"
+      },
+      "album": "Everywhere And Right Here",
+      "duration": 322,
+      "isrc": "US33X0404001"
+    },
+    {
+      "artist": "Yndi Halda",
+      "title": "Dash And Blast",
+      "services": {
+        "qobuz": "72031847"
+      },
+      "album": "Enjoy Eternal Bliss",
+      "duration": 1011,
+      "isrc": "USA2B0714901"
+    },
+    {
+      "artist": "Caspian",
+      "title": "Halls of the Summer",
+      "services": {
+        "qobuz": "80177786"
+      },
+      "album": "Waking Season",
+      "duration": 315,
+      "isrc": "US72W1210925"
+    },
+    {
+      "artist": "The Seven Mile Journey",
+      "title": "Purification - The Journey Transcriptions",
+      "services": {
+        "qobuz": "58080233"
+      },
+      "album": "The Metamorphosis Project",
+      "duration": 938,
+      "isrc": "DKDP70700106"
+    },
+    {
+      "artist": "This Will Destroy You",
+      "title": "The Mighty Rio Grande",
+      "services": {
+        "qobuz": "46826305"
+      },
+      "album": "S/T",
+      "duration": 676,
+      "isrc": "US76L0710410"
+    },
+    {
+      "artist": "Maybeshewill",
+      "title": "Not For Want Of Trying",
+      "services": {
+        "qobuz": "237750896"
+      },
+      "album": "Not for Want of Trying",
+      "duration": 333,
+      "isrc": "GBPDA0810009"
+    },
+    {
+      "artist": "Jakob",
+      "title": "Oran Mor",
+      "services": {
+        "qobuz": "295079406"
+      },
+      "album": "Solace",
+      "duration": 316,
+      "isrc": "NZMI10600004"
+    },
+    {
+      "artist": "Industries of the Blind",
+      "title": "I Just Wanted to Make You Something Beautiful",
+      "services": {
+        "qobuz": "155701772"
+      },
+      "album": "Chapter 1: Had We Known Better",
+      "duration": 782,
+      "isrc": "TCAAU1165495"
+    },
+    {
+      "artist": "Gifts From Enola",
+      "title": "Melted Wings",
+      "services": {
+        "qobuz": "115198056"
+      },
+      "album": "From Fathoms",
+      "duration": 333,
+      "isrc": "USTC90918404"
+    },
+    {
+      "artist": "Alejandro Lozano",
+      "title": "A City That Dreams Beneath the Sea",
+      "services": {
+        "qobuz": "363906869"
+      },
+      "album": "A City That Dreams Beneath the Sea",
+      "duration": 131,
+      "isrc": "QT5M52559945"
+    },
+    {
+      "artist": "Balmorhea",
+      "title": "Remembrance",
+      "services": {
+        "qobuz": "20751303"
+      },
+      "album": "All Is Wild, All Is Silent",
+      "duration": 349,
+      "isrc": "US78L0910014"
+    },
+    {
+      "artist": "If These Trees Could Talk",
+      "title": "From Roots to Needles",
+      "services": {
+        "qobuz": "78858089"
+      },
+      "album": "Above the Earth, Below the Sky",
+      "duration": 402,
+      "isrc": "USCGH0992358"
+    },
+    {
+      "artist": "Tides From Nebula",
+      "title": "Siberia",
+      "services": {
+        "qobuz": "95021531"
+      },
+      "album": "Earthshine",
+      "duration": 603,
+      "isrc": "PLB820012123"
+    },
+    {
+      "artist": "Lymbyc Systym",
+      "title": "Truth Skull",
+      "services": {
+        "qobuz": "70472623"
+      },
+      "album": "Love Your Abuser",
+      "duration": 252,
+      "isrc": "USJEJ0725208"
+    },
+    {
+      "artist": "The American Dollar",
+      "title": "Anything You Synthesize (Ambient)",
+      "services": {
+        "qobuz": "125267370"
+      },
+      "album": "Music for Focus and Creativity",
+      "duration": 237,
+      "isrc": "TCABL1392447"
+    },
+    {
+      "artist": "EF",
+      "title": "Longing for Colors",
+      "services": {
+        "qobuz": "265768736"
+      },
+      "album": "Mourning Golden Morning (Bonus Track Version)",
+      "duration": 541,
+      "isrc": "SEYXV1000104"
+    },
+    {
+      "artist": "sleepmakeswaves",
+      "title": "One Day You Will Teach Me to Let Go of My Fears",
+      "services": {
+        "qobuz": "74806547"
+      },
+      "album": "In Today Already Walks Tomorrow",
+      "duration": 381,
+      "isrc": "AUAJ11200003"
+    },
+    {
+      "artist": "A Swarm of the Sun",
+      "title": "These Depths Were Always Meant for Both of Us",
+      "services": {
+        "qobuz": "111312259"
+      },
+      "album": "20.11.03",
+      "duration": 659,
+      "isrc": "QM4TW2102641"
+    },
+    {
+      "artist": "Leech",
+      "title": "Turbolina",
+      "services": {
+        "qobuz": "308424388"
+      },
+      "album": "If We Get There One Day, Would You Please Open The Gates?",
+      "duration": 325,
+      "isrc": "CH7510900100"
+    },
+    {
+      "artist": "Exxasens",
+      "title": "Polaris",
+      "services": {
+        "qobuz": "320624353"
+      },
+      "album": "2007-2014",
+      "duration": 251,
+      "isrc": "TCJPB1481594"
+    },
+    {
+      "artist": "Collapse Under The Empire",
+      "title": "The Last Reminder",
+      "services": {
+        "qobuz": "71321908"
+      },
+      "album": "Shoulders & Giants",
+      "duration": 353,
+      "isrc": "USHM81198190"
+    },
+    {
+      "artist": "Toundra",
+      "title": "Cielo Negro (Black Sky)",
+      "services": {
+        "qobuz": "49068070"
+      },
+      "album": "(III)",
+      "duration": 360,
+      "isrc": "ES71I1200033"
+    },
+    {
+      "artist": "Stereolab",
+      "title": "Refractions in the Plastic Pulse",
+      "services": {
+        "qobuz": "79198116"
+      },
+      "album": "Dots And Loops",
+      "duration": 1052,
+      "isrc": "USEE19792082"
+    },
+    {
+      "artist": "Pg.lost",
+      "title": "I Am a Destroyer",
+      "services": {
+        "qobuz": "50669682"
+      },
+      "album": "Key",
+      "duration": 558,
+      "isrc": "SEXOS1200105"
+    },
+    {
+      "artist": "Dennis Wilson",
+      "title": "End of the Show",
+      "services": {
+        "qobuz": "4935043"
+      },
+      "album": "Pacific Ocean Blue & Bambu - 2 CD Deluxe Legacy Edition",
+      "duration": 177,
+      "isrc": "USSM17701177"
+    },
+    {
+      "artist": "Lights & Motion",
+      "title": "The Spectacular Quiet",
+      "services": {
+        "qobuz": "20900966"
+      },
+      "album": "Chronicle",
+      "duration": 231,
+      "isrc": "US4KH1556009"
+    },
+    {
+      "artist": "Moonlit Sailor",
+      "title": "Minutes from Somewhere Else",
+      "services": {
+        "qobuz": "15328867"
+      },
+      "album": "We Come from Exploding Stars",
+      "duration": 402,
+      "isrc": "US4KH1455401"
+    },
+    {
+      "artist": "Wang Wen",
+      "title": "Mail From the River",
+      "services": {
+        "qobuz": "52428491"
+      },
+      "album": "Invisible City",
+      "duration": 377,
+      "isrc": "QM4TX1898984"
+    },
+    {
+      "artist": "Mooncake",
+      "title": "Zaris",
+      "services": {
+        "qobuz": "253309800"
+      },
+      "album": "Zaris",
+      "duration": 313,
+      "isrc": "USHM81306733"
+    },
+    {
+      "artist": "We Lost The Sea",
+      "title": "A Gallant Gentleman",
+      "services": {
+        "qobuz": "400480702"
+      },
+      "album": "Departure Songs",
+      "duration": 364,
+      "isrc": "AUAJ11500039"
+    },
+    {
+      "artist": "Oh Hiroshima",
+      "title": "Mirage",
+      "services": {
+        "qobuz": "204607406"
+      },
+      "album": "In Silence We Yearn",
+      "duration": 573,
+      "isrc": "SEYOK1535193"
+    },
+    {
+      "artist": "From Monument To Masses",
+      "title": "The Quiet Before",
+      "services": {
+        "qobuz": "53871270"
+      },
+      "album": "The Impossible Leap in 100 Simple Steps",
+      "duration": 175,
+      "isrc": "USDM30303050"
+    },
+    {
+      "artist": "The For Carnation",
+      "title": "Moonbeams",
+      "services": {
+        "qobuz": "32668778"
+      },
+      "album": "The For Carnation",
+      "duration": 569,
+      "isrc": "USTG30021406"
+    },
+    {
+      "artist": "Julie Andrews",
+      "title": "The Lonely Goatherd",
+      "services": {
+        "qobuz": "113477490"
+      },
+      "album": "The Sound Of Music",
+      "duration": 191,
+      "isrc": "USRC16406217"
+    },
+    {
+      "artist": "Shipping News",
+      "title": "Axons and Dendrites",
+      "services": {
+        "qobuz": "32666792"
+      },
+      "album": "Flies the Fields",
+      "duration": 324,
+      "isrc": "USA4C0509901"
+    },
+    {
+      "artist": "Movietone",
+      "title": "Mono Valley",
+      "services": {
+        "qobuz": "155718081"
+      },
+      "album": "Peel Sessions",
+      "duration": 299,
+      "isrc": "FR9W19400475"
+    },
+    {
+      "artist": "Hood",
+      "title": "The Lost You",
+      "services": {
+        "qobuz": "2523462"
+      },
+      "album": "Outside Closer",
+      "duration": 281,
+      "isrc": "GBCEL0400022"
+    },
+    {
+      "artist": "Gabriel Minguez",
+      "title": "UI",
+      "services": {
+        "qobuz": "293287255"
+      },
+      "album": "UI",
+      "duration": 284,
+      "isrc": "SE69Z2440086"
+    },
+    {
+      "artist": "Causa Sui",
+      "title": "La Jolla",
+      "services": {
+        "qobuz": "102783350"
+      },
+      "album": "Szabodelico",
+      "duration": 323,
+      "isrc": "QMBZ92049144"
+    },
+    {
+      "artist": "Vivaldi Chamber Orchestra",
+      "title": "Paris Concerto VIII in D Minor RV 127: I. Allegro",
+      "services": {
+        "qobuz": "98552776"
+      },
+      "album": "Vivaldi: String Concerto / Bach: Air On The G String - Violin Concerto in A Minor / Albinoni: Adagio in G Minor / Pachelbel: Some Revisitations of Canon in D Major / Walter Rinaldi: Orchestral Works / Beethoven: Fur Elise / Wedding March - Vol. 2",
+      "duration": 94,
+      "isrc": "USX9P1102436"
+    },
+    {
+      "artist": "June Of 44",
+      "title": "Anisette",
+      "services": {
+        "qobuz": "32621319"
+      },
+      "album": "Tropics and Meridians",
+      "duration": 558,
+      "isrc": "USA4C9604401"
+    },
+    {
+      "artist": "Fridge",
+      "title": "Five Combs",
+      "services": {
+        "qobuz": "194877109"
+      },
+      "album": "Happiness",
+      "duration": 585,
+      "isrc": "USY6C0704310"
+    },
+    {
+      "artist": "Rage Against The Machine",
+      "title": "Sleep Now In the Fire",
+      "services": {
+        "qobuz": "294162704"
+      },
+      "album": "Democratic National Convention 2000",
+      "duration": 236,
+      "isrc": "USSM11800946"
+    },
+    {
+      "artist": "Radian Pax",
+      "title": "Path",
+      "services": {
+        "qobuz": "375328057"
+      },
+      "album": "Radian Pax",
+      "duration": 287,
+      "isrc": "CBF8B2571951"
+    },
+    {
+      "artist": "The Appleseed Cast",
+      "title": "Marigold & Patchwork",
+      "services": {
+        "qobuz": "3896233"
+      },
+      "album": "The End Of The Ring Wars",
+      "duration": 349,
+      "isrc": "US4KH0437001"
+    },
+    {
+      "artist": "I like trains",
+      "title": "Terra Nova",
+      "services": {
+        "qobuz": "1177706"
+      },
+      "album": "Progress Reform",
+      "duration": 299,
+      "isrc": "GBFFA0600101"
+    },
+    {
+      "artist": "Jambinai",
+      "title": "They Keep Silence",
+      "services": {
+        "qobuz": "32969389"
+      },
+      "album": "Hermitage",
+      "duration": 384,
+      "isrc": "GBBRP1653508"
+    },
+    {
+      "artist": "Spa et Yoga",
+      "title": "La renaissance - Le bruit de l'eau",
+      "services": {
+        "qobuz": "50472996"
+      },
+      "album": "Printemps detox \u2013 Musique relaxante et \u00e9nergisante pour d\u00e9sintoxication de printemps, la saison du renouveau et de la renaissance",
+      "duration": 236,
+      "isrc": "ITO101718510"
+    },
+    {
+      "artist": "Spurv",
+      "title": "Et blekt lys lyder",
+      "services": {
+        "qobuz": "140827076"
+      },
+      "album": "Myra",
+      "duration": 328,
+      "isrc": "NOFYF1803050"
+    },
+    {
+      "artist": "Cave In",
+      "title": "Lift Off",
+      "services": {
+        "qobuz": "126424924"
+      },
+      "album": "Lift Off/Lost in the Air",
+      "duration": 285,
+      "isrc": "USALX0200002"
+    },
+    {
+      "artist": "Sleep Dream Music Academy",
+      "title": "Stress \u2013 Distant Sea Waves",
+      "services": {
+        "qobuz": "175997017"
+      },
+      "album": "Ocean Sounds Therapy Instead of Sleeping Pills: Bedtime Songs to Help You Relax, Meditate Before Sleep, Rest, De-stress",
+      "duration": 222,
+      "isrc": "PLS922216949"
+    },
+    {
+      "artist": "Paco de Luc\u00eda",
+      "title": "Short Tales of the Black Forest",
+      "services": {
+        "qobuz": "80785"
+      },
+      "album": "Friday Night in San Francisco",
+      "duration": 522,
+      "isrc": "USSM18000196"
+    },
+    {
+      "artist": "Sevdaliza",
+      "title": "Hubris",
+      "services": {
+        "qobuz": "220015173"
+      },
+      "album": "Ison",
+      "duration": 245,
+      "isrc": "NLE3U1700003"
+    },
+    {
+      "artist": "Silent Whale Becomes a Dream",
+      "title": "As Walking On Canopy",
+      "services": {
+        "qobuz": "250702905"
+      },
+      "album": "Canopy Remastered",
+      "duration": 909,
+      "isrc": "QZDA42470245"
+    },
+    {
+      "artist": "Dark Dark Horse",
+      "title": "Pale Lights (Dark Dark Horse Remix)",
+      "services": {
+        "qobuz": "58467601"
+      },
+      "album": "Pale Lights (Dark Dark Horse Remix)",
+      "duration": 257,
+      "isrc": "US3X51738611"
+    },
+    {
+      "artist": "The Maccabees",
+      "title": "Empty Vessels",
+      "services": {
+        "qobuz": "13641337"
+      },
+      "album": "Wall Of Arms",
+      "duration": 193,
+      "isrc": "GBUM70915787"
+    }
+  ]
+}

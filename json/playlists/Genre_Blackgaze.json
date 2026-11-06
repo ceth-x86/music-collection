@@ -1,0 +1,410 @@
+{
+  "name": "Genre: Blackgaze",
+  "services": {
+    "qobuz": "66734174",
+    "tidal": "9d7d21b3-d8e4-461a-b849-d469e8755140"
+  },
+  "description": "Imported genre playlist: Blackgaze.",
+  "tracks": [
+    {
+      "artist": "Amesoeurs",
+      "title": "Gas in Veins",
+      "services": {
+        "qobuz": "55016828"
+      },
+      "album": "Amesoeurs",
+      "duration": 310,
+      "isrc": "ITJ350900510"
+    },
+    {
+      "artist": "Fen",
+      "title": "A Witness to The Passing of Aeons",
+      "services": {
+        "qobuz": "55016900"
+      },
+      "album": "The Malediction Fields",
+      "duration": 426,
+      "isrc": "ITJ350900484"
+    },
+    {
+      "artist": "Alcest",
+      "title": "Ecailles de lune, Pt. 1",
+      "services": {
+        "qobuz": "189613977"
+      },
+      "album": "\u00c9cailles de lune",
+      "duration": 592,
+      "isrc": "DES561010601"
+    },
+    {
+      "artist": "Les Discrets",
+      "title": "L'\u00e9chapp\u00e9e",
+      "services": {
+        "qobuz": "189613920"
+      },
+      "album": "Septembre et ses derni\u00e8res pens\u00e9es",
+      "duration": 243,
+      "isrc": "DES560910302"
+    },
+    {
+      "artist": "Lantl\u00f4s",
+      "title": "Neige de mars",
+      "services": {
+        "qobuz": "189595434"
+      },
+      "album": ".neon",
+      "duration": 303,
+      "isrc": "DES561098704"
+    },
+    {
+      "artist": "Cold Body Radiation",
+      "title": "White Light",
+      "services": {
+        "qobuz": "113439941"
+      },
+      "album": "The Great White Emptiness",
+      "duration": 300,
+      "isrc": "GBKQU1574845"
+    },
+    {
+      "artist": "Heretoir",
+      "title": "Fatigue",
+      "services": {
+        "qobuz": "186819701"
+      },
+      "album": "Heretoir",
+      "duration": 437,
+      "isrc": "DEPI82220728"
+    },
+    {
+      "artist": "Old Silver Key",
+      "title": "What Once Was and Will Never Happen Again",
+      "services": {
+        "qobuz": "77779961"
+      },
+      "album": "Tales of Wanderings",
+      "duration": 125,
+      "isrc": "FR33T1182201"
+    },
+    {
+      "artist": "Woods of Desolation",
+      "title": "The Inevitable End",
+      "services": {
+        "qobuz": "171490573"
+      },
+      "album": "Torn Beyond Reason",
+      "duration": 553,
+      "isrc": "FR33T2213304"
+    },
+    {
+      "artist": "Deafheaven",
+      "title": "Dream House",
+      "services": {
+        "qobuz": "218527189"
+      },
+      "album": "Sunbather",
+      "duration": 554,
+      "isrc": "QZ22D2300064"
+    },
+    {
+      "artist": "Altar Of Plagues",
+      "title": "God Alone",
+      "services": {
+        "qobuz": "190324824"
+      },
+      "album": "Teethed Glory & Injury",
+      "duration": 265,
+      "isrc": "GBADD1341802"
+    },
+    {
+      "artist": "Percy Mayfield",
+      "title": "My Mind Is Trying to Leave Me Too",
+      "services": {
+        "qobuz": "73104155"
+      },
+      "album": "Percy Mayfield Live",
+      "duration": 194,
+      "isrc": "USASN0900549"
+    },
+    {
+      "artist": "An Autumn for Crippled Children",
+      "title": "I Became You",
+      "services": {
+        "qobuz": "85898033"
+      },
+      "album": "All Fell Silent, Everything Went Quiet",
+      "duration": 289,
+      "isrc": "USERN1010186"
+    },
+    {
+      "artist": "Harakiri for the Sky",
+      "title": "Fire, Walk with Me",
+      "services": {
+        "qobuz": "44161711"
+      },
+      "album": "Arson",
+      "duration": 548,
+      "isrc": "DEPI81701840"
+    },
+    {
+      "artist": "So Hideous",
+      "title": "To\u00a0Clasp\u00a0A\u00a0Fallen\u00a0Wish\u00a0With\u00a0Broken\u00a0Fingers",
+      "services": {
+        "qobuz": "222159650"
+      },
+      "album": "To\u00a0Clasp\u00a0A\u00a0Fallen\u00a0Wish\u00a0With\u00a0Broken\u00a0Fingers",
+      "duration": 278,
+      "isrc": "QM4H61500104"
+    },
+    {
+      "artist": "Amiensus",
+      "title": "Divinity",
+      "services": {
+        "qobuz": "99312068"
+      },
+      "album": "Abreaction",
+      "duration": 351,
+      "isrc": "CAC9I2007002"
+    },
+    {
+      "artist": "Bosse-de-Nage",
+      "title": "Triangular Dream",
+      "services": {
+        "qobuz": "381684158"
+      },
+      "album": "Hidden Fires Burn Hottest",
+      "duration": 108,
+      "isrc": "USA2Z2500367"
+    },
+    {
+      "artist": "Ghost Bath",
+      "title": "Golden Number",
+      "services": {
+        "qobuz": "60777424"
+      },
+      "album": "Moonlover",
+      "duration": 548,
+      "isrc": "DED831600015"
+    },
+    {
+      "artist": "Vattnet Viskar",
+      "title": "Yearn",
+      "services": {
+        "qobuz": "28269138"
+      },
+      "album": "Settler",
+      "duration": 254,
+      "isrc": "US4E41524603"
+    },
+    {
+      "artist": "Downfall of Gaia",
+      "title": "Woe",
+      "services": {
+        "qobuz": "60650391"
+      },
+      "album": "Atrophy",
+      "duration": 534,
+      "isrc": "USMBR1612056"
+    },
+    {
+      "artist": "Numenorean",
+      "title": "Home",
+      "services": {
+        "qobuz": "77796381"
+      },
+      "album": "Home",
+      "duration": 553,
+      "isrc": "FR33T1639101"
+    },
+    {
+      "artist": "Anomalie",
+      "title": "Me\u0301tropole",
+      "services": {
+        "qobuz": "193572302"
+      },
+      "album": "M\u00e9tropole",
+      "duration": 274,
+      "isrc": "USQY51758179"
+    },
+    {
+      "artist": "Skyforest",
+      "title": "A Graceful Spirit",
+      "services": {
+        "qobuz": "114147213"
+      },
+      "album": "Unity",
+      "duration": 270,
+      "isrc": "GBSMU2701080"
+    },
+    {
+      "artist": "Oathbreaker",
+      "title": "Second Son of R.",
+      "services": {
+        "qobuz": "72959720"
+      },
+      "album": "Rheia",
+      "duration": 355,
+      "isrc": "QZ22D1600270"
+    },
+    {
+      "artist": "Au Dessus",
+      "title": "VI",
+      "services": {
+        "qobuz": "59703607"
+      },
+      "album": "End of Chapter",
+      "duration": 372,
+      "isrc": "FR9W11730825"
+    },
+    {
+      "artist": "Illyria",
+      "title": "Wanderlust",
+      "services": {
+        "qobuz": "262353130"
+      },
+      "album": "Wanderlust",
+      "duration": 669,
+      "isrc": "QZK6N2421784"
+    },
+    {
+      "artist": "Trna",
+      "title": "Earthcult",
+      "services": {
+        "qobuz": "98034440"
+      },
+      "album": "Earthcult",
+      "duration": 898,
+      "isrc": "USCGJ1828517"
+    },
+    {
+      "artist": "Tardigrada",
+      "title": "Emotionale \u00d6dnis",
+      "services": {
+        "qobuz": "252177762"
+      },
+      "album": "Emotionale \u00d6dnis",
+      "duration": 523,
+      "isrc": "USQY51606120"
+    },
+    {
+      "artist": "M\u00d8L",
+      "title": "Storm",
+      "services": {
+        "qobuz": "109140949"
+      },
+      "album": "Jord",
+      "duration": 232,
+      "isrc": "GBMLT1501102"
+    },
+    {
+      "artist": "Sylvaine",
+      "title": "Nowhere, Still Somewhere",
+      "services": {
+        "qobuz": "133135839"
+      },
+      "album": "Nova",
+      "duration": 274,
+      "isrc": "FR33T2164703"
+    },
+    {
+      "artist": "Cardinals",
+      "title": "Anhedonia",
+      "services": {
+        "qobuz": "356684149"
+      },
+      "album": "Masquerade",
+      "duration": 145,
+      "isrc": "GB6TW2500171"
+    },
+    {
+      "artist": "Sadness",
+      "title": "i want to be there",
+      "services": {
+        "qobuz": "117562245"
+      },
+      "album": "i want to be there",
+      "duration": 498,
+      "isrc": "GBSMU6624914"
+    },
+    {
+      "artist": "Hermanos Gutierrez",
+      "title": "Cumbia Lunar",
+      "services": {
+        "qobuz": "271126113"
+      },
+      "album": "Sonido C\u00f3smico",
+      "duration": 157,
+      "isrc": "USC4R2441426"
+    },
+    {
+      "artist": "Leprous",
+      "title": "Like a Sunken Ship",
+      "services": {
+        "qobuz": "266707946"
+      },
+      "album": "Melodies Of Atonement",
+      "duration": 244,
+      "isrc": "GBDHC2447205"
+    },
+    {
+      "artist": "Show Me a Dinosaur",
+      "title": "Sunflower",
+      "services": {
+        "qobuz": "126882806"
+      },
+      "album": "Plantgazer",
+      "duration": 327,
+      "isrc": "TCAFF2002753"
+    },
+    {
+      "artist": "Olhava",
+      "title": "Reborn - Pt. II",
+      "services": {
+        "qobuz": "205299581"
+      },
+      "album": "Reborn",
+      "duration": 967,
+      "isrc": "USDHM2205557"
+    },
+    {
+      "artist": "Seaweed Mustache",
+      "title": "GOODBYE",
+      "services": {
+        "qobuz": "298973765"
+      },
+      "album": "2",
+      "duration": 510,
+      "isrc": "QZWFX2422304"
+    },
+    {
+      "artist": "Snarky Puppy",
+      "title": "Chimera",
+      "services": {
+        "qobuz": "350617012"
+      },
+      "album": "Somni",
+      "duration": 494,
+      "isrc": "QM7282558232"
+    },
+    {
+      "artist": "Karg",
+      "title": "Was bleibt",
+      "services": {
+        "qobuz": "175222595"
+      },
+      "album": "Resignation",
+      "duration": 703,
+      "isrc": "DEPI82102429"
+    },
+    {
+      "artist": "Violet Cold",
+      "title": "Multiverse",
+      "services": {
+        "qobuz": "395477784"
+      },
+      "album": "Multiverse",
+      "duration": 298,
+      "isrc": "NZTX02301112"
+    }
+  ]
+}

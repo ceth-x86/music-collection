@@ -1,0 +1,1010 @@
+{
+  "name": "Genre: Dark Synthpop",
+  "services": {
+    "qobuz": "66717732",
+    "tidal": "e29f6ea2-fc4e-4217-a942-5f129c9d73b8"
+  },
+  "description": "Imported genre playlist: Dark Synthpop.",
+  "tracks": [
+    {
+      "artist": "Human League",
+      "title": "Being Boiled",
+      "services": {
+        "qobuz": "1048813"
+      },
+      "album": "Reproduction",
+      "duration": 234,
+      "isrc": "GB01A0701071"
+    },
+    {
+      "artist": "The Normal",
+      "title": "Warm Leatherette",
+      "services": {
+        "qobuz": "52081057"
+      },
+      "album": "Warm Leatherette / T.V.O.D.",
+      "duration": 203,
+      "isrc": "GBAJH0400898"
+    },
+    {
+      "artist": "Fad Gadget",
+      "title": "Back to Nature",
+      "services": {
+        "qobuz": "4666188"
+      },
+      "album": "The Best of Fad Gadget",
+      "duration": 349,
+      "isrc": "GBAJH0100323"
+    },
+    {
+      "artist": "Tubeway Army",
+      "title": "Are 'Friends' Electric?",
+      "services": {
+        "qobuz": "26441450"
+      },
+      "album": "Replicas",
+      "duration": 323,
+      "isrc": "GBAZP9700052"
+    },
+    {
+      "artist": "Holger Kern",
+      "title": "Eisb\u00e4r (Karaoke Version)",
+      "services": {
+        "qobuz": "24434480"
+      },
+      "album": "Karaoke the Way to the Star, Vol. 1",
+      "duration": 298,
+      "isrc": "ATW481500058"
+    },
+    {
+      "artist": "John Foxx",
+      "title": "Underpass",
+      "services": {
+        "qobuz": "170641481"
+      },
+      "album": "Metamatic",
+      "duration": 236,
+      "isrc": "GBECB1400292"
+    },
+    {
+      "artist": "Ultravox",
+      "title": "Vienna",
+      "services": {
+        "qobuz": "169136017"
+      },
+      "album": "Vienna",
+      "duration": 296,
+      "isrc": "GBAYK0800167"
+    },
+    {
+      "artist": "Liasons Dangereuses",
+      "title": "Los Ni\u00f1os Del Parque",
+      "services": {
+        "qobuz": "30074965"
+      },
+      "album": "Liaisons Dangereuses",
+      "duration": 301,
+      "isrc": "DEE610200502"
+    },
+    {
+      "artist": "Dream Theater",
+      "title": "Led Zeppelin Medley - The Rover / Achilles Last Stand / The Song Remains the Same",
+      "services": {
+        "qobuz": "2782570"
+      },
+      "album": "A Change of Seasons",
+      "duration": 448,
+      "isrc": "USEW20100180"
+    },
+    {
+      "artist": "Soft Cell",
+      "title": "Sex Dwarf",
+      "services": {
+        "qobuz": "767596"
+      },
+      "album": "Non-Stop Erotic Cabaret",
+      "duration": 316,
+      "isrc": "GBF088100765"
+    },
+    {
+      "artist": "Japan",
+      "title": "Ghosts",
+      "services": {
+        "qobuz": "1736002"
+      },
+      "album": "Tin Drum",
+      "duration": 276,
+      "isrc": "GBAAA0300385"
+    },
+    {
+      "artist": "Klaus Nomi",
+      "title": "Total Eclipse",
+      "services": {
+        "qobuz": "201477999"
+      },
+      "album": "Klaus Nomi",
+      "duration": 210,
+      "isrc": "FRZ080802024"
+    },
+    {
+      "artist": "Laurie Anderson",
+      "title": "O Superman",
+      "services": {
+        "qobuz": "11362185"
+      },
+      "album": "Big Science",
+      "duration": 505,
+      "isrc": "USNO10750554"
+    },
+    {
+      "artist": "B-Movie",
+      "title": "Nowhere Girl",
+      "services": {
+        "qobuz": "51058419"
+      },
+      "album": "Nowhere Girl - EP",
+      "duration": 388,
+      "isrc": "QM6XS1576355"
+    },
+    {
+      "artist": "Berlin",
+      "title": "The Metro",
+      "services": {
+        "qobuz": "54695912"
+      },
+      "album": "Pleasure Victim",
+      "duration": 249,
+      "isrc": "USGF19918710"
+    },
+    {
+      "artist": "New Order",
+      "title": "Blue Monday",
+      "services": {
+        "qobuz": "33382287"
+      },
+      "album": "Singles",
+      "duration": 451,
+      "isrc": "GBAAP1500066"
+    },
+    {
+      "artist": "Severed Heads",
+      "title": "Dead Eyes Opened",
+      "services": {
+        "qobuz": "371119398"
+      },
+      "album": "Dead Eyes Opened",
+      "duration": 392,
+      "isrc": "USQY51728439"
+    },
+    {
+      "artist": "Ministry",
+      "title": "Revenge",
+      "services": {
+        "qobuz": "4903967"
+      },
+      "album": "With Sympathy",
+      "duration": 228,
+      "isrc": "USAR18300139"
+    },
+    {
+      "artist": "Deux",
+      "title": "Decadence",
+      "services": {
+        "qobuz": "50761280"
+      },
+      "album": "Decadence",
+      "duration": 201,
+      "isrc": "US8YW1100014"
+    },
+    {
+      "artist": "Kas Product",
+      "title": "Never Come Back",
+      "services": {
+        "qobuz": "181917956"
+      },
+      "album": "TRY OUT",
+      "duration": 199,
+      "isrc": "FRPEW1900150"
+    },
+    {
+      "artist": "Nacht Und Nebel",
+      "title": "Beats of Love",
+      "services": {
+        "qobuz": "4678552"
+      },
+      "album": "Casablanca + Beats Of Love",
+      "duration": 232,
+      "isrc": "BEI010700012"
+    },
+    {
+      "artist": "Martin Dupont",
+      "title": "Just Because",
+      "services": {
+        "qobuz": "59898172"
+      },
+      "album": "Just Because...",
+      "duration": 296,
+      "isrc": "QM4TW1993953"
+    },
+    {
+      "artist": "Anne Clark",
+      "title": "Our Darkness",
+      "services": {
+        "qobuz": "2626997"
+      },
+      "album": "The Very Best Of",
+      "duration": 321,
+      "isrc": "GBAAA8400459"
+    },
+    {
+      "artist": "Section 25",
+      "title": "Looking from a Hilltop",
+      "services": {
+        "qobuz": "50522990"
+      },
+      "album": "From the Hip: 30th Anniversary Edition",
+      "duration": 263,
+      "isrc": "GBHBR0400078"
+    },
+    {
+      "artist": "Dominatrix",
+      "title": "The Dominatrix Sleeps Tonight",
+      "services": {
+        "qobuz": "150860595"
+      },
+      "album": "The Dominatrix Sleeps Tonight",
+      "duration": 213,
+      "isrc": "US4F92201010"
+    },
+    {
+      "artist": "Alphaville",
+      "title": "Forever Young (2019 Remaster)",
+      "services": {
+        "qobuz": "57635342"
+      },
+      "album": "Forever Young (Super Deluxe Edition) [2019 Remaster]",
+      "duration": 226,
+      "isrc": "DEA621800676"
+    },
+    {
+      "artist": "Propaganda",
+      "title": "Dr. Mabuse",
+      "services": {
+        "qobuz": "131632130"
+      },
+      "album": "A Secret Wish",
+      "duration": 302,
+      "isrc": "GBAHW0000201"
+    },
+    {
+      "artist": "A-Ha",
+      "title": "The Sun Always Shines On TV",
+      "services": {
+        "qobuz": "43331590"
+      },
+      "album": "The Sun Always Shines On TV",
+      "duration": 255,
+      "isrc": "DEUM71723167"
+    },
+    {
+      "artist": "Depeche Mode",
+      "title": "Stripped",
+      "services": {
+        "qobuz": "1762134"
+      },
+      "album": "The Singles 86-98",
+      "duration": 231,
+      "isrc": "GBAJH9800137"
+    },
+    {
+      "artist": "The Invincible Spirit",
+      "title": "Push",
+      "services": {
+        "qobuz": "359022434"
+      },
+      "album": "Push",
+      "duration": 169,
+      "isrc": "DEU771200057"
+    },
+    {
+      "artist": "Red Flag",
+      "title": "Russian Radio",
+      "services": {
+        "qobuz": "2811104"
+      },
+      "album": "Na\u00efve Art [Special Editon]",
+      "duration": 372,
+      "isrc": "USRY20514048"
+    },
+    {
+      "artist": "Camouflage",
+      "title": "The Great Commandment",
+      "services": {
+        "qobuz": "2474168"
+      },
+      "album": "Voices & Images",
+      "duration": 256,
+      "isrc": "DEF088802040"
+    },
+    {
+      "artist": "Cetu Javu",
+      "title": "Situations",
+      "services": {
+        "qobuz": "51044066"
+      },
+      "album": "Situations - The Very Best Of",
+      "duration": 243,
+      "isrc": "USA560961785"
+    },
+    {
+      "artist": "Q Lazzarus",
+      "title": "Goodbye Horses - Single",
+      "services": {
+        "qobuz": "74785623"
+      },
+      "album": "Goodbye Horses - Single",
+      "duration": 187,
+      "isrc": "QMFME1337712"
+    },
+    {
+      "artist": "When In Rome",
+      "title": "The Promise",
+      "services": {
+        "qobuz": "1947989"
+      },
+      "album": "When In Rome",
+      "duration": 220,
+      "isrc": "GBAAA8800494"
+    },
+    {
+      "artist": "Information Society",
+      "title": "Walking Away",
+      "services": {
+        "qobuz": "169127807"
+      },
+      "album": "Information Society",
+      "duration": 304,
+      "isrc": "USRE10100517"
+    },
+    {
+      "artist": "Book Of Love",
+      "title": "Witchcraft",
+      "services": {
+        "qobuz": "39757486"
+      },
+      "album": "Lullaby",
+      "duration": 223,
+      "isrc": "USWB10101545"
+    },
+    {
+      "artist": "Lord Of The Lost",
+      "title": "Your Love Is Colder Than Death",
+      "services": {
+        "qobuz": "374514917"
+      },
+      "album": "OPVS NOIR Vol. 3",
+      "duration": 262,
+      "isrc": "ATN262640409"
+    },
+    {
+      "artist": "Anything Box",
+      "title": "Living In Oblivion",
+      "services": {
+        "qobuz": "56611893"
+      },
+      "album": "Peace",
+      "duration": 306,
+      "isrc": "USSM10026764"
+    },
+    {
+      "artist": "Cause & Effect",
+      "title": "You Think You Know Her",
+      "services": {
+        "qobuz": "5017904"
+      },
+      "album": "Another Minute",
+      "duration": 283,
+      "isrc": "USVR10400777"
+    },
+    {
+      "artist": "And One",
+      "title": "Second Voice",
+      "services": {
+        "qobuz": "385627961"
+      },
+      "album": "Anguish",
+      "duration": 193,
+      "isrc": "GBAJE0603368"
+    },
+    {
+      "artist": "Wolfsheim",
+      "title": "The Sparrows And The Nightingales",
+      "services": {
+        "qobuz": "55185064"
+      },
+      "album": "The Sparrows And The Nightingales",
+      "duration": 405,
+      "isrc": "DEE029100020"
+    },
+    {
+      "artist": "Celebrate the nun",
+      "title": "She's a Secretary (Gothic Mix)",
+      "services": {
+        "qobuz": "68954660"
+      },
+      "album": "80s Alternative",
+      "duration": 327,
+      "isrc": "USA560952926"
+    },
+    {
+      "artist": "Psyche",
+      "title": "Unveiling the Secret",
+      "services": {
+        "qobuz": "34011586"
+      },
+      "album": "Unveiling the Secret",
+      "duration": 420,
+      "isrc": "QMFMG1510523"
+    },
+    {
+      "artist": "Elegant Machinery",
+      "title": "Safety in Mind",
+      "services": {
+        "qobuz": "99227889"
+      },
+      "album": "Degraded Faces",
+      "duration": 239,
+      "isrc": "SELRA2001001"
+    },
+    {
+      "artist": "De/Vision",
+      "title": "Try to Forget",
+      "services": {
+        "qobuz": "91720755"
+      },
+      "album": "Strange Days",
+      "duration": 235,
+      "isrc": "DEMT31300010"
+    },
+    {
+      "artist": "Beborn Beton",
+      "title": "Im Innern einer Frau",
+      "services": {
+        "qobuz": "189607004"
+      },
+      "album": "Nightfall",
+      "duration": 270,
+      "isrc": "DES561591211"
+    },
+    {
+      "artist": "The Frozen Autumn",
+      "title": "Dusk Is Like a Dagger",
+      "services": {
+        "qobuz": "133733499"
+      },
+      "album": "Fragments of Memories",
+      "duration": 303,
+      "isrc": "QZFZ32043191"
+    },
+    {
+      "artist": "Diorama",
+      "title": "Horizons",
+      "services": {
+        "qobuz": "183014503"
+      },
+      "album": "Fast Advance Fast Reverse",
+      "duration": 332,
+      "isrc": "DEU552214901"
+    },
+    {
+      "artist": "Shiny Toy Guns",
+      "title": "Le Disko",
+      "services": {
+        "qobuz": "148404218"
+      },
+      "album": "We Are Pilots",
+      "duration": 203,
+      "isrc": "USUM70606691"
+    },
+    {
+      "artist": "Colony 5",
+      "title": "Plastic World",
+      "services": {
+        "qobuz": "198573074"
+      },
+      "album": "Fixed",
+      "duration": 238,
+      "isrc": "SETGM0500206"
+    },
+    {
+      "artist": "Melotron",
+      "title": "Der Kosmonaut",
+      "services": {
+        "qobuz": "240131080"
+      },
+      "album": "Sternenstaub",
+      "duration": 325,
+      "isrc": "QZFZ52176953"
+    },
+    {
+      "artist": "Mesh",
+      "title": "Crash",
+      "services": {
+        "qobuz": "83386857"
+      },
+      "album": "We Collide",
+      "duration": 261,
+      "isrc": "DEBC40800231"
+    },
+    {
+      "artist": "Arco Iris",
+      "title": "The Tower",
+      "services": {
+        "qobuz": "135695300"
+      },
+      "album": "Hierofante",
+      "duration": 404,
+      "isrc": "QZHN32109647"
+    },
+    {
+      "artist": "The The",
+      "title": "Angels Of Deception",
+      "services": {
+        "qobuz": "47182009"
+      },
+      "album": "Infected",
+      "duration": 276,
+      "isrc": "GBBBM0102160"
+    },
+    {
+      "artist": "Ashbury Heights",
+      "title": "SmAlLeR",
+      "services": {
+        "qobuz": "135018773"
+      },
+      "album": "Three Cheers for the Newlydeads",
+      "duration": 263,
+      "isrc": "DEBZ70700297"
+    },
+    {
+      "artist": "Iamx",
+      "title": "Kiss And Swallow",
+      "services": {
+        "qobuz": "143190764"
+      },
+      "album": "Kiss + Swallow",
+      "duration": 339,
+      "isrc": "DEBC40600155"
+    },
+    {
+      "artist": "Xeno & Oaklander",
+      "title": "Sentinelle",
+      "services": {
+        "qobuz": "76205628"
+      },
+      "album": "Sentinelle",
+      "duration": 197,
+      "isrc": "USJ3D0900008"
+    },
+    {
+      "artist": "The Knife",
+      "title": "We Share Our Mothers' Health",
+      "services": {
+        "qobuz": "172626922"
+      },
+      "album": "Silent Shout",
+      "duration": 251,
+      "isrc": "SEWCE0600204"
+    },
+    {
+      "artist": "Blaqk Audio",
+      "title": "Stiff Kittens",
+      "services": {
+        "qobuz": "2451821"
+      },
+      "album": "CexCells",
+      "duration": 225,
+      "isrc": "USUM70741347"
+    },
+    {
+      "artist": "Fever Ray",
+      "title": "If I Had a Heart",
+      "services": {
+        "qobuz": "19772684"
+      },
+      "album": "Fever Ray",
+      "duration": 227,
+      "isrc": "SEWCE0900201"
+    },
+    {
+      "artist": "Cold Cave",
+      "title": "Love Comes Close",
+      "services": {
+        "qobuz": "224565127"
+      },
+      "album": "Love Comes Close",
+      "duration": 265,
+      "isrc": "USMTD0991302"
+    },
+    {
+      "artist": "Sixth June",
+      "title": "Everytime",
+      "services": {
+        "qobuz": "197776525"
+      },
+      "album": "Everytime",
+      "duration": 172,
+      "isrc": "NOAPI1794514"
+    },
+    {
+      "artist": "Hurts",
+      "title": "Wonderful Life",
+      "services": {
+        "qobuz": "2344657"
+      },
+      "album": "Happiness",
+      "duration": 254,
+      "isrc": "GBARL0901539"
+    },
+    {
+      "artist": "Light Asylum",
+      "title": "Dark Allies",
+      "services": {
+        "qobuz": "134465470"
+      },
+      "album": "In Tension",
+      "duration": 361,
+      "isrc": "USMEX1100074"
+    },
+    {
+      "artist": "Austra",
+      "title": "Beat And The Pulse",
+      "services": {
+        "qobuz": "3557849"
+      },
+      "album": "Feel It Break",
+      "duration": 295,
+      "isrc": "GBCEL1001069"
+    },
+    {
+      "artist": "iamamiwhoami",
+      "title": "sever",
+      "services": {
+        "qobuz": "170934131"
+      },
+      "album": "kin",
+      "duration": 238,
+      "isrc": "GBUM71200499"
+    },
+    {
+      "artist": "TR/ST",
+      "title": "Sulk",
+      "services": {
+        "qobuz": "45384596"
+      },
+      "album": "TRST",
+      "duration": 377,
+      "isrc": "CAAA11106811"
+    },
+    {
+      "artist": "Linea Aspera",
+      "title": "Synapse",
+      "services": {
+        "qobuz": "102004652"
+      },
+      "album": "Linea Aspera",
+      "duration": 256,
+      "isrc": "USQY51728442"
+    },
+    {
+      "artist": "Black Marble",
+      "title": "A Great Design",
+      "services": {
+        "qobuz": "407829589"
+      },
+      "album": "A Different Arrangement",
+      "duration": 270,
+      "isrc": "USHF31206303"
+    },
+    {
+      "artist": "Vile Electrodes",
+      "title": "Deep Red",
+      "services": {
+        "qobuz": "170813142"
+      },
+      "album": "The Future Through a Lens",
+      "duration": 434,
+      "isrc": "UK2YF1300018"
+    },
+    {
+      "artist": "Kite",
+      "title": "Dance Again",
+      "services": {
+        "qobuz": "208339252"
+      },
+      "album": "V",
+      "duration": 280,
+      "isrc": "SEXCH0131002"
+    },
+    {
+      "artist": "Automelodi",
+      "title": "La Cigale",
+      "services": {
+        "qobuz": "43121924"
+      },
+      "album": "Surlendemains Acides",
+      "duration": 223,
+      "isrc": "USQY51771445"
+    },
+    {
+      "artist": "Thou Art Lord",
+      "title": "Eyes Wide Shut And Lips Wide Open",
+      "services": {
+        "qobuz": "64505132"
+      },
+      "album": "DV8",
+      "duration": 252,
+      "isrc": "USA560513768"
+    },
+    {
+      "artist": "Selofan",
+      "title": "Give Me a Reason",
+      "services": {
+        "qobuz": "124077291"
+      },
+      "album": "Vitrioli",
+      "duration": 256,
+      "isrc": "TCADN1810894"
+    },
+    {
+      "artist": "Linear Movement",
+      "title": "Way Out of Living",
+      "services": {
+        "qobuz": "50763573"
+      },
+      "album": "On the Screen",
+      "duration": 327,
+      "isrc": "US8YW0900029"
+    },
+    {
+      "artist": "Carman Hammond",
+      "title": "I Need You",
+      "services": {
+        "qobuz": "69724747"
+      },
+      "album": "My Defender",
+      "duration": 275,
+      "isrc": "USHM81363011"
+    },
+    {
+      "artist": "Dua Lipa",
+      "title": "Levitating",
+      "services": {
+        "qobuz": "104606209"
+      },
+      "album": "Future Nostalgia",
+      "duration": 203,
+      "isrc": "GBAHT1901299"
+    },
+    {
+      "artist": "Bayonet Dismemberment",
+      "title": "Razorwire Laceration",
+      "services": {
+        "qobuz": "382305162"
+      },
+      "album": "Skull Crushed By A Tank",
+      "duration": 242,
+      "isrc": "QZFZ62642870"
+    },
+    {
+      "artist": "Sy Oliver",
+      "title": "Dit Dot Dit",
+      "services": {
+        "qobuz": "389964850"
+      },
+      "album": "Cocktails & Jazz, Vol. 9 - Lounge Swing & Elegant Vocal Pop",
+      "duration": 190,
+      "isrc": "AUXN22603131"
+    },
+    {
+      "artist": "Chris Gestrin",
+      "title": "Unity of the Divine System",
+      "services": {
+        "qobuz": "334999996"
+      },
+      "album": "So Below (Music from the Film)",
+      "duration": 568,
+      "isrc": "CAU5M2500017"
+    },
+    {
+      "artist": "Thee Marloes",
+      "title": "What's On Your Mind",
+      "services": {
+        "qobuz": "394862232"
+      },
+      "album": "Di Hotel Malibu",
+      "duration": 157,
+      "isrc": "QZ2L62600020"
+    },
+    {
+      "artist": "Adacama Dream",
+      "title": "No Changes",
+      "services": {
+        "qobuz": "290967643"
+      },
+      "album": "Audio Jrnl: No Changes",
+      "duration": 250,
+      "isrc": "QZFZ22453778"
+    },
+    {
+      "artist": "Albert Glasser",
+      "title": "Quit Livin' In A Dreamworld Lou / Chalk Him Off And Dust The Place",
+      "services": {
+        "qobuz": "272681216"
+      },
+      "album": "The Albert Glasser Collection, Vol. 7 - Film Noir Thrillers #1",
+      "duration": 255,
+      "isrc": "QM6P42439394"
+    },
+    {
+      "artist": "Queen",
+      "title": "Bohemian Rhapsody",
+      "services": {
+        "qobuz": "427252075"
+      },
+      "album": "Greatest Hits In Japan",
+      "duration": 355,
+      "isrc": "GBUM71029604"
+    },
+    {
+      "artist": "Sarah McLachlan",
+      "title": "Broken Heart",
+      "services": {
+        "qobuz": "16174193"
+      },
+      "album": "Shine On",
+      "duration": 197,
+      "isrc": "USUM71404045"
+    },
+    {
+      "artist": "Sir Neville Marriner",
+      "title": "The Seven Last Words of Christ, Hob. XX:1: Sonata I. \"Pater, dimitte illis, quia nesciunt, quid faciunt\"",
+      "services": {
+        "qobuz": "265994314"
+      },
+      "album": "Haydn: The Seven Last Words, Hob. XX:1",
+      "duration": 430,
+      "isrc": "GBAYC2302069"
+    },
+    {
+      "artist": "Unovidual",
+      "title": "Metal",
+      "services": {
+        "qobuz": "101917834"
+      },
+      "album": "Underground Wave, Vol. 3",
+      "duration": 108,
+      "isrc": "BEBB72000431"
+    },
+    {
+      "artist": "Boy Harsher",
+      "title": "Pain",
+      "services": {
+        "qobuz": "243017964"
+      },
+      "album": "Lesser Man EP",
+      "duration": 439,
+      "isrc": "GB9TP1501926"
+    },
+    {
+      "artist": "Minuit Machine",
+      "title": "Honey",
+      "services": {
+        "qobuz": "284112266"
+      },
+      "album": "Violent Rains",
+      "duration": 212,
+      "isrc": "DE0021511908"
+    },
+    {
+      "artist": "Empathy Test",
+      "title": "Losing Touch",
+      "services": {
+        "qobuz": "170638629"
+      },
+      "album": "Losing Touch",
+      "duration": 230,
+      "isrc": "GBKPL1789417"
+    },
+    {
+      "artist": "Like A Storm",
+      "title": "Love the Way You Hate Me",
+      "services": {
+        "qobuz": "28268937"
+      },
+      "album": "Awaken the Fire",
+      "duration": 289,
+      "isrc": "US4E41417301"
+    },
+    {
+      "artist": "Provoker",
+      "title": "Dark Angel",
+      "services": {
+        "qobuz": "155656146"
+      },
+      "album": "Provoker On Audiotree live",
+      "duration": 250,
+      "isrc": "QM99V2201908"
+    },
+    {
+      "artist": "Kontravoid",
+      "title": "Too Deep",
+      "services": {
+        "qobuz": "230364914"
+      },
+      "album": "Too Deep",
+      "duration": 272,
+      "isrc": "QZHN31917670"
+    },
+    {
+      "artist": "Nuovo Testamento",
+      "title": "Heat",
+      "services": {
+        "qobuz": "195007478"
+      },
+      "album": "Love Lines",
+      "duration": 249,
+      "isrc": "QZFYZ2318205"
+    },
+    {
+      "artist": "Riki",
+      "title": "Napoleon",
+      "services": {
+        "qobuz": "76634572"
+      },
+      "album": "Riki",
+      "duration": 292,
+      "isrc": "QZJCP1900015"
+    },
+    {
+      "artist": "Mareux",
+      "title": "The Perfect Girl",
+      "services": {
+        "qobuz": "141481098"
+      },
+      "album": "The Perfect Girl",
+      "duration": 194,
+      "isrc": "QZF8N1986577"
+    },
+    {
+      "artist": "ULTRA SUNN",
+      "title": "Night Is Mine",
+      "services": {
+        "qobuz": "205102636"
+      },
+      "album": "Night Is Mine",
+      "duration": 301,
+      "isrc": "SEYOK2104161"
+    },
+    {
+      "artist": "Glass Spells",
+      "title": "Shattered",
+      "services": {
+        "qobuz": "124895270"
+      },
+      "album": "Shattered",
+      "duration": 243,
+      "isrc": "QMJPJ2100040"
+    },
+    {
+      "artist": "Pixel Grip",
+      "title": "Stamina",
+      "services": {
+        "qobuz": "335121628"
+      },
+      "album": "Percepticide: The Death of Reality",
+      "duration": 246,
+      "isrc": "TCAIN2439614"
+    }
+  ]
+}

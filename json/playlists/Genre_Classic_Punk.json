@@ -1,0 +1,1010 @@
+{
+  "name": "Genre: Classic Punk",
+  "services": {
+    "qobuz": "66736397",
+    "tidal": "d7b825ae-4077-4e3c-a466-e67dd8a5e889"
+  },
+  "description": "Imported genre playlist: Classic Punk.",
+  "tracks": [
+    {
+      "artist": "Ramones",
+      "title": "Blitzkrieg Bop",
+      "services": {
+        "qobuz": "33967376"
+      },
+      "album": "Ramones - 40th Anniversary Deluxe Edition (Remastered)",
+      "duration": 133,
+      "isrc": "USRH11603648"
+    },
+    {
+      "artist": "Crime",
+      "title": "Hot Wire My Heart",
+      "services": {
+        "qobuz": "35449302"
+      },
+      "album": "Murder by Guitar",
+      "duration": 199,
+      "isrc": "USA2Z1410695"
+    },
+    {
+      "artist": "Dead Boys",
+      "title": "Sonic Reducer",
+      "services": {
+        "qobuz": "5196685"
+      },
+      "album": "Young, Loud And Snotty",
+      "duration": 189,
+      "isrc": "USWB19903971"
+    },
+    {
+      "artist": "Richard Hell & The Voidoids",
+      "title": "Blank Generation (2017 Remaster Audio) [Remastered]",
+      "services": {
+        "qobuz": "47149572"
+      },
+      "album": "Blank Generation (40th Anniversary Deluxe Edition)",
+      "duration": 164,
+      "isrc": "USRH11702643"
+    },
+    {
+      "artist": "Johnny Thunders & The Heartbreakers",
+      "title": "Born to Lose",
+      "services": {
+        "qobuz": "43970198"
+      },
+      "album": "L.A.M.F. - The Lost '77 Mixes",
+      "duration": 184,
+      "isrc": "GBCST9424401"
+    },
+    {
+      "artist": "The Pagans",
+      "title": "Street Where Nobody Lives",
+      "services": {
+        "qobuz": "23565427"
+      },
+      "album": "Soul Jazz Records Presents Punk 45: Extermination Nights in the Sixth City: Cleveland, Ohio: Punk and the Decline of the Mid-West 1975-82",
+      "duration": 97,
+      "isrc": "GBBCK1400780"
+    },
+    {
+      "artist": "The Real Kids",
+      "title": "All Kindsa Girls",
+      "services": {
+        "qobuz": "67413714"
+      },
+      "album": "The Real Kids",
+      "duration": 218,
+      "isrc": "USA370689319"
+    },
+    {
+      "artist": "The Avengers",
+      "title": "We Are the One",
+      "services": {
+        "qobuz": "67076308"
+      },
+      "album": "The American in Me",
+      "duration": 158,
+      "isrc": "USHM90770887"
+    },
+    {
+      "artist": "The Dils",
+      "title": "Class War",
+      "services": {
+        "qobuz": "61197993"
+      },
+      "album": "Dils Dils Dils",
+      "duration": 100,
+      "isrc": "US5970510842"
+    },
+    {
+      "artist": "The Zeros",
+      "title": "Wimp",
+      "services": {
+        "qobuz": "104614643"
+      },
+      "album": "Don't Push Me Around",
+      "duration": 154,
+      "isrc": "US4EQ0403502"
+    },
+    {
+      "artist": "Viletones",
+      "title": "Screamin' Fist",
+      "services": {
+        "qobuz": "72042060"
+      },
+      "album": "A Taste Of Honey",
+      "duration": 125,
+      "isrc": "USA2B0603705"
+    },
+    {
+      "artist": "I Set My Friends On Fire",
+      "title": "But The NUNS Are Watching",
+      "services": {
+        "qobuz": "77658563"
+      },
+      "album": "You Can't Spell Slaughter Without Laughter",
+      "duration": 206,
+      "isrc": "USEP40816111"
+    },
+    {
+      "artist": "Wayne County & The Electric Chairs",
+      "title": "Cream in My Jeans",
+      "services": {
+        "qobuz": "77816295"
+      },
+      "album": "Live at Rockpalast Westfalenhalle, Dortmund 9th December 1978",
+      "duration": 106,
+      "isrc": "DED461400850"
+    },
+    {
+      "artist": "The Suicide Commandos",
+      "title": "Complicated Fun",
+      "services": {
+        "qobuz": "234245792"
+      },
+      "album": "The Commandos Commit Suicide Dance Concert",
+      "duration": 129,
+      "isrc": "USLYH0800616"
+    },
+    {
+      "artist": "The Weirdos",
+      "title": "We Got the Neutron Bomb",
+      "services": {
+        "qobuz": "77847847"
+      },
+      "album": "We Got the Neutron Bomb: Weird World Volume 2",
+      "duration": 178,
+      "isrc": "USA6P0407513"
+    },
+    {
+      "artist": "The Diodes",
+      "title": "Tired of Waking Up Tired",
+      "services": {
+        "qobuz": "34433044"
+      },
+      "album": "Tired Of Waking Up Tired: The Best of The Diodes",
+      "duration": 174,
+      "isrc": "CAE247800006"
+    },
+    {
+      "artist": "Misfits",
+      "title": "Horror Business",
+      "services": {
+        "qobuz": "4458786"
+      },
+      "album": "Collection",
+      "duration": 165,
+      "isrc": "USCN37900001"
+    },
+    {
+      "artist": "The Dickies",
+      "title": "Gigantor",
+      "services": {
+        "qobuz": "132905976"
+      },
+      "album": "Stukas over Disneyland",
+      "duration": 150,
+      "isrc": "QM6XS2101675"
+    },
+    {
+      "artist": "Prospect",
+      "title": "Plug 'N' Play",
+      "services": {
+        "qobuz": "175076949"
+      },
+      "album": "Rock 'N' Roll Beats & Electric Guitars",
+      "duration": 265,
+      "isrc": "NO80H1901050"
+    },
+    {
+      "artist": "Teenage Head",
+      "title": "Picture My Face",
+      "services": {
+        "qobuz": "55674619"
+      },
+      "album": "Teenage Head",
+      "duration": 178,
+      "isrc": "CAW111800574"
+    },
+    {
+      "artist": "X",
+      "title": "Los Angeles",
+      "services": {
+        "qobuz": "2885011"
+      },
+      "album": "Los Angeles",
+      "duration": 144,
+      "isrc": "GBAAP0100716"
+    },
+    {
+      "artist": "Plasmatics",
+      "title": "Butcher Baby",
+      "services": {
+        "qobuz": "156557212"
+      },
+      "album": "The Vice Squad Records Recordings",
+      "duration": 185,
+      "isrc": "USY252290906"
+    },
+    {
+      "artist": "Gun Club",
+      "title": "Sex Beat",
+      "services": {
+        "qobuz": "142025101"
+      },
+      "album": "Live at the Hacienda, 1984",
+      "duration": 176,
+      "isrc": "GBBLY1003993"
+    },
+    {
+      "artist": "Fear",
+      "title": "I Love Livin' in the City",
+      "services": {
+        "qobuz": "2947623"
+      },
+      "album": "The Record",
+      "duration": 124,
+      "isrc": "GBAAP0500222"
+    },
+    {
+      "artist": "The Forgotten Rebels",
+      "title": "Surfin' on Heroin",
+      "services": {
+        "qobuz": "250081121"
+      },
+      "album": "Surfin' on Heroin",
+      "duration": 173,
+      "isrc": "TCAHT2476071"
+    },
+    {
+      "artist": "Sex Pistols",
+      "title": "Anarchy In The UK",
+      "services": {
+        "qobuz": "262708929"
+      },
+      "album": "The Filth & The Fury",
+      "duration": 211,
+      "isrc": "GBDFX7700002"
+    },
+    {
+      "artist": "The Damned",
+      "title": "New Rose",
+      "services": {
+        "qobuz": "380474924"
+      },
+      "album": "Damned Damned Damned",
+      "duration": 162,
+      "isrc": "GB5KW1602872"
+    },
+    {
+      "artist": "The Clash",
+      "title": "White Riot",
+      "services": {
+        "qobuz": "11189633"
+      },
+      "album": "The Clash",
+      "duration": 116,
+      "isrc": "GBARL1200702"
+    },
+    {
+      "artist": "Buzzcocks",
+      "title": "Boredom",
+      "services": {
+        "qobuz": "37792166"
+      },
+      "album": "Spiral Scratch",
+      "duration": 174,
+      "isrc": "GBAJH9900533"
+    },
+    {
+      "artist": "X-Ray Spex",
+      "title": "Oh Bondage Up Yours!",
+      "services": {
+        "qobuz": "313525658"
+      },
+      "album": "Live @ The Roundhouse London 2008",
+      "duration": 184,
+      "isrc": "GBSUW0729101"
+    },
+    {
+      "artist": "The Vibrators",
+      "title": "Baby, Baby",
+      "services": {
+        "qobuz": "49888"
+      },
+      "album": "Pure Mania",
+      "duration": 219,
+      "isrc": "GBBBM9999923"
+    },
+    {
+      "artist": "The Adverts",
+      "title": "One Chord Wonders",
+      "services": {
+        "qobuz": "194351168"
+      },
+      "album": "Crossing the Red Sea",
+      "duration": 168,
+      "isrc": "GBCKK0200288"
+    },
+    {
+      "artist": "The Boys",
+      "title": "First Time",
+      "services": {
+        "qobuz": "194408995"
+      },
+      "album": "The Boys",
+      "duration": 142,
+      "isrc": "GBCKK1123608"
+    },
+    {
+      "artist": "Eater",
+      "title": "Outside View",
+      "services": {
+        "qobuz": "75685863"
+      },
+      "album": "The Album",
+      "duration": 124,
+      "isrc": "GBBLY9300253"
+    },
+    {
+      "artist": "Subway Sect",
+      "title": "Ambition",
+      "services": {
+        "qobuz": "64370932"
+      },
+      "album": "Twenty Odd Years",
+      "duration": 188,
+      "isrc": "GBCFK7805506"
+    },
+    {
+      "artist": "Slaughter And The Dogs",
+      "title": "Where Have All The Boot Boys Gone",
+      "services": {
+        "qobuz": "387257742"
+      },
+      "album": "We Don't Care: Anthology",
+      "duration": 233,
+      "isrc": "GBAJE0101099"
+    },
+    {
+      "artist": "The Stranglers",
+      "title": "Peaches",
+      "services": {
+        "qobuz": "1004631"
+      },
+      "album": "Rattus Norvegicus",
+      "duration": 247,
+      "isrc": "GBAYE9600447"
+    },
+    {
+      "artist": "The Cortinas",
+      "title": "Fascist Dictator",
+      "services": {
+        "qobuz": "138457508"
+      },
+      "album": "Punk Rock Anthology",
+      "duration": 156,
+      "isrc": "USV351396877"
+    },
+    {
+      "artist": "TV On The Radio",
+      "title": "Staring at the Sun",
+      "services": {
+        "qobuz": "284894550"
+      },
+      "album": "Desperate Youth, Blood Thirsty Babes",
+      "duration": 205,
+      "isrc": "USTG30425402"
+    },
+    {
+      "artist": "Sham 69",
+      "title": "If The Kids Are United",
+      "services": {
+        "qobuz": "131579911"
+      },
+      "album": "If the Kids Are United: The Best Of",
+      "duration": 217,
+      "isrc": "GBBLY7800045"
+    },
+    {
+      "artist": "Generation X",
+      "title": "Your Generation",
+      "services": {
+        "qobuz": "169145511"
+      },
+      "album": "Generation X",
+      "duration": 195,
+      "isrc": "GBAYK0200108"
+    },
+    {
+      "artist": "999",
+      "title": "Homicide",
+      "services": {
+        "qobuz": "1761549"
+      },
+      "album": "Separates",
+      "duration": 266,
+      "isrc": "GBAYE7800428"
+    },
+    {
+      "artist": "Johnny Moped",
+      "title": "No One",
+      "services": {
+        "qobuz": "156011985"
+      },
+      "album": "Cycledelic Plus the Singles",
+      "duration": 169,
+      "isrc": "GBBHN9500456"
+    },
+    {
+      "artist": "The Undertones",
+      "title": "Teenage Kicks",
+      "services": {
+        "qobuz": "385582789"
+      },
+      "album": "True Confessions",
+      "duration": 148,
+      "isrc": "GBAJE7800192"
+    },
+    {
+      "artist": "The Lurkers",
+      "title": "Shadow",
+      "services": {
+        "qobuz": "2484160"
+      },
+      "album": "Fulham Fallout",
+      "duration": 158,
+      "isrc": "GBAZP7800003"
+    },
+    {
+      "artist": "The Outcasts",
+      "title": "Just Another Teenage Rebel",
+      "services": {
+        "qobuz": "115323139"
+      },
+      "album": "Action Time Vision (A Story Of Independent UK Punk 1976-1979)",
+      "duration": 195,
+      "isrc": "GBBLY1604531"
+    },
+    {
+      "artist": "Stiff Little Fingers",
+      "title": "Alternative Ulster",
+      "services": {
+        "qobuz": "1006182"
+      },
+      "album": "Inflammable Material",
+      "duration": 164,
+      "isrc": "GB01A0700157"
+    },
+    {
+      "artist": "The Ruts",
+      "title": "Babylon's Burning",
+      "services": {
+        "qobuz": "4418790"
+      },
+      "album": "The Crack",
+      "duration": 155,
+      "isrc": "GBAAA7900142"
+    },
+    {
+      "artist": "UK Subs",
+      "title": "Stranglehold",
+      "services": {
+        "qobuz": "21600106"
+      },
+      "album": "Another Kind of Blues",
+      "duration": 117,
+      "isrc": "GBBPJ9801029"
+    },
+    {
+      "artist": "The Members",
+      "title": "The Sound Of The Suburbs",
+      "services": {
+        "qobuz": "88258272"
+      },
+      "album": "At The Chelsea Nightclub",
+      "duration": 233,
+      "isrc": "GBAAA7900007"
+    },
+    {
+      "artist": "Chelsea",
+      "title": "Right to Work",
+      "services": {
+        "qobuz": "56251291"
+      },
+      "album": "Right to Work - The Singles",
+      "duration": 184,
+      "isrc": "QMFMG1571832"
+    },
+    {
+      "artist": "Angelic Upstarts",
+      "title": "Teenage Warning",
+      "services": {
+        "qobuz": "60440115"
+      },
+      "album": "Teenage Warning",
+      "duration": 182,
+      "isrc": "GBAHT0500531"
+    },
+    {
+      "artist": "Crass",
+      "title": "Do They Owe Us a Living?",
+      "services": {
+        "qobuz": "249087770"
+      },
+      "album": "The Feeding of the 5000",
+      "duration": 84,
+      "isrc": "GBBTF1800061"
+    },
+    {
+      "artist": "Cockney Rejects",
+      "title": "Oi! Oi! Oi!",
+      "services": {
+        "qobuz": "174336606"
+      },
+      "album": "Greatest Hits Vol. 2",
+      "duration": 204,
+      "isrc": "GBAYE8000116"
+    },
+    {
+      "artist": "The Adicts",
+      "title": "Viva La Revolution",
+      "services": {
+        "qobuz": "73569255"
+      },
+      "album": "Viva La Revolution",
+      "duration": 228,
+      "isrc": "GBCST8230201"
+    },
+    {
+      "artist": "Vice Squad",
+      "title": "Last Rockers",
+      "services": {
+        "qobuz": "148463311"
+      },
+      "album": "The Complete Punk Singles Collection",
+      "duration": 260,
+      "isrc": "GBBLY8000052"
+    },
+    {
+      "artist": "Anti-Nowhere League",
+      "title": "So What",
+      "services": {
+        "qobuz": "51044318"
+      },
+      "album": "We Are the League...Uncut",
+      "duration": 183,
+      "isrc": "USV291478449"
+    },
+    {
+      "artist": "Peter & The Test Tube Babies",
+      "title": "Banned From The Pubs",
+      "services": {
+        "qobuz": "168351961"
+      },
+      "album": "The Best Of Peter & The Test Tube Babies",
+      "duration": 165,
+      "isrc": "GBBLY8200310"
+    },
+    {
+      "artist": "Blitz",
+      "title": "Someone's Gonna Die",
+      "services": {
+        "qobuz": "120592243"
+      },
+      "album": "Voice Of A Generation",
+      "duration": 155,
+      "isrc": "GBBLY8200295"
+    },
+    {
+      "artist": "The 4 Skins",
+      "title": "One Law for Them",
+      "services": {
+        "qobuz": "129689164"
+      },
+      "album": "The Good the Bad and the 4 Skins",
+      "duration": 160,
+      "isrc": "GBPYM0730101"
+    },
+    {
+      "artist": "The Last Resort",
+      "title": "King Of The Jungle",
+      "services": {
+        "qobuz": "142184712"
+      },
+      "album": "A Way of Life Skinhead Anthems",
+      "duration": 213,
+      "isrc": "GBPYM0730330"
+    },
+    {
+      "artist": "Zounds",
+      "title": "Can't Cheat Karma",
+      "services": {
+        "qobuz": "43316648"
+      },
+      "album": "Curse of the Zounds + Singles",
+      "duration": 165,
+      "isrc": "US2A90405602"
+    },
+    {
+      "artist": "Flux Of Pink Indians",
+      "title": "Tube Disaster",
+      "services": {
+        "qobuz": "168439844"
+      },
+      "album": "Not So Brave",
+      "duration": 152,
+      "isrc": "GBKYA0604630"
+    },
+    {
+      "artist": "One Way System",
+      "title": "Stab The Judge",
+      "services": {
+        "qobuz": "75687784"
+      },
+      "album": "The Best Of...",
+      "duration": 116,
+      "isrc": "GBBLY8200375"
+    },
+    {
+      "artist": "The Business",
+      "title": "Suburban Rebels",
+      "services": {
+        "qobuz": "129688286"
+      },
+      "album": "Suburban Rebels",
+      "duration": 137,
+      "isrc": "GBPYM0730195"
+    },
+    {
+      "artist": "The Blood",
+      "title": "Megalomania",
+      "services": {
+        "qobuz": "99173536"
+      },
+      "album": "No Future Complete Singles Collection: The Sound Of UK 82",
+      "duration": 194,
+      "isrc": "GBBLY8300315"
+    },
+    {
+      "artist": "Rudimentary Peni",
+      "title": "Rotten To The Core",
+      "services": {
+        "qobuz": "238253034"
+      },
+      "album": "Death Church",
+      "duration": 206,
+      "isrc": "GBHLW2103469"
+    },
+    {
+      "artist": "Cock Sparrer",
+      "title": "Runnin' Riot",
+      "services": {
+        "qobuz": "120001263"
+      },
+      "album": "Rarities",
+      "duration": 211,
+      "isrc": "GBPYM0730212"
+    },
+    {
+      "artist": "Toy Dolls",
+      "title": "Nellie The Elephant",
+      "services": {
+        "qobuz": "385570027"
+      },
+      "album": "Dig That Groove Baby",
+      "duration": 207,
+      "isrc": "GBUM70908469"
+    },
+    {
+      "artist": "The Mob",
+      "title": "No Doves Fly Here",
+      "services": {
+        "qobuz": "343185653"
+      },
+      "album": "No Doves Fly Here",
+      "duration": 401,
+      "isrc": "GBBTF1900453"
+    },
+    {
+      "artist": "The Saints",
+      "title": "(I'm) Stranded",
+      "services": {
+        "qobuz": "300522430"
+      },
+      "album": "(I'm) Stranded",
+      "duration": 209,
+      "isrc": "AUEM00400004"
+    },
+    {
+      "artist": "Radio Birdman",
+      "title": "New Race",
+      "services": {
+        "qobuz": "79027169"
+      },
+      "album": "Radios Appear Deluxe (Black Version)",
+      "duration": 272,
+      "isrc": "AURB10720010"
+    },
+    {
+      "artist": "The Victims",
+      "title": "Television Addict",
+      "services": {
+        "qobuz": "78397346"
+      },
+      "album": "The Victims",
+      "duration": 178,
+      "isrc": "USA3D1933901"
+    },
+    {
+      "artist": "Suburban Reptiles",
+      "title": "Saturday Night Stay at Home",
+      "services": {
+        "qobuz": "295090275"
+      },
+      "album": "Suburban Reptiles",
+      "duration": 167,
+      "isrc": "NZPL01300001"
+    },
+    {
+      "artist": "Lipstick Killers",
+      "title": "Hindu Gods of Love",
+      "services": {
+        "qobuz": "120344155"
+      },
+      "album": "Hindu Gods of Love",
+      "duration": 201,
+      "isrc": "GB9TP2010063"
+    },
+    {
+      "artist": "The Scavengers",
+      "title": "Mysterex",
+      "services": {
+        "qobuz": "87366954"
+      },
+      "album": "AK79 (40th Anniversary Reissue)",
+      "duration": 223,
+      "isrc": "NZPL01400002"
+    },
+    {
+      "artist": "Proud Scum",
+      "title": "I Am A Rabbit",
+      "services": {
+        "qobuz": "87366956"
+      },
+      "album": "AK79 (40th Anniversary Reissue)",
+      "duration": 109,
+      "isrc": "NZPL01400004"
+    },
+    {
+      "artist": "The Terrorways",
+      "title": "Never Been To Borstal",
+      "services": {
+        "qobuz": "87366955"
+      },
+      "album": "AK79 (40th Anniversary Reissue)",
+      "duration": 124,
+      "isrc": "NZPL01400003"
+    },
+    {
+      "artist": "X",
+      "title": "Good on Ya Baby",
+      "services": {
+        "qobuz": "346379836"
+      },
+      "album": "X-Aspirations",
+      "duration": 200,
+      "isrc": "USA2P1604217"
+    },
+    {
+      "artist": "The Celibate Rifles",
+      "title": "Killing Time",
+      "services": {
+        "qobuz": "348370104"
+      },
+      "album": "Sideroxylon",
+      "duration": 148,
+      "isrc": "USA2P2108531"
+    },
+    {
+      "artist": "Metal Urbain",
+      "title": "Panik",
+      "services": {
+        "qobuz": "103541638"
+      },
+      "album": "Les Hommes Morts Sont Dangereux",
+      "duration": 136,
+      "isrc": "QM6XS2002388"
+    },
+    {
+      "artist": "The Kids",
+      "title": "Fascist Cops",
+      "services": {
+        "qobuz": "39746349"
+      },
+      "album": "The Kids",
+      "duration": 151,
+      "isrc": "BEBB71700113"
+    },
+    {
+      "artist": "Ivy Green",
+      "title": "I'm Sure We're Gonna Make It",
+      "services": {
+        "qobuz": "85318142"
+      },
+      "album": "Ivy Green",
+      "duration": 209,
+      "isrc": "NLA807700011"
+    },
+    {
+      "artist": "Ebba Gr\u00f6n",
+      "title": "We\u00b4re Only In It For The Drugs No. 1",
+      "services": {
+        "qobuz": "2725676"
+      },
+      "album": "We\u00b4re only in it for the drugs",
+      "duration": 264,
+      "isrc": "SELAA8001010"
+    },
+    {
+      "artist": "Pekin\u0161ka Patka",
+      "title": "Biti Ru\u017ean, Pametan I Mlad",
+      "services": {
+        "qobuz": "289755435"
+      },
+      "album": "Plitka Poezija",
+      "duration": 114,
+      "isrc": "HRA048050523"
+    },
+    {
+      "artist": "Bad Bubble",
+      "title": "Summer Coats",
+      "services": {
+        "qobuz": "377527290"
+      },
+      "album": "a Conclusion: Mors",
+      "duration": 292,
+      "isrc": "QT6E82520991"
+    },
+    {
+      "artist": "Sods",
+      "title": "Police",
+      "services": {
+        "qobuz": "3548355"
+      },
+      "album": "Minutes To Go (2011 Digital Remaster)",
+      "duration": 90,
+      "isrc": "DKABA1101884"
+    },
+    {
+      "artist": "Marko LaNe",
+      "title": "R\u00e4kna med br\u00e5k",
+      "services": {
+        "qobuz": "432692311"
+      },
+      "album": "My talk",
+      "duration": 200,
+      "isrc": "QT6EV2634376"
+    },
+    {
+      "artist": "Pelle Miljoona Oy",
+      "title": "Juokse villi lapsi",
+      "services": {
+        "qobuz": "26319368"
+      },
+      "album": "Moottoritie on kuuma",
+      "duration": 275,
+      "isrc": "FILKA8000337"
+    },
+    {
+      "artist": "Pankrti",
+      "title": "Lublana je bulana",
+      "services": {
+        "qobuz": "101421114"
+      },
+      "album": "Zbrana dela 1977 - 1988",
+      "duration": 123,
+      "isrc": "SIA631101159"
+    },
+    {
+      "artist": "Paraf",
+      "title": "Narodna Pjesma",
+      "services": {
+        "qobuz": "32301826"
+      },
+      "album": "Rijeka (Extended)",
+      "duration": 113,
+      "isrc": "SIA421600024"
+    },
+    {
+      "artist": "Slime",
+      "title": "Armes Deutschland",
+      "services": {
+        "qobuz": "349734508"
+      },
+      "album": "3!+7\u00b9",
+      "duration": 168,
+      "isrc": "DEG032503501"
+    },
+    {
+      "artist": "National Wake",
+      "title": "International News",
+      "services": {
+        "qobuz": "313174777"
+      },
+      "album": "Walk in Africa 1979-81",
+      "duration": 198,
+      "isrc": "USDEA1310501"
+    },
+    {
+      "artist": "The Vapors",
+      "title": "Turning Japanese",
+      "services": {
+        "qobuz": "46995367"
+      },
+      "album": "New Clear Days",
+      "duration": 224,
+      "isrc": "GBAYE8000147"
+    },
+    {
+      "artist": "Die Toten Hosen",
+      "title": "Opel-Gang",
+      "services": {
+        "qobuz": "25119694"
+      },
+      "album": "Opel-Gang",
+      "duration": 117,
+      "isrc": "DEP610712357"
+    },
+    {
+      "artist": "Eskorbuto",
+      "title": "Mucha polic\u00eda, poca diversi\u00f3n",
+      "services": {
+        "qobuz": "2836093"
+      },
+      "album": "Impuesto Revolucionario",
+      "duration": 174,
+      "isrc": "ES5018618013"
+    },
+    {
+      "artist": "Los Violadores",
+      "title": "Represi\u00f3n",
+      "services": {
+        "qobuz": "65117660"
+      },
+      "album": "Lo Mejor De Los Violadores",
+      "duration": 215,
+      "isrc": "ARF410901897"
+    },
+    {
+      "artist": "die \u00e4rzte",
+      "title": "Zu sp\u00e4t",
+      "services": {
+        "qobuz": "102811306"
+      },
+      "album": "Devil (Debil Re-Release)",
+      "duration": 165,
+      "isrc": "DEE868400044"
+    },
+    {
+      "artist": "La polla records",
+      "title": "Salve",
+      "services": {
+        "qobuz": "52059300"
+      },
+      "album": "Salve",
+      "duration": 186,
+      "isrc": "ES5590601846"
+    },
+    {
+      "artist": "Dezerter",
+      "title": "Spytaj Milicjanta",
+      "services": {
+        "qobuz": "91250787"
+      },
+      "album": "Underground out of Poland",
+      "duration": 97,
+      "isrc": "PLB178300002"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+# Genre: Jangle Pop
+
+Imported genre playlist: Jangle Pop.
+
+Services: `qobuz:66732853` `tidal:f8bb2aeb-79b8-4769-a868-6557fce34aad`
+
+## Tracks (100)
+
+- **The Feelies** — The Boy With The Perpetual Nervousness [Crazy Rhythms] (5:13) `isrc:GBCEL0900523` `qobuz:2524846`
+- **The dB's** — Black And White [Stands For Decibels] (3:09) `isrc:USCA20705653` `qobuz:1783954`
+- **The Church** — The Unguarded Moment [Of Skins And Heart] (4:14) `isrc:AUEM00200031` `qobuz:2530035`
+- **The Clean** — Tally Ho! [It's Bigger Than Both of Us - Nz Singles: 1979-82] (2:46) `isrc:NZFN00400057` `qobuz:296239721`
+- **Orange Juice** — Rip It Up [Rip It Up] (5:20) `isrc:GBCEL1000577` `qobuz:169116386`
+- **The Wild Swans** — Young Manhood [Bringing Home The Ashes] (3:50) `isrc:USWB10001810` `qobuz:9032897`
+- **The Go-Betweens** — Cattle And Cane [Before Hollywood] (4:22) `isrc:GBCEL2300818` `qobuz:244447878`
+- **Aztec Camera** — Oblivious [High Land, Hard Rain] (3:10) `isrc:GBAHT8303357` `qobuz:5687433`
+- **The Smiths** — This Charming Man [The Smiths] (2:42) `isrc:GBCRL1300039` `qobuz:10474487`
+- **Various Artists** — I Look Around - The Rain Parade [WarfRat Tales (Unabridged)] (3:00) `isrc:USHM80773304` `qobuz:99023494`
+- **The Three O'Clock** — With a Cantaloupe Girlfriend [Baroque Hoedown] (2:54) `isrc:USY1R2073001` `qobuz:110132835`
+- **Guadalcanal Diary** — Watusi Rodeo [Walking In The Shadow Of The Big Man] (2:40) `isrc:USEE10300664` `qobuz:3004898`
+- **R.E.M.** — So. Central Rain (I'm Sorry) [Green] (3:39) `isrc:USWB11301240` `qobuz:31142656`
+- **Lloyd Cole And The Commotions** — Perfect Skin [Collected Recordings 1983-1989] (3:11) `isrc:GBAKW8400485` `qobuz:25170195`
+- **The Loft** — Why Does The Rain [Ghost Trains & Country Lanes: Studio, Stage & Sessions 1984-2015] (3:35) `isrc:GBBLY0501082` `qobuz:118519843`
+- **The Pastels** — Million Tears [Creation Artifact (The Dawn Of Creation Records 1983-1985)] (2:53) `isrc:GBBLY1503381` `qobuz:113259910`
+- **Matraca Berg** — Back In The Saddle [Sunday Morning To Saturday Night] (3:20) `isrc:USRT19710120` `qobuz:41004466`
+- **Red Guitars** — Good Technology [Good Technology 1982-84] (4:54) `isrc:GBTBM0700001` `qobuz:65923302`
+- **Let's Active** — Every Word Means No [Every Word Means No] (2:53) `isrc:USCA20705418` `qobuz:4723629`
+- **The Long Ryders** — Looking For Lewis And Clark [State Of Our Union] (3:10) `isrc:USUM70975927` `qobuz:54234921`
+- **The Verlaines** — Death And The Maiden [Juvenilia] (4:27) `isrc:NZFN08700004` `qobuz:20819841`
+- **Game Theory** — 24 [Real Nighttime] (2:48) `isrc:QMWHB1401020` `qobuz:22959605`
+- **Felt** — Primitive Painters [Primitive Painters] (6:02) `isrc:GBBLY1601493` `qobuz:91142148`
+- **Look Blue Go Purple** — Circumspect Penelope [Look Blue Go Purple Compilation] (2:58) `isrc:NZFN00400359` `qobuz:79024998`
+- **The Chills** — Heavenly Pop Hit [Submarine Bells] (3:28) `isrc:USRH10802282` `qobuz:2574128`
+- **The Housemartins** — Happy Hour [London 0 Hull 4] (2:24) `isrc:GBAAM8601005` `qobuz:19486395`
+- **The Mighty Lemon Drops** — Happy Head [Rollercoaster: The Best of The Mighty Lemon Drops (1986-1989)] (2:27) `isrc:GBAYK8600040` `qobuz:169147853`
+- **The Weather Prophets** — Hollow Heart [Judges, Juries And Horsemen] (3:05) `isrc:GBBLY0400882` `qobuz:83252549`
+- **Close Lobsters** — Going to Heaven to See If It Rains [Forever, Until Victory!] (3:11) `isrc:GBCKK0903901` `qobuz:194821431`
+- **The Wedding Present** — Kennedy [Bizarro] (4:21) `isrc:GBARL8900095` `qobuz:178374`
+- **The Bodines** — Therese [Creation Artifact (The Dawn Of Creation Records 1983-1985)] (3:13) `isrc:GBCAD1500509` `qobuz:113259993`
+- **10,000 Maniacs** — Like the Weather [In My Tribe] (3:57) `isrc:USEE19901215` `qobuz:11817386`
+- **The Bats** — Made up in Blue [Daddy's Highway] (3:59) `isrc:NZFN08700067` `qobuz:79017235`
+- **The House Of Love** — Shine On [House Of Love] (3:59) `isrc:GBF089000036` `qobuz:3883958`
+- **The Connells** — Stone Cold Yesterday [One Simple Word] (3:57) `isrc:USRZ51010964` `qobuz:19200817`
+- **The Tragically Hip** — Looking For A Place To Happen [Fully Completely] (4:50) `isrc:CAUM71400351` `qobuz:99868099`
+- **Straitjacket Fits** — She Speeds [Hail] (4:05) `isrc:NZFN00400129` `qobuz:98651517`
+- **The Chesterfields** — Ask Johnny Dee [Electric Guitars in Their Hearts: The Best of the Chesterfields] (2:57) `isrc:GBBLY0600824` `qobuz:145389793`
+- **Primal Scream** — Gentle Tuesday [Sonic Flower Groove] (3:47) `isrc:GBAHT0400115` `qobuz:16010060`
+- **The Sea Urchins** — Pristine Christine [Stardust] (2:47) `isrc:GBMFU0600001` `qobuz:18508958`
+- **The Darling Buds** — Hit The Ground [Pop Said...] (2:19) `isrc:GBBBM8802028` `qobuz:455234`
+- **The La's** — There She Goes [The La's (Deluxe Edition)] (2:42) `isrc:GBAQT8800001` `qobuz:4306679`
+- **The Primitives** — Crash [Lovely] (2:31) `isrc:GBARL8800002` `qobuz:457263`
+- **The Ocean Blue** — Between Something and Nothing [The Ocean Blue] (4:01) `isrc:USRE10100001` `qobuz:3002012`
+- **The Grapes Of Wrath** — All The Things I Wasn't [Now And Again] (2:17) `isrc:CAE158900039` `qobuz:796471`
+- **Biff Bang Pow!** — Someone Stole My Wheels [The Girl Who Runs The Beat Hotel] (2:44) `isrc:GBBLY0300504` `qobuz:127031831`
+- **Donald Ann** — All Day Long [Will Anything Happen] (1:50) `isrc:GBAYK0800205` `qobuz:252979813`
+- **The Wake** — Melancholy Man [Here Comes Everybody + Singles] (7:22) `isrc:GBHBR0400329` `qobuz:50519161`
+- **The Bangles** — Hero Takes A Fall [Sleepless Nights] (4:18) `isrc:GXESV2554014` `qobuz:350747896`
+- **Razorcuts** — Goodnight England [The World Keeps Turning] (2:30) `isrc:GBBLY1006363` `qobuz:150847335`
+- **The Sundays** — Here's Where the Story Ends [Reading Writing And Arithmetic] (3:50) `isrc:GB01A9000004` `qobuz:4693905`
+- **The Trash Can Sinatras** — Only Tongue Can Tell [Cake] (3:45) `isrc:GBAKW8901047` `qobuz:46984686`
+- **The Field Mice** — If You Need Someone [Coastal] (3:44) `isrc:GBMFU0600060` `qobuz:48066537`
+- **Heavenly** — I Fell In Love Last Night [Heavenly Vs. Satan] (5:20) `isrc:GBMFU0600076` `qobuz:48066126`
+- **Teenage Fanclub** — The Concept [Bandwagonesque] (6:07) `isrc:GBARL1800234` `qobuz:51922020`
+- **Milltown Brothers** — Which Way Should I Jump [Slinky] (3:54) `isrc:USHM91969355` `qobuz:75112575`
+- **Matthew Sweet** — Girlfriend [Girlfriend] (3:40) `isrc:USVR19100001` `qobuz:205482`
+- **The Lemonheads** — It's a Shame About Ray [It's a Shame About Ray] (3:07) `isrc:USAT20706775` `qobuz:194710751`
+- **Another Sunny Day** — You Should All Be Murdered [London Weekend] (4:38) `isrc:GBMFU0600054` `qobuz:48066087`
+- **Gin Blossoms** — Hey Jealousy [New Miserable Experience] (3:56) `isrc:USAM19201246` `qobuz:59987819`
+- **Sloan** — Underwhelmed [Smeared] (4:45) `isrc:USKO10407945` `qobuz:75635342`
+- **Glo-Worm** — Crazy Town [Glimmer] (2:36) `isrc:USK110405413` `qobuz:329162244`
+- **The Wannadies** — You And Me Song [Be A Girl] (2:49) `isrc:SELAC9409010` `qobuz:105663465`
+- **The Lucksmiths** — The Sandringham Line [Naturaliste] (5:26) `isrc:AU25T0310073` `qobuz:298551155`
+- **The Posies** — Dream All Day [Dream All Day: The Best Of The Posies] (3:03) `isrc:USGF19952201` `qobuz:54921682`
+- **The Clientele** — Reflections After Jane [Suburban Light] (3:21) `isrc:GBFXJ0000003` `qobuz:42188359`
+- **The Aislers Set** — The Red Door [The Last Match] (2:46) `isrc:US4TA0400515` `qobuz:77347863`
+- **Valkyrie's Ravencall** — We Sail With the Crimson Tide of Dawn [Ragnar smiles in thunder] (4:19) `isrc:QT62U2632414` `qobuz:431743844`
+- **AREA21** — All I Need [Greatest Hits Vol. 1] (3:06) `isrc:USHR12142258` `qobuz:137671203`
+- **Beulah** — Gene Autry [The Coast Is Never Clear] (3:34) `isrc:US72K0500204` `qobuz:14474441`
+- **The Shins** — Caring Is Creepy [Oh, Inverted World] (3:19) `isrc:USSUB2141501` `qobuz:407826194`
+- **Pernice Brothers** — PCH One [Live A Little] (3:35) `isrc:USA2B0612908` `qobuz:212106942`
+- **The Thrills** — Santa Cruz (You're Not That Far) [Santa Cruz (You're Not That Far)] (3:36) `isrc:GBAAA0300526` `qobuz:4668446`
+- **The Magic Numbers** — Forever Lost [The Magic Numbers] (4:17) `isrc:GBDGG0500033` `qobuz:4631081`
+- **The Concretes** — You Can't Hurry Love [The Concretes] (2:04) `isrc:SEVJH0300402` `qobuz:34839769`
+- **The Pains Of Being Pure At Heart** — Young Adult Friction [Young Adult Friction] (4:03) `isrc:US4TA0900029` `qobuz:43492451`
+- **The Brunettes** — Holding Hands, Feeding Ducks [Holding Hands, Feeding Ducks] (4:05) `isrc:USA560848362` `qobuz:68693657`
+- **Yo La Tengo** — Autumn Sweater [I Can Hear The Heart Beating As One] (5:18) `isrc:USMTD9722208` `qobuz:26434256`
+- **Lynyrd Skynyrd** — The Real Thing [Live in Atlantic City] (3:49) `isrc:DEH841800454` `qobuz:52115122`
+- **Los Campesinos!** — You! Me! Dancing! (2018 Remaster) [Hold On Now, Youngster... (2018 Deluxe Remaster)] (6:45) `isrc:GBDNH1800037` `qobuz:348379013`
+- **The Drums** — Lets Go Surfing [The Drums] (2:54) `isrc:GBGEY0900107` `qobuz:13594284`
+- **Beach Fossils** — Down the Line (Piano) [The Other Side of Life: Piano Ballads] (3:32) `isrc:QM6YT2104306` `qobuz:128530501`
+- **The Fresh & Onlys** — Waterfall [Play It Strange] (3:12) `isrc:USA3D1010108` `qobuz:52200553`
+- **Veronica Falls** — Found Love In A Graveyard [Veronica Falls] (4:00) `isrc:GBBRP1130101` `qobuz:11020509`
+- **Twerps** — Work It Out [Work It Out] (3:19) `isrc:AUCI11209601` `qobuz:46297470`
+- **The Proper Ornaments** — The Frozen Stare [Foxhole] (4:16) `isrc:QM4TW1647533` `qobuz:36864336`
+- **The Goon Sax** — Boyfriend [Up to Anything] (2:59) `isrc:AUCI11613206` `qobuz:46287159`
+- **Alvvays** — Archie, Marry Me [Alvvays] (3:17) `isrc:US3R41428202` `qobuz:16961867`
+- **Ultimate Painting** — Central Park Blues [Ultimate Painting] (4:15) `isrc:QMXQJ1408103` `qobuz:26049231`
+- **EZTV** — Hard to Believe [Calling Out] (3:13) `isrc:QMMZN1300862` `qobuz:25237313`
+- **The Courtneys** — Silver Velvet [The Courtneys II] (3:01) `isrc:NZFN01600136` `qobuz:36879212`
+- **Rolling Blackouts Coastal Fever** — Talking Straight [Hope Downs] (3:44) `isrc:AULI01814950` `qobuz:407824546`
+- **Kiwi Jr.** — Gimme More [Football Money] (3:00) `isrc:CAMA11918404` `qobuz:79900542`
+- **Ducks Ltd.** — As Big as All Outside [As Big as All Outside] (3:20) `isrc:US22N2115206` `qobuz:156379731`
+- **The Umbrellas** — Near You [The Umbrellas] (2:00) `isrc:US4TA2100015` `qobuz:121741236`
+- **The Catenary Wires** — Love on the Screen [Til the Morning] (4:19) `isrc:DEU161904551` `qobuz:62098516`
+- **Chime School** — Dead Saturdays [Chime School] (3:02) `isrc:US4TA2100034` `qobuz:127552862`
+- **Jeanines** — That's Okay [Don't Wait For A Sign] (1:21) `isrc:US4TA2200022` `qobuz:144690751`
+- **The Reds, Pinks and Purples** — The World Doesn't Need Another Band [The Past Is a Garden I Never Fed] (2:55) `isrc:QZTBB2440964` `qobuz:320145611`
+- **Levon Ambartsumian** — Seven Yiddish Songs for Violin, Tuba and Chamber Orchestra: I. The Same Old Question [Mikhail Bronner - The Illusion of Life] (2:41) `isrc:FRX452060516` `qobuz:92154568`

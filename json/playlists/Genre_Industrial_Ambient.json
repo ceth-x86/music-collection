@@ -1,0 +1,400 @@
+{
+  "name": "Genre: Industrial Ambient",
+  "services": {
+    "qobuz": "67894778",
+    "tidal": "5f02be18-d462-44e5-a3e9-0037413ccc80"
+  },
+  "description": "Cold, dystopian soundscapes blending atmospheric ambient with metallic scrapes, factory hums, and industrial noise.",
+  "tracks": [
+    {
+      "artist": "Spk",
+      "title": "In Flagrante Delicto Intro",
+      "services": {
+        "qobuz": "78280203"
+      },
+      "album": "Zamia Lehmanni (Songs of Byzantine Flowers)",
+      "duration": 150,
+      "isrc": "QM7281985647"
+    },
+    {
+      "artist": "Throbbing Gristle",
+      "title": "AB/7A",
+      "services": {
+        "qobuz": "39396258"
+      },
+      "album": "D.O.A. the Third and Final Report of Throbbing Gristle",
+      "duration": 263,
+      "isrc": "GBYFG1100026"
+    },
+    {
+      "artist": "Cabaret Voltaire",
+      "title": "The Voice of America/Damage Is Done",
+      "services": {
+        "qobuz": "4650709"
+      },
+      "album": "The Voice of America",
+      "duration": 392,
+      "isrc": "GBAJH0400870"
+    },
+    {
+      "artist": "Factrix",
+      "title": "Snuff Box",
+      "services": {
+        "qobuz": "35452171"
+      },
+      "album": "Scheintot",
+      "duration": 282,
+      "isrc": "USA2Z1211720"
+    },
+    {
+      "artist": "Nocturnal Emissions",
+      "title": "T' Cow's Yed",
+      "services": {
+        "qobuz": "71682689"
+      },
+      "album": "Spiritflesh",
+      "duration": 252,
+      "isrc": "USI4R0707807"
+    },
+    {
+      "artist": "Spk",
+      "title": "Invocation to Secular Heresies",
+      "services": {
+        "qobuz": "78280199"
+      },
+      "album": "Zamia Lehmanni (Songs of Byzantine Flowers)",
+      "duration": 318,
+      "isrc": "QM7281985643"
+    },
+    {
+      "artist": "Delerium",
+      "title": "Stone Tower",
+      "services": {
+        "qobuz": "270828756"
+      },
+      "album": "Stone Tower",
+      "duration": 291,
+      "isrc": "US57M2126903"
+    },
+    {
+      "artist": "Shinjuku Thief",
+      "title": "Tolkhorn",
+      "services": {
+        "qobuz": "25329407"
+      },
+      "album": "The Witch Hammer",
+      "duration": 290,
+      "isrc": "USHK91300301"
+    },
+    {
+      "artist": "Coil",
+      "title": "Dark River",
+      "services": {
+        "qobuz": "118483335"
+      },
+      "album": "Love's Secret Domain (30th-Anniversary Edition)",
+      "duration": 389,
+      "isrc": "DEPI82101667"
+    },
+    {
+      "artist": "Panasonic",
+      "title": "Zoviet France",
+      "services": {
+        "qobuz": "93422176"
+      },
+      "album": "Remix EP",
+      "duration": 791,
+      "isrc": "FISRG2000004"
+    },
+    {
+      "artist": "main",
+      "title": "Crater Scar",
+      "services": {
+        "qobuz": "2484746"
+      },
+      "album": "Motion Pool",
+      "duration": 591,
+      "isrc": "GBAZP9400183"
+    },
+    {
+      "artist": "Hildur Gudnadottir",
+      "title": "Turbine Hall",
+      "services": {
+        "qobuz": "62039541"
+      },
+      "album": "Chernobyl",
+      "duration": 156,
+      "isrc": "DEN961900710"
+    },
+    {
+      "artist": "Biosphere",
+      "title": "Katedra Botaniki",
+      "services": {
+        "qobuz": "81747717"
+      },
+      "album": "Nordheim Transformed",
+      "duration": 410,
+      "isrc": "NOFGR9805030"
+    },
+    {
+      "artist": "Mystified",
+      "title": "Reflecting Metal Cycles",
+      "services": {
+        "qobuz": "66287519"
+      },
+      "album": "Morning City",
+      "duration": 498,
+      "isrc": "USSP51734004"
+    },
+    {
+      "artist": "Moljebka Pvlse",
+      "title": "Junpo",
+      "services": {
+        "qobuz": "83710336"
+      },
+      "album": "Driftsond",
+      "duration": 918,
+      "isrc": "USHM80749668"
+    },
+    {
+      "artist": "Dead Voices On Air",
+      "title": "Mothcomma",
+      "services": {
+        "qobuz": "434680414"
+      },
+      "album": "Mothcomma",
+      "duration": 341,
+      "isrc": "QT6F32640934"
+    },
+    {
+      "artist": "Raime",
+      "title": "Your Cast Will Tire",
+      "services": {
+        "qobuz": "170766879"
+      },
+      "album": "Quarter Turns over a Living Line",
+      "duration": 331,
+      "isrc": "GBG8Q1000037"
+    },
+    {
+      "artist": "Klara Lewis",
+      "title": "Twist",
+      "services": {
+        "qobuz": "319838838"
+      },
+      "album": "Too",
+      "duration": 200,
+      "isrc": "ATE691621002"
+    },
+    {
+      "artist": "Cindytalk",
+      "title": "let love burn",
+      "services": {
+        "qobuz": "233038200"
+      },
+      "album": "When the Moon is a Thread",
+      "duration": 442,
+      "isrc": "USXPN1100648"
+    },
+    {
+      "artist": "Bad Sector",
+      "title": "Ampos",
+      "services": {
+        "qobuz": "157829823"
+      },
+      "album": "Incendium - Editio Retractata",
+      "duration": 320,
+      "isrc": "DEZ651301223"
+    },
+    {
+      "artist": "Sigillum S",
+      "title": "A Frozen Conduit",
+      "services": {
+        "qobuz": "332606586"
+      },
+      "album": "Aborted Towns, The Deadly Silence Before Utopia",
+      "duration": 229,
+      "isrc": "ITM462500122"
+    },
+    {
+      "artist": "Orphx",
+      "title": "Pathogenesis",
+      "services": {
+        "qobuz": "102087021"
+      },
+      "album": "Fragmentation",
+      "duration": 400,
+      "isrc": "USA2Z2001368"
+    },
+    {
+      "artist": "D\u00f8dsmaskin",
+      "title": "Trusselbilde",
+      "services": {
+        "qobuz": "181875994"
+      },
+      "album": "Herremoral | Slavemoral",
+      "duration": 227,
+      "isrc": "QMFMF2141674"
+    },
+    {
+      "artist": "The Acc\u00fcsed",
+      "title": "Pounding Nails (Into the Lid of Your Coffin)",
+      "services": {
+        "qobuz": "91266841"
+      },
+      "album": "Grinning Like an Undertaker",
+      "duration": 187,
+      "isrc": "USX9P1227444"
+    },
+    {
+      "artist": "Skinny Puppy",
+      "title": "Download",
+      "services": {
+        "qobuz": "154869860"
+      },
+      "album": "Last Rights",
+      "duration": 661,
+      "isrc": "CAN110400115"
+    },
+    {
+      "artist": "Lustmord",
+      "title": "Entrails of the God Machine",
+      "services": {
+        "qobuz": "242574913"
+      },
+      "album": "Much Unseen Is Also Here",
+      "duration": 529,
+      "isrc": "QMFMF2332783"
+    },
+    {
+      "artist": "Minami Deutsch",
+      "title": "Still Foggy",
+      "services": {
+        "qobuz": "164320969"
+      },
+      "album": "Fortune Goodies",
+      "duration": 288,
+      "isrc": "TCAGH2274448"
+    },
+    {
+      "artist": "Rapoon",
+      "title": "The Same River Once",
+      "services": {
+        "qobuz": "73087477"
+      },
+      "album": "Vernal Crossing",
+      "duration": 635,
+      "isrc": "USANA0409801"
+    },
+    {
+      "artist": "MZ.412",
+      "title": "The Father Uncreated",
+      "services": {
+        "qobuz": "50322827"
+      },
+      "album": "Ulvens Broder",
+      "duration": 340,
+      "isrc": "QM4TX1845483"
+    },
+    {
+      "artist": "Megaptera",
+      "title": "Don't Desecrate the Dead",
+      "services": {
+        "qobuz": "60619100"
+      },
+      "album": "The Curse of the Scarecrow",
+      "duration": 389,
+      "isrc": "US2649897903"
+    },
+    {
+      "artist": "In Slaughter Natives",
+      "title": "Definition of Being Alive",
+      "services": {
+        "qobuz": "33910559"
+      },
+      "album": "Cannula Coma Legio",
+      "duration": 306,
+      "isrc": "QMFMG1503628"
+    },
+    {
+      "artist": "Raison D'Etre",
+      "title": "The Hidden Hallows",
+      "services": {
+        "qobuz": "139815191"
+      },
+      "album": "The Empty Hollow Unfolds (Expanded Edition 2021)",
+      "duration": 619,
+      "isrc": "USL4R2120242"
+    },
+    {
+      "artist": "Coil",
+      "title": "The First Five Minutes After Violent Death",
+      "services": {
+        "qobuz": "101343619"
+      },
+      "album": "A Guide for Beginners: The Voice of Silver / a Guide for Finishers: a Hair of Gold",
+      "duration": 298,
+      "isrc": "QM7282094422"
+    },
+    {
+      "artist": "Dan Rosenboom Billy Mohler & Anthony Fung",
+      "title": "Refraction, Part 1: Entertainment and Heresy",
+      "services": {
+        "qobuz": "135879822"
+      },
+      "album": "Refraction",
+      "duration": 310,
+      "isrc": "QZHN82180903"
+    },
+    {
+      "artist": "Roly Porter",
+      "title": "4101",
+      "services": {
+        "qobuz": "28440471"
+      },
+      "album": "Third Law",
+      "duration": 477,
+      "isrc": "GBCW31600227"
+    },
+    {
+      "artist": "Bobby Krlic",
+      "title": "The Drop",
+      "services": {
+        "qobuz": "278541253"
+      },
+      "album": "Excavation",
+      "duration": 777,
+      "isrc": "GBCW31300101"
+    },
+    {
+      "artist": "Deathprod",
+      "title": "Dead People's Things",
+      "services": {
+        "qobuz": "87744852"
+      },
+      "album": "Morals and Dogma",
+      "duration": 1115,
+      "isrc": "NOFGR0435020"
+    },
+    {
+      "artist": "Lull",
+      "title": "Downwards",
+      "services": {
+        "qobuz": "243262971"
+      },
+      "album": "Journey Through Underworlds",
+      "duration": 999,
+      "isrc": "QMFMG2348883"
+    },
+    {
+      "artist": "Thomas K\u00f6ner",
+      "title": "Nuuk (Air)",
+      "services": {
+        "qobuz": "48839319"
+      },
+      "album": "Nuuk",
+      "duration": 290,
+      "isrc": "DEZ651012391"
+    }
+  ]
+}

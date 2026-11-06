@@ -1,0 +1,108 @@
+# Genre: Tech Trance
+
+Imported genre playlist: Tech Trance.
+
+Services: `qobuz:66721530`
+
+## Tracks (100)
+
+- **L.S.G.** — Blueprint [The Best Of L.S.G.: The Singles Reworked] (7:36) `isrc:DEKB72050185` `qobuz:318509069`
+- **Marmion** — Schöneberg [Schöneberg] (6:25) `isrc:DEL029310006` `qobuz:204221331`
+- **Energy 52** — Café del Mar [Café Del Mar] (3:39) `isrc:DEL029760009` `qobuz:224060022`
+- **Mario Piu'** — Communication [Somebody Answer the Phone] [Communication [Somebody Answer the Phone]] (4:18) `isrc:NLE712300314` `qobuz:207267080`
+- **The Alan Parsons Project** — You're Gonna Get Your Fingers Burned [Eye In The Sky] (4:21) `isrc:USAR18200167` `qobuz:38623129`
+- **Christopher Lawrence** — Rush Hour [Rush Hour / Ride the Light] (7:24) `isrc:US4L70400010` `qobuz:113616712`
+- **Randy Katana** — Fancy Fair [Fancy Fair 2005] (6:26) `isrc:NLC280410181` `qobuz:48293949`
+- **Tiësto** — Lethal Industry [Magikal Journey -The Hits Collection 1998 - 2008] (2:43) `isrc:NLE710280422` `qobuz:315597359`
+- **Marco V** — Simulated [Simulated] (3:11) `isrc:NLE800510078` `qobuz:25749977`
+- **Frank Biazzi** — Turbulence [Turbulence] (6:45) `isrc:BEN580200089` `qobuz:104242720`
+- **Svenson & Gielen** — Twisted [The Beauty Of Silence] (3:03) `isrc:NLE800510072` `qobuz:198620300`
+- **The Quest** — C Sharp [C Sharp] (3:11) `isrc:NLD682102230` `qobuz:122750167`
+- **Mauro Picotto** — I'm in Heaven [I'm in Heaven] (7:02) `isrc:ITE341900029` `qobuz:62583629`
+- **Filterheadz** — Yimanya (Mixed) [A State Of Trance Year Mix 2004 (Mixed)] (1:53) `isrc:NLS241401458` `qobuz:378285552`
+- **Thomas Bitell** — cold nights [Distant Light and the Soft Nostalgia] (3:22) `isrc:QZNWT2619421` `qobuz:397879752`
+- **Rank 1** — Beats At Rank-1 Dotcom [Beats At Rank-1 Dotcom] (6:58) `isrc:NLE800400064` `qobuz:18692229`
+- **Igor S and Friends** — Boomerang [The History] (6:26) `isrc:ITJ871500062` `qobuz:369830192`
+- **Courtney Barnett** — Stay In Your Lane [Creature of Habit] (3:14) `isrc:USQE92500127` `qobuz:374403604`
+- **Fred Baker** — Genetic [Genetic] (4:03) `isrc:BEE322605004` `qobuz:416311561`
+- **Substate** — Horizon [Horizon] (9:10) `isrc:USV351468327` `qobuz:68882178`
+- **Ida Sand** — I Will Be Right There [I Will Be Right There] (4:28) `isrc:DEA892600065` `qobuz:370982172`
+- **Afrika Bambaataa** — Mind Control [Mind Control] (7:10) `isrc:IT00G9713073` `qobuz:307600666`
+- **Ricky Fobis** — No Regular [No Regular] (6:31) `isrc:ITC400200081` `qobuz:122706253`
+- **Mark Norman** — Phantom Manor [Phantom Manor] (7:07) `isrc:NLE711700212` `qobuz:42391507`
+- **Krzysztof Chochlow** — Express (Original Mix) [Nothing To Say] (7:41) `isrc:GBJAL0800057` `qobuz:68633446`
+- **Butterfly** — Hardlove (Motion Anthem 2013) [Trance Invasion 2] (3:07) `isrc:CH0311300559` `qobuz:28886009`
+- **Ohio Players** — Runnin From The Devil [Fire] (4:48) `isrc:USWWW0128392` `qobuz:112883781`
+- **Liquid Spill** — 5 Elements [Back to the Past - Remix Collection] (7:02) `isrc:DEBA71500154` `qobuz:48029293`
+- **DVBBS** — Tsunami [Tsunami] (3:56) `isrc:NLWV71300021` `qobuz:47407316`
+- **Abel Ramos** — Aquarius [DJ Vibe Presents Global Grooves 3] (4:28) `isrc:QMDA61825358` `qobuz:46837065`
+- **Scott Mac** — Damager 02 [Damager 02] (3:30) `isrc:NLE712000854` `qobuz:103582863`
+- **Ron van den Beuken** — Timeless [Timeless] (3:19) `isrc:NLC280310092` `qobuz:55782173`
+- **DJ Isaac** — Burn (Sub Zero Project Remix) [Burn (Sub Zero Project Remix)] (4:04) `isrc:BEB681700242` `qobuz:49396695`
+- **Pavement** — Harness Your Hopes [Brighten the Corners: Nicene Creedence Ed.] (3:26) `isrc:USMTD0880519` `qobuz:59237310`
+- **Charlie Haden Quartet West** — Let's Call It A Day [Sophisticated Ladies] (5:51) `isrc:GBUM71027083` `qobuz:2575627`
+- **Ernesto vs. Bastian** — Dark Side Of The Moon [Dark Side Of The Moon] (8:03) `isrc:NLE800500004` `qobuz:21198318`
+- **Ronald van Gelderen** — Calling 99 [Calling 99] (8:10) `isrc:GBKQU2602809` `qobuz:392320384`
+- **Jochen Miller** — India [Best of Trance Vol. 2] (7:54) `isrc:NLE800500015` `qobuz:14877424`
+- **Victor Joop Lasut** — Change the World [Change the World] (3:15) `isrc:AEA3A2176874` `qobuz:337197307`
+- **Marcel Woods** — Advanced [Open All Hours] (6:11) `isrc:NLE801100435` `qobuz:7062297`
+- **Bart Claessen** — Playmo (1st Play) [Mixed] [Live at EDC Las Vegas 2026 (Highlights)] (2:25) `isrc:NLF712602853` `qobuz:420172879`
+- **Rotersand** — Social Distortion [Electric Elephant] (7:16) `isrc:DEZ901400775` `qobuz:91731728`
+- **Funkmaster Flex** — Ill Bomb [G. O. A. T. Featuring James T. Smith: The Greatest Of All Time] (4:01) `isrc:USDJ20010371` `qobuz:23114215`
+- **Lloyd Cole** — Wolves [Warm by the Fire] (3:44) `isrc:DEH842300078` `qobuz:205948049`
+- **Sander Van Doorn** — Gold Skies (feat. Aleesia) [Gold Skies (feat. Aleesia)] (3:56) `isrc:NLZ541400459` `qobuz:47599615`
+- **Wippenberg** — Chakalaka [Chakalaka] (3:25) `isrc:NLE800800323` `qobuz:25416722`
+- **Dirt Devils** — The Drill (Flashback) [ABGT293] [Group Therapy 293] (4:13) `isrc:GBEWA1802282` `qobuz:424938620`
+- **Evan JPL** — Midnight Blue Skies [Moonlight Bay] (3:32) `isrc:GXF9Q2487915` `qobuz:306978783`
+- **Foylee** — Hot Fuzz (Fabio Stein Remix) [Slinky Trance Volume 1] (8:25) `isrc:GBTGU1000003` `qobuz:68627964`
+- **The Hard Quartet** — Action For Military Boys [The Hard Quartet] (4:50) `isrc:USMTD2400136` `qobuz:280452835`
+- **Simon Patterson** — Bulldozer (V2) [A State of Trance Radio Top 50 - 2025, Vol. 1] (3:15) `isrc:NLF712500350` `qobuz:378314884`
+- **Heatbeat** — Push Over [25 Global Tunes, Vol. 4] (4:10) `isrc:NLF710800405` `qobuz:58881748`
+- **John Askew** — Vellum (Original Mix) [Lower the Tone] (8:08) `isrc:GBJAL0500056` `qobuz:68641264`
+- **Sean Tyas** — Lift [Militant Artists Presents... Chris Hampshire] (8:29) `isrc:GBJAL1000166` `qobuz:68643296`
+- **DJ_Johno** — Time Machine [Time Machine] (4:43) `isrc:QT6ET2689690` `qobuz:432118976`
+- **Planet Booty** — Naughty [Guilty Pleasure] (3:23) `isrc:TCAEG1999584` `qobuz:125685903`
+- **Michael Franks** — Woman In The Waves [Blue Pacific] (5:58) `isrc:USRE19900265` `qobuz:4613922`
+- **Nenes** — Platinum [Trance Revelations Progress 7 The Classic Edition] (7:33) `isrc:NLE800700040` `qobuz:8277461`
+- **Armin van Buuren** — Control Freak (ASOT 1266) [ASOT 1266 - A State of Trance Episode 1266] (3:25) `isrc:NLF712601222` `qobuz:398529904`
+- **Timmy & Tommy** — Full Tiltin [Full Tiltin] (7:18) `isrc:IEBRM0800001` `qobuz:113573077`
+- **David Bowie** — The Jean Genie [Unplugged & Slightly Phased] (5:18) `isrc:USY251965630` `qobuz:176796786`
+- **The Osborne Brothers** — Fourteen Carat Mind [Hillbilly Fever] (2:20) `isrc:USEWC0770730` `qobuz:72732117`
+- **Avatar** — Let It Burn [Black Waltz] (3:32) `isrc:SEVWR1100507` `qobuz:51048496`
+- **The Weeknd** — Take Me Back To LA [Hurry Up Tomorrow] (4:13) `isrc:USUG12501140` `qobuz:315416326`
+- **Ltj Xperience** — Feel the Real [Radio Yacht Monte Carlo Coast] (7:25) `isrc:ITI020000155` `qobuz:63985077`
+- **Marcus Schössow** — Genre This [Genre This] (8:30) `isrc:NLC281010645` `qobuz:47910957`
+- **Chris Schweizer** — Nekrohsis [Dub Tech Recordings - Best Of 2010] (5:44) `isrc:SVA010600374` `qobuz:5928444`
+- **Pulse & Sphere** — Explosions [Explosions] (4:24) `isrc:GBKQU2633106` `qobuz:410782491`
+- **Stereophonics** — Taken a Tumble [Scream Above the Sounds] (3:36) `isrc:GBAYE1703285` `qobuz:42401164`
+- **Charli XCX** — Sympathy is a knife [Brat and it’s the same but there’s three more songs so it’s not] (2:31) `isrc:USAT22401343` `qobuz:271137855`
+- **Organ Donors** — Bomb Thrush [Secret Vinyl Album, Vol. 4] (4:44) `isrc:GBKQU2461500` `qobuz:273681566`
+- **Curve** — Mission from God [The Way Of Curve] (4:07) `isrc:GBARL0400277` `qobuz:13762791`
+- **4Th Impact** — K(NO)W MORE [K(NO)W MORE] (3:31) `isrc:QMEZE1942617` `qobuz:149978924`
+- **Nu:Tone** — Upgrade [Hospitalised] (6:01) `isrc:GBCJY0610024` `qobuz:207681090`
+- **Ummet Ozcan** — The Box [The Box] (6:01) `isrc:NLC281210447` `qobuz:47214080`
+- **Renegade System** — Flintstone [Sub-Terra Resistance: Volume 1] (3:56) `isrc:NLD682300627` `qobuz:195919764`
+- **Activa** — Telic [Pt. One] [To The Point] (8:03) `isrc:GBJAL1100186` `qobuz:97395776`
+- **Shanti People** — Asato [Asato] (6:46) `isrc:DKZVA2000074` `qobuz:85593536`
+- **Neal Scarborough** — Kanya [50 Trance Tunes, Vol. 24] (9:42) `isrc:NLF711001550` `qobuz:377924510`
+- **Ruben de Ronde** — Away From You [Away From You] (3:54) `isrc:NLJ5V2100083` `qobuz:231068578`
+- **Greg Downey** — P45 [P45] (7:33) `isrc:NLD681700854` `qobuz:40447236`
+- **Mark Sherry** — Sangre Caliente [Sangre Caliente] (3:48) `isrc:GBGWM1920257` `qobuz:74387108`
+- **Allen Watts** — Spectral [Spectral] (2:57) `isrc:UKRMQ2300827` `qobuz:220898443`
+- **Ayda** — Pharaoh [Pharaoh] (6:48) `isrc:GBKQU1297665` `qobuz:106951975`
+- **Matt Corby** — Never Tear Us Apart [Live From Sydney ABC NYE 2025] (4:12) `isrc:AU2DY2600031` `qobuz:388621368`
+- **bryan kearney** — Te Amo [Te Amo] (6:44) `isrc:GBLV62300757` `qobuz:237141738`
+- **Alex Di Stefano** — Escape from the Past [Outburst presents Prism Volume 1] (7:17) `isrc:GBGWM1410007` `qobuz:33086028`
+- **Fisherman & Hawkins** — Apache (Mix Cut) [A State Of Trance Year Mix 2013] (1:12) `isrc:NLF711314179` `qobuz:377991959`
+- **Indecent Noise** — Make You Move [Make You Move] (3:21) `isrc:NL2J92509854` `qobuz:365530108`
+- **Jordan Suckley** — Elation [Elation] (7:50) `isrc:NLD681401451` `qobuz:21650419`
+- **Tempo Giusto** — Benzin [Benzin] (5:27) `isrc:GBLV61411116` `qobuz:106799238`
+- **Nick Mason's Saucerful of Secrets** — Interstellar Overdrive [Live at the Roundhouse] (5:49) `isrc:USQX91903054` `qobuz:85153294`
+- **Paul Denton** — Searching the Sky [Searching the Sky] (8:40) `isrc:NLD681600636` `qobuz:31074331`
+- **The Avalanches** — Interstellar Love [We Will Always Love You] (3:38) `isrc:AUUM72000708` `qobuz:108680074`
+- **DJ Jus-Ed** — ReTrace Your Life [DJ Jus-Ed vs DJ Qu Real House Music] (7:48) `isrc:QM4TW2222241` `qobuz:270314274`
+- **Lostly** — No Direction Home (feat. Amber Traill) [Discover Digital Sessions 006 (Mixed by Rich Smith)] (6:13) `isrc:GBJAL1500019` `qobuz:68661997`
+- **Dr. Ring-Ding** — Dancing in the Rain [The Remedy] (3:47) `isrc:DEAE22000008` `qobuz:98483683`
+- **Norah Jones** — Black Hole Sun [...‘Til We Meet Again] (7:11) `isrc:USUM72100322` `qobuz:115851720`
+- **Billy Gillies** — Stay Happy [Stay Happy] (2:48) `isrc:USAT22409686` `qobuz:298112060`
+- **Sebec** — Sentient Town [Park Gate Rust] (1:56) `isrc:GBPS85528472` `qobuz:387785401`

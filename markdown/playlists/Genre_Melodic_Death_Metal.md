@@ -1,0 +1,108 @@
+# Genre: Melodic Death Metal
+
+Imported genre playlist: Melodic Death Metal.
+
+Services: `qobuz:66735136`
+
+## Tracks (100)
+
+- **Carcass** — Heartwork [Heartwork] (4:33) `isrc:GBBPB1302606` `qobuz:13341838`
+- **Das Oath** — Comatose Life Of Wonderment [Das Oath] (2:55) `isrc:USDM30407068` `qobuz:53871173`
+- **Eucharist** — Dissolving [Mirrorworlds] (4:04) `isrc:SEYOK1651294` `qobuz:204462350`
+- **Unanimated** — Whispering Shadows [In The Forest Of The Dreaming Dead (Remastered Deluxe Edition)] (3:11) `isrc:GBDHC2123402` `qobuz:118248455`
+- **At The Gates** — Blinded by Fear [Slaughter of the Soul] (3:11) `isrc:GBBPB1403503` `qobuz:19302128`
+- **Dark Tranquillity** — Punish My Heaven [The Gallery] (4:46) `isrc:FR4E69500190` `qobuz:109498419`
+- **Ablaze My Sorrow** — Transfiguration (The Way of the Strong) [The Loss of All Hope] (3:58) `isrc:QMFME2224257` `qobuz:186798874`
+- **A Canorous Quintet** — Spellbound [Alive from the World Beyond (Live)] (3:52) `isrc:SEVVF1703906` `qobuz:67682362`
+- **Arch Enemy** — Bury Me an Angel [Black Earth (Reissue)] (3:40) `isrc:SEVKO1100040` `qobuz:29195670`
+- **In Flames** — Moonshield [The Jester Race] (5:01) `isrc:DED830162801` `qobuz:86942155`
+- **Gardenian** — The Downfall [Two feet stand] (4:07) `isrc:FR6V89703306` `qobuz:34940576`
+- **Gates of Ishtar** — At Dusk And Forever [At Dusk and Forever (Re-issue 2017)] (3:02) `isrc:US4E41639903` `qobuz:38922238`
+- **Skyfire** — Skyfire [Timeless Departure (Expanded)] (3:52) `isrc:USZ7M1200030` `qobuz:89461319`
+- **Zero Dimension** — Silent Night Fever [Silent Night Fever] (3:20) `isrc:GX3HH2312398` `qobuz:219726019`
+- **DIIV** — Incarnate Devil [Is the Is Are] (4:43) `isrc:QMMZN1300937` `qobuz:28211126`
+- **Soilwork** — As We Speak [Natural Born Chaos] (3:42) `isrc:DED830162402` `qobuz:238364030`
+- **The Forsaken** — Human Prey (Bonus track) [Arts of Desolation (Bonus Track Version)] (4:33) `isrc:US4E40411811` `qobuz:27581022`
+- **Krystal System** — What if I fail [Da Punch] (4:19) `isrc:BEC262635411` `qobuz:412813299`
+- **Duskal** — Wandering Notes [Silent Symphony] (1:21) `isrc:BK4DA2514047` `qobuz:337138042`
+- **Zornik** — Pins and Needles [Blinded by the Diamonds] (3:06) `isrc:BEE461500010` `qobuz:33634647`
+- **Cappella Murensis** — Symphoniarum sacrarum tertia pars: Siehe, es erschien der Engel des Herren Joseph im Traum, SWV 403 [Polychoral Splendour] (4:41) `isrc:DEE219265216` `qobuz:51450751`
+- **Amon Amarth** — Twilight Of The Thunder God [Twilight Of The Thunder God] (4:08) `isrc:USMBR0805969` `qobuz:60705263`
+- **Scar Symmetry** — The Illusionist [Pitch Black Progress] (4:31) `isrc:DED830602964` `qobuz:60255238`
+- **Zonaria** — Crowning King Cancer [The Cancer Empire] (5:46) `isrc:US4E40852003` `qobuz:27582750`
+- **This Ending** — Parasites [Dead Harvest] (4:15) `isrc:USMBR0906226` `qobuz:60755802`
+- **Solution .45** — Gravitational Lensing [For Aeons Past] (4:54) `isrc:DEU601002835` `qobuz:91388787`
+- **The Unguided** — Inherit the Earth [Hell Frost] (4:47) `isrc:SEXTE1101501` `qobuz:199270101`
+- **Orbit Culture** — North Star of Nija [Nija] (5:14) `isrc:QM6N22002442` `qobuz:105295264`
+- **The Halo Effect** — Shadowminds [Days Of The Lost] (3:53) `isrc:DED832100799` `qobuz:147862693`
+- **Amorphis** — Black Winter Day [Tales From The Thousand Lakes] (3:50) `isrc:US2640771916` `qobuz:60846088`
+- **Children Of Bodom** — Needled 24 / 7 [Hate Crew Deathroll] (4:09) `isrc:FISFS0200063` `qobuz:204279503`
+- **Kalmah** — Evil in You [Swamplord] (5:08) `isrc:FIUM70700147` `qobuz:195557363`
+- **Eternal Tears Of Sorrow** — The River Flows Frozen [A Virgin And A Whore] (5:47) `isrc:FIUM71300322` `qobuz:190356298`
+- **Norther** — Darkest Time [Dreams of Endless War] (6:10) `isrc:FIUM71000270` `qobuz:190231417`
+- **Imperanon** — Blade [Stained] (3:40) `isrc:DED830471401` `qobuz:61266503`
+- **Insomnium** — Mortal Share [Above The Weeping World] (3:59) `isrc:GBADD0614702` `qobuz:189964859`
+- **Mercenary** — 11 Dreams [11 Dreams] (6:53) `isrc:GBDHC0404963` `qobuz:27567513`
+- **Wintersun** — Beyond the Dark Sun [Wintersun] (2:38) `isrc:DED830402132` `qobuz:60258052`
+- **Naildown** — World Domination [World Domination] (6:10) `isrc:FISFS0500199` `qobuz:190555755`
+- **Mors Principium Est** — The Unborn [Liberate The Unborn Inhumanity] (3:47) `isrc:DEU602109726` `qobuz:142241295`
+- **Diablo** — Mimic47 [Mimic47] (3:08) `isrc:FIUNG0500039` `qobuz:8774746`
+- **Dark The Suns** — Alone [Life Eternal] (4:15) `isrc:FI3FC1599905` `qobuz:28807962`
+- **MyGrain** — Of Immortal Aeons [MyGrain] (5:40) `isrc:FIUM71001814` `qobuz:190574833`
+- **Before The Dawn** — Deadsong [Deadlight] (3:23) `isrc:FI3SY0700006` `qobuz:37216660`
+- **Omnium Gatherum** — New Dynamic [Beyond] (4:56) `isrc:US94P1313202` `qobuz:77662314`
+- **Sleep Token** — Emergence [Even In Arcadia] (6:26) `isrc:USRC12500014` `qobuz:320611355`
+- **Whispered** — Jikininki [Jikininki] (4:43) `isrc:FIRED1300001` `qobuz:114419095`
+- **Wolfheart** — The Hunt [Winterborn] (4:56) `isrc:FIUM71400642` `qobuz:190521737`
+- **Deep Purple** — Soldier Of Fortune [Stormbringer (Edition spéciale)] (3:24) `isrc:GBDXG0800006` `qobuz:1736796`
+- **Bloodred Hourglass** — Where the Sinners Crawl [Where the Oceans Burn] (4:10) `isrc:FI5CK1507826` `qobuz:134944618`
+- **Horizon Ignited** — Beyond Your Reach [Towards The Dying Lands] (3:45) `isrc:DED832200083` `qobuz:150254705`
+- **Rifftera** — Eye of the Storm [Across the Acheron] (6:34) `isrc:FI3FC1930203` `qobuz:55750736`
+- **Aeternam** — Beneath the Nightfall [Heir of the Rising Sun] (5:17) `isrc:USHM82221661` `qobuz:170173744`
+- **Night In Gales** — Intruder [Thunderbeast] (5:02) `isrc:DED839841201` `qobuz:61267195`
+- **Dark Lunacy** — Dolls [Devoid] (7:07) `isrc:IT0681100580` `qobuz:38867748`
+- **Bob Marley & The Wailers** — Buffalo Soldier [Confrontation] (4:17) `isrc:USIR28300004` `qobuz:3609817`
+- **Callenish Circle** — Forsaken [My Passion // Your Pain] (4:55) `isrc:USMBR0502106` `qobuz:60685787`
+- **Nightrage** — The Glow of the Setting Sun [Sweet Vengeance] (4:10) `isrc:US4E40413602` `qobuz:27558590`
+- **Fear My Thoughts** — Sweetest Hell [Hell Sweet Hell] (3:48) `isrc:US94P0505405` `qobuz:90594467`
+- **Fragments Of Unbecoming** — Dawnbringer [Dawnbringer] (5:26) `isrc:DEQD62400857` `qobuz:326598326`
+- **Dark Age** — Suicide Solution [Dark Age] (3:40) `isrc:DEKS80433010` `qobuz:91984837`
+- **Detonation** — Portals to Uphobia [Portals to Uphobia] (3:07) `isrc:FR4E60500020` `qobuz:14172266`
+- **Truus De Groot** — Lies and Flies [Truus De Groot pres. Plus Instruments - Unnoticed] (5:24) `isrc:DEG932505441` `qobuz:373243815`
+- **Disarmonia Mundi** — Mindtricks [Mind Tricks (Extended Version)] (3:52) `isrc:ITI690600002` `qobuz:73370116`
+- **Vonda Shepard** — 100 Tears Away [The Radical Light] (4:53) `isrc:USRE10100236` `qobuz:2885628`
+- **Mendeed** — The Dead Live By Love [The Dead Live By Love] (5:34) `isrc:GBLXA0601503` `qobuz:56204126`
+- **The Arcane Order** — The Reaping Reverence [In the Wake of Collisions] (4:09) `isrc:USMBR0705471` `qobuz:60806595`
+- **Anterior** — The Silent Divide [This Age of Silence] (6:31) `isrc:USMBR0705055` `qobuz:60680974`
+- **Carcariass** — Killing Process [Killing Process] (3:59) `isrc:FR26V1604956` `qobuz:124324140`
+- **SLEEPY NUTS** — Sleep-inducing music to help you fall asleep while listening to soothing guitar that will help you fall asleep in 3 minutes (Mori Tori for sleep that regulates the autonomic nervous system) [Nature Sounds Music to Quiet the Soul Balance and Restore Energy] (2:48) `isrc:TCJPY2491040` `qobuz:400161639`
+- **Parasite Inc.** — The Pulse of the Dead [Time Tears Down] (4:11) `isrc:DEOJ21200026` `qobuz:124547898`
+- **King Gizzard & The Lizard Wizard** — Motor Spirit [PetroDragonic Apocalypse; or, Dawn of Eternal Night: An Annihilation of Planet Earth and the Beginning of Merciless Damnation] (8:32) `isrc:AU2ZC2300168` `qobuz:208038170`
+- **Bloodshot Dawn** — The Image Faded [Demons] (7:23) `isrc:QZMEN2141997` `qobuz:130557630`
+- **Corrosion Of Conformity** — Damned For All Time [Blind (Expanded Edition)] (5:52) `isrc:USSM10021799` `qobuz:136579814`
+- **Fractal Gates** — Breath of Life [The Light That Shines - Instrumental Version] (3:30) `isrc:USHM92154542` `qobuz:130223202`
+- **Cypecore** — The Void [Identity] (5:38) `isrc:SE3OH1601382` `qobuz:309706436`
+- **Aephanemer** — Prokopton [Prokopton] (5:13) `isrc:ATN261990701` `qobuz:79845975`
+- **Aetherian** — The Rain [The Untamed Wilderness] (5:45) `isrc:US94P1717508` `qobuz:43888917`
+- **Nothgard** — Age of Pandora [Age of Pandora] (4:58) `isrc:DEW272201001` `qobuz:160987915`
+- **Shylmagoghnar** — No Child of Man Could Follow [Transience] (12:00) `isrc:ATN261878706` `qobuz:49163766`
+- **Nailed To Obscurity** — Black Frost [Black Frost] (7:40) `isrc:DED831801577` `qobuz:55793455`
+- **Countless Skies** — Tempest [Glow] (5:05) `isrc:USRMX2000082` `qobuz:100082618`
+- **Act of Denial** — Negative [Negative] (4:50) `isrc:AUMTB2100009` `qobuz:262472977`
+- **Beyond The Embrace** — Against The Elements [Against the Elements] (4:31) `isrc:USMBR0501891` `qobuz:60755992`
+- **With Passion** — Pale Horses Ride [What We See When We Shut Our Eyes] (4:39) `isrc:GBBPB0600207` `qobuz:94933723`
+- **The Absence** — Riders of the Plague [Riders of the Plague] (4:00) `isrc:USMBR1310063` `qobuz:60768623`
+- **Light This City** — Facing the Thousand [Facing the Thousand] (5:01) `isrc:USRZR0603701` `qobuz:49164660`
+- **Metalocalypse: Dethklok** — Thunderhorse [The Dethalbum] (2:45) `isrc:USYWT0700028` `qobuz:2088375`
+- **The Black Dahlia Murder** — What a Horrible Night to Have a Curse [Nocturnal] (3:50) `isrc:USMBR1309903` `qobuz:60827215`
+- **The Agonist** — Thank You, Pain [Lullabies For The Dormant Mind] (3:44) `isrc:US4E40949703` `qobuz:27566709`
+- **Blackguard** — This Round'S On Me [Profugus Mortis] (4:15) `isrc:DED830801199` `qobuz:61265109`
+- **Aeternam** — Moongod [Moongod] (5:41) `isrc:USCGH1721259` `qobuz:65645442`
+- **Aether Realm** — The Sun, The Moon, The Star [Tarot] (19:09) `isrc:TCADB1712245` `qobuz:93413803`
+- **Majesties** — In Yearning, Alive [Vast Reaches Unclaimed] (4:24) `isrc:USJE72317301` `qobuz:192629404`
+- **Intestine Baalism** — Banquet in the Darkness [Banquet in the Darkness] (3:56) `isrc:GBDHS0904902` `qobuz:56241492`
+- **Blood Stain Child** — Stargazer [Epsilon] (4:21) `isrc:ITY101114003` `qobuz:68120968`
+- **In The Country** — Parting [Remembrance] (6:04) `isrc:NOWAJ2410040` `qobuz:308215995`
+- **Gyze** — Black Bride [Black Bride] (4:58) `isrc:ITY101537001` `qobuz:77361604`
+- **Eye Of The Enemy** — The Shift [The Vengeance Paradox] (6:10) `isrc:SEYOK1414802` `qobuz:226498263`
+- **Serenity In Murder** — The Flames Ablaze [Timeless Reverie] (3:06) `isrc:DEQD62500928` `qobuz:306812607`

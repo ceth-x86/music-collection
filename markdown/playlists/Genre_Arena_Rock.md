@@ -1,0 +1,108 @@
+# Genre: Arena Rock
+
+Imported genre playlist: Arena Rock.
+
+Services: `qobuz:66736996` `tidal:848b4ec8-5d54-459c-8d99-ac9e42d67b40`
+
+## Tracks (100)
+
+- **Aerosmith** — Dream On [Aerosmith] (4:27) `isrc:USSM10011897` `qobuz:188599994`
+- **Bachman-Turner Overdrive** — Takin' Care Of Business [Bachman-Turner Overdrive II] (4:49) `isrc:USMR17387011` `qobuz:53101237`
+- **Grand Funk Railroad** — We're An American Band [We're An American Band] (3:28) `isrc:USCA21203209` `qobuz:63333651`
+- **Bad Company** — Feel Like Makin' Love [Can't Get Enough: A Tribute To Bad Company] (5:36) `isrc:QZUDB2201824` `qobuz:342095575`
+- **Kiss** — Rock And Roll All Nite [Greatest Kiss] (2:46) `isrc:USPR37509157` `qobuz:20000903`
+- **Boston** — More Than a Feeling [Boston] (4:45) `isrc:USSM17600941` `qobuz:19179302`
+- **Kansas** — Carry on Wayward Son [Leftoverture] (5:23) `isrc:USSM17600874` `qobuz:39713`
+- **Thin Lizzy** — The Boys Are Back In Town [The Boys Are Back In Town / Jailbreak] (4:23) `isrc:GBF087600063` `qobuz:711265`
+- **Peter Frampton** — Show Me The Way [Frampton Comes Alive!] (4:46) `isrc:USAM17600027` `qobuz:259403379`
+- **Foreigner** — Cold as Ice [Foreigner] (3:22) `isrc:USAT21101233` `qobuz:6007152`
+- **Styx** — Come Sail Away [The Grand Illusion] (6:06) `isrc:USUMG0000438` `qobuz:6269513`
+- **Heart** — Barracuda [Little Queen] (4:21) `isrc:USSM10009075` `qobuz:49356`
+- **Meat Loaf** — Bat Out of Hell [Bat Out Of Hell] (9:50) `isrc:USSM17700326` `qobuz:32437830`
+- **Queen** — We Will Rock You [News Of The World] (2:02) `isrc:GBUM71029618` `qobuz:427251968`
+- **Status Quo** — Rockin' All Over The World [Rockin' All Over The World] (3:37) `isrc:GBF087700030` `qobuz:4321891`
+- **Van Halen** — Runnin' with the Devil [Van Halen (Hi-Res Version)] (3:36) `isrc:USWB11300431` `qobuz:10474348`
+- **Toto** — Hold the Line [Toto] (3:55) `isrc:USSM17800444` `qobuz:50243`
+- **REO Speedwagon** — Roll with the Changes [Take It On The Run: The Best Of REO Speedwagon] (5:34) `isrc:USSM17800947` `qobuz:81533113`
+- **Cheap Trick** — Surrender [Heaven Tonight] (4:16) `isrc:USSM19802566` `qobuz:26172184`
+- **Bob Seger** — Old Time Rock And Roll [Ultimate Hits: Rock And Roll Never Forgets] (3:15) `isrc:USHRD1123010` `qobuz:59547682`
+- **The Cars** — Just What I Needed [The Cars] (3:43) `isrc:USRH11509834` `qobuz:30516280`
+- **The Babys** — Every Time I Think of You [Head First] (3:59) `isrc:GBAYK7900105` `qobuz:169145200`
+- **Billy Joel** — Big Shot [52nd Street] (4:03) `isrc:USSM17800446` `qobuz:398202`
+- **Jeremy Jordan** — Raise a Little Hell [Bonnie & Clyde (Original Broadway Cast Recording)] (3:08) `isrc:QMQYB1210010` `qobuz:192790793`
+- **City Boy** — 5.7.0.5 [Young Men Gone West/Book Early] (3:13) `isrc:GBF087800640` `qobuz:26469475`
+- **The Knack** — My Sharona [Get The Knack] (4:53) `isrc:USCA20200254` `qobuz:16973551`
+- **Supertramp** — The Logical Song [Breakfast In America] (4:11) `isrc:USUM71021480` `qobuz:401068872`
+- **AC/DC** — Highway to Hell [Highway To Hell] (3:28) `isrc:AUAP07900028` `qobuz:19906039`
+- **Rainbow** — Since You Been Gone [Down To Earth] (3:17) `isrc:USPR37930021` `qobuz:93118716`
+- **Electric Light Orchestra** — Don't Bring Me Down [Discovery] (4:03) `isrc:USSM10015734` `qobuz:28185411`
+- **Jefferson Starship** — Jane [Freedom At Point Zero] (4:12) `isrc:USRC17904299` `qobuz:57003416`
+- **The Police** — Message In A Bottle [Reggatta De Blanc] (4:49) `isrc:GBAAM0201170` `qobuz:61089898`
+- **Tom Petty & The Heartbreakers** — Refugee [Damn The Torpedoes] (3:20) `isrc:USMC17909357` `qobuz:4467831`
+- **Little River Band** — Lonesome Loser [Greatest Hits] (3:55) `isrc:USCA28700779` `qobuz:115400879`
+- **Robert Palmer** — Bad Case Of Loving You (Doctor, Doctor) [Addictions Vol. 1] (3:10) `isrc:USWWW0127580` `qobuz:52484333`
+- **Pat Benatar** — Hit Me With Your Best Shot [Crimes Of Passion] (2:51) `isrc:USCH38400009` `qobuz:15436153`
+- **Donnie Iris** — Ah! Leah! [20th Century Masters: The Millennium Collection: Best of Donnie Iris] (3:42) `isrc:USMC18010853` `qobuz:58836619`
+- **The Romantics** — What I Like About You [What I Like About You                   (And Other Romantic Hits)] (2:55) `isrc:USSM10020612` `qobuz:57613107`
+- **The J. Geils Band** — Centerfold [Freeze Frame] (3:37) `isrc:USCA28100075` `qobuz:16657276`
+- **Journey** — Don't Stop Believin' [Greatest Hits] (4:10) `isrc:USSM19932790` `qobuz:378385`
+- **Billy Squier** — The Stroke [Don't Say No] (3:37) `isrc:USCA21001203` `qobuz:16657251`
+- **Rick Springfield** — Jessie's Girl [Working Class Dog] (3:14) `isrc:USRC18108188` `qobuz:46900011`
+- **Loverboy** — Working for the Weekend [Get Lucky] (3:41) `isrc:CAC220600030` `qobuz:330826511`
+- **Blue Öyster Cult** — Burnin' for You [Fire of Unknown Origin] (4:31) `isrc:USSM10017652` `qobuz:33440204`
+- **Triumph** — Magic Power [Allied Forces] (4:54) `isrc:CAT311000182` `qobuz:274179043`
+- **April Wine** — Just Between You And Me [Nature Of The Beast] (3:55) `isrc:USCA29100325` `qobuz:198107777`
+- **Saga** — On The Loose [Worlds Apart] (4:12) `isrc:DEF068713340` `qobuz:13321482`
+- **Red Rider** — Lunatic Fringe [As Far As Siam] (4:22) `isrc:USCA28700714` `qobuz:4639205`
+- **Quarterflash** — Harden My Heart [Quarterflash] (3:51) `isrc:USGF18100301` `qobuz:54327913`
+- **Tommy Tutone** — 867-5309 / Jenny [Tommy Tutone - 2] (3:46) `isrc:USSM18100804` `qobuz:47007424`
+- **The Karaoke Channel** — The Breakup Song (They Don't Write 'em) [In the Style of Greg Kihn Band] {Karaoke Lead Vocal Version} [The Karaoke Channel - The Best Of Rock Vol. - 30] (2:59) `isrc:USK4W0701814` `qobuz:64942002`
+- **Prism** — Don't Let Him Know [Small Change] (3:08) `isrc:USUM72200445` `qobuz:146809007`
+- **The Tubes** — Talk To Ya Later [The Completion Backward Principle] (4:43) `isrc:USCA28700092` `qobuz:842915`
+- **Joan Jett & The Blackhearts** — I Love Rock 'N Roll [I Love Rock 'N' Roll (Expanded Edition)] (2:55) `isrc:USBH18100118` `qobuz:386731293`
+- **Eddie Money** — Shakin' [The Best Of Eddie Money] (3:08) `isrc:USSM10105114` `qobuz:89042`
+- **Sammy Hagar** — There's Only One Way To Rock [Standing Hampton] (4:15) `isrc:USGF19970204` `qobuz:54695966`
+- **Aldo Nova** — Fantasy [Aldo Nova] (5:03) `isrc:USSM10021884` `qobuz:157061`
+- **Survivor** — Eye of the Tiger [Eye Of The Tiger] (4:03) `isrc:USVR19300001` `qobuz:220221`
+- **Asia** — Heat Of The Moment [Asia] (3:47) `isrc:USGF18200801` `qobuz:52167295`
+- **John Mellencamp** — Hurts So Good [Words & Music: John Mellencamp's Greatest Hits] (3:39) `isrc:USJM18200002` `qobuz:51979619`
+- **Corey Hart** — Sunglasses At Night [First Offense] (5:20) `isrc:USEM30200105` `qobuz:31903230`
+- **ZZ Top** — Sharp Dressed Man [Eliminator] (4:18) `isrc:USWB10702682` `qobuz:385977631`
+- **Night Ranger** — Sister Christian [Midnight Madness] (5:02) `isrc:USMC18314773` `qobuz:7635642`
+- **Billy Idol** — Rebel Yell [Rebel Yell] (4:49) `isrc:USCH38400024` `qobuz:40272022`
+- **Quiet Riot** — Cum on Feel the Noize [Metal Health] (4:50) `isrc:USSM18300031` `qobuz:46965693`
+- **Huey Lewis And The News** — The Heart Of Rock & Roll [Greatest Hits:  Huey Lewis And The News] (4:05) `isrc:USCA20600517` `qobuz:1950799`
+- **Bryan Adams** — Run To You [Reckless] (3:53) `isrc:USAM18490003` `qobuz:20199610`
+- **Bruce Springsteen** — Born in the U.S.A. [Born In The U.S.A.] (4:39) `isrc:USSM18400406` `qobuz:13360983`
+- **Ratt** — Round and Round [Out of the Cellar] (4:25) `isrc:USAT29900560` `qobuz:385665988`
+- **Twisted Sister** — We're Not Gonna Take It [Stay Hungry] (3:39) `isrc:USAT20000548` `qobuz:387303460`
+- **Scorpions** — Rock You Like a Hurricane [Comeblack] (4:15) `isrc:DEE861101522` `qobuz:4464002`
+- **Scandal** — The Warrior [We Are The '80s] (3:58) `isrc:USSM18400617` `qobuz:46990176`
+- **Tina Turner** — We Don't Need Another Hero (Thunderdome) [All the Best - the Hits] (4:15) `isrc:USCA29100186` `qobuz:809212`
+- **John Parr** — St. Elmo's Fire (Man in Motion) [80s Summer] (4:08) `isrc:USAT21101216` `qobuz:96029216`
+- **Dire Straits** — Money For Nothing [Money For Nothing] (4:08) `isrc:GBUM72201832` `qobuz:161150249`
+- **The Outfield** — Your Love [Play Deep] (3:43) `isrc:USSM10100176` `qobuz:195971708`
+- **The Hooters** — And We Danced [Nervous Night] (3:48) `isrc:USSM10105640` `qobuz:32841`
+- **Simple Minds** — Don't You (Forget About Me) [Once Upon A Time] (4:21) `isrc:GBAAA8500001` `qobuz:314273389`
+- **Mike + The Mechanics** — All I Need is a Miracle [Air (Amazon Original Motion Picture Soundtrack)] (4:11) `isrc:GBHJD8500003` `qobuz:204649313`
+- **The Cult** — She Sells Sanctuary [Love] (4:12) `isrc:GBAZP9700076` `qobuz:26490729`
+- **Bon Jovi** — Livin' On A Prayer [Slippery When Wet] (4:11) `isrc:USPR38619998` `qobuz:52324089`
+- **Europe** — The Final Countdown [The Final Countdown (Expanded Edition)] (5:10) `isrc:USSM18600196` `qobuz:88144`
+- **Robert Tepper** — No Easy Way Out [No Easy Way Out] (4:21) `isrc:USVR10200060` `qobuz:132049`
+- **Kenny Loggins** — Danger Zone (From "Top Gun" Original Soundtrack) [Top Gun - Motion Picture Soundtrack (Special Expanded Edition)] (3:36) `isrc:USSM18600108` `qobuz:2719914`
+- **Cutting Crew** — (I Just) Died In Your Arms [Broadcast] (4:40) `isrc:GBAAA8600046` `qobuz:1942318`
+- **INXS** — Need You Tonight [Kick] (3:01) `isrc:GBAMX8700008` `qobuz:3589639`
+- **Whitesnake** — Here I Go Again [Saints and Sinners] (5:08) `isrc:GB01A1400126` `qobuz:20415167`
+- **Def Leppard** — Pour Some Sugar On Me [Hysteria] (4:27) `isrc:GBF088790147` `qobuz:46564226`
+- **Guns N' Roses** — Sweet Child O' Mine [Appetite For Destruction (Super Deluxe) - 192 kHz] (5:56) `isrc:USGF18714809` `qobuz:51041298`
+- **Richard Marx** — Don't Mean Nothing [Greatest Hits] (4:40) `isrc:USCA28700881` `qobuz:4458942`
+- **White Lion** — Wait [Pride] (4:00) `isrc:USRH11600127` `qobuz:31052323`
+- **Great White** — Once Bitten Twice Shy [Twice Shy] (5:24) `isrc:USCA28900230` `qobuz:198114718`
+- **Poison** — Every Rose Has Its Thorn [Open Up And Say . . . Ahh!] (4:20) `isrc:USCA28800073` `qobuz:49108528`
+- **Winger** — Seventeen [The Atlantic Albums] (4:05) `isrc:USAT20902970` `qobuz:173735608`
+- **Tesla (Band)** — Love Song [Time's Makin' Changes: The Best Of Tesla] (5:21) `isrc:USGF18922411` `qobuz:8524446`
+- **Damn Yankees** — High Enough [Damn Yankees] (4:44) `isrc:USWB10902497` `qobuz:11564426`
+- **Extreme** — More Than Words [Extreme II: Pornograffitti] (5:33) `isrc:USAM19090005` `qobuz:21758614`
+- **Mr. Big** — To Be With You [Greatest Hits] (3:26) `isrc:USAT20302609` `qobuz:61446317`
+- **The Darkness** — I Believe in a Thing Called Love [I Believe in a Thing Called Love] (5:11) `isrc:GBAHT2300122` `qobuz:221407514`
+- **Foo Fighters** — Best of You [In Your Honor] (4:15) `isrc:USRW30500001` `qobuz:13002696`

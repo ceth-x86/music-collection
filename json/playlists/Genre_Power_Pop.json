@@ -1,0 +1,1009 @@
+{
+  "name": "Genre: Power Pop",
+  "services": {
+    "qobuz": "66737579"
+  },
+  "description": "Imported genre playlist: Power Pop.",
+  "tracks": [
+    {
+      "artist": "Nazz",
+      "title": "Open My Eyes",
+      "services": {
+        "qobuz": "53468906"
+      },
+      "album": "Nazz (Bonus Track Version)",
+      "duration": 164,
+      "isrc": "QM6XS1807183"
+    },
+    {
+      "artist": "Badfinger",
+      "title": "No Matter What",
+      "services": {
+        "qobuz": "49059253"
+      },
+      "album": "No Dice",
+      "duration": 179,
+      "isrc": "GBDCE1000080"
+    },
+    {
+      "artist": "Emitt Rhodes",
+      "title": "Fresh As A Daisy",
+      "services": {
+        "qobuz": "60565508"
+      },
+      "album": "The Emitt Rhodes Recordings (1969-1973)",
+      "duration": 171,
+      "isrc": "USMC17054045"
+    },
+    {
+      "artist": "The Move",
+      "title": "Do Ya",
+      "services": {
+        "qobuz": "221503298"
+      },
+      "album": "Hits & Rarities - Singles a\u2019s & B\u2019s - The Move",
+      "duration": 244,
+      "isrc": "DESK99991834"
+    },
+    {
+      "artist": "Todd Rundgren",
+      "title": "Couldn't I Just Tell You",
+      "services": {
+        "qobuz": "30325622"
+      },
+      "album": "Something / Anything?",
+      "duration": 213,
+      "isrc": "USRH11502673"
+    },
+    {
+      "artist": "Raspberries",
+      "title": "Go All The Way",
+      "services": {
+        "qobuz": "15436140"
+      },
+      "album": "Raspberries",
+      "duration": 201,
+      "isrc": "USCA29100324"
+    },
+    {
+      "artist": "Lamb and Lion Productions",
+      "title": "Have You Seen Her (feat. JT Blue)",
+      "services": {
+        "qobuz": "430384573"
+      },
+      "album": "Have You Seen Her (feat. JT Blue)",
+      "duration": 215,
+      "isrc": "QT6ED2681706"
+    },
+    {
+      "artist": "Pilot",
+      "title": "Just a Smile",
+      "services": {
+        "qobuz": "1762976"
+      },
+      "album": "From The Album Of The Same Name",
+      "duration": 197,
+      "isrc": "GBAYE7500123"
+    },
+    {
+      "artist": "Big Star",
+      "title": "September Gurls",
+      "services": {
+        "qobuz": "263868915"
+      },
+      "album": "Radio City",
+      "duration": 168,
+      "isrc": "USC4R2442393"
+    },
+    {
+      "artist": "The Records",
+      "title": "Rock And Roll Love Letter",
+      "services": {
+        "qobuz": "1779018"
+      },
+      "album": "Smashes, Crashes And Near Misses",
+      "duration": 217,
+      "isrc": "GBAAA7900072"
+    },
+    {
+      "artist": "Dwight Twilley Band",
+      "title": "I'm On Fire",
+      "services": {
+        "qobuz": "4531226"
+      },
+      "album": "Sincerely",
+      "duration": 199,
+      "isrc": "USSH49600022"
+    },
+    {
+      "artist": "Artful Dodger",
+      "title": "Wayside",
+      "services": {
+        "qobuz": "19261544"
+      },
+      "album": "Artful Dodger",
+      "duration": 261,
+      "isrc": "USSM11401547"
+    },
+    {
+      "artist": "Flamin' Groovies",
+      "title": "Shake Some Action",
+      "services": {
+        "qobuz": "3008679"
+      },
+      "album": "Shake Some Action",
+      "duration": 273,
+      "isrc": "USWB10001381"
+    },
+    {
+      "artist": "Dead Bars",
+      "title": "Hanging on the Telephone",
+      "services": {
+        "qobuz": "34588904"
+      },
+      "album": "Dead Bars and the Tim Version: Tour Split",
+      "duration": 116,
+      "isrc": "US4KC1636102"
+    },
+    {
+      "artist": "Eddie and the Hot Rods",
+      "title": "Do Anything You Wanna Do",
+      "services": {
+        "qobuz": "147833809"
+      },
+      "album": "Do Anything You Wanna Do",
+      "duration": 178,
+      "isrc": "GBBLY2108594"
+    },
+    {
+      "artist": "The Monkees",
+      "title": "(I'd Go The) Whole Wide World",
+      "services": {
+        "qobuz": "12262021"
+      },
+      "album": "Pool It",
+      "duration": 177,
+      "isrc": "USRH11300935"
+    },
+    {
+      "artist": "The Rubinoos",
+      "title": "I Wanna Be Your Boyfriend",
+      "services": {
+        "qobuz": "121135097"
+      },
+      "album": "Back to the Drawing Board",
+      "duration": 199,
+      "isrc": "US8AV0900018"
+    },
+    {
+      "artist": "Pezband",
+      "title": "Baby It's Cold Outside",
+      "services": {
+        "qobuz": "318481073"
+      },
+      "album": "Best Of",
+      "duration": 163,
+      "isrc": "USME32400483"
+    },
+    {
+      "artist": "The Scruffs",
+      "title": "Break the Ice",
+      "services": {
+        "qobuz": "73709259"
+      },
+      "album": "Wanna' Meet The Scruffs?",
+      "duration": 156,
+      "isrc": "USAR30900875"
+    },
+    {
+      "artist": "Van Duren",
+      "title": "Waiting",
+      "services": {
+        "qobuz": "229081424"
+      },
+      "album": "Are You Serious?",
+      "duration": 296,
+      "isrc": "QMWHB2016173"
+    },
+    {
+      "artist": "Dave Edmunds",
+      "title": "Girls Talk",
+      "services": {
+        "qobuz": "93343489"
+      },
+      "album": "Repeat When Necessary",
+      "duration": 209,
+      "isrc": "USAT20104574"
+    },
+    {
+      "artist": "Cheap Trick",
+      "title": "Surrender",
+      "services": {
+        "qobuz": "26172184"
+      },
+      "album": "Heaven Tonight",
+      "duration": 256,
+      "isrc": "USSM19802566"
+    },
+    {
+      "artist": "The Only Ones",
+      "title": "Another Girl Another Planet",
+      "services": {
+        "qobuz": "385526"
+      },
+      "album": "Another Girl Another Planet The Best Of",
+      "duration": 180,
+      "isrc": "GBBBN7802048"
+    },
+    {
+      "artist": "The Cars",
+      "title": "My Best Friend's Girl",
+      "services": {
+        "qobuz": "30516279"
+      },
+      "album": "The Cars",
+      "duration": 223,
+      "isrc": "USRH11509833"
+    },
+    {
+      "artist": "Chart Collective",
+      "title": "Written On the Back of My Hand (Originally Performed By The Jags) [Karaoke Version]",
+      "services": {
+        "qobuz": "19022308"
+      },
+      "album": "Karaoke Rock Hits, Vol. 50",
+      "duration": 196,
+      "isrc": "GBJSS1419815"
+    },
+    {
+      "artist": "Nick Lowe",
+      "title": "Cruel to Be Kind",
+      "services": {
+        "qobuz": "72014368"
+      },
+      "album": "Labour of Lust",
+      "duration": 210,
+      "isrc": "USY1R1162101"
+    },
+    {
+      "artist": "The Records",
+      "title": "Starry Eyes",
+      "services": {
+        "qobuz": "1778999"
+      },
+      "album": "Smashes, Crashes And Near Misses",
+      "duration": 263,
+      "isrc": "GBAAA7900455"
+    },
+    {
+      "artist": "Paul Collins",
+      "title": "Rock N Roll Girl",
+      "services": {
+        "qobuz": "16067819"
+      },
+      "album": "The Beat",
+      "duration": 136,
+      "isrc": "USSM17900968"
+    },
+    {
+      "artist": "20/20",
+      "title": "Yellow Pills",
+      "services": {
+        "qobuz": "15943437"
+      },
+      "album": "20/20",
+      "duration": 256,
+      "isrc": "USSM17901079"
+    },
+    {
+      "artist": "Shoes",
+      "title": "Tomorrow Night",
+      "services": {
+        "qobuz": "89127621"
+      },
+      "album": "SHOES Best",
+      "duration": 178,
+      "isrc": "USHM20588767"
+    },
+    {
+      "artist": "Bram Tchaikovsky",
+      "title": "Girl of My Dreams",
+      "services": {
+        "qobuz": "34662437"
+      },
+      "album": "Strange Man, Changed Man",
+      "duration": 251,
+      "isrc": "GBAHT0300217"
+    },
+    {
+      "artist": "The Knack",
+      "title": "My Sharona",
+      "services": {
+        "qobuz": "16973551"
+      },
+      "album": "Get The Knack",
+      "duration": 293,
+      "isrc": "USCA20200254"
+    },
+    {
+      "artist": "The Barracudas",
+      "title": "Summer Fun",
+      "services": {
+        "qobuz": "4724974"
+      },
+      "album": "Drop Out With The Barracudas",
+      "duration": 195,
+      "isrc": "GBAYE8000131"
+    },
+    {
+      "artist": "Starlite Singers",
+      "title": "What Now My Love",
+      "services": {
+        "qobuz": "88210236"
+      },
+      "album": "Take Me Back to the 60s!",
+      "duration": 179,
+      "isrc": "CAM460407707"
+    },
+    {
+      "artist": "Rockpile",
+      "title": "Teacher Teacher",
+      "services": {
+        "qobuz": "119366826"
+      },
+      "album": "Live at Montreux 1980",
+      "duration": 162,
+      "isrc": "GBCBR1101439"
+    },
+    {
+      "artist": "The Romantics",
+      "title": "What I Like About You",
+      "services": {
+        "qobuz": "57613107"
+      },
+      "album": "What I Like About You                   (And Other Romantic Hits)",
+      "duration": 175,
+      "isrc": "USSM10020612"
+    },
+    {
+      "artist": "The Kings",
+      "title": "This Beat Goes On/Switchin' to Glide (Original Demo)",
+      "services": {
+        "qobuz": "91675438"
+      },
+      "album": "This Beat Goes On/Switchin' to Glide (Original Demo)",
+      "duration": 377,
+      "isrc": "USHM91164696"
+    },
+    {
+      "artist": "Split Enz",
+      "title": "I Got You",
+      "services": {
+        "qobuz": "84661810"
+      },
+      "album": "True Colours",
+      "duration": 209,
+      "isrc": "GBAAM0201039"
+    },
+    {
+      "artist": "The Shivvers",
+      "title": "Teenline (Remastered)",
+      "services": {
+        "qobuz": "92315100"
+      },
+      "album": "The Shivvers (Remixed and Remastered 2014)",
+      "duration": 221,
+      "isrc": "USHM81464215"
+    },
+    {
+      "artist": "The Go-Go's",
+      "title": "We Got The Beat",
+      "services": {
+        "qobuz": "115401056"
+      },
+      "album": "Beauty And The Beat",
+      "duration": 159,
+      "isrc": "USWWW0128900"
+    },
+    {
+      "artist": "The dB's",
+      "title": "Black And White",
+      "services": {
+        "qobuz": "1783954"
+      },
+      "album": "Stands For Decibels",
+      "duration": 189,
+      "isrc": "USCA20705653"
+    },
+    {
+      "artist": "The Producers",
+      "title": "What She Does to Me",
+      "services": {
+        "qobuz": "120417557"
+      },
+      "album": "The Producers",
+      "duration": 227,
+      "isrc": "USSM18100865"
+    },
+    {
+      "artist": "Marshall Crenshaw",
+      "title": "Someday, Someway",
+      "services": {
+        "qobuz": "194528648"
+      },
+      "album": "Marshall Crenshaw",
+      "duration": 169,
+      "isrc": "USY1R2202702"
+    },
+    {
+      "artist": "Bugzy",
+      "title": "What Do All the People Know",
+      "services": {
+        "qobuz": "98807269"
+      },
+      "album": "Center of Atrraction",
+      "duration": 232,
+      "isrc": "USDY41804104"
+    },
+    {
+      "artist": "XTC",
+      "title": "Senses Working Overtime",
+      "services": {
+        "qobuz": "4651734"
+      },
+      "album": "English Settlement",
+      "duration": 290,
+      "isrc": "GBAAA0001038"
+    },
+    {
+      "artist": "The Spongetones",
+      "title": "She Goes out with Everybody",
+      "services": {
+        "qobuz": "79169046"
+      },
+      "album": "Beat & Torn",
+      "duration": 146,
+      "isrc": "USCPM9412906"
+    },
+    {
+      "artist": "The Plimsouls",
+      "title": "A Million Miles Away",
+      "services": {
+        "qobuz": "71832247"
+      },
+      "album": "Beach Town Confidential: Live at the Golden Bear 1983",
+      "duration": 240,
+      "isrc": "USA2B1201610"
+    },
+    {
+      "artist": "The Bangles",
+      "title": "Hero Takes A Fall",
+      "services": {
+        "qobuz": "350747896"
+      },
+      "album": "Sleepless Nights",
+      "duration": 258,
+      "isrc": "GXESV2554014"
+    },
+    {
+      "artist": "The Smithereens",
+      "title": "Behind The Wall Of Sleep",
+      "services": {
+        "qobuz": "797728"
+      },
+      "album": "Especially For You",
+      "duration": 204,
+      "isrc": "USCA28600128"
+    },
+    {
+      "artist": "Tommy Keene",
+      "title": "Places That Are Gone",
+      "services": {
+        "qobuz": "220616577"
+      },
+      "album": "The Real Underground",
+      "duration": 238,
+      "isrc": "USMH92315918"
+    },
+    {
+      "artist": "The Replacements",
+      "title": "Alex Chilton",
+      "services": {
+        "qobuz": "98276282"
+      },
+      "album": "Pleased To Meet Me",
+      "duration": 193,
+      "isrc": "USRH12002034"
+    },
+    {
+      "artist": "The Primitives",
+      "title": "Crash",
+      "services": {
+        "qobuz": "457263"
+      },
+      "album": "Lovely",
+      "duration": 151,
+      "isrc": "GBARL8800002"
+    },
+    {
+      "artist": "The Pursuit of Happiness",
+      "title": "I'm An Adult Now",
+      "services": {
+        "qobuz": "52559764"
+      },
+      "album": "I'm An Adult Now",
+      "duration": 265,
+      "isrc": "CAEZI0500021"
+    },
+    {
+      "artist": "The Posies",
+      "title": "I May Hate You Sometimes",
+      "services": {
+        "qobuz": "18908616"
+      },
+      "album": "Failure",
+      "duration": 202,
+      "isrc": "QMWHB1400634"
+    },
+    {
+      "artist": "The La's",
+      "title": "There She Goes",
+      "services": {
+        "qobuz": "4306679"
+      },
+      "album": "The La's (Deluxe Edition)",
+      "duration": 162,
+      "isrc": "GBAQT8800001"
+    },
+    {
+      "artist": "The Darling Buds",
+      "title": "Hit The Ground",
+      "services": {
+        "qobuz": "455234"
+      },
+      "album": "Pop Said...",
+      "duration": 139,
+      "isrc": "GBBBM8802028"
+    },
+    {
+      "artist": "Enuff Z'Nuff",
+      "title": "Fly High Michelle",
+      "services": {
+        "qobuz": "2927526"
+      },
+      "album": "Enuff Z'Nuff",
+      "duration": 253,
+      "isrc": "USEE10000645"
+    },
+    {
+      "artist": "Jellyfish",
+      "title": "Baby's Coming Back",
+      "services": {
+        "qobuz": "234425567"
+      },
+      "album": "Bellybutton",
+      "duration": 176,
+      "isrc": "USUM72316025"
+    },
+    {
+      "artist": "Redd Kross",
+      "title": "Annie's Gone",
+      "services": {
+        "qobuz": "5484486"
+      },
+      "album": "Third Eye",
+      "duration": 215,
+      "isrc": "USAT20802085"
+    },
+    {
+      "artist": "Material Issue",
+      "title": "Valerie Loves Me",
+      "services": {
+        "qobuz": "36011455"
+      },
+      "album": "International Pop Overthrow 20th Anniversary Edition",
+      "duration": 184,
+      "isrc": "USWWW0201077"
+    },
+    {
+      "artist": "Matthew Sweet",
+      "title": "Girlfriend",
+      "services": {
+        "qobuz": "205482"
+      },
+      "album": "Girlfriend",
+      "duration": 220,
+      "isrc": "USVR19100001"
+    },
+    {
+      "artist": "Teenage Fanclub",
+      "title": "What You Do to Me",
+      "services": {
+        "qobuz": "51922023"
+      },
+      "album": "Bandwagonesque",
+      "duration": 120,
+      "isrc": "GBARL1800237"
+    },
+    {
+      "artist": "Gigolo Aunts",
+      "title": "Where I Find My Heaven",
+      "services": {
+        "qobuz": "194756775"
+      },
+      "album": "Flippin' Out",
+      "duration": 202,
+      "isrc": "GBCKK9307111"
+    },
+    {
+      "artist": "Sloan",
+      "title": "Underwhelmed",
+      "services": {
+        "qobuz": "75635342"
+      },
+      "album": "Smeared",
+      "duration": 285,
+      "isrc": "USKO10407945"
+    },
+    {
+      "artist": "Sugar",
+      "title": "If I Can't Change Your Mind",
+      "services": {
+        "qobuz": "385584207"
+      },
+      "album": "Copper Blue",
+      "duration": 198,
+      "isrc": "USMRG1245107"
+    },
+    {
+      "artist": "The Juliana Hatfield Three",
+      "title": "My Sister",
+      "services": {
+        "qobuz": "60856845"
+      },
+      "album": "Become What You Are",
+      "duration": 202,
+      "isrc": "USMA20215002"
+    },
+    {
+      "artist": "Velvet Crush",
+      "title": "Hold Me Up",
+      "services": {
+        "qobuz": "142361"
+      },
+      "album": "Teenage Symphonies To God",
+      "duration": 178,
+      "isrc": "USSM10027912"
+    },
+    {
+      "artist": "Weezer",
+      "title": "Buddy Holly",
+      "services": {
+        "qobuz": "4307963"
+      },
+      "album": "Weezer (The Blue Album)",
+      "duration": 159,
+      "isrc": "USGF19562907"
+    },
+    {
+      "artist": "Ash",
+      "title": "Girl from Mars",
+      "services": {
+        "qobuz": "375953171"
+      },
+      "album": "1977",
+      "duration": 205,
+      "isrc": "GB5KW2202985"
+    },
+    {
+      "artist": "The Rentals",
+      "title": "Friends of P.",
+      "services": {
+        "qobuz": "2186325"
+      },
+      "album": "Return Of The Rentals",
+      "duration": 212,
+      "isrc": "USMV29400001"
+    },
+    {
+      "artist": "Imperial Teen",
+      "title": "You're One",
+      "services": {
+        "qobuz": "68155582"
+      },
+      "album": "Imperial Teen Live At Maxwell's 10/30/2002",
+      "duration": 218,
+      "isrc": "USA560308796"
+    },
+    {
+      "artist": "Fountains Of Wayne",
+      "title": "Radiation Vibe",
+      "services": {
+        "qobuz": "2956002"
+      },
+      "album": "Fountains Of Wayne",
+      "duration": 220,
+      "isrc": "USAT20103013"
+    },
+    {
+      "artist": "Superdrag",
+      "title": "Sucked Out",
+      "services": {
+        "qobuz": "2782673"
+      },
+      "album": "Regretfully Yours",
+      "duration": 166,
+      "isrc": "USEE10181328"
+    },
+    {
+      "artist": "The Apples In Stereo",
+      "title": "Seems So",
+      "services": {
+        "qobuz": "76732927"
+      },
+      "album": "Tone Soul Evolution",
+      "duration": 200,
+      "isrc": "USSLX0910028"
+    },
+    {
+      "artist": "Cotton Mather",
+      "title": "My Before and After",
+      "services": {
+        "qobuz": "4974510"
+      },
+      "album": "Kontiki (Deluxe Edition)",
+      "duration": 173,
+      "isrc": "USX8K1100045"
+    },
+    {
+      "artist": "Ben Folds Five",
+      "title": "Song for the Dumped",
+      "services": {
+        "qobuz": "23823934"
+      },
+      "album": "Playlist: The Very Best of Ben Folds Five",
+      "duration": 221,
+      "isrc": "USSM19603706"
+    },
+    {
+      "artist": "Beulah",
+      "title": "Gene Autry",
+      "services": {
+        "qobuz": "14474441"
+      },
+      "album": "The Coast Is Never Clear",
+      "duration": 214,
+      "isrc": "US72K0500204"
+    },
+    {
+      "artist": "Sierra Hull",
+      "title": "Everybody's Somebody's Fool",
+      "services": {
+        "qobuz": "65014849"
+      },
+      "album": "Secrets",
+      "duration": 163,
+      "isrc": "USRO20860105"
+    },
+    {
+      "artist": "The New Pornographers",
+      "title": "Letter From An Occupant",
+      "services": {
+        "qobuz": "26440934"
+      },
+      "album": "Mass Romantic",
+      "duration": 226,
+      "isrc": "USMTD0354006"
+    },
+    {
+      "artist": "The Shazam",
+      "title": "On the Airwaves",
+      "services": {
+        "qobuz": "80113710"
+      },
+      "album": "The Coolest Songs in the World! Vol. 1",
+      "duration": 207,
+      "isrc": "USZPD0610001"
+    },
+    {
+      "artist": "OK Go",
+      "title": "You're So Damn Hot",
+      "services": {
+        "qobuz": "4688219"
+      },
+      "album": "OK Go",
+      "duration": 157,
+      "isrc": "USCA20200617"
+    },
+    {
+      "artist": "Nada Surf",
+      "title": "Always Love",
+      "services": {
+        "qobuz": "218886494"
+      },
+      "album": "The Weight Is a Gift",
+      "duration": 198,
+      "isrc": "USBS50510433"
+    },
+    {
+      "artist": "Brendan Benson",
+      "title": "Good to Me",
+      "services": {
+        "qobuz": "77217364"
+      },
+      "album": "Lapalco",
+      "duration": 165,
+      "isrc": "US4KM0510005"
+    },
+    {
+      "artist": "Phantom Planet",
+      "title": "California",
+      "services": {
+        "qobuz": "41066"
+      },
+      "album": "The Guest",
+      "duration": 193,
+      "isrc": "USSM10105453"
+    },
+    {
+      "artist": "The Exploding Hearts",
+      "title": "Modern Kicks (2023 Remaster)",
+      "services": {
+        "qobuz": "370483076"
+      },
+      "album": "Guitar Romantic (Expanded & Remastered)",
+      "duration": 198,
+      "isrc": "US3JJ2300908"
+    },
+    {
+      "artist": "The Thrills",
+      "title": "Santa Cruz (You're Not That Far)",
+      "services": {
+        "qobuz": "4668446"
+      },
+      "album": "Santa Cruz (You're Not That Far)",
+      "duration": 216,
+      "isrc": "GBAAA0300526"
+    },
+    {
+      "artist": "OK Go",
+      "title": "Here It Goes Again",
+      "services": {
+        "qobuz": "4655867"
+      },
+      "album": "Oh No",
+      "duration": 179,
+      "isrc": "USCA20500270"
+    },
+    {
+      "artist": "The Click Five",
+      "title": "Just The Girl",
+      "services": {
+        "qobuz": "2869042"
+      },
+      "album": "Just The Girl",
+      "duration": 231,
+      "isrc": "USAT20502837"
+    },
+    {
+      "artist": "We Are Scientists",
+      "title": "Nobody Move, Nobody Get Hurt",
+      "services": {
+        "qobuz": "1946433"
+      },
+      "album": "With Love And Squalor",
+      "duration": 192,
+      "isrc": "USVI20500211"
+    },
+    {
+      "artist": "Yeah Yeah Yeahs",
+      "title": "Spitting Off the Edge of the World",
+      "services": {
+        "qobuz": "177143886"
+      },
+      "album": "Cool It Down",
+      "duration": 257,
+      "isrc": "US38W2247001"
+    },
+    {
+      "artist": "Tinted Windows",
+      "title": "Kind of a Girl",
+      "services": {
+        "qobuz": "391704718"
+      },
+      "album": "Tinted Windows",
+      "duration": 193,
+      "isrc": "USKFE0900101"
+    },
+    {
+      "artist": "The Pains Of Being Pure At Heart",
+      "title": "Come Saturday",
+      "services": {
+        "qobuz": "43492454"
+      },
+      "album": "Come Saturday",
+      "duration": 193,
+      "isrc": "US4TA0900014"
+    },
+    {
+      "artist": "The Vaccines",
+      "title": "If You Wanna",
+      "services": {
+        "qobuz": "93176315"
+      },
+      "album": "What Did You Expect from The Vaccines?",
+      "duration": 174,
+      "isrc": "GBARL1100001"
+    },
+    {
+      "artist": "Alvvays",
+      "title": "Archie, Marry Me",
+      "services": {
+        "qobuz": "16961867"
+      },
+      "album": "Alvvays",
+      "duration": 197,
+      "isrc": "US3R41428202"
+    },
+    {
+      "artist": "The Lemon Twigs",
+      "title": "As Long As We're Together",
+      "services": {
+        "qobuz": "36840381"
+      },
+      "album": "Do Hollywood",
+      "duration": 303,
+      "isrc": "GBAFL1600336"
+    },
+    {
+      "artist": "Charly Bliss",
+      "title": "Percolator",
+      "services": {
+        "qobuz": "57571393"
+      },
+      "album": "Guppy",
+      "duration": 166,
+      "isrc": "USBS51600054"
+    },
+    {
+      "artist": "The Beths",
+      "title": "Future Me Hates Me",
+      "services": {
+        "qobuz": "156379331"
+      },
+      "album": "Future Me Hates Me",
+      "duration": 245,
+      "isrc": "US22N1812802"
+    },
+    {
+      "artist": "White Reaper",
+      "title": "Might Be Right",
+      "services": {
+        "qobuz": "68459895"
+      },
+      "album": "You Deserve Love",
+      "duration": 237,
+      "isrc": "USAT21902764"
+    },
+    {
+      "artist": "Dazy",
+      "title": "Pressure Cooker",
+      "services": {
+        "qobuz": "222679914"
+      },
+      "album": "Pressure Cooker",
+      "duration": 170,
+      "isrc": "QZTUL2208901"
+    },
+    {
+      "artist": "Liquid Mike",
+      "title": "Groucho Marx",
+      "services": {
+        "qobuz": "352579660"
+      },
+      "album": "Hell Is An Airport",
+      "duration": 115,
+      "isrc": "QM6MZ2511784"
+    }
+  ]
+}

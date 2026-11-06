@@ -1,0 +1,1000 @@
+{
+  "name": "Genre: Classic Trance",
+  "services": {
+    "qobuz": "66720828",
+    "tidal": "82cf96d6-173c-47a6-bf43-cdb9872986c7"
+  },
+  "description": "Imported genre playlist: Classic Trance.",
+  "tracks": [
+    {
+      "artist": "The KLF",
+      "title": "America: What Time Is Love?",
+      "services": {
+        "qobuz": "109609316"
+      },
+      "album": "Solid State Logik 1",
+      "duration": 247,
+      "isrc": "GBCEL2000618"
+    },
+    {
+      "artist": "Age of Love",
+      "title": "The Age Of Love",
+      "services": {
+        "qobuz": "173238381"
+      },
+      "album": "The Age Of Love",
+      "duration": 489,
+      "isrc": "BEN582100445"
+    },
+    {
+      "artist": "Dance 2 Trance",
+      "title": "We Came In Peace",
+      "services": {
+        "qobuz": "54877753"
+      },
+      "album": "We Came In Peace",
+      "duration": 364,
+      "isrc": "DEMW61000056"
+    },
+    {
+      "artist": "Gat D\u00e9cor",
+      "title": "Passion",
+      "services": {
+        "qobuz": "63810305"
+      },
+      "album": "Passion",
+      "duration": 262,
+      "isrc": "NLML69200121"
+    },
+    {
+      "artist": "Suburbass",
+      "title": "Barbarella - The Mission",
+      "services": {
+        "qobuz": "271772274"
+      },
+      "album": "Astroboy 12",
+      "duration": 515,
+      "isrc": "FR6V80656467"
+    },
+    {
+      "artist": "Sven V\u00e4th",
+      "title": "L'Esperanza",
+      "services": {
+        "qobuz": "247125571"
+      },
+      "album": "Over Drive: The Return",
+      "duration": 344,
+      "isrc": "ESA061310511"
+    },
+    {
+      "artist": "Cygnus X",
+      "title": "Superstring (Original Mix)",
+      "services": {
+        "qobuz": "55176308"
+      },
+      "album": "Vol I, The Original Club Tracks",
+      "duration": 472,
+      "isrc": "DEBW40500134"
+    },
+    {
+      "artist": "Art Of Trance",
+      "title": "Octopus",
+      "services": {
+        "qobuz": "294439408"
+      },
+      "album": "Octopus",
+      "duration": 459,
+      "isrc": "UKR6V2484668"
+    },
+    {
+      "artist": "Energy 52",
+      "title": "Caf\u00e9 Del Mar",
+      "services": {
+        "qobuz": "99338602"
+      },
+      "album": "Anthems 02: Caf\u00e9 Del Mar",
+      "duration": 441,
+      "isrc": "DEL029360001"
+    },
+    {
+      "artist": "Marmion",
+      "title": "Sch\u00f6neberg",
+      "services": {
+        "qobuz": "204221331"
+      },
+      "album": "Sch\u00f6neberg",
+      "duration": 385,
+      "isrc": "DEL029310006"
+    },
+    {
+      "artist": "Quench",
+      "title": "Dreams",
+      "services": {
+        "qobuz": "350405507"
+      },
+      "album": "Dreams",
+      "duration": 372,
+      "isrc": "DEZ090700035"
+    },
+    {
+      "artist": "Humate",
+      "title": "Love Stimulation",
+      "services": {
+        "qobuz": "107290017"
+      },
+      "album": "Love Stimulation",
+      "duration": 468,
+      "isrc": "GBKQU2019451"
+    },
+    {
+      "artist": "Datura",
+      "title": "Eternity",
+      "services": {
+        "qobuz": "192460237"
+      },
+      "album": "Eternity",
+      "duration": 427,
+      "isrc": "ITC942210359"
+    },
+    {
+      "artist": "Kenji Harris",
+      "title": "The Last Summer Frequency",
+      "services": {
+        "qobuz": "410206201"
+      },
+      "album": "The Last Summer Frequency",
+      "duration": 87,
+      "isrc": "GXJBY2665430"
+    },
+    {
+      "artist": "Paragliders",
+      "title": "Paraglide",
+      "services": {
+        "qobuz": "313589163"
+      },
+      "album": "Paraglide",
+      "duration": 736,
+      "isrc": "DEL029310003"
+    },
+    {
+      "artist": "4Voice",
+      "title": "Eternal Spirit",
+      "services": {
+        "qobuz": "104246535"
+      },
+      "album": "III",
+      "duration": 386,
+      "isrc": "BEN582000785"
+    },
+    {
+      "artist": "Metal Master",
+      "title": "Spectrum",
+      "services": {
+        "qobuz": "173211545"
+      },
+      "album": "Global Underground: Afterhours 9",
+      "duration": 75,
+      "isrc": "GBHFW2200036"
+    },
+    {
+      "artist": "Pete Lazonby",
+      "title": "Sacred Cycles",
+      "services": {
+        "qobuz": "7627262"
+      },
+      "album": "Sacred Cycles",
+      "duration": 628,
+      "isrc": "NLD681300255"
+    },
+    {
+      "artist": "Loic d",
+      "title": "Last Dance",
+      "services": {
+        "qobuz": "369090054"
+      },
+      "album": "Last Dance",
+      "duration": 172,
+      "isrc": "GXJ8K2533438"
+    },
+    {
+      "artist": "L.S.G.",
+      "title": "Netherworld",
+      "services": {
+        "qobuz": "336780932"
+      },
+      "album": "Netherworld",
+      "duration": 664,
+      "isrc": "DEL020510004"
+    },
+    {
+      "artist": "Union Jack",
+      "title": "Two Full Moons And A Trout",
+      "services": {
+        "qobuz": "377993833"
+      },
+      "album": "Full On Fluoro, Vol. 2 (Unmixed)",
+      "duration": 529,
+      "isrc": "GBCFW1300034"
+    },
+    {
+      "artist": "Paul van Dyk",
+      "title": "For an Angel",
+      "services": {
+        "qobuz": "61729530"
+      },
+      "album": "45 RPM",
+      "duration": 381,
+      "isrc": "DEW760900143"
+    },
+    {
+      "artist": "Brainchild",
+      "title": "Symmetry",
+      "services": {
+        "qobuz": "55176139"
+      },
+      "album": "Selected Tracks",
+      "duration": 394,
+      "isrc": "DEBW40500107"
+    },
+    {
+      "artist": "Blank & Jones",
+      "title": "Desire",
+      "services": {
+        "qobuz": "215250514"
+      },
+      "album": "The Best of Relax // 20 Years // 2003 - 2023",
+      "duration": 272,
+      "isrc": "DEGE91100053"
+    },
+    {
+      "artist": "Schwarz & Funk",
+      "title": "Free Floating",
+      "services": {
+        "qobuz": "207404827"
+      },
+      "album": "The Beach House Sessions, Vol. 5",
+      "duration": 304,
+      "isrc": "DEAR42250285"
+    },
+    {
+      "artist": "Crazy P",
+      "title": "Do It Good (Do Un Goodur')",
+      "services": {
+        "qobuz": "113613834"
+      },
+      "album": "The Crazy Penis Collection",
+      "duration": 578,
+      "isrc": "GBEYE0000005"
+    },
+    {
+      "artist": "Odyssee of Noises",
+      "title": "Firedance, The Sunrise",
+      "services": {
+        "qobuz": "55176259"
+      },
+      "album": "Selected Tracks",
+      "duration": 430,
+      "isrc": "DEBW40500095"
+    },
+    {
+      "artist": "Legend B",
+      "title": "Lost in Love",
+      "services": {
+        "qobuz": "116052885"
+      },
+      "album": "Lost in Love",
+      "duration": 209,
+      "isrc": "DEYI62140011"
+    },
+    {
+      "artist": "Hearts Of Space",
+      "title": "With A Medium Into Trance",
+      "services": {
+        "qobuz": "104246468"
+      },
+      "album": "With A Medium Into Trance",
+      "duration": 374,
+      "isrc": "BEN582000740"
+    },
+    {
+      "artist": "Robert Miles",
+      "title": "Children",
+      "services": {
+        "qobuz": "122622785"
+      },
+      "album": "Dreamland",
+      "duration": 426,
+      "isrc": "ITA169600001"
+    },
+    {
+      "artist": "Future Breeze",
+      "title": "Why Don't You Dance With Me",
+      "services": {
+        "qobuz": "60859917"
+      },
+      "album": "Why Don't You Dance with Me",
+      "duration": 227,
+      "isrc": "DEG840902640"
+    },
+    {
+      "artist": "BBE",
+      "title": "Seven Days and One Week",
+      "services": {
+        "qobuz": "5583270"
+      },
+      "album": "Seven Days and One Week",
+      "duration": 271,
+      "isrc": "FR4LO1109330"
+    },
+    {
+      "artist": "RMB",
+      "title": "Spring",
+      "services": {
+        "qobuz": "15996043"
+      },
+      "album": "Spring",
+      "duration": 205,
+      "isrc": "DEZ650512352"
+    },
+    {
+      "artist": "Ayla",
+      "title": "Ayla, Pt. 2",
+      "services": {
+        "qobuz": "10197474"
+      },
+      "album": "Nirwana",
+      "duration": 199,
+      "isrc": "DEBL60867737"
+    },
+    {
+      "artist": "Vincent De Moor",
+      "title": "Flowtation 2002",
+      "services": {
+        "qobuz": "378294897"
+      },
+      "album": "A State Of Trance Classics (Best of 2006-2010)",
+      "duration": 444,
+      "isrc": "NLS240600306"
+    },
+    {
+      "artist": "Sunbeam",
+      "title": "Arms of Heaven",
+      "services": {
+        "qobuz": "231711605"
+      },
+      "album": "Arms of Heaven",
+      "duration": 367,
+      "isrc": "DEN062300631"
+    },
+    {
+      "artist": "Joris Voorn",
+      "title": "Don't Be Afraid (ASOT 1265)",
+      "services": {
+        "qobuz": "394932310"
+      },
+      "album": "ASOT 1265 - A State of Trance Episode 1265",
+      "duration": 94,
+      "isrc": "NLF712601001"
+    },
+    {
+      "artist": "Dj Dado",
+      "title": "X-Files Main Theme (From The Serie \"X-Files\")",
+      "services": {
+        "qobuz": "45748892"
+      },
+      "album": "Film & Tv Music 90, Vol. 6",
+      "duration": 223,
+      "isrc": "USA560729074"
+    },
+    {
+      "artist": "DJ Quicksilver",
+      "title": "Bellissima",
+      "services": {
+        "qobuz": "41531585"
+      },
+      "album": "Quicksilver",
+      "duration": 234,
+      "isrc": "DEL569600094"
+    },
+    {
+      "artist": "Virtualmismo",
+      "title": "Last Train to Universe",
+      "services": {
+        "qobuz": "284422311"
+      },
+      "album": "Last Train to Universe",
+      "duration": 339,
+      "isrc": "IT00G9670541"
+    },
+    {
+      "artist": "Tenth Planet",
+      "title": "Ghosts",
+      "services": {
+        "qobuz": "174995122"
+      },
+      "album": "Ghosts",
+      "duration": 410,
+      "isrc": "USTB12200208"
+    },
+    {
+      "artist": "Da Hool",
+      "title": "Meet Her at the Loveparade",
+      "services": {
+        "qobuz": "187606094"
+      },
+      "album": "Meet Her at the Loveparade",
+      "duration": 213,
+      "isrc": "DEC719700559"
+    },
+    {
+      "artist": "Taucher",
+      "title": "Atlantis",
+      "services": {
+        "qobuz": "377941790"
+      },
+      "album": "Atlantis",
+      "duration": 510,
+      "isrc": "DEPN61100041"
+    },
+    {
+      "artist": "Three Drives On A Vinyl",
+      "title": "Greece 2000",
+      "services": {
+        "qobuz": "378120883"
+      },
+      "album": "Greece 2000",
+      "duration": 234,
+      "isrc": "NLC050700178"
+    },
+    {
+      "artist": "Matt Darey",
+      "title": "Gamemaster",
+      "services": {
+        "qobuz": "378225183"
+      },
+      "album": "Retrospective (25 Years)",
+      "duration": 481,
+      "isrc": "UK9ZT1800011"
+    },
+    {
+      "artist": "Mark Van Dale",
+      "title": "Water Verve",
+      "services": {
+        "qobuz": "377886448"
+      },
+      "album": "50 Trance Tunes, Vol. 7",
+      "duration": 204,
+      "isrc": "NLC050600083"
+    },
+    {
+      "artist": "Dannii Minogue",
+      "title": "We Could Be The One",
+      "services": {
+        "qobuz": "212145004"
+      },
+      "album": "We Could Be The One",
+      "duration": 537,
+      "isrc": "UKW3Z2301404"
+    },
+    {
+      "artist": "Tranquility Base Project",
+      "title": "The Flower Of Life",
+      "services": {
+        "qobuz": "81561792"
+      },
+      "album": "Chill Out Goa Trance 2020 Top 100 Hits DJ Mix",
+      "duration": 692,
+      "isrc": "GBWUL1923415"
+    },
+    {
+      "artist": "Rodd-y-ler",
+      "title": "Lifesigns",
+      "services": {
+        "qobuz": "259570352"
+      },
+      "album": "The Art Work E.P.",
+      "duration": 502,
+      "isrc": "DEN062400250"
+    },
+    {
+      "artist": "Marc Et Claude",
+      "title": "La",
+      "services": {
+        "qobuz": "51718447"
+      },
+      "album": "La",
+      "duration": 365,
+      "isrc": "DEG840902622"
+    },
+    {
+      "artist": "BT",
+      "title": "Flaming June",
+      "services": {
+        "qobuz": "5478646"
+      },
+      "album": "Flaming June",
+      "duration": 433,
+      "isrc": "NLE711137502"
+    },
+    {
+      "artist": "Cm",
+      "title": "Dream Universe",
+      "services": {
+        "qobuz": "104232512"
+      },
+      "album": "Dream Universe",
+      "duration": 294,
+      "isrc": "BEN581100503"
+    },
+    {
+      "artist": "Robert Plant",
+      "title": "Ship of Fools",
+      "services": {
+        "qobuz": "2436492"
+      },
+      "album": "Now and Zen",
+      "duration": 300,
+      "isrc": "USAT20616620"
+    },
+    {
+      "artist": "POB",
+      "title": "The Awakening",
+      "services": {
+        "qobuz": "4595909"
+      },
+      "album": "Magik Three",
+      "duration": 584,
+      "isrc": "NLE711110412"
+    },
+    {
+      "artist": "Binary Finary",
+      "title": "1998",
+      "services": {
+        "qobuz": "377907337"
+      },
+      "album": "1998",
+      "duration": 479,
+      "isrc": "AUKJ30800019"
+    },
+    {
+      "artist": "Push",
+      "title": "Universal Nation",
+      "services": {
+        "qobuz": "243346211"
+      },
+      "album": "Universal Nation",
+      "duration": 452,
+      "isrc": "BE4JP2400001"
+    },
+    {
+      "artist": "Atb",
+      "title": "9 PM (Till I Come)",
+      "services": {
+        "qobuz": "54232484"
+      },
+      "album": "9 PM (Till I Come)",
+      "duration": 199,
+      "isrc": "DEN069900066"
+    },
+    {
+      "artist": "Kay Cee",
+      "title": "Escape",
+      "services": {
+        "qobuz": "47498863"
+      },
+      "album": "Escape",
+      "duration": 411,
+      "isrc": "DEG840902733"
+    },
+    {
+      "artist": "Transa",
+      "title": "Enervate",
+      "services": {
+        "qobuz": "193769094"
+      },
+      "album": "Enervate",
+      "duration": 471,
+      "isrc": "GX4632200003"
+    },
+    {
+      "artist": "Liquid Child",
+      "title": "Diving Faces",
+      "services": {
+        "qobuz": "378305425"
+      },
+      "album": "Trance Legacy III",
+      "duration": 221,
+      "isrc": "DEKB71655943"
+    },
+    {
+      "artist": "Agnelli & Nelson",
+      "title": "El Ni\u00f1o",
+      "services": {
+        "qobuz": "363878615"
+      },
+      "album": "El Ni\u00f1o",
+      "duration": 228,
+      "isrc": "GBBLG9800700"
+    },
+    {
+      "artist": "Niels Van Gogh",
+      "title": "Pulverturm",
+      "services": {
+        "qobuz": "187605917"
+      },
+      "album": "Pulverturm",
+      "duration": 554,
+      "isrc": "DEC719800815"
+    },
+    {
+      "artist": "Johan Gielen",
+      "title": "L'Esperanza",
+      "services": {
+        "qobuz": "247052250"
+      },
+      "album": "L'Esperanza",
+      "duration": 440,
+      "isrc": "NLE710929905"
+    },
+    {
+      "artist": "Blank & Jones",
+      "title": "Chilled Cream",
+      "services": {
+        "qobuz": "215250519"
+      },
+      "album": "The Best of Relax // 20 Years // 2003 - 2023",
+      "duration": 420,
+      "isrc": "DEGE90900002"
+    },
+    {
+      "artist": "Death",
+      "title": "Rock-N-Roll Victim",
+      "services": {
+        "qobuz": "48471072"
+      },
+      "album": "...For the Whole World to See",
+      "duration": 161,
+      "isrc": "US58L0938702"
+    },
+    {
+      "artist": "System f",
+      "title": "Out Of The Blue",
+      "services": {
+        "qobuz": "378187768"
+      },
+      "album": "Out Of The Blue",
+      "duration": 234,
+      "isrc": "NLB770100093"
+    },
+    {
+      "artist": "Rank 1",
+      "title": "Airwave",
+      "services": {
+        "qobuz": "18731634"
+      },
+      "album": "Airwave",
+      "duration": 179,
+      "isrc": "NLE800510001"
+    },
+    {
+      "artist": "Veracocha",
+      "title": "Carte Blanche",
+      "services": {
+        "qobuz": "378309998"
+      },
+      "album": "Carte Blanche",
+      "duration": 205,
+      "isrc": "NLF711102674"
+    },
+    {
+      "artist": "DJ Jean",
+      "title": "The Launch",
+      "services": {
+        "qobuz": "121082291"
+      },
+      "album": "The Launch",
+      "duration": 220,
+      "isrc": "NLB869900001"
+    },
+    {
+      "artist": "York",
+      "title": "The Awakening",
+      "services": {
+        "qobuz": "378310295"
+      },
+      "album": "YORK Mini Mix",
+      "duration": 213,
+      "isrc": "DEPN61100007"
+    },
+    {
+      "artist": "Judith Sosa",
+      "title": "Stress Release - Quiet Wave",
+      "services": {
+        "qobuz": "409630980"
+      },
+      "album": "Health Chapters",
+      "duration": 161,
+      "isrc": "QM6N22650232"
+    },
+    {
+      "artist": "Kamaya Painters",
+      "title": "Endless Wave",
+      "services": {
+        "qobuz": "315497322"
+      },
+      "album": "The Collected Works",
+      "duration": 364,
+      "isrc": "NLE710803304"
+    },
+    {
+      "artist": "Dumonde",
+      "title": "Tomorrow",
+      "services": {
+        "qobuz": "9667098"
+      },
+      "album": "A Decade 1997-2007",
+      "duration": 270,
+      "isrc": "DEBL60678659"
+    },
+    {
+      "artist": "DJ Sakin & Friends",
+      "title": "Protect Your Mind (Braveheart)",
+      "services": {
+        "qobuz": "378209547"
+      },
+      "album": "Protect Your Mind (Braveheart)",
+      "duration": 219,
+      "isrc": "DEPN61100086"
+    },
+    {
+      "artist": "The Quest",
+      "title": "C Sharp",
+      "services": {
+        "qobuz": "122750167"
+      },
+      "album": "C Sharp",
+      "duration": 191,
+      "isrc": "NLD682102230"
+    },
+    {
+      "artist": "William Orbit",
+      "title": "Barber's Adagio for Strings (Ferry Corsten Remix)",
+      "services": {
+        "qobuz": "10478878"
+      },
+      "album": "Pieces In A Modern Style",
+      "duration": 395,
+      "isrc": "GBAHT9903546"
+    },
+    {
+      "artist": "Armin van Buuren",
+      "title": "Communication",
+      "services": {
+        "qobuz": "58824465"
+      },
+      "album": "Communication",
+      "duration": 256,
+      "isrc": "NLF710500557"
+    },
+    {
+      "artist": "Darude",
+      "title": "Sandstorm",
+      "services": {
+        "qobuz": "76532604"
+      },
+      "album": "Sandstorm",
+      "duration": 226,
+      "isrc": "FISGC9900001"
+    },
+    {
+      "artist": "Oasis",
+      "title": "Wonderwall",
+      "services": {
+        "qobuz": "102737238"
+      },
+      "album": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
+      "duration": 258,
+      "isrc": "GBQCP1400149"
+    },
+    {
+      "artist": "Gouryella",
+      "title": "Gouryella",
+      "services": {
+        "qobuz": "378189306"
+      },
+      "album": "Gouryella",
+      "duration": 645,
+      "isrc": "NLB779900006"
+    },
+    {
+      "artist": "Miro",
+      "title": "Paradise",
+      "services": {
+        "qobuz": "320798019"
+      },
+      "album": "Emotions of Sunsets",
+      "duration": 226,
+      "isrc": "DK2X52500301"
+    },
+    {
+      "artist": "Plastic Boy",
+      "title": "Silver Bath",
+      "services": {
+        "qobuz": "7811223"
+      },
+      "album": "World Citizen",
+      "duration": 405,
+      "isrc": "BEY921300225"
+    },
+    {
+      "artist": "Pulser",
+      "title": "My Religion",
+      "services": {
+        "qobuz": "378019457"
+      },
+      "album": "My Religion",
+      "duration": 370,
+      "isrc": "NLF711502973"
+    },
+    {
+      "artist": "Limp Bizkit",
+      "title": "Rollin' (Air Raid Vehicle)",
+      "services": {
+        "qobuz": "115592211"
+      },
+      "album": "2000's Rock Hits",
+      "duration": 213,
+      "isrc": "USIR10001170"
+    },
+    {
+      "artist": "Svenson & Gielen",
+      "title": "We Know What You Did",
+      "services": {
+        "qobuz": "25750546"
+      },
+      "album": "We Know What You Did",
+      "duration": 504,
+      "isrc": "NLE800510085"
+    },
+    {
+      "artist": "Dutch Force",
+      "title": "Deadline",
+      "services": {
+        "qobuz": "15382313"
+      },
+      "album": "Smash Trax - The Collection",
+      "duration": 202,
+      "isrc": "NLE801400120"
+    },
+    {
+      "artist": "The Thrillseekers",
+      "title": "Synaesthesia",
+      "services": {
+        "qobuz": "377909115"
+      },
+      "album": "Synaesthesia",
+      "duration": 241,
+      "isrc": "NLF710903587"
+    },
+    {
+      "artist": "Tukan",
+      "title": "Light a Rainbow",
+      "services": {
+        "qobuz": "26787390"
+      },
+      "album": "Best of Trance Anthems, Vol.1",
+      "duration": 484,
+      "isrc": "DEBL60796834"
+    },
+    {
+      "artist": "Y-Traxx",
+      "title": "Mystery Land",
+      "services": {
+        "qobuz": "203154871"
+      },
+      "album": "Mystery Land",
+      "duration": 452,
+      "isrc": "US7NS1800031"
+    },
+    {
+      "artist": "Solid Sessions",
+      "title": "Janeiro",
+      "services": {
+        "qobuz": "378229261"
+      },
+      "album": "Janeiro",
+      "duration": 379,
+      "isrc": "NLF712111437"
+    },
+    {
+      "artist": "Mara Delphy",
+      "title": "One Night Love Affair",
+      "services": {
+        "qobuz": "267058281"
+      },
+      "album": "One Night Love Affair",
+      "duration": 184,
+      "isrc": "SE69Z2409821"
+    },
+    {
+      "artist": "DJ Jenk",
+      "title": "Resurrection",
+      "services": {
+        "qobuz": "354718203"
+      },
+      "album": "Resurrection (feat. PPK)",
+      "duration": 373,
+      "isrc": "QZZ7N2562701"
+    },
+    {
+      "artist": "Ti\u00ebsto",
+      "title": "Suburban Train",
+      "services": {
+        "qobuz": "315497306"
+      },
+      "album": "In My Memory",
+      "duration": 622,
+      "isrc": "NOX9X3702009"
+    },
+    {
+      "artist": "Signum",
+      "title": "What Ya Got 4 Me",
+      "services": {
+        "qobuz": "377989965"
+      },
+      "album": "10 Years Armada",
+      "duration": 189,
+      "isrc": "NLF711311437"
+    },
+    {
+      "artist": "Ralph Fridge",
+      "title": "Angel",
+      "services": {
+        "qobuz": "110173909"
+      },
+      "album": "Angel",
+      "duration": 465,
+      "isrc": "DEG120000943"
+    },
+    {
+      "artist": "Cosmic Gate",
+      "title": "Exploration of Space",
+      "services": {
+        "qobuz": "123129979"
+      },
+      "album": "Exploration of Space",
+      "duration": 216,
+      "isrc": "NLD681702431"
+    },
+    {
+      "artist": "Moogwai",
+      "title": "Viola",
+      "services": {
+        "qobuz": "55589522"
+      },
+      "album": "Viola",
+      "duration": 271,
+      "isrc": "NLD681804086"
+    },
+    {
+      "artist": "Ferry Corsten",
+      "title": "Punk",
+      "services": {
+        "qobuz": "378194334"
+      },
+      "album": "Right Of Way",
+      "duration": 458,
+      "isrc": "NLB770200007"
+    },
+    {
+      "artist": "Arksun",
+      "title": "Arisen [Mix Cut]",
+      "services": {
+        "qobuz": "377933417"
+      },
+      "album": "A State Of Trance 2006 (Mixed by Armin van Buuren)",
+      "duration": 501,
+      "isrc": "NLF711101698"
+    }
+  ]
+}

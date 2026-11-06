@@ -1,0 +1,680 @@
+{
+  "name": "Genre: Minimal Techno",
+  "services": {
+    "qobuz": "66719612",
+    "tidal": "56197662-ea7b-4152-a51e-1a4aaf95f192"
+  },
+  "description": "Imported genre playlist: Minimal Techno.",
+  "tracks": [
+    {
+      "artist": "Plastikman",
+      "title": "Spastik",
+      "services": {
+        "qobuz": "92713869"
+      },
+      "album": "Recycled Plastik",
+      "duration": 555,
+      "isrc": "CAM261800030"
+    },
+    {
+      "artist": "Different Minds",
+      "title": "Hold On (Band Studio Version)",
+      "services": {
+        "qobuz": "422055046"
+      },
+      "album": "Different Minds (2026)",
+      "duration": 204,
+      "isrc": "USHM82660874"
+    },
+    {
+      "artist": "DBX",
+      "title": "Losing Control",
+      "services": {
+        "qobuz": "104693820"
+      },
+      "album": "Mixmag Presents Laurent Garnier: Mixmag Live Vol. 19",
+      "duration": 96,
+      "isrc": "QMFME2003846"
+    },
+    {
+      "artist": "Studio X",
+      "title": "Green Hill (Final 80)",
+      "services": {
+        "qobuz": "407956778"
+      },
+      "album": "Fading Hills (OST Volume 1)",
+      "duration": 80,
+      "isrc": "QT2VB2696652"
+    },
+    {
+      "artist": "Adam Beyer",
+      "title": "Your Mind",
+      "services": {
+        "qobuz": "221622058"
+      },
+      "album": "Your Mind",
+      "duration": 502,
+      "isrc": "GBUR61700227"
+    },
+    {
+      "artist": "Cari Lekebusch",
+      "title": "Shaded",
+      "services": {
+        "qobuz": "33303105"
+      },
+      "album": "Shaded EP",
+      "duration": 365,
+      "isrc": "CAT390700239"
+    },
+    {
+      "artist": "Radiohead",
+      "title": "Remyxomatosis",
+      "services": {
+        "qobuz": "34202906"
+      },
+      "album": "Com Lag: 2+2=5",
+      "duration": 309,
+      "isrc": "GBAYE0302494"
+    },
+    {
+      "artist": "Thomas Schumacher",
+      "title": "When I Rock",
+      "services": {
+        "qobuz": "56994531"
+      },
+      "album": "When I Rock",
+      "duration": 425,
+      "isrc": "NLCK41047945"
+    },
+    {
+      "artist": "Jeff Mills",
+      "title": "Destination Bright Star",
+      "services": {
+        "qobuz": "416010252"
+      },
+      "album": "The Trip To Vega",
+      "duration": 328,
+      "isrc": "USAX10001358"
+    },
+    {
+      "artist": "Thomas Brinkmann",
+      "title": "QUILA 1",
+      "services": {
+        "qobuz": "235115033"
+      },
+      "album": "THOMAS BRINKMANN - MAX ERNST 25 ANNIVERSARY",
+      "duration": 262,
+      "isrc": "GBGXG2300811"
+    },
+    {
+      "artist": "Los Internacionales Tex Mex De Paco Pineda",
+      "title": "Viva Qui\u00e9n Sabe Querer",
+      "services": {
+        "qobuz": "430363126"
+      },
+      "album": "Por El Mismo Camino",
+      "duration": 231,
+      "isrc": "USHM22679576"
+    },
+    {
+      "artist": "Masters Of Reality",
+      "title": "It All Comes Back To You",
+      "services": {
+        "qobuz": "312710147"
+      },
+      "album": "The Archer",
+      "duration": 250,
+      "isrc": "NLB932408008"
+    },
+    {
+      "artist": "Midland",
+      "title": "Mixmag presents Midland",
+      "services": {
+        "qobuz": "68290218"
+      },
+      "album": "Mixmag Presents Midland",
+      "duration": 3875,
+      "isrc": "QM6P41982854"
+    },
+    {
+      "artist": "Isol\u00e9e",
+      "title": "Beau Mot Plage",
+      "services": {
+        "qobuz": "309285685"
+      },
+      "album": "Beau Mot Plage",
+      "duration": 233,
+      "isrc": "GBCPZ1004572"
+    },
+    {
+      "artist": "Ellen Allien",
+      "title": "Stadtkind",
+      "services": {
+        "qobuz": "49080830"
+      },
+      "album": "Stadtkind",
+      "duration": 313,
+      "isrc": "DEAE60100088"
+    },
+    {
+      "artist": "Swayzak",
+      "title": "Speedboat",
+      "services": {
+        "qobuz": "209956490"
+      },
+      "album": "Snowboarding in Argentina",
+      "duration": 568,
+      "isrc": "DEG932301914"
+    },
+    {
+      "artist": "Akufen",
+      "title": "Skidoos",
+      "services": {
+        "qobuz": "50320580"
+      },
+      "album": "Click Shower",
+      "duration": 539,
+      "isrc": "QM4TX1821280"
+    },
+    {
+      "artist": "Slime",
+      "title": "Gewinnen werden immer wir",
+      "services": {
+        "qobuz": "55055748"
+      },
+      "album": "Yankees raus",
+      "duration": 190,
+      "isrc": "DED020800138"
+    },
+    {
+      "artist": "Reinhard Voigt",
+      "title": "Robson Ponte (J\u00fcrgen Paape RP7 Remix)",
+      "services": {
+        "qobuz": "327619881"
+      },
+      "album": "Robson Ponte Remixe 2025",
+      "duration": 294,
+      "isrc": "DEU672500266"
+    },
+    {
+      "artist": "Gregor Schwellenbach",
+      "title": "Superpitcher's Happiness",
+      "services": {
+        "qobuz": "159746828"
+      },
+      "album": "Superpitcher's Happiness",
+      "duration": 338,
+      "isrc": "DEU672200763"
+    },
+    {
+      "artist": "Oliver Huntemann",
+      "title": "Rotlicht",
+      "services": {
+        "qobuz": "337320784"
+      },
+      "album": "Propaganda",
+      "duration": 471,
+      "isrc": "DEL021702017"
+    },
+    {
+      "artist": "Ricardo Villalobos",
+      "title": "Easy Lee",
+      "services": {
+        "qobuz": "360665731"
+      },
+      "album": "Easy Lee",
+      "duration": 445,
+      "isrc": "GBEWY2100264"
+    },
+    {
+      "artist": "Martin Jarl",
+      "title": "The Orange Mistake",
+      "services": {
+        "qobuz": "329081423"
+      },
+      "album": "The Orange Mistake Ep",
+      "duration": 364,
+      "isrc": "QZHN92530989"
+    },
+    {
+      "artist": "Paul Kalkbrenner",
+      "title": "Aaron",
+      "services": {
+        "qobuz": "243079348"
+      },
+      "album": "Berlin Calling (The Soundtrack by Paul Kalkbrenner)",
+      "duration": 353,
+      "isrc": "DENZ71300059"
+    },
+    {
+      "artist": "John Tejada",
+      "title": "Sweat (On the Walls)",
+      "services": {
+        "qobuz": "158463416"
+      },
+      "album": "Sweat (On The Walls)",
+      "duration": 349,
+      "isrc": "DEL020420076"
+    },
+    {
+      "artist": "Mathew Jonson",
+      "title": "Marionette",
+      "services": {
+        "qobuz": "160152808"
+      },
+      "album": "Marionette",
+      "duration": 345,
+      "isrc": "FR00Y2200020"
+    },
+    {
+      "artist": "Sleeparchive",
+      "title": "Elephant Island",
+      "services": {
+        "qobuz": "49039752"
+      },
+      "album": "Elephant Island",
+      "duration": 392,
+      "isrc": "DEOO20490101"
+    },
+    {
+      "artist": "Pantha Du Prince",
+      "title": "Asha",
+      "services": {
+        "qobuz": "255461529"
+      },
+      "album": "This Bliss",
+      "duration": 391,
+      "isrc": "DEUE22448927"
+    },
+    {
+      "artist": "The Mfa",
+      "title": "The Difference It Makes",
+      "services": {
+        "qobuz": "3120708"
+      },
+      "album": "The Difference It Makes",
+      "duration": 427,
+      "isrc": "GBUZD0800301"
+    },
+    {
+      "artist": "Extrawelt",
+      "title": "Soopertrack",
+      "services": {
+        "qobuz": "3120713"
+      },
+      "album": "Soopertrack",
+      "duration": 479,
+      "isrc": "GBUZD0800801"
+    },
+    {
+      "artist": "Fairmont",
+      "title": "Gazebo",
+      "services": {
+        "qobuz": "58319635"
+      },
+      "album": "Gazebo Remixes",
+      "duration": 389,
+      "isrc": "FR00Y1900010"
+    },
+    {
+      "artist": "Eric Prydz",
+      "title": "Teaser",
+      "services": {
+        "qobuz": "26956123"
+      },
+      "album": "Swedish House Classics",
+      "duration": 448,
+      "isrc": "DELM40500158"
+    },
+    {
+      "artist": "Tomas Andersson",
+      "title": "Washing Up",
+      "services": {
+        "qobuz": "49106148"
+      },
+      "album": "Camping, Vol. 2",
+      "duration": 219,
+      "isrc": "DEAE60500473"
+    },
+    {
+      "artist": "Booka Shade",
+      "title": "Mandarine Girl",
+      "services": {
+        "qobuz": "378010112"
+      },
+      "album": "Deeper Sessions",
+      "duration": 342,
+      "isrc": "DEBE70500127"
+    },
+    {
+      "artist": "Magda",
+      "title": "48 Hour Crack In Your Bass",
+      "services": {
+        "qobuz": "81272802"
+      },
+      "album": "Stop",
+      "duration": 443,
+      "isrc": "CAM260550065"
+    },
+    {
+      "artist": "The Field",
+      "title": "Over The Ice",
+      "services": {
+        "qobuz": "141538038"
+      },
+      "album": "From Here We Go Sublime",
+      "duration": 416,
+      "isrc": "DEU670600071"
+    },
+    {
+      "artist": "Matthew Dear",
+      "title": "Mouth to Mouth",
+      "services": {
+        "qobuz": "99324647"
+      },
+      "album": "Audion X",
+      "duration": 774,
+      "isrc": "US2J70613901"
+    },
+    {
+      "artist": "Gaiser",
+      "title": "Neural Block",
+      "services": {
+        "qobuz": "81383057"
+      },
+      "album": "Neural Block",
+      "duration": 392,
+      "isrc": "CAM260650065"
+    },
+    {
+      "artist": "Troy Pierce",
+      "title": "25 Bitches",
+      "services": {
+        "qobuz": "71877724"
+      },
+      "album": "25 Bitches, Vol. II",
+      "duration": 344,
+      "isrc": "CAM260650014"
+    },
+    {
+      "artist": "Berg Nixon",
+      "title": "Box Escape",
+      "services": {
+        "qobuz": "88853669"
+      },
+      "album": "Box Escape",
+      "duration": 342,
+      "isrc": "CAM260650001"
+    },
+    {
+      "artist": "Oxia",
+      "title": "Second Change",
+      "services": {
+        "qobuz": "58571462"
+      },
+      "album": "Second Mood EP",
+      "duration": 375,
+      "isrc": "FR9W11901470"
+    },
+    {
+      "artist": "Agoria",
+      "title": "Code 1026",
+      "services": {
+        "qobuz": "3418400"
+      },
+      "album": "The Green Armchair",
+      "duration": 350,
+      "isrc": "BEP010600060"
+    },
+    {
+      "artist": "Petter",
+      "title": "Some Polyphony",
+      "services": {
+        "qobuz": "3152425"
+      },
+      "album": "Some Polyphony",
+      "duration": 478,
+      "isrc": "GBUZD0801201"
+    },
+    {
+      "artist": "Carlos Salas",
+      "title": "S.O.S.",
+      "services": {
+        "qobuz": "270457560"
+      },
+      "album": "S.O.S.",
+      "duration": 430,
+      "isrc": "UKU932424797"
+    },
+    {
+      "artist": "Magic System",
+      "title": "Ambiance \u00e0 l'africaine",
+      "services": {
+        "qobuz": "52731989"
+      },
+      "album": "Magic In The Air: la compilation",
+      "duration": 183,
+      "isrc": "FRZ111002478"
+    },
+    {
+      "artist": "Loco Dice",
+      "title": "Seeing Through Shadows",
+      "services": {
+        "qobuz": "81715316"
+      },
+      "album": "Seeing Through Shadows",
+      "duration": 461,
+      "isrc": "CAM260650031"
+    },
+    {
+      "artist": "Marc Houle",
+      "title": "Techno Vocals",
+      "services": {
+        "qobuz": "91717913"
+      },
+      "album": "Techno Vocals",
+      "duration": 339,
+      "isrc": "CAM260750124"
+    },
+    {
+      "artist": "Heartthrob",
+      "title": "Baby Kate",
+      "services": {
+        "qobuz": "89549950"
+      },
+      "album": "Baby Kate",
+      "duration": 407,
+      "isrc": "CAM260750009"
+    },
+    {
+      "artist": "Trentem\u00f8ller",
+      "title": "Moan",
+      "services": {
+        "qobuz": "85483124"
+      },
+      "album": "The Last Resort",
+      "duration": 351,
+      "isrc": "DEL020620038"
+    },
+    {
+      "artist": "Sailor & I",
+      "title": "Tough Love",
+      "services": {
+        "qobuz": "208357793"
+      },
+      "album": "Tough Love",
+      "duration": 439,
+      "isrc": "GBMKA1386225"
+    },
+    {
+      "artist": "Gui Boratto",
+      "title": "No Turning Back",
+      "services": {
+        "qobuz": "18090441"
+      },
+      "album": "Take My Breath Away",
+      "duration": 462,
+      "isrc": "DEU670800169"
+    },
+    {
+      "artist": "Stephan Bodzin",
+      "title": "Liebe Ist...",
+      "services": {
+        "qobuz": "121278921"
+      },
+      "album": "Liebe Ist...",
+      "duration": 432,
+      "isrc": "DET750700014"
+    },
+    {
+      "artist": "Black Uhuru",
+      "title": "Plastic Smile",
+      "services": {
+        "qobuz": "173072085"
+      },
+      "album": "Taxi Trax",
+      "duration": 195,
+      "isrc": "FR5U11802913"
+    },
+    {
+      "artist": "Bananas In Pyjamas",
+      "title": "Yodellay-Hee-Hoo!",
+      "services": {
+        "qobuz": "129970451"
+      },
+      "album": "Bumping and A-Jumping",
+      "duration": 122,
+      "isrc": "AUAB09700197"
+    },
+    {
+      "artist": "Barem",
+      "title": "Is",
+      "services": {
+        "qobuz": "84371768"
+      },
+      "album": "After the Storm",
+      "duration": 427,
+      "isrc": "CAM261150229"
+    },
+    {
+      "artist": "Black Daniels and the Bears",
+      "title": "She Don't Mind",
+      "services": {
+        "qobuz": "67974438"
+      },
+      "album": "Copasetic",
+      "duration": 235,
+      "isrc": "USHM91410964"
+    },
+    {
+      "artist": "Minilogue",
+      "title": "Animals",
+      "services": {
+        "qobuz": "1523375"
+      },
+      "album": "Amnesia Ibiza Underground 9",
+      "duration": 676,
+      "isrc": "FR6V80967843"
+    },
+    {
+      "artist": "Sascha Funke",
+      "title": "Mango",
+      "services": {
+        "qobuz": "49066139"
+      },
+      "album": "Mango",
+      "duration": 420,
+      "isrc": "DEAE60800703"
+    },
+    {
+      "artist": "Click Box",
+      "title": "Berlin Shades",
+      "services": {
+        "qobuz": "82661313"
+      },
+      "album": "Shades",
+      "duration": 384,
+      "isrc": "CAM260950008"
+    },
+    {
+      "artist": "Louderbach",
+      "title": "Shine",
+      "services": {
+        "qobuz": "91892772"
+      },
+      "album": "Shine",
+      "duration": 229,
+      "isrc": "CAM260950034"
+    },
+    {
+      "artist": "Ambivalent",
+      "title": "Rumors",
+      "services": {
+        "qobuz": "81709632"
+      },
+      "album": "Rumors",
+      "duration": 318,
+      "isrc": "CAM261050008"
+    },
+    {
+      "artist": "Marco Carola",
+      "title": "Groove Catcher",
+      "services": {
+        "qobuz": "91147200"
+      },
+      "album": "Groove Catcher",
+      "duration": 461,
+      "isrc": "CAM261150020"
+    },
+    {
+      "artist": "Matador",
+      "title": "Kingswing",
+      "services": {
+        "qobuz": "81272838"
+      },
+      "album": "Kingswing",
+      "duration": 415,
+      "isrc": "CAM261150362"
+    },
+    {
+      "artist": "Martin Buttrich",
+      "title": "BCN Motion",
+      "services": {
+        "qobuz": "81390316"
+      },
+      "album": "Apart from Us",
+      "duration": 340,
+      "isrc": "CAM261350488"
+    },
+    {
+      "artist": "Whyt Noyz",
+      "title": "Heart Strings",
+      "services": {
+        "qobuz": "81210707"
+      },
+      "album": "Heart Strings",
+      "duration": 431,
+      "isrc": "CAM261500018"
+    },
+    {
+      "artist": "Joran van Pol",
+      "title": "Edge",
+      "services": {
+        "qobuz": "81210742"
+      },
+      "album": "Edge",
+      "duration": 431,
+      "isrc": "CAM261700005"
+    },
+    {
+      "artist": "Dj Minx",
+      "title": "A Walk in the Park",
+      "services": {
+        "qobuz": "88853505"
+      },
+      "album": "A Walk in the Park",
+      "duration": 325,
+      "isrc": "CAM260450009"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Rush",
+  "services": {
+    "qobuz": "67132330"
+  },
+  "tracks": [
+    {
+      "artist": "Rush",
+      "title": "Roll the Bones",
+      "services": {
+        "qobuz": "10473955"
+      },
+      "album": "Roll the Bones",
+      "duration": 330,
+      "isrc": "USAT21300581"
+    },
+    {
+      "artist": "Rush",
+      "title": "Neurotica",
+      "services": {
+        "qobuz": "10473961"
+      },
+      "album": "Roll the Bones",
+      "duration": 280,
+      "isrc": "USAT21300587"
+    },
+    {
+      "artist": "Rush",
+      "title": "BU2B",
+      "services": {
+        "qobuz": "35993983"
+      },
+      "album": "Clockwork Angels",
+      "duration": 311,
+      "isrc": "NLA321292217"
+    }
+  ]
+}

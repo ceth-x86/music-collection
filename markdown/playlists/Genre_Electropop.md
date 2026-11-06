@@ -1,0 +1,108 @@
+# Genre: Electropop
+
+Imported genre playlist: Electropop.
+
+Services: `qobuz:66736352` `tidal:2de1a019-5bd4-47c5-9dba-9d0809d4e299`
+
+## Tracks (100)
+
+- **The Buggles** — Video Killed The Radio Star [The Age Of Plastic] (4:13) `isrc:GBAAN7900013` `qobuz:68676893`
+- **Gary Numan** — Cars [The Pleasure Principle] (3:57) `isrc:GBAZP1500019` `qobuz:27967530`
+- **M / Robin Scott** — Pop Muzik [Pop Muzik] (4:56) `isrc:GBGHQ7900001` `qobuz:385964139`
+- **Orchestral Manoeuvres in the dark (OMD)** — Enola Gay [The OMD Singles] (3:32) `isrc:GBAAA8000002` `qobuz:1050075`
+- **Visage** — Fade To Grey [Fade To Grey:  The Best Of Visage] (4:03) `isrc:USPR38080067` `qobuz:3884557`
+- **Human League** — Don't You Want Me [The Very Best Of The Human League] (3:57) `isrc:GBAAA0200924` `qobuz:4914664`
+- **Soft Cell** — Tainted Love [Tainted Love / Where Did Our Love Go] (2:36) `isrc:GBF088100001` `qobuz:711401`
+- **Yazoo** — Only You [Only You] (3:12) `isrc:GBAJH0800092` `qobuz:385657342`
+- **Thomas Dolby** — She Blinded Me With Science [Blinded With Science] (3:41) `isrc:GBAYE8200083` `qobuz:385582032`
+- **Heaven 17** — Temptation [The Luxury Gap] (3:33) `isrc:GBAAA0600345` `qobuz:48976059`
+- **Eurythmics** — Sweet Dreams (Are Made of This) [Sweet Dreams (Are Made Of This)] (3:36) `isrc:GBARL0300589` `qobuz:240368`
+- **Bronski Beat** — Smalltown Boy [The Age of Consent] (5:02) `isrc:GBAAP0200005` `qobuz:46123705`
+- **Alphaville** — Forever Young (2019 Remaster) [Forever Young (Super Deluxe Edition) [2019 Remaster]] (3:46) `isrc:DEA621800676` `qobuz:57635342`
+- **Pet Shop Boys** — West End Girls [Discography - Complete Singles Collection] (4:00) `isrc:GBAYE8500031` `qobuz:797819`
+- **A-Ha** — Take on Me (2015 Remaster) [Hunting High and Low] (3:48) `isrc:USWB11506571` `qobuz:26997279`
+- **New Order** — Bizarre Love Triangle [Brotherhood] (4:22) `isrc:GBAAP1500209` `qobuz:35951256`
+- **Erasure** — A Little Respect [The Innocents] (3:33) `isrc:GB5KW1701047` `qobuz:387306742`
+- **When In Rome** — The Promise [When In Rome] (3:40) `isrc:GBAAA8800494` `qobuz:1947989`
+- **Information Society** — What's On Your Mind [Pure Energy] [Pure Energy Radio Edit] [What's On Your Mind [Pure Energy] [Pure Energy Radio Edit] / What's On Your Mind [Pure Energy] [Club Radio Edit] [Digital 45]] (3:36) `isrc:USRH10904234` `qobuz:2859248`
+- **Camouflage** — The Great Commandment [Voices & Images] (4:16) `isrc:DEF088802040` `qobuz:2474168`
+- **Electronic** — Getting Away with It (2013 Remaster) [Electronic] (5:14) `isrc:GBCBN1200005` `qobuz:7702646`
+- **Anything Box** — Living In Oblivion [Peace] (5:06) `isrc:USSM10026764` `qobuz:56611893`
+- **Cause & Effect** — You Think You Know Her [Another Minute] (4:43) `isrc:USVR10400777` `qobuz:5017904`
+- **Depeche Mode** — Enjoy the Silence [The Singles 86-98] (4:16) `isrc:GBAJH9800146` `qobuz:1762148`
+- **Madonna** — Ray of Light [Ray Of Light] (5:22) `isrc:USWB19701738` `qobuz:2126942`
+- **Fischerspooner** — Emerge [#1] (4:48) `isrc:USFS20200002` `qobuz:1011683`
+- **Kylie Minogue** — Can't Get You out of My Head [Can't Get You out of My Head] (3:51) `isrc:GBAYE0100913` `qobuz:4405608`
+- **Röyksopp** — Remind Me [Melody A.M.] (3:39) `isrc:GBW231500022` `qobuz:27854638`
+- **Frou Frou** — Let Go [Details] (4:12) `isrc:GBAAN0200016` `qobuz:2467973`
+- **Junior Senior** — Move Your Feet [D-D-Don't Don't Stop The Beat] (3:01) `isrc:DKMFA0300203` `qobuz:80077349`
+- **Ladytron** — Seventeen [Light & Magic] (4:37) `isrc:CAN111000309` `qobuz:154193585`
+- **The Knife** — Heartbeats [Deep Cuts] (3:51) `isrc:SEWCE0400201` `qobuz:168786685`
+- **Goldfrapp** — Ooh La La [Supernature] (3:24) `isrc:GBAJH0500954` `qobuz:388789537`
+- **The Postal Service** — Such Great Heights [Give Up] (4:26) `isrc:USSUB1304502` `qobuz:407823680`
+- **Gwen Stefani** — What You Waiting For? [What You Waiting For?] (3:42) `isrc:USIR10400692` `qobuz:4313707`
+- **ANNIE** — Chewing Gum [Anniemal] (3:55) `isrc:GBFFS0400073` `qobuz:3566783`
+- **Cut Copy** — Saturdays [Bright Like Neon Love] (3:37) `isrc:AUMP00400060` `qobuz:13164325`
+- **The Presets** — Are You The One? [Beams] (3:24) `isrc:AUMP00500102` `qobuz:50358039`
+- **Justin Timberlake** — SexyBack [FutureSex/LoveSounds] (4:02) `isrc:USJI10600269` `qobuz:384015`
+- **Nelly Furtado** — Maneater [Loose] (4:18) `isrc:USUM70601449` `qobuz:737095`
+- **Shiny Toy Guns** — Le Disko [We Are Pilots] (3:23) `isrc:USUM70606691` `qobuz:148404218`
+- **Hellogoodbye** — Here (In Your Arms) [Zombies! Aliens! Vampires! Dinosaurs! And More!] (4:00) `isrc:USDTR0600111` `qobuz:134273122`
+- **Hot Chip** — Over And Over [The Warning] (5:47) `isrc:GBAYE0501516` `qobuz:41822843`
+- **Dragonette** — Take It Like A Man [Galore] (3:02) `isrc:GBUM70607314` `qobuz:8882920`
+- **New Young Pony Club** — Ice Cream [Ice Cream] (3:10) `isrc:AUUM70700142` `qobuz:4924026`
+- **Lady Gaga** — Poker Face [The Fame] (3:57) `isrc:USUM70824409` `qobuz:38181961`
+- **Empire Of The Sun** — Walking On A Dream [Walking On A Dream] (3:18) `isrc:AUEI10800039` `qobuz:1746721`
+- **Friendly Fires** — Jump in the Pool [Friendly Fires] (3:37) `isrc:GBBKS0800398` `qobuz:2532295`
+- **Ladyhawke** — My Delirium [Ladyhawke] (4:14) `isrc:GBUM70808705` `qobuz:28219364`
+- **La Roux** — Bulletproof [La Roux] (3:25) `isrc:GBUM70903779` `qobuz:746748`
+- **Owl City** — Fireflies [Ocean Eyes] (3:48) `isrc:USUM70972068` `qobuz:750119`
+- **Little Boots** — Remedy [Hands] (3:18) `isrc:GBFFS0900006` `qobuz:2698395`
+- **Miike Snow** — Animal [Miike Snow] (4:24) `isrc:GBARL0900399` `qobuz:320260273`
+- **Passion Pit** — Sleepyhead [Manners] (2:54) `isrc:USSM10901014` `qobuz:1975463`
+- **Robyn** — Dancing On My Own [Body Talk Pt. 1] (4:48) `isrc:SEWKZ1000003` `qobuz:2193199`
+- **Hurts** — Wonderful Life [Happiness] (4:14) `isrc:GBARL0901539` `qobuz:2344657`
+- **Ellie Goulding** — Lights [Bright Lights] (3:30) `isrc:GBUM71028043` `qobuz:2859821`
+- **The Naked And Famous** — Young Blood [Passive Me, Aggressive You] (4:06) `isrc:NZNK11000001` `qobuz:388668376`
+- **Crystal Castles** — Not In Love [(II)] (3:46) `isrc:GBUM71029513` `qobuz:195932080`
+- **M83** — Midnight City [Hurry up, We're Dreaming] (4:03) `isrc:GB55H1100002` `qobuz:54054284`
+- **Metronomy** — The Look [The English Riviera] (4:37) `isrc:GBMVH1100040` `qobuz:3443215`
+- **Little Dragon** — Ritual Union [Ritual Union] (3:30) `isrc:GBEWK1100037` `qobuz:397433533`
+- **Tegan And Sara** — Closer [Heartthrob] (3:30) `isrc:USWB11202179` `qobuz:7568681`
+- **Icona Pop** — I Love It (feat. Charli XCX) [I Love It (feat. Charli XCX)] (2:35) `isrc:USAT21202802` `qobuz:6392519`
+- **Ultimate Tribute Stars** — Marina and the Diamonds - Primadonna (Vocal Melody Version) [Marina and the Diamonds - Primadonna (Vocal Melody Version)] (3:38) `isrc:USA561233927` `qobuz:70210296`
+- **Grimes** — Oblivion [Visions] (4:11) `isrc:CA21O1200003` `qobuz:5177861`
+- **Purity Ring** — fineshrine [shrines] (3:29) `isrc:GBAFL1200171` `qobuz:6035343`
+- **Sky Ferreira** — Everything Is Embarrassing [Night Time, My Time] (4:09) `isrc:USCA21202535` `qobuz:15096778`
+- **CHVRCHES** — The Mother We Share [The Bones Of What You Believe] (3:11) `isrc:GBZN82300001` `qobuz:232776853`
+- **Capital Cities** — Safe and Sound [In A Tidal Wave of Mystery (Deluxe Edition)] (3:12) `isrc:TCABD1246970` `qobuz:287032844`
+- **LIGHTS** — Up We Go [Midnight Machines] (5:40) `isrc:USWB11600175` `qobuz:30337725`
+- **Tove Lo** — Habits (Stay High) [Queen Of The Clouds] (3:29) `isrc:SE3NM1300101` `qobuz:19635973`
+- **Foxes** — Youth [Glorious (Deluxe)] (4:19) `isrc:GBARL1301246` `qobuz:16514951`
+- **Betty Who** — Somebody Loves You [Take Me When You Go] (3:30) `isrc:USRC11301499` `qobuz:19447627`
+- **Mø** — Kamikaze [Kamikaze] (3:32) `isrc:GBARL1501371` `qobuz:27356157`
+- **Allie X** — Catch [Collxtion I] (3:45) `isrc:CA8OU1500004` `qobuz:168763730`
+- **Carly Rae Jepsen** — Run Away With Me [Emotion] (4:11) `isrc:USUM71507009` `qobuz:32351658`
+- **Olly Alexander (Years & Years)** — King [Night Call] (3:35) `isrc:GBUM71406892` `qobuz:141138807`
+- **Halsey** — New Americana [BADLANDS (version Deluxe)] (3:04) `isrc:USUM71507637` `qobuz:25590955`
+- **Sigrid** — Strangers [Sucker Punch] (3:52) `isrc:GBUM71705774` `qobuz:59670706`
+- **Kim Petras** — I Don't Want It At All [I Don't Want It At All] (4:10) `isrc:GBWWP1703065` `qobuz:127838756`
+- **Troye Sivan** — My My My! [Bloom] (3:24) `isrc:AUUM71701255` `qobuz:51587712`
+- **Ava Max** — Sweet but Psycho [Sweet but Psycho] (3:07) `isrc:USAT21802011` `qobuz:52420490`
+- **Billie Eilish** — bad guy [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?] (3:14) `isrc:USUM71900764` `qobuz:77469835`
+- **Fletcher** — Undrunk [you ruined new york city for me] (3:03) `isrc:USUG11900006` `qobuz:67344929`
+- **The Weeknd** — Save Your Tears [After Hours (Explicit)] (3:35) `isrc:USUG12000658` `qobuz:90957993`
+- **Georgia** — 24 Hours [Seeking Thrills] (3:05) `isrc:GBCEL1900421` `qobuz:108005226`
+- **Elio** — My Friends Online [My Friends Online] (2:44) `isrc:QMEZE1949195` `qobuz:96099592`
+- **Katy Perry** — Daisies [Smile] (2:54) `isrc:USUM72007214` `qobuz:100238019`
+- **Miley Cyrus** — Midnight Sky [Plastic Hearts (Explicit)] (3:43) `isrc:USRC12002653` `qobuz:104171468`
+- **Sylvan Esso** — Frequency [Free Love] (2:50) `isrc:USC4R2003473` `qobuz:96816372`
+- **Porter Robinson** — Look at the Sky [Nurture] (5:09) `isrc:USQE92000004` `qobuz:120283358`
+- **Griff** — Black Hole [One Foot In Front Of The Other] (3:20) `isrc:GBAHT2001109` `qobuz:117725920`
+- **Magdalena Bay** — You Lose! [Mercurial World] (3:24) `isrc:QM6N22162296` `qobuz:122855197`
+- **Shallou** — Here [The Long Way Home] (2:54) `isrc:US4HB2200422` `qobuz:416181829`
+- **Tones and I** — Won't Sleep [Welcome To The Madhouse] (3:17) `isrc:USAT22101918` `qobuz:125734025`
+- **Taylor Swift** — Anti-Hero [Midnights] (3:20) `isrc:USUG12205736` `qobuz:181280578`
+- **Harry Styles** — As It Was [Harry's House] (2:47) `isrc:USSM12200612` `qobuz:158347033`
+- **Glasser** — All Lovers [crux] (4:24) `isrc:GBBTF2200273` `qobuz:209458779`
+- **Kesha** — JOYRIDE. [JOYRIDE.] (2:30) `isrc:QZNWP2451049` `qobuz:290911050`

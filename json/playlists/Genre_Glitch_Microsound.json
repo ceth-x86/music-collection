@@ -1,0 +1,999 @@
+{
+  "name": "Genre: Glitch / Microsound",
+  "services": {
+    "qobuz": "66717632"
+  },
+  "description": "Imported genre playlist: Glitch / Microsound.",
+  "tracks": [
+    {
+      "artist": "Nat King Cole",
+      "title": "Deck The Hall",
+      "services": {
+        "qobuz": "53569664"
+      },
+      "album": "The Christmas Song",
+      "duration": 68,
+      "isrc": "USCA29900552"
+    },
+    {
+      "artist": "Yasunao Tone",
+      "title": "Minim: Part I",
+      "services": {
+        "qobuz": "87122561"
+      },
+      "album": "Solo For Wounded",
+      "duration": 857,
+      "isrc": "USCRW9721201"
+    },
+    {
+      "artist": "Pita",
+      "title": "CE3",
+      "services": {
+        "qobuz": "377083343"
+      },
+      "album": "Get Out",
+      "duration": 449,
+      "isrc": "ATE690702904"
+    },
+    {
+      "artist": "Frank Bretschneider",
+      "title": "Kern",
+      "services": {
+        "qobuz": "172136991"
+      },
+      "album": "In Memory of Mille Plateaux, Vol. 1",
+      "duration": 298,
+      "isrc": "QMBZ92263390"
+    },
+    {
+      "artist": "SND",
+      "title": "Circa 1509",
+      "services": {
+        "qobuz": "172136992"
+      },
+      "album": "In Memory of Mille Plateaux, Vol. 1",
+      "duration": 303,
+      "isrc": "QMBZ92263392"
+    },
+    {
+      "artist": "Farben",
+      "title": "Raute",
+      "services": {
+        "qobuz": "156865487"
+      },
+      "album": "textstar+",
+      "duration": 453,
+      "isrc": "DELA22100359"
+    },
+    {
+      "artist": "Vladislav Delay",
+      "title": "Synkopoint",
+      "services": {
+        "qobuz": "172136994"
+      },
+      "album": "In Memory of Mille Plateaux, Vol. 1",
+      "duration": 635,
+      "isrc": "QMBZ92263395"
+    },
+    {
+      "artist": "Pole",
+      "title": "Spa\u00df Rewind",
+      "services": {
+        "qobuz": "54729270"
+      },
+      "album": "3",
+      "duration": 389,
+      "isrc": "DEPD61100427"
+    },
+    {
+      "artist": "Pansonic",
+      "title": "Koilinen",
+      "services": {
+        "qobuz": "172136996"
+      },
+      "album": "In Memory of Mille Plateaux, Vol. 1",
+      "duration": 271,
+      "isrc": "QMBZ92263398"
+    },
+    {
+      "artist": "Alva Noto",
+      "title": "Prototype 1",
+      "services": {
+        "qobuz": "93000165"
+      },
+      "album": "Prototypes",
+      "duration": 55,
+      "isrc": "UK6821719349"
+    },
+    {
+      "artist": "Skist",
+      "title": "Shift",
+      "services": {
+        "qobuz": "172136998"
+      },
+      "album": "In Memory of Mille Plateaux, Vol. 1",
+      "duration": 345,
+      "isrc": "QMBZ92263401"
+    },
+    {
+      "artist": "Stilluppsteypa",
+      "title": "Stilluppsteypa (Confused Bear Thrown Into The Sea)",
+      "services": {
+        "qobuz": "172136999"
+      },
+      "album": "In Memory of Mille Plateaux, Vol. 1",
+      "duration": 123,
+      "isrc": "QMBZ92263405"
+    },
+    {
+      "artist": "NEINA",
+      "title": "Clairvoyance",
+      "services": {
+        "qobuz": "172137000"
+      },
+      "album": "In Memory of Mille Plateaux, Vol. 1",
+      "duration": 375,
+      "isrc": "QMBZ92263407"
+    },
+    {
+      "artist": "Sutekh",
+      "title": "Unstabile",
+      "services": {
+        "qobuz": "172137001"
+      },
+      "album": "In Memory of Mille Plateaux, Vol. 1",
+      "duration": 431,
+      "isrc": "QMBZ92263408"
+    },
+    {
+      "artist": "Curd Duca",
+      "title": "Pop",
+      "services": {
+        "qobuz": "172137002"
+      },
+      "album": "In Memory of Mille Plateaux, Vol. 1",
+      "duration": 80,
+      "isrc": "QMBZ92263422"
+    },
+    {
+      "artist": "Ester Brinkmann",
+      "title": "Maschine",
+      "services": {
+        "qobuz": "172133933"
+      },
+      "album": "In Memory of Mille Plateaux, Vol. 2",
+      "duration": 481,
+      "isrc": "QMBZ92263426"
+    },
+    {
+      "artist": "Dresden Vocal Concert",
+      "title": "O Come, All Ye Faithful",
+      "services": {
+        "qobuz": "44557801"
+      },
+      "album": "Fr\u00f6hliche Weihnacht \u00fcberall",
+      "duration": 268,
+      "isrc": "DES380842012"
+    },
+    {
+      "artist": "Detinger",
+      "title": "Strange Fruit",
+      "services": {
+        "qobuz": "172133935"
+      },
+      "album": "In Memory of Mille Plateaux, Vol. 2",
+      "duration": 319,
+      "isrc": "QMBZ92263428"
+    },
+    {
+      "artist": "Autopoieses",
+      "title": "These Few Minutes",
+      "services": {
+        "qobuz": "172133936"
+      },
+      "album": "In Memory of Mille Plateaux, Vol. 2",
+      "duration": 262,
+      "isrc": "QMBZ92263430"
+    },
+    {
+      "artist": "Jake Mandell",
+      "title": "I Won't Lie",
+      "services": {
+        "qobuz": "172133937"
+      },
+      "album": "In Memory of Mille Plateaux, Vol. 2",
+      "duration": 153,
+      "isrc": "QMBZ92263433"
+    },
+    {
+      "artist": "Kit Clayton",
+      "title": "Loads Early Like Normal",
+      "services": {
+        "qobuz": "172133938"
+      },
+      "album": "In Memory of Mille Plateaux, Vol. 2",
+      "duration": 230,
+      "isrc": "QMBZ92263440"
+    },
+    {
+      "artist": "Ultra-Red",
+      "title": "Esta Gran Humanidad Ha Dicho (Ya Basta!)",
+      "services": {
+        "qobuz": "172133939"
+      },
+      "album": "In Memory of Mille Plateaux, Vol. 2",
+      "duration": 296,
+      "isrc": "QMBZ92263442"
+    },
+    {
+      "artist": "Wolfgang Voigt",
+      "title": "Matrix",
+      "services": {
+        "qobuz": "172133940"
+      },
+      "album": "In Memory of Mille Plateaux, Vol. 2",
+      "duration": 195,
+      "isrc": "QMBZ92263445"
+    },
+    {
+      "artist": "Thomas Meinecke\u00b4s Framos Waikiki",
+      "title": "Rechannelled From Stereo",
+      "services": {
+        "qobuz": "172133941"
+      },
+      "album": "In Memory of Mille Plateaux, Vol. 2",
+      "duration": 228,
+      "isrc": "QMBZ92263447"
+    },
+    {
+      "artist": "Panacea",
+      "title": "Sinecore",
+      "services": {
+        "qobuz": "172133942"
+      },
+      "album": "In Memory of Mille Plateaux, Vol. 2",
+      "duration": 289,
+      "isrc": "QMBZ92263449"
+    },
+    {
+      "artist": "Ihan",
+      "title": "Sans Titre No. 2",
+      "services": {
+        "qobuz": "172133943"
+      },
+      "album": "In Memory of Mille Plateaux, Vol. 2",
+      "duration": 301,
+      "isrc": "QMBZ92263450"
+    },
+    {
+      "artist": "Kid 606",
+      "title": "Sonqizzmaster",
+      "services": {
+        "qobuz": "172133944"
+      },
+      "album": "In Memory of Mille Plateaux, Vol. 2",
+      "duration": 369,
+      "isrc": "QMBZ92263452"
+    },
+    {
+      "artist": "Goem",
+      "title": "Comp Vier",
+      "services": {
+        "qobuz": "76525683"
+      },
+      "album": "Comps 1",
+      "duration": 391,
+      "isrc": "NLGJ30901153"
+    },
+    {
+      "artist": "Andreas Tilliander & Goran Kajfes",
+      "title": "Montes Caucasus",
+      "services": {
+        "qobuz": "397279062"
+      },
+      "album": "In Cmin",
+      "duration": 270,
+      "isrc": "SE2872500201"
+    },
+    {
+      "artist": "Hvalfugl",
+      "title": "Tanken Om Irland",
+      "services": {
+        "qobuz": "269927551"
+      },
+      "album": "En Dag I Oktober",
+      "duration": 206,
+      "isrc": "DKG111700201"
+    },
+    {
+      "artist": "Girl Ultra",
+      "title": "Tom\u00e1s",
+      "services": {
+        "qobuz": "335075555"
+      },
+      "album": "Tom\u00e1s",
+      "duration": 182,
+      "isrc": "GBCFB2401193"
+    },
+    {
+      "artist": "Swayzak",
+      "title": "Kensal Rising",
+      "services": {
+        "qobuz": "13651219"
+      },
+      "album": "Himawari",
+      "duration": 262,
+      "isrc": "GBAAW0009001"
+    },
+    {
+      "artist": "AtomTM",
+      "title": "Nobody Knows...",
+      "services": {
+        "qobuz": "53615909"
+      },
+      "album": "Geeez 'n' Gosh/Nobody Knows",
+      "duration": 37,
+      "isrc": "DEVU51703592"
+    },
+    {
+      "artist": "Daft Punk feat. Paul Williams",
+      "title": "Touch",
+      "services": {
+        "qobuz": "9140030"
+      },
+      "album": "Random Access Memories",
+      "duration": 498,
+      "isrc": "USQX91300107"
+    },
+    {
+      "artist": "Dan Abrams",
+      "title": "Academic",
+      "services": {
+        "qobuz": "17132335"
+      },
+      "album": "Stream",
+      "duration": 371,
+      "isrc": "US23K1400039"
+    },
+    {
+      "artist": "John Grant",
+      "title": "Marz",
+      "services": {
+        "qobuz": "10583528"
+      },
+      "album": "Queen of Denmark",
+      "duration": 238,
+      "isrc": "GBBRP1023502"
+    },
+    {
+      "artist": "Sebastian Mikael",
+      "title": "Exit",
+      "services": {
+        "qobuz": "100483960"
+      },
+      "album": "Exit",
+      "duration": 196,
+      "isrc": "USAT22004719"
+    },
+    {
+      "artist": "Bear McCreary",
+      "title": "The Dog Food Factory",
+      "services": {
+        "qobuz": "58762406"
+      },
+      "album": "Animal Crackers (Music from the Netflix Original Film)",
+      "duration": 294,
+      "isrc": "USQX91800418"
+    },
+    {
+      "artist": "The Replacements",
+      "title": "You're Pretty When You're Rude",
+      "services": {
+        "qobuz": "128343720"
+      },
+      "album": "Sorry Ma, Forgot To Take Out The Trash",
+      "duration": 169,
+      "isrc": "USRH12101604"
+    },
+    {
+      "artist": "Antonelli Electr.",
+      "title": "Lovers Inn",
+      "services": {
+        "qobuz": "49923338"
+      },
+      "album": "Clicks & Cuts 3",
+      "duration": 354,
+      "isrc": "QM4TW1884611"
+    },
+    {
+      "artist": "Glebe Town Jazz",
+      "title": "Full Swing",
+      "services": {
+        "qobuz": "374659465"
+      },
+      "album": "Drive Time Jazz",
+      "duration": 86,
+      "isrc": "QT6FK2511454"
+    },
+    {
+      "artist": "Thomas Brinkmann",
+      "title": "QUILA 1",
+      "services": {
+        "qobuz": "235115033"
+      },
+      "album": "THOMAS BRINKMANN - MAX ERNST 25 ANNIVERSARY",
+      "duration": 262,
+      "isrc": "GBGXG2300811"
+    },
+    {
+      "artist": "Donnacha Costello",
+      "title": "Dry Retch",
+      "services": {
+        "qobuz": "136414378"
+      },
+      "album": "Together Is The New Alone",
+      "duration": 645,
+      "isrc": "DEX262100473"
+    },
+    {
+      "artist": "Zedd",
+      "title": "Clarity",
+      "services": {
+        "qobuz": "6468490"
+      },
+      "album": "Clarity",
+      "duration": 271,
+      "isrc": "USUM71210662"
+    },
+    {
+      "artist": "Trentem\u00f8ller",
+      "title": "An Evening With Bobi Bros",
+      "services": {
+        "qobuz": "83836316"
+      },
+      "album": "An Evening With Bobi Bros",
+      "duration": 474,
+      "isrc": "GBWDF1004701"
+    },
+    {
+      "artist": "The Nighttripper",
+      "title": "Tone Explotation",
+      "services": {
+        "qobuz": "57235733"
+      },
+      "album": "Tone Exploitation",
+      "duration": 309,
+      "isrc": "NLCK41011669"
+    },
+    {
+      "artist": "Fennesz",
+      "title": "Menthol",
+      "services": {
+        "qobuz": "56034055"
+      },
+      "album": "Field Recordings (1995-2002)",
+      "duration": 231,
+      "isrc": "GBJYX0516207"
+    },
+    {
+      "artist": "Keine Z\u00e4hne Im Maul Aber La Paloma Pfeifen",
+      "title": "Leb so, dass es alle wissen wollen",
+      "services": {
+        "qobuz": "49521228"
+      },
+      "album": "Postsexuell",
+      "duration": 484,
+      "isrc": "DEOV41200433"
+    },
+    {
+      "artist": "Taylor Deupree",
+      "title": "Snow/Sand (For Clarinets, Vibraphone, Cello & Percussion)",
+      "services": {
+        "qobuz": "258636013"
+      },
+      "album": "Sti.ll",
+      "duration": 958,
+      "isrc": "CAN112400842"
+    },
+    {
+      "artist": "Richard Chartier",
+      "title": "Filer",
+      "services": {
+        "qobuz": "14469569"
+      },
+      "album": "Other Materials",
+      "duration": 421,
+      "isrc": "US23K0820038"
+    },
+    {
+      "artist": "Lvbel C5",
+      "title": "nE !?",
+      "services": {
+        "qobuz": "259890556"
+      },
+      "album": "#1",
+      "duration": 114,
+      "isrc": "FRX282404287"
+    },
+    {
+      "artist": "Strange Within",
+      "title": "Smoother Than Silk",
+      "services": {
+        "qobuz": "62964558"
+      },
+      "album": "Strange Within",
+      "duration": 284,
+      "isrc": "DEVL11900716"
+    },
+    {
+      "artist": "DAT Politics",
+      "title": "People R Inside",
+      "services": {
+        "qobuz": "7806999"
+      },
+      "album": "Blitz Gazer",
+      "duration": 197,
+      "isrc": "FR6V81266228"
+    },
+    {
+      "artist": "MR13",
+      "title": "Painkiller",
+      "services": {
+        "qobuz": "49923328"
+      },
+      "album": "Clicks & Cuts 3",
+      "duration": 391,
+      "isrc": "QM4TW1884596"
+    },
+    {
+      "artist": "Bizz Circuits",
+      "title": "Grace Under Fire",
+      "services": {
+        "qobuz": "49923329"
+      },
+      "album": "Clicks & Cuts 3",
+      "duration": 413,
+      "isrc": "QM4TW1884597"
+    },
+    {
+      "artist": "Rob Acid",
+      "title": "Loving 'Ya",
+      "services": {
+        "qobuz": "49923332"
+      },
+      "album": "Clicks & Cuts 3",
+      "duration": 297,
+      "isrc": "QM4TW1884601"
+    },
+    {
+      "artist": "Claudia Bonarelli",
+      "title": "Disarm the Police",
+      "services": {
+        "qobuz": "49923333"
+      },
+      "album": "Clicks & Cuts 3",
+      "duration": 221,
+      "isrc": "QM4TW1884604"
+    },
+    {
+      "artist": "BORIS POLONSKI",
+      "title": "Diffuse Daten in 5 Min",
+      "services": {
+        "qobuz": "49923334"
+      },
+      "album": "Clicks & Cuts 3",
+      "duration": 313,
+      "isrc": "QM4TW1884605"
+    },
+    {
+      "artist": "Deru",
+      "title": "Migrade",
+      "services": {
+        "qobuz": "49923336"
+      },
+      "album": "Clicks & Cuts 3",
+      "duration": 295,
+      "isrc": "QM4TW1884610"
+    },
+    {
+      "artist": "Luomo",
+      "title": "Melt",
+      "services": {
+        "qobuz": "49923337"
+      },
+      "album": "Clicks & Cuts 3",
+      "duration": 561,
+      "isrc": "QM4TW1884609"
+    },
+    {
+      "artist": "Donnacha Costello",
+      "title": "Nine Blind Men (The Rankest Poison of Ignorance and Vice)",
+      "services": {
+        "qobuz": "49923341"
+      },
+      "album": "Clicks & Cuts 3",
+      "duration": 182,
+      "isrc": "QM4TW1884616"
+    },
+    {
+      "artist": "Rechenzentrum",
+      "title": "Box",
+      "services": {
+        "qobuz": "49923342"
+      },
+      "album": "Clicks & Cuts 3",
+      "duration": 235,
+      "isrc": "QM4TW1884620"
+    },
+    {
+      "artist": "Robin Judge",
+      "title": "Rhizome",
+      "services": {
+        "qobuz": "49923343"
+      },
+      "album": "Clicks & Cuts 3",
+      "duration": 334,
+      "isrc": "QM4TW1884623"
+    },
+    {
+      "artist": "agf",
+      "title": "Pianos",
+      "services": {
+        "qobuz": "50320576"
+      },
+      "album": "Click Shower",
+      "duration": 350,
+      "isrc": "QM4TX1821276"
+    },
+    {
+      "artist": "Tim Hecker",
+      "title": "Brownwedding",
+      "services": {
+        "qobuz": "49923345"
+      },
+      "album": "Clicks & Cuts 3",
+      "duration": 291,
+      "isrc": "QM4TW1884629"
+    },
+    {
+      "artist": "Ekkehard Ehlers",
+      "title": "The Bakes in the Wood",
+      "services": {
+        "qobuz": "49923346"
+      },
+      "album": "Clicks & Cuts 3",
+      "duration": 366,
+      "isrc": "QM4TW1884630"
+    },
+    {
+      "artist": "Pomassl",
+      "title": "Holcimm Mmic",
+      "services": {
+        "qobuz": "49923347"
+      },
+      "album": "Clicks & Cuts 3",
+      "duration": 309,
+      "isrc": "QM4TW1884631"
+    },
+    {
+      "artist": "Frank Elting",
+      "title": "Spoken Word",
+      "services": {
+        "qobuz": "48557138"
+      },
+      "album": "Clicks & Cuts 4",
+      "duration": 381,
+      "isrc": "DEZ651012041"
+    },
+    {
+      "artist": "MicroNost",
+      "title": "Got Mad Love",
+      "services": {
+        "qobuz": "48557139"
+      },
+      "album": "Clicks & Cuts 4",
+      "duration": 234,
+      "isrc": "DEZ651012042"
+    },
+    {
+      "artist": "Starchboy",
+      "title": "Rangoon",
+      "services": {
+        "qobuz": "48557140"
+      },
+      "album": "Clicks & Cuts 4",
+      "duration": 316,
+      "isrc": "DEZ651012043"
+    },
+    {
+      "artist": "Eight Frozen Modules",
+      "title": "Dogsbark People Grow",
+      "services": {
+        "qobuz": "48557141"
+      },
+      "album": "Clicks & Cuts 4",
+      "duration": 356,
+      "isrc": "DEZ651012044"
+    },
+    {
+      "artist": "Ran Slavin",
+      "title": "Below",
+      "services": {
+        "qobuz": "50346328"
+      },
+      "album": "Saal 600",
+      "duration": 308,
+      "isrc": "QM4TW1885701"
+    },
+    {
+      "artist": "Ido Gouvrin",
+      "title": "Breaking Through the Frequencies",
+      "services": {
+        "qobuz": "48557143"
+      },
+      "album": "Clicks & Cuts 4",
+      "duration": 297,
+      "isrc": "DEZ651012046"
+    },
+    {
+      "artist": "Electric Birds",
+      "title": "When I See the Sun",
+      "services": {
+        "qobuz": "48557144"
+      },
+      "album": "Clicks & Cuts 4",
+      "duration": 316,
+      "isrc": "DEZ651012047"
+    },
+    {
+      "artist": "Tilman Ehrhorn",
+      "title": "Clear",
+      "services": {
+        "qobuz": "48557145"
+      },
+      "album": "Clicks & Cuts 4",
+      "duration": 394,
+      "isrc": "DEZ651012048"
+    },
+    {
+      "artist": "Jay Haze",
+      "title": "Too Good",
+      "services": {
+        "qobuz": "48557146"
+      },
+      "album": "Clicks & Cuts 4",
+      "duration": 320,
+      "isrc": "DEZ651012049"
+    },
+    {
+      "artist": "tba",
+      "title": "Trepa N",
+      "services": {
+        "qobuz": "48557149"
+      },
+      "album": "Clicks & Cuts 4",
+      "duration": 138,
+      "isrc": "DEZ651012052"
+    },
+    {
+      "artist": "@c",
+      "title": "Int. 6/29",
+      "services": {
+        "qobuz": "48557150"
+      },
+      "album": "Clicks & Cuts 4",
+      "duration": 290,
+      "isrc": "DEZ651012053"
+    },
+    {
+      "artist": "Scattertape",
+      "title": "Shelving A Tempered String (Intro)",
+      "services": {
+        "qobuz": "76453321"
+      },
+      "album": "Clicks & Cuts 5.0 - Paradigm Shift",
+      "duration": 60,
+      "isrc": "USBRC1000003"
+    },
+    {
+      "artist": "Aoki Takamasa",
+      "title": "RN4-09",
+      "services": {
+        "qobuz": "76453322"
+      },
+      "album": "Clicks & Cuts 5.0 - Paradigm Shift",
+      "duration": 336,
+      "isrc": "USBRC1000023"
+    },
+    {
+      "artist": "Wyatt Keusch",
+      "title": "Object 02",
+      "services": {
+        "qobuz": "76453323"
+      },
+      "album": "Clicks & Cuts 5.0 - Paradigm Shift",
+      "duration": 266,
+      "isrc": "USBRC1000018"
+    },
+    {
+      "artist": "Loom",
+      "title": "Isolex 03",
+      "services": {
+        "qobuz": "76453324"
+      },
+      "album": "Clicks & Cuts 5.0 - Paradigm Shift",
+      "duration": 241,
+      "isrc": "USBRC1000004"
+    },
+    {
+      "artist": "Ametsub",
+      "title": "Repeatedly",
+      "services": {
+        "qobuz": "76448724"
+      },
+      "album": "Repeatedly (Helios Remix)",
+      "duration": 281,
+      "isrc": "USBRC1000019"
+    },
+    {
+      "artist": "kiyo",
+      "title": "Bear In. Warm-Noiz",
+      "services": {
+        "qobuz": "76453326"
+      },
+      "album": "Clicks & Cuts 5.0 - Paradigm Shift",
+      "duration": 212,
+      "isrc": "USBRC1000005"
+    },
+    {
+      "artist": "Marow",
+      "title": "e.coli (short)",
+      "services": {
+        "qobuz": "4404312"
+      },
+      "album": "+ - 0 [Plus Minus Null]",
+      "duration": 250,
+      "isrc": "USBRC1100089"
+    },
+    {
+      "artist": "Manathol",
+      "title": "BAKETO",
+      "services": {
+        "qobuz": "76453328"
+      },
+      "album": "Clicks & Cuts 5.0 - Paradigm Shift",
+      "duration": 258,
+      "isrc": "USBRC1000007"
+    },
+    {
+      "artist": "Kabutogani",
+      "title": "CXEMA",
+      "services": {
+        "qobuz": "76453329"
+      },
+      "album": "Clicks & Cuts 5.0 - Paradigm Shift",
+      "duration": 228,
+      "isrc": "USBRC1000054"
+    },
+    {
+      "artist": "Nicolaus",
+      "title": "Inner",
+      "services": {
+        "qobuz": "76453330"
+      },
+      "album": "Clicks & Cuts 5.0 - Paradigm Shift",
+      "duration": 328,
+      "isrc": "USBRC1000008"
+    },
+    {
+      "artist": "Sifa Dias",
+      "title": "Eitec Aa",
+      "services": {
+        "qobuz": "76453331"
+      },
+      "album": "Clicks & Cuts 5.0 - Paradigm Shift",
+      "duration": 194,
+      "isrc": "USBRC1000009"
+    },
+    {
+      "artist": "Klive",
+      "title": "Panacea",
+      "services": {
+        "qobuz": "76472943"
+      },
+      "album": "Sweaty Psalms",
+      "duration": 175,
+      "isrc": "USBRC1000048"
+    },
+    {
+      "artist": "Gultskra Artikler",
+      "title": "w",
+      "services": {
+        "qobuz": "76459125"
+      },
+      "album": "Qwerty",
+      "duration": 241,
+      "isrc": "USBRC1001392"
+    },
+    {
+      "artist": "Yu Miyashita",
+      "title": "Scrypt",
+      "services": {
+        "qobuz": "76444057"
+      },
+      "album": "Noble Niche",
+      "duration": 224,
+      "isrc": "USBRC1001358"
+    },
+    {
+      "artist": "Alinoe",
+      "title": "Il (Outro)",
+      "services": {
+        "qobuz": "76453335"
+      },
+      "album": "Clicks & Cuts 5.0 - Paradigm Shift",
+      "duration": 84,
+      "isrc": "USBRC1000015"
+    },
+    {
+      "artist": "Lodsb",
+      "title": "Eve",
+      "services": {
+        "qobuz": "76450153"
+      },
+      "album": "Clicks & Cuts 5.1 - Paradigm Shift (The Bonus Package Version)",
+      "duration": 265,
+      "isrc": "USBRC1000016"
+    },
+    {
+      "artist": "Rimacona",
+      "title": "Message",
+      "services": {
+        "qobuz": "76450154"
+      },
+      "album": "Clicks & Cuts 5.1 - Paradigm Shift (The Bonus Package Version)",
+      "duration": 338,
+      "isrc": "USBRC1000017"
+    },
+    {
+      "artist": "Pleq",
+      "title": "Do You Ever Remember Your Dreams",
+      "services": {
+        "qobuz": "76450155"
+      },
+      "album": "Clicks & Cuts 5.1 - Paradigm Shift (The Bonus Package Version)",
+      "duration": 259,
+      "isrc": "USBRC1000010"
+    },
+    {
+      "artist": "Dami\u00e1n L. Felitte",
+      "title": "Bits",
+      "services": {
+        "qobuz": "76450156"
+      },
+      "album": "Clicks & Cuts 5.1 - Paradigm Shift (The Bonus Package Version)",
+      "duration": 233,
+      "isrc": "USBRC1000014"
+    },
+    {
+      "artist": "Rashad Becker",
+      "title": "Dances IV",
+      "services": {
+        "qobuz": "30143091"
+      },
+      "album": "Traditional Music of Notional Species Vol. I",
+      "duration": 253,
+      "isrc": "DEX260991878"
+    },
+    {
+      "artist": "Kim Cascone",
+      "title": "Vortex Shedding (Simplex)",
+      "services": {
+        "qobuz": "33038838"
+      },
+      "album": "Cathodeflower",
+      "duration": 334,
+      "isrc": "QMFMF1526919"
+    }
+  ]
+}

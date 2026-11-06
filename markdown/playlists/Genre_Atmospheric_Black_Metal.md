@@ -1,0 +1,83 @@
+# Genre: Atmospheric Black Metal
+
+Imported genre playlist: Atmospheric Black Metal.
+
+Services: `qobuz:66734064` `tidal:16d8a25b-44fd-4039-99f4-b58663cf8228`
+
+## Tracks (75)
+
+- **Summoning** — The Passing of the Grey Company [Minas Morgul] (9:16) `isrc:ATN269501303` `qobuz:37309414`
+- **Ulver** — I Troldskog Faren Vild [Bergtatt] (7:51) `isrc:NOFVH9505010` `qobuz:58915824`
+- **Burzum** — Dunkelheit [Filosofem] (7:05) `isrc:GBXGC0809001` `qobuz:56285599`
+- **Negura Bunget** — Blaznit [Zirnindu-Sa] (4:29) `isrc:DES560895201` `qobuz:189638832`
+- **Friedrich Gulda** — Gedanken über Kadenz und Menuett des Cellokonzerts [The Master - Friedrich Gulda Solo] (13:06) `isrc:ATUM72500046` `qobuz:370305785`
+- **Féral** — As the Feast Begins [Where Dead Dreams Dwell] (5:30) `isrc:DEOJ91514703` `qobuz:31792019`
+- **Drudkh** — Sunwheel [Autumn Aurora] (9:00) `isrc:FR33T0981104` `qobuz:77772455`
+- **Krohm** — Crown Of The Ancients [Slayer Of Lost Martyrs / Crown Of The Ancients] (7:09) `isrc:USA560617794` `qobuz:64309387`
+- **Darkspace** — Dark -1.0 [Dark Space -I] (12:06) `isrc:FR33T2166202` `qobuz:141051580`
+- **Evilfeast** — The Black Heavens Open [Mysteries of the Nocturnal Forest] (9:13) `isrc:USA2P1877808` `qobuz:250941485`
+- **Vinterriket** — Winternacht - Kalte Schwärze im Bann der silbernen Sonne [Der Letzte Winter - Der Ewigkeit Entgegen] (8:03) `isrc:QM4TW2390241` `qobuz:197388523`
+- **Angantyr** — Sejr [Sejr] (7:15) `isrc:QZHN51961852` `qobuz:142246940`
+- **The Ruins Of Beverast** — Between Bronze Walls [Unlock the Shrine] (8:40) `isrc:DEZ900900981` `qobuz:20790568`
+- **Strawberry Chill House** — Caress of a Velvet Umbrella [Comforting Background Music for Rainy Reading Times] (1:24) `isrc:JPZ222442266` `qobuz:272597225`
+- **Socrates** — My Kind of Woman [Where They Might Have Been] (3:43) `isrc:USCGH2024178` `qobuz:84849171`
+- **Battle Dagorath** — Phantom Horizons Beyond [I - Dark Dragons of the Cosmos] (13:50) `isrc:DEPI82306327` `qobuz:205288603`
+- **Forteresse** — Métal noir québécois [Métal noir québécois] (8:44) `isrc:QZES82537838` `qobuz:323137675`
+- **Lunar Aurora** — Glück [Andacht] (11:10) `isrc:DES560896101` `qobuz:29908418`
+- **Thy Light** — No Morrow Shall Dawn [No Morrow Shall Dawn] (13:38) `isrc:SEYOK1727119` `qobuz:204522470`
+- **Peter Kater** — The Path Is Clear [Soul Story] (3:45) `isrc:QM6N22257569` `qobuz:163571990`
+- **Wolves In The Throne Room** — I Will Lay Down My Bones Among The Rocks And Roots [Two Hunters] (18:16) `isrc:USZPA0900068` `qobuz:60615701`
+- **Austere** — This Dreadful Emptiness [To Lay Like Old Ashes] (9:04) `isrc:DES562210127` `qobuz:189662774`
+- **Alda** — In the Wake of an Iron Wind [Tahoma] (11:14) `isrc:USA2P1823670` `qobuz:225683474`
+- **Panopticon** — Aptrgangr [Collapse] (15:19) `isrc:QZK6K2269474` `qobuz:162930524`
+- **Coldworld** — Tortured by Solitude [Melancholie²] (6:14) `isrc:DES560895602` `qobuz:28029062`
+- **Vallendusk** — Land of the Lurking Twilight [Black Clouds Gathering] (13:04) `isrc:QZRP52239829` `qobuz:180887693`
+- **Winterfylleth** — The Ghost Of Heritage [The Ghost Of Heritage] (5:27) `isrc:GBADD1233405` `qobuz:190328957`
+- **Woods of Desolation** — Torn Beyond Reason [Torn Beyond Reason] (6:23) `isrc:FR33T2213301` `qobuz:171490570`
+- **Elderwind** — The Magic of Nature [The Magic of Nature] (7:24) `isrc:TCAGQ2204107` `qobuz:186826331`
+- **Elysian Blaze** — A Choir for Venus [Blood Geometry] (4:30) `isrc:FR4E61200770` `qobuz:8955617`
+- **Vemod** — Venter På Stormene [Venter På Stormene] (13:06) `isrc:NOFH41301010` `qobuz:197042624`
+- **The Weeknd** — Take My Breath [Dawn FM] (5:39) `isrc:USUG12106684` `qobuz:143431220`
+- **Caladan Brood** — City of Azure Fire [Echoes of Battle] (10:09) `isrc:QM4TW2220273` `qobuz:143998938`
+- **Howard Shore** — Lost in Emyn Muil [The Lord of the Rings: The Two Towers - the Complete Recordings] (4:14) `isrc:USRE10602465` `qobuz:49812057`
+- **Kalmankantaja** — Bury Me in This Forest [Autumnheart] (8:46) `isrc:QT6F22549099` `qobuz:370539185`
+- **Voices from the Fuselage** — Astral Existence [Odyssey: The Destroyer of Worlds] (4:29) `isrc:TCACF1563227` `qobuz:75876127`
+- **Obsidian Tongue** — Black Hole in Human Form [A Nest of Ravens in the Throat of Time] (8:41) `isrc:USL4Q1930541` `qobuz:79253799`
+- **Saor** — Aura (Remastered) [Aura (Remastered)] (13:37) `isrc:USHM82041373` `qobuz:97342422`
+- **Spectral Lore** — The Golden Armor [Eteròfotos] (7:33) `isrc:QM6N22123972` `qobuz:121784291`
+- **Leprous** — Like a Sunken Ship [Melodies Of Atonement] (4:04) `isrc:GBDHC2447205` `qobuz:266707946`
+- **The Great Old Ones** — The Omniscient [Cosmicism] (9:26) `isrc:FR33T1951802` `qobuz:63630671`
+- **Akhlys** — Breath and Levitation [The Dreaming I] (9:02) `isrc:FR9W11421334` `qobuz:23816306`
+- **Ticher Pereira** — Devotion to the Lord [Devotional Soaking Moments] (12:43) `isrc:QZNJX2527365` `qobuz:343637230`
+- **Pure Wrath** — Bleak Days Ahead, Pt. I [Bleak Days Ahead] (10:03) `isrc:FXQ732500059` `qobuz:413572860`
+- **Sojourner** — The Shadowed Road [The Shadowed Road] (8:35) `isrc:USDHM1802522` `qobuz:203408811`
+- **desert sand feels warm at night** — Voices From The Oasis [Desert Memories] (7:11) `isrc:QZRP42333318` `qobuz:227278290`
+- **Cantique Lepreux** — Le mangeur d'os [Cendres célestes] (5:45) `isrc:USA2P1623402` `qobuz:250588989`
+- **Eldamar** — Spirit of the North [The Force of the Ancient Land] (14:46) `isrc:TCACL1683193` `qobuz:124659660`
+- **Ellende** — Ballade auf den Tod [Todbringer] (7:45) `isrc:TCADE1757323` `qobuz:370323208`
+- **Dreamtale** — Tides of War [World Changed Forever] (4:22) `isrc:FISDO1300003` `qobuz:77349114`
+- **Deepchord Presents: Echospace** — First Point of Aries [The Coldest Season] (6:38) `isrc:USA2Z1110203` `qobuz:119886367`
+- **Mesarthim** — The Great Filter [The Great Filter / Type III] (21:33) `isrc:USDHM1918676` `qobuz:200112751`
+- **Dread Sovereign** — The Great Beast We Serve [Alchemical Warfare] (4:51) `isrc:USMBR2014411` `qobuz:104874098`
+- **Cân Bardd** — Devoured by the Oak, Pt. 1 [Devoured by the Oak] (8:34) `isrc:CH6542181303` `qobuz:133000685`
+- **Fellwarden** — Wayfarer Eternal [Oathbearer] (10:13) `isrc:USQY51756027` `qobuz:250725068`
+- **Mürg** — Strävan [Strävan] (6:01) `isrc:SEVVF1900602` `qobuz:246154729`
+- **None** — Hypoxic [Life Has Gone on Long Enough] (6:58) `isrc:USCGH1865407` `qobuz:64492073`
+- **Tardigrada** — Emotionale Ödnis [Emotionale Ödnis] (8:43) `isrc:USQY51606120` `qobuz:252177762`
+- **ANSAMBEL LOJZETA SLAKA** — Meni ni za bogatijo [Helidonove uspešnice] (2:52) `isrc:SIA942005732` `qobuz:97319522`
+- **Mosaic** — Brimstone Blossoms [Secret Ambrosian Fire] (3:43) `isrc:USA2P1960301` `qobuz:217121109`
+- **Ultha** — Dispel [All that has Never been True] (5:19) `isrc:GX3HH2213304` `qobuz:147975587`
+- **AARA** — Die das wilde Wetter fängt [Eiger] (9:25) `isrc:FXQ732400031` `qobuz:291291338`
+- **Firienholt** — A Forgotten Legacy [By the Waters of Awakening] (10:28) `isrc:ESA012156009` `qobuz:337925533`
+- **Hermanos Gutierrez** — Cumbia Lunar [Sonido Cósmico] (2:37) `isrc:USC4R2441426` `qobuz:271126113`
+- **AFSKY** — Bondeplage [Ofte jeg drømmer mig død] (7:00) `isrc:GBSMU7769641` `qobuz:118758985`
+- **Fluisteraars** — Nasleep [Bloem] (7:44) `isrc:USA2P2002234` `qobuz:199370228`
+- **Kaatayra** — Inpariquipê [Inpariquipê] (10:31) `isrc:BCI4A2100042` `qobuz:150779236`
+- **Këkht Aräkh** — Through the Branches to Eternity [Through the Branches to Eternity] (2:58) `isrc:QZFZ22028123` `qobuz:151685085`
+- **Bizarrekult** — For 1000 År Siden [Vi Overlevde] (3:32) `isrc:NL4EQ2100172` `qobuz:165724954`
+- **Eneferens** — Leave [The Bleakness of Our Constant] (3:49) `isrc:SEVVF1802401` `qobuz:365639982`
+- **Ethereal Shroud** — Chasmal Fires [Trisagion] (27:47) `isrc:QZNWT2144602` `qobuz:136186508`
+- **gRAB** — Nachtkrapp [Zeitlang] (6:13) `isrc:DES562016102` `qobuz:189656787`
+- **Labyrinthus Stellarum** — Vortex of the Worlds [Vortex of the Worlds] (5:54) `isrc:USCGJ2456256` `qobuz:254840224`
+- **Blackbraid** — The River of Time Flows Through Me [Blackbraid I] (6:19) `isrc:QMAAK2211931` `qobuz:409923625`
+- **Innocnt** — Haliens (voices inside my head) [Six] (2:40) `isrc:FRDIX2400010` `qobuz:298475871`

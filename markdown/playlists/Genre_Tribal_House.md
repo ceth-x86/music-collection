@@ -1,0 +1,108 @@
+# Genre: Tribal House
+
+Imported genre playlist: Tribal House.
+
+Services: `qobuz:66716569`
+
+## Tracks (100)
+
+- **Marvin Gaye** — Ain't Nothing Like The Real Thing [Motown Remixed] (5:49) `isrc:USMO10500627` `qobuz:61709673`
+- **Anger Machine** — Acid Rainbow [Human Error] (4:15) `isrc:USCGH2513341` `qobuz:312238441`
+- **Age of Love** — The Age Of Love [The Age Of Love] (6:48) `isrc:BEE329000130` `qobuz:173238381`
+- **TeeRob101** — No Time [Love Vs. Lust] (3:01) `isrc:QT6ET2663379` `qobuz:432015126`
+- **Drake** — Over My Dead Body [Take Care] (4:32) `isrc:USCM51100544` `qobuz:5176756`
+- **Nzca/Lines** — Real Good Time [Pure Luxury] (3:56) `isrc:GBCSG2000040` `qobuz:93138113`
+- **Subway Rhythms** — Diving Lucy [House Movement: House Session] (5:41) `isrc:GBULZ1201761` `qobuz:9839134`
+- **Zunda Project** — Sirtaki [Tribal Anthems 2022 For Fitness & Workout] (3:45) `isrc:ITC942202728` `qobuz:148005874`
+- **Atlantique** — Nelson [Atlantique] (4:42) `isrc:FRZ039400710` `qobuz:4832592`
+- **Carlinhos Brown** — María Caipirinha (with Dj Dero) [Latin Fitness 2015 - Workout Party Music] (4:09) `isrc:ARF530200117` `qobuz:62607758`
+- **Armand van Helden** — Witch Doktor [Strictly Armand Van Helden] (6:46) `isrc:USSR39400601` `qobuz:385390769`
+- **Danny Tenaglia** — Bottom Heavy [Hard & Soul] (5:56) `isrc:USUM71818842` `qobuz:57390100`
+- **East Men** — U Dug [U Dig] (7:39) `isrc:GBBVL9400112` `qobuz:3148714`
+- **Lisa Lisa** — Skip To My Lu [LL 77] (4:00) `isrc:USUM71601637` `qobuz:30824163`
+- **Interpol** — If You Really Love Nothing [If You Really Love Nothing] (4:29) `isrc:USMTD1812329` `qobuz:54877188`
+- **Hot Mulligan** — Mix Master Wade on the Beat [The Sound a Body Makes When It's Still] (2:44) `isrc:QZNWP2575010` `qobuz:333758198`
+- **Adam Lambert** — Whataya Want From Me [Remixes] (6:22) `isrc:GBCTA0900451` `qobuz:4864010`
+- **The Dreggs** — Give Myself to You [Give Myself to You] (3:39) `isrc:USHM81759010` `qobuz:141817538`
+- **Thyone Girls** — More Pumpin [More Pumpin'] (5:39) `isrc:NLPH51900001` `qobuz:63188370`
+- **Junior Vasquez** — X [Get Your Hands Off My Man] (10:46) `isrc:USUM71702819` `qobuz:39938135`
+- **Deportivo** — Love In Ibiza [The Tribal Side Of House, Vol. 5] (5:53) `isrc:FR6V80346032` `qobuz:366924973`
+- **Dave** — Raindance [The Boy Who Played the Harp] (3:39) `isrc:GBUM72506029` `qobuz:364473589`
+- **Underground Sound Of Lisbon** — So Get Up [So Get Up - 10th Aniversary Edition] (10:11) `isrc:PTVI10400013` `qobuz:67716566`
+- **KENNY DOPE** — Got Myself Together [Got Myself Together] (3:35) `isrc:NLML68000301` `qobuz:55934150`
+- **Funky Green Dogs** — Fired Up! [Get Fired Up] (8:05) `isrc:USTW29650076` `qobuz:54929848`
+- **Boris Dlugosch** — Hold Your Head Up High [Papa Records & Reel People Music Present: Messages, Vol. 10] (7:13) `isrc:DEP081300046` `qobuz:116334076`
+- **Cher** — Believe (Club 69 Future Anthem Mix) [2023 Remaster] [Believe] (9:25) `isrc:GBAHT2301184` `qobuz:234301702`
+- **Mint Condition** — Intro: Welcome To The Mint Factory [From The Mint Factory] (0:37) `isrc:USAM10110039` `qobuz:54308929`
+- **Natasha Bedingfield** — Unwritten [Live In New York City] (9:54) `isrc:GBARL0501092` `qobuz:3459166`
+- **The Hit Co.** — Shout to the Top [The Ultimate R&B Collection, Vol. 18] (6:03) `isrc:USPSU1237617` `qobuz:71790219`
+- **Funky Derrick** — Atomik Kinki [Boogie Dawn] (5:17) `isrc:USTW29858387` `qobuz:58837104`
+- **Da Hool** — Meet Her At The Loveparade [Meet Her at the Loveparade] (7:31) `isrc:DES230100010` `qobuz:187606102`
+- **Kevin Aviance** — Din Da Daa (DUB mix) [Din Da Daa 2026] (4:46) `isrc:QZTLA2650546` `qobuz:427148157`
+- **Anathema** — Untouchable Pt. 1 [Kscope, Vol. 3] (6:14) `isrc:GBCQV1200240` `qobuz:51042105`
+- **Lowpass** — El Ritmo [Spinning In Infinity] (8:51) `isrc:USTW29958898` `qobuz:16338308`
+- **Nylx** — Goosebumps [Portugal All Stars - Kaos Totally Mix 3] (5:40) `isrc:QM4TX1725962` `qobuz:67693533`
+- **95 North** — Let Yourself Go - Capitol Mix [Let Yourself Go] (7:11) `isrc:US92E0510636` `qobuz:72944750`
+- **NEILdaemon666** — Hell's Bells [Dark] (5:04) `isrc:QT6E92659887` `qobuz:428524222`
+- **OG DJ PHILLY** — la songwriter in the mix [la songwriter in the mix] (6:47) `isrc:QT6EG2672353` `qobuz:431668723`
+- **The Clark Sisters** — Everythin's Gonna Be Alright [Count It All Joy / He Gave Me Nothing To Lose] (6:19) `isrc:US25X0603414` `qobuz:155265747`
+- **Zucchero** — Baila Morena [Los 2000 Éxitos] (4:06) `isrc:IT9000200072` `qobuz:231826157`
+- **Raven & Kreyn** — House Of Love [House Of Love] (2:06) `isrc:GBKQU2084142` `qobuz:107088507`
+- **Eric Little** — Twist My Brain [Total Kaos 2000] (2:08) `isrc:PTVI10000551` `qobuz:67692214`
+- **Battle Beast** — Where Angels Fear to Fly [Circus Of Doom] (3:56) `isrc:DED832100749` `qobuz:148803565`
+- **Foreigner** — Dirty White Boy [Head Games] (3:39) `isrc:USAT21301911` `qobuz:12262112`
+- **Jakob Manz** — Wade in the Water [Groove Connection] (5:36) `isrc:DEA892300122` `qobuz:198424077`
+- **Celeda** — Burnin' Up [This Is It] (5:33) `isrc:USTW29958944` `qobuz:16338316`
+- **The Poets Of Rhythm** — More Mess on My Thing [Practice What You Preach] (4:12) `isrc:USA370651112` `qobuz:76318044`
+- **Jose Nunez** — Bilingual [Bilingual] (7:25) `isrc:USSU20412800` `qobuz:378127124`
+- **Robbie Rivera** — Feel This [The Latin House Sessions Mixed by DJ Norty Cotto] (1:58) `isrc:USV291399998` `qobuz:74218107`
+- **Boogie Pimps** — Somebody to Love [Somebody to Love (Salt Shaker Remix)] (5:12) `isrc:DEA610300128` `qobuz:55375057`
+- **Shlomi Aber & Kashpitzky** — Retrospective [Klockworks 41] (5:34) `isrc:UKRXP2600067` `qobuz:397178863`
+- **Who Da Funk** — Shiny Disco Balls [Armada Music - House Legacy] (6:44) `isrc:USSU90200300` `qobuz:378252815`
+- **Superchumbo** — The Revolution [The Revolution] (8:16) `isrc:USTWR0100001` `qobuz:74601325`
+- **Rihanna** — Lift Me Up [Lift Me Up] (3:16) `isrc:QMJMT2204481` `qobuz:182543867`
+- **Chus & Ceballos** — Iberican Sound (DJ Simi Mix) [Back On Tracks Vol. 2] (7:58) `isrc:USNRS1128333` `qobuz:3639691`
+- **Acapulco** — So Strong [Sound Pool - Tribal Session 2024] (6:03) `isrc:ITC942408336` `qobuz:277394353`
+- **Antoine Clamaran Presents Supala** — “Alert” [Alert / In Da Jungle / Loop In Da Jungle] (7:48) `isrc:FR3P10200010` `qobuz:1452773`
+- **Missy Elliott** — Play That Beat [Under Construction] (3:02) `isrc:USEE10240935` `qobuz:2932345`
+- **Del Gado** — Djembe' Beats [Coffee Beats, Vol. 7] (1:52) `isrc:ITA160701119` `qobuz:367090951`
+- **Teri Thornton** — Everytime I Think About You [Sings Open Highway (The Theme from "Route 66") [Expanded Edition]] (2:00) `isrc:USSM16301479` `qobuz:60339546`
+- **Funky Dream Men** — CHANCLETA [Tribal Nation] (5:57) `isrc:ITC940200407` `qobuz:42826344`
+- **Panic! At The Disco** — Ready to Go (Get Me Out of My Mind) [Vices & Virtues] (3:37) `isrc:USAT21100125` `qobuz:3414800`
+- **Good Charlotte** — GC FOREVER [Motel Du Cap] (5:36) `isrc:USAT22504298` `qobuz:342637243`
+- **Jamie Lewis** — SO SEXY [SO SEXY] (2:46) `isrc:GBKQU2461885` `qobuz:276134201`
+- **Brandy** — Talk About Our Love (feat. Kanye West) [The Best of Brandy] (3:37) `isrc:USAT20400463` `qobuz:2193724`
+- **Zoot Sims** — Spring Can Really Hang You Up The Most [De Manhattan à Saint-Germain-des-Prés - Le jazz américain à Paris 1952-1962] (3:09) `isrc:FRX191601221` `qobuz:44264094`
+- **Ministry Of Funk** — Spell On You [Back To Blues III] (3:41) `isrc:USA2P2602490` `qobuz:384036615`
+- **Scooter** — Maria (I Like It Loud) [Scooter] (6:17) `isrc:DEN061003102` `qobuz:214814675`
+- **Manitoo** — Timbailando [Tribal House Legends: Top 120 Mega Pack Hits] (6:02) `isrc:ITC941813464` `qobuz:52146225`
+- **Beastie Boys** — Don't Play No Game That I Can't Win [Don't Play No Game That I Can't Win] (4:04) `isrc:USCA21101519` `qobuz:3825176`
+- **Youssou N'Dour** — Bolo Leen [Le Grand Show] (4:00) `isrc:QM4TX2500699` `qobuz:322951693`
+- **Papacha** — Benimussa [Benimussa] (1:31) `isrc:DEBL60822020` `qobuz:1298489`
+- **Pissing Razors** — Burning Bridges [Where We Come From] (3:20) `isrc:GBCBR0100492` `qobuz:126343346`
+- **Menchero Aponte** — The world spins round and round, part 1 (feat. Britany Smith) [Sitar] (4:12) `isrc:QT6ET2665669` `qobuz:432024549`
+- **Tribalfusion** — Buddhas Beat [Latin & Tribal House Hits] (8:15) `isrc:CH8191000734` `qobuz:70945584`
+- **Njohreur** — Peter Yamson (feat. Bobby Mignon) [Classico Makossa] (4:21) `isrc:USHM92556749` `qobuz:346556805`
+- **John Lennon** — #9 Dream [GIMME SOME TRUTH.] (4:46) `isrc:GBUM72004312` `qobuz:100141833`
+- **Claude Bolling** — Borsalino [Bolling Story] (2:24) `isrc:FRX191501184` `qobuz:26119144`
+- **Boriqua Tribez** — Natasha [Felicia / Natasha] (6:08) `isrc:NLCK42235838` `qobuz:225904232`
+- **#1 Hits Now, Academia de Música para la Fiesta en la Playa, Good Energy Club** — Ultimate Summer Beats [Bikini Pool Party Chill House Music Mix 2019 – Ultimate Dance Party Chillout Music Set for Beach or Pool Party with Friends & Colorful Cocktails] (3:46) `isrc:PLS921764372` `qobuz:66384834`
+- **The Marais Project** — Chatanooga Choo Choo [Lady Sings the Viol] (2:35) `isrc:AULZ01397515` `qobuz:72509799`
+- **Tanga Chicks** — Brasil Over Zurich [Brasil Over Zurich] (6:30) `isrc:NLML60000054` `qobuz:192334986`
+- **CZR** — I Want You [I Want You] (8:41) `isrc:USSU20002800` `qobuz:378119234`
+- **Myd** — Make Me Feel Alive [Mydnight] (4:30) `isrc:FR0NT2500740` `qobuz:368679201`
+- **Ministers De La Funk** — Believe [Believe] (8:31) `isrc:USSU29902100` `qobuz:378119231`
+- **Todd Terry** — Something's Going On [Something's Going On] (7:03) `isrc:NLQ201000060` `qobuz:113441401`
+- **Arin Ray** — Stay For The Night [Stay For The Night] (3:27) `isrc:USUM72217826` `qobuz:176230075`
+- **Richard Thompson** — I Feel So Good [Rumor And Sigh] (3:22) `isrc:USCA29100725` `qobuz:29667338`
+- **Marvin Gaye** — Let's Get It On [Let's Get It On] (4:52) `isrc:USMO10300491` `qobuz:16012355`
+- **Everything But The Girl** — Tracey In My Room [Like The Deserts Miss The Rain] (5:42) `isrc:GBCYF0000004` `qobuz:1011593`
+- **Dario Nuñez** — Dark Beat [Dark Beat] (4:49) `isrc:US38Y2586693` `qobuz:358860339`
+- **Criminal C** — Key Drums [Amsterdam Deejay House] (4:02) `isrc:DEPI82559502` `qobuz:340717272`
+- **Gigi Masin** — Call Me [Talk To The Sea] (4:24) `isrc:NLD7H1400026` `qobuz:410356809`
+- **Ace Of Base** — Beautiful Life [Beautiful Life - The Singles Box] (6:57) `isrc:SEVJH0803913` `qobuz:206078580`
+- **Nacho Chapado** — Tribal House Music [Tribal House EP] (6:30) `isrc:GBKQU1228909` `qobuz:112876597`
+- **Jota Perez DJ** — Sigue El Ritmo (Original mix) Tribal House [Sigue El Ritmo (Original mix) Tribal House] (3:30) `isrc:QZZ7S2673669` `qobuz:419806743`
+- **J. Axel + i am the love** — Be In Your Soul [As Love Decay] (5:47) `isrc:GBKQU1976355` `qobuz:107820070`
+- **Hot R.S.** — House of the Rising Sun [Trans Europe Express, Vol. 1] (9:49) `isrc:USA2P1954540` `qobuz:76222783`
+- **Antonio & Lourdes** — Feel My Tribal House (Robbie Rivera Extended Remix) [Feel My Tribal House (Robbie Rivera Remix)] (6:15) `isrc:QZS7J2651372` `qobuz:390454886`

@@ -1,0 +1,108 @@
+# Genre: Deathcore
+
+Brutal fusion of death metal and metalcore featuring bone-crushing breakdowns, blast beats, and guttural vocals.
+
+Services: `qobuz:67894618` `tidal:8ab053d6-a1ff-441a-b1ac-23ac9a63c82b`
+
+## Tracks (100)
+
+- **The Acacia Strain** — Carbomb [3750] (1:17) `isrc:USRZR0401601` `qobuz:49100139`
+- **The Red Chord** — Fixation On Plastics [Clients] (2:44) `isrc:USMBR0501820` `qobuz:60846973`
+- **Job For A Cowboy** — Entombment of a Machine [Doom] (4:07) `isrc:USMBR1309988` `qobuz:60622188`
+- **Glass Casket** — In Between the Sheets [We Are Gathered Here Today...] (5:05) `isrc:GBDHC0432008` `qobuz:51538154`
+- **The Partisan Turbine** — Inertia [Surgical Assault] (2:00) `isrc:USHM22047866` `qobuz:99103113`
+- **Waking The Cadaver** — Chased Through the Woods by a Rapist [Straight Outta Tha Ground Vol.1] (2:07) `isrc:QM4TX1720188` `qobuz:56185546`
+- **Despised Icon** — In the Arms of Perdition [The Ills of Modern Man] (4:25) `isrc:US4E40734201` `qobuz:27535737`
+- **Front Line Assembly** — Aftermath [Re-Wind] (7:27) `isrc:US57M0510302` `qobuz:95766592`
+- **Through the Eyes of the Dead** — Failure in the Flesh [Malice] (4:10) `isrc:USERN1007599` `qobuz:49207321`
+- **As Blood Runs Black** — In Dying Days [Allegiance] (3:41) `isrc:USFK90600028` `qobuz:105259192`
+- **Beneath The Massacre** — Society's Disposable Son [Mechanics of Dysfunction] (3:28) `isrc:USRZR0704202` `qobuz:49115205`
+- **Bring Me The Horizon** — Pray for Plagues [Count Your Blessings] (4:21) `isrc:GBEGS0600029` `qobuz:380469726`
+- **Whitechapel** — The Somatic Defilement [The Somatic Defilement] (5:18) `isrc:USMBR1309363` `qobuz:60769113`
+- **Whitechapel** — Prostatic Fluid Asphyxiation [The Somatic Defilement] (3:33) `isrc:USMBR1309365` `qobuz:60769115`
+- **Suicide Silence** — The Price of Beauty [The Cleansing] (2:46) `isrc:US4E40738804` `qobuz:27543290`
+- **Suicide Silence** — Unanswered [The Cleansing] (2:16) `isrc:US4E40738802` `qobuz:27543284`
+- **Suicide Silence** — No Pity for a Coward [The Cleansing] (3:12) `isrc:US4E40738806` `qobuz:27543296`
+- **Whitechapel** — Vicer Exciser [The Somatic Defilement] (2:53) `isrc:USMBR1309370` `qobuz:60769120`
+- **Carnifex** — Lie To My Face [Dead In My Arms] (3:01) `isrc:USCG40710120` `qobuz:66773519`
+- **Annotations Of An Autopsy** — Welcome To Sludge City [Welcome To Sludge City] (2:43) `isrc:USCG40710113` `qobuz:66778209`
+- **Knights Of The Abyss** — Dragon Pie [Jaggernaut] (3:25) `isrc:GBSOA0700810` `qobuz:56196148`
+- **Rose Funeral** — God Demise [The Resting Sonata] (4:18) `isrc:USMBR0806170` `qobuz:60770914`
+- **Suffokate** — Not the Fallen [No Mercy, No Forgiveness] (3:55) `isrc:USFK90900031` `qobuz:105259482`
+- **The Red Shore** — I Only Smile When You're Bleeding [Salvaging What's Left] (4:09) `isrc:AUMH00600250` `qobuz:74352263`
+- **Whitechapel** — This Is Exile [This Is Exile] (3:40) `isrc:USMBR0805803` `qobuz:60705519`
+- **Whitechapel** — Possession [This Is Exile] (5:04) `isrc:USMBR0805804` `qobuz:60705520`
+- **Impending Doom** — The Serpent Servant [The Serpent Servant] (3:26) `isrc:US38J0907802` `qobuz:77185939`
+- **Oceano** — District of Misery [Depths] (3:14) `isrc:GBBPB0803389` `qobuz:14673566`
+- **Molotov Solution** — The Harbinger [The Harbinger] (3:20) `isrc:USMBR0906571` `qobuz:60680660`
+- **Winds of Plague** — The Great Stone War [The Great Stone War] (4:18) `isrc:US4E40964110` `qobuz:27580130`
+- **The Crimson Armada** — Revelations II [Ceremony] (1:58) `isrc:QZES52531657` `qobuz:322374438`
+- **Despised Icon** — MVP [Day of Mourning] (3:26) `isrc:US4E40961403` `qobuz:27579829`
+- **And Hell Followed With** — This Night Is the Coroner's [Proprioception] (4:32) `isrc:GBBPB0804230` `qobuz:15651060`
+- **Chelsea Grin** — Recreant [Desolation Of Eden] (4:26) `isrc:USRZR1009108` `qobuz:54917400`
+- **Thy Art Is Murder** — Whore to a Chainsaw [Infinite Death] (3:20) `isrc:AUSK20800089` `qobuz:72753322`
+- **Upon A Burning Body** — Living in a Matrix [Blood of the Bull] (3:33) `isrc:QT6EG2526088` `qobuz:367737682`
+- **Fit For An Autopsy** — Do You See Him [Hellbound] (3:23) `isrc:USKO11301968` `qobuz:36709044`
+- **Impending Doom** — Murderer [Killing Floor 2 (Video Game Soundtrack)] (4:22) `isrc:USKO11101324` `qobuz:77925932`
+- **I Declare War** — Malevolence [Malevolence] (1:55) `isrc:USRZR1010001` `qobuz:54853748`
+- **Thy Art Is Murder** — The Purest Strain Of Hate [Hate] (3:25) `isrc:AUSH01200013` `qobuz:223081608`
+- **Thy Art Is Murder** — Reign Of Darkness [Hate] (3:35) `isrc:AUSH01200012` `qobuz:223081607`
+- **Make Them Suffer** — Neverbloom [Neverbloom] (6:34) `isrc:TCABO1367721` `qobuz:214132948`
+- **Infant Annihilator** — Pelt of Innocent Flesh [The Elysian Grandeval Galèriarch] (7:04) `isrc:TCACP1651394` `qobuz:126884936`
+- **Infant Annihilator** — Blasphemian [The Elysian Grandeval Galèriarch] (7:24) `isrc:TCACP1651395` `qobuz:126884937`
+- **Slice The Cake** — The Man With No Face [The Man With No Face] (21:08) `isrc:SEYOK1217210` `qobuz:204468510`
+- **The Last Ten Seconds Of Life** — The Dead Ones [The Dead Ones] (3:32) `isrc:USMBR2516954` `qobuz:370219210`
+- **The Last Ten Seconds Of Life** — Pain Is Pleasure [Soulless Hymns] (2:31) `isrc:USVR91428006` `qobuz:205383498`
+- **Your Last Breath** — Bigot [Bigot (feat. Paxton Grizzle & Brojob)] (2:26) `isrc:QZZ7M2528927` `qobuz:354291006`
+- **Aversions Crown** — Hollow Planet [Tyrant] (4:47) `isrc:DED831400931` `qobuz:60749638`
+- **Black Tongue** — Fauxhammer [Born Hanged / Falsifier (Redux)] (3:45) `isrc:US4E41417002` `qobuz:29089266`
+- **Fit For An Autopsy** — Absolute Hope Absolute Hell [Absolute Hope Absolute Hell] (4:27) `isrc:USKO11500927` `qobuz:26743436`
+- **The Jimmy´s** — Crazy Sound / Final Countdown / Like a Virgin / Billie Jean / I Want to Break Free / Rock Me Amadeus / Somebody / Dancing´in the Dark / Every Breath You Take / Here I Am / Baby Jane / (...) [Lovely 80´s] (15:22) `isrc:PTES19000502` `qobuz:137811493`
+- **Aversions Crown** — Erebus [Xenocide] (4:14) `isrc:DED831601477` `qobuz:60750372`
+- **Shadow of Intent** — The Heretic Prevails [Reclaimer] (4:48) `isrc:TCACZ1734655` `qobuz:125606644`
+- **Enterprise Earth** — The Failsafe Fallacy [Luciferous] (4:45) `isrc:USKO11800868` `qobuz:56910407`
+- **Fit For An Autopsy** — Black Mammoth [The Great Collapse (Rain City Deluxe Version)] (4:38) `isrc:USKO11700034` `qobuz:44468357`
+- **Hollow Prophet** — Disembodied Phenomena [Disembodied Phenomena] (4:24) `isrc:TCAEL1986534` `qobuz:125841400`
+- **Vulvodynia** — The Shadowy Descent of Gaia [Praenuntius Infiniti] (4:42) `isrc:QM6MZ2191090` `qobuz:119630136`
+- **Humanity's Last Breath** — Godhood [Godhood] (3:17) `isrc:GBDHC2448002` `qobuz:376488968`
+- **Carnifex** — Dark Heart Ceremony [Slow Death] (4:49) `isrc:DED831600483` `qobuz:60777157`
+- **Shadow of Intent** — Malediction [Melancholy] (5:40) `isrc:USHM21928943` `qobuz:85757799`
+- **Fit For An Autopsy** — The Sea of Tragic Beasts [The Sea of Tragic Beasts] (4:24) `isrc:DED831900778` `qobuz:62960274`
+- **Bodysnatcher** — Violent Obsession [Hell Is Here, Hell Is Home] (3:29) `isrc:US5ED2507484` `qobuz:372706903`
+- **Bound in Fear** — Lurking [A Mind Too Sick To Heal] (3:21) `isrc:QM6N22533162` `qobuz:361732377`
+- **Traitors** — Mental State [Mental State] (3:02) `isrc:GB5EA1603021` `qobuz:261313868`
+- **Distant** — Heritage (feat. Will Ramos of Lorna Shore) [Heritage (feat. Will Ramos of Lorna Shore)] (4:03) `isrc:GBDHC2336210` `qobuz:193053192`
+- **Carcosa** — Fade [Fade] (2:42) `isrc:QZS7J2514658` `qobuz:349195948`
+- **To the Grave** — Terrorist Threat [Epilogue] (2:52) `isrc:QMFMF2024085` `qobuz:112167541`
+- **Chelsea Grin** — Dead Rose [Eternal Nightmare] (3:32) `isrc:QMRSZ1800472` `qobuz:380491750`
+- **Spite** — Made To Please [Dedication To Flesh] (3:01) `isrc:QMRSZ2102968` `qobuz:380471439`
+- **Paleface Swiss** — The Orphan [Fear & Dagger] (6:23) `isrc:FRX872150903` `qobuz:138858842`
+- **Signs of the Swarm** — Death Whistle [Absolvere] (5:53) `isrc:QM6N22123444` `qobuz:120418601`
+- **Slaughter To Prevail** — Demolisher [Kostolom] (3:36) `isrc:USYFZ2034901` `qobuz:338231167`
+- **Slaughter To Prevail** — Bonebreaker [Kostolom] (4:25) `isrc:USYFZ2153201` `qobuz:338231166`
+- **Signs of the Swarm** — Amongst the Low & Empty [Amongst The Low & Empty] (4:00) `isrc:GBDHC2336303` `qobuz:209338454`
+- **Slaughter To Prevail** — Baba Yaga [Kostolom] (4:15) `isrc:USYFZ2153203` `qobuz:338231168`
+- **Within Destruction** — DEMON CHILD [ANIMETAL] (2:55) `isrc:USYFZ2424601` `qobuz:308922520`
+- **Slaughter To Prevail** — VIKING [Behelit] (4:31) `isrc:USYFZ2384101` `qobuz:289989704`
+- **Chappell Roan** — HOT TO GO! [The Rise and Fall of a Midwest Princess] (3:04) `isrc:USUG12305911` `qobuz:229054014`
+- **PSYCHO-FRAME** — INVERTED SPEAR OF HEAVEN [SALVATION LAUGHS IN THE FACE OF A GRIEVING MOTHER] (3:14) `isrc:DED832500055` `qobuz:336168532`
+- **Whitechapel** — Hymns in Dissonance [Hymns in Dissonance] (5:12) `isrc:USMBR2416532` `qobuz:304794200`
+- **Brand of Sacrifice** — Eclipse [The Interstice] (2:23) `isrc:TCADQ1867203` `qobuz:179829003`
+- **Brand of Sacrifice** — God Hand [God Hand] (3:04) `isrc:QM4TX1939927` `qobuz:179822163`
+- **In Gloom** — God The Animal [God The Animal (feat Brand of Sacrifice)] (6:03) `isrc:QZNWW2041987` `qobuz:134959895`
+- **Shrine of Malice** — Lord of Flies [Malignance] (7:11) `isrc:QZTAT2304343` `qobuz:228488979`
+- **AngelMaker** — Requiem [Angelmaker] (4:37) `isrc:QZES91997627` `qobuz:101582232`
+- **A Wake In Providence** — Godkiller [Godkiller] (7:36) `isrc:QM4TX2246834` `qobuz:151927635`
+- **제이엠진 JM jin** — BLACK LOTUS [Sinner's Crown] (2:20) `isrc:GXHND2518949` `qobuz:355722872`
+- **Crown Magnetar** — Desecrate Infinite [Desecrate Infinite] (3:11) `isrc:QMFMG2527255` `qobuz:367292127`
+- **Mental Cruelty** — Obsessis a Daemonio [Zwielicht] (5:07) `isrc:GBDHC2338702` `qobuz:203348947`
+- **Mental Cruelty** — Symphony of a Dying Star [Zwielicht] (4:11) `isrc:GBDHC2338708` `qobuz:203348953`
+- **Immortal Disfigurement** — King [KING] (5:56) `isrc:QZMEP2478860` `qobuz:352639022`
+- **Lorna Shore** — Of the Abyss [...And I Return To Nothingness - EP] (5:43) `isrc:GBDHC2124402` `qobuz:122017431`
+- **Lorna Shore** — To the Hellfire [...And I Return To Nothingness - EP] (6:09) `isrc:GBDHC2124401` `qobuz:122017430`
+- **Shadow of Intent** — The Migrant [The Migrant] (4:00) `isrc:FR96X2389416` `qobuz:201502095`
+- **Fit For An Autopsy** — Two Towers [Oh What the Future Holds] (5:46) `isrc:DED832100597` `qobuz:129989681`
+- **Lorna Shore** — Sun//Eater [Pain Remains] (6:10) `isrc:GBDHC2334003` `qobuz:163809385`
+- **Synestia** — Death Empress [The Poetic Edda] (3:48) `isrc:QZK6J2416160` `qobuz:264441604`
+- **Synestia** — The Poetic Edda [The Poetic Edda] (6:05) `isrc:QZTAT2340049` `qobuz:264441606`
+- **Lorna Shore** — Oblivion [I Feel The Everblack Festering Within Me] (8:19) `isrc:GBDHC2555602` `qobuz:331491438`

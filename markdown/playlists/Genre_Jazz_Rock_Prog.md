@@ -1,0 +1,108 @@
+# Genre: Jazz Rock Prog
+
+Imported genre playlist: Jazz Rock Prog.
+
+Services: `qobuz:66737752`
+
+## Tracks (100)
+
+- **Blood, Sweat & Tears** — Variations on a Theme by Erik Satie (1st and 2nd Movements - Adapted from "Trois Gymnopedies') [Definitive Collection / Extra CD] (2:27) `isrc:USSM19911955` `qobuz:13337974`
+- **Colosseum** — The Valentyne Suite: January's Search / February's Valentyne / The Grass Is Always Greener [Valentyne Suite] (16:56) `isrc:GBAJE0700628` `qobuz:387098927`
+- **The Tony Williams Lifetime** — Emergency [Emergency!] (9:35) `isrc:USPR36960037` `qobuz:770666`
+- **The Flock** — Clown [The Flock (Expanded Edition)] (7:42) `isrc:USSM10200305` `qobuz:61893073`
+- **Julie Driscoll, Brian Auger & The Trinity** — Season Of The Witch [Let The Sun Shine In] (7:44) `isrc:GBAKW6701001` `qobuz:2389078`
+- **John McLaughlin** — Extrapolation [Extrapolation] (3:52) `isrc:GBAKW0300706` `qobuz:630885`
+- **Nucleus** — Elastic Rock [Elastic Rock] (4:05) `isrc:GBUM70711967` `qobuz:61018230`
+- **Chicago** — Ballet for a Girl in Buchannon [Transmission Impossible] (14:16) `isrc:USY252009744` `qobuz:260797461`
+- **Larry Coryell** — Spaces (Infinite) [Spaces] (9:23) `isrc:USVG28850022` `qobuz:13161955`
+- **Ginger Baker's Airforce** — Da da Man (Live) [Airforce (Live)] (7:16) `isrc:DESK97090301` `qobuz:121715031`
+- **Miles Davis** — Right Off [A Tribute To Jack Johnson] (26:52) `isrc:USSM10303492` `qobuz:3110507`
+- **Traffic** — The Low Spark Of High-Heeled Boys [The Low Spark Of High Heeled Boys] (11:37) `isrc:GBAAN7100022` `qobuz:777423`
+- **Syrinx** — Tillicum [Tumblers from the Vault] (1:53) `isrc:US6PQ1500078` `qobuz:34822969`
+- **Don Ellis Orchestra** — 33 222 1 222 [Live At Monterey] (9:29) `isrc:USBN29800209` `qobuz:991141`
+- **Mahavishnu Orchestra** — Meeting of the Spirits [The Essential Mahavishnu Orchestra with John McLaughlin] (6:51) `isrc:USSM11105330` `qobuz:11402475`
+- **Herbie Hancock** — Ostinato (Suite for Angela) [The Warner Bros. Years (1969-1972)] (6:15) `isrc:USWB11400713` `qobuz:17931969`
+- **Santana** — Song of the Wind [Caravanserai] (6:09) `isrc:USSM17200768` `qobuz:16503352`
+- **Tasavallan Presidentti** — Lambertland [Lambertland] (6:57) `isrc:FISBA7200419` `qobuz:2469402`
+- **Back Door** — Slivadiv [Back Door] (3:47) `isrc:USWB10001644` `qobuz:2885377`
+- **Return To Forever** — Hymn Of The 7th Galaxy [Hymn Of The Seventh Galaxy] (3:31) `isrc:USPR37330003` `qobuz:4316503`
+- **Billy Cobham** — Stratus [Spectrum] (9:53) `isrc:USAT20109424` `qobuz:5253326`
+- **Eddie Henderson** — Scorpio Rising [Witness to History] (7:01) `isrc:QMCAL2300043` `qobuz:217885914`
+- **Dedalus** — Se Unio~ [Santiago] (3:42) `isrc:TCAIJ2431987` `qobuz:282598673`
+- **Jukka Tolonen** — Summer Games [Summer Games] (5:20) `isrc:FISBA7300184` `qobuz:2469460`
+- **Larry Coryell & The Eleventh House** — Bird Fingers [January 1975 - Livelove Series, Vol. 1] (2:49) `isrc:DEK391400337` `qobuz:49203509`
+- **Secret Oyster** — Mind Movie [Sea Son] (9:16) `isrc:USET70604502` `qobuz:103081689`
+- **Isotope** — Spanish Sun [Illusion] (7:49) `isrc:GBBZT7410048` `qobuz:145367702`
+- **Arti + Mestieri** — Articolazioni [Tilt] (13:41) `isrc:ITK197400023` `qobuz:17601577`
+- **Pekka Pohjola** — Sekoilu seestyy - The Madness Subsides [Harakka Bialoipokku] (4:17) `isrc:FISBA7400319` `qobuz:2469550`
+- **Eberhard Weber** — The Colours Of Chloë [The Colours Of Chloë] (7:49) `isrc:DEB337304202` `qobuz:219425432`
+- **Passport** — Cross Collateral [Cross Collateral] (13:32) `isrc:DEA620001168` `qobuz:11665329`
+- **Alphonse Mouzon** — Mind Transplant [Mind Transplant] (4:05) `isrc:USBN20300059` `qobuz:4744652`
+- **The Brecker Brothers** — Some Skunk Funk [The Brecker Bros.] (5:53) `isrc:USAR10201633` `qobuz:433306`
+- **Maneige** — Les porches de Notre-Dame [Les porches] (19:15) `isrc:CADC41411847` `qobuz:171558898`
+- **John Abercrombie** — Timeless [Timeless] (12:02) `isrc:DEB337404706` `qobuz:35329559`
+- **David Sancious** — Suite Cassandra [Forest of Feelings] (8:46) `isrc:USSM10311043` `qobuz:24877374`
+- **Jan Hammer** — The Seventh Day [The First Seven Days] (6:11) `isrc:USSM10206275` `qobuz:97135`
+- **Brand x** — Nuclear Burn [Unorthodox Behaviour] (6:23) `isrc:GBAAA7600067` `qobuz:1940830`
+- **Stanley Clarke** — School Days [School Days] (7:49) `isrc:USSM19701524` `qobuz:5379094`
+- **Jaco Pastorius** — Continuum [Jaco Pastorius] (4:33) `isrc:USSM19910102` `qobuz:13373290`
+- **Klaus Schulze** — The Final DAT, Pt. II [The Dark Side of the Moog, Vol. 6] (7:09) `isrc:DEMV91603275` `qobuz:30574496`
+- **Al Di Meola** — Race With Devil On Spanish Highway [Elegant Gypsy] (6:18) `isrc:USSM10008506` `qobuz:50348`
+- **Weather Report** — Birdland [Heavy Weather (Expanded Edition)] (5:59) `isrc:USSM17700260` `qobuz:5504534`
+- **Jean-Luc Ponty** — Enigmatic Ocean, Pt. II [Enigmatic Ocean] (3:35) `isrc:USAT20180853` `qobuz:11299601`
+- **Steely Dan** — Aja [Aja] (7:57) `isrc:USMC17647229` `qobuz:230070008`
+- **Zzebra** — You've Lost That Loving Feeling [Hungry Horse] (6:19) `isrc:DEMV92300399` `qobuz:232583844`
+- **Brad Mehldau** — Make It All Go Away [Finding Gabriel] (4:32) `isrc:USNO11800872` `qobuz:60584043`
+- **Andrew's Paradocks** — The Turning Point [Better Days] (2:54) `isrc:QZWFF2679705` `qobuz:410150089`
+- **Barbara Thompson** — Sax Rap [Bulletproof] (6:39) `isrc:UKQ892000054` `qobuz:151665092`
+- **U.K.** — In The Dead Of Night [U.K.] (5:34) `isrc:GBAAA7800369` `qobuz:1951352`
+- **Dixie Dregs** — The Odyssey [Live at Lee Furr's, Arizona, 1978 (Fm Radio Broadcast)] (7:39) `isrc:GBV951700186` `qobuz:74002868`
+- **Pat Metheny Group** — San Lorenzo [Pat Metheny Group] (10:21) `isrc:DEB337811401` `qobuz:98513279`
+- **Larry Carlton** — Room 335 [Greatest Hits Re-Recorded, Vol. 1] (7:20) `isrc:USZYW0806072` `qobuz:168759831`
+- **Bruford** — Five G [One Of A Kind] (4:36) `isrc:GBHPZ1700047` `qobuz:85416279`
+- **Spyro Gyra** — Shaker Song [Jubilee] (4:49) `isrc:USAR42400003` `qobuz:287668179`
+- **Casiopea** — Asayake [MINT JAMS] (4:57) `isrc:JPAL00900824` `qobuz:174397127`
+- **THE SQUARE / T-SQUARE** — LUCKY SUMMER LADY [Lucky Summer Lady] (7:35) `isrc:JPSR07821520` `qobuz:202315525`
+- **Nobuya Sugawa** — TO CHI KA 2000 [Sincerely For You] (4:57) `isrc:JPTO09827620` `qobuz:83953956`
+- **Uzeb** — Fast Emotion [Fast Emotion] (6:04) `isrc:CA94H8200030` `qobuz:64674202`
+- **The Trio of Stridence** — As Falls Wichita, so Falls Wichita Falls [Auditur Periculosum] (8:35) `isrc:USCGH1333841` `qobuz:92603990`
+- **Yellowjackets** — Imperial Strut [Yellowjackets] (5:29) `isrc:USWB19902593` `qobuz:2112730`
+- **Steps Ahead** — Pools [Steps Ahead] (11:15) `isrc:USEE10183326` `qobuz:2883260`
+- **Mezzoforte** — Garden Party [Surprise Surprise] (6:09) `isrc:ISA108301002` `qobuz:157755724`
+- **Mike Stern** — Nu Som [Eleven] (5:28) `isrc:USC4R1906507` `qobuz:73963806`
+- **Allan Holdsworth** — Devil Take the Hindmost [Metal Fatigue] (5:36) `isrc:USQE11710017` `qobuz:39396454`
+- **Rafael Verzina** — Also Sprach Zarathustra (2001) [Movie Wonderland] (4:50) `isrc:UKW3Z2304223` `qobuz:244386151`
+- **Bill Connors** — Child's Eyes [Theme To The Gaurdian] (4:22) `isrc:DEB337405702` `qobuz:2383156`
+- **George Duke** — Dawn [The Aura Will Prevail] (4:53) `isrc:DEUM70703862` `qobuz:23970564`
+- **Lenny White** — Chicken-Fried Steak [Venusian Summer] (4:35) `isrc:USCW62017601` `qobuz:94775256`
+- **Terje Rypdal** — Darkness Falls [Odyssey] (3:30) `isrc:DEB337506701` `qobuz:5325587`
+- **Jeff Beck** — Led Boots [Wired] (4:03) `isrc:USSM19911933` `qobuz:54690`
+- **Chick Corea** — Lenore [The Leprechaun] (3:25) `isrc:USPR37500035` `qobuz:62632739`
+- **Lee Ritenour** — Captain Fingers [Captain Fingers] (7:07) `isrc:USSM19912129` `qobuz:49755`
+- **Steve Khan** — Tightrope (For Folon) [Tightrope] (5:44) `isrc:USSM19927324` `qobuz:14404624`
+- **Caldera** — Sky Islands [Sky Islands] (6:11) `isrc:USCA29400258` `qobuz:130998237`
+- **Chick Corea Elektric Band** — Got A Match? [The Chick Corea Elektric Band] (5:39) `isrc:QZR8K2321013` `qobuz:397283254`
+- **John Scofield** — Still Warm [Still Warm] (6:02) `isrc:USRY20410648` `qobuz:11512383`
+- **Michael Brecker** — Nothing Personal [Michael Brecker] (5:31) `isrc:USMC18722756` `qobuz:60746886`
+- **Bill Bruford's Earthworks** — Thud [Earthworks] (4:14) `isrc:GBHPZ0400083` `qobuz:142022622`
+- **The Zawinul Syndicate** — Black Water [The Essential Joe Zawinul] (5:10) `isrc:USSM10803278` `qobuz:16422295`
+- **Béla Fleck And The Flecktones** — Sinister Minister [Om On The Range] (1:32) `isrc:GXBDS2317819` `qobuz:234309696`
+- **Shawn Lane** — Get You Back (Live) [Powers of Ten; Live! (20th Anniversary Edition)] (7:11) `isrc:USCGH2267993` `qobuz:146278715`
+- **Tribal Tech** — Face First [Face First] (7:04) `isrc:USAT20109354` `qobuz:2956371`
+- **Wayne Jackson** — There must be something more to this [The long goodbye] (4:21) `isrc:DEQ320700377` `qobuz:54972170`
+- **Scott Henderson** — Dog Party [Dog Party] (6:43) `isrc:USAT20108753` `qobuz:2811479`
+- **Dave Weckl** — In The Pocket [Hard-Wired] (5:31) `isrc:USGR19900275` `qobuz:502638`
+- **Niacin** — No Man's Land [Niacin] (4:58) `isrc:USC4R0302863` `qobuz:506171`
+- **Gary Wilis** — No Sweat [No Sweat] (6:40) `isrc:USCGH0547641` `qobuz:76412104`
+- **Greg Howe** — Extraction [Extraction] (6:13) `isrc:QM7281542894` `qobuz:79573296`
+- **Infragment** — Vital Tech Tones [Inmersión] (4:32) `isrc:GBSMU4854160` `qobuz:115791294`
+- **Oz Noy** — Schizophrenic [Schizophrenic] (7:12) `isrc:US78S0531704` `qobuz:72928646`
+- **Hiromi** — Return Of Kung-Fu World Champion [Spiral] (9:41) `isrc:USTE10563108` `qobuz:117489233`
+- **The Bad Plus** — The Radio Tower Has A Beating Heart [Never Stop] (5:44) `isrc:GBUM71024176` `qobuz:2370329`
+- **Jaga Jazzist** — One-Armed Bandit [One-Armed Bandit] (7:07) `isrc:NOYYC0901020` `qobuz:6282002`
+- **The Aristocrats** — Bad Asteroid [The Aristocrats] (5:53) `isrc:QMW2B1100003` `qobuz:90409026`
+- **Snarky Puppy** — Lingus [We Like It Here] (10:45) `isrc:US8JA1411008` `qobuz:46162718`
+- **Tigran Hamasyan** — Vardavar [EP N°1] (5:09) `isrc:FRUM71101996` `qobuz:4388167`
+- **Thank You Scientist** — FXMLDR [Terraformer] (7:56) `isrc:GBKPL1946890` `qobuz:156211496`
+- **Kneebody** — Anti-Hero [Anti-Hero] (5:59) `isrc:US9331722204` `qobuz:46214523`
+- **DOMi & JD BECK** — NOT TiGHT [Not Tight] (4:08) `isrc:USUM72209201` `qobuz:161540211`

@@ -1,0 +1,108 @@
+# Genre: Underground Hip-Hop
+
+Imported genre playlist: Underground Hip-Hop.
+
+Services: `qobuz:66732413` `tidal:bfb04786-4297-4288-9104-f4cff671551b`
+
+## Tracks (100)
+
+- **Ultramagnetic Mcs** — Ego Trippin' [Critical Beatdown (Deluxe Edition)] (5:27) `isrc:NLA320420794` `qobuz:2808121`
+- **K.M.D.** — Peachfuzz [Mr. Hood] (4:00) `isrc:USEE10505530` `qobuz:2152826`
+- **Main Source** — Live At The Barbeque (feat. Nas, Akinyele & Joe Fatal) [WIld Pitch Classics] (4:36) `isrc:USZXT0809873` `qobuz:120748681`
+- **Black Moon** — Who Got Da Props [Enta Da Stage] (4:30) `isrc:USNRS0020120` `qobuz:88320620`
+- **Lords of the Underground** — Chief Rocka [Here Come The Lords] (4:06) `isrc:USCA29401347` `qobuz:4683101`
+- **Artifacts** — Wrong Side of da Tracks [Between A Rock And A Hard Place] (4:20) `isrc:USAT20201924` `qobuz:43465490`
+- **Jeru The Damaja** — Come Clean [The Sun Rises In The East] (4:57) `isrc:USUM72403705` `qobuz:267430297`
+- **O.C.** — Time's Up [Word...Life (Deluxe Edition)] (3:25) `isrc:US6R21482693` `qobuz:71608312`
+- **Organized Konfusion** — Stress [Stress: The Extinction Agenda] (4:00) `isrc:US92U1904804` `qobuz:136149908`
+- **The Beatnuts** — Props Over Here [Street Level] (3:59) `isrc:USLR59900892` `qobuz:48198391`
+- **Group Home** — Supa Star [Livin' Proof] (5:21) `isrc:USUM71411885` `qobuz:18917152`
+- **Smif-n-Wessun** — Bucktown [Dah Shinin'] (4:07) `isrc:USNRS0020150` `qobuz:2571014`
+- **The Nonce** — Mix Tapes [World Ultimate (Deluxe Edition)] (3:30) `isrc:DEQ121753777` `qobuz:134881015`
+- **Blahzay Blahzay** — Danger [Blah Blah Blah] (3:45) `isrc:USPR39507366` `qobuz:34108805`
+- **Cella Dwellas** — Perfect Match [Perfect Match] (4:20) `isrc:USRC19603244` `qobuz:95771426`
+- **Heltah Skeltah** — Leflaur Leflah Eshkoshka [Nocturnal] (5:03) `isrc:USPO10700186` `qobuz:4706530`
+- **O.G.C.** — Hurricane Starang [Da Storm] (4:04) `isrc:USPO10600022` `qobuz:1923151`
+- **Atmosphere** — God's Bathroom Floor [God's Bathroom Floor] (3:58) `isrc:USBWK2000203` `qobuz:109248159`
+- **JC Coccoli** — Pittsburgh Catholic Perfection [Coming to the Stage Season 8] (12:16) `isrc:QMJYX2079808` `qobuz:92713587`
+- **Hieroglyphics** — You Never Knew [3rd Eye Vision] (4:33) `isrc:US28M0410222` `qobuz:72767765`
+- **Blackalicious** — Swan Lake [Melodica] (5:39) `isrc:USA2P1212008` `qobuz:6012932`
+- **Juggaknots** — Clear Blue Skies [Re:Release] (3:55) `isrc:DEQ021804646` `qobuz:180941302`
+- **Lootpack** — Whenimondamic [Soundpieces: Da Antidote] (2:45) `isrc:US2S70419005` `qobuz:122267237`
+- **Styles Of Beyond** — Nine Thou (Grant Mohrman Superstars Remix) [Nine Thou (Grant Mohrman Superstars Remix)] (4:02) `isrc:USHM80779813` `qobuz:239243102`
+- **The High & Mighty** — B-Boy Document '99 [Home Field Advantage] (3:54) `isrc:US3V89910121` `qobuz:108439684`
+- **Binary Star** — Reality Check [Masters of the Universe (2025 remastered)] (4:01) `isrc:QZWFR2586787` `qobuz:350017483`
+- **Dilated Peoples** — Work The Angles [The Platform] (4:00) `isrc:USCA20000354` `qobuz:3689013`
+- **Jedi Mind Tricks** — I Against I [Violent By Design] (3:49) `isrc:US36T0402208` `qobuz:371038570`
+- **Quasimoto** — Microphone Mathematics [The Unseen] (3:14) `isrc:US2S70425003` `qobuz:122269839`
+- **Sole** — bottle of humans [bottle of humans] (6:28) `isrc:USA2Y0400124` `qobuz:52192424`
+- **Zion I** — Bird's Eye View [True & Livin' (Bonus Track Version)] (2:34) `isrc:USA2P0733907` `qobuz:134952819`
+- **Aesop Rock** — Daylight [Labor Days] (4:26) `isrc:USA4T0401302` `qobuz:157535100`
+- **Cannibal Ox** — Iron Galaxy [The Cold Vein (Deluxe Edition)] (5:56) `isrc:USA2P1394770` `qobuz:190403119`
+- **Eyedea & Abilities** — Now [E&A] (4:22) `isrc:USBWK1100169` `qobuz:95205057`
+- **Immortal Technique** — Dance With The Devil [Revolutionary, Vol. 1] (9:39) `isrc:USA370629088` `qobuz:176961722`
+- **J-Live** — Braggin' Writes [The Best Part] (3:17) `isrc:USUYG1029440` `qobuz:56327740`
+- **Living Legends** — Never Fallin' [Classic] (5:22) `isrc:USUYG1035678` `qobuz:56319180`
+- **Wordsworth** — One Day [Mirror Music] (4:06) `isrc:US4GK0410007` `qobuz:72811362`
+- **EL-P** — Deep Space 9mm [Fantastic Damage] (3:47) `isrc:USA4T0402703` `qobuz:93310132`
+- **Jehst** — Alcoholic Author [The Return of the Drifter] (3:55) `isrc:GBULP1100010` `qobuz:37250483`
+- **Mr. Lif** — Live from the Plantation [I Phantom] (3:58) `isrc:QM6P41590855` `qobuz:275443115`
+- **Non Phixion** — Rock Stars [The Future Is Now] (3:59) `isrc:TCAAS1042236` `qobuz:187897817`
+- **People Under The Stairs** — Acid Raindrops [Acid Raindrops] (4:24) `isrc:USOM80312401` `qobuz:60270892`
+- **RJD2** — Ghostwriter [Deadringer: Deluxe] (5:17) `isrc:USA4T0403506` `qobuz:52402137`
+- **Sage Francis** — Makeshift Patriot [Punk-O-Rama, Vol. 8] (5:50) `isrc:USTC10634005` `qobuz:77639928`
+- **Brother Ali** — Forest Whitiker [Shadows On The Sun] (3:00) `isrc:USBWK0500120` `qobuz:95168313`
+- **Cunninlynguists** — Lynguistics [Will Rap for Food (Deluxe Edition)] (2:27) `isrc:TCABH1268796` `qobuz:275381522`
+- **Little Brother** — Lovin' It (feat. Joe Scudda) [The Minstrel Show] (3:51) `isrc:USAT20504671` `qobuz:4688547`
+- **Melody Gardot** — Ave Maria [Sunset In The Blue] (4:27) `isrc:GBUM72003806` `qobuz:116365698`
+- **MF DOOM** — Rapp Snitch Knishes [MM..FOOD] (2:52) `isrc:USBWK0700049` `qobuz:95160510`
+- **Murs** — H-U-S-T-L-E [Murs 3:16: The 9th Edition] (3:43) `isrc:USUYG1107971` `qobuz:56156169`
+- **Hooks & Sinkers** — Who the Fuck Is John Varatos [NY / CT Hardcore Connection] (3:07) `isrc:USHM91292348` `qobuz:84367181`
+- **Edan** — Fumbling Over Words That Rhyme [Beauty & The Beat] (2:55) `isrc:GBLVL0600004` `qobuz:73516478`
+- **One Be Lo** — Suez [110 PERCENT ROCKETSHIP] (2:25) `isrc:QZNWX2239933` `qobuz:175295104`
+- **SEAN PRICE** — Boom Bye Yeah [Monkey Barz] (3:13) `isrc:US6YF0900265` `qobuz:5782264`
+- **Smog** — Let's Move To The Country [Knock Knock] (3:05) `isrc:US58L0516101` `qobuz:48468497`
+- **J Dilla** — Workinonit [Donuts] (2:57) `isrc:US2S70626002` `qobuz:122264841`
+- **Blu & Exile** — Dancing In The Rain [Below The Heavens] (4:27) `isrc:USYBL0700289` `qobuz:194402911`
+- **Black Milk** — Up & Out [If There's a Hell Below] (2:40) `isrc:USHM81475092` `qobuz:67990102`
+- **Jean Grae** — My Contribution to This Scam [Everything's Fine] (4:42) `isrc:QMDA61829640` `qobuz:274761140`
+- **Shad** — The Old Prince Still Lives at Home [The Old Prince] (3:33) `isrc:CABD60701106` `qobuz:134342648`
+- **The Cool Kids** — A Little Bit Cooler [The Bake Sale] (2:51) `isrc:USA2P0843652` `qobuz:132919262`
+- **Fashawn** — Hey Young World [Boy Meets World] (4:06) `isrc:USH3G0702096` `qobuz:56313145`
+- **P.O.S** — Optimist (We Are Not For Them) [Never Better] (3:19) `isrc:USBWK0700427` `qobuz:95167050`
+- **Skyzoo** — The Beautiful Decay [The Salvation] (3:54) `isrc:US6YF0900017` `qobuz:287484291`
+- **Tanya Morgan** — So Damn Down [Brooklynati] (4:46) `isrc:USJYV0900034` `qobuz:94712000`
+- **Dark Time Sunshine** — The Rite Kids [LORE] (5:38) `isrc:USA2B2100020` `qobuz:111643680`
+- **Roc Marciano** — Snow [Marcberg] (4:03) `isrc:QM4TW2550681` `qobuz:322770067`
+- **Philthy Rich** — Big Dawg [Hometown Hero] (1:45) `isrc:USUYG1291748` `qobuz:84676828`
+- **Doomtree** — The Grand Experiment [No Kings] (3:46) `isrc:TCABA1147040` `qobuz:133808456`
+- **Elzhi** — Detroit State of Mind [Elmatic] (4:45) `isrc:USUYG1011144` `qobuz:56383811`
+- **Apollo Brown** — Nasty [Dice Game] (3:44) `isrc:USKVL1200170` `qobuz:274772813`
+- **billy woods** — Crocodile Tears [History Will Absolve Me] (3:33) `isrc:USA371692423` `qobuz:282577371`
+- **Porter Wagoner** — The First Mrs. Jones [The Cold Hard Facts of Life] (2:46) `isrc:USRN10100700` `qobuz:25964378`
+- **The Doppelgangaz** — Barbiturates [Hark (10 Year Anniversary Special Edition)] (3:23) `isrc:USQY51539589` `qobuz:213390327`
+- **Mick Jenkins** — Jazz [The Water (S)] (4:19) `isrc:QMKSC1400021` `qobuz:91003563`
+- **Open Mike Eagle** — Dark Comedy Morning Show [Dark Comedy] (3:23) `isrc:QMFME1456488` `qobuz:270304419`
+- **PRhyme** — Courtesy [PRhyme] (3:31) `isrc:QMLD61400031` `qobuz:20859494`
+- **Run The Jewels** — Close Your Eyes (And Count to Fuck) [Run The Jewels 2] (3:54) `isrc:QM8RL1400016` `qobuz:377069453`
+- **Earl Sweatshirt** — Grief [I Don't Like Shit, I Don't Go Outside: An Album by Earl Sweatshirt] (4:10) `isrc:USQX91500425` `qobuz:23362516`
+- **Milo Arden** — Sunset Souvenirs [Singles Together] (3:11) `isrc:AEA2Z2656156` `qobuz:398663176`
+- **Sammus** — Comments Disabled [Pieces In Space] (4:03) `isrc:USA2B1605366` `qobuz:48672522`
+- **Westside Gunn** — Mr. T [FLYGOD] (3:25) `isrc:USUYG1094344` `qobuz:56190518`
+- **Quelle Chris** — Buddies [Being You Is Great, I Wish I Could Be You More Often] (3:37) `isrc:QMBZ91621072` `qobuz:274759735`
+- **Rapsody** — Sassy [Laila’s Wisdom] (3:13) `isrc:QMJMT1701370` `qobuz:43392725`
+- **Your Old Droog** — G.K.A.C. [PACKS] (3:46) `isrc:US6680914069` `qobuz:108002645`
+- **Black Thought** — 9th vs. Thought [Streams of Thought Vol. 1] (2:47) `isrc:QM24S1814828` `qobuz:116182992`
+- **Saba** — BUSY/SIRENS [CARE FOR ME] (5:29) `isrc:QM24S1806210` `qobuz:276698411`
+- **38 Spesh** — Rugged Never Smooth [1994] (3:03) `isrc:USUYG1276958` `qobuz:74931102`
+- **Conway The Machine** — Tito's Back [Look What I Became] (4:52) `isrc:USUYG1270951` `qobuz:68892537`
+- **Crimeapple** — Wet Dirt [Wet Dirt] (4:15) `isrc:US92U1801503` `qobuz:108802190`
+- **Little Simz** — Venom [GREY Area] (2:34) `isrc:GBWWP1804476` `qobuz:178610124`
+- **Loyle Carner** — Ottolenghi [Not Waving, But Drowning] (3:17) `isrc:GBUM71806547` `qobuz:59820988`
+- **Wiki** — Eggs [Eggs] (3:16) `isrc:US92U1901087` `qobuz:109446289`
+- **Apollo Brown** — Freedom [As God Intended] (3:26) `isrc:QM6MZ2095138` `qobuz:274764561`
+- **Ransom** — Candyman Farewell to the Flesh [Directors Cut Scene 3] (2:06) `isrc:TCAFA2051719` `qobuz:274143611`
+- **SA-ROC** — Forever [The Sharecropper's Daughter (Explicit)] (4:46) `isrc:USBWK2000133` `qobuz:97855690`
+- **Stove God Cooks** — Rolls Royce Break Lights [Reasonable Drought] (3:19) `isrc:USUYG1301623` `qobuz:90401594`
+- **Rome Streetz** — Mud into Moet [Razor's Edge] (3:47) `isrc:QZK6P2131903` `qobuz:255747590`
+- **Fly Anakin** — No Dough [Frank] (1:31) `isrc:GBMYF2100068` `qobuz:349192275`

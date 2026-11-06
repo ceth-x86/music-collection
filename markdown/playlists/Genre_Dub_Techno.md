@@ -1,0 +1,106 @@
+# Genre: Dub Techno
+
+Imported genre playlist: Dub Techno.
+
+Services: `qobuz:66718885` `tidal:8cf2f74f-b9df-4b45-99f5-fc8e568153ed`
+
+## Tracks (98)
+
+- **Maurizio** — Eleye [Ploy] (6:10) `isrc:DEW259200211` `qobuz:49024594`
+- **Basic Channel** — Lyot Rmx [Lyot Rmx] (11:57) `isrc:DEW259300118` `qobuz:49022575`
+- **Juan Atkins** — Starlight [Starlight] (6:19) `isrc:GBQLP0800500` `qobuz:401915875`
+- **Mono Junk** — Channel B [Conducted] (8:58) `isrc:DEEP30600000` `qobuz:206267824`
+- **Petar Dundov** — Oasis [Oasis] (7:34) `isrc:BEN580800101` `qobuz:206251405`
+- **Burger/Ink** — Twelve Miles High [[las vegas]] (11:22) `isrc:USMTD9833404` `qobuz:58858384`
+- **Porter Ricks** — Nautical Dub [Biokinetics] (5:48) `isrc:QMXWW1210002` `qobuz:30206570`
+- **Memo PST** — Puzzle Piece [Puzzle Piece b/w Killed By A Loser] (3:17) `isrc:QZQCH2500001` `qobuz:345938756`
+- **Culoe De Song** — The One [Elevation] (5:40) `isrc:ZAO601100052` `qobuz:140809121`
+- **Monolake** — Occam [Hongkong Remastered] (7:40) `isrc:USI4R0801415` `qobuz:71824865`
+- **System Of A Down** — I-E-A-I-A-I-O [Steal This Album!] (3:08) `isrc:USSM10213326` `qobuz:37455624`
+- **Samia** — Cinder Block [Cinder Block] (3:42) `isrc:QM5BK1900791` `qobuz:352820640`
+- **Rhythm & Sound** — Carrier [Rhythm & Sound] (6:27) `isrc:DEW250100607` `qobuz:49024673`
+- **Jorge Felucca** — Pussy Clap [Deadlock / Pussy Clap] (7:21) `isrc:GBGXG1600631` `qobuz:48834988`
+- **Music Pub** — Relaxing Summer Day [Soothing Jazz Piano] (3:24) `isrc:QT4K52523094` `qobuz:341349332`
+- **Vladislav Delay** — Raamat [Multila] (7:18) `isrc:DEX262000003` `qobuz:88154579`
+- **Kaltblume** — Defective Memory [Atlantica Night Ride] (5:25) `isrc:NLCK42510716` `qobuz:343577375`
+- **Basic Channel** — The Climax [Basic Reshape] (13:25) `isrc:DEW250400138` `qobuz:49044195`
+- **Jenny Lewis** — Red Bull & Hennessy [On the Line] (4:48) `isrc:USWB11803412` `qobuz:58306077`
+- **Deadbeat** — Together [Lnoe in Dub] (6:00) `isrc:GB94U1700416` `qobuz:269515265`
+- **Signer** — Building Memories Without You [Low Light Dreams] (6:14) `isrc:US22N0402002` `qobuz:154386280`
+- **Gabrieli Consort** — Christmas Mass - Processional:"Christum wir sollen loben schon" - Arranged By Michael Praetorius / Har. Lucas Osiander [111 Years of Deutsche Grammophon] (3:14) `isrc:DEF059303420` `qobuz:4905960`
+- **andreas tilliander** — She Don't Cry [Showtime] (7:01) `isrc:SEVUE1000103` `qobuz:179279815`
+- **Mikkel Metal** — Memories [Victimizer] (5:41) `isrc:DEU670600064` `qobuz:14884947`
+- **Joe Hisaishi** — Merry-Go-Round of Life [A Symphonic Celebration - Music from the Studio Ghibli Films of Hayao Miyazaki] (2:49) `isrc:JPPO02204169` `qobuz:216672962`
+- **Deepchord Presents: Echospace** — Aequinoxium [The Coldest Season] (13:30) `isrc:USA2Z1110206` `qobuz:119886370`
+- **Deepchord Presents: Echospace** — First Point of Aries [The Coldest Season] (6:38) `isrc:USA2Z1110203` `qobuz:119886367`
+- **Martin James Bartlett** — Herz und Mund und Tat und Leben, BWV 147: X. Jesu Joy of Man's Desiring (Arr. Hess for Piano) [Love and Death] (3:47) `isrc:GBAYC1900121` `qobuz:60953619`
+- **Intrusion** — Tswana Dub [echospace313-3-LP-2] (4:41) `isrc:GBQLP2500457` `qobuz:398027239`
+- **The Black Keys** — Your Touch (2016 Remaster) [Magic Potion] (2:42) `isrc:USNO11600349` `qobuz:45001874`
+- **Yagya** — Rigning Tvö [Rigning (2018)] (6:35) `isrc:NLM791800015` `qobuz:399413741`
+- **Deepchord Presents: Echospace** — Summer Haze [Liumin] (7:33) `isrc:USA2Z1110263` `qobuz:119884641`
+- **Viola James** — I'm Going Home to Live With Jesus [Worried Now, Won't Be Worried Long: Alan Lomax’s "Southern Journey," 1959–1960] (3:49) `isrc:USVX41000026` `qobuz:77452708`
+- **ROSALÍA** — La Perla [LUX] (3:15) `isrc:USSM12504035` `qobuz:367340015`
+- **Essential Empire Presents** — FRESH TO DEF (ORIGINAL) [FRESH TO DEF (ORIGINAL)] (2:24) `isrc:QZTB22505608` `qobuz:340187242`
+- **Androcell** — Spectral Processor [Efflorescence [CD Rec 003](Chill-out / Psy-dub / Downtempo)] (7:37) `isrc:USHM80990932` `qobuz:70036935`
+- **Oscar Peterson** — Bag's Groove [Night Train] (5:42) `isrc:USPR36260036` `qobuz:112883692`
+- **Krisz Deak** — Sign [Journey] (9:12) `isrc:GBKQU1684748` `qobuz:111052362`
+- **Fingers In the Noise** — Black Coffee [Black] (6:30) `isrc:CH6541758114` `qobuz:46156596`
+- **NOX-LEVEL** — Liquid Carbon [Eclipse] (1:11) `isrc:ESA122658511` `qobuz:410531419`
+- **Vexillary** — In Danger [Horror ReDubs] (4:46) `isrc:CALVP2458542` `qobuz:389445174`
+- **Niccolo Machiavelli** — Kapitel 1 - Der Fürst [Der Fürst] (2:10) `isrc:DEWM51765280` `qobuz:90040093`
+- **Zac Brown Band** — Chicken Fried [The Foundation] (3:58) `isrc:USAT20804178` `qobuz:130924077`
+- **Children Of The Bong** — Symbol I [Sirius Side Effects] (6:27) `isrc:GBCSF2500010` `qobuz:347317469`
+- **The Algorithm** — floating point [Brute Force] (5:07) `isrc:QM5LC1600008` `qobuz:49635489`
+- **Dream Theater** — Fall into the Light [Distance Over Time] (7:04) `isrc:GBDHC1906503` `qobuz:56741122`
+- **Deluxe** — El amor valiente [Fin De Un Viaje Infinito] (5:50) `isrc:ES5080700098` `qobuz:1943550`
+- **Hans Zimmer** — Leave No Man Behind [Black Hawk Down] (6:18) `isrc:USUMC0110416` `qobuz:53120639`
+- **Yapa** — Pulse Code Modulation [Can I Talk to You (Live)] (3:37) `isrc:CH6541712921` `qobuz:40415309`
+- **AURORA** — All Is Soft Inside [Infections Of A Different Kind – Step 1] (5:08) `isrc:GBUM71804528` `qobuz:53708813`
+- **Myonne** — Terminal Velocity [Terminal Velocity] (4:31) `isrc:QZZ7K2617506` `qobuz:417378623`
+- **Air** — Cosmic Trip [Le voyage dans la lune] (4:10) `isrc:FRU521100015` `qobuz:335060290`
+- **Markus Masuhr** — Displace Closeness [Nature of Senses] (7:32) `isrc:DEED40600283` `qobuz:194696754`
+- **Christoph Schindling** — stolen moon [orbital] (0:35) `isrc:GXBDS2569776` `qobuz:345827555`
+- **Zoltán Kocsis** — Etude-Tableau No. 1 in F Minor, Op. 33 (Allegro non troppo) [Rachmaninoff: Piano Sonata No.2, Preludes, Etudes] (2:14) `isrc:NLA509403208` `qobuz:4414694`
+- **Mohini Geisweiller** — Random [Event Horizon] (2:46) `isrc:FRZ081001197` `qobuz:3113347`
+- **CFCF** — Re-Utopia [Liquid Colours] (3:36) `isrc:QZ5FN1912463` `qobuz:316987359`
+- **Bob Marley & The Wailers** — Natural Mystic [Exodus] (3:27) `isrc:USIR27700008` `qobuz:162075285`
+- **Submoon** — Unknown Places for Thoughts of Hope [Etui Winter Camp, Vol. 4] (4:39) `isrc:DEED40600199` `qobuz:48379818`
+- **Legiac** — Jefre Tropod [The Voynich Manuscript] (5:49) `isrc:TCACR1660992` `qobuz:39479411`
+- **Sonitus Eco** — Coffee & Dub [Techno For Breakfast EP] (7:04) `isrc:GBKQU1318900` `qobuz:113026280`
+- **Halsey** — Experiment On Me [Birds of Prey: The Album] (3:34) `isrc:USAT21907519` `qobuz:84368955`
+- **The Blue Stones** — Little Brother [Black Holes] (2:51) `isrc:USKO11800763` `qobuz:51745611`
+- **Samael** — Hegemony [Hegemony] (3:47) `isrc:ATN261771801` `qobuz:47114461`
+- **Anggita AP** — Welcome Imlek 2.0.2.5 [Happy Imlek 2.0.2.5] (1:52) `isrc:GXD7G2560865` `qobuz:320313519`
+- **National Health** — The Bryden 2-Step (For Amphibians) [Part 1] [Of Queues and Cures] (8:53) `isrc:GBAWA0349636` `qobuz:219340132`
+- **The Apartments** — Speechless with Tuesday [The Evening Visits... And Stays for Years] (5:18) `isrc:QMMZN1300666` `qobuz:22974672`
+- **Ólafur Arnalds** — Reminiscence [The Chopin Project] (4:28) `isrc:GBUM71406942` `qobuz:22136774`
+- **Fat White Family** — The Archivist [Forgiveness Is Yours] (1:29) `isrc:GBCEL2303384` `qobuz:249577385`
+- **Brando Lupi** — Something Blue [Landscapes vol.1] (7:40) `isrc:NLCK42501818` `qobuz:314942218`
+- **Yeah Yeah Yeahs** — Spitting Off the Edge of the World [Cool It Down] (4:17) `isrc:US38W2247001` `qobuz:177143886`
+- **Michal Leah** — The Way I Love You [The Way I Love You] (2:32) `isrc:CAN112201024` `qobuz:178384790`
+- **Oracle Sisters** — Asc. Scorpio [Asc. Scorpio] (2:46) `isrc:FR10S2030813` `qobuz:190137010`
+- **Stereopony** — 泪のムコウ [Hydrangea Ga Saiteiru] (3:30) `isrc:JPSR00804301` `qobuz:95589737`
+- **Freddie Gibbs** — Mar-a-Lago [Alfredo 2] (2:59) `isrc:USA2P2514518` `qobuz:346370531`
+- **Joan As Police Woman** — The Magic [The Deep Field] (4:10) `isrc:BEP011000164` `qobuz:3144435`
+- **Black Velvet** — Bang Bang Néon [Bang Bang Néon] (3:25) `isrc:QT6EG2680740` `qobuz:431714818`
+- **Jah Shaka** — Identity Dub [Authentic Dubwise: Jah Shaka Meets Fire House Crew] (4:15) `isrc:QM6N21708918` `qobuz:51225060`
+- **Emma-Jean Thackray** — Red Bush [Ley Lines] (4:12) `isrc:UKF2D1880011` `qobuz:93927565`
+- **BLACKPINK** — As If It's Your Last [BLACKPINK 2018 TOUR 'IN YOUR AREA' SEOUL] (3:44) `isrc:KRA401900103` `qobuz:69314442`
+- **Dt​-​90** — Alone Man [Alone Man] (6:31) `isrc:GBKQU1570243` `qobuz:111566833`
+- **Adrian Von Ziegler** — Forgotten Gods [The Celtic Collection III] (3:29) `isrc:USDY41995459` `qobuz:64743464`
+- **Torben Enevoldsen** — Altitudes [Warmth in the Wilderness - A Tribute to Jason Becker] (5:48) `isrc:USHM90791479` `qobuz:79357452`
+- **Michael Schulte** — Niemals dran gezweifelt [WE LOVE UDO - Das Udo Lindenberg Tribute Album] (3:44) `isrc:DEA622600119` `qobuz:396127455`
+- **Bruce Cockburn** — 40 Years In The Wilderness [Bone On Bone] (4:17) `isrc:CAT241700061` `qobuz:319836937`
+- **Berit Lindholm** — Hojotoho! Hojotoho! "Walkürenritt" – War't ihr Kühnen zu zwei? [Wagner: Die Walküre] (8:24) `isrc:GBF071240130` `qobuz:20256049`
+- **Bob Dylan** — It Ain't Me Babe [Another Side Of Bob Dylan] (3:32) `isrc:USSM16401179` `qobuz:4884365`
+- **Julión Álvarez Y Su Norteño Banda** — Vibra Perfecta [¿Quién?] (3:03) `isrc:QZ7HP2400109` `qobuz:294498617`
+- **Forest Drive West** — Lost Signal [Molten Mirrors: A Decade of Livity Sound] (5:08) `isrc:GBRYX2100305` `qobuz:128046005`
+- **Grad_U** — Pacific Lair [Echoes Of Cords] (11:14) `isrc:LTE232500096` `qobuz:355739670`
+- **Jana Horn** — Unused [Jana Horn] (4:53) `isrc:USLKU2501007` `qobuz:364031238`
+- **Deepchord** — Immersion I [Immersions] (18:13) `isrc:UKDMZ1800001` `qobuz:397485757`
+- **In Gowan Ring** — Aurora [Full Flower Moon] (5:52) `isrc:QZGWW2080375` `qobuz:153001273`
+- **Andy Williams** — Can't Take My Eyes Off You [Music to Watch Girls By: The Best of Andy Williams] (3:09) `isrc:USSM16701010` `qobuz:96766974`
+- **Andrew Peterson** — The Ninety and Nine [Carried Along] (4:12) `isrc:USES29900070` `qobuz:2064011`
+- **Joel Geal** — Hidden Secrets [Flower Forest] (3:00) `isrc:DE1H12404099` `qobuz:306509382`
+- **Mike Rauss** — No Mind Dub [Minutes Made of Years] (4:13) `isrc:GBMJG2217700` `qobuz:433747813`
+- **Anders Jormin** — Innocence [Polarity — an Acoustic Jazz Project] (5:07) `isrc:NOMPP1801010` `qobuz:57618561`

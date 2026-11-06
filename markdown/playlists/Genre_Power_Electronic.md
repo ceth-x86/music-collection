@@ -1,0 +1,108 @@
+# Genre: Power Electronic
+
+Imported genre playlist: Power Electronic.
+
+Services: `qobuz:66733578` `tidal:cda76ee4-8032-4723-b616-a2e0d1c060e4`
+
+## Tracks (100)
+
+- **Church of Misery** — Dusseldorf Monster (Peter Kurten) [Thy Kingdom Scum] (12:45) `isrc:GBMLU1316307` `qobuz:56262065`
+- **Andrés Calamaro** — La parte de adelante [Honestidad Brutal] (4:21) `isrc:ES5019953003` `qobuz:2582438`
+- **Kaytranada** — DESPITE THE WEATHER [99.9%] (2:01) `isrc:GBBKS1600020` `qobuz:33931939`
+- **Tracy Chapman** — Stand by Me [Greatest Hits] (2:49) `isrc:USRH11508098` `qobuz:27956674`
+- **B’Rock Orchestra** — Handel: Orlando, HWV 31 / Act 3 - Rec. "S'è corrisposto un core" - No. 30 Aria "Amor è qual vento" [Georg Friedrich Händel : Orlando] (5:34) `isrc:DEN961330831` `qobuz:16174834`
+- **528 hz** — Anti Anxiety Cleanse - Stop Overthinking Phase 2 [Anti Anxiety Cleanse - Stop Overthinking] (5:31) `isrc:ATB571917082` `qobuz:66833899`
+- **Cottonwood Firing Squad** — untitled demo 113 [death metal, golden retriever] (2:37) `isrc:QZHN82292738` `qobuz:156875921`
+- **Annenmaykantereit** — Als ich ein Kind war [Es ist Abend und wir sitzen bei mir] (4:33) `isrc:DE1CR2200016` `qobuz:197244965`
+- **Genocide Organ** — Hate [Mind Control] (4:15) `isrc:QM6N21888757` `qobuz:76257008`
+- **Ben Harper** — When Love Is Not Enough [No Mercy In This Land] (4:08) `isrc:USEP41731016` `qobuz:77619517`
+- **Simon & Garfunkel** — The Sound of Silence [Sounds Of Silence] (3:10) `isrc:USSM16401131` `qobuz:20534163`
+- **Amon Tobin** — Bad Sex [Xen Cuts] (5:45) `isrc:GBCFB0001810` `qobuz:238004309`
+- **Victims Family** — The Germ [Germ] (3:09) `isrc:US2B20410801` `qobuz:52332390`
+- **$uicideboy$** — The Number You Have Dialed Is Not in Service [Long Term Effects of SUFFERING] (2:45) `isrc:QZAPK2000201` `qobuz:125385287`
+- **Jean Lumière** — Maman vous êtes la plus belle [Voulez-vous danser grand'mère ? (feat. Jacques Météhen et son orchestre, Marcel Carniven et son orchestre)] (2:56) `isrc:FRS181464629` `qobuz:18652472`
+- **Seventeen** — MOONWALKER [YOU MAKE MY DAY] (3:00) `isrc:KRA871800011` `qobuz:221344721`
+- **Incapacitants** — Yellow Silk Buddha [A Purpose Not Necessary] (30:40) `isrc:QM6MZ1960717` `qobuz:61624681`
+- **Sshe Retina Stimulants** — Gauze Surfing, Next [Neurotransmitter Actions] (4:41) `isrc:DEZ651356388` `qobuz:157830019`
+- **Discordant Discharge** — Engineering Heaven [Engineering Heaven] (4:24) `isrc:QT6ED2667907` `qobuz:430269755`
+- **K.I.Z** — Mehr als nur ein Fan [Rap über Hass] (4:48) `isrc:DECE72006595` `qobuz:122035447`
+- **Heretical Rites** — Cumrag of Turin [A Blessing Not From God] (2:01) `isrc:QZNWS2407602` `qobuz:270143453`
+- **AC/DC** — Thunderstruck [Iron Man 2] (4:53) `isrc:AUAP09000014` `qobuz:19906146`
+- **Fred Mollin** — Something There [Princess Lullaby: Soothing Instrumental Lullabies For Little Princesses] (3:15) `isrc:USWD10220272` `qobuz:54893490`
+- **Survival Unit III** — Never Eat Anything Bigger Than Your Head [Game Theory] (21:47) `isrc:QMDA61385530` `qobuz:75406957`
+- **Alteanne ASMR** — Chine, polémiques et ce qui m’est arrivé [ASMR PYJAMA DRAMA (à coeur ouvert...)] (8:51) `isrc:QT62V2532350` `qobuz:372721782`
+- **Coroner** — Suicide Command [R.I.P.] (4:19) `isrc:CH0011701053` `qobuz:48632309`
+- **Berlin** — Take My Breath Away [Top Gun - Motion Picture Soundtrack (Special Expanded Edition)] (4:16) `isrc:USSM19801613` `qobuz:2719930`
+- **Groove Movement** — Victim [By Definition] (3:48) `isrc:USHM80893412` `qobuz:77195909`
+- **Jeff Tweedy** — Forever Never Ends [Twilight Override] (3:11) `isrc:QMKRW2500087` `qobuz:345509435`
+- **New Order** — Regret [Republic] (4:11) `isrc:GBAAP1500092` `qobuz:35996475`
+- **Monteverdi Choir** — J.S. Bach: Weihnachts-Oratorium, BWV 248, Pt. 3: No. 28, Chorale. Dies hat er alles uns getan [Bach, J.S.: Christmas Oratorio; St. Matthew Passion; St. John Passion; Mass in B minor] (0:43) `isrc:DEF058730139` `qobuz:571694`
+- **The Grey Wolves** — Pure Hatred (Live) [Exit Wounds] (2:49) `isrc:QM6N22467155` `qobuz:267702202`
+- **Shiro Sagisu** — Persecution Of The Masses (1172) [Shin Godzilla (Original Motion Picture Soundtrack)] (4:26) `isrc:US5941406459` `qobuz:86819493`
+- **The Smiths** — Nowhere Fast [Meat Is Murder] (2:37) `isrc:GBCRL1300020` `qobuz:10474532`
+- **Keith Jarrett** — The Masquerade Is Over [After The Fall] (15:49) `isrc:DEB339859001` `qobuz:46799969`
+- **The Jack Saints** — Nightmares In A Damaged Brain [Rock And Roll Saved Our Lives...But Now It's Trying To Kill Us!] (2:21) `isrc:ITKO70610059` `qobuz:74745716`
+- **Alex Chilton** — Dominating Force (Live) [Ocean Club '77] (3:33) `isrc:QM4TX1559184` `qobuz:67429621`
+- **John Legend** — Show Me [Once Again] (4:58) `isrc:USSM10605262` `qobuz:11832209`
+- **P.O.D.** — Execute the Sounds [Payable on Death] (3:00) `isrc:USAT20302818` `qobuz:2925484`
+- **Damn Low** — Death Pact [Death Pact] (2:53) `isrc:FRR642401250` `qobuz:287464101`
+- **Jenny Owen Youngs** — Goldenrod [Avalanche] (4:25) `isrc:USY1R2306603` `qobuz:294248342`
+- **Morbid Angel** — Prayer of Hatred [Formulas Fatal to the Flesh] (4:28) `isrc:GBBPB0400438` `qobuz:15641264`
+- **The Smiths** — Please, Please, Please Let Me Get What I Want [Hatful of Hollow] (1:52) `isrc:GBCRL1100072` `qobuz:4264692`
+- **Operation Cleansweep** — Powerhungry [Release Now! Hungry for Power] (15:22) `isrc:QM6N22043914` `qobuz:95222419`
+- **Larry Gatlin & The Gatlin Brothers Band** — What Are We Doin' Lonesome [Not Guilty (Expanded Edition)] (2:33) `isrc:USSM19916105` `qobuz:47274155`
+- **Teenage Bottlerocket** — Be with You [They Came From The Shadows] (1:42) `isrc:USFW40974711` `qobuz:347870250`
+- **Three Black Eyes** — Cotton Wool [Everyone Is No-One] (2:14) `isrc:FR9W11100797` `qobuz:54834778`
+- **James Last** — Wem Gott will rechte Gunst erweisen / Üb' immer Treu und Redlichkeit / Ein Männlein steht im Walde [Ännchen von Tharau bittet zum Tanz] (3:25) `isrc:DEUM71900795` `qobuz:60796525`
+- **Alberich** — Snow Is Falling in the Ruins of Stalingrad [Nibel-Infrared, Vol. 1] (5:06) `isrc:USA2Z2500759` `qobuz:342007995`
+- **Narciso Yepes** — Rodrigo: Concierto de Aranjuez for Guitar and Orchestra: II. Adagio [Rodrigo: Concierto di Aranjuez] (11:15) `isrc:DEF057900402` `qobuz:26589518`
+- **Ibrahim Maalouf** — Baïkal [Dans les forêts de Sibérie (Bande originale du film)] (2:55) `isrc:FRP8H1600130` `qobuz:32397047`
+- **The White Buffalo** — Kingdom For A Fool [Year Of The Dark Horse] (3:28) `isrc:GBUM72201528` `qobuz:190595637`
+- **Indie Rose** — Under the Moon's Iron Gaze [Under the Moon's Iron Gaze] (3:11) `isrc:QT5M22657164` `qobuz:385013692`
+- **Katzenjammer** — Soviet Trumpeter [A Kiss Before You Go] (4:11) `isrc:NOPRR1102080` `qobuz:47108262`
+- **Uncle Acid & the Deadbeats** — Death's Door [Blood Lust] (7:15) `isrc:GBMLU1213902` `qobuz:56253338`
+- **De La Soul** — Sunny Storms [Cabin In The Sky] (3:24) `isrc:QMFMF2594024` `qobuz:369830162`
+- **Lauri Porra** — Sometimes I Can't Stop Myself [Seasons in Moominvalley] (1:46) `isrc:DEE862402309` `qobuz:312941706`
+- **BEN plg** — La symphonie de l'arrêt de bus [Réalité Rap Musique, Vol. 1] (2:38) `isrc:FR8Y72200124` `qobuz:375957314`
+- **The Jubilee Gospel Team** — I Know The Lord Has Laid His Hands On Me [The Jubilee Gospel Team (1928) & Deep River Plantation Singers (1931)] (3:11) `isrc:USA560590845` `qobuz:956771`
+- **¡Mayday!** — Against My Better Judgement [Future Vintage] (4:55) `isrc:USZHR1500126` `qobuz:27258506`
+- **You Know Who!** — I've Fallen And I Can’t Get Up [Nu Groove Edits, Vol. 7] (5:26) `isrc:GBCPZ2324888` `qobuz:359047495`
+- **Bring Me The Horizon** — One Day The Only Butterflies Left Will Be In Your Chest As You March Towards Your Death [POST HUMAN: SURVIVAL HORROR] (4:03) `isrc:GBARL2001278` `qobuz:103252972`
+- **Joni Mitchell** — Big Yellow Taxi [Joni Mitchell Archives, Vol. 4: The Asylum Years (1976-1980)] (3:03) `isrc:USRH12401750` `qobuz:282345336`
+- **Lin-Manuel Miranda** — The Story of Tonight [Hamilton. An American Musical] (1:31) `isrc:USAT21502645` `qobuz:26464366`
+- **Rap La Rue** — Katastrophe [Katastrophe] (3:18) `isrc:DEKF22400268` `qobuz:256172526`
+- **Âmes Sanglantes** — Unaware of Their Behavior [Crackdown] (47:15) `isrc:USA2Z1710725` `qobuz:52473849`
+- **The Chicks** — Hole in My Head [Fly] (3:22) `isrc:USSM19901541` `qobuz:30990936`
+- **Mammal Hands** — The Spinner [Gift from the Trees] (5:19) `isrc:GBVTB2361001` `qobuz:192720621`
+- **Puce Mary** — The Spiral [The Spiral] (5:39) `isrc:GBHLW1700863` `qobuz:237836640`
+- **Pharmakon** — Transmission [Contact] (4:54) `isrc:US5NR1717503` `qobuz:37690835`
+- **Nail Bite** — Pain [Anomaly] (1:33) `isrc:QZMEP2534534` `qobuz:340126597`
+- **Lorn** — Dead Dogs [Ask The Dust] (4:11) `isrc:GBCFB1203208` `qobuz:6252106`
+- **Blue Foundation** — Eyes on Fire [Life Of A Ghost] (5:02) `isrc:DKABA0700900` `qobuz:4890246`
+- **Mogens Klyvare Hose Band** — Den felande länken [SWEDISH MEATBALLS Vol 2 - The Hard Rock Psych Underground 1970-1977] (5:06) `isrc:SEWRL2200806` `qobuz:178775171`
+- **Christopher Tin** — Kia Hora Te Marino [Calling All Dawns] (3:18) `isrc:US7LW0900012` `qobuz:99362065`
+- **Sylvie Courvoisier** — A Line Through Time [Angel Falls] (7:30) `isrc:CH2702505774` `qobuz:350445414`
+- **Cadlag** — Matrix [Tensor] (3:28) `isrc:SIA302558002` `qobuz:339750049`
+- **Tove Lo** — Talking Body [Queen Of The Clouds] (3:58) `isrc:SEUM71401533` `qobuz:19635964`
+- **Promise the Unbreakable** — If Today Was My Last Day [All You Could Do Is All You Could Do] (3:50) `isrc:USHM92668954` `qobuz:431816995`
+- **Skitzoid** — Industrial Break Development [Nothing But... Drum & Bass Revolution, Vol. 16] (4:49) `isrc:GBKQU2371144` `qobuz:414412371`
+- **System Of A Down** — Violent Pornography [Mezmerize] (3:31) `isrc:USSM10501583` `qobuz:160065`
+- **Metric** — Victim Of Luck [Romanticize The Dive] (3:23) `isrc:QMFMG2532673` `qobuz:376216373`
+- **Black Label Society** — In This River [Mafia] (3:55) `isrc:USAR50451581` `qobuz:53817149`
+- **Heavenly Soundwaves** — I Am Not Who I Was [I Am Not Who I Was] (4:21) `isrc:QZWFN2657515` `qobuz:412634137`
+- **Mark Padmore** — Selbstgespräch WoO 114 [Beethoven - Haydn - Mozart : Lieder] (3:18) `isrc:USHM11461111` `qobuz:23301354`
+- **Lucy Dacus** — Night Shift [Historian] (6:31) `isrc:USMTD1810669` `qobuz:47394104`
+- **Louis-Ferdinand Céline** — Mort à crédit / Voyage au bout de la nuit [Mort à crédit / Voyage au bout de la nuit] (8:00) `isrc:FR6V80664743` `qobuz:5551736`
+- **Salford Electronics** — Deconstruction (Ancient Methods Deconstruction) [Deconstruction] (8:07) `isrc:USA2Z1900461` `qobuz:60546394`
+- **Austra** — Math Equation [Chin Up Buttercup] (4:12) `isrc:GBCEL2400446` `qobuz:354015240`
+- **My Chemical Romance** — The Ghost of You [Three Cheers for Sweet Revenge] (3:14) `isrc:USRE10400661` `qobuz:2618876`
+- **Hurray For The Riff Raff** — Alibi [The Past Is Still Alive] (2:48) `isrc:USNO12300236` `qobuz:260461425`
+- **Miquel Villalba** — Untitled [Blancafort, M.: Piano Music, Vol. 2  - Jocs I Danses Al Camp / Cants Intims I] (1:25) `isrc:HKI190403603` `qobuz:306362142`
+- **Rum Buffalo** — Screama Preacha [Blood Moon] (5:43) `isrc:UKQ892000010` `qobuz:201807370`
+- **Clear Vision** — Behind The Silence [Behind The Silence] (3:41) `isrc:SE6HB2400201` `qobuz:263254292`
+- **Depeche Mode** — Enjoy the Silence [The Singles 86-98] (4:16) `isrc:GBAJH9800146` `qobuz:1762148`
+- **Alkpote** — Plus pure [Sadisme et perversion] (4:35) `isrc:FR6031501620` `qobuz:32444275`
+- **Buddha Lounge Ensemble** — Mind over Matter [Perfect New Age for Study - Collection of Mindfulness Music That Will Make You Achieve the Highest Concentration and Learning Will Be Easy] (3:39) `isrc:PLS921921458` `qobuz:106382293`
+- **Napalm Death** — Instruments of Persuasion [The Code Is Red - Long Live the Code] (2:59) `isrc:US4E40528706` `qobuz:27570768`
+- **New Order** — Bizarre Love Triangle [Brotherhood] (4:22) `isrc:GBAAP1500209` `qobuz:35951256`
+- **Prurient** — Return To Necrophilia [Destroyed Electricity] (6:56) `isrc:USA2Z2400875` `qobuz:272520395`

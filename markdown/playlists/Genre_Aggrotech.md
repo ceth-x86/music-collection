@@ -1,0 +1,107 @@
+# Genre: Aggrotech
+
+Imported genre playlist: Aggrotech.
+
+Services: `qobuz:66733388` `tidal:e3a2885f-5bec-4f75-8cb5-e95d75524616`
+
+## Tracks (99)
+
+- **Hocico** — Born to Be (Hated) [Wrack and Ruin] (6:04) `isrc:DEBZ70400027` `qobuz:135007829`
+- **Helmet** — Just Another Victim [Unsung: The Best Of Helmet 1991-1997] (4:22) `isrc:USIR10312354` `qobuz:2472741`
+- **Noisuf-X** — Happy Birthday [10 Years of Riot] (4:07) `isrc:DEOV41500250` `qobuz:213931236`
+- **Alan Perna** — Qué hable el silencio [Déjate llevar] (3:33) `isrc:CAENV2586597` `qobuz:408693901`
+- **Emilie Autumn** — Swallow (Oyster Mix By Punto Omega) [4 O'Clock EP] (3:40) `isrc:USCGH0859987` `qobuz:74596276`
+- **Dawn Of Ashes** — Carnal Consummation In the Empty Space (Die Sektor Mix) [Farewell to the Flesh] (5:20) `isrc:USMBR1208768` `qobuz:60829332`
+- **candeur cyclone** — B@#TS [teenage dirtbag] (2:55) `isrc:TCAIZ2440322` `qobuz:301700018`
+- **Suicide Commando** — Cause of Death: Suicide [X.20 (1986 >>>>> 2006)] (6:33) `isrc:DEP510407001` `qobuz:189654179`
+- **Virtual Embrace** — Dark Room [Endzeit Bunkertracks - Act I: The Alfa Matrix Selection] (4:51) `isrc:BEC260505006` `qobuz:8457919`
+- **Combichrist** — Tractor [Sex, Drogen und Industrial] (5:05) `isrc:DEBZ70400034` `qobuz:135007705`
+- **Deepoy** — Danger Man (Aggressive Deep House & Trance Mix) [Danger Man (Aggressive Deep House & Trance Mix)] (3:38) `isrc:QT6EU2667986` `qobuz:432406011`
+- **Frank Sinatra** — Willow Weep For Me [Sings For Only The Lonely] (4:47) `isrc:USUM71807525` `qobuz:54727028`
+- **Fractured** — Only Human Remains [Only Human Remains] (5:44) `isrc:DEP510509302` `qobuz:189653537`
+- **Institute of Noise** — Developmental Process [Developmental Process] (3:02) `isrc:SEXGF2595231` `qobuz:358028020`
+- **Alison Moyet** — Invisible [Alf] (6:37) `isrc:GBARL1601596` `qobuz:385323879`
+- **Djavan** — Sina [Luz] (5:32) `isrc:BRSME8200048` `qobuz:14543368`
+- **Grendel** — Soilbleed (V.3) [Soilbleed Redux, Vol. 2] (5:25) `isrc:DEKV20911759` `qobuz:226412130`
+- **Tactical Sekt** — Awaken The Ghost [Syncope] (5:48) `isrc:DEL360600338` `qobuz:29898328`
+- **Infected Mushroom** — Becoming Insane (Radio Mix) [Becoming Insane] (3:12) `isrc:IL1080708117` `qobuz:69797479`
+- **Otto Knows** — Million Voices [Million Voices] (3:12) `isrc:GBJ4B1200096` `qobuz:8527789`
+- **Agonoize** — For the Sick and Disturbed [For the Sick and Disturbed] (4:01) `isrc:DEBZ70800279` `qobuz:134652802`
+- **Fear Factory** — Descent [Hatefiles] (4:36) `isrc:NLA329980153` `qobuz:11475788`
+- **Unter Null** — Sick Fuck [The Failure Epiphany] (3:36) `isrc:BEC260505307` `qobuz:8468956`
+- **Galina Juritz** — The Doctors' and the Nurses' Song of Hope and Frustration [Madness: Songs of Hope and Despair] (4:14) `isrc:UKB9U2500120` `qobuz:361716703`
+- **Avicii -** — Wake Me Up [True] (4:06) `isrc:SEUM71301326` `qobuz:11328025`
+- **SOMAN** — Ruler [Unleash] (4:39) `isrc:DEZ900701666` `qobuz:52334900`
+- **Kill II This** — SleeperCell [Variant] (4:54) `isrc:GBACD2441707` `qobuz:288341132`
+- **Stray** — Intoxicate [Abuse by Proxy] (5:31) `isrc:BEC260810005` `qobuz:8480317`
+- **Kobold** — Rubicon [The Taste of Copper] (4:20) `isrc:CAAD20611017` `qobuz:73835580`
+- **Dioxyde** — Words of Judas [Social Phobia] (5:58) `isrc:DEP510610602` `qobuz:189653737`
+- **Antonio Eros Negri** — Responsorium: Omnes amici mei [A. Scarlatti: Responsoria Feria VI In Parasceve] (2:48) `isrc:ITD542501000` `qobuz:361716116`
+- **Inure** — Subversive [Disillusion] (4:52) `isrc:BEC260671802` `qobuz:8481063`
+- **Necro Facility** — Downstairs [Waste] (4:32) `isrc:SEYFX0500202` `qobuz:199679997`
+- **FÏX8:SËD8** — Monolith [Monolith (Rebuilt World)] (9:10) `isrc:DEP511017112` `qobuz:285894453`
+- **Los Tamagochis** — Acceso Denegado [NIÑA ALIEN] (1:39) `isrc:USCGH2654968` `qobuz:384599171`
+- **Klutae** — We Are Sinners [Endzeit Bunkertracks - Act II: The Alfa Matrix Selection] (5:24) `isrc:BEC260606609` `qobuz:8458501`
+- **Distorted Memory** — God's Wrath [Burning Heaven] (6:03) `isrc:QMFMF1559079` `qobuz:73835465`
+- **Modulhater** — Bunker Alarm [Acid] (4:48) `isrc:FR6Z01800293` `qobuz:58033594`
+- **Dawn Of Ashes** — Throne of Misanthropy (C-LEKKTOR Mix) [Reinfecting The Scars] (5:02) `isrc:US57M2544204` `qobuz:366856383`
+- **Necrotic Contagion** — R D L B (Sbtmv) [Spectres Beneath the Mortal Veil] (4:58) `isrc:TCAIR2473977` `qobuz:286874068`
+- **Paleface Swiss** — Skalpell [Chapter 3: The Last Selection] (4:22) `isrc:FRX282079632` `qobuz:99948750`
+- **Silverstein** — Smashed Into Pieces [Decade] (3:53) `isrc:USVIC1058901` `qobuz:118267072`
+- **Siva Six** — Angels of the Nine [Superstition] (3:48) `isrc:BEC261305106` `qobuz:211117892`
+- **Josie Pace** — No [No] (4:56) `isrc:GBKPL2093788` `qobuz:168523440`
+- **Daft Punk** — Digital Love [Discovery] (5:01) `isrc:GBDUW0000058` `qobuz:1068444`
+- **Reaper** — Angst [Infact Your Mind] (4:03) `isrc:DEKV20810252` `qobuz:20891339`
+- **Tiamat** — State And Revolution [The Shadow Self] (2:08) `isrc:GX5MY2312725` `qobuz:240919749`
+- **Extreme Noise Terror** — Punk Rock Patrol [Extreme Noise Terror] (2:13) `isrc:USRMX1500111` `qobuz:27999945`
+- **Dawn Of Ashes** — The Suffering [Origin of the Ashes] (4:50) `isrc:QM7281943573` `qobuz:74573236`
+- **Two Door Cinema Club** — Talk [False Alarm] (3:36) `isrc:GBY991905030` `qobuz:61163368`
+- **Cynical Existence** — I'm Broken [Come Out and Play] (4:32) `isrc:BEC261318703` `qobuz:8493907`
+- **Nano Infect** — Abortion [Circuitry of Blades] (3:47) `isrc:TCAHC2323836` `qobuz:210776654`
+- **Acylum** — Black Rose [Filthy Memories] (4:29) `isrc:BEC261772602` `qobuz:41621749`
+- **Schwarzblut** — Der schwarze Tod [Sounds from the Matrix 012] (4:59) `isrc:BEC261271218` `qobuz:8458997`
+- **Holy Fuck** — Tom Tom [Congrats] (3:47) `isrc:USD8D1639002` `qobuz:145994085`
+- **Afro Sound Machine** — Fire On The Dancefloor [Afro Heat, Vol. 3] (4:01) `isrc:QZAAJ2300721` `qobuz:418387723`
+- **Phosgore** — Vx [Warhead] (3:26) `isrc:DEOV41100438` `qobuz:49042232`
+- **La polla records** — Come Mierda [Levántate y Muere] (2:27) `isrc:ES94G2035310` `qobuz:102818983`
+- **Skillet** — Comatose [Comatose] (3:50) `isrc:USAT20618881` `qobuz:2928687`
+- **Amanda Bergman** — common, like the end [embraced for a second as we die] (4:53) `isrc:SE5AJ2202723` `qobuz:366647321`
+- **Enes** — War On The Dancefloor [War On The Dancefloor] (3:25) `isrc:TCAIJ2499286` `qobuz:274616325`
+- **X-Fusion** — Black Clouds [Demons of Hate] (4:22) `isrc:DEZ650713648` `qobuz:49079872`
+- **Siva Six** — Serpent Whore [Endzeit Bunkertracks - Act VI: The Alfa Matrix Selection] (3:50) `isrc:BEC261217609` `qobuz:73490886`
+- **Centhron** — Dominator [Dominator] (3:55) `isrc:DEZ651101228` `qobuz:49183749`
+- **Ghoulish** — The Amsterdam Experiment [FABRICLIVE presents Eliza Rose] (6:51) `isrc:GBEXH2600042` `qobuz:411991201`
+- **Andrew Bird** — Sisyphus [My Finest Work Yet] (4:06) `isrc:USC4R1802568` `qobuz:58140829`
+- **My Little Airport** — When The Party Is Over, I Miss My Dear Porn Star [介乎法國與旺角的詩意] (2:36) `isrc:USHM81098642` `qobuz:120262350`
+- **Industriegebiet** — Wer schön sein will muss sterben [Remixed, Vol. 2] (3:54) `isrc:DEAT71105261` `qobuz:34876345`
+- **Shiv-r** — God Is Art [This World Erase] (4:19) `isrc:BGA471409368` `qobuz:23252683`
+- **Amduscia** — Fuck the Fucking Fuckers [Death, Thou Shalt Die] (4:48) `isrc:DEBZ71101057` `qobuz:134825772`
+- **The Dust Of Basement** — Despair [Opticus Vice Versa] (4:26) `isrc:DEZ901500279` `qobuz:22700456`
+- **Amgod** — Assimilation [Endzeit Bunkertracks - Act VI: The Alfa Matrix Selection] (5:44) `isrc:BEC261217615` `qobuz:73490892`
+- **Jools Holland, Amy Winehouse and Paul Weller** — Don't Go To Strangers [The Golden Age of Song] (4:06) `isrc:GBCAD1200705` `qobuz:7124781`
+- **Drowsy Yui** — Netsujou no Spectrum | Opening 1 (From "Seven Deadly Sins") - Piano Version [Anime Music On Piano] (1:56) `isrc:AUGBT2232824` `qobuz:188146896`
+- **Blutengel** — Praise the Lord [Un:Gott] (4:45) `isrc:DEBZ71800525` `qobuz:134936246`
+- **Komor Kommando** — Music is My Religion [Endzeit Bunkertracks - Act 8 - The Alfa Matrix Selection] (3:39) `isrc:BEC261927601` `qobuz:73492366`
+- **C-Lekktor** — Animals [Out Of My Way (Extended Edition)] (5:16) `isrc:TCADH1753376` `qobuz:143920068`
+- **Alien Vampires** — Bring on the Apocalypse [Evil Twins] (4:09) `isrc:BEC261877903` `qobuz:55573504`
+- **Aengeldust** — Fucking Day [Zucht] (4:12) `isrc:BEC261773802` `qobuz:45786334`
+- **Diffuzion** — Infection [Endzeit Bunkertracks - Act 8 - The Alfa Matrix Selection] (5:37) `isrc:BEC261927606` `qobuz:73492371`
+- **Synapsyche** — Mirror Terror [In Praise of Folly (Deluxe Edition)] (4:00) `isrc:BEC261997426` `qobuz:73495402`
+- **Slayer** — Kill Again [Hell Awaits] (4:56) `isrc:USMBR1309923` `qobuz:60685555`
+- **Carmencita Lara** — No me Engañes [La Incomparable a mi Madre] (2:33) `isrc:QZNW72409788` `qobuz:283189367`
+- **Percy Faith & His Orchestra** — The Vamp [The Love Goddesses] (2:42) `isrc:USSM11402733` `qobuz:17727643`
+- **Jean-Michel Jarre** — FLYING TOTEMS (movement 2) [Equinoxe Infinity] (3:53) `isrc:FR0LO1800025` `qobuz:53210077`
+- **Crytek** — Anathema [Endzeit Bunkertracks - Act 8 - The Alfa Matrix Selection] (4:10) `isrc:BEC261927613` `qobuz:73492378`
+- **Quantic** — Death of the Revolution [Death of the Revolution] (4:03) `isrc:GBEUE0800916` `qobuz:371510019`
+- **Implant** — Oxynoxe-R [Oxynoxe] (4:19) `isrc:BEC261876603` `qobuz:48327314`
+- **Sun Blood Stories** — New Ghost Cathedral (Endless Atlas Remix) [A Different Kind of Future] (2:49) `isrc:USDY42533213` `qobuz:328826151`
+- **Die Robo Sapiens** — Kaltes Klares Wasser [Endzeit Bunkertracks - Act 8 - The Alfa Matrix Selection] (3:14) `isrc:BEC261927619` `qobuz:73492384`
+- **AD:keY** — Eskalation [Endzeit Bunkertracks - Act 8 - The Alfa Matrix Selection] (3:27) `isrc:BEC261927620` `qobuz:73492385`
+- **Electronic Frequency** — Generation One [Generation One] (4:06) `isrc:QZFZ72151015` `qobuz:151555619`
+- **Suppressor** — The Hard Way of Suicide [Gothic Music Orgy, Vol.5] (4:29) `isrc:DEWG81800131` `qobuz:50221406`
+- **SynthAttack** — Straight to Hell [Salvation in Hell Ep] (4:14) `isrc:DEWG81800166` `qobuz:49093066`
+- **Reactor7x** — The Circus of False [Endzeit Bunkertracks - Act 8 - The Alfa Matrix Selection] (4:51) `isrc:BEC261927624` `qobuz:73492389`
+- **Eggvn** — A.A.S.B. [In God We Are Damned] (4:31) `isrc:QZAPG1829828` `qobuz:134693039`
+- **Dunkelwerk** — Grotesque [Worshiping at the Altar of Artifice (Deluxe Edition)] (4:26) `isrc:BEC261692319` `qobuz:30404263`
+- **Totem Obscura** — Blut Marschiert [Helden] (4:49) `isrc:BEC261876803` `qobuz:50528628`
+- **Stadtsingechor zu Halle** — Das ist meine Freude (Motette) [Stadtsingechor Halle: Gott ist unsre Zuversicht] (2:14) `isrc:DEN421810005` `qobuz:165230282`

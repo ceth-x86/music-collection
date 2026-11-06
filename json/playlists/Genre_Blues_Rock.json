@@ -1,0 +1,1009 @@
+{
+  "name": "Genre: Blues Rock",
+  "services": {
+    "qobuz": "66737067"
+  },
+  "description": "Imported genre playlist: Blues Rock.",
+  "tracks": [
+    {
+      "artist": "Lonnie Mack",
+      "title": "Memphis",
+      "services": {
+        "qobuz": "33951208"
+      },
+      "album": "For Collectors Only (The Wham Of That Memphis Man)",
+      "duration": 153,
+      "isrc": "USEE10251298"
+    },
+    {
+      "artist": "The Yardbirds",
+      "title": "Good Morning Little Schoolgirl",
+      "services": {
+        "qobuz": "276018549"
+      },
+      "album": "For Your Love",
+      "duration": 169,
+      "isrc": "GBAWA0515172"
+    },
+    {
+      "artist": "The Paul Butterfield Blues Band",
+      "title": "Born in Chicago",
+      "services": {
+        "qobuz": "25184450"
+      },
+      "album": "The Paul Butterfield Blues Band",
+      "duration": 189,
+      "isrc": "USEE11400950"
+    },
+    {
+      "artist": "John Mayall & The Bluesbreakers",
+      "title": "All Your Love",
+      "services": {
+        "qobuz": "53120884"
+      },
+      "album": "Blues Breakers",
+      "duration": 216,
+      "isrc": "GBF076600010"
+    },
+    {
+      "artist": "Cream",
+      "title": "Spoonful",
+      "services": {
+        "qobuz": "15774607"
+      },
+      "album": "Fresh Cream",
+      "duration": 391,
+      "isrc": "GBA076600010"
+    },
+    {
+      "artist": "Savoy Brown",
+      "title": "Ain't Superstitious",
+      "services": {
+        "qobuz": "13326665"
+      },
+      "album": "Shake Down",
+      "duration": 212,
+      "isrc": "GBF076722530"
+    },
+    {
+      "artist": "The Blues Project",
+      "title": "I Can't Keep From Crying Sometimes",
+      "services": {
+        "qobuz": "25286722"
+      },
+      "album": "Projections",
+      "duration": 267,
+      "isrc": "USF096725080"
+    },
+    {
+      "artist": "Canned Heat",
+      "title": "Rollin' And Tumblin'",
+      "services": {
+        "qobuz": "19506418"
+      },
+      "album": "Canned Heat",
+      "duration": 191,
+      "isrc": "USEM38700072"
+    },
+    {
+      "artist": "Ten Years After",
+      "title": "I Want To Know",
+      "services": {
+        "qobuz": "634570"
+      },
+      "album": "Ten Years After",
+      "duration": 129,
+      "isrc": "GBF076721150"
+    },
+    {
+      "artist": "The Electric Flag",
+      "title": "Killing Floor",
+      "services": {
+        "qobuz": "2631591"
+      },
+      "album": "A Long Time Comin'",
+      "duration": 249,
+      "isrc": "USSM19916922"
+    },
+    {
+      "artist": "Michael Bloomfield",
+      "title": "Albert's Shuffle",
+      "services": {
+        "qobuz": "13358470"
+      },
+      "album": "Super Session",
+      "duration": 413,
+      "isrc": "USSM19917711"
+    },
+    {
+      "artist": "Chicken Shack",
+      "title": "Mean Old World",
+      "services": {
+        "qobuz": "355165"
+      },
+      "album": "The Complete Blue Horizon Sessions",
+      "duration": 192,
+      "isrc": "GBBBN0500678"
+    },
+    {
+      "artist": "Fleetwood Mac",
+      "title": "Need Your Love So Bad",
+      "services": {
+        "qobuz": "13361097"
+      },
+      "album": "Fleetwood Mac's Greatest Hits",
+      "duration": 233,
+      "isrc": "GBBBN6802029"
+    },
+    {
+      "artist": "Jeff Beck",
+      "title": "You Shook Me",
+      "services": {
+        "qobuz": "178496599"
+      },
+      "album": "British Invasion Blues Rock",
+      "duration": 150,
+      "isrc": "GBAYE0500533"
+    },
+    {
+      "artist": "Various Interprets",
+      "title": "Warning",
+      "services": {
+        "qobuz": "5058320"
+      },
+      "album": "The Blue Horizon Story 1965 - 1970 Vol.1",
+      "duration": 202,
+      "isrc": "GBBBN6700020"
+    },
+    {
+      "artist": "Johnny Winter",
+      "title": "Mean Town Blues",
+      "services": {
+        "qobuz": "47677"
+      },
+      "album": "Johnny Winter And / Live",
+      "duration": 537,
+      "isrc": "USSM19912880"
+    },
+    {
+      "artist": "Blodwyn Pig",
+      "title": "Sing Me a Song That I Know",
+      "services": {
+        "qobuz": "169152997"
+      },
+      "album": "Ahead Rings Out",
+      "duration": 188,
+      "isrc": "GBAYK0600047"
+    },
+    {
+      "artist": "Juicy Lucy",
+      "title": "Who Do You Love",
+      "services": {
+        "qobuz": "126153600"
+      },
+      "album": "Juicy Lucy",
+      "duration": 183,
+      "isrc": "DESK96990302"
+    },
+    {
+      "artist": "The Groundhogs",
+      "title": "Cherry Red",
+      "services": {
+        "qobuz": "194716643"
+      },
+      "album": "Split",
+      "duration": 343,
+      "isrc": "GBAYE0300916"
+    },
+    {
+      "artist": "Eric Clapton",
+      "title": "After Midnight",
+      "services": {
+        "qobuz": "131558991"
+      },
+      "album": "The Lady In The Balcony: Lockdown Sessions",
+      "duration": 300,
+      "isrc": "GBCBR2100083"
+    },
+    {
+      "artist": "Black Cat Bones",
+      "title": "Chauffeur",
+      "services": {
+        "qobuz": "120355657"
+      },
+      "album": "Barbed Wire Sandwich",
+      "duration": 317,
+      "isrc": "GBBBA7060960"
+    },
+    {
+      "artist": "The J. Geils Band",
+      "title": "First I Look At The Purse",
+      "services": {
+        "qobuz": "2798157"
+      },
+      "album": "Full House \"Live\"",
+      "duration": 248,
+      "isrc": "USAT20102370"
+    },
+    {
+      "artist": "Free",
+      "title": "Fire And Water",
+      "services": {
+        "qobuz": "4292137"
+      },
+      "album": "Fire And Water (Deluxe Edition)",
+      "duration": 240,
+      "isrc": "GBAAN7100002"
+    },
+    {
+      "artist": "Taste",
+      "title": "What\u2019s Going On",
+      "services": {
+        "qobuz": "40859204"
+      },
+      "album": "What's Going On; Isle Of Wight Festival 1970",
+      "duration": 332,
+      "isrc": "GBCBR1500147"
+    },
+    {
+      "artist": "Rory Gallagher",
+      "title": "Laundromat",
+      "services": {
+        "qobuz": "102900390"
+      },
+      "album": "Rory Gallagher",
+      "duration": 278,
+      "isrc": "GBUM71800024"
+    },
+    {
+      "artist": "Foghat",
+      "title": "I Just Want to Make Love to You",
+      "services": {
+        "qobuz": "208402965"
+      },
+      "album": "Road Fever: The Complete Bearsville Recordings 1972-1975",
+      "duration": 261,
+      "isrc": "USRH10175071"
+    },
+    {
+      "artist": "Humble Pie",
+      "title": "Hot 'N' Nasty",
+      "services": {
+        "qobuz": "190017997"
+      },
+      "album": "Smokin'",
+      "duration": 201,
+      "isrc": "USAM17200032"
+    },
+    {
+      "artist": "Little Feat",
+      "title": "Cold, Cold, Cold",
+      "services": {
+        "qobuz": "208072924"
+      },
+      "album": "Sailin' Shoes",
+      "duration": 240,
+      "isrc": "USRH12202118"
+    },
+    {
+      "artist": "West, Bruce & Laing",
+      "title": "The Doctor",
+      "services": {
+        "qobuz": "45391"
+      },
+      "album": "Why Dontcha",
+      "duration": 267,
+      "isrc": "USSM19912664"
+    },
+    {
+      "artist": "Jo Jo Gunne",
+      "title": "Run Run Run",
+      "services": {
+        "qobuz": "2942973"
+      },
+      "album": "Jo Jo Gunne",
+      "duration": 155,
+      "isrc": "USEE10184779"
+    },
+    {
+      "artist": "Roy Buchanan",
+      "title": "The Messiah Will Come Again",
+      "services": {
+        "qobuz": "46677588"
+      },
+      "album": "Roy Buchanan",
+      "duration": 354,
+      "isrc": "USF067225070"
+    },
+    {
+      "artist": "Joe Walsh",
+      "title": "Rocky Mountain Way",
+      "services": {
+        "qobuz": "52370445"
+      },
+      "album": "The Smoker You Drink, The Player You Get",
+      "duration": 315,
+      "isrc": "USMC17344516"
+    },
+    {
+      "artist": "ZZ Top",
+      "title": "LA Grange",
+      "services": {
+        "qobuz": "387308662"
+      },
+      "album": "The ZZ Top Sixpack",
+      "duration": 234,
+      "isrc": "USWB19903511"
+    },
+    {
+      "artist": "Robin Trower",
+      "title": "Bridge of Sighs",
+      "services": {
+        "qobuz": "169179076"
+      },
+      "album": "Bridge Of Sighs",
+      "duration": 301,
+      "isrc": "GBAYK0700124"
+    },
+    {
+      "artist": "Back Street Crawler",
+      "title": "Hoo Doo Woman",
+      "services": {
+        "qobuz": "26528509"
+      },
+      "album": "The Band Plays On",
+      "duration": 257,
+      "isrc": "USAT20302563"
+    },
+    {
+      "artist": "Frankie Miller",
+      "title": "A Fool in Love",
+      "services": {
+        "qobuz": "169151262"
+      },
+      "album": "The Very Best of Frankie Miller",
+      "duration": 182,
+      "isrc": "GBAYK7800099"
+    },
+    {
+      "artist": "Dr. Feelgood",
+      "title": "Roxette",
+      "services": {
+        "qobuz": "820298"
+      },
+      "album": "Down By The Jetty (Collectors Edition)",
+      "duration": 176,
+      "isrc": "GBAYE0600597"
+    },
+    {
+      "artist": "JJ Cale",
+      "title": "Cocaine",
+      "services": {
+        "qobuz": "625129"
+      },
+      "album": "Troubadour",
+      "duration": 169,
+      "isrc": "NLF057690004"
+    },
+    {
+      "artist": "Climax Blues Band",
+      "title": "Couldn't Get It Right",
+      "services": {
+        "qobuz": "385311552"
+      },
+      "album": "Gold Plated",
+      "duration": 198,
+      "isrc": "GBEHT0400579"
+    },
+    {
+      "artist": "Peter Frampton",
+      "title": "Do You Feel Like We Do",
+      "services": {
+        "qobuz": "3930773"
+      },
+      "album": "Frampton Comes Alive ! (35th Anniversary Deluxe Edition)",
+      "duration": 826,
+      "isrc": "USAM10000278"
+    },
+    {
+      "artist": "Frank Marino & Mahogany Rush",
+      "title": "Dragonfly",
+      "services": {
+        "qobuz": "44434737"
+      },
+      "album": "Live (Expanded Edition)",
+      "duration": 327,
+      "isrc": "USSM19914500"
+    },
+    {
+      "artist": "George Thorogood & The Destroyers",
+      "title": "Move It On Over",
+      "services": {
+        "qobuz": "52484658"
+      },
+      "album": "The Baddest Of George Thorogood And The Destroyers",
+      "duration": 258,
+      "isrc": "USRO27802401"
+    },
+    {
+      "artist": "Pat Travers",
+      "title": "Boom Boom (Out Go The Lights)",
+      "services": {
+        "qobuz": "112880761"
+      },
+      "album": "Live! Go For What You Know",
+      "duration": 306,
+      "isrc": "USWWW0201231"
+    },
+    {
+      "artist": "Peter Green",
+      "title": "Slabo Day",
+      "services": {
+        "qobuz": "385641502"
+      },
+      "album": "In the Skies",
+      "duration": 309,
+      "isrc": "GBAJE0500904"
+    },
+    {
+      "artist": "The Fabulous Thunderbirds",
+      "title": "Can't Tear It Up Enuff",
+      "services": {
+        "qobuz": "336668948"
+      },
+      "album": "T_Bird Rhythm",
+      "duration": 181,
+      "isrc": "US48M0900045"
+    },
+    {
+      "artist": "Stevie Ray Vaughan & Double Trouble",
+      "title": "Texas Flood",
+      "services": {
+        "qobuz": "2719167"
+      },
+      "album": "The Real Deal: Greatest Hits Volume 1",
+      "duration": 320,
+      "isrc": "USSM18300419"
+    },
+    {
+      "artist": "David Richards",
+      "title": "Iceman",
+      "services": {
+        "qobuz": "4747732"
+      },
+      "album": "Albert Collins and the Icebreakers (Live '92 / '93)",
+      "duration": 236,
+      "isrc": "GBAAA9500611"
+    },
+    {
+      "artist": "The Robert Cray Band",
+      "title": "Smoking Gun",
+      "services": {
+        "qobuz": "13212617"
+      },
+      "album": "Cookin' In Mobile",
+      "duration": 435,
+      "isrc": "USGHT1000069"
+    },
+    {
+      "artist": "Colin James",
+      "title": "Five Long Years",
+      "services": {
+        "qobuz": "4940562"
+      },
+      "album": "Colin James",
+      "duration": 276,
+      "isrc": "USVI28800057"
+    },
+    {
+      "artist": "Jeff Healey",
+      "title": "Blue Jean Blues",
+      "services": {
+        "qobuz": "20688247"
+      },
+      "album": "See the Light",
+      "duration": 339,
+      "isrc": "USAR18800115"
+    },
+    {
+      "artist": "Robben Ford",
+      "title": "Talk to Your Daughter",
+      "services": {
+        "qobuz": "2025091"
+      },
+      "album": "Talk To Your Daughter",
+      "duration": 250,
+      "isrc": "USWB10100117"
+    },
+    {
+      "artist": "Walter Trout Band",
+      "title": "Life In The Jungle",
+      "services": {
+        "qobuz": "141300583"
+      },
+      "album": "Life In The Jungle",
+      "duration": 344,
+      "isrc": "NLB930501332"
+    },
+    {
+      "artist": "Gary Moore",
+      "title": "Still Got The Blues",
+      "services": {
+        "qobuz": "1951256"
+      },
+      "album": "Still Got The Blues",
+      "duration": 370,
+      "isrc": "GBAAA9000090"
+    },
+    {
+      "artist": "Bernard Allison",
+      "title": "Next Generation",
+      "services": {
+        "qobuz": "51695482"
+      },
+      "album": "No Mercy",
+      "duration": 332,
+      "isrc": "DEB649400015"
+    },
+    {
+      "artist": "Buddy Guy",
+      "title": "Damn Right, I've Got the Blues",
+      "services": {
+        "qobuz": "321957"
+      },
+      "album": "Damn Right, I've Got The Blues",
+      "duration": 271,
+      "isrc": "USSV10300100"
+    },
+    {
+      "artist": "Tab Benoit",
+      "title": "Nice And Warm",
+      "services": {
+        "qobuz": "12989808"
+      },
+      "album": "Nice And Warm",
+      "duration": 438,
+      "isrc": "USVG29983553"
+    },
+    {
+      "artist": "Big Sugar",
+      "title": "Diggin' A Hole",
+      "services": {
+        "qobuz": "102100800"
+      },
+      "album": "Hemi-Vision",
+      "duration": 277,
+      "isrc": "CAA149600281"
+    },
+    {
+      "artist": "Popa Chubby",
+      "title": "More Time Making Love",
+      "services": {
+        "qobuz": "84052177"
+      },
+      "album": "It's A Mighty Hard Road",
+      "duration": 235,
+      "isrc": "FRE262000110"
+    },
+    {
+      "artist": "Jimmie Vaughan",
+      "title": "Six Strings Down",
+      "services": {
+        "qobuz": "38229"
+      },
+      "album": "Strange Pleasure",
+      "duration": 263,
+      "isrc": "USSM10025375"
+    },
+    {
+      "artist": "Various Interprets",
+      "title": "My Way Down",
+      "services": {
+        "qobuz": "215988"
+      },
+      "album": "Texas Sugar Strat Magik",
+      "duration": 276,
+      "isrc": "GBAHJ9500009"
+    },
+    {
+      "artist": "Coco Montoya",
+      "title": "Gotta Mind to Travel",
+      "services": {
+        "qobuz": "24730915"
+      },
+      "album": "Blind Pig Presents: Road Trip Blues",
+      "duration": 230,
+      "isrc": "USBP10302002"
+    },
+    {
+      "artist": "Luther Allison",
+      "title": "Bad Love",
+      "services": {
+        "qobuz": "260615995"
+      },
+      "album": "Bad Love",
+      "duration": 382,
+      "isrc": "US2Y30602197"
+    },
+    {
+      "artist": "Kenny Wayne Shepherd",
+      "title": "Blue on Black - Live",
+      "services": {
+        "qobuz": "124926326"
+      },
+      "album": "Live in Chicago",
+      "duration": 332,
+      "isrc": "NLA321090259"
+    },
+    {
+      "artist": "Jonny Lang",
+      "title": "Lie To Me",
+      "services": {
+        "qobuz": "3965260"
+      },
+      "album": "Lie To Me",
+      "duration": 251,
+      "isrc": "USAM19674587"
+    },
+    {
+      "artist": "Susan Tedeschi",
+      "title": "Just Won't Burn",
+      "services": {
+        "qobuz": "216680840"
+      },
+      "album": "Just Won't Burn",
+      "duration": 286,
+      "isrc": "USTC19816408"
+    },
+    {
+      "artist": "North Mississippi Allstars",
+      "title": "Shake 'Em On Down",
+      "services": {
+        "qobuz": "298182546"
+      },
+      "album": "Shake Hands With Shorty",
+      "duration": 248,
+      "isrc": "USTC10017701"
+    },
+    {
+      "artist": "Eric Sardinas",
+      "title": "Treat Me Right",
+      "services": {
+        "qobuz": "198229017"
+      },
+      "album": "Notodden Blues Festival-The Best of People and Blues-Nbf Vol. 3",
+      "duration": 253,
+      "isrc": "NOXGK0413150"
+    },
+    {
+      "artist": "Beth Hart",
+      "title": "Leave The Light On",
+      "services": {
+        "qobuz": "4986782"
+      },
+      "album": "Leave The Light On",
+      "duration": 243,
+      "isrc": "USKO10302394"
+    },
+    {
+      "artist": "Tommy Castro",
+      "title": "Painkiller",
+      "services": {
+        "qobuz": "3789377"
+      },
+      "album": "Painkiller",
+      "duration": 229,
+      "isrc": "USBP10711103"
+    },
+    {
+      "artist": "Ana Popovic",
+      "title": "Still Making History",
+      "services": {
+        "qobuz": "405907696"
+      },
+      "album": "Still Making History",
+      "duration": 373,
+      "isrc": "US3H80700244"
+    },
+    {
+      "artist": "Henrik Freischlader",
+      "title": "She Ain't Got the Blues",
+      "services": {
+        "qobuz": "22801495"
+      },
+      "album": "Live 2014 (Nighttrain To Budapest Farewell Tour)",
+      "duration": 388,
+      "isrc": "DEW271302508"
+    },
+    {
+      "artist": "Philip Sayce",
+      "title": "Alchemy (Live)",
+      "services": {
+        "qobuz": "351781868"
+      },
+      "album": "Scorched Earth, Vol.1 (Live)",
+      "duration": 456,
+      "isrc": "CAW111600228"
+    },
+    {
+      "artist": "Joe Bonamassa",
+      "title": "The Ballad of John Henry",
+      "services": {
+        "qobuz": "15738214"
+      },
+      "album": "The Ballad of John Henry",
+      "duration": 385,
+      "isrc": "USMH50800015"
+    },
+    {
+      "artist": "Kodaline",
+      "title": "The One",
+      "services": {
+        "qobuz": "22084975"
+      },
+      "album": "Coming Up for Air",
+      "duration": 232,
+      "isrc": "GBARL1401580"
+    },
+    {
+      "artist": "Joanne Shaw Taylor",
+      "title": "Diamonds in the Dirt",
+      "services": {
+        "qobuz": "260697227"
+      },
+      "album": "Diamonds in the Dirt",
+      "duration": 307,
+      "isrc": "DEFR11000103"
+    },
+    {
+      "artist": "matt schofield",
+      "title": "Ear To The Ground",
+      "services": {
+        "qobuz": "168435359"
+      },
+      "album": "Ear To The Ground",
+      "duration": 346,
+      "isrc": "GBJYQ0700079"
+    },
+    {
+      "artist": "Tedeschi Trucks Band",
+      "title": "Midnight in Harlem",
+      "services": {
+        "qobuz": "18435789"
+      },
+      "album": "Revelator",
+      "duration": 353,
+      "isrc": "USSM11101896"
+    },
+    {
+      "artist": "Reignwolf",
+      "title": "Are You Satisfied?",
+      "services": {
+        "qobuz": "306387299"
+      },
+      "album": "Are You Satisfied?",
+      "duration": 214,
+      "isrc": "TCABP1368115"
+    },
+    {
+      "artist": "King King",
+      "title": "Take My Hand",
+      "services": {
+        "qobuz": "151592767"
+      },
+      "album": "Take My Hand",
+      "duration": 229,
+      "isrc": "GBKLA1102602"
+    },
+    {
+      "artist": "Dan Patlansky",
+      "title": "Big Things Going Down",
+      "services": {
+        "qobuz": "26770716"
+      },
+      "album": "Wooden Thoughts",
+      "duration": 435,
+      "isrc": "ZA63W1400029"
+    },
+    {
+      "artist": "Blues Pills",
+      "title": "High Class Woman",
+      "services": {
+        "qobuz": "60746057"
+      },
+      "album": "Blues Pills",
+      "duration": 268,
+      "isrc": "DED831400532"
+    },
+    {
+      "artist": "Jared James Nichols",
+      "title": "Honey Forgive Me",
+      "services": {
+        "qobuz": "43455435"
+      },
+      "album": "Black Magic",
+      "duration": 142,
+      "isrc": "FR1PP1700610"
+    },
+    {
+      "artist": "Sari Schorr",
+      "title": "Ain't Got No Money",
+      "services": {
+        "qobuz": "151611678"
+      },
+      "album": "A Force of Nature",
+      "duration": 313,
+      "isrc": "GBKLA1604401"
+    },
+    {
+      "artist": "Fantastic Negrito",
+      "title": "Lost in a Crowd",
+      "services": {
+        "qobuz": "368524309"
+      },
+      "album": "The Last Days of Oakland",
+      "duration": 300,
+      "isrc": "FR10S1670243"
+    },
+    {
+      "artist": "The Record Company",
+      "title": "Off The Ground",
+      "services": {
+        "qobuz": "30016622"
+      },
+      "album": "Give It Back To You",
+      "duration": 254,
+      "isrc": "USC4R1504254"
+    },
+    {
+      "artist": "The Temperance Movement",
+      "title": "Only Friend",
+      "services": {
+        "qobuz": "97493525"
+      },
+      "album": "The Temperance Movement",
+      "duration": 268,
+      "isrc": "GBBPB1302666"
+    },
+    {
+      "artist": "The Blue Stones",
+      "title": "Black Holes (Solid Ground)",
+      "services": {
+        "qobuz": "51745606"
+      },
+      "album": "Black Holes",
+      "duration": 185,
+      "isrc": "TCACN1677390"
+    },
+    {
+      "artist": "Rival Sons",
+      "title": "Do Your Worst",
+      "services": {
+        "qobuz": "55658411"
+      },
+      "album": "Feral Roots",
+      "duration": 210,
+      "isrc": "USAT21810979"
+    },
+    {
+      "artist": "Gary Clark Jr.",
+      "title": "This Land",
+      "services": {
+        "qobuz": "57635379"
+      },
+      "album": "This Land",
+      "duration": 341,
+      "isrc": "USWB11802269"
+    },
+    {
+      "artist": "Samantha Fish",
+      "title": "Kill Or Be Kind",
+      "services": {
+        "qobuz": "63230912"
+      },
+      "album": "Kill Or Be Kind",
+      "duration": 225,
+      "isrc": "USRO21901582"
+    },
+    {
+      "artist": "Kris Barras Band",
+      "title": "Ignite (Light It Up)",
+      "services": {
+        "qobuz": "141292616"
+      },
+      "album": "Light It Up",
+      "duration": 196,
+      "isrc": "NLB931901824"
+    },
+    {
+      "artist": "The Teskey Brothers",
+      "title": "Rain",
+      "services": {
+        "qobuz": "61355764"
+      },
+      "album": "Run Home Slow",
+      "duration": 254,
+      "isrc": "AULI01924210"
+    },
+    {
+      "artist": "Ally Venable",
+      "title": "Texas Honey",
+      "services": {
+        "qobuz": "260644613"
+      },
+      "album": "Texas Honey",
+      "duration": 147,
+      "isrc": "DEFR11900033"
+    },
+    {
+      "artist": "The Cold Stares",
+      "title": "Ways",
+      "services": {
+        "qobuz": "222647882"
+      },
+      "album": "WAYS",
+      "duration": 226,
+      "isrc": "QZ8GX1700596"
+    },
+    {
+      "artist": "GA-20",
+      "title": "Easy On The Eyes",
+      "services": {
+        "qobuz": "159541387"
+      },
+      "album": "Crackdown",
+      "duration": 211,
+      "isrc": "QZDMQ2250003"
+    },
+    {
+      "artist": "Larkin Poe",
+      "title": "She's A Self Made Man",
+      "services": {
+        "qobuz": "368554002"
+      },
+      "album": "Paint The Roses",
+      "duration": 264,
+      "isrc": "US9ZA2100007"
+    },
+    {
+      "artist": "Marcus King",
+      "title": "The Well",
+      "services": {
+        "qobuz": "84607862"
+      },
+      "album": "El Dorado",
+      "duration": 177,
+      "isrc": "USC4R1906988"
+    },
+    {
+      "artist": "Thad Fiscella",
+      "title": "When We Meet Again",
+      "services": {
+        "qobuz": "91219111"
+      },
+      "album": "Free to Fly",
+      "duration": 200,
+      "isrc": "USHM91416786"
+    },
+    {
+      "artist": "Kaleo",
+      "title": "Way down We Go",
+      "services": {
+        "qobuz": "31934143"
+      },
+      "album": "A/B",
+      "duration": 220,
+      "isrc": "USAT21502123"
+    },
+    {
+      "artist": "Christone \"Kingfish\" Ingram",
+      "title": "662",
+      "services": {
+        "qobuz": "397239043"
+      },
+      "album": "662",
+      "duration": 197,
+      "isrc": "USARL2100501"
+    }
+  ]
+}

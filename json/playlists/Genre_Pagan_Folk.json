@@ -1,0 +1,1010 @@
+{
+  "name": "Genre: Pagan Folk",
+  "services": {
+    "qobuz": "66710961",
+    "tidal": "ef60476e-1110-4a2e-afbb-5e82e3bfd781"
+  },
+  "description": "Imported genre playlist: Pagan Folk.",
+  "tracks": [
+    {
+      "artist": "Garmarna",
+      "title": "Varulven",
+      "services": {
+        "qobuz": "193678839"
+      },
+      "album": "Guds spelem\u00e4n",
+      "duration": 273,
+      "isrc": "SELIA9601050"
+    },
+    {
+      "artist": "Valravn",
+      "title": "Kelling",
+      "services": {
+        "qobuz": "9838750"
+      },
+      "album": "Koder p\u00e5 snor",
+      "duration": 288,
+      "isrc": "FR6V81775195"
+    },
+    {
+      "artist": "Tropischer Dany",
+      "title": "Eis am Strand",
+      "services": {
+        "qobuz": "329179891"
+      },
+      "album": "#Sommer",
+      "duration": 177,
+      "isrc": "DEAR42553559"
+    },
+    {
+      "artist": "Duivelspack",
+      "title": "Der Feuerteufel",
+      "services": {
+        "qobuz": "54272280"
+      },
+      "album": "Beste Reste Platte",
+      "duration": 254,
+      "isrc": "DEC831300777"
+    },
+    {
+      "artist": "Poeta & Rairda",
+      "title": "Dr\u00f8m - wenn Elfen Dir fl\u00fcstern",
+      "services": {
+        "qobuz": "85282421"
+      },
+      "album": "Dr\u00f8m",
+      "duration": 277,
+      "isrc": "USCGJ0863935"
+    },
+    {
+      "artist": "Anthony Griffiths",
+      "title": "Glwysen, Morfa'r Frenhines",
+      "services": {
+        "qobuz": "344234235"
+      },
+      "album": "Llynnoedd",
+      "duration": 192,
+      "isrc": "GBCFU1092424"
+    },
+    {
+      "artist": "Xianji Liu",
+      "title": "Swan and Maiden",
+      "services": {
+        "qobuz": "309461936"
+      },
+      "album": "Chinese Romance",
+      "duration": 176,
+      "isrc": "HKI192244102"
+    },
+    {
+      "artist": "Gerard Cousins",
+      "title": "Tros Y Garreg (Crossing the Stone)",
+      "services": {
+        "qobuz": "76606557"
+      },
+      "album": "Hiraeth - Celtic Guitar Music from Wales",
+      "duration": 294,
+      "isrc": "GBMMK0900001"
+    },
+    {
+      "artist": "Daemonia Nymphe",
+      "title": "Dance of the Satyrs",
+      "services": {
+        "qobuz": "271000018"
+      },
+      "album": "Daemonia Nymphe",
+      "duration": 245,
+      "isrc": "FR6V80204195"
+    },
+    {
+      "artist": "Alain Mion",
+      "title": "Mary et Jeff",
+      "services": {
+        "qobuz": "34881771"
+      },
+      "album": "Troupeau bleu",
+      "duration": 165,
+      "isrc": "FR59R1692438"
+    },
+    {
+      "artist": "The Moon and the Nightspirit",
+      "title": "\u00c9g fel\u00e9",
+      "services": {
+        "qobuz": "189591540"
+      },
+      "album": "\u0150sforras",
+      "duration": 356,
+      "isrc": "DES561496302"
+    },
+    {
+      "artist": "Omnia",
+      "title": "Taranis",
+      "services": {
+        "qobuz": "93243709"
+      },
+      "album": "Crone of War (2018 Re-release)",
+      "duration": 219,
+      "isrc": "NLHR51837957"
+    },
+    {
+      "artist": "Poeta Magica",
+      "title": "Morrigu's Song",
+      "services": {
+        "qobuz": "54251613"
+      },
+      "album": "Minne Mystik Meistersang",
+      "duration": 331,
+      "isrc": "DEZ431326105"
+    },
+    {
+      "artist": "Dario Marianelli",
+      "title": "The Pagan Rites",
+      "services": {
+        "qobuz": "114793065"
+      },
+      "album": "I Capture The Castle (Original Motion Picture Soundtrack)",
+      "duration": 104,
+      "isrc": "SEWVB0700616"
+    },
+    {
+      "artist": "Saint Of Sin",
+      "title": "Angel of the Thought (feat. Rasa Serra)",
+      "services": {
+        "qobuz": "56738710"
+      },
+      "album": "Merry Christmas / Love Lounge, Vol. 2",
+      "duration": 240,
+      "isrc": "DERH81810101"
+    },
+    {
+      "artist": "Justin Timberlake",
+      "title": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+      "services": {
+        "qobuz": "32020359"
+      },
+      "album": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+      "duration": 236,
+      "isrc": "USRC11600876"
+    },
+    {
+      "artist": "Trobar De Morte",
+      "title": "Talism\u00e1n",
+      "services": {
+        "qobuz": "126683272"
+      },
+      "album": "20 Years of Music & Sorcery",
+      "duration": 231,
+      "isrc": "TCAEU2064528"
+    },
+    {
+      "artist": "Karl Seglem",
+      "title": "Song for To",
+      "services": {
+        "qobuz": "56690074"
+      },
+      "album": "Norskjazz.No",
+      "duration": 353,
+      "isrc": "DEQ750900014"
+    },
+    {
+      "artist": "Goat Girl",
+      "title": "Dance of Dirty Leftovers",
+      "services": {
+        "qobuz": "48281316"
+      },
+      "album": "Goat Girl",
+      "duration": 46,
+      "isrc": "GBCVZ1700182"
+    },
+    {
+      "artist": "Banshee",
+      "title": "Force of nature",
+      "services": {
+        "qobuz": "341736582"
+      },
+      "album": "Force of nature",
+      "duration": 141,
+      "isrc": "QZTB52581692"
+    },
+    {
+      "artist": "NFM Choir",
+      "title": "Pie\u015b\u0144 Cherubin\u00f3w",
+      "services": {
+        "qobuz": "403753340"
+      },
+      "album": "Dialogue",
+      "duration": 431,
+      "isrc": "FR50X2523301"
+    },
+    {
+      "artist": "\u0170ch s\u0171mer",
+      "title": "Ymai  (Original version)",
+      "services": {
+        "qobuz": "97100787"
+      },
+      "album": "Ymai - \u0170ch s\u0171mer",
+      "duration": 120,
+      "isrc": "USHM91033231"
+    },
+    {
+      "artist": "Joel Stewart",
+      "title": "Found The Way Again",
+      "services": {
+        "qobuz": "403020514"
+      },
+      "album": "Abbey Road Masters: Emotive Folk - Where The Wild Begins",
+      "duration": 172,
+      "isrc": "GBUM72503461"
+    },
+    {
+      "artist": "Faun",
+      "title": "Hymn To Pan",
+      "services": {
+        "qobuz": "47196216"
+      },
+      "album": "XV - Best Of",
+      "duration": 417,
+      "isrc": "DEOS71300072"
+    },
+    {
+      "artist": "Herbie Hancock",
+      "title": "The Tea Leaf Prophecy (Lay Down Your Arms)",
+      "services": {
+        "qobuz": "740327"
+      },
+      "album": "River: The Joni Letters",
+      "duration": 393,
+      "isrc": "USUM70746328"
+    },
+    {
+      "artist": "Sieben",
+      "title": "We wait for them",
+      "services": {
+        "qobuz": "172104848"
+      },
+      "album": "Star Wood Brick Firmament",
+      "duration": 223,
+      "isrc": "GBZEA1000205"
+    },
+    {
+      "artist": "Heinz Schunk",
+      "title": "Die lustigen Weiber von Windsor, Act 3: No. 14 \"Ihr Elfen, wei\u00df und rot und grau\" (Chorus, Titania, Oberon, Elves, Hunter Herne, Falstaff)",
+      "services": {
+        "qobuz": "17610138"
+      },
+      "album": "Die lustigen Weiber von Windsor",
+      "duration": 409,
+      "isrc": "NLY331311322"
+    },
+    {
+      "artist": "Blowzabella",
+      "title": "Jan Mijne Man / Go Mauve",
+      "services": {
+        "qobuz": "151839862"
+      },
+      "album": "Vanilla",
+      "duration": 267,
+      "isrc": "GBBHW9002803"
+    },
+    {
+      "artist": "Corvus Corax",
+      "title": "De Mundi Statu",
+      "services": {
+        "qobuz": "60061188"
+      },
+      "album": "Cantus Buranus Live in M\u00fcnchen",
+      "duration": 308,
+      "isrc": "DEXI11900003"
+    },
+    {
+      "artist": "Sepultura",
+      "title": "Roots Bloody Roots",
+      "services": {
+        "qobuz": "44368195"
+      },
+      "album": "Roots",
+      "duration": 212,
+      "isrc": "USRH11702422"
+    },
+    {
+      "artist": "Vic Juris",
+      "title": "Blue Horizon",
+      "services": {
+        "qobuz": "98278645"
+      },
+      "album": "Blue Horizon",
+      "duration": 340,
+      "isrc": "USHM20594337"
+    },
+    {
+      "artist": "Kelten Zonder Grenzen",
+      "title": "Jigtime",
+      "services": {
+        "qobuz": "81153683"
+      },
+      "album": "Ik Zie Een Konijntje",
+      "duration": 271,
+      "isrc": "NLMB71000003"
+    },
+    {
+      "artist": "Asynje",
+      "title": "K\u00e6mperne p\u00e5 Dovrefjeld",
+      "services": {
+        "qobuz": "178952977"
+      },
+      "album": "Genkaldt",
+      "duration": 267,
+      "isrc": "DKSR61100101"
+    },
+    {
+      "artist": "Stellamara",
+      "title": "Szerelem",
+      "services": {
+        "qobuz": "167123797"
+      },
+      "album": "The Seven Valleys",
+      "duration": 357,
+      "isrc": "US6QK0900010"
+    },
+    {
+      "artist": "Shantalla",
+      "title": "The Braemar Poacher",
+      "services": {
+        "qobuz": "88445355"
+      },
+      "album": "Turas",
+      "duration": 166,
+      "isrc": "BED061133001"
+    },
+    {
+      "artist": "Ball Noir",
+      "title": "Last Day (Gavotte)",
+      "services": {
+        "qobuz": "67259958"
+      },
+      "album": "Bitter Dreams",
+      "duration": 315,
+      "isrc": "NLVE71200002"
+    },
+    {
+      "artist": "Willy Tea Taylor",
+      "title": "Knights Ferry",
+      "services": {
+        "qobuz": "232034868"
+      },
+      "album": "The Great Western Hangover",
+      "duration": 241,
+      "isrc": "TCAHM2327168"
+    },
+    {
+      "artist": "Virelai",
+      "title": "Esrum Bourr\u00e9",
+      "services": {
+        "qobuz": "180515987"
+      },
+      "album": "Fra b\u00f8lger og bjerge",
+      "duration": 229,
+      "isrc": "DKSY21100101"
+    },
+    {
+      "artist": "Carlo Maria Giulini",
+      "title": "Petite suite des \"Jeux d'enfants\", Op. 22, WD 39: III. Impromptu \"La toupie\"",
+      "services": {
+        "qobuz": "365440704"
+      },
+      "album": "Stravinsky: Suite from The Firebird - Bizet: Children's Games Suite - Ravel: Mother Goose",
+      "duration": 64,
+      "isrc": "GBAYC2401803"
+    },
+    {
+      "artist": "Cesair",
+      "title": "Graeica",
+      "services": {
+        "qobuz": "36057912"
+      },
+      "album": "Dies, Nox Et Omnia",
+      "duration": 196,
+      "isrc": "NLA2J1300004"
+    },
+    {
+      "artist": "The Dolmen",
+      "title": "Circle of the Stag",
+      "services": {
+        "qobuz": "91522705"
+      },
+      "album": "Kayleigh",
+      "duration": 302,
+      "isrc": "USHM81747480"
+    },
+    {
+      "artist": "Dikanda",
+      "title": "Jokoriste Czarno",
+      "services": {
+        "qobuz": "91667319"
+      },
+      "album": "Ajotoro",
+      "duration": 300,
+      "isrc": "USCGJ2090756"
+    },
+    {
+      "artist": "Loch Lomond",
+      "title": "Wax & Wire",
+      "services": {
+        "qobuz": "48673710"
+      },
+      "album": "Night Bats",
+      "duration": 298,
+      "isrc": "USA370963502"
+    },
+    {
+      "artist": "Transsylvanians",
+      "title": "Ki Ki Ki",
+      "services": {
+        "qobuz": "55184318"
+      },
+      "album": "Igen!",
+      "duration": 167,
+      "isrc": "DEZ430410305"
+    },
+    {
+      "artist": "Trolska Polska",
+      "title": "Trolls United",
+      "services": {
+        "qobuz": "28771498"
+      },
+      "album": "Moss",
+      "duration": 247,
+      "isrc": "DK6KA1400812"
+    },
+    {
+      "artist": "Kali Uchis",
+      "title": "Moonlight",
+      "services": {
+        "qobuz": "199455887"
+      },
+      "album": "Red Moon In Venus",
+      "duration": 187,
+      "isrc": "USUM72219486"
+    },
+    {
+      "artist": "Horde catalytique pour la fin",
+      "title": "Gestation Sonore 2",
+      "services": {
+        "qobuz": "53697778"
+      },
+      "album": "Horde catalytique pour la fin",
+      "duration": 234,
+      "isrc": "QM6N21843129"
+    },
+    {
+      "artist": "The Royal Spuds",
+      "title": "A Night Like This",
+      "services": {
+        "qobuz": "92120380"
+      },
+      "album": "Wanted: Drunk 'n' Alive",
+      "duration": 180,
+      "isrc": "USCGH1476408"
+    },
+    {
+      "artist": "Rastaban",
+      "title": "Moja Du\u0161a",
+      "services": {
+        "qobuz": "51109197"
+      },
+      "album": "Arise",
+      "duration": 323,
+      "isrc": "CH6541835561"
+    },
+    {
+      "artist": "Finvarra",
+      "title": "The Battle of Evermore",
+      "services": {
+        "qobuz": "75582746"
+      },
+      "album": "Finvarra",
+      "duration": 371,
+      "isrc": "USCGH1498510"
+    },
+    {
+      "artist": "ROSA CRUX",
+      "title": "Adorasti",
+      "services": {
+        "qobuz": "194490648"
+      },
+      "album": "In Tenebris",
+      "duration": 206,
+      "isrc": "DE1AM2390021"
+    },
+    {
+      "artist": "Scarlet Stories",
+      "title": "Nostalgia in a Closed Mind",
+      "services": {
+        "qobuz": "83073781"
+      },
+      "album": "Necrologies",
+      "duration": 368,
+      "isrc": "NLH6A1900009"
+    },
+    {
+      "artist": "Theodor Bastard",
+      "title": "Umbraya Erze",
+      "services": {
+        "qobuz": "104488182"
+      },
+      "album": "Vetvi",
+      "duration": 327,
+      "isrc": "USCGJ1542971"
+    },
+    {
+      "artist": "Prima Nocta",
+      "title": "Prima Nocta",
+      "services": {
+        "qobuz": "100598879"
+      },
+      "album": "Moonshine",
+      "duration": 233,
+      "isrc": "USCGJ1806041"
+    },
+    {
+      "artist": "Nino Man",
+      "title": "We Stay Fly",
+      "services": {
+        "qobuz": "376063156"
+      },
+      "album": "I'm Still Him",
+      "duration": 238,
+      "isrc": "QZNN22545457"
+    },
+    {
+      "artist": "Shireen",
+      "title": "So Human of You",
+      "services": {
+        "qobuz": "44763313"
+      },
+      "album": "Matriarch",
+      "duration": 369,
+      "isrc": "NLU6B1700004"
+    },
+    {
+      "artist": "Stille Volk",
+      "title": "Dementis maudi\u00e7on",
+      "services": {
+        "qobuz": "189634277"
+      },
+      "album": "P\u00e8ira negra",
+      "duration": 318,
+      "isrc": "FR7M01413001"
+    },
+    {
+      "artist": "Hiks",
+      "title": "Boson",
+      "services": {
+        "qobuz": "13298358"
+      },
+      "album": "Boson",
+      "duration": 263,
+      "isrc": "FR6V82110058"
+    },
+    {
+      "artist": "The Common Linnets",
+      "title": "Hungry Hands",
+      "services": {
+        "qobuz": "16173996"
+      },
+      "album": "The Common Linnets",
+      "duration": 232,
+      "isrc": "NLUM71400148"
+    },
+    {
+      "artist": "George Michael",
+      "title": "Careless Whisper",
+      "services": {
+        "qobuz": "3488744"
+      },
+      "album": "Ladies & Gentlemen: The Best Of George Michael",
+      "duration": 300,
+      "isrc": "GBBBM8402006"
+    },
+    {
+      "artist": "Seed",
+      "title": "The Green Man",
+      "services": {
+        "qobuz": "167103407"
+      },
+      "album": "Fae",
+      "duration": 274,
+      "isrc": "IEWBH2200010"
+    },
+    {
+      "artist": "Arany Zolt\u00e1n",
+      "title": "Ai Vist Lo Lop",
+      "services": {
+        "qobuz": "123871572"
+      },
+      "album": "The Last of the Troubadours",
+      "duration": 205,
+      "isrc": "HUA611501692"
+    },
+    {
+      "artist": "Woodland",
+      "title": "Witches Cross",
+      "services": {
+        "qobuz": "257889655"
+      },
+      "album": "Archive, Vol. II: 2005-2014",
+      "duration": 244,
+      "isrc": "TCABP1300489"
+    },
+    {
+      "artist": "Die Toten Hosen",
+      "title": "Hier sind die Hosen (feat. Farin Urlaub)",
+      "services": {
+        "qobuz": "400217848"
+      },
+      "album": "\"Trink aus, wir m\u00fcssen gehen!\u201c + Bonusalbum \"Alles muss raus!\u201c",
+      "duration": 236,
+      "isrc": "DEF242610001"
+    },
+    {
+      "artist": "Ulver",
+      "title": "\u00d8stenfor Sol Og Vestenfor M\u00e5ne",
+      "services": {
+        "qobuz": "58915643"
+      },
+      "album": "Kveldssanger",
+      "duration": 206,
+      "isrc": "NOFVH9514010"
+    },
+    {
+      "artist": "Victor Manuel",
+      "title": "Cuelebre",
+      "services": {
+        "qobuz": "44452588"
+      },
+      "album": "Soy un Corazon Tendido al Sol",
+      "duration": 176,
+      "isrc": "ES5117800016"
+    },
+    {
+      "artist": "Emian",
+      "title": "Hyria",
+      "services": {
+        "qobuz": "426394003"
+      },
+      "album": "Khymeia",
+      "duration": 242,
+      "isrc": "ITXZ61610002"
+    },
+    {
+      "artist": "JT",
+      "title": "Ran Out",
+      "services": {
+        "qobuz": "324606474"
+      },
+      "album": "Ran Out",
+      "duration": 142,
+      "isrc": "USUG12500209"
+    },
+    {
+      "artist": "Mutefish",
+      "title": "Supernova",
+      "services": {
+        "qobuz": "183404230"
+      },
+      "album": "360 Hangovers",
+      "duration": 235,
+      "isrc": "QZNJV2207198"
+    },
+    {
+      "artist": "Outsiders",
+      "title": "Het Zwarte Schaap (feat. De Kraaien)",
+      "services": {
+        "qobuz": "359465732"
+      },
+      "album": "Het Zwarte Schaap (feat. De Kraaien)",
+      "duration": 184,
+      "isrc": "NLR1T1800053"
+    },
+    {
+      "artist": "Waldkauz",
+      "title": "Mati Syra Zemlya",
+      "services": {
+        "qobuz": "39860940"
+      },
+      "album": "Mythos",
+      "duration": 287,
+      "isrc": "DEC831700122"
+    },
+    {
+      "artist": "Eiv\u00f8r",
+      "title": "Salt",
+      "services": {
+        "qobuz": "172640244"
+      },
+      "album": "Segl Live in Concert",
+      "duration": 302,
+      "isrc": "FOABN2000118"
+    },
+    {
+      "artist": "Sunfire",
+      "title": "Shot",
+      "services": {
+        "qobuz": "325062289"
+      },
+      "album": "Sinners' Town",
+      "duration": 394,
+      "isrc": "NLR5C1800006"
+    },
+    {
+      "artist": "Therion",
+      "title": "Hellequin",
+      "services": {
+        "qobuz": "60260735"
+      },
+      "album": "Sitra Ahra",
+      "duration": 318,
+      "isrc": "DED831000415"
+    },
+    {
+      "artist": "Kaunan",
+      "title": "Dansen Ungdom",
+      "services": {
+        "qobuz": "216731276"
+      },
+      "album": "Forn",
+      "duration": 216,
+      "isrc": "NO1941706110"
+    },
+    {
+      "artist": "Drusuna",
+      "title": "Litus Samoni",
+      "services": {
+        "qobuz": "48036929"
+      },
+      "album": "Kaytos Kom",
+      "duration": 361,
+      "isrc": "CH6541810840"
+    },
+    {
+      "artist": "Ok Goodnight",
+      "title": "The Fox and the Bird",
+      "services": {
+        "qobuz": "210363427"
+      },
+      "album": "The Fox and the Bird",
+      "duration": 280,
+      "isrc": "QZHN82312383"
+    },
+    {
+      "artist": "Varend Volk",
+      "title": "This Night We Spend Ashore",
+      "services": {
+        "qobuz": "146138519"
+      },
+      "album": "This Night We Spend Ashore",
+      "duration": 207,
+      "isrc": "NL1VU1901178"
+    },
+    {
+      "artist": "Els Berros de la Cort",
+      "title": "Groullera",
+      "services": {
+        "qobuz": "320012614"
+      },
+      "album": "Els Berros de la Cort",
+      "duration": 278,
+      "isrc": "ES7180650610"
+    },
+    {
+      "artist": "Belphegor",
+      "title": "Glorifizierung des Teufels",
+      "services": {
+        "qobuz": "151064629"
+      },
+      "album": "The Devils",
+      "duration": 298,
+      "isrc": "DED832100553"
+    },
+    {
+      "artist": "Qntal",
+      "title": "Pal\u00e4stinalied",
+      "services": {
+        "qobuz": "106049139"
+      },
+      "album": "Qntal II",
+      "duration": 356,
+      "isrc": "US37B0701404"
+    },
+    {
+      "artist": "Neun Welten",
+      "title": "Frosthauch",
+      "services": {
+        "qobuz": "189586965"
+      },
+      "album": "Destrunken",
+      "duration": 246,
+      "isrc": "DES560997601"
+    },
+    {
+      "artist": "Lyftkraft",
+      "title": "H\u00e5ll linjen klar",
+      "services": {
+        "qobuz": "401150065"
+      },
+      "album": "H\u00e5ll linjen klar",
+      "duration": 303,
+      "isrc": "QZPLS2642601"
+    },
+    {
+      "artist": "Birch Book",
+      "title": "Feet of Clay",
+      "services": {
+        "qobuz": "176522273"
+      },
+      "album": "A Hand Full of Days",
+      "duration": 211,
+      "isrc": "QZ22B1859962"
+    },
+    {
+      "artist": "SAULT",
+      "title": "Wildfires",
+      "services": {
+        "qobuz": "127347408"
+      },
+      "album": "Untitled (Black Is)",
+      "duration": 206,
+      "isrc": "UKMEH2000068"
+    },
+    {
+      "artist": "Dead Moon",
+      "title": "Somewhere Far Away",
+      "services": {
+        "qobuz": "285104259"
+      },
+      "album": "Nervous Sooner Changes",
+      "duration": 186,
+      "isrc": "QZSQG2499108"
+    },
+    {
+      "artist": "Marie Carmen",
+      "title": "L'aigle noir",
+      "services": {
+        "qobuz": "83938809"
+      },
+      "album": "Miel et venin",
+      "duration": 269,
+      "isrc": "CAU118303409"
+    },
+    {
+      "artist": "Prince Jazzbo",
+      "title": "The Wormer",
+      "services": {
+        "qobuz": "58320606"
+      },
+      "album": "Soul Jazz Records presents Bunny Lee: Dreads Enter the Gates with Praise \u2013 The Mighty Striker Shoots the Hits!",
+      "duration": 192,
+      "isrc": "GBBCK1901390"
+    },
+    {
+      "artist": "Lana Del Rey",
+      "title": "Video Games",
+      "services": {
+        "qobuz": "31887416"
+      },
+      "album": "Born To Die",
+      "duration": 281,
+      "isrc": "GBUM71111621"
+    },
+    {
+      "artist": "Richard Resch",
+      "title": "Das Leben war das Licht der Menschen: II. Recitativo",
+      "services": {
+        "qobuz": "358101195"
+      },
+      "album": "Die Nacht ist vorgedrungen",
+      "duration": 77,
+      "isrc": "DELC32502008"
+    },
+    {
+      "artist": "S\u00fcwafisch",
+      "title": "a glans hexnheisal",
+      "services": {
+        "qobuz": "369450944"
+      },
+      "album": "volume ans",
+      "duration": 233,
+      "isrc": "QT6EX2593846"
+    },
+    {
+      "artist": "Siebenb\u00fcrgen",
+      "title": "Storms",
+      "services": {
+        "qobuz": "47114620"
+      },
+      "album": "Delictum",
+      "duration": 463,
+      "isrc": "ATN260007503"
+    },
+    {
+      "artist": "Noah Ivory",
+      "title": "All That Is Gold Does Not Glitter",
+      "services": {
+        "qobuz": "282930704"
+      },
+      "album": "Lord of the Rings Sleep",
+      "duration": 87,
+      "isrc": "AUGBT2419881"
+    },
+    {
+      "artist": "Ross Daly",
+      "title": "Stars Of Gandahara",
+      "services": {
+        "qobuz": "30705877"
+      },
+      "album": "Iris",
+      "duration": 690,
+      "isrc": "USA560653122"
+    },
+    {
+      "artist": "Karat",
+      "title": "Jede Stunde",
+      "services": {
+        "qobuz": "227513"
+      },
+      "album": "Der blaue Planet",
+      "duration": 251,
+      "isrc": "DEC719400352"
+    },
+    {
+      "artist": "Sinfonia Of London",
+      "title": "My Fair Lady, Act II Scene 1: You Did It",
+      "services": {
+        "qobuz": "345567142"
+      },
+      "album": "Lerner & Loewe: My Fair Lady",
+      "duration": 339,
+      "isrc": "GBLWD2506202"
+    },
+    {
+      "artist": "Cerise Calixte",
+      "title": "Le bleu lumi\u00e8re",
+      "services": {
+        "qobuz": "36462197"
+      },
+      "album": "Vaiana - La L\u00e9gende du Bout du Monde",
+      "duration": 163,
+      "isrc": "USWD11677976"
+    },
+    {
+      "artist": "Indigo Girls",
+      "title": "Dead Man's Hill",
+      "services": {
+        "qobuz": "47059969"
+      },
+      "album": "1200 Curfews",
+      "duration": 333,
+      "isrc": "USSM10024356"
+    },
+    {
+      "artist": "Wolcensmen",
+      "title": "Withershins",
+      "services": {
+        "qobuz": "270452983"
+      },
+      "album": "Songs from the Fyrgen",
+      "duration": 166,
+      "isrc": "NOCVC1737010"
+    },
+    {
+      "artist": "Osi and the Jupiter",
+      "title": "Appalachia",
+      "services": {
+        "qobuz": "197421059"
+      },
+      "album": "Stave",
+      "duration": 239,
+      "isrc": "USA2P2124296"
+    }
+  ]
+}

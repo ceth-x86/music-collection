@@ -1,0 +1,108 @@
+# Genre: Avant Prog
+
+Imported genre playlist: Avant Prog.
+
+Services: `qobuz:66737660` `tidal:eb280ab4-ee82-4ea9-9048-c1e6b1319809`
+
+## Tracks (100)
+
+- **Captain Beefheart** — Frownland [Grow Fins - Rarities 1965-1982] (1:50) `isrc:USF2B9921038` `qobuz:37830200`
+- **Van Der Graaf Generator** — A Plague Of Lighthouse Keepers (Medley) [Pawn Hearts] (23:11) `isrc:GBAAA0500207` `qobuz:4634901`
+- **Samla Mammas Manna** — Circus Apparatha [Samla Mammas Manna] (6:04) `isrc:SELFA0101301` `qobuz:273986419`
+- **Gentle Giant** — Knots [Octopus] (4:12) `isrc:GB5XG1400033` `qobuz:38506524`
+- **Magma** — Hortz fur dëhn stëkëhn west [Mekanik destruktiw kommandoh] (9:34) `isrc:FRP1N1803010` `qobuz:103032292`
+- **King Crimson** — Larks' Tongues In Aspic (Part I) [Larks' Tongues In Aspic (Expanded & Remastered Original Album Mix)] (13:35) `isrc:GBCTX1400808` `qobuz:49289925`
+- **Slapp Happy** — Casablanca Moon [Casablanca Moon/Desperate Straights] (2:49) `isrc:GBAAA7400247` `qobuz:12566425`
+- **Henry Cow** — Living in the Heart of the Beast [In Praise of Learning] (16:12) `isrc:UKBUU1900122` `qobuz:104264682`
+- **Cos** — Viva Boma [Funky Chicken: Belgian Grooves From The 70's] (2:35) `isrc:BEN581400130` `qobuz:206274369`
+- **Etron Fou Leloublan** — L'amulette et le petit rabbin [Batelages] (18:08) `isrc:FR10E0704130` `qobuz:22891056`
+- **Art Zoyd** — Brigades spéciales [Symphonie pour le jour où brûleront les cités] (13:21) `isrc:FR6V88500401` `qobuz:6069163`
+- **Picchio dal Pozzo** — Adriatico [Picnic@valdapozzo] (8:35) `isrc:ITP800400013` `qobuz:199650382`
+- **Conventum** — Les criticotteuses [À l'affût d'un complot] (5:23) `isrc:CADC41410455` `qobuz:171558195`
+- **John Greaves** — Kew. Rhone. [Songs] (5:27) `isrc:IT0681700005` `qobuz:38224897`
+- **Stormy Six** — L'apprendista [L'apprendista] (5:39) `isrc:ITD019700595` `qobuz:45103597`
+- **Weidorje** — Elohims voyage [Weidorje] (16:33) `isrc:FR0I57800050` `qobuz:19741718`
+- **Frank Zappa** — The Black Page #1 [LÄTHER] (1:57) `isrc:USZPE1200932` `qobuz:54319337`
+- **Art Bears** — The Winter Wheel [The Residents present BUY OR DIE!: Ralph Records 1972-1982] (3:07) `isrc:GBBLY2403932` `qobuz:297845264`
+- **Opus Avantra** — Introspezione [Introspezione] (2:05) `isrc:ITK197400001` `qobuz:26016220`
+- **This Heat** — Testcard (Blue) [This Heat] (0:45) `isrc:GBTFC1700009` `qobuz:99157108`
+- **The Residents** — Constantinople [Duck Stab] (2:26) `isrc:GBBLY1701092` `qobuz:78214051`
+- **Univers Zéro** — La faulx [Hérésie] (25:05) `isrc:FR10S1435657` `qobuz:19538537`
+- **Aksak Maboul** — A Modern Lesson [Un peu de l'ame des bandits] (4:59) `isrc:BE6F58000020` `qobuz:3199023`
+- **Fred Frith** — Hello Music [Guitar Solos] (1:31) `isrc:DEU672400013` `qobuz:238669086`
+- **Dün** — Arrakis [Eros] (9:38) `isrc:DEUE11822665` `qobuz:53821760`
+- **Rhianna Heyward** — Eskaton [Eskaton] (2:36) `isrc:BK4DA2537923` `qobuz:352850920`
+- **Massacre** — Killing Time [Killing Time] (2:54) `isrc:GBAWA9871133` `qobuz:239438502`
+- **Judah & the Lion** — Kickin' da Leaves [Kids These Days] (2:48) `isrc:QMGSG1400012` `qobuz:170319044`
+- **The Protomen** — V: The Stand (Man or Machine) [The Protomen] (5:57) `isrc:USHM20676884` `qobuz:85486748`
+- **Slow Crime** — Work That [Artistique Music, Vol. 3] (7:49) `isrc:DEW871411116` `qobuz:51707604`
+- **The Adrenalin Crew** — Let Me Love You (Until You Learn to Love Yourself) [Top 100 Workout Hits Playlist - Over 5 Hours of the Best Workout Tracks Ever! - Perfect for Running, Keep Fit, Exercise, Spinning, Gym, Cardio & Fitness] (4:16) `isrc:QMVRR1204384` `qobuz:71225976`
+- **Debile Menthol** — Battre Campagne [Emile à la campagne] (7:36) `isrc:USX9P0937866` `qobuz:73001173`
+- **BADBADNOTGOOD** — City of Mirrors [Talk Memory] (3:50) `isrc:GBBKS2100050` `qobuz:124432395`
+- **Viñu-Vinu** — Le village qui rend fou [ALEXIS] (6:58) `isrc:CAEXK2600072` `qobuz:419803441`
+- **Cher** — After All (Love Theme From Chances Are) [Heart Of Stone] (4:04) `isrc:USGF18923912` `qobuz:755646`
+- **Shub Niggurath** — Incipit tragaedia [Les morts vont vite] (15:46) `isrc:FR10E8600220` `qobuz:22891049`
+- **Culture Club** — I'll Tumble 4 Ya [Greatest Hits] (2:38) `isrc:GBAAA0200999` `qobuz:1077526`
+- **Muddy Waters** — My Home Is In The Delta [Folk Singer] (4:00) `isrc:USMC10200554` `qobuz:25849475`
+- **Bedouine** — Under the Night [Bird Songs of a Killjoy] (3:18) `isrc:QMDN21900015` `qobuz:109634076`
+- **Otto** — WISHFUL THINKING = MISERY [The Plague Doctor Mixtape] (1:34) `isrc:QT6E72580679` `qobuz:365064403`
+- **Lucy Dacus** — Most Wanted Man [Forever Is A Feeling] (3:54) `isrc:USUG12409113` `qobuz:326745082`
+- **Midnight Totem** — Do U Remember [Persephone] (3:35) `isrc:GX53U2308528` `qobuz:288083940`
+- **Naked City** — Batman [Naked City Live vol. 1: Knitting Factory 1989] (2:06) `isrc:USCRW0233601` `qobuz:87124216`
+- **Mr. Bungle** — Quote Unquote [Mr. Bungle] (6:56) `isrc:USWB19903992` `qobuz:2934276`
+- **Doctor Nerve** — Armed Observation [Every Screaming Ear] (2:28) `isrc:USG940610081` `qobuz:74857890`
+- **Painkiller** — Guts of a Virgin [Guts of a Virgin - Buried Secrets] (1:14) `isrc:GBBPB0702025` `qobuz:94935751`
+- **GIMS** — One Shot [Subliminal] (3:26) `isrc:FR7U61200124` `qobuz:12668851`
+- **S.G. Goodman** — Teeth Marks [Teeth Marks] (3:37) `isrc:USUG12106307` `qobuz:147256844`
+- **Evil Mothers** — Spider Sex And Car Wrecks (Auto Bondage Mix) [Beatings (The Incriminating Fruit)] (6:29) `isrc:USA370516360` `qobuz:64463709`
+- **The Barleycorn** — Where Is The Man Who Does Not Love The Land Where He Was Born [Irish Songs Of Freedom - Volume 2] (3:14) `isrc:GBHFP0904922` `qobuz:68236489`
+- **Ruins** — Hyderomastgroningem [Hyderomastgroningem] (1:26) `isrc:USCRW9520201` `qobuz:87122086`
+- **Juliette Armanet** — Le Dernier Jour du Disco [Brûler le feu] (3:27) `isrc:FRUM72101697` `qobuz:133058837`
+- **X-Legged Sally** — Out of the Pit [Compilation X-Legged Sally] (2:59) `isrc:BEZ251425504` `qobuz:82060078`
+- **Cardiacs** — Tarred And Feathered [Songs For Ships And Irons] (3:30) `isrc:GB3748500002` `qobuz:111464555`
+- **Prasad K Shetty** — Once a Happy Family [Dharma Chavadi (Original Motion Picture Soundtrack)] (1:47) `isrc:QT6652527234` `qobuz:372674014`
+- **S-Tee** — BILLETS & ELASTIQUES [CASH MACHINE THERAPY] (2:07) `isrc:QZHN92359951` `qobuz:211381725`
+- **Sc Static** — Mr. E (Dedication to Braetan) [Third Person] (4:30) `isrc:TCAIZ2486847` `qobuz:303289140`
+- **Igor Krutogolov's Toy Orchestra** — Ground Zero: Consume Red [Ground Zero: Consume Red] (56:16) `isrc:IL4402000394` `qobuz:128012674`
+- **The Flying Luttenbachers** — Demonic Velocities/ 20,000,000 Volts [Destroy All Music] (3:49) `isrc:USA2B1600623` `qobuz:48839632`
+- **Koenjihyakkei** — Vleztemtraiv [Dhorimviskha] (10:18) `isrc:USA2B1802525` `qobuz:73710780`
+- **The Bats** — A Line To The Stars [Corner Coming Up] (3:04) `isrc:NZFN02500102` `qobuz:344253681`
+- **Steven Osborne** — Debussy: Pièce pour le Vêtement du blessé "Page d'album", CD 141 ["Bal fantôme": Romantic works] (1:04) `isrc:GBAJY2239020` `qobuz:356917916`
+- **The Dillinger Escape Plan** — 43% Burnt [Calculating Infinity] (4:31) `isrc:US2649942702` `qobuz:60616351`
+- **The Bicycle Thieves** — Autumn Leaves [Stolen Moment] (2:53) `isrc:GBBLY2105123` `qobuz:125935920`
+- **Improbable Beasts** — Riistomaasiirtäjä (Live) [Live in Arizona] (4:13) `isrc:DEZC62679521` `qobuz:422356886`
+- **French TV** — The Kokonino Stomp [The Violence of Amateurs] (4:40) `isrc:USCGJ1070904` `qobuz:76107163`
+- **J.J. Barnes** — No Ifs Ands Or Buts [Born Again] (3:37) `isrc:QZAKB2528192` `qobuz:358020401`
+- **Bubblemath** — Miscreant Citizen [Such Fine Particles of the Universe] (4:17) `isrc:USHM80638236` `qobuz:69131804`
+- **Korekyojinn** — Swan Dive [Tundra] (8:11) `isrc:USKBH1100089` `qobuz:72872211`
+- **Upsilon Acrux** — Pitch Mountain: Maps [Sun Square Dialect] (6:17) `isrc:QZTAS2222808` `qobuz:181618028`
+- **Limp Bizkit** — Rollin' (Air Raid Vehicle) [Chocolate Starfish And The Hot Dog Flavored Water] (3:34) `isrc:USIR10001170` `qobuz:25847716`
+- **Kayo Dot** — The Manifold Curiosity [Choirs Of The Eye] (14:28) `isrc:USCRW0309203` `qobuz:87115493`
+- **Yowie** — Ineffable Dolphin Communion [Synchromysticism] (6:23) `isrc:USA2B1701161` `qobuz:73709729`
+- **Estradasphere** — Buck Fever [Buck Fever] (5:45) `isrc:USA3V0400073` `qobuz:52225971`
+- **Secret Chiefs 3** — The 4 (Creat Ishraqi Sun) [Book of Horizons] (3:36) `isrc:USA3V0400016` `qobuz:52231456`
+- **Sleepytime Gorilla Museum** — A Hymn To The Morning Star [Of Natural History] (5:40) `isrc:USA3V0400184` `qobuz:52208462`
+- **The Mars Volta** — Cassandra Gemini [Frances the Mute] (4:45) `isrc:USUR10401178` `qobuz:2311175`
+- **Soapkills** — Aranis & Koullou Ndif [Enta Fen] (3:22) `isrc:BE6F51500810` `qobuz:24135859`
+- **Big L** — Put It On [Lifestylez Ov Da Poor & Dangerous] (3:37) `isrc:USSM10022977` `qobuz:33110`
+- **Battles** — Atlas [Mirrored] (7:06) `isrc:GBBPW0700009` `qobuz:3776541`
+- **Cosa Brava** — Soul of the Machine [The Letter] (2:11) `isrc:CH2701201660` `qobuz:6202560`
+- **Laufey** — What Love Will Do to You [Everything I Know About Love] (2:51) `isrc:GBKPL2298393` `qobuz:177776203`
+- **Universal Totem Orchestra** — Terra cava [Mathematical Mother] (14:06) `isrc:ITV111619801` `qobuz:37400819`
+- **Liselotte Rebmann** — Hojotoho! Hojotoho! "Walkürenritt" - War't ihr Kühnen zu zwei? [Wagner : Die Walküre] (8:09) `isrc:DEF056630041` `qobuz:34217372`
+- **Guapo** — King Lindorm [Elixirs] (15:40) `isrc:US4JA0810040` `qobuz:46843567`
+- **Panzerpappa** — Snill Sang På Bånd [Koralrevens Klagesang] (5:59) `isrc:NOX9X3592005` `qobuz:196566471`
+- **Panzerfaust** — The Jerusalem Syndrome [The Lucifer Principle] (7:57) `isrc:QMBZ91664320` `qobuz:37474541`
+- **Le Grand Sbam** — La trace [Furvent] (18:45) `isrc:FR6LT2066640` `qobuz:104969404`
+- **Pryapisme** — I - Petit traité de futurologie sur l'Homo cretinus trampolinis (et son annexe sur les nageoires caudales) [Futurologie] (1:59) `isrc:USY251400813` `qobuz:195169673`
+- **Yūgen** — Brachilogia [Mirrors] (3:09) `isrc:USHM81315590` `qobuz:100892643`
+- **Panzerballett** — Typewriter II [Breaking Brain] (6:13) `isrc:DENC11500238` `qobuz:27404667`
+- **Schnellertollermeier** — X (Single Version) [X (Single Version)] (6:31) `isrc:US9351540207` `qobuz:72567536`
+- **Setna** — Guerison (b) [Guerison] (4:48) `isrc:GBSMU1772029` `qobuz:113416934`
+- **Chromb!** — Fredilippe [Cinq] (2:06) `isrc:FR6LT2355501` `qobuz:227527280`
+- **Earthless** — Equus October [From the Ages] (5:45) `isrc:DED832001117` `qobuz:132057378`
+- **PoiL** — Brossaklitt [Brossaklitt] (4:18) `isrc:FR9W11402687` `qobuz:46171604`
+- **Fitness Music Workout** — Diet at home -BPM60- [Home Yoga BGM - Meditation, Stretching & Chillout Sounds] (3:38) `isrc:TCJPY2334124` `qobuz:343173797`
+- **The Mercury Tree** — Sympathesizer [Permutations] (4:42) `isrc:USHM81668557` `qobuz:91785460`
+- **Bent Knee** — Hold Me In [You Know What They Mean] (4:50) `isrc:GBDHC1909705` `qobuz:65851897`
+- **black midi** — John L [Cavalcade] (5:13) `isrc:GBCVZ2000251` `qobuz:119702680`

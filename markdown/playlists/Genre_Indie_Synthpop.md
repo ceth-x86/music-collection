@@ -1,0 +1,108 @@
+# Genre: Indie Synthpop
+
+Imported genre playlist: Indie Synthpop.
+
+Services: `qobuz:66717984` `tidal:7b7e22db-484b-48f7-9a4c-3dabeb40d339`
+
+## Tracks (100)
+
+- **The Postal Service** — Such Great Heights [Give Up] (4:26) `isrc:USSUB1304502` `qobuz:407823680`
+- **The Knife** — Heartbeats [Deep Cuts] (3:51) `isrc:SEWCE0400201` `qobuz:168786685`
+- **Ladytron** — Seventeen [Light & Magic] (4:37) `isrc:CAN111000309` `qobuz:154193585`
+- **Frou Frou** — Let Go [Details] (4:12) `isrc:GBAAN0200016` `qobuz:2467973`
+- **The Sounds** — Living in America [Dying to Say This to You] (3:25) `isrc:SEPQA0213030` `qobuz:2961663`
+- **Junior Senior** — Move Your Feet [D-D-Don't Don't Stop The Beat] (3:01) `isrc:DKMFA0300203` `qobuz:80077349`
+- **Freezepop** — stakeout [Fancy Ultra-Fresh] (3:17) `isrc:USHM90409112` `qobuz:76101925`
+- **Donovan** — Legend Of A Girl Child Linda [Sunshine Superman] (6:50) `isrc:USSM19916823` `qobuz:44792`
+- **Lali Puna** — Faking The Books [Faking The Books] (4:00) `isrc:DEX260404401` `qobuz:30072587`
+- **Hot Chip** — Over And Over [The Warning] (5:47) `isrc:GBAYE0501516` `qobuz:41822843`
+- **Junior Boys** — In The Morning [So This Is Goodbye] (4:46) `isrc:GBCEL0600186` `qobuz:2523625`
+- **Cut Copy** — Lights & Music [In Ghost Colours] (4:39) `isrc:AUUM70800086` `qobuz:341507312`
+- **The Presets** — My People [Apocalypso] (4:27) `isrc:AUUM70700903` `qobuz:13166905`
+- **Friendly Fires** — Jump in the Pool [Friendly Fires] (3:37) `isrc:GBBKS0800398` `qobuz:2532295`
+- **Passion Pit** — Sleepyhead [Manners] (2:54) `isrc:USSM10901014` `qobuz:1975463`
+- **Miike Snow** — Animal [Miike Snow] (4:24) `isrc:GBARL0900399` `qobuz:320260273`
+- **Empire Of The Sun** — Walking On A Dream [Walking On A Dream] (3:18) `isrc:AUEI10800039` `qobuz:1746721`
+- **Metronomy** — Heartbreaker [Nights Out (10th Anniversary Edition)] (4:12) `isrc:GBMVH0800019` `qobuz:55975280`
+- **La Roux** — Bulletproof [La Roux] (3:25) `isrc:GBUM70903779` `qobuz:746748`
+- **Little Boots** — Remedy [Hands] (3:18) `isrc:GBFFS0900006` `qobuz:2698395`
+- **Ladyhawke** — My Delirium [Ladyhawke] (4:14) `isrc:GBUM70808705` `qobuz:28219364`
+- **New Young Pony Club** — Ice Cream [Ice Cream] (3:10) `isrc:AUUM70700142` `qobuz:4924026`
+- **Shiny Toy Guns** — Le Disko [We Are Pilots] (3:23) `isrc:USUM70606691` `qobuz:148404218`
+- **Dragonette** — I Get Around [Galore] (3:28) `isrc:GBUM70605016` `qobuz:8882918`
+- **Little Dragon** — Twice [Little Dragon] (3:06) `isrc:GBEWK0700033` `qobuz:397433673`
+- **The Whip** — Trash [X Marks Destination] (6:23) `isrc:GBEFR0801291` `qobuz:91721473`
+- **The Bird and the Bee** — Polite Dance Song [Ray Guns Are Not Just The Future] (3:46) `isrc:USBN20800603` `qobuz:4382528`
+- **Lo-Fi-Fnk** — Want U [The Last Summer] (5:20) `isrc:SEBGA1100134` `qobuz:3838640`
+- **Midnight Juggernauts** — Into the Galaxy [Into The Galaxy] (3:37) `isrc:AUIB20800005` `qobuz:4707654`
+- **The Black Ghosts** — Repetition Kills You [The Black Ghosts] (3:43) `isrc:GBEFR0700933` `qobuz:91718835`
+- **Yeah Yeah Yeahs** — Heads Will Roll [It's Blitz!] (3:41) `isrc:GBUM70900924` `qobuz:747482`
+- **Chairlift** — Bruises [Does You Inspire You] (4:01) `isrc:US28E0834204` `qobuz:241899865`
+- **The Naked And Famous** — Young Blood [Passive Me, Aggressive You] (4:06) `isrc:NZNK11000001` `qobuz:388668376`
+- **Delphic** — Doubt [Acolyte] (4:06) `isrc:GBUM70903534` `qobuz:10922913`
+- **Fenech-Soler** — Lies [Fenech-Soler] (6:02) `isrc:GBDVX1000046` `qobuz:4469449`
+- **Hurts** — Wonderful Life [Happiness] (4:14) `isrc:GBARL0901539` `qobuz:2344657`
+- **Twin Shadow** — Slow [Forget] (3:54) `isrc:GBAFL1000229` `qobuz:2543866`
+- **The Sound of Arrows** — Into The Clouds [Voyage] (4:12) `isrc:GBX5K1100020` `qobuz:70262689`
+- **Strfkr** — Golden Light [Miracle Mile] (4:43) `isrc:US3R41324814` `qobuz:181985444`
+- **Niki & The Dove** — Mother Protect [Instinct] (5:05) `isrc:GBUM71106948` `qobuz:5487866`
+- **Grimes** — Oblivion [Visions] (4:11) `isrc:CA21O1200003` `qobuz:5177861`
+- **Purity Ring** — fineshrine [shrines] (3:29) `isrc:GBAFL1200171` `qobuz:6035343`
+- **CHVRCHES** — The Mother We Share [The Bones Of What You Believe] (3:11) `isrc:GBZN82300001` `qobuz:232776853`
+- **MS MR** — Hurricane [Secondhand Rapture] (3:46) `isrc:USSM11203044` `qobuz:9128578`
+- **St. Lucia** — Elevate [When The Night (Deluxe)] (5:08) `isrc:USSM11303710` `qobuz:17426462`
+- **Capital Cities** — Safe and Sound [In A Tidal Wave of Mystery (Deluxe Edition)] (3:12) `isrc:TCABD1246970` `qobuz:287032844`
+- **Tegan And Sara** — Closer [Heartthrob] (3:30) `isrc:USWB11202179` `qobuz:7568681`
+- **Holy Ghost!** — Hold On [Holy Ghost!] (5:57) `isrc:US4GE1100037` `qobuz:11094744`
+- **Classixx** — Holding On [Hanging Gardens] (6:20) `isrc:USD8D1239001` `qobuz:145994644`
+- **Future Islands** — Seasons (Waiting on You) [Singles] (3:46) `isrc:GBAFL1300206` `qobuz:15142218`
+- **Broods** — Bridges [Evergreen] (3:11) `isrc:GBUM71308964` `qobuz:20608857`
+- **Bleachers** — I Wanna Get Better [I Wanna Get Better] (3:24) `isrc:USRC11400200` `qobuz:14894048`
+- **Haerts** — Wings [HAERTS] (4:58) `isrc:USQX91300775` `qobuz:20016249`
+- **Smallpools** — Dreaming [LOVETAP!] (3:36) `isrc:USRC11300650` `qobuz:23141521`
+- **Phantogram** — Fall In Love [Voices] (3:43) `isrc:USUM71318566` `qobuz:16175509`
+- **AlunaGeorge** — You Know You Like It [Body Music] (3:22) `isrc:GBUM71303236` `qobuz:10693629`
+- **Mø** — Pilgrim [No Mythologies to Follow (Deluxe)] (3:52) `isrc:DKADG1300179` `qobuz:15991966`
+- **Miami Horror** — Sometimes [Illumination] (4:13) `isrc:AUMH30900072` `qobuz:150528672`
+- **Neon Trees** — Animal [Habits] (3:31) `isrc:USUM71001801` `qobuz:3189961`
+- **Foster The People** — Houdini [Torches] (3:22) `isrc:USSM11005694` `qobuz:14069913`
+- **Metric** — Breathing Underwater [Synthetica] (3:56) `isrc:CARB71211204` `qobuz:92205665`
+- **The 1975** — Girls [The 1975] (4:14) `isrc:GBK3W1000200` `qobuz:30055058`
+- **The Chain Gang of 1974** — Sleepwalking [Daydream Forever] (3:37) `isrc:USWB11302194` `qobuz:14458554`
+- **Taylor Eigsti** — Little Bird [Daylight at Midnight] (4:17) `isrc:USC4R1021977` `qobuz:2518846`
+- **Foxes** — Let Go for Tonight [Glorious (Deluxe)] (3:58) `isrc:GBARL1301249` `qobuz:16514957`
+- **Kiesza** — Hideaway [Sound Of A Woman] (4:11) `isrc:USUM71400121` `qobuz:19884742`
+- **Sky Ferreira** — Everything Is Embarrassing [Night Time, My Time] (4:09) `isrc:USCA21202535` `qobuz:15096778`
+- **Tove Lo** — Habits (Stay High) [Queen Of The Clouds] (3:29) `isrc:SE3NM1300101` `qobuz:19635973`
+- **Betty Who** — Somebody Loves You [Take Me When You Go] (3:30) `isrc:USRC11301499` `qobuz:19447627`
+- **Ultimate Tribute Stars** — Marina and the Diamonds - Primadonna (Vocal Melody Version) [Marina and the Diamonds - Primadonna (Vocal Melody Version)] (3:38) `isrc:USA561233927` `qobuz:70210296`
+- **Lorde** — Team [Pure Heroine] (3:12) `isrc:NZUM71300124` `qobuz:14876252`
+- **LCD Soundsystem** — I Can Change [This Is Happening] (5:55) `isrc:US4GE1000023` `qobuz:2009281`
+- **Joywave** — Destruction [How Do You Feel Now?] (3:04) `isrc:USHR11436182` `qobuz:23810951`
+- **Olly Alexander (Years & Years)** — King [Night Call] (3:35) `isrc:GBUM71406892` `qobuz:141138807`
+- **BØRNS** — Electric Love [Dopamine] (3:38) `isrc:USUM71416307` `qobuz:32506333`
+- **Oh Wonder** — Lose It [Oh Wonder] (3:50) `isrc:GB9L31400027` `qobuz:26727238`
+- **MisterWives** — Reflections [Our Own House] (3:04) `isrc:USUM71318551` `qobuz:22446471`
+- **Allie X** — Paper Love [CollXtion II] (3:17) `isrc:GBLFP1708886` `qobuz:171634573`
+- **Shura** — Touch [Nothing's Real] (3:34) `isrc:GBUM71600706` `qobuz:33437802`
+- **Roosevelt** — Fever [Roosevelt] (4:24) `isrc:GBRTB1600014` `qobuz:244644528`
+- **LANY** — ILYSB [LANY] (3:31) `isrc:TCABY1418887` `qobuz:39469983`
+- **The Knocks** — Classic (feat. POWERS) [55] (4:08) `isrc:USAT21403193` `qobuz:29586886`
+- **MUNA** — I Know A Place [About U] (4:32) `isrc:USRC11602620` `qobuz:38203069`
+- **A R I Z O N A** — Oceans Away [GALLERY] (3:14) `isrc:USAT21603474` `qobuz:39859047`
+- **Tove Styrke** — Say My Name [Sway] (3:25) `isrc:SEBGA1700096` `qobuz:54376227`
+- **Dagny** — Backbeat [Ultraviolet EP] (3:45) `isrc:UK4TV1500020` `qobuz:34518357`
+- **The Aces** — Daydream [Under My Influence] (2:30) `isrc:USP6L1900444` `qobuz:96748550`
+- **Fickle Friends** — Swim [You Are Someone Else] (3:17) `isrc:GBUM71706149` `qobuz:47888944`
+- **Christine and the Queens** — Girlfriend (feat. Dâm-Funk) [Palms Trax Remix] [Girlfriend / Damn, dis-moi (feat. Dâm-Funk) [Remixes]] (5:25) `isrc:FR6P11802560` `qobuz:51153097`
+- **Let's Eat Grandma** — Hot Pink [I'm All Ears] (4:08) `isrc:GBKZV1800003` `qobuz:47757412`
+- **Pale Waves** — There's a Honey [There's a Honey] (3:50) `isrc:GBK3W1700535` `qobuz:38704597`
+- **Sigrid** — Strangers [Sucker Punch] (3:52) `isrc:GBUM71705774` `qobuz:59670706`
+- **Caroline Polachek** — So Hot You're Hurting My Feelings [Pang] (3:03) `isrc:USSM11902945` `qobuz:74937678`
+- **Cannons** — Fire for You [Shadows] (3:51) `isrc:USSM12004811` `qobuz:98582344`
+- **Nation of Language** — The Grey Commute [A Way Forward] (3:37) `isrc:USLZJ2193689` `qobuz:132301968`
+- **Georgia** — About Work The Dancefloor [Seeking Thrills] (3:28) `isrc:GBCEL1800526` `qobuz:75157492`
+- **Rina Sawayama** — XS [SAWAYAMA] (3:20) `isrc:GBK3W1901224` `qobuz:84075864`
+- **Magdalena Bay** — You Lose! [Mercurial World] (3:24) `isrc:QM6N22162296` `qobuz:122855197`
+- **Chappell Roan** — Red Wine Supernova [The Rise and Fall of a Midwest Princess] (3:12) `isrc:USUG12301845` `qobuz:229054009`
+- **Charli xcx** — Good Ones [CRASH] (2:16) `isrc:GBAHS2100596` `qobuz:136914752`

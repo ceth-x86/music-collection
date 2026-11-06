@@ -1,0 +1,106 @@
+# Genre: Detroit Techno
+
+Imported genre playlist: Detroit Techno.
+
+Services: `qobuz:66718697` `tidal:8ac70b1f-64ea-4fa1-9cb3-f267d26dde9e`
+
+## Tracks (98)
+
+- **Cybotron** — Clear [Clear] (4:54) `isrc:USFI88300051` `qobuz:102668717`
+- **Juan Atkins** — No U.F.Os (inst.) [Submerge Vol.1:Detroit Techno] (6:58) `isrc:USGUM0810123` `qobuz:74113554`
+- **Derrick May** — Strings Of Life [Innovator - Soundtrack for the Tenth Planet] (7:34) `isrc:GBJX31936012` `qobuz:203400969`
+- **Derrick May** — Nude Photo [Innovator - Soundtrack for the Tenth Planet] (4:41) `isrc:GBJX31936017` `qobuz:203400973`
+- **KIMSUNGHOON** — Silent Groove (The Recluse’s Song) [“How Does It Feel: A Tribute to D’Angelo”] (2:39) `isrc:QT3FE2559929` `qobuz:363207439`
+- **Will Smith** — LIGHT EM UP [Bad Boys: Ride Or Die Soundtrack] (2:01) `isrc:USSM12404025` `qobuz:268463775`
+- **Zen Lemonade** — Rodnet [King Makers Presents: Electronic Dance Experience] (7:25) `isrc:GB83L1100017` `qobuz:72392429`
+- **Will Sparks** — Bad Girls [Bad Girls] (2:05) `isrc:NL8RL2626023` `qobuz:402136778`
+- **JF-MUSIC XX** — It's just techno on the piano [It's just techno on the piano] (3:06) `isrc:QZTRX2523078` `qobuz:328792799`
+- **Hakobune** — Nebulous Sequence, Pt. 10 [Nebulous Sequences] (12:09) `isrc:UK6821908323` `qobuz:79348410`
+- **Carole Fredericks** — Un, deux, trois [Fredericks, Goldman, Jones] (4:18) `isrc:FRZ089000490` `qobuz:68069190`
+- **Eight To The Bar Express** — Take Your Time [Take Your Time] (2:45) `isrc:DEZB52440052` `qobuz:270086883`
+- **Meigui Zhang** — Zigman: Émigré, Act I: This House We Share [Zigman: Émigré] (7:03) `isrc:DEN962337305` `qobuz:250537853`
+- **Inner City** — Big Fun [Paradise] (3:26) `isrc:GBAAA8900095` `qobuz:4651175`
+- **Our Next Movement** — Aftermath [THIS ROOM / THIS BATTLEFIELD] (5:05) `isrc:ES71I2100013` `qobuz:247568146`
+- **Psyche/BFC** — Elements [Psyche/BFC - DELUXE DIGITAL VERSION] (6:51) `isrc:USPC80601038` `qobuz:53575537`
+- **Binary Star** — K.G.B. [Masters of the Universe (2025 remastered)] (7:47) `isrc:QZWFR2586803` `qobuz:350017499`
+- **Octave One** — I Believe [The Collective] (5:52) `isrc:USTC70830245` `qobuz:202794154`
+- **Dimitri From Amsterdam** — Techno Por Favor [Detroit Summer] (6:31) `isrc:USPC81301291` `qobuz:53448730`
+- **Saint Vice** — THE RITUAL [ANGEL OF DEATH] (2:53) `isrc:QZMEQ2608018` `qobuz:396061220`
+- **Reese** — Just Want Another Chance [Global Communication - Back In The Box] (5:03) `isrc:GBAJV8900001` `qobuz:4414933`
+- **Jan Hammer Project** — Crockett's Theme (R&B Flava Mix) [Crockett's Theme - EP feat. TQ] (4:16) `isrc:USCGH1050469` `qobuz:79162003`
+- **Simple Minds** — First You Jump [Direction of the Heart] (4:23) `isrc:GBZ8N2200443` `qobuz:381775211`
+- **Louie Devito** — Let's Go! (Dub Mix) [Let's Go! (Dub Mix)] (5:53) `isrc:USLQ21291011` `qobuz:77203394`
+- **Kevin Saunderson** — The Sound [The Sound (Power Mix) / The Groove That Won't Stop] (6:39) `isrc:QMVZM8801401` `qobuz:378081559`
+- **Malvada** — Veneno [Fear] (3:29) `isrc:ITG272400559` `qobuz:301236374`
+- **Reggae Groove Nation** — It's Normal to Dream of You Every Night [It's Normal to Love You Like This] (3:59) `isrc:QZVEM2571610` `qobuz:328940189`
+- **Jordan Rakei** — Nerve [Wallflower] (3:55) `isrc:GBCFB1700198` `qobuz:42613074`
+- **aditya jordan akira** — Thaliand Nightgrove [Thaliand Nightgrove] (3:18) `isrc:QT5M62680358` `qobuz:400127873`
+- **Mad Mike** — Attack of the Sonic Samurai (The Battle Within) [Interstellar Fugitives - Destruction of Order] (7:18) `isrc:USGUM0710045` `qobuz:74127463`
+- **Gary Burton** — Stardancer [Easy As Pie] (8:56) `isrc:DEB338018406` `qobuz:64371290`
+- **Galaxy 2 Galaxy** — Hi-Tech Jazz [Galaxy 2 Galaxy: A High Tech Jazz Compilation] (5:36) `isrc:USGUM0710515` `qobuz:74125443`
+- **Suburban Knight** — The Art Of Stalking [Cherry Moon 35 Years] (6:35) `isrc:BEFK29300001` `qobuz:412441462`
+- **Psyche/BFC** — Evolution [Psyche/BFC - DELUXE DIGITAL VERSION] (3:07) `isrc:USPC80601043` `qobuz:53575542`
+- **Stacey Pullen** — Get Up [Get Up] (8:18) `isrc:USF7D1100001` `qobuz:247433765`
+- **House & Home** — Pocket Knife [Find Sense. Feel Love. Make Light.] (3:35) `isrc:QZFZ52091383` `qobuz:272042057`
+- **Beyond The Black** — Lost in Forever [Lost in Forever (Tour Edition)] (4:48) `isrc:DEUM71503989` `qobuz:80027187`
+- **The Script** — Breakeven [The Script] (4:21) `isrc:GBARL0800147` `qobuz:13023489`
+- **Lene Marlin** — My Lucky Day [Lost In A Moment] (3:45) `isrc:NOAHV0503070` `qobuz:803829`
+- **Inertia** — The Chamber [The Chamber] (8:40) `isrc:GBJAL0500009` `qobuz:111437974`
+- **Jackson Arlo Young** — The Hollow Stars That Refuse to Shine [The Hollow Stars That Refuse to Shine] (3:19) `isrc:QT82V2635062` `qobuz:409760686`
+- **Sean Wolcott** — Vortex of the Ever-Seeing Mind [Crystal Eyes Stalk at Midnight] (2:17) `isrc:QZDA62673796` `qobuz:384095596`
+- **8 Wonders** — 8th Wonder [8th Wonder] (8:32) `isrc:GBHCD0604020` `qobuz:7004543`
+- **The Foundations** — Come On Back To Me [Baby Now That I've Found You] (2:16) `isrc:GBAJE6700119` `qobuz:390261361`
+- **Taylor Swift** — Shake It Off [1989] (3:39) `isrc:USCJY1431349` `qobuz:78245406`
+- **Reggie And The Full Effect** — who needs another drank feat (floppy disk-0) [No Country For Old Musicians (10th Anniversary)] (2:53) `isrc:USSTT1300069` `qobuz:208687965`
+- **Ida** — Down On Your Back [Will You Find Me 25th Anniversary Edition] (4:24) `isrc:USCW62534172` `qobuz:317993621`
+- **DJ T-1000** — 1 Liquid Metal [The Polymath] (6:51) `isrc:GBGXG1600621` `qobuz:48818288`
+- **Terrence Dixon** — Demo For Jakub [Reverse Engineering After Hours] (4:42) `isrc:GBRKQ2115354` `qobuz:132508066`
+- **Malakwa** — People Are People [Alfa Matrix Re:Covered, Vol. 2 - a Tribute to Depeche Mode] (4:02) `isrc:BEC261113729` `qobuz:8458743`
+- **Jeff Mills** — The Bells [SIGHT SOUND AND SPACE] (4:45) `isrc:USAX10000249` `qobuz:295033856`
+- **Kenny Larkin** — We Shall Overcome [We Shall Overcome] (3:47) `isrc:USA2P2018458` `qobuz:93530568`
+- **Terrence Dixon** — Bonus Beat ; Da Comin' (Jay Denham RMX) ; 1.0 / 8.0 Afrika Genocide [DJ-Kicks (Nina Kraviz)] (2:19) `isrc:DEG931491188` `qobuz:21957319`
+- **Badawi** — Anlan 7 [NYC Sound System Culture: The Global Bass Resistance Archive (2000–2010)] (3:57) `isrc:GBHLW2600366` `qobuz:394505268`
+- **J.B.O.** — Ma Ma Ma Metal [Haus Of The Rising Fun] (4:27) `isrc:DE1KY2506865` `qobuz:358008983`
+- **The Sweet Dream Team** — Rock a Bye Baby (Lullaby for Infants, Toddlers, Relaxation and Baby Sleep Aid) [Rock a Bye Baby (Lullaby for Infants, Toddlers, Relaxation and Baby Sleep Aid)] (1:29) `isrc:USHM81917329` `qobuz:64134405`
+- **Planetary Assault Systems** — Blue Monk [Arc Angel] (8:59) `isrc:DELG71400803` `qobuz:35676529`
+- **Air Liquide** — Nephology [Nephology] (3:02) `isrc:DEKB71671213` `qobuz:251940744`
+- **Boards of Canada** — You Retreat In Time And Space [Inferno] (5:25) `isrc:GBBPW2602557` `qobuz:421944461`
+- **Self Control** — Free Your Mind [Voyage II EP] (5:55) `isrc:CAH250671310` `qobuz:74329784`
+- **Sequence Six** — Essence of Self [Essence of Self] (7:12) `isrc:UKRMQ2501112` `qobuz:367994909`
+- **Neko Hacker** — Cosmic City Highway [WotoHacker The Best] (2:33) `isrc:TCJPV2304207` `qobuz:296428451`
+- **João Gilberto** — Bim Bom [João Gilberto Apresenta Chega de Saudade] (1:17) `isrc:DEXO32236448` `qobuz:160801085`
+- **Bob Dylan** — 'Til I Fell in Love with You [Fragments - Time Out of Mind Sessions (1996-1997): The Bootleg Series, Vol. 17 (Deluxe Edition)] (2:57) `isrc:USSM12201960` `qobuz:184344381`
+- **The Warning** — Six Feet Deep [Keep Me Fed] (2:59) `isrc:USUM72402489` `qobuz:273574161`
+- **DJ Format** — Vicious Battle Raps [Music For The Mature B Boy] (3:52) `isrc:GBENL0300056` `qobuz:33464271`
+- **Moby** — When It's Cold I'd Like to Die [When It's Cold I'd Like to Die] (5:00) `isrc:GB3AD2600003` `qobuz:398979013`
+- **Yeah Yeah Fine** — Emerald Heart [Love Letters & Lifelines] (3:23) `isrc:QZPJ32519870` `qobuz:366698428`
+- **The Aztec Mystic** — Knights of Jaguar [DJ Vibe Presents Global Grooves Vol.2] (6:38) `isrc:QMDA61823856` `qobuz:46836994`
+- **Carl Craig** — At Les [Versus Beatless Versions] (7:39) `isrc:FRT091600082` `qobuz:60564017`
+- **Aril Brikha** — Groove La Chord [Re-Creation: Remixes Compiled] (8:07) `isrc:DECY51008021` `qobuz:206287757`
+- **Hermandad de Jesús Nazareno de San Juan de Dios** — Protector De Quetzaltenango [Dichoso pueblo con tal Rey] (6:59) `isrc:GXHAF2691298` `qobuz:427651869`
+- **Vince Watson** — Mystical Rhythm (feat. Naomi Thompson) [Mystical Rhythm (feat. Naomi Thompson)] (4:20) `isrc:GBGTS1000100` `qobuz:91743768`
+- **e-Dancer** — Heavenly [Heavenly] (2:05) `isrc:BEP010491401` `qobuz:378252326`
+- **Reese & Santonio** — The Sound [The Sound] (3:02) `isrc:NL8FJ2300123` `qobuz:378319572`
+- **Robert Glasper** — Step Into The Realm [Keys To The City Volume One] (2:57) `isrc:USC4R2447746` `qobuz:360724478`
+- **Peverelist** — Pulse V [Pulse Remix EP] (5:24) `isrc:GBRYX2500430` `qobuz:362918887`
+- **Pink Martini, Manos Hadjidakis, Billy Towne** — Never On Sunday [Sympathique] (4:56) `isrc:USHNZ0400010` `qobuz:1401411`
+- **Jeff Beal** — Game Chaos [The Winning Time Sessions: Season 2 (Soundtrack from the HBO® Original Series)] (3:47) `isrc:USNLR2301384` `qobuz:227785826`
+- **Melt Yourself Down** — Fix My Life [Melt Yourself Down] (4:02) `isrc:GBCKB1308502` `qobuz:49756616`
+- **Energy** — Invasions [Into the Dark] (1:27) `isrc:GBKPL1971540` `qobuz:168687403`
+- **Johann Johannsson** — A Model of the Universe [The Theory of Everything (Original Motion Picture Soundtrack)] (2:52) `isrc:USQ4E1401114` `qobuz:109469902`
+- **Yellow Magic Orchestra** — Hi-Tech Hippies [TECHNODON REMIXES I&II] (10:02) `isrc:JPTO09314380` `qobuz:92658618`
+- **Mad Professor** — Sahara Dub [Mad Professor Meets Channel One] (4:35) `isrc:QMDA71593526` `qobuz:31668633`
+- **69** — Desire [The Legendary Adventures Of A Filter King] (6:27) `isrc:USPC80901049` `qobuz:39666935`
+- **Dan Curtin** — The Bailout [Indiscrete EP] (5:44) `isrc:NLCK41061031` `qobuz:81991123`
+- **Kitaro** — Underworld [Cirque Ingenieux] (7:44) `isrc:USDO19700034` `qobuz:74416994`
+- **B12** — Hall Of Mirrors [Electro Soma] (6:38) `isrc:GBBPW9300037` `qobuz:3775409`
+- **Eternal Stasis** — Point Of No Return [Mental Decay] (6:05) `isrc:AEA2Z2498558` `qobuz:304817827`
+- **Deetron** — Starblazer [Defected presents House Masters - Deetron] (8:18) `isrc:NLEW31100008` `qobuz:414289151`
+- **Sterac** — The Secret Life Of Machines [Secret Life Of Machines Remastered & Remixed] (7:04) `isrc:NLR341010069` `qobuz:104234842`
+- **Rah** — Come Sono Veramente [Nightvision #22] (6:00) `isrc:GBKQU1808731` `qobuz:113103578`
+- **DJ Bone** — Shut the Lites Off [Riding the Thin Line] (7:55) `isrc:GBKMS1700009` `qobuz:49339368`
+- **DJ Tao** — LA T Y LA M | DJ TAO Turreo Sessions #16 [LA T Y LA M | DJ TAO Turreo Sessions #16] (2:20) `isrc:CLAA22300021` `qobuz:199816052`
+- **Felt** — Grey Streets [Absolute Classic Masterpieces Vol II] (3:45) `isrc:GBBBN8605005` `qobuz:192852087`
+- **Black Hole Sun** — The Carpet Crawlers [The Carpet Crawlers: Progressive Rock] (5:30) `isrc:GBQRF1210186` `qobuz:67024608`
+- **Mike Finnigan** — Don't Answer the Door [Mike Finnigan] (6:37) `isrc:USP5V2500133` `qobuz:367562063`
+- **Marty Robbins** — The Red Hills of Utah [Return of the Gunfighter] (2:06) `isrc:USSM10500433` `qobuz:13333891`

@@ -1,0 +1,990 @@
+{
+  "name": "Genre: Dub Techno",
+  "services": {
+    "qobuz": "66718885",
+    "tidal": "8cf2f74f-b9df-4b45-99f5-fc8e568153ed"
+  },
+  "description": "Imported genre playlist: Dub Techno.",
+  "tracks": [
+    {
+      "artist": "Maurizio",
+      "title": "Eleye",
+      "services": {
+        "qobuz": "49024594"
+      },
+      "album": "Ploy",
+      "duration": 370,
+      "isrc": "DEW259200211"
+    },
+    {
+      "artist": "Basic Channel",
+      "title": "Lyot Rmx",
+      "services": {
+        "qobuz": "49022575"
+      },
+      "album": "Lyot Rmx",
+      "duration": 717,
+      "isrc": "DEW259300118"
+    },
+    {
+      "artist": "Juan Atkins",
+      "title": "Starlight",
+      "services": {
+        "qobuz": "401915875"
+      },
+      "album": "Starlight",
+      "duration": 379,
+      "isrc": "GBQLP0800500"
+    },
+    {
+      "artist": "Mono Junk",
+      "title": "Channel B",
+      "services": {
+        "qobuz": "206267824"
+      },
+      "album": "Conducted",
+      "duration": 538,
+      "isrc": "DEEP30600000"
+    },
+    {
+      "artist": "Petar Dundov",
+      "title": "Oasis",
+      "services": {
+        "qobuz": "206251405"
+      },
+      "album": "Oasis",
+      "duration": 454,
+      "isrc": "BEN580800101"
+    },
+    {
+      "artist": "Burger/Ink",
+      "title": "Twelve Miles High",
+      "services": {
+        "qobuz": "58858384"
+      },
+      "album": "[las vegas]",
+      "duration": 682,
+      "isrc": "USMTD9833404"
+    },
+    {
+      "artist": "Porter Ricks",
+      "title": "Nautical Dub",
+      "services": {
+        "qobuz": "30206570"
+      },
+      "album": "Biokinetics",
+      "duration": 348,
+      "isrc": "QMXWW1210002"
+    },
+    {
+      "artist": "Memo PST",
+      "title": "Puzzle Piece",
+      "services": {
+        "qobuz": "345938756"
+      },
+      "album": "Puzzle Piece b/w Killed By A Loser",
+      "duration": 197,
+      "isrc": "QZQCH2500001"
+    },
+    {
+      "artist": "Culoe De Song",
+      "title": "The One",
+      "services": {
+        "qobuz": "140809121"
+      },
+      "album": "Elevation",
+      "duration": 340,
+      "isrc": "ZAO601100052"
+    },
+    {
+      "artist": "Monolake",
+      "title": "Occam",
+      "services": {
+        "qobuz": "71824865"
+      },
+      "album": "Hongkong Remastered",
+      "duration": 460,
+      "isrc": "USI4R0801415"
+    },
+    {
+      "artist": "System Of A Down",
+      "title": "I-E-A-I-A-I-O",
+      "services": {
+        "qobuz": "37455624"
+      },
+      "album": "Steal This Album!",
+      "duration": 188,
+      "isrc": "USSM10213326"
+    },
+    {
+      "artist": "Samia",
+      "title": "Cinder Block",
+      "services": {
+        "qobuz": "352820640"
+      },
+      "album": "Cinder Block",
+      "duration": 222,
+      "isrc": "QM5BK1900791"
+    },
+    {
+      "artist": "Rhythm & Sound",
+      "title": "Carrier",
+      "services": {
+        "qobuz": "49024673"
+      },
+      "album": "Rhythm & Sound",
+      "duration": 387,
+      "isrc": "DEW250100607"
+    },
+    {
+      "artist": "Jorge Felucca",
+      "title": "Pussy Clap",
+      "services": {
+        "qobuz": "48834988"
+      },
+      "album": "Deadlock / Pussy Clap",
+      "duration": 441,
+      "isrc": "GBGXG1600631"
+    },
+    {
+      "artist": "Music Pub",
+      "title": "Relaxing Summer Day",
+      "services": {
+        "qobuz": "341349332"
+      },
+      "album": "Soothing Jazz Piano",
+      "duration": 204,
+      "isrc": "QT4K52523094"
+    },
+    {
+      "artist": "Vladislav Delay",
+      "title": "Raamat",
+      "services": {
+        "qobuz": "88154579"
+      },
+      "album": "Multila",
+      "duration": 438,
+      "isrc": "DEX262000003"
+    },
+    {
+      "artist": "Kaltblume",
+      "title": "Defective Memory",
+      "services": {
+        "qobuz": "343577375"
+      },
+      "album": "Atlantica Night Ride",
+      "duration": 325,
+      "isrc": "NLCK42510716"
+    },
+    {
+      "artist": "Basic Channel",
+      "title": "The Climax",
+      "services": {
+        "qobuz": "49044195"
+      },
+      "album": "Basic Reshape",
+      "duration": 805,
+      "isrc": "DEW250400138"
+    },
+    {
+      "artist": "Jenny Lewis",
+      "title": "Red Bull & Hennessy",
+      "services": {
+        "qobuz": "58306077"
+      },
+      "album": "On the Line",
+      "duration": 288,
+      "isrc": "USWB11803412"
+    },
+    {
+      "artist": "Deadbeat",
+      "title": "Together",
+      "services": {
+        "qobuz": "269515265"
+      },
+      "album": "Lnoe in Dub",
+      "duration": 360,
+      "isrc": "GB94U1700416"
+    },
+    {
+      "artist": "Signer",
+      "title": "Building Memories Without You",
+      "services": {
+        "qobuz": "154386280"
+      },
+      "album": "Low Light Dreams",
+      "duration": 374,
+      "isrc": "US22N0402002"
+    },
+    {
+      "artist": "Gabrieli Consort",
+      "title": "Christmas Mass - Processional:\"Christum wir sollen loben schon\" - Arranged By Michael Praetorius / Har. Lucas Osiander",
+      "services": {
+        "qobuz": "4905960"
+      },
+      "album": "111 Years of Deutsche Grammophon",
+      "duration": 194,
+      "isrc": "DEF059303420"
+    },
+    {
+      "artist": "andreas tilliander",
+      "title": "She Don't Cry",
+      "services": {
+        "qobuz": "179279815"
+      },
+      "album": "Showtime",
+      "duration": 421,
+      "isrc": "SEVUE1000103"
+    },
+    {
+      "artist": "Mikkel Metal",
+      "title": "Memories",
+      "services": {
+        "qobuz": "14884947"
+      },
+      "album": "Victimizer",
+      "duration": 341,
+      "isrc": "DEU670600064"
+    },
+    {
+      "artist": "Joe Hisaishi",
+      "title": "Merry-Go-Round of Life",
+      "services": {
+        "qobuz": "216672962"
+      },
+      "album": "A Symphonic Celebration - Music from the Studio Ghibli Films of Hayao Miyazaki",
+      "duration": 169,
+      "isrc": "JPPO02204169"
+    },
+    {
+      "artist": "Deepchord Presents: Echospace",
+      "title": "Aequinoxium",
+      "services": {
+        "qobuz": "119886370"
+      },
+      "album": "The Coldest Season",
+      "duration": 810,
+      "isrc": "USA2Z1110206"
+    },
+    {
+      "artist": "Deepchord Presents: Echospace",
+      "title": "First Point of Aries",
+      "services": {
+        "qobuz": "119886367"
+      },
+      "album": "The Coldest Season",
+      "duration": 398,
+      "isrc": "USA2Z1110203"
+    },
+    {
+      "artist": "Martin James Bartlett",
+      "title": "Herz und Mund und Tat und Leben, BWV 147: X. Jesu Joy of Man's Desiring (Arr. Hess for Piano)",
+      "services": {
+        "qobuz": "60953619"
+      },
+      "album": "Love and Death",
+      "duration": 227,
+      "isrc": "GBAYC1900121"
+    },
+    {
+      "artist": "Intrusion",
+      "title": "Tswana Dub",
+      "services": {
+        "qobuz": "398027239"
+      },
+      "album": "echospace313-3-LP-2",
+      "duration": 281,
+      "isrc": "GBQLP2500457"
+    },
+    {
+      "artist": "The Black Keys",
+      "title": "Your Touch (2016 Remaster)",
+      "services": {
+        "qobuz": "45001874"
+      },
+      "album": "Magic Potion",
+      "duration": 162,
+      "isrc": "USNO11600349"
+    },
+    {
+      "artist": "Yagya",
+      "title": "Rigning Tv\u00f6",
+      "services": {
+        "qobuz": "399413741"
+      },
+      "album": "Rigning (2018)",
+      "duration": 395,
+      "isrc": "NLM791800015"
+    },
+    {
+      "artist": "Deepchord Presents: Echospace",
+      "title": "Summer Haze",
+      "services": {
+        "qobuz": "119884641"
+      },
+      "album": "Liumin",
+      "duration": 453,
+      "isrc": "USA2Z1110263"
+    },
+    {
+      "artist": "Viola James",
+      "title": "I'm Going Home to Live With Jesus",
+      "services": {
+        "qobuz": "77452708"
+      },
+      "album": "Worried Now, Won't Be Worried Long: Alan Lomax\u2019s \"Southern Journey,\" 1959\u20131960",
+      "duration": 229,
+      "isrc": "USVX41000026"
+    },
+    {
+      "artist": "ROSAL\u00cdA",
+      "title": "La Perla",
+      "services": {
+        "qobuz": "367340015"
+      },
+      "album": "LUX",
+      "duration": 195,
+      "isrc": "USSM12504035"
+    },
+    {
+      "artist": "Essential Empire Presents",
+      "title": "FRESH TO DEF (ORIGINAL)",
+      "services": {
+        "qobuz": "340187242"
+      },
+      "album": "FRESH TO DEF (ORIGINAL)",
+      "duration": 144,
+      "isrc": "QZTB22505608"
+    },
+    {
+      "artist": "Androcell",
+      "title": "Spectral Processor",
+      "services": {
+        "qobuz": "70036935"
+      },
+      "album": "Efflorescence [CD Rec 003](Chill-out / Psy-dub / Downtempo)",
+      "duration": 457,
+      "isrc": "USHM80990932"
+    },
+    {
+      "artist": "Oscar Peterson",
+      "title": "Bag's Groove",
+      "services": {
+        "qobuz": "112883692"
+      },
+      "album": "Night Train",
+      "duration": 342,
+      "isrc": "USPR36260036"
+    },
+    {
+      "artist": "Krisz Deak",
+      "title": "Sign",
+      "services": {
+        "qobuz": "111052362"
+      },
+      "album": "Journey",
+      "duration": 552,
+      "isrc": "GBKQU1684748"
+    },
+    {
+      "artist": "Fingers In the Noise",
+      "title": "Black Coffee",
+      "services": {
+        "qobuz": "46156596"
+      },
+      "album": "Black",
+      "duration": 390,
+      "isrc": "CH6541758114"
+    },
+    {
+      "artist": "NOX-LEVEL",
+      "title": "Liquid Carbon",
+      "services": {
+        "qobuz": "410531419"
+      },
+      "album": "Eclipse",
+      "duration": 71,
+      "isrc": "ESA122658511"
+    },
+    {
+      "artist": "Vexillary",
+      "title": "In Danger",
+      "services": {
+        "qobuz": "389445174"
+      },
+      "album": "Horror ReDubs",
+      "duration": 286,
+      "isrc": "CALVP2458542"
+    },
+    {
+      "artist": "Niccolo Machiavelli",
+      "title": "Kapitel 1 - Der F\u00fcrst",
+      "services": {
+        "qobuz": "90040093"
+      },
+      "album": "Der F\u00fcrst",
+      "duration": 130,
+      "isrc": "DEWM51765280"
+    },
+    {
+      "artist": "Zac Brown Band",
+      "title": "Chicken Fried",
+      "services": {
+        "qobuz": "130924077"
+      },
+      "album": "The Foundation",
+      "duration": 238,
+      "isrc": "USAT20804178"
+    },
+    {
+      "artist": "Children Of The Bong",
+      "title": "Symbol I",
+      "services": {
+        "qobuz": "347317469"
+      },
+      "album": "Sirius Side Effects",
+      "duration": 387,
+      "isrc": "GBCSF2500010"
+    },
+    {
+      "artist": "The Algorithm",
+      "title": "floating point",
+      "services": {
+        "qobuz": "49635489"
+      },
+      "album": "Brute Force",
+      "duration": 307,
+      "isrc": "QM5LC1600008"
+    },
+    {
+      "artist": "Dream Theater",
+      "title": "Fall into the Light",
+      "services": {
+        "qobuz": "56741122"
+      },
+      "album": "Distance Over Time",
+      "duration": 424,
+      "isrc": "GBDHC1906503"
+    },
+    {
+      "artist": "Deluxe",
+      "title": "El amor valiente",
+      "services": {
+        "qobuz": "1943550"
+      },
+      "album": "Fin De Un Viaje Infinito",
+      "duration": 350,
+      "isrc": "ES5080700098"
+    },
+    {
+      "artist": "Hans Zimmer",
+      "title": "Leave No Man Behind",
+      "services": {
+        "qobuz": "53120639"
+      },
+      "album": "Black Hawk Down",
+      "duration": 378,
+      "isrc": "USUMC0110416"
+    },
+    {
+      "artist": "Yapa",
+      "title": "Pulse Code Modulation",
+      "services": {
+        "qobuz": "40415309"
+      },
+      "album": "Can I Talk to You (Live)",
+      "duration": 217,
+      "isrc": "CH6541712921"
+    },
+    {
+      "artist": "AURORA",
+      "title": "All Is Soft Inside",
+      "services": {
+        "qobuz": "53708813"
+      },
+      "album": "Infections Of A Different Kind \u2013 Step 1",
+      "duration": 308,
+      "isrc": "GBUM71804528"
+    },
+    {
+      "artist": "Myonne",
+      "title": "Terminal Velocity",
+      "services": {
+        "qobuz": "417378623"
+      },
+      "album": "Terminal Velocity",
+      "duration": 271,
+      "isrc": "QZZ7K2617506"
+    },
+    {
+      "artist": "Air",
+      "title": "Cosmic Trip",
+      "services": {
+        "qobuz": "335060290"
+      },
+      "album": "Le voyage dans la lune",
+      "duration": 250,
+      "isrc": "FRU521100015"
+    },
+    {
+      "artist": "Markus Masuhr",
+      "title": "Displace Closeness",
+      "services": {
+        "qobuz": "194696754"
+      },
+      "album": "Nature of Senses",
+      "duration": 452,
+      "isrc": "DEED40600283"
+    },
+    {
+      "artist": "Christoph Schindling",
+      "title": "stolen moon",
+      "services": {
+        "qobuz": "345827555"
+      },
+      "album": "orbital",
+      "duration": 35,
+      "isrc": "GXBDS2569776"
+    },
+    {
+      "artist": "Zolt\u00e1n Kocsis",
+      "title": "Etude-Tableau No. 1 in F Minor, Op. 33 (Allegro non troppo)",
+      "services": {
+        "qobuz": "4414694"
+      },
+      "album": "Rachmaninoff: Piano Sonata No.2, Preludes, Etudes",
+      "duration": 134,
+      "isrc": "NLA509403208"
+    },
+    {
+      "artist": "Mohini Geisweiller",
+      "title": "Random",
+      "services": {
+        "qobuz": "3113347"
+      },
+      "album": "Event Horizon",
+      "duration": 166,
+      "isrc": "FRZ081001197"
+    },
+    {
+      "artist": "CFCF",
+      "title": "Re-Utopia",
+      "services": {
+        "qobuz": "316987359"
+      },
+      "album": "Liquid Colours",
+      "duration": 216,
+      "isrc": "QZ5FN1912463"
+    },
+    {
+      "artist": "Bob Marley & The Wailers",
+      "title": "Natural Mystic",
+      "services": {
+        "qobuz": "162075285"
+      },
+      "album": "Exodus",
+      "duration": 207,
+      "isrc": "USIR27700008"
+    },
+    {
+      "artist": "Submoon",
+      "title": "Unknown Places for Thoughts of Hope",
+      "services": {
+        "qobuz": "48379818"
+      },
+      "album": "Etui Winter Camp, Vol. 4",
+      "duration": 279,
+      "isrc": "DEED40600199"
+    },
+    {
+      "artist": "Legiac",
+      "title": "Jefre Tropod",
+      "services": {
+        "qobuz": "39479411"
+      },
+      "album": "The Voynich Manuscript",
+      "duration": 349,
+      "isrc": "TCACR1660992"
+    },
+    {
+      "artist": "Sonitus Eco",
+      "title": "Coffee & Dub",
+      "services": {
+        "qobuz": "113026280"
+      },
+      "album": "Techno For Breakfast EP",
+      "duration": 424,
+      "isrc": "GBKQU1318900"
+    },
+    {
+      "artist": "Halsey",
+      "title": "Experiment On Me",
+      "services": {
+        "qobuz": "84368955"
+      },
+      "album": "Birds of Prey: The Album",
+      "duration": 214,
+      "isrc": "USAT21907519"
+    },
+    {
+      "artist": "The Blue Stones",
+      "title": "Little Brother",
+      "services": {
+        "qobuz": "51745611"
+      },
+      "album": "Black Holes",
+      "duration": 171,
+      "isrc": "USKO11800763"
+    },
+    {
+      "artist": "Samael",
+      "title": "Hegemony",
+      "services": {
+        "qobuz": "47114461"
+      },
+      "album": "Hegemony",
+      "duration": 227,
+      "isrc": "ATN261771801"
+    },
+    {
+      "artist": "Anggita AP",
+      "title": "Welcome Imlek 2.0.2.5",
+      "services": {
+        "qobuz": "320313519"
+      },
+      "album": "Happy Imlek 2.0.2.5",
+      "duration": 112,
+      "isrc": "GXD7G2560865"
+    },
+    {
+      "artist": "National Health",
+      "title": "The Bryden 2-Step (For Amphibians) [Part 1]",
+      "services": {
+        "qobuz": "219340132"
+      },
+      "album": "Of Queues and Cures",
+      "duration": 533,
+      "isrc": "GBAWA0349636"
+    },
+    {
+      "artist": "The Apartments",
+      "title": "Speechless with Tuesday",
+      "services": {
+        "qobuz": "22974672"
+      },
+      "album": "The Evening Visits... And Stays for Years",
+      "duration": 318,
+      "isrc": "QMMZN1300666"
+    },
+    {
+      "artist": "\u00d3lafur Arnalds",
+      "title": "Reminiscence",
+      "services": {
+        "qobuz": "22136774"
+      },
+      "album": "The Chopin Project",
+      "duration": 268,
+      "isrc": "GBUM71406942"
+    },
+    {
+      "artist": "Fat White Family",
+      "title": "The Archivist",
+      "services": {
+        "qobuz": "249577385"
+      },
+      "album": "Forgiveness Is Yours",
+      "duration": 89,
+      "isrc": "GBCEL2303384"
+    },
+    {
+      "artist": "Brando Lupi",
+      "title": "Something Blue",
+      "services": {
+        "qobuz": "314942218"
+      },
+      "album": "Landscapes vol.1",
+      "duration": 460,
+      "isrc": "NLCK42501818"
+    },
+    {
+      "artist": "Yeah Yeah Yeahs",
+      "title": "Spitting Off the Edge of the World",
+      "services": {
+        "qobuz": "177143886"
+      },
+      "album": "Cool It Down",
+      "duration": 257,
+      "isrc": "US38W2247001"
+    },
+    {
+      "artist": "Michal Leah",
+      "title": "The Way I Love You",
+      "services": {
+        "qobuz": "178384790"
+      },
+      "album": "The Way I Love You",
+      "duration": 152,
+      "isrc": "CAN112201024"
+    },
+    {
+      "artist": "Oracle Sisters",
+      "title": "Asc. Scorpio",
+      "services": {
+        "qobuz": "190137010"
+      },
+      "album": "Asc. Scorpio",
+      "duration": 166,
+      "isrc": "FR10S2030813"
+    },
+    {
+      "artist": "Stereopony",
+      "title": "\u6cea\u306e\u30e0\u30b3\u30a6",
+      "services": {
+        "qobuz": "95589737"
+      },
+      "album": "Hydrangea Ga Saiteiru",
+      "duration": 210,
+      "isrc": "JPSR00804301"
+    },
+    {
+      "artist": "Freddie Gibbs",
+      "title": "Mar-a-Lago",
+      "services": {
+        "qobuz": "346370531"
+      },
+      "album": "Alfredo 2",
+      "duration": 179,
+      "isrc": "USA2P2514518"
+    },
+    {
+      "artist": "Joan As Police Woman",
+      "title": "The Magic",
+      "services": {
+        "qobuz": "3144435"
+      },
+      "album": "The Deep Field",
+      "duration": 250,
+      "isrc": "BEP011000164"
+    },
+    {
+      "artist": "Black Velvet",
+      "title": "Bang Bang N\u00e9on",
+      "services": {
+        "qobuz": "431714818"
+      },
+      "album": "Bang Bang N\u00e9on",
+      "duration": 205,
+      "isrc": "QT6EG2680740"
+    },
+    {
+      "artist": "Jah Shaka",
+      "title": "Identity Dub",
+      "services": {
+        "qobuz": "51225060"
+      },
+      "album": "Authentic Dubwise: Jah Shaka Meets Fire House Crew",
+      "duration": 255,
+      "isrc": "QM6N21708918"
+    },
+    {
+      "artist": "Emma-Jean Thackray",
+      "title": "Red Bush",
+      "services": {
+        "qobuz": "93927565"
+      },
+      "album": "Ley Lines",
+      "duration": 252,
+      "isrc": "UKF2D1880011"
+    },
+    {
+      "artist": "BLACKPINK",
+      "title": "As If It's Your Last",
+      "services": {
+        "qobuz": "69314442"
+      },
+      "album": "BLACKPINK 2018 TOUR 'IN YOUR AREA' SEOUL",
+      "duration": 224,
+      "isrc": "KRA401900103"
+    },
+    {
+      "artist": "Dt\u200b-\u200b90",
+      "title": "Alone Man",
+      "services": {
+        "qobuz": "111566833"
+      },
+      "album": "Alone Man",
+      "duration": 391,
+      "isrc": "GBKQU1570243"
+    },
+    {
+      "artist": "Adrian Von Ziegler",
+      "title": "Forgotten Gods",
+      "services": {
+        "qobuz": "64743464"
+      },
+      "album": "The Celtic Collection III",
+      "duration": 209,
+      "isrc": "USDY41995459"
+    },
+    {
+      "artist": "Torben Enevoldsen",
+      "title": "Altitudes",
+      "services": {
+        "qobuz": "79357452"
+      },
+      "album": "Warmth in the Wilderness - A Tribute to Jason Becker",
+      "duration": 348,
+      "isrc": "USHM90791479"
+    },
+    {
+      "artist": "Michael Schulte",
+      "title": "Niemals dran gezweifelt",
+      "services": {
+        "qobuz": "396127455"
+      },
+      "album": "WE LOVE UDO - Das Udo Lindenberg Tribute Album",
+      "duration": 224,
+      "isrc": "DEA622600119"
+    },
+    {
+      "artist": "Bruce Cockburn",
+      "title": "40 Years In The Wilderness",
+      "services": {
+        "qobuz": "319836937"
+      },
+      "album": "Bone On Bone",
+      "duration": 257,
+      "isrc": "CAT241700061"
+    },
+    {
+      "artist": "Berit Lindholm",
+      "title": "Hojotoho! Hojotoho! \"Walk\u00fcrenritt\" \u2013 War't ihr K\u00fchnen zu zwei?",
+      "services": {
+        "qobuz": "20256049"
+      },
+      "album": "Wagner: Die Walk\u00fcre",
+      "duration": 504,
+      "isrc": "GBF071240130"
+    },
+    {
+      "artist": "Bob Dylan",
+      "title": "It Ain't Me Babe",
+      "services": {
+        "qobuz": "4884365"
+      },
+      "album": "Another Side Of Bob Dylan",
+      "duration": 212,
+      "isrc": "USSM16401179"
+    },
+    {
+      "artist": "Juli\u00f3n \u00c1lvarez Y Su Norte\u00f1o Banda",
+      "title": "Vibra Perfecta",
+      "services": {
+        "qobuz": "294498617"
+      },
+      "album": "\u00bfQuie\u0301n?",
+      "duration": 183,
+      "isrc": "QZ7HP2400109"
+    },
+    {
+      "artist": "Forest Drive West",
+      "title": "Lost Signal",
+      "services": {
+        "qobuz": "128046005"
+      },
+      "album": "Molten Mirrors: A Decade of Livity Sound",
+      "duration": 308,
+      "isrc": "GBRYX2100305"
+    },
+    {
+      "artist": "Grad_U",
+      "title": "Pacific Lair",
+      "services": {
+        "qobuz": "355739670"
+      },
+      "album": "Echoes Of Cords",
+      "duration": 674,
+      "isrc": "LTE232500096"
+    },
+    {
+      "artist": "Jana Horn",
+      "title": "Unused",
+      "services": {
+        "qobuz": "364031238"
+      },
+      "album": "Jana Horn",
+      "duration": 293,
+      "isrc": "USLKU2501007"
+    },
+    {
+      "artist": "Deepchord",
+      "title": "Immersion I",
+      "services": {
+        "qobuz": "397485757"
+      },
+      "album": "Immersions",
+      "duration": 1093,
+      "isrc": "UKDMZ1800001"
+    },
+    {
+      "artist": "In Gowan Ring",
+      "title": "Aurora",
+      "services": {
+        "qobuz": "153001273"
+      },
+      "album": "Full Flower Moon",
+      "duration": 352,
+      "isrc": "QZGWW2080375"
+    },
+    {
+      "artist": "Andy Williams",
+      "title": "Can't Take My Eyes Off You",
+      "services": {
+        "qobuz": "96766974"
+      },
+      "album": "Music to Watch Girls By: The Best of Andy Williams",
+      "duration": 189,
+      "isrc": "USSM16701010"
+    },
+    {
+      "artist": "Andrew Peterson",
+      "title": "The Ninety and Nine",
+      "services": {
+        "qobuz": "2064011"
+      },
+      "album": "Carried Along",
+      "duration": 252,
+      "isrc": "USES29900070"
+    },
+    {
+      "artist": "Joel Geal",
+      "title": "Hidden Secrets",
+      "services": {
+        "qobuz": "306509382"
+      },
+      "album": "Flower Forest",
+      "duration": 180,
+      "isrc": "DE1H12404099"
+    },
+    {
+      "artist": "Mike Rauss",
+      "title": "No Mind Dub",
+      "services": {
+        "qobuz": "433747813"
+      },
+      "album": "Minutes Made of Years",
+      "duration": 253,
+      "isrc": "GBMJG2217700"
+    },
+    {
+      "artist": "Anders Jormin",
+      "title": "Innocence",
+      "services": {
+        "qobuz": "57618561"
+      },
+      "album": "Polarity \u2014 an Acoustic Jazz Project",
+      "duration": 307,
+      "isrc": "NOMPP1801010"
+    }
+  ]
+}

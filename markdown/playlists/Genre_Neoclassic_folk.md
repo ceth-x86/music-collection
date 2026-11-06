@@ -1,0 +1,86 @@
+# Genre: Neoclassic folk
+
+Imported genre playlist: Neoclassic folk.
+
+Services: `qobuz:66710552`
+
+## Tracks (78)
+
+- **Dead Can Dance** — Cantara [Within the Realm of a Dying Sun] (5:58) `isrc:GBAFL8700084` `qobuz:2338542`
+- **Death In June** — Death Is the Martyr of Beauty [But, What Ends When the Symbols Shatter?] (3:52) `isrc:USI4R0606691` `qobuz:62629950`
+- **Laura Veirs** — All the Pretty Little Horses [Tumble Bee] (2:16) `isrc:USA2B1114306` `qobuz:48840979`
+- **Ordo Equitum Solis** — Playing with the Fire [Looking for Europe] (3:48) `isrc:DES561599811` `qobuz:189655508`
+- **Love Is Colder Than Death** — Wild World [Teignmouth] (4:21) `isrc:DEDA99100112` `qobuz:48329759`
+- **Collection d'Arnell Andréa** — Des étangs en exil [A Recrafted Winter] (3:11) `isrc:FRX201902089` `qobuz:78022542`
+- **Stoa** — I Wish You Could Smile [Zal] (4:36) `isrc:DEZ650710072` `qobuz:49114219`
+- **Nature And Organisation** — Wicker Man Song [Snow Leopard Messiah] (4:34) `isrc:DEZ901501284` `qobuz:26712950`
+- **In The Nursery** — To the Faithful [L'esprit] (4:50) `isrc:GBFPH0500325` `qobuz:168765819`
+- **Sol Invictus** — In the Rain [In the Rain] (4:41) `isrc:DES561192005` `qobuz:189588204`
+- **Arcana** — Angel of Sorrow [Dark Age of Reason] (3:08) `isrc:CAAD21010291` `qobuz:73837460`
+- **Gothic Sector** — Chorus of the Emperor’s Light [Echoes of the Immaterium] (3:51) `isrc:QZNMW2595487` `qobuz:356898939`
+- **Die verbannten Kinder Evas** — From Silent Night [In Darkness Let Me Dwell] (7:18) `isrc:ATN269900809` `qobuz:49211021`
+- **Dargaard** — Demon Eyes [Eternity Rites] (5:08) `isrc:ATN269800602` `qobuz:37129396`
+- **Dark Sanctuary** — L'autre monde [Thoughts : 9 Years In The Sanctuary] (5:55) `isrc:USHK90516807` `qobuz:35389629`
+- **Ataraxia** — Astraea [Historiae] (3:55) `isrc:QM6P41502435` `qobuz:45726196`
+- **Persephone** — Immersion [Home] (5:03) `isrc:DEZ900800222` `qobuz:91730655`
+- **Unto Ashes** — Palestinalied (Qntal) [Ghosts Captured] (3:22) `isrc:USHK91430810` `qobuz:25338888`
+- **Empyrium** — Die Schwäne Im Schilf [Weiland] (5:48) `isrc:DES560204708` `qobuz:189634737`
+- **Tenhi** — Hallavedet [Kauan] (7:28) `isrc:DES569901704` `qobuz:189639735`
+- **Vali** — Hoestmelankoli [Whom the Moon a Nightsong Sings] (1:29) `isrc:DES561099001` `qobuz:189587184`
+- **Nest** — The Silvershade Lynx [Woodsmoke] (6:34) `isrc:FI2A70300001` `qobuz:138643873`
+- **Amber Asylum** — The Morrigan [Ruby Red] (5:04) `isrc:DES562411580` `qobuz:298106232`
+- **Autumn Tears** — The Hallowing [The Hallowing] (5:25) `isrc:USHM80772993` `qobuz:67052538`
+- **Ashram** — Elizabeth [Shining Silver Skies] (2:34) `isrc:TCAGP2213777` `qobuz:185463468`
+- **Narsilion** — My Falling Darkness [Nerbeleth] (7:17) `isrc:ESAD20610005` `qobuz:73836528`
+- **All My Faith Lost …** — Land's End [Still White Air (a retrospective)] (2:41) `isrc:USHK91815911` `qobuz:47807918`
+- **Camerata Mediolanense** — Lacrime di gioia [Le Vergini Folli] (6:23) `isrc:DES561796301` `qobuz:189593032`
+- **Hexperos** — Autumnus [Lost in the Great Sea] (4:15) `isrc:USHM91460489` `qobuz:77753128`
+- **Forseti** — Welkes Blatt [Windzeit] (3:14) `isrc:GX4R52180998` `qobuz:203120605`
+- **Joachim Witt** — Die Flut [Bayreuth 1] (5:43) `isrc:DEZC62583732` `qobuz:325140899`
+- **Elton John** — Nikita [Ice On Fire] (5:43) `isrc:GBAMS8500203` `qobuz:3889975`
+- **Darkwood** — For Europe [Flammende Welt] (2:45) `isrc:DEKB30810109` `qobuz:76255557`
+- **Sonne Hagal** — Midwinternight [:Helfahrt:] (3:49) `isrc:DEKB31100095` `qobuz:76255454`
+- **Ordo Rosarius Equilibrio** — Reaping the Fallen, the Second Harvest [Do Angels Never Cry and Heaven Never Fall?] (5:01) `isrc:DEBZ71000301` `qobuz:134670650`
+- **Taylor Swift** — Holy Ground (Taylor's Version) [Red (Taylor's Version)] (3:22) `isrc:USUG12103671` `qobuz:138305286`
+- **Aurora Surgit** — Dies irae [Saints and Sinners - The Music of Medieval and Renaissance Europe] (7:42) `isrc:HKI199530308` `qobuz:309830026`
+- **Choir of King's College, Cambridge** — See Amid the Winter's Snow [25 Carols for Christmas] (3:53) `isrc:GBF076240408` `qobuz:368749927`
+- **Corde Oblique** — Cantastorie [Volontà D'arte] (4:15) `isrc:USHM81303177` `qobuz:327492283`
+- **Spiritual Front** — Autopsy of a Love [Open Wounds] (4:15) `isrc:DEZ901300552` `qobuz:230257450`
+- **Bell X1** — Like I Love You / Slow [Even Better Than The Real Thing Vol. 2] (4:13) `isrc:IEATB0600017` `qobuz:70100224`
+- **Dream Theater** — Scene Five: Through Her Eyes [Metropolis, Pt. 2: Scenes from a Memory] (5:28) `isrc:USEW19900322` `qobuz:2997334`
+- **Angelo Badalamenti** — The Nightingale [Soundtrack From Twin Peaks] (4:56) `isrc:USWB10101662` `qobuz:2594433`
+- **Irfan** — Hagia Sophia [Seraphim] (5:57) `isrc:UST8K1852968` `qobuz:133341102`
+- **Daemonia Nymphe** — Dance of the Satyrs [Daemonia Nymphe] (4:05) `isrc:FR6V80204195` `qobuz:271000018`
+- **Ulver** — Kveldssang [Kveldssanger] (1:32) `isrc:NOFVH9514050` `qobuz:58915647`
+- **USQUAM** — Arcana Nox [Ex Nihilo] (4:19) `isrc:FRPZ92435570` `qobuz:312928398`
+- **Black Tape For A Blue Girl** — Across a Thousand Blades [Ashes in the Brittle Air] (3:41) `isrc:USHK92037602` `qobuz:82643250`
+- **Dumas** — Dans un rétroviseur [Au bout du monde] (3:30) `isrc:CAL540911208` `qobuz:8289698`
+- **Chorale Allegro** — Le Christ est là dans la nuit [Les chorales du Québec chantent 20 chansons de Noël] (2:26) `isrc:CAZ709600045` `qobuz:123638529`
+- **October Falls** — Viima [Whom the Moon a Nightsong Sings] (3:51) `isrc:DES561099005` `qobuz:189587188`
+- **Dj Johnny Live** — Odin-Herr der 9 Welten [Odin-Herr der 9 Welten] (3:39) `isrc:QT3FG2617751` `qobuz:426603054`
+- **Swans** — God Damn The Sun [The Burning World] (4:20) `isrc:USUM71103675` `qobuz:262686842`
+- **Chelsea Wolfe** — Flatlands [Unknown Rooms: A Collection of Acoustic Songs] (4:00) `isrc:USA2P1231895` `qobuz:330300665`
+- **ROME** — The Accidents of Gesture [Flowers from Exile] (5:15) `isrc:DEZ902400190` `qobuz:331743339`
+- **Sieben** — Love's Promise [As They Should Sound] (3:56) `isrc:GBZEA0900055` `qobuz:171535504`
+- **Wind Machine** — Twin Bridges [Timeline] (4:15) `isrc:USCGH1539472` `qobuz:99557406`
+- **Disco Fever** — I See A Boat On The River/Felicidad/Rivers Of Babylon/Rasputin/King Of The Road/Heart Of Gold/No Woman No Cry /We Kill The World/Bahama Mama/I'm Born Again [A Tribute To Boney M] (60:37) `isrc:FRX282282103` `qobuz:167073150`
+- **Rea Moon ASMR** — Getting to Know You & Offering Pomegranate Drink [ASMR a Visit With the Green Witch (Personal Attention RP)] (2:28) `isrc:QT62U2542707` `qobuz:362905592`
+- **Doug Stone** — The Difference Between a Man and a Woman [Make Up In Love] (4:24) `isrc:USAT29901172` `qobuz:2004155`
+- **Sopor Aeternus & The Ensemble Of Shadows** — Death Waltz [Death and Flamingos] (3:21) `isrc:DEZ901801411` `qobuz:58104457`
+- **Elvenking** — Romance & Wrath [The Scythe] (8:14) `isrc:DEU602210031` `qobuz:148959137`
+- **Myrkur** — Ella [Folkesange] (3:54) `isrc:US2641942601` `qobuz:81202931`
+- **In Gowan Ring** — The Wind that Cracks the Leaves [Hazel Steps through a Weathered Home] (6:24) `isrc:QZ22B1859993` `qobuz:176522312`
+- **Ennio Sangiusto** — La Ballata Del Pedone [La Ballata Del Pedone] (3:10) `isrc:FR2X42219934` `qobuz:147176545`
+- **Of The Wand & The Moon** — Immer Vorwärts [The Lone Descent] (2:50) `isrc:DEKB31100189` `qobuz:76251789`
+- **Emily Jane White** — Dark Undercoat [Dark Undercoat] (4:57) `isrc:FR59Y0800028` `qobuz:2706392`
+- **Changes** — Twilight of the West [Orphan In The Storm] (8:35) `isrc:DEKB30810108` `qobuz:76256963`
+- **Allerseelen** — Santa Sangre [Abenteuerliches Herz] (5:59) `isrc:ATR981161099` `qobuz:29517611`
+- **Dan Gibson's Solitudes** — Dance of the Wood Nymphs [Redwood Spa] (5:00) `isrc:QMDA72563896` `qobuz:365262299`
+- **Deep Gnome** — Ruby Sky Sunset [Castle in the Clouds] (3:39) `isrc:QZHNC2449128` `qobuz:260844327`
+- **Agalloch** — Birch White [The White EP] (3:44) `isrc:USA2P1960607` `qobuz:211851316`
+- **Schiller** — Der Wanderer über dem Nebelmeer [Epic] (4:29) `isrc:DEE862101160` `qobuz:127620855`
+- **Aurora** — The Land Of Harm And Appletrees [The Land Of Harm & Appletrees] (5:43) `isrc:USA560629445` `qobuz:51081521`
+- **Nightrage** — Shadows Embrace Me [Abyss Rising] (4:14) `isrc:SEXTE2002107` `qobuz:136749120`
+- **Weltenbrand** — The Ghost of New Year's Eve [The End of the Wizard] (4:35) `isrc:ATN260617502` `qobuz:28458115`
+- **Midnight Syndicate** — Haunted Nursery [Halloween Music Collection] (2:16) `isrc:USHM81021203` `qobuz:83526654`
+- **Leonard Cohen** — Who By Fire [The Essential Leonard Cohen] (2:32) `isrc:USSM10203153` `qobuz:18439177`

@@ -1,0 +1,108 @@
+# Genre: Tech House
+
+Imported genre playlist: Tech House.
+
+Services: `qobuz:66716403` `tidal:9a70d56e-13f3-4f8d-afbd-d978004ac9da`
+
+## Tracks (100)
+
+- **Stompin' Trees** — Bad Outta Control [Stompin' Trees] (2:44) `isrc:USX9P2060309` `qobuz:109120892`
+- **Lisa Ekdahl** — Tea for Two [Back To Earth] (5:29) `isrc:SEBMC9863080` `qobuz:269653`
+- **Funk D'Void** — Bad Coffee [Bad Coffee] (7:21) `isrc:GBBVL9700522` `qobuz:26304749`
+- **O.V. Wright** — When You Took Your Love From Me [A Nickel And A Nail And Ace Of Spades] (3:05) `isrc:USMC17353617` `qobuz:54248486`
+- **Laura Karpman** — Curly Wurly [Down Cemetery Road: Season 1 (Apple Original Series Soundtrack)] (1:29) `isrc:US23A8479487` `qobuz:359052672`
+- **Swayzak** — Bueno [Snowboarding in Argentina] (12:28) `isrc:DEG932301922` `qobuz:209956498`
+- **Presence** — Sense of Danger [All Systems Gone] (7:10) `isrc:USZXT1032214` `qobuz:95123381`
+- **Bushwacka!** — Healer [Healer] (8:00) `isrc:DEZ651700122` `qobuz:48046664`
+- **Francesco Cavestri** — Un Giorno Camminando (già Tema di Denis) [Una Morte da Mediano (Colonna Sonora Originale del Podcast Rai)] (2:06) `isrc:IT6WX2300001` `qobuz:398645467`
+- **Deep Purple** — Love Don't Mean A Thing [Stormbringer (Edition spéciale)] (4:27) `isrc:GBDXG0900008` `qobuz:1736798`
+- **Markus Nikolai** — Bushes [Bushes] (3:48) `isrc:GBEFR0400242` `qobuz:279863311`
+- **Layo** — Love Story [Love Story] (7:55) `isrc:GBBKS0200730` `qobuz:97100107`
+- **Andrei Krylov** — Song of the Loon, Which Will Bring You to Another Universe, Faraway from This Mad Rush, Bring Peace and Healing to Soul and Body [Meditation Music of Love, for Healing, Relaxation, Yoga, Massage, Sleep Therapy, Stress Relief, Spiritual Awakening, Cleansing, Reiki, Energy Work, Balancing, Creative Spirit, Kindness, for Classical and Indian Guitar, Flute and Percussion, Ocean Sunrise] (5:09) `isrc:USCGJ1268330` `qobuz:66470743`
+- **Brett Johnson** — Jiffy Pop [Classic Classic] (7:57) `isrc:GBCPZ1004635` `qobuz:363095330`
+- **Hubert Mayer** — Anon. in Love, C. 71: No. 1, Fain Would I Change That Note [Songs of Love and Appetite] (2:52) `isrc:DE1JF0301721` `qobuz:308392722`
+- **Loco Dice** — Heavy Heart [Heavy Heart] (5:28) `isrc:DEUM72412626` `qobuz:303236835`
+- **Claude VonStroke** — Who's Afraid of Detroit [Claude VonStroke EP] (6:04) `isrc:US75Z0600012` `qobuz:224855778`
+- **Booka Shade** — Body Language (M.A.N.D.Y. Vs. Booka Shade) [Bonus Track] [Private Sex & Music] (7:18) `isrc:ESA031401029` `qobuz:45523203`
+- **Trentemøller** — Moan [The Last Resort] (5:51) `isrc:DEL020620038` `qobuz:85483124`
+- **Ilario Alicante** — Vacaciones En Chile [Warm Vibes] (9:49) `isrc:ITH860700018` `qobuz:100896394`
+- **Samuel L. Session** — Can You Relate [Can You Relate Remixes Pt. 2] (8:08) `isrc:GBBVL1002851` `qobuz:3126049`
+- **Radio Slave** — Bell Clap Dance [Bell Clap Hands (Tuff City Kids Remixes)] (7:13) `isrc:GBLTF1700011` `qobuz:203371860`
+- **Martin Buttrich** — Tripping In The 16Th [Crash Test] (4:10) `isrc:DEHE41000005` `qobuz:106967683`
+- **Jeff Cook & The Allstar Goodtime Band** — Doctor My Eyes [2 Rock 4 Country] (3:27) `isrc:QMZ5L1100253` `qobuz:73326192`
+- **Dubfire** — RibCage [HYBRID: A Decade Of Dubfire] (12:23) `isrc:USYLM0700201` `qobuz:39453310`
+- **Sharam** — Get Wild [Get Wild] (3:26) `isrc:NLF712505753` `qobuz:378322553`
+- **Matthew Dear** — Mouth to Mouth [Audion X] (12:54) `isrc:US2J70613901` `qobuz:99324647`
+- **Nic Fanciulli** — Lucky Heather [HYBRID: A Decade Of Dubfire] (13:04) `isrc:DEG931691763` `qobuz:39453323`
+- **Jesse Harris** — Rose du Ciel [If You Believed In Me] (3:46) `isrc:FRE9V2500180` `qobuz:344214815`
+- **Guy Gerber** — Stoppage Time [Stoppage Time] (10:50) `isrc:GBEPM0400223` `qobuz:210481513`
+- **Jamie Jones** — Summertime (Jamie Jones & Robert James Dub Mix) [Mixmag Presents Jamie Jones vs. Seth Troxler] (4:46) `isrc:GB7NR1064003` `qobuz:46450426`
+- **Maya Jane Coles** — What They Say [What They Say EP] (6:40) `isrc:GBKPL1417035` `qobuz:168871173`
+- **Cinthie** — Booting Up [Matthias Tanzmann Presents 25 Years of Moon Harbour] (5:55) `isrc:DEX042500051` `qobuz:370197096`
+- **Flashmob** — Need In Me [Need In Me] (7:13) `isrc:GBCPZ1206014` `qobuz:309286135`
+- **Hot Natured** — Benediction [Different Sides Of The Sun] (6:39) `isrc:GBAHT1300527` `qobuz:11231784`
+- **Hot Since 82** — Buggin' [Buggin'] (8:25) `isrc:UK74K1400364` `qobuz:50660415`
+- **Culture Jam** — Pretty Girls Cry Too (feat. Lay Bankz, Saweetie & Flo Milli) [Pretty Girls Cry Too (feat. Lay Bankz, Saweetie & Flo Milli)] (3:02) `isrc:US38Y2424491` `qobuz:293786952`
+- **Guti** — Hope [Ocean Beach Ibiza: The Debut] (6:16) `isrc:GBCPZ1307005` `qobuz:134258061`
+- **Eats Everything** — Vertigo [Vertigo] (6:30) `isrc:US75Z1210087` `qobuz:224854444`
+- **Rio Romeo** — Butch 4 Butch [Butch 4 Butch] (2:58) `isrc:QZFZ62127230` `qobuz:196983560`
+- **Huxley** — Let It Go [Let It Go] (6:53) `isrc:GBC7K1112205` `qobuz:313366369`
+- **Catz 'n Dogz** — Rave History [20 Years Remixes EP 1] (4:42) `isrc:PLE072317104` `qobuz:207579074`
+- **Oliver Dollar** — Doin' Ya Thang [Doin' Ya Thang] (6:55) `isrc:GBQ5W1100013` `qobuz:309334618`
+- **Amine Edge** — Halfway Crooks [Amine Edge & DANCE Present CUFF, Vol. 1] (6:48) `isrc:GBKQU1723676` `qobuz:112348001`
+- **Josh Butler** — Got A Feeling [Got A Feeling EP] (7:14) `isrc:GBUM71300130` `qobuz:8125399`
+- **Patrick Topping** — Forget [Boxed Off] (6:06) `isrc:GBK6Y1445001` `qobuz:202881452`
+- **Shiba San** — Okay [Okay] (5:59) `isrc:US75Z1410001` `qobuz:20662852`
+- **Prok & Fitch** — Tears [Tears] (6:47) `isrc:ES84B1510222` `qobuz:28838812`
+- **Justin Martin** — Mr. Spock [Mr. Spock] (5:41) `isrc:US75Z1001001` `qobuz:224855454`
+- **The Cure** — Drone:Nodrone [Mixes Of A Lost World] (5:00) `isrc:GBUM72501437` `qobuz:330218297`
+- **CamelPhat** — The Act [The Act] (3:16) `isrc:NLZ541400580` `qobuz:48910133`
+- **Riva Starr** — I Was Drunk [If Life Gives You Lemons, Make Lemonade] (4:56) `isrc:GB6NC1000187` `qobuz:138072462`
+- **Cuarteto Chile del Instituto de Musica de la Universidad Catolica de Chile** — Marcha de los Morenos del Norte [Chile en Cuatro Cuerdas] (0:48) `isrc:QMFMF1364741` `qobuz:71143682`
+- **Solardo** — Tribesmen [Tribesmen] (7:17) `isrc:GBK6Y1685001` `qobuz:203120405`
+- **Detlef** — Swagon [Swagon] (3:32) `isrc:GBK6Y1708604` `qobuz:203395889`
+- **Eli Brown** — Searching For Someone [Searching for Someone] (3:24) `isrc:GBK6Y1955903` `qobuz:203395965`
+- **Elizaveta Kekukh** — What's Happening to You? [Something about Gardens, Potions and Birds] (3:32) `isrc:AEA2Z2524526` `qobuz:320447578`
+- **Eurythmics** — Who's That Girl [Touch] (4:48) `isrc:GBARL1800397` `qobuz:48038199`
+- **Bontan** — Move On Out [Move On Out] (6:20) `isrc:GBJAJ1400009` `qobuz:37343305`
+- **Leftwing : Kody** — I Feel It [I Feel It] (2:35) `isrc:GBJAJ1900663` `qobuz:59997630`
+- **Fisher** — Losing It [Losing It] (4:07) `isrc:CA5KR1821202` `qobuz:55941221`
+- **Chris Lake** — Turn off the Lights [Turn off the Lights] (3:30) `isrc:QMDA61831832` `qobuz:293317530`
+- **Dom Dolla** — San Frandisco [San Frandisco] (3:05) `isrc:AUDCB1701462` `qobuz:322822828`
+- **Michael Bibi** — Got The Fire [Got The Fire EP] (3:40) `isrc:GB9UU1800011` `qobuz:109981322`
+- **PAWSA** — The Groovy Cat [The Groovy Cat] (4:32) `isrc:GBLV61724940` `qobuz:110107452`
+- **Dennis Cruz** — El Sueño [El Sueño] (6:37) `isrc:DEX041800024` `qobuz:54485464`
+- **The Martinez Brothers** — PAP (Pendiente Al Paso) [PAP (Pendiente Al Paso)] (2:44) `isrc:USUYG1379533` `qobuz:127512371`
+- **Latmun** — Def [Toolroom Miami 2016] (6:44) `isrc:GBNUQ1600005` `qobuz:37335862`
+- **Martin Ikin** — Headnoise (Get Hype) [Headnoise (Get Hype)] (2:59) `isrc:GBHAD1902175` `qobuz:132501082`
+- **Noizu** — Summer 91 (Looking Back) [Summer 91 (Looking Back)] (3:00) `isrc:GBARL2001582` `qobuz:107786424`
+- **Walker & Royce** — Boy [Boy] (6:36) `isrc:GBKQU1674508` `qobuz:224853054`
+- **Black V Neck** — Like Whoa [Like Whoa] (3:06) `isrc:GBKQU2164630` `qobuz:126201528`
+- **Barbara Mason** — You Got Me Runnin' [The Ghetto] (4:22) `isrc:QZPL52103943` `qobuz:184626844`
+- **Sage the Gemini** — Gas Pedal [Gas Pedal] (3:02) `isrc:USUM72306987` `qobuz:210902248`
+- **Biscits** — Wait A Minute [Wait A Minute] (3:35) `isrc:ZZOPM2108899` `qobuz:134905538`
+- **Sigma** — Badman [London Sound] (2:04) `isrc:GBSXS2300231` `qobuz:249508648`
+- **Drake** — Get It Together [More Life] (4:10) `isrc:USCM51700045` `qobuz:39487627`
+- **East End Dubs** — Searching [Searching] (4:07) `isrc:GBLV62401852` `qobuz:296137295`
+- **SHADED** — Funk Tone [Gender Bender] (6:55) `isrc:USYLM1400103` `qobuz:101611390`
+- **DISCO DOM** — Control [Inferno (No. 1)] (4:51) `isrc:QMBZ92316756` `qobuz:217801133`
+- **John Summit** — Deep End [Deep End] (3:16) `isrc:GBCPZ2018710` `qobuz:309326241`
+- **Cloonee** — The Ciggie [The Ciggie] (6:13) `isrc:GBLV61812075` `qobuz:108901093`
+- **Tina Turner** — What's Love Got to Do with It [Private Dancer] (3:50) `isrc:GBAYE1500567` `qobuz:26033301`
+- **Mau P** — Drugs From Amsterdam [Drugs From Amsterdam] (3:56) `isrc:GBK6Y2251421` `qobuz:174542262`
+- **Öwnboss** — Move Your Body [Move Your Body] (2:37) `isrc:NLZ542101576` `qobuz:136280461`
+- **Don Toliver** — Lose My Mind (feat. Doja Cat) [F1 The Album] (3:29) `isrc:USAT22503076` `qobuz:343025465`
+- **Adapter** — Kattapult (James Hype Edit) [Kattapult (James Hype Edit)] (2:00) `isrc:US38Y2403809` `qobuz:255637049`
+- **Juos** — Dile [Welcome to Hell III] (2:30) `isrc:GBKQU2415035` `qobuz:255062451`
+- **Riordan** — While The Record Spins [While The Record Spins] (3:07) `isrc:NL8RL2404500` `qobuz:252388856`
+- **ItaloBros** — Gosadera [Gosadera EP] (2:58) `isrc:GBK6Y2422601` `qobuz:250465995`
+- **Dave Winnel** — Bang It [Bang It] (2:38) `isrc:AUNV02400015` `qobuz:362932588`
+- **San Pacho** — No Guest List [No Guest List] (2:38) `isrc:NLRD52339151` `qobuz:245189353`
+- **Sino** — Hold Me Close [Hold Me Close EP] (2:32) `isrc:GBLV62312367` `qobuz:240793614`
+- **Kryder** — Party En Mi Casa [Party En Mi Casa] (3:07) `isrc:GBJAJ2401135` `qobuz:283097081`
+- **Elvis Presley** — Can't Help Falling in Love [Blue Hawaii] (3:05) `isrc:USRC16101350` `qobuz:21452139`
+- **DeobiEUS** — Loose Strokes [Loose Strokes] (3:00) `isrc:GXD7V2315850` `qobuz:272085453`
+- **Alex Lauthals** — Perfect [Perfect] (3:25) `isrc:DE1JN2375041` `qobuz:232770689`
+- **Booker T. & The M.G.'s** — Get Ready [Hip Hug-Her] (2:51) `isrc:USAT20103107` `qobuz:2955716`
+- **Macromism** — Break The Cage [Deep & Technoid #34] (6:51) `isrc:DEW871506579` `qobuz:51777620`
+- **yuda jackson daiki** — Merklos Lucath [Merklos Lucath] (4:05) `isrc:QT5M52682512` `qobuz:397843529`

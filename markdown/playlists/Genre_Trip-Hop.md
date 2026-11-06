@@ -1,0 +1,108 @@
+# Genre: Trip-Hop
+
+Imported genre playlist: Trip-Hop.
+
+Services: `qobuz:66713889` `tidal:ed2b6a30-b34e-4f10-bc72-f5671a50c937`
+
+## Tracks (100)
+
+- **Massive Attack** — Unfinished Sympathy [Blue Lines] (5:08) `isrc:GBAAA1200649` `qobuz:6763173`
+- **One Dove** — White Love [Morning Dove White] (4:40) `isrc:GBAAP9300689` `qobuz:11653401`
+- **DJ Cam** — Mad Blunted Jazz [Underground Vibes] (5:11) `isrc:FR6V89502266` `qobuz:10201735`
+- **Laïka** — Black Cat Bone [Good Looking Blues] (4:24) `isrc:GBBNZ9900040` `qobuz:34267120`
+- **Portishead** — Sour Times [Dummy] (4:11) `isrc:GBAQT9400032` `qobuz:627451`
+- **DJ Krush** — Kemuri [Stepping Stones: The Self-Remixed Best] (5:17) `isrc:JPN200600070` `qobuz:48281945`
+- **Moloko** — Fun For Me [Fun for Me] (3:47) `isrc:GBBND0601584` `qobuz:385282683`
+- **Ruby** — Tiny Meat [Salt peter] (4:09) `isrc:USSM19504415` `qobuz:5046882`
+- **Tricky** — Hell Is Round The Corner [Maxinquaye] (3:47) `isrc:GBANY9500050` `qobuz:711279`
+- **Bowery Electric** — Fear of Flying [Beat] (5:39) `isrc:USI4R0401650` `qobuz:63143715`
+- **Cibo Matto** — Sugar Water [Viva! La Woman] (4:29) `isrc:USWB19500082` `qobuz:2858315`
+- **DJ Shadow** — Midnight In A Perfect World [Endtroducing] (5:00) `isrc:GBAQH9600061` `qobuz:190271058`
+- **Everything But The Girl** — Single [Walking Wounded] (4:37) `isrc:GBCYF9600018` `qobuz:119830246`
+- **Hooverphonic** — 2 Wicky [A New Stereophonic Sound Spectacular] (4:44) `isrc:BEU010003005` `qobuz:3453387`
+- **Lamb** — Gorecki [Lamb] (6:30) `isrc:GBF089601187` `qobuz:3885089`
+- **Morcheeba** — Trigger Hippie [Who Can You Trust?] (5:32) `isrc:GBAHS0104694` `qobuz:11475665`
+- **Olive** — You're Not Alone [Extra Virgin] (4:25) `isrc:GBARL9600163` `qobuz:198669`
+- **Red Snapper** — Hot Flush [Reeled And Skinned (30th Anniversary Edition)] (4:10) `isrc:GBBPW2501564` `qobuz:318832751`
+- **Sneaker Pimps** — 6 Underground [Becoming X] (3:48) `isrc:GBBTF1200198` `qobuz:249091761`
+- **Alpha** — Sometime Later [Come From Heaven] (7:00) `isrc:GBAAA9700005` `qobuz:4710527`
+- **The Dead Weather** — Blue Blood Blues [Sea of Cowards] (3:22) `isrc:USWB11000579` `qobuz:210846619`
+- **Björk** — Hunter [Homogenic] (4:15) `isrc:GBBTF9700142` `qobuz:249106117`
+- **Coldcut** — Timber [Let Us Play] (4:32) `isrc:GBCFB0408232` `qobuz:57916213`
+- **Crustation** — Purple [Bloom] (4:25) `isrc:GBARL2600074` `qobuz:389823284`
+- **Gusgus** — Believe [Polydistortion] (7:18) `isrc:GBAFL9700030` `qobuz:2534831`
+- **Mono** — Life In Mono [Formica Blues] (4:45) `isrc:GBBND9700114` `qobuz:388121994`
+- **Nightmares On Wax** — Les Nuits [Carboot Soul] (6:20) `isrc:GBBPW9900021` `qobuz:3775798`
+- **Recoil** — Stalker [Unsound Methods] (6:43) `isrc:GBAJH9700214` `qobuz:4713999`
+- **Smoke City** — Underwater Love [Flying Away] (6:46) `isrc:GBAHK9700028` `qobuz:42652131`
+- **The Herbaliser** — The Sensual Woman [Very Mercenary] (3:36) `isrc:GBCFB9900430` `qobuz:6280545`
+- **Air** — All I Need (feat. Beth Hirsch) [Moon Safari] (4:28) `isrc:FRS639700570` `qobuz:1065808`
+- **Baby Fox** — Dum Dum Baby [Dum Dum Baby] (6:04) `isrc:GX3Q92057113` `qobuz:278828467`
+- **Esthero** — Heaven Sent [Breath From Another] (4:30) `isrc:USSM19703470` `qobuz:5394525`
+- **Kruder & Dorfmeister** — High Noon [DJ-Kicks] (6:01) `isrc:DEG939600441` `qobuz:17678228`
+- **Madonna** — Frozen [Ray Of Light] (6:07) `isrc:USWB19800001` `qobuz:2126948`
+- **KiiDEDNY** — He Madala [This Chapter Of My Life Is Personal.] (3:41) `isrc:SE6I32610888` `qobuz:409536963`
+- **Rae & Christian** — Spellbound (feat. Veba) [Northern Sulphuric Soul] (5:44) `isrc:GBCCM0410413` `qobuz:49755662`
+- **Unkle** — Rabbit in Your Headlights [Psyence Fiction] (6:16) `isrc:GBAQH9800046` `qobuz:194485116`
+- **Aim** — Cold Water Music [Cold Water Music] (5:44) `isrc:GBKNX0700049` `qobuz:71857950`
+- **Bent** — Magic Love [The Everlasting Blink] (4:29) `isrc:GBCEN0200846` `qobuz:39479422`
+- **Dido** — Here With Me [Greatest Hits (Deluxe)] (4:16) `isrc:USAR19900244` `qobuz:12361866`
+- **Dj Vadim** — The Terrorist [USSR: Life From The Other Side] (2:37) `isrc:GBCFB9901860` `qobuz:6279292`
+- **Funki Porcini** — B Monkey [Hed Phone Sex] (7:21) `isrc:GBCFB9507019` `qobuz:65684689`
+- **Groove Armada** — At the River [Vertigo] (6:33) `isrc:GBAHK9900067` `qobuz:42688813`
+- **Handsome Boy Modeling School** — The Truth [So...How's Your Girl?] (5:37) `isrc:USTB10300522` `qobuz:169114647`
+- **Moby** — Porcelain [Play] (4:01) `isrc:GBAJH9900036` `qobuz:385581550`
+- **Mr. Scruff** — Get A Move On! [Get A Move On!] (3:26) `isrc:GBCFB9900511` `qobuz:291925441`
+- **Nitin Sawhney** — Nadia [Beyond Skin] (5:07) `isrc:GBDYB9900025` `qobuz:46710328`
+- **Peace Orchestra** — Who Am I [Peace Orchestra] (5:57) `isrc:ATG249900107` `qobuz:56933346`
+- **Sofa Surfers** — Can I Get A Witness [Encounters] (3:28) `isrc:ATK430103109` `qobuz:49940947`
+- **Anjali** — Lazy Lagoon [Lazy Lagoon] (3:50) `isrc:GBBKT9900105` `qobuz:2332343`
+- **Bonobo** — Scuba [One Offs] (4:22) `isrc:GBEUE0400064` `qobuz:371527343`
+- **DJ Food** — The Ageing Young Rebel [Kaleidoscope] (6:03) `isrc:GBCFB0003018` `qobuz:6281435`
+- **dZihan & Kamien** — Stiff Jazz [Gran Riserva] (5:50) `isrc:DEN920200049` `qobuz:44905857`
+- **Goldfrapp** — Utopia [Utopia] (4:16) `isrc:GBAJH0000153` `qobuz:385285430`
+- **Kid Koala** — Drunk Trumpet [Carpal Tunnel Syndrome] (2:57) `isrc:GBCFB0003003` `qobuz:97965763`
+- **Kid Loco** — A Grand Love Theme [A Grand Love Story] (4:02) `isrc:FRQ260900004` `qobuz:1463672`
+- **Kinobe** — Slip Into Something More Comfortable [Slip Into Something More Comfortable] (4:47) `isrc:GBDBH1600007` `qobuz:170943517`
+- **Marc Collin** — I Can Water My Plants [Bristol] (3:37) `isrc:FR13Z1400004` `qobuz:96095255`
+- **Supreme Beings of Leisure** — Never the Same [Supreme Beings Of Leisure] (4:03) `isrc:USPA39900080` `qobuz:72748665`
+- **Thievery Corporation** — Lebanese Blonde [Mirror Conspiracy] (4:48) `isrc:USESL0003304` `qobuz:390227207`
+- **Tosca** — Suzuki [Suzuki] (6:04) `isrc:DEG930000018` `qobuz:36590299`
+- **Archive** — Again [You All Look the Same to Me] (16:18) `isrc:GBEYA0100002` `qobuz:48054436`
+- **Boozoo Bajou** — Night over Manaus [Satta] (6:19) `isrc:DEAW10900149` `qobuz:135033893`
+- **Gorillaz** — Tomorrow Comes Today [Gorillaz] (3:14) `isrc:GBAYE1400466` `qobuz:35543618`
+- **Lovage** — Book of the Month [Nathaniel Merriweather Presents... Lovage, Music To Make Love To Your Old Lady By (Instrumental Version)] (4:37) `isrc:QMWWU1100020` `qobuz:3738398`
+- **Röyksopp** — So Easy [Melody A.M.] (4:09) `isrc:GBCFC0100006` `qobuz:27854630`
+- **The Offspring** — This Is Not Utopia [Let The Bad Times Roll] (2:38) `isrc:USC4R2007924` `qobuz:114569233`
+- **Télépopmusik** — Breathe [Genetic World] (4:41) `isrc:FR06S0100640` `qobuz:49074701`
+- **Zero 7** — In The Waiting Line [Simple Things] (4:32) `isrc:GBCHV0150168` `qobuz:335252037`
+- **Anna von Hausswolff** — An Ocean of Time [ICONOCLASTS] (7:57) `isrc:SE5AJ2202610` `qobuz:364193072`
+- **FC/Kahuna** — Hayling [Machine Says Yes] (6:47) `isrc:GBEEQ0200039` `qobuz:168733545`
+- **Lemon Jelly** — The Staunton Lick [LemonJelly.ky] (5:22) `isrc:GBBKS0000177` `qobuz:26440749`
+- **Puracane** — 14 Nights [Things You Should Leave Alone] (6:02) `isrc:USUR40305403` `qobuz:394320622`
+- **RJD2** — Ghostwriter [Deadringer: Deluxe] (5:17) `isrc:USA4T0403506` `qobuz:52402137`
+- **The Cinematic Orchestra** — All That You Give [Every Day (20th Anniversary Edition)] (4:22) `isrc:GBCFB0408235` `qobuz:206248987`
+- **I Monster** — Daydream In Blue [Neveroddoreven] (3:43) `isrc:GBDKA0300190` `qobuz:168864954`
+- **Martina Topley Bird** — Need One [Quixotic] (3:55) `isrc:GBBPF0300934` `qobuz:60567623`
+- **Weekend Players** — Jericho [Pursuit Of Happiness] (6:39) `isrc:GBAWV0202831` `qobuz:19096605`
+- **8mm** — Give It up (Acoustic) [Stripped, Vol. 1] (3:37) `isrc:TCAEW2054102` `qobuz:129112636`
+- **Jem** — They [Finally Woken] (3:16) `isrc:USATO0300086` `qobuz:113806157`
+- **Wax Tailor** — Que Sera [Tales of the Forgotten Melodies] (2:44) `isrc:FRP180400180` `qobuz:100505431`
+- **Bitter:Sweet** — The Mating Game [The Mating Game] (3:24) `isrc:USBBW0610052` `qobuz:72971185`
+- **Emancipator** — First Snow [Soon It Will Be Cold Enough] (5:12) `isrc:TCABY1497184` `qobuz:124151425`
+- **Saltillo** — A Simple Test [Ganglion] (5:31) `isrc:CAAD21110888` `qobuz:73832634`
+- **Skye** — Love Show [Mind How You Go] (4:09) `isrc:GBKPL0812936` `qobuz:167230429`
+- **Trentemøller** — Moan [The Last Resort] (5:51) `isrc:DEL020620038` `qobuz:85483124`
+- **Belleruche** — Minor Swing [Turntable Soul Music] (4:09) `isrc:GBEUE0700660` `qobuz:371495943`
+- **Blue Foundation** — Eyes on Fire [Life Of A Ghost] (5:02) `isrc:DKABA0700900` `qobuz:4890246`
+- **Nimbora** — Velvet Vapors [Twilight Tones] (3:15) `isrc:GXBAV2490014` `qobuz:251676369`
+- **Blockhead** — The Music Scene [The Music Scene] (4:49) `isrc:GBCFB0902601` `qobuz:6281519`
+- **Subheim** — Away [Approach] (6:15) `isrc:USCGJ0880796` `qobuz:95467525`
+- **The xx** — Intro [xx] (2:07) `isrc:GBBKS0900196` `qobuz:2329144`
+- **Phantogram** — When I'm Small [Eyelid Movies] (4:09) `isrc:USBS51300075` `qobuz:73705302`
+- **Chinese Man** — I've got that tune [Groove Sessions] (4:29) `isrc:FR6V80627179` `qobuz:9458211`
+- **Hugo Kant** — Koka [Far from Home] (5:39) `isrc:FR9W12019377` `qobuz:102875282`
+- **Lorn** — Anvil [VESSEL] (3:29) `isrc:TCACM1654005` `qobuz:152992931`
+- **London Grammar** — Hey Now [If You Wait] (3:25) `isrc:GBCEN1300088` `qobuz:11882605`
+- **FKA twigs** — Pendulum [LP1] (4:58) `isrc:UK7MC1400276` `qobuz:39294241`
+- **Sevdaliza** — Human [Ison] (3:12) `isrc:NLE3U1500017` `qobuz:220015179`

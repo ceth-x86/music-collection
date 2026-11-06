@@ -1,0 +1,1010 @@
+{
+  "name": "Genre: Psychodelic Rock",
+  "services": {
+    "qobuz": "66738038",
+    "tidal": "2c2ac53e-353e-437c-bc55-6b71c7ba9a49"
+  },
+  "description": "Imported genre playlist: Psychodelic Rock.",
+  "tracks": [
+    {
+      "artist": "The Yardbirds",
+      "title": "Shapes of Things",
+      "services": {
+        "qobuz": "78601157"
+      },
+      "album": "Yardbirds '68",
+      "duration": 150,
+      "isrc": "UK92M1400054"
+    },
+    {
+      "artist": "The Beatles",
+      "title": "Tomorrow Never Knows",
+      "services": {
+        "qobuz": "172443643"
+      },
+      "album": "Revolver",
+      "duration": 177,
+      "isrc": "GBUM72202557"
+    },
+    {
+      "artist": "The Byrds",
+      "title": "Eight Miles High",
+      "services": {
+        "qobuz": "48309"
+      },
+      "album": "Fifth Dimension",
+      "duration": 214,
+      "isrc": "USSM16600032"
+    },
+    {
+      "artist": "The Beach Boys",
+      "title": "Good Vibrations",
+      "services": {
+        "qobuz": "25753352"
+      },
+      "album": "Smiley Smile",
+      "duration": 217,
+      "isrc": "USCA21202151"
+    },
+    {
+      "artist": "The Rolling Stones",
+      "title": "Paint It, Black",
+      "services": {
+        "qobuz": "20667412"
+      },
+      "album": "Aftermath",
+      "duration": 202,
+      "isrc": "USA171010213"
+    },
+    {
+      "artist": "Donovan",
+      "title": "Sunshine Superman",
+      "services": {
+        "qobuz": "44791"
+      },
+      "album": "Sunshine Superman",
+      "duration": 195,
+      "isrc": "USSM19805194"
+    },
+    {
+      "artist": "Love",
+      "title": "She Comes In Colors",
+      "services": {
+        "qobuz": "3006225"
+      },
+      "album": "Da Capo",
+      "duration": 166,
+      "isrc": "USEE10100151"
+    },
+    {
+      "artist": "The 13th Floor Elevators",
+      "title": "You're Gonna Miss Me",
+      "services": {
+        "qobuz": "7965570"
+      },
+      "album": "The Psychedelic World Of The 13Th Floor Elevators",
+      "duration": 150,
+      "isrc": "USFB20606990"
+    },
+    {
+      "artist": "The Blues Magoos",
+      "title": "(We Ain't Got) Nothin' Yet",
+      "services": {
+        "qobuz": "54424600"
+      },
+      "album": "Psychedelic Lollipop",
+      "duration": 135,
+      "isrc": "USIR20200834"
+    },
+    {
+      "artist": "Count Five",
+      "title": "Psychotic Reaction",
+      "services": {
+        "qobuz": "19986331"
+      },
+      "album": "Psychotic Reaction",
+      "duration": 184,
+      "isrc": "QMFMK1316006"
+    },
+    {
+      "artist": "The Electric Prunes",
+      "title": "I Had Too Much to Dream (Last Night)",
+      "services": {
+        "qobuz": "19124041"
+      },
+      "album": "I Had Too Much To Dream (Last Night)",
+      "duration": 179,
+      "isrc": "USRE16700006"
+    },
+    {
+      "artist": "The Misunderstood",
+      "title": "I Can Take You to the Sun",
+      "services": {
+        "qobuz": "17854088"
+      },
+      "album": "Cherry Red Singles Club: 1980-1981",
+      "duration": 220,
+      "isrc": "GBBLY8200603"
+    },
+    {
+      "artist": "Jefferson Airplane",
+      "title": "White Rabbit",
+      "services": {
+        "qobuz": "182841"
+      },
+      "album": "Surrealistic Pillow",
+      "duration": 150,
+      "isrc": "USRC10301017"
+    },
+    {
+      "artist": "The Experienced",
+      "title": "Are You Experienced",
+      "services": {
+        "qobuz": "142186614"
+      },
+      "album": "The Experience: a tribute to Jimi Hendrix",
+      "duration": 297,
+      "isrc": "GBBLY1103341"
+    },
+    {
+      "artist": "Pink Floyd",
+      "title": "Interstellar Overdrive",
+      "services": {
+        "qobuz": "47683482"
+      },
+      "album": "The Piper at the Gates of Dawn",
+      "duration": 580,
+      "isrc": "GBN9Y1100007"
+    },
+    {
+      "artist": "The Doors",
+      "title": "The End",
+      "services": {
+        "qobuz": "7020332"
+      },
+      "album": "The Doors",
+      "duration": 694,
+      "isrc": "USEE11200530"
+    },
+    {
+      "artist": "Small Faces",
+      "title": "Itchycoo Park",
+      "services": {
+        "qobuz": "15813019"
+      },
+      "album": "Greatest Hits - The Immediate Years 1967-1969",
+      "duration": 164,
+      "isrc": "GBA7H1244605"
+    },
+    {
+      "artist": "Traffic",
+      "title": "Paper Sun",
+      "services": {
+        "qobuz": "4343220"
+      },
+      "album": "Mr. Fantasy",
+      "duration": 213,
+      "isrc": "GBAAN0080067"
+    },
+    {
+      "artist": "The Move",
+      "title": "I Can Hear the Grass Grow",
+      "services": {
+        "qobuz": "221503267"
+      },
+      "album": "Hits & Rarities - Singles a\u2019s & B\u2019s - The Move",
+      "duration": 187,
+      "isrc": "DESK99991803"
+    },
+    {
+      "artist": "Strawberry Alarm Clock",
+      "title": "Incense And Peppermints",
+      "services": {
+        "qobuz": "14934826"
+      },
+      "album": "Incense And Peppermints",
+      "duration": 167,
+      "isrc": "USMC10201063"
+    },
+    {
+      "artist": "Country Joe & The Fish",
+      "title": "Section 43",
+      "services": {
+        "qobuz": "13036822"
+      },
+      "album": "Electric Music For The Mind And Body",
+      "duration": 446,
+      "isrc": "USVG28707016"
+    },
+    {
+      "artist": "The Pretty Things",
+      "title": "L.S.D.",
+      "services": {
+        "qobuz": "51075970"
+      },
+      "album": "Get The Picture?",
+      "duration": 144,
+      "isrc": "USA370655061"
+    },
+    {
+      "artist": "Kaleidoscope",
+      "title": "Flight From Ashiya",
+      "services": {
+        "qobuz": "46290476"
+      },
+      "album": "Tangerine Dream",
+      "duration": 160,
+      "isrc": "GBF086700618"
+    },
+    {
+      "artist": "Tomorrow",
+      "title": "My White Bicycle",
+      "services": {
+        "qobuz": "24149527"
+      },
+      "album": "Tomorrow",
+      "duration": 199,
+      "isrc": "GBAYE1500158"
+    },
+    {
+      "artist": "The West Coast Pop Art Experimental Band",
+      "title": "Smell of Incense",
+      "services": {
+        "qobuz": "2856688"
+      },
+      "album": "Vol. 2",
+      "duration": 351,
+      "isrc": "USRE10601413"
+    },
+    {
+      "artist": "Eric Burdon & The Animals",
+      "title": "San Franciscan Nights",
+      "services": {
+        "qobuz": "104710057"
+      },
+      "album": "Winds Of Change",
+      "duration": 199,
+      "isrc": "USPR36702773"
+    },
+    {
+      "artist": "The Hollies",
+      "title": "King Midas in Reverse",
+      "services": {
+        "qobuz": "4457103"
+      },
+      "album": "The Air That I Breathe - The Very Best of the Hollies",
+      "duration": 182,
+      "isrc": "GBGYU6700010"
+    },
+    {
+      "artist": "The Monkees",
+      "title": "Daily Nightly",
+      "services": {
+        "qobuz": "17376177"
+      },
+      "album": "Pisces, Aquarius, Capricorn & Jones Ltd.",
+      "duration": 152,
+      "isrc": "USRH11301407"
+    },
+    {
+      "artist": "The Peanut Butter Conspiracy",
+      "title": "It's a Happening Thing",
+      "services": {
+        "qobuz": "23314886"
+      },
+      "album": "The Peanut Butter Conspiracy Is Spreading",
+      "duration": 144,
+      "isrc": "USSM19909558"
+    },
+    {
+      "artist": "Moby Grape",
+      "title": "Omaha",
+      "services": {
+        "qobuz": "191920194"
+      },
+      "album": "Crosstalk - The Best Of",
+      "duration": 165,
+      "isrc": "DESK90390305"
+    },
+    {
+      "artist": "H. P. Lovecraft",
+      "title": "The White Ship (Live)",
+      "services": {
+        "qobuz": "48662118"
+      },
+      "album": "Live at the Fillmore May 11, 1968",
+      "duration": 421,
+      "isrc": "USCWY0710235"
+    },
+    {
+      "artist": "The Velvet Underground",
+      "title": "Heroin",
+      "services": {
+        "qobuz": "33984068"
+      },
+      "album": "The Velvet Underground & Nico - 45th Anniversary",
+      "duration": 434,
+      "isrc": "USPR36702765"
+    },
+    {
+      "artist": "The Lemon Pipers",
+      "title": "Green Tambourine",
+      "services": {
+        "qobuz": "28937007"
+      },
+      "album": "Green Tambourine",
+      "duration": 146,
+      "isrc": "USBR16700001"
+    },
+    {
+      "artist": "Buffalo Springfield",
+      "title": "Mr. Soul",
+      "services": {
+        "qobuz": "35926986"
+      },
+      "album": "Buffalo Springfield Again",
+      "duration": 172,
+      "isrc": "USRH11508151"
+    },
+    {
+      "artist": "The Who",
+      "title": "I Can See For Miles",
+      "services": {
+        "qobuz": "81327199"
+      },
+      "album": "The Who Hits 50",
+      "duration": 249,
+      "isrc": "GBUM70900937"
+    },
+    {
+      "artist": "The Smoke",
+      "title": "My Friend Jack",
+      "services": {
+        "qobuz": "251492392"
+      },
+      "album": "It's Smoke Time",
+      "duration": 185,
+      "isrc": "USTC70843302"
+    },
+    {
+      "artist": "Status Quo",
+      "title": "Pictures of Matchstick Men",
+      "services": {
+        "qobuz": "218584847"
+      },
+      "album": "Caroline - Status Quo - Best",
+      "duration": 189,
+      "isrc": "DESK99690610"
+    },
+    {
+      "artist": "Tommy James & The Shondells",
+      "title": "Crimson and Clover (Long Version)",
+      "services": {
+        "qobuz": "173766851"
+      },
+      "album": "Crimson and Clover",
+      "duration": 332,
+      "isrc": "USRH10450849"
+    },
+    {
+      "artist": "The Zombies",
+      "title": "Time of the Season",
+      "services": {
+        "qobuz": "241495325"
+      },
+      "album": "Time of the Season",
+      "duration": 214,
+      "isrc": "GBCBS6732269"
+    },
+    {
+      "artist": "Iron Butterfly",
+      "title": "In-A-Gadda-Da-Vida",
+      "services": {
+        "qobuz": "13585185"
+      },
+      "album": "In-A-Gadda-Da-Vida",
+      "duration": 1024,
+      "isrc": "USEE10609443"
+    },
+    {
+      "artist": "The Amboy Dukes",
+      "title": "Journey to the Center of the Mind",
+      "services": {
+        "qobuz": "263581115"
+      },
+      "album": "Journey To The Center Of The Mind",
+      "duration": 215,
+      "isrc": "USSM16800339"
+    },
+    {
+      "artist": "Spirit",
+      "title": "Fresh-Garbage",
+      "services": {
+        "qobuz": "78046"
+      },
+      "album": "Spirit",
+      "duration": 191,
+      "isrc": "USSM16700045"
+    },
+    {
+      "artist": "Ultimate Spinach",
+      "title": "Mind Flowers",
+      "services": {
+        "qobuz": "388304886"
+      },
+      "album": "Behold & See",
+      "duration": 580,
+      "isrc": "QT62U2548394"
+    },
+    {
+      "artist": "July",
+      "title": "The Way",
+      "services": {
+        "qobuz": "841778"
+      },
+      "album": "July",
+      "duration": 209,
+      "isrc": "GBAYE0701586"
+    },
+    {
+      "artist": "The Crazy World Of Arthur Brown",
+      "title": "Fire",
+      "services": {
+        "qobuz": "191287959"
+      },
+      "album": "The Crazy World of Arthur Brown",
+      "duration": 175,
+      "isrc": "GBBLY1605630"
+    },
+    {
+      "artist": "Fever Tree",
+      "title": "San Francisco Girls (Return Of The Native)",
+      "services": {
+        "qobuz": "62042531"
+      },
+      "album": "Fever Tree",
+      "duration": 242,
+      "isrc": "USMC10000189"
+    },
+    {
+      "artist": "The Golden Dawn",
+      "title": "My Time",
+      "services": {
+        "qobuz": "81541389"
+      },
+      "album": "Power Plant",
+      "duration": 232,
+      "isrc": "GBAWA0353561"
+    },
+    {
+      "artist": "Nazz",
+      "title": "Open My Eyes",
+      "services": {
+        "qobuz": "67532099"
+      },
+      "album": "The Complete Nazz",
+      "duration": 164,
+      "isrc": "QM6XS1807183"
+    },
+    {
+      "artist": "The Chocolate Watch Band",
+      "title": "In The Past",
+      "services": {
+        "qobuz": "54887807"
+      },
+      "album": "Inner Mystique",
+      "duration": 187,
+      "isrc": "USUMG0401157"
+    },
+    {
+      "artist": "The Millennium",
+      "title": "To Claudia on Thursday",
+      "services": {
+        "qobuz": "2694514"
+      },
+      "album": "Begin",
+      "duration": 205,
+      "isrc": "USSM16801609"
+    },
+    {
+      "artist": "Sagittarius",
+      "title": "My World Fell Down",
+      "services": {
+        "qobuz": "2632229"
+      },
+      "album": "Present Tense (Expanded Edition)",
+      "duration": 174,
+      "isrc": "USSM16701426"
+    },
+    {
+      "artist": "The Open Mind",
+      "title": "Magic Potion (Bonus)",
+      "services": {
+        "qobuz": "102088779"
+      },
+      "album": "The Open Mind",
+      "duration": 204,
+      "isrc": "CYRLD1400068"
+    },
+    {
+      "artist": "Bubble Puppy",
+      "title": "Hot Smoke and Sassafras",
+      "services": {
+        "qobuz": "69131500"
+      },
+      "album": "Certified Badass",
+      "duration": 177,
+      "isrc": "USHM81744354"
+    },
+    {
+      "artist": "Shocking Blue",
+      "title": "Love Buzz",
+      "services": {
+        "qobuz": "41731094"
+      },
+      "album": "At Home",
+      "duration": 226,
+      "isrc": "NLC286900004"
+    },
+    {
+      "artist": "Os Mutantes",
+      "title": "Panis Et Circenses",
+      "services": {
+        "qobuz": "2410164"
+      },
+      "album": "Os Mutantes",
+      "duration": 219,
+      "isrc": "BRPGD6800015"
+    },
+    {
+      "artist": "It's A Beautiful Day",
+      "title": "White Bird",
+      "services": {
+        "qobuz": "27028919"
+      },
+      "album": "Live at the Fillmore West, July 1971 (Live)",
+      "duration": 578,
+      "isrc": "CYRLD1402262"
+    },
+    {
+      "artist": "Quicksilver Messenger Service",
+      "title": "Maiden Of The Cancer Moon",
+      "services": {
+        "qobuz": "18930965"
+      },
+      "album": "Happy Trails",
+      "duration": 172,
+      "isrc": "USCA28800961"
+    },
+    {
+      "artist": "Norman Greenbaum",
+      "title": "Spirit In The Sky",
+      "services": {
+        "qobuz": "61515440"
+      },
+      "album": "Spirit In The Sky",
+      "duration": 242,
+      "isrc": "USRE19600416"
+    },
+    {
+      "artist": "VANILLA FUDGE",
+      "title": "Season of the Witch",
+      "services": {
+        "qobuz": "92444918"
+      },
+      "album": "Then and Now",
+      "duration": 490,
+      "isrc": "QMBZ91761003"
+    },
+    {
+      "artist": "Roots Revival",
+      "title": "Kakolaye Tu",
+      "services": {
+        "qobuz": "275000601"
+      },
+      "album": "Hazara Music",
+      "duration": 363,
+      "isrc": "QZPJ32378556"
+    },
+    {
+      "artist": "Alexander 'Skip' Spence",
+      "title": "War In Peace",
+      "services": {
+        "qobuz": "393506"
+      },
+      "album": "Oar",
+      "duration": 242,
+      "isrc": "USSM16801041"
+    },
+    {
+      "artist": "Morgen",
+      "title": "Of Dreams",
+      "services": {
+        "qobuz": "122523334"
+      },
+      "album": "Morgen",
+      "duration": 338,
+      "isrc": "USA2P2120029"
+    },
+    {
+      "artist": "Grateful Dead",
+      "title": "Dark Star (Single Version)",
+      "services": {
+        "qobuz": "3113472"
+      },
+      "album": "What a Long Strange Trip It's Been: The Best of the Grateful Dead",
+      "duration": 161,
+      "isrc": "USRH10902598"
+    },
+    {
+      "artist": "Aphrodite's Child",
+      "title": "It's Five O'Clock",
+      "services": {
+        "qobuz": "370671326"
+      },
+      "album": "It's Five O'Clock",
+      "duration": 211,
+      "isrc": "NLF056990012"
+    },
+    {
+      "artist": "Ula\u015f Kurtulu\u015f \u00dcnl\u00fc",
+      "title": "Garip \u00c7oban (feat. Ahu \u00dcnl\u00fc)",
+      "services": {
+        "qobuz": "421492618"
+      },
+      "album": "Ak\u015fehir T\u00fcrk\u00fcleri",
+      "duration": 203,
+      "isrc": "QT3EX2652751"
+    },
+    {
+      "artist": "Earth & Fire",
+      "title": "Ruby Is The One",
+      "services": {
+        "qobuz": "8939848"
+      },
+      "album": "Earth & Fire",
+      "duration": 205,
+      "isrc": "NLA317000026"
+    },
+    {
+      "artist": "Funkadelic",
+      "title": "Maggot Brain",
+      "services": {
+        "qobuz": "159412881"
+      },
+      "album": "Maggot Brain",
+      "duration": 619,
+      "isrc": "US25X0588947"
+    },
+    {
+      "artist": "Rancid",
+      "title": "Telegraph Avenue",
+      "services": {
+        "qobuz": "77616473"
+      },
+      "album": "Trouble Maker",
+      "duration": 199,
+      "isrc": "USEP41713022"
+    },
+    {
+      "artist": "Los Dug Dug's",
+      "title": "Eclipse",
+      "services": {
+        "qobuz": "46148986"
+      },
+      "album": "RCA 100 A\u00f1os de M\u00fasica",
+      "duration": 162,
+      "isrc": "MXF019700146"
+    },
+    {
+      "artist": "The Funkees",
+      "title": "Akula Owu Onyeara",
+      "services": {
+        "qobuz": "148418037"
+      },
+      "album": "Dancing Time: The Best of Eastern Nigeria's Afro Rock Exponents 1973-77",
+      "duration": 448,
+      "isrc": "GBUQH0800004"
+    },
+    {
+      "artist": "Kourosh Yaghmaei",
+      "title": "Gole Yakh",
+      "services": {
+        "qobuz": "5813269"
+      },
+      "album": "Back From The Brink: Pre-Revolution Psychedelic Rock From Iran: 1973-1979",
+      "duration": 306,
+      "isrc": "US2S71166001"
+    },
+    {
+      "artist": "Erkin Koray",
+      "title": "Mesafeler",
+      "services": {
+        "qobuz": "69624126"
+      },
+      "album": "Mesafeler",
+      "duration": 216,
+      "isrc": "QMDA61513355"
+    },
+    {
+      "artist": "Amanaz",
+      "title": "Khala My Friend",
+      "services": {
+        "qobuz": "23780809"
+      },
+      "album": "Africa",
+      "duration": 203,
+      "isrc": "US2S71523004"
+    },
+    {
+      "artist": "WITCH",
+      "title": "Black Tears",
+      "services": {
+        "qobuz": "412689042"
+      },
+      "album": "Lazy Bones!!",
+      "duration": 294,
+      "isrc": "US2S71291020"
+    },
+    {
+      "artist": "Ngozi Family",
+      "title": "Hi Babe",
+      "services": {
+        "qobuz": "188869851"
+      },
+      "album": "Day of Judgement",
+      "duration": 243,
+      "isrc": "US2S71415002"
+    },
+    {
+      "artist": "Rikki Ililonga",
+      "title": "Sunshine Love",
+      "services": {
+        "qobuz": "188866094"
+      },
+      "album": "Dark Sunrise",
+      "duration": 193,
+      "isrc": "US2S71067029"
+    },
+    {
+      "artist": "The Soft Boys",
+      "title": "I Wanna Destroy You",
+      "services": {
+        "qobuz": "72014873"
+      },
+      "album": "Underwater Moonlight",
+      "duration": 173,
+      "isrc": "USY1R1062801"
+    },
+    {
+      "artist": "The Dream Syndicate",
+      "title": "Tell Me When It's Over",
+      "services": {
+        "qobuz": "2855172"
+      },
+      "album": "The Days Of Wine And Roses",
+      "duration": 211,
+      "isrc": "GBAAP0400258"
+    },
+    {
+      "artist": "Rain Parade",
+      "title": "Talking in My Sleep",
+      "services": {
+        "qobuz": "2810647"
+      },
+      "album": "Emergency Third Rail Power Trip",
+      "duration": 229,
+      "isrc": "USRS70019001"
+    },
+    {
+      "artist": "The Three O'Clock",
+      "title": "With a Cantaloupe Girlfriend",
+      "services": {
+        "qobuz": "110132835"
+      },
+      "album": "Baroque Hoedown",
+      "duration": 174,
+      "isrc": "USY1R2073001"
+    },
+    {
+      "artist": "Television Personalities",
+      "title": "I Know Where Syd Barrett Lives",
+      "services": {
+        "qobuz": "194473695"
+      },
+      "album": "And Don't the Kids Just Love It",
+      "duration": 151,
+      "isrc": "GBCKK9000208"
+    },
+    {
+      "artist": "The Cleaners From Venus",
+      "title": "Only a Shadow",
+      "services": {
+        "qobuz": "180878563"
+      },
+      "album": "Midnight Cleaners",
+      "duration": 211,
+      "isrc": "US8YA1200094"
+    },
+    {
+      "artist": "Robyn Hitchcock & The Egyptians",
+      "title": "Madonna Of The Wasps",
+      "services": {
+        "qobuz": "209077971"
+      },
+      "album": "Queen Elvis",
+      "duration": 185,
+      "isrc": "USAM18904276"
+    },
+    {
+      "artist": "Spacemen 3",
+      "title": "Revolution",
+      "services": {
+        "qobuz": "238114296"
+      },
+      "album": "Playing With Fire",
+      "duration": 357,
+      "isrc": "GBBJX9811105"
+    },
+    {
+      "artist": "The Dukes Of Stratosphear",
+      "title": "Vanishing Girl",
+      "services": {
+        "qobuz": "1069428"
+      },
+      "album": "Chips From The Chocolate Fireball",
+      "duration": 179,
+      "isrc": "GBAAA0100079"
+    },
+    {
+      "artist": "The Mighty Lemon Drops",
+      "title": "Happy Head",
+      "services": {
+        "qobuz": "169147853"
+      },
+      "album": "Rollercoaster: The Best of The Mighty Lemon Drops (1986-1989)",
+      "duration": 147,
+      "isrc": "GBAYK8600040"
+    },
+    {
+      "artist": "The Church",
+      "title": "Under the Milky Way",
+      "services": {
+        "qobuz": "33546473"
+      },
+      "album": "Starfish (Deluxe Edition)",
+      "duration": 298,
+      "isrc": "USAR18800002"
+    },
+    {
+      "artist": "The Stone Roses",
+      "title": "I Am The Resurrection",
+      "services": {
+        "qobuz": "47004101"
+      },
+      "album": "The Stone Roses",
+      "duration": 493,
+      "isrc": "GBAHJ9500041"
+    },
+    {
+      "artist": "The Olivia Tremor Control",
+      "title": "Jumping Fences",
+      "services": {
+        "qobuz": "20821067"
+      },
+      "album": "Dusk at Cubist Castle",
+      "duration": 112,
+      "isrc": "USG590610052"
+    },
+    {
+      "artist": "Djakarta",
+      "title": "Anemone",
+      "services": {
+        "qobuz": "238672671"
+      },
+      "album": "Anemone",
+      "duration": 259,
+      "isrc": "FREC02300030"
+    },
+    {
+      "artist": "Mercury Rev",
+      "title": "Goddess on a Hiway",
+      "services": {
+        "qobuz": "97843882"
+      },
+      "album": "Deserter's Songs",
+      "duration": 225,
+      "isrc": "GBUM71102311"
+    },
+    {
+      "artist": "The Flaming Lips",
+      "title": "Race for the Prize",
+      "services": {
+        "qobuz": "41508828"
+      },
+      "album": "The Soft Bulletin",
+      "duration": 258,
+      "isrc": "USWB11602529"
+    },
+    {
+      "artist": "The Dandy Warhols",
+      "title": "Not If You Were The Last Junkie On Earth",
+      "services": {
+        "qobuz": "194789012"
+      },
+      "album": "The Dandy Warhols Come Down",
+      "duration": 191,
+      "isrc": "USCA29600198"
+    },
+    {
+      "artist": "Dungen",
+      "title": "Ta det lugnt",
+      "services": {
+        "qobuz": "102028406"
+      },
+      "album": "Ta det lugnt",
+      "duration": 463,
+      "isrc": "SEWRL0400205"
+    },
+    {
+      "artist": "The Black Angels",
+      "title": "Young Men Dead",
+      "services": {
+        "qobuz": "313171994"
+      },
+      "album": "Passover",
+      "duration": 332,
+      "isrc": "USDEA0601801"
+    },
+    {
+      "artist": "MGMT",
+      "title": "Electric Feel",
+      "services": {
+        "qobuz": "16631"
+      },
+      "album": "Oracular Spectacular",
+      "duration": 229,
+      "isrc": "USSM10702131"
+    },
+    {
+      "artist": "Tame Impala",
+      "title": "Feels Like We Only Go Backwards",
+      "services": {
+        "qobuz": "8524919"
+      },
+      "album": "Lonerism",
+      "duration": 191,
+      "isrc": "AUUM71200493"
+    },
+    {
+      "artist": "King Gizzard & The Lizard Wizard",
+      "title": "Float Along \u2013 Fill Your Lungs",
+      "services": {
+        "qobuz": "210000224"
+      },
+      "album": "Float Along \u2013 Fill Your Lungs",
+      "duration": 405,
+      "isrc": "AUDJ01300993"
+    },
+    {
+      "artist": "Temples",
+      "title": "Shelter Song",
+      "services": {
+        "qobuz": "14521366"
+      },
+      "album": "Sun Structures",
+      "duration": 190,
+      "isrc": "UK32S2222351"
+    },
+    {
+      "artist": "Kikagaku Moyo",
+      "title": "Dripping Sun",
+      "services": {
+        "qobuz": "124546053"
+      },
+      "album": "Masana Temples",
+      "duration": 470,
+      "isrc": "TCADT1851279"
+    }
+  ]
+}

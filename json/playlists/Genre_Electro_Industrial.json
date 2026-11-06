@@ -1,0 +1,440 @@
+{
+  "name": "Genre: Electro Industrial",
+  "services": {
+    "qobuz": "66733086",
+    "tidal": "9c951f65-bb0a-4d14-8c5d-acf033c35533"
+  },
+  "description": "Dark, aggressive electronic music combining industrial noise, heavy dance beats, distorted vocals, and synth sequences.",
+  "tracks": [
+    {
+      "artist": "Skinny Puppy",
+      "title": "Assimilate",
+      "services": {
+        "qobuz": "154866467"
+      },
+      "album": "Bites",
+      "duration": 416,
+      "isrc": "CAN119900103"
+    },
+    {
+      "artist": "Vomito Negro",
+      "title": "Dare",
+      "services": {
+        "qobuz": "170397497"
+      },
+      "album": "Dare",
+      "duration": 214,
+      "isrc": "QMBZ92252856"
+    },
+    {
+      "artist": "Borghesia",
+      "title": "Ni Upanja, Ni Strahu / No Hope, No Fear",
+      "services": {
+        "qobuz": "3200176"
+      },
+      "album": "No Hope No Fear",
+      "duration": 270,
+      "isrc": "BEP010490672"
+    },
+    {
+      "artist": "The Klinik",
+      "title": "Plague",
+      "services": {
+        "qobuz": "134941462"
+      },
+      "album": "Plague + Fear",
+      "duration": 375,
+      "isrc": "DEBZ71400193"
+    },
+    {
+      "artist": "Placebo Effect",
+      "title": "Slashed Open",
+      "services": {
+        "qobuz": "20025673"
+      },
+      "album": "Slashed Open",
+      "duration": 252,
+      "isrc": "DEK341410130"
+    },
+    {
+      "artist": "Click Click",
+      "title": "Playground",
+      "services": {
+        "qobuz": "3482927"
+      },
+      "album": "Rorschach Testing",
+      "duration": 237,
+      "isrc": "BEP010491354"
+    },
+    {
+      "artist": "Manufacture",
+      "title": "As the End Draws Near",
+      "services": {
+        "qobuz": "140459425"
+      },
+      "album": "Terrorvision",
+      "duration": 222,
+      "isrc": "CAN110501011"
+    },
+    {
+      "artist": "Signal Aout 42",
+      "title": "Pleasure and Crime",
+      "services": {
+        "qobuz": "1804979"
+      },
+      "album": "Pro Patria",
+      "duration": 291,
+      "isrc": "BEE038900130"
+    },
+    {
+      "artist": "Numb",
+      "title": "Blood",
+      "services": {
+        "qobuz": "5854411"
+      },
+      "album": "Wasted Sky",
+      "duration": 434,
+      "isrc": "US57M0501002"
+    },
+    {
+      "artist": "Cyberaktif",
+      "title": "Nothing Stays",
+      "services": {
+        "qobuz": "51804627"
+      },
+      "album": "Tenebrae Vision",
+      "duration": 328,
+      "isrc": "QM6MZ1826191"
+    },
+    {
+      "artist": "Noise Unit",
+      "title": "Disease",
+      "services": {
+        "qobuz": "73847980"
+      },
+      "album": "Response Frequency",
+      "duration": 330,
+      "isrc": "QM4TW1615550"
+    },
+    {
+      "artist": "X Marks The Pedwalk",
+      "title": "Abattoir",
+      "services": {
+        "qobuz": "21813356"
+      },
+      "album": "Abattoir",
+      "duration": 339,
+      "isrc": "DEKV20910234"
+    },
+    {
+      "artist": "Lassigue Bendthaus",
+      "title": "Automotive",
+      "services": {
+        "qobuz": "371114997"
+      },
+      "album": "Matter",
+      "duration": 415,
+      "isrc": "USQY51741727"
+    },
+    {
+      "artist": "Meat Beat Manifesto",
+      "title": "Mindstream",
+      "services": {
+        "qobuz": "5057633"
+      },
+      "album": "Satyricon",
+      "duration": 293,
+      "isrc": "BEP010490082"
+    },
+    {
+      "artist": "The Plastic Noise Experience",
+      "title": "Smalltown Boy",
+      "services": {
+        "qobuz": "8481066"
+      },
+      "album": "Dead Or Alive & Transmission Completed",
+      "duration": 278,
+      "isrc": "BEC260676802"
+    },
+    {
+      "artist": "Front Line Assembly",
+      "title": "Mindphaser",
+      "services": {
+        "qobuz": "2809877"
+      },
+      "album": "Reclamation",
+      "duration": 404,
+      "isrc": "NLA329780355"
+    },
+    {
+      "artist": "Le\u00e6ther Strip",
+      "title": "Adrenalin Rush",
+      "services": {
+        "qobuz": "78392665"
+      },
+      "album": "Best Of",
+      "duration": 304,
+      "isrc": "QM6XS1902563"
+    },
+    {
+      "artist": "Mentallo & the Fixer",
+      "title": "Decomposed (Trampled)",
+      "services": {
+        "qobuz": "18794681"
+      },
+      "album": "Where Angels Fear to Tread",
+      "duration": 390,
+      "isrc": "BEC261481002"
+    },
+    {
+      "artist": "Individual Totem",
+      "title": "Paradoxon",
+      "services": {
+        "qobuz": "73848044"
+      },
+      "album": "Mind Sculptures Flesh",
+      "duration": 267,
+      "isrc": "CAAD20810124"
+    },
+    {
+      "artist": "Controlled Fusion",
+      "title": "Geometrical Symbol",
+      "services": {
+        "qobuz": "46581463"
+      },
+      "album": "Incubation Time",
+      "duration": 418,
+      "isrc": "FRX281743725"
+    },
+    {
+      "artist": "Anstalt",
+      "title": "Cybers",
+      "services": {
+        "qobuz": "366595403"
+      },
+      "album": "Brilliance Without Phase (1987-1995)",
+      "duration": 306,
+      "isrc": "QMFMF2508272"
+    },
+    {
+      "artist": "Snog",
+      "title": "Born To Be Mild",
+      "services": {
+        "qobuz": "95601111"
+      },
+      "album": "Lies Inc./Dear Valued Customer",
+      "duration": 200,
+      "isrc": "US57M0516804"
+    },
+    {
+      "artist": "Ipecac Loop",
+      "title": "Backbreaker",
+      "services": {
+        "qobuz": "78697136"
+      },
+      "album": "eX",
+      "duration": 396,
+      "isrc": "USHM21487854"
+    },
+    {
+      "artist": "Brain Leisure",
+      "title": "Teknology (Bass Edit Mix)",
+      "services": {
+        "qobuz": "51042912"
+      },
+      "album": "Industrial Machine Musick",
+      "duration": 289,
+      "isrc": "USA560627411"
+    },
+    {
+      "artist": "Neotek",
+      "title": "Mind-Traveling (Part One)",
+      "services": {
+        "qobuz": "51103204"
+      },
+      "album": "Electro Industrial Assassins",
+      "duration": 272,
+      "isrc": "USA370634429"
+    },
+    {
+      "artist": "T.H.D.",
+      "title": "Hypo (Synaptic Mix)",
+      "services": {
+        "qobuz": "51103205"
+      },
+      "album": "Electro Industrial Assassins",
+      "duration": 317,
+      "isrc": "USA370634430"
+    },
+    {
+      "artist": "Psychopomps",
+      "title": "Torso",
+      "services": {
+        "qobuz": "51048879"
+      },
+      "album": "The Best Of",
+      "duration": 323,
+      "isrc": "USA560627644"
+    },
+    {
+      "artist": "Digital Factor",
+      "title": "Mindbooster (Head-On Mix)",
+      "services": {
+        "qobuz": "51103209"
+      },
+      "album": "Electro Industrial Assassins",
+      "duration": 278,
+      "isrc": "USA370634434"
+    },
+    {
+      "artist": "Decoded Feedback",
+      "title": "Bio-Vital",
+      "services": {
+        "qobuz": "135014940"
+      },
+      "album": "BioMechanic",
+      "duration": 322,
+      "isrc": "DEBZ70400242"
+    },
+    {
+      "artist": "Haujobb",
+      "title": "Dead Market",
+      "services": {
+        "qobuz": "189658383"
+      },
+      "album": "New World March",
+      "duration": 240,
+      "isrc": "DEOT31100001"
+    },
+    {
+      "artist": "Dive",
+      "title": "Snakedressed",
+      "services": {
+        "qobuz": "135233167"
+      },
+      "album": "Compiled",
+      "duration": 263,
+      "isrc": "DEBZ71300207"
+    },
+    {
+      "artist": "Gridlock",
+      "title": "From Zero",
+      "services": {
+        "qobuz": "253463848"
+      },
+      "album": "Further",
+      "duration": 184,
+      "isrc": "QZYWF9900201"
+    },
+    {
+      "artist": "Download",
+      "title": "Carrier Tone",
+      "services": {
+        "qobuz": "154848679"
+      },
+      "album": "Effector",
+      "duration": 242,
+      "isrc": "CAN110000103"
+    },
+    {
+      "artist": "Imperative Reaction",
+      "title": "Giving In To The Change",
+      "services": {
+        "qobuz": "34807937"
+      },
+      "album": "Redemption",
+      "duration": 236,
+      "isrc": "US57M0531103"
+    },
+    {
+      "artist": "Dismantled",
+      "title": "Exit",
+      "services": {
+        "qobuz": "189653067"
+      },
+      "album": "Post Nuclear",
+      "duration": 397,
+      "isrc": "US57M0530506"
+    },
+    {
+      "artist": "F\u00cfX8:S\u00cbD8",
+      "title": "Monolith (Rebuilt Word)",
+      "services": {
+        "qobuz": "270424640"
+      },
+      "album": "Humanophobia",
+      "duration": 339,
+      "isrc": "DES562411609"
+    },
+    {
+      "artist": "Stromkern",
+      "title": "Stand Up",
+      "services": {
+        "qobuz": "189653526"
+      },
+      "album": "Light It Up",
+      "duration": 287,
+      "isrc": "USCGH0504509"
+    },
+    {
+      "artist": "Flesh Field",
+      "title": "Uprising",
+      "services": {
+        "qobuz": "189653241"
+      },
+      "album": "Strain",
+      "duration": 363,
+      "isrc": "US57M0535501"
+    },
+    {
+      "artist": "Negative Format",
+      "title": "Transfer",
+      "services": {
+        "qobuz": "84024004"
+      },
+      "album": "Cipher Method",
+      "duration": 401,
+      "isrc": "USHM80489910"
+    },
+    {
+      "artist": "Comaduster",
+      "title": "Hollow Worlds",
+      "services": {
+        "qobuz": "53271825"
+      },
+      "album": "Hollow Worlds",
+      "duration": 442,
+      "isrc": "USHM21343666"
+    },
+    {
+      "artist": "High-Functioning Flesh",
+      "title": "Talk About",
+      "services": {
+        "qobuz": "64036071"
+      },
+      "album": "Culture Cut",
+      "duration": 263,
+      "isrc": "QM6MZ1746768"
+    },
+    {
+      "artist": "Dead When I Found Her",
+      "title": "Downpour",
+      "services": {
+        "qobuz": "73840403"
+      },
+      "album": "All the Way Down",
+      "duration": 346,
+      "isrc": "QM7281528608"
+    },
+    {
+      "artist": "2nd Face",
+      "title": "Nihilum",
+      "services": {
+        "qobuz": "189604767"
+      },
+      "album": "Nihilum",
+      "duration": 361,
+      "isrc": "DES561898801"
+    }
+  ]
+}

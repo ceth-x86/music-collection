@@ -1,0 +1,108 @@
+# Genre: Electro IDM
+
+Imported genre playlist: Electro IDM.
+
+Services: `qobuz:66717334` `tidal:5d5cef44-accb-4d4f-8bda-967324dfcee0`
+
+## Tracks (100)
+
+- **The Dice Man** — Polygon Window [Artificial Intelligence] (5:12) `isrc:GBBPW9200030` `qobuz:79173707`
+- **I.A.O** — The Clan [Artificial Intelligence] (5:07) `isrc:GBBPW9200033` `qobuz:79173710`
+- **Plastikman** — Spiritual High [Artificial Intelligence] (7:42) `isrc:GBBPW9200036` `qobuz:79173713`
+- **Dr Alex Paterson** — Loving You Live [Artificial Intelligence] (4:00) `isrc:GBBPW9200039` `qobuz:79173716`
+- **Mark Franklin** — Release To The System [Artificial Intelligence II] (8:37) `isrc:GBBPW9400079` `qobuz:198411706`
+- **The Higher Intelligence Agency** — Selenite [Artificial Intelligence II] (7:01) `isrc:GBBPW9400080` `qobuz:198411707`
+- **Link** — Arcadian [Artificial Intelligence II] (9:32) `isrc:GBBPW9400081` `qobuz:198411708`
+- **B12** — Scriptures [Time Tourist] (6:58) `isrc:GBBPW9400082` `qobuz:79176800`
+- **Autechre** — Chatter [Artificial Intelligence II] (7:36) `isrc:GBBPW9400083` `qobuz:198411710`
+- **Speedy j** — Symmetry [Artificial Intelligence II] (6:07) `isrc:GBBPW9400084` `qobuz:198411711`
+- **Beaumont Hannant** — Utuba [Artificial Intelligence II] (8:12) `isrc:GBBPW9400085` `qobuz:198411712`
+- **Richard H. Kirk** — Reality Net [Artificial Intelligence II] (6:47) `isrc:GBBPW9400086` `qobuz:198411713`
+- **Balil** — Parasight [Artificial Intelligence II] (7:33) `isrc:GBBPW9400087` `qobuz:198411714`
+- **Seefeel** — Spangle [St / Fr / Sp] (7:21) `isrc:GBBPW9400061` `qobuz:121293213`
+- **Darrel Fitton** — Blipsalt [Artificial Intelligence II] (9:42) `isrc:GBBPW9400088` `qobuz:198411716`
+- **Kenny Larkin** — Maritime [Artificial Intelligence II] (6:37) `isrc:GBBPW9400090` `qobuz:198411718`
+- **R2** — SCANNER [SCANNER] (2:09) `isrc:FR9W12454895` `qobuz:297868428`
+- **Hille Perl** — The Baggepipes (Sir Charles Howards delight) [Chamber Music - Ford, T. / Jenkins, J. / Danyel, J. / Ferrabosco Ii, A. / Holborne, A. / Allison, R. / Lawes, W.] (1:23) `isrc:DECP60803004` `qobuz:303591188`
+- **Loopdrop** — Mis Canicas [Loopdrop] (2:16) `isrc:GBLMA0102702` `qobuz:74602604`
+- **Ortiga** — Las Palomas de Tu Cielo [Lo Mejor de Ortiga] (4:01) `isrc:QMFMG1335901` `qobuz:71146861`
+- **Ladies Of Soul** — Disco & Pop Medley (Independent Woman / My Lovin' / Worth It / Would I Lie to You / Shame Shame Shame / Back to Life / Brick House / Remember the Time / That's the Way I Like It / Good Times / Last Night a DJ Saved My Life / I'm Your Baby Tonight / B [Live at the Ziggodome 2016] (15:35) `isrc:NLXV41600011` `qobuz:33659409`
+- **Witze Erzähler TA** — Verkehrskontrolle Witz: Ein Raser wird gestoppt [Beste Witze zum Totlachen - Neuestes aus dem Witze-Universum: Humor, Witz, Blondinen] (1:26) `isrc:DELD92200823` `qobuz:169615666`
+- **Disappear Incompletely** — Optimistic [Electrojazz Tribute to Radiohead] (7:57) `isrc:QMAAK1635681` `qobuz:73363926`
+- **Kobol** — Tanque [Extempore] (6:12) `isrc:USI4R0702729` `qobuz:7856329`
+- **Bere Mendoza** — Love Is Really Blind [My Rules] (3:04) `isrc:BXVR02277445` `qobuz:390606579`
+- **Nine Seconds** — Homesick Robot [Poladroids] (4:31) `isrc:USHM21314285` `qobuz:84216105`
+- **Decada 2** — Musica Electronica [La Noche Del Atomo] (7:09) `isrc:GBKQU2199971` `qobuz:134206898`
+- **Soda Stereo** — Por Qué No Puedo Ser Del Jet Set? [Soda Stereo] (2:20) `isrc:ARFSB0700878` `qobuz:408563`
+- **Butler Perry** — velcro [BIG HEART] (1:43) `isrc:QZNMV2504464` `qobuz:348418773`
+- **Burial** — Distant Lights [Burial] (5:26) `isrc:GBLZC0600003` `qobuz:46757023`
+- **Tayc** — P A S C O M M E Ç A [Fleur froide - Second état : la cristallisation] (2:58) `isrc:FR8FB2123560` `qobuz:179793567`
+- **PRESET SONGS** — Ms2000 - Panic Button [Omnisphere, Pt. 44] (1:22) `isrc:TCAHJ2319574` `qobuz:225158849`
+- **Vector Lovers** — Futures In Plastic [Soma 2005 Comp] (3:58) `isrc:GBBVL0501764` `qobuz:3822712`
+- **Joni Mitchell** — Cold Blue Steel And Sweet Fire [Joni's Jazz] (4:17) `isrc:USRH12406280` `qobuz:342569725`
+- **Béla Fleck** — Old Jellico, Puddle Jumper, Dead Man's Hill [The Bluegrass Sessions: Tales From The Acoustic Planet, Vol. 2] (6:08) `isrc:USWB19900655` `qobuz:2594492`
+- **BTS** — NORMAL [ARIRANG] (3:01) `isrc:USA2P2600451` `qobuz:403033075`
+- **James Blake** — Obsession [Trying Times] (1:40) `isrc:USA2P2565571` `qobuz:400965287`
+- **Mary Chapin Carpenter** — The Age of Miracles [One Night Lonely] (4:58) `isrc:QZ26N2000013` `qobuz:126190925`
+- **Luzius Gartmann** — Fantasia a tre (1967) for piano trio [Kelterborn: Changements - Ensemble-Buch I - Escursioni - Fantasia a tre -Variationen für Oboe & Streichorchester] (11:42) `isrc:USGZ21034962` `qobuz:74491747`
+- **Funk'n'stein** — Klitus Ass Shaker Baker [Where You Gonna Go] (4:15) `isrc:IL5841428521` `qobuz:91999553`
+- **Isaac Hayes** — Theme From Shaft [Shaft] (4:39) `isrc:USC4R1605505` `qobuz:36487007`
+- **Seventeen** — Shake It Off (MINGYU Solo) [HAPPY BURSTDAY] (2:48) `isrc:USA2P2501612` `qobuz:364742060`
+- **Sinner DC** — Gazm or Gasm [Panoramic] (2:33) `isrc:GBCKK0761701` `qobuz:194705028`
+- **Sinizen** — Here to Stay [Trth | Love] (4:20) `isrc:TCAHB2318688` `qobuz:212217572`
+- **Liquid Stella** — 鏡花水月 [BRILLIANCE] (3:41) `isrc:JPB622502302` `qobuz:343150778`
+- **Heerlens Percussie Ensemble** — Biologic Music [Biologic Music] (9:12) `isrc:FR7Z26500008` `qobuz:95054982`
+- **Quadeca** — GODSTAINED [Vanisher, Horizon Scraper] (3:25) `isrc:CBEFB2500109` `qobuz:348499565`
+- **Pitch Black** — The Random Smiler [Frequencies Fall] (6:20) `isrc:USA2P0610203` `qobuz:6145474`
+- **Dave's True Story** — World in Which We Live [Nature] (4:17) `isrc:US25T0523307` `qobuz:27255397`
+- **Van Morrison** — Snatch It Back And Hold It [Somebody Tried To Sell Me A Bridge] (3:58) `isrc:GBGXD2500071` `qobuz:375372517`
+- **Marc Et Claude** — La [La] (6:05) `isrc:DEG129700973` `qobuz:204433335`
+- **Dear Silas** — Nasty Work [Cadillac Leather in July] (2:40) `isrc:QZPLS2470682` `qobuz:275506849`
+- **Maisie Peters** — Girl’s Just Flying [Florescence] (3:42) `isrc:GBAHS2501488` `qobuz:386999331`
+- **Monster Florence** — Heart Rate (102 bpm) [Intelligent Electronic Music 2018 (IDM & Electro)] (2:29) `isrc:ITLU51747000` `qobuz:51330157`
+- **J-Funk** — You're Smooth Like That [Meant To Be] (4:41) `isrc:USHM21155558` `qobuz:79753023`
+- **Klaus Badelt** — One Last Shot [Pirates of the Caribbean: The Curse of the Black Pearl] (4:46) `isrc:USWD10321340` `qobuz:55505142`
+- **Specular Effect** — Hong Kong Chillwave [Cyberpunk LoFi - Electro Radio 2077 Mix] (2:44) `isrc:ITO101934652` `qobuz:70974409`
+- **Adriana Dobrogea** — From 99 to 101 (80 bpm) [Intelligent Electronic Music 2018 (IDM & Electro)] (3:54) `isrc:ITLU51747006` `qobuz:51330163`
+- **Capital Cities** — I Sold My Bed, But Not My Stereo [In A Tidal Wave of Mystery] (3:54) `isrc:USCA21203110` `qobuz:287029706`
+- **This Dj** — Legendary Talking (105 bpm) [Intelligent Electronic Music 2018 (IDM & Electro)] (3:00) `isrc:ITLU51747001` `qobuz:51330158`
+- **Milieu** — Amber Petrol’r [Butcher Block Andromeda, Vol. 2] (6:09) `isrc:UK6822404609` `qobuz:320647955`
+- **Airstream** — Harmonics [Winter Chillout Lounge 2024 - Smooth Lounge Sounds for the Cold Season] (4:36) `isrc:DEH332204011` `qobuz:305155293`
+- **Lauge** — Scape-1 [Awakening] (9:35) `isrc:QZHN62096317` `qobuz:265126605`
+- **GAME OVER TREVAS** — JERUSALEM - THE PLACE OF SHAME [ATOS DOS APÓSTOLOS 1:8] (5:55) `isrc:BRSVC2636953` `qobuz:420546153`
+- **Eir Aoi** — POLYHEDRA [POLYHEDRA] (3:30) `isrc:TCJPC2481345` `qobuz:303505164`
+- **Sudden Death of Stars** — The Void [All Unrevealed Parts of the Unknown] (4:13) `isrc:GBZPF1400443` `qobuz:14977596`
+- **Sarah and the Safe Word** — You're All Scotch, No Soda [Good Gracious! Bad People.] (2:52) `isrc:USF289801883` `qobuz:99173645`
+- **Patapouf** — Air on G string [BERCEUSES DU MONDE] (1:30) `isrc:FR10T2330060` `qobuz:239417855`
+- **Lalo Schifrin** — Machinations [Mission: Impossible And Other Thrilling Themes] (2:41) `isrc:USMC10345778` `qobuz:2390840`
+- **Gary Moore** — Victims Of The Future [We Want Moore] (8:28) `isrc:GBAAA8400198` `qobuz:4593481`
+- **Sixoj** — Flying Cars [Future] (2:01) `isrc:QZVEM2584113` `qobuz:333153942`
+- **NX1** — NS1 [Natural Selection: Selected Works, Vol. 1] (6:39) `isrc:GX56M2400006` `qobuz:268168691`
+- **ASEC** — Nonzero [Natural Selection: Selected Works, Vol. 1] (5:52) `isrc:GX56M2400010` `qobuz:268168695`
+- **HMMND** — Terminal [Natural Selection: Selected Works, Vol. 1] (4:16) `isrc:GX56M2400011` `qobuz:268168696`
+- **Mist Gasp** — Quantity [Natural Selection: Selected Works, Vol. 1] (6:07) `isrc:GX56M2400012` `qobuz:268168697`
+- **Rommek** — Cyclical Patterns [Natural Selection: Selected Works, Vol. 1] (5:53) `isrc:GX56M2400013` `qobuz:268168698`
+- **Operator** — Know Yourself [Natural Selection: Selected Works, Vol. 1] (6:19) `isrc:GX56M2400017` `qobuz:268168702`
+- **Hirt** — Magnetic [Natural Selection: Selected Works, Vol. 1] (5:39) `isrc:GX56M2400018` `qobuz:268168703`
+- **Kodah** — Infiltrate [Natural Selection: Selected Works, Vol. 1] (6:29) `isrc:GX56M2400019` `qobuz:268168704`
+- **Nemrac** — Whisper [Natural Selection: Selected Works, Vol. 1] (5:52) `isrc:GX56M2400020` `qobuz:268168705`
+- **Plural** — Jagged Nail [Natural Selection: Selected Works, Vol. 1] (6:14) `isrc:GX56M2400021` `qobuz:268168706`
+- **Monya** — Berlin Eats You Up [Natural Selection: Selected Works, Vol. 1] (5:26) `isrc:GX56M2400022` `qobuz:268168707`
+- **Maedon** — Never Give Up [Natural Selection: Selected Works, Vol. 1] (6:33) `isrc:GX56M2400023` `qobuz:268168708`
+- **Andrømeda** — System Destruction [Natural Selection: Selected Works, Vol. 1] (6:09) `isrc:GX56M2400024` `qobuz:268168709`
+- **Cailín** — The Bulldozer [Natural Selection: Selected Works, Vol. 1] (6:05) `isrc:GX56M2400025` `qobuz:268168710`
+- **Duellist** — Heretic [Natural Selection: Selected Works, Vol. 1] (6:45) `isrc:GX56M2400026` `qobuz:268168711`
+- **Acidic Male** — Faith [Natural Selection: Selected Works, Vol. 1] (4:35) `isrc:GX56M2400027` `qobuz:268168712`
+- **Swarm Intelligence** — Generative [Natural Selection: Selected Works, Vol. 1] (5:50) `isrc:GX56M2400028` `qobuz:268168713`
+- **Somatic Responses** — Subjective Completion [Natural Selection: Selected Works, Vol. 1] (5:03) `isrc:GX56M2400029` `qobuz:268168714`
+- **Jadzia** — Multimode [Natural Selection: Selected Works, Vol. 1] (4:19) `isrc:GX56M2400031` `qobuz:268168716`
+- **Shun** — Early Reflections [Natural Selection: Selected Works, Vol. 1] (4:53) `isrc:GX56M2400032` `qobuz:268168717`
+- **Ekata** — suoixna [Natural Selection: Selected Works, Vol. 1] (5:49) `isrc:GX56M2400033` `qobuz:268168718`
+- **Annie Hall** — Cultivo Heroico [Natural Selection: Selected Works, Vol. 1] (4:39) `isrc:GX56M2400035` `qobuz:268168720`
+- **Plant43** — Radiant Distortion [Natural Selection: Selected Works, Vol. 1] (6:24) `isrc:GX56M2400036` `qobuz:268168721`
+- **Blixaboy** — Star Jammin [Natural Selection: Selected Works, Vol. 1] (5:21) `isrc:GX56M2400037` `qobuz:268168722`
+- **Noamm** — Cellular Respiration [Natural Selection: Selected Works, Vol. 1] (3:12) `isrc:GX56M2400038` `qobuz:268168723`
+- **Ivna Ji** — NB [Natural Selection: Selected Works, Vol. 1] (4:26) `isrc:GX56M2400039` `qobuz:268168724`
+- **The Subdermic** — Genome Carousel [Natural Selection: Selected Works, Vol. 1] (5:19) `isrc:GX56M2400040` `qobuz:268168725`
+- **Rough** — Primal [Natural Selection: Selected Works, Vol. 1] (7:43) `isrc:GX56M2400041` `qobuz:268168726`
+- **Mina Lord** — Ruptured Litany [Natural Selection: Selected Works, Vol. 1] (5:49) `isrc:GX56M2400042` `qobuz:268168727`

@@ -1,0 +1,108 @@
+# Genre: Euro Disco
+
+Imported genre playlist: Euro Disco.
+
+Services: `qobuz:66736979`
+
+## Tracks (100)
+
+- **Little Barrie** — Why Don't You Do It [Stand Your Ground] (3:10) `isrc:GBENL0600644` `qobuz:3158515`
+- **Penny McLean** — Lady Bump [Lady Bump] (3:46) `isrc:USRDC7520050` `qobuz:77416615`
+- **Silver Convention** — Fly, Robin, Fly [Save Me] (5:32) `isrc:QMWHB2424043` `qobuz:251434689`
+- **The Sumos** — My Chinese Girl Likes Kung Fu Fighting [Funky Chimes : Belgian Grooves From The 70's] (2:46) `isrc:BEN581700116` `qobuz:104243319`
+- **Marianne Rosenberg** — Ich bin wie du [Ich bin wie du] (3:38) `isrc:DEC739000005` `qobuz:283219`
+- **Supermax** — Love Machine [Love Machine 88] (7:31) `isrc:ATB152200148` `qobuz:212051777`
+- **Munich Machine** — Get on the Funk Train [Munich Machine] (15:50) `isrc:DED461700663` `qobuz:45787036`
+- **Trax** — Watch Out For The Boogie Man (Album Version) [Giorgio Moroder - On the Groove Train, Volume 1 (1975-1993)] (14:24) `isrc:DED467700075` `qobuz:77816763`
+- **The Pineapple Thief** — The Final Thing on My Mind [Your Wilderness] (9:53) `isrc:GBCQV1600298` `qobuz:51162292`
+- **Ganymed** — It Takes Me Higher [It Takes Me Higher] (3:41) `isrc:ATR981339644` `qobuz:317884675`
+- **Boney M.** — Rasputin [The Essential Boney M.] (4:25) `isrc:DED169200001` `qobuz:6216991`
+- **Chilly** — For Your Love And For Your Love Suite [For Your Love] (11:56) `isrc:DEF067804920` `qobuz:147970119`
+- **Udo Jürgens** — Ich weiß, was ich will [Best Of] (5:03) `isrc:DEA818000012` `qobuz:19839`
+- **Peter Kent** — It's A Real Good Feeling [I Feel Good] (3:52) `isrc:USA371073024` `qobuz:68409173`
+- **Goombay Dance Band** — Under the Sun, Moon and the Stars [Sun Of Jamaica] (3:47) `isrc:GBLGL1274881` `qobuz:46275023`
+- **Dschinghis Khan** — Moskau [7 Leben] (3:40) `isrc:DEUM70703331` `qobuz:2448100`
+- **Amanda Lear** — Follow Me [The Collection] (3:50) `isrc:DEA817800042` `qobuz:298342`
+- **Precious Wilson** — Cry to Me [Greatest Hits] (3:49) `isrc:DED169400107` `qobuz:390735`
+- **A La Carte** — Do Wah Diddy Diddy Round [The Wonderful Hits of A La Carte] (3:39) `isrc:DEA410500113` `qobuz:387100432`
+- **Saragossa Band** — Agadou [Happy Birthday] (3:23) `isrc:DEA818100038` `qobuz:13872653`
+- **Bimbo Jet** — El Bimbo [El Bimbo] (2:22) `isrc:FRZ041901189` `qobuz:61621918`
+- **Terje Isungset** — Crystal Clear [World of Glass] (3:14) `isrc:NOCMD1401040` `qobuz:197110131`
+- **Cerrone** — Supernature [3 - Supernature] (9:45) `isrc:FRF887700150` `qobuz:97164843`
+- **Space** — Magic Fly [Magic Fly] (4:20) `isrc:GBPUP0915204` `qobuz:294328534`
+- **Voyage** — Scotch Machine [Voyage] (3:26) `isrc:FR23F7700270` `qobuz:385619252`
+- **Belle Epoque** — Miss Broadway [Miss Broadway] (7:24) `isrc:QM4TX2026517` `qobuz:93820231`
+- **Najee** — Now That I've Found You [Love Songs] (6:24) `isrc:USEM39400177` `qobuz:997031`
+- **Kongas** — Africanism/Gimme Some Lovin [The Best of Cerrone Productions] (7:00) `isrc:FR0D01400140` `qobuz:46331006`
+- **Claude François** — Alexandrie Alexandra [Magnolias for Ever] (4:22) `isrc:FRZ167701830` `qobuz:2902846`
+- **Sam Sauvage** — Café-Crème [Prémices] (2:59) `isrc:TCAGY2322555` `qobuz:203498005`
+- **Alec R. Costandinos and The Syncophonic Orchestra** — Romeo and Juliet (Acts I, II & III) [2024 Remaster] [Romeo & Juliet (2024 Remaster)] (15:31) `isrc:TCAIN2440544` `qobuz:282570618`
+- **Cerrone** — Got To Have Loving [Don Ray - Garden Of Love] (8:19) `isrc:FR0D07800010` `qobuz:19637269`
+- **Patrick Hernandez** — Born to Be Alive [Born To Be Alive - Single] (3:08) `isrc:FRX957900007` `qobuz:1519772`
+- **Starlite Karaoke** — Spacer (In the Style of Sheila B. Devotion) [Starlite Karaoke Presents Pop Hits, Vol. 5 (1980s)] (3:15) `isrc:CAM460702614` `qobuz:183176593`
+- **Dalida** — Monday, Tuesday... Laissez-moi danser [Les 50 plus belles chansons] (3:46) `isrc:FRZ017901410` `qobuz:37674681`
+- **Gibson Brothers** — Cuba [The Complete Of Gibson Brothers] (7:33) `isrc:FR58F7800090` `qobuz:3759983`
+- **Ottawan** — D.I.S.C.O. [D.I.S.C.O.] (3:16) `isrc:FR58F7900100` `qobuz:126798241`
+- **Karen Cheryl** — Show Me You're Man Enough [Show Me You're Man Enough (Remasterisé en 2024)] (3:38) `isrc:FRZ042300447` `qobuz:254558391`
+- **Chantal Curtis** — Get Another Love [Get Another Love] (8:50) `isrc:DEG932402575` `qobuz:299416894`
+- **David Christie** — Saddle Up [Saddle Up] (5:32) `isrc:FRPI18200150` `qobuz:131700157`
+- **Spooky & Sue** — Swinging On A Star [Spooky & Sue] (2:37) `isrc:NLC282100194` `qobuz:128471650`
+- **Teach In** — Ding-A-Dong (English Version) [Ding-A-Dong Winner Eurovision Festival 1975] (2:27) `isrc:NLC282100050` `qobuz:119963513`
+- **The Internationals** — Young And In Love [Young And In Love] (3:07) `isrc:NLC282500164` `qobuz:329076251`
+- **Luv** — You're The Greatest Lover [You're The Greatest Lover] (2:31) `isrc:NLS242600011` `qobuz:387680367`
+- **Patricia Paay** — Moonraker [Malibu Touch] (3:29) `isrc:NLUM72400028` `qobuz:274680943`
+- **ABBA** — Gimme! Gimme! Gimme! (A Man After Midnight) [ABBA Gold (Anniversary Edition)] (4:48) `isrc:SEAYD7901120` `qobuz:15644312`
+- **Babe** — (Never Listen To A) Bouzouki Player [Babe!] (3:03) `isrc:NLUM72501356` `qobuz:360724227`
+- **Cashmere** — Love's What I Want [Love's What I Want] (3:26) `isrc:NLP431100416` `qobuz:176100724`
+- **Spargo** — You And Me [Just For You And Me - The Greatest Hits Collection] (4:14) `isrc:NLC288000122` `qobuz:57637672`
+- **Maywood** — Late At Night [Het Beste Van Maywood] (3:24) `isrc:NLA278000096` `qobuz:4633921`
+- **Stars On 45** — Stars On 45 [Stars On 45 - The Very Best Of ...] (9:47) `isrc:NLC288100004` `qobuz:37103934`
+- **Doris D.** — And Again [Shine Up & Other Great Hits] (3:50) `isrc:NLG620410690` `qobuz:4175867`
+- **Thunderstorm** — Hey You Get Ready [Thunderstorm] (3:50) `isrc:NLE321700473` `qobuz:116019541`
+- **Time Bandits** — I'm Specialized in You [Greatest Hits] (3:50) `isrc:NLD018211001` `qobuz:2829905`
+- **The Chaplin Band** — Il Veliero [Il Veliero] (11:58) `isrc:NLP430910409` `qobuz:160828986`
+- **forrest** — She's So Divine [One Lover] (5:55) `isrc:NLP431500131` `qobuz:55934091`
+- **Chapel Hart** — You Can Have Him Jolene [The Girls Are Back in Town] (3:12) `isrc:TCAFQ2134545` `qobuz:127564977`
+- **Fantastique** — Costa Blanca [Costa Blanca] (4:04) `isrc:NLC288200194` `qobuz:36699839`
+- **Dolly Dots** — Love Me Just a Little Bit More (Totally Hooked on You) [Dolly Dots - Love Me Just A Little Bit More / Greatest Hits (IA EP Bundle)] (3:30) `isrc:NLA808300004` `qobuz:19798671`
+- **The Broads** — Sing Sing Sing (Mega Be-Bop Mix) [Sing Sing Sing] (9:43) `isrc:NLE321803149` `qobuz:116028629`
+- **Barrabas** — Hi Jack [Soltad a Barrabas] (5:46) `isrc:DEA370801282` `qobuz:100962506`
+- **Baccara** — Yes Sir, I Can Boogie [Best Of] (4:35) `isrc:DEC767700023` `qobuz:348976`
+- **Disco Fever** — Raffaella Carrà Hits Non Stop Megamix: Festa / A Far L'amore Comincia Tu / Rumore / Tanti Auguri / Maracaibo / Felicità Tà Tà / Ballo Ballo / Che Dolor [50 Top 80's Italo Dance Hits] (17:36) `isrc:FR6V81881318` `qobuz:43601601`
+- **Soul Iberica Band** — Baby Sitter [The Best of Disco Music, Vol. 3] (3:35) `isrc:ES64E2413033` `qobuz:301165106`
+- **Dd Sound** — Shopping Baby [Dd Sound] (5:43) `isrc:TCAGG2246301` `qobuz:161563969`
+- **Luisa Fernandez** — Stop - When You Do What You Do [Disco Darling] (4:02) `isrc:DEA629262130` `qobuz:224926492`
+- **La Bionda** — One for You, One for Me [La Bionda] (3:33) `isrc:USBI10000194` `qobuz:220131896`
+- **Chocolats** — Señorita Por Favor [Los Sonidos Del Verano] (2:36) `isrc:QM4TW1592201` `qobuz:126845635`
+- **BURNOUT SYNDROMES** — FLY HIGH!! [Lemon] (4:04) `isrc:JPU901503546` `qobuz:95620487`
+- **Iván** — Sin Amor [Sin Amor] (4:21) `isrc:ES5022100413` `qobuz:119724343`
+- **Azoto** — San Salvador [Disco Fizz] (6:56) `isrc:NLP431800273` `qobuz:220003054`
+- **Easy Going** — Baby I Love You [Baby I Love You (Original) - Single] (8:24) `isrc:ITU037800005` `qobuz:27014596`
+- **Passengers** — Hot Leather [Passengers] (3:58) `isrc:USA560761856` `qobuz:45806596`
+- **PETER JACQUES BAND** — Walking On Music [Fire Night Dance (Original Album and Rare Tracks)] (8:23) `isrc:ITB450800042` `qobuz:23156505`
+- **Tantra** — Hills Of Katmandu [Disco Recharge] (4:39) `isrc:NLP437900007` `qobuz:106311684`
+- **Vivien Vee** — Give me a Break [Give me a Break (Original) - Single] (8:51) `isrc:ITU037900007` `qobuz:27013275`
+- **Pino D'angio'** — Ma quale idea [Ma quale idea] (4:22) `isrc:ITA647900295` `qobuz:51775876`
+- **Traks** — Long Train Running [Long Train Running] (7:02) `isrc:ITE288220221` `qobuz:146310247`
+- **Azul y Negro** — The Night [El Color De Los Exitos] (4:01) `isrc:ES5009700049` `qobuz:44859007`
+- **Club House** — Do it Again Medley with Billie Jean [Do it Again Medley with Billie Jean] (6:25) `isrc:ITI058300002` `qobuz:258771794`
+- **Blackblood** — A.I.E.(A Mwana) [A.I.E. A'mwana - The Best Of Black Blood] (2:52) `isrc:BEL019300005` `qobuz:148367328`
+- **Tele Music Classic Vaults** — OK Chicago [Tele Music, 30 Classics French Music Library, Vol 1] (2:33) `isrc:QMANG2219217` `qobuz:235715237`
+- **Sublime** — 5446 Thats My Number/ Ball And Chain [40oz. To Freedom] (5:17) `isrc:USMC19544449` `qobuz:33081881`
+- **Stereolab** — People Do It All The Time [Cobra And Phases Group Play Voltage In The Milky Night] (3:41) `isrc:USEE19900387` `qobuz:79198158`
+- **K7** — I Love to Turn You On (Zunga Zeng) [Swing Batta Swing] (4:33) `isrc:USTB10300422` `qobuz:169136918`
+- **Rockets** — Future Woman [Rockets] (5:53) `isrc:CH6321402934` `qobuz:78601403`
+- **Philarmonics** — For Elise [The Best Of] (4:38) `isrc:BEL017800088` `qobuz:104564069`
+- **The S.S.O. Orchestra** — Right Here Right Now [Shine Your Light] (5:13) `isrc:QM4TX2025142` `qobuz:93679606`
+- **Moon Boots** — STRONG MAN [STRONG MAN] (3:05) `isrc:AUDCB1702930` `qobuz:300782119`
+- **Revelacion** — The House of the Rising Sun [The Best of Cerrone Productions] (4:42) `isrc:FR0D01400010` `qobuz:46330993`
+- **Disco Bouzouki Band** — Greek Girls [Disco Bouzouki] (4:17) `isrc:BEL017800111` `qobuz:149507848`
+- **Quartz** — Beyond the Clouds [Quartz] (4:54) `isrc:USBEN1359302` `qobuz:124276833`
+- **Good News** — Australia [Australia] (4:03) `isrc:BEL017900033` `qobuz:104466621`
+- **Two Man Sound** — Disco Samba [The Best Dance Music] (7:03) `isrc:MXD941811758` `qobuz:336578031`
+- **Voyage** — We've Gotta Dance [Voyage presents Sylvia Mason] (5:46) `isrc:FR8Y72300306` `qobuz:387125897`
+- **Mickey Dee** — Switch It Up [Switch It Up - Single] (3:13) `isrc:USHM90807861` `qobuz:83514481`
+- **Full Force** — Your Love Makes Me High [Your Love Makes Me High] (3:39) `isrc:USQX91501939` `qobuz:27489310`
+- **Rod** — Shake It Up (Do the Boogaloo) [Shake it up (do the boogaloo)] (5:58) `isrc:FR03F8002850` `qobuz:3071158`
+- **Dance Reaction** — Disco Train [Disco Train] (5:43) `isrc:NLP431040464` `qobuz:258600086`
+- **Tomcat** — Connecting Flight [Homeward] (6:14) `isrc:DEL212102585` `qobuz:121032681`

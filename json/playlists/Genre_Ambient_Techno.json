@@ -1,0 +1,470 @@
+{
+  "name": "Genre: Ambient Techno",
+  "services": {
+    "qobuz": "66711496",
+    "tidal": "7681d23a-3432-4f16-afd5-65a4ceac686a"
+  },
+  "description": "Ambient Techno is a subgenre that fuses the driving, hypnotic rhythmic foundations of techno with the atmospheric, expansive textures of ambient music. It prioritizes mood, sound design, and immersive \"headspace\" over traditional dance-floor energy, typically featuring subtle, recurring synth pads, deep melodic layers, and a steady, unobtrusive beat.",
+  "tracks": [
+    {
+      "artist": "Biosphere",
+      "title": "Novelty Waves",
+      "services": {
+        "qobuz": "50020777"
+      },
+      "album": "Patashnik (Reissue with Bonus Album)",
+      "duration": 387,
+      "isrc": "NOBIP1601040"
+    },
+    {
+      "artist": "Orbital",
+      "title": "Lush 3-4 (Warrior Drift) [Psychick Warriors OV Gaia]",
+      "services": {
+        "qobuz": "327749539"
+      },
+      "album": "Orbital 2 (The Brown Album Expanded)",
+      "duration": 648,
+      "isrc": "GBAAP0500246"
+    },
+    {
+      "artist": "Higher Intelligence Agency",
+      "title": "Elapse",
+      "services": {
+        "qobuz": "105204500"
+      },
+      "album": "Freefloater",
+      "duration": 405,
+      "isrc": "GBMKL0600105"
+    },
+    {
+      "artist": "Sun Electric",
+      "title": "Entrance",
+      "services": {
+        "qobuz": "49811128"
+      },
+      "album": "Kitchen",
+      "duration": 321,
+      "isrc": "BEZ350900115"
+    },
+    {
+      "artist": "Ken Ishii",
+      "title": "Naiad",
+      "services": {
+        "qobuz": "357939067"
+      },
+      "album": "Innerelements",
+      "duration": 457,
+      "isrc": "BEZ352400107"
+    },
+    {
+      "artist": "Pete Namlook",
+      "title": "Omid / Hope",
+      "services": {
+        "qobuz": "183960481"
+      },
+      "album": "Silence I (2022 Remaster)",
+      "duration": 1315,
+      "isrc": "QZTAX2200158"
+    },
+    {
+      "artist": "From Within",
+      "title": "Homeward Bound",
+      "services": {
+        "qobuz": "81274323"
+      },
+      "album": "From Within I",
+      "duration": 740,
+      "isrc": "CAM269480015"
+    },
+    {
+      "artist": "Born Under A Rhyming Planet",
+      "title": "Crossover",
+      "services": {
+        "qobuz": "67265130"
+      },
+      "album": "Analogue Heaven",
+      "duration": 422,
+      "isrc": "CAM269380051"
+    },
+    {
+      "artist": "Plastikman",
+      "title": "Consumed",
+      "services": {
+        "qobuz": "92769079"
+      },
+      "album": "Consumed",
+      "duration": 698,
+      "isrc": "CAM269850002"
+    },
+    {
+      "artist": "GAS",
+      "title": "Pop 4",
+      "services": {
+        "qobuz": "371387770"
+      },
+      "album": "Pop",
+      "duration": 591,
+      "isrc": "DEU671600249"
+    },
+    {
+      "artist": "Pantha Du Prince",
+      "title": "Asha",
+      "services": {
+        "qobuz": "255461529"
+      },
+      "album": "This Bliss",
+      "duration": 391,
+      "isrc": "DEUE22448927"
+    },
+    {
+      "artist": "The Field",
+      "title": "Over The Ice",
+      "services": {
+        "qobuz": "141538038"
+      },
+      "album": "From Here We Go Sublime",
+      "duration": 416,
+      "isrc": "DEU670600071"
+    },
+    {
+      "artist": "nthng",
+      "title": "It Never Ends",
+      "services": {
+        "qobuz": "150199913"
+      },
+      "album": "It Never Ends",
+      "duration": 556,
+      "isrc": "UKA2G1701003"
+    },
+    {
+      "artist": "Daniel Avery",
+      "title": "Infinite Future",
+      "services": {
+        "qobuz": "95123754"
+      },
+      "album": "Love + Light",
+      "duration": 404,
+      "isrc": "GBTZZ2000027"
+    },
+    {
+      "artist": "Luigi Tozzi & Claudio PRC",
+      "title": "Lyra I",
+      "services": {
+        "qobuz": "398236195"
+      },
+      "album": "Lyra",
+      "duration": 594,
+      "isrc": "FRIDO2112796"
+    },
+    {
+      "artist": "Wata Igarashi",
+      "title": "Floating Against Time",
+      "services": {
+        "qobuz": "205066802"
+      },
+      "album": "Agartha",
+      "duration": 539,
+      "isrc": "DEU672300403"
+    },
+    {
+      "artist": "Voices from The Lake",
+      "title": "Secondo Tempo",
+      "services": {
+        "qobuz": "397435708"
+      },
+      "album": "Secondo Tempo",
+      "duration": 573,
+      "isrc": "NLM791610003"
+    },
+    {
+      "artist": "Claudio PRC",
+      "title": "Asbestus",
+      "services": {
+        "qobuz": "398236100"
+      },
+      "album": "Systema Naturae I",
+      "duration": 389,
+      "isrc": "FRIDO2210095"
+    },
+    {
+      "artist": "Forest On Stasys",
+      "title": "Alumen",
+      "services": {
+        "qobuz": "398236098"
+      },
+      "album": "Systema Naturae I",
+      "duration": 412,
+      "isrc": "FRIDO2210093"
+    },
+    {
+      "artist": "Korridor",
+      "title": "Oort",
+      "services": {
+        "qobuz": "62944322"
+      },
+      "album": "Spectrum VA 2/3",
+      "duration": 515,
+      "isrc": "NLCK41055582"
+    },
+    {
+      "artist": "Anthony Linell",
+      "title": "Nylon Metal",
+      "services": {
+        "qobuz": "62944320"
+      },
+      "album": "Spectrum VA 2/3",
+      "duration": 470,
+      "isrc": "NLCK41055580"
+    },
+    {
+      "artist": "Samuli Kemppi",
+      "title": "String Play",
+      "services": {
+        "qobuz": "62944321"
+      },
+      "album": "Spectrum VA 2/3",
+      "duration": 372,
+      "isrc": "NLCK41055581"
+    },
+    {
+      "artist": "Sebastian Mullaert",
+      "title": "Samunnati",
+      "services": {
+        "qobuz": "110393107"
+      },
+      "album": "Samunnati",
+      "duration": 496,
+      "isrc": "GBKQU1781190"
+    },
+    {
+      "artist": "Luigi Tozzi",
+      "title": "Salina",
+      "services": {
+        "qobuz": "416017397"
+      },
+      "album": "Deep Blue: Volume 4",
+      "duration": 512,
+      "isrc": "NLCK42606459"
+    },
+    {
+      "artist": "GAS",
+      "title": "Zauberberg 5",
+      "services": {
+        "qobuz": "371388152"
+      },
+      "album": "Zauberberg",
+      "duration": 476,
+      "isrc": "DEU671600235"
+    },
+    {
+      "artist": "The Field",
+      "title": "A Paw In My Face",
+      "services": {
+        "qobuz": "141538039"
+      },
+      "album": "From Here We Go Sublime",
+      "duration": 324,
+      "isrc": "DEU670600073"
+    },
+    {
+      "artist": "Spacetime Continuum",
+      "title": "Pressure",
+      "services": {
+        "qobuz": "818651"
+      },
+      "album": "Sea Biscuit",
+      "duration": 624,
+      "isrc": "USCN39400008"
+    },
+    {
+      "artist": "Trentem\u00f8ller",
+      "title": "Take Me Into Your Skin",
+      "services": {
+        "qobuz": "85483113"
+      },
+      "album": "The Last Resort",
+      "duration": 450,
+      "isrc": "DEL020620047"
+    },
+    {
+      "artist": "Donato Dozzy",
+      "title": "Aquatica",
+      "services": {
+        "qobuz": "92574048"
+      },
+      "album": "Palinoia LTD 001",
+      "duration": 346,
+      "isrc": "NLCK41063988"
+    },
+    {
+      "artist": "Artefakt",
+      "title": "The Mental Universe",
+      "services": {
+        "qobuz": "399407147"
+      },
+      "album": "The Mental Universe",
+      "duration": 516,
+      "isrc": "NLM791600062"
+    },
+    {
+      "artist": "Rrose",
+      "title": "Waterfall",
+      "services": {
+        "qobuz": "53695656"
+      },
+      "album": "Merchant of Salt",
+      "duration": 434,
+      "isrc": "USI4R1226263"
+    },
+    {
+      "artist": "Primal Code",
+      "title": "White River",
+      "services": {
+        "qobuz": "56958902"
+      },
+      "album": "La Via della Seta",
+      "duration": 377,
+      "isrc": "NLCK41050125"
+    },
+    {
+      "artist": "Birds ov Paradise",
+      "title": "Sound and Color",
+      "services": {
+        "qobuz": "150213014"
+      },
+      "album": "JENS005",
+      "duration": 431,
+      "isrc": "UKN6K1904019"
+    },
+    {
+      "artist": "Wata Igarashi",
+      "title": "Burning",
+      "services": {
+        "qobuz": "205066804"
+      },
+      "album": "Agartha",
+      "duration": 451,
+      "isrc": "DEU672300405"
+    },
+    {
+      "artist": "Biosphere",
+      "title": "Startoucher",
+      "services": {
+        "qobuz": "50020775"
+      },
+      "album": "Patashnik (Reissue with Bonus Album)",
+      "duration": 302,
+      "isrc": "NOBIP1601020"
+    },
+    {
+      "artist": "Neel",
+      "title": "Naeba",
+      "services": {
+        "qobuz": "206299921"
+      },
+      "album": "The 808 Archive",
+      "duration": 357,
+      "isrc": "BEN582100988"
+    },
+    {
+      "artist": "F\u00e9ral",
+      "title": "East Slope",
+      "services": {
+        "qobuz": "57006018"
+      },
+      "album": "Climbing Himalaya: Part I",
+      "duration": 439,
+      "isrc": "NLCK41045508"
+    },
+    {
+      "artist": "Amandra",
+      "title": "Sarbacane d'Antan",
+      "services": {
+        "qobuz": "85759742"
+      },
+      "album": "Sarbacane d'Antan EP",
+      "duration": 510,
+      "isrc": "NLCK41061391"
+    },
+    {
+      "artist": "Abdulla Rashim",
+      "title": "Vestal Witness",
+      "services": {
+        "qobuz": "197110725"
+      },
+      "album": "Of Water and the Spirit",
+      "duration": 493,
+      "isrc": "SE4VM1600601"
+    },
+    {
+      "artist": "Polar Inertia",
+      "title": "In Dark Territory",
+      "services": {
+        "qobuz": "253706389"
+      },
+      "album": "Environment Control",
+      "duration": 490,
+      "isrc": "SE4VM2400403"
+    },
+    {
+      "artist": "Kangding Ray",
+      "title": "22 Halo",
+      "services": {
+        "qobuz": "193051302"
+      },
+      "album": "Azores EP",
+      "duration": 453,
+      "isrc": "DECY51903002"
+    },
+    {
+      "artist": "Blazej Malinowski",
+      "title": "Rain",
+      "services": {
+        "qobuz": "206256789"
+      },
+      "album": "Perception of Tomorrow",
+      "duration": 468,
+      "isrc": "NLCK42229515"
+    },
+    {
+      "artist": "Thomas Fehlmann",
+      "title": "Permanent Touch",
+      "services": {
+        "qobuz": "14885211"
+      },
+      "album": "Gute Luft",
+      "duration": 204,
+      "isrc": "DEU671000032"
+    },
+    {
+      "artist": "Svreca",
+      "title": "\u00d6verg\u00e5ng",
+      "services": {
+        "qobuz": "57161889"
+      },
+      "album": "\u00d6verg\u00e5ng EP",
+      "duration": 363,
+      "isrc": "NLCK41023341"
+    },
+    {
+      "artist": "Evigt M\u00f6rker",
+      "title": "Tv\u00e5 portar",
+      "services": {
+        "qobuz": "175088658"
+      },
+      "album": "Tv\u00e5 portar",
+      "duration": 422,
+      "isrc": "SE4VM2200401"
+    },
+    {
+      "artist": "Voiski",
+      "title": "Ad Infinitum",
+      "services": {
+        "qobuz": "149408774"
+      },
+      "album": "Ad Infinitum",
+      "duration": 423,
+      "isrc": "QZES52207769"
+    }
+  ]
+}

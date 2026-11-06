@@ -1,0 +1,1010 @@
+{
+  "name": "Genre: Dark Ambient",
+  "services": {
+    "qobuz": "66711886",
+    "tidal": "3dc9713d-f285-4c4b-9c06-77a91cb79d27"
+  },
+  "description": "Imported genre playlist: Dark Ambient.",
+  "tracks": [
+    {
+      "artist": "Teddy Swims",
+      "title": "The Door",
+      "services": {
+        "qobuz": "215605368"
+      },
+      "album": "I've Tried Everything But Therapy (Part 1)",
+      "duration": 212,
+      "isrc": "USWB12302870"
+    },
+    {
+      "artist": "Bad Sector",
+      "title": "Ampos",
+      "services": {
+        "qobuz": "157829823"
+      },
+      "album": "Incendium - Editio Retractata",
+      "duration": 320,
+      "isrc": "DEZ651301223"
+    },
+    {
+      "artist": "Coph Nia",
+      "title": "Opus 77",
+      "services": {
+        "qobuz": "47894281"
+      },
+      "album": "That Which Remains",
+      "duration": 582,
+      "isrc": "QMBZ91766970"
+    },
+    {
+      "artist": "Bukka White",
+      "title": "District Attorney Blues",
+      "services": {
+        "qobuz": "188678299"
+      },
+      "album": "Rough Guide to Delta Blues Vol. 2",
+      "duration": 162,
+      "isrc": "GBDTM2241701"
+    },
+    {
+      "artist": "Kammarheit",
+      "title": "Spatium",
+      "services": {
+        "qobuz": "73839481"
+      },
+      "album": "The Starwheel",
+      "duration": 289,
+      "isrc": "CAAD20710255"
+    },
+    {
+      "artist": "Tommy Lee",
+      "title": "Hello, Again (feat. Andrew McMahon)",
+      "services": {
+        "qobuz": "410547727"
+      },
+      "album": "Tommyland Rides Again",
+      "duration": 246,
+      "isrc": "QMRSZ2601142"
+    },
+    {
+      "artist": "Dahlia's Tear",
+      "title": "5th Sky Within A Dying Single Ember",
+      "services": {
+        "qobuz": "169697983"
+      },
+      "album": "Under Seven Skies",
+      "duration": 532,
+      "isrc": "US7VG1210101"
+    },
+    {
+      "artist": "TeH\u00d4M",
+      "title": "Amorphous Structure",
+      "services": {
+        "qobuz": "369623864"
+      },
+      "album": "Lacrimae Mundi",
+      "duration": 410,
+      "isrc": "FR9W12551952"
+    },
+    {
+      "artist": "Cities Last Broadcast",
+      "title": "Electricity",
+      "services": {
+        "qobuz": "70948806"
+      },
+      "album": "The Humming Tapes",
+      "duration": 391,
+      "isrc": "USDY41634026"
+    },
+    {
+      "artist": "The Human Voice",
+      "title": "Midnight",
+      "services": {
+        "qobuz": "30575066"
+      },
+      "album": "Silent Heart",
+      "duration": 616,
+      "isrc": "QMDA71503568"
+    },
+    {
+      "artist": "Wastewalker",
+      "title": "The Dying Process",
+      "services": {
+        "qobuz": "263694142"
+      },
+      "album": "Trapped Between Realms of Suffering",
+      "duration": 242,
+      "isrc": "TCAIA2456992"
+    },
+    {
+      "artist": "Lesa Listvy",
+      "title": "Swarm",
+      "services": {
+        "qobuz": "76256167"
+      },
+      "album": "Way Home",
+      "duration": 297,
+      "isrc": "USDY41822317"
+    },
+    {
+      "artist": "Roy Hargrove",
+      "title": "Ruby My Dear",
+      "services": {
+        "qobuz": "57150654"
+      },
+      "album": "Diamond In The Rough",
+      "duration": 373,
+      "isrc": "USNO18900329"
+    },
+    {
+      "artist": "Dean Hurley",
+      "title": "Electricity II",
+      "services": {
+        "qobuz": "42567002"
+      },
+      "album": "Anthology Resource Vol. I: \u25b3\u25b3",
+      "duration": 62,
+      "isrc": "US5NR1718817"
+    },
+    {
+      "artist": "Xscape",
+      "title": "My Little Secret",
+      "services": {
+        "qobuz": "5393082"
+      },
+      "album": "Traces Of My Lipstick",
+      "duration": 267,
+      "isrc": "USSM19703539"
+    },
+    {
+      "artist": "Lars Martin Myhre",
+      "title": "\u00c5tte Glass (Frivoll-Elegi)",
+      "services": {
+        "qobuz": "196792904"
+      },
+      "album": "Sibelius' \u00c5ttende Eller S\u00e5 Langt Vi Har Reist for \u00c5 Komme Til Kort",
+      "duration": 342,
+      "isrc": "NOCCT1038100"
+    },
+    {
+      "artist": "Altarmang",
+      "title": "Saiph",
+      "services": {
+        "qobuz": "111359719"
+      },
+      "album": "Moth Star",
+      "duration": 420,
+      "isrc": "SE4932000301"
+    },
+    {
+      "artist": "Randal Collier-Ford",
+      "title": "Outbound Transmission",
+      "services": {
+        "qobuz": "161201800"
+      },
+      "album": "Thaumaturgy",
+      "duration": 409,
+      "isrc": "USDY42265122"
+    },
+    {
+      "artist": "Asmorod",
+      "title": "Fiat Abyssus (Second Chapter)",
+      "services": {
+        "qobuz": "195035803"
+      },
+      "album": "ASCEND",
+      "duration": 487,
+      "isrc": "QM4TW2324656"
+    },
+    {
+      "artist": "Gang of Youths",
+      "title": "forbearance",
+      "services": {
+        "qobuz": "137854716"
+      },
+      "album": "angel in realtime.",
+      "duration": 338,
+      "isrc": "GBAHT2101035"
+    },
+    {
+      "artist": "Jeremy Soule",
+      "title": "Beneath the Ice",
+      "services": {
+        "qobuz": "365627423"
+      },
+      "album": "The Elder Scrolls V: Skyrim",
+      "duration": 253,
+      "isrc": "QMTH31100052"
+    },
+    {
+      "artist": "Muddy Waters",
+      "title": "Nine Below Zero",
+      "services": {
+        "qobuz": "131461"
+      },
+      "album": "Muddy \"Mississippi\" Waters Live (Legacy Edition)",
+      "duration": 323,
+      "isrc": "USSM10307105"
+    },
+    {
+      "artist": "Rhapsody Of Fire",
+      "title": "The Kingdom of Ice",
+      "services": {
+        "qobuz": "123566780"
+      },
+      "album": "Glory for Salvation",
+      "duration": 265,
+      "isrc": "DEU602109343"
+    },
+    {
+      "artist": "Ugasanie",
+      "title": "Cold World",
+      "services": {
+        "qobuz": "197367691"
+      },
+      "album": "Fading Away",
+      "duration": 416,
+      "isrc": "TCAGW2309584"
+    },
+    {
+      "artist": "Cryo Chamber",
+      "title": "Epiphany (feat. Dronny Darko & Claymation)",
+      "services": {
+        "qobuz": "324471524"
+      },
+      "album": "Echoes of the Hollow Earth",
+      "duration": 539,
+      "isrc": "USDY42508209"
+    },
+    {
+      "artist": "Jon Hopkins",
+      "title": "part ii - palace / illusion",
+      "services": {
+        "qobuz": "264743586"
+      },
+      "album": "RITUAL",
+      "duration": 461,
+      "isrc": "GBCEL2400096"
+    },
+    {
+      "artist": "Meditation Mantras Guru",
+      "title": "Nirvana in The Temple",
+      "services": {
+        "qobuz": "225068040"
+      },
+      "album": "Inner Calmness: Koshi Wind Chimes & Bells Sound Bath Meditation for Detoxification & Peace of Mind, Purify Your Energy and Find Clarity (432 Frequency)",
+      "duration": 176,
+      "isrc": "PLS922301807"
+    },
+    {
+      "artist": "Visions Of Atlantis",
+      "title": "Ritual Night",
+      "services": {
+        "qobuz": "46065291"
+      },
+      "album": "The Deep & The Dark",
+      "duration": 238,
+      "isrc": "ATN261872903"
+    },
+    {
+      "artist": "Monocube",
+      "title": "Visiones III",
+      "services": {
+        "qobuz": "39314214"
+      },
+      "album": "The Rituals",
+      "duration": 548,
+      "isrc": "USY251676620"
+    },
+    {
+      "artist": "Druh\u00e1 Tr\u00e1va",
+      "title": "A\u017e N\u00e1s Smrt Rozd\u011bl\u00ed",
+      "services": {
+        "qobuz": "30620013"
+      },
+      "album": "In Concert",
+      "duration": 223,
+      "isrc": "CZK811571704"
+    },
+    {
+      "artist": "Black Winter Rock",
+      "title": "Where Angels Refuse to Fall",
+      "services": {
+        "qobuz": "343752384"
+      },
+      "album": "I Am The Winter You Forgot",
+      "duration": 229,
+      "isrc": "QZTBB2512639"
+    },
+    {
+      "artist": "Bon Jovi",
+      "title": "Always",
+      "services": {
+        "qobuz": "52366503"
+      },
+      "album": "Cross Road",
+      "duration": 352,
+      "isrc": "USPR39412221"
+    },
+    {
+      "artist": "Hen Ogledd",
+      "title": "Land of the dead",
+      "services": {
+        "qobuz": "378022988"
+      },
+      "album": "DISCOMBOBULATED",
+      "duration": 280,
+      "isrc": "GBCEL2500490"
+    },
+    {
+      "artist": "Popol Vuh",
+      "title": "Sing, For Song Drives Away the Wolves",
+      "services": {
+        "qobuz": "326438654"
+      },
+      "album": "Bru\u0308der Des Schattens, So\u0308hne Des Lichts",
+      "duration": 255,
+      "isrc": "DEA450602120"
+    },
+    {
+      "artist": "The Twilight Tribe",
+      "title": "On The Railway To The Fountain",
+      "services": {
+        "qobuz": "312116146"
+      },
+      "album": "On The Railway To The Fountain",
+      "duration": 324,
+      "isrc": "DEZC62470360"
+    },
+    {
+      "artist": "Maximilian Hecker",
+      "title": "Never-Ending Days",
+      "services": {
+        "qobuz": "134817897"
+      },
+      "album": "Rose",
+      "duration": 334,
+      "isrc": "DEQ330307209"
+    },
+    {
+      "artist": "Lapse Of Reason",
+      "title": "Go Away",
+      "services": {
+        "qobuz": "56478913"
+      },
+      "album": "Tertium Organum",
+      "duration": 356,
+      "isrc": "FRIDO1811696"
+    },
+    {
+      "artist": "Bryan Benner",
+      "title": "The Good Fear",
+      "services": {
+        "qobuz": "64085348"
+      },
+      "album": "The Modern Man, The Modern Muse",
+      "duration": 185,
+      "isrc": "ATCQ81900104"
+    },
+    {
+      "artist": "Richard Hayman Symphony Orchestra",
+      "title": "When You Wish Upon A Star",
+      "services": {
+        "qobuz": "4283005"
+      },
+      "album": "When You Wish Upon A Star",
+      "duration": 209,
+      "isrc": "HKI199192608"
+    },
+    {
+      "artist": "Ratboys",
+      "title": "At Peace in the Hundred Acre Wood",
+      "services": {
+        "qobuz": "362771463"
+      },
+      "album": "Singin\u2019 to an Empty Chair",
+      "duration": 196,
+      "isrc": "US27Q2561911"
+    },
+    {
+      "artist": "Silversun Pickups",
+      "title": "Draining",
+      "services": {
+        "qobuz": "377267516"
+      },
+      "album": "Swoon",
+      "duration": 295,
+      "isrc": "US3R20900107"
+    },
+    {
+      "artist": "Murlo",
+      "title": "Watching The Sun Through Eyelids",
+      "services": {
+        "qobuz": "58427641"
+      },
+      "album": "Dolos",
+      "duration": 208,
+      "isrc": "UKQNV1900009"
+    },
+    {
+      "artist": "Order of Nosferat",
+      "title": "Devoured by Lurking Shadows",
+      "services": {
+        "qobuz": "258289621"
+      },
+      "album": "The Absence of Grace",
+      "duration": 447,
+      "isrc": "QZFYZ2447277"
+    },
+    {
+      "artist": "Study Concentration",
+      "title": "Rest in the Shadow",
+      "services": {
+        "qobuz": "182643929"
+      },
+      "album": "50 Soft Piano Classics for Deep Focus",
+      "duration": 106,
+      "isrc": "UK6821752329"
+    },
+    {
+      "artist": "The Spiral Electric",
+      "title": "A Descent into the Maelstrom",
+      "services": {
+        "qobuz": "75339588"
+      },
+      "album": "The Spiral Electric",
+      "duration": 366,
+      "isrc": "USHM91874251"
+    },
+    {
+      "artist": "Midnight Reed",
+      "title": "Her Hair Covered Her Face",
+      "services": {
+        "qobuz": "416658299"
+      },
+      "album": "The Woman in White",
+      "duration": 81,
+      "isrc": "GXJ8K2656726"
+    },
+    {
+      "artist": "Ajna",
+      "title": "Sp\u00f6ke\u00f6verf\u00f6ring",
+      "services": {
+        "qobuz": "74554255"
+      },
+      "album": "Further Intrusion",
+      "duration": 358,
+      "isrc": "USHM21903751"
+    },
+    {
+      "artist": "Jake Xerxes Fussell",
+      "title": "Glow In The Dark",
+      "services": {
+        "qobuz": "353899582"
+      },
+      "album": "Rebuilding (Original Motion Picture Soundtrack)",
+      "duration": 166,
+      "isrc": "QMDA72599850"
+    },
+    {
+      "artist": "Akira Senju",
+      "title": "Beyond the Walls",
+      "services": {
+        "qobuz": "155604022"
+      },
+      "album": "FULLMETAL ALCHEMIST BROTHERHOOD Original Soundtrack 1",
+      "duration": 218,
+      "isrc": "JPE300901861"
+    },
+    {
+      "artist": "Ybrid",
+      "title": "Tylos",
+      "services": {
+        "qobuz": "325653620"
+      },
+      "album": "Dziban",
+      "duration": 484,
+      "isrc": "TCAJK2580564"
+    },
+    {
+      "artist": "Andreas Scholl",
+      "title": "Il trionfo della divina Giustizia ne' tormente e morte di Ges\u00f9 Cristo: \"Occhi mesti\"",
+      "services": {
+        "qobuz": "243858240"
+      },
+      "album": "Invocazioni Mariane",
+      "duration": 413,
+      "isrc": "FRZ132218020"
+    },
+    {
+      "artist": "Hinata Toshifumi",
+      "title": "Faith Under the Rubble (from Babylon in the Sands)",
+      "services": {
+        "qobuz": "341782159"
+      },
+      "album": "The Dark Night Rhapsodies",
+      "duration": 106,
+      "isrc": "JPZ922503005"
+    },
+    {
+      "artist": "Darlene Love",
+      "title": "Christmas (Baby Please Come Home)",
+      "services": {
+        "qobuz": "3835636"
+      },
+      "album": "A Christmas Gift For You From Phil Spector",
+      "duration": 170,
+      "isrc": "USSM10905172"
+    },
+    {
+      "artist": "Dead Melodies",
+      "title": "In the Company of Ruin",
+      "services": {
+        "qobuz": "72878801"
+      },
+      "album": "The Foundations of Ruin",
+      "duration": 227,
+      "isrc": "USCGJ1822288"
+    },
+    {
+      "artist": "Alphaxone",
+      "title": "Ashes of Time",
+      "services": {
+        "qobuz": "155988076"
+      },
+      "album": "The Infinite Void",
+      "duration": 342,
+      "isrc": "USDY42229722"
+    },
+    {
+      "artist": "Deftones",
+      "title": "Poltergeist",
+      "services": {
+        "qobuz": "7723754"
+      },
+      "album": "Koi No Yokan",
+      "duration": 211,
+      "isrc": "USRE11200596"
+    },
+    {
+      "artist": "Owen's Rebellion",
+      "title": "Names Carved in the Fallen Hall",
+      "services": {
+        "qobuz": "429144901"
+      },
+      "album": "MegaDope 2D V1 (Original Game Soundtrack)",
+      "duration": 243,
+      "isrc": "QT6EA2652431"
+    },
+    {
+      "artist": "Charlie Haden",
+      "title": "Twilight Song",
+      "services": {
+        "qobuz": "771238"
+      },
+      "album": "Night And The City",
+      "duration": 765,
+      "isrc": "FRZ029603070"
+    },
+    {
+      "artist": "Ninkharsag",
+      "title": "The Serpent Of The Void",
+      "services": {
+        "qobuz": "320036575"
+      },
+      "album": "The Black Swords Of Winter",
+      "duration": 182,
+      "isrc": "SEYOK2505774"
+    },
+    {
+      "artist": "Nero",
+      "title": "No Signs Of Life",
+      "services": {
+        "qobuz": "392385632"
+      },
+      "album": "Not All Those Who Wander Are Lost",
+      "duration": 221,
+      "isrc": "SE5752651841"
+    },
+    {
+      "artist": "Creedence Clearwater Revival",
+      "title": "Long As I Can See The Light",
+      "services": {
+        "qobuz": "54373671"
+      },
+      "album": "Cosmo's Factory",
+      "duration": 213,
+      "isrc": "USFI87000062"
+    },
+    {
+      "artist": "Los Belkings",
+      "title": "Umbral de Amor",
+      "services": {
+        "qobuz": "319706467"
+      },
+      "album": "Los Belkings",
+      "duration": 227,
+      "isrc": "ES71G2051415"
+    },
+    {
+      "artist": "Jaakko Salon yhtye",
+      "title": "Afrikan t\u00e4hti - Stern von Afrika",
+      "services": {
+        "qobuz": "44999167"
+      },
+      "album": "Brita Koivunen ja Jaakko Salo",
+      "duration": 183,
+      "isrc": "FIFMF1238361"
+    },
+    {
+      "artist": "Yo-Sea",
+      "title": "Night Ship",
+      "services": {
+        "qobuz": "302118723"
+      },
+      "album": "Billboard Live Tour 2024",
+      "duration": 149,
+      "isrc": "JP92L2426700"
+    },
+    {
+      "artist": "MARTYR WHORE",
+      "title": "Atheist Protestant",
+      "services": {
+        "qobuz": "351962238"
+      },
+      "album": "Cold Monster",
+      "duration": 80,
+      "isrc": "TCAJZ2570175"
+    },
+    {
+      "artist": "Yussef Dayes",
+      "title": "Birds of Paradise",
+      "services": {
+        "qobuz": "208157143"
+      },
+      "album": "Black Classical Music",
+      "duration": 249,
+      "isrc": "GBAYE2300255"
+    },
+    {
+      "artist": "Sleep Token",
+      "title": "Look To Windward",
+      "services": {
+        "qobuz": "320611354"
+      },
+      "album": "Even In Arcadia",
+      "duration": 466,
+      "isrc": "USRC12500013"
+    },
+    {
+      "artist": "Peter Kater",
+      "title": "Becoming Human",
+      "services": {
+        "qobuz": "104715101"
+      },
+      "album": "How The West Was Lost",
+      "duration": 116,
+      "isrc": "US74R0580121"
+    },
+    {
+      "artist": "Van Halen",
+      "title": "Crossing Over",
+      "services": {
+        "qobuz": "342568542"
+      },
+      "album": "Balance",
+      "duration": 305,
+      "isrc": "USRH12301007"
+    },
+    {
+      "artist": "Meshuggah",
+      "title": "The Last Vigil",
+      "services": {
+        "qobuz": "298209924"
+      },
+      "album": "The Ophidian Trek",
+      "duration": 249,
+      "isrc": "DED831400688"
+    },
+    {
+      "artist": "Nick Cave & The Bad Seeds",
+      "title": "Jack's Shadow",
+      "services": {
+        "qobuz": "385641355"
+      },
+      "album": "Your Funeral... My Trial",
+      "duration": 340,
+      "isrc": "GBAJH0900071"
+    },
+    {
+      "artist": "Iggy Pop",
+      "title": "New Atlantis",
+      "services": {
+        "qobuz": "184130818"
+      },
+      "album": "Every Loser",
+      "duration": 248,
+      "isrc": "USAT22220305"
+    },
+    {
+      "artist": "Rene\u00e9 Rapp",
+      "title": "I Think I Like You Better When You\u2019re Gone",
+      "services": {
+        "qobuz": "348466682"
+      },
+      "album": "BITE ME",
+      "duration": 143,
+      "isrc": "USUM72504849"
+    },
+    {
+      "artist": "Kaya North",
+      "title": "Rise To The Marble",
+      "services": {
+        "qobuz": "218908481"
+      },
+      "album": "Myths",
+      "duration": 470,
+      "isrc": "QMBZ92304607"
+    },
+    {
+      "artist": "Graham Ross",
+      "title": "IV. O Lord, how manifold are thy works",
+      "services": {
+        "qobuz": "351998944"
+      },
+      "album": "John Rutter: A Clare College Celebration (The Christmas Edition)",
+      "duration": 441,
+      "isrc": "FR7JM2479170"
+    },
+    {
+      "artist": "Basia Bulat",
+      "title": "In the Name Of",
+      "services": {
+        "qobuz": "146157682"
+      },
+      "album": "The Garden",
+      "duration": 276,
+      "isrc": "CA0RZ2100104"
+    },
+    {
+      "artist": "Tenebrae",
+      "title": "Engelsmusik: No. 1, Colours of Light's Sound",
+      "services": {
+        "qobuz": "412967121"
+      },
+      "album": "in between: Choral works by Jessica Ulusoy-Horsley",
+      "duration": 333,
+      "isrc": "GBLLH0100201"
+    },
+    {
+      "artist": "Dev-I-Ant",
+      "title": "Fear Of Memories Cascading",
+      "services": {
+        "qobuz": "226491055"
+      },
+      "album": "A Place Of Warmth And Tears",
+      "duration": 423,
+      "isrc": "QMDA62312956"
+    },
+    {
+      "artist": "Gerben Mourik",
+      "title": "Cantiones Gregorian\u00e6, Haft III: Te Deum",
+      "services": {
+        "qobuz": "32769483"
+      },
+      "album": "Modern Church Organ Works, Volume 1",
+      "duration": 221,
+      "isrc": "NLG620587206"
+    },
+    {
+      "artist": "Niandraz",
+      "title": "Ritual Recast",
+      "services": {
+        "qobuz": "336263640"
+      },
+      "album": "Ritual Recast",
+      "duration": 741,
+      "isrc": "QZZ772460570"
+    },
+    {
+      "artist": "Vortex",
+      "title": "Cosmic Rim II",
+      "services": {
+        "qobuz": "204091835"
+      },
+      "album": "Cycles II",
+      "duration": 299,
+      "isrc": "FR9W12247002"
+    },
+    {
+      "artist": "Gabrielle Sarrov",
+      "title": "There Is No Door",
+      "services": {
+        "qobuz": "252016377"
+      },
+      "album": "There Is No Door",
+      "duration": 138,
+      "isrc": "SE4RG2400393"
+    },
+    {
+      "artist": "Owen Jay",
+      "title": "Shine Through",
+      "services": {
+        "qobuz": "125646285"
+      },
+      "album": "Dream Landscape",
+      "duration": 385,
+      "isrc": "GBKQU2157833"
+    },
+    {
+      "artist": "Culture",
+      "title": "I'm Alone In The Wilderness",
+      "services": {
+        "qobuz": "3101868"
+      },
+      "album": "Two Sevens Clash",
+      "duration": 204,
+      "isrc": "USVPR1010008"
+    },
+    {
+      "artist": "Nick Cave & The Bad Seeds",
+      "title": "Fifteen Feet of Pure White Snow",
+      "services": {
+        "qobuz": "385641414"
+      },
+      "album": "No More Shall We Part",
+      "duration": 336,
+      "isrc": "GBAJH1000687"
+    },
+    {
+      "artist": "Zentral Ztation",
+      "title": "Inner Transformation",
+      "services": {
+        "qobuz": "401996795"
+      },
+      "album": "The Essence of Silence",
+      "duration": 281,
+      "isrc": "QT6622604233"
+    },
+    {
+      "artist": "Like Moths To Flames",
+      "title": "Bury Your Pain",
+      "services": {
+        "qobuz": "374297262"
+      },
+      "album": "The Dream Is Dead",
+      "duration": 220,
+      "isrc": "USEK71528101"
+    },
+    {
+      "artist": "HLER",
+      "title": "Radiant Dipole",
+      "services": {
+        "qobuz": "326433693"
+      },
+      "album": "Radiant Dipole",
+      "duration": 396,
+      "isrc": "USDY42526950"
+    },
+    {
+      "artist": "DEAD TONGUE HELL METAL",
+      "title": "MAHA\u0304 PRALAYA",
+      "services": {
+        "qobuz": "410366923"
+      },
+      "album": "SANSKRIT",
+      "duration": 203,
+      "isrc": "QT4K32630702"
+    },
+    {
+      "artist": "Max Richter",
+      "title": "\"we circle through the night, consumed by fire\"",
+      "services": {
+        "qobuz": "202000642"
+      },
+      "album": "Classical Class Vol 12",
+      "duration": 594,
+      "isrc": "DEN961700210"
+    },
+    {
+      "artist": "Pennywise",
+      "title": "Can't Save You Now",
+      "services": {
+        "qobuz": "77619798"
+      },
+      "album": "Never Gonna Die",
+      "duration": 168,
+      "isrc": "USEP41807026"
+    },
+    {
+      "artist": "Led Zeppelin",
+      "title": "Whole Lotta Love",
+      "services": {
+        "qobuz": "17110879"
+      },
+      "album": "Led Zeppelin II",
+      "duration": 334,
+      "isrc": "USAT21207009"
+    },
+    {
+      "artist": "Tracy Bonham",
+      "title": "Mother Mother",
+      "services": {
+        "qobuz": "762999"
+      },
+      "album": "The Burdens Of Being Upright",
+      "duration": 180,
+      "isrc": "USIR29600065"
+    },
+    {
+      "artist": "Sonny Boy Williamson",
+      "title": "Nine Below Zero",
+      "services": {
+        "qobuz": "25201468"
+      },
+      "album": "Don't Start Me Talkin' I'll Tell Everything I Know",
+      "duration": 208,
+      "isrc": "GBDAG1401356"
+    },
+    {
+      "artist": "Stick To Your Guns",
+      "title": "Where The Sun Never Sleeps",
+      "services": {
+        "qobuz": "338348342"
+      },
+      "album": "The Hope Division",
+      "duration": 204,
+      "isrc": "USYFZ0903101"
+    },
+    {
+      "artist": "Son Han Mook",
+      "title": "The Beginning Of War",
+      "services": {
+        "qobuz": "282417073"
+      },
+      "album": "My Sweet Mobster (Original Television Soundtrack) BGM",
+      "duration": 143,
+      "isrc": "KRMIM2453500"
+    },
+    {
+      "artist": "Leila Abdul-Rauf",
+      "title": "Depths Of Us",
+      "services": {
+        "qobuz": "294194267"
+      },
+      "album": "Calls From A Seething Edge",
+      "duration": 289,
+      "isrc": "FR9W12446586"
+    },
+    {
+      "artist": "Puscifer",
+      "title": "The Arsonist",
+      "services": {
+        "qobuz": "381228095"
+      },
+      "album": "In Case You Were Napping",
+      "duration": 285,
+      "isrc": "USKJ71500006"
+    },
+    {
+      "artist": "Cream",
+      "title": "Deserted Cities of the Heart",
+      "services": {
+        "qobuz": "389662318"
+      },
+      "album": "Royal Albert Hall London May 2-3-5-6 2005",
+      "duration": 236,
+      "isrc": "USRE10501141"
+    },
+    {
+      "artist": "New Risen Throne",
+      "title": "Birth Of A New Disciple (III)",
+      "services": {
+        "qobuz": "204091826"
+      },
+      "album": "Cycles II",
+      "duration": 469,
+      "isrc": "FR9W12246993"
+    }
+  ]
+}

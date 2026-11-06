@@ -1,0 +1,510 @@
+{
+  "name": "Genre: Melodic Black Metal",
+  "services": {
+    "qobuz": "66734207",
+    "tidal": "75d87573-0f4b-45c1-aa3c-52b35239d6dc"
+  },
+  "description": "Imported genre playlist: Melodic Black Metal.",
+  "tracks": [
+    {
+      "artist": "Rotting Christ",
+      "title": "Non Serviam",
+      "services": {
+        "qobuz": "88621845"
+      },
+      "album": "Non Serviam",
+      "duration": 320,
+      "isrc": "FR33T0512412"
+    },
+    {
+      "artist": "Dissection",
+      "title": "Where Dead Angels Lie",
+      "services": {
+        "qobuz": "173548333"
+      },
+      "album": "Storm Of The Light's Bane",
+      "duration": 353,
+      "isrc": "GX89G2215857"
+    },
+    {
+      "artist": "Naglfar",
+      "title": "The Eclipse of Infernal Storms",
+      "services": {
+        "qobuz": "207495806"
+      },
+      "album": "Vittra (Re-issue 2023)",
+      "duration": 258,
+      "isrc": "GBDHC2340204"
+    },
+    {
+      "artist": "M\u00f6rk Gryning",
+      "title": "Tusen \u00e5r har g\u00e5tt",
+      "services": {
+        "qobuz": "8559181"
+      },
+      "album": "Tusen \u00e5r har g\u00e5tt",
+      "duration": 212,
+      "isrc": "SELAA9500503"
+    },
+    {
+      "artist": "Abigor",
+      "title": "Unleashed Axe-Age",
+      "services": {
+        "qobuz": "37177883"
+      },
+      "album": "Nachthymnen/Orkblut-The Retaliation",
+      "duration": 384,
+      "isrc": "ATN260414201"
+    },
+    {
+      "artist": "Occultus",
+      "title": "Spawn of Lilith",
+      "services": {
+        "qobuz": "116136176"
+      },
+      "album": "Cosmos",
+      "duration": 281,
+      "isrc": "COA722000008"
+    },
+    {
+      "artist": "Kvist",
+      "title": "Forbannet Vaere Iorden Ieg Gar Pa",
+      "services": {
+        "qobuz": "50996980"
+      },
+      "album": "For Kunsten Maa Vi Evig Vike",
+      "duration": 351,
+      "isrc": "GBCQV9600082"
+    },
+    {
+      "artist": "Vinterland",
+      "title": "A Castle so Crystal Clear",
+      "services": {
+        "qobuz": "141801984"
+      },
+      "album": "Welcome My Last Chapter",
+      "duration": 328,
+      "isrc": "SEVVF2101504"
+    },
+    {
+      "artist": "Ancient",
+      "title": "The Cainian Chronicle Part II: Lilith's Embrace",
+      "services": {
+        "qobuz": "60846152"
+      },
+      "album": "The Cainian Chronicle",
+      "duration": 375,
+      "isrc": "USMBR0603373"
+    },
+    {
+      "artist": "Andrzej Janicki",
+      "title": "Moon Over The Horned Castle",
+      "services": {
+        "qobuz": "334122235"
+      },
+      "album": "Tainted Grail: Fall Of Avalon (Original Soundtrack)",
+      "duration": 155,
+      "isrc": "QZNWW2540135"
+    },
+    {
+      "artist": "Harry Styles",
+      "title": "American Girls",
+      "services": {
+        "qobuz": "398705951"
+      },
+      "album": "Kiss All The Time. Disco, Occasionally.",
+      "duration": 213,
+      "isrc": "USSM12600097"
+    },
+    {
+      "artist": "Lord Belial",
+      "title": "Lilith - Demonic Queen Of The Black Light",
+      "services": {
+        "qobuz": "29982125"
+      },
+      "album": "Kiss The Goat",
+      "duration": 276,
+      "isrc": "SEUM71600166"
+    },
+    {
+      "artist": "Calm Worship Flow",
+      "title": "Hail, Virgin of Virgins, Thy Praises We Sing",
+      "services": {
+        "qobuz": "435252691"
+      },
+      "album": "Mother Mary's Heavenly Peace",
+      "duration": 213,
+      "isrc": "QT6EV2637424"
+    },
+    {
+      "artist": "A Tribe Called Quest",
+      "title": "Can I Kick It?",
+      "services": {
+        "qobuz": "328522457"
+      },
+      "album": "People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition)",
+      "duration": 251,
+      "isrc": "USJI10300400"
+    },
+    {
+      "artist": "Jonah Crescent",
+      "title": "Velvet Knows My Name",
+      "services": {
+        "qobuz": "379367917"
+      },
+      "album": "Last Train to Dusk",
+      "duration": 159,
+      "isrc": "GXJBS2579495"
+    },
+    {
+      "artist": "Twilight Ophera",
+      "title": "Crown of Thorns",
+      "services": {
+        "qobuz": "2706134"
+      },
+      "album": "Shadows Embrace The Dark",
+      "duration": 391,
+      "isrc": "GBEGS0800338"
+    },
+    {
+      "artist": "Dawn",
+      "title": "The Knell and the World",
+      "services": {
+        "qobuz": "27552987"
+      },
+      "album": "Slaughtersun (Crown of the Triarchy) [Reissue 2014]",
+      "duration": 544,
+      "isrc": "US4E41411501"
+    },
+    {
+      "artist": "Orchestral Manoeuvres in the dark (OMD)",
+      "title": "Talking Loud And Clear",
+      "services": {
+        "qobuz": "820476"
+      },
+      "album": "The Best Of Orchestral Manoeuvres In The Dark",
+      "duration": 235,
+      "isrc": "GBAAA8400017"
+    },
+    {
+      "artist": "Siebenb\u00fcrgen",
+      "title": "Grimjaur",
+      "services": {
+        "qobuz": "37143799"
+      },
+      "album": "Grimjaur",
+      "duration": 370,
+      "isrc": "ATN269804401"
+    },
+    {
+      "artist": "Chrome Era",
+      "title": "Heretic",
+      "services": {
+        "qobuz": "290164301"
+      },
+      "album": "20XX",
+      "duration": 251,
+      "isrc": "USL4R2428914"
+    },
+    {
+      "artist": "Gloryhammer",
+      "title": "Infernus Ad Astra",
+      "services": {
+        "qobuz": "37129477"
+      },
+      "album": "Space 1992: Rise of the Chaos Wizards",
+      "duration": 84,
+      "isrc": "ATN261562101"
+    },
+    {
+      "artist": "Jean-Marie Senia",
+      "title": "Une nuit avec la mort",
+      "services": {
+        "qobuz": "98071732"
+      },
+      "album": "Elles n'oublient jamais - L'honneur de la tribu",
+      "duration": 227,
+      "isrc": "ITC000400475"
+    },
+    {
+      "artist": "\u4f50\u85e4\u5948\u592e",
+      "title": "Through the Darkness",
+      "services": {
+        "qobuz": "396070469"
+      },
+      "album": "Resident Evil Requiem Original Soundtrack",
+      "duration": 270,
+      "isrc": "JPE102500479"
+    },
+    {
+      "artist": "Astrophil & Stella",
+      "title": "Aura soave",
+      "services": {
+        "qobuz": "326311325"
+      },
+      "album": "A Garden of Black Flowers",
+      "duration": 176,
+      "isrc": "FR9W12502212"
+    },
+    {
+      "artist": "Metallica",
+      "title": "Fade To Black",
+      "services": {
+        "qobuz": "95786172"
+      },
+      "album": "Ride The Lightning",
+      "duration": 417,
+      "isrc": "QMKHM1600097"
+    },
+    {
+      "artist": "Breaking Benjamin",
+      "title": "Angels Fall",
+      "services": {
+        "qobuz": "25584899"
+      },
+      "album": "Dark Before Dawn",
+      "duration": 228,
+      "isrc": "USHR11536293"
+    },
+    {
+      "artist": "Catamenia",
+      "title": "Location:Cold",
+      "services": {
+        "qobuz": "39799411"
+      },
+      "album": "Location: COLD",
+      "duration": 333,
+      "isrc": "DER370652407"
+    },
+    {
+      "artist": "Vreid",
+      "title": "Pitch Black",
+      "services": {
+        "qobuz": "51233500"
+      },
+      "album": "Pitch Black Brigade",
+      "duration": 260,
+      "isrc": "NOTAB1101030"
+    },
+    {
+      "artist": "Teurgia",
+      "title": "Dunkelheit",
+      "services": {
+        "qobuz": "102197914"
+      },
+      "album": "With True Faith",
+      "duration": 394,
+      "isrc": "HUA630800747"
+    },
+    {
+      "artist": "Wolven Ancestry",
+      "title": "March Forth Under Tortured Skies",
+      "services": {
+        "qobuz": "71584014"
+      },
+      "album": "Silence of the Boreal",
+      "duration": 367,
+      "isrc": "USI4R1018104"
+    },
+    {
+      "artist": "Dark Fortress",
+      "title": "Ylem",
+      "services": {
+        "qobuz": "28269201"
+      },
+      "album": "Ylem",
+      "duration": 393,
+      "isrc": "US4E40967101"
+    },
+    {
+      "artist": "De Profundis",
+      "title": "This Winter in My Heart",
+      "services": {
+        "qobuz": "41524347"
+      },
+      "album": "This Winter in My Heart",
+      "duration": 274,
+      "isrc": "BGA471709623"
+    },
+    {
+      "artist": "Keep of Kalessin",
+      "title": "The Dragontower",
+      "services": {
+        "qobuz": "291570916"
+      },
+      "album": "Reptilian",
+      "duration": 283,
+      "isrc": "QM4TX2017930"
+    },
+    {
+      "artist": "Thulcandra",
+      "title": "In Blood and Fire",
+      "services": {
+        "qobuz": "37137296"
+      },
+      "album": "Under a Frozen Sun",
+      "duration": 515,
+      "isrc": "ATN261138301"
+    },
+    {
+      "artist": "Hiidenhauta",
+      "title": "Tuhkasta",
+      "services": {
+        "qobuz": "15297111"
+      },
+      "album": "Noitia on minun sukuni",
+      "duration": 303,
+      "isrc": "FI3FC1411601"
+    },
+    {
+      "artist": "S\u00fchnopfer",
+      "title": "Chevalier maudit",
+      "services": {
+        "qobuz": "58439628"
+      },
+      "album": "Offertoire",
+      "duration": 482,
+      "isrc": "CH6541908058"
+    },
+    {
+      "artist": "Obsequiae",
+      "title": "Autumnal Pyre",
+      "services": {
+        "qobuz": "23423854"
+      },
+      "album": "Aria of Vernal Tombs",
+      "duration": 324,
+      "isrc": "USJE71510016"
+    },
+    {
+      "artist": "Griffon",
+      "title": "Har HaKarmel",
+      "services": {
+        "qobuz": "85431142"
+      },
+      "album": "Har Hakarmel",
+      "duration": 383,
+      "isrc": "FR9W11629189"
+    },
+    {
+      "artist": "Uada",
+      "title": "Devoid of Light",
+      "services": {
+        "qobuz": "194305747"
+      },
+      "album": "Devoid of Light",
+      "duration": 356,
+      "isrc": "USA2P1634626"
+    },
+    {
+      "artist": "Grafvitnir",
+      "title": "Obeisance to a Witch Moon",
+      "services": {
+        "qobuz": "67682388"
+      },
+      "album": "Obeisance to a Witch Moon",
+      "duration": 256,
+      "isrc": "SE2IS1600209"
+    },
+    {
+      "artist": "Lord Dying",
+      "title": "The Universe Is Weeping",
+      "services": {
+        "qobuz": "225608963"
+      },
+      "album": "Clandestine Transcendence",
+      "duration": 260,
+      "isrc": "US5ED2202463"
+    },
+    {
+      "artist": "Oubliette",
+      "title": "Solitude",
+      "services": {
+        "qobuz": "61199499"
+      },
+      "album": "The Passage",
+      "duration": 323,
+      "isrc": "QM3LS1800020"
+    },
+    {
+      "artist": "Kool & The Gang",
+      "title": "Celebration",
+      "services": {
+        "qobuz": "711241"
+      },
+      "album": "Celebration / Morning Star",
+      "duration": 215,
+      "isrc": "USPR38007166"
+    },
+    {
+      "artist": "Tenebrae",
+      "title": "Engelsmusik: No. 1, Colours of Light's Sound",
+      "services": {
+        "qobuz": "412967121"
+      },
+      "album": "in between: Choral works by Jessica Ulusoy-Horsley",
+      "duration": 333,
+      "isrc": "GBLLH0100201"
+    },
+    {
+      "artist": "Valdrin",
+      "title": "Junnatox",
+      "services": {
+        "qobuz": "85115332"
+      },
+      "album": "Two Carrion Talismans",
+      "duration": 290,
+      "isrc": "SEVCK1800701"
+    },
+    {
+      "artist": "Azymuth",
+      "title": "V\u00f4o sobre o horizonte",
+      "services": {
+        "qobuz": "4533096"
+      },
+      "album": "Aguia N\u00e3o Come Mosca",
+      "duration": 220,
+      "isrc": "BRWMB9705399"
+    },
+    {
+      "artist": "Terrorizer",
+      "title": "Prospect of Oblivion",
+      "services": {
+        "qobuz": "77780514"
+      },
+      "album": "Hordes of Zombies",
+      "duration": 205,
+      "isrc": "FR33T1125410"
+    },
+    {
+      "artist": "Low",
+      "title": "Anon",
+      "services": {
+        "qobuz": "828470"
+      },
+      "album": "The Curtain Hits The Cast",
+      "duration": 260,
+      "isrc": "USCN39600088"
+    },
+    {
+      "artist": "Imperial Demonic",
+      "title": "The Furnace",
+      "services": {
+        "qobuz": "190618915"
+      },
+      "album": "Beneath the Crimson Eclipse",
+      "duration": 220,
+      "isrc": "QMFMF2219560"
+    },
+    {
+      "artist": "Shu\u0304nyata\u0304",
+      "title": "The Dark Age",
+      "services": {
+        "qobuz": "205110588"
+      },
+      "album": "The Dark Age",
+      "duration": 396,
+      "isrc": "QM6MZ2305033"
+    }
+  ]
+}

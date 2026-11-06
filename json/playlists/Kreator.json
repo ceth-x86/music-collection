@@ -1,0 +1,28 @@
+{
+  "name": "Kreator",
+  "services": {
+    "qobuz": "66546508"
+  },
+  "tracks": [
+    {
+      "artist": "Kreator",
+      "title": "Seven Serpents",
+      "services": {
+        "qobuz": "359080070"
+      },
+      "album": "Krushers Of The World",
+      "duration": 279,
+      "isrc": "DED832500245"
+    },
+    {
+      "artist": "Kreator",
+      "title": "Satanic Anarchy",
+      "services": {
+        "qobuz": "359080071"
+      },
+      "album": "Krushers Of The World",
+      "duration": 213,
+      "isrc": "DED832500246"
+    }
+  ]
+}

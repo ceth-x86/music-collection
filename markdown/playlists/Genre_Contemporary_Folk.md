@@ -1,0 +1,108 @@
+# Genre: Contemporary Folk
+
+Imported genre playlist: Contemporary Folk.
+
+Services: `qobuz:66732334`
+
+## Tracks (100)
+
+- **Gordon Lightfoot** — If You Could Read My Mind [If You Could Read My Mind] (3:49) `isrc:USRE19900467` `qobuz:2728963`
+- **John Denver** — Take Me Home, Country Roads [The John Denver Collection, Vol 1: Take Me Home Country Roads] (3:17) `isrc:USA370529726` `qobuz:75009346`
+- **John Martyn** — May You Never [Solid Air] (3:40) `isrc:GBAAN7300043` `qobuz:3879265`
+- **John Prine** — Angel from Montgomery [John Prine] (3:47) `isrc:USAT21501501` `qobuz:25822834`
+- **Joni Mitchell** — A Case of You [Blue] (4:22) `isrc:USRE11300134` `qobuz:10472798`
+- **Leonard Cohen** — Famous Blue Raincoat [The Essential Leonard Cohen] (5:07) `isrc:USSM19919473` `qobuz:18439174`
+- **Steve Goodman** — City of New Orleans [Steve Goodman] (3:50) `isrc:USBR17100009` `qobuz:204729`
+- **Nick Drake** — Pink Moon [Pink Moon] (2:02) `isrc:GBAAN7200021` `qobuz:125637689`
+- **Townes Van Zandt** — Pancho and Lefty [Rear View Mirror] (4:01) `isrc:USFP70610001` `qobuz:59178989`
+- **Loudon Wainwright III** — The Swimming Song [Career Moves] (2:25) `isrc:GBAAA9901971` `qobuz:795625`
+- **Ralph McTell** — Streets Of London [Spiral Staircase] (4:08) `isrc:GBAJE6901117` `qobuz:387271922`
+- **Kate & Anna McGarrigle** — Heart Like a Wheel [Kate & Anna McGarrigle] (3:12) `isrc:USWB10403429` `qobuz:2956348`
+- **STAN ROGERS** — Barrett's Privateers [Between the Breaks…Live!] (4:30) `isrc:CAFB50700202` `qobuz:309433123`
+- **Bruce Cockburn** — Wondering Where The Lions Are [Dancing In The Dragon's Jaws (Deluxe Edition)] (3:47) `isrc:CAT247900176` `qobuz:319754183`
+- **The Roches** — Hammond Song [The Roches] (5:45) `isrc:USWB10102336` `qobuz:2113358`
+- **KATE WOLF** — Across the Great Divide [Close to You] (4:19) `isrc:QMFAJ2000001` `qobuz:114302173`
+- **Suzanne Vega** — Marlene On The Wall [Suzanne Vega] (3:39) `isrc:USAM19502222` `qobuz:52589109`
+- **Nanci Griffith** — Love at the Five and Dime [The Dustbowl Symphony] (4:54) `isrc:USEE19900335` `qobuz:2001455`
+- **Mekons** — Prince of Darkness with Michelle Shocked [New York, On The Road 86-87] (3:04) `isrc:US29V0526911` `qobuz:48060825`
+- **Tracy Chapman** — Fast Car [Tracy Chapman] (4:56) `isrc:USEE10180719` `qobuz:2781545`
+- **Cheryl Wheeler** — Arrow [Circles And Arrows] (4:20) `isrc:USCN19000088` `qobuz:4665757`
+- **Richard Thompson** — 1952 Vincent Black Lightning [Rumor And Sigh] (4:42) `isrc:USCA29100729` `qobuz:29667343`
+- **Iris DeMent** — Our Town [Infamous Angel] (5:00) `isrc:USWB10102002` `qobuz:72015827`
+- **Mary Chapin Carpenter** — Passionate Kisses [Come On Come On] (3:20) `isrc:USSM19200394` `qobuz:4883283`
+- **Bill Morrissey** — Birches [Night Train] (3:21) `isrc:USPH19315403` `qobuz:84420751`
+- **Eddi Reader** — Patience of Angels [Eddi Reader] (4:03) `isrc:GBAHT9402810` `qobuz:16127882`
+- **John Gorka** — Flying Red Horse [Out Of The Valley] (4:17) `isrc:USWH19301087` `qobuz:224565`
+- **Loreena McKennitt** — The Mystic's Dream [The Mask and Mirror] (7:43) `isrc:CAQ110410501` `qobuz:326467591`
+- **Ani Difranco** — 32 Flavors [Not A Pretty Girl] (6:07) `isrc:USRB49500010` `qobuz:397191182`
+- **Guy Clark** — The Cape [Dublin Blues] (3:39) `isrc:USEE10183046` `qobuz:106539710`
+- **James Keelaghan** — Cold Missouri Waters [Then Again] (6:26) `isrc:USCGH0919836` `qobuz:81111574`
+- **Jewel** — Who Will Save Your Soul [Pieces Of You] (3:57) `isrc:USAT29400031` `qobuz:127403777`
+- **Catie Curtis** — Radical [Truth from Lies] (3:42) `isrc:USX9P1202562` `qobuz:69959909`
+- **Darryl Purpose** — The Christians and the Pagans [The Gift of the Magi (and other seasonal stories)] (4:23) `isrc:USCGH0617910` `qobuz:73630456`
+- **Gillian Welch** — Orphan Girl [Revival] (3:56) `isrc:USAL19600601` `qobuz:48825002`
+- **Patty Griffin** — Let Him Fly [Living With Ghosts] (3:10) `isrc:USAM19602198` `qobuz:7570462`
+- **Shawn Colvin** — Sunny Came Home [A Few Small Repairs: 20th Anniversary Edition] (4:24) `isrc:USSM19601709` `qobuz:41723741`
+- **Kate Rusby** — A Rose in April [Hourglass] (5:45) `isrc:GBBYC2201562` `qobuz:188409314`
+- **Dave Carter** — When I Go [When I Go] (4:16) `isrc:USJ8C1200001` `qobuz:99128973`
+- **Lucy Kaplansky** — Ten Year Night [Ten Year Night] (5:12) `isrc:USRHR9912601` `qobuz:106542857`
+- **Eliza Gilkyson** — Beauty Way [Hard Times In Babylon] (3:02) `isrc:USRHR0014601` `qobuz:106542454`
+- **The Be Good Tanyas** — The Littlest Birds [A Collection (2000 - 2012)] (4:09) `isrc:CAN110100237` `qobuz:145671811`
+- **Cara Dillon** — Blue Mountain River [Cara Dillon] (3:47) `isrc:GBVQM1100007` `qobuz:151598678`
+- **Claire Lynch** — Barbed Wire Boys [Whatcha Gonna Do] (3:38) `isrc:USRO20960611` `qobuz:80766181`
+- **Damien Rice** — The Blower's Daughter [O] (4:47) `isrc:IEABD0100003` `qobuz:2586932`
+- **José González** — Heartbeats [Veneer] (2:40) `isrc:SENAA2300104` `qobuz:397505236`
+- **The Waifs** — London Still [Live from The Union Of Soul] (4:24) `isrc:AUWB00900002` `qobuz:15746267`
+- **Mindy Smith** — Come To Jesus [One Moment More] (4:13) `isrc:USVG20388178` `qobuz:13037089`
+- **Ray LaMontagne** — Trouble [Trouble] (4:01) `isrc:USRC10401029` `qobuz:273905755`
+- **The Wailin' Jennys** — One Voice [40 Days] (3:23) `isrc:CAO371365001` `qobuz:47806490`
+- **Mary Gauthier** — Mercy Now [Mercy Now] (5:50) `isrc:USMR10400295` `qobuz:4378213`
+- **Alela Diane** — The Pirate's Gospel [The Pirate's Gospel] (2:55) `isrc:QMFMG1454892` `qobuz:54202529`
+- **Brett Dennen** — Ain't No Reason [The Definitive Collection] (3:37) `isrc:USDMG1262901` `qobuz:279889612`
+- **Fionn Regan** — Be Good or Be Gone [The End of History] (3:19) `isrc:GBBRP0611901` `qobuz:250027418`
+- **Josh Ritter** — Girl In The War [The Animal Years] (4:23) `isrc:USVT10500308` `qobuz:881034`
+- **Karine Polwart** — Follow The Heron [Scribbled In Chalk] (3:11) `isrc:GBKYA0603012` `qobuz:105374860`
+- **Anaïs Mitchell** — Orion [Hymns for the Exiled] (4:14) `isrc:USRB40800005` `qobuz:93103476`
+- **Brandi Carlile** — The Story [The Story] (3:58) `isrc:USSM10607485` `qobuz:13012044`
+- **Glen Hansard and Marketa Irglova** — Falling Slowly [Falling Slowly] (4:04) `isrc:USLIC0700662` `qobuz:4841102`
+- **Laura Veirs** — Galaxies [Year of Meteors] (3:35) `isrc:USNO10589302` `qobuz:49725378`
+- **Radical Face** — Welcome Home, Son [Ghost] (4:47) `isrc:DEX260606902` `qobuz:147901642`
+- **The Paper Kites** — Bloom [Woodland] (3:30) `isrc:TCAAZ1171906` `qobuz:146513438`
+- **The Tallest Man On Earth** — The Wild Hunt [The Wild Hunt] (3:21) `isrc:USJ5G1034001` `qobuz:2117453`
+- **Ben Howard** — Old Pine [Every Kingdom] (5:28) `isrc:GBUM71106250` `qobuz:8636771`
+- **Bon Iver** — Holocene [Bon Iver, Bon Iver] (5:36) `isrc:US38Y1113503` `qobuz:20842853`
+- **Fleet Foxes** — Helplessness Blues [Helplessness Blues] (5:03) `isrc:USNO11700096` `qobuz:39146176`
+- **Laura Marling** — Sophia [A Creature I Don't Know] (4:51) `isrc:GBAAA1100145` `qobuz:13277212`
+- **The Civil Wars** — Dance Me to the End of Love [Barton Hollow] (3:04) `isrc:USW5Q1100014` `qobuz:5039388`
+- **The Head And The Heart** — Rivers and Roads [Rivers and Roads] (5:14) `isrc:USSUB2674713` `qobuz:412189564`
+- **The Milk Carton Kids** — Michigan [Prologue] (5:30) `isrc:TCAAZ1110485` `qobuz:96685776`
+- **Damien Dempsey** — Almighty Love [Almighty Love] (3:46) `isrc:GBGRJ1230852` `qobuz:151616967`
+- **First Aid Kit** — Emmylou [The Lion's Roar] (4:18) `isrc:GBDNH1100097` `qobuz:6309278`
+- **Aoife O'Donovan** — Red & White & Blue & Gold [Fossils] (3:20) `isrc:USY1R1332104` `qobuz:48680751`
+- **Jason Isbell** — Cover Me Up [Southeastern] (4:54) `isrc:QMHBS1397401` `qobuz:225612783`
+- **Sarah Jarosz** — Build Me Up From Bones [Build Me Up From Bones] (3:34) `isrc:USSH51301711` `qobuz:11235712`
+- **The Lone Bellow** — You Never Need Nobody [The Lone Bellow] (4:49) `isrc:USA5W1200383` `qobuz:10249258`
+- **Valerie June** — Workin' Woman Blues [Workin' Woman Blues] (3:09) `isrc:GBGNS1201004` `qobuz:6824327`
+- **Lisa O'Neill** — England Has My Man [Same Cloth or Not] (3:15) `isrc:GBCEL1300478` `qobuz:70114534`
+- **Roo Panes** — Tiger Striped Sky [Little Giant] (4:00) `isrc:GB5UQ1400018` `qobuz:58864470`
+- **Natalia Lafourcade** — Hasta la Raíz [Hasta la Raíz] (3:42) `isrc:MXF011400582` `qobuz:28185909`
+- **Rhiannon Giddens** — Julie [Freedom Highway] (4:29) `isrc:USNO11601042` `qobuz:38574596`
+- **The Staves** — Blood I Bled [If I Was] (4:05) `isrc:GBAHS1400314` `qobuz:27482482`
+- **Joan Shelley** — Not Over By Half [Over and Even] (4:34) `isrc:USLKU1547004` `qobuz:25063760`
+- **Hurray For The Riff Raff** — Pa'lante [The Navigator] (5:53) `isrc:USATO1600709` `qobuz:39279008`
+- **Courtney Marie Andrews** — May Your Kindness Remain [May Your Kindness Remain] (3:54) `isrc:USFP71765101` `qobuz:46064973`
+- **Adrianne Lenker** — anything [songs] (3:22) `isrc:GBAFL2000252` `qobuz:99278043`
+- **Katie Pruitt** — Expectations [Expectations] (3:55) `isrc:USRO21901694` `qobuz:87734060`
+- **Phoebe Bridgers** — I Know The End [Punisher] (5:44) `isrc:USJ5G2020011` `qobuz:91444042`
+- **Sam Burton** — I Can Go With You [I Can Go With You] (3:35) `isrc:USCBL2010002` `qobuz:101898615`
+- **The Vaccines** — Fire [Cosy Karaoke, Vol. 1] (3:26) `isrc:GBKPL2137646` `qobuz:170717031`
+- **Allison Russell** — Persephone [Outside Child] (4:22) `isrc:USC4R2007972` `qobuz:116731252`
+- **Arooj Aftab** — Mohabbat [Vulture Prince] (7:42) `isrc:QM87N2000005` `qobuz:162079182`
+- **Cassandra Jenkins** — Hard Drive [An Overview on Phenomenal Nature] (5:27) `isrc:USCPT2116403` `qobuz:156380691`
+- **Joy Oladokun** — breathe again [in defense of my own happiness] (3:49) `isrc:GBKPL2099637` `qobuz:125637684`
+- **Katherine Priddy** — Icarus [The Eternal Rocks Beneath] (4:30) `isrc:GBEEJ2100044` `qobuz:151682905`
+- **Sierra Ferrell** — In Dreams [Long Time Coming] (2:41) `isrc:USRO22102559` `qobuz:120643621`
+- **The Weather Station** — Robber [Ignorance] (5:20) `isrc:USFP13774601` `qobuz:98087568`
+- **Watchhouse** — Better Way [Watchhouse] (5:56) `isrc:QMV2Q2000061` `qobuz:116798828`
+- **Molly Tuttle** — Crooked Tree [Crooked Tree] (3:52) `isrc:USNO12100379` `qobuz:144387288`
+- **Silvana Estrada** — Te Guardo [Marchita] (3:22) `isrc:USYAH1900319` `qobuz:170320750`

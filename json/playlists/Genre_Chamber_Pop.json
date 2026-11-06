@@ -1,0 +1,1010 @@
+{
+  "name": "Genre: Chamber Pop",
+  "services": {
+    "qobuz": "66736270",
+    "tidal": "99c99865-f5e7-4f61-8c38-16715797b57b"
+  },
+  "description": "Imported genre playlist: Chamber Pop.",
+  "tracks": [
+    {
+      "artist": "The Pale Fountains",
+      "title": "Reach",
+      "services": {
+        "qobuz": "4620779"
+      },
+      "album": "Pacific Street",
+      "duration": 254,
+      "isrc": "GBAAA8400371"
+    },
+    {
+      "artist": "Prefab Sprout",
+      "title": "When Love Breaks Down",
+      "services": {
+        "qobuz": "75532296"
+      },
+      "album": "Steve McQueen",
+      "duration": 246,
+      "isrc": "GBARL1900486"
+    },
+    {
+      "artist": "Momus",
+      "title": "John the Baptist Jones",
+      "services": {
+        "qobuz": "129694894"
+      },
+      "album": "Circus Maximus",
+      "duration": 192,
+      "isrc": "GBBLY8600121"
+    },
+    {
+      "artist": "The Bathers",
+      "title": "Fancy Dress",
+      "services": {
+        "qobuz": "161008508"
+      },
+      "album": "Summer Lightning",
+      "duration": 297,
+      "isrc": "UKUJK2200098"
+    },
+    {
+      "artist": "Louis Philippe",
+      "title": "You Mary You",
+      "services": {
+        "qobuz": "329656615"
+      },
+      "album": "Claret(Best Of Compilation)",
+      "duration": 203,
+      "isrc": "GBBLY8700126"
+    },
+    {
+      "artist": "Tindersticks",
+      "title": "City Sickness",
+      "services": {
+        "qobuz": "13502902"
+      },
+      "album": "The First Tindersticks Album",
+      "duration": 241,
+      "isrc": "GBAUP9300004"
+    },
+    {
+      "artist": "The Divine Comedy",
+      "title": "Your Daddy's Car",
+      "services": {
+        "qobuz": "3150902"
+      },
+      "album": "Liberation",
+      "duration": 236,
+      "isrc": "GBBSR9300155"
+    },
+    {
+      "artist": "The High Llamas",
+      "title": "The Dutchman",
+      "services": {
+        "qobuz": "13574040"
+      },
+      "album": "Gideon Gaye",
+      "duration": 281,
+      "isrc": "GBBLK9800223"
+    },
+    {
+      "artist": "Cardinal",
+      "title": "Dream Figure",
+      "services": {
+        "qobuz": "194467868"
+      },
+      "album": "Cardinal",
+      "duration": 181,
+      "isrc": "GBCKK1121506"
+    },
+    {
+      "artist": "Eric Johnson",
+      "title": "Fanfare One",
+      "services": {
+        "qobuz": "302090516"
+      },
+      "album": "Souvenir",
+      "duration": 118,
+      "isrc": "USQTZ1400023"
+    },
+    {
+      "artist": "Tarja",
+      "title": "Witch Hunt",
+      "services": {
+        "qobuz": "31259124"
+      },
+      "album": "The Brightest Void",
+      "duration": 316,
+      "isrc": "DEH841600202"
+    },
+    {
+      "artist": "The Innocence Mission",
+      "title": "Bright As Yellow",
+      "services": {
+        "qobuz": "53108055"
+      },
+      "album": "Glow",
+      "duration": 212,
+      "isrc": "USWWW0201694"
+    },
+    {
+      "artist": "Spookey Ruben",
+      "title": "These Days Are Old",
+      "services": {
+        "qobuz": "48526378"
+      },
+      "album": "Modes Of Transportation Vol. 1",
+      "duration": 224,
+      "isrc": "USTV19500216"
+    },
+    {
+      "artist": "Yum-Yum",
+      "title": "Dan Loves Patti",
+      "services": {
+        "qobuz": "60689234"
+      },
+      "album": "Dan Loves Patti",
+      "duration": 207,
+      "isrc": "USAT20619703"
+    },
+    {
+      "artist": "Fiona Apple",
+      "title": "Never Is a Promise",
+      "services": {
+        "qobuz": "21984209"
+      },
+      "album": "Tidal",
+      "duration": 354,
+      "isrc": "USSM19600950"
+    },
+    {
+      "artist": "Pernice Brothers",
+      "title": "The Ballad of Bjorn Borg",
+      "services": {
+        "qobuz": "212106841"
+      },
+      "album": "The World Won't End",
+      "duration": 218,
+      "isrc": "USA2E0100409"
+    },
+    {
+      "artist": "Rufus Wainwright",
+      "title": "April Fools",
+      "services": {
+        "qobuz": "210896404"
+      },
+      "album": "Rufus Wainwright",
+      "duration": 300,
+      "isrc": "USDW19701003"
+    },
+    {
+      "artist": "Mercury Rev",
+      "title": "Holes",
+      "services": {
+        "qobuz": "97843875"
+      },
+      "album": "Deserter's Songs",
+      "duration": 356,
+      "isrc": "GBUM71102304"
+    },
+    {
+      "artist": "Beulah",
+      "title": "If We Can Land A Man On The Moon, Surely I Can Win Your Heart",
+      "services": {
+        "qobuz": "14389139"
+      },
+      "album": "When Your Heartstrings Break",
+      "duration": 197,
+      "isrc": "USBYE0500211"
+    },
+    {
+      "artist": "Milo\u0161 Karadagli\u0107",
+      "title": "The Book Of Love (Arr. Hale)",
+      "services": {
+        "qobuz": "63811259"
+      },
+      "album": "Sound Of Silence",
+      "duration": 199,
+      "isrc": "GBUM71903441"
+    },
+    {
+      "artist": "Aimee Mann",
+      "title": "Save Me",
+      "services": {
+        "qobuz": "2844344"
+      },
+      "album": "Magnolia (Music from the Motion Picture)",
+      "duration": 274,
+      "isrc": "USSE59900009"
+    },
+    {
+      "artist": "The Ladybug Transistor",
+      "title": "The Swimmer",
+      "services": {
+        "qobuz": "356781095"
+      },
+      "album": "The Albemarle Sound (25th Anniversary Expanded Edition)",
+      "duration": 232,
+      "isrc": "USMRG0312021"
+    },
+    {
+      "artist": "Faber",
+      "title": "Komm her",
+      "services": {
+        "qobuz": "77516368"
+      },
+      "album": "I fucking love my life",
+      "duration": 379,
+      "isrc": "DEUM71903085"
+    },
+    {
+      "artist": "Belle and Sebastian",
+      "title": "Get Me Away from Here, I'm Dying",
+      "services": {
+        "qobuz": "8922142"
+      },
+      "album": "If You're Feeling Sinister",
+      "duration": 205,
+      "isrc": "GBCAX9600106"
+    },
+    {
+      "artist": "Cousteau",
+      "title": "Last Good Day Of The Year",
+      "services": {
+        "qobuz": "72751990"
+      },
+      "album": "Cousteau",
+      "duration": 300,
+      "isrc": "USPA30000310"
+    },
+    {
+      "artist": "The Gentle Waves",
+      "title": "Falling from Grace",
+      "services": {
+        "qobuz": "8922011"
+      },
+      "album": "Swansong for You",
+      "duration": 225,
+      "isrc": "GBCAX0002603"
+    },
+    {
+      "artist": "Lambchop",
+      "title": "Up with People",
+      "services": {
+        "qobuz": "243032552"
+      },
+      "album": "Nixon",
+      "duration": 362,
+      "isrc": "DED620005204"
+    },
+    {
+      "artist": "The Clientele",
+      "title": "Reflections After Jane",
+      "services": {
+        "qobuz": "42188359"
+      },
+      "album": "Suburban Light",
+      "duration": 201,
+      "isrc": "GBFXJ0000003"
+    },
+    {
+      "artist": "Ed Harcourt",
+      "title": "Something in My Eye",
+      "services": {
+        "qobuz": "1007436"
+      },
+      "album": "Here Be Monsters",
+      "duration": 221,
+      "isrc": "GBDGG0000066"
+    },
+    {
+      "artist": "Richard Hawley",
+      "title": "The Nights Are Cold",
+      "services": {
+        "qobuz": "400315090"
+      },
+      "album": "Late Night Final",
+      "duration": 169,
+      "isrc": "GBBSR0100260"
+    },
+    {
+      "artist": "Andrew Bird",
+      "title": "A Nervous Tic Motion of the Head to the Left",
+      "services": {
+        "qobuz": "395307485"
+      },
+      "album": "Borrow or Rob",
+      "duration": 351,
+      "isrc": "QMB622501019"
+    },
+    {
+      "artist": "The Pearlfishers",
+      "title": "My Dad the Weatherfan",
+      "services": {
+        "qobuz": "49045459"
+      },
+      "album": "Sky Meadows",
+      "duration": 258,
+      "isrc": "DEH620305804"
+    },
+    {
+      "artist": "Patrick Wolf",
+      "title": "To the Lighthouse",
+      "services": {
+        "qobuz": "206157014"
+      },
+      "album": "Lycanthropy",
+      "duration": 243,
+      "isrc": "GBFXN0300004"
+    },
+    {
+      "artist": "The Hidden Cameras",
+      "title": "A Miracle",
+      "services": {
+        "qobuz": "190399119"
+      },
+      "album": "The Smell of Our Own",
+      "duration": 174,
+      "isrc": "CAO370300203"
+    },
+    {
+      "artist": "Camera Obscura",
+      "title": "Eighties Fan",
+      "services": {
+        "qobuz": "73913852"
+      },
+      "album": "Eighties Fan",
+      "duration": 263,
+      "isrc": "GBBRE0100006"
+    },
+    {
+      "artist": "Teitur",
+      "title": "Josephine",
+      "services": {
+        "qobuz": "52013810"
+      },
+      "album": "Poetry & Airplanes",
+      "duration": 172,
+      "isrc": "USUR10300247"
+    },
+    {
+      "artist": "A Girl Called Eddy",
+      "title": "People Used to Dream About The Future",
+      "services": {
+        "qobuz": "77641247"
+      },
+      "album": "A Girl Called Eddy",
+      "duration": 333,
+      "isrc": "USEP40410106"
+    },
+    {
+      "artist": "Sondre Lerche",
+      "title": "Two Way Monologue",
+      "services": {
+        "qobuz": "6763229"
+      },
+      "album": "Two Way Monologue",
+      "duration": 342,
+      "isrc": "NOAHV0304090"
+    },
+    {
+      "artist": "Feist",
+      "title": "Mushaboom",
+      "services": {
+        "qobuz": "4313039"
+      },
+      "album": "Let It Die",
+      "duration": 223,
+      "isrc": "FRZ020302530"
+    },
+    {
+      "artist": "The Concretes",
+      "title": "Say Something New",
+      "services": {
+        "qobuz": "34839768"
+      },
+      "album": "The Concretes",
+      "duration": 227,
+      "isrc": "SEVJH0300401"
+    },
+    {
+      "artist": "Joanna Newsom",
+      "title": "Peach, Plum, Pear",
+      "services": {
+        "qobuz": "48466456"
+      },
+      "album": "The Milk-Eyed Mender",
+      "duration": 213,
+      "isrc": "US58L0426309"
+    },
+    {
+      "artist": "Kings Of Convenience",
+      "title": "Misread",
+      "services": {
+        "qobuz": "192470810"
+      },
+      "album": "Riot On An Empty Street",
+      "duration": 188,
+      "isrc": "GBDCG0400006"
+    },
+    {
+      "artist": "The Polyphonic Spree",
+      "title": "Light & Day / Reach For The Sun",
+      "services": {
+        "qobuz": "231777280"
+      },
+      "album": "The Beginning Stages of...",
+      "duration": 203,
+      "isrc": "USA2B1302449"
+    },
+    {
+      "artist": "Sparks",
+      "title": "My Baby's Taking Me Home",
+      "services": {
+        "qobuz": "381954773"
+      },
+      "album": "Lil' Beethoven",
+      "duration": 282,
+      "isrc": "USSK40310007"
+    },
+    {
+      "artist": "Sarah Slean",
+      "title": "Weight",
+      "services": {
+        "qobuz": "77375716"
+      },
+      "album": "Universe",
+      "duration": 173,
+      "isrc": "CA2RZ1000013"
+    },
+    {
+      "artist": "Keren Ann",
+      "title": "Not Going Anywhere",
+      "services": {
+        "qobuz": "40977214"
+      },
+      "album": "Not Going Anywhere",
+      "duration": 221,
+      "isrc": "FRZ110300333"
+    },
+    {
+      "artist": "Rachael Yamagata",
+      "title": "Be Be Your Love",
+      "services": {
+        "qobuz": "207897"
+      },
+      "album": "Happenstance",
+      "duration": 252,
+      "isrc": "USV110400124"
+    },
+    {
+      "artist": "Ben Folds",
+      "title": "Landed",
+      "services": {
+        "qobuz": "5072128"
+      },
+      "album": "Songs For Silverman",
+      "duration": 266,
+      "isrc": "USSM10500189"
+    },
+    {
+      "artist": "Kate Bush",
+      "title": "A Coral Room",
+      "services": {
+        "qobuz": "199956272"
+      },
+      "album": "Aerial",
+      "duration": 372,
+      "isrc": "GBAYE1800966"
+    },
+    {
+      "artist": "The Boy Least Likely To",
+      "title": "Be Gentle With Me",
+      "services": {
+        "qobuz": "80588597"
+      },
+      "album": "The Best Party Ever",
+      "duration": 227,
+      "isrc": "GBJUN0500001"
+    },
+    {
+      "artist": "Camille",
+      "title": "Ta douleur",
+      "services": {
+        "qobuz": "41014015"
+      },
+      "album": "Le fil",
+      "duration": 186,
+      "isrc": "FRS630400057"
+    },
+    {
+      "artist": "Antony and the Johnsons",
+      "title": "Hope There's Someone",
+      "services": {
+        "qobuz": "2531160"
+      },
+      "album": "I Am A Bird Now",
+      "duration": 261,
+      "isrc": "US38W0510527"
+    },
+    {
+      "artist": "Charlotte Gainsbourg",
+      "title": "The Songs That We Sing",
+      "services": {
+        "qobuz": "1722823"
+      },
+      "album": "5:55 (Nouvelle Edition)",
+      "duration": 177,
+      "isrc": "FR6P10600130"
+    },
+    {
+      "artist": "My Brightest Diamond",
+      "title": "Dragonfly",
+      "services": {
+        "qobuz": "144072740"
+      },
+      "album": "Bring Me The Workhorse",
+      "duration": 324,
+      "isrc": "US64G0602304"
+    },
+    {
+      "artist": "Bat For Lashes",
+      "title": "Daniel",
+      "services": {
+        "qobuz": "387099747"
+      },
+      "album": "Two Suns",
+      "duration": 251,
+      "isrc": "GBBND0801828"
+    },
+    {
+      "artist": "Regina Spektor",
+      "title": "Us",
+      "services": {
+        "qobuz": "2618790"
+      },
+      "album": "Soviet Kitsch",
+      "duration": 292,
+      "isrc": "USWB10401857"
+    },
+    {
+      "artist": "Patrick Watson",
+      "title": "The Great Escape",
+      "services": {
+        "qobuz": "93490663"
+      },
+      "album": "Close to Paradise",
+      "duration": 187,
+      "isrc": "CAJ220622490"
+    },
+    {
+      "artist": "Efterklang",
+      "title": "Mirador",
+      "services": {
+        "qobuz": "74062723"
+      },
+      "album": "Parades",
+      "duration": 308,
+      "isrc": "DKEF50700502"
+    },
+    {
+      "artist": "Nicole Atkins",
+      "title": "Maybe Tonight",
+      "services": {
+        "qobuz": "50598348"
+      },
+      "album": "Neptune City",
+      "duration": 192,
+      "isrc": "USSM10701257"
+    },
+    {
+      "artist": "A Fine Frenzy",
+      "title": "Almost Lover",
+      "services": {
+        "qobuz": "842371"
+      },
+      "album": "Almost Lover",
+      "duration": 270,
+      "isrc": "USVI20700644"
+    },
+    {
+      "artist": "Yael Naim",
+      "title": "New Soul",
+      "services": {
+        "qobuz": "57227919"
+      },
+      "album": "Yael Naim",
+      "duration": 225,
+      "isrc": "FR79W0700370"
+    },
+    {
+      "artist": "Kate Miller-Heidke",
+      "title": "Words",
+      "services": {
+        "qobuz": "13402017"
+      },
+      "album": "Little Eve",
+      "duration": 213,
+      "isrc": "AUBM00700323"
+    },
+    {
+      "artist": "Beirut",
+      "title": "Nantes",
+      "services": {
+        "qobuz": "44829009"
+      },
+      "album": "The Flying Club Cup",
+      "duration": 230,
+      "isrc": "USCPT0700043"
+    },
+    {
+      "artist": "Jens Lekman",
+      "title": "Your Arms Around Me",
+      "services": {
+        "qobuz": "148869183"
+      },
+      "album": "The Linden Trees Are Still In Blossom (Night Falls Over Kortedala)",
+      "duration": 301,
+      "isrc": "US38W2138908"
+    },
+    {
+      "artist": "The Fab Four Fan Club",
+      "title": "The Long and Winding Road -\u00a0Girl - Julia / Here, There and Everywhere -\u00a0Don't Let Me Down / Yesterday - Do You Want to Know a Secret? / She Is Living Home - Michelle - Golden Slumbers / If I Fell - the Fool on the Hill - a Day in a Life / (From New York",
+      "services": {
+        "qobuz": "154180553"
+      },
+      "album": "With a Little Help From My... Fans, Vol. 3",
+      "duration": 353,
+      "isrc": "USRAR1000770"
+    },
+    {
+      "artist": "Grizzly Bear",
+      "title": "Two Weeks",
+      "services": {
+        "qobuz": "3776830"
+      },
+      "album": "Veckatimest",
+      "duration": 246,
+      "isrc": "GBBPW0900065"
+    },
+    {
+      "artist": "Other Lives",
+      "title": "Black Tables",
+      "services": {
+        "qobuz": "339274337"
+      },
+      "album": "Other Lives",
+      "duration": 273,
+      "isrc": "USATO0080112"
+    },
+    {
+      "artist": "Villagers",
+      "title": "Becoming A Jackal",
+      "services": {
+        "qobuz": "2538944"
+      },
+      "album": "Becoming A Jackal",
+      "duration": 201,
+      "isrc": "GBCEL1000096"
+    },
+    {
+      "artist": "The Irrepressibles",
+      "title": "In This Shirt",
+      "services": {
+        "qobuz": "151600202"
+      },
+      "album": "Mirror Mirror",
+      "duration": 335,
+      "isrc": "GBUM70916171"
+    },
+    {
+      "artist": "Agnes Obel",
+      "title": "Riverside",
+      "services": {
+        "qobuz": "3555597"
+      },
+      "album": "Philharmonics",
+      "duration": 228,
+      "isrc": "BEP011000054"
+    },
+    {
+      "artist": "Owen Pallett",
+      "title": "This Is The Dream Of Win & Regine",
+      "services": {
+        "qobuz": "196063171"
+      },
+      "album": "Has A Good Home",
+      "duration": 204,
+      "isrc": "GBCEL2000074"
+    },
+    {
+      "artist": "Keaton Henson",
+      "title": "You Don't Know How Lucky You Are",
+      "services": {
+        "qobuz": "5174217"
+      },
+      "album": "Dear",
+      "duration": 228,
+      "isrc": "GB2ME1100484"
+    },
+    {
+      "artist": "Ane Brun",
+      "title": "Do You Remember",
+      "services": {
+        "qobuz": "286371598"
+      },
+      "album": "It All Starts With One",
+      "duration": 192,
+      "isrc": "SEVVQ1100104"
+    },
+    {
+      "artist": "Destroyer",
+      "title": "Chinatown",
+      "services": {
+        "qobuz": "3563510"
+      },
+      "album": "Kaputt",
+      "duration": 229,
+      "isrc": "USJ5G1134601"
+    },
+    {
+      "artist": "Susanne Sundf\u00f8r",
+      "title": "The Silicone Veil",
+      "services": {
+        "qobuz": "44017919"
+      },
+      "album": "The Silicone Veil",
+      "duration": 302,
+      "isrc": "NO2EY1201070"
+    },
+    {
+      "artist": "Kishi Bashi",
+      "title": "Bright Whites",
+      "services": {
+        "qobuz": "20751291"
+      },
+      "album": "151a",
+      "duration": 253,
+      "isrc": "USJZA1200008"
+    },
+    {
+      "artist": "Birdy",
+      "title": "Wings",
+      "services": {
+        "qobuz": "25531591"
+      },
+      "album": "Wings",
+      "duration": 222,
+      "isrc": "GBAHS1500344"
+    },
+    {
+      "artist": "Laura Mvula",
+      "title": "Green Garden",
+      "services": {
+        "qobuz": "7848310"
+      },
+      "album": "Sing to the Moon",
+      "duration": 249,
+      "isrc": "GBARL1202269"
+    },
+    {
+      "artist": "Woodkid",
+      "title": "Run Boy Run",
+      "services": {
+        "qobuz": "8151324"
+      },
+      "album": "The Golden Age",
+      "duration": 213,
+      "isrc": "FR4DI1200110"
+    },
+    {
+      "artist": "Sleeping At Last",
+      "title": "Saturn",
+      "services": {
+        "qobuz": "128592217"
+      },
+      "album": "Atlas: I",
+      "duration": 289,
+      "isrc": "USGES1480018"
+    },
+    {
+      "artist": "Iamthemorning",
+      "title": "Touching II",
+      "services": {
+        "qobuz": "78421646"
+      },
+      "album": "Iamthemorning",
+      "duration": 243,
+      "isrc": "USCGJ1337344"
+    },
+    {
+      "artist": "Benjamin Clementine",
+      "title": "Cornerstone",
+      "services": {
+        "qobuz": "20635502"
+      },
+      "album": "At Least For Now",
+      "duration": 271,
+      "isrc": "FR3PA1300050"
+    },
+    {
+      "artist": "Natalie Prass",
+      "title": "My Baby Don't Understand Me",
+      "services": {
+        "qobuz": "109782964"
+      },
+      "album": "Natalie Prass",
+      "duration": 312,
+      "isrc": "QMDN21400016"
+    },
+    {
+      "artist": "San Fermin",
+      "title": "Sonsick",
+      "services": {
+        "qobuz": "12440100"
+      },
+      "album": "San Fermin",
+      "duration": 253,
+      "isrc": "USCJ81300986"
+    },
+    {
+      "artist": "The Last Shadow Puppets",
+      "title": "Aviation",
+      "services": {
+        "qobuz": "30947090"
+      },
+      "album": "Everything You\u2019ve Come To Expect",
+      "duration": 223,
+      "isrc": "GBCEL1600006"
+    },
+    {
+      "artist": "The Lemon Twigs",
+      "title": "As Long As We're Together",
+      "services": {
+        "qobuz": "36840381"
+      },
+      "album": "Do Hollywood",
+      "duration": 303,
+      "isrc": "GBAFL1600336"
+    },
+    {
+      "artist": "Lisa Hannigan",
+      "title": "Undertow",
+      "services": {
+        "qobuz": "250387969"
+      },
+      "album": "At Swim",
+      "duration": 204,
+      "isrc": "GBENL1601623"
+    },
+    {
+      "artist": "AURORA",
+      "title": "Through The Eyes Of A Child",
+      "services": {
+        "qobuz": "30721128"
+      },
+      "album": "All My Demons Greeting Me As A Friend",
+      "duration": 274,
+      "isrc": "GBUM71506954"
+    },
+    {
+      "artist": "Perfume Genius",
+      "title": "Slip Away",
+      "services": {
+        "qobuz": "40458885"
+      },
+      "album": "No Shape",
+      "duration": 165,
+      "isrc": "USMTD1709509"
+    },
+    {
+      "artist": "Sufjan Stevens",
+      "title": "Mystery of Love",
+      "services": {
+        "qobuz": "45661181"
+      },
+      "album": "Mystery of Love",
+      "duration": 248,
+      "isrc": "US64G1737302"
+    },
+    {
+      "artist": "Tamino",
+      "title": "Habibi",
+      "services": {
+        "qobuz": "54654144"
+      },
+      "album": "Amir",
+      "duration": 307,
+      "isrc": "GB6TW1800028"
+    },
+    {
+      "artist": "Kelsey Lu",
+      "title": "I'm Not In Love",
+      "services": {
+        "qobuz": "60749297"
+      },
+      "album": "Blood",
+      "duration": 414,
+      "isrc": "USSM11809046"
+    },
+    {
+      "artist": "Hannah Cohen",
+      "title": "Draggin'",
+      "services": {
+        "qobuz": "309753210"
+      },
+      "album": "Earthstar Mountain",
+      "duration": 275,
+      "isrc": "GBBRP2501367"
+    },
+    {
+      "artist": "Angel Olsen",
+      "title": "Lark",
+      "services": {
+        "qobuz": "64887626"
+      },
+      "album": "All Mirrors",
+      "duration": 378,
+      "isrc": "US38Y1934401"
+    },
+    {
+      "artist": "Caroline Polachek",
+      "title": "Butterfly Net (feat. Weyes Blood)",
+      "services": {
+        "qobuz": "253677605"
+      },
+      "album": "Desire, I Want To Turn Into You: Everasking Edition",
+      "duration": 333,
+      "isrc": "QM4TW2467782"
+    },
+    {
+      "artist": "Pomme",
+      "title": "On br\u00fblera",
+      "services": {
+        "qobuz": "49074901"
+      },
+      "album": "\u00c0 peu pr\u00e8s",
+      "duration": 207,
+      "isrc": "FRUM71700925"
+    },
+    {
+      "artist": "Phoebe Bridgers",
+      "title": "Moon Song",
+      "services": {
+        "qobuz": "91444038"
+      },
+      "album": "Punisher",
+      "duration": 277,
+      "isrc": "USJ5G2020007"
+    },
+    {
+      "artist": "Cassandra Jenkins",
+      "title": "Hard Drive",
+      "services": {
+        "qobuz": "156380691"
+      },
+      "album": "An Overview on Phenomenal Nature",
+      "duration": 327,
+      "isrc": "USCPT2116403"
+    },
+    {
+      "artist": "Father John Misty",
+      "title": "Chlo\u00eb",
+      "services": {
+        "qobuz": "143265473"
+      },
+      "album": "Chlo\u00eb and the Next 20th Century",
+      "duration": 208,
+      "isrc": "USSUB2143001"
+    },
+    {
+      "artist": "Laufey",
+      "title": "From The Start",
+      "services": {
+        "qobuz": "213067619"
+      },
+      "album": "Bewitched",
+      "duration": 169,
+      "isrc": "QM6N22309399"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+# Genre: Rotterdam Hardcore
+
+Imported genre playlist: Rotterdam Hardcore.
+
+Services: `qobuz:66715155`
+
+## Tracks (99)
+
+- **King Kismet** — Jungle Rhythm [Afro House Evolution, Vol. 18] (4:44) `isrc:GBLV62408730` `qobuz:325625099`
+- **Two To the Power** — Noise & Music [Archie Hamilton Higher Repurpose Mixes] (8:34) `isrc:GBJX33720010` `qobuz:203149758`
+- **Break Zero** — 1 2 3 4 [1 2 3 4] (3:39) `isrc:NLQS91700145` `qobuz:44765254`
+- **Mary Hubert ‎** — Why Can't We Live Together [I'm Coming on the Scene] (5:33) `isrc:IT00D9000703` `qobuz:102457827`
+- **Melanie De Biasio, Teun Verbruggen, Axel Gilain, Pascal Paulus, Pascal Mohy** — A Stomach Is Burning (feat. Steve Houben) [A Stomach Is Burning (feat. Steve Houben)] (5:04) `isrc:BEZ250719302` `qobuz:1801784`
+- **Sperminator** — No Woman Allowed [No Woman Allowed] (4:18) `isrc:NLC050200948` `qobuz:378275423`
+- **Hartmut Haenchen** — # [German and Italian Christmas Music] (1:18) `isrc:USSM19910701` `qobuz:58109338`
+- **Ronan Keating** — Forever And Ever Amen [Forever And Ever, Amen] (3:07) `isrc:GBUM72100203` `qobuz:114696746`
+- **Balamory** — Jump Up A Little Higher [Strike Up The Band!] (2:32) `isrc:GBCAD1000830` `qobuz:52501839`
+- **Dj Rob** — Boy's Interface [Boy’s Interface] (1:24) `isrc:NLF712408627` `qobuz:378299981`
+- **TMSOFT** — BART Subway Train [Train Sounds] (30:00) `isrc:QZWDD2351842` `qobuz:224260166`
+- **Frans Brüggen** — Der fluyten lust-hof, Vol. I: No. 56, Pavane lachryme: Modo 4 [Early Music Bangers - Unequal Temperament, Equal Energy] (2:05) `isrc:DEA806501004` `qobuz:402446284`
+- **Blame the Comedian** — State of Attack [Rickey Smiley Presents 3 the Hard Way] (1:46) `isrc:USGEK2500606` `qobuz:367525594`
+- **Bald Terror** — Rotterdam [Drummachine (Remixes)] (4:49) `isrc:NLC050200916` `qobuz:378274257`
+- **Hi_Tack** — Say Say Say (Waiting 4 U) [Say Say Say (Waiting 4 U)] (2:33) `isrc:NLZ542001774` `qobuz:104446556`
+- **Dio** — I Am [Master of the Moon] (5:00) `isrc:GBAJE0400811` `qobuz:385568417`
+- **Neophyte** — Komen Wij Uit Rotterdam [Hardcore] (4:07) `isrc:NLC050200998` `qobuz:335476363`
+- **Armageddon** — You'll Never Be Mine [You'll Never Be Mine] (5:10) `isrc:NLC050200974` `qobuz:378288957`
+- **Pucho And The Latin Soul Brothers** — Slippin' Into Darkness [Rip A Dip] (6:21) `isrc:USFI89500038` `qobuz:97365324`
+- **Kraftman** — King Of The Mountains [Short Circuit (The Singles)] (3:33) `isrc:QT3F82517990` `qobuz:361115258`
+- **Sopik** — Have you ever fuck on cocaine (remastered) [Finder Collection Vol.4] (4:44) `isrc:CA5KR2384501` `qobuz:402703129`
+- **Nightraver** — So [The Stunned Guys' Rewinds - Millenium Hardcore 2000-2012] (4:14) `isrc:ITD131800271` `qobuz:92671412`
+- **Emis Killa** — 13 anni - prod. by Don Joe (feat. Bassi Maestro, Giso e Clark P.) [Keta Music - Volume 2] (3:12) `isrc:ITB261500650` `qobuz:43221121`
+- **Leith Ross** — Too Much Time In My House Alone [To Learn, More] (4:04) `isrc:USUM72302975` `qobuz:242461970`
+- **Beck** — Loser [Mellow Gold] (3:55) `isrc:USGF19463401` `qobuz:44530203`
+- **Grandson** — Stick Up [a modern tragedy vol. 1] (3:42) `isrc:USAT21802527` `qobuz:50444225`
+- **Bodylotion** — Ik wil Hakke! [Ik Wil Hakke] (4:17) `isrc:NLC050201279` `qobuz:297013477`
+- **Scott & Leon** — You Used to Hold Me [Scott & Leon - You Used to Hold Me] (7:24) `isrc:GBWFD1200163` `qobuz:431687316`
+- **Bournemouth Symphony Orchestra** — “Heroes": IV. Sons Of The Silent Age [Moonage Daydream – A Brett Morgen Film] (2:21) `isrc:HKI190669105` `qobuz:171659107`
+- **Thunderball** — Bonzai Channel One [Bonzai Channel One] (2:35) `isrc:BEIW12400720` `qobuz:299232723`
+- **Testament** — Signs of Chaos [The Ritual] (0:30) `isrc:USAT20003029` `qobuz:2999480`
+- **DJ Paul** — Talk Yo Ass Off (Remix) [Bonus Track] [Volume 16: The Original Masters] (4:38) `isrc:USASN1302890` `qobuz:73110063`
+- **The Strokes** — Last Nite [Is This It] (3:13) `isrc:USRC10100765` `qobuz:19018`
+- **Eyjafjalla Experience** — Fals Ekki Vals [We´re Gonna Fuck This Country Up: The Holland Sessions] (5:19) `isrc:USHM21531964` `qobuz:75301831`
+- **fly_by_wire** — on and off [on and off] (2:06) `isrc:SE5W32309780` `qobuz:244768438`
+- **The 8-Bit Big Band** — I Wanna Take You for a Ride (Inspired by Marvel vs Capcom 2) [Game Changer] (4:41) `isrc:USL4Q2378862` `qobuz:230810236`
+- **Baron Von Trax** — Can't Get Enough [Piano House Is Dead, Long Live Piano House] (4:20) `isrc:CA5KR2537841` `qobuz:396587519`
+- **Stephen Layton** — Sviridov: Pesni Bezvremenya "Songs of Troubled Times": III. Vesna i koldun "Spring and the Sorcerer" [Ikon, Vol. 1: Sacred Choral Music from Russia & Eastern Europe] (4:24) `isrc:GBAJY9792806` `qobuz:230087296`
+- **Lenny Dee** — Raw [OTT - RAW] (4:53) `isrc:USZUT9300066` `qobuz:312760719`
+- **Degradead** — Genetic Waste [Til Death Do Us Apart] (3:50) `isrc:SEXYA0800101` `qobuz:11765302`
+- **Bass Reaction** — Technophobia [Technophobia] (3:59) `isrc:GBKQU1572106` `qobuz:111582727`
+- **BBC Philharmonic Orchestra** — III. The Creation of the First Sea Creatures - [Maxwell Davies: The Beltane Fire, The Turn of the Tide & Sir Charles His Pavan] (1:19) `isrc:HKI191207410` `qobuz:306289125`
+- **Prof** — Brrrr [Good Time Boy] (2:28) `isrc:QZ5FN2695448` `qobuz:397827617`
+- **Rave Creator** — Bleep Blaster [Marc Acardipane Best of 1989-1998, Vol. 2] (3:19) `isrc:DEN450600042` `qobuz:22986306`
+- **Léa Sen** — lvl 11 – EDGE OF THE MAP (UNPLUGGED) [LEVELS (UNPLUGGED)] (2:55) `isrc:USBQU2500339` `qobuz:361986816`
+- **Depeche Mode** — Personal Jesus [Violator (Deluxe)] (4:55) `isrc:GBAJH0600289` `qobuz:36114844`
+- **We Are Scientists** — Lethal Enforcer [Brain Thrust Mastery] (4:41) `isrc:GBAAA0800038` `qobuz:1760611`
+- **Cutty Ranks** — A Who Seh Ne Dun (Wake De Man) [Six Million Ways To Die] (3:26) `isrc:USPO19600020` `qobuz:4583690`
+- **Skara Brae** — Cad É Sin Don Té Sin? [Skara Brae] (2:20) `isrc:USA371006521` `qobuz:146677348`
+- **Bald Maniax** — Creators of Rotterdam Hardcore [Rotterdam Records 100] (4:57) `isrc:NLC050700106` `qobuz:304951750`
+- **X CLUB.** — Feel The Beat [Wrestling With New Technique] (4:41) `isrc:USLZJ2421837` `qobuz:252008090`
+- **Pauls Jets** — Smash [Morgen sind wir Fantasy] (2:56) `isrc:DEEH62500166` `qobuz:350769028`
+- **The Scotchman** — Asylum [Mayhem] (3:47) `isrc:GBKQU1554377` `qobuz:111632101`
+- **Scott Hamilton** — Fly Me to the Moon [Two for the Road] (8:02) `isrc:ES5302171741` `qobuz:134243516`
+- **All Good Things** — Search and Destroy (feat. Dan Murphy) [All Good Songs] (4:07) `isrc:TCACT1600745` `qobuz:155551384`
+- **How To Destroy Angels** — The loop closes [An omen EP_] (4:48) `isrc:USQX91201514` `qobuz:6966653`
+- **George Jordan** — The Rhythm Is Here [Gotta Have It EP] (5:42) `isrc:CA5KR2652425` `qobuz:418013609`
+- **Armin van Buuren** — Techno Trance [Techno Trance] (3:36) `isrc:NLF712505313` `qobuz:378320890`
+- **Forze DJ Team** — One To The Two [A New Beginning] (2:33) `isrc:NLC050200679` `qobuz:299642690`
+- **Elvis Costello** — (What's So Funny 'Bout) Peace, Love And Understanding [Armed Forces] (3:32) `isrc:GBASQ7900053` `qobuz:108354962`
+- **Paul Elstak** — Rainbow in the Sky [Happy Hardcore Top 100 (Best Ever)] (3:27) `isrc:NLC050201093` `qobuz:378268023`
+- **Goat Roti** — Life Is a Mystery [Itinerary] (1:02) `isrc:USE831562583` `qobuz:174763727`
+- **Rave Nation** — Going Crazy [Happy Hardcore Top 100] (5:25) `isrc:NLC050200661` `qobuz:378268608`
+- **The Screamin' Cheetah Wheelies** — Right Place, Wrong Time [Big Wheel] (3:36) `isrc:USCA19886864` `qobuz:47257884`
+- **The Stunned Guys** — Love really sucks [The Stunned Guys' Rewinds - Early Hardcore 1994-1997] (3:50) `isrc:ITD131800213` `qobuz:270212502`
+- **Hristo Nedelkov Kutelov** — Batyovata baldazka (Big Brother’s Sister-in-Law) [Sound Portraits from Bulgaria: A Journey to a Vanished World] (1:56) `isrc:USSF11858708` `qobuz:68981862`
+- **Electric Soldierz** — Ultra Xtra Hard Bass Surge X Midnight Reactor [Midnight Reactor] (5:12) `isrc:GXJBU2609734` `qobuz:399863567`
+- **Hillbilly Hellcats** — Hillbillies On Speed [Rev it up with Taz] (2:32) `isrc:USHM20348469` `qobuz:77717027`
+- **J A Y E L E C T R O N I C A** — Road To Perdition [Act II: The Patents of Nobility (the turn)] (3:34) `isrc:USA2P2036091` `qobuz:358029597`
+- **Paul Elstak** — Rainbow in the Sky [Happy Hardcore Top 100 (Best Ever)] (3:27) `isrc:NLC050201093` `qobuz:378268023`
+- **Art Bleek** — Cold As Ice [Sweet Sonic Groove] (2:59) `isrc:GB8X82559955` `qobuz:413766123`
+- **Enigma** — Turn Around [Love Sensuality Devotion: Greatest Hits & Remixes] (3:51) `isrc:DEG120102002` `qobuz:61660671`
+- **Coone** — Jiiieehaaaa (Warrior Workout 2026 OST) [Jiiieehaaaa (Warrior Workout 2026 OST)] (2:39) `isrc:NLH2L2600154` `qobuz:422143470`
+- **247 Street** — B.I.G DOPE | No Lies [B.I.G DOPE | No Lies] (2:30) `isrc:QT6ET2603032` `qobuz:431796415`
+- **Hardheads** — I'm A Gabber Baby [25 Years Megarave Records, Pt. 2: The Digital Hardcore Age] (4:45) `isrc:NLS161802636` `qobuz:120983544`
+- **The Gregory Brothers** — The Last Goodbye [The Last Goodbye] (3:18) `isrc:US92U1906285` `qobuz:156752213`
+- **Radio-Sinfonieorchester Stuttgart des SWR** — I. Adagio molto (Live) [Beethoven: Complete Symphonies (Live)] (8:44) `isrc:DEA550205648` `qobuz:306215480`
+- **R. Kelly** — Feelin' On Yo Booty - Dirty South Mix featuring YoungBloodz [Remix City Volume 1] (3:27) `isrc:USJI10500675` `qobuz:354444`
+- **Hard Creation** — Who Came to Party [Happy Hardcore Top 100] (3:56) `isrc:NLC050200717` `qobuz:378268601`
+- **Dr Z-Vago** — The Bat Device [Hardcore Never Dies] (5:13) `isrc:NLS160700497` `qobuz:234898681`
+- **Steve Vai** — Here & Now [SEX & RELIGION] (4:47) `isrc:USSM19300234` `qobuz:48685`
+- **Cinnamon Soulettes** — I'll Show You How [I'll Show You How / Wishing On A Wishing Well] (3:09) `isrc:UK9AV2300397` `qobuz:200792036`
+- **P!nk** — You Make Me Sick [Can't Take Me Home (Expanded Edition)] (4:07) `isrc:USLF20000534` `qobuz:60899549`
+- **Sound Enhancerz** — The Strong Survive [Pussy lounge 2015] (3:44) `isrc:NLE801515003` `qobuz:24802903`
+- **Jamie Cullum** — Don't Let Me Be Misunderstood [Interlude] (2:59) `isrc:GBUM71404365` `qobuz:19715739`
+- **Watermelon Funk** — Shibuya (feat. Philly G, Wais P & Dag Force) [Shibuya (feat. Philly G, Wais P & Dag Force)] (3:50) `isrc:QZZ792675078` `qobuz:417291285`
+- **Masters Of Ceremony** — Hardcore To Da Bone [Hardcore To Da Bone] (5:16) `isrc:NLC050200686` `qobuz:296602594`
+- **Eliquate** — All the Lonely Fuck Ups (feat. Homeless) [Arch Rhythm] (3:09) `isrc:USX9P1013655` `qobuz:74935155`
+- **Lucinda Williams** — So Much Trouble In The World (feat. Mavis Staples) [World's Gone Wrong] (4:35) `isrc:QMDA72583271` `qobuz:360303253`
+- **Nicholas Craven** — Speedy Recovery [Penalty of Leadership] (3:16) `isrc:TCAHS2334446` `qobuz:244315188`
+- **Michel F. April** — The Trickster [Dead by Daylight, Vol. 3 (Original Video Game Soundtrack)] (1:14) `isrc:CAA502351414` `qobuz:235111101`
+- **Ultimate Buzz** — Rofos Theme [Best of the Buzz] (3:59) `isrc:AUXN21400246` `qobuz:43886926`
+- **Pino Sallusti** — Do It Again [Night of Dreams] (7:35) `isrc:ITE871605719` `qobuz:37248637`
+- **Mop Mop** — Destination [Ritual of the Savage Remix Ep] (8:56) `isrc:DEQ921000024` `qobuz:17899844`
+- **Nothing But Thieves** — Graveyard Whistling [Nothing But Thieves] (3:52) `isrc:GBARL1500790` `qobuz:27398437`
+- **Cerrone** — You Are the One [Best of Remixes] (4:55) `isrc:FR0D02200085` `qobuz:155712614`
+- **Pineal Gland Activator** — Pineal Gland Deep Noise [Comfortable Soothing Sleep Sounds] (2:05) `isrc:FRX282255649` `qobuz:165655910`
+- **Orange Juice** — I Can't Help Myself [Rip It Up] (5:07) `isrc:GBCEL1000582` `qobuz:169116391`
+- **The Beaches** — Did I Say Too Much [No Hard Feelings] (3:08) `isrc:QM6N22532885` `qobuz:329659905`

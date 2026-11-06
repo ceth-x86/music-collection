@@ -1,0 +1,619 @@
+{
+  "name": "Genre: Peak Techno",
+  "services": {
+    "qobuz": "66719700"
+  },
+  "description": "Imported genre playlist: Peak Techno.",
+  "tracks": [
+    {
+      "artist": "Oxia",
+      "title": "Domino",
+      "services": {
+        "qobuz": "420449343"
+      },
+      "album": "Domino",
+      "duration": 232,
+      "isrc": "NL8FJ2600160"
+    },
+    {
+      "artist": "Dataworx",
+      "title": "Control",
+      "services": {
+        "qobuz": "113576332"
+      },
+      "album": "Control",
+      "duration": 365,
+      "isrc": "CARG80800070"
+    },
+    {
+      "artist": "Dubfire",
+      "title": "Dios",
+      "services": {
+        "qobuz": "114459031"
+      },
+      "album": "Dios",
+      "duration": 594,
+      "isrc": "DET740800020"
+    },
+    {
+      "artist": "Gregor Tresher",
+      "title": "A Thousand Nights",
+      "services": {
+        "qobuz": "140829790"
+      },
+      "album": "5 Years of Great Stuff",
+      "duration": 456,
+      "isrc": "DEAA20700295"
+    },
+    {
+      "artist": "Maceo Plex",
+      "title": "Conjure Dreams",
+      "services": {
+        "qobuz": "208234079"
+      },
+      "album": "Conjure Infinity",
+      "duration": 441,
+      "isrc": "GBUR61400001"
+    },
+    {
+      "artist": "Alcatraz",
+      "title": "Giv Me Luv",
+      "services": {
+        "qobuz": "272496046"
+      },
+      "album": "Giv Me Luv",
+      "duration": 647,
+      "isrc": "GBLV61412521"
+    },
+    {
+      "artist": "Hollen",
+      "title": "Flopper",
+      "services": {
+        "qobuz": "91406621"
+      },
+      "album": "Techno Tools, Vol. 2",
+      "duration": 382,
+      "isrc": "ES84B1310041"
+    },
+    {
+      "artist": "Roberto Capuano",
+      "title": "Vertigo",
+      "services": {
+        "qobuz": "208323515"
+      },
+      "album": "Vertigo",
+      "duration": 436,
+      "isrc": "GBUR61200033"
+    },
+    {
+      "artist": "Dense & Pika",
+      "title": "Tex",
+      "services": {
+        "qobuz": "208323341"
+      },
+      "album": "A-Sides, Vol. 3",
+      "duration": 361,
+      "isrc": "GBUR61500044"
+    },
+    {
+      "artist": "Traumer",
+      "title": "Hoodlum",
+      "services": {
+        "qobuz": "106807997"
+      },
+      "album": "Dedust",
+      "duration": 414,
+      "isrc": "DEHE41400041"
+    },
+    {
+      "artist": "Paul Woolford",
+      "title": "Erotic Discourse",
+      "services": {
+        "qobuz": "17093303"
+      },
+      "album": "Ralph Lawson - Content",
+      "duration": 443,
+      "isrc": "GBEWY1400062"
+    },
+    {
+      "artist": "Eric Prydz",
+      "title": "Call on Me",
+      "services": {
+        "qobuz": "47751969"
+      },
+      "album": "Call On Me (Remixes)",
+      "duration": 171,
+      "isrc": "GBCEN0400130"
+    },
+    {
+      "artist": "Umek",
+      "title": "Vibrancy",
+      "services": {
+        "qobuz": "231535102"
+      },
+      "album": "Vibrancy",
+      "duration": 410,
+      "isrc": "SIB151900004"
+    },
+    {
+      "artist": "Charlotte De Witte",
+      "title": "Selected",
+      "services": {
+        "qobuz": "203127210"
+      },
+      "album": "Selected EP",
+      "duration": 482,
+      "isrc": "BET611900017"
+    },
+    {
+      "artist": "Enrico Sangiuliano",
+      "title": "Moon Rocks",
+      "services": {
+        "qobuz": "208194191"
+      },
+      "album": "Moon Rocks",
+      "duration": 453,
+      "isrc": "GBUR61600097"
+    },
+    {
+      "artist": "Pig & Dan",
+      "title": "Chemistry",
+      "services": {
+        "qobuz": "208304512"
+      },
+      "album": "Chemistry",
+      "duration": 495,
+      "isrc": "GBUR61600127"
+    },
+    {
+      "artist": "Stylo B",
+      "title": "Anna Odd Concept Stylo B Remix",
+      "services": {
+        "qobuz": "342124625"
+      },
+      "album": "Anna Odd Concept Stylo B Remix (feat. Ana L\u00eddia Flores Miranda)",
+      "duration": 250,
+      "isrc": "QZTB62560986"
+    },
+    {
+      "artist": "Amelie Lens",
+      "title": "In Silence",
+      "services": {
+        "qobuz": "208323441"
+      },
+      "album": "A-Sides, Vol. 6",
+      "duration": 393,
+      "isrc": "GBUR61700104"
+    },
+    {
+      "artist": "TOXIC MESS",
+      "title": "Adam Beyer & Bart Skils (Your Mind Remix)",
+      "services": {
+        "qobuz": "357516799"
+      },
+      "album": "Adam Beyer & Bart Skils (Your Mind Remix)",
+      "duration": 413,
+      "isrc": "QZZ7W2581580"
+    },
+    {
+      "artist": "Eats Everything",
+      "title": "Space Raiders",
+      "services": {
+        "qobuz": "263816732"
+      },
+      "album": "Space Raiders",
+      "duration": 438,
+      "isrc": "GBT9R1900001"
+    },
+    {
+      "artist": "Enrico Sangiuliano",
+      "title": "X-Pollination",
+      "services": {
+        "qobuz": "111220428"
+      },
+      "album": "X-Pollination",
+      "duration": 492,
+      "isrc": "ITS251600002"
+    },
+    {
+      "artist": "Space 92",
+      "title": "Planet X",
+      "services": {
+        "qobuz": "107120007"
+      },
+      "album": "Planet X",
+      "duration": 227,
+      "isrc": "GBKQU2073762"
+    },
+    {
+      "artist": "Space 92",
+      "title": "Phobos",
+      "services": {
+        "qobuz": "107041031"
+      },
+      "album": "Phobos",
+      "duration": 451,
+      "isrc": "GBKQU2088697"
+    },
+    {
+      "artist": "Umek",
+      "title": "Evolution",
+      "services": {
+        "qobuz": "231535529"
+      },
+      "album": "Evolution / Feels Like a Tunnel",
+      "duration": 367,
+      "isrc": "SIB152000006"
+    },
+    {
+      "artist": "Teenage Mutants",
+      "title": "Run",
+      "services": {
+        "qobuz": "337319841"
+      },
+      "album": "Kontakt 03: Run",
+      "duration": 401,
+      "isrc": "DEL021902036"
+    },
+    {
+      "artist": "Space 92",
+      "title": "Orbit Motion",
+      "services": {
+        "qobuz": "323187105"
+      },
+      "album": "Orbit Motion",
+      "duration": 229,
+      "isrc": "GBKQU2523905"
+    },
+    {
+      "artist": "Eli Brown",
+      "title": "Believe",
+      "services": {
+        "qobuz": "142905720"
+      },
+      "album": "Believe",
+      "duration": 408,
+      "isrc": "GBLV62138546"
+    },
+    {
+      "artist": "Thomas Schumacher",
+      "title": "Schall",
+      "services": {
+        "qobuz": "378331151"
+      },
+      "album": "Schall",
+      "duration": 363,
+      "isrc": "NLF712505861"
+    },
+    {
+      "artist": "Mark Reeve",
+      "title": "Feed My Fire",
+      "services": {
+        "qobuz": "385184083"
+      },
+      "album": "Body Drops",
+      "duration": 219,
+      "isrc": "GBUR62001243"
+    },
+    {
+      "artist": "Metodi",
+      "title": "A Gut Feeling",
+      "services": {
+        "qobuz": "384170671"
+      },
+      "album": "A Gut Feeling",
+      "duration": 243,
+      "isrc": "DEY472670686"
+    },
+    {
+      "artist": "Jody 6",
+      "title": "It Feels So Good",
+      "services": {
+        "qobuz": "381466158"
+      },
+      "album": "It Feels So Good",
+      "duration": 186,
+      "isrc": "ITB842600027"
+    },
+    {
+      "artist": "Fireball Mail",
+      "title": "The Dark Night of the Soul",
+      "services": {
+        "qobuz": "75583545"
+      },
+      "album": "Bending the Rails",
+      "duration": 342,
+      "isrc": "QMAAK1696284"
+    },
+    {
+      "artist": "Charlotte De Witte",
+      "title": "Malina",
+      "services": {
+        "qobuz": "384218759"
+      },
+      "album": "A Prayer for the Dancefloor",
+      "duration": 369,
+      "isrc": "BE4JP2600005"
+    },
+    {
+      "artist": "Yellowheads",
+      "title": "On a Trip",
+      "services": {
+        "qobuz": "375003654"
+      },
+      "album": "On a Trip",
+      "duration": 298,
+      "isrc": "GBLV62525839"
+    },
+    {
+      "artist": "Augustus Pablo",
+      "title": "Say So",
+      "services": {
+        "qobuz": "102527950"
+      },
+      "album": "King Tubbys Meets Rockers Uptown",
+      "duration": 187,
+      "isrc": "US2392000656"
+    },
+    {
+      "artist": "Neumann",
+      "title": "Je Le Savais",
+      "services": {
+        "qobuz": "379674562"
+      },
+      "album": "Je Le Savais",
+      "duration": 340,
+      "isrc": "UKACT2540619"
+    },
+    {
+      "artist": "Llu\u00eds Ribalta",
+      "title": "Blackout",
+      "services": {
+        "qobuz": "388594959"
+      },
+      "album": "Blackout",
+      "duration": 293,
+      "isrc": "GBKQU2605182"
+    },
+    {
+      "artist": "Veerus",
+      "title": "Frequency",
+      "services": {
+        "qobuz": "387430513"
+      },
+      "album": "Frequency",
+      "duration": 259,
+      "isrc": "ITB842600073"
+    },
+    {
+      "artist": "LE SSERAFIM",
+      "title": "CRAZY (Mash-up ver.) (feat. PinkPantheress, Dashaun Wesley)",
+      "services": {
+        "qobuz": "288801354"
+      },
+      "album": "CRAZY (Party Remixes 2)",
+      "duration": 163,
+      "isrc": "USA2P2460091"
+    },
+    {
+      "artist": "Cameron Segal",
+      "title": "Segal: Circadian Drift",
+      "services": {
+        "qobuz": "398979152"
+      },
+      "album": "Circadian Drift",
+      "duration": 154,
+      "isrc": "DEN962600320"
+    },
+    {
+      "artist": "Nocturne (ofc)",
+      "title": "Time",
+      "services": {
+        "qobuz": "384297097"
+      },
+      "album": "Synthwaves",
+      "duration": 300,
+      "isrc": "UKACT2641051"
+    },
+    {
+      "artist": "Anna",
+      "title": "Feel the Rhythm",
+      "services": {
+        "qobuz": "363335267"
+      },
+      "album": "Feel the Rhythm",
+      "duration": 196,
+      "isrc": "BXLKS2500005"
+    },
+    {
+      "artist": "HNTR",
+      "title": "Victory",
+      "services": {
+        "qobuz": "337591494"
+      },
+      "album": "Victory",
+      "duration": 197,
+      "isrc": "GBUR62001107"
+    },
+    {
+      "artist": "Kos:mo",
+      "title": "Euphoria (Feel So Good)",
+      "services": {
+        "qobuz": "385598941"
+      },
+      "album": "Euphoria",
+      "duration": 234,
+      "isrc": "UKACT2641073"
+    },
+    {
+      "artist": "Karim Alkhayat",
+      "title": "Closure",
+      "services": {
+        "qobuz": "384207004"
+      },
+      "album": "Dreamer / Closure",
+      "duration": 315,
+      "isrc": "UKACT2641025"
+    },
+    {
+      "artist": "Concept73",
+      "title": "Technologic",
+      "services": {
+        "qobuz": "385287640"
+      },
+      "album": "Technologic",
+      "duration": 221,
+      "isrc": "DEY472670783"
+    },
+    {
+      "artist": "Diego Straube",
+      "title": "Relaxation Method (ASOT 1275)",
+      "services": {
+        "qobuz": "414741449"
+      },
+      "album": "ASOT 1275 - A State of Trance Episode 1275 (UNFILTERED 004)",
+      "duration": 130,
+      "isrc": "NLF712602484"
+    },
+    {
+      "artist": "HNGT",
+      "title": "Rituals",
+      "services": {
+        "qobuz": "371813316"
+      },
+      "album": "Unity",
+      "duration": 390,
+      "isrc": "DKZVA2500156"
+    },
+    {
+      "artist": "Mosimann",
+      "title": "Drop That Beat",
+      "services": {
+        "qobuz": "382306982"
+      },
+      "album": "Drop That Beat",
+      "duration": 208,
+      "isrc": "BE31O2600010"
+    },
+    {
+      "artist": "George Fenton",
+      "title": "Arrival At The Palace",
+      "services": {
+        "qobuz": "5042802"
+      },
+      "album": "Anna and the King (Original Motion Picture Soundtrack)",
+      "duration": 360,
+      "isrc": "USLF29900840"
+    },
+    {
+      "artist": "Roddy Lima",
+      "title": "Shadows",
+      "services": {
+        "qobuz": "344537313"
+      },
+      "album": "Night Time",
+      "duration": 210,
+      "isrc": "USA2P2533428"
+    },
+    {
+      "artist": "SAMDMA",
+      "title": "Bassline Slvt",
+      "services": {
+        "qobuz": "382162833"
+      },
+      "album": "Desiderati 4.13",
+      "duration": 202,
+      "isrc": "UKACT2640719"
+    },
+    {
+      "artist": "Konfusia",
+      "title": "Tanzen",
+      "services": {
+        "qobuz": "368285233"
+      },
+      "album": "Tanzen",
+      "duration": 339,
+      "isrc": "DEU672600050"
+    },
+    {
+      "artist": "Cherry Pools",
+      "title": "Turn You On",
+      "services": {
+        "qobuz": "202042968"
+      },
+      "album": "Turn You On",
+      "duration": 208,
+      "isrc": "US7VG2072796"
+    },
+    {
+      "artist": "Lumen Grove",
+      "title": "Infinity Bounce",
+      "services": {
+        "qobuz": "342236333"
+      },
+      "album": "20 High-Energy Beat Tracks",
+      "duration": 188,
+      "isrc": "GXH2J2507305"
+    },
+    {
+      "artist": "Nelayan",
+      "title": "Drama",
+      "services": {
+        "qobuz": "386652779"
+      },
+      "album": "Drama",
+      "duration": 318,
+      "isrc": "GXBNP2680152"
+    },
+    {
+      "artist": "Mart1no",
+      "title": "Midnight Train",
+      "services": {
+        "qobuz": "387806133"
+      },
+      "album": "After Midnight EP",
+      "duration": 307,
+      "isrc": "FR9W12604199"
+    },
+    {
+      "artist": "THK",
+      "title": "Tetra Hydro Booster",
+      "services": {
+        "qobuz": "119657711"
+      },
+      "album": "Tetra Hydro Booster",
+      "duration": 239,
+      "isrc": "FR59R2172051"
+    },
+    {
+      "artist": "Roger Lavelle",
+      "title": "Energized",
+      "services": {
+        "qobuz": "383891380"
+      },
+      "album": "Energized",
+      "duration": 228,
+      "isrc": "UKACT2672341"
+    },
+    {
+      "artist": "Umek",
+      "title": "Back In The Race",
+      "services": {
+        "qobuz": "132778302"
+      },
+      "album": "TECHNO",
+      "duration": 422,
+      "isrc": "GBHAD1000258"
+    },
+    {
+      "artist": "Adam Beyer",
+      "title": "Space Date",
+      "services": {
+        "qobuz": "208177916"
+      },
+      "album": "Space Date Remixes",
+      "duration": 549,
+      "isrc": "GBUR61900016"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+# Genre: College Rock
+
+Imported genre playlist: College Rock.
+
+Services: `qobuz:66737503` `tidal:50329627-ad20-4d10-bcf5-73d5110f9e37`
+
+## Tracks (100)
+
+- **R.E.M.** — Radio Free Europe [Murmur] (4:04) `isrc:USIR38800008` `qobuz:16174204`
+- **The B-52's** — Rock Lobster [The B-52's] (6:52) `isrc:USIR27900014` `qobuz:24201982`
+- **Pylon** — Cool [Pylon Box] (3:19) `isrc:US27Q2049502` `qobuz:100418011`
+- **Mission Of Burma** — That's When I Reach for My Revolver [Signals, Calls and Marches [Remastered]] (3:53) `isrc:USMTD0873005` `qobuz:2330650`
+- **The Feelies** — Crazy Rhythms [Crazy Rhythms] (6:12) `isrc:GBCEL0900531` `qobuz:2524854`
+- **Violent Femmes** — Blister In The Sun [Violent Femmes] (2:25) `isrc:GBAAP0000838` `qobuz:127402072`
+- **The Dream Syndicate** — Tell Me When It's Over [The Days Of Wine And Roses] (3:31) `isrc:GBAAP0400258` `qobuz:2855172`
+- **Gun Club** — Sex Beat [Live at the Hacienda, 1984] (2:56) `isrc:GBBLY1003993` `qobuz:142025101`
+- **U2** — I Will Follow [Boy] (3:37) `isrc:GBUM70713119` `qobuz:3897468`
+- **The Cure** — A Forest [Seventeen Seconds] (5:54) `isrc:GBALB8000007` `qobuz:721350`
+- **The Psychedelic Furs** — Love My Way [Beautiful Chaos: Greatest Hits Live] (4:01) `isrc:USSM10110699` `qobuz:90909`
+- **Echo And The Bunnymen** — The Cutter [Porcupine] (3:57) `isrc:GBAHT2200028` `qobuz:147834847`
+- **The Church** — The Unguarded Moment [Of Skins And Heart] (4:14) `isrc:AUEM00200031` `qobuz:2530035`
+- **Orange Juice** — Rip It Up [Rip It Up] (5:20) `isrc:GBCEL1000577` `qobuz:169116386`
+- **Rain Parade** — What's She Done to Your Mind [Emergency Third Rail Power Trip] (2:56) `isrc:USRS70019006` `qobuz:2810652`
+- **The Chameleons** — Second Skin [Script of the Bridge (Remastered)] (6:50) `isrc:GBNYZ1100195` `qobuz:50524056`
+- **Midnight Oil** — US Forces [10,9,8,7,6,5,4,3,2,1] (4:06) `isrc:AUBM00800386` `qobuz:456025`
+- **The Soft Boys** — I Wanna Destroy You [Underwater Moonlight] (2:53) `isrc:USY1R1062801` `qobuz:72014873`
+- **The Clean** — Tally Ho! [It's Bigger Than Both of Us - Nz Singles: 1979-82] (2:46) `isrc:NZFN00400057` `qobuz:296239721`
+- **Aztec Camera** — Oblivious [High Land, Hard Rain] (3:10) `isrc:GBAHT8303357` `qobuz:5687433`
+- **The Replacements** — Bastards of Young [Tim] (3:37) `isrc:USRE11400130` `qobuz:17375125`
+- **Hüsker Dü** — Makes No Sense At All [1985: The Miracle Year] (2:39) `isrc:USCW62525009` `qobuz:350249796`
+- **The Smiths** — This Charming Man [The Smiths] (2:42) `isrc:GBCRL1300039` `qobuz:10474487`
+- **The Jesus And Mary Chain** — Just Like Honey [Just Like Honey (2021 EL Inocente version)] (3:01) `isrc:GX3EQ2000001` `qobuz:154370524`
+- **Minutemen** — Corona [Double Nickels on the Dime] (2:25) `isrc:USA370538099` `qobuz:24534632`
+- **Meat Puppets** — Plateau [II] (2:22) `isrc:USY251143313` `qobuz:16969857`
+- **Sonic Youth** — Death Valley '69 [Death Valley '69 / Brave Men Run (In My Family)] (5:26) `isrc:US6450500105` `qobuz:144266134`
+- **The Waterboys** — The Whole of the Moon [This Is the Sea] (5:02) `isrc:GBAYK0400026` `qobuz:169134411`
+- **Love and Rockets** — Haunted When the Minutes Drag [Seventh Dream of Teenage Heaven] (8:01) `isrc:GBAZP8500030` `qobuz:38173137`
+- **Big Black** — Kerosene [Atomizer (Remastered)] (6:03) `isrc:USTG31409304` `qobuz:32621490`
+- **Camper Van Beethoven** — Take the Skinheads Bowling [Telephone Free Landslide Victory] (2:32) `isrc:GBCEJ0200232` `qobuz:368530638`
+- **They Might Be Giants** — Don't Let's Start [They Might Be Giants] (2:36) `isrc:USRS72603004` `qobuz:431272967`
+- **Guadalcanal Diary** — Litany (Life Goes On) [2X4] (3:42) `isrc:USEE10412138` `qobuz:11574543`
+- **The Long Ryders** — Looking For Lewis And Clark [State Of Our Union] (3:10) `isrc:USUM70975927` `qobuz:54234921`
+- **Green On Red** — This Time Around [This Time Around] (3:42) `isrc:GBAHS1600461` `qobuz:40414098`
+- **The Fall** — I Am Damo Suzuki [This Nation's Saving Grace] (5:43) `isrc:GBAZP0900080` `qobuz:3147449`
+- **The Pogues** — Sally MacLennane [Rum Sodomy & The Lash] (2:45) `isrc:GBAHT0105477` `qobuz:2559459`
+- **Dramarama** — Anything, Anything (I'll Give You) [Live at the China Club] [Live At The China Club] (3:48) `isrc:USEE10901262` `qobuz:2859143`
+- **The Suburbs** — Love Is the Law [Love Is the Law] (4:44) `isrc:QM6P41427997` `qobuz:74796343`
+- **Bodeans** — Fadeaway [Love & Hope & Sex & Dreams [Deluxe Edition]] (4:27) `isrc:USWB10808629` `qobuz:11716971`
+- **Mekons** — Hard to Be Human Again [Fear and Whiskey] (3:59) `isrc:USA4C0208003` `qobuz:32669635`
+- **Hoodoo Gurus** — Like Wow - Wipeout! [Mars Needs Guitars!] (3:11) `isrc:AUHD00500019` `qobuz:105888671`
+- **Throwing Muses** — Call Me [In A Doghouse] (3:58) `isrc:GBAFL9800149` `qobuz:47555370`
+- **Soul Asylum** — Never Really Been [Made To Be Broken] (2:52) `isrc:USRY20412531` `qobuz:2732959`
+- **The Del Fuegos** — Backseat Nothing [The Longest Day] (2:49) `isrc:GBAAP0100541` `qobuz:45150632`
+- **Pixies** — Debaser [Doolittle] (2:51) `isrc:GBAFL9700091` `qobuz:2535038`
+- **Dinosaur Jr.** — Freak Scene [Bug] (3:36) `isrc:USMRG0566023` `qobuz:74163658`
+- **Jane’s Addiction** — Jane Says [Kettle Whistle] (6:31) `isrc:USWB19100035` `qobuz:2488435`
+- **Red Hot Chili Peppers** — Higher Ground [What Hits!?] (3:21) `isrc:USEM38900123` `qobuz:20334687`
+- **The Sugarcubes** — Birthday [Life's Too Good] (3:58) `isrc:GBBTF9200071` `qobuz:249090145`
+- **Galaxie 500** — Tugboat [Today] (3:56) `isrc:USRY29600076` `qobuz:52295707`
+- **Cocteau Twins** — Carolyn's Fingers [Blue Bell Knoll] (3:05) `isrc:GBAFL1400035` `qobuz:17203913`
+- **My Bloody Valentine** — you made me realise [ep’s 1988-1991 and rare tracks] (3:46) `isrc:GBAAW0002013` `qobuz:116969781`
+- **The Stone Roses** — I Wanna Be Adored [The Stone Roses] (4:52) `isrc:GBAHJ9500039` `qobuz:47004090`
+- **The House Of Love** — Shine On [House Of Love] (3:59) `isrc:GBF089000036` `qobuz:3883958`
+- **The Ocean Blue** — Between Something and Nothing [The Ocean Blue] (4:01) `isrc:USRE10100001` `qobuz:3002012`
+- **The Dead Milkmen** — Punk Rock Girl [Beelzebubba] (2:38) `isrc:USRY20410390` `qobuz:240138558`
+- **New Order** — True Faith '94 [The Best of New Order] (5:35) `isrc:GBANP9400057` `qobuz:2583391`
+- **Depeche Mode** — Never Let Me Down Again [Music for the Masses (Deluxe)] (4:48) `isrc:GBAJH0600228` `qobuz:36114801`
+- **Siouxsie & The Banshees** — Peek-A-Boo [Peepshow] (3:12) `isrc:GBAKW8801005` `qobuz:19999009`
+- **Nick Cave & The Bad Seeds** — The Mercy Seat [Tender Prey] (7:18) `isrc:GBAJH0900648` `qobuz:385611229`
+- **Cowboy Junkies** — Sweet Jane [The Trinity Session] (3:34) `isrc:CAV160000910` `qobuz:4873025`
+- **The Wedding Present** — Everyone Thinks He Looks Daft [George Best Plus] (4:09) `isrc:GBCEJ0599308` `qobuz:56223118`
+- **The Triffids** — Bury Me Deep in Love [Calenture] (4:05) `isrc:GBCEL0600498` `qobuz:37632502`
+- **Butthole Surfers** — Sweat Loaf [Locust Abortion Technician] (5:11) `isrc:USMTD2300578` `qobuz:271773210`
+- **Fugazi** — Waiting Room [13 Songs] (2:53) `isrc:US35U0403601` `qobuz:159963156`
+- **Polysics** — Rocket [We ate the machine] (2:55) `isrc:JPKS00701243` `qobuz:95566126`
+- **Faith No More** — Epic [The Real Thing] (4:53) `isrc:GBANC8900003` `qobuz:2879302`
+- **Living Colour** — Cult Of Personality [Vivid] (4:54) `isrc:USSM18800018` `qobuz:103426`
+- **Happy Mondays** — Wrote for Luck [Bummed] (6:04) `isrc:GBAAP0600216` `qobuz:46167992`
+- **The Sundays** — Here's Where the Story Ends [Reading Writing And Arithmetic] (3:50) `isrc:GB01A9000004` `qobuz:4693905`
+- **Concrete Blonde** — Joey [Bloodletting] (4:08) `isrc:USIR39000002` `qobuz:43539325`
+- **The La's** — There She Goes [The La's (Deluxe Edition)] (2:42) `isrc:GBAQT8800001` `qobuz:4306679`
+- **The Afghan Whigs** — If I Were Going [Gentlemen (Gentlemen At 21 Deluxe Edition)] (3:17) `isrc:USEE11400753` `qobuz:19357995`
+- **Teenage Fanclub** — The Concept [Bandwagonesque] (6:07) `isrc:GBARL1800234` `qobuz:51922020`
+- **Buffalo Tom** — Taillights Fade [Asides From (1988-1999)] (3:44) `isrc:GBAZP9200002` `qobuz:34501692`
+- **The Lemonheads** — It's a Shame About Ray [It's a Shame About Ray] (3:07) `isrc:USAT20706775` `qobuz:194710751`
+- **EMF** — Unbelievable [Schubert Dip] (3:29) `isrc:GBAYE9000089` `qobuz:48892881`
+- **Ned's Atomic Dustbin** — Grey Cell Green [God Fodder] (3:45) `isrc:GBBBN0009561` `qobuz:47047815`
+- **Jesus Jones** — Right Here Right Now [Doubt] (3:09) `isrc:GBAYE9000326` `qobuz:838319`
+- **The Jesus Lizard** — Mouth Breather [Goat] (2:16) `isrc:USTG30946802` `qobuz:32675748`
+- **Lush** — De-Luxe [Gala] (3:31) `isrc:GBAFL2500124` `qobuz:355646604`
+- **Ride** — Vapour Trail [Nowhere] (4:17) `isrc:USRE11300032` `qobuz:8022096`
+- **Primal Scream** — Loaded [Maximum Rock'n'Roll: The Singles (Remastered)] (4:23) `isrc:GBARL1900107` `qobuz:60931494`
+- **Sugar** — If I Can't Change Your Mind [Copper Blue] (3:18) `isrc:USMRG1245107` `qobuz:385584207`
+- **The Charlatans** — The Only One I Know [Some Friendly - Expanded Edition] (3:57) `isrc:GBAZP1100195` `qobuz:99060385`
+- **The Soup Dragons** — I'm Free [Lovegod] (3:57) `isrc:GBUM71406632` `qobuz:22760991`
+- **Catherine Wheel** — Black Metallic [Ferment] (7:19) `isrc:USWWW0134805` `qobuz:54692797`
+- **The Jayhawks** — Blue [Tomorrow The Green Grass] (3:09) `isrc:USSM19503763` `qobuz:8420758`
+- **Helmet** — Unsung [Meantime] (3:56) `isrc:USIR19200544` `qobuz:3898895`
+- **The Breeders** — Cannonball [Last Splash] (3:33) `isrc:GBAFL9300109` `qobuz:41936972`
+- **Belly** — Feed the Tree [Star] (3:29) `isrc:GBAFL9300009` `qobuz:58598206`
+- **Mazzy Star** — Fade Into You [So Tonight That I Might See] (4:55) `isrc:USCA29300105` `qobuz:797846`
+- **Liz Phair** — Fuck and Run [Exile In Guyville] (3:07) `isrc:USMTD1810604` `qobuz:47961461`
+- **Pavement** — Cut Your Hair [Crooked Rain, Crooked Rain] (3:06) `isrc:USMTD9407904` `qobuz:59117297`
+- **Built To Spill** — Car [There's Nothing Wrong With Love] (2:59) `isrc:US68F0500604` `qobuz:19075686`
+- **Guided By Voices** — I Am A Scientist [Bee Thousand] (2:24) `isrc:USA3M0400018` `qobuz:52278428`
+- **Beck** — Loser [Mellow Gold] (3:55) `isrc:USGF19463401` `qobuz:44530203`
+- **The Presidents Of The United States Of America** — Lump [The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition] (2:14) `isrc:US35G0400023` `qobuz:376045586`
+- **Sebadoh** — Rebound [Bakesale] (2:12) `isrc:USSUB0310494` `qobuz:3504553`

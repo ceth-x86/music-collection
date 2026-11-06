@@ -1,0 +1,1009 @@
+{
+  "name": "Genre: Jazz Rock Prog",
+  "services": {
+    "qobuz": "66737752"
+  },
+  "description": "Imported genre playlist: Jazz Rock Prog.",
+  "tracks": [
+    {
+      "artist": "Blood, Sweat & Tears",
+      "title": "Variations on a Theme by Erik Satie (1st and 2nd Movements - Adapted from \"Trois Gymnopedies')",
+      "services": {
+        "qobuz": "13337974"
+      },
+      "album": "Definitive Collection / Extra CD",
+      "duration": 147,
+      "isrc": "USSM19911955"
+    },
+    {
+      "artist": "Colosseum",
+      "title": "The Valentyne Suite: January's Search / February's Valentyne / The Grass Is Always Greener",
+      "services": {
+        "qobuz": "387098927"
+      },
+      "album": "Valentyne Suite",
+      "duration": 1016,
+      "isrc": "GBAJE0700628"
+    },
+    {
+      "artist": "The Tony Williams Lifetime",
+      "title": "Emergency",
+      "services": {
+        "qobuz": "770666"
+      },
+      "album": "Emergency!",
+      "duration": 575,
+      "isrc": "USPR36960037"
+    },
+    {
+      "artist": "The Flock",
+      "title": "Clown",
+      "services": {
+        "qobuz": "61893073"
+      },
+      "album": "The Flock (Expanded Edition)",
+      "duration": 462,
+      "isrc": "USSM10200305"
+    },
+    {
+      "artist": "Julie Driscoll, Brian Auger & The Trinity",
+      "title": "Season Of The Witch",
+      "services": {
+        "qobuz": "2389078"
+      },
+      "album": "Let The Sun Shine In",
+      "duration": 464,
+      "isrc": "GBAKW6701001"
+    },
+    {
+      "artist": "John McLaughlin",
+      "title": "Extrapolation",
+      "services": {
+        "qobuz": "630885"
+      },
+      "album": "Extrapolation",
+      "duration": 232,
+      "isrc": "GBAKW0300706"
+    },
+    {
+      "artist": "Nucleus",
+      "title": "Elastic Rock",
+      "services": {
+        "qobuz": "61018230"
+      },
+      "album": "Elastic Rock",
+      "duration": 245,
+      "isrc": "GBUM70711967"
+    },
+    {
+      "artist": "Chicago",
+      "title": "Ballet for a Girl in Buchannon",
+      "services": {
+        "qobuz": "260797461"
+      },
+      "album": "Transmission Impossible",
+      "duration": 856,
+      "isrc": "USY252009744"
+    },
+    {
+      "artist": "Larry Coryell",
+      "title": "Spaces (Infinite)",
+      "services": {
+        "qobuz": "13161955"
+      },
+      "album": "Spaces",
+      "duration": 563,
+      "isrc": "USVG28850022"
+    },
+    {
+      "artist": "Ginger Baker's Airforce",
+      "title": "Da da Man (Live)",
+      "services": {
+        "qobuz": "121715031"
+      },
+      "album": "Airforce (Live)",
+      "duration": 436,
+      "isrc": "DESK97090301"
+    },
+    {
+      "artist": "Miles Davis",
+      "title": "Right Off",
+      "services": {
+        "qobuz": "3110507"
+      },
+      "album": "A Tribute To Jack Johnson",
+      "duration": 1612,
+      "isrc": "USSM10303492"
+    },
+    {
+      "artist": "Traffic",
+      "title": "The Low Spark Of High-Heeled Boys",
+      "services": {
+        "qobuz": "777423"
+      },
+      "album": "The Low Spark Of High Heeled Boys",
+      "duration": 697,
+      "isrc": "GBAAN7100022"
+    },
+    {
+      "artist": "Syrinx",
+      "title": "Tillicum",
+      "services": {
+        "qobuz": "34822969"
+      },
+      "album": "Tumblers from the Vault",
+      "duration": 113,
+      "isrc": "US6PQ1500078"
+    },
+    {
+      "artist": "Don Ellis Orchestra",
+      "title": "33 222 1 222",
+      "services": {
+        "qobuz": "991141"
+      },
+      "album": "Live At Monterey",
+      "duration": 569,
+      "isrc": "USBN29800209"
+    },
+    {
+      "artist": "Mahavishnu Orchestra",
+      "title": "Meeting of the Spirits",
+      "services": {
+        "qobuz": "11402475"
+      },
+      "album": "The Essential Mahavishnu Orchestra with John McLaughlin",
+      "duration": 411,
+      "isrc": "USSM11105330"
+    },
+    {
+      "artist": "Herbie Hancock",
+      "title": "Ostinato (Suite for Angela)",
+      "services": {
+        "qobuz": "17931969"
+      },
+      "album": "The Warner Bros. Years (1969-1972)",
+      "duration": 375,
+      "isrc": "USWB11400713"
+    },
+    {
+      "artist": "Santana",
+      "title": "Song of the Wind",
+      "services": {
+        "qobuz": "16503352"
+      },
+      "album": "Caravanserai",
+      "duration": 369,
+      "isrc": "USSM17200768"
+    },
+    {
+      "artist": "Tasavallan Presidentti",
+      "title": "Lambertland",
+      "services": {
+        "qobuz": "2469402"
+      },
+      "album": "Lambertland",
+      "duration": 417,
+      "isrc": "FISBA7200419"
+    },
+    {
+      "artist": "Back Door",
+      "title": "Slivadiv",
+      "services": {
+        "qobuz": "2885377"
+      },
+      "album": "Back Door",
+      "duration": 227,
+      "isrc": "USWB10001644"
+    },
+    {
+      "artist": "Return To Forever",
+      "title": "Hymn Of The 7th Galaxy",
+      "services": {
+        "qobuz": "4316503"
+      },
+      "album": "Hymn Of The Seventh Galaxy",
+      "duration": 211,
+      "isrc": "USPR37330003"
+    },
+    {
+      "artist": "Billy Cobham",
+      "title": "Stratus",
+      "services": {
+        "qobuz": "5253326"
+      },
+      "album": "Spectrum",
+      "duration": 593,
+      "isrc": "USAT20109424"
+    },
+    {
+      "artist": "Eddie Henderson",
+      "title": "Scorpio Rising",
+      "services": {
+        "qobuz": "217885914"
+      },
+      "album": "Witness to History",
+      "duration": 421,
+      "isrc": "QMCAL2300043"
+    },
+    {
+      "artist": "Dedalus",
+      "title": "Se Unio~",
+      "services": {
+        "qobuz": "282598673"
+      },
+      "album": "Santiago",
+      "duration": 222,
+      "isrc": "TCAIJ2431987"
+    },
+    {
+      "artist": "Jukka Tolonen",
+      "title": "Summer Games",
+      "services": {
+        "qobuz": "2469460"
+      },
+      "album": "Summer Games",
+      "duration": 320,
+      "isrc": "FISBA7300184"
+    },
+    {
+      "artist": "Larry Coryell & The Eleventh House",
+      "title": "Bird Fingers",
+      "services": {
+        "qobuz": "49203509"
+      },
+      "album": "January 1975 - Livelove Series, Vol. 1",
+      "duration": 169,
+      "isrc": "DEK391400337"
+    },
+    {
+      "artist": "Secret Oyster",
+      "title": "Mind Movie",
+      "services": {
+        "qobuz": "103081689"
+      },
+      "album": "Sea Son",
+      "duration": 556,
+      "isrc": "USET70604502"
+    },
+    {
+      "artist": "Isotope",
+      "title": "Spanish Sun",
+      "services": {
+        "qobuz": "145367702"
+      },
+      "album": "Illusion",
+      "duration": 469,
+      "isrc": "GBBZT7410048"
+    },
+    {
+      "artist": "Arti + Mestieri",
+      "title": "Articolazioni",
+      "services": {
+        "qobuz": "17601577"
+      },
+      "album": "Tilt",
+      "duration": 821,
+      "isrc": "ITK197400023"
+    },
+    {
+      "artist": "Pekka Pohjola",
+      "title": "Sekoilu seestyy - The Madness Subsides",
+      "services": {
+        "qobuz": "2469550"
+      },
+      "album": "Harakka Bialoipokku",
+      "duration": 257,
+      "isrc": "FISBA7400319"
+    },
+    {
+      "artist": "Eberhard Weber",
+      "title": "The Colours Of Chlo\u00eb",
+      "services": {
+        "qobuz": "219425432"
+      },
+      "album": "The Colours Of Chlo\u00eb",
+      "duration": 469,
+      "isrc": "DEB337304202"
+    },
+    {
+      "artist": "Passport",
+      "title": "Cross Collateral",
+      "services": {
+        "qobuz": "11665329"
+      },
+      "album": "Cross Collateral",
+      "duration": 812,
+      "isrc": "DEA620001168"
+    },
+    {
+      "artist": "Alphonse Mouzon",
+      "title": "Mind Transplant",
+      "services": {
+        "qobuz": "4744652"
+      },
+      "album": "Mind Transplant",
+      "duration": 245,
+      "isrc": "USBN20300059"
+    },
+    {
+      "artist": "The Brecker Brothers",
+      "title": "Some Skunk Funk",
+      "services": {
+        "qobuz": "433306"
+      },
+      "album": "The Brecker Bros.",
+      "duration": 353,
+      "isrc": "USAR10201633"
+    },
+    {
+      "artist": "Maneige",
+      "title": "Les porches de Notre-Dame",
+      "services": {
+        "qobuz": "171558898"
+      },
+      "album": "Les porches",
+      "duration": 1155,
+      "isrc": "CADC41411847"
+    },
+    {
+      "artist": "John Abercrombie",
+      "title": "Timeless",
+      "services": {
+        "qobuz": "35329559"
+      },
+      "album": "Timeless",
+      "duration": 722,
+      "isrc": "DEB337404706"
+    },
+    {
+      "artist": "David Sancious",
+      "title": "Suite Cassandra",
+      "services": {
+        "qobuz": "24877374"
+      },
+      "album": "Forest of Feelings",
+      "duration": 526,
+      "isrc": "USSM10311043"
+    },
+    {
+      "artist": "Jan Hammer",
+      "title": "The Seventh Day",
+      "services": {
+        "qobuz": "97135"
+      },
+      "album": "The First Seven Days",
+      "duration": 371,
+      "isrc": "USSM10206275"
+    },
+    {
+      "artist": "Brand x",
+      "title": "Nuclear Burn",
+      "services": {
+        "qobuz": "1940830"
+      },
+      "album": "Unorthodox Behaviour",
+      "duration": 383,
+      "isrc": "GBAAA7600067"
+    },
+    {
+      "artist": "Stanley Clarke",
+      "title": "School Days",
+      "services": {
+        "qobuz": "5379094"
+      },
+      "album": "School Days",
+      "duration": 469,
+      "isrc": "USSM19701524"
+    },
+    {
+      "artist": "Jaco Pastorius",
+      "title": "Continuum",
+      "services": {
+        "qobuz": "13373290"
+      },
+      "album": "Jaco Pastorius",
+      "duration": 273,
+      "isrc": "USSM19910102"
+    },
+    {
+      "artist": "Klaus Schulze",
+      "title": "The Final DAT, Pt. II",
+      "services": {
+        "qobuz": "30574496"
+      },
+      "album": "The Dark Side of the Moog, Vol. 6",
+      "duration": 429,
+      "isrc": "DEMV91603275"
+    },
+    {
+      "artist": "Al Di Meola",
+      "title": "Race With Devil On Spanish Highway",
+      "services": {
+        "qobuz": "50348"
+      },
+      "album": "Elegant Gypsy",
+      "duration": 378,
+      "isrc": "USSM10008506"
+    },
+    {
+      "artist": "Weather Report",
+      "title": "Birdland",
+      "services": {
+        "qobuz": "5504534"
+      },
+      "album": "Heavy Weather (Expanded Edition)",
+      "duration": 359,
+      "isrc": "USSM17700260"
+    },
+    {
+      "artist": "Jean-Luc Ponty",
+      "title": "Enigmatic Ocean, Pt. II",
+      "services": {
+        "qobuz": "11299601"
+      },
+      "album": "Enigmatic Ocean",
+      "duration": 215,
+      "isrc": "USAT20180853"
+    },
+    {
+      "artist": "Steely Dan",
+      "title": "Aja",
+      "services": {
+        "qobuz": "230070008"
+      },
+      "album": "Aja",
+      "duration": 477,
+      "isrc": "USMC17647229"
+    },
+    {
+      "artist": "Zzebra",
+      "title": "You've Lost That Loving Feeling",
+      "services": {
+        "qobuz": "232583844"
+      },
+      "album": "Hungry Horse",
+      "duration": 379,
+      "isrc": "DEMV92300399"
+    },
+    {
+      "artist": "Brad Mehldau",
+      "title": "Make It All Go Away",
+      "services": {
+        "qobuz": "60584043"
+      },
+      "album": "Finding Gabriel",
+      "duration": 272,
+      "isrc": "USNO11800872"
+    },
+    {
+      "artist": "Andrew's Paradocks",
+      "title": "The Turning Point",
+      "services": {
+        "qobuz": "410150089"
+      },
+      "album": "Better Days",
+      "duration": 174,
+      "isrc": "QZWFF2679705"
+    },
+    {
+      "artist": "Barbara Thompson",
+      "title": "Sax Rap",
+      "services": {
+        "qobuz": "151665092"
+      },
+      "album": "Bulletproof",
+      "duration": 399,
+      "isrc": "UKQ892000054"
+    },
+    {
+      "artist": "U.K.",
+      "title": "In The Dead Of Night",
+      "services": {
+        "qobuz": "1951352"
+      },
+      "album": "U.K.",
+      "duration": 334,
+      "isrc": "GBAAA7800369"
+    },
+    {
+      "artist": "Dixie Dregs",
+      "title": "The Odyssey",
+      "services": {
+        "qobuz": "74002868"
+      },
+      "album": "Live at Lee Furr's, Arizona, 1978 (Fm Radio Broadcast)",
+      "duration": 459,
+      "isrc": "GBV951700186"
+    },
+    {
+      "artist": "Pat Metheny Group",
+      "title": "San Lorenzo",
+      "services": {
+        "qobuz": "98513279"
+      },
+      "album": "Pat Metheny Group",
+      "duration": 621,
+      "isrc": "DEB337811401"
+    },
+    {
+      "artist": "Larry Carlton",
+      "title": "Room 335",
+      "services": {
+        "qobuz": "168759831"
+      },
+      "album": "Greatest Hits Re-Recorded, Vol. 1",
+      "duration": 440,
+      "isrc": "USZYW0806072"
+    },
+    {
+      "artist": "Bruford",
+      "title": "Five G",
+      "services": {
+        "qobuz": "85416279"
+      },
+      "album": "One Of A Kind",
+      "duration": 276,
+      "isrc": "GBHPZ1700047"
+    },
+    {
+      "artist": "Spyro Gyra",
+      "title": "Shaker Song",
+      "services": {
+        "qobuz": "287668179"
+      },
+      "album": "Jubilee",
+      "duration": 289,
+      "isrc": "USAR42400003"
+    },
+    {
+      "artist": "Casiopea",
+      "title": "Asayake",
+      "services": {
+        "qobuz": "174397127"
+      },
+      "album": "MINT JAMS",
+      "duration": 297,
+      "isrc": "JPAL00900824"
+    },
+    {
+      "artist": "THE SQUARE / T-SQUARE",
+      "title": "LUCKY SUMMER LADY",
+      "services": {
+        "qobuz": "202315525"
+      },
+      "album": "Lucky Summer Lady",
+      "duration": 455,
+      "isrc": "JPSR07821520"
+    },
+    {
+      "artist": "Nobuya Sugawa",
+      "title": "TO CHI KA 2000",
+      "services": {
+        "qobuz": "83953956"
+      },
+      "album": "Sincerely For You",
+      "duration": 297,
+      "isrc": "JPTO09827620"
+    },
+    {
+      "artist": "Uzeb",
+      "title": "Fast Emotion",
+      "services": {
+        "qobuz": "64674202"
+      },
+      "album": "Fast Emotion",
+      "duration": 364,
+      "isrc": "CA94H8200030"
+    },
+    {
+      "artist": "The Trio of Stridence",
+      "title": "As Falls Wichita, so Falls Wichita Falls",
+      "services": {
+        "qobuz": "92603990"
+      },
+      "album": "Auditur Periculosum",
+      "duration": 515,
+      "isrc": "USCGH1333841"
+    },
+    {
+      "artist": "Yellowjackets",
+      "title": "Imperial Strut",
+      "services": {
+        "qobuz": "2112730"
+      },
+      "album": "Yellowjackets",
+      "duration": 329,
+      "isrc": "USWB19902593"
+    },
+    {
+      "artist": "Steps Ahead",
+      "title": "Pools",
+      "services": {
+        "qobuz": "2883260"
+      },
+      "album": "Steps Ahead",
+      "duration": 675,
+      "isrc": "USEE10183326"
+    },
+    {
+      "artist": "Mezzoforte",
+      "title": "Garden Party",
+      "services": {
+        "qobuz": "157755724"
+      },
+      "album": "Surprise Surprise",
+      "duration": 369,
+      "isrc": "ISA108301002"
+    },
+    {
+      "artist": "Mike Stern",
+      "title": "Nu Som",
+      "services": {
+        "qobuz": "73963806"
+      },
+      "album": "Eleven",
+      "duration": 328,
+      "isrc": "USC4R1906507"
+    },
+    {
+      "artist": "Allan Holdsworth",
+      "title": "Devil Take the Hindmost",
+      "services": {
+        "qobuz": "39396454"
+      },
+      "album": "Metal Fatigue",
+      "duration": 336,
+      "isrc": "USQE11710017"
+    },
+    {
+      "artist": "Rafael Verzina",
+      "title": "Also Sprach Zarathustra (2001)",
+      "services": {
+        "qobuz": "244386151"
+      },
+      "album": "Movie Wonderland",
+      "duration": 290,
+      "isrc": "UKW3Z2304223"
+    },
+    {
+      "artist": "Bill Connors",
+      "title": "Child's Eyes",
+      "services": {
+        "qobuz": "2383156"
+      },
+      "album": "Theme To The Gaurdian",
+      "duration": 262,
+      "isrc": "DEB337405702"
+    },
+    {
+      "artist": "George Duke",
+      "title": "Dawn",
+      "services": {
+        "qobuz": "23970564"
+      },
+      "album": "The Aura Will Prevail",
+      "duration": 293,
+      "isrc": "DEUM70703862"
+    },
+    {
+      "artist": "Lenny White",
+      "title": "Chicken-Fried Steak",
+      "services": {
+        "qobuz": "94775256"
+      },
+      "album": "Venusian Summer",
+      "duration": 275,
+      "isrc": "USCW62017601"
+    },
+    {
+      "artist": "Terje Rypdal",
+      "title": "Darkness Falls",
+      "services": {
+        "qobuz": "5325587"
+      },
+      "album": "Odyssey",
+      "duration": 210,
+      "isrc": "DEB337506701"
+    },
+    {
+      "artist": "Jeff Beck",
+      "title": "Led Boots",
+      "services": {
+        "qobuz": "54690"
+      },
+      "album": "Wired",
+      "duration": 243,
+      "isrc": "USSM19911933"
+    },
+    {
+      "artist": "Chick Corea",
+      "title": "Lenore",
+      "services": {
+        "qobuz": "62632739"
+      },
+      "album": "The Leprechaun",
+      "duration": 205,
+      "isrc": "USPR37500035"
+    },
+    {
+      "artist": "Lee Ritenour",
+      "title": "Captain Fingers",
+      "services": {
+        "qobuz": "49755"
+      },
+      "album": "Captain Fingers",
+      "duration": 427,
+      "isrc": "USSM19912129"
+    },
+    {
+      "artist": "Steve Khan",
+      "title": "Tightrope (For Folon)",
+      "services": {
+        "qobuz": "14404624"
+      },
+      "album": "Tightrope",
+      "duration": 344,
+      "isrc": "USSM19927324"
+    },
+    {
+      "artist": "Caldera",
+      "title": "Sky Islands",
+      "services": {
+        "qobuz": "130998237"
+      },
+      "album": "Sky Islands",
+      "duration": 371,
+      "isrc": "USCA29400258"
+    },
+    {
+      "artist": "Chick Corea Elektric Band",
+      "title": "Got A Match?",
+      "services": {
+        "qobuz": "397283254"
+      },
+      "album": "The Chick Corea Elektric Band",
+      "duration": 339,
+      "isrc": "QZR8K2321013"
+    },
+    {
+      "artist": "John Scofield",
+      "title": "Still Warm",
+      "services": {
+        "qobuz": "11512383"
+      },
+      "album": "Still Warm",
+      "duration": 362,
+      "isrc": "USRY20410648"
+    },
+    {
+      "artist": "Michael Brecker",
+      "title": "Nothing Personal",
+      "services": {
+        "qobuz": "60746886"
+      },
+      "album": "Michael Brecker",
+      "duration": 331,
+      "isrc": "USMC18722756"
+    },
+    {
+      "artist": "Bill Bruford's Earthworks",
+      "title": "Thud",
+      "services": {
+        "qobuz": "142022622"
+      },
+      "album": "Earthworks",
+      "duration": 254,
+      "isrc": "GBHPZ0400083"
+    },
+    {
+      "artist": "The Zawinul Syndicate",
+      "title": "Black Water",
+      "services": {
+        "qobuz": "16422295"
+      },
+      "album": "The Essential Joe Zawinul",
+      "duration": 310,
+      "isrc": "USSM10803278"
+    },
+    {
+      "artist": "B\u00e9la Fleck And The Flecktones",
+      "title": "Sinister Minister",
+      "services": {
+        "qobuz": "234309696"
+      },
+      "album": "Om On The Range",
+      "duration": 92,
+      "isrc": "GXBDS2317819"
+    },
+    {
+      "artist": "Shawn Lane",
+      "title": "Get You Back (Live)",
+      "services": {
+        "qobuz": "146278715"
+      },
+      "album": "Powers of Ten; Live! (20th Anniversary Edition)",
+      "duration": 431,
+      "isrc": "USCGH2267993"
+    },
+    {
+      "artist": "Tribal Tech",
+      "title": "Face First",
+      "services": {
+        "qobuz": "2956371"
+      },
+      "album": "Face First",
+      "duration": 424,
+      "isrc": "USAT20109354"
+    },
+    {
+      "artist": "Wayne Jackson",
+      "title": "There must be something more to this",
+      "services": {
+        "qobuz": "54972170"
+      },
+      "album": "The long goodbye",
+      "duration": 261,
+      "isrc": "DEQ320700377"
+    },
+    {
+      "artist": "Scott Henderson",
+      "title": "Dog Party",
+      "services": {
+        "qobuz": "2811479"
+      },
+      "album": "Dog Party",
+      "duration": 403,
+      "isrc": "USAT20108753"
+    },
+    {
+      "artist": "Dave Weckl",
+      "title": "In The Pocket",
+      "services": {
+        "qobuz": "502638"
+      },
+      "album": "Hard-Wired",
+      "duration": 331,
+      "isrc": "USGR19900275"
+    },
+    {
+      "artist": "Niacin",
+      "title": "No Man's Land",
+      "services": {
+        "qobuz": "506171"
+      },
+      "album": "Niacin",
+      "duration": 298,
+      "isrc": "USC4R0302863"
+    },
+    {
+      "artist": "Gary Wilis",
+      "title": "No Sweat",
+      "services": {
+        "qobuz": "76412104"
+      },
+      "album": "No Sweat",
+      "duration": 400,
+      "isrc": "USCGH0547641"
+    },
+    {
+      "artist": "Greg Howe",
+      "title": "Extraction",
+      "services": {
+        "qobuz": "79573296"
+      },
+      "album": "Extraction",
+      "duration": 373,
+      "isrc": "QM7281542894"
+    },
+    {
+      "artist": "Infragment",
+      "title": "Vital Tech Tones",
+      "services": {
+        "qobuz": "115791294"
+      },
+      "album": "Inmersi\u00f3n",
+      "duration": 272,
+      "isrc": "GBSMU4854160"
+    },
+    {
+      "artist": "Oz Noy",
+      "title": "Schizophrenic",
+      "services": {
+        "qobuz": "72928646"
+      },
+      "album": "Schizophrenic",
+      "duration": 432,
+      "isrc": "US78S0531704"
+    },
+    {
+      "artist": "Hiromi",
+      "title": "Return Of Kung-Fu World Champion",
+      "services": {
+        "qobuz": "117489233"
+      },
+      "album": "Spiral",
+      "duration": 581,
+      "isrc": "USTE10563108"
+    },
+    {
+      "artist": "The Bad Plus",
+      "title": "The Radio Tower Has A Beating Heart",
+      "services": {
+        "qobuz": "2370329"
+      },
+      "album": "Never Stop",
+      "duration": 344,
+      "isrc": "GBUM71024176"
+    },
+    {
+      "artist": "Jaga Jazzist",
+      "title": "One-Armed Bandit",
+      "services": {
+        "qobuz": "6282002"
+      },
+      "album": "One-Armed Bandit",
+      "duration": 427,
+      "isrc": "NOYYC0901020"
+    },
+    {
+      "artist": "The Aristocrats",
+      "title": "Bad Asteroid",
+      "services": {
+        "qobuz": "90409026"
+      },
+      "album": "The Aristocrats",
+      "duration": 353,
+      "isrc": "QMW2B1100003"
+    },
+    {
+      "artist": "Snarky Puppy",
+      "title": "Lingus",
+      "services": {
+        "qobuz": "46162718"
+      },
+      "album": "We Like It Here",
+      "duration": 645,
+      "isrc": "US8JA1411008"
+    },
+    {
+      "artist": "Tigran Hamasyan",
+      "title": "Vardavar",
+      "services": {
+        "qobuz": "4388167"
+      },
+      "album": "EP N\u00b01",
+      "duration": 309,
+      "isrc": "FRUM71101996"
+    },
+    {
+      "artist": "Thank You Scientist",
+      "title": "FXMLDR",
+      "services": {
+        "qobuz": "156211496"
+      },
+      "album": "Terraformer",
+      "duration": 476,
+      "isrc": "GBKPL1946890"
+    },
+    {
+      "artist": "Kneebody",
+      "title": "Anti-Hero",
+      "services": {
+        "qobuz": "46214523"
+      },
+      "album": "Anti-Hero",
+      "duration": 359,
+      "isrc": "US9331722204"
+    },
+    {
+      "artist": "DOMi & JD BECK",
+      "title": "NOT TiGHT",
+      "services": {
+        "qobuz": "161540211"
+      },
+      "album": "Not Tight",
+      "duration": 248,
+      "isrc": "USUM72209201"
+    }
+  ]
+}

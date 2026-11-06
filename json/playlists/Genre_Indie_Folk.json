@@ -1,0 +1,1010 @@
+{
+  "name": "Genre: Indie Folk",
+  "services": {
+    "qobuz": "66732674",
+    "tidal": "a4ba9ce6-23fc-41fe-9e10-ad8a2ed94a33"
+  },
+  "description": "Imported genre playlist: Indie Folk.",
+  "tracks": [
+    {
+      "artist": "Palace Brothers",
+      "title": "Ohio River Boat Song",
+      "services": {
+        "qobuz": "48468671"
+      },
+      "album": "Ohio River Boat Song",
+      "duration": 266,
+      "isrc": "US58L1802501"
+    },
+    {
+      "artist": "Remour",
+      "title": "In the Aeroplane Over the Sea",
+      "services": {
+        "qobuz": "362122425"
+      },
+      "album": "In the Aeroplane Over the Sea",
+      "duration": 200,
+      "isrc": "QT3FA2549800"
+    },
+    {
+      "artist": "Smog",
+      "title": "Dress Sexy At My Funeral",
+      "services": {
+        "qobuz": "48471361"
+      },
+      "album": "Dongs Of Sevotion",
+      "duration": 330,
+      "isrc": "US58L0516902"
+    },
+    {
+      "artist": "The Be Good Tanyas",
+      "title": "Waiting Around To Die",
+      "services": {
+        "qobuz": "145681753"
+      },
+      "album": "Chinatown",
+      "duration": 314,
+      "isrc": "CAN110300015"
+    },
+    {
+      "artist": "Bright Eyes",
+      "title": "Haligh, Haligh, A Lie, Haligh",
+      "services": {
+        "qobuz": "362949039"
+      },
+      "album": "Fevers and Mirrors",
+      "duration": 283,
+      "isrc": "US2U61623508"
+    },
+    {
+      "artist": "Microphones",
+      "title": "I Want Wind to Blow",
+      "services": {
+        "qobuz": "39418009"
+      },
+      "album": "The Glow, Pt. 2",
+      "duration": 332,
+      "isrc": "USI4R1130481"
+    },
+    {
+      "artist": "Kings Of Convenience",
+      "title": "Failure",
+      "services": {
+        "qobuz": "192471125"
+      },
+      "album": "Quiet Is The New Loud",
+      "duration": 213,
+      "isrc": "GBDCG0000081"
+    },
+    {
+      "artist": "Damien Rice",
+      "title": "The Blower's Daughter",
+      "services": {
+        "qobuz": "2586932"
+      },
+      "album": "O",
+      "duration": 287,
+      "isrc": "IEABD0100003"
+    },
+    {
+      "artist": "The Decemberists",
+      "title": "California One / Youth and Beauty Brigade",
+      "services": {
+        "qobuz": "73675370"
+      },
+      "album": "Castaways and Cutouts",
+      "duration": 590,
+      "isrc": "USKRS0339710"
+    },
+    {
+      "artist": "M. Ward",
+      "title": "Vincent O'Brien",
+      "services": {
+        "qobuz": "13042273"
+      },
+      "album": "Transfiguration Of Vincent",
+      "duration": 157,
+      "isrc": "USMRG0306003"
+    },
+    {
+      "artist": "Jos\u00e9 Gonz\u00e1lez",
+      "title": "Heartbeats",
+      "services": {
+        "qobuz": "397505236"
+      },
+      "album": "Veneer",
+      "duration": 160,
+      "isrc": "SENAA2300104"
+    },
+    {
+      "artist": "Songs: Ohia",
+      "title": "Farewell Transmission",
+      "services": {
+        "qobuz": "57707221"
+      },
+      "album": "Magnolia Electric Co.",
+      "duration": 442,
+      "isrc": "US38W1330001"
+    },
+    {
+      "artist": "Iron & Wine",
+      "title": "Naked as We Came",
+      "services": {
+        "qobuz": "407819034"
+      },
+      "album": "Our Endless Numbered Days",
+      "duration": 152,
+      "isrc": "USSUB0400095"
+    },
+    {
+      "artist": "Devendra Banhart",
+      "title": "Never Seen Such Good Things",
+      "services": {
+        "qobuz": "11091583"
+      },
+      "album": "Mala",
+      "duration": 194,
+      "isrc": "USNO11300066"
+    },
+    {
+      "artist": "Okkervil River",
+      "title": "For Real",
+      "services": {
+        "qobuz": "27677680"
+      },
+      "album": "Black Sheep Boy",
+      "duration": 283,
+      "isrc": "US38Y0510527"
+    },
+    {
+      "artist": "The Mountain Goats",
+      "title": "This Year",
+      "services": {
+        "qobuz": "20023951"
+      },
+      "album": "The Sunset Tree",
+      "duration": 233,
+      "isrc": "GBAFL1400192"
+    },
+    {
+      "artist": "Mount Eerie",
+      "title": "You Swan, Go On",
+      "services": {
+        "qobuz": "71601091"
+      },
+      "album": "Lost Wisdom",
+      "duration": 92,
+      "isrc": "USI4R0806562"
+    },
+    {
+      "artist": "Akron/Family",
+      "title": "Italy",
+      "services": {
+        "qobuz": "48065202"
+      },
+      "album": "Akron/Family",
+      "duration": 488,
+      "isrc": "USA3T0500016"
+    },
+    {
+      "artist": "Wille and the Bandits",
+      "title": "Keep It on the Down-low",
+      "services": {
+        "qobuz": "192994467"
+      },
+      "album": "The Kernow Sessions",
+      "duration": 363,
+      "isrc": "GBDUZ2300005"
+    },
+    {
+      "artist": "Two Gallants",
+      "title": "Las Cruces Jail",
+      "services": {
+        "qobuz": "129156633"
+      },
+      "album": "What The Toll Tells",
+      "duration": 346,
+      "isrc": "US2U60609101"
+    },
+    {
+      "artist": "Fionn Regan",
+      "title": "Be Good or Be Gone",
+      "services": {
+        "qobuz": "250027418"
+      },
+      "album": "The End of History",
+      "duration": 199,
+      "isrc": "GBBRP0611901"
+    },
+    {
+      "artist": "Alexi Murdoch",
+      "title": "Orange Sky",
+      "services": {
+        "qobuz": "14440549"
+      },
+      "album": "Four Songs",
+      "duration": 379,
+      "isrc": "US4B80400002"
+    },
+    {
+      "artist": "Midlake",
+      "title": "Roscoe",
+      "services": {
+        "qobuz": "18768436"
+      },
+      "album": "The Trials of Van Occupanther",
+      "duration": 286,
+      "isrc": "GBBRP0611701"
+    },
+    {
+      "artist": "Laura Veirs",
+      "title": "Galaxies",
+      "services": {
+        "qobuz": "49725378"
+      },
+      "album": "Year of Meteors",
+      "duration": 215,
+      "isrc": "USNO10589302"
+    },
+    {
+      "artist": "Deer Tick",
+      "title": "Ashamed",
+      "services": {
+        "qobuz": "305008902"
+      },
+      "album": "War Elephant",
+      "duration": 132,
+      "isrc": "USME31000081"
+    },
+    {
+      "artist": "Great Lake Swimmers",
+      "title": "Your Rocky Spine",
+      "services": {
+        "qobuz": "145678389"
+      },
+      "album": "Ongiara",
+      "duration": 216,
+      "isrc": "CAN110700016"
+    },
+    {
+      "artist": "Bon Iver",
+      "title": "Skinny Love",
+      "services": {
+        "qobuz": "20956200"
+      },
+      "album": "For Emma, Forever Ago",
+      "duration": 238,
+      "isrc": "US38Y0811503"
+    },
+    {
+      "artist": "Fleet Foxes",
+      "title": "White Winter Hymnal",
+      "services": {
+        "qobuz": "39146185"
+      },
+      "album": "Fleet Foxes",
+      "duration": 147,
+      "isrc": "USNO11700081"
+    },
+    {
+      "artist": "The Low Anthem",
+      "title": "Charlie Darwin",
+      "services": {
+        "qobuz": "11119323"
+      },
+      "album": "Oh My God, Charlie Darwin",
+      "duration": 272,
+      "isrc": "GBBRP0920201"
+    },
+    {
+      "artist": "Bowerbirds",
+      "title": "In Our Talons",
+      "services": {
+        "qobuz": "2967857"
+      },
+      "album": "Hymns For a Dark Horse",
+      "duration": 233,
+      "isrc": "USJ5G0831702"
+    },
+    {
+      "artist": "The Dodos",
+      "title": "Fools",
+      "services": {
+        "qobuz": "306858360"
+      },
+      "album": "Visiter",
+      "duration": 282,
+      "isrc": "USJMZ0800027"
+    },
+    {
+      "artist": "Blitzen Trapper",
+      "title": "Furr",
+      "services": {
+        "qobuz": "370464672"
+      },
+      "album": "Live at Third Man Records",
+      "duration": 293,
+      "isrc": "US3JJ1601124"
+    },
+    {
+      "artist": "Noah And The Whale",
+      "title": "5 Years Time",
+      "services": {
+        "qobuz": "3969847"
+      },
+      "album": "Peaceful, The World Lays Me Down",
+      "duration": 214,
+      "isrc": "GBUM70804501"
+    },
+    {
+      "artist": "Gregory Alan Isakov",
+      "title": "The Stable Song",
+      "services": {
+        "qobuz": "74461157"
+      },
+      "album": "That Sea, The Gambler",
+      "duration": 360,
+      "isrc": "USHM80743720"
+    },
+    {
+      "artist": "Edward Sharpe & The Magnetic Zeros",
+      "title": "Home",
+      "services": {
+        "qobuz": "280505060"
+      },
+      "album": "Up from Below",
+      "duration": 303,
+      "isrc": "USVR90954206"
+    },
+    {
+      "artist": "The Avett Brothers",
+      "title": "I And Love And You",
+      "services": {
+        "qobuz": "19761542"
+      },
+      "album": "I And Love And You",
+      "duration": 299,
+      "isrc": "USSM10903395"
+    },
+    {
+      "artist": "Alela Diane",
+      "title": "White as Diamonds",
+      "services": {
+        "qobuz": "38786617"
+      },
+      "album": "To Be Still",
+      "duration": 216,
+      "isrc": "GBQWS0700029"
+    },
+    {
+      "artist": "The Tallest Man On Earth",
+      "title": "Love is All",
+      "services": {
+        "qobuz": "2117459"
+      },
+      "album": "The Wild Hunt",
+      "duration": 255,
+      "isrc": "USJ5G1034007"
+    },
+    {
+      "artist": "Laura Marling",
+      "title": "Sophia",
+      "services": {
+        "qobuz": "13277212"
+      },
+      "album": "A Creature I Don't Know",
+      "duration": 291,
+      "isrc": "GBAAA1100145"
+    },
+    {
+      "artist": "First Aid Kit",
+      "title": "Tangerine",
+      "services": {
+        "qobuz": "10467399"
+      },
+      "album": "Drunken Trees EP",
+      "duration": 193,
+      "isrc": "GBDNH0801071"
+    },
+    {
+      "artist": "Angus & Julia Stone",
+      "title": "Big Jet Plane",
+      "services": {
+        "qobuz": "4091383"
+      },
+      "album": "Down The Way",
+      "duration": 238,
+      "isrc": "AUAP10900011"
+    },
+    {
+      "artist": "Of Monsters and Men",
+      "title": "Dirty Paws",
+      "services": {
+        "qobuz": "119828230"
+      },
+      "album": "My Head Is An Animal",
+      "duration": 268,
+      "isrc": "USUM71202066"
+    },
+    {
+      "artist": "The Head And The Heart",
+      "title": "Rivers and Roads",
+      "services": {
+        "qobuz": "412189564"
+      },
+      "album": "Rivers and Roads",
+      "duration": 314,
+      "isrc": "USSUB2674713"
+    },
+    {
+      "artist": "The Civil Wars",
+      "title": "Poison & Wine",
+      "services": {
+        "qobuz": "5039378"
+      },
+      "album": "Barton Hollow",
+      "duration": 219,
+      "isrc": "USW5Q1100005"
+    },
+    {
+      "artist": "Ben Howard",
+      "title": "Old Pine",
+      "services": {
+        "qobuz": "8636771"
+      },
+      "album": "Every Kingdom",
+      "duration": 328,
+      "isrc": "GBUM71106250"
+    },
+    {
+      "artist": "The Lumineers",
+      "title": "Ho Hey",
+      "services": {
+        "qobuz": "273951038"
+      },
+      "album": "Ho Hey",
+      "duration": 163,
+      "isrc": "USDMG1260805"
+    },
+    {
+      "artist": "Gavin Mikhail",
+      "title": "I Will Wait (Mumford & Sons Cover)",
+      "services": {
+        "qobuz": "6916051"
+      },
+      "album": "I Will Wait (Mumford & Sons Cover)",
+      "duration": 282,
+      "isrc": "USA2P1279130"
+    },
+    {
+      "artist": "The Staves",
+      "title": "Mexico",
+      "services": {
+        "qobuz": "6972745"
+      },
+      "album": "Dead & Born & Grown",
+      "duration": 246,
+      "isrc": "GBAHS1100390"
+    },
+    {
+      "artist": "Milo Greene",
+      "title": "1957",
+      "services": {
+        "qobuz": "5875424"
+      },
+      "album": "Milo Greene",
+      "duration": 203,
+      "isrc": "USAT21202460"
+    },
+    {
+      "artist": "The Paper Kites",
+      "title": "Bloom",
+      "services": {
+        "qobuz": "146513438"
+      },
+      "album": "Woodland",
+      "duration": 210,
+      "isrc": "TCAAZ1171906"
+    },
+    {
+      "artist": "Daughter",
+      "title": "Youth",
+      "services": {
+        "qobuz": "8019030"
+      },
+      "album": "If You Leave",
+      "duration": 253,
+      "isrc": "GBAFL1200314"
+    },
+    {
+      "artist": "The Milk Carton Kids",
+      "title": "Snake Eyes",
+      "services": {
+        "qobuz": "77607588"
+      },
+      "album": "The Ash & Clay",
+      "duration": 158,
+      "isrc": "USEP41235014"
+    },
+    {
+      "artist": "The Oh Hellos",
+      "title": "Hello My Old Heart",
+      "services": {
+        "qobuz": "119730181"
+      },
+      "album": "The Oh Hellos EP",
+      "duration": 256,
+      "isrc": "USCGJ1205481"
+    },
+    {
+      "artist": "Phosphorescent",
+      "title": "Song for Zula",
+      "services": {
+        "qobuz": "8027683"
+      },
+      "album": "Muchacho",
+      "duration": 370,
+      "isrc": "USJ5G1305002"
+    },
+    {
+      "artist": "The Lone Bellow",
+      "title": "You Never Need Nobody",
+      "services": {
+        "qobuz": "10249258"
+      },
+      "album": "The Lone Bellow",
+      "duration": 289,
+      "isrc": "USA5W1200383"
+    },
+    {
+      "artist": "Bear's Den",
+      "title": "Agape",
+      "services": {
+        "qobuz": "116555042"
+      },
+      "album": "Islands",
+      "duration": 256,
+      "isrc": "GB6TW1400045"
+    },
+    {
+      "artist": "Nick Mulvey",
+      "title": "Fever To The Form",
+      "services": {
+        "qobuz": "16339268"
+      },
+      "album": "First Mind",
+      "duration": 252,
+      "isrc": "GBUM71308779"
+    },
+    {
+      "artist": "Vance Joy",
+      "title": "Riptide",
+      "services": {
+        "qobuz": "27225145"
+      },
+      "album": "Dream Your Life Away",
+      "duration": 202,
+      "isrc": "USAT21301414"
+    },
+    {
+      "artist": "The Barr Brothers",
+      "title": "Beggar in the Morning",
+      "services": {
+        "qobuz": "93521769"
+      },
+      "album": "The Barr Brothers",
+      "duration": 355,
+      "isrc": "CA0RZ1100071"
+    },
+    {
+      "artist": "Shakey Graves",
+      "title": "Dearly Departed (feat. Esm\u00e9 Patterson)",
+      "services": {
+        "qobuz": "272819646"
+      },
+      "album": "And The War Came",
+      "duration": 212,
+      "isrc": "US92H1400003"
+    },
+    {
+      "artist": "Lord Huron",
+      "title": "The Night We Met",
+      "services": {
+        "qobuz": "328339180"
+      },
+      "album": "Strange Trails",
+      "duration": 208,
+      "isrc": "US53Q1200103"
+    },
+    {
+      "artist": "Houndmouth",
+      "title": "Sedona",
+      "services": {
+        "qobuz": "22904155"
+      },
+      "album": "Little Neon Limelight",
+      "duration": 239,
+      "isrc": "GBCVZ1403597"
+    },
+    {
+      "artist": "Sufjan Stevens",
+      "title": "Should Have Known Better",
+      "services": {
+        "qobuz": "23201890"
+      },
+      "album": "Carrie & Lowell",
+      "duration": 308,
+      "isrc": "US64G1509902"
+    },
+    {
+      "artist": "Father John Misty",
+      "title": "Chateau Lobby #4 (in C for Two Virgins)",
+      "services": {
+        "qobuz": "21280675"
+      },
+      "album": "Chateau Lobby #4 (in C for Two Virgins)",
+      "duration": 170,
+      "isrc": "USSUB1411502"
+    },
+    {
+      "artist": "Jessica Pratt",
+      "title": "Back, Baby",
+      "services": {
+        "qobuz": "307566769"
+      },
+      "album": "On Your Own Love Again",
+      "duration": 235,
+      "isrc": "US58L1560608"
+    },
+    {
+      "artist": "Hiss Golden Messenger",
+      "title": "Super Blue (Two Days Clean)",
+      "services": {
+        "qobuz": "7019361"
+      },
+      "album": "Poor Moon",
+      "duration": 271,
+      "isrc": "USCBL1233007"
+    },
+    {
+      "artist": "Julia Jacklin",
+      "title": "Pool Party",
+      "services": {
+        "qobuz": "35435628"
+      },
+      "album": "Don't Let the Kids Win",
+      "duration": 256,
+      "isrc": "TCACM1659395"
+    },
+    {
+      "artist": "Tall Heights",
+      "title": "Spirit Cold",
+      "services": {
+        "qobuz": "424923907"
+      },
+      "album": "Neptune",
+      "duration": 222,
+      "isrc": "USQX91601335"
+    },
+    {
+      "artist": "The Weather Station",
+      "title": "Thirty",
+      "services": {
+        "qobuz": "42226011"
+      },
+      "album": "The Weather Station",
+      "duration": 220,
+      "isrc": "QM5L81700039"
+    },
+    {
+      "artist": "Aldous Harding",
+      "title": "Horizon",
+      "services": {
+        "qobuz": "40817570"
+      },
+      "album": "Party",
+      "duration": 249,
+      "isrc": "GBAFL1700091"
+    },
+    {
+      "artist": "Phoebe Bridgers",
+      "title": "Georgia",
+      "services": {
+        "qobuz": "53660398"
+      },
+      "album": "Stranger in the Alps",
+      "duration": 247,
+      "isrc": "USJ5G1714207"
+    },
+    {
+      "artist": "Johnny Flynn",
+      "title": "The Water",
+      "services": {
+        "qobuz": "19773962"
+      },
+      "album": "Been Listening",
+      "duration": 253,
+      "isrc": "GBKZV1025578"
+    },
+    {
+      "artist": "Haley Heynderickx",
+      "title": "Oom Sha La La",
+      "services": {
+        "qobuz": "46515202"
+      },
+      "album": "I Need to Start a Garden",
+      "duration": 177,
+      "isrc": "QMFW91700128"
+    },
+    {
+      "artist": "Novo Amor",
+      "title": "State Lines",
+      "services": {
+        "qobuz": "50076828"
+      },
+      "album": "Birthplace",
+      "duration": 208,
+      "isrc": "GB45A1800990"
+    },
+    {
+      "artist": "Field Medic",
+      "title": "talkin johnny & june (your arms around me)",
+      "services": {
+        "qobuz": "89652689"
+      },
+      "album": "talkin johnny & june (your arms around me)",
+      "duration": 162,
+      "isrc": "QMCE71302728"
+    },
+    {
+      "artist": "Angie McMahon",
+      "title": "Slow Mover",
+      "services": {
+        "qobuz": "170680129"
+      },
+      "album": "Salt",
+      "duration": 190,
+      "isrc": "GBKPL1789869"
+    },
+    {
+      "artist": "Leif Vollebekk",
+      "title": "Long Blue Light",
+      "services": {
+        "qobuz": "104028280"
+      },
+      "album": "Long Blue Light",
+      "duration": 200,
+      "isrc": "CA0RZ2000141"
+    },
+    {
+      "artist": "Fruit Bats",
+      "title": "The Saddest Part of the Song",
+      "services": {
+        "qobuz": "396976967"
+      },
+      "album": "The Landfill",
+      "duration": 181,
+      "isrc": "USMRG2688701"
+    },
+    {
+      "artist": "Hollow Coves",
+      "title": "When We Were Young",
+      "services": {
+        "qobuz": "146513328"
+      },
+      "album": "Moments",
+      "duration": 258,
+      "isrc": "CAN111900221"
+    },
+    {
+      "artist": "Roo Panes",
+      "title": "A Message To Myself",
+      "services": {
+        "qobuz": "60825933"
+      },
+      "album": "Quiet Man",
+      "duration": 323,
+      "isrc": "GB5UQ1700196"
+    },
+    {
+      "artist": "Adrianne Lenker",
+      "title": "anything",
+      "services": {
+        "qobuz": "99278043"
+      },
+      "album": "songs",
+      "duration": 202,
+      "isrc": "GBAFL2000252"
+    },
+    {
+      "artist": "Bonny Light Horseman",
+      "title": "Deep In Love",
+      "services": {
+        "qobuz": "73005554"
+      },
+      "album": "Bonny Light Horseman",
+      "duration": 309,
+      "isrc": "QMB621900802"
+    },
+    {
+      "artist": "This Is The Kit",
+      "title": "This Is When The Sky Gets Big",
+      "services": {
+        "qobuz": "201493864"
+      },
+      "album": "Careful Of Your Keepers",
+      "duration": 230,
+      "isrc": "GBCVZ2300008"
+    },
+    {
+      "artist": "Christian Lee Hutson",
+      "title": "Northsiders",
+      "services": {
+        "qobuz": "94029232"
+      },
+      "album": "Beginners",
+      "duration": 223,
+      "isrc": "USEP42002005"
+    },
+    {
+      "artist": "Jess Williamson",
+      "title": "Infinite Scroll",
+      "services": {
+        "qobuz": "296654454"
+      },
+      "album": "Sorceress",
+      "duration": 250,
+      "isrc": "QMV8L1928005"
+    },
+    {
+      "artist": "Cassandra Jenkins",
+      "title": "Hard Drive",
+      "services": {
+        "qobuz": "156380691"
+      },
+      "album": "An Overview on Phenomenal Nature",
+      "duration": 327,
+      "isrc": "USCPT2116403"
+    },
+    {
+      "artist": "Reb Fountain",
+      "title": "Psyche",
+      "services": {
+        "qobuz": "312076091"
+      },
+      "album": "Iris",
+      "duration": 351,
+      "isrc": "NZFN02100100"
+    },
+    {
+      "artist": "Big Thief",
+      "title": "Simulation Swarm",
+      "services": {
+        "qobuz": "136139007"
+      },
+      "album": "Dragon New Warm Mountain I Believe In You",
+      "duration": 252,
+      "isrc": "GBAFL2100193"
+    },
+    {
+      "artist": "Florist",
+      "title": "Spring in Hours",
+      "services": {
+        "qobuz": "149902248"
+      },
+      "album": "Florist",
+      "duration": 365,
+      "isrc": "QZAZS2208704"
+    },
+    {
+      "artist": "Angel Olsen",
+      "title": "All The Good Times",
+      "services": {
+        "qobuz": "160154557"
+      },
+      "album": "Big Time",
+      "duration": 276,
+      "isrc": "US38Y2142401"
+    },
+    {
+      "artist": "Kevin Morby",
+      "title": "This Is A Photograph",
+      "services": {
+        "qobuz": "145615882"
+      },
+      "album": "This Is A Photograph",
+      "duration": 210,
+      "isrc": "USJ5G2131601"
+    },
+    {
+      "artist": "S. Carey",
+      "title": "Break Me Open",
+      "services": {
+        "qobuz": "142388423"
+      },
+      "album": "Break Me Open",
+      "duration": 183,
+      "isrc": "US38Y2142309"
+    },
+    {
+      "artist": "Kate Bollinger",
+      "title": "Yards / Gardens",
+      "services": {
+        "qobuz": "145433273"
+      },
+      "album": "Look at it in the Light",
+      "duration": 141,
+      "isrc": "US2J72100201"
+    },
+    {
+      "artist": "Lomelda",
+      "title": "Hannah Sun",
+      "services": {
+        "qobuz": "95933015"
+      },
+      "album": "Hannah",
+      "duration": 208,
+      "isrc": "QZAZS2007302"
+    },
+    {
+      "artist": "Julie Byrne",
+      "title": "Flare",
+      "services": {
+        "qobuz": "201569106"
+      },
+      "album": "The Greater Wings",
+      "duration": 227,
+      "isrc": "US2J72301607"
+    },
+    {
+      "artist": "Fenne Lily",
+      "title": "Lights Light Up",
+      "services": {
+        "qobuz": "189866724"
+      },
+      "album": "Big Picture",
+      "duration": 252,
+      "isrc": "USJ5G2232903"
+    },
+    {
+      "artist": "Billie Marten",
+      "title": "Garden of Eden",
+      "services": {
+        "qobuz": "109213070"
+      },
+      "album": "Flora Fauna",
+      "duration": 198,
+      "isrc": "GBUM72005706"
+    },
+    {
+      "artist": "Waxahatchee",
+      "title": "Right Back to It",
+      "services": {
+        "qobuz": "243067674"
+      },
+      "album": "Tigers Blood",
+      "duration": 273,
+      "isrc": "USEP42346004"
+    },
+    {
+      "artist": "Jacob Alon",
+      "title": "Liquid Gold 25",
+      "services": {
+        "qobuz": "319882711"
+      },
+      "album": "In Limerence",
+      "duration": 267,
+      "isrc": "GBUM72407797"
+    },
+    {
+      "artist": "Constant Smiles",
+      "title": "Allowed to Be",
+      "services": {
+        "qobuz": "347765235"
+      },
+      "album": "Moonflowers",
+      "duration": 261,
+      "isrc": "QMGEB2511603"
+    }
+  ]
+}

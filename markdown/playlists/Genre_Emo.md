@@ -1,0 +1,108 @@
+# Genre: Emo
+
+Imported genre playlist: Emo.
+
+Services: `qobuz:66736454`
+
+## Tracks (100)
+
+- **Rites of Spring** — For Want Of [Rites of Spring] (3:10) `isrc:US35U0401603` `qobuz:159949480`
+- **Gray Matter** — Burn No Bridges [Take It Back] (2:39) `isrc:US35U1302102` `qobuz:154116817`
+- **Embrace** — Dance Of Days [Embrace] (2:16) `isrc:US35U0402402` `qobuz:159950226`
+- **The Hated** — These Are The Days [Every Song] (7:55) `isrc:USCW62293402` `qobuz:169336830`
+- **Jawbreaker** — Boxcar [24 Hour Revenge Therapy] (1:55) `isrc:USA6N1410003` `qobuz:19647996`
+- **Samiam** — Don't Break Me [Billy] (5:31) `isrc:QM6XS1806302` `qobuz:66079956`
+- **Moss Icon** — Mirror [Lyburnum Wits End Liberation Fly] (2:17) `isrc:USY6C1220101` `qobuz:186374193`
+- **Native Nod** — Bread [This Can't Exist] (3:19) `isrc:USCW62293901` `qobuz:213786377`
+- **Still Life** — Truth [From Angry Heads With Skyward Eyes] (5:37) `isrc:US9FR1010057` `qobuz:74774846`
+- **Sunny Day Real Estate** — Seven [Diary] (4:46) `isrc:USSUB0984601` `qobuz:407819333`
+- **Cap'n Jazz** — Little League [Analphabetapolothology] (3:56) `isrc:USA6M0403601` `qobuz:77631048`
+- **Boys Life** — Fire Engine Red [Departures and Landfalls] (3:19) `isrc:GBMJG1509781` `qobuz:189418705`
+- **Christie Front Drive** — Saturday [Stereo] (6:35) `isrc:USBNA0500032` `qobuz:46888285`
+- **Sense Field** — Save Yourself [Tonight And Forever] (3:18) `isrc:CAN110100142` `qobuz:154863175`
+- **Texas Is The Reason** — Back And To The Left [Do You Know Who You Are?: The Complete Collection] (3:55) `isrc:USB4U1315107` `qobuz:139038090`
+- **Mineral** — Gloria [The Power Of Failing] (3:44) `isrc:USA771400059` `qobuz:372512708`
+- **The Promise Ring** — Red & Blue Jeans [Nothing Feels Good] (2:55) `isrc:USA6M1503503` `qobuz:29386699`
+- **The Van Pelt** — His Steppe Is My Prarie [Stealing from Our Favorite Thieves] (3:37) `isrc:ES71C1704901` `qobuz:69844094`
+- **Braid** — A Dozen Roses [Frame & Canvas] (4:15) `isrc:US3R49800007` `qobuz:181984403`
+- **Chamberlain** — Her Side of Sundown [Fate's Got a Driver] (2:40) `isrc:US4K30400001` `qobuz:175930525`
+- **Jejüne** — Regrets Are Unanswered Dreams [This Afternoons Malady] (5:21) `isrc:USCW62535108` `qobuz:353450174`
+- **Jets To Brazil** — Chinatown [Orange Rhyming Dictionary] (5:35) `isrc:USA6M0403805` `qobuz:77630615`
+- **knapsack** — Courage Was Confused [Day Three of My New Life] (3:51) `isrc:USGKX9809502` `qobuz:72717215`
+- **The Appleseed Cast** — Fishing The Sky [Mare Vitalis] (3:58) `isrc:US4KH0438602` `qobuz:3896194`
+- **American Football** — Never Meant [American Football] (4:27) `isrc:US3R49902501` `qobuz:3120789`
+- **Jimmy Eat World** — For Me This Is Heaven [Clarity] (4:06) `isrc:USCA29800958` `qobuz:843958`
+- **One Last Wish** — My Better Half [1986] (1:56) `isrc:US35U0411805` `qobuz:159951253`
+- **Österreich** — I'll take you everywhere [sisi] (4:22) `isrc:JPC622000503` `qobuz:295209715`
+- **Piebald** — American Hearts [We Are The Only Friends We Have] (3:09) `isrc:US3E40600382` `qobuz:296895428`
+- **Rainer Maria** — Breakfast of Champions [Look Now Look Again] (3:37) `isrc:US3R49900005` `qobuz:181996982`
+- **Grouper** — Fishing Bird (Empty Gutted in the Evening Breeze) [Dragging a Dead Deer Up a Hill] (3:51) `isrc:USI4R1115078` `qobuz:71526557`
+- **The Get Up Kids** — Holiday [Something to Write Home About] (3:29) `isrc:US3R42449701` `qobuz:272566239`
+- **The Juliana Theory** — Into The Dark [Emotion Is Dead] (4:03) `isrc:USTN10049315` `qobuz:1950833`
+- **Elliott** — Drive On To Me [False Cathedrals] (3:27) `isrc:USB4U0401036` `qobuz:139091456`
+- **Hey Mercedes** — Quality Revenge At Last [Loses Control] (3:28) `isrc:USVR90238901` `qobuz:385575230`
+- **Sunday's Best** — The Hardest Part [Poised to Break] (3:31) `isrc:US3R40000059` `qobuz:181981324`
+- **The Anniversary** — The D In Detroit [Designing a Nervous Breakdown] (4:16) `isrc:USVR90234204` `qobuz:385636315`
+- **The Jazz June** — The Medicine [The Medicine] (5:08) `isrc:USEZ61400099` `qobuz:74813029`
+- **Benton Falls** — Sad Like Winter Leaves [Fighting Starlight] (5:39) `isrc:US4KH0439904` `qobuz:3896602`
+- **Brand New** — Jude Law And A Semester Abroad [Your Favorite Weapon] (3:42) `isrc:USRZR1132602` `qobuz:54685832`
+- **Dashboard Confessional** — Screaming Infidelities [The Places You Have Come to Fear the Most] (3:46) `isrc:USVR90235402` `qobuz:170678260`
+- **Further Seems Forever** — The Moon Is Down [The Moon Is Down] (3:12) `isrc:USTN10018801` `qobuz:931200`
+- **Moneen** — Are We Really Happy With Who We Are Right Now? [Are We Really Happy With Who We Are Right Now?] (3:44) `isrc:USVR90238201` `qobuz:388087028`
+- **The Holophonics** — At Your Funeral [Maskarades, Vol. 5: Saves the Day (Stay What You Are)] (2:55) `isrc:USCGJ1445947` `qobuz:91616152`
+- **Thursday** — Understanding In A Car Crash [Full Collapse] (4:22) `isrc:USVIC0114502` `qobuz:121964722`
+- **Hot Rod Circuit** — The Pharmacist [Sorry About Tomorrow] (2:37) `isrc:USVR90236401` `qobuz:391964851`
+- **Northstar** — Pollyanna [Pollyanna] (4:08) `isrc:US72W0510033` `qobuz:80178300`
+- **Something Corporate** — If You C Jordan [Leaving Through The Window] (4:15) `isrc:USMC10200485` `qobuz:3877600`
+- **Taking Back Sunday** — Cute Without The 'E' (Cut From The Team) [Tell All Your Friends] (3:32) `isrc:USC4R1901592` `qobuz:74897716`
+- **The Gloria Record** — A Lull in Traffic [A Lull in Traffic - 20th Anniversary Edition] (4:05) `isrc:QM6N22044187` `qobuz:94507596`
+- **Time Spent Driving** — Rain on Sundays [Just Enough Bright] (4:43) `isrc:USCGH0769017` `qobuz:93899346`
+- **Copeland** — No One Really Wins [Revolving Doors] (3:53) `isrc:TLREW2221036` `qobuz:171169038`
+- **Cursive** — The Recluse [The Ugly Organ] (3:03) `isrc:US2U60405104` `qobuz:154817133`
+- **Funeral For A Friend** — Juneau [Casually Dressed And Deep In Conversation] (3:36) `isrc:GBAHS0300626` `qobuz:2682297`
+- **The Early November** — Ever So Sweet [The Room's Too Cold] (4:19) `isrc:USDTR0300081` `qobuz:134270127`
+- **The Jealous Sound** — Hope For Us [Kill Them With Kindness] (4:10) `isrc:USEK71319301` `qobuz:376998464`
+- **My Chemical Romance** — I'm Not Okay (I Promise) [I'm Not Okay (I Promise)] (3:19) `isrc:GBCAD2402004` `qobuz:329062179`
+- **SAY ANYTHING** — Wow, I Can Get Sexual Too [Is a Real Boy] (2:59) `isrc:USJAY0500670` `qobuz:168834683`
+- **Straylight Run** — Existentialism On Prom Night [Straylight Run] (4:01) `isrc:USVIC0422903` `qobuz:118265733`
+- **Acceptance** — Permanent [Phantoms] (3:21) `isrc:USSM10415706` `qobuz:131269`
+- **Armor For Sleep** — Car Underwater [What To Do When You Are Dead] (3:48) `isrc:US3X50510401` `qobuz:77854720`
+- **Bayside** — Devotion And Desire [Bayside] (3:30) `isrc:USVIC0525802` `qobuz:42521312`
+- **Mae** — The Ocean [The Everglow] (4:41) `isrc:USTN10500030` `qobuz:4461992`
+- **The Receiving End Of Sirens** — Planning a Prison Break [Between the Heart and the Synapse] (5:18) `isrc:US72W0510142` `qobuz:80183096`
+- **The Spill Canvas** — All over You [Honestly, I'm Doing Okay] (3:06) `isrc:USWB10801014` `qobuz:2846414`
+- **Tigers Jaw** — I Saw Water [Tigers Jaw] (4:16) `isrc:USQU71002303` `qobuz:133526380`
+- **Empire! Empire! (I Was A Lonely Estate)** — How to Make Love Stay [What It Takes To Move Forward] (4:24) `isrc:QMQRB1500013` `qobuz:83360325`
+- **Fruitfly** — Pile! No Pile! Pile! [Pile! No Pile! Pile!] (6:02) `isrc:QZFYZ2249314` `qobuz:143896109`
+- **Balance and Composure** — Reflection [The Things We Think We're Missing] (4:08) `isrc:USZZ81310106` `qobuz:299245853`
+- **Into It. Over It.** — No Eq [Standards] (4:05) `isrc:US72W1511381` `qobuz:80183231`
+- **Joyce Manor** — Constant Headache [S/T] (3:04) `isrc:USV351339189` `qobuz:264510218`
+- **La Dispute** — King Park [Wildlife] (6:54) `isrc:USZZ81110111` `qobuz:201534736`
+- **Snowing** — So I Shotgunned A Beer And Went To Bed [I Could Do Whatever I Wanted If I Wanted] (4:14) `isrc:TCAAW1114887` `qobuz:89554893`
+- **Algernon Cadwallader** — Spit Fountain [Algernon Cadwallader] (2:15) `isrc:TCADY1841743` `qobuz:192911240`
+- **Sonny Rollins** — How Are Things In Glocca Morra? [Sonny Rollins Vol. 1] (6:18) `isrc:USBN29900133` `qobuz:15435900`
+- **Leslie Grace** — Breathe (feat. Rubén Blades and Doreen Montalvo) [In The Heights (Original Motion Picture Soundtrack)] (4:06) `isrc:USAT22100939` `qobuz:123368763`
+- **You Blew It!** — The Fifties [Grow Up, Dude] (2:18) `isrc:USEZ61200018` `qobuz:48679726`
+- **Citizen** — The Night I Drove Alone [Youth] (2:13) `isrc:USQU71308806` `qobuz:83003903`
+- **Cstvt** — Between Berwyn and Bryn Mawr [Summer Fences] (5:29) `isrc:USTC90905760` `qobuz:83359913`
+- **Dowsing** — Blank Forever [Sky Coffin] (2:43) `isrc:QM7281940719` `qobuz:265201337`
+- **Foxing** — The Medic [The Albatross] (3:22) `isrc:US72W1311182` `qobuz:80188874`
+- **Marietta** — Cinco De Mayo Shit Show [Summer Death] (4:31) `isrc:USHM91390027` `qobuz:82944721`
+- **Pity Sex** — Wind-Up [Feast Of Love] (2:53) `isrc:USQU71309001` `qobuz:83174676`
+- **The World Is A Beautiful Place & I Am No Longer Afraid To Die** — Getting Sodas [Whenever, If Ever] (7:00) `isrc:USEZ61300055` `qobuz:65041973`
+- **Turnover** — Most Of The Time [Magnolia] (4:35) `isrc:USQU71307702` `qobuz:83174693`
+- **Modern Baseball** — Your Graduation [You're Gonna Miss It All] (2:43) `isrc:QMCE71300069` `qobuz:85227170`
+- **The Hotelier** — Your Deep Rest [Home, Like Noplace Is There] (3:47) `isrc:US4KC1176304` `qobuz:117797347`
+- **Tiny Moving Parts** — Always Focused [Pleasant Living] (2:40) `isrc:US72W1411223` `qobuz:80179789`
+- **Sorority Noise** — Using [Joy, Departed] (2:44) `isrc:USEZ61500026` `qobuz:48678142`
+- **Microwave** — Vomit [Much Love] (2:56) `isrc:USA6G1664007` `qobuz:397129196`
+- **Mom Jeans.** — Scott Pilgrim vs. My GPA [Best Buds] (3:59) `isrc:TCACP1635569` `qobuz:130284586`
+- **Origami Angel** — 24 Hr Drive-Thru [Somewhere City] (2:44) `isrc:QZHNA1928781` `qobuz:84143922`
+- **oso oso** — the view [basking in the glow] (3:25) `isrc:US72W1922702` `qobuz:63231007`
+- **Prince Daddy & The Hyena** — I Thought You Didn't Even Like Leaving [I Thought You Didn't Even Like Leaving] (3:00) `isrc:QMPKX1731993` `qobuz:356731031`
+- **Arm's Length** — Object Permanence [Never Before Seen, Never Again Found] (3:49) `isrc:QZNWP2271602` `qobuz:170683727`
+- **Pool Kids** — Almost Always Better (Almost Always Worse) [Pool Kids] (3:23) `isrc:QZ5FN2232462` `qobuz:193602195`
+- **Sweet Pill** — High Hopes [Where the Heart Is] (4:48) `isrc:USEZ62225603` `qobuz:147597806`
+- **Hot Mulligan** — Shhhh! Golf is On [Why Would I Watch] (2:44) `isrc:QZNWP2371509` `qobuz:187900300`
+- **Spanish Love Songs** — Haunted [No Joy] (3:43) `isrc:USSTT2300003` `qobuz:208905118`
+- **saturdays at your place** — waste away [these things happen] (2:46) `isrc:QZNWP2575408` `qobuz:340751808`

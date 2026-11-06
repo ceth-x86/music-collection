@@ -1,0 +1,108 @@
+# Genre: Pop Rock
+
+Imported genre playlist: Pop Rock.
+
+Services: `qobuz:66737531` `tidal:d36eb54f-d455-4256-9abf-54207a2894df`
+
+## Tracks (100)
+
+- **The Beatles** — Ticket To Ride [Help!] (3:09) `isrc:GBAYE0601471` `qobuz:30369488`
+- **The Monkees** — I'm a Believer [The Monkees] (2:43) `isrc:USRH11300311` `qobuz:8766434`
+- **The Hollies** — Bus Stop [The Air That I Breathe - The Very Best of the Hollies] (2:54) `isrc:GBAYE6600055` `qobuz:4457079`
+- **The Turtles** — Happy Together [Happy Together (Deluxe Version)] (2:52) `isrc:USQE11610097` `qobuz:33908089`
+- **Tommy James & The Shondells** — I Think We're Alone Now [I Think We're Alone Now] (2:10) `isrc:USRH10284732` `qobuz:35445338`
+- **THE GRASS ROOTS** — Let's Live For Today [Let's Live For Today] (2:46) `isrc:USMC16755344` `qobuz:99460462`
+- **Paul Revere & The Raiders** — Kicks [Midnight Ride] (2:31) `isrc:USSM16601060` `qobuz:13332141`
+- **The Easybeats** — Friday on My Mind [The Best of The Easybeats + Pretty Girl] (2:43) `isrc:AUAP06600062` `qobuz:385572196`
+- **The Dave Clark Five** — Glad All Over [Glad All Over] (2:43) `isrc:GB5KW1901734` `qobuz:383024141`
+- **The Lovin' Spoonful** — Summer in the City [Summer In The City - The Collection] (2:41) `isrc:USBR10300026` `qobuz:10533805`
+- **The Rascals** — Good Lovin' (Single Version) [The Young Rascals] (2:30) `isrc:USAT20106062` `qobuz:3005936`
+- **The Association** — Windy [Greatest Hits] (2:58) `isrc:USWB11400799` `qobuz:16473395`
+- **The Buckinghams** — Kind of a Drag [Kind of a Drag] (2:09) `isrc:QM6N21816274` `qobuz:53116452`
+- **The Box Tops** — The Letter [The Letter/Neon Rainbow] (1:52) `isrc:USAR17200009` `qobuz:415472`
+- **The Guess Who** — These Eyes [Wheatfield Soul] (3:46) `isrc:USRC10301167` `qobuz:450620`
+- **Elton John** — Crocodile Rock [Don't Shoot Me I'm Only The Piano Player] (3:55) `isrc:GBAMB7200001` `qobuz:3889755`
+- **Billy Joel** — My Life [52nd Street] (4:44) `isrc:USSM17800448` `qobuz:398204`
+- **Electric Light Orchestra** — Mr. Blue Sky [Out of the Blue] (5:03) `isrc:USSM17200399` `qobuz:28187766`
+- **Paul McCartney & Wings** — Band On The Run [Man on the Run] (5:12) `isrc:GBCCS2600008` `qobuz:389700610`
+- **Rod Stewart** — Da Ya Think I'm Sexy? [Blondes Have More Fun] (5:29) `isrc:USWB11302306` `qobuz:12262044`
+- **Fleetwood Mac** — Go Your Own Way [Greatest Hits] (3:36) `isrc:USWB22600010` `qobuz:424595370`
+- **Lighthouse** — One Fine Morning [One Fine Morning] (5:16) `isrc:CYRLD1501784` `qobuz:31878580`
+- **Longfellow** — Rock Me Gently [Greatest Hits] (3:27) `isrc:USCA29201582` `qobuz:4914741`
+- **Peter Frampton** — Show Me The Way [Frampton Comes Alive!] (4:46) `isrc:USAM17600027` `qobuz:259403379`
+- **Steve Miller Band** — Jet Airliner [Book Of Dreams] (4:20) `isrc:USCA28700789` `qobuz:58853839`
+- **Nick Gilder** — Hot Child In The City [Hot Child In The City] (3:34) `isrc:USCH39100017` `qobuz:4615985`
+- **The Babys** — Isn't It Time [Anthology] (4:04) `isrc:UKKP22200114` `qobuz:169171322`
+- **Toto** — Hold the Line [Toto] (3:55) `isrc:USSM17800444` `qobuz:50243`
+- **Boz Scaggs** — Lido Shuffle (2023 Remaster) [Silk Degrees] (3:43) `isrc:USSM17500569` `qobuz:218168745`
+- **Robert Palmer** — Bad Case Of Loving You (Doctor, Doctor) [Addictions Vol. 1] (3:10) `isrc:USWWW0127580` `qobuz:52484333`
+- **Rick Springfield** — Jessie's Girl [Working Class Dog] (3:14) `isrc:USRC18108188` `qobuz:46900011`
+- **Bryan Adams** — Summer Of '69 [Reckless] (3:36) `isrc:USAM18490006` `qobuz:20199618`
+- **Bruce Springsteen** — Dancing In the Dark [Born In The U.S.A.] (4:05) `isrc:USSM18400416` `qobuz:13360993`
+- **John Mellencamp** — Hurts So Good [Words & Music: John Mellencamp's Greatest Hits] (3:39) `isrc:USJM18200002` `qobuz:51979619`
+- **Huey Lewis And The News** — The Power Of Love [Greatest Hits:  Huey Lewis And The News] (3:54) `isrc:USCA20600519` `qobuz:1950801`
+- **The J. Geils Band** — Centerfold [Freeze Frame] (3:37) `isrc:USCA28100075` `qobuz:16657276`
+- **Starship** — We Built This City [Knee Deep In The Hoopla] (4:56) `isrc:USRC18503424` `qobuz:57003494`
+- **The Outfield** — Your Love [Play Deep] (3:43) `isrc:USSM10100176` `qobuz:195971708`
+- **Cutting Crew** — (I Just) Died In Your Arms [Broadcast] (4:40) `isrc:GBAAA8600046` `qobuz:1942318`
+- **Mike + The Mechanics** — All I Need is a Miracle [Air (Amazon Original Motion Picture Soundtrack)] (4:11) `isrc:GBHJD8500003` `qobuz:204649313`
+- **Roxette** — The Look [A Collection of Roxette Hits! Their 20 Greatest Songs!] (3:57) `isrc:SEAME8878010` `qobuz:822603`
+- **Katrina And The Waves** — Walking On Sunshine [Katrina & The Waves] (3:58) `isrc:USCA28500452` `qobuz:830197`
+- **Crowded House** — Don't Dream It's Over [Crowded House] (3:59) `isrc:USCA28600048` `qobuz:34280662`
+- **The Bangles** — Manic Monday [The Essential Bangles] (3:05) `isrc:USSM10017495` `qobuz:94703`
+- **Billy Squier** — The Stroke [Don't Say No] (3:37) `isrc:USCA21001203` `qobuz:16657251`
+- **Eddie Money** — Take Me Home Tonight [The Essential Eddie Money] (3:31) `isrc:USSM10113106` `qobuz:17575227`
+- **Pat Benatar** — We Belong [Tropico] (3:41) `isrc:USCH38400001` `qobuz:2271430`
+- **John Parr** — St. Elmo's Fire (Man in Motion) [80s Summer] (4:08) `isrc:USAT21101216` `qobuz:96029216`
+- **Bruce Hornsby** — The Way It Is [The Way It Is] (4:57) `isrc:USRC18507944` `qobuz:176689`
+- **Scandal** — The Warrior [We Are The '80s] (3:58) `isrc:USSM18400617` `qobuz:46990176`
+- **Hootie & The Blowfish** — Only Wanna Be With You [Cracked Rear View] (3:46) `isrc:USRH11901025` `qobuz:61464965`
+- **Matchbox Twenty** — Push [Yourself or Someone Like You] (3:58) `isrc:USAT21204200` `qobuz:7785292`
+- **Barenaked Ladies** — One Week [Stunt] (2:49) `isrc:USRE19800261` `qobuz:50203906`
+- **THE GOO GOO DOLLS** — Iris [Dizzy up the Girl] (4:49) `isrc:USWB11507961` `qobuz:32087917`
+- **Smash Mouth** — All Star [Astro Lounge] (3:20) `isrc:USIR19902220` `qobuz:753583`
+- **Sugar Ray** — Fly [Floored] (4:04) `isrc:USAT29700344` `qobuz:2999650`
+- **Semisonic** — Closing Time [Feeling Strangely Fine - 20th Anniversary Edition] (4:33) `isrc:USUM71810665` `qobuz:52704329`
+- **Eagle-Eye Cherry** — Save Tonight [Desireless] (4:02) `isrc:GBAKW9800044` `qobuz:769560`
+- **Duncan Sheik** — Barely Breathing [Duncan Sheik] (4:14) `isrc:USAT29600039` `qobuz:11720568`
+- **Del Amitri** — Roll To Me [Twisted] (2:12) `isrc:GBAAM9500007` `qobuz:771478`
+- **Natalie Imbruglia** — Torn [Left Of The Middle] (4:04) `isrc:GBARL9700412` `qobuz:269687`
+- **The Cardigans** — Lovefool [First Band On The Moon] (3:13) `isrc:SEBKB9629380` `qobuz:58423829`
+- **Savage Garden** — I Want You [Savage Garden] (3:52) `isrc:USSM19700098` `qobuz:31753044`
+- **Hanson** — MMMBop [MmmBop : The Collection] (4:27) `isrc:USMR19786791` `qobuz:2392409`
+- **Sixpence None The Richer** — Kiss Me [Sixpence None The Richer] (3:28) `isrc:USEE19900312` `qobuz:97535470`
+- **The Wallflowers** — One Headlight [Bringing Down The Horse] (5:13) `isrc:USIR19600462` `qobuz:131792855`
+- **Spin Doctors** — Two Princes [Pocket Full Of Kryptonite (Anniversary Edition)] (4:16) `isrc:USSM19000350` `qobuz:3848946`
+- **Joan Osborne** — One Of Us [Relish] (5:21) `isrc:USPR39500200` `qobuz:27865204`
+- **Tal Bachman** — She's so High [Tal Bachman] (3:44) `isrc:USSM19802720` `qobuz:4858386`
+- **New Radicals** — You Get What You Give [Maybe You've Been Brainwashed Too] (5:00) `isrc:USMC19858327` `qobuz:499646`
+- **Lifehouse** — Hanging By A Moment [No Name Face] (3:38) `isrc:USDW10022031` `qobuz:13368880`
+- **The Corrs** — Breathless [In Blue] (3:27) `isrc:USAT20001907` `qobuz:2999826`
+- **Train** — Drops of Jupiter (Tell Me) [Drops Of Jupiter] (4:19) `isrc:USSM10019751` `qobuz:14069842`
+- **Michelle Branch** — Everywhere [The Spirit Room] (3:35) `isrc:USMV20100080` `qobuz:2770602`
+- **John Mayer** — No Such Thing [Room For Squares] (3:51) `isrc:USSM10102940` `qobuz:435828`
+- **Vanessa Carlton** — A Thousand Miles [Be Not Nobody] (3:56) `isrc:USIR10210955` `qobuz:3879319`
+- **Maroon 5** — This Love [Songs About Jane] (3:27) `isrc:USJAY0300080` `qobuz:54712755`
+- **Sheryl Crow** — Soak Up The Sun [Hits And Rarities] (4:51) `isrc:USAM10200092` `qobuz:26171088`
+- **Kelly Clarkson** — Since U Been Gone [Breakaway] (3:09) `isrc:GBCTA0400231` `qobuz:28389997`
+- **Gavin DeGraw** — I Don't Want to Be [Chariot] (3:37) `isrc:USJAY0300148` `qobuz:205742`
+- **The Fray** — Over My Head (Cable Car) [Over My Head (Cable Car)] (3:56) `isrc:USSM10502369` `qobuz:406117`
+- **KT Tunstall** — Suddenly I See [Eye To The Telescope] (3:21) `isrc:GBGLM0400069` `qobuz:811016`
+- **The Script** — Breakeven [The Script] (4:21) `isrc:GBARL0800147` `qobuz:13023489`
+- **OneRepublic** — Counting Stars [Native] (4:15) `isrc:USUM71301306` `qobuz:16980926`
+- **P!nk** — So What [Funhouse (Expanded Edition)] (3:35) `isrc:USLF20800067` `qobuz:60465100`
+- **Sara Bareilles** — Love Song [Little Voice] (4:18) `isrc:USSM10700066` `qobuz:4840567`
+- **Daughtry** — It's Not Over [Daughtry] (3:35) `isrc:GBCTA0600228` `qobuz:380958`
+- **Daniel Powter** — Bad Day [Daniel Powter] (3:54) `isrc:USWB10401971` `qobuz:2267355`
+- **The Calling** — Wherever You Will Go [Camino Palmero] (3:28) `isrc:USRC10001047` `qobuz:3112508`
+- **Hoobastank** — The Reason [The Reason] (3:52) `isrc:USIR20300704` `qobuz:59090544`
+- **Juanes** — La Camisa Negra [Mi Sangre] (3:35) `isrc:USUL10400965` `qobuz:3869579`
+- **Mana** — Labios Compartidos [Amar Es Combatir] (5:19) `isrc:MXF150600448` `qobuz:3021083`
+- **Imagine Dragons** — Demons [Night Visions] (2:56) `isrc:USUM71201071` `qobuz:7593470`
+- **Lawson** — Standing In The Dark [Lawson - EP] (3:31) `isrc:GBUM71205638` `qobuz:27419621`
+- **5 Seconds Of Summer** — Youngblood [Youngblood] (3:23) `isrc:GBUM71800366` `qobuz:48486384`
+- **Panic! At The Disco** — High Hopes [High Hopes] (3:12) `isrc:USAT21801174` `qobuz:49804593`
+- **Busted** — Year 3000 [Busted] (3:15) `isrc:GBAAN0201145` `qobuz:3878407`
+- **McFly** — Five Colours In Her Hair [Room On The 3rd Floor] (2:57) `isrc:GBAAN0400517` `qobuz:9015685`
+- **Jonas Brothers** — Sucker [Happiness Begins] (3:01) `isrc:USUG11900515` `qobuz:62426715`
+- **Adam Lambert** — Whataya Want from Me [For Your Entertainment] (3:47) `isrc:GBCTA0900344` `qobuz:164919`

@@ -1,0 +1,1010 @@
+{
+  "name": "Genre: Soft Rock",
+  "services": {
+    "qobuz": "66737623",
+    "tidal": "543ba226-f240-41f4-967c-cbaee50caf00"
+  },
+  "description": "Imported genre playlist: Soft Rock.",
+  "tracks": [
+    {
+      "artist": "Bread",
+      "title": "Make It with You",
+      "services": {
+        "qobuz": "2943207"
+      },
+      "album": "The Best of Bread",
+      "duration": 192,
+      "isrc": "USEE10180854"
+    },
+    {
+      "artist": "The Carpenters",
+      "title": "(They Long To Be) Close To You",
+      "services": {
+        "qobuz": "55717620"
+      },
+      "album": "Carpenters With The Royal Philharmonic Orchestra",
+      "duration": 220,
+      "isrc": "USUM71815356"
+    },
+    {
+      "artist": "Cat Stevens",
+      "title": "Wild World",
+      "services": {
+        "qobuz": "16214339"
+      },
+      "album": "Tea For The Tillerman",
+      "duration": 200,
+      "isrc": "GBAAN7000041"
+    },
+    {
+      "artist": "Elton John",
+      "title": "Your Song",
+      "services": {
+        "qobuz": "28071095"
+      },
+      "album": "Elton John",
+      "duration": 244,
+      "isrc": "GBAMB9500072"
+    },
+    {
+      "artist": "Gordon Lightfoot",
+      "title": "If You Could Read My Mind",
+      "services": {
+        "qobuz": "2728963"
+      },
+      "album": "If You Could Read My Mind",
+      "duration": 229,
+      "isrc": "USRE19900467"
+    },
+    {
+      "artist": "Linda Ronstadt",
+      "title": "Long Long Time",
+      "services": {
+        "qobuz": "131792575"
+      },
+      "album": "Silk Purse",
+      "duration": 262,
+      "isrc": "USCA27000147"
+    },
+    {
+      "artist": "America",
+      "title": "A Horse with No Name",
+      "services": {
+        "qobuz": "15765443"
+      },
+      "album": "America",
+      "duration": 255,
+      "isrc": "USWB11304213"
+    },
+    {
+      "artist": "Carly Simon",
+      "title": "Anticipation",
+      "services": {
+        "qobuz": "23885388"
+      },
+      "album": "Anticipation",
+      "duration": 202,
+      "isrc": "USEE11400438"
+    },
+    {
+      "artist": "Carole King",
+      "title": "It's Too Late",
+      "services": {
+        "qobuz": "12662551"
+      },
+      "album": "Tapestry",
+      "duration": 233,
+      "isrc": "USSM17100509"
+    },
+    {
+      "artist": "Harry Nilsson",
+      "title": "Without You",
+      "services": {
+        "qobuz": "44293839"
+      },
+      "album": "Nilsson Schmilsson",
+      "duration": 201,
+      "isrc": "USRC17101019"
+    },
+    {
+      "artist": "James Taylor",
+      "title": "You've Got a Friend",
+      "services": {
+        "qobuz": "14345372"
+      },
+      "album": "Mud Slide Slim And The Blue Horizon",
+      "duration": 269,
+      "isrc": "USWB11304018"
+    },
+    {
+      "artist": "Jim Croce",
+      "title": "Time in a Bottle",
+      "services": {
+        "qobuz": "385613744"
+      },
+      "album": "You Don't Mess Around With Jim",
+      "duration": 148,
+      "isrc": "GBAJE7200780"
+    },
+    {
+      "artist": "Lobo",
+      "title": "I'd Love You to Want Me",
+      "services": {
+        "qobuz": "6287223"
+      },
+      "album": "Of A Simple Man",
+      "duration": 247,
+      "isrc": "USAT20108558"
+    },
+    {
+      "artist": "Looking Glass",
+      "title": "Brandy (You're a Fine Girl)",
+      "services": {
+        "qobuz": "2337929"
+      },
+      "album": "Looking Glass",
+      "duration": 189,
+      "isrc": "USSM10903222"
+    },
+    {
+      "artist": "Neil Young",
+      "title": "Heart of Gold",
+      "services": {
+        "qobuz": "35927312"
+      },
+      "album": "Harvest",
+      "duration": 187,
+      "isrc": "USRE11100415"
+    },
+    {
+      "artist": "Seals & Crofts",
+      "title": "Summer Breeze",
+      "services": {
+        "qobuz": "2934389"
+      },
+      "album": "Summer Breeze",
+      "duration": 205,
+      "isrc": "USWB19901645"
+    },
+    {
+      "artist": "Paul McCartney & Wings",
+      "title": "My Love",
+      "services": {
+        "qobuz": "54426518"
+      },
+      "album": "Red Rose Speedway",
+      "duration": 248,
+      "isrc": "GBCCS1800111"
+    },
+    {
+      "artist": "Ace",
+      "title": "How Long",
+      "services": {
+        "qobuz": "385301790"
+      },
+      "album": "How Long Has This Been Going On?",
+      "duration": 204,
+      "isrc": "GBAZJ0600006"
+    },
+    {
+      "artist": "Dave Loggins",
+      "title": "Please Come to Boston",
+      "services": {
+        "qobuz": "13082848"
+      },
+      "album": "Wonderful Oldies",
+      "duration": 247,
+      "isrc": "USSM17500571"
+    },
+    {
+      "artist": "Eagles",
+      "title": "The Best of My Love",
+      "services": {
+        "qobuz": "10474088"
+      },
+      "album": "On The Border (Hi-Res Version)",
+      "duration": 274,
+      "isrc": "USEE11300174"
+    },
+    {
+      "artist": "Harry Chapin",
+      "title": "Cat's in the Cradle",
+      "services": {
+        "qobuz": "27822514"
+      },
+      "album": "The Elektra Collection (1971-1978)",
+      "duration": 229,
+      "isrc": "USRH11502473"
+    },
+    {
+      "artist": "John Denver",
+      "title": "Annie's Song",
+      "services": {
+        "qobuz": "60748334"
+      },
+      "album": "Back Home Again",
+      "duration": 180,
+      "isrc": "USRC17403082"
+    },
+    {
+      "artist": "The Hollies",
+      "title": "The Air That I Breathe",
+      "services": {
+        "qobuz": "38278837"
+      },
+      "album": "Head out of Dreams (The Complete Hollies August 1973 - May 1988)",
+      "duration": 253,
+      "isrc": "GBGYU0800011"
+    },
+    {
+      "artist": "10cc",
+      "title": "I'm Not In Love",
+      "services": {
+        "qobuz": "21561044"
+      },
+      "album": "20th Century Masters: The Millennium Collection: Best Of 10CC",
+      "duration": 367,
+      "isrc": "GBF087500001"
+    },
+    {
+      "artist": "Eric Carmen",
+      "title": "All By Myself",
+      "services": {
+        "qobuz": "42657542"
+      },
+      "album": "Eric Carmen",
+      "duration": 429,
+      "isrc": "USAR10400530"
+    },
+    {
+      "artist": "Orleans",
+      "title": "Dance with Me",
+      "services": {
+        "qobuz": "2852557"
+      },
+      "album": "Dance With Me: The Best Of Orleans",
+      "duration": 180,
+      "isrc": "USEE10250642"
+    },
+    {
+      "artist": "Peter Frampton",
+      "title": "Baby, I Love Your Way",
+      "services": {
+        "qobuz": "121540631"
+      },
+      "album": "Acoustic Classics",
+      "duration": 308,
+      "isrc": "USPK91500007"
+    },
+    {
+      "artist": "Al Stewart",
+      "title": "Year of the Cat",
+      "services": {
+        "qobuz": "4744380"
+      },
+      "album": "Year Of The Cat",
+      "duration": 401,
+      "isrc": "USALS0100032"
+    },
+    {
+      "artist": "Andrew Gold",
+      "title": "Lonely Boy",
+      "services": {
+        "qobuz": "2943712"
+      },
+      "album": "Thank You for Being a Friend: The Best of Andrew Gold",
+      "duration": 261,
+      "isrc": "USEE10183941"
+    },
+    {
+      "artist": "Boz Scaggs",
+      "title": "We're All Alone (2023 Remaster)",
+      "services": {
+        "qobuz": "218168746"
+      },
+      "album": "Silk Degrees",
+      "duration": 252,
+      "isrc": "USSM17500447"
+    },
+    {
+      "artist": "Burton Cummings",
+      "title": "Stand Tall",
+      "services": {
+        "qobuz": "82616"
+      },
+      "album": "Burton Cummings",
+      "duration": 272,
+      "isrc": "USSM10003989"
+    },
+    {
+      "artist": "Chicago",
+      "title": "If You Leave Me Now",
+      "services": {
+        "qobuz": "8766738"
+      },
+      "album": "X",
+      "duration": 238,
+      "isrc": "USRH11300066"
+    },
+    {
+      "artist": "Electric Light Orchestra",
+      "title": "Telephone Line",
+      "services": {
+        "qobuz": "28185325"
+      },
+      "album": "A New World Record",
+      "duration": 279,
+      "isrc": "USSM18600411"
+    },
+    {
+      "artist": "England Dan & John Ford Coley",
+      "title": "I'd Really Love to See You Tonight",
+      "services": {
+        "qobuz": "173743648"
+      },
+      "album": "The Complete Albums 1976-1979",
+      "duration": 159,
+      "isrc": "USAT20181306"
+    },
+    {
+      "artist": "Firefall",
+      "title": "You Are the Woman",
+      "services": {
+        "qobuz": "2869323"
+      },
+      "album": "Firefall",
+      "duration": 164,
+      "isrc": "USAT20003575"
+    },
+    {
+      "artist": "Henry Gross",
+      "title": "Shannon",
+      "services": {
+        "qobuz": "77734065"
+      },
+      "album": "One Hit Wanderer",
+      "duration": 233,
+      "isrc": "QMYAX1100053"
+    },
+    {
+      "artist": "Starbuck",
+      "title": "Moonlight Feels Right",
+      "services": {
+        "qobuz": "68450985"
+      },
+      "album": "Moonlight Feels Right",
+      "duration": 221,
+      "isrc": "USS8D7620019"
+    },
+    {
+      "artist": "Bee Gees",
+      "title": "How Deep Is Your Love",
+      "services": {
+        "qobuz": "37473580"
+      },
+      "album": "Greatest",
+      "duration": 244,
+      "isrc": "GBAKW7701005"
+    },
+    {
+      "artist": "Billy Joel",
+      "title": "Just the Way You Are",
+      "services": {
+        "qobuz": "11465767"
+      },
+      "album": "The Essential Billy Joel",
+      "duration": 290,
+      "isrc": "USSM17700371"
+    },
+    {
+      "artist": "Bob Welch",
+      "title": "Sentimental Lady",
+      "services": {
+        "qobuz": "1727549"
+      },
+      "album": "French Kiss",
+      "duration": 178,
+      "isrc": "USCA28900206"
+    },
+    {
+      "artist": "Fleetwood Mac",
+      "title": "Dreams (2001 Remaster)",
+      "services": {
+        "qobuz": "19512574"
+      },
+      "album": "Rumours",
+      "duration": 258,
+      "isrc": "USWB10101368"
+    },
+    {
+      "artist": "Kansas",
+      "title": "Dust in the Wind",
+      "services": {
+        "qobuz": "40542"
+      },
+      "album": "Point Of Know Return",
+      "duration": 206,
+      "isrc": "USSM10103196"
+    },
+    {
+      "artist": "Player",
+      "title": "Baby Come Back",
+      "services": {
+        "qobuz": "61018543"
+      },
+      "album": "Player",
+      "duration": 255,
+      "isrc": "NLF057790013"
+    },
+    {
+      "artist": "Rod Stewart",
+      "title": "You're in My Heart (The Final Acclaim)",
+      "services": {
+        "qobuz": "11092648"
+      },
+      "album": "Foot Loose & Fancy Free (Hi-Res Version)",
+      "duration": 269,
+      "isrc": "USWB11301932"
+    },
+    {
+      "artist": "Stephen Bishop",
+      "title": "On And On",
+      "services": {
+        "qobuz": "735872"
+      },
+      "album": "Careless",
+      "duration": 181,
+      "isrc": "USMC17647807"
+    },
+    {
+      "artist": "Supertramp",
+      "title": "Give A Little Bit",
+      "services": {
+        "qobuz": "112884227"
+      },
+      "album": "Even In The Quietest Moments...",
+      "duration": 248,
+      "isrc": "USAM19500634"
+    },
+    {
+      "artist": "Ambrosia",
+      "title": "How Much I Feel",
+      "services": {
+        "qobuz": "11684614"
+      },
+      "album": "Life Beyond L.A.",
+      "duration": 283,
+      "isrc": "USWB17800025"
+    },
+    {
+      "artist": "Dr. Hook",
+      "title": "Sharing The Night Together",
+      "services": {
+        "qobuz": "4551963"
+      },
+      "album": "Pleasure & Pain",
+      "duration": 173,
+      "isrc": "USCA28700097"
+    },
+    {
+      "artist": "Gerry Rafferty",
+      "title": "Baker Street",
+      "services": {
+        "qobuz": "1735054"
+      },
+      "album": "City to City",
+      "duration": 366,
+      "isrc": "GBAYE7800619"
+    },
+    {
+      "artist": "Gino Vannelli",
+      "title": "I Just Wanna Stop",
+      "services": {
+        "qobuz": "131166889"
+      },
+      "album": "Brother To Brother",
+      "duration": 218,
+      "isrc": "USAM19500614"
+    },
+    {
+      "artist": "Little River Band",
+      "title": "Reminiscing",
+      "services": {
+        "qobuz": "178613572"
+      },
+      "album": "Sleeper Catcher",
+      "duration": 257,
+      "isrc": "AUEM01000133"
+    },
+    {
+      "artist": "Michael Johnson",
+      "title": "Bluer Than Blue",
+      "services": {
+        "qobuz": "4791922"
+      },
+      "album": "Classic Masters",
+      "duration": 175,
+      "isrc": "USEM30100657"
+    },
+    {
+      "artist": "Nicolette Larson",
+      "title": "Lotta Love",
+      "services": {
+        "qobuz": "2884018"
+      },
+      "album": "Nicolette (LP Version)",
+      "duration": 191,
+      "isrc": "USWB10100567"
+    },
+    {
+      "artist": "Pablo Cruise",
+      "title": "Love Will Find A Way",
+      "services": {
+        "qobuz": "58563990"
+      },
+      "album": "Worlds Away",
+      "duration": 251,
+      "isrc": "USAM10110111"
+    },
+    {
+      "artist": "Poco",
+      "title": "Heart Of The Night",
+      "services": {
+        "qobuz": "132401792"
+      },
+      "album": "Legend",
+      "duration": 293,
+      "isrc": "USMC17908377"
+    },
+    {
+      "artist": "The Doobie Brothers",
+      "title": "What a Fool Believes",
+      "services": {
+        "qobuz": "11079833"
+      },
+      "album": "Minute by Minute",
+      "duration": 223,
+      "isrc": "USWB10902441"
+    },
+    {
+      "artist": "Walter Egan",
+      "title": "Magnet and Steel",
+      "services": {
+        "qobuz": "67122429"
+      },
+      "album": "Magnet and Steel - Single",
+      "duration": 206,
+      "isrc": "GBQRF1338460"
+    },
+    {
+      "artist": "Christopher Cross",
+      "title": "Sailing",
+      "services": {
+        "qobuz": "2932927"
+      },
+      "album": "Christopher Cross",
+      "duration": 256,
+      "isrc": "USWB19901344"
+    },
+    {
+      "artist": "Kenny Loggins",
+      "title": "This Is It",
+      "services": {
+        "qobuz": "20827801"
+      },
+      "album": "The Essential Kenny Loggins",
+      "duration": 236,
+      "isrc": "USSM10020938"
+    },
+    {
+      "artist": "Randy Vanwarmer",
+      "title": "Just When I Needed You Most",
+      "services": {
+        "qobuz": "174366498"
+      },
+      "album": "Just When I Needed You Most",
+      "duration": 241,
+      "isrc": "USRH10722181"
+    },
+    {
+      "artist": "Styx",
+      "title": "The Best Of Times",
+      "services": {
+        "qobuz": "4373308"
+      },
+      "album": "Greatest Hits",
+      "duration": 258,
+      "isrc": "USAM18000366"
+    },
+    {
+      "artist": "Air Supply",
+      "title": "All Out of Love",
+      "services": {
+        "qobuz": "44395469"
+      },
+      "album": "Lost in Love",
+      "duration": 243,
+      "isrc": "USAR18000002"
+    },
+    {
+      "artist": "Climax Blues Band",
+      "title": "I Love You",
+      "services": {
+        "qobuz": "70484094"
+      },
+      "album": "Flying the Flag",
+      "duration": 245,
+      "isrc": "USA371622046"
+    },
+    {
+      "artist": "Paul Davis",
+      "title": "Cool Night",
+      "services": {
+        "qobuz": "15102136"
+      },
+      "album": "Cool Night",
+      "duration": 218,
+      "isrc": "USAR18100010"
+    },
+    {
+      "artist": "REO Speedwagon",
+      "title": "Keep on Loving You",
+      "services": {
+        "qobuz": "62528280"
+      },
+      "album": "Hi Infidelity (30th Anniversary Edition)",
+      "duration": 200,
+      "isrc": "USSM11102617"
+    },
+    {
+      "artist": "Robbie Dupree",
+      "title": "Steal Away",
+      "services": {
+        "qobuz": "51933134"
+      },
+      "album": "Steal Away",
+      "duration": 197,
+      "isrc": "UKDNQ1505641"
+    },
+    {
+      "artist": "Dan Fogelberg",
+      "title": "Leader of the Band",
+      "services": {
+        "qobuz": "31854003"
+      },
+      "album": "Love Songs",
+      "duration": 256,
+      "isrc": "USSM18100035"
+    },
+    {
+      "artist": "Journey",
+      "title": "Open Arms",
+      "services": {
+        "qobuz": "378395"
+      },
+      "album": "Greatest Hits",
+      "duration": 199,
+      "isrc": "USSM18100126"
+    },
+    {
+      "artist": "Marty Balin",
+      "title": "Hearts",
+      "services": {
+        "qobuz": "5318749"
+      },
+      "album": "Balin",
+      "duration": 257,
+      "isrc": "USEM38900287"
+    },
+    {
+      "artist": "Adrian Gurvitz",
+      "title": "Classic",
+      "services": {
+        "qobuz": "189703628"
+      },
+      "album": "Classic",
+      "duration": 221,
+      "isrc": "GBAYE8200084"
+    },
+    {
+      "artist": "Glenn Frey",
+      "title": "The One You Love",
+      "services": {
+        "qobuz": "7583564"
+      },
+      "album": "Live",
+      "duration": 315,
+      "isrc": "USMC10000963"
+    },
+    {
+      "artist": "The Alan Parsons Project",
+      "title": "Eye In The Sky",
+      "services": {
+        "qobuz": "38623125"
+      },
+      "album": "Eye In The Sky",
+      "duration": 284,
+      "isrc": "USAR18200010"
+    },
+    {
+      "artist": "Toto",
+      "title": "I Won't Hold You Back",
+      "services": {
+        "qobuz": "45077128"
+      },
+      "album": "Greatest Hits: 40 Trips Around The Sun",
+      "duration": 292,
+      "isrc": "USSM19801934"
+    },
+    {
+      "artist": "Foreigner",
+      "title": "I Want to Know What Love Is",
+      "services": {
+        "qobuz": "14083922"
+      },
+      "album": "I Want to Know What Love Is - The Ballads",
+      "duration": 286,
+      "isrc": "USRZR1113634"
+    },
+    {
+      "artist": "John Waite",
+      "title": "Missing You",
+      "services": {
+        "qobuz": "1744671"
+      },
+      "album": "No Brakes",
+      "duration": 269,
+      "isrc": "USEM38800236"
+    },
+    {
+      "artist": "Phil Collins",
+      "title": "Against All Odds (Take a Look at Me Now)",
+      "services": {
+        "qobuz": "34601517"
+      },
+      "album": "The Singles",
+      "duration": 206,
+      "isrc": "USRH11603367"
+    },
+    {
+      "artist": "Survivor",
+      "title": "The Search Is Over",
+      "services": {
+        "qobuz": "20191315"
+      },
+      "album": "The Essential Survivor",
+      "duration": 252,
+      "isrc": "USVR19600004"
+    },
+    {
+      "artist": "Heart",
+      "title": "These Dreams",
+      "services": {
+        "qobuz": "40842870"
+      },
+      "album": "Heart",
+      "duration": 254,
+      "isrc": "USCA28500010"
+    },
+    {
+      "artist": "Mr. Mister",
+      "title": "Broken Wings",
+      "services": {
+        "qobuz": "13320234"
+      },
+      "album": "Welcome To The Real World",
+      "duration": 343,
+      "isrc": "USRC18404638"
+    },
+    {
+      "artist": "Starship",
+      "title": "Sara",
+      "services": {
+        "qobuz": "57003495"
+      },
+      "album": "Knee Deep In The Hoopla",
+      "duration": 292,
+      "isrc": "USRC18507727"
+    },
+    {
+      "artist": "Boston",
+      "title": "Amanda",
+      "services": {
+        "qobuz": "17337810"
+      },
+      "album": "Third Stage",
+      "duration": 256,
+      "isrc": "USMC18621437"
+    },
+    {
+      "artist": "Crowded House",
+      "title": "Don't Dream It's Over",
+      "services": {
+        "qobuz": "34280662"
+      },
+      "album": "Crowded House",
+      "duration": 239,
+      "isrc": "USCA28600048"
+    },
+    {
+      "artist": "Peter Cetera",
+      "title": "Glory of Love",
+      "services": {
+        "qobuz": "2883904"
+      },
+      "album": "Solitude / Solitaire",
+      "duration": 258,
+      "isrc": "USWB10000619"
+    },
+    {
+      "artist": "The Moody Blues",
+      "title": "Your Wildest Dreams",
+      "services": {
+        "qobuz": "41004417"
+      },
+      "album": "Nights In White Satin",
+      "duration": 290,
+      "isrc": "GBUM71301092"
+    },
+    {
+      "artist": "Cheap Trick",
+      "title": "The Flame",
+      "services": {
+        "qobuz": "5379115"
+      },
+      "album": "Lap Of Luxury",
+      "duration": 340,
+      "isrc": "USSM18700122"
+    },
+    {
+      "artist": "Mike + The Mechanics",
+      "title": "The Living Years",
+      "services": {
+        "qobuz": "245587971"
+      },
+      "album": "Out Of The Blue",
+      "duration": 332,
+      "isrc": "GB5KW1900096"
+    },
+    {
+      "artist": "Bad English",
+      "title": "When I See You Smile",
+      "services": {
+        "qobuz": "34672"
+      },
+      "album": "Bad English",
+      "duration": 257,
+      "isrc": "USSM18900345"
+    },
+    {
+      "artist": "Richard Marx",
+      "title": "Right Here Waiting",
+      "services": {
+        "qobuz": "4601104"
+      },
+      "album": "Repeat Offender",
+      "duration": 264,
+      "isrc": "USEM38900208"
+    },
+    {
+      "artist": "Extreme",
+      "title": "More Than Words",
+      "services": {
+        "qobuz": "21758614"
+      },
+      "album": "Extreme II: Pornograffitti",
+      "duration": 333,
+      "isrc": "USAM19090005"
+    },
+    {
+      "artist": "Bryan Adams",
+      "title": "(Everything I Do) I Do It For You",
+      "services": {
+        "qobuz": "647366"
+      },
+      "album": "Waking Up The Neighbours",
+      "duration": 393,
+      "isrc": "USAM19190012"
+    },
+    {
+      "artist": "Genesis",
+      "title": "Hold on My Heart",
+      "services": {
+        "qobuz": "45098545"
+      },
+      "album": "We Can't Dance",
+      "duration": 277,
+      "isrc": "GBAAA0700776"
+    },
+    {
+      "artist": "Mr. Big",
+      "title": "To Be With You",
+      "services": {
+        "qobuz": "61446317"
+      },
+      "album": "Greatest Hits",
+      "duration": 206,
+      "isrc": "USAT20302609"
+    },
+    {
+      "artist": "Eric Clapton",
+      "title": "Tears in Heaven",
+      "services": {
+        "qobuz": "176716599"
+      },
+      "album": "Unplugged",
+      "duration": 280,
+      "isrc": "USRE11300314"
+    },
+    {
+      "artist": "Hootie & The Blowfish",
+      "title": "Let Her Cry",
+      "services": {
+        "qobuz": "61464964"
+      },
+      "album": "Cracked Rear View",
+      "duration": 308,
+      "isrc": "USRH11901024"
+    },
+    {
+      "artist": "John Mayer",
+      "title": "Daughters",
+      "services": {
+        "qobuz": "33318568"
+      },
+      "album": "Heavier Things",
+      "duration": 239,
+      "isrc": "USSM10310154"
+    },
+    {
+      "artist": "James Blunt",
+      "title": "You're Beautiful",
+      "services": {
+        "qobuz": "36352587"
+      },
+      "album": "Back to Bedlam",
+      "duration": 213,
+      "isrc": "USAT21303052"
+    },
+    {
+      "artist": "Coldplay",
+      "title": "Fix You",
+      "services": {
+        "qobuz": "35541910"
+      },
+      "album": "X&Y",
+      "duration": 294,
+      "isrc": "GBAYE1600179"
+    },
+    {
+      "artist": "Lifehouse",
+      "title": "You And Me",
+      "services": {
+        "qobuz": "41004055"
+      },
+      "album": "Lifehouse",
+      "duration": 195,
+      "isrc": "USDW10500001"
+    },
+    {
+      "artist": "The Fray",
+      "title": "How to Save a Life",
+      "services": {
+        "qobuz": "2719602"
+      },
+      "album": "How To Save A Life",
+      "duration": 262,
+      "isrc": "USSM10601178"
+    },
+    {
+      "artist": "Snow Patrol",
+      "title": "Chasing Cars",
+      "services": {
+        "qobuz": "731297"
+      },
+      "album": "Eyes Open",
+      "duration": 267,
+      "isrc": "GBUM70600345"
+    }
+  ]
+}

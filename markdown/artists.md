@@ -1,0 +1,969 @@
+# Artists (967)
+
+- **65daysofstatic** `qobuz:551461` `tidal:3683174`
+- **90 Day Men** `qobuz:2052613` `tidal:4238900`
+- **a-ha** `qobuz:53675` `tidal:12009`
+- **A Perfect Circle** `qobuz:126961` `tidal:11241`
+- **A Place To Bury Strangers** `qobuz:145725` `tidal:3634010`
+- **AC/DC** `qobuz:161143` `tidal:945`
+- **Adam Beyer** `qobuz:561709` `tidal:3540206`
+- **Aerosmith** `qobuz:47437` `tidal:950`
+- **AFI** `tidal:25031`
+- **After Forever** `tidal:3554793`
+- **AFX** `qobuz:543185`
+- **Ag Da Coroner** `tidal:4914968`
+- **Agatha Christie** `qobuz:2416998`
+- **Agent Fresco** `qobuz:2152423` `tidal:4605062`
+- **Agnostic Front** `tidal:3517884`
+- **Agriculture** `qobuz:13819237` `tidal:16593503`
+- **Airbag** `qobuz:520347` `tidal:7247150`
+- **Akuarium** `qobuz:4908764`
+- **Alcest** `qobuz:2027901` `tidal:3939495`
+- **Alexisonfire** `qobuz:414000` `tidal:3583135`
+- **ALEXSUCKS** `tidal:28017160`
+- **Alice In Chains** `qobuz:151851` `tidal:608`
+- **Alice Sara Ott** `qobuz:256285` `tidal:5903484`
+- **All Shall Perish** `qobuz:552327` `tidal:3554799`
+- **Allegaeon** `qobuz:847190` `tidal:3838604`
+- **Allie X** `qobuz:2361161` `tidal:5462742`
+- **Altar Of Plagues** `qobuz:600559`
+- **Alter Bridge** `tidal:58484`
+- **Amelie Lens** `tidal:8012579`
+- **Amenra** `qobuz:1801343` `tidal:3585634`
+- **American Football** `qobuz:344731`
+- **Amon Tobin** `qobuz:262107` `tidal:3530358`
+- **Amorphis** `qobuz:510162` `tidal:9233`
+- **Amy Macdonald** `qobuz:70802` `tidal:3648083`
+- **Anathema** `qobuz:243650` `tidal:3502267`
+- **And So I Watch You from Afar** `qobuz:1038920` `tidal:3614758`
+- **Andrew Lloyd Webber;Tim Rice** `qobuz:7739644`
+- **Andrew Lloyd Webber & Tim Rice & Angel Cuerdas** `tidal:5777110`
+- **Angelmaker** `qobuz:4963249` `tidal:6937246`
+- **Animal Collective** `qobuz:403996`
+- **Animals As Leaders** `qobuz:821261`
+- **Anna Meredith** `tidal:4731062`
+- **Anna von Hausswolff** `qobuz:1078840` `tidal:3664307`
+- **Anneke van Giersbergen** `qobuz:571601` `tidal:4076570`
+- **Annihilator** `tidal:37260`
+- **AntiMatter** `qobuz:832301` `tidal:3840333`
+- **Antropoceno** `qobuz:25829586`
+- **Aphex Twin** `qobuz:53267` `tidal:3531604`
+- **APPARAT** `qobuz:603619` `tidal:3519747`
+- **Arab Strap** `qobuz:71454` `tidal:3575002`
+- **Arca** `qobuz:81780`
+- **Arcade Fire** `qobuz:374619` `tidal:17364`
+- **Arcadea** `qobuz:3080206` `tidal:8654164`
+- **Arch Enemy** `qobuz:224949` `tidal:24088`
+- **Architects** `qobuz:391633` `tidal:3564608`
+- **Archive** `qobuz:41332` `tidal:16293`
+- **Archspire** `qobuz:1230583` `tidal:4666965`
+- **Arctic Monkeys** `qobuz:403888`
+- **Arcturus** `qobuz:760412` `tidal:21259`
+- **Arena** `qobuz:98255`
+- **Artillery** `qobuz:799557` `tidal:3579896`
+- **Asking Alexandria** `qobuz:978957` `tidal:3635103`
+- **Assemblage 23** `tidal:3878158`
+- **Astronoid** `qobuz:4160373` `tidal:5891578`
+- **At The Drive-In** `qobuz:189235` `tidal:3638960`
+- **At The Gates** `qobuz:1031358` `tidal:3593337`
+- **Atheist** `qobuz:737190` `tidal:3638379`
+- **ATL** `qobuz:192143`
+- **Atmosphere** `qobuz:150681` `tidal:3503583`
+- **Atreyu** `qobuz:455198` `tidal:37226`
+- **Attila** `qobuz:731674`
+- **Audioslave** `qobuz:71458` `tidal:5027`
+- **August Burns Red** `qobuz:64284` `tidal:3505425`
+- **Auktyon** `tidal:5481479`
+- **Autechre** `qobuz:548431` `tidal:3569016`
+- **Automatic** `qobuz:29152291`
+- **Autumn Tears** `tidal:4163758`
+- **Avantasia** `qobuz:555794`
+- **Avenged Sevenfold** `qobuz:325005` `tidal:14155`
+- **Axel Rudi Pell** `qobuz:2119202`
+- **Baby Strange** `qobuz:1751701` `tidal:4156806`
+- **Bad Omens** `qobuz:2532415` `tidal:7541226`
+- **Bad Sector** `qobuz:2413423`
+- **Bad Wolves** `qobuz:3386750` `tidal:6943884`
+- **Badbadnotgood** `qobuz:744791` `tidal:4512972`
+- **Baroness** `qobuz:812981` `tidal:3638398`
+- **Basic Channel** `qobuz:788197`
+- **Bathory** `qobuz:556072` `tidal:3616084`
+- **Batushka** `qobuz:4504564` `tidal:7589064`
+- **Bayside** `qobuz:530617` `tidal:3540718`
+- **Beach House** `qobuz:40495` `tidal:3519311`
+- **Beardfish** `qobuz:567144` `tidal:3585931`
+- **Beartooth** `qobuz:1310269` `tidal:5064610`
+- **Beastie Boys** `qobuz:43813` `tidal:8963`
+- **Beborn Beton** `tidal:4175739`
+- **Beck** `qobuz:37921` `tidal:24905`
+- **Been Stellar** `qobuz:11485158` `tidal:7640534`
+- **Behemoth** `qobuz:551515`
+- **Belle and Sebastian** `qobuz:61968`
+- **Belle & Sebastian** `tidal:3521914`
+- **Bent Knee** `qobuz:3087044`
+- **Beth Gibbons** `qobuz:69761` `tidal:30466`
+- **Better Lovers** `qobuz:18014527` `tidal:38634090`
+- **Between The Buried And Me** `qobuz:895549` `tidal:3540811`
+- **Between the Crosses** `tidal:8001905`
+- **Biffy Clyro** `qobuz:203537` `tidal:18535`
+- **Big Big Train** `qobuz:4877235` `tidal:6394932`
+- **Billy Talent** `qobuz:312512` `tidal:14969`
+- **Biosphere** `qobuz:391266` `tidal:21723`
+- **Birds In Row** `qobuz:1405611` `tidal:4481229`
+- **Björk** `qobuz:27940` `tidal:16992`
+- **Bjørn Riis** `qobuz:4390029` `tidal:6038225`
+- **Black Country, New Road** `qobuz:4267011` `tidal:17665879`
+- **Black Flag** `tidal:3603543`
+- **Black Foxxes** `qobuz:2595520` `tidal:6216551`
+- **Black Label Society** `qobuz:91237`
+- **black midi** `qobuz:4020648` `tidal:10932434`
+- **Black Pistol Fire** `qobuz:2216002` `tidal:5022328`
+- **Black Sabbath** `qobuz:73063` `tidal:86`
+- **Blackbraid** `qobuz:14372703` `tidal:32527429`
+- **Blackfield** `qobuz:605863` `tidal:3604150`
+- **Blackwater Holylight** `tidal:9582118`
+- **Bleachers** `qobuz:1632063`
+- **Blessthefall** `qobuz:333705` `tidal:36978`
+- **Blind Ego** `qobuz:336709` `tidal:3557554`
+- **Blind Guardian** `qobuz:551916`
+- **Bloc Party** `qobuz:35187` `tidal:15041`
+- **Blood Incantation** `qobuz:5324028` `tidal:7376844`
+- **Blood Red Throne** `qobuz:1240413` `tidal:3617585`
+- **Blue Öyster Cult** `qobuz:81842`
+- **Blur** `qobuz:38319` `tidal:10052`
+- **Boards of Canada** `qobuz:410459` `tidal:3568992`
+- **Bob Dylan** `qobuz:365921` `tidal:80`
+- **Bola** `qobuz:299673`
+- **Bon Jovi** `qobuz:45063` `tidal:27418`
+- **Bones** `qobuz:459778`
+- **Booker T** `qobuz:75298`
+- **Boris Brejcha** `qobuz:96302` `tidal:3588686`
+- **Bosse-de-Nage** `qobuz:964412`
+- **Bossk** `tidal:4186444`
+- **Boston Manor** `qobuz:2420239` `tidal:5484678`
+- **Botch** `qobuz:950512` `tidal:3649333`
+- **Bowling For Soup** `tidal:3127`
+- **boygenius** `qobuz:3939752` `tidal:10253322`
+- **Brad** `qobuz:158766`
+- **Brad Mehldau** `tidal:13979`
+- **Break My Fucking Sky** `tidal:8863924`
+- **Brian Eno** `qobuz:7711` `tidal:9230`
+- **Bring Me The Horizon** `qobuz:333314` `tidal:19137`
+- **Bruce Soord** `qobuz:805072` `tidal:6621560`
+- **Bruce Springsteen** `qobuz:64959` `tidal:509`
+- **Brutus** `qobuz:88220` `tidal:3564662`
+- **Bryan Ferry** `qobuz:38331` `tidal:9379`
+- **Bryan Quinn,Carlos Herrera** `tidal:7226544`
+- **Buckcherry** `qobuz:94753`
+- **Buckethead** `qobuz:161160` `tidal:3547150`
+- **Bullet For My Valentine** `qobuz:236224` `tidal:28787`
+- **Burial** `qobuz:291276` `tidal:3583803`
+- **Buried In Verona** `qobuz:358729` `tidal:3709897`
+- **Burnin Red Ivanhoe** `tidal:4912878`
+- **Burzum** `qobuz:697955` `tidal:3619864`
+- **Bush** `qobuz:154072`
+- **Cabaret Voltaire** `qobuz:56551` `tidal:64567`
+- **Cage The Elephant** `qobuz:111979` `tidal:3523389`
+- **Caliban** `qobuz:223908` `tidal:37278`
+- **Callum Beattie** `tidal:5143034`
+- **Camera Obscura** `tidal:3587817`
+- **Camerata Mediolanense** `tidal:4911337`
+- **Cannabis Club ATL** `tidal:6976850`
+- **Carcass** `qobuz:576066` `tidal:3616317`
+- **Caroline Polachek** `qobuz:619329` `tidal:7342247`
+- **Casey** `qobuz:42878`
+- **Casey Veggies** `tidal:5415675`
+- **Caspian** `qobuz:28861559` `tidal:3881491`
+- **Celeste** `qobuz:116359`
+- **Celtic Frost** `qobuz:71521`
+- **cEvin Key** `qobuz:849413` `tidal:3885528`
+- **Charlotte de Witte** `qobuz:1483659` `tidal:7404405`
+- **Chat Pile** `qobuz:9929197` `tidal:15950771`
+- **Chelsea Grin** `qobuz:878779` `tidal:3857016`
+- **Chelsea Wolfe** `qobuz:898048` `tidal:4112974`
+- **Chevelle** `qobuz:149556` `tidal:5947`
+- **Christer Bothen** `tidal:4435838`
+- **Cigarettes After Sex** `qobuz:2855721` `tidal:8266580`
+- **Circa Waves** `qobuz:1481211` `tidal:5221331`
+- **Claude Thornhill** `tidal:3538792`
+- **Clawfinger** `qobuz:212837` `tidal:27499`
+- **clipping.** `qobuz:1609371` `tidal:5416448`
+- **Clipse** `qobuz:104577`
+- **Cloudkicker** `qobuz:2033735`
+- **Cocteau Twins** `qobuz:71534` `tidal:34541`
+- **Coheed And Cambria** `qobuz:198046` `tidal:3524990`
+- **Coil** `qobuz:469587` `tidal:3567230`
+- **Colin Stetson** `qobuz:385430` `tidal:3851770`
+- **Colony 5** `tidal:3625033`
+- **Colyn** `qobuz:3768804`
+- **Come to Grief** `qobuz:12988953`
+- **Comeback Kid** `qobuz:375179` `tidal:3540712`
+- **Conjurer** `qobuz:2377477` `tidal:7185952`
+- **Converge** `qobuz:462192` `tidal:3517838`
+- **Coroner** `qobuz:713808`
+- **corto.alto** `qobuz:7769697` `tidal:16388573`
+- **Cosmograf** `tidal:5653469`
+- **Cradle Of Filth** `qobuz:176495` `tidal:26125`
+- **Crippled Black Phoenix** `qobuz:730602` `tidal:3607159`
+- **✝✝✝ (Crosses)** `qobuz:8547860` `tidal:4723524`
+- **Cult of Luna** `qobuz:982904` `tidal:3616303`
+- **Current 93** `qobuz:2323112`
+- **Cyhra** `qobuz:3250595` `tidal:9027373`
+- **Cynic** `qobuz:398458` `tidal:55575`
+- **dälek** `qobuz:488068` `tidal:3824431`
+- **Damian Wilson** `tidal:3518940`
+- **Dark Tranquillity** `qobuz:146927` `tidal:3563892`
+- **Daron Malakian and Scars On Broadway** `qobuz:3631566` `tidal:9697499`
+- **David Bowie** `qobuz:38326` `tidal:4768`
+- **David Byrne** `qobuz:5128` `tidal:10468`
+- **David Gilmour** `qobuz:81808` `tidal:9306`
+- **David Sylvian** `qobuz:47139`
+- **Dead By April** `qobuz:398989` `tidal:3587895`
+- **Dead Can Dance** `qobuz:226573` `tidal:3565299`
+- **Deadletter** `qobuz:11329278` `tidal:19327437`
+- **Deafheaven** `qobuz:964413` `tidal:3938220`
+- **Death** `qobuz:478379` `tidal:37424`
+- **DEATH ANGEL** `qobuz:551514` `tidal:3554846`
+- **Death Cab For Cutie** `qobuz:239099` `tidal:29630`
+- **Death From Above 1979** `qobuz:502827` `tidal:15544`
+- **Death Grips** `qobuz:765442` `tidal:4557268`
+- **Death In June** `qobuz:1259311`
+- **Deborah de Luca** `tidal:4535874`
+- **Décembre Noir** `qobuz:1768935` `tidal:10384017`
+- **Deena Abdelwahed** `qobuz:2709043` `tidal:7951360`
+- **Deep Purple** `qobuz:26742` `tidal:3355`
+- **Deepchord** `qobuz:597955`
+- **Def Leppard** `qobuz:111721` `tidal:948`
+- **Deftones** `qobuz:307085` `tidal:15349`
+- **Deicide** `tidal:37247`
+- **Delain** `tidal:37217`
+- **Delerium** `qobuz:205785` `tidal:10473`
+- **Depeche Mode** `qobuz:47445` `tidal:8877`
+- **Devin Townsend** `qobuz:564332` `tidal:3658981`
+- **Devin Townsend Project** `tidal:3659784`
+- **Diary of Dreams** `qobuz:849352` `tidal:3599766`
+- **Die Spitz** `qobuz:13423301` `tidal:22732612`
+- **DIIV** `qobuz:856534` `tidal:4646142`
+- **Dimmu Borgir** `qobuz:503785` `tidal:3540667`
+- **Dire Straits** `qobuz:71553` `tidal:29893`
+- **Disturbed** `qobuz:223730` `tidal:14135`
+- **Ditz** `qobuz:3827257` `tidal:8931410`
+- **Don Caballero** `qobuz:2052295`
+- **Donato Dozzy** `qobuz:103571`
+- **Doom:VS** `qobuz:1783030`
+- **Dormant Ordeal** `qobuz:6527284` `tidal:5900760`
+- **Downfall Of Gaia** `qobuz:895550` `tidal:4665461`
+- **Download** `qobuz:849412` `tidal:15441`
+- **Draconian** `qobuz:1013053` `tidal:3604480`
+- **Dream Theater** `qobuz:62194` `tidal:14670`
+- **Dua Lipa** `qobuz:2367140` `tidal:7162333`
+- **Dumbhead** `qobuz:18691497`
+- **Duran Duran** `qobuz:43822` `tidal:461`
+- **Dvne** `qobuz:2814073` `tidal:7077015`
+- **Dying Fetus** `qobuz:799777` `tidal:3638393`
+- **Earthside** `qobuz:10361205` `tidal:7262659`
+- **Edge Of Sanity** `qobuz:2295340` `tidal:3616074`
+- **Editors** `qobuz:260587` `tidal:3178`
+- **Einar Solberg** `qobuz:610404` `tidal:12101624`
+- **Einstürzende Neubauten** `qobuz:239966` `tidal:3545413`
+- **El Grupo Nuevo De Omar Rodríguez-López** `qobuz:9526779`
+- **Eloy** `qobuz:227002` `tidal:11338`
+- **Elton John** `qobuz:11434` `tidal:6890`
+- **Elvis Costelleo & The Attractions** `qobuz:11771458`
+- **Eminem** `qobuz:46971`
+- **Emma Ruth Rundle** `qobuz:793892` `tidal:5552323`
+- **End Of Green** `qobuz:551927` `tidal:3528003`
+- **English Teacher** `qobuz:6669479` `tidal:18121796`
+- **Enrico Sangiuliano** `qobuz:747246` `tidal:4546450`
+- **Enslaved** `qobuz:114068` `tidal:21578`
+- **Enter Shikari** `qobuz:345190` `tidal:3581716`
+- **Epica** `tidal:3554837`
+- **Europe** `qobuz:23471`
+- **Evergrey** `qobuz:1563363` `tidal:3659754`
+- **Everything Everything** `qobuz:551597`
+- **Exodus** `qobuz:290773` `tidal:9386`
+- **Explosions In The Sky** `qobuz:189261` `tidal:3519306`
+- **Exxasens** `qobuz:3342433`
+- **Fabio Camero & Agatha Christie** `tidal:5827594`
+- **Faith No More** `qobuz:160035` `tidal:11945`
+- **Fall Out Boy** `qobuz:62235` `tidal:17231`
+- **Falling In Reverse** `qobuz:592092` `tidal:3988097`
+- **Fallujah** `qobuz:2575499` `tidal:4331489`
+- **Fatboy Slim** `tidal:782`
+- **Fates Warning** `qobuz:783223` `tidal:3784202`
+- **Fear Factory** `qobuz:410390` `tidal:37293`
+- **Federico Albanese** `qobuz:1662502` `tidal:5317652`
+- **Fish** `tidal:12265`
+- **Fit For An Autopsy** `tidal:3985809`
+- **Fjørt** `qobuz:1200870`
+- **FKA twigs** `qobuz:1277858` `tidal:5037977`
+- **Fleshgod Apocalypse** `qobuz:609068` `tidal:3610003`
+- **Floating Points** `qobuz:574593` `tidal:3714298`
+- **Florence + the Machine** `qobuz:112890` `tidal:3628370`
+- **Flying Colors** `qobuz:753429` `tidal:4164457`
+- **Flying Lotus** `qobuz:291266` `tidal:3531724`
+- **Foals** `qobuz:48128` `tidal:37322`
+- **Fontaines D.C.** `qobuz:3534225` `tidal:9484963`
+- **Foo Fighters** `qobuz:148676` `tidal:2753`
+- **Frail Body** `qobuz:5555988` `tidal:8747619`
+- **Franz Ferdinand** `qobuz:53199` `tidal:27439`
+- **Friko** `qobuz:10220374` `tidal:22145`
+- **Front 242** `qobuz:552413` `tidal:3575291`
+- **Front Line Assembly** `qobuz:478756` `tidal:16609`
+- **Frozen Plasma** `tidal:3528012`
+- **Fugazi** `qobuz:826072` `tidal:3868884`
+- **Gaerea** `qobuz:4795842`
+- **galahad** `qobuz:755673` `tidal:4595660`
+- **Gamma Ray** `qobuz:290622`
+- **Gang Of Four** `qobuz:53263`
+- **Garbage** `qobuz:53677` `tidal:15542`
+- **GAS** `qobuz:109921`
+- **Gazpacho** `qobuz:296791` `tidal:10551`
+- **Geese** `tidal:3578350`
+- **Genesis** `qobuz:4438885` `tidal:9163`
+- **Ghost** `qobuz:25274827` `tidal:3913625`
+- **Gianni Celeste** `tidal:3602811`
+- **Gilla Band** `qobuz:12062317` `tidal:29462237`
+- **Glass Beach** `qobuz:5669580` `tidal:5532014`
+- **Global Communication** `qobuz:202599` `tidal:36339`
+- **God is an Astronaut** `qobuz:1571984` `tidal:3931868`
+- **God's Mob Peezy** `tidal:30576454`
+- **God's Pet** `qobuz:25838493`
+- **Godspeed You! Black Emperor** `qobuz:2058535`
+- **GoGo Penguin** `tidal:4764457`
+- **Gogol Bordello** `qobuz:299899` `tidal:3518355`
+- **Gojira** `qobuz:82320` `tidal:3883303`
+- **Good Charlotte** `qobuz:153968`
+- **Gorillaz** `tidal:8853`
+- **Gorrch** `tidal:7662996`
+- **Greta Van Fleet** `qobuz:3042607` `tidal:7899267`
+- **Grian Chatten** `qobuz:3893275` `tidal:12485416`
+- **Grieving The Days To Come** `tidal:3558862`
+- **GRIMA** `qobuz:1520982`
+- **Grimes** `tidal:3819688`
+- **Guano Apes** `qobuz:201806` `tidal:1492`
+- **Guided By Voices** `qobuz:808231`
+- **Guns N' Roses** `qobuz:54838` `tidal:32944`
+- **Guy Manning** `qobuz:324757`
+- **Guy Manning / Manning** `tidal:46485544`
+- **Hæresis** `qobuz:12221584` `tidal:19207935`
+- **Haken** `qobuz:310938`
+- **Halsey** `qobuz:530757`
+- **Hanging Garden** `qobuz:397979`
+- **Hania Rani** `qobuz:3448850` `tidal:8821161`
+- **Harakiri for the Sky** `qobuz:2304847` `tidal:5607378`
+- **Haujobb** `qobuz:784803`
+- **Hawkwind** `qobuz:39246` `tidal:9363`
+- **Hayley Williams** `qobuz:145559` `tidal:3653311`
+- **HEALTH** `qobuz:133303` `tidal:3571162`
+- **Heartworms** `qobuz:4376958` `tidal:3887727`
+- **Heaven Shall Burn** `qobuz:320536` `tidal:3569638`
+- **hehehe** `qobuz:13283737`
+- **Helloween** `qobuz:256347` `tidal:3554812`
+- **Hellripper** `qobuz:4815732`
+- **HELLYEAH** `qobuz:251480`
+- **High Vis** `qobuz:5265989` `tidal:9470083`
+- **Hildur Guðnadóttir** `qobuz:556142` `tidal:7409911`
+- **HIM** `qobuz:201185` `tidal:3051`
+- **HMLTD** `qobuz:3267037` `tidal:8160974`
+- **Hollywood Undead** `qobuz:86191` `tidal:3564132`
+- **Horse Lords** `qobuz:2035394` `tidal:6255790`
+- **House Of Pain** `qobuz:111932`
+- **House of Protection** `qobuz:21754617` `tidal:46353206`
+- **Hypocrisy** `qobuz:551925`
+- **IAMX** `qobuz:107971` `tidal:3663920`
+- **Ibaraki** `qobuz:12309326` `tidal:29787905`
+- **IDLES** `qobuz:2587652` `tidal:4653420`
+- **If These Trees Could Talk** `qobuz:4434837` `tidal:7764199`
+- **Iggy Pop** `qobuz:40219` `tidal:2449`
+- **Igorrr** `qobuz:497677` `tidal:3949100`
+- **Ihlo** `qobuz:15229473` `tidal:10561438`
+- **Ihsahn** `qobuz:769261` `tidal:3610284`
+- **Ill Considered** `qobuz:4184897` `tidal:8969364`
+- **Immortal** `qobuz:146908`
+- **In Flames** `qobuz:551918` `tidal:24053`
+- **In Mourning** `qobuz:866954` `tidal:3842184`
+- **In The Woods...** `qobuz:2289063` `tidal:4274245`
+- **In This Moment** `qobuz:566925` `tidal:3569545`
+- **Incubus** `qobuz:159536` `tidal:1086`
+- **Infected Mushroom** `qobuz:794336` `tidal:3633502`
+- **Injury Reserve** `qobuz:3235503`
+- **Interpol** `qobuz:111978` `tidal:9245`
+- **INXS** `qobuz:62474`
+- **IQ** `qobuz:623121` `tidal:3519280`
+- **Iron Maiden** `qobuz:94751` `tidal:9196`
+- **ISIS** `qobuz:23958897` `tidal:7280436`
+- **Jack White** `qobuz:40569` `tidal:3523905`
+- **James Blake** `qobuz:429216`
+- **Jasper Dolphin** `tidal:5924946`
+- **Jeff Buckley** `qobuz:46866`
+- **Jerry Cantrell** `qobuz:157077` `tidal:7187`
+- **Jethro Tull** `qobuz:39214` `tidal:10597`
+- **Jimi Hendrix** `qobuz:403064`
+- **Jimmy Eat World** `qobuz:47669`
+- **Job For A Cowboy** `qobuz:877208` `tidal:3787613`
+- **Joep Beving** `tidal:6467445`
+- **John Coltrane** `qobuz:26028` `tidal:9042`
+- **John Frusciante** `qobuz:106327` `tidal:14178`
+- **Joji** `tidal:5888982`
+- **Jonathan Davis** `qobuz:160762` `tidal:3534832`
+- **Joni Mitchell** `qobuz:35384` `tidal:13572`
+- **Jorn** `tidal:3604403`
+- **Joy Division** `qobuz:310345` `tidal:11949`
+- **Joyce Manor** `tidal:3852332`
+- **Judas Priest** `qobuz:98712` `tidal:701`
+- **Justin Hurwitz** `qobuz:2001308` `tidal:6169372`
+- **Kamelot** `qobuz:296933`
+- **Kanye West** `qobuz:35950` `tidal:25022`
+- **Kaonashi** `qobuz:4035895` `tidal:7477835`
+- **Karnivool** `qobuz:248553`
+- **Kasabian** `qobuz:167598` `tidal:1556`
+- **Kataklysm** `qobuz:551518` `tidal:3648720`
+- **Katatonia** `qobuz:600666` `tidal:3603510`
+- **Kate Bush** `qobuz:35162` `tidal:8957`
+- **Keith Jarrett** `qobuz:11302` `tidal:1067`
+- **Ken Ishii** `qobuz:388173`
+- **Kepler Ten** `qobuz:5670552` `tidal:8182107`
+- **Kick Chill** `qobuz:3873554` `tidal:10110029`
+- **Killing Joke** `qobuz:38870` `tidal:6823`
+- **Kim Gordon** `qobuz:35029` `tidal:6939914`
+- **King Crimson** `qobuz:1191678` `tidal:3888180`
+- **King Diamond** `tidal:37220`
+- **King Hannah** `qobuz:2562694` `tidal:15589894`
+- **King's X** `qobuz:305217`
+- **Kiss** `qobuz:47440` `tidal:27478`
+- **Kittie** `qobuz:622937`
+- **Klone** `qobuz:540230`
+- **KMFDM** `qobuz:736739` `tidal:15431`
+- **Knocked Loose** `qobuz:2732471` `tidal:6928332`
+- **kollapse** `tidal:8588665`
+- **Korn** `qobuz:47618` `tidal:780`
+- **Kreator** `qobuz:219884` `tidal:2568`
+- **Krematoriy** `qobuz:2354993`
+- **Kronos Quartet** `qobuz:163624` `tidal:5907`
+- **L.S. Dunes** `qobuz:15176717` `tidal:33935300`
+- **La Dispute** `qobuz:1046348` `tidal:3846590`
+- **La Grima** `tidal:7092153`
+- **Lacrimas Profundere** `qobuz:1062820` `tidal:3604442`
+- **Lacuna Coil** `tidal:3559347`
+- **Lady Gaga** `qobuz:61585`
+- **Ladytron** `qobuz:396599`
+- **Lake Of Tears** `qobuz:912445` `tidal:3616097`
+- **Lamb of God** `qobuz:239358` `tidal:3139`
+- **Lana Del Rey** `qobuz:653694` `tidal:4099308`
+- **Lantlôs** `qobuz:1666993`
+- **Laurie Anderson** `qobuz:2346584`
+- **Led Zeppelin** `qobuz:350774` `tidal:67522`
+- **Leftfield** `tidal:653`
+- **Legowelt** `qobuz:24190`
+- **Lenny Kravitz** `qobuz:38318`
+- **Leprous** `qobuz:610403` `tidal:3631982`
+- **LIGHTNING BOLT** `tidal:3868843`
+- **Limp Bizkit** `qobuz:72882`
+- **Linkin Park** `qobuz:308709` `tidal:14123`
+- **London Brew** `qobuz:17128100` `tidal:36676401`
+- **London Grammar** `qobuz:1148882` `tidal:5135134`
+- **Lonely Guest, Joe Talbot, Tricky** `tidal:26866401`
+- **Long Distance Calling** `qobuz:315268` `tidal:3658977`
+- **Lorde** `qobuz:1195379` `tidal:4931831`
+- **Lords of Black** `qobuz:2539861` `tidal:5585321`
+- **Lorna Shore** `qobuz:1640917` `tidal:5269283`
+- **Lost Society** `qobuz:1018838` `tidal:4830879`
+- **Low** `qobuz:45982`
+- **Luigi Tozzi** `qobuz:2299199`
+- **Lunatic Soul** `qobuz:1641364` `tidal:3604620`
+- **Lush** `qobuz:384646` `tidal:3565988`
+- **Machine Head** `qobuz:223914` `tidal:37263`
+- **Mad Season** `qobuz:170298` `tidal:3503745`
+- **Madonna** `qobuz:38897` `tidal:15545`
+- **Madrugada** `qobuz:227079` `tidal:9000`
+- **Mahavishnu Orchestra** `qobuz:160833`
+- **Manchester Orchestra** `qobuz:264286` `tidal:55839`
+- **Mandy, Indiana** `qobuz:9796014` `tidal:26395083`
+- **Manic Street Preachers** `qobuz:148502` `tidal:1294`
+- **Mantar** `qobuz:1604171` `tidal:4165250`
+- **Marduk** `tidal:24059`
+- **Marillion** `qobuz:26730` `tidal:10963`
+- **Marilyn Manson** `qobuz:46384` `tidal:27472`
+- **Maruja** `qobuz:705134` `tidal:4828104`
+- **Massive Attack** `qobuz:53293` `tidal:9056`
+- **Mastodon** `qobuz:363726` `tidal:15346`
+- **Max Richter** `qobuz:51276` `tidal:3566483`
+- **Maybeshewill** `qobuz:1129683` `tidal:3606828`
+- **Mayhem** `qobuz:509853` `tidal:21543`
+- **Mazzy Star** `qobuz:47362` `tidal:10979`
+- **Mc Bola** `tidal:4852708`
+- **Mclusky** `qobuz:384724`
+- **Megadeth** `qobuz:121232` `tidal:946`
+- **Melotron** `qobuz:1095665`
+- **Melt Yourself Down** `qobuz:909950` `tidal:4728798`
+- **Mesh** `qobuz:178363` `tidal:3554268`
+- **Meshuggah** `qobuz:176101`
+- **Messa** `qobuz:2672506` `tidal:7757843`
+- **Metal Church** `qobuz:359992` `tidal:14632`
+- **Metallica** `qobuz:62542` `tidal:8405`
+- **Metric** `qobuz:51582` `tidal:65040`
+- **Miles Davis** `qobuz:6760` `tidal:55`
+- **Mind.In.A.Box** `qobuz:725147` `tidal:3882255`
+- **Ministry** `qobuz:238150` `tidal:13630`
+- **Mitski** `qobuz:2380061` `tidal:6007100`
+- **Moderat** `qobuz:370894` `tidal:3717340`
+- **Modeselektor** `qobuz:370895` `tidal:3642808`
+- **Modest Mouse** `qobuz:154454` `tidal:4899`
+- **Mogwai** `qobuz:189401` `tidal:3568709`
+- **MØL** `tidal:9777900`
+- **Molchat Doma** `qobuz:6398023` `tidal:16737673`
+- **Moloko** `tidal:3566297`
+- **monetochka** `tidal:8350614`
+- **Monika Roscher Bigband** `qobuz:944737` `tidal:4778189`
+- **MONO** `qobuz:341035` `tidal:3518859`
+- **Monolake** `qobuz:591172`
+- **Monte Booker** `tidal:8361308`
+- **Moonspell** `qobuz:1069769` `tidal:3564223`
+- **Morrissey** `qobuz:42621`
+- **Mother of Millions** `qobuz:4270910` `tidal:5436162`
+- **Motionless In White** `tidal:3542740`
+- **Motörhead** `qobuz:54389`
+- **Mount Eerie** `qobuz:520901` `tidal:3526576`
+- **Mumiy Troll** `qobuz:928463` `tidal:4166553`
+- **Muse** `qobuz:75739`
+- **my bloody valentine** `qobuz:161115` `tidal:15122`
+- **My Chemical Romance** `qobuz:344230` `tidal:15574`
+- **My Dying Bride** `qobuz:605995` `tidal:22182`
+- **My Own Private Alaska** `qobuz:304747` `tidal:5252343`
+- **My Sleeping Karma** `qobuz:1067280` `tidal:4719607`
+- **Myrkur** `qobuz:1839908` `tidal:5784662`
+- **Nails** `qobuz:1764762`
+- **Nathan Fake** `qobuz:41927`
+- **Nautilus Pompilius** `qobuz:2280515` `tidal:4627200`
+- **Ne Obliviscaris** `qobuz:787058` `tidal:4611534`
+- **Neal Morse** `qobuz:287525` `tidal:3666410`
+- **Neil Young** `qobuz:35865`
+- **Nervosa** `qobuz:1068710`
+- **Neurosis** `qobuz:1801344` `tidal:3888133`
+- **Neuroticfish** `qobuz:961633` `tidal:3733203`
+- **Nevermore** `qobuz:324173` `tidal:3559354`
+- **New Order** `qobuz:53262` `tidal:11950`
+- **Nick Cave** `qobuz:46524`
+- **Nick Cave & The Bad Seeds** `qobuz:37035` `tidal:9003`
+- **Nick Drake** `qobuz:43247` `tidal:32955`
+- **Night Verses** `qobuz:3493072` `tidal:4986210`
+- **Nightwish** `tidal:25027`
+- **Nine Inch Nails** `qobuz:61740` `tidal:15794`
+- **Nirvana** `qobuz:46708` `tidal:19368`
+- **Nitzer Ebb** `qobuz:180685` `tidal:4028853`
+- **No-Man** `qobuz:801157` `tidal:3604253`
+- **Noize MC** `qobuz:370777` `tidal:3717283`
+- **Norma Jean** `qobuz:69635` `tidal:9643`
+- **Nosound** `qobuz:1074291` `tidal:3604621`
+- **Nothing** `qobuz:936009`
+- **Nothing But Thieves** `qobuz:1841735` `tidal:5164477`
+- **nothing,nowhere.** `qobuz:3117107` `tidal:7719679`
+- **Novembers Doom** `qobuz:1526431` `tidal:3737950`
+- **Numb** `qobuz:483718`
+- **Oasis** `qobuz:118681` `tidal:109`
+- **Oathbreaker** `qobuz:2499387` `tidal:3961706`
+- **Obscura** `qobuz:465058`
+- **Obscure Sphinx** `qobuz:9864333` `tidal:5345500`
+- **Oceans of Slumber** `qobuz:2357888` `tidal:5790138`
+- **Oceansize** `qobuz:382332` `tidal:3566196`
+- **Of Mice & Men** `qobuz:864669` `tidal:3877856`
+- **Olhava** `qobuz:5672464` `tidal:16988094`
+- **Olive Jones** `qobuz:18377461`
+- **Omar Rodríguez-López** `qobuz:469892` `tidal:16819289`
+- **Omar Rodríguez-López Quintet** `qobuz:9526747`
+- **Omnium Gatherum** `qobuz:561644` `tidal:3554821`
+- **On Thorns I Lay** `qobuz:1355146` `tidal:4442148`
+- **Oneohtrix Point Never** `qobuz:582404` `tidal:3715530`
+- **Opeth** `qobuz:243654` `tidal:37348`
+- **Orbital** `qobuz:344695`
+- **Orchestral Manoeuvres In The Dark (OMD)** `qobuz:38352` `tidal:10923`
+- **OSI** `tidal:3659762`
+- **Overmono** `qobuz:2730692` `tidal:7984290`
+- **Oxxxymiron** `qobuz:265958` `tidal:3853543`
+- **Ozric Tentacles** `qobuz:650451`
+- **Ozzy Osbourne** `qobuz:148715` `tidal:615`
+- **Pain Of Salvation** `qobuz:320529` `tidal:3659742`
+- **Palaye Royale** `qobuz:1950665` `tidal:4938243`
+- **Pallbearer** `qobuz:1908761` `tidal:4859520`
+- **Palm Reader** `qobuz:1737958` `tidal:4889318`
+- **Pan Pot** `qobuz:124634`
+- **Pan Sonic** `qobuz:401745`
+- **Panopticon** `qobuz:891034` `tidal:4585338`
+- **Pantera** `qobuz:226620` `tidal:6373`
+- **Papa Roach** `tidal:24961`
+- **Paradise Lost** `qobuz:200064` `tidal:2258`
+- **Paramore** `qobuz:145577` `tidal:19981`
+- **Parkway Drive** `qobuz:352492` `tidal:17808`
+- **Paul McCartney** `qobuz:35554`
+- **Paulo Miranda Silveira** `tidal:23907635`
+- **Pearl Jam** `qobuz:130792` `tidal:3116`
+- **Pendragon** `qobuz:613677` `tidal:4061003`
+- **Periphery** `qobuz:342494`
+- **Persefone** `qobuz:2195244` `tidal:4834981`
+- **Persephone** `tidal:4086966`
+- **Pestilence** `qobuz:342548` `tidal:37439`
+- **Pet Shop Boys** `qobuz:40225` `tidal:8900`
+- **Pete Namlook** `qobuz:828911`
+- **Peter Gabriel** `qobuz:40340` `tidal:9606`
+- **Peter Murphy** `tidal:15445`
+- **pg.lost** `qobuz:773799` `tidal:4114224`
+- **Phantogram** `qobuz:763301`
+- **PHD2** `qobuz:1225778` `tidal:4551327`
+- **Phideaux** `qobuz:6438049` `tidal:4635954`
+- **Philip Glass Ensemble** `qobuz:160156`
+- **Pianos Become The Teeth** `qobuz:1929719` `tidal:4289930`
+- **Pink Floyd** `qobuz:38324` `tidal:9706`
+- **Pixies** `qobuz:384655` `tidal:3565255`
+- **PJ Harvey** `qobuz:35405` `tidal:24912`
+- **Placebo** `qobuz:43837` `tidal:9022`
+- **PLAID** `tidal:3563592`
+- **Plantoid** `tidal:9481637`
+- **Plastikman** `qobuz:922136`
+- **Poh Hock** `qobuz:9848257` `tidal:15143232`
+- **Poison The Well** `qobuz:333718`
+- **Poppy** `tidal:9158616`
+- **Porcupine Tree** `qobuz:68448` `tidal:14967`
+- **Pornofilmy** `qobuz:7925006` `tidal:21363187`
+- **Porter Ricks** `qobuz:394626`
+- **Portico Quartet** `qobuz:120604` `tidal:3900698`
+- **Portishead** `qobuz:41259` `tidal:27441`
+- **Pretty Maids** `tidal:3801`
+- **Primal Scream** `qobuz:148798`
+- **Protomartyr** `qobuz:1052276` `tidal:4895106`
+- **Psychonaut** `qobuz:124999`
+- **Psychonaut 4** `tidal:4716984`
+- **Psychotic Waltz** `qobuz:829840` `tidal:4630445`
+- **Public Image Ltd.** `qobuz:769510` `tidal:64519`
+- **Pulp** `qobuz:51294` `tidal:30371`
+- **Pupil Slicer** `qobuz:7777332` `tidal:15179382`
+- **Puscifer** `qobuz:2198141` `tidal:65016`
+- **PVRIS** `qobuz:1888511` `tidal:5754661`
+- **Quade** `qobuz:828519` `tidal:3668454`
+- **Queen** `qobuz:43821` `tidal:8992`
+- **Queens Of The Stone Age** `qobuz:148265` `tidal:29902`
+- **Queensrÿche** `qobuz:69663` `tidal:64118`
+- **R.E.M.** `qobuz:43839` `tidal:9366`
+- **Racing Mount Pleasant** `tidal:53213831`
+- **Radiohead** `qobuz:43840` `tidal:64518`
+- **Rage** `tidal:18053227`
+- **Rage Against The Machine** `qobuz:155699` `tidal:741`
+- **Rainbow** `qobuz:71880` `tidal:30229`
+- **Rapper DDT** `tidal:9071544`
+- **Ray Wilson** `qobuz:331523` `tidal:3637983`
+- **RAYE** `qobuz:17487` `tidal:7779063`
+- **Recoil** `qobuz:300032` `tidal:33232`
+- **Red Hot Chili Peppers** `qobuz:63346` `tidal:13957`
+- **Relaxing Music Therapy** `tidal:6938794`
+- **Rendezvous Point** `qobuz:4356339` `tidal:6796471`
+- **Revocation** `qobuz:612981` `tidal:3638396`
+- **Rhapsody** `qobuz:773019`
+- **Richard Ashcroft** `qobuz:47366`
+- **Ride** `qobuz:409482` `tidal:3580102`
+- **Rise Against** `qobuz:63511` `tidal:25016`
+- **Rites of Spring** `qobuz:923738`
+- **Rivers of Nihil** `qobuz:1747770` `tidal:5571617`
+- **Riverside** `qobuz:530633` `tidal:3652225`
+- **Robert Fripp** `qobuz:211898`
+- **Robert Plant** `qobuz:35157` `tidal:18162`
+- **Robyn** `qobuz:189290`
+- **Roger Waters** `qobuz:81807` `tidal:3865`
+- **Rolo Tomassi** `qobuz:574941` `tidal:3581732`
+- **ROME** `qobuz:28787193` `tidal:25835`
+- **ROSALÍA** `qobuz:219860` `tidal:4748331`
+- **Rosetta** `qobuz:18121`
+- **Rotting Christ** `qobuz:937255` `tidal:3569648`
+- **Roxy Music** `qobuz:38330`
+- **Royal Blood** `qobuz:1349077` `tidal:4351582`
+- **Rpwl** `qobuz:777373` `tidal:4077110`
+- **Rrose** `tidal:4477195`
+- **Rush** `qobuz:71886` `tidal:19141`
+- **Russian Circles** `qobuz:310932` `tidal:3668549`
+- **Saga** `qobuz:118486`
+- **Samael** `qobuz:551521` `tidal:34183`
+- **Sanguisugabogg** `qobuz:6067161` `tidal:16284950`
+- **Saor** `qobuz:4720399` `tidal:5653569`
+- **Satyricon** `qobuz:243513` `tidal:3434`
+- **Savages** `qobuz:616507` `tidal:4079451`
+- **Scorpions** `qobuz:62488` `tidal:12832`
+- **SeeYouSpaceCowboy...** `qobuz:4698163` `tidal:10946493`
+- **Sentenced** `qobuz:551921` `tidal:3563980`
+- **Septicflesh** `qobuz:937358` `tidal:3604636`
+- **Sepultura** `qobuz:170399` `tidal:37203`
+- **Serious Black** `qobuz:2041165` `tidal:4150297`
+- **Sevendust** `qobuz:168761`
+- **shame** `qobuz:319584` `tidal:8554178`
+- **Sharon Van Etten** `qobuz:83601` `tidal:3768703`
+- **She Wants Revenge** `qobuz:489329` `tidal:25030`
+- **Shellac** `qobuz:2669023`
+- **Shinedown** `qobuz:277845` `tidal:14961`
+- **Shining** `qobuz:37613` `tidal:21446`
+- **Shiva In Exile** `qobuz:6787505`
+- **Shortparis** `qobuz:3628789` `tidal:7692371`
+- **Show Me the Body** `qobuz:2216865`
+- **Sieges Even** `qobuz:1563195` `tidal:3601997`
+- **Sigur Rós** `qobuz:382018` `tidal:8990`
+- **Simple Minds** `qobuz:38508` `tidal:9125`
+- **Simply Red** `qobuz:202470` `tidal:8372`
+- **Siouxsie & The Banshees** `qobuz:624049`
+- **Sister Rosetta Tharpe** `tidal:67703`
+- **Skee Mask** `qobuz:3315711`
+- **Skinny Puppy** `tidal:3527085`
+- **Slash** `qobuz:41605` `tidal:3502582`
+- **Slayer** `qobuz:124382` `tidal:16386`
+- **Sleep Token** `qobuz:4567769` `tidal:8118903`
+- **sleepmakeswaves** `qobuz:1274921` `tidal:4374117`
+- **Slint** `qobuz:2435607` `tidal:3833071`
+- **Slipknot** `qobuz:342490` `tidal:37277`
+- **Slowdive** `qobuz:180690` `tidal:3505228`
+- **Smashing Pumpkins** `tidal:27807`
+- **Smerz** `tidal:7576989`
+- **Snarky Puppy** `qobuz:2177488` `tidal:6316418`
+- **Snow Patrol** `qobuz:40531` `tidal:16998`
+- **Soen** `qobuz:722398` `tidal:4373811`
+- **Soft Machine** `qobuz:71492` `tidal:3683`
+- **Soilwork** `qobuz:119501` `tidal:3554818`
+- **Sol Invictus** `qobuz:1935832` `tidal:3999501`
+- **Solomon Pimsleur** `tidal:6372351`
+- **Sólstafir** `qobuz:399570` `tidal:4130411`
+- **Somatic Responses** `tidal:3526582`
+- **Sonic Youth** `qobuz:35028` `tidal:17551`
+- **Sons Of Kemet** `qobuz:1243335` `tidal:5011594`
+- **Soul Blind** `tidal:9746828`
+- **Soundgarden** `qobuz:73122` `tidal:34477`
+- **Soup** `qobuz:556628`
+- **Spector** `qobuz:124713`
+- **Spiritbox** `qobuz:6006722`
+- **Spock's Beard** `qobuz:383550`
+- **SPRINTS** `qobuz:7952232` `tidal:15344564`
+- **Squarepusher** `qobuz:53272` `tidal:3566512`
+- **Squid** `qobuz:1771038` `tidal:16752486`
+- **Srub** `qobuz:21624331` `tidal:7518453`
+- **St. Vincent** `qobuz:384538` `tidal:3565258`
+- **Stars of the Lid** `qobuz:2250524` `tidal:3932398`
+- **Stealers Wheel** `tidal:31883`
+- **Stereolab** `qobuz:322106`
+- **Steve Roach** `qobuz:210121`
+- **Steven Wilson** `qobuz:133149` `tidal:3604644`
+- **Stillife** `qobuz:1688413` `tidal:6390562`
+- **Sting** `qobuz:38129` `tidal:17356`
+- **Stone Sour** `qobuz:356561` `tidal:37275`
+- **Stone Temple Pilots** `qobuz:303102` `tidal:14836`
+- **Stratovarius** `qobuz:176628` `tidal:3539457`
+- **Suede** `qobuz:160773` `tidal:3780`
+- **Suicide Silence** `tidal:3565791`
+- **Summoning** `qobuz:1062186`
+- **Svalbard** `qobuz:1307577` `tidal:5085418`
+- **Swallow The Sun** `qobuz:151122` `tidal:3637690`
+- **Swans** `qobuz:391363` `tidal:3546966`
+- **Sybreed** `qobuz:135939` `tidal:3951855`
+- **Sylvan** `qobuz:123389`
+- **Sylvan Esso** `tidal:4972344`
+- **Symphony X** `qobuz:584421` `tidal:3659737`
+- **System Of A Down** `qobuz:121231` `tidal:721`
+- **Tale Of Us** `qobuz:723013`
+- **Talk Talk** `qobuz:38895` `tidal:10593`
+- **Talking Heads** `qobuz:135918` `tidal:9367`
+- **Tangerine Dream** `qobuz:50891`
+- **Tears For Fears** `qobuz:53545` `tidal:3824`
+- **Teitanblood** `tidal:5991734`
+- **TEMIC** `qobuz:18909459` `tidal:40344161`
+- **Temple Of The Dog** `qobuz:623529` `tidal:3502854`
+- **Tenhi** `tidal:3545889`
+- **Tequilajazzz** `qobuz:3358356` `tidal:5954854`
+- **Terry Riley** `qobuz:17827`
+- **TesseracT** `qobuz:567071` `tidal:3766766`
+- **Testament** `tidal:14813`
+- **Thank You Scientist** `qobuz:1961470`
+- **The Air I Breathe** `qobuz:593952` `tidal:3988147`
+- **The Algorithm** `tidal:4373788`
+- **The American Dollar** `qobuz:1241844` `tidal:4117439`
+- **The Amity Affliction** `qobuz:668955` `tidal:3615447`
+- **The Beatles** `qobuz:26390` `tidal:3634161`
+- **The Black Crowes** `qobuz:175049`
+- **The Black Dog** `qobuz:551622`
+- **The Black Keys** `tidal:64643`
+- **The Chariot** `tidal:10724`
+- **The Chemical Brothers** `qobuz:38332` `tidal:9124`
+- **The Clash** `qobuz:148999` `tidal:65`
+- **The Comet Is Coming** `qobuz:2424602` `tidal:7277941`
+- **The Contortionist** `qobuz:937322` `tidal:3714678`
+- **The Cranberries** `qobuz:40588` `tidal:27538`
+- **The Crystal Method** `qobuz:191069`
+- **The Cure** `qobuz:40524` `tidal:18695`
+- **The Dear Hunter** `qobuz:520700` `tidal:25269`
+- **The Devil Wears Prada** `qobuz:304996` `tidal:36979`
+- **The Devin Townsend Band** `tidal:3659759`
+- **The Devin Townsend Project** `qobuz:3016051`
+- **The Dillinger Escape Plan** `qobuz:333657` `tidal:3619519`
+- **The Fall of Troy** `qobuz:2610830` `tidal:4461567`
+- **The Field** `qobuz:138989`
+- **The Flaming Lips** `qobuz:68456`
+- **The Flower Kings** `qobuz:623119`
+- **The Future Sound Of London** `qobuz:428739` `tidal:3518818`
+- **The Gathering** `qobuz:296507` `tidal:3563878`
+- **The Halo Effect** `qobuz:11636503` `tidal:29071140`
+- **The Hirsch Effekt** `qobuz:1197843` `tidal:4472583`
+- **The Horrors** `qobuz:271132` `tidal:27462`
+- **The Infinity Ring** `qobuz:10058516` `tidal:22339896`
+- **The Jesus and Mary Chain** `qobuz:458148` `tidal:3553421`
+- **The Jesus Lizard** `qobuz:161248`
+- **The Kilimanjaro Darkjazz Ensemble** `qobuz:66370` `tidal:3953862`
+- **The Killers** `qobuz:46042` `tidal:15686`
+- **The Kills** `qobuz:42681` `tidal:27446`
+- **The Klone Orchestra** `tidal:3820955`
+- **The KVB** `qobuz:1271936` `tidal:5025555`
+- **The Last Dinner Party** `qobuz:18120033`
+- **The Last Warning** `tidal:4618793`
+- **The Legendary Pink Dots** `qobuz:469337` `tidal:3545433`
+- **The Mars Volta** `qobuz:36438` `tidal:24959`
+- **The Murder Capital** `qobuz:4248676` `tidal:10794105`
+- **The National** `qobuz:384546` `tidal:3566009`
+- **The Neal Morse Band** `qobuz:4656474` `tidal:16220923`
+- **The Necks** `qobuz:785840` `tidal:4154926`
+- **The Notwist** `qobuz:129831` `tidal:3529689`
+- **The Obsessed** `qobuz:576073`
+- **The Ocean** `qobuz:847186` `tidal:3523495`
+- **The Offspring** `qobuz:147414` `tidal:1009`
+- **The Orb** `qobuz:51020` `tidal:19435`
+- **The Pineapple Thief** `qobuz:1079535` `tidal:3604669`
+- **The Police** `qobuz:53540`
+- **The Postal Service** `qobuz:492528`
+- **The Pretty Reckless** `qobuz:295722` `tidal:3670132`
+- **The Prodigy** `qobuz:224109` `tidal:14596`
+- **The Rolling Stones** `qobuz:38323`
+- **The Sabres Of Paradise** `qobuz:277900`
+- **The Saddest Landscape** `qobuz:1214580`
+- **The Sea Within** `qobuz:3653467` `tidal:9749186`
+- **The Silver** `qobuz:2598968`
+- **The Sisters Of Mercy** `qobuz:934825` `tidal:13079`
+- **The Slow Readers Club** `tidal:5133315`
+- **The Smashing Pumpkins** `qobuz:365659`
+- **The Smile** `qobuz:9316383` `tidal:30058791`
+- **The Smiths** `qobuz:363719`
+- **The Steve Reich Ensemble** `tidal:10494946`
+- **The Story So Far** `qobuz:821463` `tidal:55760`
+- **The Strokes** `qobuz:53260` `tidal:29037`
+- **The Third And The Mortal** `qobuz:2287604` `tidal:21249`
+- **The Verve** `qobuz:38329` `tidal:10847`
+- **The Walkmen** `qobuz:146863` `tidal:14159`
+- **The War On Drugs** `qobuz:431476` `tidal:3539965`
+- **The Warning** `qobuz:9507058`
+- **The Weeknd** `qobuz:687008` `tidal:4761957`
+- **The White Stripes** `qobuz:384484` `tidal:3520510`
+- **The Who** `qobuz:45964`
+- **The World Is A Beautiful Place & I Am No Longer Afraid To Die** `tidal:4110234`
+- **The xx** `qobuz:138965`
+- **The Young Gods** `qobuz:552077` `tidal:3575544`
+- **Theatre Of Tragedy** `qobuz:551926` `tidal:3554897`
+- **Theory Of A Deadman** `qobuz:324853`
+- **Therapy?** `qobuz:73124`
+- **Therion** `tidal:12972`
+- **This Morn' Omina** `qobuz:1063222` `tidal:4138569`
+- **This Will Destroy You** `qobuz:600585` `tidal:3725096`
+- **Three Days Grace** `qobuz:148329` `tidal:35937`
+- **Threshold** `qobuz:551911` `tidal:3554782`
+- **THRICE** `qobuz:129615` `tidal:29871`
+- **Throbbing Gristle** `qobuz:651551` `tidal:3647076`
+- **Thrown** `qobuz:3830698` `tidal:9577489`
+- **Tiamat** `qobuz:551924` `tidal:3563873`
+- **Tina Arena** `tidal:906`
+- **To Kill Achilles** `qobuz:7432067` `tidal:9159442`
+- **toe** `qobuz:609181` `tidal:4064719`
+- **Tom Petty & The Heartbreakers** `qobuz:151855`
+- **TOOL** `qobuz:496199` `tidal:3850668`
+- **Touché Amoré** `qobuz:600706` `tidal:3814729`
+- **Toundra** `qobuz:909071` `tidal:3701785`
+- **Transatlantic** `qobuz:721198`
+- **Transatlantic Zodiac Ensemble** `tidal:5659777`
+- **Trentemøller** `qobuz:547917` `tidal:3503559`
+- **Tribulation** `qobuz:85760` `tidal:3616177`
+- **TRICKY** `qobuz:53208` `tidal:27444`
+- **Trio of Bloom** `tidal:61632977`
+- **Trivium** `qobuz:342440` `tidal:37312`
+- **Tropical Fuck Storm** `tidal:10113688`
+- **Turnstile** `qobuz:2119188` `tidal:3962534`
+- **Twelfth Night** `qobuz:884594`
+- **Two Lone Swordsmen** `qobuz:482820` `tidal:3544175`
+- **Type O Negative** `qobuz:170404` `tidal:37211`
+- **Tzolk'in** `qobuz:723097` `tidal:5279371`
+- **U2** `qobuz:35222` `tidal:17123`
+- **U96** `qobuz:129907` `tidal:34556`
+- **UFO** `tidal:11042`
+- **Ulcerate** `qobuz:856952` `tidal:3558684`
+- **Ulver** `qobuz:600664` `tidal:21255`
+- **Underoath** `qobuz:264536` `tidal:9641`
+- **Underscores** `qobuz:2975892`
+- **Underworld** `qobuz:222294`
+- **UNKLE** `qobuz:43371` `tidal:30283`
+- **URNE** `qobuz:9022326` `tidal:10022248`
+- **Vader** `tidal:24054`
+- **Vampire Weekend** `qobuz:350643`
+- **Van Der Graaf Generator** `tidal:3505274`
+- **Van Halen** `qobuz:322470` `tidal:13462`
+- **Vanden Plas** `qobuz:776483` `tidal:3659739`
+- **Vektor** `qobuz:956118` `tidal:4820387`
+- **Velvet Acid Christ** `qobuz:769733`
+- **Velvet Revolver** `qobuz:149583`
+- **Venetian Snares** `qobuz:613511` `tidal:3619550`
+- **Viagra Boys** `tidal:7521319`
+- **Vika Kuchak** `qobuz:11472928`
+- **Visions of Atlantis** `tidal:3604479`
+- **VNV Nation** `tidal:3878113`
+- **VOLA** `qobuz:2690603` `tidal:6476261`
+- **Volbeat** `qobuz:368495` `tidal:3543738`
+- **Von Hertzen Brothers** `qobuz:129638` `tidal:1627`
+- **Voyager** `qobuz:80243` `tidal:3638212`
+- **Vstrecha Ryby** `tidal:6293434`
+- **VV** `qobuz:467014`
+- **Walnut** `qobuz:9058580`
+- **Warning** `qobuz:1581727`
+- **Warpaint** `qobuz:330416` `tidal:3722866`
+- **Wax Tailor** `qobuz:38853` `tidal:3704268`
+- **We Came As Romans** `tidal:3659606`
+- **Weakling** `qobuz:2550421`
+- **weather system** `tidal:39727171`
+- **Weather Systems** `qobuz:22756193` `tidal:48410583`
+- **Wednesday** `qobuz:521761`
+- **WEDNESDAY CAMPANELLA** `tidal:7863138`
+- **Weezer** `qobuz:44836` `tidal:30157`
+- **Wehbba** `tidal:3570509`
+- **Weird Rare Animal Jazz Trio** `tidal:9039564`
+- **Wheel** `qobuz:951605`
+- **When Icarus Falls** `qobuz:913340` `tidal:4876808`
+- **Whirr** `qobuz:769259`
+- **White Lies** `qobuz:67078` `tidal:3565147`
+- **White Ward** `qobuz:3018844`
+- **Whitechapel** `qobuz:782595` `tidal:3767580`
+- **Whitelands** `qobuz:4518440` `tidal:8816533`
+- **William Basinski** `qobuz:929301` `tidal:3608999`
+- **Wintersun** `qobuz:555790`
+- **Within Temptation** `tidal:1539`
+- **Wolf Alice** `qobuz:1743913` `tidal:4915442`
+- **Wolverine** `qobuz:641962` `tidal:3608731`
+- **Wolves In The Throne Room** `qobuz:1490619`
+- **Woods Of Ypres** `qobuz:1032221` `tidal:4514679`
+- **Wunderhorse** `qobuz:9663291` `tidal:18442623`
+- **Xiu Xiu** `qobuz:32123`
+- **Yard Act** `qobuz:6735534` `tidal:18395031`
+- **Yeah Yeah Yeahs** `qobuz:56461`
+- **Yes** `qobuz:26718` `tidal:13686`
+- **YHWH Nailgun** `qobuz:10780984` `tidal:28245802`
+- **Yngwie Malmsteen** `tidal:29615`
+- **Yo La Tengo** `qobuz:226980`
+- **Yoth Iria** `qobuz:9348822` `tidal:18541843`
+- **Your Spirit Dies** `tidal:18110572`
+- **YOUTH CODE** `qobuz:1958074` `tidal:5262675`
+- **Zeal & Ardor** `qobuz:2848628` `tidal:8258796`
+- **Zemfira** `qobuz:969088` `tidal:4627277`
+- **µ-ziq** `qobuz:391260` `tidal:3513690`
+- **АИГЕЛ** `qobuz:3342716` `tidal:8661813`
+- **Бонд с кнопкой** `qobuz:13638470` `tidal:18114354`
+- **Вера Полозкова** `qobuz:3630316` `tidal:6323462`
+- **Дурной Вкус** `qobuz:4040682` `tidal:10453723`
+- **Карелия** `qobuz:3215503` `tidal:7278370`
+- **Мой Июль** `tidal:31655257`
+- **монеточка** `qobuz:3094469`
+- **Порез на Собаке** `tidal:15486089`
+- **Почему коммутатор молчит** `qobuz:3271472`
+- **Технология** `qobuz:2504207` `tidal:7479490`

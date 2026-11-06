@@ -1,0 +1,108 @@
+# Genre: Progressive Death Metal
+
+Imported genre playlist: Progressive Death Metal.
+
+Services: `qobuz:66735339`
+
+## Tracks (100)
+
+- **Nocturnus** — Lake of Fire [The Key] (5:04) `isrc:GBBPB1700793` `qobuz:51010303`
+- **Atheist** — Mother Man [Unquestionable Presence] (4:32) `isrc:FR33T1227801` `qobuz:184904902`
+- **Carbonized** — For The Security [For The Security] (1:57) `isrc:QM4TW2414339` `qobuz:251474505`
+- **Death** — Flattening of Emotions [Human - Reissue] (4:28) `isrc:US2641116501` `qobuz:3672730`
+- **Afflicted** — Tidings from the Blue Sphere [Prodigal Sun (Re-issue 2023)] (4:46) `isrc:GBDHC2336704` `qobuz:192283547`
+- **Sentenced** — Under the Suffer [Shadows Of The Past] (5:19) `isrc:US4E40474620` `qobuz:47672258`
+- **Cynic** — Veil of Maya [Focus] (5:20) `isrc:NLA329300800` `qobuz:2810459`
+- **Demilich** — The Echo (Replacement) [Nespithe] (4:26) `isrc:CH6542585740` `qobuz:364415113`
+- **Gorguts** — Condemned to Obscurity [The Erosion Of Sanity] (4:50) `isrc:NLA329202280` `qobuz:2810365`
+- **Pestilence** — Mind Reflections [Spheres] (3:21) `isrc:QM4TW2399928` `qobuz:284376918`
+- **Sadist** — Sometimes They Come Back [Above the Light] (6:25) `isrc:ITL790700004` `qobuz:27466190`
+- **Morgue Breath** — Vómito Sin Cabeza [Poseído Por Supuración] (3:19) `isrc:QZES72452999` `qobuz:254191402`
+- **Wolves In The Throne Room** — Primal Chasm (Gift of Fire) [Primordial Arcana] (5:01) `isrc:US2642146004` `qobuz:129229029`
+- **DIIV** — Somber The Drums [Frog In Boiling Water] (3:58) `isrc:USC4R2441579` `qobuz:267432708`
+- **Edge Of Sanity** — Crimson II, Pt. 1 - The Forbidden Words [Crimson II] (4:30) `isrc:GBDHC2552401` `qobuz:325577706`
+- **Dan Swanö** — Sun of the Night [Moontower] (5:14) `isrc:SEXHQ9800801` `qobuz:374206078`
+- **Drake** — Hours In Silence [Her Loss] (6:39) `isrc:USUG12208604` `qobuz:183761463`
+- **Opeth** — The Moor (Remastered) [Still Life (Remastered)] (11:26) `isrc:GBCQV9900130` `qobuz:51040045`
+- **Theory In Practice** — Conspiracy In Cloning [Colonising the sun] (6:09) `isrc:FR6V80209250` `qobuz:1601579`
+- **Arun Ghosh** — Pastoral Sympathy (This Land Is Mine) [But Where Are You Really From?] (3:33) `isrc:GBVFA1740003` `qobuz:173057055`
+- **Nitro Fun** — Warp Zone [Warp Zone] (3:06) `isrc:CA6D22000408` `qobuz:104319038`
+- **Akercocke** — A Skin for Dancing In [The Goat Of Mendes] (7:18) `isrc:GBCQV0100220` `qobuz:50990661`
+- **Gojira** — Love [Terra Incognita] (4:19) `isrc:FR1PP1600730` `qobuz:34140260`
+- **Into Eternity** — Dead or Dreaming [Dead Or Dreaming] (4:18) `isrc:US4E40405408` `qobuz:27574944`
+- **Farmakon** — Loosely of Amoebas [A Warm Glimpse] (4:54) `isrc:GBBPB0300063` `qobuz:94937520`
+- **Psycroptic** — The Colour of Sleep [The Scepter of the Ancients] (5:05) `isrc:USERN1007909` `qobuz:125917319`
+- **Capharnaum** — Fractured [Fractured] (3:52) `isrc:GBBPB0402195` `qobuz:94937159`
+- **Disillusion** — Back to Times of Splendor (Remastered 20th Anniversary Edition) [Back to Times of Splendor (20th Anniversary Reissue)] (14:40) `isrc:USMBR2416204` `qobuz:254977748`
+- **Necrophagist** — Stabwound [Epitaph] (2:48) `isrc:US2640462801` `qobuz:60684990`
+- **Quo Vadis** — Silence Calls the Storm [Defiant Imagination] (5:02) `isrc:USCGH0867379` `qobuz:106894498`
+- **Anata** — The Great Juggler [The Conductor's Departure] (6:00) `isrc:GBBPB0701889` `qobuz:22891018`
+- **Gorod** — Disavow Your God [Process Of A New Decline] (4:50) `isrc:USRMX0900080` `qobuz:5949765`
+- **Spawn of Possession** — Scorched [Noctambulant] (4:02) `isrc:SEY7R1000610` `qobuz:197365113`
+- **Faith In Vain** — Weeping Wounds [Weeping Wounds] (3:43) `isrc:GXJBU2680234` `qobuz:402090489`
+- **Arsis** — We Are the Nightmare [We Are the Nightmare] (4:03) `isrc:DED830703595` `qobuz:60255182`
+- **Decrepit Birth** — The Living Doorway [Diminishing Between Worlds] (4:21) `isrc:USERN1000450` `qobuz:44682730`
+- **The Faceless** — XenoChrist [Planetary Duality] (5:01) `isrc:USYFZ0801305` `qobuz:338347575`
+- **Augury** — Orphans of Living [Fragmentary Evidence] (5:10) `isrc:DED830900106` `qobuz:61264877`
+- **Exivious** — Ripple of a Tear [Exivious] (7:30) `isrc:NLGE80900001` `qobuz:176062037`
+- **Papa Wemba** — Kalisia [Beau gosse ya Paris] (6:58) `isrc:BENEV8405547` `qobuz:212083409`
+- **Mithras** — When the Stars Align [On Strange Loops] (4:40) `isrc:GBUGX1600002` `qobuz:83654973`
+- **Obscura** — Septuagint [Omnivium] (7:17) `isrc:US2641112601` `qobuz:3737801`
+- **Barren Earth** — Curse Of The Red River [Curse Of The Red River] (7:51) `isrc:GBCQV0900776` `qobuz:51015997`
+- **Beyond Creation** — Omnipresent Perception [The Aura] (6:11) `isrc:CAB5L1300004` `qobuz:77793685`
+- **Chapel Of Disease** — Summoning Black Gods [Summoning Black Gods] (5:41) `isrc:QZTB82349069` `qobuz:237540236`
+- **In Mourning** — Colossus [The Weight Of Oceans] (9:33) `isrc:FIUM71200094` `qobuz:190499287`
+- **Ne Obliviscaris** — And Plague Flowers the Kaleidoscope [Portal of I] (11:32) `isrc:AU7V11100005` `qobuz:188585767`
+- **Black Crown Initiate** — Stench of the Iron Age [Song of the Crippled Bull] (7:13) `isrc:SEYOK1320185` `qobuz:204458943`
+- **Exist** — Sunlight [Sunlight] (10:54) `isrc:USHM91429359` `qobuz:75250673`
+- **Persefone** — Spiritual Migration [Spiritual Migration] (8:47) `isrc:SEYIJ1300111` `qobuz:212059640`
+- **Allegaeon** — 1.618 [Elements of the Infinite] (4:17) `isrc:USMBR1410653` `qobuz:60622280`
+- **Archspire** — Involuntary Doppelgänger [Relentless Mutation] (3:46) `isrc:FR33T1741101` `qobuz:77783578`
+- **Fallujah** — Sapphire [The Flesh Prevails (10 Year Edition)] (5:30) `isrc:QM4TX2411639` `qobuz:256824460`
+- **Horrendous** — The Nihilist [Anareta] (4:55) `isrc:QM6P41528694` `qobuz:71568997`
+- **Job For A Cowboy** — Sun of Nihility [Sun Eater] (5:33) `isrc:USMBR1410815` `qobuz:60806425`
+- **Luca Turilli (Band)** — The Ancient Forest of Elves [King of the Nordic Twilight] (4:43) `isrc:DET279901306` `qobuz:49079022`
+- **Revocation** — Deathless [Deathless] (4:56) `isrc:USMBR1410746` `qobuz:60752206`
+- **Soreption** — The Artificial North [Jord] (3:07) `isrc:QM4TX2213076` `qobuz:149913983`
+- **Alkaloid** — Carbon Phrases [The Malkuth Grimoire] (9:31) `isrc:USCGH1574672` `qobuz:66092079`
+- **Entheos** — Primal [Primal] (4:59) `isrc:USCGJ1510310` `qobuz:75042705`
+- **Obsidian Tide** — Pillars of Creation [Pillars of Creation Acoustic B-Side] (6:00) `isrc:QZRP42174610` `qobuz:140764125`
+- **Rivers of Nihil** — Sand Baptism [Monarchy] (4:49) `isrc:USMBR1511310` `qobuz:60753759`
+- **Blood Incantation** — Vitrification of Blood (Pt. 1) [Starspawn] (13:08) `isrc:QMFMF1584758` `qobuz:116865100`
+- **First Fragment** — Dasein [Dasein] (4:49) `isrc:QMZNK1600054` `qobuz:44709904`
+- **The Zenith Passage** — Algorithmic Salvation [Datalysium] (3:30) `isrc:USMBR2315760` `qobuz:206891284`
+- **Virvum** — Tentacles of the Sun [Illuminance] (4:54) `isrc:CH6541609568` `qobuz:77788775`
+- **Inanimate Existence** — Clockwork [Clockwork] (4:34) `isrc:QM3LS1900030` `qobuz:61201059`
+- **Perihelion Ship** — Bird of Fire [To Paint a Bird of Fire] (2:34) `isrc:QZ9JZ1796396` `qobuz:246693878`
+- **Inferi** — Behold the Bearer of Light [Revenant] (6:30) `isrc:QM3LS1801317` `qobuz:53369145`
+- **Piah Mater** — Hyster [The Wandering Daughter] (3:20) `isrc:ITJ351801673` `qobuz:57590836`
+- **Slugdge** — The Spectral Burrows [Esoteric Malacology] (5:49) `isrc:USRMX1800007` `qobuz:46800556`
+- **Sunless Dawn** — Apeiron [Timeweaver] (3:11) `isrc:DK4V61804101` `qobuz:164501545`
+- **Cognizance** — Malignant Domain [Malignant Dominion] (4:15) `isrc:USERN1010065` `qobuz:77405125`
+- **Equipoise** — Sovereign Sacrifices [Demiurgus] (4:49) `isrc:QM3LS1800032` `qobuz:61207209`
+- **Fractal Universe** — Oneiric Realisations [Rhizomes of Insanity] (3:59) `isrc:USMBR1813401` `qobuz:58767930`
+- **Hath** — Usurpation [Of Rot And Ruin] (6:00) `isrc:USRMX1800094` `qobuz:58181732`
+- **iapetus** — The Body Cosmic [The Body Cosmic] (9:58) `isrc:USHM91998797` `qobuz:77127069`
+- **Sutrah** — Dunes [Dunes] (7:40) `isrc:QM3LS2000019` `qobuz:79927661`
+- **warforged** — We've Been Here Before [I: Voice] (6:22) `isrc:QM3LS1900001` `qobuz:61201264`
+- **Wilderun** — The Tyranny of Imagination [Veil of Imagination] (9:21) `isrc:QMAAK1969268` `qobuz:93414194`
+- **Cryptic Shift** — Moonbelt Immolator [Visitations from Enceladus] (25:56) `isrc:QM6MZ2010287` `qobuz:92971357`
+- **Luna's Call** — Signs [Void] (8:27) `isrc:UKB6M2000002` `qobuz:115501144`
+- **Ulcerate** — Stare Into Death And Be Still [Stare Into Death And Be Still] (8:24) `isrc:FR9W11933241` `qobuz:89618972`
+- **Men I Trust** — Nasty Ostinato Ad Nauseam Snap Bass Caron [Men I Trust] (1:49) `isrc:USHM21433145` `qobuz:277639276`
+- **Ænigmatum** — Forged from Bedlam [Deconsecrate] (5:43) `isrc:USJE72113801` `qobuz:123661089`
+- **Alustrium** — This Hollow Ache [A Monument to Silence] (6:42) `isrc:QM4TW2143961` `qobuz:115771824`
+- **ATRÆ BILIS** — To Entomb the Aetherworld [Apexapien] (5:33) `isrc:USJE72114108` `qobuz:128242237`
+- **Dessiderium** — Aria [Aria] (13:41) `isrc:QM3LS2100075` `qobuz:124365943`
+- **IOTUNN** — Access All Worlds [Access All Worlds] (11:36) `isrc:USMBR2014546` `qobuz:108385109`
+- **Ophidian I** — Diamonds [Desolate] (4:35) `isrc:FR33T2162401` `qobuz:120078938`
+- **An Abstract Illusion** — Tear Down This Holy Mountain [Woe] (11:33) `isrc:USRMX2200023` `qobuz:161110159`
+- **Anachronism** — Meanders [Meanders] (4:00) `isrc:QZFZ42393654` `qobuz:195863127`
+- **Virocracy** — Devolution [Ecophagia] (6:10) `isrc:DEQD61200630` `qobuz:145615110`
+- **Aeviterne** — Denature [The Ailing Facade] (4:49) `isrc:USN682226501` `qobuz:143348189`
+- **Contrarian** — Sage of Shekhinah [Sage of Shekhinah] (5:38) `isrc:USRMX2300021` `qobuz:188597034`
+- **Stortregn** — Finitude [Finitude] (3:03) `isrc:QM3LS2300100` `qobuz:220035395`
+- **Tomb Mold** — The Enduring Spirit Of Calamity [The Enduring Spirit] (11:35) `isrc:USJE72320007` `qobuz:228058066`
+- **Voidceremony** — Threads of Unknowing (The Paradigm of Linearity) [Threads of Unknowing] (3:10) `isrc:USJE72317501` `qobuz:197451635`
+- **Exuvial** — Autonomic Awakening [The Hive Mind Chronicles, Pt. I: Parasitica] (6:46) `isrc:USHM82487006` `qobuz:279186345`
+- **Siderean** — Visions [Spilling the Astral Chalice] (9:21) `isrc:NOEOK2479020` `qobuz:282761984`

@@ -1,0 +1,108 @@
+# Genre: Psychodelic Dark Folk
+
+Imported genre playlist: Psychodelic Dark Folk.
+
+Services: `qobuz:66711189`
+
+## Tracks (100)
+
+- **Davy Graham and Shirley Collins** — Nottamun Town [Folk Roots, New Routes] (3:44) `isrc:ZA42A2007669` `qobuz:109082393`
+- **Dr. Strangely Strange** — Strangely Strange But Oddly Normal [Kip Of The Serenes] (4:55) `isrc:GBUM70904809` `qobuz:129200052`
+- **Fairport Convention** — A Sailor's Life [Unhalfbricking] (11:08) `isrc:GBAAN6900033` `qobuz:4368903`
+- **Forest** — Graveyard [The Full Circle] (5:45) `isrc:GBAYE0802133` `qobuz:5281524`
+- **Pearls Before Swine** — The Jeweler [The Use Of Ashes] (2:48) `isrc:USRE10200460` `qobuz:3506488`
+- **Simon Finn** — Jerusalem [Pass the Distance] (6:44) `isrc:GBBLY1603378` `qobuz:152579845`
+- **Trader Horne** — Morning Way [Morning Way] (4:35) `isrc:GBAJE6900488` `qobuz:385630858`
+- **Comus** — Drip Drip [First Utterance] (10:51) `isrc:GBAJE0502701` `qobuz:385627244`
+- **Vangelis** — One More Kiss, Dear [Blade Runner (Music From The Original Soundtrack)] (3:59) `isrc:GBAHS0104436` `qobuz:2015670`
+- **Fresh Maggots** — Rosemary Hill [Fresh Maggots] (3:32) `isrc:GBARL1401551` `qobuz:343658131`
+- **Jan Dukes De Grey** — Yorkshire Indian Sitting In The Sun [Sorcerers] (2:15) `isrc:GBBBA6978810` `qobuz:120355621`
+- **Shelagh Mcdonald** — Dowie Dens of Yarrow [Stargazer] (6:53) `isrc:GBAJE0500064` `qobuz:385629541`
+- **Spring** — Grail [Spring] (6:33) `isrc:GBBWX7100012` `qobuz:206051617`
+- **Mayday Parade** — Jamie All Over [A Lesson In Romantics] (3:35) `isrc:US5260709901` `qobuz:39283665`
+- **Mark Fry** — The Witch [Dreaming With Alice] (6:43) `isrc:USA2P2036541` `qobuz:103314000`
+- **Espers** — Dead Queen [II] (8:13) `isrc:US58L0631001` `qobuz:48465956`
+- **Ashley Cleveland** — Ready Or Not [Before The Daylight's Shot] (3:35) `isrc:USHM20669631` `qobuz:66834740`
+- **The Heartwood Institute** — A Kingdom By The Sea [Music to Accompany the Poems of Edgar Allan Poe] (4:06) `isrc:UK6822505154` `qobuz:333395740`
+- **Julia Holter** — Boy in the Moon [Ekstasis] (8:19) `isrc:GBCEL1200456` `qobuz:6846544`
+- **The Owl Service** — Dives & Lazarus [Rise Up, Rise Up] (6:15) `isrc:QZK6N2525902` `qobuz:326153666`
+- **Johnny Mathis** — Lovers in New York (From the NBC-TV Series, "Peter Gunn") [The Global Masters] (3:03) `isrc:USSM16500112` `qobuz:77582`
+- **Wyrdstone** — Meditation on Lost Gardens [Potemkin Village Fayre] (3:36) `isrc:USCGJ1992064` `qobuz:99935145`
+- **Simon Field** — Shake The Tree [Shake The Tree] (3:04) `isrc:UK4ZF1900004` `qobuz:219520708`
+- **Soul Circus Cowboys** — Must Have Had a Good Time [Rolling Across America - Home Stretch] (3:22) `isrc:USBAE2095986` `qobuz:144275120`
+- **The Rowan Amber Mill** — Sands of Time [Summoned to Measure the Seasons] (4:54) `isrc:UKT862600007` `qobuz:405531733`
+- **Telling The Bees** — Sweet Dream [An English Arcanum] (3:33) `isrc:GBVNJ0900006` `qobuz:91090852`
+- **Christian Franke** — Ich wünsch dir die Hölle auf Erden 2001 [Genau wie du] (2:43) `isrc:DEA810100554` `qobuz:343253`
+- **Twelve Thousand Days** — Thistles [John Barleycorn Reborn: Rebirth] (5:27) `isrc:GBAS91215025` `qobuz:56260402`
+- **Stereolab** — The Flower Called Nowhere [Dots And Loops] (5:15) `isrc:USEE19792078` `qobuz:79198112`
+- **Amorphis** — Black Winter Day [Tales From The Thousand Lakes] (3:50) `isrc:US2640771916` `qobuz:60846088`
+- **Henry Cow** — Extract from With The Yellow Half-Moon and Blue Star [Legend] (3:37) `isrc:UKBUU1900096` `qobuz:104265591`
+- **Rivers of Nihil** — House of Light [Rivers of Nihil] (5:49) `isrc:USMBR2516634` `qobuz:307623510`
+- **Hawksmoor** — Parallelograms [Oneironautics] (6:44) `isrc:GBBCK2401951` `qobuz:275577464`
+- **Graham Johnson** — Berlioz: Les nuits d'été, H. 81b: Le spectre de la rose, H. 83b [L'heure exquise: A French Songbook] (6:11) `isrc:GBAJY1596210` `qobuz:259411610`
+- **Alex De Grassi** — Alba [Tata Monk] (7:30) `isrc:US73Y0010052` `qobuz:89548991`
+- **Ana SIlvera** — Queen of Swords [The Fabulist] (3:49) `isrc:UKMR92200006` `qobuz:151816598`
+- **The Left Outsides** — You Told Your Secrets to the Sea [The Shape of Things to Come] (3:48) `isrc:USQ6E1300020` `qobuz:76439070`
+- **Renaissance** — Mr.Pine [Illusion] (6:58) `isrc:DED467100040` `qobuz:77813095`
+- **R.E.M.** — Man on the Moon [Live 8] (5:29) `isrc:UK6821903015` `qobuz:62295766`
+- **The Cranky Bighead Band** — Don't You Mess with Me Boy [I Don't Want to be Famous] (3:05) `isrc:QZPLS2545694` `qobuz:336163738`
+- **Mystery Flavors** — A Thousand Ways [A Thousand Ways] (3:16) `isrc:USL4Q1931131` `qobuz:79269654`
+- **Savage Hands** — Brain Dead [The Truth in Your Eyes] (3:11) `isrc:DED831900906` `qobuz:73537301`
+- **Adam Viktora** — Beatus vir, ZWV 75: Beatus vir [Jan Dismas Zelenka: Psalmi Vespertini I] (5:19) `isrc:CZA301500027` `qobuz:29359339`
+- **Hanford Reach** — Autumn Calling [Ceiling Stars] (4:20) `isrc:USHM22528124` `qobuz:331785463`
+- **The Jon Spencer Blues Explosion** — 2Kindsa Love [Now I Got Worry] (3:02) `isrc:USSE91031741` `qobuz:31183423`
+- **Wild Child** — Silly Things [Pillow Talk] (4:14) `isrc:QMUCH1100013` `qobuz:183263410`
+- **Hive** — Experiments In Synthetic Rhythm [Devious Methods] (2:17) `isrc:US25X1801317` `qobuz:360675910`
+- **Yasuyuki Okamura** — Kahlua Milk [Oh Best] (5:10) `isrc:JPES09004660` `qobuz:95640000`
+- **Saru** — Strange Puppet (Monta At Odds Remix) [Strange Puppet - Single] (4:02) `isrc:USCGJ1125092` `qobuz:87986403`
+- **Stand High Patrol** — Dinner Time [The Shift] (4:05) `isrc:DEZ651705643` `qobuz:49134269`
+- **John Williams** — Adventures on Earth (From "E. T.") [John Williams Conducts His Classic Scores for the Films of Steven Spielberg] (9:47) `isrc:USSM19909904` `qobuz:60400`
+- **Hard-Fi** — Gotta Reason [Stars Of CCTV] (2:35) `isrc:GBAHS2400874` `qobuz:330139790`
+- **Of The Wand & The Moon** — A Pyre of Black Sunflowers [The Lone Descent] (8:35) `isrc:DEKB31100182` `qobuz:76251782`
+- **Rafiq Bhatia** — At Midnight On A Black Sand Beach, The Raging Tides Begin To Speak [Environments] (4:31) `isrc:USEP42519003` `qobuz:336950762`
+- **Kate Bush** — Big Stripey Lie [The Red Shoes] (3:28) `isrc:GBAYE1800927` `qobuz:199956065`
+- **Astralasia** — The Magician [The Darkest Voyage] (3:46) `isrc:GBCES2000013` `qobuz:105728353`
+- **Jay Price** — Come on and Set Me Free [Up - Righteous Riff Rock] (2:39) `isrc:DEB632602845` `qobuz:404500146`
+- **Joe Bonamassa** — I'll Play The Blues For You [Live at the Greek Theatre] (6:14) `isrc:USMH51600698` `qobuz:35488017`
+- **Sleepyard** — Falling in Love [Head Values] (5:24) `isrc:NOL862133060` `qobuz:151445604`
+- **The Striped Bananas** — Heaven and Hell [Stone of Madness] (2:37) `isrc:QMAAK1733631` `qobuz:92526838`
+- **Queens Of The Stone Age** — The Sky Is Fallin' [Songs For The Deaf] (6:15) `isrc:USIR10211296` `qobuz:8956328`
+- **The Beach Boys** — Lonely Days [1967 - Sunshine Tomorrow] (1:45) `isrc:USUM71703618` `qobuz:41715691`
+- **Bournemouth Symphony Orchestra** — The Two Pigeons, Act 1: The Gypsy Girl Flirts with the Young Man [Messager: Les deux pigeons] (0:30) `isrc:GBAYD8300355` `qobuz:135560944`
+- **Groove Armada** — Pre 63 [The Remixes] (5:59) `isrc:GBAHK0000003` `qobuz:302356`
+- **Green Day** — J.A.R. (Jason Andrew Relva) [International Superhits!] (2:51) `isrc:USRE11600699` `qobuz:62606037`
+- **Florence + The Machine** — Strangeness And Charm [Ceremonials] (5:16) `isrc:GBUM71107585` `qobuz:8531480`
+- **Gov't Mule** — Head Full Of Thunder [Peace...Like A River] (4:35) `isrc:USC4R2228357` `qobuz:202056225`
+- **Alice Phoebe Lou** — Witches [Witches] (3:15) `isrc:GBKPL2089608` `qobuz:325672318`
+- **The Cat and Owl** — White Sky [Lullaby Versions of Vampire Weekend] (5:00) `isrc:UK54A2200175` `qobuz:279836370`
+- **Jónsi** — Sticks & Stones [How To Train Your Dragon] (4:18) `isrc:US3M51001224` `qobuz:30111765`
+- **David Ian Roberts** — Carillon [Travelling Bright] (3:54) `isrc:UK6821812608` `qobuz:59247406`
+- **Street Dogs** — These Ain't The Old Days [Stand For Something Or Die For Nothing] (3:15) `isrc:USQX91702730` `qobuz:49008258`
+- **Glenn Hughes** — The Boy Can Sing the Blues [L.a Blues Authority Vol. Ii: Blues] (5:38) `isrc:QM7281534226` `qobuz:79568234`
+- **You Blew It!** — A Noble Black Eye [Grow Up, Dude] (2:55) `isrc:USEZ61200021` `qobuz:48679729`
+- **Bird Radio** — Fear [Oh, Happy England] (4:43) `isrc:GBBLY1500138` `qobuz:25203073`
+- **Ewa Marciniec** — No. 4, The Wind, an Autumn Wind, Howled [Penderecki: A Sea of Dreams Did Breathe on Me...] (1:25) `isrc:HKI191419815` `qobuz:306172375`
+- **John Martyn** — Under My Wing [On The Cobbles] (4:10) `isrc:GBBPF0301095` `qobuz:60567714`
+- **Alula Down** — Grace Lies Down [Homespun] (5:16) `isrc:USHM21984536` `qobuz:63321049`
+- **Vic Mars** — Villages, Hamlets and Fetes [The Land and the Garden] (3:09) `isrc:UK6821407606` `qobuz:28127164`
+- **Pretty Vicious** — Are You Ready For Me [Are You Ready For Me] (3:35) `isrc:GBUM71507207` `qobuz:28277873`
+- **Lady Maisery** — Staines Morris [Wakefire: A Summer Album] (2:42) `isrc:UKQZG2600008` `qobuz:402818407`
+- **David Gilmour** — Then I Close My Eyes [On an Island] (5:27) `isrc:GBLTP0600007` `qobuz:4643649`
+- **Sharron Kraus** — Y fari lwyd [Pilgrim Chants & Pastoral Trails] (4:54) `isrc:FR6V81896400` `qobuz:10980553`
+- **Hector Oaks** — We Met Under The Strobe Light [We Met Under The Strobe Light] (5:45) `isrc:QZHZD1952929` `qobuz:209843745`
+- **HOYO-MiX** — Voyage of the Black Crystal [Genshin Impact - The Shimmering Voyage, Vol. 3] (1:53) `isrc:DGA062386434` `qobuz:220386817`
+- **The Hare And The Moon** — I'll Bid My Heart Be Still [All the Merry Year Round] (3:44) `isrc:USHM91710495` `qobuz:67116300`
+- **Chumbawamba** — When an Old Man Dies [The Boy Bands Have Won] (0:54) `isrc:DEZ430815401` `qobuz:300447295`
+- **David Buckley** — A Thousand Miles of Sand [Kandahar (Original Motion Picture Soundtrack)] (1:44) `isrc:USLS52342201` `qobuz:212703332`
+- **Jacken Elswyth** — Singing Birds / Jack Lattin [At Fargrounds] (3:13) `isrc:UKX2L2400010` `qobuz:260556008`
+- **The Great Old Ones** — In Screams and Flames [EOD: A Tale of Dark Legacy (Deluxe Edition)] (7:50) `isrc:FR33T1640306` `qobuz:77783343`
+- **Chad Lawson** — Lawson: She Dreams of Time [You Finally Knew] (3:21) `isrc:USUG12000365` `qobuz:97273319`
+- **The King's Singers** — Carol of the Bells (Arr. Keith Roberts) [Christmas Songbook] (2:43) `isrc:GBLLH1645905` `qobuz:33950090`
+- **Sproatly Smith** — We Plough and Sow [Times Is N' Times Was] (4:47) `isrc:USHM21393228` `qobuz:107266445`
+- **Takashi Nishioka** — 満員の木 [満員の木] (4:07) `isrc:JPS307300003` `qobuz:199367714`
+- **The Chainsmokers** — In Too Deep [So Far So Good] (3:14) `isrc:USQX92105844` `qobuz:168265304`
+- **Kan Mikami** — 一人の女のフィナーレ [ひらく夢などあるじゃなし] (2:39) `isrc:JPS307200023` `qobuz:199145033`
+- **Logic System** — Unit [Logic] (4:53) `isrc:JPTO08119990` `qobuz:81296781`
+- **Tanizawa Tomofumi** — Night On The Galactic Railroad [We Are All Spacy] (4:21) `isrc:TCJPC2410457` `qobuz:298419689`
+- **Garden** — Junigatsu No Ame No Hi [Happy End Ni Sasagu] (3:15) `isrc:JPSR09315010` `qobuz:119281402`
+- **Jyoji Sawada** — 来るべきもの [蓼科幻想] (1:05) `isrc:JPB462680015` `qobuz:383719230`

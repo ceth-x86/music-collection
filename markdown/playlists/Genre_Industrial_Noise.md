@@ -1,0 +1,107 @@
+# Genre: Industrial Noise
+
+Imported genre playlist: Industrial Noise.
+
+Services: `qobuz:66733451` `tidal:a7ae907f-1589-44c3-9b96-2a8ed8ab9461`
+
+## Tracks (99)
+
+- **Einstürzende Neubauten** — Kollaps [Kollaps] (8:03) `isrc:DEQ040390147` `qobuz:91250344`
+- **People Under The Stairs** — Empty Bottles of Water [O.S.T.] (3:27) `isrc:USOM80310506` `qobuz:15726240`
+- **The Haters** — Noise As The Blank Banner Of An Untitled Ideology [Blank Banner] (29:28) `isrc:USA2Z1211939` `qobuz:52200133`
+- **Das Synthetische Mischgewebe** — Untitled 5 [Frequency Conquistadors] (7:04) `isrc:DEX260991129` `qobuz:29996260`
+- **SAULT** — Wildfires [Untitled (Black Is)] (3:26) `isrc:UKMEH2000068` `qobuz:127347408`
+- **Eberhard Schoener** — Falling in Trance [Trance-Formation] (5:45) `isrc:DEMV90900479` `qobuz:10214918`
+- **Dan Bern** — New American Language (Remastered) [New American Language (Remastered)] (5:12) `isrc:QZDGM2400004` `qobuz:246401438`
+- **Die Form** — Masochist II [Histories, Vol. 2] (4:56) `isrc:DEBZ70900201` `qobuz:134668647`
+- **Brezel Göring** — Psychopathia Sexualis [Psychoanalyse, Vol. 2] (4:47) `isrc:DEZJ92211003` `qobuz:155709435`
+- **Fretwork** — Christe, aller Welt Trost (harmonization from Riemenschneider Chorale No. 132, from Clavier Übung, Part III) [J.S. Bach: Alio modo - "Passacaglia" & other keyboard works transcribed for viols] (1:31) `isrc:USHM10439506` `qobuz:4751527`
+- **Plies** — Bust It Baby, Pt. 2 (feat. Ne-Yo) [Definition of Real] (4:00) `isrc:USAT20801378` `qobuz:3001293`
+- **Dieter Kessler** — Toyo Akita [Honkyoku] (8:45) `isrc:DEAR41868305` `qobuz:50254114`
+- **Controlled Bleeding** — Scourge [Golgotha] (26:11) `isrc:USI4R0605910` `qobuz:71683110`
+- **John Zorn** — Etant Donnes 1-69 [Duras:duchamp] (13:17) `isrc:USCRW9702305` `qobuz:87114248`
+- **Neo Echo** — K. 397 [E 385g]: Fantasia No. 3 in D Minor [Wolfgang Amadeus Mozart : Piano Solo (432 Hz)] (5:03) `isrc:CH6542560191` `qobuz:352291490`
+- **Esplendor Geométrico** — Moscú Está Helado [Prehistoric Sounds. Necrosis & More 1980-1981] (3:45) `isrc:ES8591300611` `qobuz:8609431`
+- **Raphaël Pichon** — I. Missa. Kyrie, Gloria: No. 9, Qui tollis peccata mundi [J. S. Bach: Mass in B Minor, BWV 232] (3:46) `isrc:FR7JM2454090` `qobuz:316403560`
+- **Silesian Quartet** — String Quartet No. 7: III. Con vivezza [Bacewicz: Complete String Quartets] (4:46) `isrc:GBLWD1603411` `qobuz:309968518`
+- **Semiso Treso** — Ein Winter ohne Dich [Die Beste Zeit (Das Weihnachtsalbum)] (3:59) `isrc:DE1O62496522` `qobuz:301305326`
+- **Scotty Hard** — Primary Humour [Scotty Hard's Radical Reconstructive Surgery-John Medeski, Matthew Shipp] (1:28) `isrc:USAJ60617201` `qobuz:291120439`
+- **Sirkka-Liisa Kaakinen-Pilch** — Mystery Sonata No. 4 "The Presentation of the Infant Jesus in the Temple" [Biber: Rosenkrantz Sonaten] (7:54) `isrc:FINDE1400008` `qobuz:306248639`
+- **Blackjack** — Maybe Its the Power of Love [Worlds Apart] (3:47) `isrc:USHM92011020` `qobuz:98623002`
+- **Paul Vidal** — Carnival of the Animals, R. 125: XIII. The Swan (Arr. P. Vidal for Cello & Orchestra) [Charming Cello] (3:09) `isrc:HKI191715911` `qobuz:64734567`
+- **Beherit** — Werewolf, Semen And Blood [Drawing Down the Moon] (3:05) `isrc:FIUM70800876` `qobuz:190529758`
+- **Craig Duncan** — Dennis Murphy / John Ryan [Irish Dance] (3:35) `isrc:USB4U0851611` `qobuz:1164009`
+- **dgoHn** — Untitled Pig Dog [All the Fuckin' As] (5:45) `isrc:UK6821406417` `qobuz:365860002`
+- **Victim** — Personal Problems [Brand New Stranger] (4:12) `isrc:QZES51971314` `qobuz:391852209`
+- **Calliope Brass** — A Garden Story, Pt. 4: Everything Goes to Sleep [Second Nature] (3:35) `isrc:USPMZ2417205` `qobuz:310037690`
+- **Peter Frechette** — Do It For Our Country [Grease 2] (2:41) `isrc:NLF058290009` `qobuz:42642215`
+- **Sara Evans** — Every Little Kiss [Born To Fly] (6:04) `isrc:USRN10000108` `qobuz:4858995`
+- **Best Noise** — White Noise 432 Hertz - One Hour (Loopable with No Fade) [Pure White Noise: Good Sleep 432 Hz] (60:00) `isrc:US25X1900048` `qobuz:215022841`
+- **Craig Safan** — X-Ray Room / Taxi Ride With Mannequins [Lady Beware] (2:51) `isrc:QM7282093515` `qobuz:101255540`
+- **They Are Gutting A Body Of Water** — fight at a kegger in the woods and everybody is shining their phone lights into the carnage screaming [swanlike (loosies 2020-2023)] (3:32) `isrc:QZNWP2450988` `qobuz:271792523`
+- **Made Matrix** — Mama [Mama] (4:15) `isrc:EEHM52630610` `qobuz:416099008`
+- **Brian Daw** — I Will Go and Do: 2020 Youth Theme [Remembering Christ LDS Hymns and Songs] (3:52) `isrc:TCAIA2401718` `qobuz:256531837`
+- **A-Star** — Stepping Good [Stepping Good] (3:09) `isrc:FR96X2124433` `qobuz:120738412`
+- **The Dø** — Lick My Wounds [Shake Shook Shaken] (3:19) `isrc:FR2MH1400018` `qobuz:19179018`
+- **Therapie TAXI** — J'en ai marre [Hit Sale] (3:20) `isrc:FR7O51700220` `qobuz:44797476`
+- **Silvia Cignoli** — II - Schiudente [Allegory of Earth and Water] (7:28) `isrc:QZWV32458125` `qobuz:284958653`
+- **Tears|Ov** — I Stand on the Cable [A Hopeless Place] (5:18) `isrc:GBJYX1914302` `qobuz:72228997`
+- **Cristina Bayón Álvarez** — La voix qui dit: je t'aime in A Major [Music for Soprano & Guitar by Female Composers] (2:47) `isrc:NLY332201570` `qobuz:190871302`
+- **$uicideboy$** — Are You Going to See the Rose in the Vase, or the Dust on the Table [New World Depression] (2:30) `isrc:QZAPK2000495` `qobuz:271652295`
+- **Don Goliath** — Beer and Rum [Skastep R.I.P. - The Dubstep Mixes] (3:54) `isrc:DEPC81300350` `qobuz:49862348`
+- **Bennett** — Vois sur ton chemin [Vois sur ton chemin] (2:26) `isrc:DEA622304124` `qobuz:245073113`
+- **Smith and The Honey Badgers** — Good Work (Live at Jamuary 3) [Killing Time] (4:29) `isrc:QZK6P2524044` `qobuz:325948600`
+- **The Breakers** — Surf Bird [Back When My Hair Was Short:  Hits Of The Early ‘60s] (2:29) `isrc:USBT21602380` `qobuz:48638652`
+- **Karine Ste-Marie** — Open Up Your Heart [Sacred Breath] (3:09) `isrc:CA99T2500003` `qobuz:358028992`
+- **Arcana Sonus** — Dazhbog's Golden Glare [Rites of the Old Pantheon: A Slavic Mythos] (3:13) `isrc:QT6EW2551583` `qobuz:369189622`
+- **Emily Lacy** — Lonesome Valley [Old Time Songs For New People] (2:22) `isrc:USA370900289` `qobuz:69067789`
+- **Eva Foss** — effortless [effortless] (2:47) `isrc:QT6EF2660419` `qobuz:431146299`
+- **Nora Music** — Stolen Moments Feel Infinite [Pure Love No Words] (1:45) `isrc:GXJBN2671312` `qobuz:393084558`
+- **Jason Mraz** — No Stopping Us [Waiting for My Rocket to Come] (3:18) `isrc:USEE10240656` `qobuz:179299669`
+- **The Replacements** — Here Comes a Regular [All for Nothing / Nothing for All] (4:45) `isrc:USRE18500004` `qobuz:2595173`
+- **Jewel** — Fading [Sweet And Wild] (3:33) `isrc:USLXJ1001140` `qobuz:20278600`
+- **Linekraft** — Hedonistic Recharger 快楽再充電者 [Humiliating Human] (10:42) `isrc:USA2Z2500626` `qobuz:333894664`
+- **Cruel Diagonals** — Apex of My Discontent [A Dormant Vigor] (3:21) `isrc:USHM92101441` `qobuz:128281129`
+- **Liew Niyomkarn** — cross over between [I Think of Another Time When You Heard It] (4:46) `isrc:USA2P2228753` `qobuz:162033488`
+- **Alice Merton** — Ignorance is Bliss [Visions] (3:34) `isrc:DEVQ72500002` `qobuz:357973280`
+- **Ryuji Takeuchi** — Scattered [Scattered] (7:14) `isrc:GBG4X1000145` `qobuz:80948485`
+- **Bliss Signal** — Tranq [Bliss Signal] (3:36) `isrc:USYBL1801338` `qobuz:139821792`
+- **Gareth Coker** — Dash Through Their Home [Ori and the Blind Forest] (3:29) `isrc:USA2P2038589` `qobuz:104379990`
+- **Alistair Payne** — Rusty Nails Have No Wings [REFLEX: Live at BIMHUIS] (6:55) `isrc:NLH212300011` `qobuz:225517695`
+- **Da MadoTaka** — Snake Charmer [Da Greatest Show On Earth] (2:37) `isrc:QZNMU2578540` `qobuz:347435816`
+- **Chuck Prophet** — It's a Good Day to Be Alive [Wake The Dead] (3:07) `isrc:USY1R2409511` `qobuz:272196602`
+- **Porter Sage Luna** — The Riddle of the Closed Door [Hikikomori Recovery to Restore Parent-Child Bonds: Beyond Loneliness – Understanding, Healing, and the Revival of Love] (5:25) `isrc:CACWV2549372` `qobuz:392105429`
+- **Santamarea** — Non ci si ama solo in primavera [Anime Storte] (3:20) `isrc:ITB002600519` `qobuz:413620248`
+- **Serge Koolenn** — J'ai rien vu [Paris Hollywood] (3:55) `isrc:FRZ042100958` `qobuz:132039951`
+- **Blue Öyster Cult** — I Am the One You Warned Me Of [Imaginos] (5:05) `isrc:USSM10304943` `qobuz:33443746`
+- **Unwound** — Accidents on Purpose [The Future of What] (1:55) `isrc:USCW61201039` `qobuz:376581210`
+- **Lil'Flip** — I Came to Bring The Pain [U Gotta Feel Me] (4:47) `isrc:USSM10401528` `qobuz:47036394`
+- **Fochs Koshka** — 32 Permanent Adult Teeth [32 Permanent Adult Teeth] (4:12) `isrc:QZWFR2565261` `qobuz:349976362`
+- **Bridget Ferrill** — Biblically Accurate Heartbreaker [Domschatzkammer] (3:07) `isrc:GBGXC2520044` `qobuz:365953789`
+- **Kate Westbrook** — Drowned in the Flood [Earth Felt the Wound] (5:09) `isrc:UK3MU2000017` `qobuz:151677873`
+- **Lauren Bousfield** — Hazer [Salesforce] (3:27) `isrc:USLZJ2356860` `qobuz:201193529`
+- **The Subways** — We Don't Need Money to Have a Good Time [When I'm With You] (3:13) `isrc:GBCEJ1100157` `qobuz:355687681`
+- **The Strokes** — New York City Cops [Is This It] (3:30) `isrc:USRC10100767` `qobuz:19020`
+- **De Magia Veterum** — The Confusion of Tongues [Migdal Bavel] (2:54) `isrc:USI4R0909588` `qobuz:71546668`
+- **Alexander Williams** — Crush Your Enemies (Instrumental) [My Time to Rise] (4:34) `isrc:QZNB82593594` `qobuz:339341190`
+- **Leslie Keffer** — Penitence [Embody] (4:15) `isrc:QZWFS2663655` `qobuz:414031805`
+- **Aerosmith** — Sick As A Dog [Rocks] (4:12) `isrc:USSM19930830` `qobuz:188600411`
+- **Joe Mantis** — Study Planetary [Light Beneath Doors] (2:00) `isrc:GBPS84217058` `qobuz:373651530`
+- **Carpathian Forest** — Through Self-Mutilation [Morbid Fascination Of Death] (2:59) `isrc:GBCQV0700334` `qobuz:51001863`
+- **Sandrider** — Ixian [Enveletration] (3:56) `isrc:USA2B2211982` `qobuz:186530266`
+- **Senses Fail** — Free Fall Without a Parachute [From the Depths of Dreams] (4:30) `isrc:USSTT1900092` `qobuz:66935874`
+- **Public Announcement** — Body Bumpin' (Yippie-Yi-Yo) [All Work, No Play] (5:26) `isrc:USAM19800017` `qobuz:98512521`
+- **Serenity's Soul Music AI** — Rising From The Ashes [Rising From The Ashes] (3:51) `isrc:QZFZ22613024` `qobuz:381068079`
+- **Mavis Staples** — Nobody Knows The Trouble I've Seen [Spirituals & Gospel - Dedicated To Mahalia Jackson] (5:03) `isrc:FRZ029601310` `qobuz:768154`
+- **Mayuko Hino** — Faintainhead [Lunisolar] (19:54) `isrc:QM4TX1840355` `qobuz:50349820`
+- **Miracle Tones** — 528 Hz Anxiety Relief [528 Hz Transformation and Miracles (DNA Repair)] (2:02) `isrc:SEBGA1902971` `qobuz:76422636`
+- **Mass Marriage** — Damp Floors [Innocence] (7:19) `isrc:QZ5FN1927657` `qobuz:58630780`
+- **TE/MO** — SIGNS [TAROT, REVERSED] (2:44) `isrc:QZTB62448342` `qobuz:290659244`
+- **Benjamin Saunders** — Berliner Messe: VIII. Agnus dei [Arvo Pärt: Organ and Choral Music] (1:58) `isrc:NLY331501537` `qobuz:26730927`
+- **Nefew** — Tattoo Tears [Spray Paint My Name on the Walls] (3:20) `isrc:USUYG1249302` `qobuz:60972800`
+- **Rodger Stella** — Live At Dem Passwords [In E] (40:05) `isrc:USA2Z1310471` `qobuz:52281261`
+- **Nazareth** — Never Dance with the Devil [Tattooed on My Brain] (3:00) `isrc:ITG271800743` `qobuz:51734137`
+- **Joe Louis Walker** — 1/4 to 3 [The Gift] (4:50) `isrc:UA2AH0401610` `qobuz:7521329`
+- **Jeph Jerman** — 11:07 [34°111'3"N 111°95'4"W] (11:07) `isrc:DEX262000637` `qobuz:94795229`
+- **Mind Key** — Dead Fame Hunter [Pulse For A Graveheart] (8:02) `isrc:ITG270900163` `qobuz:7791735`
+- **Prince** — Katrina's Paper Dolls [Purple Rain Deluxe] (3:30) `isrc:USWB11700630` `qobuz:40380657`

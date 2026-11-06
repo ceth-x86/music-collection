@@ -1,0 +1,1010 @@
+{
+  "name": "Genre: Future Bass",
+  "services": {
+    "qobuz": "66713275",
+    "tidal": "f14d243b-d842-4373-980f-4998197cdc48"
+  },
+  "description": "Imported genre playlist: Future Bass.",
+  "tracks": [
+    {
+      "artist": "Cashmere Cat",
+      "title": "Mirror Maru",
+      "services": {
+        "qobuz": "49178133"
+      },
+      "album": "Mirror Maru - EP",
+      "duration": 242,
+      "isrc": "DEZ651212701"
+    },
+    {
+      "artist": "Hudson Mohawke",
+      "title": "Chimes",
+      "services": {
+        "qobuz": "19722548"
+      },
+      "album": "Chimes",
+      "duration": 211,
+      "isrc": "GBBPW1400187"
+    },
+    {
+      "artist": "Rustie",
+      "title": "Slasherr",
+      "services": {
+        "qobuz": "49190792"
+      },
+      "album": "Triadzz / Slasherr",
+      "duration": 218,
+      "isrc": "GB7CH1300020"
+    },
+    {
+      "artist": "Ryan Hemsworth",
+      "title": "Snow In Newark (feat. Dawn Golden)",
+      "services": {
+        "qobuz": "50482971"
+      },
+      "album": "Snow In Newark",
+      "duration": 243,
+      "isrc": "CAL451457503"
+    },
+    {
+      "artist": "The Buena High School Choir",
+      "title": "What Are You Doing New Year's Eve?",
+      "services": {
+        "qobuz": "84292972"
+      },
+      "album": "Not-so-Silent Night, Vol. 1",
+      "duration": 214,
+      "isrc": "USHM91660628"
+    },
+    {
+      "artist": "Basenji",
+      "title": "Dawn",
+      "services": {
+        "qobuz": "229899460"
+      },
+      "album": "Trackpad",
+      "duration": 199,
+      "isrc": "AUFF01400629"
+    },
+    {
+      "artist": "Lindsay Lowend",
+      "title": "GT40",
+      "services": {
+        "qobuz": "62924789"
+      },
+      "album": "Windfish",
+      "duration": 133,
+      "isrc": "USA2P1330417"
+    },
+    {
+      "artist": "Wave Racer",
+      "title": "Streamers",
+      "services": {
+        "qobuz": "229902580"
+      },
+      "album": "Streamers",
+      "duration": 210,
+      "isrc": "AUFF01400522"
+    },
+    {
+      "artist": "dMb",
+      "title": "I'm On Da Floor (feat. M.O.E.)",
+      "services": {
+        "qobuz": "73442508"
+      },
+      "album": "I'm Bout Money",
+      "duration": 198,
+      "isrc": "USHM90922570"
+    },
+    {
+      "artist": "ODESZA",
+      "title": "Say My Name (feat. Zyra)",
+      "services": {
+        "qobuz": "18529013"
+      },
+      "album": "In Return",
+      "duration": 262,
+      "isrc": "GBCFB1404201"
+    },
+    {
+      "artist": "Giraffage",
+      "title": "Tell Me",
+      "services": {
+        "qobuz": "104396118"
+      },
+      "album": "No Reason",
+      "duration": 228,
+      "isrc": "QMSDU1400135"
+    },
+    {
+      "artist": "Birdy",
+      "title": "Skinny Love",
+      "services": {
+        "qobuz": "45131567"
+      },
+      "album": "Skinny Love Remixes",
+      "duration": 240,
+      "isrc": "GBAHS1400260"
+    },
+    {
+      "artist": "Jai Wolf",
+      "title": "Indian Summer",
+      "services": {
+        "qobuz": "357663195"
+      },
+      "album": "Indian Summer",
+      "duration": 248,
+      "isrc": "USQY51566563"
+    },
+    {
+      "artist": "Louis The Child",
+      "title": "It's Strange",
+      "services": {
+        "qobuz": "27998603"
+      },
+      "album": "It's Strange",
+      "duration": 246,
+      "isrc": "TCACI1515173"
+    },
+    {
+      "artist": "Kiiara",
+      "title": "Gold",
+      "services": {
+        "qobuz": "30996385"
+      },
+      "album": "low kii savage",
+      "duration": 226,
+      "isrc": "USAT21503773"
+    },
+    {
+      "artist": "Sabrina Claudio",
+      "title": "Belong to You (feat. 6LACK)",
+      "services": {
+        "qobuz": "44056771"
+      },
+      "album": "About Time",
+      "duration": 185,
+      "isrc": "USAT21704018"
+    },
+    {
+      "artist": "Del Water Gap",
+      "title": "Ode to a Conversation Stuck in Your Throat",
+      "services": {
+        "qobuz": "133868192"
+      },
+      "album": "Del Water Gap",
+      "duration": 199,
+      "isrc": "USAT22002240"
+    },
+    {
+      "artist": "Ekali",
+      "title": "Braids",
+      "services": {
+        "qobuz": "85416212"
+      },
+      "album": "A World Away",
+      "duration": 165,
+      "isrc": "USAT22000052"
+    },
+    {
+      "artist": "Alison Wonderland",
+      "title": "U Don\u2019t Know",
+      "services": {
+        "qobuz": "26588514"
+      },
+      "album": "Run",
+      "duration": 244,
+      "isrc": "AUUM71402044"
+    },
+    {
+      "artist": "Snail's House",
+      "title": "Hot Milk",
+      "services": {
+        "qobuz": "124039560"
+      },
+      "album": "Ordinary Songs 2",
+      "duration": 246,
+      "isrc": "TCADC1787671"
+    },
+    {
+      "artist": "Sweater Beats",
+      "title": "Hey Ya",
+      "services": {
+        "qobuz": "139917091"
+      },
+      "album": "Hey Ya",
+      "duration": 187,
+      "isrc": "USYBL1600586"
+    },
+    {
+      "artist": "JOHN ELLIS",
+      "title": "Nowny Dreams",
+      "services": {
+        "qobuz": "25334541"
+      },
+      "album": "Roots, branches & leaves",
+      "duration": 478,
+      "isrc": "ES7710512403"
+    },
+    {
+      "artist": "Mura Masa",
+      "title": "Love$ick",
+      "services": {
+        "qobuz": "39976788"
+      },
+      "album": "Mura Masa",
+      "duration": 192,
+      "isrc": "GBUM71605141"
+    },
+    {
+      "artist": "Marshmello",
+      "title": "Alone",
+      "services": {
+        "qobuz": "58028136"
+      },
+      "album": "Alone",
+      "duration": 273,
+      "isrc": "CA6D21600147"
+    },
+    {
+      "artist": "Martin Garrix",
+      "title": "In the Name of Love",
+      "services": {
+        "qobuz": "33923326"
+      },
+      "album": "In the Name of Love",
+      "duration": 198,
+      "isrc": "NLM5S1600003"
+    },
+    {
+      "artist": "Ookay",
+      "title": "Thief",
+      "services": {
+        "qobuz": "34516564"
+      },
+      "album": "Thief",
+      "duration": 240,
+      "isrc": "USUG11600668"
+    },
+    {
+      "artist": "Chet Porter",
+      "title": "Stay",
+      "services": {
+        "qobuz": "122386279"
+      },
+      "album": "Stay",
+      "duration": 245,
+      "isrc": "QMLD61406168"
+    },
+    {
+      "artist": "Kasbo",
+      "title": "Again",
+      "services": {
+        "qobuz": "58030104"
+      },
+      "album": "Again",
+      "duration": 229,
+      "isrc": "CA6D21500299"
+    },
+    {
+      "artist": "Droeloe",
+      "title": "Bon Voyage",
+      "services": {
+        "qobuz": "58026570"
+      },
+      "album": "Bon Voyage",
+      "duration": 254,
+      "isrc": "CA6D21600313"
+    },
+    {
+      "artist": "WRLD",
+      "title": "By Design",
+      "services": {
+        "qobuz": "58027000"
+      },
+      "album": "By Design",
+      "duration": 286,
+      "isrc": "CA6D21600206"
+    },
+    {
+      "artist": "Slushii",
+      "title": "To Say Goodbye",
+      "services": {
+        "qobuz": "124707813"
+      },
+      "album": "To Say Goodbye",
+      "duration": 233,
+      "isrc": "TCACR1685608"
+    },
+    {
+      "artist": "Dawn Golden",
+      "title": "All I Want",
+      "services": {
+        "qobuz": "207361461"
+      },
+      "album": "Still Life",
+      "duration": 213,
+      "isrc": "USCJ81401278"
+    },
+    {
+      "artist": "Robotaki",
+      "title": "Ghostboy",
+      "services": {
+        "qobuz": "50347448"
+      },
+      "album": "Ghostboy",
+      "duration": 258,
+      "isrc": "DEVF11600002"
+    },
+    {
+      "artist": "Vincent Peirani",
+      "title": "And I Love Her",
+      "services": {
+        "qobuz": "60320351"
+      },
+      "album": "So Quiet",
+      "duration": 240,
+      "isrc": "FR9W11826579"
+    },
+    {
+      "artist": "Bearson",
+      "title": "Pink Medicine",
+      "services": {
+        "qobuz": "232887984"
+      },
+      "album": "Pink Medicine",
+      "duration": 233,
+      "isrc": "TCACF1531130"
+    },
+    {
+      "artist": "Sia",
+      "title": "Helium (Sia vs. David Guetta & Afrojack)",
+      "services": {
+        "qobuz": "46736413"
+      },
+      "album": "Helium (Sia vs. David Guetta & Afrojack)",
+      "duration": 237,
+      "isrc": "USAT21800455"
+    },
+    {
+      "artist": "Joshua Lemon",
+      "title": "Don't Let Me Down",
+      "services": {
+        "qobuz": "35569074"
+      },
+      "album": "Music Top Hits 2016",
+      "duration": 201,
+      "isrc": "BET231632752"
+    },
+    {
+      "artist": "Flume & Kai",
+      "title": "Never Be Like You",
+      "services": {
+        "qobuz": "33460972"
+      },
+      "album": "Never Be Like You",
+      "duration": 235,
+      "isrc": "AUFF01500784"
+    },
+    {
+      "artist": "San Holo",
+      "title": "Light",
+      "services": {
+        "qobuz": "38355457"
+      },
+      "album": "Light",
+      "duration": 240,
+      "isrc": "NLRD51630379"
+    },
+    {
+      "artist": "The Vines",
+      "title": "Candy Flippin' Girl",
+      "services": {
+        "qobuz": "3609897"
+      },
+      "album": "Future Primitive",
+      "duration": 152,
+      "isrc": "AUBM01100075"
+    },
+    {
+      "artist": "illenium",
+      "title": "Fractures",
+      "services": {
+        "qobuz": "249833077"
+      },
+      "album": "Fractures  [feat. Nevve]",
+      "duration": 301,
+      "isrc": "TCADE1705927"
+    },
+    {
+      "artist": "Gryffin",
+      "title": "Heading Home",
+      "services": {
+        "qobuz": "29634525"
+      },
+      "album": "Heading Home",
+      "duration": 271,
+      "isrc": "USUM71600206"
+    },
+    {
+      "artist": "Dabin",
+      "title": "Alive",
+      "services": {
+        "qobuz": "221235451"
+      },
+      "album": "Wild Youth",
+      "duration": 365,
+      "isrc": "USA2P1908819"
+    },
+    {
+      "artist": "Taska Black",
+      "title": "In Your Eyes",
+      "services": {
+        "qobuz": "221234848"
+      },
+      "album": "In Your Eyes",
+      "duration": 222,
+      "isrc": "USA2P1824589"
+    },
+    {
+      "artist": "Conro",
+      "title": "Close",
+      "services": {
+        "qobuz": "59913311"
+      },
+      "album": "Close",
+      "duration": 184,
+      "isrc": "CA6D21700172"
+    },
+    {
+      "artist": "K?d",
+      "title": "Lose Myself",
+      "services": {
+        "qobuz": "186462268"
+      },
+      "album": "Lose Myself",
+      "duration": 230,
+      "isrc": "CHB701700041"
+    },
+    {
+      "artist": "Slander",
+      "title": "Superhuman",
+      "services": {
+        "qobuz": "58023914"
+      },
+      "album": "Superhuman",
+      "duration": 268,
+      "isrc": "CA6D21700159"
+    },
+    {
+      "artist": "Duumu",
+      "title": "Illuminate",
+      "services": {
+        "qobuz": "58024639"
+      },
+      "album": "Illuminate",
+      "duration": 242,
+      "isrc": "CA6D21700081"
+    },
+    {
+      "artist": "Just A Gent",
+      "title": "Open Spaces",
+      "services": {
+        "qobuz": "66932471"
+      },
+      "album": "Open Spaces",
+      "duration": 206,
+      "isrc": "CA6D21900233"
+    },
+    {
+      "artist": "Alison Wonderland",
+      "title": "Thirst",
+      "services": {
+        "qobuz": "199346755"
+      },
+      "album": "Thirst",
+      "duration": 204,
+      "isrc": "AUUM72300007"
+    },
+    {
+      "artist": "Electric Mantis",
+      "title": "Daybreak",
+      "services": {
+        "qobuz": "50352215"
+      },
+      "album": "Daybreak",
+      "duration": 180,
+      "isrc": "QZ22B1607034"
+    },
+    {
+      "artist": "Glacier",
+      "title": "Ubi",
+      "services": {
+        "qobuz": "87463994"
+      },
+      "album": "Temple Inward",
+      "duration": 352,
+      "isrc": "CA6D22000005"
+    },
+    {
+      "artist": "Zedd",
+      "title": "Stay",
+      "services": {
+        "qobuz": "38781364"
+      },
+      "album": "Stay",
+      "duration": 210,
+      "isrc": "USUM71700736"
+    },
+    {
+      "artist": "Maxence Luchi",
+      "title": "Tired (feat. Anne-Caroline Joy)",
+      "services": {
+        "qobuz": "58726933"
+      },
+      "album": "Feel Free",
+      "duration": 194,
+      "isrc": "FR59R1736061"
+    },
+    {
+      "artist": "Hardwell",
+      "title": "Creatures Of The Night",
+      "services": {
+        "qobuz": "40553810"
+      },
+      "album": "Creatures Of The Night",
+      "duration": 180,
+      "isrc": "NLQ8D1700084"
+    },
+    {
+      "artist": "BTS",
+      "title": "DNA",
+      "services": {
+        "qobuz": "140529182"
+      },
+      "album": "Love Yourself \u7d50 'Answer'",
+      "duration": 222,
+      "isrc": "QM6MZ1886133"
+    },
+    {
+      "artist": "Vindata",
+      "title": "Favor",
+      "services": {
+        "qobuz": "42499695"
+      },
+      "album": "Favor",
+      "duration": 222,
+      "isrc": "USAT21702387"
+    },
+    {
+      "artist": "Lost Kings",
+      "title": "Phone Down",
+      "services": {
+        "qobuz": "35245558"
+      },
+      "album": "Phone Down",
+      "duration": 215,
+      "isrc": "USRC11602008"
+    },
+    {
+      "artist": "Said The Sky",
+      "title": "All I Got",
+      "services": {
+        "qobuz": "221235199"
+      },
+      "album": "Wide-Eyed",
+      "duration": 315,
+      "isrc": "USQY51792370"
+    },
+    {
+      "artist": "Duskus",
+      "title": "Holding U",
+      "services": {
+        "qobuz": "376021124"
+      },
+      "album": "Holding U",
+      "duration": 167,
+      "isrc": "NLRD51632788"
+    },
+    {
+      "artist": "Mariah Carey",
+      "title": "Fantasy",
+      "services": {
+        "qobuz": "7416"
+      },
+      "album": "Daydream",
+      "duration": 243,
+      "isrc": "USSM19501031"
+    },
+    {
+      "artist": "Sam Gellaitry",
+      "title": "Duo",
+      "services": {
+        "qobuz": "119501070"
+      },
+      "album": "Duo",
+      "duration": 126,
+      "isrc": "GBAYE2100386"
+    },
+    {
+      "artist": "Kavinsky",
+      "title": "Pulsar",
+      "services": {
+        "qobuz": "145124200"
+      },
+      "album": "Reborn",
+      "duration": 214,
+      "isrc": "FRS712100100"
+    },
+    {
+      "artist": "Grant",
+      "title": "Wishes",
+      "services": {
+        "qobuz": "65951965"
+      },
+      "album": "Wishes",
+      "duration": 241,
+      "isrc": "CA6D21900054"
+    },
+    {
+      "artist": "Eminem",
+      "title": "Without Me",
+      "services": {
+        "qobuz": "3879026"
+      },
+      "album": "The Eminem Show",
+      "duration": 290,
+      "isrc": "USIR10211038"
+    },
+    {
+      "artist": "Didrick",
+      "title": "Ready to Fly",
+      "services": {
+        "qobuz": "58015601"
+      },
+      "album": "Ready to Fly",
+      "duration": 190,
+      "isrc": "CA6D21700315"
+    },
+    {
+      "artist": "Steve Aoki",
+      "title": "Waste It On Me",
+      "services": {
+        "qobuz": "55380606"
+      },
+      "album": "Neon Future III",
+      "duration": 192,
+      "isrc": "USUS11800289"
+    },
+    {
+      "artist": "Exo",
+      "title": "Love Shot",
+      "services": {
+        "qobuz": "66323685"
+      },
+      "album": "Love Shot \u2013 The 5th Album Repackage",
+      "duration": 200,
+      "isrc": "KRA301800573"
+    },
+    {
+      "artist": "Grey",
+      "title": "I Miss You",
+      "services": {
+        "qobuz": "37675663"
+      },
+      "album": "I Miss You",
+      "duration": 191,
+      "isrc": "USUM71700035"
+    },
+    {
+      "artist": "Seven Lions",
+      "title": "Cold Skin",
+      "services": {
+        "qobuz": "58026572"
+      },
+      "album": "Cold Skin",
+      "duration": 211,
+      "isrc": "CA6D21600312"
+    },
+    {
+      "artist": "Mitis",
+      "title": "By My Side",
+      "services": {
+        "qobuz": "221234779"
+      },
+      "album": "'Til the End",
+      "duration": 190,
+      "isrc": "USA2P1804762"
+    },
+    {
+      "artist": "INZO",
+      "title": "Overthinker",
+      "services": {
+        "qobuz": "387937234"
+      },
+      "album": "Overthinker",
+      "duration": 268,
+      "isrc": "QM24S1819020"
+    },
+    {
+      "artist": "ARMNHMR",
+      "title": "On the Floor",
+      "services": {
+        "qobuz": "17683194"
+      },
+      "album": "Manufactured Music Ibiza 2014",
+      "duration": 247,
+      "isrc": "NLD681400277"
+    },
+    {
+      "artist": "LIONE",
+      "title": "Kids (with Miranda Glory)",
+      "services": {
+        "qobuz": "88793778"
+      },
+      "album": "Kids (with Miranda Glory)",
+      "duration": 260,
+      "isrc": "CYA111800452"
+    },
+    {
+      "artist": "Indie Folker",
+      "title": "Silver Screen",
+      "services": {
+        "qobuz": "78563688"
+      },
+      "album": "Monsters In Rome",
+      "duration": 293,
+      "isrc": "USCGJ1081132"
+    },
+    {
+      "artist": "WAVEDASH",
+      "title": "Dummo Loop",
+      "services": {
+        "qobuz": "414182136"
+      },
+      "album": "World Famous Tour",
+      "duration": 217,
+      "isrc": "CA5KR2094007"
+    },
+    {
+      "artist": "Nurko",
+      "title": "If It Isn't You",
+      "services": {
+        "qobuz": "189774527"
+      },
+      "album": "If It Isn't You",
+      "duration": 232,
+      "isrc": "USA2P1957098"
+    },
+    {
+      "artist": "DARK BLUES",
+      "title": "Deep in the Black",
+      "services": {
+        "qobuz": "431127032"
+      },
+      "album": "Deep Water Pulling",
+      "duration": 174,
+      "isrc": "SE6TI2652803"
+    },
+    {
+      "artist": "Less Gravity",
+      "title": "Face My Fears",
+      "services": {
+        "qobuz": "148149728"
+      },
+      "album": "Face My Fears",
+      "duration": 144,
+      "isrc": "QZDA61921745"
+    },
+    {
+      "artist": "Armin van Buuren",
+      "title": "Wild Wild Son",
+      "services": {
+        "qobuz": "378134505"
+      },
+      "album": "Wild Wild Son",
+      "duration": 213,
+      "isrc": "NLF711810973"
+    },
+    {
+      "artist": "Red Velvet",
+      "title": "Psycho",
+      "services": {
+        "qobuz": "83481952"
+      },
+      "album": "\u2018The ReVe Festival\u2019 Finale",
+      "duration": 210,
+      "isrc": "KRA301900597"
+    },
+    {
+      "artist": "Krewella",
+      "title": "Greenlights",
+      "services": {
+        "qobuz": "85893207"
+      },
+      "album": "zer0",
+      "duration": 162,
+      "isrc": "USA2P1960948"
+    },
+    {
+      "artist": "Porter Robinson",
+      "title": "Look at the Sky",
+      "services": {
+        "qobuz": "120283358"
+      },
+      "album": "Nurture",
+      "duration": 309,
+      "isrc": "USQE92000004"
+    },
+    {
+      "artist": "Wreckno",
+      "title": "DICC (feat. Moore Kismet)",
+      "services": {
+        "qobuz": "274406217"
+      },
+      "album": "DICC (feat. Moore Kismet)",
+      "duration": 161,
+      "isrc": "QZUCN2201803"
+    },
+    {
+      "artist": "Grandtheft",
+      "title": "Easy Go",
+      "services": {
+        "qobuz": "36027317"
+      },
+      "album": "Easy Go",
+      "duration": 191,
+      "isrc": "USZ4V1600239"
+    },
+    {
+      "artist": "Big Wild",
+      "title": "6's to 9's",
+      "services": {
+        "qobuz": "58482323"
+      },
+      "album": "Superdream",
+      "duration": 206,
+      "isrc": "GBCFB1800325"
+    },
+    {
+      "artist": "Tails",
+      "title": "Ghosted",
+      "services": {
+        "qobuz": "58013305"
+      },
+      "album": "Ghosted",
+      "duration": 203,
+      "isrc": "CA6D21800102"
+    },
+    {
+      "artist": "Son Tung M-TP",
+      "title": "L\u1ea1c Tr\u00f4i",
+      "services": {
+        "qobuz": "229627330"
+      },
+      "album": "L\u1ea1c Tr\u00f4i",
+      "duration": 232,
+      "isrc": "FRX201661143"
+    },
+    {
+      "artist": "nanobii",
+      "title": "Bubble Beam",
+      "services": {
+        "qobuz": "58024647"
+      },
+      "album": "Bubble Beam",
+      "duration": 178,
+      "isrc": "CA6D21700076"
+    },
+    {
+      "artist": "Hyper Potions",
+      "title": "Friends",
+      "services": {
+        "qobuz": "133223463"
+      },
+      "album": "Friends",
+      "duration": 220,
+      "isrc": "QZ8LD1714244"
+    },
+    {
+      "artist": "Mammal Hands",
+      "title": "Helios",
+      "services": {
+        "qobuz": "369843907"
+      },
+      "album": "Circadia",
+      "duration": 251,
+      "isrc": "DEA892600076"
+    },
+    {
+      "artist": "Moe Shop",
+      "title": "Love Taste",
+      "services": {
+        "qobuz": "340940818"
+      },
+      "album": "Love Taste",
+      "duration": 176,
+      "isrc": "QZES71984354"
+    },
+    {
+      "artist": "GHOST DATA",
+      "title": "Full Bodied",
+      "services": {
+        "qobuz": "268649151"
+      },
+      "album": "Void Walker",
+      "duration": 248,
+      "isrc": "SE5VF1801693"
+    },
+    {
+      "artist": "MEMBA",
+      "title": "Schools Out",
+      "services": {
+        "qobuz": "122385897"
+      },
+      "album": "Saga-II",
+      "duration": 175,
+      "isrc": "USA2P1822434"
+    },
+    {
+      "artist": "XIUMIN",
+      "title": "Young & Free",
+      "services": {
+        "qobuz": "66653148"
+      },
+      "album": "Young & Free",
+      "duration": 202,
+      "isrc": "KRA301700299"
+    },
+    {
+      "artist": "Pluko",
+      "title": "i want you",
+      "services": {
+        "qobuz": "96909587"
+      },
+      "album": "CLASS XIX",
+      "duration": 186,
+      "isrc": "QM24S1918838"
+    },
+    {
+      "artist": "OTR",
+      "title": "Midnight Sun",
+      "services": {
+        "qobuz": "86976277"
+      },
+      "album": "Lost At Midnight",
+      "duration": 235,
+      "isrc": "USUG11904395"
+    },
+    {
+      "artist": "NewJeans",
+      "title": "Hype Boy",
+      "services": {
+        "qobuz": "167875831"
+      },
+      "album": "NewJeans 1st EP 'New Jeans'",
+      "duration": 179,
+      "isrc": "USA2P2230222"
+    },
+    {
+      "artist": "Afrojack",
+      "title": "Another Life",
+      "services": {
+        "qobuz": "40269985"
+      },
+      "album": "Another Life",
+      "duration": 208,
+      "isrc": "CYA221700023"
+    },
+    {
+      "artist": "Triples",
+      "title": "Girls Never Die",
+      "services": {
+        "qobuz": "265805211"
+      },
+      "album": "<ASSEMBLE24>",
+      "duration": 187,
+      "isrc": "KRA382402695"
+    }
+  ]
+}

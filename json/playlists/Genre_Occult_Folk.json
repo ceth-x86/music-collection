@@ -1,0 +1,990 @@
+{
+  "name": "Genre: Occult Folk",
+  "services": {
+    "qobuz": "66710793",
+    "tidal": "d6a3d0a6-9d4c-4ff3-a947-6b3d79e6fdac"
+  },
+  "description": "Imported genre playlist: Occult Folk.",
+  "tracks": [
+    {
+      "artist": "John Carpenter",
+      "title": "H3 - Season of The Witch",
+      "services": {
+        "qobuz": "72632953"
+      },
+      "album": "Halloween III: Complete Original Motion Picture Score",
+      "duration": 171,
+      "isrc": "US25T0893055"
+    },
+    {
+      "artist": "The Incredible String Band",
+      "title": "The Minotaur's Song",
+      "services": {
+        "qobuz": "2622396"
+      },
+      "album": "The Hangman's Beautiful Daughter",
+      "duration": 196,
+      "isrc": "USEE11000527"
+    },
+    {
+      "artist": "Fairport Convention",
+      "title": "Tam Lin",
+      "services": {
+        "qobuz": "3880469"
+      },
+      "album": "Liege And Lief",
+      "duration": 433,
+      "isrc": "GBAAN6900039"
+    },
+    {
+      "artist": "Pentangle",
+      "title": "Lyke-Wake Dirge",
+      "services": {
+        "qobuz": "385640587"
+      },
+      "album": "Basket of Light",
+      "duration": 211,
+      "isrc": "GBAJE0414236"
+    },
+    {
+      "artist": "Jethro Tull",
+      "title": "The Witch's Promise",
+      "services": {
+        "qobuz": "804402"
+      },
+      "album": "Living in the Past",
+      "duration": 227,
+      "isrc": "GBAYK7000001"
+    },
+    {
+      "artist": "EXUMa",
+      "title": "Obeah Man Come Back",
+      "services": {
+        "qobuz": "158275427"
+      },
+      "album": "Reincarnation",
+      "duration": 151,
+      "isrc": "USSM12203342"
+    },
+    {
+      "artist": "Shirley Collins",
+      "title": "Hares On The Mountain",
+      "services": {
+        "qobuz": "81328193"
+      },
+      "album": "Folk Roots, New Routes",
+      "duration": 179,
+      "isrc": "GBBBA6460520"
+    },
+    {
+      "artist": "Trees",
+      "title": "The Garden of Jane Delawney",
+      "services": {
+        "qobuz": "194677035"
+      },
+      "album": "The Garden of Jane Delawney",
+      "duration": 245,
+      "isrc": "GBARL0800945"
+    },
+    {
+      "artist": "Jan Dukes De Grey",
+      "title": "Sorcerers",
+      "services": {
+        "qobuz": "120355615"
+      },
+      "album": "Sorcerers",
+      "duration": 162,
+      "isrc": "GBBBA6975850"
+    },
+    {
+      "artist": "Dave & Toni Arthur",
+      "title": "Cold Blows the Winter's Wind",
+      "services": {
+        "qobuz": "151851236"
+      },
+      "album": "The Lark in the Morning",
+      "duration": 174,
+      "isrc": "GBBHW6919006"
+    },
+    {
+      "artist": "Comus",
+      "title": "Drip Drip",
+      "services": {
+        "qobuz": "385627244"
+      },
+      "album": "First Utterance",
+      "duration": 651,
+      "isrc": "GBAJE0502701"
+    },
+    {
+      "artist": "Fresh Maggots",
+      "title": "Rosemary Hill",
+      "services": {
+        "qobuz": "343658131"
+      },
+      "album": "Fresh Maggots",
+      "duration": 212,
+      "isrc": "GBARL1401551"
+    },
+    {
+      "artist": "Third Ear Band",
+      "title": "Fleance",
+      "services": {
+        "qobuz": "289084584"
+      },
+      "album": "Music From Macbeth",
+      "duration": 242,
+      "isrc": "GBAYE0302184"
+    },
+    {
+      "artist": "Dead Can Dance",
+      "title": "As the Bell Rings the Maypole Spins",
+      "services": {
+        "qobuz": "2338550"
+      },
+      "album": "Aion",
+      "duration": 316,
+      "isrc": "GBAFL0700029"
+    },
+    {
+      "artist": "Mellow Candle",
+      "title": "The Poet and the Witch",
+      "services": {
+        "qobuz": "13656711"
+      },
+      "album": "Swaddling Songs",
+      "duration": 171,
+      "isrc": "GBBBA7274340"
+    },
+    {
+      "artist": "Mark Fry",
+      "title": "The Witch",
+      "services": {
+        "qobuz": "103314000"
+      },
+      "album": "Dreaming With Alice",
+      "duration": 403,
+      "isrc": "USA2P2036541"
+    },
+    {
+      "artist": "Steeleye Span",
+      "title": "Alison Gross",
+      "services": {
+        "qobuz": "169146996"
+      },
+      "album": "Parcel of Rogues",
+      "duration": 329,
+      "isrc": "GBAYK0900398"
+    },
+    {
+      "artist": "Christian Aaron Perry",
+      "title": "God's Country",
+      "services": {
+        "qobuz": "116420631"
+      },
+      "album": "God's Country",
+      "duration": 208,
+      "isrc": "USCGJ2129396"
+    },
+    {
+      "artist": "Randy Burns",
+      "title": "Evening of the Magician",
+      "services": {
+        "qobuz": "69202257"
+      },
+      "album": "The Exit and Gaslight Years",
+      "duration": 173,
+      "isrc": "USCGH1091000"
+    },
+    {
+      "artist": "Stone Angel",
+      "title": "The Bells Of Dunwich",
+      "services": {
+        "qobuz": "30650582"
+      },
+      "album": "Stone Angel",
+      "duration": 359,
+      "isrc": "CYRLD1501439"
+    },
+    {
+      "artist": "Kate Bush",
+      "title": "Waking The Witch",
+      "services": {
+        "qobuz": "199956046"
+      },
+      "album": "Hounds of Love",
+      "duration": 258,
+      "isrc": "GBAYE1800891"
+    },
+    {
+      "artist": "Sol Invictus",
+      "title": "Against the Modern World",
+      "services": {
+        "qobuz": "189587146"
+      },
+      "album": "Against the Modern World",
+      "duration": 116,
+      "isrc": "DES561190803"
+    },
+    {
+      "artist": "Dead Can Dance",
+      "title": "The Host of Seraphim",
+      "services": {
+        "qobuz": "2534354"
+      },
+      "album": "A Passage In Time",
+      "duration": 377,
+      "isrc": "GBAFL9000322"
+    },
+    {
+      "artist": "Changes",
+      "title": "Fire of Life",
+      "services": {
+        "qobuz": "76249937"
+      },
+      "album": "Fire of Life",
+      "duration": 259,
+      "isrc": "DEKB30810463"
+    },
+    {
+      "artist": "All About Eve",
+      "title": "The Garden Of Jane Delawney",
+      "services": {
+        "qobuz": "27235666"
+      },
+      "album": "All About Eve",
+      "duration": 241,
+      "isrc": "GBUM71502313"
+    },
+    {
+      "artist": "Fire + Ice",
+      "title": "Annar Ru\u0302na",
+      "services": {
+        "qobuz": "189662192"
+      },
+      "album": "Seasons of Ice",
+      "duration": 219,
+      "isrc": "DES562110115"
+    },
+    {
+      "artist": "Katharina Katz",
+      "title": "Kapitel 93 - Say It With A Love Song",
+      "services": {
+        "qobuz": "290801749"
+      },
+      "album": "Say It With A Love Song - GU New Adult",
+      "duration": 188,
+      "isrc": "DEXO32413852"
+    },
+    {
+      "artist": "Death In June",
+      "title": "Rose Clouds of Holocaust",
+      "services": {
+        "qobuz": "71678725"
+      },
+      "album": "Rose Clouds of Holocaust",
+      "duration": 197,
+      "isrc": "USI4R0606708"
+    },
+    {
+      "artist": "JUNKIE PLVYA",
+      "title": "The Moon Lay Hidden Beneath a Cloud",
+      "services": {
+        "qobuz": "117536778"
+      },
+      "album": "Underground Tape Vol. 1",
+      "duration": 139,
+      "isrc": "UKEX32109627"
+    },
+    {
+      "artist": "Loreena McKennitt",
+      "title": "The Bonny Swans",
+      "services": {
+        "qobuz": "326467592"
+      },
+      "album": "The Mask and Mirror",
+      "duration": 443,
+      "isrc": "CAQ110410502"
+    },
+    {
+      "artist": "Faith and the Muse",
+      "title": "Sparks",
+      "services": {
+        "qobuz": "5904349"
+      },
+      "album": "Elyria",
+      "duration": 409,
+      "isrc": "US57M0520702"
+    },
+    {
+      "artist": "Nature And Organisation",
+      "title": "Blood of Solitude I",
+      "services": {
+        "qobuz": "26712951"
+      },
+      "album": "Snow Leopard Messiah",
+      "duration": 77,
+      "isrc": "DEZ901501285"
+    },
+    {
+      "artist": "Backworld",
+      "title": "The Devil's Plaything",
+      "services": {
+        "qobuz": "67217602"
+      },
+      "album": "Anthems From The Pleasure Park",
+      "duration": 250,
+      "isrc": "USCGJ0830271"
+    },
+    {
+      "artist": "Blood Axis",
+      "title": "Reign I Forever",
+      "services": {
+        "qobuz": "68116247"
+      },
+      "album": "Bl\u00f3t: Sacrifice in Sweden",
+      "duration": 441,
+      "isrc": "USHM90778636"
+    },
+    {
+      "artist": "Darkwood",
+      "title": "Wintermarchen",
+      "services": {
+        "qobuz": "76256894"
+      },
+      "album": "Notwendfeuer",
+      "duration": 321,
+      "isrc": "DEKB30810222"
+    },
+    {
+      "artist": "In Gowan Ring",
+      "title": "Doors to Nowhere",
+      "services": {
+        "qobuz": "374658410"
+      },
+      "album": "Doors to Nowhere",
+      "duration": 325,
+      "isrc": "QT6FK2511003"
+    },
+    {
+      "artist": "Blackmore's Night",
+      "title": "Shadow of the Moon (25th Anniversary New Mix)",
+      "services": {
+        "qobuz": "182976278"
+      },
+      "album": "Shadow of the Moon (25th Anniversary Edition)",
+      "duration": 307,
+      "isrc": "DEH842200271"
+    },
+    {
+      "artist": "Rasputina",
+      "title": "Transylvanian Concubine",
+      "services": {
+        "qobuz": "42741"
+      },
+      "album": "Transylvanian Regurgitations",
+      "duration": 167,
+      "isrc": "USSM19600957"
+    },
+    {
+      "artist": "Of The Wand & The Moon",
+      "title": "Lost In Emptiness",
+      "services": {
+        "qobuz": "58083749"
+      },
+      "album": "Emptiness Emptiness Emptiness (2010 re-release)",
+      "duration": 264,
+      "isrc": "DKFDD1000401"
+    },
+    {
+      "artist": "Sopor Aeternus & The Ensemble Of Shadows",
+      "title": "No-One Is There",
+      "services": {
+        "qobuz": "91723333"
+      },
+      "album": "Dead Lovers Sarabande, Vol.2",
+      "duration": 401,
+      "isrc": "DEZ900800377"
+    },
+    {
+      "artist": "Tenhi",
+      "title": "Kielo",
+      "services": {
+        "qobuz": "189639740"
+      },
+      "album": "Kauan",
+      "duration": 741,
+      "isrc": "DES569901709"
+    },
+    {
+      "artist": "Grooveminister",
+      "title": "Sonne, Mond und Sterne",
+      "services": {
+        "qobuz": "28018322"
+      },
+      "album": "Raus mit der Sprache",
+      "duration": 250,
+      "isrc": "DEA819700026"
+    },
+    {
+      "artist": "Forseti",
+      "title": "Welkes Blatt",
+      "services": {
+        "qobuz": "203120605"
+      },
+      "album": "Windzeit",
+      "duration": 194,
+      "isrc": "GX4R52180998"
+    },
+    {
+      "artist": "Ordo Rosarius Equilibrio",
+      "title": "Do Angels Never Cry and Heaven Never Fall?",
+      "services": {
+        "qobuz": "134670649"
+      },
+      "album": "Do Angels Never Cry and Heaven Never Fall?",
+      "duration": 239,
+      "isrc": "DEBZ71000300"
+    },
+    {
+      "artist": "Joanna Newsom",
+      "title": "Three Little Babes",
+      "services": {
+        "qobuz": "48466458"
+      },
+      "album": "The Milk-Eyed Mender",
+      "duration": 222,
+      "isrc": "US58L0426311"
+    },
+    {
+      "artist": "Sieben",
+      "title": "Ogham The Moon",
+      "services": {
+        "qobuz": "167253352"
+      },
+      "album": "Ogham Inside The Night / Sex And Wildflowers",
+      "duration": 253,
+      "isrc": "GBZEA0900090"
+    },
+    {
+      "artist": "CocoRosie",
+      "title": "Werewolf",
+      "services": {
+        "qobuz": "32674317"
+      },
+      "album": "The Adventures of Ghosthorse & Stillborn",
+      "duration": 290,
+      "isrc": "USTG30730607"
+    },
+    {
+      "artist": "Espers",
+      "title": "Dead King",
+      "services": {
+        "qobuz": "85159053"
+      },
+      "album": "The Weed Tree",
+      "duration": 279,
+      "isrc": "US58L2073607"
+    },
+    {
+      "artist": "Christopher Larkin",
+      "title": "The Grimm Troupe",
+      "services": {
+        "qobuz": "64207638"
+      },
+      "album": "Hollow Knight: Gods & Nightmares",
+      "duration": 138,
+      "isrc": "USHM21898112"
+    },
+    {
+      "artist": "Celestial Aeon Project",
+      "title": "Harp Song for the Lady in Green",
+      "services": {
+        "qobuz": "227286134"
+      },
+      "album": "Celtic Dreamland of Medieval Beauty",
+      "duration": 77,
+      "isrc": "AUGBT2308006"
+    },
+    {
+      "artist": "Faun Fables",
+      "title": "Eyes Of A Bird",
+      "services": {
+        "qobuz": "48465918"
+      },
+      "album": "Family Album",
+      "duration": 450,
+      "isrc": "US58L0526201"
+    },
+    {
+      "artist": "Jeremy Zuckerman",
+      "title": "Iroh's Tsungi Horn",
+      "services": {
+        "qobuz": "236646772"
+      },
+      "album": "Avatar: The Last Airbender - Book 1: Water",
+      "duration": 94,
+      "isrc": "USN1R2315022"
+    },
+    {
+      "artist": "Spiritual Front",
+      "title": "Darkroom Friendship",
+      "services": {
+        "qobuz": "189655994"
+      },
+      "album": "Rotten Roma Casino",
+      "duration": 200,
+      "isrc": "DEZ901000691"
+    },
+    {
+      "artist": "Pram",
+      "title": "The Owl Service",
+      "services": {
+        "qobuz": "2525214"
+      },
+      "album": "Museum Of Imaginary Animals",
+      "duration": 253,
+      "isrc": "GBCEL0000190"
+    },
+    {
+      "artist": "The Dresden Dolls",
+      "title": "Girl Anachronism",
+      "services": {
+        "qobuz": "2808091"
+      },
+      "album": "The Dresden Dolls",
+      "duration": 179,
+      "isrc": "NLA320420775"
+    },
+    {
+      "artist": "PJ Harvey",
+      "title": "The Devil",
+      "services": {
+        "qobuz": "740051"
+      },
+      "album": "White Chalk",
+      "duration": 175,
+      "isrc": "GBUM70704797"
+    },
+    {
+      "artist": "ROME",
+      "title": "To Die Among Strangers",
+      "services": {
+        "qobuz": "91730139"
+      },
+      "album": "To Die Among Strangers",
+      "duration": 253,
+      "isrc": "DEZ900900443"
+    },
+    {
+      "artist": "Sproatly Smith",
+      "title": "Blackthorn Winter",
+      "services": {
+        "qobuz": "151595187"
+      },
+      "album": "The Minstrel's Grave",
+      "duration": 392,
+      "isrc": "GB6JC1200004"
+    },
+    {
+      "artist": "The Rowan Amber Mill",
+      "title": "Blood and Bones (2009)",
+      "services": {
+        "qobuz": "92110681"
+      },
+      "album": "Midsummers",
+      "duration": 240,
+      "isrc": "USHM80942947"
+    },
+    {
+      "artist": "Fever Ray",
+      "title": "If I Had a Heart",
+      "services": {
+        "qobuz": "19772684"
+      },
+      "album": "Fever Ray",
+      "duration": 227,
+      "isrc": "SEWCE0900201"
+    },
+    {
+      "artist": "Karen Elson",
+      "title": "The Ghost Who Walks",
+      "services": {
+        "qobuz": "2484110"
+      },
+      "album": "The Ghost Who Walks",
+      "duration": 182,
+      "isrc": "GBBKS1000025"
+    },
+    {
+      "artist": "King Dude",
+      "title": "Let It Burn",
+      "services": {
+        "qobuz": "149580820"
+      },
+      "album": "Music To Make War To",
+      "duration": 212,
+      "isrc": "USA2P2208865"
+    },
+    {
+      "artist": "King Krule",
+      "title": "The Krockadile",
+      "services": {
+        "qobuz": "11096667"
+      },
+      "album": "6 Feet Beneath the Moon",
+      "duration": 291,
+      "isrc": "GBBKS1300100"
+    },
+    {
+      "artist": "Timber Timbre",
+      "title": "Demon Host",
+      "services": {
+        "qobuz": "299241709"
+      },
+      "album": "Timber Timbre",
+      "duration": 217,
+      "isrc": "CASA70919286"
+    },
+    {
+      "artist": "Florence + The Machine",
+      "title": "Seven Devils",
+      "services": {
+        "qobuz": "5999578"
+      },
+      "album": "Ceremonials",
+      "duration": 302,
+      "isrc": "GBUM71107579"
+    },
+    {
+      "artist": "S.J. Tucker",
+      "title": "Goddess",
+      "services": {
+        "qobuz": "96622738"
+      },
+      "album": "Sirens",
+      "duration": 164,
+      "isrc": "USHM20707275"
+    },
+    {
+      "artist": "Chelsea Wolfe",
+      "title": "The Waves Have Come",
+      "services": {
+        "qobuz": "330295819"
+      },
+      "album": "Pain Is Beauty",
+      "duration": 509,
+      "isrc": "USA2P1332116"
+    },
+    {
+      "artist": "Agnes Obel",
+      "title": "The Curse",
+      "services": {
+        "qobuz": "11070351"
+      },
+      "album": "Aventine",
+      "duration": 353,
+      "isrc": "BEP011300114"
+    },
+    {
+      "artist": "Daughter",
+      "title": "Smother",
+      "services": {
+        "qobuz": "8019029"
+      },
+      "album": "If You Leave",
+      "duration": 241,
+      "isrc": "GBAFL1200259"
+    },
+    {
+      "artist": "Hozier",
+      "title": "In The Woods Somewhere",
+      "services": {
+        "qobuz": "19923686"
+      },
+      "album": "Hozier (Deluxe Edition)",
+      "duration": 331,
+      "isrc": "IEACJ1400152"
+    },
+    {
+      "artist": "Brena",
+      "title": "The Hanging Tree",
+      "services": {
+        "qobuz": "21421346"
+      },
+      "album": "The Hanging Tree: Tribute to James Newton Howard, Jennifer Lawrence, Hunger",
+      "duration": 159,
+      "isrc": "BET231450284"
+    },
+    {
+      "artist": "Marissa Nadler",
+      "title": "Drive",
+      "services": {
+        "qobuz": "14530042"
+      },
+      "album": "July",
+      "duration": 336,
+      "isrc": "GBBRP1343201"
+    },
+    {
+      "artist": "Eiv\u00f8r",
+      "title": "Tr\u00f8llabundin",
+      "services": {
+        "qobuz": "39114690"
+      },
+      "album": "Sl\u00f8r",
+      "duration": 271,
+      "isrc": "DKBCA1503210"
+    },
+    {
+      "artist": "Darkher",
+      "title": "The Kingdom Field",
+      "services": {
+        "qobuz": "189620162"
+      },
+      "album": "The Kingdom Field",
+      "duration": 240,
+      "isrc": "DES561416504"
+    },
+    {
+      "artist": "Emma Ruth Rundle",
+      "title": "Marked for Death",
+      "services": {
+        "qobuz": "46390524"
+      },
+      "album": "Marked for Death",
+      "duration": 219,
+      "isrc": "QMLD61402153"
+    },
+    {
+      "artist": "The Amazing Devil",
+      "title": "The Horror and the Wild",
+      "services": {
+        "qobuz": "90314016"
+      },
+      "album": "The Horror and the Wild",
+      "duration": 280,
+      "isrc": "UK6822000802"
+    },
+    {
+      "artist": "Adnan Sami",
+      "title": "Folk Tune From N.W.F.P",
+      "services": {
+        "qobuz": "1347514"
+      },
+      "album": "Ecstasy   Adnan Sami Khan",
+      "duration": 677,
+      "isrc": "USA560803397"
+    },
+    {
+      "artist": "James",
+      "title": "Sit Down",
+      "services": {
+        "qobuz": "360633813"
+      },
+      "album": "Nothing But Love - The Definitive Best Of",
+      "duration": 205,
+      "isrc": "GB2DY2300254"
+    },
+    {
+      "artist": "Carl Orr",
+      "title": "Return of the Jazz Police",
+      "services": {
+        "qobuz": "397411691"
+      },
+      "album": "Return of the Jazz Police",
+      "duration": 649,
+      "isrc": "AUMGB2501562"
+    },
+    {
+      "artist": "Boris Blank",
+      "title": "Electrified",
+      "services": {
+        "qobuz": "20469407"
+      },
+      "album": "Electrified",
+      "duration": 135,
+      "isrc": "CHB391400001"
+    },
+    {
+      "artist": "Bryony Jarman-Pinto",
+      "title": "Moving Forward",
+      "services": {
+        "qobuz": "371469476"
+      },
+      "album": "Moving Forward",
+      "duration": 349,
+      "isrc": "GBEUE2400055"
+    },
+    {
+      "artist": "Scrim",
+      "title": "tale of the missing man",
+      "services": {
+        "qobuz": "329648775"
+      },
+      "album": "via crucis",
+      "duration": 177,
+      "isrc": "QZAPK2000665"
+    },
+    {
+      "artist": "Halloween Horreur",
+      "title": "Witch's Halloween Brew in the Haunted Woods",
+      "services": {
+        "qobuz": "231378585"
+      },
+      "album": "Halloween Sounds: Conjuring Witch Waltz",
+      "duration": 202,
+      "isrc": "QZWV32343709"
+    },
+    {
+      "artist": "Daniil Trifonov",
+      "title": "Tchaikovsky: Children's Album, Op. 39: No. 20, Baba Yaga \"The Witch\"",
+      "services": {
+        "qobuz": "345436476"
+      },
+      "album": "Tchaikovsky: The Sleeping Beauty; Children's Album; Piano Sonata, Op. 80; Theme and Variations, Op. 19/6",
+      "duration": 33,
+      "isrc": "DEN962534820"
+    },
+    {
+      "artist": "David Arkenstone",
+      "title": "Dance In The Desert",
+      "services": {
+        "qobuz": "2487589"
+      },
+      "album": "Caravan Of Light",
+      "duration": 366,
+      "isrc": "USNA10017287"
+    },
+    {
+      "artist": "The Left Outsides",
+      "title": "S\u00e9ance",
+      "services": {
+        "qobuz": "93017114"
+      },
+      "album": "S\u00e9ance",
+      "duration": 255,
+      "isrc": "UKA3U2000135"
+    },
+    {
+      "artist": "Roberto Delgado",
+      "title": "Green Eyes",
+      "services": {
+        "qobuz": "69005184"
+      },
+      "album": "Holiday In M\u00e9xico",
+      "duration": 172,
+      "isrc": "USA371251193"
+    },
+    {
+      "artist": "Alexandre Desplat",
+      "title": "Flight to Compound",
+      "services": {
+        "qobuz": "36325461"
+      },
+      "album": "Zero Dark Thirty (Original Soundtrack)",
+      "duration": 307,
+      "isrc": "UG4DG1200283"
+    },
+    {
+      "artist": "The Bridge City Sinners",
+      "title": "Kreacher",
+      "services": {
+        "qobuz": "382374171"
+      },
+      "album": "Here's to the Devil",
+      "duration": 188,
+      "isrc": "QZES71909949"
+    },
+    {
+      "artist": "Teufel",
+      "title": "\u010crna Ma\u0161a",
+      "services": {
+        "qobuz": "295303640"
+      },
+      "album": "Vra\u017eje Bajke",
+      "duration": 213,
+      "isrc": "DEPI82449081"
+    },
+    {
+      "artist": "Myrkur",
+      "title": "Ella",
+      "services": {
+        "qobuz": "81202931"
+      },
+      "album": "Folkesange",
+      "duration": 234,
+      "isrc": "US2641942601"
+    },
+    {
+      "artist": "Pink Floyd",
+      "title": "Mother",
+      "services": {
+        "qobuz": "47683836"
+      },
+      "album": "The Wall (Remastered 2011 Version)",
+      "duration": 334,
+      "isrc": "GBN9Y1100100"
+    },
+    {
+      "artist": "Flower Children Of The Apocalypse",
+      "title": "Witch Song",
+      "services": {
+        "qobuz": "164332803"
+      },
+      "album": "End Of Days",
+      "duration": 172,
+      "isrc": "QZK6H2274637"
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "title": "Dancing In the Dark",
+      "services": {
+        "qobuz": "13360993"
+      },
+      "album": "Born In The U.S.A.",
+      "duration": 245,
+      "isrc": "USSM18400416"
+    },
+    {
+      "artist": "Ethel Cain",
+      "title": "Ptolemaea",
+      "services": {
+        "qobuz": "170718382"
+      },
+      "album": "Preacher\u2019s Daughter",
+      "duration": 383,
+      "isrc": "GBKPL2294757"
+    },
+    {
+      "artist": "Ivy Chalice",
+      "title": "Noctifer",
+      "services": {
+        "qobuz": "304961318"
+      },
+      "album": "Noctifer",
+      "duration": 328,
+      "isrc": "DE1O62475557"
+    },
+    {
+      "artist": "Bandshee",
+      "title": "Witch Wizard",
+      "services": {
+        "qobuz": "312477199"
+      },
+      "album": "The Long Road",
+      "duration": 314,
+      "isrc": "USCGH2519382"
+    },
+    {
+      "artist": "Gwenifer Raymond",
+      "title": "Bleak Night in Rabbit's Wood",
+      "services": {
+        "qobuz": "334410823"
+      },
+      "album": "Last Night I Heard The Dog Star Bark",
+      "duration": 382,
+      "isrc": "CA0WS2521009"
+    }
+  ]
+}

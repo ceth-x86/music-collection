@@ -1,0 +1,108 @@
+# Genre: Heavy Metal
+
+Imported genre playlist: Heavy Metal.
+
+Services: `qobuz:66734535` `tidal:725f7a43-aded-413b-9e23-87ad9fcaedb7`
+
+## Tracks (100)
+
+- **Black Sabbath** — War Pigs [The Ultimate Collection] (7:54) `isrc:GB5KW1601272` `qobuz:386663757`
+- **Sir Lord Baltimore** — Kingdom Come [Kingdom Come] (6:34) `isrc:USUM71008842` `qobuz:54883185`
+- **Budgie** — Breadfan [Never Turn Your Back On A Friend] (6:05) `isrc:USUM70807087` `qobuz:365934375`
+- **Judas Priest** — Victim of Changes [Sad Wings of Destiny] (7:53) `isrc:USKO10501189` `qobuz:309066914`
+- **Ritchie Blackmore's Rainbow** — Stargazer [Rising] (8:25) `isrc:USPR37680077` `qobuz:3881949`
+- **Scorpions** — The Sails of Charon [Taken by Force] (5:11) `isrc:DELV41501074` `qobuz:385635151`
+- **Skarlett Riot** — Warrior [Regenerate] (3:35) `isrc:SEXTE1701910` `qobuz:99724893`
+- **Motörhead** — Overkill [All the Aces] (5:10) `isrc:GBAJE7900077` `qobuz:385302639`
+- **Samson** — Riding with the Angels [Riding With the Angels: The Anthology] (3:40) `isrc:GBAJE8100048` `qobuz:34210772`
+- **Saxon** — Wheels of Steel [Wheels of Steel] (5:58) `isrc:GB01A0900049` `qobuz:385312442`
+- **Diamond Head** — Am I Evil? [Lightning To The Nations 2020] (8:25) `isrc:UKKY82000147` `qobuz:101907367`
+- **Angel Witch** — Angel Witch [Angel Witch] (3:23) `isrc:GBAJE8000037` `qobuz:387249322`
+- **Def Leppard** — Wasted [On Through The Night] (3:44) `isrc:GBUM71802093` `qobuz:90587063`
+- **Witchfynde** — Give 'Em Hell [Give 'Em Hell] (4:03) `isrc:GBBLY8000087` `qobuz:145402282`
+- **Quartz** — Stand Up And Fight [Stand Up And Fight] (4:42) `isrc:GBKYA0703276` `qobuz:168426587`
+- **White Spirit** — Midnight Chaser [White Spirit] (5:19) `isrc:USUM71814488` `qobuz:54653692`
+- **Stack Money Boyz** — Turn Up (2025 Remastered) [What Da Hell Going On, Vol. 1 (2025 Remastered Edition)] (3:53) `isrc:QZS7J2589825` `qobuz:356443759`
+- **Tygers Of Pan Tang** — Hellbound [Spellbound] (3:30) `isrc:USMC10201178` `qobuz:38182977`
+- **Girlschool** — Hit And Run [Hit and Run] (3:08) `isrc:GBAJE8100039` `qobuz:385640909`
+- **Demon** — Night of the Demon [Night of the Demon] (3:18) `isrc:TCABG1208330` `qobuz:188586230`
+- **Holocaust** — The Small Hours [Hypnosis Of Birds] (7:08) `isrc:GBBLY2201234` `qobuz:145930489`
+- **Praying Mantis** — Cheated [Time Tells No Lies] (3:53) `isrc:QMFME1396904` `qobuz:72401267`
+- **The Warheads** — Once More [Killed in Action] (1:10) `isrc:US4R31001662` `qobuz:78917776`
+- **Saracen** — Crusader [Red Sky and Heroes, Saints & Fools] (6:50) `isrc:TCAAY1150919` `qobuz:186106957`
+- **Iron Maiden** — Hallowed Be Thy Name [Somewhere Back in Time (The Best of 1980 - 1989)] (7:12) `isrc:GBCHB1500193` `qobuz:25120775`
+- **Tank** — Shellshock [Filth Hounds of Hades] (3:10) `isrc:QM6XS2001443` `qobuz:95160409`
+- **Raven** — Mind Over Metal [All For One] (3:28) `isrc:GBAJE8300107` `qobuz:388702806`
+- **Satan** — Trial by Fire [Court In The Act] (4:18) `isrc:NLA321500153` `qobuz:315010825`
+- **Jaguar** — Axe Crazy [Power Games] (2:49) `isrc:GBAJE8200095` `qobuz:385631137`
+- **Tokyo Blade** — If Heaven Is Hell [Tokyo Blade] (6:05) `isrc:GBBLY1003881` `qobuz:152581255`
+- **Grim Reaper** — See You In Hell [Best Of Grim Reaper] (4:16) `isrc:USRC19900389` `qobuz:208909`
+- **Rock Goddess** — My Angel [Live From London] (4:35) `isrc:GBHQK1602645` `qobuz:249323959`
+- **Battleme** — Burn This Town [Live At Cactus Cafe] (3:28) `isrc:QMJ6F1706603` `qobuz:37669299`
+- **Cloven Hoof** — Gates Of Gehenna [Cloven Hoof] (5:28) `isrc:GBAJE8400042` `qobuz:385315145`
+- **Metamorphose String Orchestra** — Snow White: I. Three Drops of Blood on the Snow [Litvinovsky: Snow White] (3:04) `isrc:ITD542500253` `qobuz:318780164`
+- **Blitzkrieg** — Inferno [The Boys from Brazil Street: The Archives, Vol. 1] (4:43) `isrc:GBKPL1510540` `qobuz:171590461`
+- **Ozzy Osbourne** — Crazy Train [Blizzard Of Ozz] (4:53) `isrc:USSM11002845` `qobuz:101765362`
+- **Anvil** — Metal On Metal [Metal On Metal] (3:56) `isrc:CAU118201109` `qobuz:9886945`
+- **Barón Rojo** — Los Rockeros Van al Infierno [Grandes Exitos] (4:19) `isrc:ES5108100013` `qobuz:51407592`
+- **Dio** — Holy Diver [Holy Diver] (5:49) `isrc:NLF050390016` `qobuz:5042247`
+- **Accept** — Balls to the Wall [Balls To The Wall] (5:43) `isrc:UKKY82500024` `qobuz:310823703`
+- **Mötley Crüe** — Shout at the Devil [Greatest Hits] (3:15) `isrc:USBY29900159` `qobuz:385615647`
+- **Quiet Riot** — Metal Health (Bang Your Head) [Metal Health] (5:16) `isrc:USSM18200465` `qobuz:46965692`
+- **Krokus** — Screaming in the Night [Head Hunter] (6:37) `isrc:USAR10000048` `qobuz:202035`
+- **Mercyful Fate** — Evil [Melissa] (4:44) `isrc:NLA329780544` `qobuz:132949491`
+- **Heavy Load** — Stronger than Evil [Stronger than Evil] (7:02) `isrc:SE6XK8300105` `qobuz:238848073`
+- **Visigoth** — Necropolis (Manilla Road Cover) [The Revenant King] (3:21) `isrc:USMBR1410848` `qobuz:60650827`
+- **Helix** — Rock You [Walkin' The Razor's Edge] (2:53) `isrc:USCA28400073` `qobuz:1790306`
+- **W.A.S.P.** — I Wanna Be Somebody [W.A.S.P.] (3:43) `isrc:GBCQV8400008` `qobuz:51000670`
+- **Twisted Sister** — Burn in Hell [Stay Hungry] (4:43) `isrc:USAT20000549` `qobuz:387303461`
+- **Dokken** — Unchain the Night [Original Album Series] (5:19) `isrc:USEE10181023` `qobuz:4805107`
+- **Ratt** — Round and Round [Out of the Cellar] (4:25) `isrc:USAT29900560` `qobuz:385665988`
+- **Armored Saint** — Can U Deliver [March Of The Saint] (3:35) `isrc:USCH38400043` `qobuz:4688978`
+- **Ángeles del Infierno** — Maldito sea tu nombre [Pacto con el diablo] (3:45) `isrc:ES5158414023` `qobuz:2692605`
+- **Sortilège** — Délire d'un fou [Sortilege] (5:33) `isrc:FR7Z82100060` `qobuz:194330636`
+- **Warlord** — Black Mass [Deliver Us] (5:31) `isrc:GB4J92107205` `qobuz:136740733`
+- **Yngwie Malmsteen** — Far Beyond the Sun [Yngwie J. Malmsteen's Rising Force] (5:52) `isrc:TCAJC2474885` `qobuz:307147465`
+- **Freedy Johnston** — Until the Sun Comes Back Again [Blue Days Black Nights] (3:01) `isrc:USEE19900109` `qobuz:2783074`
+- **Witch Cross** — Axe Dance [Fit For Fight] (3:21) `isrc:DEQN42200050` `qobuz:156066009`
+- **Loudness** — Crazy Nights [8186 Now and Then] (5:17) `isrc:JPWP01772303` `qobuz:45575721`
+- **Stryper** — To Hell with the Devil [To Hell With The Devil] (4:04) `isrc:USHR10320286` `qobuz:53680241`
+- **Chastain** — Mystery of Illusion [Mystery of Illusion] (4:29) `isrc:QM7281532597` `qobuz:79573719`
+- **King Diamond** — Abigail [Abigail] (4:50) `isrc:NLA329780499` `qobuz:132945172`
+- **Leatherwolf** — The Calling [Leatherwolf] (4:03) `isrc:USUM70978147` `qobuz:34106200`
+- **Amphibious Zoo Music** — Remind Me to Breathe [Indie Anthems, Vol. 1] (3:20) `isrc:US4R31348117` `qobuz:250540221`
+- **Warlock** — All We Are [Triumph And Agony] (3:20) `isrc:DEF078703340` `qobuz:628589`
+- **U.D.O.** — Animal House [Animal House (Anniversary Edition)] (4:22) `isrc:DEU601304416` `qobuz:50642894`
+- **Pretty Maids** — Future World [Future World] (5:23) `isrc:DKAXG9028101` `qobuz:44313`
+- **Lita Ford** — Kiss Me Deadly [Lita] (4:01) `isrc:USRC18705885` `qobuz:198202`
+- **Lizzy Borden** — Me Against the World [Visual Lies (Remastered)] (5:03) `isrc:USMBR0400863` `qobuz:60755973`
+- **Skid Row** — Slave to the Grind [Slave to the Grind] (3:28) `isrc:USAT20901952` `qobuz:383054838`
+- **Fight** — Into The Pit [War Of Words Remixed & Remastered 2007] (4:25) `isrc:USFM80722001` `qobuz:2089588`
+- **Bruce Dickinson** — Accident of Birth [Accident of Birth] (4:23) `isrc:GBCUF0100042` `qobuz:387763241`
+- **Halford** — Resurrection [Resurrection] (3:58) `isrc:USQX91700143` `qobuz:42657557`
+- **Blaze Bayley** — Silicon Messiah [Silicon Messiah] (5:12) `isrc:GBUDK1305003` `qobuz:56310138`
+- **The Lord Weird Slough Feg** — High Passage/Low Passage [Traveller] (3:42) `isrc:USA561235352` `qobuz:45610579`
+- **Wolf** — Voodoo [Ravenous] (4:19) `isrc:US4E40854403` `qobuz:47671342`
+- **3 Inches Of Blood** — Deadly Sinners [Advance And Vanquish] (4:31) `isrc:NLA320420869` `qobuz:5247686`
+- **Bullet** — Heading for the top [Heading for the Top] (3:00) `isrc:SEVVF0501403` `qobuz:58280499`
+- **Sister Sin** — On Parole [Switchblade Serenades] (3:51) `isrc:SEYAR1300405` `qobuz:162219834`
+- **Enforcer** — Katana [Diamonds] (6:00) `isrc:GBBPB0804477` `qobuz:22877046`
+- **White Wizzard** — High Speed Gto [High Speed GTO] (3:57) `isrc:GBBPB0803298` `qobuz:24596405`
+- **In Solitude** — Witches Sabbath [Heavy Metal Killers] (5:07) `isrc:GBBPB0802026` `qobuz:94937030`
+- **Cody High** — Another Night [Kissing Street] (1:47) `isrc:SE5Q51817040` `qobuz:60469414`
+- **Steelwing** — Full Speed Ahead! [Zone of Alienation] (3:47) `isrc:ATN261201603` `qobuz:136159641`
+- **Cauldron** — Chained Up in Chains [Chained to the Nite] (5:10) `isrc:GBBPB0802553` `qobuz:29929029`
+- **Hitten** — Evil Power [First Strike With The Devil (2023 Revisited Version)] (3:31) `isrc:QZFZ42343464` `qobuz:208235650`
+- **Skull Fist** — Head Öf the Pack [Head Öf the Pack] (3:52) `isrc:ATN261101201` `qobuz:136282037`
+- **Girish** — Sita Ram [Shiva Machine] (4:25) `isrc:US4R30601948` `qobuz:85224371`
+- **Ambush** — Firestorm [Firestorm] (4:48) `isrc:DEQN41400035` `qobuz:308596261`
+- **Night Demon** — Screams in the Night [Curse of the Damned] (3:29) `isrc:DEA451407900` `qobuz:47377819`
+- **Eternal Champion** — I Am the Hammer [The Armor of Ire] (5:14) `isrc:TCAHM2360309` `qobuz:232913122`
+- **Striker** — Phoenix Lights [Stand in the Fire] (3:38) `isrc:USCGH1606715` `qobuz:90613668`
+- **Sumerlands** — The Guardian [Sumerlands] (3:59) `isrc:US2641635002` `qobuz:60622098`
+- **The Rondels** — Satan's Theme [Monster Party: Halloween Rock & Roll Oldies, Vol. 1] (2:12) `isrc:QM4TX1927070` `qobuz:63401668`
+- **Olivia Belli** — In Dry, Glassy Air [Where Night Never Comes] (1:57) `isrc:GBKPL1815602` `qobuz:146876390`
+- **Portrait** — Bloodbath [Crimen Laesae Majestatis Divinae] (6:33) `isrc:USMBR1108116` `qobuz:60686123`
+- **Lake Street Dive** — I Want You Back [Fun Machine EP] (4:19) `isrc:TCABF1243951` `qobuz:73695834`
+- **City Riot** — Warrior of Time [Burn the Night] (5:49) `isrc:QZES81916309` `qobuz:324101771`
+- **TAILGUNNER** — Guns for Hire [Guns for Hire] (3:22) `isrc:DE1AH2370702` `qobuz:298220523`

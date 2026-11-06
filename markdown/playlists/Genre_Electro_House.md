@@ -1,0 +1,107 @@
+# Genre: Electro House
+
+Imported genre playlist: Electro House.
+
+Services: `qobuz:66715783`
+
+## Tracks (99)
+
+- **Benny Benassi presents "The Biz"** — Satisfaction [Just Dance Video Game Hits, Vol. 1] (3:12) `isrc:IT00D0206406` `qobuz:35612998`
+- **Boogie Pimps** — Somebody to Love (Salt Shaker Remix) [Somebody to Love (Salt Shaker Remix)] (3:31) `isrc:DEA610300257` `qobuz:55375055`
+- **Alter Ego** — Rocker [Rocker] (4:46) `isrc:DEZ651357699` `qobuz:49134374`
+- **Mylo** — Drop the Pressure [Destroy Rock & Roll] (4:15) `isrc:GBHFF0400006` `qobuz:172658251`
+- **Tocadisco** — Nobody Likes the Records That I Play [Nobody Likes the Records That I Play] (3:34) `isrc:QMEU32029417` `qobuz:117313451`
+- **Tiga** — Pleasure From The Bass [Sexor Collector's Edition] (3:52) `isrc:BEP010500037` `qobuz:3466308`
+- **Soulwax** — NY Excuse [Any Minute Now] (4:50) `isrc:BEP010400109` `qobuz:3462838`
+- **Coburn** — We Interrupt This Program (Interrupted Vocal Mix) [We Interrupt This Program] (6:26) `isrc:DEAA20400025` `qobuz:55370322`
+- **Mr. Big** — Daddy, Brother, Lover, Little Boy (The Electric Drill Song) - 2021 Remastered - 2021 Remastered [Lean Into It (30th Anniversary Edition)] (3:56) `isrc:HKG292100084` `qobuz:123972659`
+- **Fedde Le Grand** — Put Your Hands Up For Detroit [Put Your Hands Up For Detroit] (6:33) `isrc:GBHAD0600276` `qobuz:105166330`
+- **Hi_Tack** — Say Say Say (Waiting 4 U) [Say Say Say (Waiting 4 U)] (8:03) `isrc:NLC281011312` `qobuz:48384033`
+- **Dynoro** — Elektro [Elektro] (2:22) `isrc:DEE862001603` `qobuz:98981244`
+- **Bodyrox** — Yeah Yeah [Yeah Yeah] (2:41) `isrc:GBUM70604170` `qobuz:55934470`
+- **Mason** — Perfect (Exceeder) [Perfect (Exceeder)] (2:41) `isrc:NLF711312388` `qobuz:378195643`
+- **Brandy** — The Boy Is Mine [Never Say Never] (4:54) `isrc:USAT29800316` `qobuz:2925868`
+- **Justice** — We Are Your Friends [We Are Your Friends] (4:22) `isrc:GBAAA0600209` `qobuz:192472457`
+- **Digitalism** — Pogo [Idealism] (3:46) `isrc:FRU700700013` `qobuz:256247317`
+- **Boys Noize** — & Down [Oi Oi Oi] (4:17) `isrc:DEDU20700052` `qobuz:51101388`
+- **MSTRKRFT** — Easy Love [The Looks] (5:32) `isrc:CAL450691401` `qobuz:50483250`
+- **SebastiAn** — Ross Ross Ross [Total] (3:39) `isrc:FR0NT0600090` `qobuz:3580732`
+- **DJ Mehdi** — Signatune [Lucky Boy] (1:04) `isrc:FR0NT0600130` `qobuz:1457280`
+- **Simian Mobile Disco** — Hustler [Hustler] (3:44) `isrc:GBDNH0700444` `qobuz:885801`
+- **Goose** — Black Gloves [G20SE] (2:36) `isrc:GBBMQ0600134` `qobuz:292551159`
+- **Treasure Fingers** — Cross the Dancefloor [Cross the Dancefloor] (4:53) `isrc:USYBL0801378` `qobuz:331748606`
+- **Surkin** — Radio Fireworks [Fireworks Refired] (3:42) `isrc:FRU910700004` `qobuz:22856845`
+- **Unknown Artists** — Never Felt [Never Felt / Cubic] (4:49) `isrc:NLCK42410581` `qobuz:275935412`
+- **Kurd Maverick** — The Rub [The Rub Revisit 2016 (Inkl. Remixes by Tube & Berger Vs. Juliet Sikora and DJ Fronter)] (8:19) `isrc:DECL81600282` `qobuz:33962082`
+- **Lützenkirchen** — 3 Tage Wach [3 Tage Wach] (5:22) `isrc:DEUM70802432` `qobuz:336745781`
+- **Crooked Man** — Maladjustment To Love [Maladjustment To Love] (3:51) `isrc:GXA9Z2400076` `qobuz:388645243`
+- **Fake Blood** — Mars [Mars] (4:21) `isrc:GBJLH0703501` `qobuz:55625114`
+- **Proxy** — Raven (Original 08) [Music From The Eastblock Jungles Pt. 1] (5:54) `isrc:CAT391200102` `qobuz:33391280`
+- **The Bloody Beetroots** — Rombo (feat. Congorock) [Rombo EP] (4:05) `isrc:USDM30800004` `qobuz:53868557`
+- **Nero (UK)** — Act Like You Know [Act Like You Know] (5:40) `isrc:GBKBH0929001` `qobuz:150452602`
+- **Bloody Boy** — Smack the Underground [Smack the Underground] (2:35) `isrc:NLV5Q2500023` `qobuz:354681831`
+- **Les Petits Pilous** — Wake Up [I Love Techno 2008] (3:58) `isrc:DEDU20800114` `qobuz:206277720`
+- **Sidney Samson** — Riverside [Riverside] (5:21) `isrc:NLC280810779` `qobuz:55445734`
+- **Chuckie** — Let The Bass Kick [Let The Bass Kick] (3:56) `isrc:NLDC80800047` `qobuz:132756777`
+- **Wolfgang Gartner** — Wolfgang's 5th Symphony [Back Story] (7:30) `isrc:USUS11000704` `qobuz:47524152`
+- **Beres Hammond** — Can You Play Some More (pull It Up) [A Day In The Life] (3:59) `isrc:USVPR0410185` `qobuz:2746151`
+- **Yeah Yeah Yeahs** — Heads Will Roll [Heads Will Roll] (6:24) `isrc:USUM70906794` `qobuz:752209`
+- **Afrojack** — Take Over Control (feat. Eva Simons) [Radio Edit] [Take Over Control (feat. Eva Simons)] (3:28) `isrc:NLC281010987` `qobuz:47612239`
+- **Porter Robinson** — Say My Name [After Work Clubbing] (3:36) `isrc:DEAR41048742` `qobuz:33845904`
+- **Skrillex** — Kill EVERYBODY [Scary Monsters and Nice Sprites] (4:57) `isrc:GBTDG1000197` `qobuz:8654730`
+- **Felguk** — 2Nite [2Nite] (5:26) `isrc:GBFG91512706` `qobuz:113465778`
+- **DJ Bam Bam feat. Mr Robotic** — Watch The Club Go (Original Mix) [Pump It!, Vol. 2] (5:49) `isrc:US8VS1000009` `qobuz:70008612`
+- **Far Too Loud** — Bring Back Boogie [Bring Back Boogie] (5:08) `isrc:DEHK91026701` `qobuz:54858259`
+- **Basto** — Gregory's Theme [Gregory's Theme] (2:53) `isrc:NLC281011636` `qobuz:47612102`
+- **Hardwell** — Encoded [Encoded] (6:33) `isrc:NLCY31100171` `qobuz:163940663`
+- **Deniz Koyu** — Tung! [Tung!] (2:51) `isrc:NLBV21100013` `qobuz:270217888`
+- **Bingo Players** — Cry (Just a Little) [Cry (Just A Little)] (2:38) `isrc:NLZ541600624` `qobuz:47723225`
+- **Vato Gonzalez** — Badman Riddim (Jump) [Badman Riddim (Jump) [Remixes]] (2:46) `isrc:GBCEN1100332` `qobuz:47745515`
+- **Moguai** — Mpire [Mpire] (6:25) `isrc:GBTDG1100398` `qobuz:312479224`
+- **R3hab** — All Around The World (La La La) [All Around The World (La La La)] (2:27) `isrc:NLW4L1900121` `qobuz:60542830`
+- **Sandro Silva** — Epic [Epic] (6:00) `isrc:CYA111100040` `qobuz:76044351`
+- **Spencer & Hill** — Cool [Cool] (5:17) `isrc:DEHK91790452` `qobuz:39564003`
+- **Zedd** — Shave It Up [Clarity] (3:11) `isrc:USQY51155889` `qobuz:6468479`
+- **Madeon** — Icarus [Adventure (Deluxe)] (3:34) `isrc:FR9W11114947` `qobuz:23147139`
+- **Knife Party** — Internet Friends [100% No Modern Talking] (5:01) `isrc:GBAHT1200462` `qobuz:6270913`
+- **Feed Me** — One Click Headshot [Feed Me's Escape from Electric Mountain] (4:47) `isrc:GBTDG1100417` `qobuz:173138297`
+- **Mord Fustang** — Lick The Rainbow [Lick The Rainbow] (7:02) `isrc:DEBY71184535` `qobuz:148534839`
+- **Savant** — Sledgehammer [Alchemist] (3:53) `isrc:GBKQU1228766` `qobuz:112890634`
+- **The M Machine** — Promise Me A Rose Garden [Promise Me A Rose Garden / Glow] (5:31) `isrc:USQY51160285` `qobuz:22957239`
+- **Kill The Noise** — Saturn [BLVCK MVGIC EP] (5:32) `isrc:USA2P1271808` `qobuz:94033109`
+- **Autoerotique** — Turn Up the Volume [Freak] (3:15) `isrc:USDM31100003` `qobuz:53867325`
+- **Tommy Trash** — Body Movin [Luv U Giv (Remixes)] (4:29) `isrc:AUNV01600141` `qobuz:356700061`
+- **Krewella** — Alive [Get Wet] (4:48) `isrc:USQX91200826` `qobuz:11612199`
+- **Dyro** — Leprechauns & Unicorns [Leprechauns & Unicorns] (5:37) `isrc:NLS241203250` `qobuz:163941997`
+- **Dzeko & Torres** — Check This Out [Hey] (5:15) `isrc:USDM31200188` `qobuz:53862154`
+- **Pegboard Nerds** — Pressure Cooker [Pressure Cooker] (3:14) `isrc:TCABH1278713` `qobuz:58059267`
+- **OVERWERK** — Daybreak [Daybreak] (5:04) `isrc:CAAA21500002` `qobuz:381408872`
+- **Sander Van Doorn** — Koko [Koko] (5:39) `isrc:NLC281011780` `qobuz:49353077`
+- **Nadia Ali** — Pressure [Pressure] (6:08) `isrc:NLC281110493` `qobuz:49329389`
+- **Far Too Loud** — Doomsday Machine [Doomsday Machine] (5:06) `isrc:GB7YL1405101` `qobuz:163294520`
+- **Cazzette** — Beam Me Up [Eject] (3:23) `isrc:CH3131340031` `qobuz:301977958`
+- **Martin Garrix** — Animals [Animals] (5:04) `isrc:NLZ541300467` `qobuz:196281902`
+- **Showtek** — Cannonball [Cannonball] (3:22) `isrc:NLC281211989` `qobuz:228936365`
+- **Dance Music Junkies** — Tsunami (Jump) (Originally Performed by DVBBS & Borgeous ft. Tinie Tempah) [Karaoke Version] [High Energy Cardio Hits] (2:39) `isrc:QMFMF1430417` `qobuz:66204603`
+- **Kirsten Vaupel** — Kom maj, du søde, milde [Danish Spring Songs] (1:43) `isrc:DKECA0400501` `qobuz:75435125`
+- **Deorro** — Five Hours [Five Hours] (5:26) `isrc:CH3131340319` `qobuz:20067843`
+- **Tujamo** — Drop That Low (When I Dip) [Drop That Low (When I Dip)] (2:40) `isrc:NLZ541501187` `qobuz:60925705`
+- **Nitro Fun** — New Game [New Game] (4:19) `isrc:CA6D21000300` `qobuz:58055347`
+- **Rogue** — Exogenesis [Exogenesis] (5:05) `isrc:TCABS1341029` `qobuz:58058636`
+- **Stonebank** — Blast From The Past [Blast from the Past] (5:52) `isrc:CA6D21500328` `qobuz:58029991`
+- **F.O.O.L** — Highway [Highway] (4:50) `isrc:TCADR1854509` `qobuz:105878873`
+- **Botnek** — Deeper Love [Deeper Love] (4:13) `isrc:CA6D21500415` `qobuz:58029854`
+- **Henry Fong** — Rave Tool [Rave Tool] (2:17) `isrc:NLZ8W1900063` `qobuz:65100039`
+- **Dimitri Vegas & Like Mike** — The Hum [The Hum] (3:31) `isrc:BEK011500126` `qobuz:192148577`
+- **TJR** — Bounce Generation [Bounce Generation] (3:48) `isrc:NLZ541400127` `qobuz:47776331`
+- **Dannic** — Clobber [Toolroom Knights Mixed By Dannic] (5:02) `isrc:GBJAJ1202269` `qobuz:37347294`
+- **Curbi** — The Drum [The Drum] (2:48) `isrc:ZZOPM2105996` `qobuz:275970919`
+- **Raven & Kreyn** — Ready [Ready] (2:04) `isrc:NLZ542100910` `qobuz:123646100`
+- **Mike Candys** — Vibe [Vibe] (2:21) `isrc:CH3132100025` `qobuz:121889201`
+- **KC And The Sunshine Band** — Get Down Tonight [The Very Best of KC & the Sunshine Band] (5:20) `isrc:GBAYE7500046` `qobuz:4551494`
+- **The Black Eyed Peas** — Imma Be [THE E.N.D. (THE ENERGY NEVER DIES)] (4:16) `isrc:USUM70967900` `qobuz:141611098`
+- **Autodidakt** — I Burn [I Burn] (3:54) `isrc:DEEN71900035` `qobuz:79995799`
+- **Rozalla** — Everybody's Free (To Feel Good) [Greatest - Rozalla] (3:31) `isrc:GBBLG0400723` `qobuz:42116073`
+- **Marten Hørger** — Believe In Me [Believe In Me] (3:11) `isrc:USDM32100351` `qobuz:122456396`
+- **Costel Van Dein** — About Us [About Us] (2:23) `isrc:NL1ZN2402992` `qobuz:274445549`
+- **Stephan F** — Singularity [Singularity] (4:06) `isrc:ES50A2400345` `qobuz:274783129`

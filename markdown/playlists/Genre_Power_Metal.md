@@ -1,0 +1,108 @@
+# Genre: Power Metal
+
+Imported genre playlist: Power Metal.
+
+Services: `qobuz:66736035` `tidal:a4920f8c-191c-4151-9709-b3323173da5f`
+
+## Tracks (100)
+
+- **Warlord** — Deliver Us From Evil [Deliver Us] (6:09) `isrc:GB4J92107201` `qobuz:136740729`
+- **Jag Panzer** — The Crucifix [Decade of the Nail-Spiked Bat] (7:31) `isrc:GBDHC0349320` `qobuz:27564245`
+- **Omen** — Battle Cry [Battle Cry] (3:42) `isrc:USMBR0401142` `qobuz:60827293`
+- **Virgin Steele** — Noble Savage [Noble Savage] (7:31) `isrc:DEA451102500` `qobuz:207417474`
+- **Beast In Black** — The Fifth Angel [Berserker] (3:30) `isrc:DED831701297` `qobuz:60739217`
+- **Heir Apparent** — The Cloak [Graceful Inheritance] (2:33) `isrc:USHM80317011` `qobuz:77699965`
+- **Helloween** — Future World [Keeper of the Seven Keys] (4:02) `isrc:GB5KW2400894` `qobuz:381309341`
+- **Running Wild** — Under Jolly Roger [Riding the Storm: The Very Best of the Noise Years 1983-1995] (4:42) `isrc:GBAJE0300753` `qobuz:385569717`
+- **Sanctuary** — Battle Angels [Refuge Denied] (4:51) `isrc:USSM10026140` `qobuz:32947`
+- **Savatage** — Hall of the Mountain King [Hall of the Mountain King (2011 Edition)] (5:33) `isrc:DEH841100564` `qobuz:33019076`
+- **The United States Army Field Band** — Sunrise at Angel's Gate [United States Army Field Band and Soldier's Chorus: Musical Ambassadors of the Army] (8:44) `isrc:USA5R0511402` `qobuz:306269707`
+- **Rage** — Don't Fear the Winter [Perfect Man] (3:27) `isrc:DEAT71518895` `qobuz:189890590`
+- **Blind Guardian** — Majesty [Battalions of Fear (Remastered 2017)] (7:30) `isrc:DED831700943` `qobuz:61783143`
+- **Scanner** — Warp 7 [Hypertrace] (4:33) `isrc:DER371692001` `qobuz:39804566`
+- **Vicious Rumors** — Digital Dictator [Digital Dictator] (3:16) `isrc:QM7281532487` `qobuz:79573860`
+- **RIOT** — Thundersteel [Thundersteel] (3:49) `isrc:USSM18700524` `qobuz:2559`
+- **Crimson Glory** — Lady of Winter [Transcendence] (3:59) `isrc:NLA328999999` `qobuz:2810592`
+- **Manowar** — Hail and Kill [Kings of Metal] (5:56) `isrc:USAT20102851` `qobuz:2003397`
+- **Helstar** — Baptized In Blood [Nosferatu] (4:24) `isrc:USMBR0501590` `qobuz:60752854`
+- **0Gravity** — Chase Your Dreams [Chase Your Dreams] (6:00) `isrc:UKRMQ2501467` `qobuz:379637490`
+- **Rata Blanca** — La Leyenda Del Hada Y El Mago [Magos, Espadas Y Rosas] (5:25) `isrc:ARF099000029` `qobuz:250768975`
+- **Heavens Gate** — Livin' in Hysteria [Livin' in Hysteria] (4:38) `isrc:DET271370201` `qobuz:49095677`
+- **Royal Hunt** — Far Away [Moving Target] (4:58) `isrc:DKRC39500204` `qobuz:83794673`
+- **Angra** — Carry On [Angels Cry] (5:05) `isrc:BRBRI0500773` `qobuz:211961663`
+- **Grave Digger** — Rebellion (The Clans Are Marching) [Masterpieces] (4:04) `isrc:DEC689600439` `qobuz:278785`
+- **Gamma Ray** — Rebellion in Dreamland [The Best (Of)] (8:46) `isrc:DEH841400594` `qobuz:88601069`
+- **Stratovarius** — Black Diamond [Visions] (5:39) `isrc:DEA249700002` `qobuz:386598027`
+- **Hammerfall** — The Dragon Lies Bleeding [Glory to the Brave] (4:22) `isrc:DED839700431` `qobuz:61268459`
+- **Rhapsody** — Emerald Sword [Symphony of Enchanted Lands] (4:21) `isrc:DET279800501` `qobuz:49046742`
+- **Iron Savior** — Heavy Metal Never Dies [The Landing] (4:14) `isrc:DEU601103715` `qobuz:58120170`
+- **Brainstorm** — Nails in My Hands (Remastered) [Hungry] (3:09) `isrc:USMBR1310229` `qobuz:60887132`
+- **Domine** — The Chronicles of the Black Sword [Champion Eternal] (8:08) `isrc:USA561093358` `qobuz:45657748`
+- **Iced Earth** — Burning Times [Something Wicked This Way Comes] (3:44) `isrc:US4E40491401` `qobuz:27562076`
+- **Primal Fear** — Chainbreaker [Primal Fear (Deluxe Edition)] (4:25) `isrc:DED839739502` `qobuz:298210625`
+- **Labyrinth** — State of Grace [Return to Heaven Denied] (3:08) `isrc:FR6V81859257` `qobuz:10466960`
+- **Edguy** — Vain Glory Opera [Vain Glory Opera] (6:07) `isrc:DEZ900500571` `qobuz:58983377`
+- **Nocturnal Rites** — Ring of Steel [Tales of Mystery and Imagination] (6:43) `isrc:US4E40590801` `qobuz:27558505`
+- **Narnia** — The Return of Aslan [Awakening] (4:55) `isrc:TCACM1676892` `qobuz:125056675`
+- **Kaan Kanatlı** — Timescape [Impulse Continuum] (3:45) `isrc:QZNWU2423396` `qobuz:278952388`
+- **Tad Morose** — Matters of the Dark [Matters of the Dark] (3:32) `isrc:US4E40409402` `qobuz:27555282`
+- **Sonata Arctica** — FullMoon [Ecliptica] (5:06) `isrc:FISFS9900087` `qobuz:190373852`
+- **Vision Divine** — La Vita Fugge [Stream of Consciousness] (4:40) `isrc:DEAR41844268` `qobuz:50558453`
+- **DARK MOOR** — Silver Lake [The Hall of the Olden Dreams] (5:17) `isrc:QMDA61892439` `qobuz:150452192`
+- **Freedom Call** — Warriors [Ages of Light (1998-2013)] (4:19) `isrc:DEA450202230` `qobuz:387251015`
+- **Metalium** — Smoke on the Water [Millenium Metal - Chapter One] (5:37) `isrc:DER379919113` `qobuz:39799207`
+- **Kamelot** — The Fourth Legacy [The Fourth Legacy] (4:55) `isrc:DEA249915002` `qobuz:388097936`
+- **Angel Dust** — Bleed [Bleed] (4:41) `isrc:US4E40594301` `qobuz:27811328`
+- **Sinergy** — Beware the Heavens [Beware the Heavens] (3:54) `isrc:DED830693805` `qobuz:127992995`
+- **At Vance** — Four Seasons - Summer [No Escape] (3:20) `isrc:DEU600600486` `qobuz:91721069`
+- **Manticora** — When Forever Ends [Roots Of Eternity] (6:52) `isrc:DKQ4A2302902` `qobuz:233644981`
+- **Lost Horizon** — Highlander (The One) [A Flame To The Ground Beneath] (11:56) `isrc:GBCKC0200321` `qobuz:22268746`
+- **Avantasia** — The Seven Angels [The Metal Opera, Pt. 2] (14:17) `isrc:DEZ900500287` `qobuz:91716549`
+- **Power Quest** — Wings of Forever [Wings of Forever] (5:33) `isrc:SEXEN1900702` `qobuz:61377331`
+- **Dreamtale** — Fallen Star [Beyond Reality] (4:25) `isrc:FIUM70700071` `qobuz:190527661`
+- **Dionysus** — Anima Mundi [Anima Mundi] (3:33) `isrc:DEZ900500530` `qobuz:91719287`
+- **Felt** — Reign Of Elements [Underground Beatz] (2:19) `isrc:GBWX32406519` `qobuz:321976686`
+- **Masterplan** — Spirit Never Die [Masterplan] (5:26) `isrc:DET970200001` `qobuz:47713532`
+- **Twilightning** — Delirium Veil [Delirium Veil] (4:16) `isrc:FISFS0200112` `qobuz:190529790`
+- **Highland Glory** — From the Cradle to the Brave [From the Cradle to the Brave] (7:46) `isrc:NOAPI0927140` `qobuz:270100199`
+- **Hibria** — Steel Lord on Wheels [Defying the Rules] (3:54) `isrc:DEKS80439002` `qobuz:21429456`
+- **Dragonland** — Starfall [Starfall] (3:20) `isrc:GBDHC0405122` `qobuz:27539140`
+- **Rent Strike** — VI: Don't Let Love Bog You Down [IX] (3:41) `isrc:USDHM1800049` `qobuz:135328461`
+- **Magic Kingdom** — Another Sun [Metallic Tragedy] (4:38) `isrc:DET270406808` `qobuz:74731714`
+- **Sabaton** — Primo Victoria [Primo Victoria] (4:10) `isrc:SE2EG1000101` `qobuz:61782738`
+- **Powerwolf** — Kiss of the Cobra King [Kiss of the Cobra King (New Version 2019)] (3:49) `isrc:ATN262091901` `qobuz:74750306`
+- **Demons & Wizards** — Crimson King [Touched By The Crimson King (Remasters 2019)] (5:45) `isrc:GBDHC1908101` `qobuz:60411530`
+- **Timeless Miracle** — Into the Enchanted Chamber [Into the Enchanted Chamber] (6:05) `isrc:SEWKO1001003` `qobuz:196939519`
+- **Dragonforce** — Through The Fire And Flames [Killer Elite] (7:19) `isrc:GBAJE0508258` `qobuz:204249692`
+- **Firewind** — I Am the Anger [Burning Earth] (3:47) `isrc:TCAFJ2125064` `qobuz:127323179`
+- **Heavenly** — Virus [Virus] (6:15) `isrc:DEZ900601656` `qobuz:91718675`
+- **Winterborn** — Wildheart [Cold Reality] (5:11) `isrc:DER370652901` `qobuz:39800514`
+- **Ariel Marx** — Classical Gas (Main Title) [The Last Frontier: Season 1 (Apple TV+ Original Series Soundtrack)] (1:07) `isrc:US23A9663762` `qobuz:356261989`
+- **Theocracy** — I Am [As the World Bleeds] (11:00) `isrc:TCABB1195025` `qobuz:58716874`
+- **Bloodbound** — Nosferatu [Nosferatu] (6:23) `isrc:DEU601103546` `qobuz:55677088`
+- **Cain's Offering** — I Will Build You a Rome [Stormcrow] (4:40) `isrc:JPJ301501156` `qobuz:23743744`
+- **Unisonic** — Unisonic [Unisonic] (3:25) `isrc:DEH841200037` `qobuz:15890948`
+- **Trick Or Treat** — Evil Needs Candy Too [Evil Needs Candy Too] (4:10) `isrc:ITV780600105` `qobuz:96237817`
+- **GALNERYUS** — ANGEL OF SALVATION [ANGEL OF SALVATION] (14:41) `isrc:JPVP01207609` `qobuz:305657226`
+- **Gloryhammer** — The Unicorn Invasion of Dundee [Tales from the Kingdom of Fife] (4:26) `isrc:ATN261346102` `qobuz:37142853`
+- **Battle Beast** — King for a Day [Bringer of Pain] (4:35) `isrc:DED831601546` `qobuz:61262604`
+- **Civil War** — I Will Rule the Universe [The Killer Angels] (5:10) `isrc:SEXTE1300606` `qobuz:99587941`
+- **Serenity** — The Matricide [War of Ages] (4:56) `isrc:ATN261347806` `qobuz:39279203`
+- **Twilight Force** — Battle of Arcane Might [Heroes Of Mighty Magic] (5:06) `isrc:DED831600493` `qobuz:202005271`
+- **Helion Prime** — Life Finds a Way [Helion Prime] (4:24) `isrc:DEU601706691` `qobuz:37400498`
+- **VICTORIUS** — Super Sonic Samurai [Space Ninjas from Hell] (4:02) `isrc:ATN261989203` `qobuz:74759506`
+- **Serious Black** — High and Low [As Daylight Breaks] (3:38) `isrc:DEU601505425` `qobuz:21140090`
+- **Symphonity** — Give Me Your Helping Hand [Voice from the Silence] (5:09) `isrc:DET270810602` `qobuz:210993232`
+- **Unleash The Archers** — Apex [Apex] (8:20) `isrc:ATN261771310` `qobuz:49209080`
+- **Rainbow Kitten Surprise** — Holy War [How to: Friend, Love, Freefall] (2:54) `isrc:USAT21800177` `qobuz:46449540`
+- **Orden Ogan** — Gunman [Gunmen] (5:18) `isrc:DEU601706950` `qobuz:40731068`
+- **Brothers of Metal** — Yggdrasil [Prophecy of Ragnarök] (4:32) `isrc:USCGJ1733170` `qobuz:52413402`
+- **WarKings** — Sparta [Reborn] (3:27) `isrc:ATN261879208` `qobuz:79844573`
+- **Frozen Crown** — Kings [The Fallen King] (4:07) `isrc:ITD291801644` `qobuz:220482413`
+- **Arion** — At the Break of Dawn [Life Is Not Beautiful] (3:31) `isrc:FIRAN1600011` `qobuz:52732250`
+- **Judicator** — Spiritual Treason [The Last Emperor] (6:16) `isrc:QMAAK1830924` `qobuz:106296407`
+- **Beast In Black** — Blind And Frozen [Berserker] (5:04) `isrc:DED831701293` `qobuz:60739213`
+- **Majestica** — Above the Sky [Above the Sky] (5:51) `isrc:DED831801924` `qobuz:60415362`
+- **NorthTale** — Higher [Welcome to Paradise] (3:45) `isrc:DED831900284` `qobuz:61970095`
+- **Altaria** — Unchain the Rain [Divinity] (3:41) `isrc:ATN262002001` `qobuz:85848601`
+- **Fellowship** — Glint [The Saberlight Chronicles] (5:10) `isrc:ITD292202406` `qobuz:240876810`

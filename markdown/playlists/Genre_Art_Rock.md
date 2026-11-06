@@ -1,0 +1,108 @@
+# Genre: Art Rock
+
+Imported genre playlist: Art Rock.
+
+Services: `qobuz:66737023` `tidal:3f11271b-95d5-4464-ae02-de3eba2aacb3`
+
+## Tracks (100)
+
+- **The Velvet Underground** — Heroin [The Velvet Underground & Nico - 45th Anniversary] (7:14) `isrc:USPR36702765` `qobuz:33984068`
+- **Procol Harum** — A Whiter Shade Of Pale [The Sunday Concert] (5:15) `isrc:USY252412535` `qobuz:276781901`
+- **The Who** — Pinball Wizard [Tommy] (3:00) `isrc:GBAKW6900102` `qobuz:52321944`
+- **The Kinks** — Shangri-La [Arthur or the Decline and Fall of the British Empire] (5:22) `isrc:GB5KW1902671` `qobuz:381795892`
+- **David Bowie** — Life on Mars? [Hunky Dory] (3:55) `isrc:USJT11500153` `qobuz:25311815`
+- **Lou Reed** — Walk On the Wild Side [Transformer] (4:15) `isrc:USRC17201948` `qobuz:23265470`
+- **Roxy Music** — In Every Dream Home A Heartache [For Your Pleasure] (5:29) `isrc:GBAAA9900169` `qobuz:1067060`
+- **Brian Eno** — Baby's On Fire [Here Come The Warm Jets] (5:18) `isrc:GBAAA0400056` `qobuz:4583086`
+- **Sparks** — This Town Ain't Big Enough For Both Of Us [Kimono My House] (3:04) `isrc:GBAAN7400025` `qobuz:13654987`
+- **Electric Light Orchestra** — Can't Get It out of My Head [Eldorado] (4:21) `isrc:USSM19801650` `qobuz:28187422`
+- **Todd Rundgren** — International Feel [A Wizard / A True Star] (2:50) `isrc:USRH11502639` `qobuz:30325634`
+- **10cc** — I'm Not In Love [20th Century Masters: The Millennium Collection: Best Of 10CC] (6:07) `isrc:GBF087500001` `qobuz:21561044`
+- **Patti Smith** — Gloria : In Excelsis Deo - Gloria [Horses] (5:55) `isrc:USAR19901260` `qobuz:27102385`
+- **Bryan Ferry** — A Hard Rain's A-Gonna Fall [These Foolish Things] (5:19) `isrc:GBAAA9900282` `qobuz:1067143`
+- **John Cale** — Paris 1919 [Paris 1919] (4:03) `isrc:GBCEL2303345` `qobuz:297826153`
+- **Steely Dan** — Rikki Don't Lose That Number [Pretzel Logic] (4:32) `isrc:USMC17447196` `qobuz:220640236`
+- **Supertramp** — School [Crime Of The Century [2014 - HD Remaster]] (5:35) `isrc:USUM71022291` `qobuz:20750953`
+- **Queen** — Bohemian Rhapsody [Greatest Hits In Japan] (5:55) `isrc:GBUM71029604` `qobuz:427252075`
+- **Steve Harley & Cockney Rebel** — Make Me Smile (Come Up And See Me) [Make Me Smile (Come Up And See Me)] (3:16) `isrc:UKKP22500999` `qobuz:331484505`
+- **The Mothers Of Invention** — Who Needs The Peace Corps? [We're Only In It For The Money] (2:34) `isrc:USZPE1200034` `qobuz:6667920`
+- **Iggy Pop** — Nightclubbing [The Idiot] (4:16) `isrc:USTM39000006` `qobuz:41121066`
+- **Peter Gabriel** — Solsbury Hill [Peter Gabriel 1: Car] (4:21) `isrc:GBCPB0900635` `qobuz:79748991`
+- **Kate Bush** — Wuthering Heights [The Kick Inside] (4:28) `isrc:GBAYE1800821` `qobuz:56102018`
+- **Television** — Marquee Moon [Marquee Moon] (10:45) `isrc:USEE11500371` `qobuz:28879694`
+- **Devo** — Uncontrollable Urge [Q: Are We Not Men?  A: We Are Devo / Devo Live] (3:09) `isrc:GBAAA7800294` `qobuz:4622728`
+- **Pere Ubu** — Final Solution [Terminal Tower] (4:58) `isrc:GBCKK1837903` `qobuz:194592655`
+- **Wire** — I Am the Fly [Nine Sevens] (3:07) `isrc:GBMAE7801216` `qobuz:332049657`
+- **XTC** — Making Plans For Nigel [Drums And Wires] (4:13) `isrc:GBAAA0001008` `qobuz:1069273`
+- **Gary Numan** — Cars [The Pleasure Principle] (3:57) `isrc:GBAZP1500019` `qobuz:27967530`
+- **Yellow Magic Orchestra** — RYDEEN [Solid State Survivor] (4:26) `isrc:JPAL09900370` `qobuz:55763418`
+- **Talking Heads** — Once in a Lifetime [Remain In Light] (4:21) `isrc:USWB10502889` `qobuz:5250687`
+- **Ultravox** — Vienna [Vienna] (4:56) `isrc:GBAYK0800167` `qobuz:169136017`
+- **Split Enz** — I Got You [True Colours] (3:29) `isrc:GBAAM0201039` `qobuz:84661810`
+- **Laurie Anderson** — O Superman [Big Science] (8:25) `isrc:USNO10750554` `qobuz:11362185`
+- **The Alan Parsons Project** — Eye In The Sky [Eye In The Sky] (4:44) `isrc:USAR18200010` `qobuz:38623125`
+- **The Blue Nile** — Tinseltown in the Rain [A Walk Across the Rooftops] (5:57) `isrc:GBAAA1200702` `qobuz:151715597`
+- **Talk Talk** — It's My Life [It's My Life] (3:52) `isrc:GBAYE9700491` `qobuz:1075362`
+- **Tears For Fears** — Everybody Wants To Rule The World [Everybody Wants To Rule The World] (4:11) `isrc:GBUM70501053` `qobuz:324476482`
+- **Yello** — Oh Yeah [Touch Yello] (2:26) `isrc:DEUM70905602` `qobuz:34736413`
+- **Thomas Dolby** — She Blinded Me With Science [Blinded With Science] (3:41) `isrc:GBAYE8200083` `qobuz:385582032`
+- **David Sylvian** — Orpheus [Secrets Of The Beehive] (4:51) `isrc:GBAAA0300438` `qobuz:59084762`
+- **The Cure** — Pictures Of You [Disintegration] (7:28) `isrc:GBUM71000205` `qobuz:2147317`
+- **Pixies** — Debaser [Doolittle] (2:51) `isrc:GBAFL9700091` `qobuz:2535038`
+- **Depeche Mode** — Enjoy the Silence [The Singles 86-98] (4:16) `isrc:GBAJH9800146` `qobuz:1762148`
+- **Jane’s Addiction** — Been Caught Stealing [Alive at Twenty-Five - Ritual De Lo Habitual Live] (4:06) `isrc:QM6XS1704383` `qobuz:42502767`
+- **Faith No More** — Epic [The Real Thing] (4:53) `isrc:GBANC8900003` `qobuz:2879302`
+- **R.E.M.** — Losing My Religion [Out Of Time] (4:28) `isrc:USC4R1605373` `qobuz:36430848`
+- **U2** — One [Achtung Baby] (4:36) `isrc:GBUM71106457` `qobuz:33436779`
+- **Tori Amos** — Cornflake Girl [Under the Pink] (5:05) `isrc:USAT21500273` `qobuz:23709338`
+- **Nick Cave & The Bad Seeds** — Red Right Hand [Red Right Hand] (6:12) `isrc:GBAJH1000621` `qobuz:385300462`
+- **PJ Harvey** — Down By The Water [To Bring You My Love - Demos] (3:05) `isrc:GBUM72001545` `qobuz:96880210`
+- **Björk** — Hyperballad [Greatest Hits] (5:23) `isrc:GBBTF0200100` `qobuz:249106848`
+- **Pulp** — Common People [Different Class (Deluxe Edition)] (7:37) `isrc:GBAAN0500256` `qobuz:727143`
+- **Suede** — Animal Nitrate [Suede (25th Anniversary Edition)] (3:27) `isrc:GBL2J1000001` `qobuz:46992833`
+- **Blur** — Beetlebum [Blur] (5:05) `isrc:GBAYE1400840` `qobuz:19201295`
+- **Placebo** — Nancy Boy [Placebo] (3:32) `isrc:GBAAA9710443` `qobuz:172638961`
+- **The Smashing Pumpkins** — 1979 [Mellon Collie And The Infinite Sadness] (4:26) `isrc:USVI21200910` `qobuz:14580149`
+- **Beck** — Where It's At [Odelay] (5:31) `isrc:USIR10400603` `qobuz:37457527`
+- **Jeff Buckley** — Grace [Grace] (5:22) `isrc:USSM19400912` `qobuz:27606062`
+- **Tindersticks** — City Sickness [The First Tindersticks Album] (4:01) `isrc:GBAUP9300004` `qobuz:13502902`
+- **The Divine Comedy** — Something for the Weekend [Casanova] (4:19) `isrc:GBNFD2000140` `qobuz:102419408`
+- **Eels** — Novocaine For The Soul [Beautiful Freak] (3:08) `isrc:USDW19600101` `qobuz:190364182`
+- **Mercury Rev** — Holes [Deserter's Songs] (5:56) `isrc:GBUM71102304` `qobuz:97843875`
+- **The Flaming Lips** — Race for the Prize [The Soft Bulletin] (4:18) `isrc:USWB11602529` `qobuz:41508828`
+- **Radiohead** — Paranoid Android [OK Computer OKNOTOK 1997 2017] (6:23) `isrc:GBBKS1700185` `qobuz:41692581`
+- **Wilco** — Jesus, Etc. (2022 Remaster) [Yankee Hotel Foxtrot] (3:51) `isrc:USNO12200100` `qobuz:298644982`
+- **Interpol** — Obstacle 1 [Turn On The Bright Lights] (4:11) `isrc:USMTD1203099` `qobuz:103265236`
+- **Yeah Yeah Yeahs** — Maps [Fever To Tell] (3:40) `isrc:USIR10300259` `qobuz:43463459`
+- **Arcade Fire** — Neighborhood #1 (Tunnels) [Funeral] (4:48) `isrc:USMRG0467001` `qobuz:41620415`
+- **Franz Ferdinand** — Take Me Out [Franz Ferdinand] (3:57) `isrc:GBCEL0300192` `qobuz:2524253`
+- **Bloc Party** — Banquet [Silent Alarm] (3:21) `isrc:GBDNH0400385` `qobuz:23847395`
+- **The Decemberists** — The Mariner's Revenge Song [Picaresque] (8:45) `isrc:USKRS0542510` `qobuz:73675960`
+- **Sufjan Stevens** — Chicago [Illinois] (6:04) `isrc:US64G0501409` `qobuz:20882999`
+- **TV On The Radio** — Wolf Like Me [Return To Cookie Mountain] (4:37) `isrc:USTG30626805` `qobuz:53733338`
+- **Muse** — Knights of Cydonia [Black Holes and Revelations] (6:08) `isrc:GBAYE1500862` `qobuz:27145855`
+- **The National** — Fake Empire [Boxer] (3:25) `isrc:GBAZP0700003` `qobuz:2340400`
+- **LCD Soundsystem** — All My Friends [Sound of Silver] (7:41) `isrc:US4GE0600018` `qobuz:4732883`
+- **Of Montreal** — The Party's Crashing Us [The Sunlandic Twins] (4:53) `isrc:US3R40500058` `qobuz:181962277`
+- **The Good, The Bad & The Queen** — Kingdom Of Doom [Kingdom Of Doom] (2:42) `isrc:GBAYE0600867` `qobuz:4638185`
+- **Sigur Rós** — Hoppípolla [Takk...] (4:28) `isrc:GBKEE0500003` `qobuz:4540705`
+- **Grizzly Bear** — Two Weeks [Veckatimest] (4:06) `isrc:GBBPW0900065` `qobuz:3776830`
+- **Dirty Projectors** — Stillness Is The Move [Bitte Orca] (5:14) `isrc:GBCEL0900173` `qobuz:2501665`
+- **Animal Collective** — My Girls [Merriweather Post Pavilion] (5:40) `isrc:GBCEL0800810` `qobuz:2501503`
+- **The xx** — Crystalised [xx] (3:21) `isrc:GBBKS0900025` `qobuz:2329146`
+- **The Polyphonic Spree** — Light & Day / Reach For The Sun [The Beginning Stages of...] (3:23) `isrc:USA2B1302449` `qobuz:231777280`
+- **Deerhunter** — Helicopter [Halcyon Digest] (4:58) `isrc:GBAFL1000187` `qobuz:2543813`
+- **Tune-Yards** — Bizness [W H O K I L L] (4:22) `isrc:GBAFL1100007` `qobuz:3547163`
+- **Alt-J** — Breezeblocks [An Awesome Wave] (3:47) `isrc:GBZUZ1200028` `qobuz:388121528`
+- **Iceage** — The Lord's Favorite [Plowing Into the Field of Love] (3:49) `isrc:USMTD1405296` `qobuz:19751253`
+- **The Voidz** — Human Sadness [Tyranny] (10:56) `isrc:QMKBG1400032` `qobuz:168382315`
+- **St. Vincent** — Digital Witness [St. Vincent] (3:22) `isrc:USUM71318966` `qobuz:14580179`
+- **Car Seat Headrest** — Fill In The Blank [Teens Of Denial] (4:04) `isrc:USMTD1607727` `qobuz:33932992`
+- **Methyl Ethel** — Ubu [Everything Is Forgotten] (5:02) `isrc:GBAFL1700023` `qobuz:38781586`
+- **Big Thief** — Not [Two Hands] (6:07) `isrc:GBAFL1900290` `qobuz:74316834`
+- **black midi** — John L [Cavalcade] (5:13) `isrc:GBCVZ2000251` `qobuz:119702680`
+- **Black Country, New Road** — The Place Where He Inserted the Blade [Ants From Up There] (7:13) `isrc:GBCFB2100672` `qobuz:145715538`
+- **The Smile** — Bending Hectic [Wall Of Eyes] (8:03) `isrc:GBBKS2300158` `qobuz:231920128`
+- **The Last Dinner Party** — Nothing Matters [Prelude to Ecstasy] (3:02) `isrc:GBUM72301930` `qobuz:235927432`
+- **Vampire Weekend** — Capricorn [Only God Was Above Us] (4:09) `isrc:USSM12400079` `qobuz:260192317`
+- **Squid** — Building 650 [Cowards] (3:51) `isrc:GBBPW2401151` `qobuz:313003503`

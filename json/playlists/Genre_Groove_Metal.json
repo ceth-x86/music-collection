@@ -1,0 +1,1010 @@
+{
+  "name": "Genre: Groove Metal",
+  "services": {
+    "qobuz": "66734452",
+    "tidal": "0603d5ca-777c-4774-b475-55e41bbbd179"
+  },
+  "description": "Imported genre playlist: Groove Metal.",
+  "tracks": [
+    {
+      "artist": "Excel",
+      "title": "Tapping into the Emotional Void",
+      "services": {
+        "qobuz": "60806302"
+      },
+      "album": "The Joke's on You",
+      "duration": 260,
+      "isrc": "USZPA0901412"
+    },
+    {
+      "artist": "Exhorder",
+      "title": "The Law",
+      "services": {
+        "qobuz": "11475806"
+      },
+      "album": "The Law",
+      "duration": 288,
+      "isrc": "NLA320320451"
+    },
+    {
+      "artist": "Pantera",
+      "title": "Walk",
+      "services": {
+        "qobuz": "28879713"
+      },
+      "album": "Vulgar Display of Power",
+      "duration": 315,
+      "isrc": "USAT21502045"
+    },
+    {
+      "artist": "Metallica",
+      "title": "Sad But True",
+      "services": {
+        "qobuz": "123452388"
+      },
+      "album": "Metallica",
+      "duration": 324,
+      "isrc": "QMKHM1900002"
+    },
+    {
+      "artist": "Slayer",
+      "title": "Seasons In The Abyss",
+      "services": {
+        "qobuz": "27117388"
+      },
+      "album": "Seasons In The Abyss",
+      "duration": 394,
+      "isrc": "USSM19000330"
+    },
+    {
+      "artist": "Megadeth",
+      "title": "Symphony Of Destruction",
+      "services": {
+        "qobuz": "200676194"
+      },
+      "album": "Countdown To Extinction",
+      "duration": 242,
+      "isrc": "USCA29200001"
+    },
+    {
+      "artist": "Suicidal Tendencies",
+      "title": "You Can't Bring Me Down",
+      "services": {
+        "qobuz": "47029719"
+      },
+      "album": "Lights...Camera...Revolution",
+      "duration": 348,
+      "isrc": "USSM19000164"
+    },
+    {
+      "artist": "Helmet",
+      "title": "Unsung",
+      "services": {
+        "qobuz": "3898895"
+      },
+      "album": "Meantime",
+      "duration": 236,
+      "isrc": "USIR19200544"
+    },
+    {
+      "artist": "Ministry",
+      "title": "N.W.O.",
+      "services": {
+        "qobuz": "2934376"
+      },
+      "album": "KE*A*H** (Psalm 69)",
+      "duration": 331,
+      "isrc": "USWB10101896"
+    },
+    {
+      "artist": "Biohazard",
+      "title": "Punishment",
+      "services": {
+        "qobuz": "2809600"
+      },
+      "album": "Urban Discipline",
+      "duration": 284,
+      "isrc": "NLA329880386"
+    },
+    {
+      "artist": "Sepultura",
+      "title": "Refuse / Resist",
+      "services": {
+        "qobuz": "44048107"
+      },
+      "album": "Chaos A.D.",
+      "duration": 198,
+      "isrc": "USRH11702327"
+    },
+    {
+      "artist": "Machine Head",
+      "title": "Davidian",
+      "services": {
+        "qobuz": "2810242"
+      },
+      "album": "Burn My Eyes",
+      "duration": 296,
+      "isrc": "NLA329400920"
+    },
+    {
+      "artist": "Prong",
+      "title": "Snap Your Fingers, Snap Your Neck",
+      "services": {
+        "qobuz": "4898637"
+      },
+      "album": "Cleansing",
+      "duration": 251,
+      "isrc": "USSM19303155"
+    },
+    {
+      "artist": "Testament",
+      "title": "Low",
+      "services": {
+        "qobuz": "2797922"
+      },
+      "album": "Low",
+      "duration": 213,
+      "isrc": "USAT20181147"
+    },
+    {
+      "artist": "Anthrax",
+      "title": "Only",
+      "services": {
+        "qobuz": "63286317"
+      },
+      "album": "Sound of White Noise - Expanded Edition",
+      "duration": 296,
+      "isrc": "USME30700837"
+    },
+    {
+      "artist": "Overkill",
+      "title": "I Hear Black",
+      "services": {
+        "qobuz": "2797682"
+      },
+      "album": "I Hear Black",
+      "duration": 337,
+      "isrc": "USAT20102855"
+    },
+    {
+      "artist": "Grip Inc.",
+      "title": "Ostracized",
+      "services": {
+        "qobuz": "124118263"
+      },
+      "album": "Power of Inner Strength",
+      "duration": 188,
+      "isrc": "TCABL1367332"
+    },
+    {
+      "artist": "White Zombie",
+      "title": "More Human Than Human",
+      "services": {
+        "qobuz": "54879947"
+      },
+      "album": "Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head",
+      "duration": 268,
+      "isrc": "USGF19580608"
+    },
+    {
+      "artist": "Fear Factory",
+      "title": "Replica",
+      "services": {
+        "qobuz": "2728920"
+      },
+      "album": "Demanufacture",
+      "duration": 238,
+      "isrc": "NLA329506360"
+    },
+    {
+      "artist": "Nailbomb",
+      "title": "World of Shit",
+      "services": {
+        "qobuz": "2810296"
+      },
+      "album": "Point Blank",
+      "duration": 253,
+      "isrc": "NLA329400090"
+    },
+    {
+      "artist": "Merauder",
+      "title": "Master Killer",
+      "services": {
+        "qobuz": "27577173"
+      },
+      "album": "Master Killer",
+      "duration": 203,
+      "isrc": "US4E40680404"
+    },
+    {
+      "artist": "Puddle Of Mudd",
+      "title": "Blurry",
+      "services": {
+        "qobuz": "58450326"
+      },
+      "album": "Come Clean",
+      "duration": 303,
+      "isrc": "USIR10110581"
+    },
+    {
+      "artist": "Stuck Mojo",
+      "title": "Here Come the Infidels",
+      "services": {
+        "qobuz": "187657688"
+      },
+      "album": "Here Come the Infidels",
+      "duration": 225,
+      "isrc": "QMFME2235333"
+    },
+    {
+      "artist": "Rob Zombie",
+      "title": "Dragula",
+      "services": {
+        "qobuz": "756168"
+      },
+      "album": "Hellbilly Deluxe",
+      "duration": 222,
+      "isrc": "USGF19821203"
+    },
+    {
+      "artist": "Static-X",
+      "title": "Push It",
+      "services": {
+        "qobuz": "2060423"
+      },
+      "album": "Wisconsin Death Trip",
+      "duration": 154,
+      "isrc": "USWB19800988"
+    },
+    {
+      "artist": "Coal Chamber",
+      "title": "Loco",
+      "services": {
+        "qobuz": "168708752"
+      },
+      "album": "Coal Chamber",
+      "duration": 254,
+      "isrc": "NLA329780033"
+    },
+    {
+      "artist": "Snot",
+      "title": "Snot",
+      "services": {
+        "qobuz": "2378185"
+      },
+      "album": "Get Some",
+      "duration": 201,
+      "isrc": "USGF19711001"
+    },
+    {
+      "artist": "Sevendust",
+      "title": "Denial",
+      "services": {
+        "qobuz": "27883810"
+      },
+      "album": "Home",
+      "duration": 257,
+      "isrc": "USTV19900046"
+    },
+    {
+      "artist": "Powerman 5000",
+      "title": "When Worlds Collide",
+      "services": {
+        "qobuz": "699819"
+      },
+      "album": "Tonight The Stars Revolt",
+      "duration": 177,
+      "isrc": "USDW19910703"
+    },
+    {
+      "artist": "Kittie",
+      "title": "Brackish",
+      "services": {
+        "qobuz": "25905655"
+      },
+      "album": "Spit",
+      "duration": 189,
+      "isrc": "USAR50010126"
+    },
+    {
+      "artist": "Korn",
+      "title": "Freak On a Leash",
+      "services": {
+        "qobuz": "35561878"
+      },
+      "album": "Follow The Leader",
+      "duration": 255,
+      "isrc": "USSM19801755"
+    },
+    {
+      "artist": "Deftones",
+      "title": "My Own Summer (Shove It)",
+      "services": {
+        "qobuz": "31159546"
+      },
+      "album": "Around the Fur",
+      "duration": 215,
+      "isrc": "USRE11600084"
+    },
+    {
+      "artist": "Slipknot",
+      "title": "Wait and Bleed",
+      "services": {
+        "qobuz": "2809376"
+      },
+      "album": "Slipknot",
+      "duration": 147,
+      "isrc": "NLA329980194"
+    },
+    {
+      "artist": "Rammstein",
+      "title": "Du hast",
+      "services": {
+        "qobuz": "4531064"
+      },
+      "album": "Made In Germany 1995 - 2011",
+      "duration": 234,
+      "isrc": "DEUM71103421"
+    },
+    {
+      "artist": "Clawfinger",
+      "title": "Do What I Say",
+      "services": {
+        "qobuz": "9665975"
+      },
+      "album": "Use Your Brain",
+      "duration": 264,
+      "isrc": "SELBD0400207"
+    },
+    {
+      "artist": "Downset",
+      "title": "Anger",
+      "services": {
+        "qobuz": "760144"
+      },
+      "album": "Downset",
+      "duration": 253,
+      "isrc": "USPR39401402"
+    },
+    {
+      "artist": "Corrosion Of Conformity",
+      "title": "Albatross",
+      "services": {
+        "qobuz": "37882"
+      },
+      "album": "Deliverance",
+      "duration": 320,
+      "isrc": "USSM10025014"
+    },
+    {
+      "artist": "Rage Against The Machine",
+      "title": "Bulls On Parade",
+      "services": {
+        "qobuz": "2719140"
+      },
+      "album": "Evil Empire",
+      "duration": 229,
+      "isrc": "USSM19502563"
+    },
+    {
+      "artist": "Faith No More",
+      "title": "Digging the Grave",
+      "services": {
+        "qobuz": "8302120"
+      },
+      "album": "King for a Day, Fool for a Lifetime",
+      "duration": 183,
+      "isrc": "GBANC9500009"
+    },
+    {
+      "artist": "Skinlab",
+      "title": "Scapegoat",
+      "services": {
+        "qobuz": "27583116"
+      },
+      "album": "Disembody - The New Flesh",
+      "duration": 366,
+      "isrc": "US4E40593804"
+    },
+    {
+      "artist": "Soulfly",
+      "title": "Back to the Primitive",
+      "services": {
+        "qobuz": "2809245"
+      },
+      "album": "Primitive",
+      "duration": 262,
+      "isrc": "NLA320019178"
+    },
+    {
+      "artist": "Mudvayne",
+      "title": "Dig",
+      "services": {
+        "qobuz": "31964"
+      },
+      "album": "L.D. 50",
+      "duration": 162,
+      "isrc": "USSM10010700"
+    },
+    {
+      "artist": "Nothingface",
+      "title": "Bleeder",
+      "services": {
+        "qobuz": "48527360"
+      },
+      "album": "Violence",
+      "duration": 209,
+      "isrc": "USTV10000002"
+    },
+    {
+      "artist": "Spineshank",
+      "title": "Synthetic",
+      "services": {
+        "qobuz": "2809213"
+      },
+      "album": "The Height of Callousness [Special Edition]",
+      "duration": 189,
+      "isrc": "NLA320019154"
+    },
+    {
+      "artist": "Disturbed",
+      "title": "Down with the Sickness",
+      "services": {
+        "qobuz": "35549998"
+      },
+      "album": "The Sickness",
+      "duration": 279,
+      "isrc": "USRE11500333"
+    },
+    {
+      "artist": "Drowning Pool",
+      "title": "Bodies",
+      "services": {
+        "qobuz": "17795408"
+      },
+      "album": "Sinner",
+      "duration": 201,
+      "isrc": "USWU30006502"
+    },
+    {
+      "artist": "Dry Kill Logic",
+      "title": "Rot",
+      "services": {
+        "qobuz": "2808963"
+      },
+      "album": "The Darker Side of Nonsense",
+      "duration": 272,
+      "isrc": "NLA320119426"
+    },
+    {
+      "artist": "Ill Ni\u00f1o",
+      "title": "How Can I Live",
+      "services": {
+        "qobuz": "2808487"
+      },
+      "album": "Confession",
+      "duration": 196,
+      "isrc": "NLA320320207"
+    },
+    {
+      "artist": "American Head Charge",
+      "title": "Just So You Know",
+      "services": {
+        "qobuz": "783413"
+      },
+      "album": "The War Of Art",
+      "duration": 331,
+      "isrc": "USDJ20110960"
+    },
+    {
+      "artist": "Pissing Razors",
+      "title": "Fork Tongue",
+      "services": {
+        "qobuz": "126455291"
+      },
+      "album": "Fields of Disbelief",
+      "duration": 292,
+      "isrc": "DEA240050002"
+    },
+    {
+      "artist": "Chevelle",
+      "title": "The Red",
+      "services": {
+        "qobuz": "425005"
+      },
+      "album": "Wonder What's Next (Expanded Edition)",
+      "duration": 238,
+      "isrc": "USSM10201531"
+    },
+    {
+      "artist": "Shadows Fall",
+      "title": "The Light That Blinds",
+      "services": {
+        "qobuz": "27571129"
+      },
+      "album": "The War Within",
+      "duration": 298,
+      "isrc": "US4E40422801"
+    },
+    {
+      "artist": "DevilDriver",
+      "title": "I Could Care Less",
+      "services": {
+        "qobuz": "387107973"
+      },
+      "album": "The Fury of Our Maker's Hand",
+      "duration": 223,
+      "isrc": "NLA320682352"
+    },
+    {
+      "artist": "Chimaira",
+      "title": "Down Again",
+      "services": {
+        "qobuz": "2808552"
+      },
+      "album": "The Impossibility of Reason",
+      "duration": 260,
+      "isrc": "NLA320320087"
+    },
+    {
+      "artist": "Dagoba",
+      "title": "The White Guy (And the Black Ceremony)",
+      "services": {
+        "qobuz": "121457997"
+      },
+      "album": "Dagoba",
+      "duration": 209,
+      "isrc": "FR96X2161518"
+    },
+    {
+      "artist": "Black Label Society",
+      "title": "Stillborn",
+      "services": {
+        "qobuz": "53817050"
+      },
+      "album": "The Blessed Hellride",
+      "duration": 196,
+      "isrc": "GBCBR0300034"
+    },
+    {
+      "artist": "Lamb of God",
+      "title": "Laid to Rest",
+      "services": {
+        "qobuz": "269542921"
+      },
+      "album": "Ashes of the Wake",
+      "duration": 230,
+      "isrc": "USSM10409073"
+    },
+    {
+      "artist": "Damageplan",
+      "title": "Save Me",
+      "services": {
+        "qobuz": "2783891"
+      },
+      "album": "New Found Power",
+      "duration": 213,
+      "isrc": "USEE10340861"
+    },
+    {
+      "artist": "Ektomorf",
+      "title": "Destroy",
+      "services": {
+        "qobuz": "48537213"
+      },
+      "album": "Destroy",
+      "duration": 229,
+      "isrc": "DED830371202"
+    },
+    {
+      "artist": "Mnemic",
+      "title": "Door 2.12",
+      "services": {
+        "qobuz": "61387524"
+      },
+      "album": "The Audio Injected Soul",
+      "duration": 262,
+      "isrc": "DED830476102"
+    },
+    {
+      "artist": "Mastodon",
+      "title": "Blood and Thunder",
+      "services": {
+        "qobuz": "43230999"
+      },
+      "album": "Leviathan",
+      "duration": 228,
+      "isrc": "US2640462201"
+    },
+    {
+      "artist": "Trivium",
+      "title": "Like Light to the Flies",
+      "services": {
+        "qobuz": "368517506"
+      },
+      "album": "Ember to Inferno: Ab Initio",
+      "duration": 337,
+      "isrc": "GBCEJ1600290"
+    },
+    {
+      "artist": "Nonpoint",
+      "title": "Bullet With a Name",
+      "services": {
+        "qobuz": "395006084"
+      },
+      "album": "To the Pain (Deluxe Edition)",
+      "duration": 206,
+      "isrc": "QZK6P1912173"
+    },
+    {
+      "artist": "bloodsimple",
+      "title": "Straight Hate",
+      "services": {
+        "qobuz": "2843233"
+      },
+      "album": "A Cruel World",
+      "duration": 285,
+      "isrc": "USRE10500006"
+    },
+    {
+      "artist": "God Forbid",
+      "title": "To the Fallen Hero",
+      "services": {
+        "qobuz": "47670371"
+      },
+      "album": "IV: Constitution Of Treason",
+      "duration": 282,
+      "isrc": "US4E40526607"
+    },
+    {
+      "artist": "Killswitch Engage",
+      "title": "My Curse",
+      "services": {
+        "qobuz": "7782032"
+      },
+      "album": "As Daylight Dies",
+      "duration": 244,
+      "isrc": "NLA320682675"
+    },
+    {
+      "artist": "Hatebreed",
+      "title": "Destroy Everything",
+      "services": {
+        "qobuz": "2323600"
+      },
+      "album": "Supremacy",
+      "duration": 209,
+      "isrc": "NLA320682407"
+    },
+    {
+      "artist": "Throwdown",
+      "title": "Forever",
+      "services": {
+        "qobuz": "128861637"
+      },
+      "album": "Haymaker",
+      "duration": 218,
+      "isrc": "TCADW1858481"
+    },
+    {
+      "artist": "HELLYEAH",
+      "title": "Alcohaulin' Ass",
+      "services": {
+        "qobuz": "47010503"
+      },
+      "album": "HELLYEAH",
+      "duration": 234,
+      "isrc": "USSM10700389"
+    },
+    {
+      "artist": "Five Finger Death Punch",
+      "title": "The Bleeding",
+      "services": {
+        "qobuz": "73195112"
+      },
+      "album": "The Way of the Fist",
+      "duration": 268,
+      "isrc": "US4VQ0660101"
+    },
+    {
+      "artist": "Meshuggah",
+      "title": "Bleed",
+      "services": {
+        "qobuz": "298221178"
+      },
+      "album": "Obzen",
+      "duration": 442,
+      "isrc": "DE1AH2308803"
+    },
+    {
+      "artist": "Byzantine",
+      "title": "Oblivion Beckons",
+      "services": {
+        "qobuz": "49100711"
+      },
+      "album": "Oblivion Bekons",
+      "duration": 234,
+      "isrc": "USRZR0804703"
+    },
+    {
+      "artist": "Cavalera Conspiracy",
+      "title": "Inflikted",
+      "services": {
+        "qobuz": "2806654"
+      },
+      "album": "Inflikted",
+      "duration": 272,
+      "isrc": "NLA320786401"
+    },
+    {
+      "artist": "Texas Hippie Coalition",
+      "title": "Turn It Up",
+      "services": {
+        "qobuz": "71017865"
+      },
+      "album": "Peacemaker",
+      "duration": 223,
+      "isrc": "USUF81200005"
+    },
+    {
+      "artist": "Volbeat",
+      "title": "Still Counting",
+      "services": {
+        "qobuz": "343258503"
+      },
+      "album": "Guitar Gangsters & Cadillac Blood",
+      "duration": 261,
+      "isrc": "NLB930800317"
+    },
+    {
+      "artist": "Gojira",
+      "title": "L'enfant sauvage",
+      "services": {
+        "qobuz": "5650380"
+      },
+      "album": "L'Enfant Sauvage",
+      "duration": 256,
+      "isrc": "NLA321292251"
+    },
+    {
+      "artist": "Adrenaline Mob",
+      "title": "Undaunted",
+      "services": {
+        "qobuz": "47664620"
+      },
+      "album": "Omert\u00e1",
+      "duration": 284,
+      "isrc": "US8BD0900074"
+    },
+    {
+      "artist": "Stone Sour",
+      "title": "Absolute Zero",
+      "services": {
+        "qobuz": "6720471"
+      },
+      "album": "House of Gold & Bones, Part 1",
+      "duration": 229,
+      "isrc": "NLA321292440"
+    },
+    {
+      "artist": "Periphery",
+      "title": "Scarlet",
+      "services": {
+        "qobuz": "262536369"
+      },
+      "album": "Periphery II",
+      "duration": 248,
+      "isrc": "USYFZ1222405"
+    },
+    {
+      "artist": "TesseracT",
+      "title": "Of Mind - Nocturne",
+      "services": {
+        "qobuz": "27564450"
+      },
+      "album": "Altered State",
+      "duration": 350,
+      "isrc": "US4E41397404"
+    },
+    {
+      "artist": "Bring Me The Horizon",
+      "title": "Can You Feel My Heart",
+      "services": {
+        "qobuz": "11532177"
+      },
+      "album": "Can You Feel My Heart",
+      "duration": 228,
+      "isrc": "GBARL1202415"
+    },
+    {
+      "artist": "Avatar",
+      "title": "Hail the Apocalypse",
+      "services": {
+        "qobuz": "51042254"
+      },
+      "album": "Hail the Apocalypse",
+      "duration": 253,
+      "isrc": "SEVWR1400601"
+    },
+    {
+      "artist": "Killer Be Killed",
+      "title": "Face Down",
+      "services": {
+        "qobuz": "61783121"
+      },
+      "album": "Killer Be Killed",
+      "duration": 275,
+      "isrc": "DED831400223"
+    },
+    {
+      "artist": "Code Orange",
+      "title": "I Am King",
+      "services": {
+        "qobuz": "72955095"
+      },
+      "album": "I Am King",
+      "duration": 158,
+      "isrc": "QMFMG1493908"
+    },
+    {
+      "artist": "Devil You Know",
+      "title": "Seven Years Alone",
+      "services": {
+        "qobuz": "60749410"
+      },
+      "album": "The Beauty of Destruction",
+      "duration": 222,
+      "isrc": "DED831400093"
+    },
+    {
+      "artist": "Parkway Drive",
+      "title": "Vice Grip",
+      "services": {
+        "qobuz": "77613935"
+      },
+      "album": "Ire",
+      "duration": 263,
+      "isrc": "USEP41523014"
+    },
+    {
+      "artist": "Ghost",
+      "title": "Cirice",
+      "services": {
+        "qobuz": "26546788"
+      },
+      "album": "Meliora",
+      "duration": 362,
+      "isrc": "SEUM71500656"
+    },
+    {
+      "artist": "Electric Light Orchestra",
+      "title": "Fire On High",
+      "services": {
+        "qobuz": "28184148"
+      },
+      "album": "Face the Music",
+      "duration": 331,
+      "isrc": "USSM10600993"
+    },
+    {
+      "artist": "Red Fang",
+      "title": "Wires",
+      "services": {
+        "qobuz": "60685378"
+      },
+      "album": "Murder the Mountains (Deluxe Version)",
+      "duration": 343,
+      "isrc": "US2641114402"
+    },
+    {
+      "artist": "Thy Art Is Murder",
+      "title": "Reign Of Darkness",
+      "services": {
+        "qobuz": "223081607"
+      },
+      "album": "Hate",
+      "duration": 215,
+      "isrc": "AUSH01200012"
+    },
+    {
+      "artist": "JINJER",
+      "title": "Pisces",
+      "services": {
+        "qobuz": "37230710"
+      },
+      "album": "King of Everything",
+      "duration": 305,
+      "isrc": "ATN261667709"
+    },
+    {
+      "artist": "Bad Wolves",
+      "title": "Remember When",
+      "services": {
+        "qobuz": "73195319"
+      },
+      "album": "Disobey",
+      "duration": 209,
+      "isrc": "USDPK1800068"
+    },
+    {
+      "artist": "Alien Weaponry",
+      "title": "Kai Tangata",
+      "services": {
+        "qobuz": "49167909"
+      },
+      "album": "T\u016b",
+      "duration": 395,
+      "isrc": "ATN261878505"
+    },
+    {
+      "artist": "Architects",
+      "title": "Doomsday",
+      "services": {
+        "qobuz": "77622433"
+      },
+      "album": "Holy Hell",
+      "duration": 248,
+      "isrc": "USEP41827043"
+    },
+    {
+      "artist": "Power Trip",
+      "title": "Executioner's Tax (Swing of the Axe)",
+      "services": {
+        "qobuz": "40391562"
+      },
+      "album": "Nightmare Logic",
+      "duration": 225,
+      "isrc": "USZPA0901385"
+    },
+    {
+      "artist": "Orbit Culture",
+      "title": "North Star of Nija",
+      "services": {
+        "qobuz": "105295264"
+      },
+      "album": "Nija",
+      "duration": 314,
+      "isrc": "QM6N22002442"
+    },
+    {
+      "artist": "Spiritbox",
+      "title": "Holy Roller",
+      "services": {
+        "qobuz": "380483153"
+      },
+      "album": "Eternal Blue",
+      "duration": 173,
+      "isrc": "QM6N22091479"
+    },
+    {
+      "artist": "Loathe",
+      "title": "Two-Way Mirror",
+      "services": {
+        "qobuz": "80249739"
+      },
+      "album": "I Let It in and It Took Everything",
+      "duration": 300,
+      "isrc": "DED831901366"
+    },
+    {
+      "artist": "Kublai Khan TX",
+      "title": "The Hammer",
+      "services": {
+        "qobuz": "376843333"
+      },
+      "album": "Nomad",
+      "duration": 201,
+      "isrc": "QMRSZ1702089"
+    },
+    {
+      "artist": "Sleep Token",
+      "title": "The Summoning",
+      "services": {
+        "qobuz": "195178291"
+      },
+      "album": "Take Me Back To Eden",
+      "duration": 395,
+      "isrc": "GBUM72200352"
+    }
+  ]
+}

@@ -1,0 +1,1009 @@
+{
+  "name": "Genre: Britpop",
+  "services": {
+    "qobuz": "66708544"
+  },
+  "description": "Imported genre playlist: Britpop.",
+  "tracks": [
+    {
+      "artist": "The La's",
+      "title": "There She Goes",
+      "services": {
+        "qobuz": "4306679"
+      },
+      "album": "The La's (Deluxe Edition)",
+      "duration": 162,
+      "isrc": "GBAQT8800001"
+    },
+    {
+      "artist": "The Mock Turtles",
+      "title": "Can You Dig It?",
+      "services": {
+        "qobuz": "1953392"
+      },
+      "album": "Can You Dig It?: The Best Of The Mock Turtles",
+      "duration": 250,
+      "isrc": "GBAAA9100152"
+    },
+    {
+      "artist": "Denim",
+      "title": "Back In Denim",
+      "services": {
+        "qobuz": "149960230"
+      },
+      "album": "Back In Denim",
+      "duration": 239,
+      "isrc": "GBBLY0602605"
+    },
+    {
+      "artist": "The Lightning Seeds",
+      "title": "The Life of Riley",
+      "services": {
+        "qobuz": "202972707"
+      },
+      "album": "Sense",
+      "duration": 245,
+      "isrc": "GBAAA9200136"
+    },
+    {
+      "artist": "Cud",
+      "title": "Rich And Strange",
+      "services": {
+        "qobuz": "2420410"
+      },
+      "album": "Asquarius - Reissue Expanded",
+      "duration": 219,
+      "isrc": "GBAAM9201060"
+    },
+    {
+      "artist": "Baha Men",
+      "title": "Who Let The Dogs Out",
+      "services": {
+        "qobuz": "2486659"
+      },
+      "album": "Who Let The Dogs Out",
+      "duration": 191,
+      "isrc": "USSC90000012"
+    },
+    {
+      "artist": "Suede",
+      "title": "Animal Nitrate",
+      "services": {
+        "qobuz": "46992833"
+      },
+      "album": "Suede (25th Anniversary Edition)",
+      "duration": 207,
+      "isrc": "GBL2J1000001"
+    },
+    {
+      "artist": "James",
+      "title": "Laid",
+      "services": {
+        "qobuz": "4202099"
+      },
+      "album": "Laid",
+      "duration": 156,
+      "isrc": "GBF089390076"
+    },
+    {
+      "artist": "The Auteurs",
+      "title": "New French Girlfriend",
+      "services": {
+        "qobuz": "8945666"
+      },
+      "album": "Now I'm A Cowboy",
+      "duration": 255,
+      "isrc": "GBAAA9400911"
+    },
+    {
+      "artist": "Oasis",
+      "title": "Live Forever",
+      "services": {
+        "qobuz": "102751647"
+      },
+      "album": "Definitely Maybe (Deluxe Edition Remastered)",
+      "duration": 276,
+      "isrc": "GBQCP1400055"
+    },
+    {
+      "artist": "Blur",
+      "title": "Parklife",
+      "services": {
+        "qobuz": "19201328"
+      },
+      "album": "Parklife",
+      "duration": 185,
+      "isrc": "GBAYE1400786"
+    },
+    {
+      "artist": "Elastica",
+      "title": "Connection",
+      "services": {
+        "qobuz": "54323205"
+      },
+      "album": "Elastica",
+      "duration": 140,
+      "isrc": "USIR10001394"
+    },
+    {
+      "artist": "The Real People",
+      "title": "Feel The Pain",
+      "services": {
+        "qobuz": "50528913"
+      },
+      "album": "Marshmellow Lane",
+      "duration": 159,
+      "isrc": "GBGXD1200098"
+    },
+    {
+      "artist": "Inspiral Carpets",
+      "title": "Saturn 5",
+      "services": {
+        "qobuz": "387386012"
+      },
+      "album": "The Complete Singles",
+      "duration": 235,
+      "isrc": "GB5KW2300022"
+    },
+    {
+      "artist": "These Animal Men",
+      "title": "This Is The Sound Of Youth",
+      "services": {
+        "qobuz": "4744985"
+      },
+      "album": "(Come On, Join) The High Society",
+      "duration": 158,
+      "isrc": "GBAAA9401019"
+    },
+    {
+      "artist": "Edwyn Collins",
+      "title": "A Girl Like You",
+      "services": {
+        "qobuz": "18943779"
+      },
+      "album": "Gorgeous George",
+      "duration": 236,
+      "isrc": "GB72T1100001"
+    },
+    {
+      "artist": "Morrissey",
+      "title": "The More You Ignore Me, the Closer I Get",
+      "services": {
+        "qobuz": "16033049"
+      },
+      "album": "Vauxhall and I",
+      "duration": 223,
+      "isrc": "GBAYE1400241"
+    },
+    {
+      "artist": "Terrorvision",
+      "title": "Oblivion",
+      "services": {
+        "qobuz": "4820724"
+      },
+      "album": "How To Make Friends And Influence People",
+      "duration": 184,
+      "isrc": "GBAYE9400051"
+    },
+    {
+      "artist": "Out To Dinner",
+      "title": "Sisters Of Mine",
+      "services": {
+        "qobuz": "169196083"
+      },
+      "album": "Food is Medicine",
+      "duration": 264,
+      "isrc": "QM9Z92200015"
+    },
+    {
+      "artist": "Shampoo",
+      "title": "Trouble",
+      "services": {
+        "qobuz": "4606243"
+      },
+      "album": "We Are Shampoo",
+      "duration": 193,
+      "isrc": "GBAYE9400030"
+    },
+    {
+      "artist": "Barns Courtney",
+      "title": "Machine Gun Sun",
+      "services": {
+        "qobuz": "276292636"
+      },
+      "album": "Supernatural",
+      "duration": 173,
+      "isrc": "USA2P2443601"
+    },
+    {
+      "artist": "Pulp",
+      "title": "Common People",
+      "services": {
+        "qobuz": "727143"
+      },
+      "album": "Different Class (Deluxe Edition)",
+      "duration": 457,
+      "isrc": "GBAAN0500256"
+    },
+    {
+      "artist": "Supergrass",
+      "title": "Alright",
+      "services": {
+        "qobuz": "385301463"
+      },
+      "album": "Alright / Time",
+      "duration": 181,
+      "isrc": "GBAYE1500312"
+    },
+    {
+      "artist": "The Boo Radleys",
+      "title": "Wake up Boo!",
+      "services": {
+        "qobuz": "4919101"
+      },
+      "album": "Wake Up!",
+      "duration": 217,
+      "isrc": "GBAAW0020002"
+    },
+    {
+      "artist": "Cast",
+      "title": "Walkaway",
+      "services": {
+        "qobuz": "3885129"
+      },
+      "album": "All Change",
+      "duration": 231,
+      "isrc": "GBAKW9500504"
+    },
+    {
+      "artist": "Gene",
+      "title": "Olympian",
+      "services": {
+        "qobuz": "764243"
+      },
+      "album": "Olympian",
+      "duration": 325,
+      "isrc": "GBAKW9500376"
+    },
+    {
+      "artist": "Echobelly",
+      "title": "Great Things",
+      "services": {
+        "qobuz": "13489769"
+      },
+      "album": "On",
+      "duration": 210,
+      "isrc": "GBBBM9500046"
+    },
+    {
+      "artist": "Sleeper",
+      "title": "Inbetweener",
+      "services": {
+        "qobuz": "246491"
+      },
+      "album": "Smart",
+      "duration": 199,
+      "isrc": "GBARL9400279"
+    },
+    {
+      "artist": "Menswear",
+      "title": "Daydreamer",
+      "services": {
+        "qobuz": "46123145"
+      },
+      "album": "Nuisance",
+      "duration": 138,
+      "isrc": "GBAAP9500344"
+    },
+    {
+      "artist": "Paul Weller",
+      "title": "The Changingman",
+      "services": {
+        "qobuz": "627488"
+      },
+      "album": "Stanley Road",
+      "duration": 242,
+      "isrc": "GBAQT9500058"
+    },
+    {
+      "artist": "McAlmont & Butler",
+      "title": "Yes",
+      "services": {
+        "qobuz": "4748882"
+      },
+      "album": "The Sound Of McAlmont And Butler",
+      "duration": 292,
+      "isrc": "GB01A0701957"
+    },
+    {
+      "artist": "Black Grape",
+      "title": "Reverend Black Grape",
+      "services": {
+        "qobuz": "35887948"
+      },
+      "album": "It's Great When You're Straight... Yeah",
+      "duration": 313,
+      "isrc": "USMC19545355"
+    },
+    {
+      "artist": "Bennet",
+      "title": "Someone Always Gets There First",
+      "services": {
+        "qobuz": "177940305"
+      },
+      "album": "Super Natural",
+      "duration": 180,
+      "isrc": "NLA322200018"
+    },
+    {
+      "artist": "Drugstore",
+      "title": "Fader",
+      "services": {
+        "qobuz": "190009739"
+      },
+      "album": "Drugstore",
+      "duration": 236,
+      "isrc": "GBBLY2206909"
+    },
+    {
+      "artist": "Dubstar",
+      "title": "Not so Manic Now",
+      "services": {
+        "qobuz": "4732907"
+      },
+      "album": "Disgraceful",
+      "duration": 270,
+      "isrc": "GBAYE9500036"
+    },
+    {
+      "artist": "WhiteOut",
+      "title": "Jackie's Racing",
+      "services": {
+        "qobuz": "171284114"
+      },
+      "album": "Bite It",
+      "duration": 197,
+      "isrc": "GBAHJ9400034"
+    },
+    {
+      "artist": "Salad",
+      "title": "Motorbike To Heaven",
+      "services": {
+        "qobuz": "201881374"
+      },
+      "album": "Motorbike To Heaven",
+      "duration": 251,
+      "isrc": "GBAAN9500005"
+    },
+    {
+      "artist": "Teenage Fanclub",
+      "title": "Sparky's Dream",
+      "services": {
+        "qobuz": "51922048"
+      },
+      "album": "Grand Prix",
+      "duration": 197,
+      "isrc": "GBARL1800264"
+    },
+    {
+      "artist": "Bella and The Final Fifth",
+      "title": "Like A Feather",
+      "services": {
+        "qobuz": "429074847"
+      },
+      "album": "Like A Feather",
+      "duration": 233,
+      "isrc": "CBEYJ2590795"
+    },
+    {
+      "artist": "Kayla Brianna",
+      "title": "Perfume In The Wind",
+      "services": {
+        "qobuz": "386714999"
+      },
+      "album": "Lover Girl",
+      "duration": 153,
+      "isrc": "USUYG1717012"
+    },
+    {
+      "artist": "Powder",
+      "title": "Afrodisiac",
+      "services": {
+        "qobuz": "371172351"
+      },
+      "album": "MCMXCV",
+      "duration": 259,
+      "isrc": "GBUM70905540"
+    },
+    {
+      "artist": "Manic Street Preachers",
+      "title": "A Design for Life",
+      "services": {
+        "qobuz": "4030049"
+      },
+      "album": "National Treasures - The Complete Singles",
+      "duration": 257,
+      "isrc": "GBARL1100958"
+    },
+    {
+      "artist": "Ocean Colour Scene",
+      "title": "The Day We Caught The Train",
+      "services": {
+        "qobuz": "699745"
+      },
+      "album": "Moseley Shoals",
+      "duration": 186,
+      "isrc": "GBBBY9610057"
+    },
+    {
+      "artist": "Dodgy",
+      "title": "Good Enough",
+      "services": {
+        "qobuz": "13293058"
+      },
+      "album": "Free Peace Sweet",
+      "duration": 241,
+      "isrc": "GBAAM9601203"
+    },
+    {
+      "artist": "Kula Shaker",
+      "title": "Tattva",
+      "services": {
+        "qobuz": "216171276"
+      },
+      "album": "K",
+      "duration": 260,
+      "isrc": "GBARL1100700"
+    },
+    {
+      "artist": "Shed Seven",
+      "title": "Chasing Rainbows",
+      "services": {
+        "qobuz": "3889844"
+      },
+      "album": "Let It Ride",
+      "duration": 265,
+      "isrc": "GBAKW9601243"
+    },
+    {
+      "artist": "The Bluetones",
+      "title": "Slight Return",
+      "services": {
+        "qobuz": "771644"
+      },
+      "album": "Expecting To Fly",
+      "duration": 201,
+      "isrc": "GBAAM9600005"
+    },
+    {
+      "artist": "Ash",
+      "title": "Girl from Mars",
+      "services": {
+        "qobuz": "375953171"
+      },
+      "album": "1977",
+      "duration": 205,
+      "isrc": "GB5KW2202985"
+    },
+    {
+      "artist": "Space",
+      "title": "Female Of The Species",
+      "services": {
+        "qobuz": "67784050"
+      },
+      "album": "Spiders",
+      "duration": 199,
+      "isrc": "GBBRL9691749"
+    },
+    {
+      "artist": "Republica",
+      "title": "Ready to Go",
+      "services": {
+        "qobuz": "255234"
+      },
+      "album": "Republica",
+      "duration": 301,
+      "isrc": "GBARL9600018"
+    },
+    {
+      "artist": "Mansun",
+      "title": "Wide Open Space",
+      "services": {
+        "qobuz": "291291087"
+      },
+      "album": "Attack of the Grey Lantern",
+      "duration": 270,
+      "isrc": "GBCQV1800187"
+    },
+    {
+      "artist": "Longpigs",
+      "title": "She Said",
+      "services": {
+        "qobuz": "3885240"
+      },
+      "album": "The Sun Is Often Out",
+      "duration": 263,
+      "isrc": "GBALW9500018"
+    },
+    {
+      "artist": "The Charlatans",
+      "title": "One to Another",
+      "services": {
+        "qobuz": "2484437"
+      },
+      "album": "One To Another",
+      "duration": 270,
+      "isrc": "GBAZP9700117"
+    },
+    {
+      "artist": "The Divine Comedy",
+      "title": "Something for the Weekend",
+      "services": {
+        "qobuz": "102419408"
+      },
+      "album": "Casanova",
+      "duration": 259,
+      "isrc": "GBNFD2000140"
+    },
+    {
+      "artist": "Lush",
+      "title": "Ladykillers",
+      "services": {
+        "qobuz": "216604822"
+      },
+      "album": "Lovelife",
+      "duration": 194,
+      "isrc": "GBAFL2100457"
+    },
+    {
+      "artist": "Super Furry Animals",
+      "title": "Hermann Loves Pauline",
+      "services": {
+        "qobuz": "388087166"
+      },
+      "album": "Radiator",
+      "duration": 284,
+      "isrc": "GBAAW9700110"
+    },
+    {
+      "artist": "Babybird",
+      "title": "You're Gorgeous",
+      "services": {
+        "qobuz": "385282652"
+      },
+      "album": "You're Gorgeous",
+      "duration": 222,
+      "isrc": "GBBND9700003"
+    },
+    {
+      "artist": "Heavy Stereo",
+      "title": "Mouse in a Hole",
+      "services": {
+        "qobuz": "204040499"
+      },
+      "album": "D\u00e9j\u00e0 Voodoo",
+      "duration": 272,
+      "isrc": "GBARL2100008"
+    },
+    {
+      "artist": "60 Ft Dolls",
+      "title": "Stay",
+      "services": {
+        "qobuz": "28467779"
+      },
+      "album": "The Big 3 (Expanded Edition)",
+      "duration": 180,
+      "isrc": "GBARL9500371"
+    },
+    {
+      "artist": "The Football Classics Band",
+      "title": "Eat My Goal",
+      "services": {
+        "qobuz": "52505588"
+      },
+      "album": "Footie Anthems",
+      "duration": 172,
+      "isrc": "GBCMJ0612721"
+    },
+    {
+      "artist": "Marion",
+      "title": "Sleep",
+      "services": {
+        "qobuz": "46122818"
+      },
+      "album": "This World and Body",
+      "duration": 184,
+      "isrc": "GBAAP9500517"
+    },
+    {
+      "artist": "Billy Thorpe",
+      "title": "You Keep Me Hangin Around",
+      "services": {
+        "qobuz": "2898407"
+      },
+      "album": "Pick Me Up And Play Me Loud",
+      "duration": 244,
+      "isrc": "AUFE09400020"
+    },
+    {
+      "artist": "Faber",
+      "title": "Komm her",
+      "services": {
+        "qobuz": "77516368"
+      },
+      "album": "I fucking love my life",
+      "duration": 379,
+      "isrc": "DEUM71903085"
+    },
+    {
+      "artist": "Northern Uproar",
+      "title": "From A Window",
+      "services": {
+        "qobuz": "205426990"
+      },
+      "album": "Northern Uproar",
+      "duration": 194,
+      "isrc": "GBARS9500061"
+    },
+    {
+      "artist": "Beyonc\u00e9",
+      "title": "ALIEN SUPERSTAR",
+      "services": {
+        "qobuz": "162476876"
+      },
+      "album": "Renaissance",
+      "duration": 215,
+      "isrc": "USSM12206231"
+    },
+    {
+      "artist": "Led Zeppelin",
+      "title": "Whole Lotta Love",
+      "services": {
+        "qobuz": "17110879"
+      },
+      "album": "Led Zeppelin II",
+      "duration": 334,
+      "isrc": "USAT21207009"
+    },
+    {
+      "artist": "Puressence",
+      "title": "This Feeling",
+      "services": {
+        "qobuz": "763241"
+      },
+      "album": "Only Forever",
+      "duration": 179,
+      "isrc": "GBAAN9800011"
+    },
+    {
+      "artist": "S*m*a*s*h",
+      "title": "(I Want To) Kill Somebody '14",
+      "services": {
+        "qobuz": "73945813"
+      },
+      "album": "Tory Baiting Split Single",
+      "duration": 171,
+      "isrc": "QMDA61468027"
+    },
+    {
+      "artist": "Shaller",
+      "title": "all I ever wanted",
+      "services": {
+        "qobuz": "394513106"
+      },
+      "album": "test drive",
+      "duration": 170,
+      "isrc": "QT3F42403861"
+    },
+    {
+      "artist": "Speedy",
+      "title": "Boy Wonder",
+      "services": {
+        "qobuz": "15680656"
+      },
+      "album": "News from Nowhere",
+      "duration": 181,
+      "isrc": "GBZ529801010"
+    },
+    {
+      "artist": "Strangelove",
+      "title": "Is There a Place?",
+      "services": {
+        "qobuz": "4657486"
+      },
+      "album": "Time For The Rest Of Your Life",
+      "duration": 657,
+      "isrc": "GBAYF9400031"
+    },
+    {
+      "artist": "Octopus",
+      "title": "Magazine",
+      "services": {
+        "qobuz": "1954336"
+      },
+      "album": "From A To B",
+      "duration": 157,
+      "isrc": "GBAYE9601444"
+    },
+    {
+      "artist": "Jack",
+      "title": "Wintercomessummer",
+      "services": {
+        "qobuz": "2342887"
+      },
+      "album": "Pioneer Soundtracks Expanded Edition",
+      "duration": 217,
+      "isrc": "GBBNZ9600001"
+    },
+    {
+      "artist": "Iris Jocasta Hubert",
+      "title": "Golden Flame",
+      "services": {
+        "qobuz": "415682240"
+      },
+      "album": "Closed Door",
+      "duration": 161,
+      "isrc": "QZHZ32638793"
+    },
+    {
+      "artist": "Svend Christensen",
+      "title": "Rush Hour",
+      "services": {
+        "qobuz": "339275225"
+      },
+      "album": "Joyride",
+      "duration": 164,
+      "isrc": "QMBZ92517677"
+    },
+    {
+      "artist": "The Verve",
+      "title": "Bitter Sweet Symphony",
+      "services": {
+        "qobuz": "41419981"
+      },
+      "album": "Urban Hymns (Super Deluxe Edition)",
+      "duration": 357,
+      "isrc": "GBUM71601816"
+    },
+    {
+      "artist": "Cornershop",
+      "title": "Brimful of Asha",
+      "services": {
+        "qobuz": "2343146"
+      },
+      "album": "Brimful of Asha",
+      "duration": 247,
+      "isrc": "GBBKT9700052"
+    },
+    {
+      "artist": "Reef",
+      "title": "Place Your Hands",
+      "services": {
+        "qobuz": "3396356"
+      },
+      "album": "Glow",
+      "duration": 218,
+      "isrc": "GBBBL9600127"
+    },
+    {
+      "artist": "The Seahorses",
+      "title": "Love Is The Law",
+      "services": {
+        "qobuz": "62632899"
+      },
+      "album": "Love Is The Law",
+      "duration": 222,
+      "isrc": "USGF19713413"
+    },
+    {
+      "artist": "Embrace",
+      "title": "All You Good Good People",
+      "services": {
+        "qobuz": "4716189"
+      },
+      "album": "The Good Will Out",
+      "duration": 365,
+      "isrc": "GBAAA9800966"
+    },
+    {
+      "artist": "Travis",
+      "title": "Good Feeling",
+      "services": {
+        "qobuz": "136739102"
+      },
+      "album": "Good Feeling",
+      "duration": 204,
+      "isrc": "GBBPF9700032"
+    },
+    {
+      "artist": "Stereophonics",
+      "title": "Local Boy In The Photograph",
+      "services": {
+        "qobuz": "879772"
+      },
+      "album": "Word Gets Around",
+      "duration": 202,
+      "isrc": "GBBLK9700001"
+    },
+    {
+      "artist": "Sophie Zelmani",
+      "title": "Let Me Dream",
+      "services": {
+        "qobuz": "328353478"
+      },
+      "album": "Lake Geneva",
+      "duration": 227,
+      "isrc": "SE7P42500104"
+    },
+    {
+      "artist": "Hurricane #1",
+      "title": "Step Into My World",
+      "services": {
+        "qobuz": "47301348"
+      },
+      "album": "Hurricane #1",
+      "duration": 301,
+      "isrc": "GBBQY0500074"
+    },
+    {
+      "artist": "Gorky's Zygotic Mynci",
+      "title": "Patio Song",
+      "services": {
+        "qobuz": "768795"
+      },
+      "album": "Barafundle",
+      "duration": 163,
+      "isrc": "USMR19686885"
+    },
+    {
+      "artist": "The Supernaturals",
+      "title": "Smile",
+      "services": {
+        "qobuz": "177379234"
+      },
+      "album": "It Doesn't Matter Anymore (Expanded Edition)",
+      "duration": 223,
+      "isrc": "GBAYE9600110"
+    },
+    {
+      "artist": "Silver Sun",
+      "title": "Lava",
+      "services": {
+        "qobuz": "264524717"
+      },
+      "album": "Silver Sun",
+      "duration": 159,
+      "isrc": "GBAKW9601191"
+    },
+    {
+      "artist": "Kenickie",
+      "title": "Punka",
+      "services": {
+        "qobuz": "5952044"
+      },
+      "album": "At The Club",
+      "duration": 185,
+      "isrc": "GBAYE9702450"
+    },
+    {
+      "artist": "Bis",
+      "title": "Kandy Pop",
+      "services": {
+        "qobuz": "237778188"
+      },
+      "album": "I Love Bis",
+      "duration": 166,
+      "isrc": "UK8RE1500011"
+    },
+    {
+      "artist": "Symposium",
+      "title": "Farewell to Twilight",
+      "services": {
+        "qobuz": "368617949"
+      },
+      "album": "One Day at a Time",
+      "duration": 191,
+      "isrc": "GBCEJ2200006"
+    },
+    {
+      "artist": "TheAudience",
+      "title": "I Got The Wherewithal",
+      "services": {
+        "qobuz": "231839828"
+      },
+      "album": "Theaudience",
+      "duration": 227,
+      "isrc": "GBF089700647"
+    },
+    {
+      "artist": "Spacemaid",
+      "title": "Baby Come On",
+      "services": {
+        "qobuz": "312689445"
+      },
+      "album": "Spacemaid",
+      "duration": 201,
+      "isrc": "SEYOK2501390"
+    },
+    {
+      "artist": "Subcircus",
+      "title": "86'd",
+      "services": {
+        "qobuz": "374456722"
+      },
+      "album": "86'd",
+      "duration": 225,
+      "isrc": "GBBND9600007"
+    },
+    {
+      "artist": "The Kynd",
+      "title": "World's Finest",
+      "services": {
+        "qobuz": "70869281"
+      },
+      "album": "Shakedown",
+      "duration": 230,
+      "isrc": "QM6P41487151"
+    },
+    {
+      "artist": "David Devant and His Spirit Wife",
+      "title": "Ginger",
+      "services": {
+        "qobuz": "72944562"
+      },
+      "album": "The Lost World Of David Devant & His Spirit Wife",
+      "duration": 196,
+      "isrc": "GBHJV0610015"
+    },
+    {
+      "artist": "Harvey Twyman",
+      "title": "Catch Some Rays",
+      "services": {
+        "qobuz": "93967030"
+      },
+      "album": "Bingo Jive",
+      "duration": 160,
+      "isrc": "ATR981208782"
+    },
+    {
+      "artist": "Rialto",
+      "title": "Untouchable",
+      "services": {
+        "qobuz": "177732590"
+      },
+      "album": "Britpop and After",
+      "duration": 254,
+      "isrc": "GBAHS9701695"
+    },
+    {
+      "artist": "Ultrasound",
+      "title": "Stay Young",
+      "services": {
+        "qobuz": "251754737"
+      },
+      "album": "Everything Picture",
+      "duration": 422,
+      "isrc": "GBBTF9900094"
+    },
+    {
+      "artist": "The Darkness",
+      "title": "English Country Garden",
+      "services": {
+        "qobuz": "358690718"
+      },
+      "album": "One Way Ticket to Hell ...And Back",
+      "duration": 186,
+      "isrc": "GBAHS0500468"
+    },
+    {
+      "artist": "Gay Dad",
+      "title": "To Earth with Love",
+      "services": {
+        "qobuz": "46122902"
+      },
+      "album": "To Earth with Love",
+      "duration": 242,
+      "isrc": "GBAAP9800056"
+    }
+  ]
+}

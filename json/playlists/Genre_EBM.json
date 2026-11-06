@@ -1,0 +1,1010 @@
+{
+  "name": "Genre: EBM",
+  "services": {
+    "qobuz": "66733016",
+    "tidal": "accf94c4-f8a3-4d5d-a9d4-79c99545898d"
+  },
+  "description": "Imported genre playlist: EBM.",
+  "tracks": [
+    {
+      "artist": "Deutsch-Amerikanische Freundschaft (DAF)",
+      "title": "Der Mussolini",
+      "services": {
+        "qobuz": "134848501"
+      },
+      "album": "Alles ist gut",
+      "duration": 235,
+      "isrc": "GBLAZ1600974"
+    },
+    {
+      "artist": "Die Krupps",
+      "title": "Wahre Arbeit - Wahrer Lohn",
+      "services": {
+        "qobuz": "356859742"
+      },
+      "album": "Volle Kraft Null Acht",
+      "duration": 239,
+      "isrc": "DEA450904500"
+    },
+    {
+      "artist": "Liasons Dangereuses",
+      "title": "Los Ni\u00f1os Del Parque",
+      "services": {
+        "qobuz": "30074965"
+      },
+      "album": "Liaisons Dangereuses",
+      "duration": 301,
+      "isrc": "DEE610200502"
+    },
+    {
+      "artist": "Absolute Body Control",
+      "title": "Love at First Sight",
+      "services": {
+        "qobuz": "107876900"
+      },
+      "album": "Absolute Body Control 1980 / 2020",
+      "duration": 213,
+      "isrc": "DGA052050090"
+    },
+    {
+      "artist": "Portion Control",
+      "title": "Raise The Pulse",
+      "services": {
+        "qobuz": "365799319"
+      },
+      "album": "Raise The Pulse",
+      "duration": 350,
+      "isrc": "GBKFA0600063"
+    },
+    {
+      "artist": "Parade Ground",
+      "title": "Moans",
+      "services": {
+        "qobuz": "3124955"
+      },
+      "album": "Cut Up",
+      "duration": 237,
+      "isrc": "BEP010490763"
+    },
+    {
+      "artist": "The Neon Judgement",
+      "title": "The Fashion Party",
+      "services": {
+        "qobuz": "33501477"
+      },
+      "album": "Cold Waves And Minimal Electronics Vol. 1",
+      "duration": 315,
+      "isrc": "GBHYU0900147"
+    },
+    {
+      "artist": "Pankow",
+      "title": "God's Deneuve",
+      "services": {
+        "qobuz": "119506517"
+      },
+      "album": "Wodka, Erdbeeren Und Weitere Katastrophen",
+      "duration": 236,
+      "isrc": "GBSMU8902174"
+    },
+    {
+      "artist": "A;Grumh...",
+      "title": "Drama in the Subway",
+      "services": {
+        "qobuz": "3125147"
+      },
+      "album": "MIX Yourself / No Way Out",
+      "duration": 189,
+      "isrc": "BEP010490708"
+    },
+    {
+      "artist": "The Klinik",
+      "title": "Go Back",
+      "services": {
+        "qobuz": "134941378"
+      },
+      "album": "1 - Sabotage + Pain and Pleasure",
+      "duration": 290,
+      "isrc": "DEBZ71400183"
+    },
+    {
+      "artist": "Signal Aout 42",
+      "title": "Pleasure and Crime",
+      "services": {
+        "qobuz": "1804979"
+      },
+      "album": "Pro Patria",
+      "duration": 291,
+      "isrc": "BEE038900130"
+    },
+    {
+      "artist": "Nitzer Ebb",
+      "title": "Join in the Chant",
+      "services": {
+        "qobuz": "12844319"
+      },
+      "album": "That Total Age",
+      "duration": 364,
+      "isrc": "GBAJH0400605"
+    },
+    {
+      "artist": "The Weathermen",
+      "title": "Poison!",
+      "services": {
+        "qobuz": "3482940"
+      },
+      "album": "The Black Album According To",
+      "duration": 280,
+      "isrc": "BEP010490746"
+    },
+    {
+      "artist": "Borghesia",
+      "title": "Ni Upanja, Ni Strahu / No Hope, No Fear",
+      "services": {
+        "qobuz": "3200176"
+      },
+      "album": "No Hope No Fear",
+      "duration": 270,
+      "isrc": "BEP010490672"
+    },
+    {
+      "artist": "Cylob",
+      "title": "I Left My Heart in Syntax Error",
+      "services": {
+        "qobuz": "51010990"
+      },
+      "album": "Cylobian Sunset",
+      "duration": 346,
+      "isrc": "GBTSL1400018"
+    },
+    {
+      "artist": "Tribantura",
+      "title": "Lack of Sense",
+      "services": {
+        "qobuz": "21813630"
+      },
+      "album": "Lack of Sense",
+      "duration": 367,
+      "isrc": "DEKV20910194"
+    },
+    {
+      "artist": "A Split Second",
+      "title": "Flesh",
+      "services": {
+        "qobuz": "231096220"
+      },
+      "album": "A Split-Second [Remastered]",
+      "duration": 232,
+      "isrc": "BED332300110"
+    },
+    {
+      "artist": "The Invincible Spirit",
+      "title": "Push",
+      "services": {
+        "qobuz": "359022434"
+      },
+      "album": "Push",
+      "duration": 169,
+      "isrc": "DEU771200057"
+    },
+    {
+      "artist": "Front 242",
+      "title": "Headhunter (V1.0)",
+      "services": {
+        "qobuz": "178308471"
+      },
+      "album": "Headhunter",
+      "duration": 302,
+      "isrc": "BEP010491476"
+    },
+    {
+      "artist": "Vomito Negro",
+      "title": "No Hope No Fear",
+      "services": {
+        "qobuz": "170401598"
+      },
+      "album": "Shock",
+      "duration": 204,
+      "isrc": "QMBZ92252794"
+    },
+    {
+      "artist": "Pouppee Fabrikk",
+      "title": "Die Jugend",
+      "services": {
+        "qobuz": "107572950"
+      },
+      "album": "Ekm - Anthology 1989-2019",
+      "duration": 304,
+      "isrc": "BEC262030013"
+    },
+    {
+      "artist": "Cat Rapes Dog",
+      "title": "Schizophrenia",
+      "services": {
+        "qobuz": "103336309"
+      },
+      "album": "Columna Vertebralis",
+      "duration": 336,
+      "isrc": "SELRA2003109"
+    },
+    {
+      "artist": "Ryan Eston Paul",
+      "title": "Insect_combat",
+      "services": {
+        "qobuz": "405514235"
+      },
+      "album": "Colony Ship: A Post-Earth Role Playing Game (Original Game Soundtrack)",
+      "duration": 185,
+      "isrc": "USDY42666200"
+    },
+    {
+      "artist": "Bigod 20",
+      "title": "The Bog",
+      "services": {
+        "qobuz": "11718837"
+      },
+      "album": "Steel Works!",
+      "duration": 330,
+      "isrc": "USWB10704870"
+    },
+    {
+      "artist": "And One",
+      "title": "Metalhammer",
+      "services": {
+        "qobuz": "385627954"
+      },
+      "album": "Anguish",
+      "duration": 322,
+      "isrc": "GBAJE0612134"
+    },
+    {
+      "artist": "Gregs Tagebuch",
+      "title": "Kapitel 22",
+      "services": {
+        "qobuz": "430585611"
+      },
+      "album": "Folge 4: Ich war's nicht!",
+      "duration": 120,
+      "isrc": "DEXO52273129"
+    },
+    {
+      "artist": "Lana Del Rey",
+      "title": "Video Games",
+      "services": {
+        "qobuz": "31887416"
+      },
+      "album": "Born To Die",
+      "duration": 281,
+      "isrc": "GBUM71111621"
+    },
+    {
+      "artist": "Funker Vogt",
+      "title": "Tragic Hero",
+      "services": {
+        "qobuz": "55682462"
+      },
+      "album": "Ikarus",
+      "duration": 297,
+      "isrc": "DES131800074"
+    },
+    {
+      "artist": "E-Craft",
+      "title": "Electrodes (Outro)",
+      "services": {
+        "qobuz": "20899188"
+      },
+      "album": "Electrocution",
+      "duration": 213,
+      "isrc": "DEKV20911019"
+    },
+    {
+      "artist": "Tyske Ludder",
+      "title": "Panzer",
+      "services": {
+        "qobuz": "150870769"
+      },
+      "album": "Anonymous",
+      "duration": 290,
+      "isrc": "FR26V1411204"
+    },
+    {
+      "artist": "Container 90",
+      "title": "Raise Your Finger",
+      "services": {
+        "qobuz": "212834831"
+      },
+      "album": "Working Class League",
+      "duration": 193,
+      "isrc": "QZK6Q2343011"
+    },
+    {
+      "artist": "Lexa Gates",
+      "title": "Rotten To The Core",
+      "services": {
+        "qobuz": "374944520"
+      },
+      "album": "Universe Wrapped In Flesh",
+      "duration": 145,
+      "isrc": "QZMER2278820"
+    },
+    {
+      "artist": "AUTODAFEH",
+      "title": "Stompers",
+      "services": {
+        "qobuz": "67034309"
+      },
+      "album": "Hunt For Glory",
+      "duration": 202,
+      "isrc": "USN360810027"
+    },
+    {
+      "artist": "Dupont",
+      "title": "Behave",
+      "services": {
+        "qobuz": "196979500"
+      },
+      "album": "Entering the Ice Age",
+      "duration": 168,
+      "isrc": "SEYFX0900204"
+    },
+    {
+      "artist": "Sturm Caf\u00e9",
+      "title": "Europa",
+      "services": {
+        "qobuz": "204519062"
+      },
+      "album": "Europa!",
+      "duration": 269,
+      "isrc": "SEYOK1503743"
+    },
+    {
+      "artist": "Orange Sector",
+      "title": "Der Maschinist",
+      "services": {
+        "qobuz": "20843939"
+      },
+      "album": "Der Maschinist",
+      "duration": 206,
+      "isrc": "DEKV20911464"
+    },
+    {
+      "artist": "Schwefelgelb",
+      "title": "Fokus",
+      "services": {
+        "qobuz": "104582867"
+      },
+      "album": "Dahinter Das Gesicht",
+      "duration": 317,
+      "isrc": "DEZ651702744"
+    },
+    {
+      "artist": "P!nk",
+      "title": "Just Give Me a Reason",
+      "services": {
+        "qobuz": "6376830"
+      },
+      "album": "The Truth About Love",
+      "duration": 242,
+      "isrc": "USRC11200786"
+    },
+    {
+      "artist": "Elm",
+      "title": "Vessel Of Violence",
+      "services": {
+        "qobuz": "371434736"
+      },
+      "album": "Matrix Downloaded 011",
+      "duration": 218,
+      "isrc": "BEC262396401"
+    },
+    {
+      "artist": "Last Train",
+      "title": "I Hate You",
+      "services": {
+        "qobuz": "293023549"
+      },
+      "album": "III",
+      "duration": 451,
+      "isrc": "FR9W12442573"
+    },
+    {
+      "artist": "Legendary DJs",
+      "title": "Your Child (Brown Beat Mix)",
+      "services": {
+        "qobuz": "84121429"
+      },
+      "album": "New Orleans Bounce Radio 4k, Vol. 1 (Special Edition)",
+      "duration": 240,
+      "isrc": "USCGH1465958"
+    },
+    {
+      "artist": "Cat Clifford",
+      "title": "Drifting Away I Go",
+      "services": {
+        "qobuz": "115449113"
+      },
+      "album": "Nomadland",
+      "duration": 183,
+      "isrc": "TCAEJ1909487"
+    },
+    {
+      "artist": "Rector Scanner",
+      "title": "Fluormenschen",
+      "services": {
+        "qobuz": "165661409"
+      },
+      "album": "Fluormenschen",
+      "duration": 217,
+      "isrc": "BEC262293406"
+    },
+    {
+      "artist": "AD:keY",
+      "title": "Alles Was Ich Will",
+      "services": {
+        "qobuz": "118632495"
+      },
+      "album": "Alles Was Ich Will",
+      "duration": 215,
+      "isrc": "BEC262187601"
+    },
+    {
+      "artist": "Aqua",
+      "title": "Doctor Jones",
+      "services": {
+        "qobuz": "41143550"
+      },
+      "album": "Doctor Jones",
+      "duration": 311,
+      "isrc": "USMC19857701"
+    },
+    {
+      "artist": "late night drive home",
+      "title": "Stress Relief",
+      "services": {
+        "qobuz": "206891115"
+      },
+      "album": "late night drive home on Audiotree Live",
+      "duration": 279,
+      "isrc": "QM99V2302204"
+    },
+    {
+      "artist": "Chris Rea",
+      "title": "Rudolph's Rotor Arm",
+      "services": {
+        "qobuz": "359774572"
+      },
+      "album": "The Christmas Album",
+      "duration": 278,
+      "isrc": "GBAHS1900381"
+    },
+    {
+      "artist": "KREIGN",
+      "title": "Don't Force The Hand",
+      "services": {
+        "qobuz": "300983181"
+      },
+      "album": "III",
+      "duration": 273,
+      "isrc": "DEOV42401316"
+    },
+    {
+      "artist": "D12",
+      "title": "U R The One",
+      "services": {
+        "qobuz": "3870556"
+      },
+      "album": "D-12 World",
+      "duration": 259,
+      "isrc": "USIR10400131"
+    },
+    {
+      "artist": "Nervous Damage",
+      "title": "Going Through the Motions",
+      "services": {
+        "qobuz": "174060794"
+      },
+      "album": "Nervous Damage",
+      "duration": 186,
+      "isrc": "QZNWV2293957"
+    },
+    {
+      "artist": "First Aid 4 Souls",
+      "title": "Burst of Anger",
+      "services": {
+        "qobuz": "96303188"
+      },
+      "album": "Fire",
+      "duration": 390,
+      "isrc": "BEC262081301"
+    },
+    {
+      "artist": "I Hate Fridays",
+      "title": "I Don't Want to Remember",
+      "services": {
+        "qobuz": "349194862"
+      },
+      "album": "Something Between",
+      "duration": 274,
+      "isrc": "QZPJ32497193"
+    },
+    {
+      "artist": "Giveon",
+      "title": "World We Created",
+      "services": {
+        "qobuz": "116556665"
+      },
+      "album": "When It's All Said And Done... Take Time",
+      "duration": 193,
+      "isrc": "USSM11914369"
+    },
+    {
+      "artist": "The Central Band Of The Royal Air Force",
+      "title": "Aces High",
+      "services": {
+        "qobuz": "174456513"
+      },
+      "album": "March Brittania! - The Most Popular Military Music",
+      "duration": 229,
+      "isrc": "SEWDL0643310"
+    },
+    {
+      "artist": "In Venus",
+      "title": "Youth Generation",
+      "services": {
+        "qobuz": "76108689"
+      },
+      "album": "Ru\u00edna",
+      "duration": 212,
+      "isrc": "BXBNI1700003"
+    },
+    {
+      "artist": "Kilometre Club",
+      "title": "Randy River",
+      "services": {
+        "qobuz": "366938020"
+      },
+      "album": "Memory Canvas",
+      "duration": 208,
+      "isrc": "UKR6V2212288"
+    },
+    {
+      "artist": "Michy Reincke",
+      "title": "Wie wir wirklich sind",
+      "services": {
+        "qobuz": "89591476"
+      },
+      "album": "Das b\u00f6se Gl\u00fcck (Bonus Edition)",
+      "duration": 278,
+      "isrc": "DEC769300168"
+    },
+    {
+      "artist": "Blaine L. Reininger",
+      "title": "Autumn Shore",
+      "services": {
+        "qobuz": "64338344"
+      },
+      "album": "The Godfather of Odd - A Hardy Fox Tribute",
+      "duration": 201,
+      "isrc": "ATKH51930001"
+    },
+    {
+      "artist": "Abby Lee Tee",
+      "title": "Numb",
+      "services": {
+        "qobuz": "104257093"
+      },
+      "album": "By Accident Remixes",
+      "duration": 162,
+      "isrc": "ATGD91602410"
+    },
+    {
+      "artist": "Lena Willemark",
+      "title": "Sv\u00e4s M\u00e4rtas kulning/F\u00e5rlock",
+      "services": {
+        "qobuz": "51146023"
+      },
+      "album": "\u00c4lvdalens elektriska",
+      "duration": 156,
+      "isrc": "SEACA0600605"
+    },
+    {
+      "artist": "A\u00efboforcen",
+      "title": "Cycle of Life",
+      "services": {
+        "qobuz": "184963240"
+      },
+      "album": "Gothic File 22|1",
+      "duration": 244,
+      "isrc": "BEC262272316"
+    },
+    {
+      "artist": "Hoff ensemble",
+      "title": "Dele alle ord og tanker",
+      "services": {
+        "qobuz": "57619324"
+      },
+      "album": "Quiet Winter Night \u2014 an Acoustic Jazz Project",
+      "duration": 216,
+      "isrc": "NOMPP1209030"
+    },
+    {
+      "artist": "Rachel LaFond",
+      "title": "Alone in the Mist - Conjuring Shadows",
+      "services": {
+        "qobuz": "53868785"
+      },
+      "album": "Well Past Midnight",
+      "duration": 180,
+      "isrc": "USLZJ1864771"
+    },
+    {
+      "artist": "PSI Punky Dread Allstars",
+      "title": "Chaos",
+      "services": {
+        "qobuz": "168767637"
+      },
+      "album": "Intone Unreleased Projects 1995-1997 (Volume Two)",
+      "duration": 481,
+      "isrc": "GBKVG1100223"
+    },
+    {
+      "artist": "Terminal Nation",
+      "title": "Master Plan",
+      "services": {
+        "qobuz": "95482724"
+      },
+      "album": "Holocene Extinction",
+      "duration": 111,
+      "isrc": "USJE72013104"
+    },
+    {
+      "artist": "Adam Ant",
+      "title": "Gotta Be a Sin",
+      "services": {
+        "qobuz": "11687500"
+      },
+      "album": "Gotta Be A Sin",
+      "duration": 256,
+      "isrc": "GBAYE9501009"
+    },
+    {
+      "artist": "Circumpolar",
+      "title": "Waiting in the Rain",
+      "services": {
+        "qobuz": "135153555"
+      },
+      "album": "Awaiting the Dawn",
+      "duration": 344,
+      "isrc": "BEC262130504"
+    },
+    {
+      "artist": "Antiflvx",
+      "title": "Silueta de Luz",
+      "services": {
+        "qobuz": "159574577"
+      },
+      "album": "Silueta de Luz",
+      "duration": 237,
+      "isrc": "QZK6Q2226684"
+    },
+    {
+      "artist": "\u00c1rstraumur",
+      "title": "Europa Clipper",
+      "services": {
+        "qobuz": "282849015"
+      },
+      "album": "Deep Space Travellers",
+      "duration": 331,
+      "isrc": "SEYKV0805030"
+    },
+    {
+      "artist": "Jerry Joseph & The Jackmormons",
+      "title": "Chrome Koran",
+      "services": {
+        "qobuz": "63161046"
+      },
+      "album": "Mouthful of Copper",
+      "duration": 327,
+      "isrc": "US28Q0304216"
+    },
+    {
+      "artist": "The Shapeshifters",
+      "title": "Lola's Theme",
+      "services": {
+        "qobuz": "309331330"
+      },
+      "album": "Lola's Theme",
+      "duration": 207,
+      "isrc": "GBGYY0400010"
+    },
+    {
+      "artist": "Avarice in Audio",
+      "title": "War Tanz",
+      "services": {
+        "qobuz": "207016206"
+      },
+      "album": "War Tanz",
+      "duration": 282,
+      "isrc": "BEC262396502"
+    },
+    {
+      "artist": "The Sunburst Band",
+      "title": "Until The End of Time",
+      "services": {
+        "qobuz": "214261436"
+      },
+      "album": "Z Records presents Ibiza 2023",
+      "duration": 417,
+      "isrc": "GBPKF2300069"
+    },
+    {
+      "artist": "The Future Sound Of London",
+      "title": "We Have Explosive",
+      "services": {
+        "qobuz": "4539325"
+      },
+      "album": "Dead Cities",
+      "duration": 379,
+      "isrc": "GBAAA9600234"
+    },
+    {
+      "artist": "Conspiracy Thief",
+      "title": "Devil Inside",
+      "services": {
+        "qobuz": "422397664"
+      },
+      "album": "Devil Inside",
+      "duration": 302,
+      "isrc": "GX4R52672812"
+    },
+    {
+      "artist": "The Clash",
+      "title": "Should I Stay or Should I Go",
+      "services": {
+        "qobuz": "11189619"
+      },
+      "album": "Combat Rock",
+      "duration": 188,
+      "isrc": "GBARL1200670"
+    },
+    {
+      "artist": "Dead Or Alive",
+      "title": "You Spin Me Round (Like a Record)",
+      "services": {
+        "qobuz": "143373"
+      },
+      "album": "You Spin Me Round Promo CD",
+      "duration": 196,
+      "isrc": "GBBBM9999987"
+    },
+    {
+      "artist": "Pete Seeger",
+      "title": "Which Side are You On?",
+      "services": {
+        "qobuz": "1209796"
+      },
+      "album": "If I Had a Hammer: Songs of Hope and Struggle",
+      "duration": 129,
+      "isrc": "USSF19809603"
+    },
+    {
+      "artist": "Scary Bitches",
+      "title": "Lesbian Vampyres From Outer Space",
+      "services": {
+        "qobuz": "56295120"
+      },
+      "album": "Lesbian Vampyres From Outer Space",
+      "duration": 212,
+      "isrc": "GBUZW0900360"
+    },
+    {
+      "artist": "Implant",
+      "title": "The King and the Rebel",
+      "services": {
+        "qobuz": "184963243"
+      },
+      "album": "Gothic File 22|1",
+      "duration": 208,
+      "isrc": "BEC262179206"
+    },
+    {
+      "artist": "Jazzanova",
+      "title": "The One-Tet / Fade Out",
+      "services": {
+        "qobuz": "308701199"
+      },
+      "album": "In Between Revisited: Jazzanova Live",
+      "duration": 377,
+      "isrc": "DEP962500003"
+    },
+    {
+      "artist": "Llumen",
+      "title": "You Can Have It All",
+      "services": {
+        "qobuz": "371434721"
+      },
+      "album": "Matrix Downloaded 011",
+      "duration": 304,
+      "isrc": "BEC262272308"
+    },
+    {
+      "artist": "imiafan",
+      "title": "Kto",
+      "services": {
+        "qobuz": "121060557"
+      },
+      "album": "Tears for Fears Vol. 2",
+      "duration": 312,
+      "isrc": "GBKQU2150268"
+    },
+    {
+      "artist": "Roberto Prosseda",
+      "title": "Mendelssohn: Lieder ohne Worte, Op. 38: No. 2 in C Minor. Allegro non troppo \"Lost Happiness\", MWV U 115",
+      "services": {
+        "qobuz": "59991636"
+      },
+      "album": "Mendelssohn: Complete Piano Works",
+      "duration": 126,
+      "isrc": "ITUM70800682"
+    },
+    {
+      "artist": "L\u00f8nnkrog",
+      "title": "Ingen",
+      "services": {
+        "qobuz": "158465994"
+      },
+      "album": "S\u00e5ret mellan natt och dag",
+      "duration": 224,
+      "isrc": "NL1AP2017841"
+    },
+    {
+      "artist": "Tim Wynn",
+      "title": "Time Machine",
+      "services": {
+        "qobuz": "74938280"
+      },
+      "album": "Command & Conquer: Red Alert 3 (Original Soundtrack)",
+      "duration": 106,
+      "isrc": "CAN110900202"
+    },
+    {
+      "artist": "Abbey Lincoln",
+      "title": "A Heart Is Not A Toy",
+      "services": {
+        "qobuz": "777749"
+      },
+      "album": "Over The Years",
+      "duration": 253,
+      "isrc": "FRZ020080050"
+    },
+    {
+      "artist": "GOLD Dubs",
+      "title": "No More War",
+      "services": {
+        "qobuz": "121491091"
+      },
+      "album": "No More War",
+      "duration": 291,
+      "isrc": "GBFG92100145"
+    },
+    {
+      "artist": "Parris",
+      "title": "why can't rabbits wear cowboy boots",
+      "services": {
+        "qobuz": "250788294"
+      },
+      "album": "Passionfruit EP",
+      "duration": 405,
+      "isrc": "GBHLW2400149"
+    },
+    {
+      "artist": "Silk City",
+      "title": "Electricity",
+      "services": {
+        "qobuz": "53253113"
+      },
+      "album": "Electricity",
+      "duration": 238,
+      "isrc": "USQX91802379"
+    },
+    {
+      "artist": "HOYO-MiX",
+      "title": "Leaving No Trace",
+      "services": {
+        "qobuz": "363245234"
+      },
+      "album": "Genshin Impact - Outside It Is Growing Dark",
+      "duration": 91,
+      "isrc": "DGA062533109"
+    },
+    {
+      "artist": "Keane",
+      "title": "This Is The Last Time",
+      "services": {
+        "qobuz": "3870607"
+      },
+      "album": "Hopes And Fears",
+      "duration": 208,
+      "isrc": "GBAAN0400089"
+    },
+    {
+      "artist": "Thumb",
+      "title": "Sell Myself",
+      "services": {
+        "qobuz": "15092396"
+      },
+      "album": "Maximum Exposure",
+      "duration": 171,
+      "isrc": "DEA349700242"
+    },
+    {
+      "artist": "Photonica",
+      "title": "Vortex Ritual",
+      "services": {
+        "qobuz": "396974581"
+      },
+      "album": "Vortex Ritual",
+      "duration": 122,
+      "isrc": "ESA122629103"
+    },
+    {
+      "artist": "Snarky Puppy",
+      "title": "Shofukan",
+      "services": {
+        "qobuz": "294884998"
+      },
+      "album": "We Like It Here",
+      "duration": 393,
+      "isrc": "QMDA62483759"
+    },
+    {
+      "artist": "MR PSIK",
+      "title": "The Unholy Subline",
+      "services": {
+        "qobuz": "401155329"
+      },
+      "album": "The Unholy Subline",
+      "duration": 287,
+      "isrc": "UK6X62600043"
+    },
+    {
+      "artist": "Torrent 64",
+      "title": "Death, Clad in Iron (Metallic Madness \"B\" Mix)",
+      "services": {
+        "qobuz": "420183316"
+      },
+      "album": "Sonic CD: South America (Fan Original Soundtrack)",
+      "duration": 132,
+      "isrc": "QZZ7T2691212"
+    },
+    {
+      "artist": "Big Thief",
+      "title": "Terminal Paradise",
+      "services": {
+        "qobuz": "61254038"
+      },
+      "album": "U.F.O.F.",
+      "duration": 205,
+      "isrc": "GBAFL1800367"
+    },
+    {
+      "artist": "Trust",
+      "title": "Antisocial",
+      "services": {
+        "qobuz": "101133"
+      },
+      "album": "R\u00e9pression",
+      "duration": 309,
+      "isrc": "FRZ088000250"
+    },
+    {
+      "artist": "Ultra Nightmare",
+      "title": "The Sisters of Battle",
+      "services": {
+        "qobuz": "161716718"
+      },
+      "album": "The Sisters of Battle (feat. Kaitlyn Beausoleil)",
+      "duration": 272,
+      "isrc": "QZK6M2239030"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+# Genre: Psybient
+
+Imported genre playlist: Psybient.
+
+Services: `qobuz:66712575` `tidal:74652dc3-fba8-4b27-bc90-c8e1e10219d5`
+
+## Tracks (100)
+
+- **Shpongle** — Divine Moments of Truth [Are You Shpongled?] (10:20) `isrc:USA2P0300011` `qobuz:63526771`
+- **Aioi** — 3:00 A.M. (feat. Kamata Junko) [Nemurenu Yoruwa Jasmine Tea Wo] (2:57) `isrc:USHM22159939` `qobuz:122900394`
+- **Doulce Mémoire - Denis Raisin Dadre** — Lagrime di San Pietro: No. 9, Chi ad una ad una, LV 1013 [Lasso & Agostini: Lagrime di San Pietro] (2:16) `isrc:FR50X2520916` `qobuz:381677163`
+- **The Souljazz Orchestra** — Greet The Dawn [Resistance] (4:50) `isrc:DEG931500736` `qobuz:26761456`
+- **Chanchal Uberoi** — Heliospheric Emission, Sun [Ragas Across Space (A Space Physicist's Musical Journey Through Our Solar System)] (10:46) `isrc:USHM81167297` `qobuz:85802882`
+- **Craig Padilla** — Woven Planet [Below the Mountain] (4:50) `isrc:USSP50814008` `qobuz:66283457`
+- **Nanci Griffith** — Love At The Five & Dime [The Last Of The True Believers] (4:38) `isrc:USPH19110902` `qobuz:67341896`
+- **Akara** — Sarah torres [Rêves d'une Vie] (2:44) `isrc:GXJBV2655330` `qobuz:404324891`
+- **Asura** — Eternal Sunshine (Ambient Version) [Serial Chillers, Pt. 1] (6:54) `isrc:USCGH1799827` `qobuz:98091603`
+- **Robert Rich** — Aerial on Warm Seas [What We Left Behind] (9:08) `isrc:USSP61602708` `qobuz:367117655`
+- **Vibrasphere** — Luminous Visions [Spectral Insight] (3:32) `isrc:QZHNA2424300` `qobuz:259724727`
+- **Desert Dwellers** — Wandering Sadhu [Anahata Yoga Dub] (5:41) `isrc:USA2P1271828` `qobuz:219387619`
+- **Nuclear Ramjet** — Foldingtime [Mission To Sedna] (13:32) `isrc:CASJ90600001` `qobuz:74339347`
+- **OTT** — Splitting An Atom [Blumenkraft] (7:21) `isrc:QZMEM2270090` `qobuz:166345998`
+- **Entheogenic** — Ground Luminosity [Spontaneous Illumination] (11:44) `isrc:USHM80877594` `qobuz:75042446`
+- **Solar Fields** — Sol [Movements] (8:23) `isrc:SEYOK2126825` `qobuz:178695047`
+- **Beastie Boys** — Sabotage [Ill Communication] (2:58) `isrc:USCA20901511` `qobuz:13291368`
+- **Carbon Based Lifeforms** — Interloper [Interloper] (6:29) `isrc:SEYOK1507551` `qobuz:127126882`
+- **Bluetech** — Enter The Lovely [Sines and Singularities] (8:10) `isrc:US25X2002930` `qobuz:319422119`
+- **Martin Nonstatic** — Methodical Random (Miktek & AES Dana Remix) [Ligand Remixes] (7:57) `isrc:FR9W11820939` `qobuz:56741543`
+- **Lemonchill** — Sublime [Peace Code] (7:36) `isrc:USA2P1838390` `qobuz:90084931`
+- **Cell** — Hanging Masses [Hanging Masses] (11:02) `isrc:USQY50971548` `qobuz:14827022`
+- **Craig Chaquico** — The Grey Wolf Hunts Again [Acoustic Planet] (4:37) `isrc:USHOM9401019` `qobuz:4602287`
+- **Ochi Brothers** — Silver Shore [Albedo] (6:20) `isrc:USA2P0612016` `qobuz:7516982`
+- **Peter, Paul and Mary** — Puff, the Magic Dragon [Moving] (3:26) `isrc:USWB19901501` `qobuz:3002048`
+- **Ashit Desai** — Solace (Jai Radha Madhav - Based on Raag Darbari) [Divinity - Divine Music For Meditation] (7:16) `isrc:GBCHQ9902608` `qobuz:139605177`
+- **Sun Dial** — Magic Potion [Return Journey: The Lost Second Album Sessions 1991] (3:08) `isrc:GBBLY1002595` `qobuz:152580465`
+- **Red Sparowes** — The Great Leap Forward Poured Down Upon Us One Day Like a Mighty Storm, Suddenly and Furiously Blinding Our Senses [Every Red Heart Shines Toward the Red Sun] (6:59) `isrc:US4JA0600384` `qobuz:46845525`
+- **Third Eye Blind** — Deep Inside of You [Blue] (4:10) `isrc:USEE10801711` `qobuz:2783161`
+- **H.U.V.A. NETWORK** — Orientations part 2 (Ephemeride 15.43°) [Ephemeris] (8:18) `isrc:USQY50909788` `qobuz:5892010`
+- **Scann-Tec** — Parallels [Facial Memories] (7:08) `isrc:QZES71840945` `qobuz:68741671`
+- **Alpha Wave Movement** — Dark Space Distant Islands of Light [System A.] (5:56) `isrc:USDY41676876` `qobuz:66141242`
+- **Digitally Nomadistry** — Gaiana [Virtual Parade] (4:26) `isrc:DEVJ21612016` `qobuz:39332081`
+- **Arctic Monkeys** — Do I Wanna Know? [AM] (4:32) `isrc:GBCEL1300362` `qobuz:11181334`
+- **Farazdeck** — Sine Fine [Circular Limited 13 Years Compilation] (7:13) `isrc:CA5KR2265134` `qobuz:402042367`
+- **Boards of Canada** — A Moment Of Clarity [The Campfire Headphase] (0:51) `isrc:GBBPW0500099` `qobuz:3776247`
+- **Field Rotation** — The History of Repetition [Fatalist: The Repetition of History] (11:00) `isrc:DEZ651210703` `qobuz:104315458`
+- **R.E.M.** — It's The End Of The World As We Know It (And I Feel Fine) [Document (R.E.M. No. 5)] (4:06) `isrc:USIR38700037` `qobuz:990127`
+- **Alucidnation** — Protocol [Aural Architecture] (4:56) `isrc:QMFMG1321366` `qobuz:117417679`
+- **Another Fine Day** — Dusty Feet [A Good Place To Be] (4:11) `isrc:QM6N21472313` `qobuz:116919097`
+- **Kaya Project** — Desert Phase [Desert Phase Remixes] (5:40) `isrc:CAM491010056` `qobuz:72390355`
+- **Gus Till** — The Night Sands [Ghosts of the Earth] (7:07) `isrc:QMFMG1464139` `qobuz:118522887`
+- **Hibernation** — Plastics [Second Nature] (5:09) `isrc:CAM491200012` `qobuz:72388479`
+- **Sunmonx** — 70 Percent Cocoa [Power Salad] (4:09) `isrc:CAM491200010` `qobuz:116919120`
+- **Spiral System** — Rain [Be Sides] (4:56) `isrc:QMFME1329547` `qobuz:117417698`
+- **Sinepearl** — Ceremonial Tea [Cycles Within Cycles Within] (8:42) `isrc:QMDA61425007` `qobuz:117417649`
+- **Ishq** — Skylike [And Awake] (10:31) `isrc:CAM491100018` `qobuz:155741529`
+- **Kliment** — Jaia Flower [Serial Chillers, Pt. 1] (7:37) `isrc:USCGH1799828` `qobuz:98091604`
+- **Suduaya** — Nomad [Venus] (7:36) `isrc:USHM81674452` `qobuz:117298704`
+- **E-Mantra** — Daydream [The Hermit's Sanctuary] (6:24) `isrc:GBKQU2071715` `qobuz:107119551`
+- **Alwoods** — Love Spell [Serial Chillers, Pt. 1] (9:27) `isrc:USCGH1799834` `qobuz:98091610`
+- **Dreaming Cooper** — Zero-G [Mysterious Places] (8:05) `isrc:USCGH1649695` `qobuz:72908016`
+- **Dhamika** — Indukala [Endless Horizons] (8:28) `isrc:USCGJ1694666` `qobuz:73276069`
+- **Profondita** — Island [Island] (8:29) `isrc:USCGH1746288` `qobuz:125621029`
+- **Keemiyo** — Song for Can Cabestany [A Mystical Journey] (8:38) `isrc:USHM81500864` `qobuz:81118984`
+- **ELEA** — Muladhara [Oniros] (7:20) `isrc:USHM21675940` `qobuz:84610469`
+- **Flucturion 2.0** — Aimlessly During Sleep (Remix) [Wherever Miracles Are] (8:07) `isrc:USCGH1614720` `qobuz:70017746`
+- **Astral Waves** — Stellaragen  (Remastered Version) [Mystique 2.0] (6:49) `isrc:USHM81190292` `qobuz:66890443`
+- **Chronos** — Zikkurat (Live) [Serial Chillers, Pt. 2] (8:53) `isrc:USCGH1799849` `qobuz:99285430`
+- **Merlin** — No Way Back [Magic Potion] (8:01) `isrc:USCGJ1596162` `qobuz:83382291`
+- **Argus** — We Are One [Pure Love, Pure Down-Tempo, Vol. 1] (8:02) `isrc:CAGWA1800121` `qobuz:79899094`
+- **The Flying Mars** — Vibrant State [Vibradimensional Experience] (12:18) `isrc:USCGJ1679383` `qobuz:91565643`
+- **Digital Blue** — Ghost Dance [Serial Chillers, Pt. 2] (8:19) `isrc:USCGH1799865` `qobuz:99285445`
+- **CJ Catalizer** — Serotonin [Serial Chillers, Pt. 3] (9:33) `isrc:USCGH1799869` `qobuz:100353329`
+- **Moon Tripper** — Ukiyo [Mystical Whirling] (10:32) `isrc:CAGWA2000016` `qobuz:107851671`
+- **Abiogenesis** — Nucleus [Biosynthesis] (10:15) `isrc:USCGH1710627` `qobuz:65432298`
+- **Omnisound** — Moving [Serial Chillers, Pt. 3] (7:25) `isrc:USCGH1799872` `qobuz:100353335`
+- **John Ov3rblast** — Return to the Source [Serial Chillers, Pt. 3] (10:44) `isrc:USCGH1799873` `qobuz:100353336`
+- **Galaxy Drop** — Transfer [Serial Chillers, Pt. 3] (10:49) `isrc:USCGH1799875` `qobuz:100353337`
+- **Akshan** — Forces of Gravitation [Laws of Nature] (8:21) `isrc:CAGWA2000047` `qobuz:94095242`
+- **Liquid Relaxation Oasis** — Gentle Dreams [30 Tracks of Liquid Relaxation – Music Therapy, Less Anxiety and Stress, Calm Rest Time, Peace of Mind, Feeling Positive Energy] (3:57) `isrc:QZ6P91652108` `qobuz:75181594`
+- **Doctor Pólvora** — Los Momentos de Ayer [Enciende Mi Llama] (4:11) `isrc:CH6542500150` `qobuz:313826203`
+- **Guns N' Roses** — November Rain [Use Your Illusion I] (8:55) `isrc:USUG12200195` `qobuz:173779645`
+- **The Glitch Mob** — Enter Formless (Remix) X Dream Mentor (revision) [Revisions] (3:43) `isrc:QMFME2160505` `qobuz:127934398`
+- **EMDR Music Therapy** — The Breath Of New Beginnings [Orchestra Of Endless Horizons: A Symphony For The Mind And Spirit] (3:10) `isrc:QZTV32501434` `qobuz:329456028`
+- **XG** — HYPNOTIZE [THE CORE - 核] (2:50) `isrc:JPB602600009` `qobuz:385592589`
+- **Bob Marley & The Wailers** — Natural Mystic [Live At The Rainbow, 1st June 1977] (5:09) `isrc:USUM71702525` `qobuz:159433700`
+- **Jacob Collier** — Heaven (Butterflies) [The Light For Days] (4:57) `isrc:GBUM72505178` `qobuz:354624456`
+- **Sleep Token** — The Summoning [Take Me Back To Eden] (6:35) `isrc:GBUM72200352` `qobuz:195178291`
+- **Karnivool** — Reanimation [IN VERSES] (7:21) `isrc:AUBM02500139` `qobuz:351503277`
+- **Richard Stonefield** — Astral Asteroid [Astral Asteroid] (10:15) `isrc:QZWDD2321019` `qobuz:222993686`
+- **Birds of Paradise** — Eternal Recurrence [100] (7:57) `isrc:USA2P1907195` `qobuz:58266683`
+- **Mick Giacchino** — Lost in Hyperspace [Star Wars: Skeleton Crew] (0:39) `isrc:USWD12434858` `qobuz:312890369`
+- **Ganga Giri** — Curried Ripples [Beats Around The Bush] (5:03) `isrc:AUOM31010002` `qobuz:75389432`
+- **Lorenzo Mauro** — Cloud 10 [CTRL072] (5:05) `isrc:USA2P2505481` `qobuz:316844703`
+- **King Crimson** — Improv: A Voyage To The Centre Of The Cosmos [Bonus Track] [Red (Expanded & Remastered Original Album Mix)] (14:58) `isrc:GBCTX1400821` `qobuz:49627893`
+- **Electric Light Orchestra** — Livin' Thing [A New World Record] (3:31) `isrc:USSM17800853` `qobuz:28185329`
+- **Ensemble Discantus** — Viderunt Emmanuel [Eya Pueri: Chant de Noël des XIIe et XIIIe siècles] (4:18) `isrc:FR10S1709951` `qobuz:37722090`
+- **Monaleo** — Open The Gates [Who Did The Body] (2:05) `isrc:USQX92505539` `qobuz:362966139`
+- **Variant Field** — Immeasurable [Immeasurable] (3:53) `isrc:USLZJ2103042` `qobuz:117476136`
+- **Kalya Scintilla** — Rises in the East [Dance the Spiral Never Ending] (5:18) `isrc:USA2P1207680` `qobuz:5981487`
+- **Deya Dova** — The Winged One [Mandala Affect] (5:57) `isrc:UKACT1829724` `qobuz:53087279`
+- **L'Impératrice** — chrysalis [chrysalis] (4:00) `isrc:FR9W12551455` `qobuz:361849132`
+- **Coin** — Talk Too Much [How Will You Know If You Never Try] (3:09) `isrc:USSM11602662` `qobuz:39943304`
+- **Night** — Crimson Past [High Tides - Distant Skies] (3:12) `isrc:SE3D72001203` `qobuz:92970954`
+- **Bleed from Within** — In Place of your Halo [Zenith] (3:43) `isrc:DED832400715` `qobuz:305152308`
+- **Arcturus - And The Deception Circus** — White Tie Black Noise - Designed by When for Arcturus [Disguised Masters] (0:49) `isrc:NOFVJ9903010` `qobuz:197527517`
+- **Liquid Bloom** — Roots of the Earth (Medicina Mix) [Heart of the Shamans: Ceremonial Medicine Songs] (16:39) `isrc:USWS41415408` `qobuz:102884241`
+- **System Of A Down** — Lost In Hollywood [Mezmerize] (5:20) `isrc:USSM10501587` `qobuz:160069`
+- **Mumford & Sons** — Icarus [Prizefighter] (3:12) `isrc:GBUM72506325` `qobuz:374793628`

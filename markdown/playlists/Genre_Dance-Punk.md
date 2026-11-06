@@ -1,0 +1,108 @@
+# Genre: Dance-Punk
+
+Imported genre playlist: Dance-Punk.
+
+Services: `qobuz:66708773` `tidal:55c8d045-e1ee-46a7-899a-2d5f89d3fe22`
+
+## Tracks (100)
+
+- **Gang Of Four** — Damaged Goods [Entertainment!] (3:25) `isrc:USWB11506640` `qobuz:39988819`
+- **Talking Heads** — Life During Wartime [Stop Making Sense (Special New Edition)] (5:51) `isrc:USWB19900872` `qobuz:19269883`
+- **James Chance and The Contortions** — Contort Yourself [B. Loves Ze] (4:26) `isrc:FR6T50400805` `qobuz:67963188`
+- **The Slits** — Typical Girls [Cut] (3:56) `isrc:GBAAN7900026` `qobuz:3879106`
+- **The Pop Group** — She Is Beyond Good And Evil [She Is Beyond Good And Evil / 3:38] (3:22) `isrc:UK8DN1700042` `qobuz:66352398`
+- **Delta 5** — Mind Your Own Business [Singles and Sessions 1979-1981] (3:13) `isrc:USKRS0641501` `qobuz:73675812`
+- **Bush Tetras** — Too Many Creeps [Too Many Creeps 7"] (4:01) `isrc:US29V1170301` `qobuz:3794871`
+- **A Certain Ratio** — Shack Up [acr:set] (3:16) `isrc:GBYHX0900151` `qobuz:52620346`
+- **Defunkt** — Make Them Dance [Defunkt / Thermonuclear Sweat] (8:02) `isrc:USRY20515567` `qobuz:11666359`
+- **Pylon** — Cool [Pylon Box] (3:19) `isrc:US27Q2049502` `qobuz:100418011`
+- **Au Pairs** — It's Obvious [Playing with a Different Sex] (6:18) `isrc:GBAJE0602400` `qobuz:385656749`
+- **ESG** — U.F.O [Dance to the Best of ESG] (2:57) `isrc:GBCKK1017502` `qobuz:194290539`
+- **Lizzy Mercier Descloux** — Wawa [Press Color (Deluxe Edition)] (2:25) `isrc:FR6T50300102` `qobuz:24521583`
+- **Medium, Medium** — Hungry, So Angry [Hungry, So Angry] (3:59) `isrc:GBBLY8100001` `qobuz:149960241`
+- **Maximum Joy** — Stretch [Stretch] (6:11) `isrc:GBR3F1000010` `qobuz:238317562`
+- **Material** — Bustin' Out [Bustin' Out Edits - EP] (9:25) `isrc:FR6T51207101` `qobuz:67941828`
+- **Shriekback** — My Spine Is The Bass Line [Oil and Gold] (3:58) `isrc:GBARL1001172` `qobuz:4283985`
+- **Liquid, Liquid** — Cavern [Liquid Liquid] (5:19) `isrc:GBAQH9501005` `qobuz:771793`
+- **Cristina** — What's A Girl To Do [Sleep It Off] (3:30) `isrc:FR6T50401201` `qobuz:67926312`
+- **Konk** — Your Life [The Definitive Collection] (7:26) `isrc:USCGH0702506` `qobuz:81500152`
+- **Le Tigre** — Deceptacon [Le Tigre] (3:04) `isrc:TCABE1211301` `qobuz:127391467`
+- **Peaches** — Fuck the Pain Away [The Teaches of Peaches] (4:10) `isrc:GBBKS0000479` `qobuz:34265054`
+- **The Faint** — Agenda Suicide [Danse Macabre] (3:58) `isrc:US2U60403701` `qobuz:129155162`
+- **ADULT.** — Hand To Phone (Cordless Mix) [Resuscitation] (5:19) `isrc:US2J71207102` `qobuz:20775230`
+- **Radio 4** — Dance To The Underground [Dance To The Underground] (4:03) `isrc:US2B30405301` `qobuz:66294242`
+- **The Rapture** — House Of Jealous Lovers [Echoes] (5:04) `isrc:GBF080300283` `qobuz:248110964`
+- **LCD Soundsystem** — Losing My Edge [LCD Soundsystem] (7:53) `isrc:US4GE0400033` `qobuz:4744457`
+- **Q And Not U** — Soft Pyramids [Different Damage] (4:04) `isrc:US35U0413301` `qobuz:159949548`
+- **Hot Hot Heat** — Bandages [Rhapsody Originals (DMD Album)] (4:05) `isrc:USRE10701068` `qobuz:2847104`
+- **The Sounds** — Living in America [Dying to Say This to You] (3:25) `isrc:SEPQA0213030` `qobuz:2961663`
+- **Electric Six** — Danger! High Voltage [Fire] (3:35) `isrc:GBBKS2400329` `qobuz:312710791`
+- **Yeah Yeah Yeahs** — Date With The Night [Fever To Tell] (2:35) `isrc:USIR10300257` `qobuz:44209293`
+- **!!!** — Me and Guiliani Down by the School Yard - A True Story [Louden Up Now] (9:03) `isrc:USTG30423408` `qobuz:32667933`
+- **Death From Above 1979** — Romantic Rights [You're A Woman, I'm A Machine (DMD)] (3:15) `isrc:CAL450490202` `qobuz:15232823`
+- **Moving Units** — Between Us & Them [Dangerous Dreams] (3:06) `isrc:USPA30400031` `qobuz:72749554`
+- **Liars** — There's Always Room on the Broom [They Were Wrong, So We Drowned] (3:05) `isrc:GBAJH0300717` `qobuz:14431531`
+- **Franz Ferdinand** — Take Me Out [Franz Ferdinand] (3:57) `isrc:GBCEL0300192` `qobuz:2524253`
+- **The Bravery** — An Honest Mistake [The Bravery] (3:39) `isrc:USIR20500157` `qobuz:57937036`
+- **Cut Copy** — Saturdays [Bright Like Neon Love] (3:37) `isrc:AUMP00400060` `qobuz:13164325`
+- **VHS Or BETA** — Night On Fire [Night On Fire] (4:01) `isrc:USCN30400013` `qobuz:985318`
+- **Ennio Morricone** — A Lidia (From "Scusi facciamo l'amore - Listen, Let's Make Love") [Maestro Ennio Morricone Greatest Hits] (2:38) `isrc:GBHGA1527808` `qobuz:55817497`
+- **Datarock** — Fa-Fa-Fa [Datarock Datarock] (3:51) `isrc:NOCFK0501040` `qobuz:103248173`
+- **Test Icicles** — Circle. Square. Triangle. [For Screening Purposes Only] (3:06) `isrc:GBCEL0500864` `qobuz:2523531`
+- **Shitdisco** — I Know Kung Fu [Kingdom of Fear] (2:52) `isrc:GBFFA0700001` `qobuz:64175306`
+- **Pink Floyd** — Signs of Life [A Momentary Lapse of Reason] (4:21) `isrc:GBN9X1100001` `qobuz:47683872`
+- **From Monument To Masses** — The Quiet Before [Schools of Thought Contend] (3:25) `isrc:USDM30500116` `qobuz:53871355`
+- **Bloc Party** — Banquet [Silent Alarm] (3:21) `isrc:GBDNH0400385` `qobuz:23847395`
+- **Arctic Monkeys** — I Bet You Look Good On The Dancefloor [I Bet You Look Good On The Dancefloor] (2:56) `isrc:GBCEL0501006` `qobuz:2501801`
+- **Gossip** — Standing in the Way of Control [Standing in the Way of Control] (4:16) `isrc:USKRS0642202` `qobuz:73675861`
+- **Dub Syndicate** — Shout It Out [Out Here On The Perimeter 1989-1996] (3:38) `isrc:GB5P58900031` `qobuz:316407317`
+- **The Automatic** — Monster [Not Accepted Anywhere] (3:39) `isrc:GBUM70600401` `qobuz:173714459`
+- **Goose** — Bring It On [G20SE] (4:03) `isrc:GBBMQ0600137` `qobuz:292551167`
+- **Digitalism** — Pogo [Idealism] (3:46) `isrc:FRU700700013` `qobuz:256247317`
+- **Klaxons** — Golden Skans [Myths Of The Near Future] (2:45) `isrc:GBUM70605901` `qobuz:2473249`
+- **New Young Pony Club** — Ice Cream [Ice Cream] (3:10) `isrc:AUUM70700142` `qobuz:4924026`
+- **You Say Party! We Say Die!** — The Gap (Between The Rich And The Poor) [Hit The Floor!] (3:02) `isrc:USCGH0626741` `qobuz:100865168`
+- **We Are Wolves** — Magique [Total Magique] (2:25) `isrc:CAD430703002` `qobuz:103202715`
+- **Does It Offend You, Yeah?** — We Are Rockstars [We Are Rockstars] (2:58) `isrc:GBAAA0701625` `qobuz:2488088`
+- **The Presets** — My People [Apocalypso] (4:27) `isrc:AUUM70700903` `qobuz:13166905`
+- **Hadouken!** — That Boy That Girl [Music for an Accelerated Culture] (3:31) `isrc:QZES62002711` `qobuz:191789126`
+- **Late Of The Pier** — Heartbeat [Heartbeat] (3:04) `isrc:GBAYE0800919` `qobuz:5155982`
+- **Friendly Fires** — Paris [Friendly Fires] (7:45) `isrc:GBBKS0800479` `qobuz:2532309`
+- **The Ting Tings** — That's Not My Name [We Started Nothing] (5:10) `isrc:GBARL0800038` `qobuz:438832`
+- **Ladyhawke** — My Delirium [Ladyhawke] (4:14) `isrc:GBUM70808705` `qobuz:28219364`
+- **The Whip** — Trash [X Marks Destination] (6:23) `isrc:GBEFR0801291` `qobuz:91721473`
+- **The Virgins** — Rich Girls [The Virgins] (3:00) `isrc:USAT20801949` `qobuz:2931362`
+- **Deeply Dip** — Murder on the Dancefloor [Murder on the Dancefloor] (3:31) `isrc:QM4TX2429601` `qobuz:255715780`
+- **Crystal Castles** — Alice Practice [Crystal Castles] (2:41) `isrc:CAL450896201` `qobuz:33590376`
+- **Foals** — Balloons [Antidotes] (2:59) `isrc:GBKZV0725305` `qobuz:114536766`
+- **Midnight Juggernauts** — Into the Galaxy [Into The Galaxy] (3:37) `isrc:AUIB20800005` `qobuz:4707654`
+- **Matt & Kim** — Daylight (feat. De La Soul) [Daylight (feat. De La Soul)] (4:26) `isrc:US4HB0990006` `qobuz:416353314`
+- **The Bloody Beetroots** — Warp 1.9 [Warp 1.9] (2:47) `isrc:USDM32462801` `qobuz:287705673`
+- **The Juan MacLean** — Happy House [Happy House] (12:27) `isrc:GBUM70903627` `qobuz:10657234`
+- **WhoMadeWho** — Hello, Empty Room [WhoMadeWho] (4:10) `isrc:DEQ120505833` `qobuz:61839839`
+- **Two Door Cinema Club** — What You Know [Tourist History] (3:10) `isrc:FRU700900116` `qobuz:11093525`
+- **Hot Chip** — I Feel Better [One Life Stand] (4:40) `isrc:GBAYE0902911` `qobuz:41822867`
+- **Sleigh Bells** — Rill Rill [Treats] (3:49) `isrc:USQE91000035` `qobuz:46247504`
+- **Holy Ghost!** — Wait And See [Holy Ghost!] (3:40) `isrc:US4GE1100008` `qobuz:11094740`
+- **The Death Set** — They Come To Get Us [Can You Seen Straight?] (1:52) `isrc:GBCFB1100605` `qobuz:6284433`
+- **YACHT** — Dystopia (The Earth Is On Fire) [Shangri-La] (4:01) `isrc:US4GE1100027` `qobuz:165587803`
+- **Strfkr** — Golden Light [Miracle Mile] (4:43) `isrc:US3R41324814` `qobuz:181985444`
+- **Metronomy** — The Look [The English Riviera] (4:37) `isrc:GBMVH1100040` `qobuz:3443215`
+- **Funeral Party** — Finale [The Golden Age of Knowhere] (4:10) `isrc:USRC11000358` `qobuz:12800463`
+- **The Rolling Stones** — Mess It Up [Hackney Diamonds] (4:03) `isrc:GBUM72302311` `qobuz:233065066`
+- **Factory Floor** — Two Different Ways [Factory Floor] (8:13) `isrc:US4GE1300079` `qobuz:11368941`
+- **THE ORAL CIGARETTES** — 狂乱 Hey Kids!! [THE ORAL CIGARETTES Live Selection BRING IT BACK] (4:07) `isrc:JPJ222101807` `qobuz:357742165`
+- **Parquet Courts** — Human Performance [Human Performance] (4:15) `isrc:GBCVZ1500161` `qobuz:33933338`
+- **Shopping** — In Other Words [Consumer Complaints] (3:12) `isrc:GBMA21387033` `qobuz:46824754`
+- **Guerilla Toss** — Can I Get the Real Stuff [GT Ultra] (2:57) `isrc:US4GE1600080` `qobuz:234449856`
+- **Priests** — JJ [Nothing Feels Natural] (2:57) `isrc:US35U1702102` `qobuz:159953340`
+- **BODEGA** — How Did This Happen!? [Endless Scroll] (3:00) `isrc:USGYG0600295` `qobuz:214816266`
+- **Warmduscher** — I Got Friends [Whale City] (1:57) `isrc:GBCKB1811006` `qobuz:49757849`
+- **Viagra Boys** — Sports [Street Worms] (3:57) `isrc:SE5AJ1600455` `qobuz:150779766`
+- **shame** — One Rizla [Songs Of Praise] (3:34) `isrc:USJ5G1814403` `qobuz:44670684`
+- **Public Practice** — Fate/Glory [Distance Is a Mirror] (2:38) `isrc:QM3861908801` `qobuz:52847376`
+- **Working Men's Club** — Valleys [Working Men's Club] (6:30) `isrc:GBPVV2002993` `qobuz:88961758`
+- **Gustaf** — Mine [Audio Drag for Ego Slobs] (2:27) `isrc:QM6MZ2170765` `qobuz:132287779`
+- **Yard Act** — The Overload [The Overload] (3:17) `isrc:GBUM72104003` `qobuz:127997315`
+- **Model/Actriz** — Mosquito [Dogsbody] (3:12) `isrc:QZVM32200035` `qobuz:350458826`
+- **Friedberg** — Hardcore Workout Queen [Hardcore Workout Queen] (4:54) `isrc:DELK22300228` `qobuz:282395860`

@@ -1,0 +1,800 @@
+{
+  "name": "Genre: Raw Black Metal",
+  "services": {
+    "qobuz": "66734340",
+    "tidal": "8f7005b9-13ac-43e3-bc6d-5f497d17bf7e"
+  },
+  "description": "Imported genre playlist: Raw Black Metal.",
+  "tracks": [
+    {
+      "artist": "Bathory",
+      "title": "Hades",
+      "services": {
+        "qobuz": "178715699"
+      },
+      "album": "Bathory",
+      "duration": 170,
+      "isrc": "SEXHQ8400102"
+    },
+    {
+      "artist": "Sarc\u00f3fago",
+      "title": "Satanas",
+      "services": {
+        "qobuz": "63222984"
+      },
+      "album": "Inri",
+      "duration": 124,
+      "isrc": "BRCOG0500195"
+    },
+    {
+      "artist": "Tormentor",
+      "title": "Elisabeth Bathory",
+      "services": {
+        "qobuz": "184826083"
+      },
+      "album": "Anno Domini",
+      "duration": 321,
+      "isrc": "NOXCW9500404"
+    },
+    {
+      "artist": "Blasphemy",
+      "title": "Ritual",
+      "services": {
+        "qobuz": "264180875"
+      },
+      "album": "Fallen Angel of Doom",
+      "duration": 198,
+      "isrc": "FR4E69200750"
+    },
+    {
+      "artist": "Profanatica",
+      "title": "Unto Us He Is Born",
+      "services": {
+        "qobuz": "240816035"
+      },
+      "album": "Profanatitas De Domonatia",
+      "duration": 226,
+      "isrc": "QZWFE2390896"
+    },
+    {
+      "artist": "Rotting Christ",
+      "title": "The Sign of Evil Existence",
+      "services": {
+        "qobuz": "27579249"
+      },
+      "album": "Thy Mighty Contract",
+      "duration": 120,
+      "isrc": "US4E40689601"
+    },
+    {
+      "artist": "Burzum",
+      "title": "Ea, Lord of the Depths",
+      "services": {
+        "qobuz": "36170556"
+      },
+      "album": "Burzum/Aske",
+      "duration": 292,
+      "isrc": "GBXGC0803002"
+    },
+    {
+      "artist": "Immortal",
+      "title": "Unholy Forces Of Evil",
+      "services": {
+        "qobuz": "1626276"
+      },
+      "album": "Diabolical Fullmoon Mysticism",
+      "duration": 268,
+      "isrc": "FR6V89200095"
+    },
+    {
+      "artist": "Darkthrone",
+      "title": "Transilvanian Hunger",
+      "services": {
+        "qobuz": "50990694"
+      },
+      "album": "Transilvanian Hunger",
+      "duration": 369,
+      "isrc": "GBCQV9400015"
+    },
+    {
+      "artist": "Mayhem",
+      "title": "Freezing Moon",
+      "services": {
+        "qobuz": "80972895"
+      },
+      "album": "De Mysteriis Dom Sathanas",
+      "duration": 383,
+      "isrc": "NOFVD9406020"
+    },
+    {
+      "artist": "Gorgoroth",
+      "title": "Bergtrollets Hevn",
+      "services": {
+        "qobuz": "198023261"
+      },
+      "album": "Antichrist",
+      "duration": 231,
+      "isrc": "SEVCK1104002"
+    },
+    {
+      "artist": "Gehenna",
+      "title": "Black Seared Heart",
+      "services": {
+        "qobuz": "270156799"
+      },
+      "album": "First Spell",
+      "duration": 223,
+      "isrc": "NOCVC0812110"
+    },
+    {
+      "artist": "Kvist",
+      "title": "Ars Manifestia",
+      "services": {
+        "qobuz": "50996979"
+      },
+      "album": "For Kunsten Maa Vi Evig Vike",
+      "duration": 316,
+      "isrc": "GBCQV9600081"
+    },
+    {
+      "artist": "Carpathian Forest",
+      "title": "The Swordsmen\u00a0",
+      "services": {
+        "qobuz": "51000123"
+      },
+      "album": "Black Shining Leather",
+      "duration": 247,
+      "isrc": "GBCQV0700255"
+    },
+    {
+      "artist": "Taake",
+      "title": "Hordalands Doedskvad, Pt. 1",
+      "services": {
+        "qobuz": "197541868"
+      },
+      "album": "Doedskvad",
+      "duration": 463,
+      "isrc": "NODER0401010"
+    },
+    {
+      "artist": "Tsjuder",
+      "title": "Kill for Satan",
+      "services": {
+        "qobuz": "77789590"
+      },
+      "album": "Kill for Satan",
+      "duration": 294,
+      "isrc": "FR33T1638407"
+    },
+    {
+      "artist": "Urgehal",
+      "title": "Goatcraft Torment",
+      "services": {
+        "qobuz": "337935552"
+      },
+      "album": "Goatcraft Torment",
+      "duration": 240,
+      "isrc": "USI4R0815318"
+    },
+    {
+      "artist": "Koldbrann",
+      "title": "Bestial Swarm",
+      "services": {
+        "qobuz": "250479557"
+      },
+      "album": "Moribund",
+      "duration": 231,
+      "isrc": "FR33T1383111"
+    },
+    {
+      "artist": "Sacrifizer",
+      "title": "Possessed And Cursed",
+      "services": {
+        "qobuz": "347262346"
+      },
+      "album": "Midnight Curse",
+      "duration": 166,
+      "isrc": "QZWFJ2503809"
+    },
+    {
+      "artist": "Marduk",
+      "title": "Still Fucking Dead (Here's No Peace)",
+      "services": {
+        "qobuz": "27574268"
+      },
+      "album": "Dark Endless",
+      "duration": 177,
+      "isrc": "US4E41294602"
+    },
+    {
+      "artist": "Graveland",
+      "title": "In the Glare of Burning Churches",
+      "services": {
+        "qobuz": "36819652"
+      },
+      "album": "In the Glare of Burning Churches",
+      "duration": 303,
+      "isrc": "QMFMF1393960"
+    },
+    {
+      "artist": "Varathron",
+      "title": "The River of My Souls",
+      "services": {
+        "qobuz": "165505867"
+      },
+      "album": "His Majesty at the Swamp",
+      "duration": 357,
+      "isrc": "QMBZ91504108"
+    },
+    {
+      "artist": "Dark Funeral",
+      "title": "Open the Gates",
+      "services": {
+        "qobuz": "266710762"
+      },
+      "album": "Dark Funeral (30th Anniversary Edition)",
+      "duration": 274,
+      "isrc": "US4E41306601"
+    },
+    {
+      "artist": "Mortuary Drape",
+      "title": "Primordial",
+      "services": {
+        "qobuz": "144665185"
+      },
+      "album": "All the Witches Dance",
+      "duration": 187,
+      "isrc": "USCGH2229319"
+    },
+    {
+      "artist": "Abigor",
+      "title": "Universe of Black Divine",
+      "services": {
+        "qobuz": "28456695"
+      },
+      "album": "Verwustung/Invoke the Dark Age & Opus IV",
+      "duration": 420,
+      "isrc": "ATN260415401"
+    },
+    {
+      "artist": "Enthroned",
+      "title": "Deny The Holy Book Of Lies",
+      "services": {
+        "qobuz": "313204986"
+      },
+      "album": "Prophecies Of Pagan Fire",
+      "duration": 351,
+      "isrc": "GBDHS0902402"
+    },
+    {
+      "artist": "DENIAL OF GOD",
+      "title": "The Horrors of Satan",
+      "services": {
+        "qobuz": "88010188"
+      },
+      "album": "The Horrors of Satan",
+      "duration": 779,
+      "isrc": "FR4E62000180"
+    },
+    {
+      "artist": "Watain",
+      "title": "Rabid Death's Curse",
+      "services": {
+        "qobuz": "77786265"
+      },
+      "album": "Rabid Death's Curse",
+      "duration": 316,
+      "isrc": "FR33T0818702"
+    },
+    {
+      "artist": "Satanic Warmaster",
+      "title": "Black Circle of Death",
+      "services": {
+        "qobuz": "310155309"
+      },
+      "album": "Exultation of Cruelty",
+      "duration": 383,
+      "isrc": "QZZ7W2446203"
+    },
+    {
+      "artist": "Horna",
+      "title": "Sotahuuto",
+      "services": {
+        "qobuz": "64302866"
+      },
+      "album": "Sotahuuto",
+      "duration": 199,
+      "isrc": "USGE30709707"
+    },
+    {
+      "artist": "Antaeus",
+      "title": "Inner War",
+      "services": {
+        "qobuz": "15316402"
+      },
+      "album": "Cut Your Flesh And Worship Satan",
+      "duration": 268,
+      "isrc": "FR4E60001170"
+    },
+    {
+      "artist": "Armagedda",
+      "title": "Only True Believers",
+      "services": {
+        "qobuz": "244083822"
+      },
+      "album": "Only True Believers",
+      "duration": 233,
+      "isrc": "USI4R0819169"
+    },
+    {
+      "artist": "Inquisition",
+      "title": "Enshrouded by Cryptic Temples of the Cult",
+      "services": {
+        "qobuz": "77780669"
+      },
+      "album": "Invoking the Majestic Throne of Satan",
+      "duration": 279,
+      "isrc": "FR33T1433802"
+    },
+    {
+      "artist": "Darkened Nocturn Slaughtercult",
+      "title": "Nocturnal March",
+      "services": {
+        "qobuz": "253437263"
+      },
+      "album": "Nocturnal March",
+      "duration": 433,
+      "isrc": "FR4E62400620"
+    },
+    {
+      "artist": "Craft",
+      "title": "Fuck the Universe",
+      "services": {
+        "qobuz": "77792134"
+      },
+      "album": "Fuck the Universe",
+      "duration": 299,
+      "isrc": "FR33T1890011"
+    },
+    {
+      "artist": "Cultes Des Ghoules",
+      "title": "Baptised by Barron",
+      "services": {
+        "qobuz": "250361556"
+      },
+      "album": "H\u00e4xan, ...or Medieval Witchcraft and Infanticide...",
+      "duration": 770,
+      "isrc": "QZDA42412933"
+    },
+    {
+      "artist": "Aosoth",
+      "title": "Ashes of Angels",
+      "services": {
+        "qobuz": "312977352"
+      },
+      "album": "Ashes of Angels",
+      "duration": 272,
+      "isrc": "USI4R0916413"
+    },
+    {
+      "artist": "Mystifier",
+      "title": "The Witch Voisin Recites Our Gloat / Osculum Obscenum",
+      "services": {
+        "qobuz": "264493921"
+      },
+      "album": "Wicca",
+      "duration": 490,
+      "isrc": "FR4E69300720"
+    },
+    {
+      "artist": "Impurity",
+      "title": "The Lamb's Fury",
+      "services": {
+        "qobuz": "19301793"
+      },
+      "album": "The Lamb's Fury",
+      "duration": 339,
+      "isrc": "BRCOG0900104"
+    },
+    {
+      "artist": "Havohej",
+      "title": "Dethrone the Son of God",
+      "services": {
+        "qobuz": "228897579"
+      },
+      "album": "Dethrone the Son of God",
+      "duration": 115,
+      "isrc": "QZTAT2393490"
+    },
+    {
+      "artist": "Judas Iscariot",
+      "title": "But Eternals Beheld His Vast Forest",
+      "services": {
+        "qobuz": "64314334"
+      },
+      "album": "Thy Dying Light",
+      "duration": 479,
+      "isrc": "USGE30002401"
+    },
+    {
+      "artist": "Clemency",
+      "title": "Ascension of the Imperial Hordes",
+      "services": {
+        "qobuz": "365489119"
+      },
+      "album": "DIVINE LEGIONS AT WAR",
+      "duration": 309,
+      "isrc": "QT5M52566790"
+    },
+    {
+      "artist": "Inquisition",
+      "title": "Unholy Magic Attack",
+      "services": {
+        "qobuz": "77781913"
+      },
+      "album": "Into the Infernal Regions of the Ancient Cult",
+      "duration": 350,
+      "isrc": "FR33T1433701"
+    },
+    {
+      "artist": "Akitsa",
+      "title": "Go\u00e9tie",
+      "services": {
+        "qobuz": "25714724"
+      },
+      "album": "Split",
+      "duration": 334,
+      "isrc": "USA2Z1010668"
+    },
+    {
+      "artist": "Black Witchery",
+      "title": "Baphomet Throne Exaltation",
+      "services": {
+        "qobuz": "12288847"
+      },
+      "album": "Upheaval Of Satanic Might",
+      "duration": 256,
+      "isrc": "FR4E60500140"
+    },
+    {
+      "artist": "Akercocke",
+      "title": "Of Menstrual Blood And Semen",
+      "services": {
+        "qobuz": "50990660"
+      },
+      "album": "The Goat Of Mendes",
+      "duration": 386,
+      "isrc": "GBCQV0100219"
+    },
+    {
+      "artist": "Departure Chandelier",
+      "title": "Life Escaping Through the Candle's Smoke",
+      "services": {
+        "qobuz": "73832446"
+      },
+      "album": "Antichrist Rise to Power",
+      "duration": 261,
+      "isrc": "USA2Z1900676"
+    },
+    {
+      "artist": "Lamp of Murmuur",
+      "title": "Forest of Hallucinations",
+      "services": {
+        "qobuz": "358002556"
+      },
+      "album": "The Dreaming Prince in Ecstasy",
+      "duration": 552,
+      "isrc": "QMFME2547032"
+    },
+    {
+      "artist": "Spectral Wound",
+      "title": "Frigid and Spellbound",
+      "services": {
+        "qobuz": "113821864"
+      },
+      "album": "A Diabolic Thirst",
+      "duration": 422,
+      "isrc": "USN682125502"
+    },
+    {
+      "artist": "Bestial Warlust",
+      "title": "Bestial Warlust",
+      "services": {
+        "qobuz": "56312571"
+      },
+      "album": "Vengeance War 'Till Death",
+      "duration": 93,
+      "isrc": "AUIA30916001"
+    },
+    {
+      "artist": "Conqueror",
+      "title": "War Cult Supremacy",
+      "services": {
+        "qobuz": "264557737"
+      },
+      "album": "War.Cult.Supremacy",
+      "duration": 213,
+      "isrc": "QMBZ91664575"
+    },
+    {
+      "artist": "Revenge",
+      "title": "Blood of My Blood",
+      "services": {
+        "qobuz": "14186730"
+      },
+      "album": "Triumph.Genocide.Antichrist",
+      "duration": 254,
+      "isrc": "FR4E60300100"
+    },
+    {
+      "artist": "Axis of Advance",
+      "title": "The Torture",
+      "services": {
+        "qobuz": "14285132"
+      },
+      "album": "The List",
+      "duration": 243,
+      "isrc": "FR4E60200740"
+    },
+    {
+      "artist": "Teitanblood",
+      "title": "Seven Chalices Of Vomit And Blood",
+      "services": {
+        "qobuz": "53050616"
+      },
+      "album": "Seven Chalices",
+      "duration": 353,
+      "isrc": "QZ5FN1864273"
+    },
+    {
+      "artist": "Diocletian",
+      "title": "Doom Cult",
+      "services": {
+        "qobuz": "365838694"
+      },
+      "album": "Doom Cult",
+      "duration": 191,
+      "isrc": "USHM22539345"
+    },
+    {
+      "artist": "Drowning the Light",
+      "title": "The Cry of the Wolf",
+      "services": {
+        "qobuz": "130663947"
+      },
+      "album": "Of Celtic Blood and Satanic Pride",
+      "duration": 103,
+      "isrc": "QZMEN2170866"
+    },
+    {
+      "artist": "Rostorchester",
+      "title": "Gehauen aus dem Stein der Ewigkeit",
+      "services": {
+        "qobuz": "267326347"
+      },
+      "album": "Der Zinnen Sang vom Niedergang",
+      "duration": 175,
+      "isrc": "QZMEN2472493"
+    },
+    {
+      "artist": "Kvelgeyst",
+      "title": "Alkahest - In Schall und Rauch zerflossen",
+      "services": {
+        "qobuz": "231099889"
+      },
+      "album": "Alkahest",
+      "duration": 269,
+      "isrc": "GBSMU6428774"
+    },
+    {
+      "artist": "Venthiax",
+      "title": "Infernal Demise",
+      "services": {
+        "qobuz": "371088527"
+      },
+      "album": "Rites of Ra",
+      "duration": 204,
+      "isrc": "QMFMG2568754"
+    },
+    {
+      "artist": "Primitive Warfare",
+      "title": "Extinction Protocol",
+      "services": {
+        "qobuz": "254257648"
+      },
+      "album": "Extinction Protocol",
+      "duration": 205,
+      "isrc": "QZFYZ2489032"
+    },
+    {
+      "artist": "Wulkanaz",
+      "title": "H\u00f6kvind",
+      "services": {
+        "qobuz": "315093659"
+      },
+      "album": "Luftuz",
+      "duration": 205,
+      "isrc": "SEVCK2500201"
+    },
+    {
+      "artist": "Kostnat\u011bn\u00ed",
+      "title": "Dokonal\u00e9 k\u0159i\u0161\u0165\u00e1lov\u00e9 m\u011bsto (Perfect Crystal City)",
+      "services": {
+        "qobuz": "352096073"
+      },
+      "album": "P\u0159\u00edli\u0161nost (Excess)",
+      "duration": 174,
+      "isrc": "USRMX2500186"
+    },
+    {
+      "artist": "Antichrist Siege Machine",
+      "title": "Son of Man",
+      "services": {
+        "qobuz": "249278330"
+      },
+      "album": "Vengeance of Eternal Fire",
+      "duration": 193,
+      "isrc": "USN682331601"
+    },
+    {
+      "artist": "IRAE",
+      "title": "Nightshade",
+      "services": {
+        "qobuz": "135616849"
+      },
+      "album": "Lurking in the Depths",
+      "duration": 394,
+      "isrc": "QZES72184192"
+    },
+    {
+      "artist": "Beherit",
+      "title": "The Gate Of Nanna",
+      "services": {
+        "qobuz": "190529753"
+      },
+      "album": "Drawing Down the Moon",
+      "duration": 254,
+      "isrc": "FIUM70800871"
+    },
+    {
+      "artist": "M\u00fctiilation",
+      "title": "Black Imperial Blood",
+      "services": {
+        "qobuz": "57599195"
+      },
+      "album": "The Lost Tapes",
+      "duration": 327,
+      "isrc": "FR4E61900120"
+    },
+    {
+      "artist": "Xasthur",
+      "title": "A Gate Through Bloodstained Mirrors",
+      "services": {
+        "qobuz": "64321144"
+      },
+      "album": "To Violate the Obvious",
+      "duration": 721,
+      "isrc": "USGE30506008"
+    },
+    {
+      "artist": "Leviathan",
+      "title": "The Idiot Sun",
+      "services": {
+        "qobuz": "64333197"
+      },
+      "album": "The Tenth Sub Level Of Suicide",
+      "duration": 573,
+      "isrc": "USA560456805"
+    },
+    {
+      "artist": "Ildjarn",
+      "title": "Blazing Eye",
+      "services": {
+        "qobuz": "77786350"
+      },
+      "album": "Forest Poetry",
+      "duration": 119,
+      "isrc": "FR33T1283905"
+    },
+    {
+      "artist": "Striborg",
+      "title": "Black Desolate Winter",
+      "services": {
+        "qobuz": "71570014"
+      },
+      "album": "Black Desolate Winter / Depressive Hibernation",
+      "duration": 1846,
+      "isrc": "USI4R0901417"
+    },
+    {
+      "artist": "Sargeist",
+      "title": "Satanic Black Devotion",
+      "services": {
+        "qobuz": "64310760"
+      },
+      "album": "Satanic Black Devotion",
+      "duration": 341,
+      "isrc": "USA560456782"
+    },
+    {
+      "artist": "Moonblood",
+      "title": "Under the Cold Fullmoon",
+      "services": {
+        "qobuz": "317050244"
+      },
+      "album": "Blut & Krieg",
+      "duration": 477,
+      "isrc": "USCGJ2521232"
+    },
+    {
+      "artist": "Demoncy",
+      "title": "Diabolica Blasphemiae",
+      "services": {
+        "qobuz": "228804149"
+      },
+      "album": "Diabolica Blasphemiae",
+      "duration": 358,
+      "isrc": "QZTAT2375941"
+    },
+    {
+      "artist": "Pa Vesh En",
+      "title": "Goat Moon Chaos",
+      "services": {
+        "qobuz": "258246753"
+      },
+      "album": "The Gate",
+      "duration": 284,
+      "isrc": "TCAIB2412514"
+    },
+    {
+      "artist": "Hulder",
+      "title": "De Oproeping Van Middeleeuwse Duisternis",
+      "services": {
+        "qobuz": "66645943"
+      },
+      "album": "De Oproeping Van Middeleeuwse Duisternis",
+      "duration": 39,
+      "isrc": "USHM81952310"
+    },
+    {
+      "artist": "Master\u00b4s Hammer",
+      "title": "J\u00e1ma pekel",
+      "services": {
+        "qobuz": "196900249"
+      },
+      "album": "Ritual",
+      "duration": 260,
+      "isrc": "USCGJ2312993"
+    },
+    {
+      "artist": "Nifelheim",
+      "title": "Black Curse",
+      "services": {
+        "qobuz": "101206022"
+      },
+      "album": "Nifelheim",
+      "duration": 228,
+      "isrc": "CH6541632191"
+    },
+    {
+      "artist": "Samael",
+      "title": "Into The Pentagram",
+      "services": {
+        "qobuz": "47670878"
+      },
+      "album": "Worship Him",
+      "duration": 405,
+      "isrc": "US4E40573718"
+    },
+    {
+      "artist": "Impaled Nazarene",
+      "title": "Goat Perversion",
+      "services": {
+        "qobuz": "1626286"
+      },
+      "album": "Tol  Cormpt Norz Norz Norz",
+      "duration": 202,
+      "isrc": "FR6V89200147"
+    }
+  ]
+}

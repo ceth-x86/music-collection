@@ -1,0 +1,108 @@
+# Genre: Neo-Prog
+
+Imported genre playlist: Neo-Prog.
+
+Services: `qobuz:66737939` `tidal:4fe9d3cd-cb2e-45d0-9bca-a386b1e888f1`
+
+## Tracks (100)
+
+- **Twelfth Night** — Creepshow [Fact and Fiction: The Definitive Edition] (11:50) `isrc:UKGZ31800007` `qobuz:87639878`
+- **Marillion** — Script for a Jester's Tear [Script for a Jester's Tear] (8:42) `isrc:GBAYE1901558` `qobuz:85780918`
+- **Abel Ganz** — The Life of the Honey Bee and Other Moments of Clarity [The Life of the Honey Bee and Other Moments of Clarity] (12:37) `isrc:USL4R1921643` `qobuz:102353667`
+- **Levellers** — Searchlights [Help] (3:53) `isrc:GBAQT9500140` `qobuz:99975910`
+- **Pallas** — Eastwest [The Sentinel] (5:00) `isrc:GBDHC0906705` `qobuz:44011788`
+- **Solstice** — Cheyenne [Silent Dance - The Definitive Edition] (6:01) `isrc:GBBLY0900243` `qobuz:144846234`
+- **IQ** — The Wake [The Wake] (4:11) `isrc:GBLWL0600025` `qobuz:95244765`
+- **Audra Pendragon** — Angel Standing By [Angel Standing By] (2:28) `isrc:QZMEQ2693747` `qobuz:396438217`
+- **This Will Destroy You** — Happiness: We're All in It Together [Young Mountain] (8:34) `isrc:US76L0710016` `qobuz:46826298`
+- **It Bites** — Calling All The Heroes [The Big Lad In The Windmill] (5:33) `isrc:GBAAA8600048` `qobuz:4620426`
+- **Elenco de Mickey Mouse Funhouse** — Tema Principal [Mickey Mouse Funhouse] (1:53) `isrc:USWD12112964` `qobuz:163534301`
+- **Fish** — Vigil [Vigil In The Wilderness Of Mirrors] (8:47) `isrc:GBAYE9000766` `qobuz:5195314`
+- **Yodelice** — More Than Meets The Eye [Cardioid] (3:04) `isrc:FRUM71000385` `qobuz:2542857`
+- **English Sinfonia** — II. Air [Holst: Double Concerto / St Paul's Suite / Brook Green Suite] (2:05) `isrc:HKI190707802` `qobuz:309617301`
+- **Dave Dudley** — Can I Sing a Christmas Song for You [King of Country] (2:55) `isrc:DEE378100390` `qobuz:42852074`
+- **Collage** — Heroes Cry [Moonshine] (6:39) `isrc:PLB822300112` `qobuz:349400684`
+- **Arena** — Solomon (Live) [feat. Mick Pointer, Clive Nolan, John Mitchell, John Jowitt & Paul Manzi] [Arena: Live (feat. Mick Pointer, Clive Nolan, John Mitchell, John Jowitt & Paul Manzi)] (13:55) `isrc:USHM21331777` `qobuz:66748815`
+- **Crystal Palace** — Confess Your Crime [Dawn of Eternity] (8:27) `isrc:DENC11600295` `qobuz:31916050`
+- **Quidam** — Sanktuarium / Sanctuary [Quidam] (8:56) `isrc:USHM21379482` `qobuz:119488424`
+- **Larkin Poe** — Mad As A Hatter [Paint The Roses] (5:12) `isrc:US9ZA2100003` `qobuz:368553998`
+- **Coldplay** — Adventure of a Lifetime [A Head Full of Dreams] (4:23) `isrc:GBAYE1501037` `qobuz:28269651`
+- **Heaven 17** — Temptation [The Luxury Gap] (3:33) `isrc:GBAAA0600345` `qobuz:48976059`
+- **Judas Priest** — Beyond the Realms of Death [Stained Class] (6:49) `isrc:GBBBN0102358` `qobuz:110729`
+- **Grey Lady Down** — The Ballad of Billy Grey (The Crime Part One) [The Crime] (11:28) `isrc:USCGJ1183434` `qobuz:77113039`
+- **Iluvatar** — Sojourns [A Story Two Days Wide...] (9:04) `isrc:CALVP2537577` `qobuz:400079816`
+- **The Rolling Stones** — Sympathy For The Devil [Beggars Banquet] (6:16) `isrc:USA176810010` `qobuz:3377889`
+- **The Raincoats** — Dance of Hopping Mad [Moving] (5:29) `isrc:GB5ZC0900023` `qobuz:77343532`
+- **Local News Legend** — Neutral Spirit Hotel [Split Peas] (1:28) `isrc:USDHM2107228` `qobuz:220137416`
+- **Majestic Man Press** — The Arrival of the Starborn [The Silver Choirs of the Void - The Eterra Cycle] (3:52) `isrc:CAENV2610243` `qobuz:419524604`
+- **Abraxas** — Nantalomba [CENTURIE] (4:23) `isrc:QZK6F2517625` `qobuz:328812047`
+- **Harmonic Pulse FM** — Edge of the Forest (432 Hz) [Deeper Sleep (432 Hz)] (2:00) `isrc:QT2VB2439467` `qobuz:291201047`
+- **RPWL** — Wasted Land [World Through My Eyes] (5:39) `isrc:DENC12600969` `qobuz:396951038`
+- **Salem's Pot** — Nothing Hill [...lurar ut dig på prärien] (9:11) `isrc:USYBL1400178` `qobuz:140212727`
+- **Pessel and Daughters** — The Ballad of Samuel Clarence and Carol Lynne [Greatest Hits] (4:07) `isrc:QZPJ32524139` `qobuz:372119473`
+- **Millenium** — Ego [Ego] (10:36) `isrc:PLI971300106` `qobuz:179628190`
+- **Flamborough Head** — One For The Crow [One For The Crow] (12:00) `isrc:NLW2R1927605` `qobuz:183408509`
+- **Satellite Mile** — The Water's Edge [The Water's Edge] (5:46) `isrc:AUG7Q2200002` `qobuz:343710282`
+- **Silhouette** — The Answers [Moods] (5:55) `isrc:NOX9X3772412` `qobuz:258409473`
+- **The Watch** — Damage Mode [Vacuum] (7:17) `isrc:TCABS1382313` `qobuz:128808074`
+- **Carptree** — Sunshine Waters [Man Made Machine] (5:48) `isrc:SEVMY0500102` `qobuz:69801410`
+- **Final Conflict** — Return of the Artisan [Return of the Artisan] (10:05) `isrc:GBSF82000009` `qobuz:279620919`
+- **Mclusky** — Rice Is Nice [My Pain And Sadness is More Sad And Painful Than Yours] (1:06) `isrc:GBBNZ9900072` `qobuz:2342770`
+- **Mindgames** — The Benefit of Anxiety [Actors In A Play] (9:03) `isrc:USHM20864724` `qobuz:83605238`
+- **Ben Frost** — Black Thread, ᠤᠯᠠᠭᠠᠨᠪᠠᠭᠠᠲᠤᠷ [Under Certain Light and Atmospheric Conditions] (6:24) `isrc:GBR8R2500039` `qobuz:329465306`
+- **Sylvan** — Posthumous Silence [Posthumous Silence] (4:59) `isrc:DEML50600515` `qobuz:21528253`
+- **The Kiboomers** — Shapes Song / Square, Triangle, Circle [The Best Toddler Learning Songs] (2:05) `isrc:QM6P41495843` `qobuz:63929248`
+- **Knight Area** — The Sun Also Rises [The Sun Also Rises] (5:51) `isrc:NLS8V1700005` `qobuz:96208140`
+- **D Project** — Don't Tell The Kids [Big Face] (3:38) `isrc:USCGH1156751` `qobuz:73625566`
+- **CAKE** — Friend Is a Four Letter Word [Fashion Nugget (Deluxe Edition)] (3:22) `isrc:USCA19686702` `qobuz:163832975`
+- **Paavo Järvi** — La Sindone [Arvo Pärt: Credo] (9:01) `isrc:FR50X2515801` `qobuz:351562973`
+- **Introitus** — Like Always [Elements] (8:22) `isrc:NONOR1108030` `qobuz:258430802`
+- **Marty O'Reilly & the Old Soul Orchestra** — Southern Road [Stereoscope] (4:50) `isrc:QZAAH1700002` `qobuz:234381791`
+- **Fragments** — Directive 4 (Radio Edit) [Directive 4] (2:07) `isrc:FR9W12450480` `qobuz:294885683`
+- **Talisco** — The Martian Man [Capitol Vision] (3:45) `isrc:FR8V41600046` `qobuz:34426169`
+- **Red Sand** — Mirror of Insanity [Mirror of Insanity] (14:44) `isrc:TCAFS2130230` `qobuz:128501042`
+- **Shamall** — Is This Human Behavior [History Book] (7:15) `isrc:DEN281622045` `qobuz:88429578`
+- **Lizzy McAlpine** — Apple Pie [Give Me A Minute] (4:19) `isrc:GBKPL1972264` `qobuz:176323467`
+- **The Riflebirds of Portland** — Sometime Somewhere [Windmills On The Moon] (3:15) `isrc:USASN2530039` `qobuz:340593711`
+- **The Reasoning** — Awakening [Awakening] (6:49) `isrc:GBXQX0800001` `qobuz:142185349`
+- **Yuka & Chronoship** — Stone Age [The 3rd Planetary Chronicles] (8:26) `isrc:GBL2D1500146` `qobuz:166277589`
+- **Airbag** — All Rights Removed [All Rights Removed] (8:59) `isrc:NOKAR1103010` `qobuz:62933741`
+- **Docker's Guild** — Cassilda_s Song [The Mystic Technocracy - Season 2: The Age of Entropy] (2:55) `isrc:ITCZ62210065` `qobuz:181012426`
+- **Edison's Children** — Dusk [In the Last Waking Moments...] (6:42) `isrc:QMSXE1100001` `qobuz:142232552`
+- **Kinetic Element** — Travelog [Travelog] (9:51) `isrc:QMAAK1592327` `qobuz:81418402`
+- **Leap Day** — Awaking the Muse [Timelapse] (5:12) `isrc:USHM81806689` `qobuz:99879915`
+- **Oysterband** — Like a Swimmer in the Ocean [Diamonds on the Water] (2:22) `isrc:GBCSY1300012` `qobuz:151685223`
+- **t.A.T.u.** — All The Things She Said [t.A.T.u. - The Best] (3:32) `isrc:RUA110100017` `qobuz:3891717`
+- **Phoenix Again** — Adso da Melk [Look Out] (11:50) `isrc:USCGH1727907` `qobuz:85184437`
+- **Ben Fuller** — Turn [Goodbye Yesterday: Songs for the New Year] (3:54) `isrc:USA5W2400156` `qobuz:374225868`
+- **Seven Steps to the Green Door** — Porn! [Fetish] (8:50) `isrc:USDY41508569` `qobuz:88384579`
+- **Clive Nolan** — Act 1: Wedding [The Mortal Light] (5:19) `isrc:NOXPF2505101` `qobuz:382546425`
+- **Cosmograf** — The Man Left in Space [The Man Left in Space] (9:58) `isrc:USCGH1362035` `qobuz:71646673`
+- **Jolly** — Firewell [The Audio Guide to Happiness (Part II)] (6:43) `isrc:GBDHC1363502` `qobuz:27676930`
+- **Lifesigns** — At the End of the World [Anthology] (8:24) `isrc:GBBLY1300209` `qobuz:417559839`
+- **Anubis** — Hitchhiking to Byzantium (Acoustic) [Different Stories] (9:02) `isrc:USCGH1971881` `qobuz:73438646`
+- **Cirrus Bay** — Places Unseen [Places Unseen] (6:52) `isrc:USHM21688936` `qobuz:70944257`
+- **Cassandra Wilson** — A Day In The Life Of A Fool [Loverly] (4:56) `isrc:USBN20701179` `qobuz:1756859`
+- **Rev. Louis  Overstreet** — Get Ready, I'm Gonna Move in the Room Upstairs [With His Sons and the Congregation of St. Luke's Powerhouse Church of God in Christ] (3:32) `isrc:USAP39544205` `qobuz:92846559`
+- **Drasko Adzic** — I Talk of Dreams: Thou Canst Not Speak [I Talk of Dreams] (1:53) `isrc:RSA132506901` `qobuz:362460130`
+- **AURA LV2** — Chaos Within - the Monarch’s Trial [Shadows Rise - Sung Jinwoo’s Triumph] (3:59) `isrc:QZGLS2671202` `qobuz:412427260`
+- **Steve Rothery** — Morpheus [The Ghosts of Pripyat] (7:55) `isrc:GBGST1400033` `qobuz:126555115`
+- **Motionless In White** — Undead Ahead 2: The Tale of the Midnight Ride [Disguise] (4:33) `isrc:NLA321900083` `qobuz:61079872`
+- **Joe Hisaishi** — On The Tiger Moth [Laputa: Castle in the Sky Soundtrack -The Mystery of the Levitation Stone-] (2:32) `isrc:JPTK08680209` `qobuz:318727688`
+- **Barock Project** — Skyline [Skyline] (10:20) `isrc:ITF712000065` `qobuz:114466985`
+- **Comedy of Errors** — Time Machine [Time Machine] (12:21) `isrc:UK2672200005` `qobuz:187035680`
+- **Sophie Ellis-Bextor** — Today The Sun's On Us [Trip The Light Fantastic] (4:16) `isrc:GBUM70602861` `qobuz:13639169`
+- **Jakob Lindberg** — The New Highland Laddie - Devo's Gigue - A new Scotts Measure - After the Pauges of a Desperate Lover - I never knew I loved thee - Lillybul [Lute Music From Scotland and France] (8:09) `isrc:SEAEC8701080` `qobuz:249409101`
+- **Mystery** — Delusion Rain [Delusion Rain] (10:03) `isrc:CAU291511001` `qobuz:124653463`
+- **Evership** — The Serious Room [Evership II] (7:52) `isrc:USHM91845533` `qobuz:67411750`
+- **Royal Northern College of Music Wind Orchestra** — Epitaph XIV: Harvest of Sorrow (Ukraine) [Tributes - Music for Concert Band] (6:30) `isrc:UKKRK2500042` `qobuz:382430791`
+- **Little Atlas** — The Ballad of Eddie Wanderlust [Wanderlust] (7:37) `isrc:USHM90647832` `qobuz:124660944`
+- **Salem Witch Army** — All Our Yesterdays [Thunder In Solitude / Sundown In Silence] (1:39) `isrc:QZDUY1800025` `qobuz:131294549`
+- **Modern-Rock Ensemble** — Dark Kingdom & the Evil King,Pt.3 [Night Dreams & Wishes] (9:30) `isrc:TCAEK1957358` `qobuz:125827406`
+- **Nine Stones Close** — The Weight [One Eye On The Sunrise] (9:51) `isrc:USZWJ1231207` `qobuz:16332531`
+- **Vienna Circle** — Dreams Presage [Silhouette Moon] (13:20) `isrc:GBYRA1300003` `qobuz:116474784`
+- **Stefano Panunzi** — Those Words (Words Are All We Have) [Pages from the Sea] (5:15) `isrc:ITISX2000022` `qobuz:208313078`
+- **The Beach Boys** — God Only Knows [The Beach Boys On Tour: 1968] (2:46) `isrc:USUM71821509` `qobuz:57162267`
+- **This Winter Machine** — The Man Who Never Was (Remastered 2025) [The Man Who Never Was (Remastered 2025)] (15:55) `isrc:TCAJQ2525867` `qobuz:336632243`
+- **R.A. The Rugged Man** — Living Through A Screen (Everything Is A Lie) [All My Heroes Are Dead] (3:46) `isrc:USHKR0918413` `qobuz:87149270`
+- **Moonrise** — The Answer [Travel Within] (5:28) `isrc:PLI971900018` `qobuz:179454952`

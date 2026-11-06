@@ -1,0 +1,880 @@
+{
+  "name": "Genre: Krautrock",
+  "services": {
+    "qobuz": "66737826",
+    "tidal": "8b310626-94d3-43a1-9312-50041626d178"
+  },
+  "description": "Imported genre playlist: Krautrock.",
+  "tracks": [
+    {
+      "artist": "Amon D\u00fc\u00fcl",
+      "title": "Der Garten Sandosa im Morgentau",
+      "services": {
+        "qobuz": "59744836"
+      },
+      "album": "Psychedelic Underground",
+      "duration": 486,
+      "isrc": "DEC371300523"
+    },
+    {
+      "artist": "Orange Peel",
+      "title": "We Still Try to Change",
+      "services": {
+        "qobuz": "58226047"
+      },
+      "album": "Orange Peel",
+      "duration": 604,
+      "isrc": "DEA437100045"
+    },
+    {
+      "artist": "Xhol Caravan",
+      "title": "All Green",
+      "services": {
+        "qobuz": "44337911"
+      },
+      "album": "Electrip",
+      "duration": 457,
+      "isrc": "USA371249015"
+    },
+    {
+      "artist": "Ty Segall",
+      "title": "Archangel Thunderbird",
+      "services": {
+        "qobuz": "53301919"
+      },
+      "album": "Fudge Sandwich",
+      "duration": 191,
+      "isrc": "USA3D1832608"
+    },
+    {
+      "artist": "Embryo",
+      "title": "You Don't Know What's Happening",
+      "services": {
+        "qobuz": "49213309"
+      },
+      "album": "Opal",
+      "duration": 292,
+      "isrc": "DEC371300312"
+    },
+    {
+      "artist": "Floh de Cologne",
+      "title": "Sei ruhig, Fliessbandbaby",
+      "services": {
+        "qobuz": "54832978"
+      },
+      "album": "Flie\u00dfbandbabys Beat-Show",
+      "duration": 92,
+      "isrc": "DEZ431120704"
+    },
+    {
+      "artist": "Gomorrha",
+      "title": "Trauma",
+      "services": {
+        "qobuz": "350236253"
+      },
+      "album": "Trauma",
+      "duration": 795,
+      "isrc": "DEMV92500252"
+    },
+    {
+      "artist": "Guru Guru",
+      "title": "Der Lsd-Marsch",
+      "services": {
+        "qobuz": "104194782"
+      },
+      "album": "Ufo",
+      "duration": 508,
+      "isrc": "QM6XS2002448"
+    },
+    {
+      "artist": "Kin Ping Meh",
+      "title": "Fairy-Tales",
+      "services": {
+        "qobuz": "9023462"
+      },
+      "album": "Kin Ping Meh",
+      "duration": 588,
+      "isrc": "DEN120406073"
+    },
+    {
+      "artist": "Kluster",
+      "title": "Kluster 1 (Electric Music und Texte)",
+      "services": {
+        "qobuz": "49851423"
+      },
+      "album": "Klopfzeichen",
+      "duration": 1413,
+      "isrc": "DELI51200825"
+    },
+    {
+      "artist": "Kraftwerk",
+      "title": "Ruckzuck",
+      "services": {
+        "qobuz": "401214745"
+      },
+      "album": "Pop Und Avantgarde",
+      "duration": 655,
+      "isrc": "USY252603261"
+    },
+    {
+      "artist": "Miracle Tone",
+      "title": "Pure Beta Binaural Beat - Increased Concentration",
+      "services": {
+        "qobuz": "251699903"
+      },
+      "album": "Binaural Beats - Brainwave Symphony",
+      "duration": 311,
+      "isrc": "GBRKQ2398023"
+    },
+    {
+      "artist": "Rufus Zuphall",
+      "title": "Walpurgisnacht",
+      "services": {
+        "qobuz": "55036478"
+      },
+      "album": "Weiss der Teufel",
+      "duration": 186,
+      "isrc": "DEC830900180"
+    },
+    {
+      "artist": "Sweet Smoke",
+      "title": "Baby Night",
+      "services": {
+        "qobuz": "238011457"
+      },
+      "album": "Just A Poke",
+      "duration": 991,
+      "isrc": "DEA347000374"
+    },
+    {
+      "artist": "A.R. & Machines",
+      "title": "Station 1 - Globus",
+      "services": {
+        "qobuz": "380478172"
+      },
+      "album": "Die Gr\u00fcne Reise",
+      "duration": 177,
+      "isrc": "DEAQ97102011"
+    },
+    {
+      "artist": "Annexus Quam",
+      "title": "Osmose I",
+      "services": {
+        "qobuz": "49214889"
+      },
+      "album": "Osmose",
+      "duration": 255,
+      "isrc": "DEC371300246"
+    },
+    {
+      "artist": "Brainticket",
+      "title": "Brainticket, Pt. 1",
+      "services": {
+        "qobuz": "44338469"
+      },
+      "album": "Cottonwoodhill (2013 Remaster)",
+      "duration": 758,
+      "isrc": "USV351319574"
+    },
+    {
+      "artist": "Br\u00f6selMaschine",
+      "title": "Schmetterling",
+      "services": {
+        "qobuz": "47935988"
+      },
+      "album": "Br\u00f6selmaschine",
+      "duration": 575,
+      "isrc": "DEC371300254"
+    },
+    {
+      "artist": "Can",
+      "title": "Halleluhwah",
+      "services": {
+        "qobuz": "11614759"
+      },
+      "album": "Tago Mago",
+      "duration": 1113,
+      "isrc": "DEX170420604"
+    },
+    {
+      "artist": "Deuter",
+      "title": "Babylon",
+      "services": {
+        "qobuz": "77516430"
+      },
+      "album": "D",
+      "duration": 899,
+      "isrc": "DEA747100068"
+    },
+    {
+      "artist": "Stephen Bishop",
+      "title": "Losing Myself In You",
+      "services": {
+        "qobuz": "501134"
+      },
+      "album": "Bish",
+      "duration": 237,
+      "isrc": "USMC17853814"
+    },
+    {
+      "artist": "Eulenspygel",
+      "title": "Till Eulenspygel",
+      "services": {
+        "qobuz": "46176566"
+      },
+      "album": "Eulenspygel",
+      "duration": 214,
+      "isrc": "DEVU51720279"
+    },
+    {
+      "artist": "Frumpy",
+      "title": "How The Gipsy Was Born",
+      "services": {
+        "qobuz": "2464637"
+      },
+      "album": "Best Of Frumpy",
+      "duration": 530,
+      "isrc": "DEF077102330"
+    },
+    {
+      "artist": "Gila",
+      "title": "Kommunikation",
+      "services": {
+        "qobuz": "327075195"
+      },
+      "album": "Gila",
+      "duration": 776,
+      "isrc": "DEA432500052"
+    },
+    {
+      "artist": "Out of Focus",
+      "title": "See How A White Negro Flies",
+      "services": {
+        "qobuz": "77512770"
+      },
+      "album": "Wake Up",
+      "duration": 354,
+      "isrc": "DEA747000044"
+    },
+    {
+      "artist": "Popol Vuh",
+      "title": "In den g\u00e4rten pharaos",
+      "services": {
+        "qobuz": "324670866"
+      },
+      "album": "In Den G\u00e4rten Pharaos",
+      "duration": 1058,
+      "isrc": "DEA450524170"
+    },
+    {
+      "artist": "Witth\u00fcser & Westrupp",
+      "title": "Liturgie",
+      "services": {
+        "qobuz": "53554028"
+      },
+      "album": "Der Jesuspilz",
+      "duration": 579,
+      "isrc": "DEC831800453"
+    },
+    {
+      "artist": "Agitation Free",
+      "title": "Sahara City",
+      "services": {
+        "qobuz": "95800448"
+      },
+      "album": "Malesch",
+      "duration": 470,
+      "isrc": "DEA450810950"
+    },
+    {
+      "artist": "Ash Ra Tempel",
+      "title": "Reunion",
+      "services": {
+        "qobuz": "98442243"
+      },
+      "album": "Friendship",
+      "duration": 1840,
+      "isrc": "DECS61400001"
+    },
+    {
+      "artist": "Birth Control",
+      "title": "Gamma Ray",
+      "services": {
+        "qobuz": "12764399"
+      },
+      "album": "Hoodoo Man",
+      "duration": 583,
+      "isrc": "DEE867200029"
+    },
+    {
+      "artist": "Dom",
+      "title": "Edge Of Time",
+      "services": {
+        "qobuz": "205290088"
+      },
+      "album": "Edge of Time",
+      "duration": 545,
+      "isrc": "QM4TX2392749"
+    },
+    {
+      "artist": "Gabriel Marghieri",
+      "title": "\u00ab Iblis le d\u00e9sesp\u00e9r\u00e9 \u00bb ?",
+      "services": {
+        "qobuz": "377894119"
+      },
+      "album": "Gabriel Marghieri: Paysages int\u00e9rieurs, Suite 5 \u2013 Improvisations Orgue de la basilique Saint-Bonaventure, Lyon (2025)",
+      "duration": 186,
+      "isrc": "FRW952626902"
+    },
+    {
+      "artist": "Werner Nadolnys Jane",
+      "title": "Daytime",
+      "services": {
+        "qobuz": "18433391"
+      },
+      "album": "The Journey I",
+      "duration": 442,
+      "isrc": "DEBL61300217"
+    },
+    {
+      "artist": "Mythos",
+      "title": "Encyclopedia Terra, Pt. 1",
+      "services": {
+        "qobuz": "48122877"
+      },
+      "album": "Mythos",
+      "duration": 616,
+      "isrc": "DEC371300288"
+    },
+    {
+      "artist": "NEU!",
+      "title": "Hallogallo",
+      "services": {
+        "qobuz": "2043924"
+      },
+      "album": "NEU! Digital Box",
+      "duration": 607,
+      "isrc": "DEA340002063"
+    },
+    {
+      "artist": "DJ Bim",
+      "title": "Man in the Moon",
+      "services": {
+        "qobuz": "278277345"
+      },
+      "album": "DJ Bim - Matchbox",
+      "duration": 531,
+      "isrc": "GBBYB1401521"
+    },
+    {
+      "artist": "Tritonus",
+      "title": "Between The Universes",
+      "services": {
+        "qobuz": "70722567"
+      },
+      "album": "Between The Universes",
+      "duration": 596,
+      "isrc": "DEH611913301"
+    },
+    {
+      "artist": "Wallenstein",
+      "title": "Mother Universe",
+      "services": {
+        "qobuz": "47842287"
+      },
+      "album": "Mother Universe",
+      "duration": 521,
+      "isrc": "DEC371300185"
+    },
+    {
+      "artist": "Between",
+      "title": "And the Waters Opened",
+      "services": {
+        "qobuz": "44450005"
+      },
+      "album": "Soul Jazz Records Presents Deutsche Elektronische Musik 3: Experimental German Rock and Electronic Music 1971-81",
+      "duration": 658,
+      "isrc": "GBBCK1701237"
+    },
+    {
+      "artist": "Faust",
+      "title": "Krautrock",
+      "services": {
+        "qobuz": "4620108"
+      },
+      "album": "Faust IV",
+      "duration": 707,
+      "isrc": "GBAAA7300007"
+    },
+    {
+      "artist": "kollEktiv",
+      "title": "Gaged",
+      "services": {
+        "qobuz": "99458554"
+      },
+      "album": "Kollektiv",
+      "duration": 1198,
+      "isrc": "USHM92045018"
+    },
+    {
+      "artist": "Sergius Golowin",
+      "title": "Der Reigen",
+      "services": {
+        "qobuz": "47952666"
+      },
+      "album": "Lord Krishna von Goloka",
+      "duration": 1017,
+      "isrc": "DEC371300263"
+    },
+    {
+      "artist": "Cosmic Jokers",
+      "title": "Galactic Joke",
+      "services": {
+        "qobuz": "138227921"
+      },
+      "album": "Galactic Joke",
+      "duration": 1359,
+      "isrc": "DEC371300917"
+    },
+    {
+      "artist": "Walter Wegm\u00fcller",
+      "title": "Der Wagen",
+      "services": {
+        "qobuz": "49215049"
+      },
+      "album": "Tarot",
+      "duration": 316,
+      "isrc": "DEC371300375"
+    },
+    {
+      "artist": "Yatha Sidhra",
+      "title": "A Meditation Mass Part 1",
+      "services": {
+        "qobuz": "2472753"
+      },
+      "album": "A Meditation Mass",
+      "duration": 1041,
+      "isrc": "DEN120400573"
+    },
+    {
+      "artist": "Cluster",
+      "title": "Ho Renomo",
+      "services": {
+        "qobuz": "49956592"
+      },
+      "album": "Cluster & Eno",
+      "duration": 311,
+      "isrc": "DELI50800082"
+    },
+    {
+      "artist": "Michael Rother",
+      "title": "Flammende Herzen",
+      "services": {
+        "qobuz": "58256837"
+      },
+      "album": "Flammende Herzen",
+      "duration": 426,
+      "isrc": "DED267700010"
+    },
+    {
+      "artist": "Conrad Schnitzler",
+      "title": "Ballet Statique",
+      "services": {
+        "qobuz": "97754029"
+      },
+      "album": "Con",
+      "duration": 303,
+      "isrc": "DELI52002980"
+    },
+    {
+      "artist": "Brian Eno",
+      "title": "Foreign Affairs",
+      "services": {
+        "qobuz": "49791926"
+      },
+      "album": "After the Heat",
+      "duration": 211,
+      "isrc": "DELI50800092"
+    },
+    {
+      "artist": "Tributos Punk $hile",
+      "title": "Penas (feat. Klaus de Pirque)",
+      "services": {
+        "qobuz": "353412348"
+      },
+      "album": "Baladas Punk Rock",
+      "duration": 174,
+      "isrc": "USL4Q2564058"
+    },
+    {
+      "artist": "Michael Hoenig",
+      "title": "Departure from the Northern Wasteland",
+      "services": {
+        "qobuz": "77514130"
+      },
+      "album": "Departure from the Northern Wasteland",
+      "duration": 1255,
+      "isrc": "DEA748700288"
+    },
+    {
+      "artist": "Roedelius",
+      "title": "Durch die W\u00fcste",
+      "services": {
+        "qobuz": "49792298"
+      },
+      "album": "Durch die W\u00fcste",
+      "duration": 832,
+      "isrc": "DELI50800077"
+    },
+    {
+      "artist": "Riechmann",
+      "title": "Wunderbar",
+      "services": {
+        "qobuz": "49803483"
+      },
+      "album": "Wunderbar",
+      "duration": 341,
+      "isrc": "DELI50800070"
+    },
+    {
+      "artist": "Cala",
+      "title": "Take a toast",
+      "services": {
+        "qobuz": "323302723"
+      },
+      "album": "Pacific coast highway",
+      "duration": 129,
+      "isrc": "QZES92513980"
+    },
+    {
+      "artist": "Holger Czukay",
+      "title": "My Persian Love",
+      "services": {
+        "qobuz": "270205576"
+      },
+      "album": "The Claremont 56 Versions",
+      "duration": 384,
+      "isrc": "GBSWL2400013"
+    },
+    {
+      "artist": "Robert Schroeder",
+      "title": "Galaxie Cygnus",
+      "services": {
+        "qobuz": "63283533"
+      },
+      "album": "Galaxie Cygnus A",
+      "duration": 489,
+      "isrc": "DEA768200602"
+    },
+    {
+      "artist": "Bullfrog",
+      "title": "Feelin' Allright (The Conny Plank Mix)",
+      "services": {
+        "qobuz": "55001292"
+      },
+      "album": "High In Spirits",
+      "duration": 366,
+      "isrc": "DEC830900966"
+    },
+    {
+      "artist": "pasaka be galo",
+      "title": "Tyliais Vakarais",
+      "services": {
+        "qobuz": "272738152"
+      },
+      "album": "Tyliais Vakarais",
+      "duration": 250,
+      "isrc": "TCAIK2431787"
+    },
+    {
+      "artist": "Harald Grosskopf",
+      "title": "Emphasis",
+      "services": {
+        "qobuz": "49826475"
+      },
+      "album": "Synthesist",
+      "duration": 299,
+      "isrc": "DELI51401546"
+    },
+    {
+      "artist": "Moebius",
+      "title": "Rastakraut Pasta",
+      "services": {
+        "qobuz": "49862552"
+      },
+      "album": "Rastakraut Pasta",
+      "duration": 377,
+      "isrc": "DELI51000269"
+    },
+    {
+      "artist": "Rolf Trostel",
+      "title": "Two Faces",
+      "services": {
+        "qobuz": "49854677"
+      },
+      "album": "Two Faces",
+      "duration": 1005,
+      "isrc": "DELI51602011"
+    },
+    {
+      "artist": "Asmus Tietchens",
+      "title": "Sp\u00e4t-Europa",
+      "services": {
+        "qobuz": "49882888"
+      },
+      "album": "Sp\u00e4t-Europa",
+      "duration": 179,
+      "isrc": "DELI51301201"
+    },
+    {
+      "artist": "Jazzrausch Bigband",
+      "title": "Moebius Strip",
+      "services": {
+        "qobuz": "332702489"
+      },
+      "album": "Live at Kleine Olympiahalle",
+      "duration": 287,
+      "isrc": "QM6P42511087"
+    },
+    {
+      "artist": "S.W.",
+      "title": "E2-E4",
+      "services": {
+        "qobuz": "45332053"
+      },
+      "album": "House On The Beach, Vol. 9",
+      "duration": 465,
+      "isrc": "FRX201767979"
+    },
+    {
+      "artist": "The Fall",
+      "title": "I Am Damo Suzuki",
+      "services": {
+        "qobuz": "3147449"
+      },
+      "album": "This Nation's Saving Grace",
+      "duration": 343,
+      "isrc": "GBAZP0900080"
+    },
+    {
+      "artist": "Stereolab",
+      "title": "Jenny Ondioline",
+      "services": {
+        "qobuz": "79187227"
+      },
+      "album": "Transient Random-Noise Bursts With Announcements",
+      "duration": 1087,
+      "isrc": "USEE10000911"
+    },
+    {
+      "artist": "Sc Static",
+      "title": "Mr. E (Dedication to Braetan)",
+      "services": {
+        "qobuz": "303289140"
+      },
+      "album": "Third Person",
+      "duration": 270,
+      "isrc": "TCAIZ2486847"
+    },
+    {
+      "artist": "Primal Scream",
+      "title": "Kowalski",
+      "services": {
+        "qobuz": "4591541"
+      },
+      "album": "Vanishing Point (Expanded Edition)",
+      "duration": 348,
+      "isrc": "GBAAW9700090"
+    },
+    {
+      "artist": "To Rococo Rot",
+      "title": "Telema",
+      "services": {
+        "qobuz": "330620841"
+      },
+      "album": "The Amateur View",
+      "duration": 220,
+      "isrc": "DED629971702"
+    },
+    {
+      "artist": "Mook Boy",
+      "title": "Red Trans Am",
+      "services": {
+        "qobuz": "62762130"
+      },
+      "album": "King Titus III",
+      "duration": 124,
+      "isrc": "USUYG1259875"
+    },
+    {
+      "artist": "Groundation",
+      "title": "Weak Heart",
+      "services": {
+        "qobuz": "103126060"
+      },
+      "album": "Each One Teach One",
+      "duration": 317,
+      "isrc": "USLF11701401"
+    },
+    {
+      "artist": "Stefania Dipierro, Paz Community",
+      "title": "Ankle Injuries",
+      "services": {
+        "qobuz": "54162893"
+      },
+      "album": "Base Terra",
+      "duration": 236,
+      "isrc": "ITK601801799"
+    },
+    {
+      "artist": "LCD Soundsystem",
+      "title": "All My Friends",
+      "services": {
+        "qobuz": "4732883"
+      },
+      "album": "Sound of Silver",
+      "duration": 461,
+      "isrc": "US4GE0600018"
+    },
+    {
+      "artist": "Drums Off Chaos",
+      "title": "Say Hello to the Heat",
+      "services": {
+        "qobuz": "49197728"
+      },
+      "album": "Centre",
+      "duration": 200,
+      "isrc": "DEP641800353"
+    },
+    {
+      "artist": "The Horrors",
+      "title": "Sea Within a Sea",
+      "services": {
+        "qobuz": "2532085"
+      },
+      "album": "Primary Colours",
+      "duration": 478,
+      "isrc": "GBBKS0900056"
+    },
+    {
+      "artist": "Suuns",
+      "title": "2020",
+      "services": {
+        "qobuz": "7884856"
+      },
+      "album": "Images du Futur",
+      "duration": 253,
+      "isrc": "US38W1326002"
+    },
+    {
+      "artist": "Kreidler",
+      "title": "New Earth",
+      "services": {
+        "qobuz": "49832843"
+      },
+      "album": "Tank",
+      "duration": 401,
+      "isrc": "DELI51100460"
+    },
+    {
+      "artist": "Moon Duo",
+      "title": "Sleepwalker",
+      "services": {
+        "qobuz": "243058630"
+      },
+      "album": "Circles",
+      "duration": 295,
+      "isrc": "US5NR1208301"
+    },
+    {
+      "artist": "Beak>",
+      "title": "Wulfstan II",
+      "services": {
+        "qobuz": "364250312"
+      },
+      "album": "Live At Zebulon",
+      "duration": 440,
+      "isrc": "UKFGV2500322"
+    },
+    {
+      "artist": "Camera Shy",
+      "title": "Colors Radiate",
+      "services": {
+        "qobuz": "83004514"
+      },
+      "album": "Camera Shy",
+      "duration": 182,
+      "isrc": "QMCE71300444"
+    },
+    {
+      "artist": "Toy",
+      "title": "Kopter",
+      "services": {
+        "qobuz": "22729369"
+      },
+      "album": "Toy",
+      "duration": 590,
+      "isrc": "GBUM71204176"
+    },
+    {
+      "artist": "F\u00f6llakzoid",
+      "title": "9",
+      "services": {
+        "qobuz": "20882701"
+      },
+      "album": "II",
+      "duration": 391,
+      "isrc": "US5NR1394501"
+    },
+    {
+      "artist": "Nisennenmondai",
+      "title": "#1",
+      "services": {
+        "qobuz": "32184052"
+      },
+      "album": "#N/A",
+      "duration": 602,
+      "isrc": "JPE471500056"
+    },
+    {
+      "artist": "Klaus Johann Grobe",
+      "title": "Discogedanken",
+      "services": {
+        "qobuz": "51207577"
+      },
+      "album": "Du bist so symmetrisch",
+      "duration": 321,
+      "isrc": "QMXQJ1813701"
+    },
+    {
+      "artist": "Motrik",
+      "title": "Circuit Breaker",
+      "services": {
+        "qobuz": "83779502"
+      },
+      "album": "Motrik",
+      "duration": 123,
+      "isrc": "USVJJ1411301"
+    },
+    {
+      "artist": "Cavern Of Anti Matter",
+      "title": "tardis cymbals",
+      "services": {
+        "qobuz": "30199875"
+      },
+      "album": "void beats/invocation trex",
+      "duration": 771,
+      "isrc": "GB5P51500031"
+    },
+    {
+      "artist": "Minami Deutsch",
+      "title": "Tunnel",
+      "services": {
+        "qobuz": "58326170"
+      },
+      "album": "Tunnel/New Pastoral Life",
+      "duration": 348,
+      "isrc": "SE34R1602802"
+    }
+  ]
+}

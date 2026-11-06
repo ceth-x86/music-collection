@@ -1,0 +1,18 @@
+{
+  "name": "Stone Temple Pilots",
+  "services": {
+    "qobuz": "66938749"
+  },
+  "tracks": [
+    {
+      "artist": "Stone Temple Pilots",
+      "title": "Meatplow",
+      "services": {
+        "qobuz": "76016031"
+      },
+      "album": "Purple",
+      "duration": 217,
+      "isrc": "USRH11901664"
+    }
+  ]
+}

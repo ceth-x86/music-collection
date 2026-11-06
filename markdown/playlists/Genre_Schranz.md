@@ -1,0 +1,108 @@
+# Genre: Schranz
+
+Imported genre playlist: Schranz.
+
+Services: `qobuz:66720405` `tidal:cc6ababb-6f70-43a4-b0f5-ea58fa17e489`
+
+## Tracks (100)
+
+- **Chris Liebing** — A - The Real Schranz (Part 1) [The Real Schranz (Part 1)] (7:50) `isrc:DEW569910101` `qobuz:227748868`
+- **Andreas Krämer, Thomas Pogadl** — Porn This Way [RAW TECHNO] (5:42) `isrc:DEBL60778873` `qobuz:87243324`
+- **Sonic Tool Box** — It Works for Free [In the Games of Love] (2:37) `isrc:DK3EA1400102` `qobuz:107190654`
+- **Rose Gray** — Wet & Wild [Louder, Please] (3:02) `isrc:GBENL2404084` `qobuz:356445966`
+- **JETLINER** — The Good Times [Jetliner] (4:13) `isrc:USCGJ0525646` `qobuz:79712054`
+- **Wavewulf** — Blade Running [Tick Tock - Single] (4:17) `isrc:USHM92447575` `qobuz:278790120`
+- **Tropical Rhythm Makers** — Lose Yourself In The Music's Pulse [Sunshine Mix that Will Keep you Moving all Night Long] (4:05) `isrc:PLS922523640` `qobuz:264244189`
+- **Paula Cazenave** — Crickets On Crack [Fuse ON EP] (6:16) `isrc:QMRZS1700471` `qobuz:42311883`
+- **Gaiden** — Point Blank [Walking On Wires] (8:07) `isrc:BEN580100140` `qobuz:104244657`
+- **D.a.v.e. the Drummer** — Hydraulix 11 A [Hydraulix 11 (Remastered)] (8:06) `isrc:GBKQU1639325` `qobuz:111188193`
+- **Le Castle Vania** — Blood Code [Himmel und Hölle (From John Wick: Chapter 4 Original Motion Picture Soundtrack)] (2:56) `isrc:USLS52338401` `qobuz:201143760`
+- **Die Vögel** — Fratzengulasch [Fratzengulasch] (8:04) `isrc:DEMM11100044` `qobuz:305491189`
+- **Sanja Kong** — You Know What I'm Saying [You Know What I'm Saying] (5:15) `isrc:QZNJX2596475` `qobuz:346999685`
+- **The Olivia Tremor Control** — A Place We Have Been To [Black Foliage: Animation Music] (2:24) `isrc:USG590610038` `qobuz:20774202`
+- **Louis Jordan** — If You're So Smart, How Come You Ain't Rich [Bob Dylan Presents: Radio Radio, Theme Time Radio Hour, Vol. 2] (2:57) `isrc:GB2R51202422` `qobuz:73891292`
+- **Alex K. Katz** — Seek & Destroy [German Schranz & Techno Vol.1] (7:07) `isrc:DEK020820007` `qobuz:3100623`
+- **Tim Bendzko** — Schall & Rauch [Wenn Worte meine Sprache wären] (3:05) `isrc:DEE861100050` `qobuz:5132756`
+- **Jantra** — Jaborouna Jabor [Synthesized Sudan: Astro-Nubian Electronic Jaglara Dance Sounds from the Fashaga Underground] (5:14) `isrc:QZ4GJ2300010` `qobuz:203549927`
+- **Herbert von Karajan** — Faust: Dance de Pryné [Offenbach: Gaité Parisienne / Rossini: William Tell Ballet Music / Gounod: Faust Ballet Music] (2:24) `isrc:DK5C50141192` `qobuz:96193611`
+- **Lorde** — Shapeshifter [Virgin] (4:17) `isrc:NZUM72500022` `qobuz:343367692`
+- **Boris Giltburg** — Paraphrase de concert sur Rigoletto, S. 434 [Liszt: Piano Works] (7:53) `isrc:HKI191828501` `qobuz:306509112`
+- **Lykke Li** — No Rest for the Wicked [I Never Learn (Hi-Res Version)] (3:42) `isrc:SE22U1400203` `qobuz:15921557`
+- **Moderat** — A New Error [Moderat] (6:07) `isrc:DEAE60900757` `qobuz:49034564`
+- **Arkus P.** — Intromatic & Weidenhart [Weidenhart EP] (11:13) `isrc:NLCK40902406` `qobuz:57256673`
+- **Ward 21** — Ganja Smoke [Mentally Disturbed] (3:22) `isrc:GBBZV0101340` `qobuz:34353666`
+- **Elmo** — Elmo's Song [Sesame Street: Platinum All-Time Favorites] (4:13) `isrc:USSM19500685` `qobuz:51508071`
+- **Felix Mendelssohn** — Mendelssohn, Violin Concerto in e-moll, Op.64: Part 3 [Mendelssohn and Paganini: Alexandru Tomescu in Great Hall of Moscow Conservatory] (6:43) `isrc:RURMS0710024` `qobuz:75268042`
+- **PA69** — Der allerletzte Mann [XXL] (2:51) `isrc:DEKF22501198` `qobuz:365339069`
+- **sin with sebastian** — Shut up (and Sleep with Me) [Fuck You (I Am in Love)] (3:39) `isrc:DEZ650710322` `qobuz:48347430`
+- **Mike Oldfield** — The Source of Secrets [Tubular Bells III] (5:33) `isrc:GBAHT9802912` `qobuz:2578544`
+- **PETDuo** — Véio 2011 [Véio 2011 – The Remixes] (7:28) `isrc:NLCK41012563` `qobuz:57230342`
+- **Rammstein** — Du riechst so gut [Made In Germany 1995 - 2011] (4:32) `isrc:DEUM71103422` `qobuz:4531065`
+- **Mario Ranieri** — Kill Tha Popstars [Carbombs, Nukes & Eierkuchen] (6:02) `isrc:NLCK40902371` `qobuz:57256641`
+- **Brendan Angelides** — Nothing as It Seems [Assassin's Creed Mirage (Original Game Soundtrack)] (1:53) `isrc:CA2BN2303340` `qobuz:226848075`
+- **Das Aus Der Jugend** — Eure Armut kotzt mich an [für immer niemals sein wie ihr] (1:50) `isrc:DEXU32500277` `qobuz:313301227`
+- **Bedouin Soundclash** — Clock Work [Mass] (3:23) `isrc:GBCLQ1900079` `qobuz:65878631`
+- **Robert Natus** — All over the Night [All over the Night E.P.] (5:08) `isrc:DEP780400127` `qobuz:48156886`
+- **Kendra Morris** — Keep Walking [Nine Lives] (3:45) `isrc:QZDMQ2050218` `qobuz:141109768`
+- **The Notorious B.I.G.** — Nasty Boy [Life After Death] (5:33) `isrc:USAT21402741` `qobuz:18916877`
+- **Muddy Waters** — I Can't Be Satisfied [Hard Again] (3:28) `isrc:USSM17600804` `qobuz:161271`
+- **Basscontroll** — XTC M@therf@cker [Hard Techno In Our Veins Vol. 1] (6:03) `isrc:CA5KR2642892` `qobuz:402029043`
+- **Malevolent Creation** — The Will to Kill [The Will to Kill] (3:58) `isrc:USY251031344` `qobuz:120254995`
+- **DJ Jordan** — Healing Transformation [Astral] (6:44) `isrc:DEAR42193809` `qobuz:129576001`
+- **Malaise Vagal** — marcel et denise [La Joconde] (3:13) `isrc:CH6542643807` `qobuz:400934604`
+- **Christian Fischer** — Miss You [Deckmonsters] (8:18) `isrc:DEZ650604405` `qobuz:49080635`
+- **Kin3tic** — Arcane [Dark Goa Psy Trance 2018 100 Hits DJ Mix] (6:39) `isrc:TCADT1877644` `qobuz:102751139`
+- **Linda Perry** — Now That She's Gone [Let It Die Here] (4:40) `isrc:USKRS2685814` `qobuz:379182549`
+- **DJ Bam Bam** — Base Bangin' [Jack's Got A New Groove EP] (6:51) `isrc:NLCK41018035` `qobuz:57197853`
+- **Zmc aka the bazz killer** — My goals (keep on pushing) (feat. Bless k na ba dee) [My goals (keep on pushing) (feat. Bless k na ba dee)] (2:56) `isrc:GX9RC2469573` `qobuz:303975249`
+- **Three Days Grace** — I Am Machine [Human] (3:21) `isrc:USRC11402105` `qobuz:23230644`
+- **Daft Punk** — Prime Time of Your Life / Brainwasher / Rollin' & Scratchin' / Alive [Alive 2007] (10:22) `isrc:GBDUW0700010` `qobuz:1758317`
+- **Strong Arm Steady** — Best Of Times (Instrumental) [DJ-Kicks (DJ Koze)] (4:07) `isrc:DEG931591364` `qobuz:24987073`
+- **Dj Ocram** — Commando Warface! [The Golden X] (7:07) `isrc:ATR981137049` `qobuz:103816967`
+- **Sarah Connor** — Kommst Du mit ihr [Kommst Du mit ihr] (3:00) `isrc:DEUM71600699` `qobuz:30507925`
+- **Alex TB** — Keep Calm and Resist [Spread The Message] (5:45) `isrc:NLCK42212859` `qobuz:151784382`
+- **Glenn Wilson** — M1 [H8] (5:15) `isrc:NLCK41051913` `qobuz:57388138`
+- **Bas Mooy** — Nearby SIlent Horses [Others Kill Calls And Future EP] (6:00) `isrc:NLCK41027776` `qobuz:57135869`
+- **Frank Ocean** — Pink + White [Blonde] (3:04) `isrc:QZ5C81600003` `qobuz:168844797`
+- **Andreas Dorau** — Das Telefon sagt du [Neu!] (3:52) `isrc:DED579402940` `qobuz:284623698`
+- **blackbear** — alone in a room full of people [misery lake] (2:34) `isrc:USQX92103033` `qobuz:128466811`
+- **House Of Pain** — House of Pain Anthem [House of Pain (Fine Malt Lyrics)] (2:35) `isrc:USTB10300270` `qobuz:169136894`
+- **Adam Beyer** — Swedish Silver [Swedish Silver] (5:39) `isrc:GBYNV1000378` `qobuz:208177200`
+- **Eric Sneo** — Global Warning [Time Flies] (6:28) `isrc:DELI90800022` `qobuz:114459049`
+- **Fabio Zeppetella** — Mr. Mc Coy [Jazz Masters] (5:38) `isrc:ITC932315101` `qobuz:237669625`
+- **DJ Jock** — Greenfields [Monophon, Vol. 20] (5:51) `isrc:DEW872006285` `qobuz:100475705`
+- **David Bowie** — Let's Dance [Let's Dance] (7:37) `isrc:USJT11700490` `qobuz:57660217`
+- **Irma Thomas** — I'm Gonna Cry Til' My Tears Run Dry [Irma Thomas Collection: 1961-1966] (2:26) `isrc:USCA26500139` `qobuz:95232835`
+- **DJ Ogi** — Aob [Back to the Old School Vol. Nr2] (5:12) `isrc:DEAR42163232` `qobuz:136424095`
+- **Mucco** — Läufer der kein Englisch spricht [Läufer der kein Englisch spricht] (2:16) `isrc:DECE72504158` `qobuz:376941161`
+- **Marika Rossa** — Run For It [100% Techno, Vol. 3: Distinct Quality] (7:08) `isrc:BGA771400265` `qobuz:107023132`
+- **S.3000** — Dumm & Bass [Die Sonnenbrillenträger] (2:53) `isrc:DEZC62590724` `qobuz:360267230`
+- **K.Matt** — Quiet Hours in the City [Quiet Hours in the City] (2:58) `isrc:AEA3A2257083` `qobuz:302088741`
+- **Phil Pratt** — Strange Things  – Ronnie Davis [The War is On Dub Style] (6:22) `isrc:US2391809910` `qobuz:48070509`
+- **Webber/Morris Big Band** — Spur 7: Metamorphosis (feat. Adam Hopkins, Jay Rattman & Dustin Carlson) [Unseparate] (9:42) `isrc:QZDST2500077` `qobuz:347210849`
+- **Krischmann & Klingenberg** — Perihel [Perihel] (5:58) `isrc:GBLV62120063` `qobuz:139711312`
+- **DJ Scratch Dee Mix Tape** — I Cant Wait to the Weekend [I Cant Wait to the Weekend] (2:59) `isrc:QZZ7Q2573851` `qobuz:355421914`
+- **Anoza Natalie Anderson** — Bodies jumping [Bodies jumping] (2:58) `isrc:QT5M62688468` `qobuz:401640050`
+- **Shaboozey** — Drink Don't Need No Mix [Where I've Been, Isn't Where I'm Going] (2:13) `isrc:USUYG1541257` `qobuz:269397477`
+- **Olivia Dean** — The Hardest Part [The Hardest Part] (3:17) `isrc:GBUM72305207` `qobuz:214914431`
+- **Sturgill Simpson** — Call to Arms [A Sailor's Guide to Earth] (5:30) `isrc:USAT21600556` `qobuz:30560941`
+- **Rob Acid** — Platinum [Acid Chronicles] (5:45) `isrc:DEPI82210657` `qobuz:188885747`
+- **Nat King Cole** — Who's Next In Line? [Dear Lonely Hearts] (2:23) `isrc:USCA20904135` `qobuz:34218416`
+- **Faithless** — Insomnia [Passing the Baton] (5:56) `isrc:GB7QY1100350` `qobuz:37272139`
+- **Acid Mothers Temple** — Star Child Vs. Third Bad Stone [Absolutely Freak Out] (3:48) `isrc:GBSUV0104201` `qobuz:49363234`
+- **Van Halen** — Jump [1984] (4:01) `isrc:USWB11503569` `qobuz:23448603`
+- **Satyricon** — The Dawn of a New Age [Nemesis Divina] (7:27) `isrc:NOKBF9612010` `qobuz:31941442`
+- **Quicksand** — Fazer [Slip] (3:13) `isrc:USUR10080043` `qobuz:42686251`
+- **Bassotronics** — Bass Switch [Window Bustin' Bass] (3:10) `isrc:QMDA62292680` `qobuz:181061615`
+- **The Sinners** — Rocket Of Love [Turn it up!] (4:57) `isrc:SELAA9101312` `qobuz:8611120`
+- **Sven Wittekind** — Invidia [Invidia (The Remixes)] (6:16) `isrc:DEG840700970` `qobuz:96507095`
+- **Grover** — Answers [Intensify] (4:50) `isrc:USHM20950710` `qobuz:77202023`
+- **The Ballistic Brothers** — Blacker [The Ballistic Brothers Vs. The Eccentric Afros - Volume 1] (4:22) `isrc:GBHRP1997040` `qobuz:243212312`
+- **Mike Oldfield** — Hergest Ridge: Part One [Hergest Ridge] (21:32) `isrc:GBUM72500419` `qobuz:342320483`
+- **Julius Asal** — Asal: Cascade I [SIENA TAPES] (3:07) `isrc:DEN962530602` `qobuz:328245381`
+- **The Marvelettes** — Please Mr. Postman [Please Mr. Postman] (2:27) `isrc:USMO16100266` `qobuz:16173301`
+- **Olaf Apholz** — Stimulanz Gothkopf [Stimulanz Chromkopf] (4:43) `isrc:ATR981363056` `qobuz:416713104`
+- **Mind Reset 432** — Pink noise [Pink noise] (5:00) `isrc:FR96X2009352` `qobuz:94685756`
+- **Mama's Broke** — Revulsion (Black Bile) [Count the Wicked] (3:20) `isrc:USHM91738246` `qobuz:82816167`
+- **The Hollies** — Set Me Free (Mono) [1997 Remaster] [In The Hollies Style] (2:28) `isrc:GBAYE9702852` `qobuz:27223683`
+- **A-Ha** — Take on Me (2015 Remaster) [Hunting High and Low] (3:48) `isrc:USWB11506571` `qobuz:26997279`

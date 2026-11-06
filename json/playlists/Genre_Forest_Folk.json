@@ -1,0 +1,950 @@
+{
+  "name": "Genre: Forest Folk",
+  "services": {
+    "qobuz": "66710020",
+    "tidal": "e0372a87-1871-4b84-be22-e7a594edd829"
+  },
+  "description": "Imported genre playlist: Forest Folk.",
+  "tracks": [
+    {
+      "artist": "Runenberg",
+      "title": "Abend",
+      "services": {
+        "qobuz": "195082742"
+      },
+      "album": "Neue Deutsche Folksmusik - Vol. I",
+      "duration": 360,
+      "isrc": "DEPI82300935"
+    },
+    {
+      "artist": "Tabula Rasa",
+      "title": "Der Wildmensch",
+      "services": {
+        "qobuz": "206153311"
+      },
+      "album": "...und ihre f\u00fcrchterlichen Ges\u00e4nge",
+      "duration": 280,
+      "isrc": "DENI12100418"
+    },
+    {
+      "artist": "Justin Goodlow",
+      "title": "Flamme",
+      "services": {
+        "qobuz": "195082746"
+      },
+      "album": "Neue Deutsche Folksmusik - Vol. I",
+      "duration": 226,
+      "isrc": "DEPI82300937"
+    },
+    {
+      "artist": "Taifl",
+      "title": "Wasserweiblein",
+      "services": {
+        "qobuz": "195082748"
+      },
+      "album": "Neue Deutsche Folksmusik - Vol. I",
+      "duration": 223,
+      "isrc": "DEPI82300939"
+    },
+    {
+      "artist": "Solwein",
+      "title": "Meine Sonnenwend",
+      "services": {
+        "qobuz": "195082749"
+      },
+      "album": "Neue Deutsche Folksmusik - Vol. I",
+      "duration": 201,
+      "isrc": "DEPI81902837"
+    },
+    {
+      "artist": "Apoptose",
+      "title": "Berkanas Traum",
+      "services": {
+        "qobuz": "150392918"
+      },
+      "album": "Bannwald",
+      "duration": 493,
+      "isrc": "QM6P42053181"
+    },
+    {
+      "artist": "Nebelgeyst",
+      "title": "Wilder Bund",
+      "services": {
+        "qobuz": "214697874"
+      },
+      "album": "Heimatweisen",
+      "duration": 354,
+      "isrc": "DEPI82300940"
+    },
+    {
+      "artist": "Arkanium",
+      "title": "Die Stille Nacht",
+      "services": {
+        "qobuz": "195082752"
+      },
+      "album": "Neue Deutsche Folksmusik - Vol. I",
+      "duration": 218,
+      "isrc": "DEPI82300941"
+    },
+    {
+      "artist": "Stein",
+      "title": "Spuren",
+      "services": {
+        "qobuz": "195082753"
+      },
+      "album": "Neue Deutsche Folksmusik - Vol. I",
+      "duration": 337,
+      "isrc": "DEPI82300942"
+    },
+    {
+      "artist": "Ratat\u00f6skr",
+      "title": "Waldmeister",
+      "services": {
+        "qobuz": "195082754"
+      },
+      "album": "Neue Deutsche Folksmusik - Vol. I",
+      "duration": 279,
+      "isrc": "DEPI82300943"
+    },
+    {
+      "artist": "Art Abscons",
+      "title": "Winterweihe",
+      "services": {
+        "qobuz": "195082757"
+      },
+      "album": "Neue Deutsche Folksmusik - Vol. I",
+      "duration": 150,
+      "isrc": "DEPI82300946"
+    },
+    {
+      "artist": "Nachtj\u00e4ger",
+      "title": "N\u00e4chtlich jagt ein wildes Heer",
+      "services": {
+        "qobuz": "195082758"
+      },
+      "album": "Neue Deutsche Folksmusik - Vol. I",
+      "duration": 223,
+      "isrc": "DEPI82300947"
+    },
+    {
+      "artist": "Urgeist",
+      "title": "Karster Forst",
+      "services": {
+        "qobuz": "195082760"
+      },
+      "album": "Neue Deutsche Folksmusik - Vol. I",
+      "duration": 369,
+      "isrc": "DEPI82300949"
+    },
+    {
+      "artist": "Nebelung",
+      "title": "Mittwinter",
+      "services": {
+        "qobuz": "63241294"
+      },
+      "album": "Palingenesis",
+      "duration": 363,
+      "isrc": "USME31304151"
+    },
+    {
+      "artist": "Aeldergeyst",
+      "title": "Der G\u00fcbich",
+      "services": {
+        "qobuz": "318501898"
+      },
+      "album": "Werde",
+      "duration": 269,
+      "isrc": "DEPI82300950"
+    },
+    {
+      "artist": "Ebriach",
+      "title": "Der Wolf",
+      "services": {
+        "qobuz": "193794863"
+      },
+      "album": "Willensst\u00e4rke",
+      "duration": 228,
+      "isrc": "DEPI82300951"
+    },
+    {
+      "artist": "Nachtreich",
+      "title": "Schneeverwehung",
+      "services": {
+        "qobuz": "195082766"
+      },
+      "album": "Neue Deutsche Folksmusik - Vol. I",
+      "duration": 255,
+      "isrc": "DEPI82300954"
+    },
+    {
+      "artist": "Quellenthal",
+      "title": "Im Walde",
+      "services": {
+        "qobuz": "195082767"
+      },
+      "album": "Neue Deutsche Folksmusik - Vol. I",
+      "duration": 233,
+      "isrc": "DEPI82300955"
+    },
+    {
+      "artist": "Kaelte",
+      "title": "Dunkelgr\u00fcnes Moos",
+      "services": {
+        "qobuz": "249860095"
+      },
+      "album": "Neue Deutsche Folksmusik: Vol. II",
+      "duration": 325,
+      "isrc": "DEPI82402027"
+    },
+    {
+      "artist": "Vinsta",
+      "title": "Da Woid und de Vadommnis",
+      "services": {
+        "qobuz": "249860096"
+      },
+      "album": "Neue Deutsche Folksmusik: Vol. II",
+      "duration": 205,
+      "isrc": "DEPI82402028"
+    },
+    {
+      "artist": "Seelenthron",
+      "title": "Am Morgen",
+      "services": {
+        "qobuz": "249860097"
+      },
+      "album": "Neue Deutsche Folksmusik: Vol. II",
+      "duration": 272,
+      "isrc": "DEPI82402029"
+    },
+    {
+      "artist": "Munk",
+      "title": "Schatzhauser",
+      "services": {
+        "qobuz": "267261007"
+      },
+      "album": "Das kalte Herz",
+      "duration": 157,
+      "isrc": "DEPI82402513"
+    },
+    {
+      "artist": "Elli Riehl",
+      "title": "Die Lichtung",
+      "services": {
+        "qobuz": "193765717"
+      },
+      "album": "Die Kornmuhme",
+      "duration": 128,
+      "isrc": "DEPI82222761"
+    },
+    {
+      "artist": "Irmeynsul",
+      "title": "Geistermette",
+      "services": {
+        "qobuz": "249860101"
+      },
+      "album": "Neue Deutsche Folksmusik: Vol. II",
+      "duration": 215,
+      "isrc": "DEPI82402031"
+    },
+    {
+      "artist": "Klang Schreit Nichts",
+      "title": "Auferstehungsschmerz",
+      "services": {
+        "qobuz": "263202170"
+      },
+      "album": "Auferstehungsschmerz",
+      "duration": 362,
+      "isrc": "DEPI82402032"
+    },
+    {
+      "artist": "Trist",
+      "title": "Der Froschk\u00f6nig",
+      "services": {
+        "qobuz": "249860103"
+      },
+      "album": "Neue Deutsche Folksmusik: Vol. II",
+      "duration": 393,
+      "isrc": "DEPI82402033"
+    },
+    {
+      "artist": "Todesreigen",
+      "title": "Der Gewitterabend",
+      "services": {
+        "qobuz": "249860104"
+      },
+      "album": "Neue Deutsche Folksmusik: Vol. II",
+      "duration": 313,
+      "isrc": "DEPI82402034"
+    },
+    {
+      "artist": "Kohlrabenschwarz",
+      "title": "Donnerwetter",
+      "services": {
+        "qobuz": "252457247"
+      },
+      "album": "Im finstren Tal",
+      "duration": 291,
+      "isrc": "DEPI82321662"
+    },
+    {
+      "artist": "Hel",
+      "title": "Zwielicht, Nebel, Dunkelheit",
+      "services": {
+        "qobuz": "249860106"
+      },
+      "album": "Neue Deutsche Folksmusik: Vol. II",
+      "duration": 287,
+      "isrc": "SEYOK0993775"
+    },
+    {
+      "artist": "Drudenstein",
+      "title": "Rhedyn",
+      "services": {
+        "qobuz": "232851076"
+      },
+      "album": "Fragmente: Hiraeth",
+      "duration": 261,
+      "isrc": "DEPI82321793"
+    },
+    {
+      "artist": "Throndt",
+      "title": "Uns zum Geleit",
+      "services": {
+        "qobuz": "249860108"
+      },
+      "album": "Neue Deutsche Folksmusik: Vol. II",
+      "duration": 232,
+      "isrc": "DEPI82402035"
+    },
+    {
+      "artist": "Solstorm",
+      "title": "Das Lied des Nordwindes",
+      "services": {
+        "qobuz": "249860112"
+      },
+      "album": "Neue Deutsche Folksmusik: Vol. II",
+      "duration": 391,
+      "isrc": "NODIG1301020"
+    },
+    {
+      "artist": "Cineastre",
+      "title": "Die Wand",
+      "services": {
+        "qobuz": "249860113"
+      },
+      "album": "Neue Deutsche Folksmusik: Vol. II",
+      "duration": 295,
+      "isrc": "DEPI82402038"
+    },
+    {
+      "artist": "Wolfhetan",
+      "title": "Vor uns das Feuer",
+      "services": {
+        "qobuz": "233192476"
+      },
+      "album": "Vor uns das Feuer, \u00dcber uns der Himmel",
+      "duration": 300,
+      "isrc": "DEPI82305875"
+    },
+    {
+      "artist": "Elmsfeuer",
+      "title": "Feuergeister",
+      "services": {
+        "qobuz": "249860115"
+      },
+      "album": "Neue Deutsche Folksmusik: Vol. II",
+      "duration": 210,
+      "isrc": "DEPI82402039"
+    },
+    {
+      "artist": "Nordgeschwister",
+      "title": "Im Dahlienfeuer",
+      "services": {
+        "qobuz": "249860117"
+      },
+      "album": "Neue Deutsche Folksmusik: Vol. II",
+      "duration": 247,
+      "isrc": "DEPI82402040"
+    },
+    {
+      "artist": "Bald Anders",
+      "title": "Jagdnacht",
+      "services": {
+        "qobuz": "249860118"
+      },
+      "album": "Neue Deutsche Folksmusik: Vol. II",
+      "duration": 363,
+      "isrc": "QZNW72389686"
+    },
+    {
+      "artist": "Heimkehr",
+      "title": "Wanderer",
+      "services": {
+        "qobuz": "249860119"
+      },
+      "album": "Neue Deutsche Folksmusik: Vol. II",
+      "duration": 214,
+      "isrc": "DEPI82402041"
+    },
+    {
+      "artist": "Wilder Mann",
+      "title": "Almh\u00fctte II",
+      "services": {
+        "qobuz": "220801334"
+      },
+      "album": "Almh\u00fctte",
+      "duration": 104,
+      "isrc": "DEPI82313100"
+    },
+    {
+      "artist": "Markus Stock",
+      "title": "Morgen im Moor",
+      "services": {
+        "qobuz": "249860123"
+      },
+      "album": "Neue Deutsche Folksmusik: Vol. II",
+      "duration": 122,
+      "isrc": "DEPI82402043"
+    },
+    {
+      "artist": "Osning",
+      "title": "Vennengeister",
+      "services": {
+        "qobuz": "249860125"
+      },
+      "album": "Neue Deutsche Folksmusik: Vol. II",
+      "duration": 185,
+      "isrc": "DEPI82402044"
+    },
+    {
+      "artist": "Fiver",
+      "title": "Holzofenkindheit",
+      "services": {
+        "qobuz": "249860128"
+      },
+      "album": "Neue Deutsche Folksmusik: Vol. II",
+      "duration": 271,
+      "isrc": "DEPI82402046"
+    },
+    {
+      "artist": "Vacuitas",
+      "title": "VII",
+      "services": {
+        "qobuz": "249860131"
+      },
+      "album": "Neue Deutsche Folksmusik: Vol. II",
+      "duration": 241,
+      "isrc": "DEPI82301975"
+    },
+    {
+      "artist": "Seremoni",
+      "title": "Unter den Birken",
+      "services": {
+        "qobuz": "250346030"
+      },
+      "album": "Unter den Birken",
+      "duration": 367,
+      "isrc": "DEPI82402049"
+    },
+    {
+      "artist": "ST\u00c4AD",
+      "title": "Totenlied",
+      "services": {
+        "qobuz": "249860135"
+      },
+      "album": "Neue Deutsche Folksmusik: Vol. II",
+      "duration": 337,
+      "isrc": "DEPI82313048"
+    },
+    {
+      "artist": "Na'Tari'Kai'Lum",
+      "title": "Dark Light_I AM The Stillness_A Hymn of The Void Born Body",
+      "services": {
+        "qobuz": "379299346"
+      },
+      "album": "Dark Light_I AM The Stillness_A Hymn of The Void Born Body",
+      "duration": 444,
+      "isrc": "QT6FY2539231"
+    },
+    {
+      "artist": "Bragiswahn",
+      "title": "Ruf der Bastei",
+      "services": {
+        "qobuz": "418646696"
+      },
+      "album": "Die Sense",
+      "duration": 138,
+      "isrc": "DEPI82502301"
+    },
+    {
+      "artist": "Prag 83",
+      "title": "Nachts",
+      "services": {
+        "qobuz": "315542054"
+      },
+      "album": "Neue Deutsche Folksmusik - Vol. III",
+      "duration": 202,
+      "isrc": "SEVVF1600402"
+    },
+    {
+      "artist": "Johannes Stankowski",
+      "title": "Ganz f\u00fcr mich allein",
+      "services": {
+        "qobuz": "259407888"
+      },
+      "album": "Tausend sch\u00f6ne Dinge",
+      "duration": 146,
+      "isrc": "DESS81900005"
+    },
+    {
+      "artist": "Kyvon",
+      "title": "Gottwinter II",
+      "services": {
+        "qobuz": "291119691"
+      },
+      "album": "Depths of Ardae",
+      "duration": 183,
+      "isrc": "DEPI82445811"
+    },
+    {
+      "artist": "Battle Dagorath",
+      "title": "D\u00e4mmerstunde (Einklang)",
+      "services": {
+        "qobuz": "29907400"
+      },
+      "album": "Eternal throne",
+      "duration": 98,
+      "isrc": "DES560897301"
+    },
+    {
+      "artist": "The Last Dinner Party",
+      "title": "Second Best",
+      "services": {
+        "qobuz": "361980294"
+      },
+      "album": "From The Pyre",
+      "duration": 211,
+      "isrc": "GBUM72503871"
+    },
+    {
+      "artist": "D\u00e4mmerfarben",
+      "title": "Wintergang",
+      "services": {
+        "qobuz": "315542065"
+      },
+      "album": "Neue Deutsche Folksmusik - Vol. III",
+      "duration": 325,
+      "isrc": "DEPI82502306"
+    },
+    {
+      "artist": "Mother Havoc",
+      "title": "Wir rufen deine W\u00f6lfe",
+      "services": {
+        "qobuz": "316145977"
+      },
+      "album": "Wir rufen deine W\u00f6lfe",
+      "duration": 139,
+      "isrc": "DEPI82502307"
+    },
+    {
+      "artist": "Das Blut der Sonne",
+      "title": "Im Abendrot",
+      "services": {
+        "qobuz": "418548685"
+      },
+      "album": "Ehemals",
+      "duration": 170,
+      "isrc": "DE1QW2627222"
+    },
+    {
+      "artist": "Juris Vizbulis",
+      "title": "Nav V\u0101rdam Vietas",
+      "services": {
+        "qobuz": "428734739"
+      },
+      "album": "Gaisa Pilis",
+      "duration": 293,
+      "isrc": "CBF8B2524273"
+    },
+    {
+      "artist": "Tonk\u00fcnstler-Orchester",
+      "title": "Dunkelwelt Untersberg, 7. Sinfonie: I. Mittagsscharte: \u201eDer Flug der V\u00f6gel t\u00f6nt von alten Sagen\u201c",
+      "services": {
+        "qobuz": "49600989"
+      },
+      "album": "Schneider: Erdgebunden",
+      "duration": 454,
+      "isrc": "DEC441508989"
+    },
+    {
+      "artist": "ConcernedApe",
+      "title": "Summer (Nature's Crescendo)",
+      "services": {
+        "qobuz": "125780345"
+      },
+      "album": "Stardew Valley (Original Game Soundtrack)",
+      "duration": 208,
+      "isrc": "TCACS1600074"
+    },
+    {
+      "artist": "Hvile I Kaos",
+      "title": "Wintertanz",
+      "services": {
+        "qobuz": "262128247"
+      },
+      "album": "Hvile I Kaos",
+      "duration": 283,
+      "isrc": "DEPI82411879"
+    },
+    {
+      "artist": "Waldeinsamkeit",
+      "title": "Waldeinsamkeit",
+      "services": {
+        "qobuz": "380683318"
+      },
+      "album": "Waldeinsamkeit",
+      "duration": 520,
+      "isrc": "QZFYY2646140"
+    },
+    {
+      "artist": "Arctic Monkeys",
+      "title": "Do I Wanna Know?",
+      "services": {
+        "qobuz": "11181334"
+      },
+      "album": "AM",
+      "duration": 272,
+      "isrc": "GBCEL1300362"
+    },
+    {
+      "artist": "Rammstein",
+      "title": "Armee der Tristen",
+      "services": {
+        "qobuz": "155749714"
+      },
+      "album": "Zeit",
+      "duration": 205,
+      "isrc": "DEUM72118402"
+    },
+    {
+      "artist": "Utopiae",
+      "title": "Wolkengrau",
+      "services": {
+        "qobuz": "93440755"
+      },
+      "album": "No. 1",
+      "duration": 280,
+      "isrc": "CH6542048731"
+    },
+    {
+      "artist": "Joe Hisaishi",
+      "title": "Merry-Go-Round of Life",
+      "services": {
+        "qobuz": "216672962"
+      },
+      "album": "A Symphonic Celebration - Music from the Studio Ghibli Films of Hayao Miyazaki",
+      "duration": 169,
+      "isrc": "JPPO02204169"
+    },
+    {
+      "artist": "Philipp Poisel",
+      "title": "Mit jedem deiner Fehler",
+      "services": {
+        "qobuz": "135401617"
+      },
+      "album": "Wo f\u00e4ngt dein Himmel an?",
+      "duration": 259,
+      "isrc": "GBLAZ0500206"
+    },
+    {
+      "artist": "Markus Orths",
+      "title": "Kapitel 4",
+      "services": {
+        "qobuz": "429677564"
+      },
+      "album": "Die Hackebarts r\u00e4umen ab - Crazy Family, Teil 1",
+      "duration": 190,
+      "isrc": "DEXO22458733"
+    },
+    {
+      "artist": "Ivy Chalice",
+      "title": "Der Wald, Die Spiegelwelt",
+      "services": {
+        "qobuz": "304961319"
+      },
+      "album": "Noctifer",
+      "duration": 900,
+      "isrc": "DE1O62475523"
+    },
+    {
+      "artist": "Dennis Korn",
+      "title": "Elegie Nr. 4: \"Abschied von Paris\"",
+      "services": {
+        "qobuz": "315625452"
+      },
+      "album": "Elegie Nr. 4: \"Abschied von Paris\"",
+      "duration": 147,
+      "isrc": "QMDA62455317"
+    },
+    {
+      "artist": "Herzsklave",
+      "title": "Gedicht",
+      "services": {
+        "qobuz": "317884972"
+      },
+      "album": "Anti-Romantic Black Metal",
+      "duration": 199,
+      "isrc": "DEPI82502327"
+    },
+    {
+      "artist": "Santiano",
+      "title": "Johnny Boy",
+      "services": {
+        "qobuz": "27570431"
+      },
+      "album": "Von Liebe, Tod und Freiheit",
+      "duration": 212,
+      "isrc": "DEUM71501255"
+    },
+    {
+      "artist": "Vargnatt",
+      "title": "Karge Welten",
+      "services": {
+        "qobuz": "253431406"
+      },
+      "album": "Nur ein Traum",
+      "duration": 187,
+      "isrc": "DEPI82404460"
+    },
+    {
+      "artist": "Peter Breiner",
+      "title": "Schlafe, mein Prinzchen, schlaf ein \"Wiegenlied\" (Arr. P. Breiner for Piano)",
+      "services": {
+        "qobuz": "306393140"
+      },
+      "album": "Breiner: Mornings, Evenings and Late Nights \u2013 Calm Romantic Piano Music, Vol. 3",
+      "duration": 241,
+      "isrc": "HKI192208115"
+    },
+    {
+      "artist": "Element Of Crime",
+      "title": "Wieder ein Tag",
+      "services": {
+        "qobuz": "633918"
+      },
+      "album": "Damals hinterm Mond",
+      "duration": 356,
+      "isrc": "DEF069105510"
+    },
+    {
+      "artist": "Korte",
+      "title": "M\u00e4rchenwald",
+      "services": {
+        "qobuz": "36822815"
+      },
+      "album": "Entspannungsmusik f\u00fcr Kinder",
+      "duration": 1832,
+      "isrc": "DEA431600606"
+    },
+    {
+      "artist": "Festung Nebelburg",
+      "title": "Zwischen den Jahren",
+      "services": {
+        "qobuz": "320804501"
+      },
+      "album": "Zwischen den Jahren",
+      "duration": 309,
+      "isrc": "QZFZ72505562"
+    },
+    {
+      "artist": "Liquid Stranger",
+      "title": "Abendruh",
+      "services": {
+        "qobuz": "41535461"
+      },
+      "album": "Hypnotische Ambientmusik - 50 Wellness Musik, Meditationsmusik und Entspannungsmusik f\u00fcr Zen, Spa, Yoga und Chill",
+      "duration": 320,
+      "isrc": "ITO101753702"
+    },
+    {
+      "artist": "Die Drei ???",
+      "title": "175 A - Schattenwelt: Teuflisches Duell",
+      "services": {
+        "qobuz": "36030283"
+      },
+      "album": "175/Schattenwelt",
+      "duration": 90,
+      "isrc": "DEC711612877"
+    },
+    {
+      "artist": "Joanna Newsom",
+      "title": "Cosmia",
+      "services": {
+        "qobuz": "48467848"
+      },
+      "album": "Ys",
+      "duration": 437,
+      "isrc": "US58L0630305"
+    },
+    {
+      "artist": "Lana Del Rey",
+      "title": "Video Games",
+      "services": {
+        "qobuz": "31887416"
+      },
+      "album": "Born To Die",
+      "duration": 281,
+      "isrc": "GBUM71111621"
+    },
+    {
+      "artist": "Trollskogen",
+      "title": "Vargs\u00e5ngen",
+      "services": {
+        "qobuz": "96447490"
+      },
+      "album": "Vargs\u00e5ngen",
+      "duration": 196,
+      "isrc": "USDY41583785"
+    },
+    {
+      "artist": "Brothers Of A Long Forgotten Winter",
+      "title": "Brothers",
+      "services": {
+        "qobuz": "374373432"
+      },
+      "album": "Brothers",
+      "duration": 443,
+      "isrc": "DE1QW2512466"
+    },
+    {
+      "artist": "Rodung",
+      "title": "Weilandklage",
+      "services": {
+        "qobuz": "384966364"
+      },
+      "album": "Waldvolk",
+      "duration": 209,
+      "isrc": "DE1QW2602697"
+    },
+    {
+      "artist": "Sarah Connor",
+      "title": "Interstellar (Zwischen den Sternen)",
+      "services": {
+        "qobuz": "398502834"
+      },
+      "album": "Interstellar (Zwischen den Sternen)",
+      "duration": 148,
+      "isrc": "DEUM72601136"
+    },
+    {
+      "artist": "Godesvang",
+      "title": "H\u00f6henhymnus",
+      "services": {
+        "qobuz": "277441062"
+      },
+      "album": "gr\u00f4ni godes wang",
+      "duration": 305,
+      "isrc": "DEPI82434688"
+    },
+    {
+      "artist": "Kalle Wyrsch",
+      "title": "Teufelsh\u00f6hle",
+      "services": {
+        "qobuz": "351236105"
+      },
+      "album": "Wallfahrt",
+      "duration": 323,
+      "isrc": "DE1QW2501294"
+    },
+    {
+      "artist": "Pietro Rizzo",
+      "title": "Overture",
+      "services": {
+        "qobuz": "307383729"
+      },
+      "album": "Romanze",
+      "duration": 370,
+      "isrc": "DEAD61403502"
+    },
+    {
+      "artist": "Zwischenlichten",
+      "title": "Hagebuttenm\u00e4dchen",
+      "services": {
+        "qobuz": "348847062"
+      },
+      "album": "Leidgeboren",
+      "duration": 607,
+      "isrc": "DE1QW2501253"
+    },
+    {
+      "artist": "Gilgareth",
+      "title": "D\u00e4monenkrone",
+      "services": {
+        "qobuz": "331395217"
+      },
+      "album": "Zwei Schwerter",
+      "duration": 151,
+      "isrc": "QZNWQ2525149"
+    },
+    {
+      "artist": "Diaf",
+      "title": "Bluad auf da Ledahosn",
+      "services": {
+        "qobuz": "369860305"
+      },
+      "album": "Das Feuer der Berge",
+      "duration": 174,
+      "isrc": "QZWFH2416339"
+    },
+    {
+      "artist": "DaRealOi",
+      "title": "Vidofnir \u2013 Der W\u00e4chter des Weltenbaums",
+      "services": {
+        "qobuz": "300674732"
+      },
+      "album": "Gefl\u00fcster des Weltenbaums",
+      "duration": 213,
+      "isrc": "USX9P2491366"
+    },
+    {
+      "artist": "dream:craeft",
+      "title": "Falkentraum",
+      "services": {
+        "qobuz": "302606741"
+      },
+      "album": "\u00c2ventiure",
+      "duration": 218,
+      "isrc": "DEPI82453587"
+    },
+    {
+      "artist": "Vr\u00eemuot",
+      "title": "...rauh ist die Nacht!",
+      "services": {
+        "qobuz": "353371943"
+      },
+      "album": "Lupus Viridis",
+      "duration": 412,
+      "isrc": "DES562512379"
+    },
+    {
+      "artist": "Horda",
+      "title": "Vater Berg",
+      "services": {
+        "qobuz": "362577186"
+      },
+      "album": "Vater Berg",
+      "duration": 255,
+      "isrc": "DE1QW2508529"
+    },
+    {
+      "artist": "Heilstatt",
+      "title": "Die Geister in euren Stra\u00dfen",
+      "services": {
+        "qobuz": "308735801"
+      },
+      "album": "Blut & Asche",
+      "duration": 200,
+      "isrc": "DEPI82451767"
+    }
+  ]
+}

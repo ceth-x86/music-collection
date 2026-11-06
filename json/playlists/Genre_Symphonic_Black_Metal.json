@@ -1,0 +1,500 @@
+{
+  "name": "Genre: Symphonic Black Metal",
+  "services": {
+    "qobuz": "66734374",
+    "tidal": "27f6e354-fef5-424d-95a3-4bef2cafe242"
+  },
+  "description": "Imported genre playlist: Symphonic Black Metal.",
+  "tracks": [
+    {
+      "artist": "Emperor",
+      "title": "I Am The Black Wizards",
+      "services": {
+        "qobuz": "195145550"
+      },
+      "album": "In The Nightside Eclipse",
+      "duration": 360,
+      "isrc": "GBADD1433608"
+    },
+    {
+      "artist": "Opera IX",
+      "title": "Esteban's Promise",
+      "services": {
+        "qobuz": "51016584"
+      },
+      "album": "The Call of the Wood",
+      "duration": 413,
+      "isrc": "GBCQV9500121"
+    },
+    {
+      "artist": "Cradle Of Filth",
+      "title": "Haunted Shores",
+      "services": {
+        "qobuz": "371239"
+      },
+      "album": "Dusk..... and Her Embrace",
+      "duration": 424,
+      "isrc": "GBCKC0700080"
+    },
+    {
+      "artist": "Bal-Sagoth",
+      "title": "Callisto Rising",
+      "services": {
+        "qobuz": "93346544"
+      },
+      "album": "The Power Cosmic",
+      "duration": 272,
+      "isrc": "DED839902465"
+    },
+    {
+      "artist": "Limbonic Art",
+      "title": "Beneath The Burial Surface",
+      "services": {
+        "qobuz": "207424494"
+      },
+      "album": "Moon In The Scorpio",
+      "duration": 821,
+      "isrc": "NOXCW9600501"
+    },
+    {
+      "artist": "Ancient",
+      "title": "The Cainian Chronicle Part II: Lilith's Embrace",
+      "services": {
+        "qobuz": "60846152"
+      },
+      "album": "The Cainian Chronicle",
+      "duration": 375,
+      "isrc": "USMBR0603373"
+    },
+    {
+      "artist": "Dismal Euphony",
+      "title": "Ekko",
+      "services": {
+        "qobuz": "37230629"
+      },
+      "album": "Soria Moria Slott",
+      "duration": 582,
+      "isrc": "ATN269602106"
+    },
+    {
+      "artist": "Diabolical Masquerade",
+      "title": "The Castle Of Blackheim",
+      "services": {
+        "qobuz": "51001911"
+      },
+      "album": "Ravendusk In My Heart",
+      "duration": 435,
+      "isrc": "GBCQV0700358"
+    },
+    {
+      "artist": "Bishop Of Hexen",
+      "title": "A Serpentine Crave",
+      "services": {
+        "qobuz": "67819336"
+      },
+      "album": "The Nightmarish Compositions",
+      "duration": 379,
+      "isrc": "ATC150626603"
+    },
+    {
+      "artist": "Dimmu Borgir",
+      "title": "Mourning Palace",
+      "services": {
+        "qobuz": "60256174"
+      },
+      "album": "Enthrone Darkness Triumphant (Reloaded)",
+      "duration": 313,
+      "isrc": "DED830264501"
+    },
+    {
+      "artist": "Obtained Enslavement",
+      "title": "Witchcraft",
+      "services": {
+        "qobuz": "51108183"
+      },
+      "album": "Witchcraft",
+      "duration": 372,
+      "isrc": "GBCQV9700189"
+    },
+    {
+      "artist": "Hecate Enthroned",
+      "title": "Beneath a December Twilight",
+      "services": {
+        "qobuz": "306663813"
+      },
+      "album": "The Slaughter of Innocence, A Requiem for the Mighty",
+      "duration": 410,
+      "isrc": "GBDHS0900402"
+    },
+    {
+      "artist": "The Kovenant",
+      "title": "Towards the Crown of Nights",
+      "services": {
+        "qobuz": "290034656"
+      },
+      "album": "In Times Before the Light",
+      "duration": 353,
+      "isrc": "NO9RE2401010"
+    },
+    {
+      "artist": "Morgul",
+      "title": "The Dark Infinity",
+      "services": {
+        "qobuz": "37142870"
+      },
+      "album": "Lost in Shadows Grey",
+      "duration": 458,
+      "isrc": "ATN269702802"
+    },
+    {
+      "artist": "Graveworm",
+      "title": "Nocturnal Hymns, Pt. II (The Death Anthem)",
+      "services": {
+        "qobuz": "24498374"
+      },
+      "album": "Ascending Hate",
+      "duration": 347,
+      "isrc": "DEU601505685"
+    },
+    {
+      "artist": "...and Oceans",
+      "title": "The Black Vagabond and the Swan of Two Heads",
+      "services": {
+        "qobuz": "77790827"
+      },
+      "album": "The Symmetry of I \u0096 the Circle of O",
+      "duration": 317,
+      "isrc": "FR33T9901603"
+    },
+    {
+      "artist": "Gary Silva",
+      "title": "Pacta Sunt Servanda",
+      "services": {
+        "qobuz": "413089562"
+      },
+      "album": "Pacta Sunt Servanda",
+      "duration": 267,
+      "isrc": "GXJBZ2649650"
+    },
+    {
+      "artist": "Temple of Evil",
+      "title": "Necromancer's Mystical Conjuration",
+      "services": {
+        "qobuz": "91094144"
+      },
+      "album": "The 7th Awakening",
+      "duration": 290,
+      "isrc": "USCGH1865754"
+    },
+    {
+      "artist": "Anorexia Nervosa",
+      "title": "Dirge  Requiem For My Sister Whore",
+      "services": {
+        "qobuz": "1626196"
+      },
+      "album": "Drudenhaus",
+      "duration": 257,
+      "isrc": "FR6V80000315"
+    },
+    {
+      "artist": "Illnath",
+      "title": "Zetite",
+      "services": {
+        "qobuz": "119505776"
+      },
+      "album": "Cast into Fields of Evil Pleasure",
+      "duration": 241,
+      "isrc": "GBSMU9065555"
+    },
+    {
+      "artist": "Behemoth",
+      "title": "Chant For Eschaton 2000",
+      "services": {
+        "qobuz": "51001727"
+      },
+      "album": "Satanica",
+      "duration": 321,
+      "isrc": "GBCQV0800023"
+    },
+    {
+      "artist": "Odium",
+      "title": "The Sad Realm of the Stars",
+      "services": {
+        "qobuz": "254518571"
+      },
+      "album": "Sad Realm of the Stars",
+      "duration": 251,
+      "isrc": "QZES82424170"
+    },
+    {
+      "artist": "Sirius",
+      "title": "Aeons of Magick",
+      "services": {
+        "qobuz": "227545585"
+      },
+      "album": "Aeons of Magick",
+      "duration": 556,
+      "isrc": "GX4R52323230"
+    },
+    {
+      "artist": "Stormlord",
+      "title": "Under the Boards",
+      "services": {
+        "qobuz": "355268454"
+      },
+      "album": "The Gorgon Cult",
+      "duration": 341,
+      "isrc": "USA561438009"
+    },
+    {
+      "artist": "Twilight Ophera",
+      "title": "Sorms of Silence",
+      "services": {
+        "qobuz": "2706141"
+      },
+      "album": "Shadows Embrace The Dark",
+      "duration": 546,
+      "isrc": "GBEGS0800345"
+    },
+    {
+      "artist": "Vesania",
+      "title": "mystherion. Crystaleyes",
+      "services": {
+        "qobuz": "64326514"
+      },
+      "album": "Firefrost Arcanum",
+      "duration": 331,
+      "isrc": "USA560452356"
+    },
+    {
+      "artist": "Tvangeste",
+      "title": "Birth of the Hero",
+      "services": {
+        "qobuz": "96652875"
+      },
+      "album": "FireStorm",
+      "duration": 346,
+      "isrc": "USHM90973005"
+    },
+    {
+      "artist": "Shade Empire",
+      "title": "Bloodstar",
+      "services": {
+        "qobuz": "77350841"
+      },
+      "album": "Intoxicate O.S.",
+      "duration": 297,
+      "isrc": "FIDYN0600039"
+    },
+    {
+      "artist": "GRIMA",
+      "title": "Beyond the Dark Horizon",
+      "services": {
+        "qobuz": "298258714"
+      },
+      "album": "Nightside",
+      "duration": 216,
+      "isrc": "ATN262535602"
+    },
+    {
+      "artist": "Folque",
+      "title": "No Har Jonsoknatta Kome",
+      "services": {
+        "qobuz": "7040210"
+      },
+      "album": "Vard\u00f8ger",
+      "duration": 163,
+      "isrc": "NOUM71101495"
+    },
+    {
+      "artist": "Seth",
+      "title": "La quintessence du mal",
+      "services": {
+        "qobuz": "79180370"
+      },
+      "album": "Les Blessures De L'\u00e2me: XX Ans De Blasph\u00e8me",
+      "duration": 586,
+      "isrc": "FR9W11920235"
+    },
+    {
+      "artist": "Crimson Moonlight",
+      "title": "The Suffering",
+      "services": {
+        "qobuz": "29626091"
+      },
+      "album": "Divine Darkness",
+      "duration": 359,
+      "isrc": "TCACL1618687"
+    },
+    {
+      "artist": "Aesma Daeva",
+      "title": "The Camp of Souls",
+      "services": {
+        "qobuz": "65646832"
+      },
+      "album": "Dawn of the New Athens",
+      "duration": 336,
+      "isrc": "USHM20733352"
+    },
+    {
+      "artist": "Enslavement of Beauty",
+      "title": "I Treassure the Sadness",
+      "services": {
+        "qobuz": "75047291"
+      },
+      "album": "The Perdition - EP",
+      "duration": 262,
+      "isrc": "NOCTR0904020"
+    },
+    {
+      "artist": "Demonic Resurrection",
+      "title": "The Unrelenting Surge of Vengeance",
+      "services": {
+        "qobuz": "73056759"
+      },
+      "album": "The Return to Darkness",
+      "duration": 302,
+      "isrc": "USHM91739172"
+    },
+    {
+      "artist": "Agathodaimon",
+      "title": "Banner of Blasphemy",
+      "services": {
+        "qobuz": "61267174"
+      },
+      "album": "Blacken the Angel",
+      "duration": 347,
+      "isrc": "DED839840902"
+    },
+    {
+      "artist": "Astarte",
+      "title": "Doomed Dark Years",
+      "services": {
+        "qobuz": "135174277"
+      },
+      "album": "Doomed Dark Years",
+      "duration": 347,
+      "isrc": "QZ9JZ1781044"
+    },
+    {
+      "artist": "Agalloch",
+      "title": "In The Shadow Of Our Pale Companion",
+      "services": {
+        "qobuz": "387127992"
+      },
+      "album": "The Mantle",
+      "duration": 892,
+      "isrc": "US2421651902"
+    },
+    {
+      "artist": "Ceremonial Castings",
+      "title": "Where the Witches Waltz",
+      "services": {
+        "qobuz": "205296708"
+      },
+      "album": "Salem 1692",
+      "duration": 329,
+      "isrc": "USA2P2042670"
+    },
+    {
+      "artist": "Carach Angren",
+      "title": "The Sighting Is a Portent of Doom",
+      "services": {
+        "qobuz": "94086098"
+      },
+      "album": "Death Came Through a Phantom Ship",
+      "duration": 247,
+      "isrc": "FR33T1330402"
+    },
+    {
+      "artist": "Welicoruss",
+      "title": "Siberian Heathen Horde",
+      "services": {
+        "qobuz": "216786404"
+      },
+      "album": "Siberian Heathen Horde",
+      "duration": 320,
+      "isrc": "DETX22000102"
+    },
+    {
+      "artist": "Apparat",
+      "title": "A Bang in the Void",
+      "services": {
+        "qobuz": "4268500"
+      },
+      "album": "The Devil's Walk",
+      "duration": 362,
+      "isrc": "GBR8R1100107"
+    },
+    {
+      "artist": "Aran Angmar",
+      "title": "Ordo Diabolicum",
+      "services": {
+        "qobuz": "312990784"
+      },
+      "album": "Ordo Diabolicum",
+      "duration": 266,
+      "isrc": "QM4TW2525262"
+    },
+    {
+      "artist": "VARGRAV",
+      "title": "Netherstorm",
+      "services": {
+        "qobuz": "210034422"
+      },
+      "album": "Encircle The Spectral Dimension",
+      "duration": 350,
+      "isrc": "QZHN72350855"
+    },
+    {
+      "artist": "Sacrimonia",
+      "title": "Modern Prometheus",
+      "services": {
+        "qobuz": "158492048"
+      },
+      "album": "Anthems of Eclipse",
+      "duration": 277,
+      "isrc": "QZHNB2276745"
+    },
+    {
+      "artist": "Vorga",
+      "title": "Starless Sky",
+      "services": {
+        "qobuz": "137785852"
+      },
+      "album": "Striving Toward Oblivion",
+      "duration": 319,
+      "isrc": "QMEU32002634"
+    },
+    {
+      "artist": "Manset",
+      "title": "Il voyage en solitaire (1975)",
+      "services": {
+        "qobuz": "36195895"
+      },
+      "album": "MANSETLANDIA - Y'a une route",
+      "duration": 241,
+      "isrc": "FRZ041600774"
+    },
+    {
+      "artist": "Anfauglir",
+      "title": "The Downfall",
+      "services": {
+        "qobuz": "325990092"
+      },
+      "album": "Akallab\u00eath",
+      "duration": 717,
+      "isrc": "FXQ732400069"
+    },
+    {
+      "artist": "Haimad",
+      "title": "When night rode across the north",
+      "services": {
+        "qobuz": "367952036"
+      },
+      "album": "When Night Rode Across the North",
+      "duration": 367,
+      "isrc": "SEYOK2525183"
+    }
+  ]
+}

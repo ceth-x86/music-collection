@@ -1,0 +1,18 @@
+{
+  "name": "Suede",
+  "services": {
+    "qobuz": "67062290"
+  },
+  "tracks": [
+    {
+      "artist": "Suede",
+      "title": "Snowblind",
+      "services": {
+        "qobuz": "229826280"
+      },
+      "album": "Bloodsports",
+      "duration": 243,
+      "isrc": "GBL2J1600037"
+    }
+  ]
+}

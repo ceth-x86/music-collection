@@ -1,0 +1,108 @@
+# Genre: Southern Rock
+
+Imported genre playlist: Southern Rock.
+
+Services: `qobuz:66738121`
+
+## Tracks (100)
+
+- **Lonnie Mack** — Memphis [For Collectors Only (The Wham Of That Memphis Man)] (2:33) `isrc:USEE10251298` `qobuz:33951208`
+- **Creedence Clearwater Revival** — Born On The Bayou [Bayou Country] (5:15) `isrc:USFI86900044` `qobuz:17498441`
+- **Tony Joe White** — Polk Salad Annie [The Best Of Tony Joe White Featuring "Polk Salad Annie"] (3:43) `isrc:USWB16900016` `qobuz:2571274`
+- **Barefoot Jerry** — Smokies [Southern Delight/Barefoot Jerry] (2:16) `isrc:USCGJ1005094` `qobuz:67331774`
+- **Pot Liquor** — Cheer [Levee Blues] (4:56) `isrc:QMDA61831367` `qobuz:47105782`
+- **The Allman Brothers Band** — Whipping Post [The Allman Brothers Band (Remastered)] (5:17) `isrc:USPR36930032` `qobuz:33736066`
+- **Leon Russell** — Tight Rope [Carney] (2:58) `isrc:USSH49500077` `qobuz:16657261`
+- **The Edgar Winter Group** — Free Ride [They Only Come Out At Night] (3:07) `isrc:USSM17200422` `qobuz:19730368`
+- **Black Oak Arkansas** — Jim Dandy to the Rescue (Re-Recorded) [70's Mixtape Vol. 3 & 4 - Music Inspired by Guardians of the Galaxy] (3:33) `isrc:USV291414106` `qobuz:66005176`
+- **Cowboy** — Please Be With Me [5'll Getcha Ten] (3:42) `isrc:USA027200210` `qobuz:25470247`
+- **Gregg Allman** — Midnight Rider [Laid Back] (4:27) `isrc:USA027300220` `qobuz:69302553`
+- **Little Feat** — Dixie Chicken [Dixie Chicken] (3:55) `isrc:USRH12202052` `qobuz:208072736`
+- **Lynyrd Skynyrd** — Free Bird [Pronounced Leh-Nerd-Skin-Nerd] (9:10) `isrc:USMC17301722` `qobuz:14836440`
+- **The Marshall Tucker Band** — Can't You See [The Marshall Tucker Band] (6:05) `isrc:USSE90320363` `qobuz:316006382`
+- **The Ozark Mountain Daredevils** — If You Wanna Get to Heaven [If You Wanna Get to Heaven] (4:32) `isrc:QMEU32310968` `qobuz:229949316`
+- **Wet Willie** — Keep On Smilin' [Keep On Smilin'] (3:57) `isrc:USPR37300024` `qobuz:54292356`
+- **ZZ Top** — LA Grange [The ZZ Top Sixpack] (3:54) `isrc:USWB19903511` `qobuz:387308662`
+- **The Doobie Brothers** — Black Water [The Best of The Doobies] (4:20) `isrc:USRH11600611` `qobuz:32151063`
+- **Atlanta Rhythm Section** — Doraville [Third Annual Pipe Dream] (3:28) `isrc:USUR10001194` `qobuz:50891907`
+- **Gang of Youths** — Let Me Down Easy [Go Farther In Lightness] (5:19) `isrc:AUBM01700506` `qobuz:42698144`
+- **The Charlie Daniels Band** — The South's Gonna Do It Again [A Decade Of Hits] (3:57) `isrc:USSM17400679` `qobuz:82062`
+- **Elvin Bishop** — Fooled Around And Fell In Love [Sure Feels Good:   The Best Of Elvin Bishop] (4:35) `isrc:USPR37600038` `qobuz:54921372`
+- **Grinderswitch** — Pickin' the Blues [Macon Tracks] (5:01) `isrc:USCGJ1649306` `qobuz:77166442`
+- **Mama's Pride** — Blue Mist [Mama's Pride] (4:03) `isrc:USAT10800056` `qobuz:3139408`
+- **The Amazing Rhythm Aces** — Third Rate Romance [The Essential Amazing Rhythm Aces] (3:22) `isrc:USSM11301450` `qobuz:20111469`
+- **The Outlaws** — Green Grass and High Tides [Ghost Riders - EP] (11:53) `isrc:GBQRF1338519` `qobuz:89295036`
+- **JJ Cale** — Cocaine [Troubadour] (2:49) `isrc:NLF057690004` `qobuz:625129`
+- **The Blackwater Bards** — Lady of the Lighthouse [Tavern Brawls & Ocean Calls] (4:57) `isrc:SE6A92647591` `qobuz:398455100`
+- **Les Dudek** — Old Judge Jones [Say No More] (4:38) `isrc:USSM19916861` `qobuz:47017`
+- **The Winters Brothers Band** — Sang Her Love Songs [Southern Rockers] (8:28) `isrc:USCGH0698332` `qobuz:99600070`
+- **Dickey Betts & Great Southern** — Bougainvillea (2024 Remaster) [Dickey Betts & Great Southern] (7:14) `isrc:USAR10500310` `qobuz:2527079`
+- **Sea Level** — That's Your Secret [Cats On The Coast] (5:16) `isrc:USPR37780264` `qobuz:44895019`
+- **Lynyrd Skynyrd** — One In The Sun [Legend] (5:20) `isrc:USMC18724062` `qobuz:52893633`
+- **The Elovaters** — Mind Bender [Endless Summer] (3:26) `isrc:GBWUL2372671` `qobuz:283039154`
+- **Le Roux** — New Orleans Ladies [Louisiana's Le Roux] (3:56) `isrc:USCA29601490` `qobuz:61949280`
+- **Molly Hatchet** — Flirtin' with Disaster [Flirtin' With Disaster] (4:59) `isrc:USSM10100982` `qobuz:89169`
+- **Blackfoot** — Train, Train [Strikes] (3:36) `isrc:USEE10180613` `qobuz:2852288`
+- **Henry Paul Band** — Grey Ghost [Grey Ghost] (6:51) `isrc:USAT20611974` `qobuz:11745498`
+- **Nantucket** — It's a Long Way to the Top [Long Way To The Top] (4:19) `isrc:USSM18000781` `qobuz:44272211`
+- **Rossington Collins Band** — Don't Misunderstand Me [Alive - Live at the Garden State Art Center, Homldel, New Jersey Sep 5th 1981] (4:56) `isrc:GBSMU2422399` `qobuz:114612166`
+- **38 Special** — Hold On Loosely [Wild-Eyed Southern Boys] (4:40) `isrc:USUMG0000591` `qobuz:50027360`
+- **Doc Holliday** — Ain’t No Fool (Live) [Song for the Outlaw - Live (Live)] (4:29) `isrc:DESK98890605` `qobuz:170346196`
+- **Hank Williams, Jr.** — A Country Boy Can Survive [A Country Boy Can Survive (Box Set)] (4:14) `isrc:USCRB1613448` `qobuz:97404517`
+- **Point Blank** — Nicole (Live) [Reloaded (Live)] (3:43) `isrc:DESK90790410` `qobuz:174392553`
+- **Julius Wechter** — Here, There And Everywhere [Those Were The Days] (3:30) `isrc:USUM71201747` `qobuz:31039914`
+- **Tom Petty & The Heartbreakers** — Rebels [Southern Accents] (5:18) `isrc:USMC18416134` `qobuz:22946463`
+- **The Georgia Satellites** — Keep Your Hands to Yourself [Keep Your Hands to Yourself - The Greatest Hits] (3:27) `isrc:USEE10184209` `qobuz:173746480`
+- **Rossington Collins Band** — Tashauna [This Is The Way] (4:55) `isrc:USMC19912000` `qobuz:87671339`
+- **Steve Earle** — Copperhead Road [Copperhead Road] (4:29) `isrc:USMC18826253` `qobuz:31872214`
+- **Johnny Van Zant** — Brickyard Road [The Johnny Van Zant Collection] (6:39) `isrc:USPR39000073` `qobuz:54692391`
+- **The Kentucky Headhunters** — Dumas Walker [Pickin' On Nashville] (2:51) `isrc:USPR38900044` `qobuz:13682649`
+- **The Black Crowes** — She Talks To Angels [Shake Your Money Maker (30th Anniversary Edition)] (5:30) `isrc:USSM19000345` `qobuz:111773850`
+- **Drivin' N' Cryin'** — Fly Me Courageous [Fly Me Courageous] (3:23) `isrc:USUMG0000549` `qobuz:4849440`
+- **Travis Tritt** — Double Trouble (feat. Marty Stuart) [The Restless Kind] (3:13) `isrc:USWB19600266` `qobuz:3566499`
+- **Confederate Railroad** — Trashy Women [Confederate Railroad] (3:14) `isrc:USWB10800164` `qobuz:11715921`
+- **Cry Of Love** — Bad Thing [Brother] (3:07) `isrc:USSM10026228` `qobuz:36873`
+- **Jackyl** — The Lumberjack [20th Century Masters: The Millennium Collection:  Best Of Jackyl] (3:32) `isrc:USGF19260406` `qobuz:754884`
+- **Little Texas** — God Blessed Texas [Big Time] (4:05) `isrc:USWB10903778` `qobuz:2859520`
+- **Brother Cane** — Got No Shame [Brother Cane] (4:34) `isrc:USVI20400672` `qobuz:1940876`
+- **BlackHawk** — Goodbye Says It All [Greatest Hits] (3:24) `isrc:USAN29700094` `qobuz:185895`
+- **Hootie & The Blowfish** — Only Wanna Be With You [Cracked Rear View] (3:46) `isrc:USRH11901025` `qobuz:61464965`
+- **The Tractors** — Baby Likes To Rock It [The Tractors] (3:56) `isrc:USAN29600016` `qobuz:218198`
+- **Widespread Panic** — Ain't Life Grand [Ain't Life Grand] (4:47) `isrc:USVR10400722` `qobuz:47043281`
+- **Sister Hazel** — All For You [...Somewhere More Familiar] (3:38) `isrc:USUR10000469` `qobuz:8705515`
+- **Gov't Mule** — Thorazine Shuffle [Dose] (6:46) `isrc:USCA19800014` `qobuz:4902249`
+- **North Mississippi Allstars** — Shake 'Em On Down [Shake Hands With Shorty] (4:08) `isrc:USTC10017701` `qobuz:298182546`
+- **3 Doors Down** — Kryptonite [The Better Life] (3:53) `isrc:USUR19980187` `qobuz:714959`
+- **Drive-By Truckers** — Outfit [The Definitive Decoration Day] (4:07) `isrc:US27Q2561206` `qobuz:357227813`
+- **My Morning Jacket** — One Big Holiday [It Still Moves] (5:21) `isrc:USATO0300010` `qobuz:113806997`
+- **Van Zant** — Help Somebody [Get Right With The Man] (4:13) `isrc:USSM10501326` `qobuz:273706`
+- **Lucero** — Nights Like These [Tennessee] (3:55) `isrc:USA590200503` `qobuz:48685565`
+- **Shooter Jennings** — 4th of July [Live at Billy Bob's Texas] (3:48) `isrc:US2761791301` `qobuz:108272170`
+- **The Derek Trucks Band** — Sahib Teri Bandi - Maki Madni [Songlines] (9:53) `isrc:USSM10507184` `qobuz:363177`
+- **Band of Horses** — The Funeral [Everything All The Time] (5:22) `isrc:USSUB0669004` `qobuz:407819956`
+- **Black Stone Cherry** — Lonely Train [Black Stone Cherry] (3:50) `isrc:NLA320681990` `qobuz:2807531`
+- **JJ Grey & Mofro** — Lochloosa [Brighter Days] (11:19) `isrc:USARL1194406` `qobuz:397187187`
+- **Kings Of Leon** — Notion [Only By The Night] (3:00) `isrc:USRC10800305` `qobuz:12963109`
+- **Zac Brown Band** — Chicken Fried [The Foundation] (3:58) `isrc:USAT20804178` `qobuz:130924077`
+- **SAVING ABEL** — Addicted [Saving Abel] (3:42) `isrc:USVI20701296` `qobuz:4940486`
+- **Blackberry Smoke** — Ain't Much Left of Me [The Whippoorwill] (4:58) `isrc:GBBPB1303103` `qobuz:97493558`
+- **Shaman's Harvest** — Dragonfly [Smokin' Hearts & Broken Guns] (4:31) `isrc:NLB931400411` `qobuz:141303824`
+- **Will Hoge** — Even If It Breaks Your Heart [The Wreckage] (3:41) `isrc:USRY20910050` `qobuz:2059244`
+- **The Avett Brothers** — I And Love And You [I And Love And You] (4:59) `isrc:USSM10903395` `qobuz:19761542`
+- **NEEDTOBREATHE** — Washed by the Water [The Heat] (3:27) `isrc:USAT20703202` `qobuz:2932315`
+- **Dirty Heads** — Come Back Around [Super Moon] (3:13) `isrc:USDPK1900024` `qobuz:73188198`
+- **Warren Haynes** — Hattiesburg Hustle [Man In Motion] (6:33) `isrc:NLB931100256` `qobuz:141305912`
+- **Tedeschi Trucks Band** — Midnight in Harlem [Revelator] (5:53) `isrc:USSM11101896` `qobuz:18435789`
+- **Alabama Shakes** — Hold On [Boys & Girls] (3:46) `isrc:USATO1200017` `qobuz:5177902`
+- **St. Paul & The Broken Bones** — Call Me [Half The City] (2:51) `isrc:QMHFC1300031` `qobuz:294187313`
+- **Whiskey Myers** — Stone [Mud] (5:35) `isrc:QMYLU1500005` `qobuz:332850562`
+- **Sturgill Simpson** — Turtles All the Way Down [Metamodern Sounds in Country Music] (3:08) `isrc:QMLWL1400001` `qobuz:405300201`
+- **Chris Stapleton** — Outlaw State Of Mind [Traveller] (5:37) `isrc:USUM71418083` `qobuz:44068523`
+- **A Thousand Horses** — Smoke [Southernality] (3:39) `isrc:USUM71417903` `qobuz:24705790`
+- **The Revivalists** — Wish I Knew You [Men Amongst Mountains] (4:33) `isrc:USWU31500062` `qobuz:36166962`
+- **The Cadillac Three** — The South [Bury Me In My Boots] (4:36) `isrc:USCJY1320017` `qobuz:55924394`
+- **The Steel Woods** — Straw in the Wind [Straw in the Wind] (4:42) `isrc:QZ2D41700003` `qobuz:96685638`
+- **Marcus King** — Somebody Else [Darling Blue] (3:23) `isrc:USUG12505692` `qobuz:358219691`
+- **The Vegabonds** — Georgia Fire [Georgia Fire (NOW)] (3:58) `isrc:USQY51209965` `qobuz:275822198`
+- **The Allman Betts Band** — Shinin' (Live) [Live at the 2024 New Orleans Jazz & Heritage Festival] (6:18) `isrc:QM24S2503884` `qobuz:344024369`
+- **The Red Clay Strays** — Wondering Why [Moment of Truth] (3:52) `isrc:QZTVM2120626` `qobuz:247260350`

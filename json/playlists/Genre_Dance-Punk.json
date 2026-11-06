@@ -1,0 +1,1010 @@
+{
+  "name": "Genre: Dance-Punk",
+  "services": {
+    "qobuz": "66708773",
+    "tidal": "55c8d045-e1ee-46a7-899a-2d5f89d3fe22"
+  },
+  "description": "Imported genre playlist: Dance-Punk.",
+  "tracks": [
+    {
+      "artist": "Gang Of Four",
+      "title": "Damaged Goods",
+      "services": {
+        "qobuz": "39988819"
+      },
+      "album": "Entertainment!",
+      "duration": 205,
+      "isrc": "USWB11506640"
+    },
+    {
+      "artist": "Talking Heads",
+      "title": "Life During Wartime",
+      "services": {
+        "qobuz": "19269883"
+      },
+      "album": "Stop Making Sense (Special New Edition)",
+      "duration": 351,
+      "isrc": "USWB19900872"
+    },
+    {
+      "artist": "James Chance and The Contortions",
+      "title": "Contort Yourself",
+      "services": {
+        "qobuz": "67963188"
+      },
+      "album": "B. Loves Ze",
+      "duration": 266,
+      "isrc": "FR6T50400805"
+    },
+    {
+      "artist": "The Slits",
+      "title": "Typical Girls",
+      "services": {
+        "qobuz": "3879106"
+      },
+      "album": "Cut",
+      "duration": 236,
+      "isrc": "GBAAN7900026"
+    },
+    {
+      "artist": "The Pop Group",
+      "title": "She Is Beyond Good And Evil",
+      "services": {
+        "qobuz": "66352398"
+      },
+      "album": "She Is Beyond Good And Evil / 3:38",
+      "duration": 202,
+      "isrc": "UK8DN1700042"
+    },
+    {
+      "artist": "Delta 5",
+      "title": "Mind Your Own Business",
+      "services": {
+        "qobuz": "73675812"
+      },
+      "album": "Singles and Sessions 1979-1981",
+      "duration": 193,
+      "isrc": "USKRS0641501"
+    },
+    {
+      "artist": "Bush Tetras",
+      "title": "Too Many Creeps",
+      "services": {
+        "qobuz": "3794871"
+      },
+      "album": "Too Many Creeps 7\"",
+      "duration": 241,
+      "isrc": "US29V1170301"
+    },
+    {
+      "artist": "A Certain Ratio",
+      "title": "Shack Up",
+      "services": {
+        "qobuz": "52620346"
+      },
+      "album": "acr:set",
+      "duration": 196,
+      "isrc": "GBYHX0900151"
+    },
+    {
+      "artist": "Defunkt",
+      "title": "Make Them Dance",
+      "services": {
+        "qobuz": "11666359"
+      },
+      "album": "Defunkt / Thermonuclear Sweat",
+      "duration": 482,
+      "isrc": "USRY20515567"
+    },
+    {
+      "artist": "Pylon",
+      "title": "Cool",
+      "services": {
+        "qobuz": "100418011"
+      },
+      "album": "Pylon Box",
+      "duration": 199,
+      "isrc": "US27Q2049502"
+    },
+    {
+      "artist": "Au Pairs",
+      "title": "It's Obvious",
+      "services": {
+        "qobuz": "385656749"
+      },
+      "album": "Playing with a Different Sex",
+      "duration": 378,
+      "isrc": "GBAJE0602400"
+    },
+    {
+      "artist": "ESG",
+      "title": "U.F.O",
+      "services": {
+        "qobuz": "194290539"
+      },
+      "album": "Dance to the Best of ESG",
+      "duration": 177,
+      "isrc": "GBCKK1017502"
+    },
+    {
+      "artist": "Lizzy Mercier Descloux",
+      "title": "Wawa",
+      "services": {
+        "qobuz": "24521583"
+      },
+      "album": "Press Color (Deluxe Edition)",
+      "duration": 145,
+      "isrc": "FR6T50300102"
+    },
+    {
+      "artist": "Medium, Medium",
+      "title": "Hungry, So Angry",
+      "services": {
+        "qobuz": "149960241"
+      },
+      "album": "Hungry, So Angry",
+      "duration": 239,
+      "isrc": "GBBLY8100001"
+    },
+    {
+      "artist": "Maximum Joy",
+      "title": "Stretch",
+      "services": {
+        "qobuz": "238317562"
+      },
+      "album": "Stretch",
+      "duration": 371,
+      "isrc": "GBR3F1000010"
+    },
+    {
+      "artist": "Material",
+      "title": "Bustin' Out",
+      "services": {
+        "qobuz": "67941828"
+      },
+      "album": "Bustin' Out Edits - EP",
+      "duration": 565,
+      "isrc": "FR6T51207101"
+    },
+    {
+      "artist": "Shriekback",
+      "title": "My Spine Is The Bass Line",
+      "services": {
+        "qobuz": "4283985"
+      },
+      "album": "Oil and Gold",
+      "duration": 238,
+      "isrc": "GBARL1001172"
+    },
+    {
+      "artist": "Liquid, Liquid",
+      "title": "Cavern",
+      "services": {
+        "qobuz": "771793"
+      },
+      "album": "Liquid Liquid",
+      "duration": 319,
+      "isrc": "GBAQH9501005"
+    },
+    {
+      "artist": "Cristina",
+      "title": "What's A Girl To Do",
+      "services": {
+        "qobuz": "67926312"
+      },
+      "album": "Sleep It Off",
+      "duration": 210,
+      "isrc": "FR6T50401201"
+    },
+    {
+      "artist": "Konk",
+      "title": "Your Life",
+      "services": {
+        "qobuz": "81500152"
+      },
+      "album": "The Definitive Collection",
+      "duration": 446,
+      "isrc": "USCGH0702506"
+    },
+    {
+      "artist": "Le Tigre",
+      "title": "Deceptacon",
+      "services": {
+        "qobuz": "127391467"
+      },
+      "album": "Le Tigre",
+      "duration": 184,
+      "isrc": "TCABE1211301"
+    },
+    {
+      "artist": "Peaches",
+      "title": "Fuck the Pain Away",
+      "services": {
+        "qobuz": "34265054"
+      },
+      "album": "The Teaches of Peaches",
+      "duration": 250,
+      "isrc": "GBBKS0000479"
+    },
+    {
+      "artist": "The Faint",
+      "title": "Agenda Suicide",
+      "services": {
+        "qobuz": "129155162"
+      },
+      "album": "Danse Macabre",
+      "duration": 238,
+      "isrc": "US2U60403701"
+    },
+    {
+      "artist": "ADULT.",
+      "title": "Hand To Phone (Cordless Mix)",
+      "services": {
+        "qobuz": "20775230"
+      },
+      "album": "Resuscitation",
+      "duration": 319,
+      "isrc": "US2J71207102"
+    },
+    {
+      "artist": "Radio 4",
+      "title": "Dance To The Underground",
+      "services": {
+        "qobuz": "66294242"
+      },
+      "album": "Dance To The Underground",
+      "duration": 243,
+      "isrc": "US2B30405301"
+    },
+    {
+      "artist": "The Rapture",
+      "title": "House Of Jealous Lovers",
+      "services": {
+        "qobuz": "248110964"
+      },
+      "album": "Echoes",
+      "duration": 304,
+      "isrc": "GBF080300283"
+    },
+    {
+      "artist": "LCD Soundsystem",
+      "title": "Losing My Edge",
+      "services": {
+        "qobuz": "4744457"
+      },
+      "album": "LCD Soundsystem",
+      "duration": 473,
+      "isrc": "US4GE0400033"
+    },
+    {
+      "artist": "Q And Not U",
+      "title": "Soft Pyramids",
+      "services": {
+        "qobuz": "159949548"
+      },
+      "album": "Different Damage",
+      "duration": 244,
+      "isrc": "US35U0413301"
+    },
+    {
+      "artist": "Hot Hot Heat",
+      "title": "Bandages",
+      "services": {
+        "qobuz": "2847104"
+      },
+      "album": "Rhapsody Originals (DMD Album)",
+      "duration": 245,
+      "isrc": "USRE10701068"
+    },
+    {
+      "artist": "The Sounds",
+      "title": "Living in America",
+      "services": {
+        "qobuz": "2961663"
+      },
+      "album": "Dying to Say This to You",
+      "duration": 205,
+      "isrc": "SEPQA0213030"
+    },
+    {
+      "artist": "Electric Six",
+      "title": "Danger! High Voltage",
+      "services": {
+        "qobuz": "312710791"
+      },
+      "album": "Fire",
+      "duration": 215,
+      "isrc": "GBBKS2400329"
+    },
+    {
+      "artist": "Yeah Yeah Yeahs",
+      "title": "Date With The Night",
+      "services": {
+        "qobuz": "44209293"
+      },
+      "album": "Fever To Tell",
+      "duration": 155,
+      "isrc": "USIR10300257"
+    },
+    {
+      "artist": "!!!",
+      "title": "Me and Guiliani Down by the School Yard - A True Story",
+      "services": {
+        "qobuz": "32667933"
+      },
+      "album": "Louden Up Now",
+      "duration": 543,
+      "isrc": "USTG30423408"
+    },
+    {
+      "artist": "Death From Above 1979",
+      "title": "Romantic Rights",
+      "services": {
+        "qobuz": "15232823"
+      },
+      "album": "You're A Woman, I'm A Machine (DMD)",
+      "duration": 195,
+      "isrc": "CAL450490202"
+    },
+    {
+      "artist": "Moving Units",
+      "title": "Between Us & Them",
+      "services": {
+        "qobuz": "72749554"
+      },
+      "album": "Dangerous Dreams",
+      "duration": 186,
+      "isrc": "USPA30400031"
+    },
+    {
+      "artist": "Liars",
+      "title": "There's Always Room on the Broom",
+      "services": {
+        "qobuz": "14431531"
+      },
+      "album": "They Were Wrong, So We Drowned",
+      "duration": 185,
+      "isrc": "GBAJH0300717"
+    },
+    {
+      "artist": "Franz Ferdinand",
+      "title": "Take Me Out",
+      "services": {
+        "qobuz": "2524253"
+      },
+      "album": "Franz Ferdinand",
+      "duration": 237,
+      "isrc": "GBCEL0300192"
+    },
+    {
+      "artist": "The Bravery",
+      "title": "An Honest Mistake",
+      "services": {
+        "qobuz": "57937036"
+      },
+      "album": "The Bravery",
+      "duration": 219,
+      "isrc": "USIR20500157"
+    },
+    {
+      "artist": "Cut Copy",
+      "title": "Saturdays",
+      "services": {
+        "qobuz": "13164325"
+      },
+      "album": "Bright Like Neon Love",
+      "duration": 217,
+      "isrc": "AUMP00400060"
+    },
+    {
+      "artist": "VHS Or BETA",
+      "title": "Night On Fire",
+      "services": {
+        "qobuz": "985318"
+      },
+      "album": "Night On Fire",
+      "duration": 241,
+      "isrc": "USCN30400013"
+    },
+    {
+      "artist": "Ennio Morricone",
+      "title": "A Lidia (From \"Scusi facciamo l'amore - Listen, Let's Make Love\")",
+      "services": {
+        "qobuz": "55817497"
+      },
+      "album": "Maestro Ennio Morricone Greatest Hits",
+      "duration": 158,
+      "isrc": "GBHGA1527808"
+    },
+    {
+      "artist": "Datarock",
+      "title": "Fa-Fa-Fa",
+      "services": {
+        "qobuz": "103248173"
+      },
+      "album": "Datarock Datarock",
+      "duration": 231,
+      "isrc": "NOCFK0501040"
+    },
+    {
+      "artist": "Test Icicles",
+      "title": "Circle. Square. Triangle.",
+      "services": {
+        "qobuz": "2523531"
+      },
+      "album": "For Screening Purposes Only",
+      "duration": 186,
+      "isrc": "GBCEL0500864"
+    },
+    {
+      "artist": "Shitdisco",
+      "title": "I Know Kung Fu",
+      "services": {
+        "qobuz": "64175306"
+      },
+      "album": "Kingdom of Fear",
+      "duration": 172,
+      "isrc": "GBFFA0700001"
+    },
+    {
+      "artist": "Pink Floyd",
+      "title": "Signs of Life",
+      "services": {
+        "qobuz": "47683872"
+      },
+      "album": "A Momentary Lapse of Reason",
+      "duration": 261,
+      "isrc": "GBN9X1100001"
+    },
+    {
+      "artist": "From Monument To Masses",
+      "title": "The Quiet Before",
+      "services": {
+        "qobuz": "53871355"
+      },
+      "album": "Schools of Thought Contend",
+      "duration": 205,
+      "isrc": "USDM30500116"
+    },
+    {
+      "artist": "Bloc Party",
+      "title": "Banquet",
+      "services": {
+        "qobuz": "23847395"
+      },
+      "album": "Silent Alarm",
+      "duration": 201,
+      "isrc": "GBDNH0400385"
+    },
+    {
+      "artist": "Arctic Monkeys",
+      "title": "I Bet You Look Good On The Dancefloor",
+      "services": {
+        "qobuz": "2501801"
+      },
+      "album": "I Bet You Look Good On The Dancefloor",
+      "duration": 176,
+      "isrc": "GBCEL0501006"
+    },
+    {
+      "artist": "Gossip",
+      "title": "Standing in the Way of Control",
+      "services": {
+        "qobuz": "73675861"
+      },
+      "album": "Standing in the Way of Control",
+      "duration": 256,
+      "isrc": "USKRS0642202"
+    },
+    {
+      "artist": "Dub Syndicate",
+      "title": "Shout It Out",
+      "services": {
+        "qobuz": "316407317"
+      },
+      "album": "Out Here On The Perimeter 1989-1996",
+      "duration": 218,
+      "isrc": "GB5P58900031"
+    },
+    {
+      "artist": "The Automatic",
+      "title": "Monster",
+      "services": {
+        "qobuz": "173714459"
+      },
+      "album": "Not Accepted Anywhere",
+      "duration": 219,
+      "isrc": "GBUM70600401"
+    },
+    {
+      "artist": "Goose",
+      "title": "Bring It On",
+      "services": {
+        "qobuz": "292551167"
+      },
+      "album": "G20SE",
+      "duration": 243,
+      "isrc": "GBBMQ0600137"
+    },
+    {
+      "artist": "Digitalism",
+      "title": "Pogo",
+      "services": {
+        "qobuz": "256247317"
+      },
+      "album": "Idealism",
+      "duration": 226,
+      "isrc": "FRU700700013"
+    },
+    {
+      "artist": "Klaxons",
+      "title": "Golden Skans",
+      "services": {
+        "qobuz": "2473249"
+      },
+      "album": "Myths Of The Near Future",
+      "duration": 165,
+      "isrc": "GBUM70605901"
+    },
+    {
+      "artist": "New Young Pony Club",
+      "title": "Ice Cream",
+      "services": {
+        "qobuz": "4924026"
+      },
+      "album": "Ice Cream",
+      "duration": 190,
+      "isrc": "AUUM70700142"
+    },
+    {
+      "artist": "You Say Party! We Say Die!",
+      "title": "The Gap (Between The Rich And The Poor)",
+      "services": {
+        "qobuz": "100865168"
+      },
+      "album": "Hit The Floor!",
+      "duration": 182,
+      "isrc": "USCGH0626741"
+    },
+    {
+      "artist": "We Are Wolves",
+      "title": "Magique",
+      "services": {
+        "qobuz": "103202715"
+      },
+      "album": "Total Magique",
+      "duration": 145,
+      "isrc": "CAD430703002"
+    },
+    {
+      "artist": "Does It Offend You, Yeah?",
+      "title": "We Are Rockstars",
+      "services": {
+        "qobuz": "2488088"
+      },
+      "album": "We Are Rockstars",
+      "duration": 178,
+      "isrc": "GBAAA0701625"
+    },
+    {
+      "artist": "The Presets",
+      "title": "My People",
+      "services": {
+        "qobuz": "13166905"
+      },
+      "album": "Apocalypso",
+      "duration": 267,
+      "isrc": "AUUM70700903"
+    },
+    {
+      "artist": "Hadouken!",
+      "title": "That Boy That Girl",
+      "services": {
+        "qobuz": "191789126"
+      },
+      "album": "Music for an Accelerated Culture",
+      "duration": 211,
+      "isrc": "QZES62002711"
+    },
+    {
+      "artist": "Late Of The Pier",
+      "title": "Heartbeat",
+      "services": {
+        "qobuz": "5155982"
+      },
+      "album": "Heartbeat",
+      "duration": 184,
+      "isrc": "GBAYE0800919"
+    },
+    {
+      "artist": "Friendly Fires",
+      "title": "Paris",
+      "services": {
+        "qobuz": "2532309"
+      },
+      "album": "Friendly Fires",
+      "duration": 465,
+      "isrc": "GBBKS0800479"
+    },
+    {
+      "artist": "The Ting Tings",
+      "title": "That's Not My Name",
+      "services": {
+        "qobuz": "438832"
+      },
+      "album": "We Started Nothing",
+      "duration": 310,
+      "isrc": "GBARL0800038"
+    },
+    {
+      "artist": "Ladyhawke",
+      "title": "My Delirium",
+      "services": {
+        "qobuz": "28219364"
+      },
+      "album": "Ladyhawke",
+      "duration": 254,
+      "isrc": "GBUM70808705"
+    },
+    {
+      "artist": "The Whip",
+      "title": "Trash",
+      "services": {
+        "qobuz": "91721473"
+      },
+      "album": "X Marks Destination",
+      "duration": 383,
+      "isrc": "GBEFR0801291"
+    },
+    {
+      "artist": "The Virgins",
+      "title": "Rich Girls",
+      "services": {
+        "qobuz": "2931362"
+      },
+      "album": "The Virgins",
+      "duration": 180,
+      "isrc": "USAT20801949"
+    },
+    {
+      "artist": "Deeply Dip",
+      "title": "Murder on the Dancefloor",
+      "services": {
+        "qobuz": "255715780"
+      },
+      "album": "Murder on the Dancefloor",
+      "duration": 211,
+      "isrc": "QM4TX2429601"
+    },
+    {
+      "artist": "Crystal Castles",
+      "title": "Alice Practice",
+      "services": {
+        "qobuz": "33590376"
+      },
+      "album": "Crystal Castles",
+      "duration": 161,
+      "isrc": "CAL450896201"
+    },
+    {
+      "artist": "Foals",
+      "title": "Balloons",
+      "services": {
+        "qobuz": "114536766"
+      },
+      "album": "Antidotes",
+      "duration": 179,
+      "isrc": "GBKZV0725305"
+    },
+    {
+      "artist": "Midnight Juggernauts",
+      "title": "Into the Galaxy",
+      "services": {
+        "qobuz": "4707654"
+      },
+      "album": "Into The Galaxy",
+      "duration": 217,
+      "isrc": "AUIB20800005"
+    },
+    {
+      "artist": "Matt & Kim",
+      "title": "Daylight (feat. De La Soul)",
+      "services": {
+        "qobuz": "416353314"
+      },
+      "album": "Daylight (feat. De La Soul)",
+      "duration": 266,
+      "isrc": "US4HB0990006"
+    },
+    {
+      "artist": "The Bloody Beetroots",
+      "title": "Warp 1.9",
+      "services": {
+        "qobuz": "287705673"
+      },
+      "album": "Warp 1.9",
+      "duration": 167,
+      "isrc": "USDM32462801"
+    },
+    {
+      "artist": "The Juan MacLean",
+      "title": "Happy House",
+      "services": {
+        "qobuz": "10657234"
+      },
+      "album": "Happy House",
+      "duration": 747,
+      "isrc": "GBUM70903627"
+    },
+    {
+      "artist": "WhoMadeWho",
+      "title": "Hello, Empty Room",
+      "services": {
+        "qobuz": "61839839"
+      },
+      "album": "WhoMadeWho",
+      "duration": 250,
+      "isrc": "DEQ120505833"
+    },
+    {
+      "artist": "Two Door Cinema Club",
+      "title": "What You Know",
+      "services": {
+        "qobuz": "11093525"
+      },
+      "album": "Tourist History",
+      "duration": 190,
+      "isrc": "FRU700900116"
+    },
+    {
+      "artist": "Hot Chip",
+      "title": "I Feel Better",
+      "services": {
+        "qobuz": "41822867"
+      },
+      "album": "One Life Stand",
+      "duration": 280,
+      "isrc": "GBAYE0902911"
+    },
+    {
+      "artist": "Sleigh Bells",
+      "title": "Rill Rill",
+      "services": {
+        "qobuz": "46247504"
+      },
+      "album": "Treats",
+      "duration": 229,
+      "isrc": "USQE91000035"
+    },
+    {
+      "artist": "Holy Ghost!",
+      "title": "Wait And See",
+      "services": {
+        "qobuz": "11094740"
+      },
+      "album": "Holy Ghost!",
+      "duration": 220,
+      "isrc": "US4GE1100008"
+    },
+    {
+      "artist": "The Death Set",
+      "title": "They Come To Get Us",
+      "services": {
+        "qobuz": "6284433"
+      },
+      "album": "Can You Seen Straight?",
+      "duration": 112,
+      "isrc": "GBCFB1100605"
+    },
+    {
+      "artist": "YACHT",
+      "title": "Dystopia (The Earth Is On Fire)",
+      "services": {
+        "qobuz": "165587803"
+      },
+      "album": "Shangri-La",
+      "duration": 241,
+      "isrc": "US4GE1100027"
+    },
+    {
+      "artist": "Strfkr",
+      "title": "Golden Light",
+      "services": {
+        "qobuz": "181985444"
+      },
+      "album": "Miracle Mile",
+      "duration": 283,
+      "isrc": "US3R41324814"
+    },
+    {
+      "artist": "Metronomy",
+      "title": "The Look",
+      "services": {
+        "qobuz": "3443215"
+      },
+      "album": "The English Riviera",
+      "duration": 277,
+      "isrc": "GBMVH1100040"
+    },
+    {
+      "artist": "Funeral Party",
+      "title": "Finale",
+      "services": {
+        "qobuz": "12800463"
+      },
+      "album": "The Golden Age of Knowhere",
+      "duration": 250,
+      "isrc": "USRC11000358"
+    },
+    {
+      "artist": "The Rolling Stones",
+      "title": "Mess It Up",
+      "services": {
+        "qobuz": "233065066"
+      },
+      "album": "Hackney Diamonds",
+      "duration": 243,
+      "isrc": "GBUM72302311"
+    },
+    {
+      "artist": "Factory Floor",
+      "title": "Two Different Ways",
+      "services": {
+        "qobuz": "11368941"
+      },
+      "album": "Factory Floor",
+      "duration": 493,
+      "isrc": "US4GE1300079"
+    },
+    {
+      "artist": "THE ORAL CIGARETTES",
+      "title": "\u72c2\u4e71 Hey Kids!!",
+      "services": {
+        "qobuz": "357742165"
+      },
+      "album": "THE ORAL CIGARETTES Live Selection BRING IT BACK",
+      "duration": 247,
+      "isrc": "JPJ222101807"
+    },
+    {
+      "artist": "Parquet Courts",
+      "title": "Human Performance",
+      "services": {
+        "qobuz": "33933338"
+      },
+      "album": "Human Performance",
+      "duration": 255,
+      "isrc": "GBCVZ1500161"
+    },
+    {
+      "artist": "Shopping",
+      "title": "In Other Words",
+      "services": {
+        "qobuz": "46824754"
+      },
+      "album": "Consumer Complaints",
+      "duration": 192,
+      "isrc": "GBMA21387033"
+    },
+    {
+      "artist": "Guerilla Toss",
+      "title": "Can I Get the Real Stuff",
+      "services": {
+        "qobuz": "234449856"
+      },
+      "album": "GT Ultra",
+      "duration": 177,
+      "isrc": "US4GE1600080"
+    },
+    {
+      "artist": "Priests",
+      "title": "JJ",
+      "services": {
+        "qobuz": "159953340"
+      },
+      "album": "Nothing Feels Natural",
+      "duration": 177,
+      "isrc": "US35U1702102"
+    },
+    {
+      "artist": "BODEGA",
+      "title": "How Did This Happen!?",
+      "services": {
+        "qobuz": "214816266"
+      },
+      "album": "Endless Scroll",
+      "duration": 180,
+      "isrc": "USGYG0600295"
+    },
+    {
+      "artist": "Warmduscher",
+      "title": "I Got Friends",
+      "services": {
+        "qobuz": "49757849"
+      },
+      "album": "Whale City",
+      "duration": 117,
+      "isrc": "GBCKB1811006"
+    },
+    {
+      "artist": "Viagra Boys",
+      "title": "Sports",
+      "services": {
+        "qobuz": "150779766"
+      },
+      "album": "Street Worms",
+      "duration": 237,
+      "isrc": "SE5AJ1600455"
+    },
+    {
+      "artist": "shame",
+      "title": "One Rizla",
+      "services": {
+        "qobuz": "44670684"
+      },
+      "album": "Songs Of Praise",
+      "duration": 214,
+      "isrc": "USJ5G1814403"
+    },
+    {
+      "artist": "Public Practice",
+      "title": "Fate/Glory",
+      "services": {
+        "qobuz": "52847376"
+      },
+      "album": "Distance Is a Mirror",
+      "duration": 158,
+      "isrc": "QM3861908801"
+    },
+    {
+      "artist": "Working Men's Club",
+      "title": "Valleys",
+      "services": {
+        "qobuz": "88961758"
+      },
+      "album": "Working Men's Club",
+      "duration": 390,
+      "isrc": "GBPVV2002993"
+    },
+    {
+      "artist": "Gustaf",
+      "title": "Mine",
+      "services": {
+        "qobuz": "132287779"
+      },
+      "album": "Audio Drag for Ego Slobs",
+      "duration": 147,
+      "isrc": "QM6MZ2170765"
+    },
+    {
+      "artist": "Yard Act",
+      "title": "The Overload",
+      "services": {
+        "qobuz": "127997315"
+      },
+      "album": "The Overload",
+      "duration": 197,
+      "isrc": "GBUM72104003"
+    },
+    {
+      "artist": "Model/Actriz",
+      "title": "Mosquito",
+      "services": {
+        "qobuz": "350458826"
+      },
+      "album": "Dogsbody",
+      "duration": 192,
+      "isrc": "QZVM32200035"
+    },
+    {
+      "artist": "Friedberg",
+      "title": "Hardcore Workout Queen",
+      "services": {
+        "qobuz": "282395860"
+      },
+      "album": "Hardcore Workout Queen",
+      "duration": 294,
+      "isrc": "DELK22300228"
+    }
+  ]
+}

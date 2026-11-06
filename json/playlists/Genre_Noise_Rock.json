@@ -1,0 +1,1000 @@
+{
+  "name": "Genre: Noise Rock",
+  "services": {
+    "qobuz": "66737293",
+    "tidal": "9fdc765a-4e6e-4a07-8dfc-06c1a22a6c21"
+  },
+  "description": "Imported genre playlist: Noise Rock.",
+  "tracks": [
+    {
+      "artist": "The Stooges",
+      "title": "L.A. Blues",
+      "services": {
+        "qobuz": "15765090"
+      },
+      "album": "Funhouse",
+      "duration": 293,
+      "isrc": "USEW10000340"
+    },
+    {
+      "artist": "Flipper",
+      "title": "Sex Bomb",
+      "services": {
+        "qobuz": "54721467"
+      },
+      "album": "Album - Generic Flipper",
+      "duration": 468,
+      "isrc": "USSM18100742"
+    },
+    {
+      "artist": "The Birthday Party",
+      "title": "She's Hit",
+      "services": {
+        "qobuz": "58599191"
+      },
+      "album": "Junkyard",
+      "duration": 365,
+      "isrc": "GBAFL8200047"
+    },
+    {
+      "artist": "Swans",
+      "title": "Stay Here",
+      "services": {
+        "qobuz": "42702777"
+      },
+      "album": "Filth",
+      "duration": 335,
+      "isrc": "USA3T0400231"
+    },
+    {
+      "artist": "No Trend",
+      "title": "Too Many Humans",
+      "services": {
+        "qobuz": "85046392"
+      },
+      "album": "Too Many Humans/Teen Love",
+      "duration": 237,
+      "isrc": "US58L2075407"
+    },
+    {
+      "artist": "U.F.O.",
+      "title": "Running Up The Highway",
+      "services": {
+        "qobuz": "163394866"
+      },
+      "album": "High Stakes & Dangerous Men / Lights Out In Tokyo",
+      "duration": 279,
+      "isrc": "GBAJE0605059"
+    },
+    {
+      "artist": "Butthole Surfers",
+      "title": "The Shah Sleeps in Lee Harvey's Grave",
+      "services": {
+        "qobuz": "208546221"
+      },
+      "album": "Butthole Surfers + PCPpep",
+      "duration": 131,
+      "isrc": "USA3E0400061"
+    },
+    {
+      "artist": "Live Skull",
+      "title": "Brains Big Enough",
+      "services": {
+        "qobuz": "9271517"
+      },
+      "album": "Bringing Home The Bait",
+      "duration": 322,
+      "isrc": "FR5R00902842"
+    },
+    {
+      "artist": "Sonic Youth",
+      "title": "Death Valley '69",
+      "services": {
+        "qobuz": "144266134"
+      },
+      "album": "Death Valley '69 / Brave Men Run (In My Family)",
+      "duration": 326,
+      "isrc": "US6450500105"
+    },
+    {
+      "artist": "Sun Ra",
+      "title": "Angels and Demons at Play",
+      "services": {
+        "qobuz": "48066816"
+      },
+      "album": "Angels and Demons at Play",
+      "duration": 173,
+      "isrc": "USCXG1400194"
+    },
+    {
+      "artist": "Scratch Acid",
+      "title": "Cannibal",
+      "services": {
+        "qobuz": "316531352"
+      },
+      "album": "S/T EP",
+      "duration": 144,
+      "isrc": "USTG32438201"
+    },
+    {
+      "artist": "Big Black",
+      "title": "Kerosene",
+      "services": {
+        "qobuz": "32621490"
+      },
+      "album": "Atomizer (Remastered)",
+      "duration": 363,
+      "isrc": "USTG31409304"
+    },
+    {
+      "artist": "feedtime",
+      "title": "Shovelhead",
+      "services": {
+        "qobuz": "39687540"
+      },
+      "album": "Gas",
+      "duration": 210,
+      "isrc": "USA3D1610115"
+    },
+    {
+      "artist": "White Zombie",
+      "title": "Ratmouth",
+      "services": {
+        "qobuz": "31299095"
+      },
+      "album": "Soul-Crusher",
+      "duration": 219,
+      "isrc": "USCW61620420"
+    },
+    {
+      "artist": "Pussy Galore",
+      "title": "White People",
+      "services": {
+        "qobuz": "14904727"
+      },
+      "album": "Right Now!",
+      "duration": 67,
+      "isrc": "US2398711808"
+    },
+    {
+      "artist": "Blind Idiot God",
+      "title": "Purged Specimen",
+      "services": {
+        "qobuz": "79856581"
+      },
+      "album": "Undertow Reissue",
+      "duration": 114,
+      "isrc": "QZ9MD1700012"
+    },
+    {
+      "artist": "Barkmarket",
+      "title": "Salvation",
+      "services": {
+        "qobuz": "54351801"
+      },
+      "album": "Vegas Throat",
+      "duration": 287,
+      "isrc": "USSM10902220"
+    },
+    {
+      "artist": "Associate",
+      "title": "Trouser Minnow",
+      "services": {
+        "qobuz": "412264649"
+      },
+      "album": "Shellac of Southern Finland",
+      "duration": 236,
+      "isrc": "QZWFM2672390"
+    },
+    {
+      "artist": "Volbeat",
+      "title": "In the Barn of the Goat Giving Birth to Satan\u2019s Spawn in a Dying World of Doom",
+      "services": {
+        "qobuz": "316098483"
+      },
+      "album": "God Of Angels Trust",
+      "duration": 258,
+      "isrc": "DKNE12400005"
+    },
+    {
+      "artist": "Halo Of Flies",
+      "title": "Rubber Room",
+      "services": {
+        "qobuz": "64206824"
+      },
+      "album": "Music For Insect Minds",
+      "duration": 122,
+      "isrc": "USA560509649"
+    },
+    {
+      "artist": "Killdozer",
+      "title": "Richard",
+      "services": {
+        "qobuz": "32674614"
+      },
+      "album": "Twelve Point Buck",
+      "duration": 257,
+      "isrc": "USTG38904804"
+    },
+    {
+      "artist": "Church of Misery",
+      "title": "Soul Discharge (Mark Essex)",
+      "services": {
+        "qobuz": "56254282"
+      },
+      "album": "The Second Coming",
+      "duration": 249,
+      "isrc": "USV291435985"
+    },
+    {
+      "artist": "Steel Pole Bath Tub",
+      "title": "Time To Die",
+      "services": {
+        "qobuz": "52239157"
+      },
+      "album": "Lurch / Butterfly Love",
+      "duration": 219,
+      "isrc": "USA2Z0400122"
+    },
+    {
+      "artist": "Bitch Magnet",
+      "title": "Valmead",
+      "services": {
+        "qobuz": "20977349"
+      },
+      "album": "Ben Hur",
+      "duration": 213,
+      "isrc": "USY6C1115002"
+    },
+    {
+      "artist": "Boss Hog",
+      "title": "I Dig You",
+      "services": {
+        "qobuz": "13695783"
+      },
+      "album": "Boss Hog",
+      "duration": 194,
+      "isrc": "USGF19581106"
+    },
+    {
+      "artist": "KID",
+      "title": "Neighborhood Kid",
+      "services": {
+        "qobuz": "358970196"
+      },
+      "album": "Kill The King",
+      "duration": 151,
+      "isrc": "USY252518754"
+    },
+    {
+      "artist": "Exodus",
+      "title": "Brain Dead",
+      "services": {
+        "qobuz": "25140890"
+      },
+      "album": "Pleasures of the Flesh",
+      "duration": 255,
+      "isrc": "USSM11501850"
+    },
+    {
+      "artist": "Tar",
+      "title": "Les Paul Worries",
+      "services": {
+        "qobuz": "128921584"
+      },
+      "album": "Roundhouse",
+      "duration": 272,
+      "isrc": "USA2Z2001464"
+    },
+    {
+      "artist": "Nirvana",
+      "title": "Endless, Nameless",
+      "services": {
+        "qobuz": "14158562"
+      },
+      "album": "Nevermind",
+      "duration": 402,
+      "isrc": "USGF19942513"
+    },
+    {
+      "artist": "Daisy Chainsaw",
+      "title": "Love Your Money",
+      "services": {
+        "qobuz": "260558923"
+      },
+      "album": "Love Your Money",
+      "duration": 161,
+      "isrc": "GBMMS2300313"
+    },
+    {
+      "artist": "The Jesus Lizard",
+      "title": "Mouth Breather",
+      "services": {
+        "qobuz": "32675748"
+      },
+      "album": "Goat",
+      "duration": 136,
+      "isrc": "USTG30946802"
+    },
+    {
+      "artist": "Zeni Geva",
+      "title": "Total Castration",
+      "services": {
+        "qobuz": "386022979"
+      },
+      "album": "Superunit: Maximum Implosion",
+      "duration": 193,
+      "isrc": "QM6P41830314"
+    },
+    {
+      "artist": "Lord Tagman",
+      "title": "GORE DEVIL SHYT",
+      "services": {
+        "qobuz": "282813495"
+      },
+      "album": "X-FILES OF DARKNESS",
+      "duration": 195,
+      "isrc": "FXR752406090"
+    },
+    {
+      "artist": "Cows",
+      "title": "Heave Ho",
+      "services": {
+        "qobuz": "64224824"
+      },
+      "album": "Cunning Stunts",
+      "duration": 127,
+      "isrc": "USA560445578"
+    },
+    {
+      "artist": "Distorted Pony",
+      "title": "Krank",
+      "services": {
+        "qobuz": "238336980"
+      },
+      "album": "Live in Hamburg",
+      "duration": 208,
+      "isrc": "GBHLW2300401"
+    },
+    {
+      "artist": "High Rise",
+      "title": "Mainliner",
+      "services": {
+        "qobuz": "228264826"
+      },
+      "album": "Dispersion",
+      "duration": 628,
+      "isrc": "US2392351325"
+    },
+    {
+      "artist": "Alice Donut",
+      "title": "Mrs. Hayes",
+      "services": {
+        "qobuz": "72788823"
+      },
+      "album": "Mule",
+      "duration": 158,
+      "isrc": "US2Z41010057"
+    },
+    {
+      "artist": "Helmet",
+      "title": "Unsung",
+      "services": {
+        "qobuz": "3898895"
+      },
+      "album": "Meantime",
+      "duration": 236,
+      "isrc": "USIR19200544"
+    },
+    {
+      "artist": "Cop Shoot Cop",
+      "title": "Room 429",
+      "services": {
+        "qobuz": "51036190"
+      },
+      "album": "Ask Questions Later",
+      "duration": 308,
+      "isrc": "QMFMG1428835"
+    },
+    {
+      "artist": "Seiji Ozawa",
+      "title": "Berlioz: Symphonie fantastique, Op. 14: 1. R\u00eaveries. Passions. Largo - Allegro agitato ed appassionato assai",
+      "services": {
+        "qobuz": "189975914"
+      },
+      "album": "Berlioz: Symphonie Fantastique",
+      "duration": 799,
+      "isrc": "JPPO01138479"
+    },
+    {
+      "artist": "Tanner Gill Rahmat",
+      "title": "The Body Count I Started Counting",
+      "services": {
+        "qobuz": "407583679"
+      },
+      "album": "The Body Count I Started Counting",
+      "duration": 172,
+      "isrc": "QT82T2617426"
+    },
+    {
+      "artist": "Harry Styles",
+      "title": "American Girls",
+      "services": {
+        "qobuz": "398705951"
+      },
+      "album": "Kiss All The Time. Disco, Occasionally.",
+      "duration": 213,
+      "isrc": "USSM12600097"
+    },
+    {
+      "artist": "Nightstick",
+      "title": "In Dahmer's Room",
+      "services": {
+        "qobuz": "72953803"
+      },
+      "album": "In Dahmer's Room",
+      "duration": 230,
+      "isrc": "QM4TW1759240"
+    },
+    {
+      "artist": "PJ Harvey",
+      "title": "Rid Of Me",
+      "services": {
+        "qobuz": "758686"
+      },
+      "album": "Rid Of Me",
+      "duration": 268,
+      "isrc": "GBAAN9300092"
+    },
+    {
+      "artist": "Cherubs",
+      "title": "Shoofly",
+      "services": {
+        "qobuz": "211259101"
+      },
+      "album": "Icing",
+      "duration": 186,
+      "isrc": "QM4TX2345131"
+    },
+    {
+      "artist": "Dazzling Killmen",
+      "title": "Staring Contest (Remastered)",
+      "services": {
+        "qobuz": "48713008"
+      },
+      "album": "Face Of Collapse: Special Edition",
+      "duration": 198,
+      "isrc": "USA2B1617142"
+    },
+    {
+      "artist": "Drive Like Jehu",
+      "title": "Luau",
+      "services": {
+        "qobuz": "18560903"
+      },
+      "album": "Yank Crime",
+      "duration": 567,
+      "isrc": "US2850411504"
+    },
+    {
+      "artist": "Season to Risk",
+      "title": "Jack Frost",
+      "services": {
+        "qobuz": "225107601"
+      },
+      "album": "In A Perfect World",
+      "duration": 220,
+      "isrc": "USSM12306034"
+    },
+    {
+      "artist": "Unsane",
+      "title": "Scrape",
+      "services": {
+        "qobuz": "102528616"
+      },
+      "album": "Scattered, Smothered & Covered",
+      "duration": 189,
+      "isrc": "USY251632873"
+    },
+    {
+      "artist": "Brainiac",
+      "title": "Vincent Come On Down",
+      "services": {
+        "qobuz": "125419777"
+      },
+      "album": "From Dayton Ohio",
+      "duration": 159,
+      "isrc": "USTG32137418"
+    },
+    {
+      "artist": "Girls Against Boys",
+      "title": "Park Avenue",
+      "services": {
+        "qobuz": "13695803"
+      },
+      "album": "Freak*On*Ica",
+      "duration": 230,
+      "isrc": "USGF19815601"
+    },
+    {
+      "artist": "Rodan",
+      "title": "The Everyday World of Bodies",
+      "services": {
+        "qobuz": "32673452"
+      },
+      "album": "Rusty",
+      "duration": 715,
+      "isrc": "USA4C9402403"
+    },
+    {
+      "artist": "Unwound",
+      "title": "Kantina",
+      "services": {
+        "qobuz": "219353997"
+      },
+      "album": "Fake Train",
+      "duration": 284,
+      "isrc": "USCW61202039"
+    },
+    {
+      "artist": "GodheadSilo",
+      "title": "Elephantitus Of The Night",
+      "services": {
+        "qobuz": "73676401"
+      },
+      "album": "Elephantitus of the Night",
+      "duration": 204,
+      "isrc": "USKRS0324201"
+    },
+    {
+      "artist": "Brainbombs",
+      "title": "Slutmaster",
+      "services": {
+        "qobuz": "57468566"
+      },
+      "album": "Urge to Kill",
+      "duration": 336,
+      "isrc": "QM7281878068"
+    },
+    {
+      "artist": "U.S. Maple",
+      "title": "Hey King",
+      "services": {
+        "qobuz": "48658215"
+      },
+      "album": "Long Hair In Three Stages",
+      "duration": 216,
+      "isrc": "USKBH0710483"
+    },
+    {
+      "artist": "Shellac",
+      "title": "Prayer To God",
+      "services": {
+        "qobuz": "32673994"
+      },
+      "album": "1000 Hurts",
+      "duration": 171,
+      "isrc": "USTG30021101"
+    },
+    {
+      "artist": "Arab On Radar",
+      "title": "Piggin' In the Pumpkin Patch",
+      "services": {
+        "qobuz": "63328572"
+      },
+      "album": "The Stolen Singles",
+      "duration": 208,
+      "isrc": "USV351333227"
+    },
+    {
+      "artist": "Black Dice",
+      "title": "Smiling Off",
+      "services": {
+        "qobuz": "1940542"
+      },
+      "album": "Smiling Off",
+      "duration": 564,
+      "isrc": "US4GE0500071"
+    },
+    {
+      "artist": "Hella",
+      "title": "Biblical Violence",
+      "services": {
+        "qobuz": "73670662"
+      },
+      "album": "Hold Your Horse Is",
+      "duration": 183,
+      "isrc": "USKRS0301802"
+    },
+    {
+      "artist": "Mclusky",
+      "title": "To Hell With Good Intentions",
+      "services": {
+        "qobuz": "26360432"
+      },
+      "album": "Mclusky Do Dallas",
+      "duration": 145,
+      "isrc": "GBBNZ0100081"
+    },
+    {
+      "artist": "Boris",
+      "title": "Just Abandoned Myself",
+      "services": {
+        "qobuz": "370465836"
+      },
+      "album": "Live at Third Man Records",
+      "duration": 686,
+      "isrc": "US3JJ1701556"
+    },
+    {
+      "artist": "Slawek Pezda",
+      "title": "Dracula Mountain",
+      "services": {
+        "qobuz": "111009562"
+      },
+      "album": "The Flash! With Dustin Carlson",
+      "duration": 293,
+      "isrc": "SKA922003105"
+    },
+    {
+      "artist": "XBXRX",
+      "title": "Deaf Ears, Silent Voice",
+      "services": {
+        "qobuz": "181984673"
+      },
+      "album": "Sixth in Sixes",
+      "duration": 92,
+      "isrc": "US3R40500085"
+    },
+    {
+      "artist": "Black Eyes",
+      "title": "Deformative",
+      "services": {
+        "qobuz": "159949567"
+      },
+      "album": "Black Eyes",
+      "duration": 147,
+      "isrc": "US35U0413507"
+    },
+    {
+      "artist": "Death From Above 1979",
+      "title": "Romantic Rights",
+      "services": {
+        "qobuz": "15232823"
+      },
+      "album": "You're A Woman, I'm A Machine (DMD)",
+      "duration": 195,
+      "isrc": "CAL450490202"
+    },
+    {
+      "artist": "Deerhoof",
+      "title": "Milk Man",
+      "services": {
+        "qobuz": "163342537"
+      },
+      "album": "Milk Man",
+      "duration": 263,
+      "isrc": "USKRS0340601"
+    },
+    {
+      "artist": "An Albatross",
+      "title": "Electric Suits and Cowboy Boots",
+      "services": {
+        "qobuz": "48913278"
+      },
+      "album": "We Are the Lazer Viking",
+      "duration": 61,
+      "isrc": "US39Z0402303"
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "The Fate of Ophelia",
+      "services": {
+        "qobuz": "360735657"
+      },
+      "album": "The Life of a Showgirl",
+      "duration": 226,
+      "isrc": "USUG12506436"
+    },
+    {
+      "artist": "Partner",
+      "title": "Big Gay Hands",
+      "services": {
+        "qobuz": "98505633"
+      },
+      "album": "Never Give Up",
+      "duration": 189,
+      "isrc": "CA0LX2000029"
+    },
+    {
+      "artist": "Part Chimp",
+      "title": "Namekuji",
+      "services": {
+        "qobuz": "39745718"
+      },
+      "album": "IV",
+      "duration": 246,
+      "isrc": "GBGDZ1600043"
+    },
+    {
+      "artist": "The Psychic Paramount",
+      "title": "DDB",
+      "services": {
+        "qobuz": "20792022"
+      },
+      "album": "II",
+      "duration": 536,
+      "isrc": "USLKU1126002"
+    },
+    {
+      "artist": "Liars",
+      "title": "Plaster Casts of Everything",
+      "services": {
+        "qobuz": "5999845"
+      },
+      "album": "Liars",
+      "duration": 236,
+      "isrc": "GBAJH0700432"
+    },
+    {
+      "artist": "Soundmuseum",
+      "title": "Peaceful Dryer Noise for Sleep",
+      "services": {
+        "qobuz": "300820584"
+      },
+      "album": "Hair Dryer",
+      "duration": 128,
+      "isrc": "DESX42400202"
+    },
+    {
+      "artist": "Ray Brown",
+      "title": "Mysterioso",
+      "services": {
+        "qobuz": "203190910"
+      },
+      "album": "SuperBass 2",
+      "duration": 497,
+      "isrc": "USTE10448303"
+    },
+    {
+      "artist": "Future Of The Left",
+      "title": "Small Bones Small Bodies",
+      "services": {
+        "qobuz": "2535238"
+      },
+      "album": "Curses",
+      "duration": 142,
+      "isrc": "GBBNZ0600034"
+    },
+    {
+      "artist": "Melt-Banana",
+      "title": "Spider Snipe",
+      "services": {
+        "qobuz": "24294595"
+      },
+      "album": "Bambi's Dilemma",
+      "duration": 132,
+      "isrc": "US36X0700001"
+    },
+    {
+      "artist": "Teen Creeps",
+      "title": "No-Show",
+      "services": {
+        "qobuz": "331718123"
+      },
+      "album": "No-Show",
+      "duration": 197,
+      "isrc": "BEP012580004"
+    },
+    {
+      "artist": "A Place To Bury Strangers",
+      "title": "To Fix the Gash in Your Head",
+      "services": {
+        "qobuz": "125315430"
+      },
+      "album": "A Place to Bury Strangers",
+      "duration": 231,
+      "isrc": "USTC30721684"
+    },
+    {
+      "artist": "Kowloon Walled City",
+      "title": "Container Ships",
+      "services": {
+        "qobuz": "81515647"
+      },
+      "album": "Container Ships",
+      "duration": 431,
+      "isrc": "USWC21200110"
+    },
+    {
+      "artist": "Metz",
+      "title": "Get Off",
+      "services": {
+        "qobuz": "33330233"
+      },
+      "album": "Start Your Own Fucking Showspace",
+      "duration": 135,
+      "isrc": "USA2Z1610921"
+    },
+    {
+      "artist": "Ken Mode",
+      "title": "Blessed",
+      "services": {
+        "qobuz": "77787199"
+      },
+      "album": "Success",
+      "duration": 351,
+      "isrc": "FR33T1535701"
+    },
+    {
+      "artist": "Ovlov",
+      "title": "The Great Alligator",
+      "services": {
+        "qobuz": "74816036"
+      },
+      "album": "Am",
+      "duration": 417,
+      "isrc": "QMDA61320028"
+    },
+    {
+      "artist": "Jim Davies",
+      "title": "The Bar Is Low",
+      "services": {
+        "qobuz": "383491623"
+      },
+      "album": "The Bar Is Low",
+      "duration": 205,
+      "isrc": "GBBPP2162484"
+    },
+    {
+      "artist": "Perfect Pussy",
+      "title": "Driver",
+      "services": {
+        "qobuz": "20787022"
+      },
+      "album": "Say Yes To Love",
+      "duration": 136,
+      "isrc": "QMMZN1300546"
+    },
+    {
+      "artist": "Big Ups",
+      "title": "Goes Black",
+      "services": {
+        "qobuz": "77390109"
+      },
+      "album": "Eighteen Hours of Static",
+      "duration": 141,
+      "isrc": "USKGR1300002"
+    },
+    {
+      "artist": "Gilla Band",
+      "title": "Lawman",
+      "services": {
+        "qobuz": "23476717"
+      },
+      "album": "The Early Years",
+      "duration": 373,
+      "isrc": "IEBOE1300006"
+    },
+    {
+      "artist": "USA Nails",
+      "title": "What Is the Price?",
+      "services": {
+        "qobuz": "174659220"
+      },
+      "album": "Shame Spiral",
+      "duration": 173,
+      "isrc": "QZ22B1808979"
+    },
+    {
+      "artist": "Street Sects",
+      "title": "And I Grew into Ribbons",
+      "services": {
+        "qobuz": "34979388"
+      },
+      "album": "End Position",
+      "duration": 193,
+      "isrc": "USA2B1600513"
+    },
+    {
+      "artist": "The West Coast Pop Art Experimental Band",
+      "title": "Where Money Rules Everything",
+      "services": {
+        "qobuz": "368472416"
+      },
+      "album": "Where's My Daddy? - Remastered",
+      "duration": 118,
+      "isrc": "GBSMU1563264"
+    },
+    {
+      "artist": "The Armed",
+      "title": "AN ITERATION",
+      "services": {
+        "qobuz": "330293018"
+      },
+      "album": "ULTRAPOP",
+      "duration": 173,
+      "isrc": "USA2P1950625"
+    },
+    {
+      "artist": "Pouya",
+      "title": "LORD FORGIVE ME FOR THE PAIN I INFLICT ON MYSELF",
+      "services": {
+        "qobuz": "274184272"
+      },
+      "album": "THEY COULD NEVER MAKE ME HATE YOU",
+      "duration": 152,
+      "isrc": "USUYG1560608"
+    },
+    {
+      "artist": "Uniform",
+      "title": "The Walk",
+      "services": {
+        "qobuz": "50507312"
+      },
+      "album": "The Long Walk",
+      "duration": 330,
+      "isrc": "US5NR1820401"
+    },
+    {
+      "artist": "Guerilla Toss",
+      "title": "Can I Get the Real Stuff",
+      "services": {
+        "qobuz": "234449856"
+      },
+      "album": "GT Ultra",
+      "duration": 177,
+      "isrc": "US4GE1600080"
+    },
+    {
+      "artist": "Tropical Fuck Storm",
+      "title": "You Let My Tyres Down",
+      "services": {
+        "qobuz": "83946769"
+      },
+      "album": "You Let My Tyres Down / Back To The Wall",
+      "duration": 341,
+      "isrc": "AUHZM1800005"
+    },
+    {
+      "artist": "Chat Pile",
+      "title": "Slaughterhouse",
+      "services": {
+        "qobuz": "154544757"
+      },
+      "album": "God's Country",
+      "duration": 252,
+      "isrc": "USA2Z2100902"
+    },
+    {
+      "artist": "DITZ",
+      "title": "Summer of the Shark",
+      "services": {
+        "qobuz": "144612946"
+      },
+      "album": "The Great Regression",
+      "duration": 169,
+      "isrc": "GBZ522123503"
+    },
+    {
+      "artist": "Model/Actriz",
+      "title": "Mosquito",
+      "services": {
+        "qobuz": "350458826"
+      },
+      "album": "Dogsbody",
+      "duration": 192,
+      "isrc": "QZVM32200035"
+    },
+    {
+      "artist": "Sprain",
+      "title": "Man Proposes, God Disposes",
+      "services": {
+        "qobuz": "213788773"
+      },
+      "album": "The Lamb as Effigy",
+      "duration": 429,
+      "isrc": "USA2Z2201370"
+    }
+  ]
+}

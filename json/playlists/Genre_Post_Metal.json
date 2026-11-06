@@ -1,0 +1,750 @@
+{
+  "name": "Genre: Post Metal",
+  "services": {
+    "qobuz": "66735986",
+    "tidal": "dd7cf04d-eec8-4416-bc6c-d9461f4d0af3"
+  },
+  "description": "Imported genre playlist: Post Metal.",
+  "tracks": [
+    {
+      "artist": "Michael Angelo",
+      "title": "virtual purity interlude",
+      "services": {
+        "qobuz": "348569535"
+      },
+      "album": "NEUE AGE NEUROSIS",
+      "duration": 192,
+      "isrc": "QZWFM2563885"
+    },
+    {
+      "artist": "Cult of Luna",
+      "title": "The Watchtower",
+      "services": {
+        "qobuz": "22918099"
+      },
+      "album": "The Beyond",
+      "duration": 379,
+      "isrc": "GBBPB0200167"
+    },
+    {
+      "artist": "Isis",
+      "title": "Carry",
+      "services": {
+        "qobuz": "69391683"
+      },
+      "album": "Live VI - 11/16/2007",
+      "duration": 352,
+      "isrc": "USA371572858"
+    },
+    {
+      "artist": "L2B",
+      "title": "P\u00e9lican",
+      "services": {
+        "qobuz": "316775313"
+      },
+      "album": "P\u00e9lican",
+      "duration": 165,
+      "isrc": "FRDJ72500030"
+    },
+    {
+      "artist": "jesu",
+      "title": "Friends Are Evil (Deluxe)",
+      "services": {
+        "qobuz": "156367634"
+      },
+      "album": "jesu (Remaster Deluxe)",
+      "duration": 581,
+      "isrc": "QZHN82201766"
+    },
+    {
+      "artist": "YA\u00cfA",
+      "title": "Mi madre",
+      "services": {
+        "qobuz": "138013415"
+      },
+      "album": "Annette De Mare a Hija",
+      "duration": 37,
+      "isrc": "FR9W12133034"
+    },
+    {
+      "artist": "Buried Inside",
+      "title": "Time As Commodity",
+      "services": {
+        "qobuz": "60650276"
+      },
+      "album": "Chronoclast: Selected Essays on Time-Reckoning and Auto-Cannibalism",
+      "duration": 350,
+      "isrc": "US2640562909"
+    },
+    {
+      "artist": "Red Sparowes",
+      "title": "Like the Howling Glory of the Darkest Winds, This Voice Was Thunderous and the Words Holy, Tangling Their Way Around Our Hearts and Clutching Our Innocent Awe",
+      "services": {
+        "qobuz": "46845527"
+      },
+      "album": "Every Red Heart Shines Toward the Red Sun",
+      "duration": 607,
+      "isrc": "US4JA0600386"
+    },
+    {
+      "artist": "Rosetta",
+      "title": "Wake",
+      "services": {
+        "qobuz": "63293299"
+      },
+      "album": "Wake/Lift",
+      "duration": 567,
+      "isrc": "USCHW0702305"
+    },
+    {
+      "artist": "Made Out Of Babies",
+      "title": "Cooker",
+      "services": {
+        "qobuz": "387128012"
+      },
+      "album": "The Ruiner",
+      "duration": 349,
+      "isrc": "US2420810601"
+    },
+    {
+      "artist": "Battle Of Mice",
+      "title": "At the Base of the Giant's Throat",
+      "services": {
+        "qobuz": "49363146"
+      },
+      "album": "A Day of Nights",
+      "duration": 548,
+      "isrc": "US4JA0600397"
+    },
+    {
+      "artist": "Callisto",
+      "title": "Cold Stare",
+      "services": {
+        "qobuz": "77352522"
+      },
+      "album": "True Nature Unfolds",
+      "duration": 392,
+      "isrc": "FIFR50400022"
+    },
+    {
+      "artist": "Russian Circles",
+      "title": "Harper Lewis",
+      "services": {
+        "qobuz": "20966733"
+      },
+      "album": "Station",
+      "duration": 435,
+      "isrc": "US33X0807002"
+    },
+    {
+      "artist": "Mouth of the Architect",
+      "title": "Hate And Heartache",
+      "services": {
+        "qobuz": "63287429"
+      },
+      "album": "Quietly",
+      "duration": 453,
+      "isrc": "USCHW0803002"
+    },
+    {
+      "artist": "Giant Squid",
+      "title": "Metridium Fields",
+      "services": {
+        "qobuz": "239204439"
+      },
+      "album": "Metridium Fields",
+      "duration": 1268,
+      "isrc": "USCHW2321708"
+    },
+    {
+      "artist": "Zatokrev",
+      "title": "Bury The Ashes",
+      "services": {
+        "qobuz": "101250551"
+      },
+      "album": "Bury The Ashes",
+      "duration": 458,
+      "isrc": "CH5110600001"
+    },
+    {
+      "artist": "Overmars",
+      "title": "Born Again",
+      "services": {
+        "qobuz": "25446625"
+      },
+      "album": "Born Again",
+      "duration": 2365,
+      "isrc": "US33D0910026"
+    },
+    {
+      "artist": "Bossk",
+      "title": "Truth II",
+      "services": {
+        "qobuz": "251028845"
+      },
+      "album": ".4",
+      "duration": 477,
+      "isrc": "QZ22D2400028"
+    },
+    {
+      "artist": "Jos\u00e9 Gonz\u00e1lez",
+      "title": "A Perfect Storm",
+      "services": {
+        "qobuz": "374810063"
+      },
+      "album": "Against The Dying Of The Light",
+      "duration": 184,
+      "isrc": "SEVVX2600101"
+    },
+    {
+      "artist": "Minsk",
+      "title": "Ceremony Ek Stasis",
+      "services": {
+        "qobuz": "60622095"
+      },
+      "album": "The Ritual Fires of Abandonment",
+      "duration": 939,
+      "isrc": "US2640770806"
+    },
+    {
+      "artist": "Dirge",
+      "title": "Venus Claws",
+      "services": {
+        "qobuz": "14818675"
+      },
+      "album": "Hyperion",
+      "duration": 531,
+      "isrc": "FR9W11319707"
+    },
+    {
+      "artist": "Deep Theta Binaural Beats",
+      "title": "Angelic Sleep Voyage",
+      "services": {
+        "qobuz": "276185216"
+      },
+      "album": "Angels in the Sands of Time: Sleep Hypnosis Meditation, Time Travel with Angels to Manifest Your Future, or Discover Your Past Lives, Deep Theta/Delta Waves",
+      "duration": 178,
+      "isrc": "IEWWH2408562"
+    },
+    {
+      "artist": "Amenra",
+      "title": ".Razoreater.",
+      "services": {
+        "qobuz": "188585799"
+      },
+      "album": "Mass Iiii",
+      "duration": 421,
+      "isrc": "TCAAW1137142"
+    },
+    {
+      "artist": "Burst",
+      "title": "Where the Wave Broke",
+      "services": {
+        "qobuz": "60829058"
+      },
+      "album": "Origo",
+      "duration": 216,
+      "isrc": "US2640565701"
+    },
+    {
+      "artist": "Latitudes",
+      "title": "Antechamber",
+      "services": {
+        "qobuz": "46877628"
+      },
+      "album": "Agonist",
+      "duration": 425,
+      "isrc": "GBTEG0900119"
+    },
+    {
+      "artist": "The Atlas Moth",
+      "title": "The Streets of Bombay",
+      "services": {
+        "qobuz": "47185474"
+      },
+      "album": "Coma Noir",
+      "duration": 428,
+      "isrc": "USERN1009632"
+    },
+    {
+      "artist": "With Our Arms to the Sun",
+      "title": "The War: Light the Shadows",
+      "services": {
+        "qobuz": "125680945"
+      },
+      "album": "Orenda",
+      "duration": 337,
+      "isrc": "TCACZ1724652"
+    },
+    {
+      "artist": "Sierra Hull",
+      "title": "Lord, That's A Long Way",
+      "services": {
+        "qobuz": "313210714"
+      },
+      "album": "A Tip Toe High Wire",
+      "duration": 187,
+      "isrc": "USUYG1594569"
+    },
+    {
+      "artist": "A Swarm of the Sun",
+      "title": "These Depths Were Always Meant for Both of Us",
+      "services": {
+        "qobuz": "111312259"
+      },
+      "album": "20.11.03",
+      "duration": 659,
+      "isrc": "QM4TW2102641"
+    },
+    {
+      "artist": "The Ocean",
+      "title": "Firmament",
+      "services": {
+        "qobuz": "60685696"
+      },
+      "album": "Heliocentric",
+      "duration": 449,
+      "isrc": "USMBR1007290"
+    },
+    {
+      "artist": "Rinoa",
+      "title": "Past Maidens",
+      "services": {
+        "qobuz": "73917155"
+      },
+      "album": "An Age Among Them",
+      "duration": 507,
+      "isrc": "GBMMV1010012"
+    },
+    {
+      "artist": "Year of No Light",
+      "title": "Les Mains De L'empereur",
+      "services": {
+        "qobuz": "168852941"
+      },
+      "album": "Nord",
+      "duration": 597,
+      "isrc": "FR6V81576859"
+    },
+    {
+      "artist": "The Amazing Rhythm Aces",
+      "title": "Living in a World Unknown",
+      "services": {
+        "qobuz": "19716963"
+      },
+      "album": "Toucan Do It Too",
+      "duration": 265,
+      "isrc": "USSM11406014"
+    },
+    {
+      "artist": "Omega Massif",
+      "title": "Im Karst",
+      "services": {
+        "qobuz": "104316116"
+      },
+      "album": "Karpatia",
+      "duration": 484,
+      "isrc": "DEZ651109863"
+    },
+    {
+      "artist": "S\u00f3lstafir",
+      "title": "Lj\u00f3s \u00ed Stormi",
+      "services": {
+        "qobuz": "77783456"
+      },
+      "album": "Svartir Sandar",
+      "duration": 695,
+      "isrc": "FR33T1124701"
+    },
+    {
+      "artist": "*Shels",
+      "title": "Butterflies (on Luci's Way)",
+      "services": {
+        "qobuz": "73913879"
+      },
+      "album": "Plains of the Purple Buffalo",
+      "duration": 544,
+      "isrc": "GBTEG1100170"
+    },
+    {
+      "artist": "Toundra",
+      "title": "Cielo Negro (Black Sky)",
+      "services": {
+        "qobuz": "49068070"
+      },
+      "album": "(III)",
+      "duration": 360,
+      "isrc": "ES71I1200033"
+    },
+    {
+      "artist": "The Growlers",
+      "title": "When You Were Made",
+      "services": {
+        "qobuz": "167624034"
+      },
+      "album": "City Club",
+      "duration": 218,
+      "isrc": "QMKBG1600049"
+    },
+    {
+      "artist": "Tempel",
+      "title": "On the Steps of the Temple",
+      "services": {
+        "qobuz": "49170875"
+      },
+      "album": "On the Steps of the Temple",
+      "duration": 659,
+      "isrc": "USERN1008617"
+    },
+    {
+      "artist": "Obscure Sphinx",
+      "title": "Lunar Caustic",
+      "services": {
+        "qobuz": "125363935"
+      },
+      "album": "Void Mother",
+      "duration": 471,
+      "isrc": "TCABS1487264"
+    },
+    {
+      "artist": "True Widow",
+      "title": "FOUR TEETH",
+      "services": {
+        "qobuz": "60770474"
+      },
+      "album": "Circumambulation",
+      "duration": 376,
+      "isrc": "US2641321803"
+    },
+    {
+      "artist": "Abraham",
+      "title": "I Ride the Last Sunrise",
+      "services": {
+        "qobuz": "51805562"
+      },
+      "album": "Look, Here Comes the Dark!",
+      "duration": 361,
+      "isrc": "DEZ651716238"
+    },
+    {
+      "artist": "Rush",
+      "title": "Leave That Thing Alone",
+      "services": {
+        "qobuz": "17376575"
+      },
+      "album": "The Studio Albums 1989-2007",
+      "duration": 245,
+      "isrc": "USAT21300557"
+    },
+    {
+      "artist": "Planning For Burial",
+      "title": "Warmth of You",
+      "services": {
+        "qobuz": "38677759"
+      },
+      "album": "Below the House",
+      "duration": 213,
+      "isrc": "USA2Z1611575"
+    },
+    {
+      "artist": "Light Bearer",
+      "title": "Prelapsus",
+      "services": {
+        "qobuz": "48632405"
+      },
+      "album": "Lapsus",
+      "duration": 424,
+      "isrc": "DEZ651116164"
+    },
+    {
+      "artist": "Birds on a Wire",
+      "title": "H\u00e9las mon c\u0153ur",
+      "services": {
+        "qobuz": "338136761"
+      },
+      "album": "Nu\u00e9es ardentes",
+      "duration": 175,
+      "isrc": "FR9W12466161"
+    },
+    {
+      "artist": "Svalbard",
+      "title": "Open Wound",
+      "services": {
+        "qobuz": "105366570"
+      },
+      "album": "When I Die, Will I Get Better?",
+      "duration": 336,
+      "isrc": "GBMLT1501478"
+    },
+    {
+      "artist": "Spotlights",
+      "title": "Seismic",
+      "services": {
+        "qobuz": "92307263"
+      },
+      "album": "Spotlights on Audiotree Live",
+      "duration": 310,
+      "isrc": "QM99V1713001"
+    },
+    {
+      "artist": "Sumac",
+      "title": "The Task",
+      "services": {
+        "qobuz": "158658890"
+      },
+      "album": "St Vitus 09\u200b/\u200b07\u200b/\u200b2018",
+      "duration": 1184,
+      "isrc": "USA2B2202490"
+    },
+    {
+      "artist": "Boris",
+      "title": "Farewell",
+      "services": {
+        "qobuz": "29173396"
+      },
+      "album": "Gensho",
+      "duration": 473,
+      "isrc": "JPB621500071"
+    },
+    {
+      "artist": "Mountaineer",
+      "title": "Bloodletting",
+      "services": {
+        "qobuz": "89528456"
+      },
+      "album": "Bloodletting",
+      "duration": 327,
+      "isrc": "US94P2019705"
+    },
+    {
+      "artist": "Glassing",
+      "title": "A Good Death",
+      "services": {
+        "qobuz": "59509775"
+      },
+      "album": "Spotted Horse",
+      "duration": 365,
+      "isrc": "QM4TX1916029"
+    },
+    {
+      "artist": "Sannhet",
+      "title": "Revisionist",
+      "services": {
+        "qobuz": "52279881"
+      },
+      "album": "Revisionist",
+      "duration": 242,
+      "isrc": "US3CR1401045"
+    },
+    {
+      "artist": "Love Sex Machine",
+      "title": "Asexual Anger",
+      "services": {
+        "qobuz": "198451110"
+      },
+      "album": "Asexual Anger",
+      "duration": 280,
+      "isrc": "FR26V1603457"
+    },
+    {
+      "artist": "Holy Fawn",
+      "title": "Dark Stone",
+      "services": {
+        "qobuz": "60028369"
+      },
+      "album": "Death Spells",
+      "duration": 382,
+      "isrc": "QZDA81847253"
+    },
+    {
+      "artist": "Psychonaut",
+      "title": "The Fall of Consciousness",
+      "services": {
+        "qobuz": "84995013"
+      },
+      "album": "Unfold the God Man",
+      "duration": 532,
+      "isrc": "QMPKX1812830"
+    },
+    {
+      "artist": "Trna",
+      "title": "Earthcult",
+      "services": {
+        "qobuz": "98034440"
+      },
+      "album": "Earthcult",
+      "duration": 898,
+      "isrc": "USCGJ1828517"
+    },
+    {
+      "artist": "Messa",
+      "title": "Leah",
+      "services": {
+        "qobuz": "53770786"
+      },
+      "album": "Feast for Water",
+      "duration": 489,
+      "isrc": "ITJ351801648"
+    },
+    {
+      "artist": "The Moth Gatherer",
+      "title": "Pale Explosions",
+      "services": {
+        "qobuz": "308285993"
+      },
+      "album": "The Earth Is the Sky",
+      "duration": 517,
+      "isrc": "QM7281591352"
+    },
+    {
+      "artist": "Hypno5e",
+      "title": "On the Dry Lake",
+      "services": {
+        "qobuz": "71533833"
+      },
+      "album": "A Distant (Dark) Source",
+      "duration": 746,
+      "isrc": "QM6P41993838"
+    },
+    {
+      "artist": "PSOTY",
+      "title": "Watcher Of The Abyss",
+      "services": {
+        "qobuz": "190322839"
+      },
+      "album": "Sunless",
+      "duration": 614,
+      "isrc": "GBUM71902464"
+    },
+    {
+      "artist": "luXe Timeless",
+      "title": "Groove C\u00e9leste",
+      "services": {
+        "qobuz": "217446088"
+      },
+      "album": "Groove C\u00e9leste",
+      "duration": 170,
+      "isrc": "QZK6G2305257"
+    },
+    {
+      "artist": "E. Wyatt",
+      "title": "Mus\u030chus\u030cs\u030cu",
+      "services": {
+        "qobuz": "279505509"
+      },
+      "album": "Al Beluti Daru",
+      "duration": 1113,
+      "isrc": "GX3Q92187107"
+    },
+    {
+      "artist": "Som",
+      "title": "Awake // Sedate",
+      "services": {
+        "qobuz": "109177951"
+      },
+      "album": "Awake // Sedate",
+      "duration": 273,
+      "isrc": "DGA052099384"
+    },
+    {
+      "artist": "LLNN",
+      "title": "Desecrator",
+      "services": {
+        "qobuz": "125572458"
+      },
+      "album": "Unmaker",
+      "duration": 252,
+      "isrc": "QM4TX2149459"
+    },
+    {
+      "artist": "DVNE",
+      "title": "Towers",
+      "services": {
+        "qobuz": "106334374"
+      },
+      "album": "Etemen \u00c6nka",
+      "duration": 545,
+      "isrc": "USMBR1914012"
+    },
+    {
+      "artist": "Sons of Alpha Centauri",
+      "title": "Push",
+      "services": {
+        "qobuz": "157889277"
+      },
+      "album": "Push",
+      "duration": 203,
+      "isrc": "GBWMH2109804"
+    },
+    {
+      "artist": "Devinaga",
+      "title": "Heel en compleet",
+      "services": {
+        "qobuz": "419996158"
+      },
+      "album": "Mijn pijn, mijn leraar",
+      "duration": 162,
+      "isrc": "QZZ7T2629600"
+    },
+    {
+      "artist": "E-L-R",
+      "title": "Opiate the Sun",
+      "services": {
+        "qobuz": "189660978"
+      },
+      "album": "Vexier",
+      "duration": 726,
+      "isrc": "DES562210012"
+    },
+    {
+      "artist": "BRIQUEVILLE",
+      "title": "AKTE XVI",
+      "services": {
+        "qobuz": "226188739"
+      },
+      "album": "IIII",
+      "duration": 417,
+      "isrc": "QMFME2225969"
+    },
+    {
+      "artist": "Wren",
+      "title": "Scorched Hinds",
+      "services": {
+        "qobuz": "302286436"
+      },
+      "album": "Black Rain Falls",
+      "duration": 256,
+      "isrc": "DGA0R2419238"
+    },
+    {
+      "artist": "r\u00fdr",
+      "title": "dislodged",
+      "services": {
+        "qobuz": "317886546"
+      },
+      "album": "dislodged",
+      "duration": 410,
+      "isrc": "QM4TX2541339"
+    },
+    {
+      "artist": "Baku",
+      "title": "OPPOSITE 1",
+      "services": {
+        "qobuz": "318706689"
+      },
+      "album": "SOMA",
+      "duration": 694,
+      "isrc": "FR9W12430588"
+    },
+    {
+      "artist": "Bimurta Metal",
+      "title": "Baba Hargila",
+      "services": {
+        "qobuz": "378908699"
+      },
+      "album": "All skies lead to the sun",
+      "duration": 258,
+      "isrc": "QT6G52570373"
+    }
+  ]
+}

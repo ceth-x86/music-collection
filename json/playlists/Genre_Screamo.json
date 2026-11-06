@@ -1,0 +1,1010 @@
+{
+  "name": "Genre: Screamo",
+  "services": {
+    "qobuz": "66736658",
+    "tidal": "b695d215-ba75-4703-abdc-232fc6e02e75"
+  },
+  "description": "Imported genre playlist: Screamo.",
+  "tracks": [
+    {
+      "artist": "Heroin",
+      "title": "Head Cold",
+      "services": {
+        "qobuz": "221090572"
+      },
+      "album": "Discography",
+      "duration": 196,
+      "isrc": "USZPA0902115"
+    },
+    {
+      "artist": "Mohinder",
+      "title": "To Satisfy",
+      "services": {
+        "qobuz": "99794089"
+      },
+      "album": "O Nation, You Bleed From Many Wounds, 1896",
+      "duration": 125,
+      "isrc": "US27Y0403401"
+    },
+    {
+      "artist": "Julia...",
+      "title": "Song In A",
+      "services": {
+        "qobuz": "246089193"
+      },
+      "album": "Julia...",
+      "duration": 142,
+      "isrc": "QZFYX2462037"
+    },
+    {
+      "artist": "Antioch Arrow",
+      "title": "Angel's Lawn",
+      "services": {
+        "qobuz": "352635950"
+      },
+      "album": "In Love With Jetts",
+      "duration": 80,
+      "isrc": "USTC00958255"
+    },
+    {
+      "artist": "Swing Kids",
+      "title": "Disease",
+      "services": {
+        "qobuz": "63330087"
+      },
+      "album": "Discography",
+      "duration": 163,
+      "isrc": "USV351317378"
+    },
+    {
+      "artist": "Portraits of Past",
+      "title": "Bang Yer Head",
+      "services": {
+        "qobuz": "317158062"
+      },
+      "album": "Portraits of Past",
+      "duration": 441,
+      "isrc": "USCGJ2520094"
+    },
+    {
+      "artist": "Angel Hair",
+      "title": "Witch Hunt Scene from Star Trek",
+      "services": {
+        "qobuz": "236623982"
+      },
+      "album": "Insect Immortality",
+      "duration": 119,
+      "isrc": "USTC00947449"
+    },
+    {
+      "artist": "Saetia",
+      "title": "Venus and Bacchus",
+      "services": {
+        "qobuz": "44882376"
+      },
+      "album": "Collected",
+      "duration": 199,
+      "isrc": "QMFMF1545233"
+    },
+    {
+      "artist": "Reversal Of Man",
+      "title": "January Twenty Second",
+      "services": {
+        "qobuz": "389879050"
+      },
+      "album": "This Is Medicine",
+      "duration": 82,
+      "isrc": "USQY51709154"
+    },
+    {
+      "artist": "You and I",
+      "title": "Tell Me About Your Childhood (Remastered 2020)",
+      "services": {
+        "qobuz": "369825810"
+      },
+      "album": "Complete",
+      "duration": 218,
+      "isrc": "TCAJX2524975"
+    },
+    {
+      "artist": "Love Lost But Not Forgotten",
+      "title": "Loathing",
+      "services": {
+        "qobuz": "79148594"
+      },
+      "album": "Love Lost but Not Forgotten",
+      "duration": 163,
+      "isrc": "QM4TX1562387"
+    },
+    {
+      "artist": "Cat Stevens",
+      "title": "Father And Son",
+      "services": {
+        "qobuz": "350553526"
+      },
+      "album": "On The Road To Findout: Greatest Hits",
+      "duration": 220,
+      "isrc": "GBUM71905972"
+    },
+    {
+      "artist": "Jeromes Dream",
+      "title": "It's More Like a Message to You",
+      "services": {
+        "qobuz": "79861862"
+      },
+      "album": "Completed",
+      "duration": 210,
+      "isrc": "QM4DW1881506"
+    },
+    {
+      "artist": "Pageninetynine",
+      "title": "In Love with an Apparition",
+      "services": {
+        "qobuz": "75385790"
+      },
+      "album": "Document 10",
+      "duration": 220,
+      "isrc": "QM6N21706859"
+    },
+    {
+      "artist": "City of Caterpillar",
+      "title": "A Little Change Could Go a Long Ways",
+      "services": {
+        "qobuz": "79134588"
+      },
+      "album": "City of Caterpillar",
+      "duration": 578,
+      "isrc": "QM6N21409790"
+    },
+    {
+      "artist": "envy",
+      "title": "A Will Remains in the Ashes",
+      "services": {
+        "qobuz": "99477920"
+      },
+      "album": "A Dead Sinking Story",
+      "duration": 764,
+      "isrc": "JPS801835758"
+    },
+    {
+      "artist": "Circle Takes the Square",
+      "title": "Interview at the Ruins",
+      "services": {
+        "qobuz": "65332195"
+      },
+      "album": "As the Roots Undo",
+      "duration": 309,
+      "isrc": "USBE71910005"
+    },
+    {
+      "artist": "TigerShot JazzWorks",
+      "title": "Coffee Notes Rain",
+      "services": {
+        "qobuz": "339889486"
+      },
+      "album": "Bold Roast Jazz Grooves",
+      "duration": 161,
+      "isrc": "TCJPI2549487"
+    },
+    {
+      "artist": "La quiete",
+      "title": "La fine non \u00e8 la fine",
+      "services": {
+        "qobuz": "327827224"
+      },
+      "album": "La fine non \u00e8 la fine",
+      "duration": 266,
+      "isrc": "QZTAT2424653"
+    },
+    {
+      "artist": "Golden Hour Worship",
+      "title": "Kora Dawn",
+      "services": {
+        "qobuz": "432800142"
+      },
+      "album": "Southern Gospel Blues, Vol. 27",
+      "duration": 206,
+      "isrc": "QT6EV2671727"
+    },
+    {
+      "artist": "Funeral Diner",
+      "title": "What Was Said",
+      "services": {
+        "qobuz": "125536411"
+      },
+      "album": "The Underdark",
+      "duration": 200,
+      "isrc": "TCAEM1973518"
+    },
+    {
+      "artist": "Franck Pourcel",
+      "title": "Les Diamants sont \u00e9ternels",
+      "services": {
+        "qobuz": "6257276"
+      },
+      "album": "Vivre et laisser mourir (Live and Let Die)",
+      "duration": 208,
+      "isrc": "FRZ111200690"
+    },
+    {
+      "artist": "Dream, Ivory",
+      "title": "Nancy's Knife",
+      "services": {
+        "qobuz": "328323268"
+      },
+      "album": "When You Come Back I Have So Much To Tell You",
+      "duration": 189,
+      "isrc": "QM6MZ2511162"
+    },
+    {
+      "artist": "Chapel Choir of the Royal Hospital Chelsea",
+      "title": "No. 498, Gird on Thy Sword, H. 168 \"Chilswell\"",
+      "services": {
+        "qobuz": "309825418"
+      },
+      "album": "I Vow to Thee, My Country",
+      "duration": 139,
+      "isrc": "GBBZS2227902"
+    },
+    {
+      "artist": "The Porter's Gate",
+      "title": "GUARDIAN (Psalm 121) (feat. Page CXVI & Leslie Jordan)",
+      "services": {
+        "qobuz": "429871685"
+      },
+      "album": "Message Songs",
+      "duration": 189,
+      "isrc": "QZGXC2400351"
+    },
+    {
+      "artist": "Voices Of The Ocean",
+      "title": "Coastal Route",
+      "services": {
+        "qobuz": "215530709"
+      },
+      "album": "Coastal Route",
+      "duration": 195,
+      "isrc": "SE66H2300671"
+    },
+    {
+      "artist": "Matthew C. Whitaker",
+      "title": "A Portrait of the Artist as an Old Man",
+      "services": {
+        "qobuz": "358114899"
+      },
+      "album": "Songs for the Weary",
+      "duration": 278,
+      "isrc": "GBER72500079"
+    },
+    {
+      "artist": "IAmNotARobot",
+      "title": "Its So Much Better When I Listen To You",
+      "services": {
+        "qobuz": "355559578"
+      },
+      "album": "O'Hare By The Morning",
+      "duration": 146,
+      "isrc": "QT4K42561276"
+    },
+    {
+      "artist": "The Bird and the Bee",
+      "title": "Fucking Boyfriend",
+      "services": {
+        "qobuz": "742261"
+      },
+      "album": "Forgetting Sarah Marshall Original Motion Picture Soundtrack",
+      "duration": 193,
+      "isrc": "USBN20600375"
+    },
+    {
+      "artist": "Lost At Sea",
+      "title": "I would be a doctor I say fruit a dog patience Dewsbury eats with his mother. He lives in a big house. I want to have a dog for now opportunity Pizza at work you make me happy",
+      "services": {
+        "qobuz": "271302237"
+      },
+      "album": "What is codol sqdduirrel I think his grades are bad Oh! what is sqdduirrel kodal I'm sure his nuts aren't that big he is amazing Oh my god I don't like his nut big hugdde hopdde I hope they are not red dear god: How wonderful Its seeds are not large Wow!",
+      "duration": 128,
+      "isrc": "QZNWU2428933"
+    },
+    {
+      "artist": "We Came Out Like Tigers",
+      "title": "Do Not Say Reduced To Tears",
+      "services": {
+        "qobuz": "119869568"
+      },
+      "album": "True Love, Always",
+      "duration": 141,
+      "isrc": "GBSMU9479268"
+    },
+    {
+      "artist": "NESecito",
+      "title": "Eyes Turned Towards Heaven",
+      "services": {
+        "qobuz": "366167787"
+      },
+      "album": "Living Water (\"An Instrumental Worship Album\") [Extended Version]",
+      "duration": 1427,
+      "isrc": "QT6632510293"
+    },
+    {
+      "artist": "Otis Clay",
+      "title": "When Hearts Grow Cold",
+      "services": {
+        "qobuz": "48357815"
+      },
+      "album": "In the House",
+      "duration": 355,
+      "isrc": "DEH400518403"
+    },
+    {
+      "artist": "The Blind Boys Of Alabama",
+      "title": "I Am Not Waiting Anymore",
+      "services": {
+        "qobuz": "25367237"
+      },
+      "album": "I'll Find a Way",
+      "duration": 221,
+      "isrc": "USQX91301269"
+    },
+    {
+      "artist": "Fever Ray",
+      "title": "Falling",
+      "services": {
+        "qobuz": "44549254"
+      },
+      "album": "Plunge",
+      "duration": 303,
+      "isrc": "SEWCE1700004"
+    },
+    {
+      "artist": "Haley Heynderickx",
+      "title": "Untitled God Song",
+      "services": {
+        "qobuz": "46515201"
+      },
+      "album": "I Need to Start a Garden",
+      "duration": 224,
+      "isrc": "QMFW91700134"
+    },
+    {
+      "artist": "Pallbearer",
+      "title": "Worlds Apart",
+      "services": {
+        "qobuz": "18804399"
+      },
+      "album": "Foundations of Burden",
+      "duration": 616,
+      "isrc": "USN681410078"
+    },
+    {
+      "artist": "Kings Of Convenience",
+      "title": "Riot On An Empty Street",
+      "services": {
+        "qobuz": "192467406"
+      },
+      "album": "Declaration Of Dependence",
+      "duration": 245,
+      "isrc": "GBDCG0900027"
+    },
+    {
+      "artist": "Mg\u0142a",
+      "title": "Exercises in Futility V",
+      "services": {
+        "qobuz": "226934588"
+      },
+      "album": "Exercises in Futility",
+      "duration": 495,
+      "isrc": "GBSMU5712818"
+    },
+    {
+      "artist": "Rihanna",
+      "title": "Where Have You Been",
+      "services": {
+        "qobuz": "4514785"
+      },
+      "album": "Talk That Talk",
+      "duration": 242,
+      "isrc": "USUM71118074"
+    },
+    {
+      "artist": "Detroit Hustler's",
+      "title": "Purple Pills",
+      "services": {
+        "qobuz": "26802546"
+      },
+      "album": "Music Inspired by the Films: 8 Mile vs. Get Rich or Die Tryin'",
+      "duration": 309,
+      "isrc": "QMVRR1537601"
+    },
+    {
+      "artist": "Grim Salvo",
+      "title": "In Case of Flies",
+      "services": {
+        "qobuz": "276566293"
+      },
+      "album": "VOIDST\u2605R",
+      "duration": 250,
+      "isrc": "QZRP52492166"
+    },
+    {
+      "artist": "New Cool Collective",
+      "title": "For The World Is Hollow And I Have Touched The Sky",
+      "services": {
+        "qobuz": "73250078"
+      },
+      "album": "BIG",
+      "duration": 373,
+      "isrc": "NLB150100660"
+    },
+    {
+      "artist": "Pierce The Veil",
+      "title": "Hell Above",
+      "services": {
+        "qobuz": "31035203"
+      },
+      "album": "Collide With The Sky",
+      "duration": 224,
+      "isrc": "US5261216602"
+    },
+    {
+      "artist": "Iselia",
+      "title": "Great Kharlan",
+      "services": {
+        "qobuz": "78811067"
+      },
+      "album": "Life from Dead Limbs",
+      "duration": 279,
+      "isrc": "USHM21173377"
+    },
+    {
+      "artist": "american poetry club",
+      "title": "One Day We Will Both Feel Fine and Good and Free!",
+      "services": {
+        "qobuz": "179836498"
+      },
+      "album": "Do You Believe in Your Heart?!",
+      "duration": 218,
+      "isrc": "QZGWX2041347"
+    },
+    {
+      "artist": "Bertrand Chamayou",
+      "title": "Our Spring Will Come",
+      "services": {
+        "qobuz": "265250888"
+      },
+      "album": "Cage\u00b2",
+      "duration": 249,
+      "isrc": "GBAYC2400415"
+    },
+    {
+      "artist": "Salvatore Adamo",
+      "title": "Gute reise, sch\u00f6ne Rose",
+      "services": {
+        "qobuz": "43526286"
+      },
+      "album": "Adamo: All the Best",
+      "duration": 172,
+      "isrc": "BEI010700201"
+    },
+    {
+      "artist": "John Vincent III",
+      "title": "Untitled #2",
+      "services": {
+        "qobuz": "62146880"
+      },
+      "album": "Songs from the Valley",
+      "duration": 314,
+      "isrc": "FR2X41988857"
+    },
+    {
+      "artist": "\u306d\u3053\u3068\u97f3\u697d/Cats & Music",
+      "title": "\u3055\u304b\u306a\u96f2 \u2013 Fish-shaped Clouds",
+      "services": {
+        "qobuz": "330789168"
+      },
+      "album": "\u6d77\u8fba\u306e\u30ae\u30bf\u30fc~Guitar by the sea ~",
+      "duration": 250,
+      "isrc": "QZMEQ2551266"
+    },
+    {
+      "artist": "The Red Scare",
+      "title": "12 Years Past",
+      "services": {
+        "qobuz": "253608879"
+      },
+      "album": "Smoky Mountain High",
+      "duration": 196,
+      "isrc": "USA2Z1900987"
+    },
+    {
+      "artist": "The Beatles",
+      "title": "I'm Happy Just To Dance With You",
+      "services": {
+        "qobuz": "30369967"
+      },
+      "album": "A Hard Day's Night",
+      "duration": 116,
+      "isrc": "GBAYE0601441"
+    },
+    {
+      "artist": "I Love You Honey Bunny",
+      "title": "On Our Way",
+      "services": {
+        "qobuz": "205972073"
+      },
+      "album": "We Just Had a Wonderful Time",
+      "duration": 185,
+      "isrc": "CZCW72200008"
+    },
+    {
+      "artist": "The Selecter",
+      "title": "Things Fall Apart",
+      "services": {
+        "qobuz": "57141681"
+      },
+      "album": "Daylight",
+      "duration": 249,
+      "isrc": "UKAMJ1700019"
+    },
+    {
+      "artist": "Buddhism Academy",
+      "title": "Sacred Elation on Worldly Ground",
+      "services": {
+        "qobuz": "223115405"
+      },
+      "album": "Augmenting My Capacities",
+      "duration": 126,
+      "isrc": "DEAR42315661"
+    },
+    {
+      "artist": "David Bowie",
+      "title": "Slip Away",
+      "services": {
+        "qobuz": "203637088"
+      },
+      "album": "A Reality Tour",
+      "duration": 356,
+      "isrc": "USRF30900026"
+    },
+    {
+      "artist": "meraki.",
+      "title": "melancholia",
+      "services": {
+        "qobuz": "418127558"
+      },
+      "album": "melancholia",
+      "duration": 121,
+      "isrc": "QT4K42620504"
+    },
+    {
+      "artist": "Indifferent Sky",
+      "title": "From My Fingertips To Your Eyes",
+      "services": {
+        "qobuz": "341187410"
+      },
+      "album": "RANDOM CHAOS",
+      "duration": 194,
+      "isrc": "QZTB42535914"
+    },
+    {
+      "artist": "Teen Suicide",
+      "title": "the same things happening to me all the time, even in my dreams",
+      "services": {
+        "qobuz": "83174819"
+      },
+      "album": "i will be my own hell because there is a devil inside my body",
+      "duration": 291,
+      "isrc": "QMCE71300274"
+    },
+    {
+      "artist": "Julia Michaels",
+      "title": "Issues",
+      "services": {
+        "qobuz": "54700962"
+      },
+      "album": "Nervous System",
+      "duration": 175,
+      "isrc": "USUM71615691"
+    },
+    {
+      "artist": "Mitski",
+      "title": "My Love Mine All Mine",
+      "services": {
+        "qobuz": "218844819"
+      },
+      "album": "The Land Is Inhospitable and So Are We",
+      "duration": 137,
+      "isrc": "USJ5G2335007"
+    },
+    {
+      "artist": "Bj\u00f6rn Valhalla",
+      "title": "I Still See Your Shadow At The Shield Wall Where You Fell (Viking Trap)",
+      "services": {
+        "qobuz": "421588604"
+      },
+      "album": "Somewhere Between Love And Valhalla",
+      "duration": 172,
+      "isrc": "QT3EX2684490"
+    },
+    {
+      "artist": "Protoje",
+      "title": "Something I Said",
+      "services": {
+        "qobuz": "390720118"
+      },
+      "album": "The Art of Acceptance",
+      "duration": 222,
+      "isrc": "QZ5FN2651263"
+    },
+    {
+      "artist": "Blackgold",
+      "title": "One Chance",
+      "services": {
+        "qobuz": "242982108"
+      },
+      "album": "Back With Another One",
+      "duration": 225,
+      "isrc": "USA2P2349005"
+    },
+    {
+      "artist": "Alessandro Simonetto (Pianist, Harpsichordist)",
+      "title": "Untitled Piece \"Caresse\" (Ed. R. Caby)",
+      "services": {
+        "qobuz": "305888444"
+      },
+      "album": "Satie: Favourite Music (Gymnop\u00e9dies, Gnossiennes & Other Pieces)",
+      "duration": 139,
+      "isrc": "ITBZ82201579"
+    },
+    {
+      "artist": "Josh White Jr.",
+      "title": "Wherefores and Whys",
+      "services": {
+        "qobuz": "80893653"
+      },
+      "album": "Josh White Jr. Live at the Raven",
+      "duration": 212,
+      "isrc": "QMDA61404415"
+    },
+    {
+      "artist": "The American Analog Set",
+      "title": "The Only Living Boy Around",
+      "services": {
+        "qobuz": "192163763"
+      },
+      "album": "Through the 90's: Singles and Unreleased",
+      "duration": 238,
+      "isrc": "USS320810029"
+    },
+    {
+      "artist": "Immortal",
+      "title": "Where Dark And Light Don't Differ",
+      "services": {
+        "qobuz": "1626412"
+      },
+      "album": "At The Heart Of Winter",
+      "duration": 405,
+      "isrc": "FR6V89900076"
+    },
+    {
+      "artist": "Overdrive",
+      "title": "Bass On Earth / Heaven is a Place On Heart",
+      "services": {
+        "qobuz": "36780271"
+      },
+      "album": "Hardstyle: The History, Vol. 5",
+      "duration": 458,
+      "isrc": "ITB840300165"
+    },
+    {
+      "artist": "Artel",
+      "title": "LE TEMPS NOUS A TOUT PRIS",
+      "services": {
+        "qobuz": "316844998"
+      },
+      "album": "LE TEMPS NOUS A TOUT PRIS",
+      "duration": 194,
+      "isrc": "FR9W12455169"
+    },
+    {
+      "artist": "Deep Aura Meditation Ambient",
+      "title": "Strata Drifted",
+      "services": {
+        "qobuz": "341086912"
+      },
+      "album": "Sacred Silence",
+      "duration": 172,
+      "isrc": "GBPS85562730"
+    },
+    {
+      "artist": "Secret Gardens",
+      "title": "MT",
+      "services": {
+        "qobuz": "286329466"
+      },
+      "album": "The Impermanent Amber",
+      "duration": 270,
+      "isrc": "QZTBA2454938"
+    },
+    {
+      "artist": "State Faults",
+      "title": "Despera",
+      "services": {
+        "qobuz": "214033025"
+      },
+      "album": "Moon Sign Gemini",
+      "duration": 157,
+      "isrc": "USA2P2018794"
+    },
+    {
+      "artist": "Herman's Hermits",
+      "title": "Leaning on a Lamp Post",
+      "services": {
+        "qobuz": "184613727"
+      },
+      "album": "The Hits Re-Recorded",
+      "duration": 150,
+      "isrc": "GBXHC2033479"
+    },
+    {
+      "artist": "To Be Gentle",
+      "title": "To Me, You Are the Color Green",
+      "services": {
+        "qobuz": "353636525"
+      },
+      "album": "Unyielding Joy / Elements Conducive To Unassailable Heartbreak",
+      "duration": 672,
+      "isrc": "QZTB92274167"
+    },
+    {
+      "artist": "Becky Ainge",
+      "title": "Seashells",
+      "services": {
+        "qobuz": "183092493"
+      },
+      "album": "Coastlines",
+      "duration": 77,
+      "isrc": "UKURD2200006"
+    },
+    {
+      "artist": "Willie",
+      "title": "Lost Caravan",
+      "services": {
+        "qobuz": "2618776"
+      },
+      "album": "Between The Waters",
+      "duration": 390,
+      "isrc": "USAT29500255"
+    },
+    {
+      "artist": "Prieur\u00e9",
+      "title": "Patience",
+      "services": {
+        "qobuz": "333056723"
+      },
+      "album": "Jusqu'au b\u00e9nitier",
+      "duration": 196,
+      "isrc": "QZNWU2508383"
+    },
+    {
+      "artist": "Ch\u00e9 Salah",
+      "title": "Medusa",
+      "services": {
+        "qobuz": "363439840"
+      },
+      "album": "Medusa",
+      "duration": 146,
+      "isrc": "DEKF22501358"
+    },
+    {
+      "artist": "Respire",
+      "title": "A Heart Still Pines",
+      "services": {
+        "qobuz": "95167829"
+      },
+      "album": "D\u00e9nouement",
+      "duration": 167,
+      "isrc": "USDY41807684"
+    },
+    {
+      "artist": "Godsmack",
+      "title": "I Fucking Hate You",
+      "services": {
+        "qobuz": "282314679"
+      },
+      "album": "Faceless",
+      "duration": 246,
+      "isrc": "USUR10300055"
+    },
+    {
+      "artist": "Viva Belgrado",
+      "title": "La Cima",
+      "services": {
+        "qobuz": "340282485"
+      },
+      "album": "La Cima",
+      "duration": 152,
+      "isrc": "ES71I1700016"
+    },
+    {
+      "artist": "Souffle d\u2019\u00c9toiles",
+      "title": "Onde tenue",
+      "services": {
+        "qobuz": "346433114"
+      },
+      "album": "Vertige du Serein",
+      "duration": 192,
+      "isrc": "PL2E32569353"
+    },
+    {
+      "artist": "Frail Body",
+      "title": "Your Death Makes Me Wish Heaven Was Real",
+      "services": {
+        "qobuz": "74628370"
+      },
+      "album": "A Brief Memoriam",
+      "duration": 263,
+      "isrc": "QZ22D1900052"
+    },
+    {
+      "artist": "\u00d8jne",
+      "title": "Nel migliore dei mondi possibili",
+      "services": {
+        "qobuz": "54014485"
+      },
+      "album": "Prima che tutto bruci",
+      "duration": 193,
+      "isrc": "DEE021701210"
+    },
+    {
+      "artist": "Frail Hands",
+      "title": "Holding",
+      "services": {
+        "qobuz": "82005384"
+      },
+      "album": "parted/departed/apart",
+      "duration": 115,
+      "isrc": "QMFME1934927"
+    },
+    {
+      "artist": "Shin Guard",
+      "title": "Grief Instilled",
+      "services": {
+        "qobuz": "84640788"
+      },
+      "album": "Death of Spring",
+      "duration": 211,
+      "isrc": "USDY41974265"
+    },
+    {
+      "artist": "Infant Island",
+      "title": "Another Cycle",
+      "services": {
+        "qobuz": "229332255"
+      },
+      "album": "Obsidian Wreath",
+      "duration": 171,
+      "isrc": "QZ22D2400017"
+    },
+    {
+      "artist": "Red Dragon Blues",
+      "title": "Better To Die On My Own",
+      "services": {
+        "qobuz": "137417104"
+      },
+      "album": "Red Dragon Blues II",
+      "duration": 278,
+      "isrc": "AUSZX2100004"
+    },
+    {
+      "artist": "Gil Scott-Heron",
+      "title": "Home Is Where the Hatred Is",
+      "services": {
+        "qobuz": "155999432"
+      },
+      "album": "Pieces of a Man",
+      "duration": 201,
+      "isrc": "USBB17101031"
+    },
+    {
+      "artist": "Trainwreck",
+      "title": "Time Erases Everything",
+      "services": {
+        "qobuz": "58061427"
+      },
+      "album": "Old Departures, New Beginnings",
+      "duration": 187,
+      "isrc": "USA2P1905016"
+    },
+    {
+      "artist": "Big Thief",
+      "title": "Shark Smile",
+      "services": {
+        "qobuz": "271165653"
+      },
+      "album": "Capacity",
+      "duration": 237,
+      "isrc": "US2U61725502"
+    },
+    {
+      "artist": "New Constellations",
+      "title": "Think it Over",
+      "services": {
+        "qobuz": "327926848"
+      },
+      "album": "Think it Over",
+      "duration": 188,
+      "isrc": "SE62M2232756"
+    },
+    {
+      "artist": "CORE MATO",
+      "title": "a kind of perspective on love",
+      "services": {
+        "qobuz": "412449611"
+      },
+      "album": "this is not my first album but it is",
+      "duration": 148,
+      "isrc": "QZMEP2531226"
+    },
+    {
+      "artist": "Faintest Idea",
+      "title": "They Drew First Blood",
+      "services": {
+        "qobuz": "75431362"
+      },
+      "album": "The Voice of Treason",
+      "duration": 82,
+      "isrc": "GB6KN1200034"
+    },
+    {
+      "artist": "Seabear",
+      "title": "Cat Piano",
+      "services": {
+        "qobuz": "30116293"
+      },
+      "album": "The Ghost That Carried Us Away",
+      "duration": 208,
+      "isrc": "DEX260707602"
+    },
+    {
+      "artist": "La Reine des chansons pour enfants et b\u00e9b\u00e9s",
+      "title": "Ah Les Crocodiles",
+      "services": {
+        "qobuz": "126064292"
+      },
+      "album": "60 Comptines pour Enfants et B\u00e9b\u00e9s",
+      "duration": 156,
+      "isrc": "TCADK1784647"
+    },
+    {
+      "artist": "Constrain",
+      "title": "I Found A Razor Blade In My Spaghetti Once",
+      "services": {
+        "qobuz": "259805689"
+      },
+      "album": "Welcome To Club Vampire",
+      "duration": 125,
+      "isrc": "QZHNA2437859"
+    },
+    {
+      "artist": "Gillian Carter",
+      "title": "I've Been Forgotten & So Have You",
+      "services": {
+        "qobuz": "256094531"
+      },
+      "album": "Lost Ships Sinking With the Sunset",
+      "duration": 126,
+      "isrc": "QZ4JJ1983559"
+    },
+    {
+      "artist": "Live Longer Burn Everything",
+      "title": "Can U Trust Yr Brain?",
+      "services": {
+        "qobuz": "228913372"
+      },
+      "album": "A Flash of Light and Then...",
+      "duration": 319,
+      "isrc": "QZTAT2381653"
+    }
+  ]
+}

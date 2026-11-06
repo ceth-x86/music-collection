@@ -1,0 +1,108 @@
+# Genre: Crossover Rock
+
+Imported genre playlist: Crossover Rock.
+
+Services: `qobuz:66708977`
+
+## Tracks (100)
+
+- **The Police** — Walking On The Moon [Reggatta De Blanc] (5:00) `isrc:GBAAM0201175` `qobuz:61089903`
+- **Talking Heads** — Once in a Lifetime [Remain In Light] (4:21) `isrc:USWB10502889` `qobuz:5250687`
+- **The Clash** — The Magnificent Seven [Sandinista!] (5:32) `isrc:GBARL1200723` `qobuz:11189560`
+- **Blondie** — Rapture [Autoamerican] (6:31) `isrc:USCH30100092` `qobuz:1003910`
+- **Brian Eno & David Byrne** — America Is Waiting [My Life In The Bush Of Ghosts] (3:37) `isrc:GBAAA8100270` `qobuz:4395285`
+- **Big Audio Dynamite** — E=MC2 [This Is Big Audio Dynamite] (5:54) `isrc:USSM18500471` `qobuz:1975657`
+- **Peter Gabriel** — Sledgehammer [So] (5:11) `isrc:GBCPB1200864` `qobuz:79758101`
+- **RUN DMC** — Walk This Way [Greatest Hits] (5:10) `isrc:USAR19900334` `qobuz:87271738`
+- **Beastie Boys** — No Sleep Till Brooklyn [Licensed To Ill] (4:06) `isrc:USDJ28600008` `qobuz:210358662`
+- **Bad Brains** — I Against I [I Against I] (2:50) `isrc:USA370538984` `qobuz:232696090`
+- **Red Hot Chili Peppers** — Higher Ground [What Hits!?] (3:21) `isrc:USEM38900123` `qobuz:20334687`
+- **Urban Dance Squad** — Deeper Shade Of Soul [Mental Floss For The Globe / Hollywood Live 1990] (4:32) `isrc:NLX620600003` `qobuz:10108287`
+- **Jane’s Addiction** — Been Caught Stealing [Alive at Twenty-Five - Ritual De Lo Habitual Live] (4:06) `isrc:QM6XS1704383` `qobuz:42502767`
+- **Spin Doctors** — Two Princes [Pocket Full Of Kryptonite (Anniversary Edition)] (4:16) `isrc:USSM19000350` `qobuz:3848946`
+- **Ween** — Push th' Little Daisies [Pure Guava] (2:49) `isrc:USEE10000218` `qobuz:391853264`
+- **The Afghan Whigs** — Debonair [Gentlemen] (4:13) `isrc:USEE11400745` `qobuz:20086444`
+- **Beck** — Loser [Mellow Gold] (3:55) `isrc:USGF19463401` `qobuz:44530203`
+- **Senser** — Eject [Senser Stacked up XX] (5:20) `isrc:GBKZT1410021` `qobuz:74066184`
+- **Ben Harper** — Burn One Down [Fight For Your Mind] (3:35) `isrc:USVI29500032` `qobuz:31129846`
+- **Skunk Anansie** — Weak [Paranoid & Sunburnt] (3:31) `isrc:GBBTF9500071` `qobuz:249093761`
+- **311** — Down [311] (2:52) `isrc:USVR10300141` `qobuz:186003`
+- **No Doubt** — Spiderwebs [Tragic Kingdom] (4:26) `isrc:USIR19500270` `qobuz:54859228`
+- **Morphine** — Buena [Cure for Pain] (3:19) `isrc:USRY10262002` `qobuz:2799351`
+- **Cibo Matto** — Sugar Water [Viva! La Woman] (4:29) `isrc:USWB19500082` `qobuz:2858315`
+- **Soul Coughing** — Super Bon Bon [Irresistible Bliss] (3:31) `isrc:GBANC9600001` `qobuz:168741598`
+- **Fun Lovin' Criminals** — Scooby Snacks [Come Find Yourself] (3:04) `isrc:GBAYE9500245` `qobuz:169130015`
+- **Sublime** — Santeria [Sublime] (3:03) `isrc:USGA19649253` `qobuz:33082070`
+- **CAKE** — The Distance [Fashion Nugget] (3:00) `isrc:USCA19686701` `qobuz:186019`
+- **Cornershop** — Brimful of Asha [Brimful of Asha] (4:07) `isrc:GBBKT9700052` `qobuz:2343146`
+- **The Mighty Mighty Bosstones** — The Impression That I Get [Let’s Face It] (3:15) `isrc:USMR19780102` `qobuz:231825700`
+- **Smash Mouth** — Walking on the Sun [Summer Rock Party] (3:26) `isrc:USBT21625117` `qobuz:122865875`
+- **Sugar Ray** — Fly [Floored] (4:04) `isrc:USAT29700344` `qobuz:2999650`
+- **Molotov** — Gimme Tha Power [Dónde Jugarán Las Niñas 10th Anniversary Edition] (4:10) `isrc:USUL19800491` `qobuz:6831453`
+- **Asian Dub Foundation** — Rebel Warrior [Facts & Fictions] (6:27) `isrc:GBBKU0200168` `qobuz:58598963`
+- **Everlast** — What It's Like [Whitey Ford Sings the Blues] (5:03) `isrc:USRH10904472` `qobuz:169117731`
+- **Kid Rock** — Bawitdaba [Devil Without a Cause] (4:27) `isrc:USAT21207362` `qobuz:11091922`
+- **Santana Feat. Rob Thomas** — Smooth [Ceremony - Remixes & Rarities] (3:53) `isrc:USAR19901385` `qobuz:216952`
+- **Citizen King** — Better Days (And the Bottom Drops Out) [Better Days (And the Bottom Drops Out)] (3:27) `isrc:USWB19801111` `qobuz:180360425`
+- **Bloodhound Gang** — The Bad Touch [Hooray For Boobies] (4:19) `isrc:USIR19902530` `qobuz:20438134`
+- **Len** — Steal My Sunshine [Steal My Sunshine EP] (3:31) `isrc:USSM19900274` `qobuz:40862367`
+- **Papa Roach** — Last Resort [Infest] (3:19) `isrc:USDW10021712` `qobuz:58261625`
+- **Cypress Hill** — (Rock) Superstar [Skull & Bones] (4:36) `isrc:USSM10000994` `qobuz:52619`
+- **N.E.R.D.** — Lapdance [In Search Of...] (3:29) `isrc:USVI20100615` `qobuz:67342160`
+- **Manu Chao** — Me Gustas Tu [Próxima Estación: Esperanza] (3:59) `isrc:FR84R0000004` `qobuz:12123086`
+- **Shakira** — Objection (Tango) [Laundry Service] (3:42) `isrc:NLB630100360` `qobuz:15179854`
+- **P.O.D.** — Alive [Satellite] (3:23) `isrc:USRH12101125` `qobuz:123013863`
+- **X-ecutioners featuring Mike Shinoda and Mr. Hahn of Linkin Park** — It's Goin' Down [Built From Scratch] (4:08) `isrc:USLR50100432` `qobuz:101536`
+- **Juanes** — A Dios Le Pido [Un Día Normal] (3:25) `isrc:USUL10200158` `qobuz:3876098`
+- **Evanescence** — Bring Me To Life [Fallen] (3:55) `isrc:USWU30200093` `qobuz:17795395`
+- **Outkast** — Hey Ya! [Speakerboxxx/The Love Below] (3:55) `isrc:USAR10300924` `qobuz:57751720`
+- **Café Tacvba** — Eres [Cuatro Caminos] (4:26) `isrc:USMC10300331` `qobuz:3874769`
+- **The Go! Team** — Ladyflash [Thunder, Lightning, Strike] (4:16) `isrc:GBCSG0500229` `qobuz:49427864`
+- **Renegade Stars** — Numb / Encore (Originally Performed By Linkin Park Feat Jay-Z) [Karaoke Version] [Karaoke Masters: Hip Hop Collaborations] (3:28) `isrc:GBQRF1116103` `qobuz:89303777`
+- **Gorillaz** — Feel Good Inc. [The Singles Collection 2001-2011] (3:41) `isrc:GBAYE1400422` `qobuz:35534430`
+- **Gym Class Heroes** — Cupid's Chokehold / Breakfast In America [Cupid's Chokehold / Breakfast in America] (3:57) `isrc:USAT20621892` `qobuz:3000762`
+- **Gogol Bordello** — Start Wearing Purple [Gypsy Punks: Underdog World Strike] (3:42) `isrc:USA6G0527109` `qobuz:397125865`
+- **The Mars Volta** — L'Via L'Viaquez [L'Via L'Viaquez] (4:27) `isrc:USUR10500364` `qobuz:9041167`
+- **Muse** — Knights of Cydonia [Black Holes and Revelations] (6:08) `isrc:GBAYE1500862` `qobuz:27145855`
+- **TV On The Radio** — Wolf Like Me [Return To Cookie Mountain] (4:37) `isrc:USTG30626805` `qobuz:53733338`
+- **Flobots** — Handlebars [Fight With Tools (Explicit Album Version)] (3:26) `isrc:USUM70810498` `qobuz:742669`
+- **The Good, The Bad & The Queen** — Herculean [The Good, The Bad and The Queen] (3:58) `isrc:GBAYE0600868` `qobuz:827647`
+- **The White Stripes** — Conquest [Icky Thump] (2:48) `isrc:USWB10701408` `qobuz:102570136`
+- **Vampire Weekend** — Cape Cod Kwassa Kwassa [Vampire Weekend] (3:34) `isrc:GBBKS0700528` `qobuz:2531968`
+- **Santigold** — L.E.S Artistes [Santigold] (3:26) `isrc:GBPPE0700023` `qobuz:20706558`
+- **The Heavy** — How You Like Me Now [The House That Dirt Built] (3:37) `isrc:GBCFB0901502` `qobuz:38356850`
+- **The Black Keys** — Tighten Up [Brothers] (3:31) `isrc:USNO12000172` `qobuz:106672462`
+- **AWOLNATION** — Sail [Megalithic Symphony] (4:19) `isrc:USP6L1000053` `qobuz:116174588`
+- **Foster The People** — Pumped Up Kicks [Torches] (3:59) `isrc:USSM11002931` `qobuz:14069908`
+- **Alt-J** — Breezeblocks [An Awesome Wave] (3:47) `isrc:GBZUZ1200028` `qobuz:388121528`
+- **Imagine Dragons** — Radioactive [Night Visions] (3:06) `isrc:USUM71201074` `qobuz:7593467`
+- **The Neighbourhood** — Sweater Weather [I Love You.] (4:00) `isrc:USSM11300080` `qobuz:8712119`
+- **Paramore** — Ain't It Fun [Paramore] (4:56) `isrc:USAT21300025` `qobuz:8766365`
+- **Arctic Monkeys** — Do I Wanna Know? [AM] (4:32) `isrc:GBCEL1300362` `qobuz:11181334`
+- **Milky Chance** — Stolen Dance [Sadnecessary] (5:13) `isrc:DEL211300741` `qobuz:146243171`
+- **Hozier** — Take Me To Church [Hozier] (4:01) `isrc:IEACJ1300031` `qobuz:19640507`
+- **St. Vincent** — Digital Witness [St. Vincent] (3:22) `isrc:USUM71318966` `qobuz:14580179`
+- **Glass Animals** — Gooey [Zaba] (4:49) `isrc:GBUM71400655` `qobuz:17170140`
+- **Walk The Moon** — Shut Up and Dance [TALKING IS HARD (Expanded Edition)] (3:19) `isrc:USRC11401949` `qobuz:22119415`
+- **Florence + The Machine** — What Kind Of Man [How Big, How Blue, How Beautiful] (3:36) `isrc:GBUM71500289` `qobuz:24548163`
+- **Tame Impala** — The Less I Know The Better [Currents] (3:38) `isrc:AUUM71500303` `qobuz:24770695`
+- **Alabama Shakes** — Don't Wanna Fight [Sound & Color] (3:52) `isrc:USATO1400851` `qobuz:23809399`
+- **twenty one pilots** — Stressed Out [Blurryface] (3:22) `isrc:USAT21500628` `qobuz:23100557`
+- **Childish Gambino** — Me and Your Mama ["Awaken, My Love!"] (6:19) `isrc:USYAH1600102` `qobuz:292866297`
+- **Portugal. The Man** — Feel It Still [Woodstock] (2:43) `isrc:USAT21700438` `qobuz:40310366`
+- **Post Malone** — Circles [Hollywood's Bleeding] (3:35) `isrc:USUM71915699` `qobuz:70660081`
+- **Yves Tumor** — Gospel For A New Century [Heaven To A Tortured Mind] (3:18) `isrc:GBBPW1900277` `qobuz:91635324`
+- **Rina Sawayama** — XS [SAWAYAMA] (3:20) `isrc:GBK3W1901224` `qobuz:84075864`
+- **Poppy** — I Disagree [I Disagree (more)] (3:13) `isrc:USYFZ1924102` `qobuz:338312930`
+- **Bring Me The Horizon** — Parasite Eve [POST HUMAN: SURVIVAL HORROR] (4:51) `isrc:GBARL2000489` `qobuz:103252965`
+- **Turnstile** — HOLIDAY [Glow On] (2:52) `isrc:NLA322100053` `qobuz:126554597`
+- **Olivia Rodrigo** — good 4 u [SOUR] (2:58) `isrc:USUG12101245` `qobuz:121988691`
+- **Willow** — t r a n s p a r e n t s o u l [lately I feel EVERYTHING] (2:48) `isrc:QMJMT2103571` `qobuz:122031268`
+- **Genesis Owusu** — The Other Black Dog [Smiling With No Teeth] (4:23) `isrc:GBKPL2146499` `qobuz:249292248`
+- **Black Country, New Road** — Concorde [Ants From Up There] (6:03) `isrc:GBCFB2100667` `qobuz:145715533`
+- **Nova Twins** — Antagonist [Supernova] (3:06) `isrc:UKGV82100036` `qobuz:161251630`
+- **YUNGBLUD** — The Funeral [YUNGBLUD] (3:30) `isrc:USUG12201098` `qobuz:171503535`
+- **Sleep Token** — The Summoning [Take Me Back To Eden] (6:35) `isrc:GBUM72200352` `qobuz:195178291`
+- **Lil Yachty** — the BLACK seminole. [Let’s Start Here.] (6:51) `isrc:USUG12204687` `qobuz:194759833`
+- **The Last Dinner Party** — Nothing Matters [Prelude to Ecstasy] (3:02) `isrc:GBUM72301930` `qobuz:235927432`
+- **MGMT** — Bubblegum Dog [Loss Of Life] (4:21) `isrc:USQE92300113` `qobuz:253559523`

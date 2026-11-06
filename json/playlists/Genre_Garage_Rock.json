@@ -1,0 +1,1010 @@
+{
+  "name": "Genre: Garage Rock",
+  "services": {
+    "qobuz": "66737439",
+    "tidal": "a228026e-4cdd-4cc5-9e41-3fe610254a71"
+  },
+  "description": "Imported genre playlist: Garage Rock.",
+  "tracks": [
+    {
+      "artist": "The Kingsmen",
+      "title": "Louie Louie",
+      "services": {
+        "qobuz": "66268389"
+      },
+      "album": "The Best of The Kingsmen",
+      "duration": 165,
+      "isrc": "USA370544298"
+    },
+    {
+      "artist": "The Trashmen",
+      "title": "Surfin' Bird",
+      "services": {
+        "qobuz": "48591646"
+      },
+      "album": "Tube City! Best of The Trashmen",
+      "duration": 143,
+      "isrc": "USCWY0610054"
+    },
+    {
+      "artist": "The Rivieras",
+      "title": "California Sun",
+      "services": {
+        "qobuz": "68453838"
+      },
+      "album": "California Sun - the Best of the Rivieras",
+      "duration": 146,
+      "isrc": "QMFMG1554120"
+    },
+    {
+      "artist": "The Premiers",
+      "title": "Farmer John",
+      "services": {
+        "qobuz": "2852314"
+      },
+      "album": "Farmer John Live",
+      "duration": 167,
+      "isrc": "USWB10503425"
+    },
+    {
+      "artist": "The Sonics",
+      "title": "The Witch",
+      "services": {
+        "qobuz": "123970180"
+      },
+      "album": "Here Are the Sonics",
+      "duration": 160,
+      "isrc": "TCABN1301553"
+    },
+    {
+      "artist": "The Wailers",
+      "title": "Out of Our Tree",
+      "services": {
+        "qobuz": "124554568"
+      },
+      "album": "The Wailers - Out of Our Tree",
+      "duration": 213,
+      "isrc": "TCABN1336137"
+    },
+    {
+      "artist": "The Castaways",
+      "title": "Liar, Liar",
+      "services": {
+        "qobuz": "97363268"
+      },
+      "album": "Liar Liar",
+      "duration": 115,
+      "isrc": "CAU112000123"
+    },
+    {
+      "artist": "The Barbarians",
+      "title": "Are You A Boy Or Are You A Girl?",
+      "services": {
+        "qobuz": "1753271"
+      },
+      "album": "Are You A Boy Or Are You A Girl?",
+      "duration": 137,
+      "isrc": "USCA26500234"
+    },
+    {
+      "artist": "The Gentrys",
+      "title": "Keep On Dancing",
+      "services": {
+        "qobuz": "63053802"
+      },
+      "album": "Keep On Dancing",
+      "duration": 131,
+      "isrc": "USUR10110751"
+    },
+    {
+      "artist": "The Knickerbockers",
+      "title": "Lies",
+      "services": {
+        "qobuz": "71836591"
+      },
+      "album": "Challenge Recordings",
+      "duration": 168,
+      "isrc": "USCWY1500064"
+    },
+    {
+      "artist": "The Standells",
+      "title": "Dirty Water",
+      "services": {
+        "qobuz": "58629607"
+      },
+      "album": "Dirty Water",
+      "duration": 166,
+      "isrc": "USMC16501042"
+    },
+    {
+      "artist": "Question Mark & The Mysterians",
+      "title": "96 Tears",
+      "services": {
+        "qobuz": "5062266"
+      },
+      "album": "96 Tears",
+      "duration": 176,
+      "isrc": "USA176640140"
+    },
+    {
+      "artist": "The Seeds",
+      "title": "Pushin' Too Hard",
+      "services": {
+        "qobuz": "66491575"
+      },
+      "album": "The Seeds",
+      "duration": 158,
+      "isrc": "US29S0400477"
+    },
+    {
+      "artist": "The Shadows Of Knight",
+      "title": "Gloria",
+      "services": {
+        "qobuz": "2956613"
+      },
+      "album": "Gloria",
+      "duration": 156,
+      "isrc": "USAT20110933"
+    },
+    {
+      "artist": "Count Five",
+      "title": "Psychotic Reaction",
+      "services": {
+        "qobuz": "19986331"
+      },
+      "album": "Psychotic Reaction",
+      "duration": 184,
+      "isrc": "QMFMK1316006"
+    },
+    {
+      "artist": "The Music Machine",
+      "title": "Talk Talk",
+      "services": {
+        "qobuz": "21276733"
+      },
+      "album": "(Turn On) The Music Machine",
+      "duration": 117,
+      "isrc": "QMFMK1318001"
+    },
+    {
+      "artist": "Syndicate Of Sound",
+      "title": "Little Girl",
+      "services": {
+        "qobuz": "34653261"
+      },
+      "album": "Little Girl",
+      "duration": 148,
+      "isrc": "USAR11600158"
+    },
+    {
+      "artist": "The Outsiders",
+      "title": "Time Won't Let Me (Re-Recorded / Remastered)",
+      "services": {
+        "qobuz": "65915557"
+      },
+      "album": "Time Won't Let Me (Re-Recorded / Remastered)",
+      "duration": 188,
+      "isrc": "USA371098084"
+    },
+    {
+      "artist": "The Leaves",
+      "title": "Hey Joe",
+      "services": {
+        "qobuz": "242915403"
+      },
+      "album": "Hey Joe (Expanded)",
+      "duration": 167,
+      "isrc": "USRH10126402"
+    },
+    {
+      "artist": "The Remains",
+      "title": "Don't Look Back",
+      "services": {
+        "qobuz": "2630885"
+      },
+      "album": "The Remains",
+      "duration": 158,
+      "isrc": "USSM16601666"
+    },
+    {
+      "artist": "The Strangeloves",
+      "title": "Night Time",
+      "services": {
+        "qobuz": "61840"
+      },
+      "album": "I Want Candy: The Best Of The Strangeloves",
+      "duration": 203,
+      "isrc": "USSM16501440"
+    },
+    {
+      "artist": "The Choir",
+      "title": "It's Cold Outside",
+      "services": {
+        "qobuz": "93309149"
+      },
+      "album": "Last Call: Live At The Music Box",
+      "duration": 234,
+      "isrc": "QMWHB2016271"
+    },
+    {
+      "artist": "The Ugly Ducklings",
+      "title": "Nothin'",
+      "services": {
+        "qobuz": "83955757"
+      },
+      "album": "Somewhere Outside",
+      "duration": 147,
+      "isrc": "CAU116602965"
+    },
+    {
+      "artist": "Kenny & the Kasuals",
+      "title": "Journey to Tyme",
+      "services": {
+        "qobuz": "17756983"
+      },
+      "album": "No. 1 '60s Album Ever!",
+      "duration": 155,
+      "isrc": "USA561259019"
+    },
+    {
+      "artist": "Danger Danger",
+      "title": "Goin' all the Way",
+      "services": {
+        "qobuz": "188585813"
+      },
+      "album": "Four the Hard Way",
+      "duration": 221,
+      "isrc": "USTCE1037650"
+    },
+    {
+      "artist": "The Other Half",
+      "title": "Mr Pharmacist",
+      "services": {
+        "qobuz": "10330680"
+      },
+      "album": "Mr Pharmacist",
+      "duration": 151,
+      "isrc": "FRX089200173"
+    },
+    {
+      "artist": "The Dovers",
+      "title": "What Am I Going to Do",
+      "services": {
+        "qobuz": "72886964"
+      },
+      "album": "Psychedelic Rock Hits & Misses",
+      "duration": 161,
+      "isrc": "USBT21618214"
+    },
+    {
+      "artist": "The Magicians",
+      "title": "Invitation to Cry",
+      "services": {
+        "qobuz": "32617411"
+      },
+      "album": "An Invitation to Cry: The Best of the Magicians",
+      "duration": 175,
+      "isrc": "USSM16500994"
+    },
+    {
+      "artist": "The Brogues",
+      "title": "I Ain't No Miracle Worker",
+      "services": {
+        "qobuz": "77193568"
+      },
+      "album": "I Ain't No Miracle Worker",
+      "duration": 162,
+      "isrc": "USATV0600835"
+    },
+    {
+      "artist": "We the People",
+      "title": "Mirror of Your Mind",
+      "services": {
+        "qobuz": "48915802"
+      },
+      "album": "Too Much Noise",
+      "duration": 166,
+      "isrc": "USJGN0700039"
+    },
+    {
+      "artist": "The Vagrants",
+      "title": "Respect",
+      "services": {
+        "qobuz": "177914180"
+      },
+      "album": "Garage, Surf and Twang",
+      "duration": 135,
+      "isrc": "USEE10505194"
+    },
+    {
+      "artist": "The Chocolate Watch Band",
+      "title": "Let's Talk About Girls",
+      "services": {
+        "qobuz": "62044500"
+      },
+      "album": "No Way Out",
+      "duration": 163,
+      "isrc": "USUM70959163"
+    },
+    {
+      "artist": "The Litter",
+      "title": "Action Woman",
+      "services": {
+        "qobuz": "48696973"
+      },
+      "album": "Distortions",
+      "duration": 154,
+      "isrc": "USCWY1300071"
+    },
+    {
+      "artist": "The Human Beinz",
+      "title": "Nobody But Me",
+      "services": {
+        "qobuz": "3029909"
+      },
+      "album": "Nobody But Me",
+      "duration": 140,
+      "isrc": "USCA28800113"
+    },
+    {
+      "artist": "The Sparkles",
+      "title": "No Friend of Mine",
+      "services": {
+        "qobuz": "48683472"
+      },
+      "album": "No Friend of Mine / Hipsville 29 B.C. (I Need Help) / I Want to Be Free",
+      "duration": 144,
+      "isrc": "USATV0600828"
+    },
+    {
+      "artist": "The Elastik Band",
+      "title": "Spazz",
+      "services": {
+        "qobuz": "114201235"
+      },
+      "album": "Electric Sugarcubes: The Ultimate Acid Rock Collection 1965-1969",
+      "duration": 164,
+      "isrc": "QMFME2084316"
+    },
+    {
+      "artist": "The Nightcrawlers",
+      "title": "The Little Black Egg",
+      "services": {
+        "qobuz": "84227786"
+      },
+      "album": "The Nightcrawlers",
+      "duration": 206,
+      "isrc": "USCGH1987811"
+    },
+    {
+      "artist": "The Hombres",
+      "title": "Let It out (Let It All Hang Out) (Rerecorded)",
+      "services": {
+        "qobuz": "233187445"
+      },
+      "album": "Let It out (Let It All Hang Out) (Rerecorded)",
+      "duration": 126,
+      "isrc": "USDEI2375459"
+    },
+    {
+      "artist": "Unrelated Segments",
+      "title": "Story Of My Life",
+      "services": {
+        "qobuz": "318460617"
+      },
+      "album": "Pebbles: Rare Garage Rock & Freak Beat Gems of the 60s, Vol. 1",
+      "duration": 160,
+      "isrc": "QM4TX2553738"
+    },
+    {
+      "artist": "The Third Bardo",
+      "title": "I'm Five Years Ahead of My Time",
+      "services": {
+        "qobuz": "71833049"
+      },
+      "album": "I'm Five Years Ahead of My Time",
+      "duration": 136,
+      "isrc": "USCWY0610812"
+    },
+    {
+      "artist": "Human League",
+      "title": "The Sound Of The Crowd",
+      "services": {
+        "qobuz": "5153640"
+      },
+      "album": "Dare/Fascination!",
+      "duration": 246,
+      "isrc": "GBAAA1200298"
+    },
+    {
+      "artist": "Mystery Trend",
+      "title": "Johnny Was a Good Boy",
+      "services": {
+        "qobuz": "156022646"
+      },
+      "album": "So Glad I Found You",
+      "duration": 164,
+      "isrc": "GBBHN0700085"
+    },
+    {
+      "artist": "Harbinger Complex",
+      "title": "I Think I'm Down",
+      "services": {
+        "qobuz": "350080032"
+      },
+      "album": "60s Rock Bouquet Vol 2",
+      "duration": 143,
+      "isrc": "USANG2502149"
+    },
+    {
+      "artist": "The Underdogs",
+      "title": "Love's Gone Bad",
+      "services": {
+        "qobuz": "57198497"
+      },
+      "album": "The Complete Motown Singles Vol. 7: 1967",
+      "duration": 147,
+      "isrc": "USUM70736592"
+    },
+    {
+      "artist": "The E-Types",
+      "title": "Put the Clock Back on the Wall",
+      "services": {
+        "qobuz": "49760554"
+      },
+      "album": "Introducing The E-Types",
+      "duration": 167,
+      "isrc": "USCWY1700050"
+    },
+    {
+      "artist": "The Cherry Slush",
+      "title": "I Cannot Stop You",
+      "services": {
+        "qobuz": "66881341"
+      },
+      "album": "2131 South Michigan Avenue: 60's Garage & Psychedelia from U.S.A. and Destination Records",
+      "duration": 158,
+      "isrc": "QM4TX1884942"
+    },
+    {
+      "artist": "Quincy Jones",
+      "title": "Summer In The City",
+      "services": {
+        "qobuz": "745992"
+      },
+      "album": "You've Got It Bad Girl",
+      "duration": 244,
+      "isrc": "USUM70608687"
+    },
+    {
+      "artist": "Jean Marc",
+      "title": "Blackout of Gretely",
+      "services": {
+        "qobuz": "238766590"
+      },
+      "album": "Dans ton pantalon",
+      "duration": 207,
+      "isrc": "CH6542381753"
+    },
+    {
+      "artist": "The Clefs Of Lavender Hill",
+      "title": "Stop! Get a Ticket",
+      "services": {
+        "qobuz": "45105942"
+      },
+      "album": "Rock Artifacts, Vol. III - from the Vaults of Columbia and Epic Records",
+      "duration": 142,
+      "isrc": "USSM16610017"
+    },
+    {
+      "artist": "Richard And The Young Lions",
+      "title": "Open up Your Door",
+      "services": {
+        "qobuz": "50674061"
+      },
+      "album": "Volume 1",
+      "duration": 169,
+      "isrc": "QMBZ91714440"
+    },
+    {
+      "artist": "The Troggs",
+      "title": "Wild Thing",
+      "services": {
+        "qobuz": "67338768"
+      },
+      "album": "From Nowhere",
+      "duration": 154,
+      "isrc": "GBF086600001"
+    },
+    {
+      "artist": "The Troggs",
+      "title": "I Can Only Give You Everything",
+      "services": {
+        "qobuz": "78655477"
+      },
+      "album": "Trogglodynamite",
+      "duration": 202,
+      "isrc": "GBUM71903504"
+    },
+    {
+      "artist": "The Sorrows",
+      "title": "Take A Heart",
+      "services": {
+        "qobuz": "5018164"
+      },
+      "album": "Take A Heart",
+      "duration": 194,
+      "isrc": "GBAJE6500155"
+    },
+    {
+      "artist": "The Creation",
+      "title": "Making Time",
+      "services": {
+        "qobuz": "52527780"
+      },
+      "album": "Our Music Is Red - With Purple Flashes",
+      "duration": 178,
+      "isrc": "GBAFR6610028"
+    },
+    {
+      "artist": "The Easybeats",
+      "title": "Sorry",
+      "services": {
+        "qobuz": "385572023"
+      },
+      "album": "Volume 3",
+      "duration": 155,
+      "isrc": "AUAP06600049"
+    },
+    {
+      "artist": "The Missing Links",
+      "title": "Wild About You",
+      "services": {
+        "qobuz": "385091984"
+      },
+      "album": "Vivisepulture, Vol. 2",
+      "duration": 157,
+      "isrc": "CYA1E2501836"
+    },
+    {
+      "artist": "Q'65",
+      "title": "The Life I Live",
+      "services": {
+        "qobuz": "9054892"
+      },
+      "album": "Revolution",
+      "duration": 201,
+      "isrc": "NLA306600152"
+    },
+    {
+      "artist": "The Haunted",
+      "title": "1-2-5 Monk",
+      "services": {
+        "qobuz": "123628963"
+      },
+      "album": "The Haunted",
+      "duration": 152,
+      "isrc": "CAZ700905621"
+    },
+    {
+      "artist": "The La De Da's",
+      "title": "How Is the Air up There",
+      "services": {
+        "qobuz": "296230887"
+      },
+      "album": "Zodiac Heritage Series, Vol. 4: Raving at the Galaxie",
+      "duration": 156,
+      "isrc": "NZZD01401262"
+    },
+    {
+      "artist": "The Masters Apprentices",
+      "title": "Buried and Dead",
+      "services": {
+        "qobuz": "249024438"
+      },
+      "album": "The Master's Apprentices",
+      "duration": 159,
+      "isrc": "AU3O01100677"
+    },
+    {
+      "artist": "Mr. Monk\u00e9",
+      "title": "Complications",
+      "services": {
+        "qobuz": "421892062"
+      },
+      "album": "The Time Is Now",
+      "duration": 177,
+      "isrc": "GX4R52633208"
+    },
+    {
+      "artist": "Balloon Farm",
+      "title": "A Question of Temperature",
+      "services": {
+        "qobuz": "5221743"
+      },
+      "album": "Lost Hits Of The 60's",
+      "duration": 159,
+      "isrc": "USESM9700005"
+    },
+    {
+      "artist": "The Lollipop Shoppe",
+      "title": "You Must Be A Witch",
+      "services": {
+        "qobuz": "216632836"
+      },
+      "album": "You Must Be A Witch",
+      "duration": 164,
+      "isrc": "USA2P2333477"
+    },
+    {
+      "artist": "Bob Hocko",
+      "title": "Psycho",
+      "services": {
+        "qobuz": "389938598"
+      },
+      "album": "Disco Still Sucks!",
+      "duration": 173,
+      "isrc": "USBZY0306712"
+    },
+    {
+      "artist": "The Alarm Clocks",
+      "title": "Yeah",
+      "services": {
+        "qobuz": "67413434"
+      },
+      "album": "Yeah!: Savage 1966 Ohio Garage Raunch",
+      "duration": 165,
+      "isrc": "USA370689862"
+    },
+    {
+      "artist": "Larry & The Blue Notes",
+      "title": "In and Out",
+      "services": {
+        "qobuz": "58582102"
+      },
+      "album": "Keb Darge & Cut Chemist Present the Dark Side: 28 Sixties Garage Punk and Psyche Monsters",
+      "duration": 120,
+      "isrc": "GBEQT1600295"
+    },
+    {
+      "artist": "Elite",
+      "title": "My Confusion",
+      "services": {
+        "qobuz": "67419539"
+      },
+      "album": "Fort Worth Teen Scene!, Vol. 2",
+      "duration": 132,
+      "isrc": "USA370690035"
+    },
+    {
+      "artist": "The Weeknd",
+      "title": "How Do I Make You Love Me?",
+      "services": {
+        "qobuz": "143431219"
+      },
+      "album": "Dawn FM",
+      "duration": 214,
+      "isrc": "USUG12106683"
+    },
+    {
+      "artist": "Mink DeVille",
+      "title": "One Way Street",
+      "services": {
+        "qobuz": "5191743"
+      },
+      "album": "The Best Of Mink Deville",
+      "duration": 168,
+      "isrc": "USCA28800383"
+    },
+    {
+      "artist": "The Rats",
+      "title": "The Rats Revenge, Pt. 1",
+      "services": {
+        "qobuz": "51303560"
+      },
+      "album": "The Rats Revenge",
+      "duration": 190,
+      "isrc": "QM6MZ1805010"
+    },
+    {
+      "artist": "The Fleshtones",
+      "title": "American Beat",
+      "services": {
+        "qobuz": "2375099"
+      },
+      "album": "Blast Off!",
+      "duration": 154,
+      "isrc": "US29V0830902"
+    },
+    {
+      "artist": "Lyres",
+      "title": "How Do You Know?",
+      "services": {
+        "qobuz": "66789527"
+      },
+      "album": "Some Lyres",
+      "duration": 149,
+      "isrc": "USX5G9408204"
+    },
+    {
+      "artist": "Lee Gates",
+      "title": "I'm Going Back Home",
+      "services": {
+        "qobuz": "81942601"
+      },
+      "album": "Lee Gates and the Alabama Cotton Kings",
+      "duration": 317,
+      "isrc": "USCGJ1781556"
+    },
+    {
+      "artist": "The Nomads",
+      "title": "The Way (You Touch My Hand)",
+      "services": {
+        "qobuz": "227053806"
+      },
+      "album": "Where The Wolf Bane Blooms - 40th Anniversary Edition",
+      "duration": 199,
+      "isrc": "SEVGT2300140"
+    },
+    {
+      "artist": "The Pandoras",
+      "title": "It's About Time",
+      "services": {
+        "qobuz": "237795783"
+      },
+      "album": "It's About Time",
+      "duration": 140,
+      "isrc": "USA2B2319863"
+    },
+    {
+      "artist": "The Fuzztones",
+      "title": "Bad News Travels Fast",
+      "services": {
+        "qobuz": "274724065"
+      },
+      "album": "Live at Rockpalast",
+      "duration": 193,
+      "isrc": "DEMV92400111"
+    },
+    {
+      "artist": "Miracle Workers",
+      "title": "Roll Out The Red Carpet",
+      "services": {
+        "qobuz": "67892819"
+      },
+      "album": "Roll Out The Red Carpet",
+      "duration": 318,
+      "isrc": "USA561048432"
+    },
+    {
+      "artist": "The Tell-Tale Hearts",
+      "title": "Crawling Back to Me",
+      "services": {
+        "qobuz": "362063712"
+      },
+      "album": "Nevermore (The Definitive Anthology)",
+      "duration": 140,
+      "isrc": "QT65X2522837"
+    },
+    {
+      "artist": "Aerosmith",
+      "title": "Rats In The Cellar",
+      "services": {
+        "qobuz": "188600409"
+      },
+      "album": "Rocks",
+      "duration": 246,
+      "isrc": "USSM19930828"
+    },
+    {
+      "artist": "The Cynics",
+      "title": "Blue Train Station",
+      "services": {
+        "qobuz": "389906256"
+      },
+      "album": "Blue Train Station",
+      "duration": 144,
+      "isrc": "USBZY0502801"
+    },
+    {
+      "artist": "The Mummies",
+      "title": "(You Must Fight To Live) On the Planet of the Apes",
+      "services": {
+        "qobuz": "226969233"
+      },
+      "album": "Never Been Caught",
+      "duration": 174,
+      "isrc": "GX4R52321525"
+    },
+    {
+      "artist": "Nina Simone",
+      "title": "Backlash Blues",
+      "services": {
+        "qobuz": "42821096"
+      },
+      "album": "The Vietnam War - A Film By Ken Burns & Lynn Novick",
+      "duration": 149,
+      "isrc": "USRC10503536"
+    },
+    {
+      "artist": "The Dirtbombs",
+      "title": "High Octane Salvation",
+      "services": {
+        "qobuz": "52235690"
+      },
+      "album": "If You Don't Already Have A Look",
+      "duration": 133,
+      "isrc": "USA3D0500046"
+    },
+    {
+      "artist": "The Hellacopters",
+      "title": "By The Grace Of God",
+      "services": {
+        "qobuz": "641764"
+      },
+      "album": "By The Grace Of God",
+      "duration": 184,
+      "isrc": "SEBFO0216011"
+    },
+    {
+      "artist": "Guitar Wolf",
+      "title": "Summertime Blues",
+      "services": {
+        "qobuz": "95627227"
+      },
+      "album": "Jet Generation",
+      "duration": 156,
+      "isrc": "JPKS09803432"
+    },
+    {
+      "artist": "Licks",
+      "title": "Nitroglycerine",
+      "services": {
+        "qobuz": "366739366"
+      },
+      "album": "We're Not The Gories (Live At Jonathan Toubin's 19th Annual Halloween Hop)",
+      "duration": 182,
+      "isrc": "QT6ED2539040"
+    },
+    {
+      "artist": "The Strokes",
+      "title": "Last Nite",
+      "services": {
+        "qobuz": "19018"
+      },
+      "album": "Is This It",
+      "duration": 193,
+      "isrc": "USRC10100765"
+    },
+    {
+      "artist": "The White Stripes",
+      "title": "Fell In Love With a Girl",
+      "services": {
+        "qobuz": "107925545"
+      },
+      "album": "Fell in Love with a Girl",
+      "duration": 111,
+      "isrc": "GBBKS0100352"
+    },
+    {
+      "artist": "The Hives",
+      "title": "Hate To Say I Told You So",
+      "services": {
+        "qobuz": "77635489"
+      },
+      "album": "Hate To Say I Told You So",
+      "duration": 200,
+      "isrc": "SEVHC0007060"
+    },
+    {
+      "artist": "The Vines",
+      "title": "Get Free",
+      "services": {
+        "qobuz": "4896829"
+      },
+      "album": "Highly Evolved",
+      "duration": 126,
+      "isrc": "USCA20200462"
+    },
+    {
+      "artist": "The Von Bondies",
+      "title": "C'mon C'mon",
+      "services": {
+        "qobuz": "2842615"
+      },
+      "album": "Pawn Shoppe Heart (DMD Album)",
+      "duration": 133,
+      "isrc": "USRE10300969"
+    },
+    {
+      "artist": "Jay Reatard",
+      "title": "My Shadow",
+      "services": {
+        "qobuz": "59181152"
+      },
+      "album": "Blood Visions",
+      "duration": 198,
+      "isrc": "USFP70930104"
+    },
+    {
+      "artist": "Black Lips",
+      "title": "Bad Kids",
+      "services": {
+        "qobuz": "179284240"
+      },
+      "album": "Good Bad Not Evil",
+      "duration": 128,
+      "isrc": "USALX0500972"
+    },
+    {
+      "artist": "The Detroit Cobras",
+      "title": "Cha Cha Twist",
+      "services": {
+        "qobuz": "7830333"
+      },
+      "album": "The Original Recordings",
+      "duration": 163,
+      "isrc": "ES8591200533"
+    },
+    {
+      "artist": "Ty Segall",
+      "title": "Girlfriend",
+      "services": {
+        "qobuz": "320643383"
+      },
+      "album": "Melted",
+      "duration": 132,
+      "isrc": "USA3U1010041"
+    },
+    {
+      "artist": "Miles King",
+      "title": "Sweat, Turf & Tears (Blues-Rock World Cup Anthem 2026)",
+      "services": {
+        "qobuz": "413719850"
+      },
+      "album": "Kickoff '26 Tailgates, Turf & Texas Blues",
+      "duration": 249,
+      "isrc": "QZWFR2675922"
+    },
+    {
+      "artist": "Bass Drum Of Death",
+      "title": "Get Found",
+      "services": {
+        "qobuz": "59156240"
+      },
+      "album": "Gb City",
+      "duration": 181,
+      "isrc": "USFP71124503"
+    },
+    {
+      "artist": "together PANGEA",
+      "title": "Badillac",
+      "services": {
+        "qobuz": "19998751"
+      },
+      "album": "Badillac",
+      "duration": 147,
+      "isrc": "USUM71314684"
+    },
+    {
+      "artist": "The Orwells",
+      "title": "Who Needs You",
+      "services": {
+        "qobuz": "17373991"
+      },
+      "album": "Disgraceland",
+      "duration": 198,
+      "isrc": "USAT21301963"
+    },
+    {
+      "artist": "The Mystery Lights",
+      "title": "It's Alright",
+      "services": {
+        "qobuz": "76319074"
+      },
+      "album": "Too Much Tension!",
+      "duration": 170,
+      "isrc": "US4GZ1900410"
+    }
+  ]
+}

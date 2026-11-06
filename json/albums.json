@@ -1,0 +1,4692 @@
+[
+  {
+    "artist": "65daysofstatic",
+    "title": "Wild Light",
+    "services": {
+      "qobuz": "0886444264297"
+    },
+    "release-date": "2013-09-16",
+    "tracks-count": 8,
+    "barcode": "0886444264297"
+  },
+  {
+    "artist": "A-Ha",
+    "title": "Hunting High and Low",
+    "services": {
+      "qobuz": "0603497888184"
+    },
+    "release-date": "1985-06-01",
+    "tracks-count": 10,
+    "barcode": "0603497888184"
+  },
+  {
+    "artist": "A-Ha",
+    "title": "Minor Earth, Major Sky",
+    "services": {
+      "qobuz": "lzopar93p8prc"
+    },
+    "release-date": "2000-04-21",
+    "tracks-count": 33,
+    "barcode": "0190295391881"
+  },
+  {
+    "artist": "A Perfect Circle",
+    "title": "Thirteenth Step",
+    "services": {
+      "qobuz": "0724358091854"
+    },
+    "release-date": "2003-01-01",
+    "tracks-count": 12,
+    "barcode": "0724358091854"
+  },
+  {
+    "artist": "A Place To Bury Strangers",
+    "title": "Synthesizer",
+    "services": {
+      "qobuz": "jr74mtwmwlf9a"
+    },
+    "release-date": "2024-10-04",
+    "tracks-count": 10,
+    "barcode": "0634457183742"
+  },
+  {
+    "artist": "AC/DC",
+    "title": "Back In Black",
+    "services": {
+      "qobuz": "0886444889841"
+    },
+    "release-date": "1980-08-01",
+    "tracks-count": 10,
+    "barcode": "0886444889841"
+  },
+  {
+    "artist": "Adrenaline Mob",
+    "title": "Men of Honor",
+    "services": {
+      "qobuz": "0886444410984"
+    },
+    "release-date": "2014-02-18",
+    "tracks-count": 11,
+    "barcode": "0886444410984"
+  },
+  {
+    "artist": "AFI",
+    "title": "Silver Bleeds the Black Sun...",
+    "services": {
+      "qobuz": "h303t7ysn87lc"
+    },
+    "release-date": "2025-10-03",
+    "tracks-count": 10,
+    "barcode": "0199438000703"
+  },
+  {
+    "artist": "After Forever",
+    "title": "After Forever",
+    "services": {
+      "tidal": "106194982"
+    },
+    "release-date": "2007-04-23",
+    "tracks-count": 12,
+    "barcode": "0727361181161"
+  },
+  {
+    "artist": "Agent Fresco",
+    "title": "Destrier",
+    "services": {
+      "qobuz": "p8jv5xkt648oa"
+    },
+    "release-date": "2015-08-07",
+    "tracks-count": 14,
+    "barcode": "4001617071892"
+  },
+  {
+    "artist": "Agriculture",
+    "title": "The Spiritual Sound",
+    "services": {
+      "tidal": "443831341"
+    },
+    "release-date": "2025-10-03",
+    "tracks-count": 10,
+    "barcode": "657628454007"
+  },
+  {
+    "artist": "Alcest",
+    "title": "\u00c9cailles de lune",
+    "services": {
+      "qobuz": "os52geoij309b"
+    },
+    "release-date": "2010-03-26",
+    "tracks-count": 6,
+    "barcode": "0884388710627"
+  },
+  {
+    "artist": "Alice In Chains",
+    "title": "Black Gives Way To Blue",
+    "services": {
+      "qobuz": "qvr5ggkz1q90b"
+    },
+    "release-date": "2009-09-28",
+    "tracks-count": 13,
+    "barcode": "0197187154159"
+  },
+  {
+    "artist": "Alice In Chains",
+    "title": "Dirt",
+    "services": {
+      "qobuz": "0074645247526"
+    },
+    "release-date": "1992-09-29",
+    "tracks-count": 13,
+    "barcode": "0074645247526"
+  },
+  {
+    "artist": "Alice In Chains",
+    "title": "Facelift",
+    "services": {
+      "qobuz": "0888880462077"
+    },
+    "release-date": "1990-08-01",
+    "tracks-count": 12,
+    "barcode": "0888880462077"
+  },
+  {
+    "artist": "Alter Bridge",
+    "title": "Alter Bridge",
+    "services": {
+      "tidal": "487216869"
+    },
+    "release-date": "2026-01-09",
+    "tracks-count": 12,
+    "barcode": "810185191963"
+  },
+  {
+    "artist": "Amorphis",
+    "title": "Borderland",
+    "services": {
+      "tidal": "434455425"
+    },
+    "release-date": "2025-09-26",
+    "tracks-count": 10,
+    "barcode": "4251981706597"
+  },
+  {
+    "artist": "Anathema",
+    "title": "A Fine Day to Exit",
+    "services": {
+      "qobuz": "0886445082463"
+    },
+    "release-date": "2001-10-09",
+    "tracks-count": 10,
+    "barcode": "0886445082463"
+  },
+  {
+    "artist": "Anathema",
+    "title": "Alternative 4",
+    "services": {
+      "qobuz": "vgx0tanoq52ub"
+    },
+    "release-date": "1998-08-11",
+    "tracks-count": 14,
+    "barcode": "0669910263761"
+  },
+  {
+    "artist": "Anathema",
+    "title": "Judgement",
+    "services": {
+      "qobuz": "0886445082456"
+    },
+    "release-date": "1999-06-21",
+    "tracks-count": 13,
+    "barcode": "0886445082456"
+  },
+  {
+    "artist": "Anathema",
+    "title": "Weather Systems",
+    "services": {
+      "qobuz": "u9xf89c3lvwfc"
+    },
+    "release-date": "2012-04-16",
+    "tracks-count": 9,
+    "barcode": "0802644820927"
+  },
+  {
+    "artist": "Animal Collective",
+    "title": "Spirit They\u2019re Gone, Spirit They\u2019ve Vanished",
+    "services": {
+      "qobuz": "qg2zud3xu0tqc"
+    },
+    "release-date": "2000-07-31",
+    "tracks-count": 10,
+    "barcode": "0194606000264"
+  },
+  {
+    "artist": "Animals As Leaders",
+    "title": "Animals as Leaders",
+    "services": {
+      "qobuz": "ogrgxw2snl45b"
+    },
+    "release-date": "2009-04-28",
+    "tracks-count": 12,
+    "barcode": "0656191004336"
+  },
+  {
+    "artist": "Anna von Hausswolff",
+    "title": "ICONOCLASTS",
+    "services": {
+      "qobuz": "vrn194ll38ouc",
+      "tidal": "450695378"
+    },
+    "release-date": "2025-10-31",
+    "tracks-count": 12,
+    "barcode": "8721215682714"
+  },
+  {
+    "artist": "Aphex Twin",
+    "title": "Selected Ambient Works 85-92",
+    "services": {
+      "qobuz": "e9457qdjm51fb"
+    },
+    "release-date": "1992-02-10",
+    "tracks-count": 13,
+    "barcode": "5055274700038"
+  },
+  {
+    "artist": "Arcade Fire",
+    "title": "Everything Now",
+    "services": {
+      "qobuz": "0886446538617"
+    },
+    "release-date": "2017-07-28",
+    "tracks-count": 13,
+    "barcode": "0886446538617"
+  },
+  {
+    "artist": "Architects",
+    "title": "For Those That Wish To Exist At Abbey Road",
+    "services": {
+      "qobuz": "cpeeyrajzcgka"
+    },
+    "release-date": "2022-03-25",
+    "tracks-count": 15,
+    "barcode": "0045778788361"
+  },
+  {
+    "artist": "Archive",
+    "title": "Glass Minds",
+    "services": {
+      "qobuz": "kgovkipcwhrmc",
+      "tidal": "501069371"
+    },
+    "release-date": "2026-02-27",
+    "tracks-count": 12,
+    "barcode": "5400863191672"
+  },
+  {
+    "artist": "Archive",
+    "title": "You All Look The Same To Me",
+    "services": {
+      "qobuz": "mz7w7h8cg2rtc"
+    },
+    "release-date": "2025-01-03",
+    "tracks-count": 12,
+    "barcode": "5400863180867"
+  },
+  {
+    "artist": "Arctic Monkeys",
+    "title": "AM",
+    "services": {
+      "qobuz": "0887828031795"
+    },
+    "release-date": "2013-09-09",
+    "tracks-count": 12,
+    "barcode": "0887828031795"
+  },
+  {
+    "artist": "Asking Alexandria",
+    "title": "Where Do We Go From Here?",
+    "services": {
+      "tidal": "298863062"
+    },
+    "release-date": "2023-08-25",
+    "tracks-count": 11,
+    "barcode": "846070053801"
+  },
+  {
+    "artist": "Astronoid",
+    "title": "Radiant Bloom",
+    "services": {
+      "qobuz": "xmt2fmmvoh93b"
+    },
+    "release-date": "2022-06-03",
+    "tracks-count": 9,
+    "barcode": "0634164301125"
+  },
+  {
+    "artist": "At The Drive-In",
+    "title": "Relationship of Command",
+    "services": {
+      "qobuz": "irod0c8gpleuc"
+    },
+    "release-date": "2000-09-12",
+    "tracks-count": 12,
+    "barcode": "0887845506221"
+  },
+  {
+    "artist": "August Burns Red",
+    "title": "Constellations",
+    "services": {
+      "qobuz": "fdlzkc7mw2mcb"
+    },
+    "release-date": "2009-07-14",
+    "tracks-count": 12,
+    "barcode": "0195497465392"
+  },
+  {
+    "artist": "Autechre",
+    "title": "Amber",
+    "services": {
+      "qobuz": "0801061002534"
+    },
+    "release-date": "1994-11-07",
+    "tracks-count": 11,
+    "barcode": "0801061002534"
+  },
+  {
+    "artist": "Autechre",
+    "title": "Basscadet Mixes",
+    "services": {
+      "qobuz": "0801061904432"
+    },
+    "release-date": "1994-04-25",
+    "tracks-count": 5,
+    "barcode": "0801061904432"
+  },
+  {
+    "artist": "Autechre",
+    "title": "Incunabula",
+    "services": {
+      "qobuz": "0801061001735"
+    },
+    "release-date": "1993-11-29",
+    "tracks-count": 11,
+    "barcode": "0801061001735"
+  },
+  {
+    "artist": "Avenged Sevenfold",
+    "title": "Life Is But a Dream\u2026",
+    "services": {
+      "qobuz": "w5pd6vkfjnbyb"
+    },
+    "release-date": "2023-06-02",
+    "tracks-count": 11,
+    "barcode": "0093624853046"
+  },
+  {
+    "artist": "Avenged Sevenfold",
+    "title": "Nightmare",
+    "services": {
+      "qobuz": "0093624966548"
+    },
+    "release-date": "2010-07-23",
+    "tracks-count": 11,
+    "barcode": "0093624966548"
+  },
+  {
+    "artist": "Beardfish",
+    "title": "Destined Solitaire",
+    "services": {
+      "qobuz": "0886443685130"
+    },
+    "release-date": "2010-07-16",
+    "tracks-count": 9,
+    "barcode": "0886443685130"
+  },
+  {
+    "artist": "Beastie Boys",
+    "title": "Licensed To Ill",
+    "services": {
+      "qobuz": "eawvlhvi2lv0b"
+    },
+    "release-date": "1986-01-01",
+    "tracks-count": 13,
+    "barcode": "0602537225859"
+  },
+  {
+    "artist": "Been Stellar",
+    "title": "Scream from New York, NY",
+    "services": {
+      "qobuz": "gwj1klwuhj00a"
+    },
+    "release-date": "2024-06-14",
+    "tracks-count": 10,
+    "barcode": "0196922756818"
+  },
+  {
+    "artist": "Beth Gibbons",
+    "title": "Lives Outgrown",
+    "services": {
+      "qobuz": "pz8eamyzbi8rc",
+      "tidal": "363340896"
+    },
+    "release-date": "2024-05-17",
+    "tracks-count": 10,
+    "barcode": "887828028764"
+  },
+  {
+    "artist": "Biffy Clyro",
+    "title": "A Celebration Of Endings",
+    "services": {
+      "tidal": "150834950"
+    },
+    "release-date": "2020-08-14",
+    "tracks-count": 11,
+    "barcode": "190295253776"
+  },
+  {
+    "artist": "Biffy Clyro",
+    "title": "Futique",
+    "services": {
+      "qobuz": "si5kjb6xqeh3b",
+      "tidal": "459503854"
+    },
+    "release-date": "2025-09-26",
+    "tracks-count": 11,
+    "barcode": "5021732853516"
+  },
+  {
+    "artist": "Biffy Clyro",
+    "title": "The Myth of The Happily Ever After",
+    "services": {
+      "qobuz": "abm5xpbil0kxc",
+      "tidal": "199068741"
+    },
+    "release-date": "2021-12-10",
+    "tracks-count": 11,
+    "barcode": "190296481383"
+  },
+  {
+    "artist": "Birds in row",
+    "title": "Gris Klein",
+    "services": {
+      "qobuz": "jd3coqshfe6gc"
+    },
+    "release-date": "2022-10-14",
+    "tracks-count": 11,
+    "barcode": "0196626879257"
+  },
+  {
+    "artist": "Bj\u00f6rk",
+    "title": "Homogenic",
+    "services": {
+      "qobuz": "zc14ehzprupsa"
+    },
+    "release-date": "1997-09-22",
+    "tracks-count": 10,
+    "barcode": "5016958995089"
+  },
+  {
+    "artist": "Black Country, New Road",
+    "title": "For the first time",
+    "services": {
+      "tidal": "160225315"
+    },
+    "release-date": "2021-02-05",
+    "tracks-count": 6,
+    "barcode": "5054429142419"
+  },
+  {
+    "artist": "Black Dog Productions",
+    "title": "Bytes",
+    "services": {
+      "qobuz": "0801061000837"
+    },
+    "release-date": "1993-03-08",
+    "tracks-count": 11,
+    "barcode": "0801061000837"
+  },
+  {
+    "artist": "black midi",
+    "title": "Hellfire",
+    "services": {
+      "qobuz": "v4ddif9ruijtc"
+    },
+    "release-date": "2022-07-15",
+    "tracks-count": 10,
+    "barcode": "0191402032161"
+  },
+  {
+    "artist": "Black Sabbath",
+    "title": "Sabbath Bloody Sabbath",
+    "services": {
+      "qobuz": "dvfggpryigs0n"
+    },
+    "release-date": "1973-12-01",
+    "tracks-count": 8,
+    "barcode": "5414939678974"
+  },
+  {
+    "artist": "Boards of Canada",
+    "title": "Inferno",
+    "services": {
+      "qobuz": "ysyrp6ad84eon",
+      "tidal": "528351285"
+    },
+    "release-date": "2026-05-29",
+    "tracks-count": 18,
+    "barcode": "5056818808869"
+  },
+  {
+    "artist": "Boards of Canada",
+    "title": "The Campfire Headphase",
+    "services": {
+      "qobuz": "0801061012335"
+    },
+    "release-date": "2005-10-02",
+    "tracks-count": 15,
+    "barcode": "0801061012335"
+  },
+  {
+    "artist": "Bob Dylan",
+    "title": "Highway 61 Revisited",
+    "services": {
+      "qobuz": "0827969239926"
+    },
+    "release-date": "1965-08-30",
+    "tracks-count": 9,
+    "barcode": "0827969239926"
+  },
+  {
+    "artist": "Bruce Springsteen",
+    "title": "Greetings from Asbury Park, N.J.",
+    "services": {
+      "qobuz": "0074643190329"
+    },
+    "release-date": "1973-01-05",
+    "tracks-count": 9,
+    "barcode": "0074643190329"
+  },
+  {
+    "artist": "Bryan Ferry",
+    "title": "Boys And Girls",
+    "services": {
+      "qobuz": "0724384772253"
+    },
+    "release-date": "1985-05-01",
+    "tracks-count": 9,
+    "barcode": "0724384772253"
+  },
+  {
+    "artist": "Buckethead",
+    "title": "Electric Tears",
+    "services": {
+      "qobuz": "y8pk3q4yniuab"
+    },
+    "release-date": "2002-10-08",
+    "tracks-count": 13,
+    "barcode": "0658137001522"
+  },
+  {
+    "artist": "Burial",
+    "title": "Untrue",
+    "services": {
+      "qobuz": "q9vy3z7yknvgc"
+    },
+    "release-date": "2007-11-05",
+    "tracks-count": 13,
+    "barcode": "5024545486520"
+  },
+  {
+    "artist": "Cabaret Voltaire",
+    "title": "Micro-Phonies",
+    "services": {
+      "qobuz": "5099999382759"
+    },
+    "release-date": "1984-11-01",
+    "tracks-count": 9,
+    "barcode": "5099999382759"
+  },
+  {
+    "artist": "Callum Beattie",
+    "title": "INDI",
+    "services": {
+      "tidal": "455814755"
+    },
+    "release-date": "2026-01-23",
+    "tracks-count": 12,
+    "barcode": "711297925647"
+  },
+  {
+    "artist": "Cattle Decapitation",
+    "title": "Terrasite",
+    "services": {
+      "tidal": "265621687"
+    },
+    "release-date": "2023-05-12",
+    "tracks-count": 10,
+    "barcode": "039841956627"
+  },
+  {
+    "artist": "Chalk",
+    "title": "Crystalpunk",
+    "services": {
+      "qobuz": "dx1wtog8d0jnw"
+    },
+    "release-date": "2026-03-13",
+    "tracks-count": 10,
+    "barcode": "8721465014761"
+  },
+  {
+    "artist": "Chevelle",
+    "title": "Bright as Blasphemy",
+    "services": {
+      "qobuz": "xdhuikp1pft7n",
+      "tidal": "493570942"
+    },
+    "release-date": "2025-08-15",
+    "tracks-count": 9,
+    "barcode": "04099964165173"
+  },
+  {
+    "artist": "Cigarettes After Sex",
+    "title": "Cigarettes After Sex",
+    "services": {
+      "qobuz": "dfsw6lwv7cq5a"
+    },
+    "release-date": "2017-06-09",
+    "tracks-count": 10,
+    "barcode": "0720841214601"
+  },
+  {
+    "artist": "Clipse",
+    "title": "Let God Sort Em Out",
+    "services": {
+      "qobuz": "tngk7ywb8sm3b"
+    },
+    "release-date": "2025-07-11",
+    "tracks-count": 13,
+    "barcode": "0810058342768"
+  },
+  {
+    "artist": "Coheed and Cambria",
+    "title": "The Unheavenly Creatures",
+    "services": {
+      "qobuz": "m1zomdzbyk0zb"
+    },
+    "release-date": "2018-10-05",
+    "tracks-count": 15,
+    "barcode": "0016861742904"
+  },
+  {
+    "artist": "Comeback Kid",
+    "title": "Chosen Hell",
+    "services": {
+      "tidal": "572375160"
+    },
+    "release-date": "2026-11-06",
+    "tracks-count": 11,
+    "barcode": "4065629761066"
+  },
+  {
+    "artist": "Converge",
+    "title": "All We Love We Leave Behind",
+    "services": {
+      "qobuz": "plg5qk5g1rdcc"
+    },
+    "release-date": "2012-10-09",
+    "tracks-count": 17,
+    "barcode": "0045778724765"
+  },
+  {
+    "artist": "Converge",
+    "title": "Jane Doe",
+    "services": {
+      "qobuz": "oqimhuuk3lt7b"
+    },
+    "release-date": "2001-09-04",
+    "tracks-count": 12,
+    "barcode": "0888880843210"
+  },
+  {
+    "artist": "Converge",
+    "title": "Love Is Not Enough",
+    "services": {
+      "tidal": "468877687"
+    },
+    "release-date": "2026-02-13",
+    "tracks-count": 10,
+    "barcode": "0045778813568"
+  },
+  {
+    "artist": "Converge, Chelsea Wolfe",
+    "title": "Bloodmoon: I",
+    "services": {
+      "tidal": "196017208"
+    },
+    "release-date": "2021-11-19",
+    "tracks-count": 11,
+    "barcode": "0045778777068"
+  },
+  {
+    "artist": "Covenant",
+    "title": "Northern Light",
+    "services": {
+      "qobuz": "5099750884867"
+    },
+    "release-date": "2002-09-26",
+    "tracks-count": 11,
+    "barcode": "5099750884867"
+  },
+  {
+    "artist": "Cult of Luna",
+    "title": "In the Shadow of Your Shadow",
+    "services": {
+      "tidal": "534950948"
+    },
+    "release-date": "2026-11-06",
+    "tracks-count": 9,
+    "barcode": "820233817530"
+  },
+  {
+    "artist": "Cult of Luna",
+    "title": "The Long Road North",
+    "services": {
+      "qobuz": "x03whjgzonwgb",
+      "tidal": "202095259"
+    },
+    "release-date": "2022-02-11",
+    "tracks-count": 9,
+    "barcode": "039841950625"
+  },
+  {
+    "artist": "Cynic",
+    "title": "Traced in Air",
+    "services": {
+      "qobuz": "wgw24z4a05rnb"
+    },
+    "release-date": "2008-10-28",
+    "tracks-count": 9,
+    "barcode": "0886443726468"
+  },
+  {
+    "artist": "Cypress Hill",
+    "title": "Black Sunday",
+    "services": {
+      "qobuz": "my9h6ycc4v4eb"
+    },
+    "release-date": "1993-07-20",
+    "tracks-count": 19,
+    "barcode": "0196871073752"
+  },
+  {
+    "artist": "Dance Gavin Dance",
+    "title": "Mothership",
+    "services": {
+      "qobuz": "fkorllz90iovy"
+    },
+    "release-date": "2016-10-07",
+    "tracks-count": 13,
+    "barcode": "4050538240368"
+  },
+  {
+    "artist": "Dark Tranquillity",
+    "title": "Endtime Signals",
+    "services": {
+      "qobuz": "rpwukdwokj96b"
+    },
+    "release-date": "2024-08-16",
+    "tracks-count": 12,
+    "barcode": "0196871962643"
+  },
+  {
+    "artist": "Dark Tranquillity",
+    "title": "The Gallery",
+    "services": {
+      "qobuz": "yan7dmnywplsa",
+      "tidal": "166464601"
+    },
+    "release-date": "1995-01-01",
+    "tracks-count": 11,
+    "barcode": "886448956730"
+  },
+  {
+    "artist": "David Bowie",
+    "title": "Blackstar",
+    "services": {
+      "qobuz": "oljo8h6c7s5cb"
+    },
+    "release-date": "2016-01-08",
+    "tracks-count": 7,
+    "barcode": "5054197573972"
+  },
+  {
+    "artist": "David Bowie",
+    "title": "Low",
+    "services": {
+      "qobuz": "0190295842888"
+    },
+    "release-date": "1977-01-01",
+    "tracks-count": 11,
+    "barcode": "0190295842888"
+  },
+  {
+    "artist": "David Bowie",
+    "title": "Station to Station",
+    "services": {
+      "qobuz": "0190295990251"
+    },
+    "release-date": "1976-01-23",
+    "tracks-count": 6,
+    "barcode": "0190295990251"
+  },
+  {
+    "artist": "David Bowie",
+    "title": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
+    "services": {
+      "qobuz": "0825646284054"
+    },
+    "release-date": "1972-06-06",
+    "tracks-count": 11,
+    "barcode": "0825646284054"
+  },
+  {
+    "artist": "David Bowie",
+    "title": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
+    "services": {
+      "tidal": "76253496"
+    },
+    "release-date": "1972-06-06",
+    "tracks-count": 11,
+    "barcode": "825646284030"
+  },
+  {
+    "artist": "Deadletter",
+    "title": "Hysterical Strength",
+    "services": {
+      "tidal": "356042046"
+    },
+    "release-date": "2024-09-13",
+    "tracks-count": 12,
+    "barcode": "0822166000911"
+  },
+  {
+    "artist": "Deafheaven",
+    "title": "Lonely People With Power",
+    "services": {
+      "qobuz": "ke40kp03patkc"
+    },
+    "release-date": "2025-03-28",
+    "tracks-count": 12,
+    "barcode": "0075679623966"
+  },
+  {
+    "artist": "Death Angel",
+    "title": "The Dream Calls for Blood",
+    "services": {
+      "qobuz": "u4gr3q98wafxc"
+    },
+    "release-date": "2013-10-11",
+    "tracks-count": 11,
+    "barcode": "0727361298630"
+  },
+  {
+    "artist": "Death Cab For Cutie",
+    "title": "I Built You A Tower",
+    "services": {
+      "tidal": "507548788"
+    },
+    "release-date": "2026-06-05",
+    "tracks-count": 11,
+    "barcode": "0045778817061"
+  },
+  {
+    "artist": "Death Cab For Cutie",
+    "title": "Transatlanticism",
+    "services": {
+      "qobuz": "uk298vsc5ldmc"
+    },
+    "release-date": "2003-10-07",
+    "tracks-count": 11,
+    "barcode": "0655173103227"
+  },
+  {
+    "artist": "Death From Above 1979",
+    "title": "Is 4 Lovers",
+    "services": {
+      "tidal": "177669748"
+    },
+    "release-date": "2021-03-26",
+    "tracks-count": 10,
+    "barcode": "00602435654973"
+  },
+  {
+    "artist": "Death From Above 1979",
+    "title": "You're A Woman, I'm A Machine (DMD)",
+    "services": {
+      "qobuz": "0825646223961"
+    },
+    "release-date": "2004-09-28",
+    "tracks-count": 11,
+    "barcode": "0825646223961"
+  },
+  {
+    "artist": "Deepchord",
+    "title": "Auratones",
+    "services": {
+      "qobuz": "0502485611745"
+    },
+    "release-date": "2017-10-20",
+    "tracks-count": 12,
+    "barcode": "0502485611745"
+  },
+  {
+    "artist": "Def Leppard",
+    "title": "Hysteria",
+    "services": {
+      "qobuz": "ombcx6uqh5bjc"
+    },
+    "release-date": "1987-08-03",
+    "tracks-count": 12,
+    "barcode": "0602567295594"
+  },
+  {
+    "artist": "Deftones",
+    "title": "Diamond Eyes",
+    "services": {
+      "qobuz": "0093624919766"
+    },
+    "release-date": "2010-04-23",
+    "tracks-count": 11,
+    "barcode": "0093624919766"
+  },
+  {
+    "artist": "Deftones",
+    "title": "Koi No Yokan",
+    "services": {
+      "qobuz": "0093624946649"
+    },
+    "release-date": "2012-11-09",
+    "tracks-count": 11,
+    "barcode": "0093624946649"
+  },
+  {
+    "artist": "Deftones",
+    "title": "private music",
+    "services": {
+      "tidal": "455128514"
+    },
+    "release-date": "2025-08-22",
+    "tracks-count": 11,
+    "barcode": "093624832232"
+  },
+  {
+    "artist": "Deftones",
+    "title": "White Pony",
+    "services": {
+      "qobuz": "0093624919797"
+    },
+    "release-date": "2016-04-08",
+    "tracks-count": 12,
+    "barcode": "0093624919797"
+  },
+  {
+    "artist": "Depeche Mode",
+    "title": "Music for the Masses",
+    "services": {
+      "qobuz": "0724347387456"
+    },
+    "release-date": "1987-09-28",
+    "tracks-count": 14,
+    "barcode": "0724347387456"
+  },
+  {
+    "artist": "Depeche Mode",
+    "title": "Songs of Faith and Devotion (Deluxe)",
+    "services": {
+      "tidal": "20906952"
+    },
+    "release-date": "1993-03-23",
+    "tracks-count": 18,
+    "barcode": "0094637006757"
+  },
+  {
+    "artist": "Depeche Mode",
+    "title": "Songs of Faith and Devotion Live",
+    "services": {
+      "qobuz": "5099968888756"
+    },
+    "release-date": "1993-12-06",
+    "tracks-count": 10,
+    "barcode": "5099968888756"
+  },
+  {
+    "artist": "Depeche Mode",
+    "title": "Violator (2006 Digital Remaster)",
+    "services": {
+      "qobuz": "0094636010359"
+    },
+    "release-date": "1990-03-19",
+    "tracks-count": 9,
+    "barcode": "0094636010359"
+  },
+  {
+    "artist": "Devin Townsend",
+    "title": "Ocean Machine",
+    "services": {
+      "qobuz": "0886443683990"
+    },
+    "release-date": "1997-07-12",
+    "tracks-count": 13,
+    "barcode": "0886443683990"
+  },
+  {
+    "artist": "Devin Townsend",
+    "title": "Terria",
+    "services": {
+      "qobuz": "0886443684027"
+    },
+    "release-date": "2001-08-21",
+    "tracks-count": 11,
+    "barcode": "0886443684027"
+  },
+  {
+    "artist": "Devin Townsend",
+    "title": "Transcendence",
+    "services": {
+      "qobuz": "0886445966909"
+    },
+    "release-date": "2016-09-09",
+    "tracks-count": 21,
+    "barcode": "0886445966909"
+  },
+  {
+    "artist": "Diary Of Dreams",
+    "title": "The Anatomy of Silence",
+    "services": {
+      "qobuz": "p6o5txcrqpvic"
+    },
+    "release-date": "2012-10-19",
+    "tracks-count": 10,
+    "barcode": "4047179718226"
+  },
+  {
+    "artist": "Dream Theater",
+    "title": "Falling into Infinity",
+    "services": {
+      "qobuz": "0075596206068"
+    },
+    "release-date": "1997-09-12",
+    "tracks-count": 11,
+    "barcode": "0075596206068"
+  },
+  {
+    "artist": "Dream Theater",
+    "title": "Metropolis, Pt. 2: Scenes from a Memory",
+    "services": {
+      "qobuz": "0075596244862"
+    },
+    "release-date": "1999-01-01",
+    "tracks-count": 12,
+    "barcode": "0075596244862"
+  },
+  {
+    "artist": "Dream Theater",
+    "title": "Parasomnia",
+    "services": {
+      "tidal": "413373265"
+    },
+    "release-date": "2025-02-07",
+    "tracks-count": 8,
+    "barcode": "196872328257"
+  },
+  {
+    "artist": "Dream Theater",
+    "title": "Six Degrees of Inner Turbulence",
+    "services": {
+      "tidal": "1844822"
+    },
+    "release-date": "2002-01-29",
+    "tracks-count": 13,
+    "barcode": "075596274265"
+  },
+  {
+    "artist": "Dream Theater",
+    "title": "Systematic Chaos",
+    "services": {
+      "qobuz": "0016861799236"
+    },
+    "release-date": "2007-06-01",
+    "tracks-count": 8,
+    "barcode": "0016861799236"
+  },
+  {
+    "artist": "Dream Theater",
+    "title": "When Dream And Day Unite",
+    "services": {
+      "qobuz": "0007674222592"
+    },
+    "release-date": "1989-01-01",
+    "tracks-count": 8,
+    "barcode": "0007674222592"
+  },
+  {
+    "artist": "Duran Duran",
+    "title": "Duran Duran",
+    "services": {
+      "qobuz": "5099960960054"
+    },
+    "release-date": "1981-06-01",
+    "tracks-count": 27,
+    "barcode": "5099960960054"
+  },
+  {
+    "artist": "Earthside",
+    "title": "Let The Truth Speak",
+    "services": {
+      "qobuz": "xc609h6ypugya"
+    },
+    "release-date": "2025-12-04",
+    "tracks-count": 22,
+    "barcode": "8712725752547"
+  },
+  {
+    "artist": "Editors",
+    "title": "In Dream",
+    "services": {
+      "qobuz": "5414939927126"
+    },
+    "release-date": "2015-10-02",
+    "tracks-count": 16,
+    "barcode": "5414939927126"
+  },
+  {
+    "artist": "Editors",
+    "title": "The Weight of Your Love",
+    "services": {
+      "qobuz": "5414939419270"
+    },
+    "release-date": "2013-06-28",
+    "tracks-count": 11,
+    "barcode": "5414939419270"
+  },
+  {
+    "artist": "Einst\u00fcrzende Neubauten",
+    "title": "Halber Mensch",
+    "services": {
+      "qobuz": "s3h1839bplu1a"
+    },
+    "release-date": "1985-09-02",
+    "tracks-count": 11,
+    "barcode": "5060243821423"
+  },
+  {
+    "artist": "Elton John",
+    "title": "Goodbye Yellow Brick Road",
+    "services": {
+      "qobuz": "0060253759581"
+    },
+    "release-date": "1973-10-05",
+    "tracks-count": 17,
+    "barcode": "0060253759581"
+  },
+  {
+    "artist": "English Teacher",
+    "title": "This Could Be A Remix Album",
+    "services": {
+      "tidal": "464577612"
+    },
+    "release-date": "2025-10-10",
+    "tracks-count": 13,
+    "barcode": "00602488103008"
+  },
+  {
+    "artist": "English Teacher",
+    "title": "This Could Be Texas",
+    "services": {
+      "qobuz": "yq3y9t4go5wzb"
+    },
+    "release-date": "2024-04-12",
+    "tracks-count": 13,
+    "barcode": "0602458931570"
+  },
+  {
+    "artist": "Evanescence",
+    "title": "Fallen",
+    "services": {
+      "qobuz": "0060150140630"
+    },
+    "release-date": "2003-03-04",
+    "tracks-count": 12,
+    "barcode": "0060150140630"
+  },
+  {
+    "artist": "Evergrey",
+    "title": "Theories Of Emptiness",
+    "services": {
+      "tidal": "350608927"
+    },
+    "release-date": "2024-06-07",
+    "tracks-count": 11,
+    "barcode": "810155660390"
+  },
+  {
+    "artist": "Everything Everything",
+    "title": "Get To Heaven (Deluxe)",
+    "services": {
+      "qobuz": "0886445073638"
+    },
+    "release-date": "2015-06-19",
+    "tracks-count": 17,
+    "barcode": "0886445073638"
+  },
+  {
+    "artist": "Faith No More",
+    "title": "Angel Dust",
+    "services": {
+      "qobuz": "0825646120871"
+    },
+    "release-date": "1992-06-08",
+    "tracks-count": 31,
+    "barcode": "0825646120871"
+  },
+  {
+    "artist": "Faith No More",
+    "title": "The Real Thing",
+    "services": {
+      "qobuz": "0825646120819",
+      "tidal": "2113697"
+    },
+    "release-date": "1989-06-20",
+    "tracks-count": 11,
+    "barcode": "603497078769"
+  },
+  {
+    "artist": "Fates Warning",
+    "title": "Parallels",
+    "services": {
+      "qobuz": "rzhvx940bpfyb"
+    },
+    "release-date": "1991-11-01",
+    "tracks-count": 8,
+    "barcode": "0888880806109"
+  },
+  {
+    "artist": "Fates Warning",
+    "title": "Pleasant Shade Of Gray",
+    "services": {
+      "qobuz": "i2wcy7k3wdp2b"
+    },
+    "release-date": "1997-04-22",
+    "tracks-count": 12,
+    "barcode": "0888880805898"
+  },
+  {
+    "artist": "Fen",
+    "title": "Monuments to Absence",
+    "services": {
+      "tidal": "285524684"
+    },
+    "release-date": "2023-07-07",
+    "tracks-count": 8,
+    "barcode": "884388871663"
+  },
+  {
+    "artist": "Flying Colors",
+    "title": "Third Degree",
+    "services": {
+      "qobuz": "e1rjj4t8v9cub"
+    },
+    "release-date": "2019-10-04",
+    "tracks-count": 9,
+    "barcode": "0819873019947"
+  },
+  {
+    "artist": "Foals",
+    "title": "Antidotes",
+    "services": {
+      "qobuz": "f9gkm6ysra90a"
+    },
+    "release-date": "2008-04-08",
+    "tracks-count": 20,
+    "barcode": "0190295006389"
+  },
+  {
+    "artist": "Fontaines D.C.",
+    "title": "Dopamine Chamber",
+    "services": {
+      "tidal": "563963539"
+    },
+    "release-date": "2026-10-16",
+    "tracks-count": 11,
+    "barcode": "191404167359"
+  },
+  {
+    "artist": "Front Line Assembly",
+    "title": "Civilization",
+    "services": {
+      "qobuz": "kb8a414oylasb"
+    },
+    "release-date": "2004-01-20",
+    "tracks-count": 10,
+    "barcode": "0782388030366"
+  },
+  {
+    "artist": "Fugazi",
+    "title": "13 Songs",
+    "services": {
+      "qobuz": "ad66uxsovxhva"
+    },
+    "release-date": "1989-09-01",
+    "tracks-count": 13,
+    "barcode": "0718750734020"
+  },
+  {
+    "artist": "Garbage",
+    "title": "Garbage",
+    "services": {
+      "qobuz": "m5c6ox9cjuido"
+    },
+    "release-date": "1995-08-15",
+    "tracks-count": 62,
+    "barcode": "4050538614145"
+  },
+  {
+    "artist": "Garbage",
+    "title": "Let All That We Imagine Be The Light",
+    "services": {
+      "qobuz": "pqm0kmp9w935i"
+    },
+    "release-date": "2025-05-30",
+    "tracks-count": 10,
+    "barcode": "0199957039178"
+  },
+  {
+    "artist": "Garbage",
+    "title": "Version 2.0",
+    "services": {
+      "qobuz": "vshvb5txz8jhy"
+    },
+    "release-date": "1998-05-04",
+    "tracks-count": 12,
+    "barcode": "4050538614176"
+  },
+  {
+    "artist": "Gazpacho",
+    "title": "Night",
+    "services": {
+      "qobuz": "ui49jq58dclbb"
+    },
+    "release-date": "2007-01-01",
+    "tracks-count": 5,
+    "barcode": "5060108071024"
+  },
+  {
+    "artist": "Geese",
+    "title": "Getting Killed",
+    "services": {
+      "tidal": "440082667"
+    },
+    "release-date": "2025-09-26",
+    "tracks-count": 11,
+    "barcode": "5400863191436"
+  },
+  {
+    "artist": "Genesis",
+    "title": "Selling England by the Pound",
+    "services": {
+      "qobuz": "0603497976256"
+    },
+    "release-date": "1973-10-12",
+    "tracks-count": 8,
+    "barcode": "0603497976256"
+  },
+  {
+    "artist": "Ghost",
+    "title": "IMPERA",
+    "services": {
+      "qobuz": "n7b9s9ugdtq9a"
+    },
+    "release-date": "2022-03-11",
+    "tracks-count": 12,
+    "barcode": "0888072425361"
+  },
+  {
+    "artist": "Gilla Band",
+    "title": "Most Normal",
+    "services": {
+      "qobuz": "acylwal4j8efa"
+    },
+    "release-date": "2022-10-07",
+    "tracks-count": 12,
+    "barcode": "0191402035865"
+  },
+  {
+    "artist": "Global Communication",
+    "title": "76:14",
+    "services": {
+      "qobuz": "ulnxonoq9gnmb"
+    },
+    "release-date": "1994-06-01",
+    "tracks-count": 10,
+    "barcode": "0196871096614"
+  },
+  {
+    "artist": "God is an Astronaut",
+    "title": "All Is Violent, All Is Bright (2011 Remastered Edition)",
+    "services": {
+      "qobuz": "fzjjuyi8j61ic"
+    },
+    "release-date": "2011-12-28",
+    "tracks-count": 10,
+    "barcode": "0013964381986"
+  },
+  {
+    "artist": "God is an Astronaut",
+    "title": "Helios / Erebus",
+    "services": {
+      "qobuz": "nin2dx48675ob"
+    },
+    "release-date": "2015-07-29",
+    "tracks-count": 8,
+    "barcode": "0013964758016"
+  },
+  {
+    "artist": "Gojira",
+    "title": "From Mars to Sirius",
+    "services": {
+      "qobuz": "3700368460634"
+    },
+    "release-date": "2005-01-01",
+    "tracks-count": 12,
+    "barcode": "3700368460634"
+  },
+  {
+    "artist": "Green Day",
+    "title": "American Idiot",
+    "services": {
+      "qobuz": "0093624947301"
+    },
+    "release-date": "2004-09-21",
+    "tracks-count": 13,
+    "barcode": "0093624947301"
+  },
+  {
+    "artist": "Greta Van Fleet",
+    "title": "Palace for the People",
+    "services": {
+      "tidal": "567506150"
+    },
+    "release-date": "2026-10-09",
+    "tracks-count": 13,
+    "barcode": "00881061255871"
+  },
+  {
+    "artist": "Greta Van Fleet",
+    "title": "Starcatcher",
+    "services": {
+      "qobuz": "dohrulwnsqtab"
+    },
+    "release-date": "2023-07-21",
+    "tracks-count": 10,
+    "barcode": "0602455587886"
+  },
+  {
+    "artist": "Guns N' Roses",
+    "title": "Appetite For Destruction",
+    "services": {
+      "qobuz": "xv6go4ggroevc"
+    },
+    "release-date": "1987-07-21",
+    "tracks-count": 12,
+    "barcode": "0602567673866"
+  },
+  {
+    "artist": "Guns N' Roses",
+    "title": "Use Your Illusion I",
+    "services": {
+      "qobuz": "l7ks8hwo9je3a"
+    },
+    "release-date": "1991-09-01",
+    "tracks-count": 16,
+    "barcode": "0602448591340"
+  },
+  {
+    "artist": "Guns N' Roses",
+    "title": "Use Your Illusion II",
+    "services": {
+      "qobuz": "t9kt0x5o4yjnb",
+      "tidal": "258410209"
+    },
+    "release-date": "1991-09-17",
+    "tracks-count": 14,
+    "barcode": "00602448514479"
+  },
+  {
+    "artist": "Helloween",
+    "title": "Giants & Monsters",
+    "services": {
+      "tidal": "436854437"
+    },
+    "release-date": "2025-08-27",
+    "tracks-count": 10,
+    "barcode": "4262464739667"
+  },
+  {
+    "artist": "Helloween",
+    "title": "Helloween",
+    "services": {
+      "tidal": "396320093"
+    },
+    "release-date": "2021-06-18",
+    "tracks-count": 14,
+    "barcode": "727361485863"
+  },
+  {
+    "artist": "Helloween",
+    "title": "Master of the Rings (Remastered 2024)",
+    "services": {
+      "tidal": "487152912"
+    },
+    "release-date": "1994-01-01",
+    "tracks-count": 11,
+    "barcode": "00199957032407"
+  },
+  {
+    "artist": "Hildur Gudnadottir",
+    "title": "Chernobyl",
+    "services": {
+      "qobuz": "q4awxe2rkpgac"
+    },
+    "release-date": "2019-05-31",
+    "tracks-count": 13,
+    "barcode": "0028948363650"
+  },
+  {
+    "artist": "HIM",
+    "title": "Greatest Love Songs Vol. 666",
+    "services": {
+      "qobuz": "0888880768698",
+      "tidal": "478342814"
+    },
+    "release-date": "1997-11-20",
+    "tracks-count": 9,
+    "barcode": "886448103851"
+  },
+  {
+    "artist": "House Of Pain",
+    "title": "House of Pain (Fine Malt Lyrics)",
+    "services": {
+      "qobuz": "gphkuzmtda70b"
+    },
+    "release-date": "1992-07-21",
+    "tracks-count": 19,
+    "barcode": "0081227911560"
+  },
+  {
+    "artist": "Iamx",
+    "title": "Kingdom of Welcome Addiction",
+    "services": {
+      "qobuz": "w9ck9u7oq4rxb"
+    },
+    "release-date": "2009-05-19",
+    "tracks-count": 11,
+    "barcode": "0602557584479"
+  },
+  {
+    "artist": "Iamx",
+    "title": "The Alternative",
+    "services": {
+      "qobuz": "n2skwefjzupma"
+    },
+    "release-date": "2006-04-28",
+    "tracks-count": 11,
+    "barcode": "0602557579697"
+  },
+  {
+    "artist": "IDLES",
+    "title": "TANGK",
+    "services": {
+      "qobuz": "gg2zaiqw0lmba",
+      "tidal": "403438635"
+    },
+    "release-date": "2024-02-16",
+    "tracks-count": 11,
+    "barcode": "0720841304104"
+  },
+  {
+    "artist": "If These Trees Could Talk",
+    "title": "The Bones of a Dying World",
+    "services": {
+      "qobuz": "vc1tcb8825poa"
+    },
+    "release-date": "2016-06-03",
+    "tracks-count": 9,
+    "barcode": "0039841921823"
+  },
+  {
+    "artist": "If These Trees Could Talk",
+    "title": "The Hidden Hand",
+    "services": {
+      "qobuz": "uvvw9hhb6lo51"
+    },
+    "release-date": "2026-07-10",
+    "tracks-count": 9,
+    "barcode": "0039841973129"
+  },
+  {
+    "artist": "Ihlo",
+    "title": "Legacy",
+    "services": {
+      "qobuz": "qquldxbjgknua"
+    },
+    "release-date": "2025-08-29",
+    "tracks-count": 10,
+    "barcode": "0802644450667"
+  },
+  {
+    "artist": "In Flames",
+    "title": "Foregone",
+    "services": {
+      "tidal": "245049881"
+    },
+    "release-date": "2023-02-10",
+    "tracks-count": 12,
+    "barcode": "4065629651466"
+  },
+  {
+    "artist": "Infected Mushroom",
+    "title": "IM30",
+    "services": {
+      "tidal": "493277306"
+    },
+    "release-date": "2026-01-30",
+    "tracks-count": 8,
+    "barcode": "742779559548"
+  },
+  {
+    "artist": "Interpol",
+    "title": "This Mirror Weighs a Ton",
+    "services": {
+      "tidal": "523972981"
+    },
+    "release-date": "2026-08-28",
+    "tracks-count": 12,
+    "barcode": "0720841306801"
+  },
+  {
+    "artist": "Interpol",
+    "title": "Turn On The Bright Lights",
+    "services": {
+      "qobuz": "osbqfgotntfdb",
+      "tidal": "157768095"
+    },
+    "release-date": "2002-08-20",
+    "tracks-count": 11,
+    "barcode": "191401165457"
+  },
+  {
+    "artist": "INXS",
+    "title": "Kick",
+    "services": {
+      "qobuz": "0060252770637"
+    },
+    "release-date": "1987-01-01",
+    "tracks-count": 12,
+    "barcode": "0060252770637"
+  },
+  {
+    "artist": "IQ",
+    "title": "Almost But Not Quite",
+    "services": {
+      "qobuz": "dfa0qblr56psa"
+    },
+    "release-date": "2025-09-22",
+    "tracks-count": 16,
+    "barcode": "5026297010817"
+  },
+  {
+    "artist": "Iron Maiden",
+    "title": "Killers",
+    "services": {
+      "qobuz": "0825646129256"
+    },
+    "release-date": "1981-02-01",
+    "tracks-count": 10,
+    "barcode": "0825646129256"
+  },
+  {
+    "artist": "Iron Maiden",
+    "title": "Piece of Mind",
+    "services": {
+      "qobuz": "0825646129201"
+    },
+    "release-date": "1983-05-01",
+    "tracks-count": 9,
+    "barcode": "0825646129201"
+  },
+  {
+    "artist": "Iron Maiden",
+    "title": "The Number of the Beast",
+    "services": {
+      "qobuz": "0825646129232"
+    },
+    "release-date": "1982-03-22",
+    "tracks-count": 8,
+    "barcode": "0825646129232"
+  },
+  {
+    "artist": "ISIS",
+    "title": "Panopticon (Remastered)",
+    "services": {
+      "qobuz": "okz4lqtf7f8p2",
+      "tidal": "513899800"
+    },
+    "release-date": "2004-10-19",
+    "tracks-count": 7,
+    "barcode": "5051083094603"
+  },
+  {
+    "artist": "Jimmy Eat World",
+    "title": "Bleed American",
+    "services": {
+      "qobuz": "0060254732727"
+    },
+    "release-date": "2001-07-24",
+    "tracks-count": 11,
+    "barcode": "0060254732727"
+  },
+  {
+    "artist": "John Frusciante",
+    "title": "Enclosure",
+    "services": {
+      "qobuz": "mgfi605aekxuc"
+    },
+    "release-date": "2014-04-08",
+    "tracks-count": 9,
+    "barcode": "0603497821044"
+  },
+  {
+    "artist": "Kamelot",
+    "title": "Silverthorn",
+    "services": {
+      "tidal": "77605740"
+    },
+    "release-date": "2012-10-24",
+    "tracks-count": 26,
+    "barcode": "859722245547"
+  },
+  {
+    "artist": "Kamelot",
+    "title": "The Black Halo",
+    "services": {
+      "qobuz": "jr3i0anuwxo9b"
+    },
+    "release-date": "2005-03-15",
+    "tracks-count": 16,
+    "barcode": "0628586134621"
+  },
+  {
+    "artist": "Kanye West",
+    "title": "Yeezus",
+    "services": {
+      "qobuz": "0060253743926"
+    },
+    "release-date": "2013-01-01",
+    "tracks-count": 10,
+    "barcode": "0060253743926"
+  },
+  {
+    "artist": "Kasabian",
+    "title": "Kasabian",
+    "services": {
+      "qobuz": "0884977883183"
+    },
+    "release-date": "2004-01-30",
+    "tracks-count": 13,
+    "barcode": "0884977883183"
+  },
+  {
+    "artist": "Katatonia",
+    "title": "Last Fair Deal Gone Down",
+    "services": {
+      "tidal": "2577634"
+    },
+    "release-date": "2001-05-08",
+    "tracks-count": 11,
+    "barcode": "669910121269"
+  },
+  {
+    "artist": "Katatonia",
+    "title": "Viva Emptiness (10th Anniversary Edition)",
+    "services": {
+      "qobuz": "qibkp9gv7kx8a"
+    },
+    "release-date": "2003-04-29",
+    "tracks-count": 14,
+    "barcode": "0801056848420"
+  },
+  {
+    "artist": "Kate Bush",
+    "title": "The Dreaming",
+    "services": {
+      "qobuz": "eok7yej3tn7ca"
+    },
+    "release-date": "1982-09-13",
+    "tracks-count": 10,
+    "barcode": "0190295511708"
+  },
+  {
+    "artist": "Keith Jarrett",
+    "title": "The K\u00f6ln Concert (Live at the Opera, K\u00f6ln, 1975)",
+    "services": {
+      "qobuz": "0060254707654"
+    },
+    "release-date": "1975-01-24",
+    "tracks-count": 4,
+    "barcode": "0060254707654"
+  },
+  {
+    "artist": "Kim Gordon",
+    "title": "The Collective",
+    "services": {
+      "tidal": "345594443"
+    },
+    "release-date": "2024-03-08",
+    "tracks-count": 11,
+    "barcode": "191401202954"
+  },
+  {
+    "artist": "King Crimson",
+    "title": "In The Court Of The Crimson King",
+    "services": {
+      "qobuz": "jdd9xlfslpa7b"
+    },
+    "release-date": "1969-10-10",
+    "tracks-count": 8,
+    "barcode": "0633367880123"
+  },
+  {
+    "artist": "King Crimson",
+    "title": "Larks' Tongues In Aspic (Expanded & Remastered Original Album Mix)",
+    "services": {
+      "qobuz": "yw1kkkfznh5oa"
+    },
+    "release-date": "1973-03-23",
+    "tracks-count": 8,
+    "barcode": "0633367880222"
+  },
+  {
+    "artist": "King Crimson",
+    "title": "Red (Expanded & Remastered Original Album Mix)",
+    "services": {
+      "qobuz": "tis6rfa4zjehb"
+    },
+    "release-date": "1974-10-05",
+    "tracks-count": 8,
+    "barcode": "0633367880321"
+  },
+  {
+    "artist": "King Hannah",
+    "title": "Big Swimmer",
+    "services": {
+      "qobuz": "bnf0ojqhummga",
+      "tidal": "344555687"
+    },
+    "release-date": "2024-05-31",
+    "tracks-count": 11,
+    "barcode": "4250506849283"
+  },
+  {
+    "artist": "Korn",
+    "title": "Follow The Leader",
+    "services": {
+      "qobuz": "0886446148533"
+    },
+    "release-date": "1998-08-18",
+    "tracks-count": 14,
+    "barcode": "0886446148533"
+  },
+  {
+    "artist": "Kreator",
+    "title": "Krushers Of The World",
+    "services": {
+      "tidal": "489909589"
+    },
+    "release-date": "2026-01-16",
+    "tracks-count": 10,
+    "barcode": "4065629745363"
+  },
+  {
+    "artist": "Kreator",
+    "title": "Renewal",
+    "services": {
+      "qobuz": "o9yf7zkabucm7"
+    },
+    "release-date": "1992-10-26",
+    "tracks-count": 9,
+    "barcode": "4099964056686"
+  },
+  {
+    "artist": "La Dispute",
+    "title": "Panorama",
+    "services": {
+      "qobuz": "anarjba1bqvcc"
+    },
+    "release-date": "2019-03-22",
+    "tracks-count": 10,
+    "barcode": "0045778764402"
+  },
+  {
+    "artist": "La Dispute",
+    "title": "Wildlife",
+    "services": {
+      "qobuz": "f1a3al3vmt4sa"
+    },
+    "release-date": "2011-01-01",
+    "tracks-count": 14,
+    "barcode": "0603111932125"
+  },
+  {
+    "artist": "Lacrimas Profundere",
+    "title": "Antiadore",
+    "services": {
+      "tidal": "68003029"
+    },
+    "release-date": "2013-06-11",
+    "tracks-count": 15,
+    "barcode": "191018546472"
+  },
+  {
+    "artist": "Lacrimas Profundere",
+    "title": "Filthy Notes For Frozen Hearts",
+    "services": {
+      "qobuz": "0819224014478"
+    },
+    "release-date": "2006-07-07",
+    "tracks-count": 12,
+    "barcode": "0819224014478"
+  },
+  {
+    "artist": "Lamb of God",
+    "title": "Ashes of the Wake",
+    "services": {
+      "qobuz": "l1hssjmncsdkc"
+    },
+    "release-date": "2004-08-26",
+    "tracks-count": 18,
+    "barcode": "0196872141535"
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Born To Die",
+    "services": {
+      "qobuz": "0060252792944"
+    },
+    "release-date": "2012-01-01",
+    "tracks-count": 15,
+    "barcode": "0060252792944"
+  },
+  {
+    "artist": "LCD Soundsystem",
+    "title": "Sound of Silver",
+    "services": {
+      "qobuz": "0094638511359"
+    },
+    "release-date": "2007-03-02",
+    "tracks-count": 9,
+    "barcode": "0094638511359"
+  },
+  {
+    "artist": "Led Zeppelin",
+    "title": "Led Zeppelin (HD Remastered Edition)",
+    "services": {
+      "qobuz": "0603497920143"
+    },
+    "release-date": "1969-01-12",
+    "tracks-count": 9,
+    "barcode": "0603497920143"
+  },
+  {
+    "artist": "Led Zeppelin",
+    "title": "Led Zeppelin IV (HD Remastered Edition)",
+    "services": {
+      "qobuz": "0603497898503"
+    },
+    "release-date": "1971-11-08",
+    "tracks-count": 8,
+    "barcode": "0603497898503"
+  },
+  {
+    "artist": "Leftfield",
+    "title": "Leftism",
+    "services": {
+      "qobuz": "0886446209326",
+      "tidal": "39817"
+    },
+    "release-date": "1995-01-01",
+    "tracks-count": 18,
+    "barcode": "5099749831025"
+  },
+  {
+    "artist": "Leprous",
+    "title": "Malina",
+    "services": {
+      "qobuz": "0886446514499"
+    },
+    "release-date": "2017-08-25",
+    "tracks-count": 11,
+    "barcode": "0886446514499"
+  },
+  {
+    "artist": "Leprous",
+    "title": "Pitfalls",
+    "services": {
+      "qobuz": "sbnv1pemheyca"
+    },
+    "release-date": "2019-10-25",
+    "tracks-count": 9,
+    "barcode": "0886447814406"
+  },
+  {
+    "artist": "Linkin Park",
+    "title": "Meteora",
+    "services": {
+      "qobuz": "0093624949091"
+    },
+    "release-date": "2003-03-25",
+    "tracks-count": 13,
+    "barcode": "0093624949091"
+  },
+  {
+    "artist": "London Grammar",
+    "title": "If You Wait",
+    "services": {
+      "qobuz": "0060253759678"
+    },
+    "release-date": "2013-09-06",
+    "tracks-count": 17,
+    "barcode": "0060253759678"
+  },
+  {
+    "artist": "Long Distance Calling",
+    "title": "The Phantom Void",
+    "services": {
+      "qobuz": "c1xutrg884iq4",
+      "tidal": "491072101"
+    },
+    "release-date": "2026-04-10",
+    "tracks-count": 7,
+    "barcode": "4029759213833"
+  },
+  {
+    "artist": "Lorna Shore",
+    "title": "I Feel The Everblack Festering Within Me",
+    "services": {
+      "tidal": "431469018"
+    },
+    "release-date": "2025-09-29",
+    "tracks-count": 10,
+    "barcode": "196872991611"
+  },
+  {
+    "artist": "Lost Society",
+    "title": "If The Sky Came Down",
+    "services": {
+      "qobuz": "apvl06cb62rda"
+    },
+    "release-date": "2022-09-30",
+    "tracks-count": 10,
+    "barcode": "4065629639563"
+  },
+  {
+    "artist": "Low",
+    "title": "I Could Live In Hope",
+    "services": {
+      "qobuz": "0094637442753"
+    },
+    "release-date": "1994-01-01",
+    "tracks-count": 11,
+    "barcode": "0094637442753"
+  },
+  {
+    "artist": "M83",
+    "title": "Before The Dawn Heals Us",
+    "services": {
+      "qobuz": "3298499026435"
+    },
+    "release-date": "2005-01-24",
+    "tracks-count": 15,
+    "barcode": "3298499026435"
+  },
+  {
+    "artist": "Machine Head",
+    "title": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
+    "services": {
+      "qobuz": "y3izkzeuh542b",
+      "tidal": "224722899"
+    },
+    "release-date": "2022-08-06",
+    "tracks-count": 13,
+    "barcode": "4065629649760"
+  },
+  {
+    "artist": "Machine Head",
+    "title": "The Blackening",
+    "services": {
+      "qobuz": "0016861801601"
+    },
+    "release-date": "2001-09-28",
+    "tracks-count": 8,
+    "barcode": "0016861801601"
+  },
+  {
+    "artist": "Machine Head",
+    "title": "UNAT\u00d8NED",
+    "services": {
+      "tidal": "431871862"
+    },
+    "release-date": "2025-04-25",
+    "tracks-count": 12,
+    "barcode": "4065629742560"
+  },
+  {
+    "artist": "main",
+    "title": "Motion Pool",
+    "services": {
+      "qobuz": "5012093914824"
+    },
+    "release-date": "1994-04-01",
+    "tracks-count": 10,
+    "barcode": "5012093914824"
+  },
+  {
+    "artist": "Mandy, Indiana",
+    "title": "i've seen a way",
+    "services": {
+      "tidal": "267987548"
+    },
+    "release-date": "2023-05-19",
+    "tracks-count": 11,
+    "barcode": "634457127876"
+  },
+  {
+    "artist": "Mandy, Indiana",
+    "title": "URGH",
+    "services": {
+      "tidal": "467195541"
+    },
+    "release-date": "2026-02-06",
+    "tracks-count": 10,
+    "barcode": "843563197769"
+  },
+  {
+    "artist": "Marillion",
+    "title": "Clutching at Straws",
+    "services": {
+      "qobuz": "w0zgee2juwonc"
+    },
+    "release-date": "1987-06-01",
+    "tracks-count": 11,
+    "barcode": "0190295460839"
+  },
+  {
+    "artist": "Marillion",
+    "title": "Marbles",
+    "services": {
+      "qobuz": "k8rfz5d1fha0b"
+    },
+    "release-date": "2004-05-03",
+    "tracks-count": 15,
+    "barcode": "0859724565117"
+  },
+  {
+    "artist": "Marilyn Manson",
+    "title": "One Assassination Under God - Chapter 1",
+    "services": {
+      "qobuz": "wtc5umkywcneb"
+    },
+    "release-date": "2024-11-22",
+    "tracks-count": 9,
+    "barcode": "4065629731366"
+  },
+  {
+    "artist": "Marilyn Manson",
+    "title": "We Are Chaos",
+    "services": {
+      "qobuz": "l2qizct2yyllc"
+    },
+    "release-date": "2020-07-29",
+    "tracks-count": 10,
+    "barcode": "0888072200234"
+  },
+  {
+    "artist": "Massive Attack",
+    "title": "Mezzanine",
+    "services": {
+      "qobuz": "0724384559953"
+    },
+    "release-date": "1998-01-01",
+    "tracks-count": 11,
+    "barcode": "0724384559953"
+  },
+  {
+    "artist": "Massive Attack",
+    "title": "Mezzanine (20th Anniversary Deluxe Edition)",
+    "services": {
+      "qobuz": "pvsb64n704d0b"
+    },
+    "release-date": "1998-04-20",
+    "tracks-count": 19,
+    "barcode": "0602567930983"
+  },
+  {
+    "artist": "Mastodon",
+    "title": "Emperor of Sand",
+    "services": {
+      "qobuz": "0093624914020"
+    },
+    "release-date": "2017-03-31",
+    "tracks-count": 11,
+    "barcode": "0093624914020"
+  },
+  {
+    "artist": "Mastodon",
+    "title": "Once More 'Round the Sun",
+    "services": {
+      "qobuz": "0093624937111"
+    },
+    "release-date": "2014-06-20",
+    "tracks-count": 11,
+    "barcode": "0093624937111"
+  },
+  {
+    "artist": "Mayhem",
+    "title": "Liturgy of Death",
+    "services": {
+      "tidal": "467331821"
+    },
+    "release-date": "2026-02-06",
+    "tracks-count": 8,
+    "barcode": "196873560830"
+  },
+  {
+    "artist": "Mazzy Star",
+    "title": "So Tonight That I Might See",
+    "services": {
+      "qobuz": "0077779825356",
+      "tidal": "147475"
+    },
+    "release-date": "1993-09-27",
+    "tracks-count": 10,
+    "barcode": "00077779825356"
+  },
+  {
+    "artist": "Messa",
+    "title": "The Spin",
+    "services": {
+      "qobuz": "z7uznbb369nrb"
+    },
+    "release-date": "2025-04-11",
+    "tracks-count": 7,
+    "barcode": "0039841967623"
+  },
+  {
+    "artist": "Metallica",
+    "title": "\u2026And Justice for All",
+    "services": {
+      "qobuz": "huhn6uzin3vgc"
+    },
+    "release-date": "1988-08-25",
+    "tracks-count": 9,
+    "barcode": "0602508628887"
+  },
+  {
+    "artist": "Metallica",
+    "title": "Hardwired\u2026To Self-Destruct",
+    "services": {
+      "qobuz": "wkfpbb8n1rzeb"
+    },
+    "release-date": "2016-11-18",
+    "tracks-count": 26,
+    "barcode": "0602507249168"
+  },
+  {
+    "artist": "Metallica",
+    "title": "Master Of Puppets",
+    "services": {
+      "qobuz": "zoarc5p3ew5wb"
+    },
+    "release-date": "1986-03-01",
+    "tracks-count": 8,
+    "barcode": "0602508637063"
+  },
+  {
+    "artist": "Metallica",
+    "title": "Metallica (Remastered 2021)",
+    "services": {
+      "qobuz": "e98mhimqarxfb",
+      "tidal": "196435443"
+    },
+    "release-date": "1991-08-12",
+    "tracks-count": 12,
+    "barcode": "00602438404537"
+  },
+  {
+    "artist": "Metallica",
+    "title": "Reload",
+    "services": {
+      "qobuz": "g8ckx8n5io5ua"
+    },
+    "release-date": "1997-11-18",
+    "tracks-count": 13,
+    "barcode": "0602507243616"
+  },
+  {
+    "artist": "Metric",
+    "title": "Formentera",
+    "services": {
+      "qobuz": "eyihaejablvrc"
+    },
+    "release-date": "2022-07-08",
+    "tracks-count": 9,
+    "barcode": "0196626817242"
+  },
+  {
+    "artist": "Miles Davis",
+    "title": "Bitches Brew",
+    "services": {
+      "qobuz": "0886443874428"
+    },
+    "release-date": "1970-03-30",
+    "tracks-count": 6,
+    "barcode": "0886443874428"
+  },
+  {
+    "artist": "Miles Davis",
+    "title": "Kind Of Blue",
+    "services": {
+      "qobuz": "5099749522428"
+    },
+    "release-date": "1959-08-17",
+    "tracks-count": 5,
+    "barcode": "5099749522428"
+  },
+  {
+    "artist": "Moderat",
+    "title": "II (10th Anniversary Sped-up Edition)",
+    "services": {
+      "qobuz": "ep8r1bjr8l9ra"
+    },
+    "release-date": "2023-08-02",
+    "tracks-count": 12,
+    "barcode": "0817231019189"
+  },
+  {
+    "artist": "Mogwai",
+    "title": "Young Team",
+    "services": {
+      "qobuz": "5024545388886"
+    },
+    "release-date": "1997-10-27",
+    "tracks-count": 10,
+    "barcode": "5024545388886"
+  },
+  {
+    "artist": "M\u00d8L",
+    "title": "DREAMCRUSH",
+    "services": {
+      "tidal": "490065965"
+    },
+    "release-date": "2026-01-30",
+    "tracks-count": 11,
+    "barcode": "4065629730260"
+  },
+  {
+    "artist": "MONO",
+    "title": "Hymn to the Immortal Wind",
+    "services": {
+      "qobuz": "0656605314860"
+    },
+    "release-date": "2009-03-24",
+    "tracks-count": 7,
+    "barcode": "0656605314860"
+  },
+  {
+    "artist": "MONO",
+    "title": "Nowhere Now Here",
+    "services": {
+      "qobuz": "iietp953p8jbc"
+    },
+    "release-date": "2019-01-25",
+    "tracks-count": 10,
+    "barcode": "0192562983164"
+  },
+  {
+    "artist": "MONO",
+    "title": "Snowdrop",
+    "services": {
+      "qobuz": "lu2av90oi2qzf",
+      "tidal": "502899871"
+    },
+    "release-date": "2026-06-12",
+    "tracks-count": 8,
+    "barcode": "656605445366"
+  },
+  {
+    "artist": "Morne",
+    "title": "Engraved with Pain",
+    "services": {
+      "tidal": "310803822"
+    },
+    "release-date": "2023-11-03",
+    "tracks-count": 4,
+    "barcode": "039841959529"
+  },
+  {
+    "artist": "Muse",
+    "title": "Absolution",
+    "services": {
+      "qobuz": "hif1frx7f91ea"
+    },
+    "release-date": "2003-09-21",
+    "tracks-count": 15,
+    "barcode": "5054197904233"
+  },
+  {
+    "artist": "Muse",
+    "title": "Black Holes and Revelations",
+    "services": {
+      "qobuz": "0825646024797"
+    },
+    "release-date": "2006-06-19",
+    "tracks-count": 12,
+    "barcode": "0825646024797"
+  },
+  {
+    "artist": "Muse",
+    "title": "Origin of Symmetry",
+    "services": {
+      "qobuz": "0825646645879"
+    },
+    "release-date": "2001-07-17",
+    "tracks-count": 12,
+    "barcode": "0825646645879"
+  },
+  {
+    "artist": "Muse",
+    "title": "Showbiz",
+    "services": {
+      "qobuz": "0825646024841"
+    },
+    "release-date": "1991-09-28",
+    "tracks-count": 13,
+    "barcode": "0825646024841"
+  },
+  {
+    "artist": "My Bloody Valentine",
+    "title": "loveless",
+    "services": {
+      "qobuz": "qf6qfzou4fwrb"
+    },
+    "release-date": "1991-11-04",
+    "tracks-count": 11,
+    "barcode": "0887830015998"
+  },
+  {
+    "artist": "My Chemical Romance",
+    "title": "Three Cheers for Sweet Revenge",
+    "services": {
+      "qobuz": "0093624917731"
+    },
+    "release-date": "2004-06-08",
+    "tracks-count": 13,
+    "barcode": "0093624917731"
+  },
+  {
+    "artist": "Neal Morse",
+    "title": "The Dreamer - Joseph, Pt. 1",
+    "services": {
+      "qobuz": "zrjtk9khkrxmc"
+    },
+    "release-date": "2023-08-11",
+    "tracks-count": 16,
+    "barcode": "0197188798147"
+  },
+  {
+    "artist": "Nick Cave & The Bad Seeds",
+    "title": "Push the Sky Away",
+    "services": {
+      "qobuz": "vfb2srph1xj6b"
+    },
+    "release-date": "2013-02-18",
+    "tracks-count": 9,
+    "barcode": "5055667601799"
+  },
+  {
+    "artist": "Nick Cave & The Bad Seeds",
+    "title": "Skeleton Tree",
+    "services": {
+      "qobuz": "ojaxuch1xtq9b"
+    },
+    "release-date": "2016-09-09",
+    "tracks-count": 8,
+    "barcode": "5060454943853"
+  },
+  {
+    "artist": "Nick Cave & The Bad Seeds",
+    "title": "The Boatman's Call",
+    "services": {
+      "qobuz": "sp8qtqq9g7eqk"
+    },
+    "release-date": "1997-03-03",
+    "tracks-count": 12,
+    "barcode": "5099909572959"
+  },
+  {
+    "artist": "Nick Cave & The Bad Seeds",
+    "title": "Wild God",
+    "services": {
+      "tidal": "384178540"
+    },
+    "release-date": "2024-08-30",
+    "tracks-count": 10,
+    "barcode": "5400863157920"
+  },
+  {
+    "artist": "Night Verses",
+    "title": "Every Sound Has A Color In The Valley Of Night",
+    "services": {
+      "qobuz": "hfmkpx7we19ca"
+    },
+    "release-date": "2024-03-15",
+    "tracks-count": 14,
+    "barcode": "0197190858051"
+  },
+  {
+    "artist": "Nine Inch Nails",
+    "title": "The Downward Spiral",
+    "services": {
+      "qobuz": "q3cnbivjsyafc"
+    },
+    "release-date": "1994-03-08",
+    "tracks-count": 27,
+    "barcode": "0602567931713"
+  },
+  {
+    "artist": "Nine Inch Nails",
+    "title": "The Fragile",
+    "services": {
+      "qobuz": "0060694904732"
+    },
+    "release-date": "1999-01-01",
+    "tracks-count": 23,
+    "barcode": "0060694904732"
+  },
+  {
+    "artist": "Nine Inch Nails",
+    "title": "With Teeth",
+    "services": {
+      "qobuz": "0060249881440"
+    },
+    "release-date": "2005-05-03",
+    "tracks-count": 15,
+    "barcode": "0060249881440"
+  },
+  {
+    "artist": "Nine Inch Nails",
+    "title": "With Teeth (Bonus Tracks)",
+    "services": {
+      "tidal": "34737503"
+    },
+    "release-date": "2005-05-03",
+    "tracks-count": 15,
+    "barcode": "00602498814406"
+  },
+  {
+    "artist": "Nirvana",
+    "title": "Nevermind",
+    "services": {
+      "qobuz": "m5pxsa1stxppa",
+      "tidal": "77610756"
+    },
+    "release-date": "1991-09-24",
+    "tracks-count": 13,
+    "barcode": "00602537498659"
+  },
+  {
+    "artist": "Nothing",
+    "title": "a short history of decay",
+    "services": {
+      "qobuz": "wgt967q3t45ib"
+    },
+    "release-date": "2026-02-27",
+    "tracks-count": 9,
+    "barcode": "0199438001472"
+  },
+  {
+    "artist": "Nothing But Thieves",
+    "title": "Moral Panic",
+    "services": {
+      "qobuz": "aecm0ssqlqwfa"
+    },
+    "release-date": "2020-10-23",
+    "tracks-count": 11,
+    "barcode": "0886448371342"
+  },
+  {
+    "artist": "Novembers Doom",
+    "title": "Hamartia",
+    "services": {
+      "tidal": "175418516"
+    },
+    "release-date": "2017-04-14",
+    "tracks-count": 10,
+    "barcode": "0654436073222"
+  },
+  {
+    "artist": "Obscura",
+    "title": "Cosmogenesis",
+    "services": {
+      "qobuz": "jomjoaq0ufnab"
+    },
+    "release-date": "2009-02-17",
+    "tracks-count": 10,
+    "barcode": "0781676703227"
+  },
+  {
+    "artist": "Of Mice & Men",
+    "title": "EARTHANDSKY",
+    "services": {
+      "qobuz": "lxnf8amdrx1rf"
+    },
+    "release-date": "2019-09-27",
+    "tracks-count": 11,
+    "barcode": "4050538503777"
+  },
+  {
+    "artist": "Of Mice & Men",
+    "title": "The Flood",
+    "services": {
+      "qobuz": "ha7oc5a6heolv"
+    },
+    "release-date": "2011-06-14",
+    "tracks-count": 16,
+    "barcode": "0858721002724"
+  },
+  {
+    "artist": ":Of The Wand & The Moon:",
+    "title": "The Lone Descent",
+    "services": {
+      "tidal": "13251057"
+    },
+    "release-date": "2011-01-10",
+    "tracks-count": 11,
+    "barcode": "4038846800108"
+  },
+  {
+    "artist": "Oh Wonder",
+    "title": "Oh Wonder",
+    "services": {
+      "qobuz": "nxzsiv79ht5cb"
+    },
+    "release-date": "2015-09-04",
+    "tracks-count": 15,
+    "barcode": "0602547461155"
+  },
+  {
+    "artist": "Oneohtrix Point Never",
+    "title": "Replica",
+    "services": {
+      "qobuz": "u4fok6xz1vukc"
+    },
+    "release-date": "2011-11-05",
+    "tracks-count": 10,
+    "barcode": "0184923201062"
+  },
+  {
+    "artist": "Opeth",
+    "title": "Blackwater Park",
+    "services": {
+      "qobuz": "0828768291221"
+    },
+    "release-date": "2001-02-27",
+    "tracks-count": 8,
+    "barcode": "0828768291221"
+  },
+  {
+    "artist": "Opeth",
+    "title": "Pale Communion",
+    "services": {
+      "qobuz": "0016861754402",
+      "tidal": "68572918"
+    },
+    "release-date": "2014-08-26",
+    "tracks-count": 8,
+    "barcode": "016861754402"
+  },
+  {
+    "artist": "Opeth",
+    "title": "The Last Will And Testament",
+    "services": {
+      "tidal": "389622358"
+    },
+    "release-date": "2024-11-22",
+    "tracks-count": 8,
+    "barcode": "4262464731760"
+  },
+  {
+    "artist": "Pan Sonic",
+    "title": "Kulma",
+    "services": {
+      "qobuz": "0724387436558"
+    },
+    "release-date": "1997-01-27",
+    "tracks-count": 14,
+    "barcode": "0724387436558"
+  },
+  {
+    "artist": "Pantera",
+    "title": "Vulgar Display of Power",
+    "services": {
+      "qobuz": "0603497881604"
+    },
+    "release-date": "1992-02-25",
+    "tracks-count": 11,
+    "barcode": "0603497881604"
+  },
+  {
+    "artist": "Paradise Lost",
+    "title": "Ascension",
+    "services": {
+      "qobuz": "o89bujrvtp4vb"
+    },
+    "release-date": "2025-09-19",
+    "tracks-count": 12,
+    "barcode": "4065629687960"
+  },
+  {
+    "artist": "Paradise Lost",
+    "title": "The Plague Within",
+    "services": {
+      "qobuz": "jqrdbgbgi87ec",
+      "tidal": "428170983"
+    },
+    "release-date": "2015-06-01",
+    "tracks-count": 10,
+    "barcode": "5053760131274"
+  },
+  {
+    "artist": "Pearl Jam",
+    "title": "Ten",
+    "services": {
+      "qobuz": "0884977724745",
+      "tidal": "5120022"
+    },
+    "release-date": "1991-08-27",
+    "tracks-count": 11,
+    "barcode": "884977724745"
+  },
+  {
+    "artist": "Pete Namlook",
+    "title": "Air I (2021 Remaster)",
+    "services": {
+      "qobuz": "f3hgg99ye49ua"
+    },
+    "release-date": "2021-11-05",
+    "tracks-count": 9,
+    "barcode": "0197271625398"
+  },
+  {
+    "artist": "Peter Gabriel",
+    "title": "Peter Gabriel 1: Car (Remastered)",
+    "services": {
+      "tidal": "122119862"
+    },
+    "release-date": "1977-01-01",
+    "tracks-count": 9,
+    "barcode": "00884108005996"
+  },
+  {
+    "artist": "Peter Gabriel",
+    "title": "So",
+    "services": {
+      "qobuz": "kjsz9jmqpb19b"
+    },
+    "release-date": "1986-05-01",
+    "tracks-count": 9,
+    "barcode": "0884108006078"
+  },
+  {
+    "artist": "Phantogram",
+    "title": "Voices",
+    "services": {
+      "qobuz": "k8jks8mphnj5a"
+    },
+    "release-date": "2014-02-18",
+    "tracks-count": 11,
+    "barcode": "0602537734856"
+  },
+  {
+    "artist": "Pink Floyd",
+    "title": "Animals",
+    "services": {
+      "qobuz": "bvtc1yid993vb"
+    },
+    "release-date": "1977-01-23",
+    "tracks-count": 5,
+    "barcode": "0196589270573"
+  },
+  {
+    "artist": "Pink Floyd",
+    "title": "Pink Floyd at Pompeii - MCMLXXII (2025 Mix)",
+    "services": {
+      "qobuz": "gyoh6k10uqekc",
+      "tidal": "432082983"
+    },
+    "release-date": "2025-05-02",
+    "tracks-count": 11,
+    "barcode": "196872874983"
+  },
+  {
+    "artist": "Pink Floyd",
+    "title": "The Dark Side Of The Moon (50th Anniversary)",
+    "services": {
+      "qobuz": "es45w03nwb5eb"
+    },
+    "release-date": "1973-03-01",
+    "tracks-count": 10,
+    "barcode": "0196589805232"
+  },
+  {
+    "artist": "Pink Floyd",
+    "title": "The Division Bell",
+    "services": {
+      "qobuz": "zkw3csyyk9ndc",
+      "tidal": "55391524"
+    },
+    "release-date": "1994-03-30",
+    "tracks-count": 11,
+    "barcode": "886445613872"
+  },
+  {
+    "artist": "Pink Floyd",
+    "title": "The Wall (Remastered 2011 Version)",
+    "services": {
+      "qobuz": "dvc2hmdh714yc"
+    },
+    "release-date": "1979-11-30",
+    "tracks-count": 26,
+    "barcode": "0886445613841"
+  },
+  {
+    "artist": "Pink Floyd",
+    "title": "Wish You Were Here 50",
+    "services": {
+      "qobuz": "dql7n572nt39a"
+    },
+    "release-date": "1975-09-15",
+    "tracks-count": 30,
+    "barcode": "0196873561073"
+  },
+  {
+    "artist": "Pixies",
+    "title": "Doolittle",
+    "services": {
+      "qobuz": "5014436905025"
+    },
+    "release-date": "1989-04-17",
+    "tracks-count": 15,
+    "barcode": "5014436905025"
+  },
+  {
+    "artist": "Placebo",
+    "title": "Black Market Music",
+    "services": {
+      "qobuz": "hgu2vhqpqr1jc"
+    },
+    "release-date": "2000-10-09",
+    "tracks-count": 13,
+    "barcode": "5060186926865"
+  },
+  {
+    "artist": "Placebo",
+    "title": "Placebo RE:CREATED",
+    "services": {
+      "qobuz": "qwfrfjlh0tzit"
+    },
+    "release-date": "2026-06-19",
+    "tracks-count": 17,
+    "barcode": "0820200038371"
+  },
+  {
+    "artist": "Placebo",
+    "title": "Without You I'm Nothing",
+    "services": {
+      "qobuz": "kgu24q52t5ucb"
+    },
+    "release-date": "1998-10-12",
+    "tracks-count": 13,
+    "barcode": "5060186926902"
+  },
+  {
+    "artist": "Plaid",
+    "title": "Not For Threes",
+    "services": {
+      "qobuz": "0801061005436"
+    },
+    "release-date": "1997-10-27",
+    "tracks-count": 16,
+    "barcode": "0801061005436"
+  },
+  {
+    "artist": "Plastikman",
+    "title": "Consumed",
+    "services": {
+      "qobuz": "gpvwbkkylpuda"
+    },
+    "release-date": "1998-05-18",
+    "tracks-count": 11,
+    "barcode": "0815349010333"
+  },
+  {
+    "artist": "Poppy",
+    "title": "Empty Hands",
+    "services": {
+      "tidal": "492022483"
+    },
+    "release-date": "2026-01-23",
+    "tracks-count": 13,
+    "barcode": "198704839740"
+  },
+  {
+    "artist": "Porcupine Tree",
+    "title": "Closure / Continuation",
+    "services": {
+      "qobuz": "oqqp421laxpmc"
+    },
+    "release-date": "2022-06-24",
+    "tracks-count": 10,
+    "barcode": "0886449656813"
+  },
+  {
+    "artist": "Porcupine Tree",
+    "title": "In Absentia",
+    "services": {
+      "qobuz": "mrrwkb6hqtftb"
+    },
+    "release-date": "2002-09-24",
+    "tracks-count": 12,
+    "barcode": "0802644815961"
+  },
+  {
+    "artist": "Portishead",
+    "title": "Dummy",
+    "services": {
+      "qobuz": "0004228285532",
+      "tidal": "1765476"
+    },
+    "release-date": "1994-10-01",
+    "tracks-count": 11,
+    "barcode": "00042282855329"
+  },
+  {
+    "artist": "Portishead",
+    "title": "Portishead",
+    "services": {
+      "tidal": "632078"
+    },
+    "release-date": "1997-09-30",
+    "tracks-count": 11,
+    "barcode": "00731453918924"
+  },
+  {
+    "artist": "Portishead",
+    "title": "Third",
+    "services": {
+      "tidal": "34972787"
+    },
+    "release-date": "2008-04-29",
+    "tracks-count": 11,
+    "barcode": "00602517664005"
+  },
+  {
+    "artist": "Primal Scream",
+    "title": "XTRMNTR (Expanded Edition)",
+    "services": {
+      "qobuz": "0886443285569"
+    },
+    "release-date": "1999-12-02",
+    "tracks-count": 19,
+    "barcode": "0886443285569"
+  },
+  {
+    "artist": "Protomartyr",
+    "title": "Formal Growth In The Desert",
+    "services": {
+      "qobuz": "mxyvscnrodf4b"
+    },
+    "release-date": "2023-06-02",
+    "tracks-count": 12,
+    "barcode": "0887828052066"
+  },
+  {
+    "artist": "Puscifer",
+    "title": "Normal Isn't",
+    "services": {
+      "tidal": "493535890"
+    },
+    "release-date": "2026-02-06",
+    "tracks-count": 11,
+    "barcode": "00199957047913"
+  },
+  {
+    "artist": "PVRIS",
+    "title": "EVERGREEN",
+    "services": {
+      "qobuz": "dvipx8nkukssc"
+    },
+    "release-date": "2023-07-14",
+    "tracks-count": 11,
+    "barcode": "0790692680269"
+  },
+  {
+    "artist": "Queen",
+    "title": "Innuendo",
+    "services": {
+      "qobuz": "jpqzt2fwlfb37"
+    },
+    "release-date": "1991-02-05",
+    "tracks-count": 17,
+    "barcode": "0602527800097"
+  },
+  {
+    "artist": "Queen",
+    "title": "Sheer Heart Attack",
+    "services": {
+      "qobuz": "xruhmpqd4iyt2"
+    },
+    "release-date": "1974-11-08",
+    "tracks-count": 18,
+    "barcode": "0602527644141"
+  },
+  {
+    "artist": "Queens Of The Stone Age",
+    "title": "...Like Clockwork",
+    "services": {
+      "qobuz": "0744861104056"
+    },
+    "release-date": "2013-06-03",
+    "tracks-count": 10,
+    "barcode": "0744861104056"
+  },
+  {
+    "artist": "Queens Of The Stone Age",
+    "title": "Perfecth",
+    "services": {
+      "tidal": "568202498"
+    },
+    "release-date": "2026-10-30",
+    "tracks-count": 9,
+    "barcode": "191401225359"
+  },
+  {
+    "artist": "Queens Of The Stone Age",
+    "title": "Villains",
+    "services": {
+      "qobuz": "0744861112570"
+    },
+    "release-date": "2017-08-25",
+    "tracks-count": 9,
+    "barcode": "0744861112570"
+  },
+  {
+    "artist": "R.E.M.",
+    "title": "Accelerate",
+    "services": {
+      "qobuz": "0088807200254"
+    },
+    "release-date": "2008-03-31",
+    "tracks-count": 11,
+    "barcode": "0088807200254"
+  },
+  {
+    "artist": "R.E.M.",
+    "title": "Around The Sun",
+    "services": {
+      "qobuz": "0088807200416"
+    },
+    "release-date": "2004-10-05",
+    "tracks-count": 13,
+    "barcode": "0088807200416"
+  },
+  {
+    "artist": "R.E.M.",
+    "title": "Automatic For The People",
+    "services": {
+      "qobuz": "0088807204128"
+    },
+    "release-date": "1992-10-05",
+    "tracks-count": 12,
+    "barcode": "0088807204128"
+  },
+  {
+    "artist": "R.E.M.",
+    "title": "Automatic For The People (25th Anniversary Hi-Res Edition)",
+    "services": {
+      "tidal": "81175770"
+    },
+    "release-date": "1992-10-06",
+    "tracks-count": 25,
+    "barcode": "00888072041240"
+  },
+  {
+    "artist": "R.E.M.",
+    "title": "Green",
+    "services": {
+      "qobuz": "0088807239821"
+    },
+    "release-date": "1988-11-08",
+    "tracks-count": 37,
+    "barcode": "0088807239821"
+  },
+  {
+    "artist": "R.E.M.",
+    "title": "Murmur",
+    "services": {
+      "qobuz": "0060253782280"
+    },
+    "release-date": "1983-04-12",
+    "tracks-count": 12,
+    "barcode": "0060253782280"
+  },
+  {
+    "artist": "R.E.M.",
+    "title": "New Adventures In Hi-Fi",
+    "services": {
+      "qobuz": "xwdtbu4iwsjqb"
+    },
+    "release-date": "1996-09-09",
+    "tracks-count": 14,
+    "barcode": "0888072264250"
+  },
+  {
+    "artist": "R.E.M.",
+    "title": "Out Of Time",
+    "services": {
+      "qobuz": "0088807201362"
+    },
+    "release-date": "1991-03-12",
+    "tracks-count": 30,
+    "barcode": "0088807201362"
+  },
+  {
+    "artist": "R.E.M.",
+    "title": "Out Of Time (25th Anniversary Edition)",
+    "services": {
+      "tidal": "77553045"
+    },
+    "release-date": "1991-03-12",
+    "tracks-count": 30,
+    "barcode": "00888072013629"
+  },
+  {
+    "artist": "Radiohead",
+    "title": "Amnesiac",
+    "services": {
+      "qobuz": "0634904078362"
+    },
+    "release-date": "2001-03-12",
+    "tracks-count": 11,
+    "barcode": "0634904078362"
+  },
+  {
+    "artist": "Radiohead",
+    "title": "Kid A",
+    "services": {
+      "qobuz": "0634904078263"
+    },
+    "release-date": "2000-10-01",
+    "tracks-count": 11,
+    "barcode": "0634904078263"
+  },
+  {
+    "artist": "Radiohead",
+    "title": "KID A MNESIA",
+    "services": {
+      "tidal": "201215501"
+    },
+    "release-date": "2021-11-05",
+    "tracks-count": 34,
+    "barcode": "191404116654"
+  },
+  {
+    "artist": "Radiohead",
+    "title": "OK Computer",
+    "services": {
+      "qobuz": "0634904078164"
+    },
+    "release-date": "1997-05-28",
+    "tracks-count": 12,
+    "barcode": "0634904078164"
+  },
+  {
+    "artist": "Radiohead",
+    "title": "OK Computer OKNOTOK 1997 2017",
+    "services": {
+      "tidal": "75144326"
+    },
+    "release-date": "2017-06-23",
+    "tracks-count": 23,
+    "barcode": "634904086855"
+  },
+  {
+    "artist": "Radiohead",
+    "title": "The Bends",
+    "services": {
+      "tidal": "58990497"
+    },
+    "release-date": "1995-04-04",
+    "tracks-count": 12,
+    "barcode": "634904078065"
+  },
+  {
+    "artist": "Rage Against The Machine",
+    "title": "Rage Against The Machine",
+    "services": {
+      "qobuz": "0074645295923"
+    },
+    "release-date": "1992-11-03",
+    "tracks-count": 10,
+    "barcode": "0074645295923"
+  },
+  {
+    "artist": "RAYE",
+    "title": "THIS MUSIC MAY CONTAIN HOPE.",
+    "services": {
+      "qobuz": "fngt7iz0hzixa"
+    },
+    "release-date": "2026-03-27",
+    "tracks-count": 17,
+    "barcode": "0820200038890"
+  },
+  {
+    "artist": "Recoil",
+    "title": "Liquid",
+    "services": {
+      "qobuz": "5099950162451"
+    },
+    "release-date": "2000-03-21",
+    "tracks-count": 18,
+    "barcode": "5099950162451"
+  },
+  {
+    "artist": "Red Hot Chili Peppers",
+    "title": "Blood Sugar Sex Magik",
+    "services": {
+      "qobuz": "0093624932147"
+    },
+    "release-date": "1991-09-24",
+    "tracks-count": 17,
+    "barcode": "0093624932147"
+  },
+  {
+    "artist": "Red Hot Chili Peppers",
+    "title": "Blood Sugar Sex Magik (Deluxe Edition)",
+    "services": {
+      "tidal": "304838"
+    },
+    "release-date": "1991-09-24",
+    "tracks-count": 19,
+    "barcode": "093624424369"
+  },
+  {
+    "artist": "Red Hot Chili Peppers",
+    "title": "Californication (Deluxe Edition)",
+    "services": {
+      "tidal": "304802"
+    },
+    "release-date": "1999-06-08",
+    "tracks-count": 18,
+    "barcode": "093624424161"
+  },
+  {
+    "artist": "Richie Hawtin",
+    "title": "Consumed In Key",
+    "services": {
+      "qobuz": "nbliufiqcxwma"
+    },
+    "release-date": "2022-04-01",
+    "tracks-count": 10,
+    "barcode": "4062548028768"
+  },
+  {
+    "artist": "Rivers of Nihil",
+    "title": "Where Owls Know My Name",
+    "services": {
+      "qobuz": "p80132sfiy4mb"
+    },
+    "release-date": "2018-03-16",
+    "tracks-count": 10,
+    "barcode": "0039841931228"
+  },
+  {
+    "artist": "Riverside",
+    "title": "ID.Entity (Deluxe Edition)",
+    "services": {
+      "qobuz": "ixigpo3t9f2ga"
+    },
+    "release-date": "2023-01-20",
+    "tracks-count": 11,
+    "barcode": "0196589441980"
+  },
+  {
+    "artist": "Riverside",
+    "title": "Love, Fear and the Time Machine",
+    "services": {
+      "tidal": "50091712"
+    },
+    "release-date": "2015-09-11",
+    "tracks-count": 10,
+    "barcode": "885417072662"
+  },
+  {
+    "artist": "Riverside",
+    "title": "Rapid Eye Movement",
+    "services": {
+      "tidal": "52087993"
+    },
+    "release-date": "2007-10-01",
+    "tracks-count": 9,
+    "barcode": "886443684799"
+  },
+  {
+    "artist": "Rolo Tomassi",
+    "title": "Where Myth Becomes Memory",
+    "services": {
+      "qobuz": "ozg0q3fvg8g3b"
+    },
+    "release-date": "2022-02-04",
+    "tracks-count": 10,
+    "barcode": "0634164271022"
+  },
+  {
+    "artist": "ROME",
+    "title": "Gates of Europe",
+    "services": {
+      "qobuz": "i83toj8culscc",
+      "tidal": "300673833"
+    },
+    "release-date": "2023-08-25",
+    "tracks-count": 14,
+    "barcode": "4260063947995"
+  },
+  {
+    "artist": "ROME",
+    "title": "The Hyperion Machine",
+    "services": {
+      "tidal": "61451417"
+    },
+    "release-date": "2016-08-12",
+    "tracks-count": 11,
+    "barcode": "4260063945519"
+  },
+  {
+    "artist": "ROSAL\u00cdA",
+    "title": "LUX",
+    "services": {
+      "qobuz": "yhenlptipcwic",
+      "tidal": "472230531"
+    },
+    "release-date": "2025-11-07",
+    "tracks-count": 15,
+    "barcode": "196873722672"
+  },
+  {
+    "artist": "Rotting Christ",
+    "title": "Kata Ton Daimona Eaytoy (Do What Thou Wilt)",
+    "services": {
+      "qobuz": "k1pld3rf084dc"
+    },
+    "release-date": "2013-03-01",
+    "tracks-count": 11,
+    "barcode": "0886443832787"
+  },
+  {
+    "artist": "Royal Blood",
+    "title": "Typhoons",
+    "services": {
+      "qobuz": "lz66nvt24msxb"
+    },
+    "release-date": "2021-04-30",
+    "tracks-count": 11,
+    "barcode": "0190295028060"
+  },
+  {
+    "artist": "Rush",
+    "title": "Grace Under Pressure",
+    "services": {
+      "qobuz": "fpz7sd7tvobor"
+    },
+    "release-date": "1984-04-12",
+    "tracks-count": 37,
+    "barcode": "0199957146289"
+  },
+  {
+    "artist": "Rush",
+    "title": "Moving Pictures",
+    "services": {
+      "qobuz": "0060254724385"
+    },
+    "release-date": "1981-02-07",
+    "tracks-count": 7,
+    "barcode": "0060254724385"
+  },
+  {
+    "artist": "Rush",
+    "title": "Permanent Waves",
+    "services": {
+      "qobuz": "0060254724320"
+    },
+    "release-date": "1980-01-01",
+    "tracks-count": 6,
+    "barcode": "0060254724320"
+  },
+  {
+    "artist": "Rush",
+    "title": "Signals",
+    "services": {
+      "qobuz": "0060253706113"
+    },
+    "release-date": "1982-09-01",
+    "tracks-count": 8,
+    "barcode": "0060253706113"
+  },
+  {
+    "artist": "Russian Circles",
+    "title": "Station",
+    "services": {
+      "qobuz": "0803238007069"
+    },
+    "release-date": "2008-05-06",
+    "tracks-count": 6,
+    "barcode": "0803238007069"
+  },
+  {
+    "artist": "Satyricon",
+    "title": "Deep Calleth Upon Deep",
+    "services": {
+      "tidal": "79018030"
+    },
+    "release-date": "2017-09-22",
+    "tracks-count": 8,
+    "barcode": "840588110698"
+  },
+  {
+    "artist": "Scorpions",
+    "title": "Love At First Sting",
+    "services": {
+      "qobuz": "h2uok8c6zbz62"
+    },
+    "release-date": "1984-03-27",
+    "tracks-count": 25,
+    "barcode": "4050538477399"
+  },
+  {
+    "artist": "Scorpions",
+    "title": "Lovedrive",
+    "services": {
+      "qobuz": "x5bu2id4i89mw"
+    },
+    "release-date": "1979-01-01",
+    "tracks-count": 10,
+    "barcode": "4050538167597"
+  },
+  {
+    "artist": "Sharon Van Etten",
+    "title": "Sharon Van Etten & The Attachment Theory",
+    "services": {
+      "qobuz": "nasqnq1cfkk2a"
+    },
+    "release-date": "2025-02-07",
+    "tracks-count": 10,
+    "barcode": "0656605246468"
+  },
+  {
+    "artist": "Shellac",
+    "title": "At Action Park",
+    "services": {
+      "qobuz": "0036172084159"
+    },
+    "release-date": "1994-10-24",
+    "tracks-count": 10,
+    "barcode": "0036172084159"
+  },
+  {
+    "artist": "Simple Minds",
+    "title": "Once Upon A Time",
+    "services": {
+      "qobuz": "wh7ao9esubfva"
+    },
+    "release-date": "1985-10-21",
+    "tracks-count": 9,
+    "barcode": "0602475790853"
+  },
+  {
+    "artist": "Skee Mask",
+    "title": "Resort",
+    "services": {
+      "qobuz": "so5rmsjtf7dcc"
+    },
+    "release-date": "2024-06-17",
+    "tracks-count": 12,
+    "barcode": "0198588450154"
+  },
+  {
+    "artist": "Slayer",
+    "title": "Reign In Blood",
+    "services": {
+      "qobuz": "to55hawynjx9a"
+    },
+    "release-date": "2015-09-11",
+    "tracks-count": 10,
+    "barcode": "0602465628647"
+  },
+  {
+    "artist": "Slowdive",
+    "title": "Souvlaki",
+    "services": {
+      "qobuz": "0884977791648"
+    },
+    "release-date": "1993-05-17",
+    "tracks-count": 19,
+    "barcode": "0884977791648"
+  },
+  {
+    "artist": "Snow Patrol",
+    "title": "Wildness",
+    "services": {
+      "qobuz": "p5c5r0qi0ih7b"
+    },
+    "release-date": "2018-05-25",
+    "tracks-count": 15,
+    "barcode": "0602567535263"
+  },
+  {
+    "artist": "Soen",
+    "title": "Cognitive",
+    "services": {
+      "qobuz": "losvzy3ke01ja"
+    },
+    "release-date": "2011-01-01",
+    "tracks-count": 10,
+    "barcode": "5400863112851"
+  },
+  {
+    "artist": "Soen",
+    "title": "Lotus",
+    "services": {
+      "tidal": "194441363"
+    },
+    "release-date": "2019-02-01",
+    "tracks-count": 12,
+    "barcode": "190296648380"
+  },
+  {
+    "artist": "Soen",
+    "title": "Reliance",
+    "services": {
+      "tidal": "455716742"
+    },
+    "release-date": "2026-01-16",
+    "tracks-count": 10,
+    "barcode": "5021732594655"
+  },
+  {
+    "artist": "Sonic Youth",
+    "title": "Goo",
+    "services": {
+      "qobuz": "0060254769088"
+    },
+    "release-date": "1990-03-21",
+    "tracks-count": 11,
+    "barcode": "0060254769088"
+  },
+  {
+    "artist": "Soundgarden",
+    "title": "Down On The Upside",
+    "services": {
+      "qobuz": "0060255700844"
+    },
+    "release-date": "1996-05-21",
+    "tracks-count": 16,
+    "barcode": "0060255700844"
+  },
+  {
+    "artist": "Soundgarden",
+    "title": "Superunknown",
+    "services": {
+      "qobuz": "0060253787971"
+    },
+    "release-date": "1994-03-08",
+    "tracks-count": 15,
+    "barcode": "0060253787971"
+  },
+  {
+    "artist": "Sprints",
+    "title": "Letter to Self",
+    "services": {
+      "qobuz": "cvcv34k39gf0b"
+    },
+    "release-date": "2024-01-05",
+    "tracks-count": 11,
+    "barcode": "4250506847272"
+  },
+  {
+    "artist": "Squarepusher",
+    "title": "Hard Normal Daddy",
+    "services": {
+      "qobuz": "0801061005030"
+    },
+    "release-date": "1997-04-28",
+    "tracks-count": 12,
+    "barcode": "0801061005030"
+  },
+  {
+    "artist": "Squid",
+    "title": "Cowards",
+    "services": {
+      "qobuz": "rdt7y9r0djzmc"
+    },
+    "release-date": "2025-02-07",
+    "tracks-count": 9,
+    "barcode": "5056818800184"
+  },
+  {
+    "artist": "St. Vincent",
+    "title": "All Born Screaming",
+    "services": {
+      "tidal": "344164130"
+    },
+    "release-date": "2024-04-26",
+    "tracks-count": 10,
+    "barcode": "00196922832147"
+  },
+  {
+    "artist": "Steven Wilson",
+    "title": "Hand Cannot Erase",
+    "services": {
+      "tidal": "43739572"
+    },
+    "release-date": "2015-02-27",
+    "tracks-count": 8,
+    "barcode": "802644431666"
+  },
+  {
+    "artist": "Steven Wilson",
+    "title": "Requiem for a Village",
+    "services": {
+      "tidal": "532933441"
+    },
+    "release-date": "2026-11-06",
+    "tracks-count": 12,
+    "barcode": "823375169109"
+  },
+  {
+    "artist": "Steven Wilson",
+    "title": "The Harmony Codex",
+    "services": {
+      "qobuz": "bskpl56x1qi5a"
+    },
+    "release-date": "2023-09-29",
+    "tracks-count": 10,
+    "barcode": "0044003368002"
+  },
+  {
+    "artist": "Steven Wilson",
+    "title": "The Overview",
+    "services": {
+      "qobuz": "dpouqqarso9zb"
+    },
+    "release-date": "2025-03-14",
+    "tracks-count": 12,
+    "barcode": "0602475678182"
+  },
+  {
+    "artist": "Steven Wilson",
+    "title": "To The Bone",
+    "services": {
+      "qobuz": "0060255764783"
+    },
+    "release-date": "2017-08-18",
+    "tracks-count": 11,
+    "barcode": "0060255764783"
+  },
+  {
+    "artist": "Stone Temple Pilots",
+    "title": "Core",
+    "services": {
+      "qobuz": "0603497869275"
+    },
+    "release-date": "1992-09-29",
+    "tracks-count": 12,
+    "barcode": "0603497869275"
+  },
+  {
+    "artist": "Stratovarius",
+    "title": "Visions",
+    "services": {
+      "qobuz": "bbeij5u2piyw2"
+    },
+    "release-date": "1997-04-28",
+    "tracks-count": 10,
+    "barcode": "4262428352703"
+  },
+  {
+    "artist": "Suede",
+    "title": "Bloodsports",
+    "services": {
+      "qobuz": "nv1omagetrnuc"
+    },
+    "release-date": "2013-03-18",
+    "tracks-count": 10,
+    "barcode": "5032698645428"
+  },
+  {
+    "artist": "Svalbard",
+    "title": "The Weight Of The Mask",
+    "services": {
+      "tidal": "299751168"
+    },
+    "release-date": "2023-10-06",
+    "tracks-count": 9,
+    "barcode": "4065629703462"
+  },
+  {
+    "artist": "Swans",
+    "title": "The Seer",
+    "services": {
+      "qobuz": "5051083079051"
+    },
+    "release-date": "2012-08-28",
+    "tracks-count": 11,
+    "barcode": "5051083079051"
+  },
+  {
+    "artist": "Tale Of Us",
+    "title": "Endless",
+    "services": {
+      "qobuz": "0002894797056"
+    },
+    "release-date": "2017-03-31",
+    "tracks-count": 10,
+    "barcode": "0002894797056"
+  },
+  {
+    "artist": "Talk Talk",
+    "title": "Spirit Of Eden (Remastered Hi-Res Version)",
+    "services": {
+      "qobuz": "0825646233397"
+    },
+    "release-date": "1993-05-24",
+    "tracks-count": 7,
+    "barcode": "0825646233397"
+  },
+  {
+    "artist": "Tears For Fears",
+    "title": "Songs From The Big Chair",
+    "services": {
+      "qobuz": "0060253799863"
+    },
+    "release-date": "1985-03-01",
+    "tracks-count": 16,
+    "barcode": "0060253799863"
+  },
+  {
+    "artist": "Tears For Fears",
+    "title": "The Hurting",
+    "services": {
+      "qobuz": "0073145581042"
+    },
+    "release-date": "1983-03-01",
+    "tracks-count": 14,
+    "barcode": "0073145581042"
+  },
+  {
+    "artist": "Tears For Fears",
+    "title": "The Seeds Of Love",
+    "services": {
+      "qobuz": "o9xmpe51ond7a"
+    },
+    "release-date": "1989-09-01",
+    "tracks-count": 8,
+    "barcode": "0602547707208"
+  },
+  {
+    "artist": "The Beatles",
+    "title": "Abbey Road",
+    "services": {
+      "qobuz": "trrcz9pvaaz6b"
+    },
+    "release-date": "1969-09-26",
+    "tracks-count": 40,
+    "barcode": "0602508146107"
+  },
+  {
+    "artist": "The Chemical Brothers",
+    "title": "Born In The Echoes",
+    "services": {
+      "tidal": "48442319"
+    },
+    "release-date": "2015-07-17",
+    "tracks-count": 11,
+    "barcode": "00602547313416"
+  },
+  {
+    "artist": "The Chemical Brothers",
+    "title": "No Geography",
+    "services": {
+      "qobuz": "zt5gl78ex4b4a"
+    },
+    "release-date": "2019-04-12",
+    "tracks-count": 10,
+    "barcode": "0602577080203"
+  },
+  {
+    "artist": "The Cure",
+    "title": "Disintegration (Remastered)",
+    "services": {
+      "tidal": "5162511"
+    },
+    "release-date": "1989-05-02",
+    "tracks-count": 12,
+    "barcode": "00600753245682"
+  },
+  {
+    "artist": "The Cure",
+    "title": "Faith",
+    "services": {
+      "qobuz": "0060249830745"
+    },
+    "release-date": "1981-04-01",
+    "tracks-count": 8,
+    "barcode": "0060249830745"
+  },
+  {
+    "artist": "The Cure",
+    "title": "Pornography",
+    "services": {
+      "qobuz": "wq56w6kz6ipbb"
+    },
+    "release-date": "1982-04-01",
+    "tracks-count": 22,
+    "barcode": "0602438863785"
+  },
+  {
+    "artist": "The Cure",
+    "title": "Seventeen Seconds",
+    "services": {
+      "qobuz": "0060249821832"
+    },
+    "release-date": "1980-04-18",
+    "tracks-count": 10,
+    "barcode": "0060249821832"
+  },
+  {
+    "artist": "The Cure",
+    "title": "Songs Of A Lost World",
+    "services": {
+      "qobuz": "wkql2j69b68tb"
+    },
+    "release-date": "2024-11-01",
+    "tracks-count": 8,
+    "barcode": "0602475205074"
+  },
+  {
+    "artist": "The Cure",
+    "title": "The Head On The Door",
+    "services": {
+      "qobuz": "0060249840017"
+    },
+    "release-date": "1985-08-13",
+    "tracks-count": 10,
+    "barcode": "0060249840017"
+  },
+  {
+    "artist": "The Dear Hunter",
+    "title": "Act I: The Lake South, The River North",
+    "services": {
+      "qobuz": "eb9sj8weyij8b"
+    },
+    "release-date": "2006-09-26",
+    "tracks-count": 8,
+    "barcode": "0646920306961"
+  },
+  {
+    "artist": "The Dear Hunter",
+    "title": "Act II: The Meaning Of, And All Things Regarding Ms. Leading",
+    "services": {
+      "qobuz": "y4nchl3ewddhc"
+    },
+    "release-date": "2007-05-22",
+    "tracks-count": 15,
+    "barcode": "0646920307166"
+  },
+  {
+    "artist": "The Dillinger Escape Plan",
+    "title": "Dissociation",
+    "services": {
+      "qobuz": "e3163hp65hemc"
+    },
+    "release-date": "2016-10-14",
+    "tracks-count": 11,
+    "barcode": "0711297315547"
+  },
+  {
+    "artist": "The Flaming Lips",
+    "title": "Yoshimi Battles the Pink Robots",
+    "services": {
+      "qobuz": "0093624814160"
+    },
+    "release-date": "2006-04-12",
+    "tracks-count": 11,
+    "barcode": "0093624814160"
+  },
+  {
+    "artist": "The Gathering",
+    "title": "If_then_else",
+    "services": {
+      "qobuz": "0886443599604"
+    },
+    "release-date": "2000-07-13",
+    "tracks-count": 11,
+    "barcode": "0886443599604"
+  },
+  {
+    "artist": "The Horrors",
+    "title": "Night Life",
+    "services": {
+      "qobuz": "cgebu0d6ak0ga"
+    },
+    "release-date": "2025-03-21",
+    "tracks-count": 9,
+    "barcode": "0198704384554"
+  },
+  {
+    "artist": "The Killers",
+    "title": "Hot Fuss",
+    "services": {
+      "qobuz": "0060249875384"
+    },
+    "release-date": "2004-06-07",
+    "tracks-count": 14,
+    "barcode": "0060249875384"
+  },
+  {
+    "artist": "The KLF",
+    "title": "Come Down Dawn",
+    "services": {
+      "qobuz": "acfmjtce41yuc"
+    },
+    "release-date": "2021-02-04",
+    "tracks-count": 12,
+    "barcode": "0887835051564"
+  },
+  {
+    "artist": "The KVB",
+    "title": "Tremors",
+    "services": {
+      "qobuz": "zspwzwllutgmc"
+    },
+    "release-date": "2024-04-05",
+    "tracks-count": 10,
+    "barcode": "5051083197854"
+  },
+  {
+    "artist": "The Mars Volta",
+    "title": "Amputechture",
+    "services": {
+      "qobuz": "0060251702802"
+    },
+    "release-date": "2006-01-01",
+    "tracks-count": 8,
+    "barcode": "0060251702802"
+  },
+  {
+    "artist": "The Mars Volta",
+    "title": "Octahedron",
+    "services": {
+      "qobuz": "0060252707896"
+    },
+    "release-date": "2009-06-22",
+    "tracks-count": 8,
+    "barcode": "0060252707896"
+  },
+  {
+    "artist": "The Mars Volta",
+    "title": "The Bedlam in Goliath",
+    "services": {
+      "qobuz": "0060251757530"
+    },
+    "release-date": "2008-01-01",
+    "tracks-count": 12,
+    "barcode": "0060251757530"
+  },
+  {
+    "artist": "The National",
+    "title": "Boxer",
+    "services": {
+      "qobuz": "0607618025267"
+    },
+    "release-date": "2007-05-22",
+    "tracks-count": 12,
+    "barcode": "0607618025267"
+  },
+  {
+    "artist": "The National",
+    "title": "High Violet",
+    "services": {
+      "qobuz": "0652637300390"
+    },
+    "release-date": "2010-05-11",
+    "tracks-count": 11,
+    "barcode": "0652637300390"
+  },
+  {
+    "artist": "The National",
+    "title": "Trouble Will Find Me",
+    "services": {
+      "qobuz": "x16j3kp3b4g2b"
+    },
+    "release-date": "2013-05-20",
+    "tracks-count": 13,
+    "barcode": "0652637331578"
+  },
+  {
+    "artist": "The Necks",
+    "title": "Disquiet",
+    "services": {
+      "tidal": "450368940"
+    },
+    "release-date": "2025-10-10",
+    "tracks-count": 4,
+    "barcode": "634457226203"
+  },
+  {
+    "artist": "The Necks",
+    "title": "Travel",
+    "services": {
+      "qobuz": "jgg9wcig0oocc"
+    },
+    "release-date": "2023-02-24",
+    "tracks-count": 4,
+    "barcode": "0634457125117"
+  },
+  {
+    "artist": "The Notwist",
+    "title": "Neon Golden",
+    "services": {
+      "qobuz": "aav1k8t9k7ckc"
+    },
+    "release-date": "2002-01-14",
+    "tracks-count": 18,
+    "barcode": "0880918269160"
+  },
+  {
+    "artist": "The Ocean",
+    "title": "Pelagial",
+    "services": {
+      "qobuz": "jchcjfhcfxb3b"
+    },
+    "release-date": "2013-04-30",
+    "tracks-count": 22,
+    "barcode": "0886443906792"
+  },
+  {
+    "artist": "The Offspring",
+    "title": "Smash",
+    "services": {
+      "qobuz": "ih43xsfm7jkia",
+      "tidal": "121050674"
+    },
+    "release-date": "1994-08-23",
+    "tracks-count": 14,
+    "barcode": "0045778643264"
+  },
+  {
+    "artist": "The Pineapple Thief",
+    "title": "Dissolution",
+    "services": {
+      "qobuz": "n1hfrojc1dvmc"
+    },
+    "release-date": "2018-08-31",
+    "tracks-count": 9,
+    "barcode": "0802644805665"
+  },
+  {
+    "artist": "The Pineapple Thief",
+    "title": "Your Wilderness",
+    "services": {
+      "qobuz": "sopgea491j81b"
+    },
+    "release-date": "2016-08-12",
+    "tracks-count": 8,
+    "barcode": "0802644835426"
+  },
+  {
+    "artist": "The Police",
+    "title": "Synchronicity",
+    "services": {
+      "qobuz": "wqeug7pucdqka"
+    },
+    "release-date": "1983-06-17",
+    "tracks-count": 11,
+    "barcode": "0602577828195"
+  },
+  {
+    "artist": "The Postal Service",
+    "title": "Give Up",
+    "services": {
+      "qobuz": "y9mi8aatozpfz"
+    },
+    "release-date": "2003-02-18",
+    "tracks-count": 10,
+    "barcode": "0098787059564"
+  },
+  {
+    "artist": "The Prodigy",
+    "title": "The Fat of the Land - Expanded Edition",
+    "services": {
+      "qobuz": "0634904058654"
+    },
+    "release-date": "1997-07-01",
+    "tracks-count": 16,
+    "barcode": "0634904058654"
+  },
+  {
+    "artist": "The Smashing Pumpkins",
+    "title": "Adore",
+    "services": {
+      "qobuz": "0060254700562"
+    },
+    "release-date": "1998-06-01",
+    "tracks-count": 16,
+    "barcode": "0060254700562"
+  },
+  {
+    "artist": "The Smashing Pumpkins",
+    "title": "Mellon Collie and the Infinite Sadness",
+    "services": {
+      "qobuz": "5099997855354"
+    },
+    "release-date": "1995-10-20",
+    "tracks-count": 28,
+    "barcode": "5099997855354"
+  },
+  {
+    "artist": "The Smile",
+    "title": "Wall Of Eyes",
+    "services": {
+      "tidal": "338279162"
+    },
+    "release-date": "2024-01-26",
+    "tracks-count": 8,
+    "barcode": "191404139455"
+  },
+  {
+    "artist": "The Strokes",
+    "title": "Reality Awaits",
+    "services": {
+      "qobuz": "vpnzte04xcv00"
+    },
+    "release-date": "2026-07-24",
+    "tracks-count": 9,
+    "barcode": "0196874161005"
+  },
+  {
+    "artist": "The Weeknd",
+    "title": "After Hours",
+    "services": {
+      "qobuz": "ry96ex00gu6nc",
+      "tidal": "134858516"
+    },
+    "release-date": "2020-03-20",
+    "tracks-count": 14,
+    "barcode": "00602508883408"
+  },
+  {
+    "artist": "The Weeknd",
+    "title": "Starboy (Explicit Version)",
+    "services": {
+      "qobuz": "0060255732189"
+    },
+    "release-date": "2016-09-21",
+    "tracks-count": 18,
+    "barcode": "0060255732189"
+  },
+  {
+    "artist": "The White Stripes",
+    "title": "Elephant",
+    "services": {
+      "qobuz": "j8hn4cfb5xzqc"
+    },
+    "release-date": "2003-04-01",
+    "tracks-count": 14,
+    "barcode": "0886448799009"
+  },
+  {
+    "artist": "The White Stripes",
+    "title": "The White Stripes",
+    "services": {
+      "qobuz": "z6rfjql8uymqb"
+    },
+    "release-date": "1999-06-15",
+    "tracks-count": 17,
+    "barcode": "0886448797531"
+  },
+  {
+    "artist": "The xx",
+    "title": "xx",
+    "services": {
+      "qobuz": "zgvirc0nzskcc"
+    },
+    "release-date": "2025-11-19",
+    "tracks-count": 16,
+    "barcode": "0889030044761"
+  },
+  {
+    "artist": "The Young Gods",
+    "title": "Appear Disappear",
+    "services": {
+      "qobuz": "y2twmchb9ccfc"
+    },
+    "release-date": "2025-06-13",
+    "tracks-count": 10,
+    "barcode": "3617395340337"
+  },
+  {
+    "artist": "Theatre of Tragedy",
+    "title": "A\u00e9gis",
+    "services": {
+      "qobuz": "4028466101594"
+    },
+    "release-date": "1998-01-01",
+    "tracks-count": 8,
+    "barcode": "4028466101594"
+  },
+  {
+    "artist": "Theatre Of Tragedy",
+    "title": "Velvet Darkness They Fear",
+    "services": {
+      "tidal": "72301648"
+    },
+    "release-date": "1997-08-26",
+    "tracks-count": 9,
+    "barcode": "4013971101078"
+  },
+  {
+    "artist": "Tiamat",
+    "title": "Wildhoney (Re-Issue + Bonus) (Remastered)",
+    "services": {
+      "qobuz": "koif4sn9xoaea",
+      "tidal": "84971567"
+    },
+    "release-date": "1994-01-01",
+    "tracks-count": 26,
+    "barcode": "886446992686"
+  },
+  {
+    "artist": "TOOL",
+    "title": "10,000 Days",
+    "services": {
+      "qobuz": "j987794ugloia"
+    },
+    "release-date": "2006-05-02",
+    "tracks-count": 11,
+    "barcode": "0886447824771"
+  },
+  {
+    "artist": "TOOL",
+    "title": "Lateralus",
+    "services": {
+      "qobuz": "yd3ulxq6difja"
+    },
+    "release-date": "2001-05-15",
+    "tracks-count": 13,
+    "barcode": "0886447824764"
+  },
+  {
+    "artist": "Touch\u00e9 Amor\u00e9",
+    "title": "Stage Four",
+    "services": {
+      "qobuz": "wjmfv654k4nlb"
+    },
+    "release-date": "2016-09-16",
+    "tracks-count": 12,
+    "barcode": "0045778749201"
+  },
+  {
+    "artist": "Transatlantic",
+    "title": "Bridge Across Forever",
+    "services": {
+      "qobuz": "p3fnqzrp7w6nc"
+    },
+    "release-date": "2001-10-02",
+    "tracks-count": 4,
+    "barcode": "0886447897324"
+  },
+  {
+    "artist": "Trentem\u00f8ller",
+    "title": "The Last Resort",
+    "services": {
+      "qobuz": "m38ebk33iooaa"
+    },
+    "release-date": "2006-10-06",
+    "tracks-count": 13,
+    "barcode": "0827170113688"
+  },
+  {
+    "artist": "Tricky",
+    "title": "Different When It's Silent",
+    "services": {
+      "qobuz": "xsgb6nfj0q5dd"
+    },
+    "release-date": "2026-07-17",
+    "tracks-count": 14,
+    "barcode": "4062548142556"
+  },
+  {
+    "artist": "Tricky",
+    "title": "False Idols",
+    "services": {
+      "qobuz": "0730003730825"
+    },
+    "release-date": "2013-05-27",
+    "tracks-count": 15,
+    "barcode": "0730003730825"
+  },
+  {
+    "artist": "Tricky",
+    "title": "Mixed Race",
+    "services": {
+      "qobuz": "5034202025658"
+    },
+    "release-date": "2010-09-27",
+    "tracks-count": 10,
+    "barcode": "5034202025658"
+  },
+  {
+    "artist": "TRICKY, Martina Topley-Bird",
+    "title": "Maxinquaye",
+    "services": {
+      "tidal": "637039"
+    },
+    "release-date": "1995-02-20",
+    "tracks-count": 12,
+    "barcode": "00731452408921"
+  },
+  {
+    "artist": "Trivium",
+    "title": "Vengeance Falls",
+    "services": {
+      "qobuz": "yb1775qjnnjza"
+    },
+    "release-date": "2013-10-14",
+    "tracks-count": 10,
+    "barcode": "0075679669476"
+  },
+  {
+    "artist": "Turnstile",
+    "title": "NEVER ENOUGH",
+    "services": {
+      "qobuz": "d42amhtykoowa",
+      "tidal": "440155726"
+    },
+    "release-date": "2025-06-06",
+    "tracks-count": 14,
+    "barcode": "075679615459"
+  },
+  {
+    "artist": "TV On The Radio",
+    "title": "Dear Science",
+    "services": {
+      "qobuz": "o4le2cmcliemb"
+    },
+    "release-date": "2008-09-21",
+    "tracks-count": 11,
+    "barcode": "0602517823839"
+  },
+  {
+    "artist": "Two Lone Swordsmen",
+    "title": "Stay Down",
+    "services": {
+      "qobuz": "0801061005832"
+    },
+    "release-date": "1998-10-19",
+    "tracks-count": 12,
+    "barcode": "0801061005832"
+  },
+  {
+    "artist": "U2",
+    "title": "Achtung Baby",
+    "services": {
+      "qobuz": "0060255703352",
+      "tidal": "77640617"
+    },
+    "release-date": "1991-11-18",
+    "tracks-count": 12,
+    "barcode": "00602557033526"
+  },
+  {
+    "artist": "U2",
+    "title": "All That You Can't Leave Behind",
+    "services": {
+      "qobuz": "xqp4wus7hxuha"
+    },
+    "release-date": "2000-10-30",
+    "tracks-count": 12,
+    "barcode": "0602507404543"
+  },
+  {
+    "artist": "U2",
+    "title": "Pop",
+    "services": {
+      "qobuz": "0073145243342"
+    },
+    "release-date": "1994-01-17",
+    "tracks-count": 12,
+    "barcode": "0073145243342"
+  },
+  {
+    "artist": "U2",
+    "title": "The Joshua Tree",
+    "services": {
+      "qobuz": "0060251750947",
+      "tidal": "1218916"
+    },
+    "release-date": "1987-03-09",
+    "tracks-count": 11,
+    "barcode": "00602517449398"
+  },
+  {
+    "artist": "U2",
+    "title": "The Unforgettable Fire",
+    "services": {
+      "qobuz": "0060251792414"
+    },
+    "release-date": "1984-09-03",
+    "tracks-count": 10,
+    "barcode": "0060251792414"
+  },
+  {
+    "artist": "U2",
+    "title": "War",
+    "services": {
+      "qobuz": "0060251781224"
+    },
+    "release-date": "1983-02-28",
+    "tracks-count": 10,
+    "barcode": "0060251781224"
+  },
+  {
+    "artist": "U2",
+    "title": "Zooropa",
+    "services": {
+      "qobuz": "0073145180472"
+    },
+    "release-date": "1993-01-01",
+    "tracks-count": 10,
+    "barcode": "0073145180472"
+  },
+  {
+    "artist": "UNKLE",
+    "title": "Never, Never, Land",
+    "services": {
+      "tidal": "273876767"
+    },
+    "release-date": "2003-09-22",
+    "tracks-count": 11,
+    "barcode": "5400863128784"
+  },
+  {
+    "artist": "Vampire Weekend",
+    "title": "Modern Vampires of the City",
+    "services": {
+      "qobuz": "0634904055660"
+    },
+    "release-date": "2013-05-13",
+    "tracks-count": 12,
+    "barcode": "0634904055660"
+  },
+  {
+    "artist": "Various Artists",
+    "title": "Artificial Intelligence II",
+    "services": {
+      "qobuz": "gzr9z6ne2r41a"
+    },
+    "release-date": "1994-05-30",
+    "tracks-count": 14,
+    "barcode": "0801061002336"
+  },
+  {
+    "artist": "Velvet Acid Christ",
+    "title": "Twisted Thought Generator",
+    "services": {
+      "qobuz": "0782388018760"
+    },
+    "release-date": "2000-11-14",
+    "tracks-count": 9,
+    "barcode": "0782388018760"
+  },
+  {
+    "artist": "Vola",
+    "title": "Friend Of A Phantom",
+    "services": {
+      "qobuz": "ymvthk3g885ha"
+    },
+    "release-date": "2024-11-01",
+    "tracks-count": 9,
+    "barcode": "8712725748854"
+  },
+  {
+    "artist": "Von Hertzen Brothers",
+    "title": "Love Remains the Same",
+    "services": {
+      "qobuz": "hwcwbrrnm67kb"
+    },
+    "release-date": "2008-05-19",
+    "tracks-count": 9,
+    "barcode": "0197338935149"
+  },
+  {
+    "artist": "Voyager",
+    "title": "Fearless in Love",
+    "services": {
+      "qobuz": "vnssrnvp7sajc"
+    },
+    "release-date": "2023-07-14",
+    "tracks-count": 11,
+    "barcode": "0822603369809"
+  },
+  {
+    "artist": "Warning",
+    "title": "Rituals of Shame",
+    "services": {
+      "qobuz": "fw2as0o51bkek"
+    },
+    "release-date": "2026-06-19",
+    "tracks-count": 5,
+    "barcode": "0781676556717"
+  },
+  {
+    "artist": "Wax Tailor",
+    "title": "Dusty Rainbow from the Dark",
+    "services": {
+      "qobuz": "u9jlt19f4d43b"
+    },
+    "release-date": "2012-09-10",
+    "tracks-count": 41,
+    "barcode": "3701421509826"
+  },
+  {
+    "artist": "Weather Systems",
+    "title": "Ocean Without A Shore",
+    "services": {
+      "qobuz": "eiibulok0t6lb",
+      "tidal": "368945849"
+    },
+    "release-date": "2024-09-27",
+    "tracks-count": 9,
+    "barcode": "8712725748410"
+  },
+  {
+    "artist": "Wehbba",
+    "title": "Straight Lines and Sharp Corners",
+    "services": {
+      "tidal": "291543276"
+    },
+    "release-date": "2020-03-02",
+    "tracks-count": 13,
+    "barcode": "5060191678438"
+  },
+  {
+    "artist": "White Lies",
+    "title": "Ritual",
+    "services": {
+      "qobuz": "pq3x1a9dxxhac"
+    },
+    "release-date": "2010-01-01",
+    "tracks-count": 12,
+    "barcode": "5400863132774"
+  },
+  {
+    "artist": "Woo York",
+    "title": "Chasing The Dream",
+    "services": {
+      "qobuz": "s4x2yl0t9unec"
+    },
+    "release-date": "2018-05-04",
+    "tracks-count": 13,
+    "barcode": "0425135320807"
+  },
+  {
+    "artist": "XTC",
+    "title": "Drums And Wires",
+    "services": {
+      "qobuz": "0724385065354"
+    },
+    "release-date": "1979-08-01",
+    "tracks-count": 15,
+    "barcode": "0724385065354"
+  },
+  {
+    "artist": "Yard Act",
+    "title": "You're Gonna Need A Little Music",
+    "services": {
+      "qobuz": "ze3jepa3eho2s",
+      "tidal": "541782687"
+    },
+    "release-date": "2026-07-17",
+    "tracks-count": 11,
+    "barcode": "00199957673495"
+  },
+  {
+    "artist": "Yeah Yeah Yeahs",
+    "title": "Fever To Tell",
+    "services": {
+      "qobuz": "0060256703166"
+    },
+    "release-date": "2003-04-29",
+    "tracks-count": 12,
+    "barcode": "0060256703166"
+  },
+  {
+    "artist": "Yes",
+    "title": "Close to the Edge",
+    "services": {
+      "qobuz": "0603497924929",
+      "tidal": "68710759"
+    },
+    "release-date": "1972-09-13",
+    "tracks-count": 3,
+    "barcode": "603497924929"
+  },
+  {
+    "artist": "Yes",
+    "title": "Relayer",
+    "services": {
+      "qobuz": "0603497921904"
+    },
+    "release-date": "1974-12-05",
+    "tracks-count": 3,
+    "barcode": "0603497921904"
+  },
+  {
+    "artist": "\u00b5-ziq",
+    "title": "Chewed Corners",
+    "services": {
+      "qobuz": "d4mdoucp9ehba"
+    },
+    "release-date": "2013-06-24",
+    "tracks-count": 14,
+    "barcode": "5055300330918"
+  }
+]

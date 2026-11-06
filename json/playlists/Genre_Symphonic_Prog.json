@@ -1,0 +1,460 @@
+{
+  "name": "Genre: Symphonic Prog",
+  "services": {
+    "qobuz": "66737993",
+    "tidal": "db52b186-0f84-4897-bd99-927abaaef526"
+  },
+  "description": "Imported genre playlist: Symphonic Prog.",
+  "tracks": [
+    {
+      "artist": "The Moody Blues",
+      "title": "Nights In White Satin",
+      "services": {
+        "qobuz": "41004384"
+      },
+      "album": "Nights In White Satin",
+      "duration": 265,
+      "isrc": "GBA176700080"
+    },
+    {
+      "artist": "The Nice",
+      "title": "Rondo",
+      "services": {
+        "qobuz": "306698501"
+      },
+      "album": "The Thoughts of Emerlist Davjack",
+      "duration": 498,
+      "isrc": "GBAWA6862076"
+    },
+    {
+      "artist": "Rare Bird",
+      "title": "Sympathy",
+      "services": {
+        "qobuz": "4597146"
+      },
+      "album": "Sympathy",
+      "duration": 167,
+      "isrc": "GBAAA6900001"
+    },
+    {
+      "artist": "Cressida",
+      "title": "To Play Your Little Game",
+      "services": {
+        "qobuz": "77814785"
+      },
+      "album": "Cressida",
+      "duration": 199,
+      "isrc": "DED461400001"
+    },
+    {
+      "artist": "Gracious",
+      "title": "Super Nova",
+      "services": {
+        "qobuz": "156121452"
+      },
+      "album": "This Is... Gracious!!",
+      "duration": 1499,
+      "isrc": "GBUM72202249"
+    },
+    {
+      "artist": "Beggars Opera",
+      "title": "Time Machine",
+      "services": {
+        "qobuz": "294531611"
+      },
+      "album": "Waters Of Change",
+      "duration": 487,
+      "isrc": "GBF080500068"
+    },
+    {
+      "artist": "Focus",
+      "title": "Eruption",
+      "services": {
+        "qobuz": "117742875"
+      },
+      "album": "Moving Waves",
+      "duration": 1382,
+      "isrc": "NLC287100118"
+    },
+    {
+      "artist": "Yes",
+      "title": "Close to the Edge: i. The Solid Time of Change, ii. Total Mass Retain, iii. I Get up I Get Down, iv. Seasons of Man",
+      "services": {
+        "qobuz": "8766760"
+      },
+      "album": "Close to the Edge",
+      "duration": 1120,
+      "isrc": "USEE11300020"
+    },
+    {
+      "artist": "Genesis",
+      "title": "Supper's Ready",
+      "services": {
+        "qobuz": "45275441"
+      },
+      "album": "Foxtrot",
+      "duration": 1385,
+      "isrc": "GBAAA0701748"
+    },
+    {
+      "artist": "Emerson, Lake & Palmer",
+      "title": "Tarkus",
+      "services": {
+        "qobuz": "381774406"
+      },
+      "album": "Tarkus",
+      "duration": 1238,
+      "isrc": "GB5KW1600648"
+    },
+    {
+      "artist": "Renaissance",
+      "title": "Song of Scheherazade / I. Fanfare - II. / The Betrayal / III. The Sultan / IV. Love Theme / V. The Young Prince and Princess as Told by Scheharazade / VI. Festival Preparations / VII. Fugue for the Su",
+      "services": {
+        "qobuz": "5604204"
+      },
+      "album": "Scheherazade and Other Stories (Remastered)",
+      "duration": 1479,
+      "isrc": "DED467500068"
+    },
+    {
+      "artist": "Camel",
+      "title": "Lady Fantasy",
+      "services": {
+        "qobuz": "3878639"
+      },
+      "album": "Mirage",
+      "duration": 763,
+      "isrc": "GBF077320290"
+    },
+    {
+      "artist": "Barclay James Harvest",
+      "title": "Mocking Bird",
+      "services": {
+        "qobuz": "298243905"
+      },
+      "album": "Once Again",
+      "duration": 397,
+      "isrc": "GBAYE7100029"
+    },
+    {
+      "artist": "Rick Wakeman",
+      "title": "Catherine Of Aragon",
+      "services": {
+        "qobuz": "117878443"
+      },
+      "album": "The Six Wives Of Henry VIII",
+      "duration": 225,
+      "isrc": "USAM17302204"
+    },
+    {
+      "artist": "Mike Oldfield",
+      "title": "Tubular Bells, Part One (Live)",
+      "services": {
+        "qobuz": "335127913"
+      },
+      "album": "Tubular Bells - Live... Queen Elizabeth Hall 1973",
+      "duration": 1710,
+      "isrc": "NLHR52237983"
+    },
+    {
+      "artist": "Steve Hackett",
+      "title": "Shadow of the Hierophant",
+      "services": {
+        "qobuz": "27680255"
+      },
+      "album": "Genesis Revisited II",
+      "duration": 645,
+      "isrc": "GB3HG1200121"
+    },
+    {
+      "artist": "Chris Squire",
+      "title": "Hold Out Your Hand",
+      "services": {
+        "qobuz": "295338567"
+      },
+      "album": "Fish Out of Water",
+      "duration": 253,
+      "isrc": "USAT20104060"
+    },
+    {
+      "artist": "Druid",
+      "title": "Voices",
+      "services": {
+        "qobuz": "1761453"
+      },
+      "album": "Toward The Sun Rock",
+      "duration": 495,
+      "isrc": "GBAYE0302192"
+    },
+    {
+      "artist": "The Enid",
+      "title": "In the Region of the Summer Stars",
+      "services": {
+        "qobuz": "99926304"
+      },
+      "album": "In the Region of the Summer Stars",
+      "duration": 379,
+      "isrc": "GB5ST0900140"
+    },
+    {
+      "artist": "Kansas",
+      "title": "Song for America",
+      "services": {
+        "qobuz": "161175"
+      },
+      "album": "Song For America",
+      "duration": 603,
+      "isrc": "USSM19912249"
+    },
+    {
+      "artist": "Triumvirat",
+      "title": "The School Of Instant Pain",
+      "services": {
+        "qobuz": "4582545"
+      },
+      "album": "Spartacus",
+      "duration": 382,
+      "isrc": "DEA340201116"
+    },
+    {
+      "artist": "Earth & Fire",
+      "title": "Song Of The Marching Children",
+      "services": {
+        "qobuz": "13580967"
+      },
+      "album": "Song Of The Marching Children",
+      "duration": 1104,
+      "isrc": "NLA317100292"
+    },
+    {
+      "artist": "Kaipa",
+      "title": "Skenet bedrar",
+      "services": {
+        "qobuz": "48048555"
+      },
+      "album": "Inget nytt under solen",
+      "duration": 1303,
+      "isrc": "SE4SZ7600201"
+    },
+    {
+      "artist": "FM",
+      "title": "Phasors On Stun",
+      "services": {
+        "qobuz": "150849279"
+      },
+      "album": "Black Noise",
+      "duration": 228,
+      "isrc": "GBBLY1300548"
+    },
+    {
+      "artist": "Cathedral",
+      "title": "Introspect",
+      "services": {
+        "qobuz": "69926007"
+      },
+      "album": "Stained Glass Stories",
+      "duration": 759,
+      "isrc": "USL4R0702497"
+    },
+    {
+      "artist": "Crucis",
+      "title": "Los Delirios del Mariscal",
+      "services": {
+        "qobuz": "4553713"
+      },
+      "album": "Los Delirios del Mariscal",
+      "duration": 603,
+      "isrc": "ARF037700006"
+    },
+    {
+      "artist": "U.K.",
+      "title": "In The Dead Of Night",
+      "services": {
+        "qobuz": "1951352"
+      },
+      "album": "U.K.",
+      "duration": 334,
+      "isrc": "GBAAA7800369"
+    },
+    {
+      "artist": "Sky",
+      "title": "Toccata",
+      "services": {
+        "qobuz": "90533119"
+      },
+      "album": "Sky 2",
+      "duration": 282,
+      "isrc": "GBBLY1404163"
+    },
+    {
+      "artist": "Tony Banks",
+      "title": "From The Undertow",
+      "services": {
+        "qobuz": "204834982"
+      },
+      "album": "A Curious Feeling",
+      "duration": 167,
+      "isrc": "GBBLY0902153"
+    },
+    {
+      "artist": "Kayak",
+      "title": "Phantom Of The Night",
+      "services": {
+        "qobuz": "44403624"
+      },
+      "album": "Phantom Of The Night",
+      "duration": 299,
+      "isrc": "NLUM71700256"
+    },
+    {
+      "artist": "Spock's Beard",
+      "title": "The Light",
+      "services": {
+        "qobuz": "28673763"
+      },
+      "album": "The First Twenty Years",
+      "duration": 934,
+      "isrc": "GBDHC1574201"
+    },
+    {
+      "artist": "Echolyn",
+      "title": "As The World",
+      "services": {
+        "qobuz": "74644358"
+      },
+      "album": "Stars and Gardens",
+      "duration": 394,
+      "isrc": "USHM90414034"
+    },
+    {
+      "artist": "The Flower Kings",
+      "title": "Stardust We Are",
+      "services": {
+        "qobuz": "154370424"
+      },
+      "album": "Stardust We Are",
+      "duration": 1511,
+      "isrc": "GBDHC2232420"
+    },
+    {
+      "artist": "Discipline",
+      "title": "Canto IV (Limbo)",
+      "services": {
+        "qobuz": "73368063"
+      },
+      "album": "Unfolded Like Staircase",
+      "duration": 827,
+      "isrc": "USHM80410198"
+    },
+    {
+      "artist": "White Willow",
+      "title": "John Dee's Lament",
+      "services": {
+        "qobuz": "223721198"
+      },
+      "album": "Ignis Fatuus (Remastered)",
+      "duration": 683,
+      "isrc": "NOKAR2204120"
+    },
+    {
+      "artist": "Transatlantic",
+      "title": "All of the Above",
+      "services": {
+        "qobuz": "70567210"
+      },
+      "album": "SMPTe",
+      "duration": 1859,
+      "isrc": "GBDHC0006501"
+    },
+    {
+      "artist": "Neal Morse",
+      "title": "The Door",
+      "services": {
+        "qobuz": "63394283"
+      },
+      "album": "The Neal Morse Collection",
+      "duration": 1753,
+      "isrc": "USCXM0001701"
+    },
+    {
+      "artist": "Whyte Horses",
+      "title": "The Other Half Of The Sky",
+      "services": {
+        "qobuz": "57390331"
+      },
+      "album": "Pop Or Not",
+      "duration": 97,
+      "isrc": "GB5UQ1500110"
+    },
+    {
+      "artist": "Big Big Train",
+      "title": "East Coast Racer",
+      "services": {
+        "qobuz": "209261485"
+      },
+      "album": "Ingenious Devices",
+      "duration": 946,
+      "isrc": "UKKW92300024"
+    },
+    {
+      "artist": "Wobbler",
+      "title": "From Silence to Somewhere",
+      "services": {
+        "qobuz": "149777659"
+      },
+      "album": "From Silence to Somewhere",
+      "duration": 1259,
+      "isrc": "NOE9V1701010"
+    },
+    {
+      "artist": "Adjuster66",
+      "title": "Dark Roads To Everywhere",
+      "services": {
+        "qobuz": "366469607"
+      },
+      "album": "Dark Roads To Everywhere",
+      "duration": 862,
+      "isrc": "QT6EC2540484"
+    },
+    {
+      "artist": "The Sapphires",
+      "title": "Who Do You Love",
+      "services": {
+        "qobuz": "87970427"
+      },
+      "album": "Best Of The Sapphires",
+      "duration": 159,
+      "isrc": "USCGH0560972"
+    },
+    {
+      "artist": "Tower of Bell",
+      "title": "Tower of Bell",
+      "services": {
+        "qobuz": "352310458"
+      },
+      "album": "Tower of Bell",
+      "duration": 218,
+      "isrc": "TCAJY2554047"
+    },
+    {
+      "artist": "Roine Stolt",
+      "title": "The Flower King",
+      "services": {
+        "qobuz": "27669043"
+      },
+      "album": "The Flower King",
+      "duration": 633,
+      "isrc": "GBDHC0906001"
+    },
+    {
+      "artist": "Ritual",
+      "title": "A Dangerous Journey",
+      "services": {
+        "qobuz": "48047507"
+      },
+      "album": "The Hemulic Voluntary Band",
+      "duration": 1592,
+      "isrc": "DEM870702306"
+    }
+  ]
+}

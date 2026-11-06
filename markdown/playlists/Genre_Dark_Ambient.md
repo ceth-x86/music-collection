@@ -1,0 +1,108 @@
+# Genre: Dark Ambient
+
+Imported genre playlist: Dark Ambient.
+
+Services: `qobuz:66711886` `tidal:3dc9713d-f285-4c4b-9c06-77a91cb79d27`
+
+## Tracks (100)
+
+- **Teddy Swims** — The Door [I've Tried Everything But Therapy (Part 1)] (3:32) `isrc:USWB12302870` `qobuz:215605368`
+- **Bad Sector** — Ampos [Incendium - Editio Retractata] (5:20) `isrc:DEZ651301223` `qobuz:157829823`
+- **Coph Nia** — Opus 77 [That Which Remains] (9:42) `isrc:QMBZ91766970` `qobuz:47894281`
+- **Bukka White** — District Attorney Blues [Rough Guide to Delta Blues Vol. 2] (2:42) `isrc:GBDTM2241701` `qobuz:188678299`
+- **Kammarheit** — Spatium [The Starwheel] (4:49) `isrc:CAAD20710255` `qobuz:73839481`
+- **Tommy Lee** — Hello, Again (feat. Andrew McMahon) [Tommyland Rides Again] (4:06) `isrc:QMRSZ2601142` `qobuz:410547727`
+- **Dahlia's Tear** — 5th Sky Within A Dying Single Ember [Under Seven Skies] (8:52) `isrc:US7VG1210101` `qobuz:169697983`
+- **TeHÔM** — Amorphous Structure [Lacrimae Mundi] (6:50) `isrc:FR9W12551952` `qobuz:369623864`
+- **Cities Last Broadcast** — Electricity [The Humming Tapes] (6:31) `isrc:USDY41634026` `qobuz:70948806`
+- **The Human Voice** — Midnight [Silent Heart] (10:16) `isrc:QMDA71503568` `qobuz:30575066`
+- **Wastewalker** — The Dying Process [Trapped Between Realms of Suffering] (4:02) `isrc:TCAIA2456992` `qobuz:263694142`
+- **Lesa Listvy** — Swarm [Way Home] (4:57) `isrc:USDY41822317` `qobuz:76256167`
+- **Roy Hargrove** — Ruby My Dear [Diamond In The Rough] (6:13) `isrc:USNO18900329` `qobuz:57150654`
+- **Dean Hurley** — Electricity II [Anthology Resource Vol. I: △△] (1:02) `isrc:US5NR1718817` `qobuz:42567002`
+- **Xscape** — My Little Secret [Traces Of My Lipstick] (4:27) `isrc:USSM19703539` `qobuz:5393082`
+- **Lars Martin Myhre** — Åtte Glass (Frivoll-Elegi) [Sibelius' Åttende Eller Så Langt Vi Har Reist for Å Komme Til Kort] (5:42) `isrc:NOCCT1038100` `qobuz:196792904`
+- **Altarmang** — Saiph [Moth Star] (7:00) `isrc:SE4932000301` `qobuz:111359719`
+- **Randal Collier-Ford** — Outbound Transmission [Thaumaturgy] (6:49) `isrc:USDY42265122` `qobuz:161201800`
+- **Asmorod** — Fiat Abyssus (Second Chapter) [ASCEND] (8:07) `isrc:QM4TW2324656` `qobuz:195035803`
+- **Gang of Youths** — forbearance [angel in realtime.] (5:38) `isrc:GBAHT2101035` `qobuz:137854716`
+- **Jeremy Soule** — Beneath the Ice [The Elder Scrolls V: Skyrim] (4:13) `isrc:QMTH31100052` `qobuz:365627423`
+- **Muddy Waters** — Nine Below Zero [Muddy "Mississippi" Waters Live (Legacy Edition)] (5:23) `isrc:USSM10307105` `qobuz:131461`
+- **Rhapsody Of Fire** — The Kingdom of Ice [Glory for Salvation] (4:25) `isrc:DEU602109343` `qobuz:123566780`
+- **Ugasanie** — Cold World [Fading Away] (6:56) `isrc:TCAGW2309584` `qobuz:197367691`
+- **Cryo Chamber** — Epiphany (feat. Dronny Darko & Claymation) [Echoes of the Hollow Earth] (8:59) `isrc:USDY42508209` `qobuz:324471524`
+- **Jon Hopkins** — part ii - palace / illusion [RITUAL] (7:41) `isrc:GBCEL2400096` `qobuz:264743586`
+- **Meditation Mantras Guru** — Nirvana in The Temple [Inner Calmness: Koshi Wind Chimes & Bells Sound Bath Meditation for Detoxification & Peace of Mind, Purify Your Energy and Find Clarity (432 Frequency)] (2:56) `isrc:PLS922301807` `qobuz:225068040`
+- **Visions Of Atlantis** — Ritual Night [The Deep & The Dark] (3:58) `isrc:ATN261872903` `qobuz:46065291`
+- **Monocube** — Visiones III [The Rituals] (9:08) `isrc:USY251676620` `qobuz:39314214`
+- **Druhá Tráva** — Až Nás Smrt Rozdělí [In Concert] (3:43) `isrc:CZK811571704` `qobuz:30620013`
+- **Black Winter Rock** — Where Angels Refuse to Fall [I Am The Winter You Forgot] (3:49) `isrc:QZTBB2512639` `qobuz:343752384`
+- **Bon Jovi** — Always [Cross Road] (5:52) `isrc:USPR39412221` `qobuz:52366503`
+- **Hen Ogledd** — Land of the dead [DISCOMBOBULATED] (4:40) `isrc:GBCEL2500490` `qobuz:378022988`
+- **Popol Vuh** — Sing, For Song Drives Away the Wolves [Brüder Des Schattens, Söhne Des Lichts] (4:15) `isrc:DEA450602120` `qobuz:326438654`
+- **The Twilight Tribe** — On The Railway To The Fountain [On The Railway To The Fountain] (5:24) `isrc:DEZC62470360` `qobuz:312116146`
+- **Maximilian Hecker** — Never-Ending Days [Rose] (5:34) `isrc:DEQ330307209` `qobuz:134817897`
+- **Lapse Of Reason** — Go Away [Tertium Organum] (5:56) `isrc:FRIDO1811696` `qobuz:56478913`
+- **Bryan Benner** — The Good Fear [The Modern Man, The Modern Muse] (3:05) `isrc:ATCQ81900104` `qobuz:64085348`
+- **Richard Hayman Symphony Orchestra** — When You Wish Upon A Star [When You Wish Upon A Star] (3:29) `isrc:HKI199192608` `qobuz:4283005`
+- **Ratboys** — At Peace in the Hundred Acre Wood [Singin’ to an Empty Chair] (3:16) `isrc:US27Q2561911` `qobuz:362771463`
+- **Silversun Pickups** — Draining [Swoon] (4:55) `isrc:US3R20900107` `qobuz:377267516`
+- **Murlo** — Watching The Sun Through Eyelids [Dolos] (3:28) `isrc:UKQNV1900009` `qobuz:58427641`
+- **Order of Nosferat** — Devoured by Lurking Shadows [The Absence of Grace] (7:27) `isrc:QZFYZ2447277` `qobuz:258289621`
+- **Study Concentration** — Rest in the Shadow [50 Soft Piano Classics for Deep Focus] (1:46) `isrc:UK6821752329` `qobuz:182643929`
+- **The Spiral Electric** — A Descent into the Maelstrom [The Spiral Electric] (6:06) `isrc:USHM91874251` `qobuz:75339588`
+- **Midnight Reed** — Her Hair Covered Her Face [The Woman in White] (1:21) `isrc:GXJ8K2656726` `qobuz:416658299`
+- **Ajna** — Spökeöverföring [Further Intrusion] (5:58) `isrc:USHM21903751` `qobuz:74554255`
+- **Jake Xerxes Fussell** — Glow In The Dark [Rebuilding (Original Motion Picture Soundtrack)] (2:46) `isrc:QMDA72599850` `qobuz:353899582`
+- **Akira Senju** — Beyond the Walls [FULLMETAL ALCHEMIST BROTHERHOOD Original Soundtrack 1] (3:38) `isrc:JPE300901861` `qobuz:155604022`
+- **Ybrid** — Tylos [Dziban] (8:04) `isrc:TCAJK2580564` `qobuz:325653620`
+- **Andreas Scholl** — Il trionfo della divina Giustizia ne' tormente e morte di Gesù Cristo: "Occhi mesti" [Invocazioni Mariane] (6:53) `isrc:FRZ132218020` `qobuz:243858240`
+- **Hinata Toshifumi** — Faith Under the Rubble (from Babylon in the Sands) [The Dark Night Rhapsodies] (1:46) `isrc:JPZ922503005` `qobuz:341782159`
+- **Darlene Love** — Christmas (Baby Please Come Home) [A Christmas Gift For You From Phil Spector] (2:50) `isrc:USSM10905172` `qobuz:3835636`
+- **Dead Melodies** — In the Company of Ruin [The Foundations of Ruin] (3:47) `isrc:USCGJ1822288` `qobuz:72878801`
+- **Alphaxone** — Ashes of Time [The Infinite Void] (5:42) `isrc:USDY42229722` `qobuz:155988076`
+- **Deftones** — Poltergeist [Koi No Yokan] (3:31) `isrc:USRE11200596` `qobuz:7723754`
+- **Owen's Rebellion** — Names Carved in the Fallen Hall [MegaDope 2D V1 (Original Game Soundtrack)] (4:03) `isrc:QT6EA2652431` `qobuz:429144901`
+- **Charlie Haden** — Twilight Song [Night And The City] (12:45) `isrc:FRZ029603070` `qobuz:771238`
+- **Ninkharsag** — The Serpent Of The Void [The Black Swords Of Winter] (3:02) `isrc:SEYOK2505774` `qobuz:320036575`
+- **Nero** — No Signs Of Life [Not All Those Who Wander Are Lost] (3:41) `isrc:SE5752651841` `qobuz:392385632`
+- **Creedence Clearwater Revival** — Long As I Can See The Light [Cosmo's Factory] (3:33) `isrc:USFI87000062` `qobuz:54373671`
+- **Los Belkings** — Umbral de Amor [Los Belkings] (3:47) `isrc:ES71G2051415` `qobuz:319706467`
+- **Jaakko Salon yhtye** — Afrikan tähti - Stern von Afrika [Brita Koivunen ja Jaakko Salo] (3:03) `isrc:FIFMF1238361` `qobuz:44999167`
+- **Yo-Sea** — Night Ship [Billboard Live Tour 2024] (2:29) `isrc:JP92L2426700` `qobuz:302118723`
+- **MARTYR WHORE** — Atheist Protestant [Cold Monster] (1:20) `isrc:TCAJZ2570175` `qobuz:351962238`
+- **Yussef Dayes** — Birds of Paradise [Black Classical Music] (4:09) `isrc:GBAYE2300255` `qobuz:208157143`
+- **Sleep Token** — Look To Windward [Even In Arcadia] (7:46) `isrc:USRC12500013` `qobuz:320611354`
+- **Peter Kater** — Becoming Human [How The West Was Lost] (1:56) `isrc:US74R0580121` `qobuz:104715101`
+- **Van Halen** — Crossing Over [Balance] (5:05) `isrc:USRH12301007` `qobuz:342568542`
+- **Meshuggah** — The Last Vigil [The Ophidian Trek] (4:09) `isrc:DED831400688` `qobuz:298209924`
+- **Nick Cave & The Bad Seeds** — Jack's Shadow [Your Funeral... My Trial] (5:40) `isrc:GBAJH0900071` `qobuz:385641355`
+- **Iggy Pop** — New Atlantis [Every Loser] (4:08) `isrc:USAT22220305` `qobuz:184130818`
+- **Reneé Rapp** — I Think I Like You Better When You’re Gone [BITE ME] (2:23) `isrc:USUM72504849` `qobuz:348466682`
+- **Kaya North** — Rise To The Marble [Myths] (7:50) `isrc:QMBZ92304607` `qobuz:218908481`
+- **Graham Ross** — IV. O Lord, how manifold are thy works [John Rutter: A Clare College Celebration (The Christmas Edition)] (7:21) `isrc:FR7JM2479170` `qobuz:351998944`
+- **Basia Bulat** — In the Name Of [The Garden] (4:36) `isrc:CA0RZ2100104` `qobuz:146157682`
+- **Tenebrae** — Engelsmusik: No. 1, Colours of Light's Sound [in between: Choral works by Jessica Ulusoy-Horsley] (5:33) `isrc:GBLLH0100201` `qobuz:412967121`
+- **Dev-I-Ant** — Fear Of Memories Cascading [A Place Of Warmth And Tears] (7:03) `isrc:QMDA62312956` `qobuz:226491055`
+- **Gerben Mourik** — Cantiones Gregorianæ, Haft III: Te Deum [Modern Church Organ Works, Volume 1] (3:41) `isrc:NLG620587206` `qobuz:32769483`
+- **Niandraz** — Ritual Recast [Ritual Recast] (12:21) `isrc:QZZ772460570` `qobuz:336263640`
+- **Vortex** — Cosmic Rim II [Cycles II] (4:59) `isrc:FR9W12247002` `qobuz:204091835`
+- **Gabrielle Sarrov** — There Is No Door [There Is No Door] (2:18) `isrc:SE4RG2400393` `qobuz:252016377`
+- **Owen Jay** — Shine Through [Dream Landscape] (6:25) `isrc:GBKQU2157833` `qobuz:125646285`
+- **Culture** — I'm Alone In The Wilderness [Two Sevens Clash] (3:24) `isrc:USVPR1010008` `qobuz:3101868`
+- **Nick Cave & The Bad Seeds** — Fifteen Feet of Pure White Snow [No More Shall We Part] (5:36) `isrc:GBAJH1000687` `qobuz:385641414`
+- **Zentral Ztation** — Inner Transformation [The Essence of Silence] (4:41) `isrc:QT6622604233` `qobuz:401996795`
+- **Like Moths To Flames** — Bury Your Pain [The Dream Is Dead] (3:40) `isrc:USEK71528101` `qobuz:374297262`
+- **HLER** — Radiant Dipole [Radiant Dipole] (6:36) `isrc:USDY42526950` `qobuz:326433693`
+- **DEAD TONGUE HELL METAL** — MAHĀ PRALAYA [SANSKRIT] (3:23) `isrc:QT4K32630702` `qobuz:410366923`
+- **Max Richter** — "we circle through the night, consumed by fire" [Classical Class Vol 12] (9:54) `isrc:DEN961700210` `qobuz:202000642`
+- **Pennywise** — Can't Save You Now [Never Gonna Die] (2:48) `isrc:USEP41807026` `qobuz:77619798`
+- **Led Zeppelin** — Whole Lotta Love [Led Zeppelin II] (5:34) `isrc:USAT21207009` `qobuz:17110879`
+- **Tracy Bonham** — Mother Mother [The Burdens Of Being Upright] (3:00) `isrc:USIR29600065` `qobuz:762999`
+- **Sonny Boy Williamson** — Nine Below Zero [Don't Start Me Talkin' I'll Tell Everything I Know] (3:28) `isrc:GBDAG1401356` `qobuz:25201468`
+- **Stick To Your Guns** — Where The Sun Never Sleeps [The Hope Division] (3:24) `isrc:USYFZ0903101` `qobuz:338348342`
+- **Son Han Mook** — The Beginning Of War [My Sweet Mobster (Original Television Soundtrack) BGM] (2:23) `isrc:KRMIM2453500` `qobuz:282417073`
+- **Leila Abdul-Rauf** — Depths Of Us [Calls From A Seething Edge] (4:49) `isrc:FR9W12446586` `qobuz:294194267`
+- **Puscifer** — The Arsonist [In Case You Were Napping] (4:45) `isrc:USKJ71500006` `qobuz:381228095`
+- **Cream** — Deserted Cities of the Heart [Royal Albert Hall London May 2-3-5-6 2005] (3:56) `isrc:USRE10501141` `qobuz:389662318`
+- **New Risen Throne** — Birth Of A New Disciple (III) [Cycles II] (7:49) `isrc:FR9W12246993` `qobuz:204091826`

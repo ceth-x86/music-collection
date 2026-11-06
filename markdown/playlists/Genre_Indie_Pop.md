@@ -1,0 +1,108 @@
+# Genre: Indie Pop
+
+Imported genre playlist: Indie Pop.
+
+Services: `qobuz:66732737` `tidal:f07136c1-fb83-4ecf-8e83-8f62f9062823`
+
+## Tracks (100)
+
+- **Television Personalities** — Part Time Punks [Yes Darling, But Is It Art] (2:38) `isrc:GBCKK9502403` `qobuz:194802381`
+- **Orange Juice** — Rip It Up [Rip It Up] (5:20) `isrc:GBCEL1000577` `qobuz:169116386`
+- **The Go-Betweens** — Cattle And Cane [Before Hollywood] (4:22) `isrc:GBCEL2300818` `qobuz:244447878`
+- **Young Marble Giants** — Final Day [Colossal Youth] (1:43) `isrc:GBCEL0700262` `qobuz:103317960`
+- **Marine Girls** — In Love [Lazy Ways / Beach Paty] (1:57) `isrc:GBBLY8100202` `qobuz:134975245`
+- **Velocity Girl** — Breaking Lines - Seven Seas single [¡Simpatico!] (2:49) `isrc:USSUB2570320` `qobuz:407831142`
+- **David Keegan** — Safety Net [Will Anything Happen] (2:10) `isrc:UKKP22400796` `qobuz:277825940`
+- **Close Lobsters** — Firestation Towers [Forever, Until Victory!] (1:50) `isrc:GBCKK0903911` `qobuz:194821441`
+- **Primal Scream** — Velocity Girl [Maximum Rock'n'Roll: The Singles (Remastered)] (1:23) `isrc:GBARL1900105` `qobuz:60931490`
+- **The Soup Dragons** — Pleasantly Surprised [Hang-Ten!] (2:09) `isrc:USWB10501881` `qobuz:34380009`
+- **The Mighty Lemon Drops** — Happy Head [Rollercoaster: The Best of The Mighty Lemon Drops (1986-1989)] (2:27) `isrc:GBAYK8600040` `qobuz:169147853`
+- **Talulah Gosh** — Steaming Train [Was It Just a Dream?] (1:43) `isrc:GBGLR1300023` `qobuz:11409137`
+- **Everclear** — Molly's Lips [Live At The Whisky A Go Go] (2:01) `isrc:USBT21629007` `qobuz:211023215`
+- **The Sea Urchins** — Pristine Christine [Stardust] (2:47) `isrc:GBMFU0600001` `qobuz:18508958`
+- **The Servants** — Transparent [Entrance – The C86 Line-up Singles] (2:35) `isrc:GBBLY0601966` `qobuz:411897949`
+- **The Primitives** — Crash [Lovely] (2:31) `isrc:GBARL8800002` `qobuz:457263`
+- **The Field Mice** — Emma's House [Where'd You Learn To Kiss That Way?] (3:36) `isrc:GBMFU0600029` `qobuz:14969676`
+- **Beat Happening** — Indian Summer [Look Around] (3:02) `isrc:USK110400203` `qobuz:27293493`
+- **The Darling Buds** — Burst [Pop Said...] (2:51) `isrc:GBBBM8802029` `qobuz:455235`
+- **St. Christopher** — You Deserve More Than A Maybe [Air Balloon Road: a Sarah Records compilation] (2:50) `isrc:GBMFU0600034` `qobuz:20393868`
+- **Brighter** — Noah's Ark [Disney & Other Singles] (5:06) `isrc:GBMFU0600068` `qobuz:48066284`
+- **The Orchids** — Something for the Longing [Who Needs Tomorrow] (5:27) `isrc:GBMFU0600073` `qobuz:138454965`
+- **Saint Etienne** — Nothing Can Stop Us [Foxbase Alpha] (4:21) `isrc:GBUM70811383` `qobuz:40812503`
+- **Even As We Speak** — One Step Forward [Feral Pop Frenzy] (4:18) `isrc:GBMFU0600125` `qobuz:2375603`
+- **The Hit Parade** — In Gunnersbury Park [Pick Of The Pops (Vol. 1)] (2:57) `isrc:GBMFU0600145` `qobuz:73913032`
+- **Blueboy** — Popkiss [Clearer and other singles, 1991-1998] (4:18) `isrc:GBMFU0600161` `qobuz:272037795`
+- **Another Sunny Day** — You Should All Be Murdered [London Weekend] (4:38) `isrc:GBMFU0600054` `qobuz:48066087`
+- **The Sugargliders** — Letter From A Lifeboat [A Nest With A View 1990-1994] (4:25) `isrc:USHM82588644` `qobuz:342091212`
+- **Heavenly** — Atta Girl [Atta Girl] (3:58) `isrc:GBMFU0600210` `qobuz:48066178`
+- **Tiger Trap** — Puzzle Pieces [Tiger Trap] (2:30) `isrc:USK110401701` `qobuz:25276953`
+- **Boyracer** — I've Got It And It's Not Worth Having [B is for Boyracer: the Sarah Singles, 1993-1994] (2:31) `isrc:GBMFU0600192` `qobuz:23299110`
+- **The Cardigans** — Rise & Shine [Emmerdale] (3:30) `isrc:SEBKB9429010` `qobuz:58421357`
+- **The Wannadies** — You And Me Song [Be A Girl] (2:49) `isrc:SELAC9409010` `qobuz:105663465`
+- **The Softies** — Hello Rain [It's Love] (3:39) `isrc:USK110404301` `qobuz:25284353`
+- **Unwed Sailor** — Don't Let Go [High Remembrance] (3:57) `isrc:QMGEB2601403` `qobuz:394845311`
+- **Belle and Sebastian** — Get Me Away from Here, I'm Dying [If You're Feeling Sinister] (3:25) `isrc:GBCAX9600106` `qobuz:8922142`
+- **Bis** — Kandy Pop [I Love Bis] (2:46) `isrc:UK8RE1500011` `qobuz:237778188`
+- **Ivy** — This Is The Day [Apartment Life] (3:32) `isrc:USUR30300033` `qobuz:174739070`
+- **Komeda** — It's Alright,  Baby [What Makes It Go?] (2:51) `isrc:SEUM71700766` `qobuz:81935925`
+- **Miloš Karadaglić** — The Book Of Love (Arr. Hale) [Sound Of Silence] (3:19) `isrc:GBUM71903441` `qobuz:63811259`
+- **Tahiti 80** — Yellow Butterfly [Puzzle] (4:34) `isrc:FR5E79800610` `qobuz:11130835`
+- **Dressy Bessy** — If You Should Try To Kiss Her [Pink Hearts, Yellow Moons] (2:44) `isrc:US25T9910545` `qobuz:74351363`
+- **The Aislers Set** — The Red Door [The Last Match] (2:46) `isrc:US4TA0400515` `qobuz:77347863`
+- **The New Pornographers** — Letter From An Occupant [Mass Romantic] (3:46) `isrc:USMTD0354006` `qobuz:26440934`
+- **The Lucksmiths** — Music To Hold Hands To [Why That Doesn't Surprise Me] (3:47) `isrc:AU25T0610207` `qobuz:298550801`
+- **Trembling Blue Stars** — The Ghost Of An Unkissed Kiss [Alive To Every Smile] (4:33) `isrc:GBMZG0600073` `qobuz:14964801`
+- **Beulah** — Gene Autry [The Coast Is Never Clear] (3:34) `isrc:US72K0500204` `qobuz:14474441`
+- **The Shins** — New Slang [Oh, Inverted World] (3:50) `isrc:USSUB2141506` `qobuz:407826199`
+- **The Sounds** — Living in America [Dying to Say This to You] (3:25) `isrc:SEPQA0213030` `qobuz:2961663`
+- **Camera Obscura** — Lloyd, I'm Ready To Be Heartbroken [Lloyd, I'm Ready To Be Heartbroken] (3:51) `isrc:ES6640500198` `qobuz:317064108`
+- **Phoenix** — Lisztomania [Wolfgang Amadeus Phoenix] (4:01) `isrc:FR31Q0900001` `qobuz:292873513`
+- **The Thrills** — Big Sur [Big Sur] (3:09) `isrc:GBAAA0300204` `qobuz:1016492`
+- **OK Go** — Here It Goes Again [Oh No] (2:59) `isrc:USCA20500270` `qobuz:4655867`
+- **The Magic Numbers** — Love Me Like You [The Magic Numbers] (4:17) `isrc:GBDGG0500031` `qobuz:4631084`
+- **Peter Bjorn And John** — Young Folks [Writer's Block] (4:36) `isrc:SEBPA0600024` `qobuz:885500`
+- **Feist** — 1, 2, 3, 4 (Van She Tech Remix) [Kitsuné Boombox Mixed by Jerry Bouthier] (4:37) `isrc:FRUM70600547` `qobuz:1615594`
+- **The Concretes** — Say Something New [The Concretes] (3:47) `isrc:SEVJH0300401` `qobuz:34839768`
+- **Shout Out Louds** — Please Please Please [Howl Howl Gaff Gaff] (3:30) `isrc:USCA20500122` `qobuz:5029702`
+- **The Boy Least Likely To** — Be Gentle With Me [The Best Party Ever] (3:47) `isrc:GBJUN0500001` `qobuz:80588597`
+- **The Pipettes** — Pull Shapes [We Are The Pipettes] (2:58) `isrc:GBCSG0600080` `qobuz:49427798`
+- **Hellogoodbye** — Here (In Your Arms) [Zombies! Aliens! Vampires! Dinosaurs! And More!] (4:00) `isrc:USDTR0600111` `qobuz:134273122`
+- **Architecture in Helsinki** — Do the Whirlwind [In Case We Die] (4:34) `isrc:GBGEY0500027` `qobuz:23626289`
+- **Los Campesinos!** — You! Me! Dancing! (2018 Remaster) [Hold On Now, Youngster... (2018 Deluxe Remaster)] (6:45) `isrc:GBDNH1800037` `qobuz:348379013`
+- **The Ting Tings** — That's Not My Name [We Started Nothing] (5:10) `isrc:GBARL0800038` `qobuz:438832`
+- **The Wombats** — Let's Dance to Joy Division [Proudly Present... A Guide to Love, Loss & Desperation] (3:11) `isrc:GBFTG0300132` `qobuz:2904314`
+- **Lykke Li** — Little Bit (feat. Autoerotique) [Little Bit (feat. Autoerotique)] (3:54) `isrc:GBCRL2200698` `qobuz:175841300`
+- **The Whitest Boy Alive** — Golden Cage [Dreams] (4:02) `isrc:DED620600073` `qobuz:17625774`
+- **Miike Snow** — Animal [Miike Snow] (4:24) `isrc:GBARL0900399` `qobuz:320260273`
+- **The Spinto Band** — Oh Mandy [Nice And Nicely Done] (3:35) `isrc:US37V0516803` `qobuz:4731305`
+- **Voxtrot** — The Start of Something [Raised By Wolves] (4:31) `isrc:USHM80559016` `qobuz:385422258`
+- **Foster The People** — Pumped Up Kicks [Torches] (3:59) `isrc:USSM11002931` `qobuz:14069908`
+- **Grouplove** — Tongue Tied [Never Trust a Happy Song] (3:37) `isrc:USAT21101334` `qobuz:3872634`
+- **Walk The Moon** — Anna Sun [Walk The Moon (Expanded Edition)] (5:21) `isrc:USRC11200002` `qobuz:47523938`
+- **Bastille** — Pompeii [Pompeii] (3:33) `isrc:GBAAA1200795` `qobuz:7268219`
+- **Haim** — The Wire [Days Are Gone] (4:05) `isrc:GBUM71304660` `qobuz:11530764`
+- **Capital Cities** — Safe and Sound [In A Tidal Wave of Mystery (Deluxe Edition)] (3:12) `isrc:TCABD1246970` `qobuz:287032844`
+- **Two Door Cinema Club** — What You Know [Tourist History] (3:10) `isrc:FRU700900116` `qobuz:11093525`
+- **The Naked And Famous** — Young Blood [Passive Me, Aggressive You] (4:06) `isrc:NZNK11000001` `qobuz:388668376`
+- **San Cisco** — Awkward [Awkward EP] (2:33) `isrc:AUU221100001` `qobuz:6788747`
+- **The Mowgli's** — San Francisco [Waiting For The Dawn] (2:52) `isrc:USUM71213439` `qobuz:54431647`
+- **Neon Trees** — Animal [Habits] (3:31) `isrc:USUM71001801` `qobuz:3189961`
+- **Fitz and The Tantrums** — The Walker [More Than Just a Dream] (3:52) `isrc:USAT21300240` `qobuz:14105902`
+- **Saint Motel** — My Type [My Type EP] (3:24) `isrc:GBAYE1400856` `qobuz:17384145`
+- **Bad Suns** — Cardiac Arrest [Language & Perspective] (3:02) `isrc:USVR91316301` `qobuz:77668916`
+- **The Griswolds** — Beware The Dog [Be Impressive] (3:21) `isrc:USWU31400034` `qobuz:35414967`
+- **Coin** — Talk Too Much [How Will You Know If You Never Try] (3:09) `isrc:USSM11602662` `qobuz:39943304`
+- **Charly Bliss** — Percolator [Guppy] (2:46) `isrc:USBS51600054` `qobuz:57571393`
+- **The Beths** — Future Me Hates Me [Future Me Hates Me] (4:05) `isrc:US22N1812802` `qobuz:156379331`
+- **The Aces** — Stuck (Album Version) [When My Heart Felt Volcanic] (4:05) `isrc:USP6L1700243` `qobuz:46818450`
+- **Beach Bunny** — Prom Queen [Prom Queen] (2:16) `isrc:QZDA71885746` `qobuz:397368598`
+- **Hippo Campus** — Bambi [Bambi] (3:14) `isrc:QM5BK1800228` `qobuz:52522814`
+- **Wallows** — Are You Bored Yet? (feat. Clairo) [Nothing Happens] (2:58) `isrc:USAT21812258` `qobuz:58503781`
+- **half•alive** — still feel. [Now, Not Yet] (4:07) `isrc:GBKPL1814938` `qobuz:62563090`
+- **Japanese Breakfast** — Be Sweet [Jubilee] (3:15) `isrc:USJ5G2022502` `qobuz:116463001`
+- **TOPS** — Pirouette [I Feel Alive] (3:06) `isrc:QMFME1912621` `qobuz:340951412`
+- **Sea Girls** — Transplant [Open Up Your Head] (3:31) `isrc:GBUM72001843` `qobuz:99397675`
+- **BENEE** — Supalonely [STELLA & STEVE] (3:43) `isrc:USUM71922597` `qobuz:79763198`
+- **Kero Kero Bonito** — Only Acting [Time 'n' Place] (3:49) `isrc:GBKPL1897766` `qobuz:169772119`
+- **Mitski** — The Only Heartbreaker [Laurel Hell] (3:04) `isrc:USJ5G2125006` `qobuz:146128191`
+- **Cafuné** — Tek It [Running] (3:11) `isrc:QM24S1926168` `qobuz:155058304`

@@ -1,0 +1,1010 @@
+{
+  "name": "Genre: Pop Rock",
+  "services": {
+    "qobuz": "66737531",
+    "tidal": "d36eb54f-d455-4256-9abf-54207a2894df"
+  },
+  "description": "Imported genre playlist: Pop Rock.",
+  "tracks": [
+    {
+      "artist": "The Beatles",
+      "title": "Ticket To Ride",
+      "services": {
+        "qobuz": "30369488"
+      },
+      "album": "Help!",
+      "duration": 189,
+      "isrc": "GBAYE0601471"
+    },
+    {
+      "artist": "The Monkees",
+      "title": "I'm a Believer",
+      "services": {
+        "qobuz": "8766434"
+      },
+      "album": "The Monkees",
+      "duration": 163,
+      "isrc": "USRH11300311"
+    },
+    {
+      "artist": "The Hollies",
+      "title": "Bus Stop",
+      "services": {
+        "qobuz": "4457079"
+      },
+      "album": "The Air That I Breathe - The Very Best of the Hollies",
+      "duration": 174,
+      "isrc": "GBAYE6600055"
+    },
+    {
+      "artist": "The Turtles",
+      "title": "Happy Together",
+      "services": {
+        "qobuz": "33908089"
+      },
+      "album": "Happy Together (Deluxe Version)",
+      "duration": 172,
+      "isrc": "USQE11610097"
+    },
+    {
+      "artist": "Tommy James & The Shondells",
+      "title": "I Think We're Alone Now",
+      "services": {
+        "qobuz": "35445338"
+      },
+      "album": "I Think We're Alone Now",
+      "duration": 130,
+      "isrc": "USRH10284732"
+    },
+    {
+      "artist": "THE GRASS ROOTS",
+      "title": "Let's Live For Today",
+      "services": {
+        "qobuz": "99460462"
+      },
+      "album": "Let's Live For Today",
+      "duration": 166,
+      "isrc": "USMC16755344"
+    },
+    {
+      "artist": "Paul Revere & The Raiders",
+      "title": "Kicks",
+      "services": {
+        "qobuz": "13332141"
+      },
+      "album": "Midnight Ride",
+      "duration": 151,
+      "isrc": "USSM16601060"
+    },
+    {
+      "artist": "The Easybeats",
+      "title": "Friday on My Mind",
+      "services": {
+        "qobuz": "385572196"
+      },
+      "album": "The Best of The Easybeats + Pretty Girl",
+      "duration": 163,
+      "isrc": "AUAP06600062"
+    },
+    {
+      "artist": "The Dave Clark Five",
+      "title": "Glad All Over",
+      "services": {
+        "qobuz": "383024141"
+      },
+      "album": "Glad All Over",
+      "duration": 163,
+      "isrc": "GB5KW1901734"
+    },
+    {
+      "artist": "The Lovin' Spoonful",
+      "title": "Summer in the City",
+      "services": {
+        "qobuz": "10533805"
+      },
+      "album": "Summer In The City - The Collection",
+      "duration": 161,
+      "isrc": "USBR10300026"
+    },
+    {
+      "artist": "The Rascals",
+      "title": "Good Lovin' (Single Version)",
+      "services": {
+        "qobuz": "3005936"
+      },
+      "album": "The Young Rascals",
+      "duration": 150,
+      "isrc": "USAT20106062"
+    },
+    {
+      "artist": "The Association",
+      "title": "Windy",
+      "services": {
+        "qobuz": "16473395"
+      },
+      "album": "Greatest Hits",
+      "duration": 178,
+      "isrc": "USWB11400799"
+    },
+    {
+      "artist": "The Buckinghams",
+      "title": "Kind of a Drag",
+      "services": {
+        "qobuz": "53116452"
+      },
+      "album": "Kind of a Drag",
+      "duration": 129,
+      "isrc": "QM6N21816274"
+    },
+    {
+      "artist": "The Box Tops",
+      "title": "The Letter",
+      "services": {
+        "qobuz": "415472"
+      },
+      "album": "The Letter/Neon Rainbow",
+      "duration": 112,
+      "isrc": "USAR17200009"
+    },
+    {
+      "artist": "The Guess Who",
+      "title": "These Eyes",
+      "services": {
+        "qobuz": "450620"
+      },
+      "album": "Wheatfield Soul",
+      "duration": 226,
+      "isrc": "USRC10301167"
+    },
+    {
+      "artist": "Elton John",
+      "title": "Crocodile Rock",
+      "services": {
+        "qobuz": "3889755"
+      },
+      "album": "Don't Shoot Me I'm Only The Piano Player",
+      "duration": 235,
+      "isrc": "GBAMB7200001"
+    },
+    {
+      "artist": "Billy Joel",
+      "title": "My Life",
+      "services": {
+        "qobuz": "398204"
+      },
+      "album": "52nd Street",
+      "duration": 284,
+      "isrc": "USSM17800448"
+    },
+    {
+      "artist": "Electric Light Orchestra",
+      "title": "Mr. Blue Sky",
+      "services": {
+        "qobuz": "28187766"
+      },
+      "album": "Out of the Blue",
+      "duration": 303,
+      "isrc": "USSM17200399"
+    },
+    {
+      "artist": "Paul McCartney & Wings",
+      "title": "Band On The Run",
+      "services": {
+        "qobuz": "389700610"
+      },
+      "album": "Man on the Run",
+      "duration": 312,
+      "isrc": "GBCCS2600008"
+    },
+    {
+      "artist": "Rod Stewart",
+      "title": "Da Ya Think I'm Sexy?",
+      "services": {
+        "qobuz": "12262044"
+      },
+      "album": "Blondes Have More Fun",
+      "duration": 329,
+      "isrc": "USWB11302306"
+    },
+    {
+      "artist": "Fleetwood Mac",
+      "title": "Go Your Own Way",
+      "services": {
+        "qobuz": "424595370"
+      },
+      "album": "Greatest Hits",
+      "duration": 216,
+      "isrc": "USWB22600010"
+    },
+    {
+      "artist": "Lighthouse",
+      "title": "One Fine Morning",
+      "services": {
+        "qobuz": "31878580"
+      },
+      "album": "One Fine Morning",
+      "duration": 316,
+      "isrc": "CYRLD1501784"
+    },
+    {
+      "artist": "Longfellow",
+      "title": "Rock Me Gently",
+      "services": {
+        "qobuz": "4914741"
+      },
+      "album": "Greatest Hits",
+      "duration": 207,
+      "isrc": "USCA29201582"
+    },
+    {
+      "artist": "Peter Frampton",
+      "title": "Show Me The Way",
+      "services": {
+        "qobuz": "259403379"
+      },
+      "album": "Frampton Comes Alive!",
+      "duration": 286,
+      "isrc": "USAM17600027"
+    },
+    {
+      "artist": "Steve Miller Band",
+      "title": "Jet Airliner",
+      "services": {
+        "qobuz": "58853839"
+      },
+      "album": "Book Of Dreams",
+      "duration": 260,
+      "isrc": "USCA28700789"
+    },
+    {
+      "artist": "Nick Gilder",
+      "title": "Hot Child In The City",
+      "services": {
+        "qobuz": "4615985"
+      },
+      "album": "Hot Child In The City",
+      "duration": 214,
+      "isrc": "USCH39100017"
+    },
+    {
+      "artist": "The Babys",
+      "title": "Isn't It Time",
+      "services": {
+        "qobuz": "169171322"
+      },
+      "album": "Anthology",
+      "duration": 244,
+      "isrc": "UKKP22200114"
+    },
+    {
+      "artist": "Toto",
+      "title": "Hold the Line",
+      "services": {
+        "qobuz": "50243"
+      },
+      "album": "Toto",
+      "duration": 235,
+      "isrc": "USSM17800444"
+    },
+    {
+      "artist": "Boz Scaggs",
+      "title": "Lido Shuffle (2023 Remaster)",
+      "services": {
+        "qobuz": "218168745"
+      },
+      "album": "Silk Degrees",
+      "duration": 223,
+      "isrc": "USSM17500569"
+    },
+    {
+      "artist": "Robert Palmer",
+      "title": "Bad Case Of Loving You (Doctor, Doctor)",
+      "services": {
+        "qobuz": "52484333"
+      },
+      "album": "Addictions Vol. 1",
+      "duration": 190,
+      "isrc": "USWWW0127580"
+    },
+    {
+      "artist": "Rick Springfield",
+      "title": "Jessie's Girl",
+      "services": {
+        "qobuz": "46900011"
+      },
+      "album": "Working Class Dog",
+      "duration": 194,
+      "isrc": "USRC18108188"
+    },
+    {
+      "artist": "Bryan Adams",
+      "title": "Summer Of '69",
+      "services": {
+        "qobuz": "20199618"
+      },
+      "album": "Reckless",
+      "duration": 216,
+      "isrc": "USAM18490006"
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "title": "Dancing In the Dark",
+      "services": {
+        "qobuz": "13360993"
+      },
+      "album": "Born In The U.S.A.",
+      "duration": 245,
+      "isrc": "USSM18400416"
+    },
+    {
+      "artist": "John Mellencamp",
+      "title": "Hurts So Good",
+      "services": {
+        "qobuz": "51979619"
+      },
+      "album": "Words & Music: John Mellencamp's Greatest Hits",
+      "duration": 219,
+      "isrc": "USJM18200002"
+    },
+    {
+      "artist": "Huey Lewis And The News",
+      "title": "The Power Of Love",
+      "services": {
+        "qobuz": "1950801"
+      },
+      "album": "Greatest Hits:  Huey Lewis And The News",
+      "duration": 234,
+      "isrc": "USCA20600519"
+    },
+    {
+      "artist": "The J. Geils Band",
+      "title": "Centerfold",
+      "services": {
+        "qobuz": "16657276"
+      },
+      "album": "Freeze Frame",
+      "duration": 217,
+      "isrc": "USCA28100075"
+    },
+    {
+      "artist": "Starship",
+      "title": "We Built This City",
+      "services": {
+        "qobuz": "57003494"
+      },
+      "album": "Knee Deep In The Hoopla",
+      "duration": 296,
+      "isrc": "USRC18503424"
+    },
+    {
+      "artist": "The Outfield",
+      "title": "Your Love",
+      "services": {
+        "qobuz": "195971708"
+      },
+      "album": "Play Deep",
+      "duration": 223,
+      "isrc": "USSM10100176"
+    },
+    {
+      "artist": "Cutting Crew",
+      "title": "(I Just) Died In Your Arms",
+      "services": {
+        "qobuz": "1942318"
+      },
+      "album": "Broadcast",
+      "duration": 280,
+      "isrc": "GBAAA8600046"
+    },
+    {
+      "artist": "Mike + The Mechanics",
+      "title": "All I Need is a Miracle",
+      "services": {
+        "qobuz": "204649313"
+      },
+      "album": "Air (Amazon Original Motion Picture Soundtrack)",
+      "duration": 251,
+      "isrc": "GBHJD8500003"
+    },
+    {
+      "artist": "Roxette",
+      "title": "The Look",
+      "services": {
+        "qobuz": "822603"
+      },
+      "album": "A Collection of Roxette Hits! Their 20 Greatest Songs!",
+      "duration": 237,
+      "isrc": "SEAME8878010"
+    },
+    {
+      "artist": "Katrina And The Waves",
+      "title": "Walking On Sunshine",
+      "services": {
+        "qobuz": "830197"
+      },
+      "album": "Katrina & The Waves",
+      "duration": 238,
+      "isrc": "USCA28500452"
+    },
+    {
+      "artist": "Crowded House",
+      "title": "Don't Dream It's Over",
+      "services": {
+        "qobuz": "34280662"
+      },
+      "album": "Crowded House",
+      "duration": 239,
+      "isrc": "USCA28600048"
+    },
+    {
+      "artist": "The Bangles",
+      "title": "Manic Monday",
+      "services": {
+        "qobuz": "94703"
+      },
+      "album": "The Essential Bangles",
+      "duration": 185,
+      "isrc": "USSM10017495"
+    },
+    {
+      "artist": "Billy Squier",
+      "title": "The Stroke",
+      "services": {
+        "qobuz": "16657251"
+      },
+      "album": "Don't Say No",
+      "duration": 217,
+      "isrc": "USCA21001203"
+    },
+    {
+      "artist": "Eddie Money",
+      "title": "Take Me Home Tonight",
+      "services": {
+        "qobuz": "17575227"
+      },
+      "album": "The Essential Eddie Money",
+      "duration": 211,
+      "isrc": "USSM10113106"
+    },
+    {
+      "artist": "Pat Benatar",
+      "title": "We Belong",
+      "services": {
+        "qobuz": "2271430"
+      },
+      "album": "Tropico",
+      "duration": 221,
+      "isrc": "USCH38400001"
+    },
+    {
+      "artist": "John Parr",
+      "title": "St. Elmo's Fire (Man in Motion)",
+      "services": {
+        "qobuz": "96029216"
+      },
+      "album": "80s Summer",
+      "duration": 248,
+      "isrc": "USAT21101216"
+    },
+    {
+      "artist": "Bruce Hornsby",
+      "title": "The Way It Is",
+      "services": {
+        "qobuz": "176689"
+      },
+      "album": "The Way It Is",
+      "duration": 297,
+      "isrc": "USRC18507944"
+    },
+    {
+      "artist": "Scandal",
+      "title": "The Warrior",
+      "services": {
+        "qobuz": "46990176"
+      },
+      "album": "We Are The '80s",
+      "duration": 238,
+      "isrc": "USSM18400617"
+    },
+    {
+      "artist": "Hootie & The Blowfish",
+      "title": "Only Wanna Be With You",
+      "services": {
+        "qobuz": "61464965"
+      },
+      "album": "Cracked Rear View",
+      "duration": 226,
+      "isrc": "USRH11901025"
+    },
+    {
+      "artist": "Matchbox Twenty",
+      "title": "Push",
+      "services": {
+        "qobuz": "7785292"
+      },
+      "album": "Yourself or Someone Like You",
+      "duration": 238,
+      "isrc": "USAT21204200"
+    },
+    {
+      "artist": "Barenaked Ladies",
+      "title": "One Week",
+      "services": {
+        "qobuz": "50203906"
+      },
+      "album": "Stunt",
+      "duration": 169,
+      "isrc": "USRE19800261"
+    },
+    {
+      "artist": "THE GOO GOO DOLLS",
+      "title": "Iris",
+      "services": {
+        "qobuz": "32087917"
+      },
+      "album": "Dizzy up the Girl",
+      "duration": 289,
+      "isrc": "USWB11507961"
+    },
+    {
+      "artist": "Smash Mouth",
+      "title": "All Star",
+      "services": {
+        "qobuz": "753583"
+      },
+      "album": "Astro Lounge",
+      "duration": 200,
+      "isrc": "USIR19902220"
+    },
+    {
+      "artist": "Sugar Ray",
+      "title": "Fly",
+      "services": {
+        "qobuz": "2999650"
+      },
+      "album": "Floored",
+      "duration": 244,
+      "isrc": "USAT29700344"
+    },
+    {
+      "artist": "Semisonic",
+      "title": "Closing Time",
+      "services": {
+        "qobuz": "52704329"
+      },
+      "album": "Feeling Strangely Fine - 20th Anniversary Edition",
+      "duration": 273,
+      "isrc": "USUM71810665"
+    },
+    {
+      "artist": "Eagle-Eye Cherry",
+      "title": "Save Tonight",
+      "services": {
+        "qobuz": "769560"
+      },
+      "album": "Desireless",
+      "duration": 242,
+      "isrc": "GBAKW9800044"
+    },
+    {
+      "artist": "Duncan Sheik",
+      "title": "Barely Breathing",
+      "services": {
+        "qobuz": "11720568"
+      },
+      "album": "Duncan Sheik",
+      "duration": 254,
+      "isrc": "USAT29600039"
+    },
+    {
+      "artist": "Del Amitri",
+      "title": "Roll To Me",
+      "services": {
+        "qobuz": "771478"
+      },
+      "album": "Twisted",
+      "duration": 132,
+      "isrc": "GBAAM9500007"
+    },
+    {
+      "artist": "Natalie Imbruglia",
+      "title": "Torn",
+      "services": {
+        "qobuz": "269687"
+      },
+      "album": "Left Of The Middle",
+      "duration": 244,
+      "isrc": "GBARL9700412"
+    },
+    {
+      "artist": "The Cardigans",
+      "title": "Lovefool",
+      "services": {
+        "qobuz": "58423829"
+      },
+      "album": "First Band On The Moon",
+      "duration": 193,
+      "isrc": "SEBKB9629380"
+    },
+    {
+      "artist": "Savage Garden",
+      "title": "I Want You",
+      "services": {
+        "qobuz": "31753044"
+      },
+      "album": "Savage Garden",
+      "duration": 232,
+      "isrc": "USSM19700098"
+    },
+    {
+      "artist": "Hanson",
+      "title": "MMMBop",
+      "services": {
+        "qobuz": "2392409"
+      },
+      "album": "MmmBop : The Collection",
+      "duration": 267,
+      "isrc": "USMR19786791"
+    },
+    {
+      "artist": "Sixpence None The Richer",
+      "title": "Kiss Me",
+      "services": {
+        "qobuz": "97535470"
+      },
+      "album": "Sixpence None The Richer",
+      "duration": 208,
+      "isrc": "USEE19900312"
+    },
+    {
+      "artist": "The Wallflowers",
+      "title": "One Headlight",
+      "services": {
+        "qobuz": "131792855"
+      },
+      "album": "Bringing Down The Horse",
+      "duration": 313,
+      "isrc": "USIR19600462"
+    },
+    {
+      "artist": "Spin Doctors",
+      "title": "Two Princes",
+      "services": {
+        "qobuz": "3848946"
+      },
+      "album": "Pocket Full Of Kryptonite (Anniversary Edition)",
+      "duration": 256,
+      "isrc": "USSM19000350"
+    },
+    {
+      "artist": "Joan Osborne",
+      "title": "One Of Us",
+      "services": {
+        "qobuz": "27865204"
+      },
+      "album": "Relish",
+      "duration": 321,
+      "isrc": "USPR39500200"
+    },
+    {
+      "artist": "Tal Bachman",
+      "title": "She's so High",
+      "services": {
+        "qobuz": "4858386"
+      },
+      "album": "Tal Bachman",
+      "duration": 224,
+      "isrc": "USSM19802720"
+    },
+    {
+      "artist": "New Radicals",
+      "title": "You Get What You Give",
+      "services": {
+        "qobuz": "499646"
+      },
+      "album": "Maybe You've Been Brainwashed Too",
+      "duration": 300,
+      "isrc": "USMC19858327"
+    },
+    {
+      "artist": "Lifehouse",
+      "title": "Hanging By A Moment",
+      "services": {
+        "qobuz": "13368880"
+      },
+      "album": "No Name Face",
+      "duration": 218,
+      "isrc": "USDW10022031"
+    },
+    {
+      "artist": "The Corrs",
+      "title": "Breathless",
+      "services": {
+        "qobuz": "2999826"
+      },
+      "album": "In Blue",
+      "duration": 207,
+      "isrc": "USAT20001907"
+    },
+    {
+      "artist": "Train",
+      "title": "Drops of Jupiter (Tell Me)",
+      "services": {
+        "qobuz": "14069842"
+      },
+      "album": "Drops Of Jupiter",
+      "duration": 259,
+      "isrc": "USSM10019751"
+    },
+    {
+      "artist": "Michelle Branch",
+      "title": "Everywhere",
+      "services": {
+        "qobuz": "2770602"
+      },
+      "album": "The Spirit Room",
+      "duration": 215,
+      "isrc": "USMV20100080"
+    },
+    {
+      "artist": "John Mayer",
+      "title": "No Such Thing",
+      "services": {
+        "qobuz": "435828"
+      },
+      "album": "Room For Squares",
+      "duration": 231,
+      "isrc": "USSM10102940"
+    },
+    {
+      "artist": "Vanessa Carlton",
+      "title": "A Thousand Miles",
+      "services": {
+        "qobuz": "3879319"
+      },
+      "album": "Be Not Nobody",
+      "duration": 236,
+      "isrc": "USIR10210955"
+    },
+    {
+      "artist": "Maroon 5",
+      "title": "This Love",
+      "services": {
+        "qobuz": "54712755"
+      },
+      "album": "Songs About Jane",
+      "duration": 207,
+      "isrc": "USJAY0300080"
+    },
+    {
+      "artist": "Sheryl Crow",
+      "title": "Soak Up The Sun",
+      "services": {
+        "qobuz": "26171088"
+      },
+      "album": "Hits And Rarities",
+      "duration": 291,
+      "isrc": "USAM10200092"
+    },
+    {
+      "artist": "Kelly Clarkson",
+      "title": "Since U Been Gone",
+      "services": {
+        "qobuz": "28389997"
+      },
+      "album": "Breakaway",
+      "duration": 189,
+      "isrc": "GBCTA0400231"
+    },
+    {
+      "artist": "Gavin DeGraw",
+      "title": "I Don't Want to Be",
+      "services": {
+        "qobuz": "205742"
+      },
+      "album": "Chariot",
+      "duration": 217,
+      "isrc": "USJAY0300148"
+    },
+    {
+      "artist": "The Fray",
+      "title": "Over My Head (Cable Car)",
+      "services": {
+        "qobuz": "406117"
+      },
+      "album": "Over My Head (Cable Car)",
+      "duration": 236,
+      "isrc": "USSM10502369"
+    },
+    {
+      "artist": "KT Tunstall",
+      "title": "Suddenly I See",
+      "services": {
+        "qobuz": "811016"
+      },
+      "album": "Eye To The Telescope",
+      "duration": 201,
+      "isrc": "GBGLM0400069"
+    },
+    {
+      "artist": "The Script",
+      "title": "Breakeven",
+      "services": {
+        "qobuz": "13023489"
+      },
+      "album": "The Script",
+      "duration": 261,
+      "isrc": "GBARL0800147"
+    },
+    {
+      "artist": "OneRepublic",
+      "title": "Counting Stars",
+      "services": {
+        "qobuz": "16980926"
+      },
+      "album": "Native",
+      "duration": 255,
+      "isrc": "USUM71301306"
+    },
+    {
+      "artist": "P!nk",
+      "title": "So What",
+      "services": {
+        "qobuz": "60465100"
+      },
+      "album": "Funhouse (Expanded Edition)",
+      "duration": 215,
+      "isrc": "USLF20800067"
+    },
+    {
+      "artist": "Sara Bareilles",
+      "title": "Love Song",
+      "services": {
+        "qobuz": "4840567"
+      },
+      "album": "Little Voice",
+      "duration": 258,
+      "isrc": "USSM10700066"
+    },
+    {
+      "artist": "Daughtry",
+      "title": "It's Not Over",
+      "services": {
+        "qobuz": "380958"
+      },
+      "album": "Daughtry",
+      "duration": 215,
+      "isrc": "GBCTA0600228"
+    },
+    {
+      "artist": "Daniel Powter",
+      "title": "Bad Day",
+      "services": {
+        "qobuz": "2267355"
+      },
+      "album": "Daniel Powter",
+      "duration": 234,
+      "isrc": "USWB10401971"
+    },
+    {
+      "artist": "The Calling",
+      "title": "Wherever You Will Go",
+      "services": {
+        "qobuz": "3112508"
+      },
+      "album": "Camino Palmero",
+      "duration": 208,
+      "isrc": "USRC10001047"
+    },
+    {
+      "artist": "Hoobastank",
+      "title": "The Reason",
+      "services": {
+        "qobuz": "59090544"
+      },
+      "album": "The Reason",
+      "duration": 232,
+      "isrc": "USIR20300704"
+    },
+    {
+      "artist": "Juanes",
+      "title": "La Camisa Negra",
+      "services": {
+        "qobuz": "3869579"
+      },
+      "album": "Mi Sangre",
+      "duration": 215,
+      "isrc": "USUL10400965"
+    },
+    {
+      "artist": "Mana",
+      "title": "Labios Compartidos",
+      "services": {
+        "qobuz": "3021083"
+      },
+      "album": "Amar Es Combatir",
+      "duration": 319,
+      "isrc": "MXF150600448"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "title": "Demons",
+      "services": {
+        "qobuz": "7593470"
+      },
+      "album": "Night Visions",
+      "duration": 176,
+      "isrc": "USUM71201071"
+    },
+    {
+      "artist": "Lawson",
+      "title": "Standing In The Dark",
+      "services": {
+        "qobuz": "27419621"
+      },
+      "album": "Lawson - EP",
+      "duration": 211,
+      "isrc": "GBUM71205638"
+    },
+    {
+      "artist": "5 Seconds Of Summer",
+      "title": "Youngblood",
+      "services": {
+        "qobuz": "48486384"
+      },
+      "album": "Youngblood",
+      "duration": 203,
+      "isrc": "GBUM71800366"
+    },
+    {
+      "artist": "Panic! At The Disco",
+      "title": "High Hopes",
+      "services": {
+        "qobuz": "49804593"
+      },
+      "album": "High Hopes",
+      "duration": 192,
+      "isrc": "USAT21801174"
+    },
+    {
+      "artist": "Busted",
+      "title": "Year 3000",
+      "services": {
+        "qobuz": "3878407"
+      },
+      "album": "Busted",
+      "duration": 195,
+      "isrc": "GBAAN0201145"
+    },
+    {
+      "artist": "McFly",
+      "title": "Five Colours In Her Hair",
+      "services": {
+        "qobuz": "9015685"
+      },
+      "album": "Room On The 3rd Floor",
+      "duration": 177,
+      "isrc": "GBAAN0400517"
+    },
+    {
+      "artist": "Jonas Brothers",
+      "title": "Sucker",
+      "services": {
+        "qobuz": "62426715"
+      },
+      "album": "Happiness Begins",
+      "duration": 181,
+      "isrc": "USUG11900515"
+    },
+    {
+      "artist": "Adam Lambert",
+      "title": "Whataya Want from Me",
+      "services": {
+        "qobuz": "164919"
+      },
+      "album": "For Your Entertainment",
+      "duration": 227,
+      "isrc": "GBCTA0900344"
+    }
+  ]
+}

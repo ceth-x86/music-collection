@@ -1,0 +1,1010 @@
+{
+  "name": "Genre: Avant Prog",
+  "services": {
+    "qobuz": "66737660",
+    "tidal": "eb280ab4-ee82-4ea9-9048-c1e6b1319809"
+  },
+  "description": "Imported genre playlist: Avant Prog.",
+  "tracks": [
+    {
+      "artist": "Captain Beefheart",
+      "title": "Frownland",
+      "services": {
+        "qobuz": "37830200"
+      },
+      "album": "Grow Fins - Rarities 1965-1982",
+      "duration": 110,
+      "isrc": "USF2B9921038"
+    },
+    {
+      "artist": "Van Der Graaf Generator",
+      "title": "A Plague Of Lighthouse Keepers (Medley)",
+      "services": {
+        "qobuz": "4634901"
+      },
+      "album": "Pawn Hearts",
+      "duration": 1391,
+      "isrc": "GBAAA0500207"
+    },
+    {
+      "artist": "Samla Mammas Manna",
+      "title": "Circus Apparatha",
+      "services": {
+        "qobuz": "273986419"
+      },
+      "album": "Samla Mammas Manna",
+      "duration": 364,
+      "isrc": "SELFA0101301"
+    },
+    {
+      "artist": "Gentle Giant",
+      "title": "Knots",
+      "services": {
+        "qobuz": "38506524"
+      },
+      "album": "Octopus",
+      "duration": 252,
+      "isrc": "GB5XG1400033"
+    },
+    {
+      "artist": "Magma",
+      "title": "Hortz fur d\u00ebhn st\u00ebk\u00ebhn west",
+      "services": {
+        "qobuz": "103032292"
+      },
+      "album": "Mekanik destruktiw kommandoh",
+      "duration": 574,
+      "isrc": "FRP1N1803010"
+    },
+    {
+      "artist": "King Crimson",
+      "title": "Larks' Tongues In Aspic (Part I)",
+      "services": {
+        "qobuz": "49289925"
+      },
+      "album": "Larks' Tongues In Aspic (Expanded & Remastered Original Album Mix)",
+      "duration": 815,
+      "isrc": "GBCTX1400808"
+    },
+    {
+      "artist": "Slapp Happy",
+      "title": "Casablanca Moon",
+      "services": {
+        "qobuz": "12566425"
+      },
+      "album": "Casablanca Moon/Desperate Straights",
+      "duration": 169,
+      "isrc": "GBAAA7400247"
+    },
+    {
+      "artist": "Henry Cow",
+      "title": "Living in the Heart of the Beast",
+      "services": {
+        "qobuz": "104264682"
+      },
+      "album": "In Praise of Learning",
+      "duration": 972,
+      "isrc": "UKBUU1900122"
+    },
+    {
+      "artist": "Cos",
+      "title": "Viva Boma",
+      "services": {
+        "qobuz": "206274369"
+      },
+      "album": "Funky Chicken: Belgian Grooves From The 70's",
+      "duration": 155,
+      "isrc": "BEN581400130"
+    },
+    {
+      "artist": "Etron Fou Leloublan",
+      "title": "L'amulette et le petit rabbin",
+      "services": {
+        "qobuz": "22891056"
+      },
+      "album": "Batelages",
+      "duration": 1088,
+      "isrc": "FR10E0704130"
+    },
+    {
+      "artist": "Art Zoyd",
+      "title": "Brigades sp\u00e9ciales",
+      "services": {
+        "qobuz": "6069163"
+      },
+      "album": "Symphonie pour le jour o\u00f9 br\u00fbleront les cit\u00e9s",
+      "duration": 801,
+      "isrc": "FR6V88500401"
+    },
+    {
+      "artist": "Picchio dal Pozzo",
+      "title": "Adriatico",
+      "services": {
+        "qobuz": "199650382"
+      },
+      "album": "Picnic@valdapozzo",
+      "duration": 515,
+      "isrc": "ITP800400013"
+    },
+    {
+      "artist": "Conventum",
+      "title": "Les criticotteuses",
+      "services": {
+        "qobuz": "171558195"
+      },
+      "album": "\u00c0 l'aff\u00fbt d'un complot",
+      "duration": 323,
+      "isrc": "CADC41410455"
+    },
+    {
+      "artist": "John Greaves",
+      "title": "Kew. Rhone.",
+      "services": {
+        "qobuz": "38224897"
+      },
+      "album": "Songs",
+      "duration": 327,
+      "isrc": "IT0681700005"
+    },
+    {
+      "artist": "Stormy Six",
+      "title": "L'apprendista",
+      "services": {
+        "qobuz": "45103597"
+      },
+      "album": "L'apprendista",
+      "duration": 339,
+      "isrc": "ITD019700595"
+    },
+    {
+      "artist": "Weidorje",
+      "title": "Elohims voyage",
+      "services": {
+        "qobuz": "19741718"
+      },
+      "album": "Weidorje",
+      "duration": 993,
+      "isrc": "FR0I57800050"
+    },
+    {
+      "artist": "Frank Zappa",
+      "title": "The Black Page #1",
+      "services": {
+        "qobuz": "54319337"
+      },
+      "album": "L\u00c4THER",
+      "duration": 117,
+      "isrc": "USZPE1200932"
+    },
+    {
+      "artist": "Art Bears",
+      "title": "The Winter Wheel",
+      "services": {
+        "qobuz": "297845264"
+      },
+      "album": "The Residents present BUY OR DIE!: Ralph Records 1972-1982",
+      "duration": 187,
+      "isrc": "GBBLY2403932"
+    },
+    {
+      "artist": "Opus Avantra",
+      "title": "Introspezione",
+      "services": {
+        "qobuz": "26016220"
+      },
+      "album": "Introspezione",
+      "duration": 125,
+      "isrc": "ITK197400001"
+    },
+    {
+      "artist": "This Heat",
+      "title": "Testcard (Blue)",
+      "services": {
+        "qobuz": "99157108"
+      },
+      "album": "This Heat",
+      "duration": 45,
+      "isrc": "GBTFC1700009"
+    },
+    {
+      "artist": "The Residents",
+      "title": "Constantinople",
+      "services": {
+        "qobuz": "78214051"
+      },
+      "album": "Duck Stab",
+      "duration": 146,
+      "isrc": "GBBLY1701092"
+    },
+    {
+      "artist": "Univers Z\u00e9ro",
+      "title": "La faulx",
+      "services": {
+        "qobuz": "19538537"
+      },
+      "album": "H\u00e9r\u00e9sie",
+      "duration": 1505,
+      "isrc": "FR10S1435657"
+    },
+    {
+      "artist": "Aksak Maboul",
+      "title": "A Modern Lesson",
+      "services": {
+        "qobuz": "3199023"
+      },
+      "album": "Un peu de l'ame des bandits",
+      "duration": 299,
+      "isrc": "BE6F58000020"
+    },
+    {
+      "artist": "Fred Frith",
+      "title": "Hello Music",
+      "services": {
+        "qobuz": "238669086"
+      },
+      "album": "Guitar Solos",
+      "duration": 91,
+      "isrc": "DEU672400013"
+    },
+    {
+      "artist": "D\u00fcn",
+      "title": "Arrakis",
+      "services": {
+        "qobuz": "53821760"
+      },
+      "album": "Eros",
+      "duration": 578,
+      "isrc": "DEUE11822665"
+    },
+    {
+      "artist": "Rhianna Heyward",
+      "title": "Eskaton",
+      "services": {
+        "qobuz": "352850920"
+      },
+      "album": "Eskaton",
+      "duration": 156,
+      "isrc": "BK4DA2537923"
+    },
+    {
+      "artist": "Massacre",
+      "title": "Killing Time",
+      "services": {
+        "qobuz": "239438502"
+      },
+      "album": "Killing Time",
+      "duration": 174,
+      "isrc": "GBAWA9871133"
+    },
+    {
+      "artist": "Judah & the Lion",
+      "title": "Kickin' da Leaves",
+      "services": {
+        "qobuz": "170319044"
+      },
+      "album": "Kids These Days",
+      "duration": 168,
+      "isrc": "QMGSG1400012"
+    },
+    {
+      "artist": "The Protomen",
+      "title": "V: The Stand (Man or Machine)",
+      "services": {
+        "qobuz": "85486748"
+      },
+      "album": "The Protomen",
+      "duration": 357,
+      "isrc": "USHM20676884"
+    },
+    {
+      "artist": "Slow Crime",
+      "title": "Work That",
+      "services": {
+        "qobuz": "51707604"
+      },
+      "album": "Artistique Music, Vol. 3",
+      "duration": 469,
+      "isrc": "DEW871411116"
+    },
+    {
+      "artist": "The Adrenalin Crew",
+      "title": "Let Me Love You (Until You Learn to Love Yourself)",
+      "services": {
+        "qobuz": "71225976"
+      },
+      "album": "Top 100 Workout Hits Playlist - Over 5 Hours of the Best Workout Tracks Ever! - Perfect for Running, Keep Fit, Exercise, Spinning, Gym, Cardio & Fitness",
+      "duration": 256,
+      "isrc": "QMVRR1204384"
+    },
+    {
+      "artist": "Debile Menthol",
+      "title": "Battre Campagne",
+      "services": {
+        "qobuz": "73001173"
+      },
+      "album": "Emile \u00e0 la campagne",
+      "duration": 456,
+      "isrc": "USX9P0937866"
+    },
+    {
+      "artist": "BADBADNOTGOOD",
+      "title": "City of Mirrors",
+      "services": {
+        "qobuz": "124432395"
+      },
+      "album": "Talk Memory",
+      "duration": 230,
+      "isrc": "GBBKS2100050"
+    },
+    {
+      "artist": "Vi\u00f1u-Vinu",
+      "title": "Le village qui rend fou",
+      "services": {
+        "qobuz": "419803441"
+      },
+      "album": "ALEXIS",
+      "duration": 418,
+      "isrc": "CAEXK2600072"
+    },
+    {
+      "artist": "Cher",
+      "title": "After All (Love Theme From Chances Are)",
+      "services": {
+        "qobuz": "755646"
+      },
+      "album": "Heart Of Stone",
+      "duration": 244,
+      "isrc": "USGF18923912"
+    },
+    {
+      "artist": "Shub Niggurath",
+      "title": "Incipit tragaedia",
+      "services": {
+        "qobuz": "22891049"
+      },
+      "album": "Les morts vont vite",
+      "duration": 946,
+      "isrc": "FR10E8600220"
+    },
+    {
+      "artist": "Culture Club",
+      "title": "I'll Tumble 4 Ya",
+      "services": {
+        "qobuz": "1077526"
+      },
+      "album": "Greatest Hits",
+      "duration": 158,
+      "isrc": "GBAAA0200999"
+    },
+    {
+      "artist": "Muddy Waters",
+      "title": "My Home Is In The Delta",
+      "services": {
+        "qobuz": "25849475"
+      },
+      "album": "Folk Singer",
+      "duration": 240,
+      "isrc": "USMC10200554"
+    },
+    {
+      "artist": "Bedouine",
+      "title": "Under the Night",
+      "services": {
+        "qobuz": "109634076"
+      },
+      "album": "Bird Songs of a Killjoy",
+      "duration": 198,
+      "isrc": "QMDN21900015"
+    },
+    {
+      "artist": "Otto",
+      "title": "WISHFUL THINKING = MISERY",
+      "services": {
+        "qobuz": "365064403"
+      },
+      "album": "The Plague Doctor Mixtape",
+      "duration": 94,
+      "isrc": "QT6E72580679"
+    },
+    {
+      "artist": "Lucy Dacus",
+      "title": "Most Wanted Man",
+      "services": {
+        "qobuz": "326745082"
+      },
+      "album": "Forever Is A Feeling",
+      "duration": 234,
+      "isrc": "USUG12409113"
+    },
+    {
+      "artist": "Midnight Totem",
+      "title": "Do U Remember",
+      "services": {
+        "qobuz": "288083940"
+      },
+      "album": "Persephone",
+      "duration": 215,
+      "isrc": "GX53U2308528"
+    },
+    {
+      "artist": "Naked City",
+      "title": "Batman",
+      "services": {
+        "qobuz": "87124216"
+      },
+      "album": "Naked City Live vol. 1: Knitting Factory 1989",
+      "duration": 126,
+      "isrc": "USCRW0233601"
+    },
+    {
+      "artist": "Mr. Bungle",
+      "title": "Quote Unquote",
+      "services": {
+        "qobuz": "2934276"
+      },
+      "album": "Mr. Bungle",
+      "duration": 416,
+      "isrc": "USWB19903992"
+    },
+    {
+      "artist": "Doctor Nerve",
+      "title": "Armed Observation",
+      "services": {
+        "qobuz": "74857890"
+      },
+      "album": "Every Screaming Ear",
+      "duration": 148,
+      "isrc": "USG940610081"
+    },
+    {
+      "artist": "Painkiller",
+      "title": "Guts of a Virgin",
+      "services": {
+        "qobuz": "94935751"
+      },
+      "album": "Guts of a Virgin - Buried Secrets",
+      "duration": 74,
+      "isrc": "GBBPB0702025"
+    },
+    {
+      "artist": "GIMS",
+      "title": "One Shot",
+      "services": {
+        "qobuz": "12668851"
+      },
+      "album": "Subliminal",
+      "duration": 206,
+      "isrc": "FR7U61200124"
+    },
+    {
+      "artist": "S.G. Goodman",
+      "title": "Teeth Marks",
+      "services": {
+        "qobuz": "147256844"
+      },
+      "album": "Teeth Marks",
+      "duration": 217,
+      "isrc": "USUG12106307"
+    },
+    {
+      "artist": "Evil Mothers",
+      "title": "Spider Sex And Car Wrecks (Auto Bondage Mix)",
+      "services": {
+        "qobuz": "64463709"
+      },
+      "album": "Beatings (The Incriminating Fruit)",
+      "duration": 389,
+      "isrc": "USA370516360"
+    },
+    {
+      "artist": "The Barleycorn",
+      "title": "Where Is The Man Who Does Not Love The Land Where He Was Born",
+      "services": {
+        "qobuz": "68236489"
+      },
+      "album": "Irish Songs Of Freedom - Volume 2",
+      "duration": 194,
+      "isrc": "GBHFP0904922"
+    },
+    {
+      "artist": "Ruins",
+      "title": "Hyderomastgroningem",
+      "services": {
+        "qobuz": "87122086"
+      },
+      "album": "Hyderomastgroningem",
+      "duration": 86,
+      "isrc": "USCRW9520201"
+    },
+    {
+      "artist": "Juliette Armanet",
+      "title": "Le Dernier Jour du Disco",
+      "services": {
+        "qobuz": "133058837"
+      },
+      "album": "Br\u00fbler le feu",
+      "duration": 207,
+      "isrc": "FRUM72101697"
+    },
+    {
+      "artist": "X-Legged Sally",
+      "title": "Out of the Pit",
+      "services": {
+        "qobuz": "82060078"
+      },
+      "album": "Compilation X-Legged Sally",
+      "duration": 179,
+      "isrc": "BEZ251425504"
+    },
+    {
+      "artist": "Cardiacs",
+      "title": "Tarred And Feathered",
+      "services": {
+        "qobuz": "111464555"
+      },
+      "album": "Songs For Ships And Irons",
+      "duration": 210,
+      "isrc": "GB3748500002"
+    },
+    {
+      "artist": "Prasad K Shetty",
+      "title": "Once a Happy Family",
+      "services": {
+        "qobuz": "372674014"
+      },
+      "album": "Dharma Chavadi (Original Motion Picture Soundtrack)",
+      "duration": 107,
+      "isrc": "QT6652527234"
+    },
+    {
+      "artist": "S-Tee",
+      "title": "BILLETS & ELASTIQUES",
+      "services": {
+        "qobuz": "211381725"
+      },
+      "album": "CASH MACHINE THERAPY",
+      "duration": 127,
+      "isrc": "QZHN92359951"
+    },
+    {
+      "artist": "Sc Static",
+      "title": "Mr. E (Dedication to Braetan)",
+      "services": {
+        "qobuz": "303289140"
+      },
+      "album": "Third Person",
+      "duration": 270,
+      "isrc": "TCAIZ2486847"
+    },
+    {
+      "artist": "Igor Krutogolov's Toy Orchestra",
+      "title": "Ground Zero: Consume Red",
+      "services": {
+        "qobuz": "128012674"
+      },
+      "album": "Ground Zero: Consume Red",
+      "duration": 3376,
+      "isrc": "IL4402000394"
+    },
+    {
+      "artist": "The Flying Luttenbachers",
+      "title": "Demonic Velocities/ 20,000,000 Volts",
+      "services": {
+        "qobuz": "48839632"
+      },
+      "album": "Destroy All Music",
+      "duration": 229,
+      "isrc": "USA2B1600623"
+    },
+    {
+      "artist": "Koenjihyakkei",
+      "title": "Vleztemtraiv",
+      "services": {
+        "qobuz": "73710780"
+      },
+      "album": "Dhorimviskha",
+      "duration": 618,
+      "isrc": "USA2B1802525"
+    },
+    {
+      "artist": "The Bats",
+      "title": "A Line To The Stars",
+      "services": {
+        "qobuz": "344253681"
+      },
+      "album": "Corner Coming Up",
+      "duration": 184,
+      "isrc": "NZFN02500102"
+    },
+    {
+      "artist": "Steven Osborne",
+      "title": "Debussy: Pi\u00e8ce pour le V\u00eatement du bless\u00e9 \"Page d'album\", CD 141",
+      "services": {
+        "qobuz": "356917916"
+      },
+      "album": "\"Bal fant\u00f4me\": Romantic works",
+      "duration": 64,
+      "isrc": "GBAJY2239020"
+    },
+    {
+      "artist": "The Dillinger Escape Plan",
+      "title": "43% Burnt",
+      "services": {
+        "qobuz": "60616351"
+      },
+      "album": "Calculating Infinity",
+      "duration": 271,
+      "isrc": "US2649942702"
+    },
+    {
+      "artist": "The Bicycle Thieves",
+      "title": "Autumn Leaves",
+      "services": {
+        "qobuz": "125935920"
+      },
+      "album": "Stolen Moment",
+      "duration": 173,
+      "isrc": "GBBLY2105123"
+    },
+    {
+      "artist": "Improbable Beasts",
+      "title": "Riistomaasiirta\u0308ja\u0308 (Live)",
+      "services": {
+        "qobuz": "422356886"
+      },
+      "album": "Live in Arizona",
+      "duration": 253,
+      "isrc": "DEZC62679521"
+    },
+    {
+      "artist": "French TV",
+      "title": "The Kokonino Stomp",
+      "services": {
+        "qobuz": "76107163"
+      },
+      "album": "The Violence of Amateurs",
+      "duration": 280,
+      "isrc": "USCGJ1070904"
+    },
+    {
+      "artist": "J.J. Barnes",
+      "title": "No Ifs Ands Or Buts",
+      "services": {
+        "qobuz": "358020401"
+      },
+      "album": "Born Again",
+      "duration": 217,
+      "isrc": "QZAKB2528192"
+    },
+    {
+      "artist": "Bubblemath",
+      "title": "Miscreant Citizen",
+      "services": {
+        "qobuz": "69131804"
+      },
+      "album": "Such Fine Particles of the Universe",
+      "duration": 257,
+      "isrc": "USHM80638236"
+    },
+    {
+      "artist": "Korekyojinn",
+      "title": "Swan Dive",
+      "services": {
+        "qobuz": "72872211"
+      },
+      "album": "Tundra",
+      "duration": 491,
+      "isrc": "USKBH1100089"
+    },
+    {
+      "artist": "Upsilon Acrux",
+      "title": "Pitch Mountain: Maps",
+      "services": {
+        "qobuz": "181618028"
+      },
+      "album": "Sun Square Dialect",
+      "duration": 377,
+      "isrc": "QZTAS2222808"
+    },
+    {
+      "artist": "Limp Bizkit",
+      "title": "Rollin' (Air Raid Vehicle)",
+      "services": {
+        "qobuz": "25847716"
+      },
+      "album": "Chocolate Starfish And The Hot Dog Flavored Water",
+      "duration": 214,
+      "isrc": "USIR10001170"
+    },
+    {
+      "artist": "Kayo Dot",
+      "title": "The Manifold Curiosity",
+      "services": {
+        "qobuz": "87115493"
+      },
+      "album": "Choirs Of The Eye",
+      "duration": 868,
+      "isrc": "USCRW0309203"
+    },
+    {
+      "artist": "Yowie",
+      "title": "Ineffable Dolphin Communion",
+      "services": {
+        "qobuz": "73709729"
+      },
+      "album": "Synchromysticism",
+      "duration": 383,
+      "isrc": "USA2B1701161"
+    },
+    {
+      "artist": "Estradasphere",
+      "title": "Buck Fever",
+      "services": {
+        "qobuz": "52225971"
+      },
+      "album": "Buck Fever",
+      "duration": 345,
+      "isrc": "USA3V0400073"
+    },
+    {
+      "artist": "Secret Chiefs 3",
+      "title": "The 4 (Creat Ishraqi Sun)",
+      "services": {
+        "qobuz": "52231456"
+      },
+      "album": "Book of Horizons",
+      "duration": 216,
+      "isrc": "USA3V0400016"
+    },
+    {
+      "artist": "Sleepytime Gorilla Museum",
+      "title": "A Hymn To The Morning Star",
+      "services": {
+        "qobuz": "52208462"
+      },
+      "album": "Of Natural History",
+      "duration": 340,
+      "isrc": "USA3V0400184"
+    },
+    {
+      "artist": "The Mars Volta",
+      "title": "Cassandra Gemini",
+      "services": {
+        "qobuz": "2311175"
+      },
+      "album": "Frances the Mute",
+      "duration": 285,
+      "isrc": "USUR10401178"
+    },
+    {
+      "artist": "Soapkills",
+      "title": "Aranis & Koullou Ndif",
+      "services": {
+        "qobuz": "24135859"
+      },
+      "album": "Enta Fen",
+      "duration": 202,
+      "isrc": "BE6F51500810"
+    },
+    {
+      "artist": "Big L",
+      "title": "Put It On",
+      "services": {
+        "qobuz": "33110"
+      },
+      "album": "Lifestylez Ov Da Poor & Dangerous",
+      "duration": 217,
+      "isrc": "USSM10022977"
+    },
+    {
+      "artist": "Battles",
+      "title": "Atlas",
+      "services": {
+        "qobuz": "3776541"
+      },
+      "album": "Mirrored",
+      "duration": 426,
+      "isrc": "GBBPW0700009"
+    },
+    {
+      "artist": "Cosa Brava",
+      "title": "Soul of the Machine",
+      "services": {
+        "qobuz": "6202560"
+      },
+      "album": "The Letter",
+      "duration": 131,
+      "isrc": "CH2701201660"
+    },
+    {
+      "artist": "Laufey",
+      "title": "What Love Will Do to You",
+      "services": {
+        "qobuz": "177776203"
+      },
+      "album": "Everything I Know About Love",
+      "duration": 171,
+      "isrc": "GBKPL2298393"
+    },
+    {
+      "artist": "Universal Totem Orchestra",
+      "title": "Terra cava",
+      "services": {
+        "qobuz": "37400819"
+      },
+      "album": "Mathematical Mother",
+      "duration": 846,
+      "isrc": "ITV111619801"
+    },
+    {
+      "artist": "Liselotte Rebmann",
+      "title": "Hojotoho! Hojotoho! \"Walk\u00fcrenritt\" - War't ihr K\u00fchnen zu zwei?",
+      "services": {
+        "qobuz": "34217372"
+      },
+      "album": "Wagner : Die Walk\u00fcre",
+      "duration": 489,
+      "isrc": "DEF056630041"
+    },
+    {
+      "artist": "Guapo",
+      "title": "King Lindorm",
+      "services": {
+        "qobuz": "46843567"
+      },
+      "album": "Elixirs",
+      "duration": 940,
+      "isrc": "US4JA0810040"
+    },
+    {
+      "artist": "Panzerpappa",
+      "title": "Snill Sang P\u00e5 B\u00e5nd",
+      "services": {
+        "qobuz": "196566471"
+      },
+      "album": "Koralrevens Klagesang",
+      "duration": 359,
+      "isrc": "NOX9X3592005"
+    },
+    {
+      "artist": "Panzerfaust",
+      "title": "The Jerusalem Syndrome",
+      "services": {
+        "qobuz": "37474541"
+      },
+      "album": "The Lucifer Principle",
+      "duration": 477,
+      "isrc": "QMBZ91664320"
+    },
+    {
+      "artist": "Le Grand Sbam",
+      "title": "La trace",
+      "services": {
+        "qobuz": "104969404"
+      },
+      "album": "Furvent",
+      "duration": 1125,
+      "isrc": "FR6LT2066640"
+    },
+    {
+      "artist": "Pryapisme",
+      "title": "I - Petit trait\u00e9 de futurologie sur l'Homo cretinus trampolinis (et son annexe sur les nageoires caudales)",
+      "services": {
+        "qobuz": "195169673"
+      },
+      "album": "Futurologie",
+      "duration": 119,
+      "isrc": "USY251400813"
+    },
+    {
+      "artist": "Y\u016bgen",
+      "title": "Brachilogia",
+      "services": {
+        "qobuz": "100892643"
+      },
+      "album": "Mirrors",
+      "duration": 189,
+      "isrc": "USHM81315590"
+    },
+    {
+      "artist": "Panzerballett",
+      "title": "Typewriter II",
+      "services": {
+        "qobuz": "27404667"
+      },
+      "album": "Breaking Brain",
+      "duration": 373,
+      "isrc": "DENC11500238"
+    },
+    {
+      "artist": "Schnellertollermeier",
+      "title": "X (Single Version)",
+      "services": {
+        "qobuz": "72567536"
+      },
+      "album": "X (Single Version)",
+      "duration": 391,
+      "isrc": "US9351540207"
+    },
+    {
+      "artist": "Setna",
+      "title": "Guerison (b)",
+      "services": {
+        "qobuz": "113416934"
+      },
+      "album": "Guerison",
+      "duration": 288,
+      "isrc": "GBSMU1772029"
+    },
+    {
+      "artist": "Chromb!",
+      "title": "Fredilippe",
+      "services": {
+        "qobuz": "227527280"
+      },
+      "album": "Cinq",
+      "duration": 126,
+      "isrc": "FR6LT2355501"
+    },
+    {
+      "artist": "Earthless",
+      "title": "Equus October",
+      "services": {
+        "qobuz": "132057378"
+      },
+      "album": "From the Ages",
+      "duration": 345,
+      "isrc": "DED832001117"
+    },
+    {
+      "artist": "PoiL",
+      "title": "Brossaklitt",
+      "services": {
+        "qobuz": "46171604"
+      },
+      "album": "Brossaklitt",
+      "duration": 258,
+      "isrc": "FR9W11402687"
+    },
+    {
+      "artist": "Fitness Music Workout",
+      "title": "Diet at home -BPM60-",
+      "services": {
+        "qobuz": "343173797"
+      },
+      "album": "Home Yoga BGM - Meditation, Stretching & Chillout Sounds",
+      "duration": 218,
+      "isrc": "TCJPY2334124"
+    },
+    {
+      "artist": "The Mercury Tree",
+      "title": "Sympathesizer",
+      "services": {
+        "qobuz": "91785460"
+      },
+      "album": "Permutations",
+      "duration": 282,
+      "isrc": "USHM81668557"
+    },
+    {
+      "artist": "Bent Knee",
+      "title": "Hold Me In",
+      "services": {
+        "qobuz": "65851897"
+      },
+      "album": "You Know What They Mean",
+      "duration": 290,
+      "isrc": "GBDHC1909705"
+    },
+    {
+      "artist": "black midi",
+      "title": "John L",
+      "services": {
+        "qobuz": "119702680"
+      },
+      "album": "Cavalcade",
+      "duration": 313,
+      "isrc": "GBCVZ2000251"
+    }
+  ]
+}

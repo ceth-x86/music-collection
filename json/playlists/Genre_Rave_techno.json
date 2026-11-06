@@ -1,0 +1,980 @@
+{
+  "name": "Genre: Rave techno",
+  "services": {
+    "qobuz": "66720137",
+    "tidal": "1e1445bb-efbe-444c-b630-378528d68392"
+  },
+  "description": "Imported genre playlist: Rave techno.",
+  "tracks": [
+    {
+      "artist": "Joey Beltram",
+      "title": "Energy Flash",
+      "services": {
+        "qobuz": "49810299"
+      },
+      "album": "Classics",
+      "duration": 350,
+      "isrc": "BEZ350800044"
+    },
+    {
+      "artist": "Second Phase",
+      "title": "Mentasm",
+      "services": {
+        "qobuz": "239160071"
+      },
+      "album": "Mentasm",
+      "duration": 274,
+      "isrc": "BEZ350800169"
+    },
+    {
+      "artist": "Basic Channel",
+      "title": "Quadrant Dub I",
+      "services": {
+        "qobuz": "49165165"
+      },
+      "album": "Quadrant Dub",
+      "duration": 936,
+      "isrc": "DEW259400126"
+    },
+    {
+      "artist": "Jeff Mills",
+      "title": "The Bells",
+      "services": {
+        "qobuz": "295033856"
+      },
+      "album": "SIGHT SOUND AND SPACE",
+      "duration": 285,
+      "isrc": "USAX10000249"
+    },
+    {
+      "artist": "Dance 2 Trance",
+      "title": "We Came In Peace",
+      "services": {
+        "qobuz": "54877753"
+      },
+      "album": "We Came In Peace",
+      "duration": 364,
+      "isrc": "DEMW61000056"
+    },
+    {
+      "artist": "Orbital",
+      "title": "Chime (Edit)",
+      "services": {
+        "qobuz": "292964718"
+      },
+      "album": "A Beginner's Guide",
+      "duration": 193,
+      "isrc": "GBAAP0200238"
+    },
+    {
+      "artist": "L A  Style",
+      "title": "James Brown Is Dead",
+      "services": {
+        "qobuz": "342854925"
+      },
+      "album": "James Brown Is Dead",
+      "duration": 211,
+      "isrc": "FR96X1759522"
+    },
+    {
+      "artist": "Human Resource",
+      "title": "Dominator",
+      "services": {
+        "qobuz": "378062108"
+      },
+      "album": "Dominator",
+      "duration": 209,
+      "isrc": "NLF711608554"
+    },
+    {
+      "artist": "T99",
+      "title": "Anasthasia",
+      "services": {
+        "qobuz": "33653521"
+      },
+      "album": "Anasthasia",
+      "duration": 275,
+      "isrc": "BEP010491555"
+    },
+    {
+      "artist": "Sonic Youth",
+      "title": "Pacific Coast Highway",
+      "services": {
+        "qobuz": "144266084"
+      },
+      "album": "Sister",
+      "duration": 257,
+      "isrc": "USIR10110404"
+    },
+    {
+      "artist": "Age of Love",
+      "title": "The Age Of Love",
+      "services": {
+        "qobuz": "173238381"
+      },
+      "album": "Rex Club Techno",
+      "duration": 406,
+      "isrc": "BEE329000020"
+    },
+    {
+      "artist": "Outlander",
+      "title": "Vamp",
+      "services": {
+        "qobuz": "48096825"
+      },
+      "album": "Vamp",
+      "duration": 307,
+      "isrc": "BEZ359100101"
+    },
+    {
+      "artist": "N-Joi",
+      "title": "Anthem",
+      "services": {
+        "qobuz": "13263035"
+      },
+      "album": "Anthem",
+      "duration": 243,
+      "isrc": "GBARS9800005"
+    },
+    {
+      "artist": "Cherry Moon Trax",
+      "title": "The House Of House (Yves Deruyter & BY\u00d8RN Remix) [Live At Tomorrowland]",
+      "services": {
+        "qobuz": "288850037"
+      },
+      "album": "Vinyl Only",
+      "duration": 188,
+      "isrc": "BEIW12400706"
+    },
+    {
+      "artist": "Emmanuel Top",
+      "title": "Acid Phase",
+      "services": {
+        "qobuz": "9368355"
+      },
+      "album": "Acid Phase",
+      "duration": 320,
+      "isrc": "FR4LO9400004"
+    },
+    {
+      "artist": "A Guy Called Gerald",
+      "title": "Voodoo Ray",
+      "services": {
+        "qobuz": "290338705"
+      },
+      "album": "Hot Lemonade",
+      "duration": 267,
+      "isrc": "GBGWW0400001"
+    },
+    {
+      "artist": "The Prodigy",
+      "title": "Everybody in the Place",
+      "services": {
+        "qobuz": "2329390"
+      },
+      "album": "What Evil Lurks",
+      "duration": 212,
+      "isrc": "GBBKS9100023"
+    },
+    {
+      "artist": "2 Unlimited",
+      "title": "Get Ready",
+      "services": {
+        "qobuz": "103822069"
+      },
+      "album": "Get Ready",
+      "duration": 326,
+      "isrc": "BEAA11301352"
+    },
+    {
+      "artist": "Channel X",
+      "title": "Rave the Rhythm",
+      "services": {
+        "qobuz": "129843103"
+      },
+      "album": "To the Top",
+      "duration": 219,
+      "isrc": "BEF699400010"
+    },
+    {
+      "artist": "Duran Duran",
+      "title": "I Don't Want Your Love (Shep Pettibone Mix)",
+      "services": {
+        "qobuz": "992199"
+      },
+      "album": "Greatest",
+      "duration": 228,
+      "isrc": "GBAYE8800090"
+    },
+    {
+      "artist": "CJ Bolland",
+      "title": "Camargue 2019",
+      "services": {
+        "qobuz": "208193533"
+      },
+      "album": "Camargue 2019",
+      "duration": 417,
+      "isrc": "GBUR61900067"
+    },
+    {
+      "artist": "Ayreon",
+      "title": "The Prodigy's World",
+      "services": {
+        "qobuz": "141546370"
+      },
+      "album": "The Theory of Everything",
+      "duration": 91,
+      "isrc": "NLR491300004"
+    },
+    {
+      "artist": "Of Monsters and Men",
+      "title": "I Of The Storm",
+      "services": {
+        "qobuz": "24705841"
+      },
+      "album": "Beneath The Skin (Deluxe Version)",
+      "duration": 272,
+      "isrc": "USUG11500409"
+    },
+    {
+      "artist": "Rotterdam Termination Source",
+      "title": "Poing!",
+      "services": {
+        "qobuz": "378268573"
+      },
+      "album": "Happy Hardcore Top 100",
+      "duration": 328,
+      "isrc": "NLC050500057"
+    },
+    {
+      "artist": "Nitzer Ebb",
+      "title": "Let Your Body Learn",
+      "services": {
+        "qobuz": "12844321"
+      },
+      "album": "That Total Age",
+      "duration": 169,
+      "isrc": "GBAJH0400607"
+    },
+    {
+      "artist": "The King's Blues Club",
+      "title": "Clouds of Smoke (A Prophet's Warning)",
+      "services": {
+        "qobuz": "387571338"
+      },
+      "album": "Clouds of Smoke (A Prophet's Warning)",
+      "duration": 459,
+      "isrc": "QZHN32696890"
+    },
+    {
+      "artist": "Armin van Buuren",
+      "title": "Pull Over",
+      "services": {
+        "qobuz": "378235663"
+      },
+      "album": "Armada Music - '90s / '00s Dance Hits, Vol. 1",
+      "duration": 145,
+      "isrc": "NLF711604224"
+    },
+    {
+      "artist": "Eisbrecher",
+      "title": "Volle Kraft voraus",
+      "services": {
+        "qobuz": "20641278"
+      },
+      "album": "Schock",
+      "duration": 196,
+      "isrc": "DEE861400542"
+    },
+    {
+      "artist": "Graveyard",
+      "title": "Breathe In Breathe Out",
+      "services": {
+        "qobuz": "218258715"
+      },
+      "album": "6",
+      "duration": 344,
+      "isrc": "SEYRS2300204"
+    },
+    {
+      "artist": "4 Strings",
+      "title": "Take Me Away (Into The Night)",
+      "services": {
+        "qobuz": "55446078"
+      },
+      "album": "Take Me Away (Into The Night)",
+      "duration": 194,
+      "isrc": "NLC280210001"
+    },
+    {
+      "artist": "LB aka LABAT",
+      "title": "Rave Generator",
+      "services": {
+        "qobuz": "367102739"
+      },
+      "album": "Feel So Good Around U",
+      "duration": 183,
+      "isrc": "FRF1P2500060"
+    },
+    {
+      "artist": "Illegal Substances",
+      "title": "Beach Culture",
+      "services": {
+        "qobuz": "46025797"
+      },
+      "album": "Progressive Goa 2018 - Best of Top 100 Electronic Dance, Acid Techno, House Rave Anthems, Psytrance",
+      "duration": 555,
+      "isrc": "QZ5FN1785617"
+    },
+    {
+      "artist": "Jones & Stephenson",
+      "title": "The First Rebirth",
+      "services": {
+        "qobuz": "107172040"
+      },
+      "album": "The First Rebirth",
+      "duration": 274,
+      "isrc": "BEZ452010447"
+    },
+    {
+      "artist": "Metro Boomin",
+      "title": "Annihilate",
+      "services": {
+        "qobuz": "213129271"
+      },
+      "album": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE",
+      "duration": 231,
+      "isrc": "USUM72308539"
+    },
+    {
+      "artist": "Josh Baker",
+      "title": "Dr Feel Right (feat. The Egyptian Lover & Rome Fortune)",
+      "services": {
+        "qobuz": "358885889"
+      },
+      "album": "Dr Feel Right (feat. The Egyptian Lover & Rome Fortune)",
+      "duration": 146,
+      "isrc": "US38Y2591044"
+    },
+    {
+      "artist": "DJ Misjah",
+      "title": "Access",
+      "services": {
+        "qobuz": "38934704"
+      },
+      "album": "Access",
+      "duration": 422,
+      "isrc": "GBJAJ1400626"
+    },
+    {
+      "artist": "The Ultimate Seduction",
+      "title": "The Ultimate Seduction",
+      "services": {
+        "qobuz": "378235660"
+      },
+      "album": "Armada Music - '90s / '00s Dance Hits, Vol. 1",
+      "duration": 210,
+      "isrc": "NLF711903488"
+    },
+    {
+      "artist": "Charlotte De Witte",
+      "title": "Rave On Time",
+      "services": {
+        "qobuz": "203156047"
+      },
+      "album": "Rave on Time EP",
+      "duration": 353,
+      "isrc": "BE4JP2000001"
+    },
+    {
+      "artist": "Bizarre Inc",
+      "title": "Playing With Knives [Quadrant Mix}",
+      "services": {
+        "qobuz": "2694902"
+      },
+      "album": "Playing With Knives [Quadrant Mix]",
+      "duration": 407,
+      "isrc": "GBHKS0900027"
+    },
+    {
+      "artist": "Miss Jane",
+      "title": "It's a Fine Day",
+      "services": {
+        "qobuz": "135487440"
+      },
+      "album": "It's a Fine Day (2K13 Remixes)",
+      "duration": 247,
+      "isrc": "ITCG91300010"
+    },
+    {
+      "artist": "GRAYSSOKER",
+      "title": "Accord\u00e9on Raveolution",
+      "services": {
+        "qobuz": "217429796"
+      },
+      "album": "Accord\u00e9on Raveolution",
+      "duration": 158,
+      "isrc": "FR9W12240306"
+    },
+    {
+      "artist": "3Phase feat. Dr. Motte",
+      "title": "Der Klang Der Familie",
+      "services": {
+        "qobuz": "5908027"
+      },
+      "album": "Fear Of A Silver Planet mixed by James Holden",
+      "duration": 175,
+      "isrc": "USA2P0749246"
+    },
+    {
+      "artist": "Perplexer",
+      "title": "Acid Folk",
+      "services": {
+        "qobuz": "55165277"
+      },
+      "album": "Acid Folk",
+      "duration": 189,
+      "isrc": "DEP999400015"
+    },
+    {
+      "artist": "Members Of Mayday",
+      "title": "We Are Different",
+      "services": {
+        "qobuz": "199511600"
+      },
+      "album": "The Complete Anthem Collection 1992 - 2007",
+      "duration": 201,
+      "isrc": "DEE190100038"
+    },
+    {
+      "artist": "101 Strings Orchestra",
+      "title": "Barrier X-69",
+      "services": {
+        "qobuz": "51956317"
+      },
+      "album": "The Original Sounds of Psychedelic Chill - A Sonic Fusion of Electronic Phasing, Distorted Guitars and Orchestral Strings",
+      "duration": 135,
+      "isrc": "CAM460430101"
+    },
+    {
+      "artist": "666",
+      "title": "ALARMA!",
+      "services": {
+        "qobuz": "9201878"
+      },
+      "album": "ALARMA!",
+      "duration": 346,
+      "isrc": "DEBL61234322"
+    },
+    {
+      "artist": "Da Hool",
+      "title": "Meet Her at the Loveparade",
+      "services": {
+        "qobuz": "187606094"
+      },
+      "album": "Meet Her at the Loveparade",
+      "duration": 213,
+      "isrc": "DEC719700559"
+    },
+    {
+      "artist": "The Babys",
+      "title": "Union Jack",
+      "services": {
+        "qobuz": "169145527"
+      },
+      "album": "Union Jacks",
+      "duration": 341,
+      "isrc": "GBAYK0700044"
+    },
+    {
+      "artist": "Euphoria Dj's",
+      "title": "We Call It Acieed",
+      "services": {
+        "qobuz": "71204380"
+      },
+      "album": "Top 40 Rave Anthems - 40 Uplifting Classic Old Skool Trance, Acid, Techno & House Club Anthems",
+      "duration": 189,
+      "isrc": "QMVRR1333352"
+    },
+    {
+      "artist": "Smooth Jazz All Stars",
+      "title": "All Around the World",
+      "services": {
+        "qobuz": "24044534"
+      },
+      "album": "80's R&B",
+      "duration": 264,
+      "isrc": "USG7D1514601"
+    },
+    {
+      "artist": "Sleaford Mods",
+      "title": "Elitest G.O.A.T.",
+      "services": {
+        "qobuz": "397833967"
+      },
+      "album": "Elitest G.O.A.T.",
+      "duration": 270,
+      "isrc": "GBCVZ2600014"
+    },
+    {
+      "artist": "The Flaming Lips",
+      "title": "Are You a Hypnotist??",
+      "services": {
+        "qobuz": "39634260"
+      },
+      "album": "Yoshimi Battles the Pink Robots",
+      "duration": 285,
+      "isrc": "USWB11602512"
+    },
+    {
+      "artist": "Soft Cell",
+      "title": "Tainted Love",
+      "services": {
+        "qobuz": "327852146"
+      },
+      "album": "Non-Stop Ecstatic Dancing",
+      "duration": 382,
+      "isrc": "GBUM72501029"
+    },
+    {
+      "artist": "Dr. Motte",
+      "title": "Love Is Stronger",
+      "services": {
+        "qobuz": "272440636"
+      },
+      "album": "Love Is Stronger",
+      "duration": 192,
+      "isrc": "DEY472476205"
+    },
+    {
+      "artist": "Maurice Joshua",
+      "title": "This Is Acid",
+      "services": {
+        "qobuz": "59408272"
+      },
+      "album": "MJD Trax Vol. 1",
+      "duration": 385,
+      "isrc": "USAH91102562"
+    },
+    {
+      "artist": "INYU Music",
+      "title": "Epic Rave in Space",
+      "services": {
+        "qobuz": "372414755"
+      },
+      "album": "Can't Stop Me Now",
+      "duration": 198,
+      "isrc": "QT6652519783"
+    },
+    {
+      "artist": "The Kansas City Six",
+      "title": "Four O'Clock Drag",
+      "services": {
+        "qobuz": "1362243"
+      },
+      "album": "Jazzuela. Julio Cort\u00e1zar y el Jazz",
+      "duration": 173,
+      "isrc": "ES6109944403"
+    },
+    {
+      "artist": "Baby D",
+      "title": "Let Me Be Your Fantasy",
+      "services": {
+        "qobuz": "206056498"
+      },
+      "album": "Let Me Be Your Fantasy EP",
+      "duration": 231,
+      "isrc": "GBBFF0900106"
+    },
+    {
+      "artist": "Suduaya",
+      "title": "House of the Flying People",
+      "services": {
+        "qobuz": "119407232"
+      },
+      "album": "Full Moon Dance Party DJ Mix 100 Hits 2014 - Top Progressive Goa Psytrance Rave Festival Masters & Acid Techno Hard House",
+      "duration": 487,
+      "isrc": "TCABX1446697"
+    },
+    {
+      "artist": "DJ Rolando",
+      "title": "Knights of the Jaguar",
+      "services": {
+        "qobuz": "214225620"
+      },
+      "album": "Paradise Garage: Inspirations",
+      "duration": 397,
+      "isrc": "DEY471815086"
+    },
+    {
+      "artist": "Darude",
+      "title": "Sandstorm",
+      "services": {
+        "qobuz": "76532604"
+      },
+      "album": "Sandstorm",
+      "duration": 226,
+      "isrc": "FISGC9900001"
+    },
+    {
+      "artist": "Zombie Nation",
+      "title": "Kernkraft 400",
+      "services": {
+        "qobuz": "2493624"
+      },
+      "album": "Leichenschmaus",
+      "duration": 285,
+      "isrc": "DEZ200600038"
+    },
+    {
+      "artist": "Mr. Big",
+      "title": "Daddy, Brother, Lover, Little Boy (The Electric Drill Song) - 2021 Remastered - 2021 Remastered",
+      "services": {
+        "qobuz": "123972659"
+      },
+      "album": "Lean Into It (30th Anniversary Edition)",
+      "duration": 236,
+      "isrc": "HKG292100084"
+    },
+    {
+      "artist": "Orbital",
+      "title": "HALCYON + ON + ON",
+      "services": {
+        "qobuz": "46123382"
+      },
+      "album": "Orbital 2",
+      "duration": 567,
+      "isrc": "GBAAP9500471"
+    },
+    {
+      "artist": "Energy 52",
+      "title": "Caf\u00e9 Del Mar",
+      "services": {
+        "qobuz": "99338603"
+      },
+      "album": "Anthems 02: Caf\u00e9 Del Mar",
+      "duration": 522,
+      "isrc": "DEL029760004"
+    },
+    {
+      "artist": "DJ Jean",
+      "title": "The Launch",
+      "services": {
+        "qobuz": "121082291"
+      },
+      "album": "The Launch",
+      "duration": 220,
+      "isrc": "NLB869900001"
+    },
+    {
+      "artist": "Mauro Picotto",
+      "title": "Komodo (Save A Soul)",
+      "services": {
+        "qobuz": "378315690"
+      },
+      "album": "Komodo (Save A Soul)",
+      "duration": 369,
+      "isrc": "NLF712503086"
+    },
+    {
+      "artist": "Mauro Picotto",
+      "title": "Lizard",
+      "services": {
+        "qobuz": "72061766"
+      },
+      "album": "Lizard",
+      "duration": 213,
+      "isrc": "NLE711900402"
+    },
+    {
+      "artist": "Dimitri Vegas & Like Mike",
+      "title": "The House Of House",
+      "services": {
+        "qobuz": "48179039"
+      },
+      "album": "The House Of House",
+      "duration": 267,
+      "isrc": "BEZ451800600"
+    },
+    {
+      "artist": "Hi-Gate",
+      "title": "Pitchin' (In Every Direction)",
+      "services": {
+        "qobuz": "144643417"
+      },
+      "album": "Pitchin' (In Every Direction)",
+      "duration": 502,
+      "isrc": "GBKQU2207207"
+    },
+    {
+      "artist": "Marco V",
+      "title": "GODD",
+      "services": {
+        "qobuz": "19032203"
+      },
+      "album": "Godd",
+      "duration": 189,
+      "isrc": "NLE800510080"
+    },
+    {
+      "artist": "Chris Liebing",
+      "title": "Fault Line",
+      "services": {
+        "qobuz": "176840002"
+      },
+      "album": "Another Night",
+      "duration": 549,
+      "isrc": "GBR8R2200169"
+    },
+    {
+      "artist": "Paul Glazby",
+      "title": "Acid Disco",
+      "services": {
+        "qobuz": "108526398"
+      },
+      "album": "Vicious Circle: 15 Years Of Hard House - Mixed by Andy Farley",
+      "duration": 363,
+      "isrc": "GBKQU1939708"
+    },
+    {
+      "artist": "CLIQUES.",
+      "title": "Rave Sequence",
+      "services": {
+        "qobuz": "287760797"
+      },
+      "album": "Rave Sequence",
+      "duration": 208,
+      "isrc": "GBFG92400146"
+    },
+    {
+      "artist": "Armin van Buuren",
+      "title": "The Sound Of Goodbye",
+      "services": {
+        "qobuz": "112051318"
+      },
+      "album": "Best Of Female Vocal Trance 2014",
+      "duration": 199,
+      "isrc": "NLC731100012"
+    },
+    {
+      "artist": "DJ Isaac",
+      "title": "Slave To The Rave",
+      "services": {
+        "qobuz": "162359981"
+      },
+      "album": "Slave To The Rave",
+      "duration": 222,
+      "isrc": "NLS762200192"
+    },
+    {
+      "artist": "Kai Tracid",
+      "title": "Wrong or Right",
+      "services": {
+        "qobuz": "126224705"
+      },
+      "album": "Wrong or Right (Acid Rain over Berlin Mix)",
+      "duration": 391,
+      "isrc": "DEOI52000032"
+    },
+    {
+      "artist": "Sam Paganini",
+      "title": "Rave",
+      "services": {
+        "qobuz": "208365963"
+      },
+      "album": "Rave",
+      "duration": 239,
+      "isrc": "GBUR62000418"
+    },
+    {
+      "artist": "Nina Kraviz",
+      "title": "Taxi Talk",
+      "services": {
+        "qobuz": "203469212"
+      },
+      "album": "Marcellus Pittman & Urban Tribe Remixes",
+      "duration": 325,
+      "isrc": "GBLTF1200081"
+    },
+    {
+      "artist": "Get Hard Techno",
+      "title": "I Hate Models",
+      "services": {
+        "qobuz": "394968723"
+      },
+      "album": "Get Hard Techno - Best Hard Techno 2025",
+      "duration": 239,
+      "isrc": "CAENV2530314"
+    },
+    {
+      "artist": "Scratch Massive",
+      "title": "Take me there",
+      "services": {
+        "qobuz": "4589497"
+      },
+      "album": "Nuit de R\u00eave",
+      "duration": 242,
+      "isrc": "FRR641100029"
+    },
+    {
+      "artist": "Mau P",
+      "title": "Your Mind Is Dirty",
+      "services": {
+        "qobuz": "309330824"
+      },
+      "album": "Your Mind Is Dirty",
+      "duration": 198,
+      "isrc": "GBCPZ2321812"
+    },
+    {
+      "artist": "Reinier Zonneveld",
+      "title": "Keine Liebe, Kein Rave",
+      "services": {
+        "qobuz": "199849166"
+      },
+      "album": "Keine Liebe, Kein Rave",
+      "duration": 260,
+      "isrc": "GBKQU2322068"
+    },
+    {
+      "artist": "TOOL",
+      "title": "Wings For Marie (Pt 1)",
+      "services": {
+        "qobuz": "64859950"
+      },
+      "album": "10,000 Days",
+      "duration": 371,
+      "isrc": "USVR10600021"
+    },
+    {
+      "artist": "Unknown Artist",
+      "title": "Vamped",
+      "services": {
+        "qobuz": "281119726"
+      },
+      "album": "Strings / Vamped",
+      "duration": 265,
+      "isrc": "NLCK42412020"
+    },
+    {
+      "artist": "Boris Brejcha",
+      "title": "Rave City",
+      "services": {
+        "qobuz": "255094253"
+      },
+      "album": "Level One",
+      "duration": 514,
+      "isrc": "DEY472472305"
+    },
+    {
+      "artist": "W&W",
+      "title": "Rave From Outer Space",
+      "services": {
+        "qobuz": "401058167"
+      },
+      "album": "Rave From Outer Space",
+      "duration": 131,
+      "isrc": "DEN062600265"
+    },
+    {
+      "artist": "Vitalic",
+      "title": "Stamina",
+      "services": {
+        "qobuz": "365501290"
+      },
+      "album": "Rave Age",
+      "duration": 222,
+      "isrc": "FRU661213602"
+    },
+    {
+      "artist": "Dax J",
+      "title": "Wir Leben F\u00fcr Die Nacht",
+      "services": {
+        "qobuz": "57005809"
+      },
+      "album": "The Invisible Man EP",
+      "duration": 362,
+      "isrc": "GBJX38209003"
+    },
+    {
+      "artist": "Mark Dekoda",
+      "title": "Rave Harder Techno Bass",
+      "services": {
+        "qobuz": "148198961"
+      },
+      "album": "Rave Harder Techno Bass",
+      "duration": 360,
+      "isrc": "DEAR42298309"
+    },
+    {
+      "artist": "Paula Temple",
+      "title": "Ful",
+      "services": {
+        "qobuz": "32255230"
+      },
+      "album": "Deathvox",
+      "duration": 424,
+      "isrc": "BEZ351400124"
+    },
+    {
+      "artist": "R\u00e9ma",
+      "title": "Calm Down",
+      "services": {
+        "qobuz": "149779967"
+      },
+      "album": "Rave & Roses",
+      "duration": 219,
+      "isrc": "NGA3B2214004"
+    },
+    {
+      "artist": "Scooter",
+      "title": "FCK 2020",
+      "services": {
+        "qobuz": "214818561"
+      },
+      "album": "God Save The Rave",
+      "duration": 209,
+      "isrc": "DEN062004625"
+    },
+    {
+      "artist": "Sub Zero Project",
+      "title": "Renaissance Of Rave",
+      "services": {
+        "qobuz": "162979747"
+      },
+      "album": "Renaissance Of Rave",
+      "duration": 197,
+      "isrc": "BEB682200055"
+    },
+    {
+      "artist": "David John & The Mood",
+      "title": "Pretty Thing",
+      "services": {
+        "qobuz": "268504368"
+      },
+      "album": "Having A Rave-Up! The British R&B Sound Of 1964",
+      "duration": 137,
+      "isrc": "GBBLY2302101"
+    },
+    {
+      "artist": "Boys Noize",
+      "title": "SVNDY",
+      "services": {
+        "qobuz": "264597808"
+      },
+      "album": "LVLY",
+      "duration": 324,
+      "isrc": "FRX452475575"
+    },
+    {
+      "artist": "Pink Floyd",
+      "title": "The Great Gig in the Sky",
+      "services": {
+        "qobuz": "193171339"
+      },
+      "album": "The Dark Side Of The Moon (50th Anniversary)",
+      "duration": 283,
+      "isrc": "GBN9Y2200019"
+    }
+  ]
+}

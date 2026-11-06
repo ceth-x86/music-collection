@@ -1,0 +1,108 @@
+# Genre: Psychodelic Rock
+
+Imported genre playlist: Psychodelic Rock.
+
+Services: `qobuz:66738038` `tidal:2c2ac53e-353e-437c-bc55-6b71c7ba9a49`
+
+## Tracks (100)
+
+- **The Yardbirds** — Shapes of Things [Yardbirds '68] (2:30) `isrc:UK92M1400054` `qobuz:78601157`
+- **The Beatles** — Tomorrow Never Knows [Revolver] (2:57) `isrc:GBUM72202557` `qobuz:172443643`
+- **The Byrds** — Eight Miles High [Fifth Dimension] (3:34) `isrc:USSM16600032` `qobuz:48309`
+- **The Beach Boys** — Good Vibrations [Smiley Smile] (3:37) `isrc:USCA21202151` `qobuz:25753352`
+- **The Rolling Stones** — Paint It, Black [Aftermath] (3:22) `isrc:USA171010213` `qobuz:20667412`
+- **Donovan** — Sunshine Superman [Sunshine Superman] (3:15) `isrc:USSM19805194` `qobuz:44791`
+- **Love** — She Comes In Colors [Da Capo] (2:46) `isrc:USEE10100151` `qobuz:3006225`
+- **The 13th Floor Elevators** — You're Gonna Miss Me [The Psychedelic World Of The 13Th Floor Elevators] (2:30) `isrc:USFB20606990` `qobuz:7965570`
+- **The Blues Magoos** — (We Ain't Got) Nothin' Yet [Psychedelic Lollipop] (2:15) `isrc:USIR20200834` `qobuz:54424600`
+- **Count Five** — Psychotic Reaction [Psychotic Reaction] (3:04) `isrc:QMFMK1316006` `qobuz:19986331`
+- **The Electric Prunes** — I Had Too Much to Dream (Last Night) [I Had Too Much To Dream (Last Night)] (2:59) `isrc:USRE16700006` `qobuz:19124041`
+- **The Misunderstood** — I Can Take You to the Sun [Cherry Red Singles Club: 1980-1981] (3:40) `isrc:GBBLY8200603` `qobuz:17854088`
+- **Jefferson Airplane** — White Rabbit [Surrealistic Pillow] (2:30) `isrc:USRC10301017` `qobuz:182841`
+- **The Experienced** — Are You Experienced [The Experience: a tribute to Jimi Hendrix] (4:57) `isrc:GBBLY1103341` `qobuz:142186614`
+- **Pink Floyd** — Interstellar Overdrive [The Piper at the Gates of Dawn] (9:40) `isrc:GBN9Y1100007` `qobuz:47683482`
+- **The Doors** — The End [The Doors] (11:34) `isrc:USEE11200530` `qobuz:7020332`
+- **Small Faces** — Itchycoo Park [Greatest Hits - The Immediate Years 1967-1969] (2:44) `isrc:GBA7H1244605` `qobuz:15813019`
+- **Traffic** — Paper Sun [Mr. Fantasy] (3:33) `isrc:GBAAN0080067` `qobuz:4343220`
+- **The Move** — I Can Hear the Grass Grow [Hits & Rarities - Singles a’s & B’s - The Move] (3:07) `isrc:DESK99991803` `qobuz:221503267`
+- **Strawberry Alarm Clock** — Incense And Peppermints [Incense And Peppermints] (2:47) `isrc:USMC10201063` `qobuz:14934826`
+- **Country Joe & The Fish** — Section 43 [Electric Music For The Mind And Body] (7:26) `isrc:USVG28707016` `qobuz:13036822`
+- **The Pretty Things** — L.S.D. [Get The Picture?] (2:24) `isrc:USA370655061` `qobuz:51075970`
+- **Kaleidoscope** — Flight From Ashiya [Tangerine Dream] (2:40) `isrc:GBF086700618` `qobuz:46290476`
+- **Tomorrow** — My White Bicycle [Tomorrow] (3:19) `isrc:GBAYE1500158` `qobuz:24149527`
+- **The West Coast Pop Art Experimental Band** — Smell of Incense [Vol. 2] (5:51) `isrc:USRE10601413` `qobuz:2856688`
+- **Eric Burdon & The Animals** — San Franciscan Nights [Winds Of Change] (3:19) `isrc:USPR36702773` `qobuz:104710057`
+- **The Hollies** — King Midas in Reverse [The Air That I Breathe - The Very Best of the Hollies] (3:02) `isrc:GBGYU6700010` `qobuz:4457103`
+- **The Monkees** — Daily Nightly [Pisces, Aquarius, Capricorn & Jones Ltd.] (2:32) `isrc:USRH11301407` `qobuz:17376177`
+- **The Peanut Butter Conspiracy** — It's a Happening Thing [The Peanut Butter Conspiracy Is Spreading] (2:24) `isrc:USSM19909558` `qobuz:23314886`
+- **Moby Grape** — Omaha [Crosstalk - The Best Of] (2:45) `isrc:DESK90390305` `qobuz:191920194`
+- **H. P. Lovecraft** — The White Ship (Live) [Live at the Fillmore May 11, 1968] (7:01) `isrc:USCWY0710235` `qobuz:48662118`
+- **The Velvet Underground** — Heroin [The Velvet Underground & Nico - 45th Anniversary] (7:14) `isrc:USPR36702765` `qobuz:33984068`
+- **The Lemon Pipers** — Green Tambourine [Green Tambourine] (2:26) `isrc:USBR16700001` `qobuz:28937007`
+- **Buffalo Springfield** — Mr. Soul [Buffalo Springfield Again] (2:52) `isrc:USRH11508151` `qobuz:35926986`
+- **The Who** — I Can See For Miles [The Who Hits 50] (4:09) `isrc:GBUM70900937` `qobuz:81327199`
+- **The Smoke** — My Friend Jack [It's Smoke Time] (3:05) `isrc:USTC70843302` `qobuz:251492392`
+- **Status Quo** — Pictures of Matchstick Men [Caroline - Status Quo - Best] (3:09) `isrc:DESK99690610` `qobuz:218584847`
+- **Tommy James & The Shondells** — Crimson and Clover (Long Version) [Crimson and Clover] (5:32) `isrc:USRH10450849` `qobuz:173766851`
+- **The Zombies** — Time of the Season [Time of the Season] (3:34) `isrc:GBCBS6732269` `qobuz:241495325`
+- **Iron Butterfly** — In-A-Gadda-Da-Vida [In-A-Gadda-Da-Vida] (17:04) `isrc:USEE10609443` `qobuz:13585185`
+- **The Amboy Dukes** — Journey to the Center of the Mind [Journey To The Center Of The Mind] (3:35) `isrc:USSM16800339` `qobuz:263581115`
+- **Spirit** — Fresh-Garbage [Spirit] (3:11) `isrc:USSM16700045` `qobuz:78046`
+- **Ultimate Spinach** — Mind Flowers [Behold & See] (9:40) `isrc:QT62U2548394` `qobuz:388304886`
+- **July** — The Way [July] (3:29) `isrc:GBAYE0701586` `qobuz:841778`
+- **The Crazy World Of Arthur Brown** — Fire [The Crazy World of Arthur Brown] (2:55) `isrc:GBBLY1605630` `qobuz:191287959`
+- **Fever Tree** — San Francisco Girls (Return Of The Native) [Fever Tree] (4:02) `isrc:USMC10000189` `qobuz:62042531`
+- **The Golden Dawn** — My Time [Power Plant] (3:52) `isrc:GBAWA0353561` `qobuz:81541389`
+- **Nazz** — Open My Eyes [The Complete Nazz] (2:44) `isrc:QM6XS1807183` `qobuz:67532099`
+- **The Chocolate Watch Band** — In The Past [Inner Mystique] (3:07) `isrc:USUMG0401157` `qobuz:54887807`
+- **The Millennium** — To Claudia on Thursday [Begin] (3:25) `isrc:USSM16801609` `qobuz:2694514`
+- **Sagittarius** — My World Fell Down [Present Tense (Expanded Edition)] (2:54) `isrc:USSM16701426` `qobuz:2632229`
+- **The Open Mind** — Magic Potion (Bonus) [The Open Mind] (3:24) `isrc:CYRLD1400068` `qobuz:102088779`
+- **Bubble Puppy** — Hot Smoke and Sassafras [Certified Badass] (2:57) `isrc:USHM81744354` `qobuz:69131500`
+- **Shocking Blue** — Love Buzz [At Home] (3:46) `isrc:NLC286900004` `qobuz:41731094`
+- **Os Mutantes** — Panis Et Circenses [Os Mutantes] (3:39) `isrc:BRPGD6800015` `qobuz:2410164`
+- **It's A Beautiful Day** — White Bird [Live at the Fillmore West, July 1971 (Live)] (9:38) `isrc:CYRLD1402262` `qobuz:27028919`
+- **Quicksilver Messenger Service** — Maiden Of The Cancer Moon [Happy Trails] (2:52) `isrc:USCA28800961` `qobuz:18930965`
+- **Norman Greenbaum** — Spirit In The Sky [Spirit In The Sky] (4:02) `isrc:USRE19600416` `qobuz:61515440`
+- **VANILLA FUDGE** — Season of the Witch [Then and Now] (8:10) `isrc:QMBZ91761003` `qobuz:92444918`
+- **Roots Revival** — Kakolaye Tu [Hazara Music] (6:03) `isrc:QZPJ32378556` `qobuz:275000601`
+- **Alexander 'Skip' Spence** — War In Peace [Oar] (4:02) `isrc:USSM16801041` `qobuz:393506`
+- **Morgen** — Of Dreams [Morgen] (5:38) `isrc:USA2P2120029` `qobuz:122523334`
+- **Grateful Dead** — Dark Star (Single Version) [What a Long Strange Trip It's Been: The Best of the Grateful Dead] (2:41) `isrc:USRH10902598` `qobuz:3113472`
+- **Aphrodite's Child** — It's Five O'Clock [It's Five O'Clock] (3:31) `isrc:NLF056990012` `qobuz:370671326`
+- **Ulaş Kurtuluş Ünlü** — Garip Çoban (feat. Ahu Ünlü) [Akşehir Türküleri] (3:23) `isrc:QT3EX2652751` `qobuz:421492618`
+- **Earth & Fire** — Ruby Is The One [Earth & Fire] (3:25) `isrc:NLA317000026` `qobuz:8939848`
+- **Funkadelic** — Maggot Brain [Maggot Brain] (10:19) `isrc:US25X0588947` `qobuz:159412881`
+- **Rancid** — Telegraph Avenue [Trouble Maker] (3:19) `isrc:USEP41713022` `qobuz:77616473`
+- **Los Dug Dug's** — Eclipse [RCA 100 Años de Música] (2:42) `isrc:MXF019700146` `qobuz:46148986`
+- **The Funkees** — Akula Owu Onyeara [Dancing Time: The Best of Eastern Nigeria's Afro Rock Exponents 1973-77] (7:28) `isrc:GBUQH0800004` `qobuz:148418037`
+- **Kourosh Yaghmaei** — Gole Yakh [Back From The Brink: Pre-Revolution Psychedelic Rock From Iran: 1973-1979] (5:06) `isrc:US2S71166001` `qobuz:5813269`
+- **Erkin Koray** — Mesafeler [Mesafeler] (3:36) `isrc:QMDA61513355` `qobuz:69624126`
+- **Amanaz** — Khala My Friend [Africa] (3:23) `isrc:US2S71523004` `qobuz:23780809`
+- **WITCH** — Black Tears [Lazy Bones!!] (4:54) `isrc:US2S71291020` `qobuz:412689042`
+- **Ngozi Family** — Hi Babe [Day of Judgement] (4:03) `isrc:US2S71415002` `qobuz:188869851`
+- **Rikki Ililonga** — Sunshine Love [Dark Sunrise] (3:13) `isrc:US2S71067029` `qobuz:188866094`
+- **The Soft Boys** — I Wanna Destroy You [Underwater Moonlight] (2:53) `isrc:USY1R1062801` `qobuz:72014873`
+- **The Dream Syndicate** — Tell Me When It's Over [The Days Of Wine And Roses] (3:31) `isrc:GBAAP0400258` `qobuz:2855172`
+- **Rain Parade** — Talking in My Sleep [Emergency Third Rail Power Trip] (3:49) `isrc:USRS70019001` `qobuz:2810647`
+- **The Three O'Clock** — With a Cantaloupe Girlfriend [Baroque Hoedown] (2:54) `isrc:USY1R2073001` `qobuz:110132835`
+- **Television Personalities** — I Know Where Syd Barrett Lives [And Don't the Kids Just Love It] (2:31) `isrc:GBCKK9000208` `qobuz:194473695`
+- **The Cleaners From Venus** — Only a Shadow [Midnight Cleaners] (3:31) `isrc:US8YA1200094` `qobuz:180878563`
+- **Robyn Hitchcock & The Egyptians** — Madonna Of The Wasps [Queen Elvis] (3:05) `isrc:USAM18904276` `qobuz:209077971`
+- **Spacemen 3** — Revolution [Playing With Fire] (5:57) `isrc:GBBJX9811105` `qobuz:238114296`
+- **The Dukes Of Stratosphear** — Vanishing Girl [Chips From The Chocolate Fireball] (2:59) `isrc:GBAAA0100079` `qobuz:1069428`
+- **The Mighty Lemon Drops** — Happy Head [Rollercoaster: The Best of The Mighty Lemon Drops (1986-1989)] (2:27) `isrc:GBAYK8600040` `qobuz:169147853`
+- **The Church** — Under the Milky Way [Starfish (Deluxe Edition)] (4:58) `isrc:USAR18800002` `qobuz:33546473`
+- **The Stone Roses** — I Am The Resurrection [The Stone Roses] (8:13) `isrc:GBAHJ9500041` `qobuz:47004101`
+- **The Olivia Tremor Control** — Jumping Fences [Dusk at Cubist Castle] (1:52) `isrc:USG590610052` `qobuz:20821067`
+- **Djakarta** — Anemone [Anemone] (4:19) `isrc:FREC02300030` `qobuz:238672671`
+- **Mercury Rev** — Goddess on a Hiway [Deserter's Songs] (3:45) `isrc:GBUM71102311` `qobuz:97843882`
+- **The Flaming Lips** — Race for the Prize [The Soft Bulletin] (4:18) `isrc:USWB11602529` `qobuz:41508828`
+- **The Dandy Warhols** — Not If You Were The Last Junkie On Earth [The Dandy Warhols Come Down] (3:11) `isrc:USCA29600198` `qobuz:194789012`
+- **Dungen** — Ta det lugnt [Ta det lugnt] (7:43) `isrc:SEWRL0400205` `qobuz:102028406`
+- **The Black Angels** — Young Men Dead [Passover] (5:32) `isrc:USDEA0601801` `qobuz:313171994`
+- **MGMT** — Electric Feel [Oracular Spectacular] (3:49) `isrc:USSM10702131` `qobuz:16631`
+- **Tame Impala** — Feels Like We Only Go Backwards [Lonerism] (3:11) `isrc:AUUM71200493` `qobuz:8524919`
+- **King Gizzard & The Lizard Wizard** — Float Along – Fill Your Lungs [Float Along – Fill Your Lungs] (6:45) `isrc:AUDJ01300993` `qobuz:210000224`
+- **Temples** — Shelter Song [Sun Structures] (3:10) `isrc:UK32S2222351` `qobuz:14521366`
+- **Kikagaku Moyo** — Dripping Sun [Masana Temples] (7:50) `isrc:TCADT1851279` `qobuz:124546053`

@@ -1,0 +1,108 @@
+# Genre: Dream Pop
+
+Imported genre playlist: Dream Pop.
+
+Services: `qobuz:66732534` `tidal:e125c16c-a390-455c-b9cf-a054323b827d`
+
+## Tracks (100)
+
+- **This Mortal Coil** — Song To The Siren [It'll End In Tears] (3:31) `isrc:GBAFL1100048` `qobuz:102873807`
+- **Felt** — Primitive Painters [Primitive Painters] (6:02) `isrc:GBBLY1601493` `qobuz:91142148`
+- **For Against** — Autocrat [Echelons] (3:50) `isrc:USAQP0501406` `qobuz:59943672`
+- **LowLife** — Given To Dreaming [Diminuendo + Singles] (3:41) `isrc:GBHBR0401482` `qobuz:50570870`
+- **Polysics** — Rocket [We ate the machine] (2:55) `isrc:JPKS00701243` `qobuz:95566126`
+- **Hugo Largo** — Second Skin [Drum] (3:16) `isrc:QMVYL2300028` `qobuz:271983842`
+- **The Church** — Under the Milky Way [Starfish (Deluxe Edition)] (4:58) `isrc:USAR18800002` `qobuz:33546473`
+- **The House Of Love** — Christine [The House of Love (Deluxe Edition)] (3:27) `isrc:GBBLY1202611` `qobuz:136321028`
+- **Ultra Vivid Scene** — Mercy Seat [Ultra Vivid Scene] (4:09) `isrc:GBAFL8800006` `qobuz:2534333`
+- **A.R. Kane** — A Love From Outer Space ["i"] (5:08) `isrc:GBBTF0400071` `qobuz:249088447`
+- **Bel Canto** — Dewy Fields [Birds of Passage] (4:03) `isrc:NOYCA9001020` `qobuz:196488696`
+- **Galaxie 500** — Strange [On Fire] (3:19) `isrc:USRY29600081` `qobuz:52231442`
+- **Julee Cruise** — Falling [Floating Into The Night] (4:14) `isrc:USWB10100198` `qobuz:2933842`
+- **The Innocence Mission** — I Remember Me [The Innocence Mission] (3:56) `isrc:USWWW0129867` `qobuz:91198382`
+- **The Ocean Blue** — Between Something and Nothing [The Ocean Blue] (4:01) `isrc:USRE10100001` `qobuz:3002012`
+- **Cocteau Twins** — Heaven or Las Vegas [Heaven or Las Vegas] (4:57) `isrc:GBAFL1400047` `qobuz:17203926`
+- **Mazzy Star** — Halah [She Hangs Brightly] (3:16) `isrc:USCA29000609` `qobuz:1950380`
+- **The Sundays** — Here's Where the Story Ends [Reading Writing And Arithmetic] (3:50) `isrc:GB01A9000004` `qobuz:4693905`
+- **Cranes** — Adoration [Wings Of Joy (Expanded Edition)] (5:26) `isrc:GBARL9100055` `qobuz:2824932`
+- **His Name Is Alive** — Are We Still Married? [Home Is in Your Head] (2:51) `isrc:GBAFL2100273` `qobuz:279238520`
+- **Belly** — Untogether [Star] (4:43) `isrc:GBAFL9300012` `qobuz:58598209`
+- **Lucia Anima** — Just Give Me A Sign [Just Give Me A Sign] (4:30) `isrc:ATKD92566101` `qobuz:312130246`
+- **The Cranberries** — Intro / Dreaming My Dreams [MTV Unplugged] (4:39) `isrc:USSJW2500027` `qobuz:355852813`
+- **The Veldt** — Soul In A Jar [Afrodisiac] (4:49) `isrc:USUM71705231` `qobuz:41144798`
+- **Luna** — 23 Minutes in Brussels [Penthouse] (6:40) `isrc:USEE19574069` `qobuz:2782533`
+- **Mojave 3** — In Love with a View [Excuses for Travellers] (6:09) `isrc:GBAFL0000008` `qobuz:58599787`
+- **Black Tape For A Blue Girl** — remnants of a deeper purity [Remnants of a Deeper Purity (2014 Remastered Deluxe Edition)] (4:35) `isrc:USHK99618607` `qobuz:31919175`
+- **Bowery Electric** — Coming Down [Beat] (4:38) `isrc:USI4R0401654` `qobuz:63143719`
+- **Elysian Fields** — Star Sheen [Pink Air] (4:38) `isrc:FR7LO1800252` `qobuz:59255392`
+- **Love Spirals Downwards** — El Pedregal [Ever (Remastered Reissue)] (5:15) `isrc:USBAQ2000004` `qobuz:96649604`
+- **Ivy** — Edge Of The Ocean [Long Distance] (4:25) `isrc:CAN110100119` `qobuz:123440494`
+- **Devics** — Heaven Please [If You Forget Me...] (0:45) `isrc:USA560447248` `qobuz:124095930`
+- **Broadcast** — Come On Let's Go [The Noise Made By People] (3:17) `isrc:GBBPW9900176` `qobuz:3775839`
+- **The Clientele** — Reflections After Jane [Suburban Light] (3:21) `isrc:GBFXJ0000003` `qobuz:42188359`
+- **Hope Sandoval & the Warm Inventions** — Around My Smile [Bavarian Fruit Bread] (4:10) `isrc:USA2P1382446` `qobuz:34046847`
+- **Ray LaMontagne** — This Love Is Over [God Willin' & The Creek Don't Rise] (3:29) `isrc:USRC11000409` `qobuz:2295549`
+- **Trespassers William** — Different Stars [Different Stars] (4:43) `isrc:BRPGB0356003` `qobuz:145675440`
+- **M83** — Run Into Flowers [Dead Cities, Red Seas & Lost Ghosts] (4:09) `isrc:FR86W0300280` `qobuz:18493192`
+- **The Ready Set** — Love Like Woe [I'm Alive, I'm Dreaming] (3:20) `isrc:USRE11000125` `qobuz:2163361`
+- **The Radio Dept.** — Where Damage Isn't Already Done [Where Damage Isn't Already Done] (2:43) `isrc:SEVMM0206002` `qobuz:2512254`
+- **Blonde Redhead** — Elephant Woman [Misery Is a Butterfly] (4:49) `isrc:GBAFL0300096` `qobuz:26441576`
+- **The Concretes** — Say Something New [The Concretes] (3:47) `isrc:SEVJH0300401` `qobuz:34839768`
+- **The California Honeydrops** — Nothing at All [Nothing at All / Good Times] (2:53) `isrc:USQXT2210003` `qobuz:194868041`
+- **Au Revoir Simone** — Lark [The Bird Of Music (Bonus Track)] (4:21) `isrc:USA560621634` `qobuz:67434397`
+- **Engineers** — Waved On [Engineers] (5:21) `isrc:GBBND0401391` `qobuz:388088734`
+- **The Daysleepers** — Distant Creatures [Drowned In a Sea of Sound] (3:30) `isrc:USBHM0810054` `qobuz:73744998`
+- **The Embassy** — It Pays To Belong [Tacking] (3:54) `isrc:SEVSX0500704` `qobuz:232506787`
+- **Horst Jankowski** — A Sunny Day in Heidelberg [The Best of Mr. Black Forest] (2:52) `isrc:DEB638910801` `qobuz:182977352`
+- **Chromatics** — The Page [Kill For Love (Deluxe)] (3:36) `isrc:QMMMF1200006` `qobuz:125719786`
+- **Maps** — It Will Find You [We Can Create] (5:33) `isrc:GBAJH0700110` `qobuz:4540869`
+- **The Mary Onettes** — Lost [The Mary Onettes] (4:02) `isrc:SEVMM0701002` `qobuz:198727618`
+- **The Shins** — No Way Down [Port Of Morrow] (3:16) `isrc:USSM11106853` `qobuz:5124351`
+- **School Of Seven Bells** — Half Asleep [Alpinisms] (4:20) `isrc:USVR90955003` `qobuz:391964670`
+- **The Depreciation Guild** — Dream About Me [Spirit Youth] (5:08) `isrc:US28E1049604` `qobuz:74375772`
+- **The High Violets** — Sun Baby [To Where You Are] (4:16) `isrc:QZHN81981554` `qobuz:244563965`
+- **Atlas Sound** — Quick Canal (W/ Laetitia Sadier) [Logos] (8:38) `isrc:USNCB0913807` `qobuz:63141987`
+- **jj** — Ecstasy [jj nº 2] (3:33) `isrc:US38W1016403` `qobuz:2967387`
+- **The Black Ryder** — Let Me Be Your Light [The Door Behind the Door] (6:14) `isrc:QM7281433799` `qobuz:24546276`
+- **The Pains Of Being Pure At Heart** — Young Adult Friction [Young Adult Friction] (4:03) `isrc:US4TA0900029` `qobuz:43492451`
+- **Washed Out** — Feel It All Around [Life of Leisure] (3:12) `isrc:USMEX0800099` `qobuz:125609793`
+- **Sleep Party People** — I'm Not Human At All (Copenhagen X Sessions) [I'm Not Human At All (Copenhagen X Sessions)] (7:22) `isrc:USJZA1827310` `qobuz:62289385`
+- **Wild Nothing** — Chinatown [Gemini] (3:18) `isrc:US8YA1010079` `qobuz:21028127`
+- **Beach Fossils** — Down the Line (Piano) [The Other Side of Life: Piano Ballads] (3:32) `isrc:QM6YT2104306` `qobuz:128530501`
+- **Craft Spells** — After the Moment [Idle Labor] (4:00) `isrc:US8YA1110054` `qobuz:20789803`
+- **Cults** — Abducted [Cults] (2:51) `isrc:GBARL1100172` `qobuz:3593710`
+- **M83** — Midnight City [Hurry up, We're Dreaming] (4:03) `isrc:GB55H1100002` `qobuz:54054284`
+- **Still Corners** — The Trip - 2023 Remaster [Strange Pleasures: 10th Anniversary Edition (2023 Remaster)] (6:13) `isrc:USSUB1203501` `qobuz:208533389`
+- **Widowspeak** — Harsh Realm [Widowspeak] (2:47) `isrc:US8YA1110159` `qobuz:20792011`
+- **Lower Dens** — Brains [Nootropics] (5:07) `isrc:GBCEL1100741` `qobuz:5258116`
+- **Memoryhouse** — Lately (Deuxième) [The Years] (3:23) `isrc:USHM81528879` `qobuz:83368956`
+- **Tamaryn** — Cranekiss [Cranekiss] (3:50) `isrc:QMV8L1420201` `qobuz:353452823`
+- **Candy Claws** — Pangaea Girls (Magic Feeling) [Ceres & Calypso in the Deep Time] (3:11) `isrc:USME31203117` `qobuz:38084270`
+- **Fear of Men** — Doldrums (Demo) [Early Fragments] (3:05) `isrc:UK2SE1300006` `qobuz:124682128`
+- **Shabason & Krgovich** — Field Mouse [Four Days in June] (3:30) `isrc:CAS1A2604903` `qobuz:400822936`
+- **Foxes In Fiction** — Ontario Gothic [Ontario Gothic] (5:25) `isrc:QMFMG1457557` `qobuz:60154336`
+- **Grouper** — Call Across Rooms [Ruins] (2:59) `isrc:USNCB1418903` `qobuz:63140523`
+- **The Caretaker** — The great hidden sea of the unconscious [An empty bliss beyond this World] (3:02) `isrc:DEXO42399960` `qobuz:243916759`
+- **A Beacon School** — It's Late [Cola] (6:06) `isrc:USA2P1808417` `qobuz:59440986`
+- **Bigsharebag** — Crochet Hooks [Rave Relics Feed a Hunger] (6:58) `isrc:QT3F22671188` `qobuz:422486133`
+- **Turnover** — Dizzy On the Comedown [Peripheral Vision] (4:15) `isrc:QMCE71300249` `qobuz:83172841`
+- **Cigarettes After Sex** — Apocalypse [Cigarettes After Sex] (4:50) `isrc:USBQU1700034` `qobuz:47730836`
+- **Fazerdaze** — Lucky Girl [Morningside] (2:50) `isrc:NZFN01600156` `qobuz:38407539`
+- **Hazel English** — I'm Fine [Just Give In / Never Going Home] (3:17) `isrc:GBX721600140` `qobuz:188716917`
+- **Jay Som** — The Bus Song [Everybody Works] (3:36) `isrc:US3R41732902` `qobuz:110175696`
+- **No Vacation** — Dræm Girl [Summer Break Mixtape] (3:54) `isrc:USHM81626735` `qobuz:318660510`
+- **Her's** — What Once Was [Songs of Her's] (4:15) `isrc:GBYEJ1100223` `qobuz:38471215`
+- **Holy Motors** — Honeymooning [Slow Sundown] (3:39) `isrc:QM3861807201` `qobuz:57301533`
+- **Mild Orange** — Some Feeling [Foreplay] (3:17) `isrc:NZAM01800538` `qobuz:173800090`
+- **Barrie** — Clovers [Happy To Be Here] (4:14) `isrc:QZ8SH1903003` `qobuz:58116687`
+- **Feng Suave** — Venus Flytrap [Venus Flytrap] (3:42) `isrc:FR96X1865012` `qobuz:400524171`
+- **TOPS** — Direct Sunlight [I Feel Alive] (3:27) `isrc:QMFME1912619` `qobuz:340951410`
+- **Crumb** — Trophy [Ice Melt] (3:12) `isrc:QMB622100307` `qobuz:119468681`
+- **Lunar Vacation** — Cutting Corners [Inside Every Fig is a Dead Wasp] (2:04) `isrc:QZEPW1905506` `qobuz:126552937`
+- **Men I Trust** — Organon [Untourable Album] (2:30) `isrc:TCAFR2123364` `qobuz:242759827`
+- **The Marías** — Hush [CINEMA] (3:01) `isrc:USAT22100692` `qobuz:123705552`
+- **Alvvays** — After The Earthquake [Blue Rev] (3:05) `isrc:US3R42246503` `qobuz:161968565`
+- **Beach House** — Once Twice Melody [Once Twice Melody] (4:44) `isrc:USSUB2147001` `qobuz:136441949`
+- **Hatchie** — Quicksand [Giving The World Away] (4:12) `isrc:AULI02143140` `qobuz:142339937`
+- **Yumi Zouma** — In The Eyes Of Our Love [Present Tense] (3:28) `isrc:US3R42244606` `qobuz:181964817`
+- **The Japanese House** — Sunshine Baby [In the End It Always Does] (3:39) `isrc:GBK3W2202480` `qobuz:215987356`

@@ -1,0 +1,108 @@
+# Genre: Ambient IDM
+
+Imported genre playlist: Ambient IDM.
+
+Services: `qobuz:66716762` `tidal:370c728c-2a5b-4c7d-9513-ee873abaac56`
+
+## Tracks (100)
+
+- **Musicology** — Telefone 529 [Artificial Intelligence] (4:10) `isrc:GBBPW9200031` `qobuz:79173708`
+- **I.A.O** — The Clan [Artificial Intelligence] (5:07) `isrc:GBBPW9200033` `qobuz:79173710`
+- **Speedy j** — De-Orbit [Ginger] (6:12) `isrc:GBBPW9200034` `qobuz:198410923`
+- **Dr Alex Paterson** — Loving You Live [Artificial Intelligence] (4:00) `isrc:GBBPW9200039` `qobuz:79173716`
+- **The Dice Man** — Polygon Window [Artificial Intelligence] (5:12) `isrc:GBBPW9200030` `qobuz:79173707`
+- **Plastikman** — Substance Abuse [Dimension Intrusion] (5:07) `isrc:CAM261800156` `qobuz:235558930`
+- **Seefeel** — Climactic Phase No.3 [Quique] (8:24) `isrc:GBBNZ9300050` `qobuz:2331832`
+- **Houston Calls** — Bob and Bonnie [A Collection of Short Stories] (3:45) `isrc:GBAJE0503700` `qobuz:144021793`
+- **Higher Intelligence Agency** — The Rotunda [Birmingham Frequencies] (6:08) `isrc:GBMKL0600063` `qobuz:61397006`
+- **Lida Husik** — Fade Sister Cool [Beaumont Hannant Remixes] (4:23) `isrc:USGKX9813802` `qobuz:72717676`
+- **Autechre** — Montreal [Amber] (7:15) `isrc:GBBPW9400138` `qobuz:3775477`
+- **The Sabres Of Paradise** — Tow Truck [Haunted Dancehall] (6:36) `isrc:GBBPW2501821` `qobuz:335220460`
+- **The Black Dog** — Psil-cosyin [Spanners] (10:34) `isrc:GBBPW9500005` `qobuz:79174845`
+- **Sun Electric** — Entrance [Kitchen] (5:21) `isrc:BEZ350900115` `qobuz:49811128`
+- **B12** — Void/Comm [Time Tourist] (5:49) `isrc:GBBPW9600068` `qobuz:3777216`
+- **Plaid** — Eyen [Double Figure] (4:20) `isrc:GBBPW0100017` `qobuz:79173901`
+- **Boards of Canada** — Roygbiv [Music Has The Right To Children] (2:29) `isrc:GBBPW9800019` `qobuz:3775737`
+- **Isan** — Vosill [Beautronics Plus] (4:10) `isrc:DEX261312201` `qobuz:30043668`
+- **Jorge Ben Jor** — O Telefone Tocou Novamente [Show de Bola 1970] (3:51) `isrc:BRMCA7000036` `qobuz:18046828`
+- **Üv Index** — I'd Never Let You Fall [UV Index] (3:44) `isrc:QZWFX2587585` `qobuz:352103841`
+- **Múm** — The Ballað Of The Broken Birdie Records [Yesterday Was Dramatic – Today Is OK] (5:13) `isrc:DEX261905811` `qobuz:64959144`
+- **Arovane** — Theme [Tides] (3:40) `isrc:DEX700000001` `qobuz:29905936`
+- **Casino versus Japan** — It's Very Sunny [Go Hawaii] (4:46) `isrc:USCW60750302` `qobuz:29784483`
+- **Lackluster** — Catch 22 [Container] (4:17) `isrc:USCGJ1592568` `qobuz:81731676`
+- **Illtemper** — Don't Fall Down [Manic! At The Shitshow] (2:43) `isrc:QZZ7M2694789` `qobuz:418334920`
+- **Proem** — Cold Water (Flat) [Negativ] (5:31) `isrc:USHM20452670` `qobuz:211505065`
+- **Brothomstates** — Kava [Claro] (5:52) `isrc:GBBPW0100111` `qobuz:79173923`
+- **Funckarma** — Lolala [Solid State] (9:17) `isrc:NLP500500054` `qobuz:71919807`
+- **Telefon Tel Aviv** — Fahrenheit Fair Enough [Fahrenheit Fair Enough] (6:40) `isrc:US2J71607201` `qobuz:36878845`
+- **Ulrich Schnauss** — Passing By [Far Away Trains Passing By] (6:37) `isrc:GBKP41900003` `qobuz:88924530`
+- **Freescha** — Kite High [Kids Fill the Floor] (2:59) `isrc:US84C2000003` `qobuz:168776842`
+- **Aural Float** — Perspectives [Freefloat] (9:08) `isrc:DEY600100001` `qobuz:31097960`
+- **Monolake** — Fragile [Gravity] (12:00) `isrc:USI4R0401075` `qobuz:71829972`
+- **lusine icl** — Blind [Iron City] (6:26) `isrc:USI4R0600689` `qobuz:71677005`
+- **City Girl** — The Burden of an Endless Dream [Mana Lake] (3:01) `isrc:QT6G62557241` `qobuz:378557421`
+- **$uicideboy$** — Degeneration in the Key of A Minor [Long Term Effects of SUFFERING] (2:08) `isrc:QZAPK2000191` `qobuz:125385275`
+- **Four Tet** — And They All Look Broken Hearted [Rounds] (5:09) `isrc:GBCEL0300066` `qobuz:9123145`
+- **Secede** — Greetings Twinsunian [Bye Bye Gridlock Traffic] (6:52) `isrc:USHM20489526` `qobuz:88273441`
+- **Xela** — Japanese Whispers [For Frosty Mornings And Summer Nights] (6:10) `isrc:GBJSN0600076` `qobuz:30096750`
+- **Yasume** — Rengoku (Condensed) [Where We're From The Birds Sing A Pretty Song] (6:19) `isrc:DEX700300039` `qobuz:30128036`
+- **Ochre** — A Midsummer Nice Dream [A Midsummer Nice Dream (15th Anniversary Edition)] (2:55) `isrc:ESA011995907` `qobuz:61882916`
+- **Bitcrush** — Enarc Ende Y [Enarc] (5:29) `isrc:QZNWX2119942` `qobuz:137626494`
+- **H.U.V.A. NETWORK** — Something Heavens [Ephemeris] (6:43) `isrc:USQY50909793` `qobuz:5892015`
+- **Cepia** — Dowry [Dowry] (4:43) `isrc:US2J70403101` `qobuz:20779497`
+- **The Album Leaf** — Window [In A Safe Place] (3:46) `isrc:DED620424401` `qobuz:1040344`
+- **Prefuse 73** — Pagina Dos [Prefuse 73 Reads The Books] (2:30) `isrc:GBBPW0500055` `qobuz:79179528`
+- **Arms and Sleepers** — Black Paris 86 [Black Paris 86 (15th Anniversary Edition)] (5:12) `isrc:DEGY60700004` `qobuz:182362495`
+- **Tycho** — Sunrise Projector [Past Is Prologue] (3:04) `isrc:US2J71011302` `qobuz:228143920`
+- **Helios** — Bless This Morning Year [Eingya] (6:01) `isrc:GBJSN0600009` `qobuz:53484334`
+- **Yppah** — Again With The Subtitles [You Are Beautiful At All Times] (2:47) `isrc:GBCFB0601100` `qobuz:6278379`
+- **Loscil** — Equivalent 1 [Equivalents] (7:18) `isrc:USNCB1922101` `qobuz:62588315`
+- **Lymbyc Systym** — Split Stones [Split Stones] (5:59) `isrc:US78L1514106` `qobuz:26626050`
+- **The American Dollar** — Anything You Synthesize (Ambient) [Music for Focus and Creativity] (3:57) `isrc:TCABL1392447` `qobuz:125267370`
+- **Nathan Fake** — The Sky Was Pink [The Sky Was Pink] (9:30) `isrc:GBUZD0800603` `qobuz:3197545`
+- **Bonobo** — Kiara [Black Sands] (3:50) `isrc:GBCFB1000002` `qobuz:6280973`
+- **Apparat** — Arcadia [Walls] (5:10) `isrc:DEX180700033` `qobuz:29906823`
+- **Aretha Franklin** — Good to Me as I Am to You [I Never Loved A Man The Way I Love You / Lady Soul / Aretha Now / Spirit In The Dark / Aretha Live At Fillmore West (Original Album Series)] (3:58) `isrc:USAT20801169` `qobuz:4807919`
+- **The Field** — Over The Ice [From Here We Go Sublime] (6:56) `isrc:DEU670600071` `qobuz:141538038`
+- **Flying Lotus** — Camel [Los Angeles] (2:22) `isrc:GBBPW0800007` `qobuz:3776639`
+- **Emancipator** — First Snow [Soon It Will Be Cold Enough] (5:12) `isrc:TCABY1497184` `qobuz:124151425`
+- **Jon Hopkins** — Light Through the Veins [Insides] (9:18) `isrc:GBDDN0800294` `qobuz:151538397`
+- **Bibio** — jealous of roses [Ambivalence Avenue] (2:35) `isrc:GBBPW0900002` `qobuz:276197938`
+- **Moderat** — A New Error [Moderat] (6:07) `isrc:DEAE60900757` `qobuz:49034564`
+- **Gold Panda** — You [Lucky Shiner] (3:36) `isrc:GBDNH1000136` `qobuz:103089947`
+- **Mount Kimbie** — Carbonated [Carbonated] (4:18) `isrc:GBHQT1000040` `qobuz:16305483`
+- **Caribou** — Odessa [Swim] (5:15) `isrc:DED621000414` `qobuz:243037078`
+- **Ital Tek** — Babel [Midnight Colour] (4:13) `isrc:US78Q1010104` `qobuz:237822569`
+- **Floating Points** — Sais [Shadows] (8:03) `isrc:GB4HG0900066` `qobuz:94799768`
+- **Nicolas Jaar** — Space Is Only Noise If You Can See [Space Is Only Noise] (5:42) `isrc:FR2T01100012` `qobuz:376131175`
+- **James Blake** — The Wilhelm Scream [James Blake] (4:33) `isrc:GBUM71030822` `qobuz:8581498`
+- **Shlohmo** — Rained the Whole Time [Vacation - Single] (5:25) `isrc:US25X1083610` `qobuz:50617840`
+- **Andy Stott** — We Stay Together (Part One) [We Stay Together] (6:36) `isrc:USA2Z1111793` `qobuz:119884714`
+- **Rival Consoles** — Kid Velo [Kid Velo] (4:41) `isrc:GBWZD1103101` `qobuz:58587443`
+- **Kuedo** — Work, Live & Sleep In Collapsing Space [Severant] (4:33) `isrc:US78Q1210062` `qobuz:238302204`
+- **Burial** — Kindred [Kindred] (11:26) `isrc:GBLZC1200011` `qobuz:61342746`
+- **Nils Frahm** — Says [Spaces] (8:18) `isrc:GBWZD1305502` `qobuz:58583818`
+- **Max Cooper** — Repetition [Yearning for the Infinite] (5:50) `isrc:GB45A1901680` `qobuz:63558526`
+- **Lapalux** — Without You [Nostalchic] (5:26) `isrc:GBCFB1207506` `qobuz:7907176`
+- **Oneohtrix Point Never** — Chrome Country [R Plus Seven] (5:05) `isrc:GBBPW1300079` `qobuz:11699555`
+- **Tim Hecker** — Virginal II [Virgins] (5:23) `isrc:USNCB1318306` `qobuz:13948735`
+- **Forest Swords** — Crow (DJ-Kicks) [DJ-Kicks (Forest Swords)] (3:34) `isrc:DEG931892034` `qobuz:48125808`
+- **Kiasmos** — Looped [Kiasmos] (6:00) `isrc:GBWZD1406203` `qobuz:58583578`
+- **Beacon** — Drive [The Ways We Separate] (3:18) `isrc:US2J71308004` `qobuz:21028074`
+- **Seekae** — Test & Recognise (Flume Re-work) [Test & Recognise (Remixes)] (5:03) `isrc:AUFF01400535` `qobuz:229902783`
+- **Clark** — Winter Linn [Clark] (3:08) `isrc:GBBPW1400212` `qobuz:20238007`
+- **Throwing Snow** — Avarice [Mosaic] (3:09) `isrc:GBEXH1300263` `qobuz:303780404`
+- **Ishome** — Ken Tavr [Confession] (5:07) `isrc:US25X1084608` `qobuz:371027575`
+- **Deru** — 1979 [1979] (4:51) `isrc:QMR6U1400021` `qobuz:17925462`
+- **Photay** — Aura [Onism] (4:48) `isrc:USYBL1700739` `qobuz:139846360`
+- **Shigeto** — Detroit Part II (ft. Marcus Elliot) [Weighted] (6:51) `isrc:US2J71802804` `qobuz:52326465`
+- **Skee Mask** — Dial 274 [Compro] (6:06) `isrc:DEOB61800335` `qobuz:50349456`
+- **Kelly Moran** — Autowave [Ultraviolet] (3:09) `isrc:GBBPW1800149` `qobuz:81300791`
+- **Barker** — Look How Hard I've Tried [Global Underground #42: Patrice Bäumel - Berlin] (4:54) `isrc:GBHFW1800241` `qobuz:60438596`
+- **Daniel Avery** — Dusting For Smoke [Love + Light] (5:37) `isrc:GBTZZ2000021` `qobuz:95123748`
+- **Actress** — Walking Flames [Karma & Desire] (4:10) `isrc:GBCFB2000429` `qobuz:103803656`
+- **Kelly Lee Owens** — On [Inner Song] (5:57) `isrc:NOSTS2072020` `qobuz:87285533`
+- **Overmono** — So U Kno [Good Lies] (5:43) `isrc:UKLTE2100202` `qobuz:191290502`
+- **Bicep** — Apricots [Isles] (4:06) `isrc:GBCFB2000317` `qobuz:112281484`
+- **Loraine James** — Running Like That [Reflection] (4:19) `isrc:GBLZC2000112` `qobuz:116130214`
+- **Aphex Twin** — Blackbox Life Recorder 21f [Blackbox Life Recorder 21f / in a room7 F760] (4:26) `isrc:GBBPW2300061` `qobuz:220474589`

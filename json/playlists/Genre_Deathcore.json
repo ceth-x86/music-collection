@@ -1,0 +1,1010 @@
+{
+  "name": "Genre: Deathcore",
+  "services": {
+    "qobuz": "67894618",
+    "tidal": "8ab053d6-a1ff-441a-b1ac-23ac9a63c82b"
+  },
+  "description": "Brutal fusion of death metal and metalcore featuring bone-crushing breakdowns, blast beats, and guttural vocals.",
+  "tracks": [
+    {
+      "artist": "The Acacia Strain",
+      "title": "Carbomb",
+      "services": {
+        "qobuz": "49100139"
+      },
+      "album": "3750",
+      "duration": 77,
+      "isrc": "USRZR0401601"
+    },
+    {
+      "artist": "The Red Chord",
+      "title": "Fixation On Plastics",
+      "services": {
+        "qobuz": "60846973"
+      },
+      "album": "Clients",
+      "duration": 164,
+      "isrc": "USMBR0501820"
+    },
+    {
+      "artist": "Job For A Cowboy",
+      "title": "Entombment of a Machine",
+      "services": {
+        "qobuz": "60622188"
+      },
+      "album": "Doom",
+      "duration": 247,
+      "isrc": "USMBR1309988"
+    },
+    {
+      "artist": "Glass Casket",
+      "title": "In Between the Sheets",
+      "services": {
+        "qobuz": "51538154"
+      },
+      "album": "We Are Gathered Here Today...",
+      "duration": 305,
+      "isrc": "GBDHC0432008"
+    },
+    {
+      "artist": "The Partisan Turbine",
+      "title": "Inertia",
+      "services": {
+        "qobuz": "99103113"
+      },
+      "album": "Surgical Assault",
+      "duration": 120,
+      "isrc": "USHM22047866"
+    },
+    {
+      "artist": "Waking The Cadaver",
+      "title": "Chased Through the Woods by a Rapist",
+      "services": {
+        "qobuz": "56185546"
+      },
+      "album": "Straight Outta Tha Ground Vol.1",
+      "duration": 127,
+      "isrc": "QM4TX1720188"
+    },
+    {
+      "artist": "Despised Icon",
+      "title": "In the Arms of Perdition",
+      "services": {
+        "qobuz": "27535737"
+      },
+      "album": "The Ills of Modern Man",
+      "duration": 265,
+      "isrc": "US4E40734201"
+    },
+    {
+      "artist": "Front Line Assembly",
+      "title": "Aftermath",
+      "services": {
+        "qobuz": "95766592"
+      },
+      "album": "Re-Wind",
+      "duration": 447,
+      "isrc": "US57M0510302"
+    },
+    {
+      "artist": "Through the Eyes of the Dead",
+      "title": "Failure in the Flesh",
+      "services": {
+        "qobuz": "49207321"
+      },
+      "album": "Malice",
+      "duration": 250,
+      "isrc": "USERN1007599"
+    },
+    {
+      "artist": "As Blood Runs Black",
+      "title": "In Dying Days",
+      "services": {
+        "qobuz": "105259192"
+      },
+      "album": "Allegiance",
+      "duration": 221,
+      "isrc": "USFK90600028"
+    },
+    {
+      "artist": "Beneath The Massacre",
+      "title": "Society's Disposable Son",
+      "services": {
+        "qobuz": "49115205"
+      },
+      "album": "Mechanics of Dysfunction",
+      "duration": 208,
+      "isrc": "USRZR0704202"
+    },
+    {
+      "artist": "Bring Me The Horizon",
+      "title": "Pray for Plagues",
+      "services": {
+        "qobuz": "380469726"
+      },
+      "album": "Count Your Blessings",
+      "duration": 261,
+      "isrc": "GBEGS0600029"
+    },
+    {
+      "artist": "Whitechapel",
+      "title": "The Somatic Defilement",
+      "services": {
+        "qobuz": "60769113"
+      },
+      "album": "The Somatic Defilement",
+      "duration": 318,
+      "isrc": "USMBR1309363"
+    },
+    {
+      "artist": "Whitechapel",
+      "title": "Prostatic Fluid Asphyxiation",
+      "services": {
+        "qobuz": "60769115"
+      },
+      "album": "The Somatic Defilement",
+      "duration": 213,
+      "isrc": "USMBR1309365"
+    },
+    {
+      "artist": "Suicide Silence",
+      "title": "The Price of Beauty",
+      "services": {
+        "qobuz": "27543290"
+      },
+      "album": "The Cleansing",
+      "duration": 166,
+      "isrc": "US4E40738804"
+    },
+    {
+      "artist": "Suicide Silence",
+      "title": "Unanswered",
+      "services": {
+        "qobuz": "27543284"
+      },
+      "album": "The Cleansing",
+      "duration": 136,
+      "isrc": "US4E40738802"
+    },
+    {
+      "artist": "Suicide Silence",
+      "title": "No Pity for a Coward",
+      "services": {
+        "qobuz": "27543296"
+      },
+      "album": "The Cleansing",
+      "duration": 192,
+      "isrc": "US4E40738806"
+    },
+    {
+      "artist": "Whitechapel",
+      "title": "Vicer Exciser",
+      "services": {
+        "qobuz": "60769120"
+      },
+      "album": "The Somatic Defilement",
+      "duration": 173,
+      "isrc": "USMBR1309370"
+    },
+    {
+      "artist": "Carnifex",
+      "title": "Lie To My Face",
+      "services": {
+        "qobuz": "66773519"
+      },
+      "album": "Dead In My Arms",
+      "duration": 181,
+      "isrc": "USCG40710120"
+    },
+    {
+      "artist": "Annotations Of An Autopsy",
+      "title": "Welcome To Sludge City",
+      "services": {
+        "qobuz": "66778209"
+      },
+      "album": "Welcome To Sludge City",
+      "duration": 163,
+      "isrc": "USCG40710113"
+    },
+    {
+      "artist": "Knights Of The Abyss",
+      "title": "Dragon Pie",
+      "services": {
+        "qobuz": "56196148"
+      },
+      "album": "Jaggernaut",
+      "duration": 205,
+      "isrc": "GBSOA0700810"
+    },
+    {
+      "artist": "Rose Funeral",
+      "title": "God Demise",
+      "services": {
+        "qobuz": "60770914"
+      },
+      "album": "The Resting Sonata",
+      "duration": 258,
+      "isrc": "USMBR0806170"
+    },
+    {
+      "artist": "Suffokate",
+      "title": "Not the Fallen",
+      "services": {
+        "qobuz": "105259482"
+      },
+      "album": "No Mercy, No Forgiveness",
+      "duration": 235,
+      "isrc": "USFK90900031"
+    },
+    {
+      "artist": "The Red Shore",
+      "title": "I Only Smile When You're Bleeding",
+      "services": {
+        "qobuz": "74352263"
+      },
+      "album": "Salvaging What's Left",
+      "duration": 249,
+      "isrc": "AUMH00600250"
+    },
+    {
+      "artist": "Whitechapel",
+      "title": "This Is Exile",
+      "services": {
+        "qobuz": "60705519"
+      },
+      "album": "This Is Exile",
+      "duration": 220,
+      "isrc": "USMBR0805803"
+    },
+    {
+      "artist": "Whitechapel",
+      "title": "Possession",
+      "services": {
+        "qobuz": "60705520"
+      },
+      "album": "This Is Exile",
+      "duration": 304,
+      "isrc": "USMBR0805804"
+    },
+    {
+      "artist": "Impending Doom",
+      "title": "The Serpent Servant",
+      "services": {
+        "qobuz": "77185939"
+      },
+      "album": "The Serpent Servant",
+      "duration": 206,
+      "isrc": "US38J0907802"
+    },
+    {
+      "artist": "Oceano",
+      "title": "District of Misery",
+      "services": {
+        "qobuz": "14673566"
+      },
+      "album": "Depths",
+      "duration": 194,
+      "isrc": "GBBPB0803389"
+    },
+    {
+      "artist": "Molotov Solution",
+      "title": "The Harbinger",
+      "services": {
+        "qobuz": "60680660"
+      },
+      "album": "The Harbinger",
+      "duration": 200,
+      "isrc": "USMBR0906571"
+    },
+    {
+      "artist": "Winds of Plague",
+      "title": "The Great Stone War",
+      "services": {
+        "qobuz": "27580130"
+      },
+      "album": "The Great Stone War",
+      "duration": 258,
+      "isrc": "US4E40964110"
+    },
+    {
+      "artist": "The Crimson Armada",
+      "title": "Revelations II",
+      "services": {
+        "qobuz": "322374438"
+      },
+      "album": "Ceremony",
+      "duration": 118,
+      "isrc": "QZES52531657"
+    },
+    {
+      "artist": "Despised Icon",
+      "title": "MVP",
+      "services": {
+        "qobuz": "27579829"
+      },
+      "album": "Day of Mourning",
+      "duration": 206,
+      "isrc": "US4E40961403"
+    },
+    {
+      "artist": "And Hell Followed With",
+      "title": "This Night Is the Coroner's",
+      "services": {
+        "qobuz": "15651060"
+      },
+      "album": "Proprioception",
+      "duration": 272,
+      "isrc": "GBBPB0804230"
+    },
+    {
+      "artist": "Chelsea Grin",
+      "title": "Recreant",
+      "services": {
+        "qobuz": "54917400"
+      },
+      "album": "Desolation Of Eden",
+      "duration": 266,
+      "isrc": "USRZR1009108"
+    },
+    {
+      "artist": "Thy Art Is Murder",
+      "title": "Whore to a Chainsaw",
+      "services": {
+        "qobuz": "72753322"
+      },
+      "album": "Infinite Death",
+      "duration": 200,
+      "isrc": "AUSK20800089"
+    },
+    {
+      "artist": "Upon A Burning Body",
+      "title": "Living in a Matrix",
+      "services": {
+        "qobuz": "367737682"
+      },
+      "album": "Blood of the Bull",
+      "duration": 213,
+      "isrc": "QT6EG2526088"
+    },
+    {
+      "artist": "Fit For An Autopsy",
+      "title": "Do You See Him",
+      "services": {
+        "qobuz": "36709044"
+      },
+      "album": "Hellbound",
+      "duration": 203,
+      "isrc": "USKO11301968"
+    },
+    {
+      "artist": "Impending Doom",
+      "title": "Murderer",
+      "services": {
+        "qobuz": "77925932"
+      },
+      "album": "Killing Floor 2 (Video Game Soundtrack)",
+      "duration": 262,
+      "isrc": "USKO11101324"
+    },
+    {
+      "artist": "I Declare War",
+      "title": "Malevolence",
+      "services": {
+        "qobuz": "54853748"
+      },
+      "album": "Malevolence",
+      "duration": 115,
+      "isrc": "USRZR1010001"
+    },
+    {
+      "artist": "Thy Art Is Murder",
+      "title": "The Purest Strain Of Hate",
+      "services": {
+        "qobuz": "223081608"
+      },
+      "album": "Hate",
+      "duration": 205,
+      "isrc": "AUSH01200013"
+    },
+    {
+      "artist": "Thy Art Is Murder",
+      "title": "Reign Of Darkness",
+      "services": {
+        "qobuz": "223081607"
+      },
+      "album": "Hate",
+      "duration": 215,
+      "isrc": "AUSH01200012"
+    },
+    {
+      "artist": "Make Them Suffer",
+      "title": "Neverbloom",
+      "services": {
+        "qobuz": "214132948"
+      },
+      "album": "Neverbloom",
+      "duration": 394,
+      "isrc": "TCABO1367721"
+    },
+    {
+      "artist": "Infant Annihilator",
+      "title": "Pelt of Innocent Flesh",
+      "services": {
+        "qobuz": "126884936"
+      },
+      "album": "The Elysian Grandeval Gal\u00e8riarch",
+      "duration": 424,
+      "isrc": "TCACP1651394"
+    },
+    {
+      "artist": "Infant Annihilator",
+      "title": "Blasphemian",
+      "services": {
+        "qobuz": "126884937"
+      },
+      "album": "The Elysian Grandeval Gal\u00e8riarch",
+      "duration": 444,
+      "isrc": "TCACP1651395"
+    },
+    {
+      "artist": "Slice The Cake",
+      "title": "The Man With No Face",
+      "services": {
+        "qobuz": "204468510"
+      },
+      "album": "The Man With No Face",
+      "duration": 1268,
+      "isrc": "SEYOK1217210"
+    },
+    {
+      "artist": "The Last Ten Seconds Of Life",
+      "title": "The Dead Ones",
+      "services": {
+        "qobuz": "370219210"
+      },
+      "album": "The Dead Ones",
+      "duration": 212,
+      "isrc": "USMBR2516954"
+    },
+    {
+      "artist": "The Last Ten Seconds Of Life",
+      "title": "Pain Is Pleasure",
+      "services": {
+        "qobuz": "205383498"
+      },
+      "album": "Soulless Hymns",
+      "duration": 151,
+      "isrc": "USVR91428006"
+    },
+    {
+      "artist": "Your Last Breath",
+      "title": "Bigot",
+      "services": {
+        "qobuz": "354291006"
+      },
+      "album": "Bigot (feat. Paxton Grizzle & Brojob)",
+      "duration": 146,
+      "isrc": "QZZ7M2528927"
+    },
+    {
+      "artist": "Aversions Crown",
+      "title": "Hollow Planet",
+      "services": {
+        "qobuz": "60749638"
+      },
+      "album": "Tyrant",
+      "duration": 287,
+      "isrc": "DED831400931"
+    },
+    {
+      "artist": "Black Tongue",
+      "title": "Fauxhammer",
+      "services": {
+        "qobuz": "29089266"
+      },
+      "album": "Born Hanged / Falsifier (Redux)",
+      "duration": 225,
+      "isrc": "US4E41417002"
+    },
+    {
+      "artist": "Fit For An Autopsy",
+      "title": "Absolute Hope Absolute Hell",
+      "services": {
+        "qobuz": "26743436"
+      },
+      "album": "Absolute Hope Absolute Hell",
+      "duration": 267,
+      "isrc": "USKO11500927"
+    },
+    {
+      "artist": "The Jimmy\u00b4s",
+      "title": "Crazy Sound / Final Countdown / Like a Virgin / Billie Jean / I Want to Break Free / Rock Me Amadeus / Somebody / Dancing\u00b4in the Dark / Every Breath You Take / Here I Am / Baby Jane / (...)",
+      "services": {
+        "qobuz": "137811493"
+      },
+      "album": "Lovely 80\u00b4s",
+      "duration": 922,
+      "isrc": "PTES19000502"
+    },
+    {
+      "artist": "Aversions Crown",
+      "title": "Erebus",
+      "services": {
+        "qobuz": "60750372"
+      },
+      "album": "Xenocide",
+      "duration": 254,
+      "isrc": "DED831601477"
+    },
+    {
+      "artist": "Shadow of Intent",
+      "title": "The Heretic Prevails",
+      "services": {
+        "qobuz": "125606644"
+      },
+      "album": "Reclaimer",
+      "duration": 288,
+      "isrc": "TCACZ1734655"
+    },
+    {
+      "artist": "Enterprise Earth",
+      "title": "The Failsafe Fallacy",
+      "services": {
+        "qobuz": "56910407"
+      },
+      "album": "Luciferous",
+      "duration": 285,
+      "isrc": "USKO11800868"
+    },
+    {
+      "artist": "Fit For An Autopsy",
+      "title": "Black Mammoth",
+      "services": {
+        "qobuz": "44468357"
+      },
+      "album": "The Great Collapse (Rain City Deluxe Version)",
+      "duration": 278,
+      "isrc": "USKO11700034"
+    },
+    {
+      "artist": "Hollow Prophet",
+      "title": "Disembodied Phenomena",
+      "services": {
+        "qobuz": "125841400"
+      },
+      "album": "Disembodied Phenomena",
+      "duration": 264,
+      "isrc": "TCAEL1986534"
+    },
+    {
+      "artist": "Vulvodynia",
+      "title": "The Shadowy Descent of Gaia",
+      "services": {
+        "qobuz": "119630136"
+      },
+      "album": "Praenuntius Infiniti",
+      "duration": 282,
+      "isrc": "QM6MZ2191090"
+    },
+    {
+      "artist": "Humanity's Last Breath",
+      "title": "Godhood",
+      "services": {
+        "qobuz": "376488968"
+      },
+      "album": "Godhood",
+      "duration": 197,
+      "isrc": "GBDHC2448002"
+    },
+    {
+      "artist": "Carnifex",
+      "title": "Dark Heart Ceremony",
+      "services": {
+        "qobuz": "60777157"
+      },
+      "album": "Slow Death",
+      "duration": 289,
+      "isrc": "DED831600483"
+    },
+    {
+      "artist": "Shadow of Intent",
+      "title": "Malediction",
+      "services": {
+        "qobuz": "85757799"
+      },
+      "album": "Melancholy",
+      "duration": 340,
+      "isrc": "USHM21928943"
+    },
+    {
+      "artist": "Fit For An Autopsy",
+      "title": "The Sea of Tragic Beasts",
+      "services": {
+        "qobuz": "62960274"
+      },
+      "album": "The Sea of Tragic Beasts",
+      "duration": 264,
+      "isrc": "DED831900778"
+    },
+    {
+      "artist": "Bodysnatcher",
+      "title": "Violent Obsession",
+      "services": {
+        "qobuz": "372706903"
+      },
+      "album": "Hell Is Here, Hell Is Home",
+      "duration": 209,
+      "isrc": "US5ED2507484"
+    },
+    {
+      "artist": "Bound in Fear",
+      "title": "Lurking",
+      "services": {
+        "qobuz": "361732377"
+      },
+      "album": "A Mind Too Sick To Heal",
+      "duration": 201,
+      "isrc": "QM6N22533162"
+    },
+    {
+      "artist": "Traitors",
+      "title": "Mental State",
+      "services": {
+        "qobuz": "261313868"
+      },
+      "album": "Mental State",
+      "duration": 182,
+      "isrc": "GB5EA1603021"
+    },
+    {
+      "artist": "Distant",
+      "title": "Heritage (feat. Will Ramos of Lorna Shore)",
+      "services": {
+        "qobuz": "193053192"
+      },
+      "album": "Heritage (feat. Will Ramos of Lorna Shore)",
+      "duration": 243,
+      "isrc": "GBDHC2336210"
+    },
+    {
+      "artist": "Carcosa",
+      "title": "Fade",
+      "services": {
+        "qobuz": "349195948"
+      },
+      "album": "Fade",
+      "duration": 162,
+      "isrc": "QZS7J2514658"
+    },
+    {
+      "artist": "To the Grave",
+      "title": "Terrorist Threat",
+      "services": {
+        "qobuz": "112167541"
+      },
+      "album": "Epilogue",
+      "duration": 172,
+      "isrc": "QMFMF2024085"
+    },
+    {
+      "artist": "Chelsea Grin",
+      "title": "Dead Rose",
+      "services": {
+        "qobuz": "380491750"
+      },
+      "album": "Eternal Nightmare",
+      "duration": 212,
+      "isrc": "QMRSZ1800472"
+    },
+    {
+      "artist": "Spite",
+      "title": "Made To Please",
+      "services": {
+        "qobuz": "380471439"
+      },
+      "album": "Dedication To Flesh",
+      "duration": 181,
+      "isrc": "QMRSZ2102968"
+    },
+    {
+      "artist": "Paleface Swiss",
+      "title": "The Orphan",
+      "services": {
+        "qobuz": "138858842"
+      },
+      "album": "Fear & Dagger",
+      "duration": 383,
+      "isrc": "FRX872150903"
+    },
+    {
+      "artist": "Signs of the Swarm",
+      "title": "Death Whistle",
+      "services": {
+        "qobuz": "120418601"
+      },
+      "album": "Absolvere",
+      "duration": 353,
+      "isrc": "QM6N22123444"
+    },
+    {
+      "artist": "Slaughter To Prevail",
+      "title": "Demolisher",
+      "services": {
+        "qobuz": "338231167"
+      },
+      "album": "Kostolom",
+      "duration": 216,
+      "isrc": "USYFZ2034901"
+    },
+    {
+      "artist": "Slaughter To Prevail",
+      "title": "Bonebreaker",
+      "services": {
+        "qobuz": "338231166"
+      },
+      "album": "Kostolom",
+      "duration": 265,
+      "isrc": "USYFZ2153201"
+    },
+    {
+      "artist": "Signs of the Swarm",
+      "title": "Amongst the Low & Empty",
+      "services": {
+        "qobuz": "209338454"
+      },
+      "album": "Amongst The Low & Empty",
+      "duration": 240,
+      "isrc": "GBDHC2336303"
+    },
+    {
+      "artist": "Slaughter To Prevail",
+      "title": "Baba Yaga",
+      "services": {
+        "qobuz": "338231168"
+      },
+      "album": "Kostolom",
+      "duration": 255,
+      "isrc": "USYFZ2153203"
+    },
+    {
+      "artist": "Within Destruction",
+      "title": "DEMON CHILD",
+      "services": {
+        "qobuz": "308922520"
+      },
+      "album": "ANIMETAL",
+      "duration": 175,
+      "isrc": "USYFZ2424601"
+    },
+    {
+      "artist": "Slaughter To Prevail",
+      "title": "VIKING",
+      "services": {
+        "qobuz": "289989704"
+      },
+      "album": "Behelit",
+      "duration": 271,
+      "isrc": "USYFZ2384101"
+    },
+    {
+      "artist": "Chappell Roan",
+      "title": "HOT TO GO!",
+      "services": {
+        "qobuz": "229054014"
+      },
+      "album": "The Rise and Fall of a Midwest Princess",
+      "duration": 184,
+      "isrc": "USUG12305911"
+    },
+    {
+      "artist": "PSYCHO-FRAME",
+      "title": "INVERTED SPEAR OF HEAVEN",
+      "services": {
+        "qobuz": "336168532"
+      },
+      "album": "SALVATION LAUGHS IN THE FACE OF A GRIEVING MOTHER",
+      "duration": 194,
+      "isrc": "DED832500055"
+    },
+    {
+      "artist": "Whitechapel",
+      "title": "Hymns in Dissonance",
+      "services": {
+        "qobuz": "304794200"
+      },
+      "album": "Hymns in Dissonance",
+      "duration": 312,
+      "isrc": "USMBR2416532"
+    },
+    {
+      "artist": "Brand of Sacrifice",
+      "title": "Eclipse",
+      "services": {
+        "qobuz": "179829003"
+      },
+      "album": "The Interstice",
+      "duration": 143,
+      "isrc": "TCADQ1867203"
+    },
+    {
+      "artist": "Brand of Sacrifice",
+      "title": "God Hand",
+      "services": {
+        "qobuz": "179822163"
+      },
+      "album": "God Hand",
+      "duration": 184,
+      "isrc": "QM4TX1939927"
+    },
+    {
+      "artist": "In Gloom",
+      "title": "God The Animal",
+      "services": {
+        "qobuz": "134959895"
+      },
+      "album": "God The Animal (feat Brand of Sacrifice)",
+      "duration": 363,
+      "isrc": "QZNWW2041987"
+    },
+    {
+      "artist": "Shrine of Malice",
+      "title": "Lord of Flies",
+      "services": {
+        "qobuz": "228488979"
+      },
+      "album": "Malignance",
+      "duration": 431,
+      "isrc": "QZTAT2304343"
+    },
+    {
+      "artist": "AngelMaker",
+      "title": "Requiem",
+      "services": {
+        "qobuz": "101582232"
+      },
+      "album": "Angelmaker",
+      "duration": 277,
+      "isrc": "QZES91997627"
+    },
+    {
+      "artist": "A Wake In Providence",
+      "title": "Godkiller",
+      "services": {
+        "qobuz": "151927635"
+      },
+      "album": "Godkiller",
+      "duration": 456,
+      "isrc": "QM4TX2246834"
+    },
+    {
+      "artist": "\uc81c\uc774\uc5e0\uc9c4 JM jin",
+      "title": "BLACK LOTUS",
+      "services": {
+        "qobuz": "355722872"
+      },
+      "album": "Sinner's Crown",
+      "duration": 140,
+      "isrc": "GXHND2518949"
+    },
+    {
+      "artist": "Crown Magnetar",
+      "title": "Desecrate Infinite",
+      "services": {
+        "qobuz": "367292127"
+      },
+      "album": "Desecrate Infinite",
+      "duration": 191,
+      "isrc": "QMFMG2527255"
+    },
+    {
+      "artist": "Mental Cruelty",
+      "title": "Obsessis a Daemonio",
+      "services": {
+        "qobuz": "203348947"
+      },
+      "album": "Zwielicht",
+      "duration": 307,
+      "isrc": "GBDHC2338702"
+    },
+    {
+      "artist": "Mental Cruelty",
+      "title": "Symphony of a Dying Star",
+      "services": {
+        "qobuz": "203348953"
+      },
+      "album": "Zwielicht",
+      "duration": 251,
+      "isrc": "GBDHC2338708"
+    },
+    {
+      "artist": "Immortal Disfigurement",
+      "title": "King",
+      "services": {
+        "qobuz": "352639022"
+      },
+      "album": "KING",
+      "duration": 356,
+      "isrc": "QZMEP2478860"
+    },
+    {
+      "artist": "Lorna Shore",
+      "title": "Of the Abyss",
+      "services": {
+        "qobuz": "122017431"
+      },
+      "album": "...And I Return To Nothingness - EP",
+      "duration": 343,
+      "isrc": "GBDHC2124402"
+    },
+    {
+      "artist": "Lorna Shore",
+      "title": "To the Hellfire",
+      "services": {
+        "qobuz": "122017430"
+      },
+      "album": "...And I Return To Nothingness - EP",
+      "duration": 369,
+      "isrc": "GBDHC2124401"
+    },
+    {
+      "artist": "Shadow of Intent",
+      "title": "The Migrant",
+      "services": {
+        "qobuz": "201502095"
+      },
+      "album": "The Migrant",
+      "duration": 240,
+      "isrc": "FR96X2389416"
+    },
+    {
+      "artist": "Fit For An Autopsy",
+      "title": "Two Towers",
+      "services": {
+        "qobuz": "129989681"
+      },
+      "album": "Oh What the Future Holds",
+      "duration": 346,
+      "isrc": "DED832100597"
+    },
+    {
+      "artist": "Lorna Shore",
+      "title": "Sun//Eater",
+      "services": {
+        "qobuz": "163809385"
+      },
+      "album": "Pain Remains",
+      "duration": 370,
+      "isrc": "GBDHC2334003"
+    },
+    {
+      "artist": "Synestia",
+      "title": "Death Empress",
+      "services": {
+        "qobuz": "264441604"
+      },
+      "album": "The Poetic Edda",
+      "duration": 228,
+      "isrc": "QZK6J2416160"
+    },
+    {
+      "artist": "Synestia",
+      "title": "The Poetic Edda",
+      "services": {
+        "qobuz": "264441606"
+      },
+      "album": "The Poetic Edda",
+      "duration": 365,
+      "isrc": "QZTAT2340049"
+    },
+    {
+      "artist": "Lorna Shore",
+      "title": "Oblivion",
+      "services": {
+        "qobuz": "331491438"
+      },
+      "album": "I Feel The Everblack Festering Within Me",
+      "duration": 499,
+      "isrc": "GBDHC2555602"
+    }
+  ]
+}

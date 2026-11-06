@@ -1,0 +1,730 @@
+{
+  "name": "Genre: Classic IDM",
+  "services": {
+    "qobuz": "66717127",
+    "tidal": "c03a8f00-ee33-46fb-8845-03283ff697b1"
+  },
+  "description": "Imported genre playlist: Classic IDM.",
+  "tracks": [
+    {
+      "artist": "LFO",
+      "title": "LFO",
+      "services": {
+        "qobuz": "3775344"
+      },
+      "album": "Frequencies",
+      "duration": 319,
+      "isrc": "GBBPW9000014"
+    },
+    {
+      "artist": "I.A.O",
+      "title": "The Clan",
+      "services": {
+        "qobuz": "79173710"
+      },
+      "album": "Artificial Intelligence",
+      "duration": 307,
+      "isrc": "GBBPW9200033"
+    },
+    {
+      "artist": "Speedy j",
+      "title": "De-Orbit",
+      "services": {
+        "qobuz": "198410923"
+      },
+      "album": "Ginger",
+      "duration": 372,
+      "isrc": "GBBPW9200034"
+    },
+    {
+      "artist": "Plastikman",
+      "title": "Spiritual High",
+      "services": {
+        "qobuz": "79173713"
+      },
+      "album": "Artificial Intelligence",
+      "duration": 462,
+      "isrc": "GBBPW9200036"
+    },
+    {
+      "artist": "Aphex Twin",
+      "title": "On",
+      "services": {
+        "qobuz": "3812596"
+      },
+      "album": "On",
+      "duration": 432,
+      "isrc": "GBBPW9300117"
+    },
+    {
+      "artist": "Autechre",
+      "title": "Bike",
+      "services": {
+        "qobuz": "3775431"
+      },
+      "album": "Incunabula",
+      "duration": 480,
+      "isrc": "GBBPW9300126"
+    },
+    {
+      "artist": "B12",
+      "title": "Telefone 529",
+      "services": {
+        "qobuz": "3775417"
+      },
+      "album": "Electro Soma",
+      "duration": 249,
+      "isrc": "GBBPW9300045"
+    },
+    {
+      "artist": "Plaid",
+      "title": "Object Orient",
+      "services": {
+        "qobuz": "3775396"
+      },
+      "album": "Bytes",
+      "duration": 344,
+      "isrc": "GBBPW9300014"
+    },
+    {
+      "artist": "Seefeel",
+      "title": "Spangle",
+      "services": {
+        "qobuz": "121293213"
+      },
+      "album": "St / Fr / Sp",
+      "duration": 441,
+      "isrc": "GBBPW9400061"
+    },
+    {
+      "artist": "Wagon Christ",
+      "title": "Receiver",
+      "services": {
+        "qobuz": "49937668"
+      },
+      "album": "Musipal",
+      "duration": 204,
+      "isrc": "GBCFB0100700"
+    },
+    {
+      "artist": "Balil",
+      "title": "Parasight",
+      "services": {
+        "qobuz": "198411714"
+      },
+      "album": "Artificial Intelligence II",
+      "duration": 453,
+      "isrc": "GBBPW9400087"
+    },
+    {
+      "artist": "Beaumont Hannant",
+      "title": "Utuba",
+      "services": {
+        "qobuz": "198411712"
+      },
+      "album": "Artificial Intelligence II",
+      "duration": 492,
+      "isrc": "GBBPW9400085"
+    },
+    {
+      "artist": "Biosphere",
+      "title": "Poa Alpina",
+      "services": {
+        "qobuz": "170533284"
+      },
+      "album": "Substrata (Alternative Versions)",
+      "duration": 298,
+      "isrc": "NOBIP2201010"
+    },
+    {
+      "artist": "Global Communication",
+      "title": "14:31",
+      "services": {
+        "qobuz": "209978221"
+      },
+      "album": "76:14",
+      "duration": 871,
+      "isrc": "GBARL9400474"
+    },
+    {
+      "artist": "Kenny Larkin",
+      "title": "Maritime",
+      "services": {
+        "qobuz": "198411718"
+      },
+      "album": "Artificial Intelligence II",
+      "duration": 397,
+      "isrc": "GBBPW9400090"
+    },
+    {
+      "artist": "Link",
+      "title": "Arcadian",
+      "services": {
+        "qobuz": "198411708"
+      },
+      "album": "Artificial Intelligence II",
+      "duration": 572,
+      "isrc": "GBBPW9400081"
+    },
+    {
+      "artist": "Mark Franklin",
+      "title": "Release To The System",
+      "services": {
+        "qobuz": "198411706"
+      },
+      "album": "Artificial Intelligence II",
+      "duration": 517,
+      "isrc": "GBBPW9400079"
+    },
+    {
+      "artist": "Richard H. Kirk",
+      "title": "Reality Net",
+      "services": {
+        "qobuz": "198411713"
+      },
+      "album": "Artificial Intelligence II",
+      "duration": 407,
+      "isrc": "GBBPW9400086"
+    },
+    {
+      "artist": "The Higher Intelligence Agency",
+      "title": "Selenite",
+      "services": {
+        "qobuz": "198411707"
+      },
+      "album": "Artificial Intelligence II",
+      "duration": 421,
+      "isrc": "GBBPW9400080"
+    },
+    {
+      "artist": "The Sabres Of Paradise",
+      "title": "Smokebelch II",
+      "services": {
+        "qobuz": "3775556"
+      },
+      "album": "Sabresonic II",
+      "duration": 763,
+      "isrc": "GBBPW9500128"
+    },
+    {
+      "artist": "The Future Sound Of London",
+      "title": "We Have Explosive (Part 1)",
+      "services": {
+        "qobuz": "5081862"
+      },
+      "album": "We Have Explosive",
+      "duration": 441,
+      "isrc": "GBAAA9710438"
+    },
+    {
+      "artist": "Cylob",
+      "title": "Rewind!",
+      "services": {
+        "qobuz": "51011043"
+      },
+      "album": "Rewind!",
+      "duration": 184,
+      "isrc": "GBTSL1400020"
+    },
+    {
+      "artist": "Mouse On Mars",
+      "title": "Kompod",
+      "services": {
+        "qobuz": "2342873"
+      },
+      "album": "Iaora Tahiti",
+      "duration": 250,
+      "isrc": "GBBNZ9500030"
+    },
+    {
+      "artist": "Plaid",
+      "title": "Eyen",
+      "services": {
+        "qobuz": "79173901"
+      },
+      "album": "Double Figure",
+      "duration": 260,
+      "isrc": "GBBPW0100017"
+    },
+    {
+      "artist": "Squarepusher",
+      "title": "Beep Street",
+      "services": {
+        "qobuz": "3775686"
+      },
+      "album": "Hard Normal Daddy",
+      "duration": 397,
+      "isrc": "GBBPW9700034"
+    },
+    {
+      "artist": "\u00b5-ziq",
+      "title": "Hasty Boom Alert",
+      "services": {
+        "qobuz": "4710319"
+      },
+      "album": "Lunatic Harness",
+      "duration": 315,
+      "isrc": "GBAAA9710847"
+    },
+    {
+      "artist": "Boards of Canada",
+      "title": "Roygbiv",
+      "services": {
+        "qobuz": "3775737"
+      },
+      "album": "Music Has The Right To Children",
+      "duration": 149,
+      "isrc": "GBBPW9800019"
+    },
+    {
+      "artist": "Funkst\u00f6rung",
+      "title": "Appetite For Disctruction",
+      "services": {
+        "qobuz": "17677756"
+      },
+      "album": "Appetite for Destruction",
+      "duration": 318,
+      "isrc": "DEG930000030"
+    },
+    {
+      "artist": "Arovane",
+      "title": "Tides",
+      "services": {
+        "qobuz": "152997041"
+      },
+      "album": "Tides",
+      "duration": 332,
+      "isrc": "DEX262200228"
+    },
+    {
+      "artist": "Casino versus Japan",
+      "title": "Local Forecast",
+      "services": {
+        "qobuz": "29784485"
+      },
+      "album": "Go Hawaii",
+      "duration": 363,
+      "isrc": "USCW60750304"
+    },
+    {
+      "artist": "Fizzarum",
+      "title": "Pavasaris",
+      "services": {
+        "qobuz": "71678336"
+      },
+      "album": "Frisson",
+      "duration": 144,
+      "isrc": "QM6MZ1740639"
+    },
+    {
+      "artist": "Funckarma",
+      "title": "Lawk",
+      "services": {
+        "qobuz": "71919808"
+      },
+      "album": "Solid State",
+      "duration": 422,
+      "isrc": "NLP500500048"
+    },
+    {
+      "artist": "Jega",
+      "title": "Geometry",
+      "services": {
+        "qobuz": "237791987"
+      },
+      "album": "Geometry",
+      "duration": 275,
+      "isrc": "US78Q0810228"
+    },
+    {
+      "artist": "Brothomstates",
+      "title": "Kava",
+      "services": {
+        "qobuz": "79173923"
+      },
+      "album": "Claro",
+      "duration": 352,
+      "isrc": "GBBPW0100111"
+    },
+    {
+      "artist": "Clark",
+      "title": "Lord Of The Dance",
+      "services": {
+        "qobuz": "6523498"
+      },
+      "album": "Clarence Park",
+      "duration": 258,
+      "isrc": "GBBPW0100011"
+    },
+    {
+      "artist": "Gridlock",
+      "title": "Voiceless",
+      "services": {
+        "qobuz": "253461655"
+      },
+      "album": "Trace",
+      "duration": 419,
+      "isrc": "QZYWF0100303"
+    },
+    {
+      "artist": "Ilkae",
+      "title": "Sweet Tooth Subway",
+      "services": {
+        "qobuz": "78505056"
+      },
+      "album": "Pistachio Island",
+      "duration": 108,
+      "isrc": "USHM80522421"
+    },
+    {
+      "artist": "Isan",
+      "title": "Fueled",
+      "services": {
+        "qobuz": "30043080"
+      },
+      "album": "Lucky Cat",
+      "duration": 373,
+      "isrc": "DEX260102203"
+    },
+    {
+      "artist": "Machinedrum",
+      "title": "Jewlea",
+      "services": {
+        "qobuz": "280020431"
+      },
+      "album": "Now You Know",
+      "duration": 527,
+      "isrc": "USHM20452668"
+    },
+    {
+      "artist": "Phoenecia",
+      "title": "Odd Job",
+      "services": {
+        "qobuz": "129256890"
+      },
+      "album": "Odd Jobs",
+      "duration": 355,
+      "isrc": "QMFME2188777"
+    },
+    {
+      "artist": "Telefon Tel Aviv",
+      "title": "Fahrenheit Fair Enough",
+      "services": {
+        "qobuz": "36878845"
+      },
+      "album": "Fahrenheit Fair Enough",
+      "duration": 400,
+      "isrc": "US2J71607201"
+    },
+    {
+      "artist": "Herrmann & Kleine",
+      "title": "Her Tune",
+      "services": {
+        "qobuz": "30027930"
+      },
+      "album": "Our Noise",
+      "duration": 393,
+      "isrc": "DEX260202602"
+    },
+    {
+      "artist": "Adam Johnson",
+      "title": "Trinity",
+      "services": {
+        "qobuz": "65571649"
+      },
+      "album": "Chigliak",
+      "duration": 362,
+      "isrc": "USHM20489533"
+    },
+    {
+      "artist": "Blamstrain",
+      "title": "Process",
+      "services": {
+        "qobuz": "68043836"
+      },
+      "album": "Ensi",
+      "duration": 424,
+      "isrc": "USHM20489564"
+    },
+    {
+      "artist": "Deceptikon",
+      "title": "Bossanovastyle A",
+      "services": {
+        "qobuz": "73015710"
+      },
+      "album": "Lost Subject",
+      "duration": 202,
+      "isrc": "USHM80439785"
+    },
+    {
+      "artist": "Freescha",
+      "title": "Every Shiney Night",
+      "services": {
+        "qobuz": "168776840"
+      },
+      "album": "Kids Fill the Floor",
+      "duration": 254,
+      "isrc": "US84C2000001"
+    },
+    {
+      "artist": "Ulrich Schnauss",
+      "title": "A Strangely Isolated Place",
+      "services": {
+        "qobuz": "88767829"
+      },
+      "album": "A Strangely Isolated Place",
+      "duration": 643,
+      "isrc": "GBKP41900023"
+    },
+    {
+      "artist": "Abfahrt Hinwil",
+      "title": "Tech 7",
+      "services": {
+        "qobuz": "202279446"
+      },
+      "album": "Idmemo - A Future of Nostalgia (Compiled by Vladimir Ivkovic & Ivan Smagghe)",
+      "duration": 235,
+      "isrc": "GBZPJ0900217"
+    },
+    {
+      "artist": "Boc Scadet",
+      "title": "Sel Alterat",
+      "services": {
+        "qobuz": "128901213"
+      },
+      "album": "Yleptic",
+      "duration": 271,
+      "isrc": "TCACC1400043"
+    },
+    {
+      "artist": "Lusine",
+      "title": "Everything Under The Sun",
+      "services": {
+        "qobuz": "20815023"
+      },
+      "album": "Serial Hodgepodge",
+      "duration": 320,
+      "isrc": "US2J70403705"
+    },
+    {
+      "artist": "Maps and Diagrams",
+      "title": "Cut-Out Silouhettes",
+      "services": {
+        "qobuz": "247406281"
+      },
+      "album": "The Town Beneath The Sea",
+      "duration": 375,
+      "isrc": "DEX260990842"
+    },
+    {
+      "artist": "Mr. Projectile",
+      "title": "Sinking",
+      "services": {
+        "qobuz": "83829581"
+      },
+      "album": "Sinking",
+      "duration": 289,
+      "isrc": "USHM20489580"
+    },
+    {
+      "artist": "Ochre",
+      "title": "Sticklebrick Symphony",
+      "services": {
+        "qobuz": "61882914"
+      },
+      "album": "A Midsummer Nice Dream (15th Anniversary Edition)",
+      "duration": 278,
+      "isrc": "ESA011995905"
+    },
+    {
+      "artist": "Pathic",
+      "title": "Dr Zillango's Pitchbend Experiment",
+      "services": {
+        "qobuz": "55624775"
+      },
+      "album": "Dr Zillango's Pitchbend Experiment",
+      "duration": 433,
+      "isrc": "GBRNF0800003"
+    },
+    {
+      "artist": "Oneohtrix Point Never",
+      "title": "Boring Angel",
+      "services": {
+        "qobuz": "11699540"
+      },
+      "album": "R Plus Seven",
+      "duration": 256,
+      "isrc": "GBBPW1300070"
+    },
+    {
+      "artist": "Proem",
+      "title": "Invisible For All",
+      "services": {
+        "qobuz": "211509997"
+      },
+      "album": "Socially Inept",
+      "duration": 232,
+      "isrc": "USHM20452684"
+    },
+    {
+      "artist": "Aphex Twin",
+      "title": "Xtal",
+      "services": {
+        "qobuz": "49809866"
+      },
+      "album": "Selected Ambient Works 85-92",
+      "duration": 293,
+      "isrc": "BEZ350800022"
+    },
+    {
+      "artist": "Autechre",
+      "title": "Eutow",
+      "services": {
+        "qobuz": "3777232"
+      },
+      "album": "Tri Repetae",
+      "duration": 255,
+      "isrc": "GBBPW9500182"
+    },
+    {
+      "artist": "Polygon Window",
+      "title": "Quoth",
+      "services": {
+        "qobuz": "355704783"
+      },
+      "album": "Surfing On Sine Waves",
+      "duration": 336,
+      "isrc": "GBBPW2501758"
+    },
+    {
+      "artist": "B12",
+      "title": "Hall Of Mirrors",
+      "services": {
+        "qobuz": "3775409"
+      },
+      "album": "Electro Soma",
+      "duration": 398,
+      "isrc": "GBBPW9300037"
+    },
+    {
+      "artist": "Benge",
+      "title": "Silicon Valleys",
+      "services": {
+        "qobuz": "171611348"
+      },
+      "album": "Silicon Valleys",
+      "duration": 258,
+      "isrc": "UK6EK1500078"
+    },
+    {
+      "artist": "LFO",
+      "title": "We Are Back",
+      "services": {
+        "qobuz": "3775348"
+      },
+      "album": "Frequencies",
+      "duration": 285,
+      "isrc": "GBBPW9100026"
+    },
+    {
+      "artist": "Boards of Canada",
+      "title": "Telephasic Workshop",
+      "services": {
+        "qobuz": "3775731"
+      },
+      "album": "Music Has The Right To Children",
+      "duration": 395,
+      "isrc": "GBBPW9800013"
+    },
+    {
+      "artist": "Bola",
+      "title": "Forcasa 3",
+      "services": {
+        "qobuz": "400268390"
+      },
+      "album": "Soup",
+      "duration": 324,
+      "isrc": "GBLJH9820206"
+    },
+    {
+      "artist": "Secede",
+      "title": "Bye Bye Gridlock Traffic",
+      "services": {
+        "qobuz": "88273444"
+      },
+      "album": "Bye Bye Gridlock Traffic",
+      "duration": 350,
+      "isrc": "USHM20489529"
+    },
+    {
+      "artist": "Mira Calix",
+      "title": "Ms. Meteo",
+      "services": {
+        "qobuz": "3775876"
+      },
+      "album": "One On One",
+      "duration": 320,
+      "isrc": "GBBPW9900193"
+    },
+    {
+      "artist": "Bogdan Raczynski",
+      "title": "Samurai Masu Biitsu",
+      "services": {
+        "qobuz": "79196507"
+      },
+      "album": "Samurai Math Beats",
+      "duration": 331,
+      "isrc": "GB5P59700032"
+    },
+    {
+      "artist": "Prefuse 73",
+      "title": "Radio Attack",
+      "services": {
+        "qobuz": "3777251"
+      },
+      "album": "Vocal Studies and Uprock Narratives",
+      "duration": 315,
+      "isrc": "GBBPW0100058"
+    },
+    {
+      "artist": "Two Lone Swordsmen",
+      "title": "We Change the Frequency",
+      "services": {
+        "qobuz": "3775778"
+      },
+      "album": "Stay Down",
+      "duration": 246,
+      "isrc": "GBBPW9800095"
+    },
+    {
+      "artist": "Amon Tobin",
+      "title": "Like Regular Chickens",
+      "services": {
+        "qobuz": "6283210"
+      },
+      "album": "Permutation",
+      "duration": 316,
+      "isrc": "GBCFB9807033"
+    },
+    {
+      "artist": "Richard Devine",
+      "title": "Vecpr",
+      "services": {
+        "qobuz": "102635268"
+      },
+      "album": "Aleamapper",
+      "duration": 302,
+      "isrc": "QZK6J2097443"
+    },
+    {
+      "artist": "Mike & Rich",
+      "title": "Eggy Toast",
+      "services": {
+        "qobuz": "237802524"
+      },
+      "album": "Expert Knob Twiddlers",
+      "duration": 272,
+      "isrc": "USA231603930"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+# Genre: Djent
+
+Imported genre playlist: Djent.
+
+Services: `qobuz:66734762` `tidal:3fe9b715-a522-4fc7-a532-326a9578bbd6`
+
+## Tracks (81)
+
+- **Meshuggah** — Rational Gaze [Nothing] (5:26) `isrc:DED830695302` `qobuz:298208194`
+- **Meshuggah** — Stengah [Nothing] (5:38) `isrc:DED830695301` `qobuz:298208193`
+- **Meshuggah** — New Millennium Cyanide Christ [Chaosphere (25th Anniversary Remastered 2023 Edition)] (5:35) `isrc:DE1AH2310902` `qobuz:298220308`
+- **Meshuggah** — Future Breed Machine [Destroy Erase Improve (Reloaded)] (5:48) `isrc:DED839531401` `qobuz:298207056`
+- **Mnemic** — Door 2.12 [The Audio Injected Soul] (4:22) `isrc:DED830476102` `qobuz:61387524`
+- **Strapping Young Lad** — Almost Again [The New Black] (3:44) `isrc:US4E40642709` `qobuz:27585051`
+- **Killer Be Killed** — Deconstructing Self-Destruction [Reluctant Hero] (4:33) `isrc:DED832000642` `qobuz:99981836`
+- **Meshuggah** — Perpetual Black Second [Nothing] (4:39) `isrc:DED830695303` `qobuz:298208195`
+- **Meshuggah** — Combustion [Obzen] (4:08) `isrc:DE1AH2308801` `qobuz:298221176`
+- **Meshuggah** — Shed [Catch Thirty Three] (3:34) `isrc:DED830583610` `qobuz:298209525`
+- **Animals As Leaders** — Cafo [Animals as Leaders - Encore Edition] (6:41) `isrc:USRZR0904308` `qobuz:49176979`
+- **Periphery** — Icarus Lives [Periphery] (3:10) `isrc:NLA321089764` `qobuz:269303216`
+- **TesseracT** — Acceptance - Concealing Fate, Pt. 1 [One] (8:34) `isrc:US4E41174303` `qobuz:27555597`
+- **Chimp Spanner** — At the Dream's Edge [At the Dreams Edge] (3:51) `isrc:GBTBS1000003` `qobuz:69786526`
+- **The HAARP Machine** — Esoteric Agenda [Disclosure] (3:54) `isrc:USYFZ1210801` `qobuz:338346532`
+- **Uneven Structure** — Awaken [Februus] (6:35) `isrc:GBTBS1100047` `qobuz:69784149`
+- **TesseracT** — Eden [One] (9:03) `isrc:US4E41174311` `qobuz:27555608`
+- **Periphery** — All New Materials [Periphery] (5:20) `isrc:NLA321089762` `qobuz:269303214`
+- **Animals As Leaders** — New Eden [Weightless] (2:40) `isrc:USERN1007749` `qobuz:49210723`
+- **The Red Krayola** — Parable Of Arable Land [The Parable Of Arable Land - God Bless The Red Krayola And All Who Sail With It] (3:01) `isrc:USFB20607814` `qobuz:2230102`
+- **TesseracT** — Deception - Concealing Fate, Pt. 2 [One] (5:23) `isrc:US4E41174304` `qobuz:27555599`
+- **Periphery** — Make Total Destroy [Periphery II] (4:27) `isrc:USYFZ1222409` `qobuz:262536373`
+- **Periphery** — Scarlet [Periphery II] (4:08) `isrc:USYFZ1222405` `qobuz:262536369`
+- **The Contortionist** — Language I: Intuition [Language] (5:24) `isrc:USKO11401007` `qobuz:22811724`
+- **TesseracT** — Of Mind - Exile [Altered State] (8:50) `isrc:US4E41397405` `qobuz:27564451`
+- **TesseracT** — Of Matter - Proxy [Altered State] (5:05) `isrc:US4E41397401` `qobuz:27564446`
+- **Periphery** — Marigold [Periphery III: Select Difficulty] (7:19) `isrc:USYFZ1671003` `qobuz:262536681`
+- **vildhjarta** — Shadow [måsstaden (forte)] (3:38) `isrc:GBDHC2227901` `qobuz:137632242`
+- **vildhjarta** — Dagger [måsstaden (forte)] (4:25) `isrc:GBDHC2227902` `qobuz:137632243`
+- **Monuments** — I, The Creator [The Amanuensis] (3:54) `isrc:US4E41413201` `qobuz:28631106`
+- **Monuments** — Atlas [The Amanuensis] (3:22) `isrc:US4E41413203` `qobuz:28631108`
+- **Puscifer** — The Algorithm (Sessanta Live Mix) [Normal Isn't] (4:15) `isrc:QMRSZ2501802` `qobuz:387768356`
+- **ASTRA MIRROR** — The Gate Opens [Cascade State: Sunny Intervals] (4:59) `isrc:QT6EC2683362` `qobuz:429833067`
+- **I built the Sky** — The Start Of Something Beautiful [Promise Me You'll Thrive] (4:18) `isrc:FR10S2630633` `qobuz:384034628`
+- **The Amity Affliction** — Open Letter [Chasing Ghosts] (4:20) `isrc:NLA321292415` `qobuz:7388991`
+- **Faded Fedora** — Axiom Lullaby [Periphery of a Dream] (2:42) `isrc:USHM82417319` `qobuz:270339408`
+- **Periphery** — Stranger Things [Juggernaut: Omega] (7:35) `isrc:USYFZ1556407` `qobuz:262535930`
+- **Panopticon** — En hvit ravns død [The Scars of Man on the Once Nameless Wilderness, Pt. 1] (9:38) `isrc:SEVVF1800102` `qobuz:212553491`
+- **Animals As Leaders** — Point to Point [Animals as Leaders - Encore Edition] (1:44) `isrc:USRZR0904310` `qobuz:49176981`
+- **Periphery** — The Bad Thing [Juggernaut: Omega] (5:53) `isrc:USYFZ1556402` `qobuz:262535925`
+- **Animals As Leaders** — Physical Education [The Joy of Motion] (4:40) `isrc:USYFZ1447405` `qobuz:341063988`
+- **Animals As Leaders** — The Brain Dance [The Madness Of Many] (7:00) `isrc:USYFZ1674809` `qobuz:338437623`
+- **Vola** — Stray The Skies [Inmazes] (4:13) `isrc:NLB931600514` `qobuz:141291742`
+- **Vola** — Starburn [Inmazes] (6:05) `isrc:NLB931600515` `qobuz:141291743`
+- **vildhjarta** — måsstadens nationalsång (under vatten) [måsstaden under vatten] (5:33) `isrc:GBDHC2013509` `qobuz:127525067`
+- **vildhjarta** — den helige anden [måsstaden under vatten] (5:26) `isrc:GBDHC2013507` `qobuz:127525065`
+- **Intervals** — Touch and Go [The Way Forward] (4:21) `isrc:TCADH1755548` `qobuz:430828155`
+- **Plini** — Electric Sunrise [Handmade Cities] (5:05) `isrc:TCACR1606807` `qobuz:148258370`
+- **Plini** — Every Piece Matters [Handmade Cities] (3:40) `isrc:TCACR1606810` `qobuz:148258373`
+- **Animals As Leaders** — The Glass Bridge [The Madness Of Many] (5:03) `isrc:USYFZ1674808` `qobuz:338437622`
+- **Kerry Muzzey** — The Secret History [Kerry Muzzey: The Architect] (5:02) `isrc:USHM21496801` `qobuz:425906928`
+- **Mentis** — Heaven [Heaven] (2:28) `isrc:UKRVV1900367` `qobuz:248241148`
+- **Joey Bada$$** — DARK AURA [Lonely At The Top] (2:53) `isrc:USQX92502622` `qobuz:354054391`
+- **Scale The Summit** — Atlas Novus [The Migration] (5:07) `isrc:USERN1008449` `qobuz:49163806`
+- **Polyphia** — G.O.A.T. [New Levels New Devils] (3:35) `isrc:ITH711800114` `qobuz:52397897`
+- **Arch Echo** — Color Wheel [Arch Echo] (6:01) `isrc:USDY41717156` `qobuz:66738829`
+- **Humanity's Last Breath** — Godhood [Godhood] (3:17) `isrc:GBDHC2448002` `qobuz:376488968`
+- **Polyphia** — Drown [New Levels New Devils] (3:54) `isrc:ITH711800109` `qobuz:52397892`
+- **The Dali Thundering Concept** — Lost in Transaction [All Mighty Men] (4:15) `isrc:QZWDE2254025` `qobuz:191304766`
+- **Periphery** — Wildfire [Periphery V: Djent Is Not A Genre] (7:05) `isrc:QZNWP2230301` `qobuz:187329122`
+- **Sleep Token** — The Summoning [Take Me Back To Eden] (6:35) `isrc:GBUM72200352` `qobuz:195178291`
+- **Dua Lipa** — End Of An Era (Live from the Royal Albert Hall) [Dua Lipa - Live from the Royal Albert Hall] (3:59) `isrc:GBAHT2400724` `qobuz:301689724`
+- **TesseracT** — Natural Disaster [War Of Being] (6:06) `isrc:GBCQV2200638` `qobuz:215519974`
+- **Gojira** — Born in Winter [L'Enfant Sauvage] (3:50) `isrc:NLA321292212` `qobuz:5650388`
+- **Periphery** — Satellites [Periphery IV: HAIL STAN] (9:25) `isrc:USKO11900027` `qobuz:180855610`
+- **Periphery** — Blood Eagle [Periphery IV: HAIL STAN] (5:58) `isrc:USKO11900020` `qobuz:180855603`
+- **The Contortionist** — Monochrome (Pensive) [Clairvoyant] (9:24) `isrc:USKO11700436` `qobuz:41196307`
+- **Loathe** — New Faces in the Dark [I Let It in and It Took Everything] (3:12) `isrc:DED831901039` `qobuz:80249741`
+- **Northlane** — Obsidian [Obsidian] (3:56) `isrc:FRX452155420` `qobuz:134038981`
+- **Tyler, The Creator** — JUGGERNAUT [CALL ME IF YOU GET LOST] (2:26) `isrc:USQX92102142` `qobuz:124521687`
+- **Uneven Structure** — The Designer's Lead [8] (2:02) `isrc:UK2D51300006` `qobuz:69783827`
+- **Evergrey** — Welcome To The Pattern [Architects Of A New Weave] (1:12) `isrc:ATN262641621` `qobuz:394232791`
+- **Periphery** — Reptile [Periphery IV: HAIL STAN] (16:43) `isrc:USKO11900019` `qobuz:180855602`
+- **Animals As Leaders** — The Woven Web [The Joy of Motion] (4:07) `isrc:USYFZ1447410` `qobuz:341063993`
+- **Luminary** — Counting the Moments [Counting the Moments] (3:39) `isrc:GXD7V2226183` `qobuz:279795861`
+- **Pinch** — Reptile Brain [Reptile Brain] (3:42) `isrc:QZTAS2504797` `qobuz:337339886`
+- **Veil Of Maya** — Fracture [False Idol] (3:14) `isrc:USYFZ1787602` `qobuz:338250306`
+- **Erra** — Dreamwalkers [Augment] (3:56) `isrc:USF271352803` `qobuz:12183489`
+- **Northlane** — Quantum Flux [Singularity] (4:03) `isrc:AUI441200090` `qobuz:282448584`
+- **Volumes** — Wormholes [Via] (5:31) `isrc:USFK91100270` `qobuz:110194679`
+- **Between the Buried and Me** — Astral Body [The Parallax II: Future Sequence] (5:01) `isrc:USMBR1209208` `qobuz:60847104`

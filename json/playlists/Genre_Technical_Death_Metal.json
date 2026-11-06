@@ -1,0 +1,1009 @@
+{
+  "name": "Genre: Technical Death Metal",
+  "services": {
+    "qobuz": "66735442"
+  },
+  "description": "Imported genre playlist: Technical Death Metal.",
+  "tracks": [
+    {
+      "artist": "Nocturnus",
+      "title": "Lake of Fire",
+      "services": {
+        "qobuz": "51010303"
+      },
+      "album": "The Key",
+      "duration": 304,
+      "isrc": "GBBPB1700793"
+    },
+    {
+      "artist": "Atheist",
+      "title": "Unquestionable Presence",
+      "services": {
+        "qobuz": "184904903"
+      },
+      "album": "Unquestionable Presence",
+      "duration": 247,
+      "isrc": "FR33T1227802"
+    },
+    {
+      "artist": "Cynic",
+      "title": "Veil of Maya",
+      "services": {
+        "qobuz": "2810459"
+      },
+      "album": "Focus",
+      "duration": 320,
+      "isrc": "NLA329300800"
+    },
+    {
+      "artist": "Death",
+      "title": "Crystal Mountain",
+      "services": {
+        "qobuz": "2806585"
+      },
+      "album": "Symbolic [Remaster]",
+      "duration": 307,
+      "isrc": "NLA329501700"
+    },
+    {
+      "artist": "Atrocity",
+      "title": "Todessehnsucht",
+      "services": {
+        "qobuz": "93949268"
+      },
+      "album": "Todessehnsucht",
+      "duration": 227,
+      "isrc": "DER372013801"
+    },
+    {
+      "artist": "Demilich",
+      "title": "The Sixteenth Six-Tooth Son of Fourteen Four Regional Dimensions (Still Unnamed)",
+      "services": {
+        "qobuz": "364415111"
+      },
+      "album": "Nespithe",
+      "duration": 209,
+      "isrc": "CH6542585738"
+    },
+    {
+      "artist": "Gorguts",
+      "title": "Obscura",
+      "services": {
+        "qobuz": "29050966"
+      },
+      "album": "Obscura",
+      "duration": 244,
+      "isrc": "US4E41300501"
+    },
+    {
+      "artist": "Suffocation",
+      "title": "Liege of Inveracity",
+      "services": {
+        "qobuz": "5698716"
+      },
+      "album": "Effigy of the Forgotten",
+      "duration": 271,
+      "isrc": "NLA329199999"
+    },
+    {
+      "artist": "Cryptopsy",
+      "title": "Slit Your Guts",
+      "services": {
+        "qobuz": "71588334"
+      },
+      "album": "None So Vile",
+      "duration": 241,
+      "isrc": "USI4R0811469"
+    },
+    {
+      "artist": "Sadist",
+      "title": "India",
+      "services": {
+        "qobuz": "27550731"
+      },
+      "album": "Tribe",
+      "duration": 285,
+      "isrc": "ITL790700012"
+    },
+    {
+      "artist": "Oppressor",
+      "title": "Genocide",
+      "services": {
+        "qobuz": "27255307"
+      },
+      "album": "Solstice Of Oppression",
+      "duration": 334,
+      "isrc": "USA560452513"
+    },
+    {
+      "artist": "Monstrosity",
+      "title": "Fatal Millennium",
+      "services": {
+        "qobuz": "72930633"
+      },
+      "album": "Millennium",
+      "duration": 275,
+      "isrc": "US4DT0610035"
+    },
+    {
+      "artist": "Theory In Practice",
+      "title": "Conspiracy In Cloning",
+      "services": {
+        "qobuz": "1601579"
+      },
+      "album": "Colonising the sun",
+      "duration": 369,
+      "isrc": "FR6V80209250"
+    },
+    {
+      "artist": "Nitro Fun",
+      "title": "Warp Zone",
+      "services": {
+        "qobuz": "104319038"
+      },
+      "album": "Warp Zone",
+      "duration": 186,
+      "isrc": "CA6D22000408"
+    },
+    {
+      "artist": "Decapitated",
+      "title": "Winds of Creation",
+      "services": {
+        "qobuz": "21489128"
+      },
+      "album": "Winds of Creation",
+      "duration": 253,
+      "isrc": "GBBPB0400843"
+    },
+    {
+      "artist": "Nile",
+      "title": "Black Seeds of Vengeance",
+      "services": {
+        "qobuz": "21115431"
+      },
+      "album": "Black Seeds of Vengence",
+      "duration": 215,
+      "isrc": "US2640044802"
+    },
+    {
+      "artist": "Arun Ghosh",
+      "title": "Pastoral Sympathy (This Land Is Mine)",
+      "services": {
+        "qobuz": "173057055"
+      },
+      "album": "But Where Are You Really From?",
+      "duration": 213,
+      "isrc": "GBVFA1740003"
+    },
+    {
+      "artist": "Malignancy",
+      "title": "Intrauterine Cannibalism",
+      "services": {
+        "qobuz": "129816146"
+      },
+      "album": "Intrauterine Cannibalism",
+      "duration": 102,
+      "isrc": "QZK6F2193412"
+    },
+    {
+      "artist": "Pyaemia",
+      "title": "Cerebral Cereal",
+      "services": {
+        "qobuz": "44604071"
+      },
+      "album": "Cerebral Cereal",
+      "duration": 194,
+      "isrc": "USERN1000396"
+    },
+    {
+      "artist": "Contradiction",
+      "title": "In Zaire",
+      "services": {
+        "qobuz": "156716669"
+      },
+      "album": "The Origin of Violence",
+      "duration": 252,
+      "isrc": "DEZ651351050"
+    },
+    {
+      "artist": "Mithras",
+      "title": "Worlds Beyond the Veil",
+      "services": {
+        "qobuz": "83655811"
+      },
+      "album": "Worlds Beyond the Veil",
+      "duration": 273,
+      "isrc": "GBUGX1500014"
+    },
+    {
+      "artist": "Severed Savior",
+      "title": "Brutality Is Law",
+      "services": {
+        "qobuz": "44731110"
+      },
+      "album": "Brutality Is Law",
+      "duration": 202,
+      "isrc": "USERN1007929"
+    },
+    {
+      "artist": "Decrepit Birth",
+      "title": "Prelude to the Apocalypse",
+      "services": {
+        "qobuz": "44609274"
+      },
+      "album": "And Time Begins",
+      "duration": 84,
+      "isrc": "USERN1000422"
+    },
+    {
+      "artist": "Wormed",
+      "title": "Tunnel Of Ions",
+      "services": {
+        "qobuz": "5396965"
+      },
+      "album": "Planisph\u00c6rium",
+      "duration": 209,
+      "isrc": "USRMX1200040"
+    },
+    {
+      "artist": "Psycroptic",
+      "title": "The Colour of Sleep",
+      "services": {
+        "qobuz": "125917319"
+      },
+      "album": "The Scepter of the Ancients",
+      "duration": 305,
+      "isrc": "USERN1007909"
+    },
+    {
+      "artist": "Necrophagist",
+      "title": "Stabwound",
+      "services": {
+        "qobuz": "60684990"
+      },
+      "album": "Epitaph",
+      "duration": 168,
+      "isrc": "US2640462801"
+    },
+    {
+      "artist": "Arsis",
+      "title": "The Face Of My Innocence",
+      "services": {
+        "qobuz": "24446298"
+      },
+      "album": "A Celebration Of Guilt",
+      "duration": 331,
+      "isrc": "USRMX1500040"
+    },
+    {
+      "artist": "Diana Krall",
+      "title": "Abandoned Masquerade",
+      "services": {
+        "qobuz": "54319187"
+      },
+      "album": "The Girl In The Other Room",
+      "duration": 313,
+      "isrc": "USGR10301337"
+    },
+    {
+      "artist": "Devolved",
+      "title": "Hybrid",
+      "services": {
+        "qobuz": "44610200"
+      },
+      "album": "Calculated",
+      "duration": 223,
+      "isrc": "USERN1000089"
+    },
+    {
+      "artist": "Quo Vadis",
+      "title": "Silence Calls the Storm",
+      "services": {
+        "qobuz": "106894498"
+      },
+      "album": "Defiant Imagination",
+      "duration": 302,
+      "isrc": "USCGH0867379"
+    },
+    {
+      "artist": "Coprofago",
+      "title": "Crippled Tracker",
+      "services": {
+        "qobuz": "5851680"
+      },
+      "album": "Unorthodox Creative Criteria",
+      "duration": 199,
+      "isrc": "USA2P1133615"
+    },
+    {
+      "artist": "Neuraxis",
+      "title": "A Curative Struggle",
+      "services": {
+        "qobuz": "94933629"
+      },
+      "album": "Trilateral Progression",
+      "duration": 222,
+      "isrc": "GBBPB0701694"
+    },
+    {
+      "artist": "Spawn of Possession",
+      "title": "Lash by Lash",
+      "services": {
+        "qobuz": "197365105"
+      },
+      "album": "Noctambulant",
+      "duration": 250,
+      "isrc": "SEY7R1000602"
+    },
+    {
+      "artist": "Gory Blister",
+      "title": "Procession To Apocalypse (Intro)",
+      "services": {
+        "qobuz": "141303887"
+      },
+      "album": "Skymorphosis",
+      "duration": 67,
+      "isrc": "NLB930600022"
+    },
+    {
+      "artist": "Elvis Presley",
+      "title": "Are You Lonesome Tonight?",
+      "services": {
+        "qobuz": "28090484"
+      },
+      "album": "Number Ones Of The Sixties",
+      "duration": 190,
+      "isrc": "UK3XS1400281"
+    },
+    {
+      "artist": "Odious Mortem",
+      "title": "Fragmented Oblivion",
+      "services": {
+        "qobuz": "5949631"
+      },
+      "album": "Cryptic Implosion",
+      "duration": 286,
+      "isrc": "US4LA0714801"
+    },
+    {
+      "artist": "Defeated Sanity",
+      "title": "Propelled Into Sacrilege",
+      "services": {
+        "qobuz": "92816840"
+      },
+      "album": "The Sanguinary Impetus",
+      "duration": 260,
+      "isrc": "USRMX2000055"
+    },
+    {
+      "artist": "Brain Drill",
+      "title": "Gorification",
+      "services": {
+        "qobuz": "60685296"
+      },
+      "album": "Apocalyptic Feasting",
+      "duration": 231,
+      "isrc": "USMBR0705433"
+    },
+    {
+      "artist": "The Faceless",
+      "title": "Planetary Duality I: Hideous Revelation",
+      "services": {
+        "qobuz": "338347578"
+      },
+      "album": "Planetary Duality",
+      "duration": 94,
+      "isrc": "USYFZ0801308"
+    },
+    {
+      "artist": "Winds of Plague",
+      "title": "The Impaler",
+      "services": {
+        "qobuz": "27575231"
+      },
+      "album": "Decimate the Weak",
+      "duration": 182,
+      "isrc": "US4E40840703"
+    },
+    {
+      "artist": "Obscura",
+      "title": "The Anticosmic Overload",
+      "services": {
+        "qobuz": "60650425"
+      },
+      "album": "Cosmogenesis",
+      "duration": 256,
+      "isrc": "US2640903201"
+    },
+    {
+      "artist": "Gorod",
+      "title": "Disavow Your God",
+      "services": {
+        "qobuz": "5949765"
+      },
+      "album": "Process Of A New Decline",
+      "duration": 290,
+      "isrc": "USRMX0900080"
+    },
+    {
+      "artist": "Ulcerate",
+      "title": "Drown Within",
+      "services": {
+        "qobuz": "54548682"
+      },
+      "album": "Everything Is Fire",
+      "duration": 402,
+      "isrc": "USRMX0900001"
+    },
+    {
+      "artist": "Lou Reed",
+      "title": "Beginning of a Great Adventure (2020 Remaster)",
+      "services": {
+        "qobuz": "98773462"
+      },
+      "album": "New York",
+      "duration": 300,
+      "isrc": "USRH12000197"
+    },
+    {
+      "artist": "Fleshgod Apocalypse",
+      "title": "In Honour Of Reason",
+      "services": {
+        "qobuz": "54332191"
+      },
+      "album": "Oracles",
+      "duration": 266,
+      "isrc": "USRMX0900009"
+    },
+    {
+      "artist": "Circle of Contempt",
+      "title": "The Inception",
+      "services": {
+        "qobuz": "128830460"
+      },
+      "album": "Structures for Creation",
+      "duration": 121,
+      "isrc": "QMEU31607763"
+    },
+    {
+      "artist": "Man Must Die",
+      "title": "It Comes In Threes",
+      "services": {
+        "qobuz": "60650199"
+      },
+      "album": "No Tolerance For Imperfection",
+      "duration": 305,
+      "isrc": "US2640903304"
+    },
+    {
+      "artist": "Revocation",
+      "title": "Dismantle the Dictator",
+      "services": {
+        "qobuz": "60770775"
+      },
+      "album": "Existence Is Futile (Deluxe Version)",
+      "duration": 237,
+      "isrc": "US2640906208"
+    },
+    {
+      "artist": "Deeds of Flesh",
+      "title": "Of What's to Come",
+      "services": {
+        "qobuz": "44751711"
+      },
+      "album": "Of What's to Come",
+      "duration": 355,
+      "isrc": "USERN1000329"
+    },
+    {
+      "artist": "Soreption",
+      "title": "Deterioration of Minds",
+      "services": {
+        "qobuz": "44693399"
+      },
+      "album": "Deterioration of Minds",
+      "duration": 200,
+      "isrc": "USERN1008846"
+    },
+    {
+      "artist": "Beyond Creation",
+      "title": "Omnipresent Perception",
+      "services": {
+        "qobuz": "77793685"
+      },
+      "album": "The Aura",
+      "duration": 371,
+      "isrc": "CAB5L1300004"
+    },
+    {
+      "artist": "Cytotoxin",
+      "title": "Radiophobia",
+      "services": {
+        "qobuz": "212149176"
+      },
+      "album": "Radiophobia",
+      "duration": 229,
+      "isrc": "USERN1008219"
+    },
+    {
+      "artist": "Inferi",
+      "title": "The Promethean Kings",
+      "services": {
+        "qobuz": "77860132"
+      },
+      "album": "The Path of Apotheosis",
+      "duration": 369,
+      "isrc": "TCABS1379666"
+    },
+    {
+      "artist": "Dragonforce",
+      "title": "Through The Fire And Flames",
+      "services": {
+        "qobuz": "204249692"
+      },
+      "album": "Killer Elite",
+      "duration": 439,
+      "isrc": "GBAJE0508258"
+    },
+    {
+      "artist": "Gigan",
+      "title": "Cosmic Triangular Communications",
+      "services": {
+        "qobuz": "11824104"
+      },
+      "album": "Multi-Dimensional Fractal-Sorcery And Super Science",
+      "duration": 282,
+      "isrc": "USRMX1300065"
+    },
+    {
+      "artist": "Virvum",
+      "title": "Illuminance",
+      "services": {
+        "qobuz": "77788773"
+      },
+      "album": "Illuminance",
+      "duration": 539,
+      "isrc": "CH6541609566"
+    },
+    {
+      "artist": "The Kennedy Veil",
+      "title": "Ad Noctum",
+      "services": {
+        "qobuz": "44642448"
+      },
+      "album": "Trinity of Falsehood",
+      "duration": 163,
+      "isrc": "USERN1008618"
+    },
+    {
+      "artist": "The Cramps",
+      "title": "The Creature from the Black Leather Lagoon",
+      "services": {
+        "qobuz": "52279702"
+      },
+      "album": "Stay Sick!",
+      "duration": 186,
+      "isrc": "USA3D1310108"
+    },
+    {
+      "artist": "Baring Teeth",
+      "title": "Ghost Chorus Among Old Ruins",
+      "services": {
+        "qobuz": "20469470"
+      },
+      "album": "Ghost Chorus Among Old Ruins",
+      "duration": 262,
+      "isrc": "USRMX1400104"
+    },
+    {
+      "artist": "Abysmal Dawn",
+      "title": "Human Obsolescence",
+      "services": {
+        "qobuz": "19318790"
+      },
+      "album": "Obsolescence",
+      "duration": 270,
+      "isrc": "US2641423901"
+    },
+    {
+      "artist": "Inanimate Existence",
+      "title": "Calling From A Dream",
+      "services": {
+        "qobuz": "271798263"
+      },
+      "album": "Calling From A Dream",
+      "duration": 302,
+      "isrc": "QMZNK1600134"
+    },
+    {
+      "artist": "Allegaeon",
+      "title": "1.618",
+      "services": {
+        "qobuz": "60622280"
+      },
+      "album": "Elements of the Infinite",
+      "duration": 257,
+      "isrc": "USMBR1410653"
+    },
+    {
+      "artist": "Fallujah",
+      "title": "The Flesh Prevails",
+      "services": {
+        "qobuz": "256824456"
+      },
+      "album": "The Flesh Prevails (10 Year Edition)",
+      "duration": 202,
+      "isrc": "QM4TX2411635"
+    },
+    {
+      "artist": "Alkaloid",
+      "title": "Carbon Phrases",
+      "services": {
+        "qobuz": "66092079"
+      },
+      "album": "The Malkuth Grimoire",
+      "duration": 571,
+      "isrc": "USCGH1574672"
+    },
+    {
+      "artist": "Pyrrhon",
+      "title": "Balkanized",
+      "services": {
+        "qobuz": "14862525"
+      },
+      "album": "The Mother of Virtues",
+      "duration": 286,
+      "isrc": "US2641425604"
+    },
+    {
+      "artist": "Serocs",
+      "title": "Thanatophobia",
+      "services": {
+        "qobuz": "64735414"
+      },
+      "album": "The Phobos / Deimos Suite",
+      "duration": 258,
+      "isrc": "USHM91817501"
+    },
+    {
+      "artist": "Iridium Cosmos",
+      "title": "I Wear Your Abscence",
+      "services": {
+        "qobuz": "397370321"
+      },
+      "album": "Kach\u014d F\u016bgetsu",
+      "duration": 126,
+      "isrc": "QT5M42639957"
+    },
+    {
+      "artist": "Myk Jung",
+      "title": "Ten Thousand Centuries",
+      "services": {
+        "qobuz": "73834002"
+      },
+      "album": "Zenith Is Decline - The Nine Lost Ballads",
+      "duration": 280,
+      "isrc": "DEAD20610078"
+    },
+    {
+      "artist": "First Fragment",
+      "title": "Dasein",
+      "services": {
+        "qobuz": "44709904"
+      },
+      "album": "Dasein",
+      "duration": 289,
+      "isrc": "QMZNK1600054"
+    },
+    {
+      "artist": "Krosis",
+      "title": "Buoyancy",
+      "services": {
+        "qobuz": "46340657"
+      },
+      "album": "Solem Vatem",
+      "duration": 287,
+      "isrc": "QMZNK1800392"
+    },
+    {
+      "artist": "Vale of Pnath",
+      "title": "The Prodigal Empire",
+      "services": {
+        "qobuz": "29785650"
+      },
+      "album": "The Prodigal Empire",
+      "duration": 191,
+      "isrc": "USRMX1500014"
+    },
+    {
+      "artist": "The Ritual Aura",
+      "title": "In the Warmth of Its Glow We Thrived",
+      "services": {
+        "qobuz": "220979239"
+      },
+      "album": "Heresiarch",
+      "duration": 291,
+      "isrc": "QM3LS2300028"
+    },
+    {
+      "artist": "Artificial Brain",
+      "title": "Labyrinth Constellation",
+      "services": {
+        "qobuz": "52279829"
+      },
+      "album": "Labyrinth Constellation",
+      "duration": 288,
+      "isrc": "USN681410008"
+    },
+    {
+      "artist": "Archspire",
+      "title": "Involuntary Doppelg\u00e4nger",
+      "services": {
+        "qobuz": "77783578"
+      },
+      "album": "Relentless Mutation",
+      "duration": 226,
+      "isrc": "FR33T1741101"
+    },
+    {
+      "artist": "Arkaik",
+      "title": "Reflections Within Dissonance",
+      "services": {
+        "qobuz": "44930181"
+      },
+      "album": "Reflections Within Dissonance",
+      "duration": 288,
+      "isrc": "USERN1000060"
+    },
+    {
+      "artist": "Hadal Maw",
+      "title": "Oblique Order",
+      "services": {
+        "qobuz": "138319470"
+      },
+      "album": "Oblique Order",
+      "duration": 319,
+      "isrc": "TCAFX2117659"
+    },
+    {
+      "artist": "Charles Wesley Godwin",
+      "title": "Dead To Rights",
+      "services": {
+        "qobuz": "318348491"
+      },
+      "album": "Lonely Mountain Town",
+      "duration": 220,
+      "isrc": "USUG12500664"
+    },
+    {
+      "artist": "Vitriol",
+      "title": "The Parting of a Neck",
+      "services": {
+        "qobuz": "63512518"
+      },
+      "album": "To Bathe From The Throat Of Cowardice",
+      "duration": 273,
+      "isrc": "GBDHC1908701"
+    },
+    {
+      "artist": "Xoth",
+      "title": "Casting the Sigil",
+      "services": {
+        "qobuz": "229979012"
+      },
+      "album": "Interdimensional Invocations",
+      "duration": 292,
+      "isrc": "QZHN41941489"
+    },
+    {
+      "artist": "Unfathomable Ruination",
+      "title": "An Obsidian Perception",
+      "services": {
+        "qobuz": "80757942"
+      },
+      "album": "Enraged And Unbound",
+      "duration": 362,
+      "isrc": "USRMX1800150"
+    },
+    {
+      "artist": "Beneath The Massacre",
+      "title": "Rise of the Fearmonger",
+      "services": {
+        "qobuz": "81297609"
+      },
+      "album": "Fearmonger",
+      "duration": 155,
+      "isrc": "GBDHC2013701"
+    },
+    {
+      "artist": "Cryptic Shift",
+      "title": "The Arctic Chasm",
+      "services": {
+        "qobuz": "92971359"
+      },
+      "album": "Visitations from Enceladus",
+      "duration": 466,
+      "isrc": "QM6MZ2010289"
+    },
+    {
+      "artist": "Wormhole",
+      "title": "The Weakest Among Us",
+      "services": {
+        "qobuz": "80772777"
+      },
+      "album": "The Weakest Among Us",
+      "duration": 190,
+      "isrc": "CH6541783905"
+    },
+    {
+      "artist": "Emahoy Tsege Mariam Gebru",
+      "title": "The Last Tears of the Deceased",
+      "services": {
+        "qobuz": "183855653"
+      },
+      "album": "Spielt Eigen Kompositionen",
+      "duration": 505,
+      "isrc": "QZSQG2202502"
+    },
+    {
+      "artist": "Yu Su",
+      "title": "Sunless feat. Memotone",
+      "services": {
+        "qobuz": "397196340"
+      },
+      "album": "Foundry",
+      "duration": 185,
+      "isrc": "GXGYE2500114"
+    },
+    {
+      "artist": "\u00c6nigmatum",
+      "title": "Forged from Bedlam",
+      "services": {
+        "qobuz": "123661089"
+      },
+      "album": "Deconsecrate",
+      "duration": 343,
+      "isrc": "USJE72113801"
+    },
+    {
+      "artist": "Exocrine",
+      "title": "Maelstrom",
+      "services": {
+        "qobuz": "88640670"
+      },
+      "album": "Maelstrom",
+      "duration": 273,
+      "isrc": "QM4TW2041173"
+    },
+    {
+      "artist": "Cognizance",
+      "title": "Nocturnal Emission",
+      "services": {
+        "qobuz": "77405122"
+      },
+      "album": "Malignant Dominion",
+      "duration": 96,
+      "isrc": "USERN1010062"
+    },
+    {
+      "artist": "Alustrium",
+      "title": "This Hollow Ache",
+      "services": {
+        "qobuz": "115771824"
+      },
+      "album": "A Monument to Silence",
+      "duration": 402,
+      "isrc": "QM4TW2143961"
+    },
+    {
+      "artist": "Aethereus",
+      "title": "Leiden",
+      "services": {
+        "qobuz": "124365800"
+      },
+      "album": "Leiden",
+      "duration": 302,
+      "isrc": "QM3LS2100083"
+    },
+    {
+      "artist": "Hannes Grossmann",
+      "title": "To Sow the Seeds of Earth",
+      "services": {
+        "qobuz": "77489902"
+      },
+      "album": "The Crypts of Sleep",
+      "duration": 264,
+      "isrc": "USHM21685348"
+    },
+    {
+      "artist": "Omnivortex",
+      "title": "Diagrams of Consciousness - Parallel Universe",
+      "services": {
+        "qobuz": "104395188"
+      },
+      "album": "Diagrams of Consciousness",
+      "duration": 688,
+      "isrc": "FI3FC2083809"
+    },
+    {
+      "artist": "Cognitive",
+      "title": "Eniac",
+      "services": {
+        "qobuz": "117072985"
+      },
+      "album": "Malevolent Thoughts of a Hastened Extinction",
+      "duration": 287,
+      "isrc": "QM4TX2100393"
+    },
+    {
+      "artist": "Hideous Divinity",
+      "title": "The Embalmer",
+      "services": {
+        "qobuz": "68191364"
+      },
+      "album": "Simulacrum",
+      "duration": 276,
+      "isrc": "GBDHC1911202"
+    },
+    {
+      "artist": "ATR\u00c6 BILIS",
+      "title": "Excruciate Incarnate",
+      "services": {
+        "qobuz": "254450870"
+      },
+      "album": "Aumicide",
+      "duration": 369,
+      "isrc": "USJE72419710"
+    },
+    {
+      "artist": "Anachronism",
+      "title": "Meanders",
+      "services": {
+        "qobuz": "195863127"
+      },
+      "album": "Meanders",
+      "duration": 240,
+      "isrc": "QZFZ42393654"
+    },
+    {
+      "artist": "Stortregn",
+      "title": "Impermanence",
+      "services": {
+        "qobuz": "106128198"
+      },
+      "album": "Impermanence",
+      "duration": 139,
+      "isrc": "QM3LS2100040"
+    },
+    {
+      "artist": "Xenobiotic",
+      "title": "Mordrake I: Reverie",
+      "services": {
+        "qobuz": "81265999"
+      },
+      "album": "Mordrake",
+      "duration": 177,
+      "isrc": "QM7281905142"
+    },
+    {
+      "artist": "Aeviterne",
+      "title": "Denature",
+      "services": {
+        "qobuz": "143348189"
+      },
+      "album": "The Ailing Facade",
+      "duration": 289,
+      "isrc": "USN682226501"
+    },
+    {
+      "artist": "Inoculation",
+      "title": "Celestial Putridity",
+      "services": {
+        "qobuz": "118913600"
+      },
+      "album": "Celestial Putridity",
+      "duration": 169,
+      "isrc": "QM6MZ2162121"
+    }
+  ]
+}

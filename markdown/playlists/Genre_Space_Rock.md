@@ -1,0 +1,108 @@
+# Genre: Space Rock
+
+Imported genre playlist: Space Rock.
+
+Services: `qobuz:66737979` `tidal:2acd513d-0469-4887-b5bf-9f21fe507d61`
+
+## Tracks (100)
+
+- **The Spotnicks** — The Rocket Man [1997] (2:31) `isrc:SEVHR9700101` `qobuz:89617682`
+- **Pink Floyd** — Interstellar Overdrive [The Piper at the Gates of Dawn] (9:40) `isrc:GBN9Y1100007` `qobuz:47683482`
+- **Lothar and the Hand People** — Comic Strip [Machines: Amherst 1969] (2:57) `isrc:USCWY1900611` `qobuz:86172976`
+- **Black Sabbath** — Planet Caravan [Paranoid] (4:27) `isrc:USWB11304629` `qobuz:386614188`
+- **Hawkwind** — Hurry on Sundown [Hawkwind] (5:01) `isrc:GBAYE9600459` `qobuz:4593986`
+- **U.F.O.** — Flying [Flying - One Hour Space Rock] (26:30) `isrc:DED467220002` `qobuz:5604082`
+- **Nektar** — Astronauts Nightmare [Journey To The Centre Of The Eye] (6:26) `isrc:DEA437100002` `qobuz:155763103`
+- **Arthur Brown's Kingdom Come** — Internal Messenger [Eternal Messenger: An Anthology 1970-1973] (5:09) `isrc:GBBLY2100366` `qobuz:122317134`
+- **Captain Beyond** — Dancing Madly Backwards (On A Sea Of Air) [Captain Beyond] (4:02) `isrc:USPR37280223` `qobuz:54297710`
+- **Gong** — Flying Teapot [Flying Teapot] (11:52) `isrc:GBUM71806459` `qobuz:63705008`
+- **Michael Moorcock & The Deep Fix** — Starcruiser [The New Worlds Fair] (3:16) `isrc:GBBLY0703713` `qobuz:264687187`
+- **Klaatu** — Calling Occupants Of Interplanetary Craft [3:47 EST] (7:10) `isrc:USCA20801718` `qobuz:33983959`
+- **Starcastle** — Lady of the Lake [Starcastle] (10:26) `isrc:USSM10026574` `qobuz:47065`
+- **Omega** — House Of Cards, Pt. I / Time Robber / House Of Cards, Pt. II [Time Robber] (12:27) `isrc:DEMV92200001` `qobuz:144533819`
+- **Space Art** — Onyx [Space Art] (3:40) `isrc:FR6V82122983` `qobuz:99765449`
+- **Here & Now** — Grate Fire of London [Give and Take] (7:37) `isrc:GBAWA0234691` `qobuz:151413803`
+- **Rockets** — On the Road Again [On the Road Again] (8:36) `isrc:CH6321400002` `qobuz:15040432`
+- **Planet Gong** — Opium for the People [Opium for the People] (4:22) `isrc:GBQRF1244235` `qobuz:67098389`
+- **Hawklords** — 25 Years [25 Years On] (4:35) `isrc:GBBLY0803093` `qobuz:318294121`
+- **Eloy** — Time To Turn [Time To Turn] (4:34) `isrc:DEC638200048` `qobuz:788187`
+- **Loop** — Pulse [Fade Out] (4:46) `isrc:GBWWJ0800017` `qobuz:368608806`
+- **Spacemen 3** — Revolution [Playing With Fire] (5:57) `isrc:GBBJX9811105` `qobuz:238114296`
+- **Ozric Tentacles** — Saucers [Strangeitude] (7:32) `isrc:GBCQV9100073` `qobuz:51015927`
+- **The Telescopes** — Flying [Splashdown: The Complete Creation Recordings 1990-1992] (2:51) `isrc:GBBLY1504713` `qobuz:28209320`
+- **Eat Static** — Abnormal Interference [Implant] (8:27) `isrc:GBLFW0700014` `qobuz:119607048`
+- **Porcupine Tree** — Phase I [Voyage 34 (Remaster)] (12:57) `isrc:GBCQV0700109` `qobuz:37967453`
+- **Monster Magnet** — 25 / Longhair [Tab] (12:28) `isrc:ATN261774502` `qobuz:41618610`
+- **Sleep** — Marijuanaut's Theme [The Sciences] (6:39) `isrc:US3JJ1801614` `qobuz:370463624`
+- **Kyuss** — Space Cadet [Welcome to Sky Valley] (7:02) `isrc:USEE10301961` `qobuz:2729076`
+- **Catherine Wheel** — Black Metallic [Ferment] (7:19) `isrc:USWWW0134805` `qobuz:54692797`
+- **The Verve** — Slide Away [A Storm In Heaven] (4:03) `isrc:GBUM71601795` `qobuz:34656334`
+- **Slowdive** — Souvlaki Space Station [Souvlaki] (5:59) `isrc:GBBQY0400040` `qobuz:2697436`
+- **Spectrum** — How You Satisfy Me [Soul Kiss (Glide Divine)] (4:11) `isrc:GBARL1100677` `qobuz:6786219`
+- **HUM** — Stars [You'd Prefer An Astronaut] (5:09) `isrc:USRC19401473` `qobuz:212927`
+- **Flying Saucer Attack** — Rainstorm Blues [Further] (4:09) `isrc:GBCEL0500394` `qobuz:101273776`
+- **Bowery Electric** — Postscript [Beat] (16:41) `isrc:USI4R0401655` `qobuz:63143720`
+- **Failure** — Stuck on You [Fantastic Planet] (4:28) `isrc:GBAAP0300060` `qobuz:46045928`
+- **Bardo Pond** — Tommy Gun Angel [Lapsed] (5:15) `isrc:USMTD9721001` `qobuz:2533578`
+- **Djakarta** — Anemone [Anemone] (4:19) `isrc:FREC02300030` `qobuz:238672671`
+- **Stereolab** — Metronomic Underground [Emperor Tomato Ketchup] (7:54) `isrc:USEE19694710` `qobuz:79173662`
+- **Mogwai** — Mogwai Fear Satan [Mogwai Young Team] (16:19) `isrc:GBCGR2260010` `qobuz:179401607`
+- **Spiritualized** — Ladies and gentlemen we are floating in space [Ladies and gentlemen we are floating in space] (3:54) `isrc:GBARK9700152` `qobuz:90537564`
+- **Sigur Rós** — Svefn-g-englar [Ágætis byrjun] (10:06) `isrc:GBDCA9900067` `qobuz:57352333`
+- **Airospace** — Godspeed You Black Emperor, Pt. II [You're a Liar and You Suck, Who Would Love You?] (3:25) `isrc:QZRP52219817` `qobuz:181313958`
+- **Muse** — Space Dementia [Origin of Symmetry] (6:21) `isrc:GBCVT0100013` `qobuz:3859431`
+- **The Flaming Lips** — Approaching Pavonis Mons by Balloon (Utopia Planitia) [Yoshimi Battles the Pink Robots] (3:09) `isrc:USWB11602516` `qobuz:39634264`
+- **The Warlocks** — Shake the Dope Out [Phoenix] (4:20) `isrc:GBAJH0300364` `qobuz:52080352`
+- **M83** — Run Into Flowers [Dead Cities, Red Seas & Lost Ghosts] (4:09) `isrc:FR86W0300280` `qobuz:18493192`
+- **Oceansize** — One Day All This Could Be Yours [One Day All This Could Be Yours EP] (4:23) `isrc:GBAZP0300010` `qobuz:2340288`
+- **Explosions In The Sky** — Your Hand in Mine [The Earth Is Not a Cold Dead Place] (8:17) `isrc:GBBRP0355005` `qobuz:24041135`
+- **The Mars Volta** — Cicatriz Esp [Deloused in the Comatorium] (12:28) `isrc:USUR10300459` `qobuz:9008560`
+- **Majestic** — Set My Heart On Fire (I'm Alive x And The Beat Goes On) [Set My Heart On Fire (I'm Alive x And The Beat Goes On)] (2:59) `isrc:GBARL2400539` `qobuz:264804707`
+- **Amplifier** — Motorhead [Amplifier] (6:15) `isrc:GB7MC1600201` `qobuz:80134633`
+- **Secret Machines** — Nowhere Again [Now Here Is Nowhere (DMD Album)] (4:13) `isrc:USRE10400004` `qobuz:2571216`
+- **MASERATI** — Kalimera [Inventions for the New Season] (4:11) `isrc:USY6C0712003` `qobuz:20888090`
+- **Silver Mt. Zion** — God Bless Our Dead Marines [Horses In The Sky] (11:44) `isrc:CACQ20703301` `qobuz:49816567`
+- **God is an Astronaut** — All Is Violent, All Is Bright [All Is Violent, All Is Bright (2011 Remastered Edition)] (4:11) `isrc:TCABC1111566` `qobuz:124096411`
+- **Black Mountain** — Stormy High [In The Future] (4:33) `isrc:US38Y0809001` `qobuz:2540521`
+- **65daysofstatic** — Radio Protector [Radio Protector] (5:28) `isrc:GBNTT0600131` `qobuz:74809083`
+- **Red Sparowes** — Buildings Began to Stretch Wide Across the Sky, and the Air Filled with a Reddish Glow [At the Soundless Dawn] (7:23) `isrc:US4JA0500287` `qobuz:46845790`
+- **ANGELS & AIRWAVES** — The Adventure [We Don't Need To Whisper] (5:12) `isrc:USUM70602043` `qobuz:4417602`
+- **The Black Angels** — Young Men Dead [Passover] (5:32) `isrc:USDEA0601801` `qobuz:313171994`
+- **Russian Circles** — Harper Lewis [Station] (7:15) `isrc:US33X0807002` `qobuz:20966733`
+- **jesu** — Silver [Silver] (6:46) `isrc:QZMEM2080760` `qobuz:316326695`
+- **Hammock** — Turn Away and Return [Everything and Nothing] (5:13) `isrc:US7QT1500007` `qobuz:126955648`
+- **Zombi** — Surface To Air [Surface To Air] (7:37) `isrc:US2640654504` `qobuz:60650032`
+- **Boris** — Farewell [Gensho] (7:53) `isrc:JPB621500071` `qobuz:29173396`
+- **Om** — State of Non-Return [Advaitic Songs] (6:05) `isrc:US58L1243802` `qobuz:48466898`
+- **Yndi Halda** — Dash And Blast [Enjoy Eternal Bliss] (16:51) `isrc:USA2B0714901` `qobuz:72031847`
+- **A Place To Bury Strangers** — Keep Slipping Away [Keep Slipping Away] (4:11) `isrc:GB5KW2104354` `qobuz:380491208`
+- **Earthless** — Uluru Rock [From the Ages] (14:08) `isrc:US33R1300066` `qobuz:58432557`
+- **This Will Destroy You** — The Mighty Rio Grande [S/T] (11:16) `isrc:US76L0710410` `qobuz:46826305`
+- **Maybeshewill** — Not For Want Of Trying [Not for Want of Trying] (5:33) `isrc:GBPDA0810009` `qobuz:237750896`
+- **Motorpsycho** — Vortex Surfer [Trust Us] (8:59) `isrc:NOAAC9801040` `qobuz:196719344`
+- **The Horrors** — Sea Within a Sea [Primary Colours] (7:58) `isrc:GBBKS0900056` `qobuz:2532085`
+- **Long Distance Calling** — Apparitions [Avoid the Light] (12:17) `isrc:GBDHC0901201` `qobuz:27674546`
+- **MONO** — Ashes in the Snow [Hymn to the Immortal Wind] (11:44) `isrc:USY6C0914801` `qobuz:20968598`
+- **Caspian** — Ghosts Of The Garden City [Tertia] (7:31) `isrc:DEBL80800114` `qobuz:85315418`
+- **Moon Duo** — Sleepwalker [Circles] (4:55) `isrc:US5NR1208301` `qobuz:243058630`
+- **Majeure** — Timespan [Timespan Redux] (17:58) `isrc:USY6C1814503` `qobuz:46573674`
+- **Common** — Ghetto Dreams [The Dreamer, The Believer] (3:54) `isrc:USWB11103506` `qobuz:4721267`
+- **If These Trees Could Talk** — Barren Lands of the Modern Dinosaur [Red Forest] (5:57) `isrc:USCGJ1202184` `qobuz:78453900`
+- **Tame Impala** — Apocalypse Dreams [Lonerism] (5:56) `isrc:AUUM71200489` `qobuz:8524915`
+- **OCS** — The Dream [Carrion Crawler / The Dream] (6:52) `isrc:USA3D1110117` `qobuz:52233217`
+- **Wooden Shjips** — Contact [Contact b/w I Hear the Vibrations] (7:20) `isrc:USMEX0800072` `qobuz:296694342`
+- **Lumerians** — Dogon Genesis [The High Frontier] (5:54) `isrc:USBQU1300012` `qobuz:304989746`
+- **Föllakzoid** — Electric [III] (11:54) `isrc:US5NR1512801` `qobuz:22974373`
+- **Monkey3** — Icarus [The 5th Sun] (14:40) `isrc:ATN261349901` `qobuz:37158351`
+- **Yuri Gagarin** — At the Center of All Infinity [Space Rock: an Interstellar Traveler's Guide] (8:07) `isrc:QM6XS1602671` `qobuz:44343221`
+- **We Lost The Sea** — A Gallant Gentleman [Departure Songs] (6:04) `isrc:AUAJ11500039` `qobuz:400480702`
+- **Public Service Broadcasting** — Gagarin [The Race for Space] (3:46) `isrc:GBSZF1400168` `qobuz:259554335`
+- **Pond** — Man It Feels Like Space Again [Man It Feels Like Space Again] (8:21) `isrc:AUUM71401723` `qobuz:370419600`
+- **Kikagaku Moyo** — Dripping Sun [Masana Temples] (7:50) `isrc:TCADT1851279` `qobuz:124546053`
+- **Psychedelic Porn Crumpets** — Found God in a Tomato [High Visceral, Pt. 1] (8:54) `isrc:TCACL1686199` `qobuz:125548168`
+- **The Claypool Lennon Delirium** — Blood and Rockets - Movement I, Saga of Jack Parsons - Movement II, Too the Moon [Blood and Rockets - Movement I, Saga of Jack Parsons - Movement II, Too the Moon] (6:29) `isrc:USATO1800346` `qobuz:55494814`
+- **Elder** — Sanctuary [Reflections of a Floating World] (11:13) `isrc:DEM251702011` `qobuz:315270329`
+- **King Gizzard & The Lizard Wizard** — Crumbling Castle [Polygondwanaland] (10:44) `isrc:AUTZK1700075` `qobuz:172464665`
+- **Slift** — Ummon [UMMON] (5:45) `isrc:FRQ031915701` `qobuz:81190885`
+- **Beach House** — Space Song [Depression Cherry] (5:20) `isrc:USSUB1512203` `qobuz:26651993`
+- **And So I Watch You From Afar** — Set Guitars to Kill [And So I Watch You From Afar] (5:29) `isrc:USQY51177654` `qobuz:330300608`

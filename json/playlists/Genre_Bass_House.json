@@ -1,0 +1,1009 @@
+{
+  "name": "Genre: Bass House",
+  "services": {
+    "qobuz": "66715431"
+  },
+  "description": "Imported genre playlist: Bass House.",
+  "tracks": [
+    {
+      "artist": "Jazz for the Sake of Jazz",
+      "title": "Hear See Feel the Mood Music",
+      "services": {
+        "qobuz": "117203807"
+      },
+      "album": "Jazz for the Sake of Jazz: Volume 2",
+      "duration": 100,
+      "isrc": "GBSMU6819892"
+    },
+    {
+      "artist": "AC Slater",
+      "title": "Bass Inside",
+      "services": {
+        "qobuz": "31071457"
+      },
+      "album": "Bass Inside",
+      "duration": 264,
+      "isrc": "USAT21601116"
+    },
+    {
+      "artist": "Destructo",
+      "title": "Party Up",
+      "services": {
+        "qobuz": "57562637"
+      },
+      "album": "Party Up (feat. YG)",
+      "duration": 235,
+      "isrc": "USUM71407267"
+    },
+    {
+      "artist": "D&d",
+      "title": "Notorious Malaa",
+      "services": {
+        "qobuz": "363656201"
+      },
+      "album": "Noel No End",
+      "duration": 216,
+      "isrc": "HKD012421414"
+    },
+    {
+      "artist": "Dr. Fresch",
+      "title": "Take A Step Back",
+      "services": {
+        "qobuz": "415178026"
+      },
+      "album": "Take A Step Back",
+      "duration": 160,
+      "isrc": "CA5KR2102337"
+    },
+    {
+      "artist": "LOVIN' THE BUNK",
+      "title": "Ghostly lights",
+      "services": {
+        "qobuz": "356092511"
+      },
+      "album": "Ghostly lights",
+      "duration": 232,
+      "isrc": "TCJPL2531179"
+    },
+    {
+      "artist": "Drezo",
+      "title": "Guap",
+      "services": {
+        "qobuz": "132255749"
+      },
+      "album": "Guap",
+      "duration": 283,
+      "isrc": "TCACI1594248"
+    },
+    {
+      "artist": "Autoerotique",
+      "title": "Asphyxiation",
+      "services": {
+        "qobuz": "53861571"
+      },
+      "album": "Asphyxiation",
+      "duration": 281,
+      "isrc": "USDM31300225"
+    },
+    {
+      "artist": "Curbi",
+      "title": "Rubber",
+      "services": {
+        "qobuz": "47423002"
+      },
+      "album": "Rubber",
+      "duration": 168,
+      "isrc": "NLZ541500380"
+    },
+    {
+      "artist": "Valentino Khan",
+      "title": "Pump",
+      "services": {
+        "qobuz": "40881518"
+      },
+      "album": "Pump",
+      "duration": 184,
+      "isrc": "USZ4V1700087"
+    },
+    {
+      "artist": "Ephwurd",
+      "title": "Duckface (feat. DKAY)",
+      "services": {
+        "qobuz": "47158831"
+      },
+      "album": "Duckface (feat. DKAY)",
+      "duration": 147,
+      "isrc": "NLZ541500693"
+    },
+    {
+      "artist": "Skrillex",
+      "title": "Dirty Vibe (with Diplo, G-Dragon, and CL)",
+      "services": {
+        "qobuz": "21285307"
+      },
+      "album": "Dirty Vibe",
+      "duration": 241,
+      "isrc": "USAT21405313"
+    },
+    {
+      "artist": "Iration Steppas",
+      "title": "Foot & Mouth",
+      "services": {
+        "qobuz": "236544438"
+      },
+      "album": "SUBDUB - Digital Africa",
+      "duration": 292,
+      "isrc": "FXQ802300004"
+    },
+    {
+      "artist": "Prong",
+      "title": "Snap Your Fingers, Snap Your Neck",
+      "services": {
+        "qobuz": "4898637"
+      },
+      "album": "Cleansing",
+      "duration": 251,
+      "isrc": "USSM19303155"
+    },
+    {
+      "artist": "Jay Dixie",
+      "title": "Feel Your Love",
+      "services": {
+        "qobuz": "153100809"
+      },
+      "album": "Feel Your Love",
+      "duration": 165,
+      "isrc": "NLYK92200038"
+    },
+    {
+      "artist": "David Bowie",
+      "title": "I'm Deranged",
+      "services": {
+        "qobuz": "28108760"
+      },
+      "album": "1. Outside (The Nathan Adler Diaries: A Hyper Cycle)",
+      "duration": 271,
+      "isrc": "USRF30000042"
+    },
+    {
+      "artist": "Los Lobos",
+      "title": "Come on Let's Go",
+      "services": {
+        "qobuz": "2859675"
+      },
+      "album": "...And A Time To Dance",
+      "duration": 131,
+      "isrc": "USRH10904291"
+    },
+    {
+      "artist": "Various Interprets",
+      "title": "What Kind of Fool",
+      "services": {
+        "qobuz": "17505"
+      },
+      "album": "Duets",
+      "duration": 245,
+      "isrc": "USSM10209148"
+    },
+    {
+      "artist": "Boys Noize",
+      "title": "Got It",
+      "services": {
+        "qobuz": "6790853"
+      },
+      "album": "Out of the Black",
+      "duration": 192,
+      "isrc": "DEDU21200149"
+    },
+    {
+      "artist": "Dustycloud",
+      "title": "Ignore Them",
+      "services": {
+        "qobuz": "143610875"
+      },
+      "album": "Ignore Them",
+      "duration": 188,
+      "isrc": "CA6D22100861"
+    },
+    {
+      "artist": "Bellecour",
+      "title": "Fonky Beat",
+      "services": {
+        "qobuz": "351641240"
+      },
+      "album": "The 10 Years Of Confession",
+      "duration": 209,
+      "isrc": "USLD90817477"
+    },
+    {
+      "artist": "Henry Fong",
+      "title": "Bust It",
+      "services": {
+        "qobuz": "123284767"
+      },
+      "album": "Bust It",
+      "duration": 128,
+      "isrc": "USDM32136201"
+    },
+    {
+      "artist": "Genesis",
+      "title": "Get 'Em Out by Friday",
+      "services": {
+        "qobuz": "45275438"
+      },
+      "album": "Foxtrot",
+      "duration": 515,
+      "isrc": "GBAAA0701744"
+    },
+    {
+      "artist": "Sikdope",
+      "title": "Snakes",
+      "services": {
+        "qobuz": "47148725"
+      },
+      "album": "Snakes",
+      "duration": 174,
+      "isrc": "GB5HL1500024"
+    },
+    {
+      "artist": "Stray Kids",
+      "title": "Truman (HAN & Felix)",
+      "services": {
+        "qobuz": "325781061"
+      },
+      "album": "Mixtape : dominATE",
+      "duration": 195,
+      "isrc": "US5TA2500013"
+    },
+    {
+      "artist": "Wax Motif",
+      "title": "Go Deep",
+      "services": {
+        "qobuz": "6661537"
+      },
+      "album": "Go DeepRemixes",
+      "duration": 283,
+      "isrc": "GBEFR1208102"
+    },
+    {
+      "artist": "Joyryde",
+      "title": "HOT DRUM",
+      "services": {
+        "qobuz": "36089757"
+      },
+      "album": "HOT DRUM",
+      "duration": 267,
+      "isrc": "USAT21603258"
+    },
+    {
+      "artist": "Skrillex",
+      "title": "Chicken Soup",
+      "services": {
+        "qobuz": "40308917"
+      },
+      "album": "HOWSLA",
+      "duration": 207,
+      "isrc": "USAT21701093"
+    },
+    {
+      "artist": "Tove Lo",
+      "title": "stranger",
+      "services": {
+        "qobuz": "44888088"
+      },
+      "album": "BLUE LIPS",
+      "duration": 233,
+      "isrc": "SEUM71701025"
+    },
+    {
+      "artist": "Fake Blood",
+      "title": "Pushing Me",
+      "services": {
+        "qobuz": "212917018"
+      },
+      "album": "The Feels",
+      "duration": 421,
+      "isrc": "UK84Q1500005"
+    },
+    {
+      "artist": "Wax Motif",
+      "title": "Used 2 Be",
+      "services": {
+        "qobuz": "57562639"
+      },
+      "album": "Used 2 Be (feat. Jevon Doe)",
+      "duration": 337,
+      "isrc": "GBKPL1788375"
+    },
+    {
+      "artist": "Janelle Mon\u00e1e",
+      "title": "Lipstick Lover",
+      "services": {
+        "qobuz": "266892529"
+      },
+      "album": "Little Runaway - All Fresh",
+      "duration": 169,
+      "isrc": "USAT22302984"
+    },
+    {
+      "artist": "Low Steppa",
+      "title": "Got The Funk",
+      "services": {
+        "qobuz": "325694130"
+      },
+      "album": "Got The Funk",
+      "duration": 184,
+      "isrc": "GBCPZ2524290"
+    },
+    {
+      "artist": "Father",
+      "title": "Everybody in the Club Gettin Shot",
+      "services": {
+        "qobuz": "37659168"
+      },
+      "album": "Who's Gonna Get Fucked First?",
+      "duration": 120,
+      "isrc": "UST8K1551779"
+    },
+    {
+      "artist": "Doechii",
+      "title": "girl, get up.",
+      "services": {
+        "qobuz": "380056426"
+      },
+      "album": "girl, get up.",
+      "duration": 188,
+      "isrc": "USUG12504106"
+    },
+    {
+      "artist": "Tisoki",
+      "title": "Bring It Back",
+      "services": {
+        "qobuz": "58013299"
+      },
+      "album": "Bring It Back",
+      "duration": 152,
+      "isrc": "CA6D21800093"
+    },
+    {
+      "artist": "Kuuro",
+      "title": "Savage",
+      "services": {
+        "qobuz": "58026365"
+      },
+      "album": "Savage",
+      "duration": 226,
+      "isrc": "CA6D21600366"
+    },
+    {
+      "artist": "Tony Romera",
+      "title": "I Can't",
+      "services": {
+        "qobuz": "62435336"
+      },
+      "album": "I Can't",
+      "duration": 183,
+      "isrc": "CA6D21900164"
+    },
+    {
+      "artist": "Nitti Gritti",
+      "title": "Dirty Dancing",
+      "services": {
+        "qobuz": "36139191"
+      },
+      "album": "Dirty Dancing",
+      "duration": 210,
+      "isrc": "TCACQ1626466"
+    },
+    {
+      "artist": "Wuki",
+      "title": "Lip Pop",
+      "services": {
+        "qobuz": "95179793"
+      },
+      "album": "BBQ Beats, Vol. 3",
+      "duration": 373,
+      "isrc": "UKACT1550574"
+    },
+    {
+      "artist": "Black V Neck",
+      "title": "Like Whoa",
+      "services": {
+        "qobuz": "126201528"
+      },
+      "album": "Like Whoa",
+      "duration": 186,
+      "isrc": "GBKQU2164630"
+    },
+    {
+      "artist": "Matroda",
+      "title": "Boom Bap",
+      "services": {
+        "qobuz": "58013281"
+      },
+      "album": "Shut It Down",
+      "duration": 264,
+      "isrc": "CA6D21800039"
+    },
+    {
+      "artist": "The Hatters",
+      "title": "Russian Style",
+      "services": {
+        "qobuz": "40023947"
+      },
+      "album": "\u041f\u043e\u043b\u043d\u0430\u044f \u0448\u043b\u044f\u043f\u0430",
+      "duration": 248,
+      "isrc": "FR2X41758280"
+    },
+    {
+      "artist": "Marten H\u00f8rger",
+      "title": "Believe In Me",
+      "services": {
+        "qobuz": "122456396"
+      },
+      "album": "Believe In Me",
+      "duration": 191,
+      "isrc": "USDM32100351"
+    },
+    {
+      "artist": "DJ Mercer",
+      "title": "Encore",
+      "services": {
+        "qobuz": "88033000"
+      },
+      "album": "Encore",
+      "duration": 186,
+      "isrc": "CYA111700156"
+    },
+    {
+      "artist": "Bingo Players",
+      "title": "Like This Like That",
+      "services": {
+        "qobuz": "317351792"
+      },
+      "album": "Like This Like That",
+      "duration": 174,
+      "isrc": "NLXV51301025"
+    },
+    {
+      "artist": "D.J. Rogers",
+      "title": "Say You Love Me, One More Time",
+      "services": {
+        "qobuz": "33551189"
+      },
+      "album": "On the Road Again",
+      "duration": 145,
+      "isrc": "USRC17607874"
+    },
+    {
+      "artist": "One True God",
+      "title": "Addicted",
+      "services": {
+        "qobuz": "381762595"
+      },
+      "album": "Addicted",
+      "duration": 162,
+      "isrc": "CA5KR2059396"
+    },
+    {
+      "artist": "Deniz Akbulut",
+      "title": "Raid",
+      "services": {
+        "qobuz": "206838797"
+      },
+      "album": "CrossCode ~ The Ultimate Arrange",
+      "duration": 313,
+      "isrc": "QZ6K42100060"
+    },
+    {
+      "artist": "Kage",
+      "title": "The Grave",
+      "services": {
+        "qobuz": "105263963"
+      },
+      "album": "The Grave",
+      "duration": 212,
+      "isrc": "CA6D22000428"
+    },
+    {
+      "artist": "Mastodon",
+      "title": "More Than I Could Chew",
+      "services": {
+        "qobuz": "130748251"
+      },
+      "album": "Hushed and Grim",
+      "duration": 411,
+      "isrc": "USRE12100526"
+    },
+    {
+      "artist": "Shift K3y",
+      "title": "I Know",
+      "services": {
+        "qobuz": "17999580"
+      },
+      "album": "I Know",
+      "duration": 194,
+      "isrc": "GBARL1400878"
+    },
+    {
+      "artist": "Joe Cocker",
+      "title": "Feelin' Alright",
+      "services": {
+        "qobuz": "52480493"
+      },
+      "album": "Mad Dogs & Englishmen",
+      "duration": 347,
+      "isrc": "USAM17000388"
+    },
+    {
+      "artist": "DJ Allai",
+      "title": "Zipzap Zap Loop",
+      "services": {
+        "qobuz": "314145686"
+      },
+      "album": "Zip Zap Rap",
+      "duration": 183,
+      "isrc": "UKXN22523560"
+    },
+    {
+      "artist": "Mosey",
+      "title": "So Damn Funky",
+      "services": {
+        "qobuz": "253871919"
+      },
+      "album": "So Damn Funky",
+      "duration": 229,
+      "isrc": "GBKPL1825542"
+    },
+    {
+      "artist": "Midnight Tyrannosaurus",
+      "title": "Supreme Symbiote",
+      "services": {
+        "qobuz": "163284356"
+      },
+      "album": "Supreme Symbiote",
+      "duration": 208,
+      "isrc": "GB7YL1999402"
+    },
+    {
+      "artist": "DONT BLINK",
+      "title": "YOU KNOW WHAT I LIKE",
+      "services": {
+        "qobuz": "305217390"
+      },
+      "album": "YOU KNOW WHAT I LIKE",
+      "duration": 214,
+      "isrc": "GBLV62416298"
+    },
+    {
+      "artist": "Pink Noise",
+      "title": "Loopable - Noisy Wildlife Ambience (Pink Noise)",
+      "services": {
+        "qobuz": "158289857"
+      },
+      "album": "Relaxing Forest Nature Sounds with Pink Noise, Loopable",
+      "duration": 299,
+      "isrc": "PL52J2271416"
+    },
+    {
+      "artist": "Ocean Sounds",
+      "title": "Ocean Sounds to Relax Your Body and Mind",
+      "services": {
+        "qobuz": "99486332"
+      },
+      "album": "Ocean Sounds",
+      "duration": 130,
+      "isrc": "DEYA92005673"
+    },
+    {
+      "artist": "Late Blossom",
+      "title": "Only Complication",
+      "services": {
+        "qobuz": "418852567"
+      },
+      "album": "Only Complication",
+      "duration": 139,
+      "isrc": "QZHZ42614213"
+    },
+    {
+      "artist": "Sqwad",
+      "title": "Wild",
+      "services": {
+        "qobuz": "237664593"
+      },
+      "album": "Wild",
+      "duration": 245,
+      "isrc": "FRV602300196"
+    },
+    {
+      "artist": "Bad Bunny",
+      "title": "200 Mph",
+      "services": {
+        "qobuz": "57485950"
+      },
+      "album": "X 100PRE",
+      "duration": 170,
+      "isrc": "QM7281884665"
+    },
+    {
+      "artist": "Saint Motel",
+      "title": "My Type",
+      "services": {
+        "qobuz": "420703618"
+      },
+      "album": "Tiktok Nostalgia",
+      "duration": 204,
+      "isrc": "GBAYE1400856"
+    },
+    {
+      "artist": "D'Angelo",
+      "title": "Send It On",
+      "services": {
+        "qobuz": "37457592"
+      },
+      "album": "Voodoo",
+      "duration": 357,
+      "isrc": "USVI29900230"
+    },
+    {
+      "artist": "MPL",
+      "title": "3 ami\u00b7es",
+      "services": {
+        "qobuz": "370187057"
+      },
+      "album": "Bisou magique",
+      "duration": 145,
+      "isrc": "FR9W12473180"
+    },
+    {
+      "artist": "Knock2",
+      "title": "dashstar*",
+      "services": {
+        "qobuz": "380726198"
+      },
+      "album": "dashstar*",
+      "duration": 140,
+      "isrc": "CA5KR2261726"
+    },
+    {
+      "artist": "Grateful Dead",
+      "title": "The Other One",
+      "services": {
+        "qobuz": "164958547"
+      },
+      "album": "Madison Square Garden, New York, NY 3/9/81",
+      "duration": 467,
+      "isrc": "USRH12102441"
+    },
+    {
+      "artist": "Adrian Celest Putra",
+      "title": "Backstage Pass Badge",
+      "services": {
+        "qobuz": "401086171"
+      },
+      "album": "Backstage Pass Badge",
+      "duration": 235,
+      "isrc": "QT5M62676405"
+    },
+    {
+      "artist": "Cliff Richard",
+      "title": "Human Work of Art",
+      "services": {
+        "qobuz": "5257194"
+      },
+      "album": "1990s",
+      "duration": 278,
+      "isrc": "GBAYE0202181"
+    },
+    {
+      "artist": "\u20acURO TRA$H",
+      "title": "What You Looking For",
+      "services": {
+        "qobuz": "301206550"
+      },
+      "album": "House Music For Stripclubs",
+      "duration": 182,
+      "isrc": "CA5KR2447421"
+    },
+    {
+      "artist": "Reece Ros\u00e9",
+      "title": "Breathe",
+      "services": {
+        "qobuz": "289531067"
+      },
+      "album": "Eating Good",
+      "duration": 215,
+      "isrc": "USYBL2401628"
+    },
+    {
+      "artist": "Bad Computer",
+      "title": "Move Like This",
+      "services": {
+        "qobuz": "385719911"
+      },
+      "album": "Move Like This",
+      "duration": 215,
+      "isrc": "GB2LD2510110"
+    },
+    {
+      "artist": "Julian Jordan",
+      "title": "PUSH",
+      "services": {
+        "qobuz": "323106919"
+      },
+      "album": "PUSH",
+      "duration": 155,
+      "isrc": "NLM5S2502472"
+    },
+    {
+      "artist": "Laidback Luke",
+      "title": "It Clicked",
+      "services": {
+        "qobuz": "368972968"
+      },
+      "album": "CODE/RED",
+      "duration": 110,
+      "isrc": "USDM32570501"
+    },
+    {
+      "artist": "Glass Petals",
+      "title": "Just Let Go",
+      "services": {
+        "qobuz": "399212088"
+      },
+      "album": "Best of 2025",
+      "duration": 201,
+      "isrc": "CA5KR2528318"
+    },
+    {
+      "artist": "GTA",
+      "title": "Little Bit of This (feat. Vince Staples)",
+      "services": {
+        "qobuz": "34772406"
+      },
+      "album": "Little Bit of This (feat. Vince Staples)",
+      "duration": 168,
+      "isrc": "USWB11601286"
+    },
+    {
+      "artist": "Aazar",
+      "title": "The Carnival",
+      "services": {
+        "qobuz": "155265983"
+      },
+      "album": "The Carnival",
+      "duration": 165,
+      "isrc": "FRUM72200596"
+    },
+    {
+      "artist": "Muscle Shoals Horns",
+      "title": "Get It Up",
+      "services": {
+        "qobuz": "31700023"
+      },
+      "album": "Born to Get Down",
+      "duration": 218,
+      "isrc": "USSM11501335"
+    },
+    {
+      "artist": "Rene\u00e9 Rapp",
+      "title": "Kiss It Kiss It",
+      "services": {
+        "qobuz": "348466677"
+      },
+      "album": "BITE ME",
+      "duration": 172,
+      "isrc": "USUM72504844"
+    },
+    {
+      "artist": "Ship Wrek",
+      "title": "Energy",
+      "services": {
+        "qobuz": "61944334"
+      },
+      "album": "Energy",
+      "duration": 173,
+      "isrc": "USAT21902703"
+    },
+    {
+      "artist": "Sage and Grace take the Disco",
+      "title": "Dancing Lights",
+      "services": {
+        "qobuz": "411878133"
+      },
+      "album": "Dancing Lights",
+      "duration": 212,
+      "isrc": "SGW502507663"
+    },
+    {
+      "artist": "Bat\u0131kan Ab\u0131z",
+      "title": "Naughty Pleasure",
+      "services": {
+        "qobuz": "370317836"
+      },
+      "album": "Atmospheric Creations, Vol. 3",
+      "duration": 322,
+      "isrc": "DEW872307586"
+    },
+    {
+      "artist": "Ryan Kurt",
+      "title": "Further",
+      "services": {
+        "qobuz": "99658704"
+      },
+      "album": "Further",
+      "duration": 173,
+      "isrc": "USDM32027501"
+    },
+    {
+      "artist": "Us3",
+      "title": "Tukka Yoot's Riddim",
+      "services": {
+        "qobuz": "151185021"
+      },
+      "album": "Acid Jazz",
+      "duration": 340,
+      "isrc": "USBN29300082"
+    },
+    {
+      "artist": "UTO",
+      "title": "Art&Life",
+      "services": {
+        "qobuz": "250465272"
+      },
+      "album": "When all you want to do is be the fire part of fire",
+      "duration": 197,
+      "isrc": "FRT092300135"
+    },
+    {
+      "artist": "Cheyenne Giles",
+      "title": "Been Good",
+      "services": {
+        "qobuz": "388303071"
+      },
+      "album": "Been Good",
+      "duration": 167,
+      "isrc": "USDM32684803"
+    },
+    {
+      "artist": "Beastie Boys",
+      "title": "Intergalactic",
+      "services": {
+        "qobuz": "1781581"
+      },
+      "album": "Hello Nasty (Remastered Edition)",
+      "duration": 231,
+      "isrc": "USCA20903764"
+    },
+    {
+      "artist": "Gwen Stefani",
+      "title": "Hot Cocoa",
+      "services": {
+        "qobuz": "367384768"
+      },
+      "album": "You Make It Feel Like Christmas",
+      "duration": 218,
+      "isrc": "USUM72509399"
+    },
+    {
+      "artist": "CHYL",
+      "title": "Fool Me",
+      "services": {
+        "qobuz": "199857308"
+      },
+      "album": "Fool Me",
+      "duration": 133,
+      "isrc": "CA6D22300055"
+    },
+    {
+      "artist": "MEMBA",
+      "title": "CAUTION",
+      "services": {
+        "qobuz": "387931745"
+      },
+      "album": "ABOVE*GROUND",
+      "duration": 171,
+      "isrc": "CA5KR2543250"
+    },
+    {
+      "artist": "Queen",
+      "title": "Somebody To Love",
+      "services": {
+        "qobuz": "427252069"
+      },
+      "album": "Greatest Hits In Japan",
+      "duration": 297,
+      "isrc": "GBUM71029613"
+    },
+    {
+      "artist": "NUZB",
+      "title": "Waiting For Ya",
+      "services": {
+        "qobuz": "343540613"
+      },
+      "album": "Waiting For Ya",
+      "duration": 185,
+      "isrc": "GBKQU2559634"
+    },
+    {
+      "artist": "NXSTY",
+      "title": "Street Level",
+      "services": {
+        "qobuz": "338422994"
+      },
+      "album": "Street Level / Listen Up",
+      "duration": 179,
+      "isrc": "CA6D22500202"
+    },
+    {
+      "artist": "Tujamo",
+      "title": "Fader",
+      "services": {
+        "qobuz": "329610195"
+      },
+      "album": "Fader",
+      "duration": 145,
+      "isrc": "FRX202513741"
+    },
+    {
+      "artist": "Melva Houston",
+      "title": "All Along Broadway",
+      "services": {
+        "qobuz": "83364833"
+      },
+      "album": "Black Coffee",
+      "duration": 178,
+      "isrc": "USHM91013204"
+    },
+    {
+      "artist": "RetroVision",
+      "title": "ALLNIGHT",
+      "services": {
+        "qobuz": "327047758"
+      },
+      "album": "ALLNIGHT",
+      "duration": 156,
+      "isrc": "CA6D22400768"
+    },
+    {
+      "artist": "Ti\u00ebsto",
+      "title": "Flex",
+      "services": {
+        "qobuz": "318705368"
+      },
+      "album": "Flex",
+      "duration": 212,
+      "isrc": "NLZ542500097"
+    },
+    {
+      "artist": "Aspyer",
+      "title": "Falling Into You",
+      "services": {
+        "qobuz": "315571040"
+      },
+      "album": "Falling Into You",
+      "duration": 187,
+      "isrc": "GBKQU2507166"
+    },
+    {
+      "artist": "Magnificence",
+      "title": "Time Machine",
+      "services": {
+        "qobuz": "322612690"
+      },
+      "album": "Time Machine",
+      "duration": 215,
+      "isrc": "USA2P2511156"
+    },
+    {
+      "artist": "Vluarr",
+      "title": "Anyway",
+      "services": {
+        "qobuz": "361955030"
+      },
+      "album": "Anyway",
+      "duration": 157,
+      "isrc": "NLM5S2502697"
+    }
+  ]
+}

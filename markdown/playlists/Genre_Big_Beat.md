@@ -1,0 +1,108 @@
+# Genre: Big Beat
+
+Imported genre playlist: Big Beat.
+
+Services: `qobuz:66713456` `tidal:f4848422-5646-474a-8e16-b1e26cd85f6a`
+
+## Tracks (100)
+
+- **Pop Will Eat Itself** — Ich Bin Ein Auslander [Dos Dedos Mis Amigos] (4:00) `isrc:GBAHT1800808` `qobuz:58333592`
+- **Leftfield** — Phat Planet [Rhythm and Stealth] (5:23) `isrc:GBBKN9900230` `qobuz:53259`
+- **Bomb The Bass** — Bug Powder Dust [Clear] (4:18) `isrc:GBANY9400113` `qobuz:88257924`
+- **Emergency Broadcast Network** — 3:7:8 [Telecommunication Breakdown] (3:41) `isrc:USTV19500178` `qobuz:48526420`
+- **Renegade Soundwave** — The Phantom [Soundclash] (4:47) `isrc:GBAJH0400651` `qobuz:12844356`
+- **Freak Power** — Turn On, Tune In, Cop Out [Turn On, Tune In, Cop Out] (4:26) `isrc:GBANY9300027` `qobuz:13458015`
+- **The Future Sound Of London** — We Have Explosive (Part 1) [We Have Explosive] (7:21) `isrc:GBAAA9710438` `qobuz:5081862`
+- **The Chemical Brothers** — Block Rockin' Beats [Dig Your Own Hole] (5:13) `isrc:GBAAA9700048` `qobuz:1065661`
+- **The Prodigy** — Firestarter [The Fat of the Land - Expanded Edition] (4:39) `isrc:GBBKS9700080` `qobuz:7008315`
+- **The Crystal Method** — Busy Child [Vegas] (7:24) `isrc:USOR19700302` `qobuz:168757727`
+- **Bentley Rhythm Ace** — Bentley's Gonna Sort You Out [Bentley's Gonna Sort You Out / Run On The Spot [playlist 1]] (5:07) `isrc:GBAYE9701295` `qobuz:1764609`
+- **Death In Vegas** — Dirt [Dead Elvis] (5:53) `isrc:GBARS9600152` `qobuz:37361461`
+- **David Holmes** — Let's Get Killed [Let's Get Killed] (7:27) `isrc:GBARA9700048` `qobuz:3881612`
+- **Fluke** — Atom Bomb [Risotto] (5:45) `isrc:GBAAA9710426` `qobuz:4395635`
+- **Lunatic Calm** — Leave You Far Behind [Leave You Far Behind] (3:12) `isrc:QZHN61920797` `qobuz:240379324`
+- **Coldcut** — Timber [Let Us Play] (4:32) `isrc:GBCFB0408232` `qobuz:57916213`
+- **Cornershop** — Brimful of Asha [Why Try Harder - The Greatest Hits] (4:00) `isrc:GBBMQ9700126` `qobuz:387099913`
+- **Primal Scream** — Burning Wheel [Vanishing Point (Expanded Edition)] (7:17) `isrc:GBAAW9700329` `qobuz:4591560`
+- **Fatboy Slim** — The Rockafeller Skank [The Rockafeller Skank] (4:01) `isrc:GBBMQ9800051` `qobuz:387092312`
+- **Propellerheads** — Spybreak! [Decksandrumsandrockandroll 20th anniversary] (7:00) `isrc:GBCRC9700040` `qobuz:50508047`
+- **Wildchild** — Renegade Master [British Festival] (4:00) `isrc:GBAKW9800036` `qobuz:217302452`
+- **Lo Fidelity Allstars** — Battleflag [How to Operate With a Blown Mind] (5:39) `isrc:GBBMQ9800018` `qobuz:376965814`
+- **The Wiseguys** — Start the Commotion [The Antidote] (5:52) `isrc:GBCFC9800044` `qobuz:6326570`
+- **Dub Pistols** — Cyclone [Point Blank] (3:34) `isrc:GBARS9800097` `qobuz:141684470`
+- **Lionrock** — Rude Boy Rock [Rude Boy Rock] (3:41) `isrc:GBARL9700579` `qobuz:13506336`
+- **Monkey Mafia** — Blow The Whole Joint Up [Deconstruction Reconstructed 006] (5:18) `isrc:GBARS9500008` `qobuz:3110510`
+- **Hardknox** — Fire Like This [Hardknox] (4:38) `isrc:USJI19910678` `qobuz:211425`
+- **Shaggy** — Leggo Babylon Wickedness (feat. Beenie Man) [King Jammy Presents New Sounds Of Freedom] (4:31) `isrc:USVPR1500485` `qobuz:33259431`
+- **Beastie Boys** — Body Movin' [Solid Gold Hits] (4:08) `isrc:USCA20501215` `qobuz:810383`
+- **Moby** — Bodyrock [Play] (3:36) `isrc:GBAJH9900040` `qobuz:385581554`
+- **Apollo 440** — Stop the Rock [Gettin' High On Your Own Supply] (3:32) `isrc:GBBBM9902102` `qobuz:13373075`
+- **Les Rythmes Digitales** — (Hey You) What's That Sound? [Darkdancer] (4:12) `isrc:GBCFC9900005` `qobuz:122548603`
+- **Blackfeet Revolution** — Make Me Your Man [Blackfeet Revolution] (3:28) `isrc:FR6V81405629` `qobuz:313536927`
+- **Premethius** — Coming Home In A Bodybag [Zombocalypse] (3:29) `isrc:QT6E92524128` `qobuz:365470885`
+- **Megan Thee Stallion** — Number One Rule [MEGAN: ACT II] (2:20) `isrc:USAT22409891` `qobuz:296967441`
+- **Julian Lloyd Webber** — Summer Sunset (arr. J. Lloyd Webber for 2 cellos and piano) [A Tale of Two Cellos] (2:20) `isrc:HKI191331120` `qobuz:306444081`
+- **Clockwork Voodoo Freaks** — Deaf Mick's Throwdown [Revenge of the B-Boy] (6:32) `isrc:US3C69910180` `qobuz:72723430`
+- **Mr Natural** — That Green Jesus [That Green Jesus] (8:36) `isrc:GBDBH9900054` `qobuz:370923564`
+- **The Damned** — There's a Ghost in My House [Not Like Everybody Else] (3:02) `isrc:DEH842505650` `qobuz:363268026`
+- **CLS** — Can You Feel It ? [Dj Mag : House] (4:43) `isrc:USSR39106904` `qobuz:247589852`
+- **Luche** — Enlightenment [Acid Fight Records 08] (6:37) `isrc:FRDKW2103712` `qobuz:126800702`
+- **Jacob Miller** — I'm Just A Dread/ One Shut (Original 12' Disco Mix) [Jacob Miller Lives On] (6:28) `isrc:USVPR0713797` `qobuz:2000926`
+- **Cinematic** — Typhoon [Maretimo Records – Masterpieces, Vol. 1 (The Wonderful World of Lounge Music)] (6:23) `isrc:DEH331603197` `qobuz:52442364`
+- **Soft Science** — Breaking ["Dying Star (Cirrus) / Breaking"] (3:37) `isrc:QMHEK1500002` `qobuz:59961877`
+- **Alëem** — Why Hawai [Sound Season 1] (3:50) `isrc:FRS379500010` `qobuz:1614198`
+- **DJ Shadow** — Depth Charge [The Mountain Will Fall] (4:53) `isrc:QM8RL1400329` `qobuz:122596252`
+- **Garbage** — Stupid Girl [Garbage] (7:40) `isrc:GB5KW2000761` `qobuz:387853189`
+- **Michael Henderson** — Wide Receiver [Wide Receiver (Expanded Edition)] (8:02) `isrc:USBR18000004` `qobuz:25274419`
+- **Dylan Henner** — We Walked all the Way to the Lake and The Water Was So Still We Jumped in Naked [Star Dream FM] (4:40) `isrc:UK9AV2502274` `qobuz:344004020`
+- **Sol Brothers** — That Elvis Track [That Elvis Track] (6:50) `isrc:GBCGN9900191` `qobuz:52597853`
+- **Nas** — The World Is Yours [R&B: From Doo-Wop To Hip-Hop] (4:50) `isrc:USSM19401318` `qobuz:53793`
+- **Dj Liquid** — Headrillaz - Weird Planet [Electroacidfunk 2] (5:10) `isrc:USA370303070` `qobuz:63918231`
+- **Oasis** — Rock 'n' Roll Star [Definitely Maybe (Deluxe Edition Remastered)] (5:21) `isrc:GBQCP1400053` `qobuz:102751645`
+- **Meat Katie** — It's Murder Out There [Off The Bone] (6:05) `isrc:GBKQU1654235` `qobuz:113608081`
+- **Eboman** — Donuts With Buddah [From The EboStation] (3:59) `isrc:NL8GJ2400026` `qobuz:261206903`
+- **Mo'kalamity** — Wake Up [Shine] (4:33) `isrc:FR9W12333620` `qobuz:244445907`
+- **Cut & Paste** — Forget It (Logical Toolbox Edit) [Planet Boogie - EP] (3:14) `isrc:GBCGN9800044` `qobuz:36388490`
+- **Japandroids** — The House That Heaven Built [Celebration Rock] (4:49) `isrc:US3R41223807` `qobuz:5497607`
+- **Mono** — Life In Mono [Formica Blues] (4:45) `isrc:GBBND9700114` `qobuz:388121994`
+- **Saint Etienne** — Filthy [Casino Classics] (5:56) `isrc:GBUM71106584` `qobuz:40812620`
+- **The Herbaliser** — Wall Crawling Giant Insect Breaks [Very Mercenary] (5:39) `isrc:GBCFB9900420` `qobuz:6280544`
+- **Indian Ropeman** — Dog in the Piano [Elephant Sound] (5:41) `isrc:GBBMQ9900012` `qobuz:376965764`
+- **Charlie Hunter** — There's Still a Riot Goin' On [Different Strokes for Different Folks] (4:24) `isrc:QM6N22541916` `qobuz:329102135`
+- **Deeds Plus Thoughts** — The World's Made Up of This and That [The World's Made Up of This and That] (5:58) `isrc:GBEUE1002174` `qobuz:371526005`
+- **Beverley Church Hogan** — You're Looking at Me [Can't Get Out of This Mood] (5:15) `isrc:QM9AA1828862` `qobuz:94396650`
+- **Marlon Sea** — Disco Del Mar [Tummy Re-Touch] (3:45) `isrc:GBDNM0300125` `qobuz:49347558`
+- **Black Rebel Motorcycle Club** — Whatever Happened To My Rock 'N' Roll (Punk Song) [B.R.M.C.] (4:38) `isrc:USVI20000532` `qobuz:190570515`
+- **Riccardo Tesi** — STEVIA [Camerock] (3:54) `isrc:ITDF92500048` `qobuz:390451550`
+- **The Ballistic Brothers** — Peckings [London Hooligan Soul] (2:56) `isrc:GBHRP1995011` `qobuz:235645866`
+- **Freestylers** — Ruffneck [We Rock Hard] (5:40) `isrc:GBCGN9900284` `qobuz:34386684`
+- **Soul Hooligan** — Sweet Pea [Sweet Pea] (5:34) `isrc:GBCGN9900302` `qobuz:37274706`
+- **Dj kingbig** — Here We Go Now [Here We Go Now] (2:02) `isrc:TCAIX2450273` `qobuz:298325232`
+- **Sir.e Constance** — hardcore la guerre [coucou hihi] (3:37) `isrc:TCAJZ2509180` `qobuz:355835762`
+- **Big Big Train** — The Artist [Woodcut] (7:15) `isrc:GBDHC2657902` `qobuz:362928853`
+- **Skunk Anansie** — Pickin On Me [Twisted - Everyday Hurts] (4:18) `isrc:GBBTF9600151` `qobuz:249091554`
+- **Eddie Hartman** — DC COMICS [DC COMICS] (1:40) `isrc:QZWFG2559107` `qobuz:346555531`
+- **Deekline** — Bounce & Rebound [Against the Grain Classics] (4:10) `isrc:GBFNF0900005` `qobuz:186324547`
+- **Soul Of Man** — Between The Eyes [Between The Eyes] (7:03) `isrc:GBFEK0200003` `qobuz:53828213`
+- **Girl Eats Boy** — Napalm In Bohemia [Thrilled By Velocity And Distortion] (6:46) `isrc:USA370682872` `qobuz:64345142`
+- **Midfield General** — Devil in Sports Casual [Generalisation] (5:59) `isrc:GBBMQ9700042` `qobuz:376986469`
+- **Tingvall Trio** — Air Guitar [Birds] (5:23) `isrc:DES292300016` `qobuz:210052848`
+- **King Bee** — Back By Dope Demand [Back By Dope Demand] (3:37) `isrc:NLRZ89000019` `qobuz:258575332`
+- **Drunken Master** — Hip Hop Scuba Diver [Straight Out The Cat Litter: Scoop 1] (5:59) `isrc:GBCFV0600049` `qobuz:17896599`
+- **Fuselage** — Seize The Time [Bona Fido Presents Galactic Funk] (4:56) `isrc:GBKQU1845959` `qobuz:293257153`
+- **Harry Styles** — American Girls [Kiss All The Time. Disco, Occasionally.] (3:33) `isrc:USSM12600097` `qobuz:398705951`
+- **Rasmus Gardell** — Mass Hysteria [Mass Hysteria] (4:25) `isrc:GBGNS1701955` `qobuz:131631617`
+- **The Sabres Of Paradise** — Smokebelch II [Sabresonic II] (12:43) `isrc:GBBPW9500128` `qobuz:3775556`
+- **Superglue** — P.U.F. (Robot Coupe Drug Orientation Dub) [Music For Dreams Vol. 1 (Compiled By Kenneth Bager)] (5:26) `isrc:USA560885936` `qobuz:67791979`
+- **John Bunch** — Hi Fly [NY Swing] (5:21) `isrc:US25T0811454` `qobuz:74019603`
+- **King Willonius** — I Belong To The Streets [I Belong To The Streets] (3:42) `isrc:QT6F72530313` `qobuz:371858700`
+- **Sniper** — Gravé dans la roche [Gravé dans la roche] (4:45) `isrc:FR29U0300003` `qobuz:4703778`
+- **Eric Church** — Give Me Back My Hometown [The Outsiders] (4:12) `isrc:USUM71317739` `qobuz:14566674`
+- **Mint Royale** — Don't Falter [On the Ropes] (4:12) `isrc:GBCLV9901102` `qobuz:167468708`
+- **Lady Gaga** — Joanne (Where Do You Think You're Goin'?) [Joanne (Where Do You Think You're Goin'?)] (4:38) `isrc:USUM71713955` `qobuz:46737529`
+- **Req** — Train Jam [Car Paint Scheme] (5:36) `isrc:GBBPW0300076` `qobuz:3776118`
+- **Megadeth** — Cold Sweat [Super Collider] (3:10) `isrc:USUM71304669` `qobuz:32312125`
+- **John Mayer** — I Don't Need No Doctor [Where the Light Is: John Mayer Live In Los Angeles] (6:02) `isrc:USSM10801217` `qobuz:2719908`
+- **Brandon Flowers** — I Came Here To Get Over You [Flamingo] (2:20) `isrc:USUM71021218` `qobuz:2370367`
+- **Overseer** — Supermoves [Wreckage] (4:47) `isrc:USSM10306303` `qobuz:35115`
+- **Elvis vs JXL** — A Little Less Conversation [Elvis 30 #1 Hits] (3:33) `isrc:USRC10200288` `qobuz:2719258`

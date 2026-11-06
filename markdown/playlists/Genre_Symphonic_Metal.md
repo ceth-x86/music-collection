@@ -1,0 +1,108 @@
+# Genre: Symphonic Metal
+
+Imported genre playlist: Symphonic Metal.
+
+Services: `qobuz:66736061` `tidal:b4dcb063-f07b-48d4-8ae5-099284ae3968`
+
+## Tracks (100)
+
+- **Savatage** — Dead Winter Dead [Dead Winter Dead (2011 Edition)] (4:18) `isrc:DEH841100445` `qobuz:33018993`
+- **Theatre of Tragedy** — A Rose for the Dead [A Rose for the Dead] (5:12) `isrc:DER370513001` `qobuz:39803612`
+- **Trans-Siberian Orchestra** — Christmas Eve / Sarajevo 12/24 [Christmas Eve and Other Stories] (3:25) `isrc:USAT20101381` `qobuz:45271694`
+- **Therion** — To Mega Therion [Theli] (6:33) `isrc:QMBZ92282347` `qobuz:171936190`
+- **Haggard** — In a Pale Moons Shadow [Awaking the Gods] (11:03) `isrc:DEBL60391133` `qobuz:18202842`
+- **Apocalyptica** — Nothing Else Matters [Inquisition Symphony] (4:45) `isrc:FIPFP9800037` `qobuz:61819827`
+- **Rhapsody** — Emerald Sword [Symphony of Enchanted Lands] (4:21) `isrc:DET279800501` `qobuz:49046742`
+- **The Sins Of Thy Beloved** — Until the Dark [Lake of Sorrow] (6:39) `isrc:ATN269805305` `qobuz:47114633`
+- **Tristania** — Beyond the Veil [Beyond the Veil] (6:37) `isrc:ATN269907001` `qobuz:37158012`
+- **Nikolai Lugansky** — Das Rheingold, WWV 86A: Einzug der Götter in Walhall (Arr. for Piano by Louis Brassin & Nikolai Lugansky) [Richard Wagner: Famous Opera Scenes] (7:30) `isrc:FR7JM2385010` `qobuz:240906224`
+- **After Forever** — Follow In The Cry [Prison Of Desire: The Album (expanded)] (4:06) `isrc:NLP510600194` `qobuz:189009390`
+- **DARK MOOR** — Maid of Orleans [The Hall of the Olden Dreams] (5:04) `isrc:QMDA61892437` `qobuz:150452190`
+- **Within Temptation** — Ice Queen [Mother Earth] (5:22) `isrc:DEC760200330` `qobuz:113779668`
+- **Edenbridge** — Sunrise in Eden [Sunrise in Eden (Definitive Edition)] (8:31) `isrc:DEA451309680` `qobuz:231011907`
+- **Os Lunáticos** — Estou Na Lua [Só Sucesso 40+] (4:18) `isrc:PTVI19601265` `qobuz:66942319`
+- **Virgin Black** — Drink The Midnight Hymn [Sombre Romantic] (5:14) `isrc:US2420502305` `qobuz:135452587`
+- **Mortal Love** — I Want to Die [All the Beauty] (9:51) `isrc:DER370533707` `qobuz:39800445`
+- **Sirenia** — My Mind' s Eye [Nine Destinies and a Downfall] (3:38) `isrc:DED830797702` `qobuz:134996053`
+- **Guadalcanal Diary** — Trail of Tears [Walking In The Shadow Of The Big Man] (2:27) `isrc:USEE10300659` `qobuz:3004893`
+- **Luca Turilli (Band)** — Demonheart [Prophet of the Last Eclipse] (5:08) `isrc:DET270204508` `qobuz:49107591`
+- **Epica** — Cry for the Moon [The Phantom Agony] (6:42) `isrc:NLP511300031` `qobuz:142260740`
+- **Fairyland** — Ride with the Sun [Of Wars in Osyhria] (4:54) `isrc:ATN260620202` `qobuz:28457708`
+- **Visions Of Atlantis** — Lovebearing Storm [Eternal Endless Infinity] (5:24) `isrc:ATN260415302` `qobuz:28459003`
+- **Elis** — Der Letzte Tag [Dark Clouds In A Perfect Sky] (4:30) `isrc:ATN260415101` `qobuz:28459117`
+- **Xandria** — Ravenheart [Ravenheart] (3:44) `isrc:DES370400234` `qobuz:23235177`
+- **Forgotten Tales** — Pagan Chronicles, Pt. 6 - March for Freedom [All the Sinners] (4:25) `isrc:CAO370410806` `qobuz:48524566`
+- **Pestilent Hex** — Of Hexcraft and Laws Three-fold [Sorceries of Sanguine & Shadow] (6:56) `isrc:FXQ732400010` `qobuz:291401392`
+- **Imperial Measures** — The Promise of Morning [The Promise of Morning] (3:53) `isrc:USY242486559` `qobuz:307298447`
+- **Dol Ammad** — Weaver's Dance [Star Tales] (7:47) `isrc:USL4Q0754799` `qobuz:73481071`
+- **Dragonland** — Starfall [Starfall] (3:20) `isrc:GBDHC0405122` `qobuz:27539140`
+- **Nightwish** — Ghost Love Score [Once] (10:02) `isrc:DED832001175` `qobuz:122679747`
+- **Forever Slave** — Lunatic Asylum [Alices Inferno] (5:27) `isrc:DEAZ40500559` `qobuz:49037385`
+- **Leaves' Eyes** — Elegy [Vinland Saga] (5:07) `isrc:ATN260516403` `qobuz:28458766`
+- **Kamelot** — March of Mephisto (feat. Shagrath) [The Black Halo] (5:28) `isrc:QM3MF1600001` `qobuz:128709873`
+- **Krypteria** — Victoriam Speramus [In Medias Res] (3:54) `isrc:DEA340500289` `qobuz:324390940`
+- **To-Mera** — Then Blood [Transcendental] (5:36) `isrc:GBADD0614302` `qobuz:190334403`
+- **Coronatus** — Scream of the Butterfly [Lux Noctis] (4:18) `isrc:DER370755802` `qobuz:39805267`
+- **Eyes Of Eden** — Winter Night [Faith] (3:37) `isrc:US4E40741101` `qobuz:27538891`
+- **Echoes Of Eternity** — Voices in a Dream [The Forgotten Goddess] (4:42) `isrc:DED830695903` `qobuz:61265879`
+- **Kingfisher Sky** — Hallway of Dreams [Hallway of Dreams] (4:17) `isrc:NLD440704902` `qobuz:85736648`
+- **Misfits** — Some Kinda Hate [Legacy Of Brutality] (2:08) `isrc:USCN38500007` `qobuz:2489746`
+- **Northern Kings** — We Don't Need Another Hero [Reborn] (4:47) `isrc:FIWMA0700794` `qobuz:2904363`
+- **Nadia Pam** — Wings of Serenity [Sounds of Seraphim] (3:07) `isrc:PL2E32496245` `qobuz:315233953`
+- **Tarja** — I Walk Alone [Circus Life] (4:35) `isrc:DEH842403926` `qobuz:315401115`
+- **Battle Beast** — The Burning Within [Steelbound] (3:57) `isrc:DED832500337` `qobuz:350478551`
+- **HB** — Frozen Inside [Frozen Inside] (6:07) `isrc:QZHNA2366979` `qobuz:211732002`
+- **Midnattsol** — Northern Light [Nordlys] (6:18) `isrc:ATN260823703` `qobuz:28456995`
+- **Amberian Dawn** — River of Tuoni [River of Tuoni] (3:01) `isrc:FIKHY0700067` `qobuz:36760857`
+- **Versailles** — ASCENDEAD MASTER [The Greatest Hits 2007-2016] (5:50) `isrc:JPWP01671250` `qobuz:36050725`
+- **Miles Davis** — Concierto de Aranjuez: Adagio [Sketches of Spain] (16:21) `isrc:USSM15900212` `qobuz:15124904`
+- **Delain** — April Rain [April Rain] (4:37) `isrc:NLA320888370` `qobuz:34798427`
+- **ELYSION** — Killing My Dreams [Silent Scream] (3:51) `isrc:DER370966502` `qobuz:39799478`
+- **Sub Focus** — Entwined [Entwined] (3:40) `isrc:GBUM72505342` `qobuz:364731970`
+- **The Murder Of My Sweet** — Follow the Rain [Divanity] (4:39) `isrc:ITG270900358` `qobuz:45634021`
+- **Thodins Path** — Ravens Cry [Ravens Cry] (4:34) `isrc:QT3FC2521950` `qobuz:362448005`
+- **Xerath** — Reform, Pt. 3 [II] (4:36) `isrc:GBADD1133003` `qobuz:190291154`
+- **Whyzdom** — The Witness [From the Brink of Infinity] (7:05) `isrc:GBTDA0901101` `qobuz:56274698`
+- **Ancient Bards** — The Birth of Evil [The Alliance of the Kings] (5:31) `isrc:DET271011902` `qobuz:49056899`
+- **In Flames** — Dawn of a New Day [Reroute To Remain] (3:40) `isrc:DED830264207` `qobuz:238101860`
+- **Pathfinder** — Beyond the Space, Beyond the Time [Beyond the Space, Beyond the Time] (10:34) `isrc:DEA451304730` `qobuz:52231400`
+- **ReVamp** — Here's My Hell [Revamp] (5:11) `isrc:DED831000200` `qobuz:60745974`
+- **Blind Guardian** — Sacred Worlds [At the Edge of Time] (9:19) `isrc:DED831000318` `qobuz:61264215`
+- **Amaseffer** — Slaves for LIfe [SLAVES FOR LIFE] (8:26) `isrc:QZDA42468970` `qobuz:250698557`
+- **Septicflesh** — Anubis [Communion] (4:17) `isrc:FR33T0717402` `qobuz:77786445`
+- **Trillium** — Machine Gun [Alloy] (5:45) `isrc:ITG271100390` `qobuz:7784242`
+- **Arven** — Music of Light [Music of Light] (4:21) `isrc:DER371162101` `qobuz:39798727`
+- **Elyose** — Théogyne 2.0 [Évidence] (4:05) `isrc:TCAIX2474437` `qobuz:298388302`
+- **Jayo** — Obsessed [Episode 1: Lost] (2:45) `isrc:GBUM72400796` `qobuz:252212002`
+- **Fleshgod Apocalypse** — The Violation [Agony] (4:18) `isrc:DED831100272` `qobuz:60258033`
+- **Acrelid** — Scapegoat [Illegal Rave Tapes Volume 05] (5:15) `isrc:QZK6N2282913` `qobuz:161182850`
+- **Ara Malikian** — Shigeru Umebayashi : Yumeji's Theme [Tears of beauty] (2:48) `isrc:ES5150671003` `qobuz:2902761`
+- **Unlucky Morpheus** — Unending Sorceress (Live at Toyosu PIT ver.) ["XIII" (Live at Toyosu PIT)] (4:44) `isrc:TCJPR2229351` `qobuz:295730938`
+- **Ex Libris** — Medea [Medea] (6:50) `isrc:CH6540856818` `qobuz:14028387`
+- **Enya** — Caribbean Blue [Paint the Sky with Stars] (3:58) `isrc:GBAHT9102585` `qobuz:8436136`
+- **Temperance** — Limitless [Limitless] (5:35) `isrc:ITD291501086` `qobuz:255883917`
+- **Beyond The Black** — In the Shadows [Songs of Love and Death] (4:54) `isrc:DEUM71404088` `qobuz:80018154`
+- **Dark Sarah** — Dance With the Dragon (feat. Jp Leppäluoto) [The Puzzle] (5:24) `isrc:FID2C1600006` `qobuz:125548156`
+- **Avantasia** — The Raven Child [Moonglow] (11:14) `isrc:DED831801706` `qobuz:56784016`
+- **Xiphea** — Briar Rose [Once Upon a Time] (4:51) `isrc:CH6541614230` `qobuz:35108946`
+- **Visionatica** — She Wolf [She Wolf] (4:16) `isrc:CH6540882803` `qobuz:22276395`
+- **Follow The Cipher** — Enter the Cipher [Follow the Cipher] (5:20) `isrc:DED831701866` `qobuz:60262206`
+- **The Dark Element** — The Ghost and the Reaper [The Dark Element] (5:21) `isrc:ITG271700892` `qobuz:42920580`
+- **Exit Eden** — Unfaithful [Rhapsodies in Black] (3:49) `isrc:DEQR41700671` `qobuz:49207293`
+- **Walk In Darkness** — Last Siren (Revisited) [Gods Don't Take Calls] (5:51) `isrc:QT6642508802` `qobuz:368792751`
+- **Elvellon** — Born from Hope (EP Version) [Spellbound] (4:27) `isrc:DEL211403379` `qobuz:22033149`
+- **Imperial Age** — The Wheel [New World] (3:40) `isrc:QZMEM2269861` `qobuz:170461949`
+- **Moonlight Haze** — The Rabbit Of The Moon [Lunaris] (3:51) `isrc:ITD292002016` `qobuz:240876441`
+- **Seven Spires** — Cabaret of Dreams [Live at Progpower USA XXI] (4:54) `isrc:ITG272300260` `qobuz:189934304`
+- **Metalwings** — Crying of the Sun [Fallen Angel in the Hell] (4:59) `isrc:USDY41607868` `qobuz:83390049`
+- **Everdawn** — Infinity Divine [Cleopatra] (4:03) `isrc:USET72118705` `qobuz:109819545`
+- **Ad Infinitum** — Unstoppable [Chapter II - Legacy] (4:13) `isrc:ATN262105102` `qobuz:127883919`
+- **Skeletoon** — Arcana Opera [Nemesis] (8:04) `isrc:ITD292002058` `qobuz:317508269`
+- **ILLUMISHADE** — Cloudreader [Another Side of You] (3:12) `isrc:ATN262327005` `qobuz:237482513`
+- **Scardust** — Concrete Cages [Strangers] (7:21) `isrc:QZ8DB1700287` `qobuz:99859591`
+- **Snow White Blood** — You Belong to Me [Hope Springs Eternal] (7:36) `isrc:DEKM62000151` `qobuz:369975312`
+- **Blackbriar** — Until Eternity [Fractured Fairytales EP] (4:38) `isrc:NLP7Q1700004` `qobuz:208558130`
+- **Anette Olzon** — Strong [Strong] (4:27) `isrc:ITG272100631` `qobuz:121929063`
+- **Simone Simons** — Aeterna [Vermillion] (6:02) `isrc:DED832400108` `qobuz:261540405`
+- **Nocturna** — Daughters Of The Night [Daughters Of The Night] (3:55) `isrc:ITD292102300` `qobuz:221891100`
+- **Eleine** — We Shall Remain [We Shall Remain] (4:20) `isrc:DE1AH2307510` `qobuz:298222717`

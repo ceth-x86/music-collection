@@ -1,0 +1,108 @@
+# Genre: Power Pop
+
+Imported genre playlist: Power Pop.
+
+Services: `qobuz:66737579`
+
+## Tracks (100)
+
+- **Nazz** — Open My Eyes [Nazz (Bonus Track Version)] (2:44) `isrc:QM6XS1807183` `qobuz:53468906`
+- **Badfinger** — No Matter What [No Dice] (2:59) `isrc:GBDCE1000080` `qobuz:49059253`
+- **Emitt Rhodes** — Fresh As A Daisy [The Emitt Rhodes Recordings (1969-1973)] (2:51) `isrc:USMC17054045` `qobuz:60565508`
+- **The Move** — Do Ya [Hits & Rarities - Singles a’s & B’s - The Move] (4:04) `isrc:DESK99991834` `qobuz:221503298`
+- **Todd Rundgren** — Couldn't I Just Tell You [Something / Anything?] (3:33) `isrc:USRH11502673` `qobuz:30325622`
+- **Raspberries** — Go All The Way [Raspberries] (3:21) `isrc:USCA29100324` `qobuz:15436140`
+- **Lamb and Lion Productions** — Have You Seen Her (feat. JT Blue) [Have You Seen Her (feat. JT Blue)] (3:35) `isrc:QT6ED2681706` `qobuz:430384573`
+- **Pilot** — Just a Smile [From The Album Of The Same Name] (3:17) `isrc:GBAYE7500123` `qobuz:1762976`
+- **Big Star** — September Gurls [Radio City] (2:48) `isrc:USC4R2442393` `qobuz:263868915`
+- **The Records** — Rock And Roll Love Letter [Smashes, Crashes And Near Misses] (3:37) `isrc:GBAAA7900072` `qobuz:1779018`
+- **Dwight Twilley Band** — I'm On Fire [Sincerely] (3:19) `isrc:USSH49600022` `qobuz:4531226`
+- **Artful Dodger** — Wayside [Artful Dodger] (4:21) `isrc:USSM11401547` `qobuz:19261544`
+- **Flamin' Groovies** — Shake Some Action [Shake Some Action] (4:33) `isrc:USWB10001381` `qobuz:3008679`
+- **Dead Bars** — Hanging on the Telephone [Dead Bars and the Tim Version: Tour Split] (1:56) `isrc:US4KC1636102` `qobuz:34588904`
+- **Eddie and the Hot Rods** — Do Anything You Wanna Do [Do Anything You Wanna Do] (2:58) `isrc:GBBLY2108594` `qobuz:147833809`
+- **The Monkees** — (I'd Go The) Whole Wide World [Pool It] (2:57) `isrc:USRH11300935` `qobuz:12262021`
+- **The Rubinoos** — I Wanna Be Your Boyfriend [Back to the Drawing Board] (3:19) `isrc:US8AV0900018` `qobuz:121135097`
+- **Pezband** — Baby It's Cold Outside [Best Of] (2:43) `isrc:USME32400483` `qobuz:318481073`
+- **The Scruffs** — Break the Ice [Wanna' Meet The Scruffs?] (2:36) `isrc:USAR30900875` `qobuz:73709259`
+- **Van Duren** — Waiting [Are You Serious?] (4:56) `isrc:QMWHB2016173` `qobuz:229081424`
+- **Dave Edmunds** — Girls Talk [Repeat When Necessary] (3:29) `isrc:USAT20104574` `qobuz:93343489`
+- **Cheap Trick** — Surrender [Heaven Tonight] (4:16) `isrc:USSM19802566` `qobuz:26172184`
+- **The Only Ones** — Another Girl Another Planet [Another Girl Another Planet The Best Of] (3:00) `isrc:GBBBN7802048` `qobuz:385526`
+- **The Cars** — My Best Friend's Girl [The Cars] (3:43) `isrc:USRH11509833` `qobuz:30516279`
+- **Chart Collective** — Written On the Back of My Hand (Originally Performed By The Jags) [Karaoke Version] [Karaoke Rock Hits, Vol. 50] (3:16) `isrc:GBJSS1419815` `qobuz:19022308`
+- **Nick Lowe** — Cruel to Be Kind [Labour of Lust] (3:30) `isrc:USY1R1162101` `qobuz:72014368`
+- **The Records** — Starry Eyes [Smashes, Crashes And Near Misses] (4:23) `isrc:GBAAA7900455` `qobuz:1778999`
+- **Paul Collins** — Rock N Roll Girl [The Beat] (2:16) `isrc:USSM17900968` `qobuz:16067819`
+- **20/20** — Yellow Pills [20/20] (4:16) `isrc:USSM17901079` `qobuz:15943437`
+- **Shoes** — Tomorrow Night [SHOES Best] (2:58) `isrc:USHM20588767` `qobuz:89127621`
+- **Bram Tchaikovsky** — Girl of My Dreams [Strange Man, Changed Man] (4:11) `isrc:GBAHT0300217` `qobuz:34662437`
+- **The Knack** — My Sharona [Get The Knack] (4:53) `isrc:USCA20200254` `qobuz:16973551`
+- **The Barracudas** — Summer Fun [Drop Out With The Barracudas] (3:15) `isrc:GBAYE8000131` `qobuz:4724974`
+- **Starlite Singers** — What Now My Love [Take Me Back to the 60s!] (2:59) `isrc:CAM460407707` `qobuz:88210236`
+- **Rockpile** — Teacher Teacher [Live at Montreux 1980] (2:42) `isrc:GBCBR1101439` `qobuz:119366826`
+- **The Romantics** — What I Like About You [What I Like About You                   (And Other Romantic Hits)] (2:55) `isrc:USSM10020612` `qobuz:57613107`
+- **The Kings** — This Beat Goes On/Switchin' to Glide (Original Demo) [This Beat Goes On/Switchin' to Glide (Original Demo)] (6:17) `isrc:USHM91164696` `qobuz:91675438`
+- **Split Enz** — I Got You [True Colours] (3:29) `isrc:GBAAM0201039` `qobuz:84661810`
+- **The Shivvers** — Teenline (Remastered) [The Shivvers (Remixed and Remastered 2014)] (3:41) `isrc:USHM81464215` `qobuz:92315100`
+- **The Go-Go's** — We Got The Beat [Beauty And The Beat] (2:39) `isrc:USWWW0128900` `qobuz:115401056`
+- **The dB's** — Black And White [Stands For Decibels] (3:09) `isrc:USCA20705653` `qobuz:1783954`
+- **The Producers** — What She Does to Me [The Producers] (3:47) `isrc:USSM18100865` `qobuz:120417557`
+- **Marshall Crenshaw** — Someday, Someway [Marshall Crenshaw] (2:49) `isrc:USY1R2202702` `qobuz:194528648`
+- **Bugzy** — What Do All the People Know [Center of Atrraction] (3:52) `isrc:USDY41804104` `qobuz:98807269`
+- **XTC** — Senses Working Overtime [English Settlement] (4:50) `isrc:GBAAA0001038` `qobuz:4651734`
+- **The Spongetones** — She Goes out with Everybody [Beat & Torn] (2:26) `isrc:USCPM9412906` `qobuz:79169046`
+- **The Plimsouls** — A Million Miles Away [Beach Town Confidential: Live at the Golden Bear 1983] (4:00) `isrc:USA2B1201610` `qobuz:71832247`
+- **The Bangles** — Hero Takes A Fall [Sleepless Nights] (4:18) `isrc:GXESV2554014` `qobuz:350747896`
+- **The Smithereens** — Behind The Wall Of Sleep [Especially For You] (3:24) `isrc:USCA28600128` `qobuz:797728`
+- **Tommy Keene** — Places That Are Gone [The Real Underground] (3:58) `isrc:USMH92315918` `qobuz:220616577`
+- **The Replacements** — Alex Chilton [Pleased To Meet Me] (3:13) `isrc:USRH12002034` `qobuz:98276282`
+- **The Primitives** — Crash [Lovely] (2:31) `isrc:GBARL8800002` `qobuz:457263`
+- **The Pursuit of Happiness** — I'm An Adult Now [I'm An Adult Now] (4:25) `isrc:CAEZI0500021` `qobuz:52559764`
+- **The Posies** — I May Hate You Sometimes [Failure] (3:22) `isrc:QMWHB1400634` `qobuz:18908616`
+- **The La's** — There She Goes [The La's (Deluxe Edition)] (2:42) `isrc:GBAQT8800001` `qobuz:4306679`
+- **The Darling Buds** — Hit The Ground [Pop Said...] (2:19) `isrc:GBBBM8802028` `qobuz:455234`
+- **Enuff Z'Nuff** — Fly High Michelle [Enuff Z'Nuff] (4:13) `isrc:USEE10000645` `qobuz:2927526`
+- **Jellyfish** — Baby's Coming Back [Bellybutton] (2:56) `isrc:USUM72316025` `qobuz:234425567`
+- **Redd Kross** — Annie's Gone [Third Eye] (3:35) `isrc:USAT20802085` `qobuz:5484486`
+- **Material Issue** — Valerie Loves Me [International Pop Overthrow 20th Anniversary Edition] (3:04) `isrc:USWWW0201077` `qobuz:36011455`
+- **Matthew Sweet** — Girlfriend [Girlfriend] (3:40) `isrc:USVR19100001` `qobuz:205482`
+- **Teenage Fanclub** — What You Do to Me [Bandwagonesque] (2:00) `isrc:GBARL1800237` `qobuz:51922023`
+- **Gigolo Aunts** — Where I Find My Heaven [Flippin' Out] (3:22) `isrc:GBCKK9307111` `qobuz:194756775`
+- **Sloan** — Underwhelmed [Smeared] (4:45) `isrc:USKO10407945` `qobuz:75635342`
+- **Sugar** — If I Can't Change Your Mind [Copper Blue] (3:18) `isrc:USMRG1245107` `qobuz:385584207`
+- **The Juliana Hatfield Three** — My Sister [Become What You Are] (3:22) `isrc:USMA20215002` `qobuz:60856845`
+- **Velvet Crush** — Hold Me Up [Teenage Symphonies To God] (2:58) `isrc:USSM10027912` `qobuz:142361`
+- **Weezer** — Buddy Holly [Weezer (The Blue Album)] (2:39) `isrc:USGF19562907` `qobuz:4307963`
+- **Ash** — Girl from Mars [1977] (3:25) `isrc:GB5KW2202985` `qobuz:375953171`
+- **The Rentals** — Friends of P. [Return Of The Rentals] (3:32) `isrc:USMV29400001` `qobuz:2186325`
+- **Imperial Teen** — You're One [Imperial Teen Live At Maxwell's 10/30/2002] (3:38) `isrc:USA560308796` `qobuz:68155582`
+- **Fountains Of Wayne** — Radiation Vibe [Fountains Of Wayne] (3:40) `isrc:USAT20103013` `qobuz:2956002`
+- **Superdrag** — Sucked Out [Regretfully Yours] (2:46) `isrc:USEE10181328` `qobuz:2782673`
+- **The Apples In Stereo** — Seems So [Tone Soul Evolution] (3:20) `isrc:USSLX0910028` `qobuz:76732927`
+- **Cotton Mather** — My Before and After [Kontiki (Deluxe Edition)] (2:53) `isrc:USX8K1100045` `qobuz:4974510`
+- **Ben Folds Five** — Song for the Dumped [Playlist: The Very Best of Ben Folds Five] (3:41) `isrc:USSM19603706` `qobuz:23823934`
+- **Beulah** — Gene Autry [The Coast Is Never Clear] (3:34) `isrc:US72K0500204` `qobuz:14474441`
+- **Sierra Hull** — Everybody's Somebody's Fool [Secrets] (2:43) `isrc:USRO20860105` `qobuz:65014849`
+- **The New Pornographers** — Letter From An Occupant [Mass Romantic] (3:46) `isrc:USMTD0354006` `qobuz:26440934`
+- **The Shazam** — On the Airwaves [The Coolest Songs in the World! Vol. 1] (3:27) `isrc:USZPD0610001` `qobuz:80113710`
+- **OK Go** — You're So Damn Hot [OK Go] (2:37) `isrc:USCA20200617` `qobuz:4688219`
+- **Nada Surf** — Always Love [The Weight Is a Gift] (3:18) `isrc:USBS50510433` `qobuz:218886494`
+- **Brendan Benson** — Good to Me [Lapalco] (2:45) `isrc:US4KM0510005` `qobuz:77217364`
+- **Phantom Planet** — California [The Guest] (3:13) `isrc:USSM10105453` `qobuz:41066`
+- **The Exploding Hearts** — Modern Kicks (2023 Remaster) [Guitar Romantic (Expanded & Remastered)] (3:18) `isrc:US3JJ2300908` `qobuz:370483076`
+- **The Thrills** — Santa Cruz (You're Not That Far) [Santa Cruz (You're Not That Far)] (3:36) `isrc:GBAAA0300526` `qobuz:4668446`
+- **OK Go** — Here It Goes Again [Oh No] (2:59) `isrc:USCA20500270` `qobuz:4655867`
+- **The Click Five** — Just The Girl [Just The Girl] (3:51) `isrc:USAT20502837` `qobuz:2869042`
+- **We Are Scientists** — Nobody Move, Nobody Get Hurt [With Love And Squalor] (3:12) `isrc:USVI20500211` `qobuz:1946433`
+- **Yeah Yeah Yeahs** — Spitting Off the Edge of the World [Cool It Down] (4:17) `isrc:US38W2247001` `qobuz:177143886`
+- **Tinted Windows** — Kind of a Girl [Tinted Windows] (3:13) `isrc:USKFE0900101` `qobuz:391704718`
+- **The Pains Of Being Pure At Heart** — Come Saturday [Come Saturday] (3:13) `isrc:US4TA0900014` `qobuz:43492454`
+- **The Vaccines** — If You Wanna [What Did You Expect from The Vaccines?] (2:54) `isrc:GBARL1100001` `qobuz:93176315`
+- **Alvvays** — Archie, Marry Me [Alvvays] (3:17) `isrc:US3R41428202` `qobuz:16961867`
+- **The Lemon Twigs** — As Long As We're Together [Do Hollywood] (5:03) `isrc:GBAFL1600336` `qobuz:36840381`
+- **Charly Bliss** — Percolator [Guppy] (2:46) `isrc:USBS51600054` `qobuz:57571393`
+- **The Beths** — Future Me Hates Me [Future Me Hates Me] (4:05) `isrc:US22N1812802` `qobuz:156379331`
+- **White Reaper** — Might Be Right [You Deserve Love] (3:57) `isrc:USAT21902764` `qobuz:68459895`
+- **Dazy** — Pressure Cooker [Pressure Cooker] (2:50) `isrc:QZTUL2208901` `qobuz:222679914`
+- **Liquid Mike** — Groucho Marx [Hell Is An Airport] (1:55) `isrc:QM6MZ2511784` `qobuz:352579660`

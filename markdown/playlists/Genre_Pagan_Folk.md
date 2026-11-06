@@ -1,0 +1,108 @@
+# Genre: Pagan Folk
+
+Imported genre playlist: Pagan Folk.
+
+Services: `qobuz:66710961` `tidal:ef60476e-1110-4a2e-afbb-5e82e3bfd781`
+
+## Tracks (100)
+
+- **Garmarna** — Varulven [Guds spelemän] (4:33) `isrc:SELIA9601050` `qobuz:193678839`
+- **Valravn** — Kelling [Koder på snor] (4:48) `isrc:FR6V81775195` `qobuz:9838750`
+- **Tropischer Dany** — Eis am Strand [#Sommer] (2:57) `isrc:DEAR42553559` `qobuz:329179891`
+- **Duivelspack** — Der Feuerteufel [Beste Reste Platte] (4:14) `isrc:DEC831300777` `qobuz:54272280`
+- **Poeta & Rairda** — Drøm - wenn Elfen Dir flüstern [Drøm] (4:37) `isrc:USCGJ0863935` `qobuz:85282421`
+- **Anthony Griffiths** — Glwysen, Morfa'r Frenhines [Llynnoedd] (3:12) `isrc:GBCFU1092424` `qobuz:344234235`
+- **Xianji Liu** — Swan and Maiden [Chinese Romance] (2:56) `isrc:HKI192244102` `qobuz:309461936`
+- **Gerard Cousins** — Tros Y Garreg (Crossing the Stone) [Hiraeth - Celtic Guitar Music from Wales] (4:54) `isrc:GBMMK0900001` `qobuz:76606557`
+- **Daemonia Nymphe** — Dance of the Satyrs [Daemonia Nymphe] (4:05) `isrc:FR6V80204195` `qobuz:271000018`
+- **Alain Mion** — Mary et Jeff [Troupeau bleu] (2:45) `isrc:FR59R1692438` `qobuz:34881771`
+- **The Moon and the Nightspirit** — Ég felé [Ősforras] (5:56) `isrc:DES561496302` `qobuz:189591540`
+- **Omnia** — Taranis [Crone of War (2018 Re-release)] (3:39) `isrc:NLHR51837957` `qobuz:93243709`
+- **Poeta Magica** — Morrigu's Song [Minne Mystik Meistersang] (5:31) `isrc:DEZ431326105` `qobuz:54251613`
+- **Dario Marianelli** — The Pagan Rites [I Capture The Castle (Original Motion Picture Soundtrack)] (1:44) `isrc:SEWVB0700616` `qobuz:114793065`
+- **Saint Of Sin** — Angel of the Thought (feat. Rasa Serra) [Merry Christmas / Love Lounge, Vol. 2] (4:00) `isrc:DERH81810101` `qobuz:56738710`
+- **Justin Timberlake** — CAN'T STOP THE FEELING! (from DreamWorks Animation's "TROLLS") [CAN'T STOP THE FEELING! (from DreamWorks Animation's "TROLLS")] (3:56) `isrc:USRC11600876` `qobuz:32020359`
+- **Trobar De Morte** — Talismán [20 Years of Music & Sorcery] (3:51) `isrc:TCAEU2064528` `qobuz:126683272`
+- **Karl Seglem** — Song for To [Norskjazz.No] (5:53) `isrc:DEQ750900014` `qobuz:56690074`
+- **Goat Girl** — Dance of Dirty Leftovers [Goat Girl] (0:46) `isrc:GBCVZ1700182` `qobuz:48281316`
+- **Banshee** — Force of nature [Force of nature] (2:21) `isrc:QZTB52581692` `qobuz:341736582`
+- **NFM Choir** — Pieśń Cherubinów [Dialogue] (7:11) `isrc:FR50X2523301` `qobuz:403753340`
+- **Űch sűmer** — Ymai  (Original version) [Ymai - Űch sűmer] (2:00) `isrc:USHM91033231` `qobuz:97100787`
+- **Joel Stewart** — Found The Way Again [Abbey Road Masters: Emotive Folk - Where The Wild Begins] (2:52) `isrc:GBUM72503461` `qobuz:403020514`
+- **Faun** — Hymn To Pan [XV - Best Of] (6:57) `isrc:DEOS71300072` `qobuz:47196216`
+- **Herbie Hancock** — The Tea Leaf Prophecy (Lay Down Your Arms) [River: The Joni Letters] (6:33) `isrc:USUM70746328` `qobuz:740327`
+- **Sieben** — We wait for them [Star Wood Brick Firmament] (3:43) `isrc:GBZEA1000205` `qobuz:172104848`
+- **Heinz Schunk** — Die lustigen Weiber von Windsor, Act 3: No. 14 "Ihr Elfen, weiß und rot und grau" (Chorus, Titania, Oberon, Elves, Hunter Herne, Falstaff) [Die lustigen Weiber von Windsor] (6:49) `isrc:NLY331311322` `qobuz:17610138`
+- **Blowzabella** — Jan Mijne Man / Go Mauve [Vanilla] (4:27) `isrc:GBBHW9002803` `qobuz:151839862`
+- **Corvus Corax** — De Mundi Statu [Cantus Buranus Live in München] (5:08) `isrc:DEXI11900003` `qobuz:60061188`
+- **Sepultura** — Roots Bloody Roots [Roots] (3:32) `isrc:USRH11702422` `qobuz:44368195`
+- **Vic Juris** — Blue Horizon [Blue Horizon] (5:40) `isrc:USHM20594337` `qobuz:98278645`
+- **Kelten Zonder Grenzen** — Jigtime [Ik Zie Een Konijntje] (4:31) `isrc:NLMB71000003` `qobuz:81153683`
+- **Asynje** — Kæmperne på Dovrefjeld [Genkaldt] (4:27) `isrc:DKSR61100101` `qobuz:178952977`
+- **Stellamara** — Szerelem [The Seven Valleys] (5:57) `isrc:US6QK0900010` `qobuz:167123797`
+- **Shantalla** — The Braemar Poacher [Turas] (2:46) `isrc:BED061133001` `qobuz:88445355`
+- **Ball Noir** — Last Day (Gavotte) [Bitter Dreams] (5:15) `isrc:NLVE71200002` `qobuz:67259958`
+- **Willy Tea Taylor** — Knights Ferry [The Great Western Hangover] (4:01) `isrc:TCAHM2327168` `qobuz:232034868`
+- **Virelai** — Esrum Bourré [Fra bølger og bjerge] (3:49) `isrc:DKSY21100101` `qobuz:180515987`
+- **Carlo Maria Giulini** — Petite suite des "Jeux d'enfants", Op. 22, WD 39: III. Impromptu "La toupie" [Stravinsky: Suite from The Firebird - Bizet: Children's Games Suite - Ravel: Mother Goose] (1:04) `isrc:GBAYC2401803` `qobuz:365440704`
+- **Cesair** — Graeica [Dies, Nox Et Omnia] (3:16) `isrc:NLA2J1300004` `qobuz:36057912`
+- **The Dolmen** — Circle of the Stag [Kayleigh] (5:02) `isrc:USHM81747480` `qobuz:91522705`
+- **Dikanda** — Jokoriste Czarno [Ajotoro] (5:00) `isrc:USCGJ2090756` `qobuz:91667319`
+- **Loch Lomond** — Wax & Wire [Night Bats] (4:58) `isrc:USA370963502` `qobuz:48673710`
+- **Transsylvanians** — Ki Ki Ki [Igen!] (2:47) `isrc:DEZ430410305` `qobuz:55184318`
+- **Trolska Polska** — Trolls United [Moss] (4:07) `isrc:DK6KA1400812` `qobuz:28771498`
+- **Kali Uchis** — Moonlight [Red Moon In Venus] (3:07) `isrc:USUM72219486` `qobuz:199455887`
+- **Horde catalytique pour la fin** — Gestation Sonore 2 [Horde catalytique pour la fin] (3:54) `isrc:QM6N21843129` `qobuz:53697778`
+- **The Royal Spuds** — A Night Like This [Wanted: Drunk 'n' Alive] (3:00) `isrc:USCGH1476408` `qobuz:92120380`
+- **Rastaban** — Moja Duša [Arise] (5:23) `isrc:CH6541835561` `qobuz:51109197`
+- **Finvarra** — The Battle of Evermore [Finvarra] (6:11) `isrc:USCGH1498510` `qobuz:75582746`
+- **ROSA CRUX** — Adorasti [In Tenebris] (3:26) `isrc:DE1AM2390021` `qobuz:194490648`
+- **Scarlet Stories** — Nostalgia in a Closed Mind [Necrologies] (6:08) `isrc:NLH6A1900009` `qobuz:83073781`
+- **Theodor Bastard** — Umbraya Erze [Vetvi] (5:27) `isrc:USCGJ1542971` `qobuz:104488182`
+- **Prima Nocta** — Prima Nocta [Moonshine] (3:53) `isrc:USCGJ1806041` `qobuz:100598879`
+- **Nino Man** — We Stay Fly [I'm Still Him] (3:58) `isrc:QZNN22545457` `qobuz:376063156`
+- **Shireen** — So Human of You [Matriarch] (6:09) `isrc:NLU6B1700004` `qobuz:44763313`
+- **Stille Volk** — Dementis maudiçon [Pèira negra] (5:18) `isrc:FR7M01413001` `qobuz:189634277`
+- **Hiks** — Boson [Boson] (4:23) `isrc:FR6V82110058` `qobuz:13298358`
+- **The Common Linnets** — Hungry Hands [The Common Linnets] (3:52) `isrc:NLUM71400148` `qobuz:16173996`
+- **George Michael** — Careless Whisper [Ladies & Gentlemen: The Best Of George Michael] (5:00) `isrc:GBBBM8402006` `qobuz:3488744`
+- **Seed** — The Green Man [Fae] (4:34) `isrc:IEWBH2200010` `qobuz:167103407`
+- **Arany Zoltán** — Ai Vist Lo Lop [The Last of the Troubadours] (3:25) `isrc:HUA611501692` `qobuz:123871572`
+- **Woodland** — Witches Cross [Archive, Vol. II: 2005-2014] (4:04) `isrc:TCABP1300489` `qobuz:257889655`
+- **Die Toten Hosen** — Hier sind die Hosen (feat. Farin Urlaub) ["Trink aus, wir müssen gehen!“ + Bonusalbum "Alles muss raus!“] (3:56) `isrc:DEF242610001` `qobuz:400217848`
+- **Ulver** — Østenfor Sol Og Vestenfor Måne [Kveldssanger] (3:26) `isrc:NOFVH9514010` `qobuz:58915643`
+- **Victor Manuel** — Cuelebre [Soy un Corazon Tendido al Sol] (2:56) `isrc:ES5117800016` `qobuz:44452588`
+- **Emian** — Hyria [Khymeia] (4:02) `isrc:ITXZ61610002` `qobuz:426394003`
+- **JT** — Ran Out [Ran Out] (2:22) `isrc:USUG12500209` `qobuz:324606474`
+- **Mutefish** — Supernova [360 Hangovers] (3:55) `isrc:QZNJV2207198` `qobuz:183404230`
+- **Outsiders** — Het Zwarte Schaap (feat. De Kraaien) [Het Zwarte Schaap (feat. De Kraaien)] (3:04) `isrc:NLR1T1800053` `qobuz:359465732`
+- **Waldkauz** — Mati Syra Zemlya [Mythos] (4:47) `isrc:DEC831700122` `qobuz:39860940`
+- **Eivør** — Salt [Segl Live in Concert] (5:02) `isrc:FOABN2000118` `qobuz:172640244`
+- **Sunfire** — Shot [Sinners' Town] (6:34) `isrc:NLR5C1800006` `qobuz:325062289`
+- **Therion** — Hellequin [Sitra Ahra] (5:18) `isrc:DED831000415` `qobuz:60260735`
+- **Kaunan** — Dansen Ungdom [Forn] (3:36) `isrc:NO1941706110` `qobuz:216731276`
+- **Drusuna** — Litus Samoni [Kaytos Kom] (6:01) `isrc:CH6541810840` `qobuz:48036929`
+- **Ok Goodnight** — The Fox and the Bird [The Fox and the Bird] (4:40) `isrc:QZHN82312383` `qobuz:210363427`
+- **Varend Volk** — This Night We Spend Ashore [This Night We Spend Ashore] (3:27) `isrc:NL1VU1901178` `qobuz:146138519`
+- **Els Berros de la Cort** — Groullera [Els Berros de la Cort] (4:38) `isrc:ES7180650610` `qobuz:320012614`
+- **Belphegor** — Glorifizierung des Teufels [The Devils] (4:58) `isrc:DED832100553` `qobuz:151064629`
+- **Qntal** — Palästinalied [Qntal II] (5:56) `isrc:US37B0701404` `qobuz:106049139`
+- **Neun Welten** — Frosthauch [Destrunken] (4:06) `isrc:DES560997601` `qobuz:189586965`
+- **Lyftkraft** — Håll linjen klar [Håll linjen klar] (5:03) `isrc:QZPLS2642601` `qobuz:401150065`
+- **Birch Book** — Feet of Clay [A Hand Full of Days] (3:31) `isrc:QZ22B1859962` `qobuz:176522273`
+- **SAULT** — Wildfires [Untitled (Black Is)] (3:26) `isrc:UKMEH2000068` `qobuz:127347408`
+- **Dead Moon** — Somewhere Far Away [Nervous Sooner Changes] (3:06) `isrc:QZSQG2499108` `qobuz:285104259`
+- **Marie Carmen** — L'aigle noir [Miel et venin] (4:29) `isrc:CAU118303409` `qobuz:83938809`
+- **Prince Jazzbo** — The Wormer [Soul Jazz Records presents Bunny Lee: Dreads Enter the Gates with Praise – The Mighty Striker Shoots the Hits!] (3:12) `isrc:GBBCK1901390` `qobuz:58320606`
+- **Lana Del Rey** — Video Games [Born To Die] (4:41) `isrc:GBUM71111621` `qobuz:31887416`
+- **Richard Resch** — Das Leben war das Licht der Menschen: II. Recitativo [Die Nacht ist vorgedrungen] (1:17) `isrc:DELC32502008` `qobuz:358101195`
+- **Süwafisch** — a glans hexnheisal [volume ans] (3:53) `isrc:QT6EX2593846` `qobuz:369450944`
+- **Siebenbürgen** — Storms [Delictum] (7:43) `isrc:ATN260007503` `qobuz:47114620`
+- **Noah Ivory** — All That Is Gold Does Not Glitter [Lord of the Rings Sleep] (1:27) `isrc:AUGBT2419881` `qobuz:282930704`
+- **Ross Daly** — Stars Of Gandahara [Iris] (11:30) `isrc:USA560653122` `qobuz:30705877`
+- **Karat** — Jede Stunde [Der blaue Planet] (4:11) `isrc:DEC719400352` `qobuz:227513`
+- **Sinfonia Of London** — My Fair Lady, Act II Scene 1: You Did It [Lerner & Loewe: My Fair Lady] (5:39) `isrc:GBLWD2506202` `qobuz:345567142`
+- **Cerise Calixte** — Le bleu lumière [Vaiana - La Légende du Bout du Monde] (2:43) `isrc:USWD11677976` `qobuz:36462197`
+- **Indigo Girls** — Dead Man's Hill [1200 Curfews] (5:33) `isrc:USSM10024356` `qobuz:47059969`
+- **Wolcensmen** — Withershins [Songs from the Fyrgen] (2:46) `isrc:NOCVC1737010` `qobuz:270452983`
+- **Osi and the Jupiter** — Appalachia [Stave] (3:59) `isrc:USA2P2124296` `qobuz:197421059`

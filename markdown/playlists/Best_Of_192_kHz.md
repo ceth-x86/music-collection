@@ -1,0 +1,208 @@
+# Best Of 192 kHz
+
+If you are looking for the perfect playlist to test your hi-fi system, you'll find it here! This selection of songs in 192 kHz is a colourful mix of all musical genres and eras in the best possible sound quality. Get the most out of your audio equipment and treat your ears with songs by Michael Jackson, John Coltrane, Sarah Vaughan, Miles Davis, Ray Charles, Aretha Franklin, Madonna, Frank Sinatra, Elvis Presley, The Rolling Stones, Bruce Springsteen, Rush, Creedence Clearwater Revival, Janis Joplin, Keith Jarrett and many more!
+
+Services: `qobuz:5957167`
+
+## Tracks (200)
+
+- **Pink Floyd** — The Great Gig in the Sky [The Dark Side Of The Moon (50th Anniversary)] (4:43) `isrc:GBN9Y2200019` `qobuz:193171339`
+- **Nirvana** — On A Plain [Nevermind] (3:16) `isrc:USGF19942511` `qobuz:133713101`
+- **Buckingham Nicks** — Crying in the Night [Buckingham Nicks] (2:59) `isrc:USRH12501549` `qobuz:347627735`
+- **Steely Dan** — Aja [Aja] (7:57) `isrc:USMC17647229` `qobuz:230070008`
+- **Ethel Cain** — Janie [Willoughby Tucker, I'll Always Love You] (5:00) `isrc:QM7282558731` `qobuz:350233028`
+- **Neil Young** — Heart of Gold [Harvest] (3:07) `isrc:USRE11100415` `qobuz:35927312`
+- **Journey** — Faithfully [Greatest Hits] (4:26) `isrc:USSM19932791` `qobuz:378387`
+- **Lee Morgan** — The Sidewinder [The Sidewinder] (10:27) `isrc:USBN21200853` `qobuz:15936712`
+- **Joe Pass** — Night And Day [Virtuoso] (3:31) `isrc:USC4R2448015` `qobuz:320713507`
+- **Sting** — Englishman In New York [...Nothing Like The Sun] (4:26) `isrc:USAM18700040` `qobuz:182509128`
+- **Don Henley** — The Boys Of Summer [Building The Perfect Beast] (4:49) `isrc:USGF18502601` `qobuz:282434943`
+- **Joni Mitchell** — Coyote [The Asylum Albums (1976-1980)] (5:00) `isrc:USRH12304851` `qobuz:264709939`
+- **Neil Young** — Thrasher [Neil Young Archives Vol. III Takes] (6:18) `isrc:USRE12400221` `qobuz:278877357`
+- **John Lee Hooker** — Baby, Please Don't Go [Burning Hell] (4:51) `isrc:USC4R2441629` `qobuz:270009554`
+- **Mark Knopfler** — Two Pairs Of Hands [One Deep River] (4:05) `isrc:GBUM72310329` `qobuz:282895736`
+- **Jack White** — Old Scratch Blues [No Name] (3:31) `isrc:US3JJ2401116` `qobuz:280683084`
+- **Lindsey Buckingham** — Slow Dancing [20th Century Lindsey] (4:05) `isrc:USRH12400347` `qobuz:265777615`
+- **Big Star** — Thirteen [#1 Record] (2:33) `isrc:USC4R2442645` `qobuz:263868794`
+- **Yes** — We Have Heaven (Full Version) [We Have Heaven (Full Version)] (2:21) `isrc:USRH12302550` `qobuz:270605134`
+- **Alison Brown** — Wolf Moon [Wolf Moon] (2:56) `isrc:USCO92482905` `qobuz:277872282`
+- **The Rolling Stones** — She’s A Rainbow [Their Satanic Majesties Request (50th Anniversary Edition)] (4:34) `isrc:USA171710107` `qobuz:43392761`
+- **Buffalo Springfield** — For What It's Worth (2018 Remaster) [What's That Sound? -  Complete Albums Collection (Remastered)] (2:39) `isrc:USRH11800941` `qobuz:50671412`
+- **Creedence Clearwater Revival** — Lodi [The Complete Studio Albums] (3:12) `isrc:USFI86900056` `qobuz:18893849`
+- **Bob Dylan** — Hurricane [Desire] (8:32) `isrc:USSM17500791` `qobuz:4866129`
+- **John Denver** — Leaving, On a Jet Plane [John Denver's Greatest Hits] (4:08) `isrc:USRC17308356` `qobuz:59408469`
+- **The Beach Boys** — God Only Knows [Pet Sounds] (2:55) `isrc:USCA29600662` `qobuz:26841847`
+- **The Monkees** — Daydream Believer [Greatest Hits] (3:07) `isrc:USRH11300618` `qobuz:19512410`
+- **Electric Light Orchestra** — Sweet Talkin' Woman [Out of the Blue] (3:49) `isrc:USSM17200398` `qobuz:28187740`
+- **The Traveling Wilburys** — Handle With Care [The Traveling Wilburys, Vol. 1] (3:19) `isrc:GBLVT1600001` `qobuz:32497385`
+- **Eagles** — New Kid in Town [Hotel California] (5:04) `isrc:USEE11300196` `qobuz:10473708`
+- **Robert Palmer** — Addicted To Love [Riptide] (6:03) `isrc:USIR28500003` `qobuz:112880657`
+- **Toto** — I Won't Hold You Back [Toto IV] (4:53) `isrc:USSM19801934` `qobuz:52258`
+- **Chicago** — If You Leave Me Now [X] (3:58) `isrc:USRH11300066` `qobuz:8766738`
+- **A-Ha** — Hunting High and Low (2015 Remaster) [Hunting High and Low] (3:44) `isrc:USWB11506573` `qobuz:26997281`
+- **Madonna** — Borderline [Madonna] (5:21) `isrc:USWB11200470` `qobuz:6007322`
+- **Michael Jackson** — Beat It [Thriller] (4:18) `isrc:USSM19902990` `qobuz:7399`
+- **The Supremes** — Where Did Our Love Go [Where Did Our Love Go] (2:32) `isrc:USMO19290049` `qobuz:31704849`
+- **Diana Ross** — I'm Coming Out [Diana] (5:24) `isrc:USMO18000073` `qobuz:30820948`
+- **Donna Summer** — Love To Love You Baby [Love To Love You Baby] (16:53) `isrc:USWWW0125678` `qobuz:63852213`
+- **Aretha Franklin** — Think [Aretha Now] (2:18) `isrc:USAT21201293` `qobuz:6005959`
+- **Etta James** — At Last [At Last!] (3:01) `isrc:USMC16046323` `qobuz:32342911`
+- **Roberta Flack** — The First Time Ever I Saw Your Face [First Take] (5:22) `isrc:USAT21404645` `qobuz:21812432`
+- **Stan Getz** — The Girl From Ipanema [Getz/Gilberto] (5:20) `isrc:USPR36305146` `qobuz:77524797`
+- **Coleman Hawkins** — You'd Be So Nice To Come Home To [Coleman Hawkins Encounters Ben Webster] (4:18) `isrc:USF095900040` `qobuz:52207876`
+- **Chet Baker** — You're Driving Me Crazy [The Legendary Riverside Albums] (2:55) `isrc:USC4R1901538` `qobuz:80772342`
+- **Bill Evans Trio** — Autumn Leaves [Portrait In Jazz] (6:02) `isrc:USC4R1705853` `qobuz:39123450`
+- **Miles Davis** — Limbo [Sorcerer] (7:21) `isrc:USSM16700249` `qobuz:50292181`
+- **B.B. King** — Don't Answer The Door [His Best: The Electric B.B. King] (5:12) `isrc:USMC16945385` `qobuz:26842928`
+- **James Brown** — It's A Man's, Man's, Man's World [20 All-Time Greatest Hits!] (2:49) `isrc:USUR10001144` `qobuz:52482615`
+- **Nat King Cole** — Unforgettable [The Extraordinary] (3:27) `isrc:USCA21001556` `qobuz:16857156`
+- **Louis Armstrong** — What A Wonderful World [What A Wonderful World] (2:19) `isrc:USMC16758823` `qobuz:16028737`
+- **Dean Martin** — On An Evening In Roma (Sott'er Celo De Roma) [Italian Love Songs] (2:27) `isrc:USCA29801841` `qobuz:25220466`
+- **Elvis Presley** — In the Ghetto [Live 1969] (2:56) `isrc:USRC11901333` `qobuz:62762155`
+- **The Righteous Brothers** — You've Lost That Lovin' Feelin' [The Very Best Of The Righteous Brothers - Unchained Melody] (3:44) `isrc:USPR39609181` `qobuz:51318218`
+- **Neil Diamond** — I Am...I Said [50th Anniversary Collection] (3:35) `isrc:USMC17146646` `qobuz:39232937`
+- **Don McLean** — American Pie [American Pie] (8:33) `isrc:USEM38600088` `qobuz:54365900`
+- **David Bowie** — Life on Mars? [Hunky Dory] (3:55) `isrc:USJT11500142` `qobuz:25311827`
+- **Jeff Buckley** — Grace [Grace] (5:22) `isrc:USSM19400912` `qobuz:27606062`
+- **Patti Smith Group** — Because the Night [Easter] (3:25) `isrc:USAR17800008` `qobuz:47632885`
+- **Pat Benatar** — Heartbreaker [In The Heat Of The Night] (3:28) `isrc:USCH38400033` `qobuz:15436178`
+- **Kiss** — I Was Made For Lovin' You [Dynasty] (4:29) `isrc:USPR39330175` `qobuz:20000876`
+- **Alice Cooper** — School's Out (2013 Remaster) [Alice Cooper's Greatest Hits] (3:30) `isrc:USWB11303161` `qobuz:16884628`
+- **Van Halen** — Jump [Studio Albums 1978-1984] (4:04) `isrc:USWB11300474` `qobuz:8766600`
+- **Guns N' Roses** — Sweet Child O' Mine [Appetite For Destruction (Super Deluxe) - 192 kHz] (5:56) `isrc:USGF18714809` `qobuz:51041298`
+- **The Knack** — My Sharona [Get The Knack] (4:53) `isrc:USCA20200254` `qobuz:16973551`
+- **Blue Öyster Cult** — (Don't Fear) The Reaper [Agents Of Fortune] (5:08) `isrc:USSM17600477` `qobuz:33443762`
+- **Meat Loaf** — You Took the Words Right Out of My Mouth (Hot Summer Night) [Bat Out Of Hell] (5:05) `isrc:USSM17700327` `qobuz:32437831`
+- **Rod Stewart** — Baby Jane [Body Wishes] (4:43) `isrc:USWB11301321` `qobuz:10472964`
+- **Fleetwood Mac** — Everywhere [Tango In The Night] (3:47) `isrc:USWB11103176` `qobuz:18917039`
+- **Ike & Tina Turner** — Proud Mary [Workin' Together] (4:57) `isrc:USCA27000122` `qobuz:30720741`
+- **Gloria Gaynor** — I Will Survive [Love Tracks] (8:01) `isrc:USUR10200634` `qobuz:112880789`
+- **Four Tops** — Reach Out I'll Be There [Reach Out] (3:01) `isrc:USMO10119990` `qobuz:29432006`
+- **Curtis Mayfield** — Move on Up (2019 Remaster) [Keep on Keeping On. Studio Albums 1970-74 (2019 Remaster)] (8:53) `isrc:USRH11803514` `qobuz:58076066`
+- **Marvin Gaye** — Mercy Mercy Me (The Ecology) [What's Going On] (3:15) `isrc:USMO17100046` `qobuz:16012443`
+- **Sam Cooke** — Nothing Can Change This Love [Mr. Soul] (2:40) `isrc:USRC16202725` `qobuz:14162664`
+- **Otis Redding** — I Love You More Than Words Can Say [The Dock of the Bay] (2:56) `isrc:USAT21200779` `qobuz:6005209`
+- **Nina Simone** — I Put A Spell On You [I Put A Spell On You] (2:37) `isrc:USPR36600001` `qobuz:61236214`
+- **Billie Holiday** — He's Funny That Way [Recital] (3:11) `isrc:USPR35200020` `qobuz:79761027`
+- **Ella Fitzgerald** — I've Got A Crush On You [Ella Fitzgerald Sings The George And Ira Gershwin Song Book] (3:30) `isrc:USPR35905253` `qobuz:52617737`
+- **Sarah Vaughan** — Someone To Watch Over Me [Sarah Vaughan Sings George Gershwin] (4:03) `isrc:USPR35770217` `qobuz:49075634`
+- **Frank Sinatra** — I Get A Kick Out Of You [Songs For Young Lovers] (2:52) `isrc:USCA29800475` `qobuz:22080742`
+- **Blossom Dearie** — Plus Je T'embrasse [Give Him The Ooh-La-La] (2:31) `isrc:USPR35770301` `qobuz:33572192`
+- **Cassandra Wilson** — Harvest Moon [New Moon Daughter] (5:02) `isrc:USBN29500082` `qobuz:14158352`
+- **Diana Krall** — I'm Confessin' (That I Love You) [Turn Up The Quiet] (3:24) `isrc:USUM71701090` `qobuz:38704118`
+- **Norah Jones** — Turn Me On [Come Away With Me] (2:34) `isrc:USBN21200339` `qobuz:63333867`
+- **Alanis Morissette** — That I Would Be Good [Supposed Former Infatuation Junkie] (4:16) `isrc:USWB11507057` `qobuz:28060825`
+- **Coldplay** — The Scientist [A Rush of Blood to the Head] (5:08) `isrc:GBAYE1600192` `qobuz:33170291`
+- **Wilco** — How to Fight Loneliness [Summerteeth] (3:53) `isrc:USNO11400983` `qobuz:19913989`
+- **Beck** — Lost Cause [Sea Change] (3:47) `isrc:USIR10211441` `qobuz:19215579`
+- **R.E.M.** — Man On The Moon [Automatic For The People] (5:13) `isrc:USC4R1700247` `qobuz:44717926`
+- **Iggy Pop** — The Passenger [Lust For Life] (4:42) `isrc:USVI20700278` `qobuz:41004624`
+- **Bruce Springsteen** — Atlantic City [Nebraska] (4:00) `isrc:USSM18200422` `qobuz:13358660`
+- **Cat Stevens** — Sad Lisa [Tea For The Tillerman] (3:46) `isrc:GBAAN7000044` `qobuz:16214340`
+- **Simon & Garfunkel** — The Boxer [Greatest Hits] (5:14) `isrc:USSM16900831` `qobuz:61807821`
+- **Supertramp** — Dreamer [Crime Of The Century [2014 - HD Remaster]] (3:33) `isrc:USUM71022331` `qobuz:20750957`
+- **The Velvet Underground** — I'll Be Your Mirror [The Velvet Underground & Nico - 45th Anniversary] (2:14) `isrc:USPR36702767` `qobuz:33984072`
+- **Cream** — Sunshine Of Your Love [Disraeli Gears] (4:13) `isrc:GBA076700020` `qobuz:15774591`
+- **ZZ Top** — LA Grange [The ZZ Top Sixpack] (3:54) `isrc:USWB19903511` `qobuz:387308662`
+- **Eric Clapton** — Lay Down Sally [Slowhand] (3:56) `isrc:NLF057790026` `qobuz:15774691`
+- **Stevie Ray Vaughan & Double Trouble** — Lenny [Texas Flood] (4:57) `isrc:USSM18300426` `qobuz:20108938`
+- **Aerosmith** — Cryin' [Get A Grip] (5:07) `isrc:USIR10000430` `qobuz:15476132`
+- **Crowded House** — Don't Dream It's Over [Crowded House] (3:59) `isrc:USCA28600048` `qobuz:34280662`
+- **Grace Jones** — La Vie en rose [Disco] (7:27) `isrc:USIR27700004` `qobuz:23647452`
+- **Prince** — I Wanna Be Your Lover [Prince] (5:50) `isrc:USWB11303775` `qobuz:17376222`
+- **Chic** — Le Freak [C'est Chic] (5:31) `isrc:USRH11803270` `qobuz:56433116`
+- **Jackson 5** — I Want You Back [Diana Ross Presents The Jackson 5] (3:01) `isrc:USMO19400306` `qobuz:29426588`
+- **Isaac Hayes** — Theme From Shaft [Shaft] (4:39) `isrc:USC4R1605505` `qobuz:36487007`
+- **Ray Charles** — Ray's Blues [The Genius Sings the Blues] (2:54) `isrc:USAT21403834` `qobuz:21417464`
+- **Thelonious Monk** — 'Round Midnight [Genius Of Modern Music] (3:09) `isrc:USBN21300022` `qobuz:17423679`
+- **Art Blakey & The Jazz Messengers** — Moanin' [Moanin'] (9:33) `isrc:USBN21300011` `qobuz:16104033`
+- **Duke Ellington** — In A Sentimental Mood [Duke Ellington & John Coltrane] (4:16) `isrc:USMC16351954` `qobuz:35031475`
+- **Keith Jarrett** — Country [My Song] (5:04) `isrc:DEB337711504` `qobuz:24044999`
+- **John Coltrane** — Theme For Ernie [Coltrane '58: The Prestige Recordings] (4:57) `isrc:USC4R1604495` `qobuz:58417360`
+- **Sonny Rollins** — Without a Song [The Bridge] (7:29) `isrc:USBB10300404` `qobuz:213296`
+- **Grover Washington Jr.** — Easy Loving You [Skylarkin'] (7:17) `isrc:USMO10200340` `qobuz:112880778`
+- **The Doors** — Alabama Song (Whisky Bar) [The Doors] (3:20) `isrc:USRH11605701` `qobuz:37709331`
+- **Ramones** — Rockaway Beach [Rocket to Russia] (2:05) `isrc:USWB11302829` `qobuz:15879686`
+- **Yes** — Yours Is No Disgrace [The Yes Album] (9:40) `isrc:USEE11300033` `qobuz:8766680`
+- **Van Morrison** — Sweet Thing [Astral Weeks] (4:24) `isrc:USWB11302413` `qobuz:12262006`
+- **The Alan Parsons Project** — Some Other Time [I Robot] (4:05) `isrc:USAR17700141` `qobuz:40997324`
+- **Roger Waters** — Amused to Death [Amused To Death] (9:06) `isrc:USSM10026585` `qobuz:25849964`
+- **Crosby, Stills & Nash** — Helplessly Hoping [Crosby, Stills & Nash] (2:41) `isrc:USAT21204222` `qobuz:7104441`
+- **Steppenwolf** — Born To Be Wild [Steppenwolf] (3:31) `isrc:USMC16846563` `qobuz:20409861`
+- **Santana** — Black Magic Woman / Gypsy Queen [Abraxas] (5:20) `isrc:USSM17000311` `qobuz:16503389`
+- **Janis Joplin** — Little Girl Blue [I Got Dem Ol' Kozmic Blues Again Mama!] (3:47) `isrc:USSM16900952` `qobuz:29594803`
+- **Joni Mitchell** — Amelia [Hejira] (6:01) `isrc:USEE11300791` `qobuz:14345398`
+- **Steve Earle** — Guitar Town [Guitar Town] (2:35) `isrc:USMC18519803` `qobuz:32021725`
+- **Dolly Parton** — Islands In the Stream [Greatest Hits] (4:11) `isrc:USRC18307961` `qobuz:34095916`
+- **Cyndi Lauper** — Iko Iko [True Colors] (2:09) `isrc:USSM18600635` `qobuz:31660015`
+- **Lionel Richie** — Dancing On The Ceiling [Dancing On The Ceiling] (4:36) `isrc:USMO18682745` `qobuz:24369649`
+- **The Commodores** — Easy [Commodores] (4:16) `isrc:USMO17700543` `qobuz:24017934`
+- **Foreigner** — That Was Yesterday [Agent Provocateur] (3:51) `isrc:USAT21302036` `qobuz:12262034`
+- **The Cars** — Drive [Heartbeat City] (3:54) `isrc:USRH11509874` `qobuz:30516237`
+- **Bruce Hornsby** — Across the River [Night On the Town] (5:10) `isrc:USRC19004288` `qobuz:32753903`
+- **Soundgarden** — Black Hole Sun [Superunknown] (5:19) `isrc:USAM19400007` `qobuz:40987345`
+- **Foo Fighters** — Rope [Wasting Light] (4:18) `isrc:USRW31100001` `qobuz:3445002`
+- **Jack White** — High Ball Stepper [Lazaretto] (3:52) `isrc:USSM11401501` `qobuz:47597656`
+- **Rush** — The Spirit Of Radio [Permanent Waves] (4:59) `isrc:USMR18070028` `qobuz:24844582`
+- **Albert King** — Watermelon Man [Live Wire / Blues Power] (4:04) `isrc:USC4R2441762` `qobuz:288262320`
+- **Lightnin' Hopkins** — Rocky Mountain [Last Night Blues] (5:00) `isrc:USC4R2441988` `qobuz:288262259`
+- **Tony Rice** — Streets Of London [Church Street Blues] (4:00) `isrc:USC4R2340301` `qobuz:260478780`
+- **Gillian Welch** — Empty Trainload Of Sky [Woodland] (3:24) `isrc:US2AR2441601` `qobuz:277238761`
+- **Diana Krall** — The Man With The Bag [The Man With The Bag] (2:03) `isrc:USGR10110796` `qobuz:293741155`
+- **Ashlee Simpson** — Pieces Of Me [Autobiography] (3:36) `isrc:USMC10400225` `qobuz:282311634`
+- **Barry Manilow** — Medley: Could It Be Magic / Mandy [Barry Live In Britain] (6:21) `isrc:USAR18200213` `qobuz:258231256`
+- **Nikki Ocean** — Hey Little Girl [Hey Little Girl] (2:44) `isrc:ARF412400403` `qobuz:276579147`
+- **The B-52's** — Devil In My Car [Wild Planet] (4:27) `isrc:USIR28000032` `qobuz:252611752`
+- **John Lennon** — Mind Games [Mind Games] (4:12) `isrc:GBUM72304464` `qobuz:268366953`
+- **Robert Hunter** — That Train [Tales of the Great Rum Runners] (4:37) `isrc:USRH12400145` `qobuz:261614185`
+- **Violent Femmes** — Country Death Song [Hallowed Ground] (5:01) `isrc:USC4R2447734` `qobuz:299144875`
+- **Grateful Dead** — U.S. Blues [From the Mars Hotel] (4:41) `isrc:USRH12305630` `qobuz:258936670`
+- **Peter Frampton** — Show Me The Way [Frampton Comes Alive!] (4:46) `isrc:USAM17600027` `qobuz:259403379`
+- **Crosby, Stills, Nash & Young** — Helplessly Hoping (Live at Fillmore East, 1969) [2024 Mix] [Live At Fillmore East, 1969] (2:46) `isrc:USRH12401729` `qobuz:288060019`
+- **CAKE** — The Guitar Man [Pressure Chief] (3:53) `isrc:USSM10407437` `qobuz:249951607`
+- **The Velvet Underground** — Waiting For My Man [1969 Velvet Underground Live With Lou Reed] (7:00) `isrc:USWWW0126700` `qobuz:288261780`
+- **McCoy Tyner** — In ’N Out [Forces of Nature: Live at Slugs'] (26:43) `isrc:USUM72408661` `qobuz:290068116`
+- **Chet Baker** — Rondette [In Paris - The complete 1955-1956 Barclay sessions] (2:10) `isrc:FRZ015500390` `qobuz:292970426`
+- **Charles Mingus** — R&R [Incarnations] (11:50) `isrc:QZR8K2325004` `qobuz:397316664`
+- **Joe Henderson** — Black Narcissus [Power To The People] (4:51) `isrc:USC4R2340315` `qobuz:257142907`
+- **Cannonball Adderley** — Goodbye [Know What I Mean?] (6:17) `isrc:USC4R2340400` `qobuz:254687477`
+- **Bill Evans Trio** — Peace Piece [Everybody Digs Bill Evans] (6:44) `isrc:USC4R2340940` `qobuz:263869031`
+- **Miles Davis** — You Don't Know What Love Is [Miles '54: The Prestige Recordings] (4:24) `isrc:USC4R2441926` `qobuz:301922415`
+- **Django Reinhardt** — Anouman [The Last Be-Bop Sessions] (2:45) `isrc:FRZ025380200` `qobuz:291019273`
+- **Thelonious Monk Septet** — Well, You Needn't [Monk's Music] (11:42) `isrc:USC4R2443082` `qobuz:300533022`
+- **Art Blakey & The Jazz Messengers** — Caravan [Caravan] (9:47) `isrc:USC4R2340292` `qobuz:254687732`
+- **Ron Carter** — Rally [Where?] (5:43) `isrc:USC4R2340841` `qobuz:259450950`
+- **Slayer** — Angel Of Death [Reign In Blood] (4:51) `isrc:USSM18600233` `qobuz:258121608`
+- **The Aurora Project** — Black Devil [Black Devil] (4:02) `isrc:DEYW82400594` `qobuz:247100798`
+- **Harvey Averne** — I Feel Fine [The Harvey Averne Dozen] (3:11) `isrc:USC4R2441795` `qobuz:257142663`
+- **Bobby Valentín** — Que Pollito [Young Man With A Horn] (3:45) `isrc:USC4R2341084` `qobuz:249563541`
+- **Lucha Villa** — La Enorme Distancia [Sentimiento Ranchero] (2:35) `isrc:USC4R2441889` `qobuz:257142510`
+- **Ismael Rivera Y Sus Cachimbos** — Que Te Pasa A Ti [Traigo de Todo] (4:47) `isrc:USC4R2441948` `qobuz:292550032`
+- **Jenna Mammina** — Dream [Blue Coast Collection 5] (3:39) `isrc:USKTN2003201` `qobuz:276740574`
+- **Celia Cruz** — Tengo el Idde [Celia & Johnny] (4:59) `isrc:USC4R2333624` `qobuz:293741925`
+- **Julie** — catalogue [my anti-aircraft friend] (3:14) `isrc:USAT22309408` `qobuz:276329624`
+- **San Francisco Symphony** — Suite No. 1 from Romeo and Juliet, Op. 64bis: IV. Minuet [Prokofiev: Music from Romeo and Juliet] (2:50) `isrc:USEXZ2301097` `qobuz:298119094`
+- **Francesco Corti** — Sonata in D Minor, K. 213. Andante [Domenico Scarlatti: A Man of Genius] (8:34) `isrc:FR46Y2356801` `qobuz:276814638`
+- **Víkingur Ólafsson** — J.S. Bach: Cantata, BWV 159: Es ist vollbracht (Arr. Ólafsson for Piano) [Continuum] (4:28) `isrc:DEN962400231` `qobuz:287108161`
+- **Nelson Goerner** — Hungarian Rhapsodies, S. 244: No. 6 in D-Flat Major [Liszt: Sonate en si mineur, Sonetti di Petrarca, Valse oubliée No.2, Étude "La leggierezza", Rhapsodie hongroise No.6] (7:04) `isrc:FR50X2303609` `qobuz:252277323`
+- **Alison Balsom** — La stravaganza, Op. 4: Violin Concerto No. 6 in G Minor, RV 316a: I. Allegro (Transcr. for Piccolo Trumpet and Baroque Orchestra by Simon Wright) [Baroque Concertos] (2:38) `isrc:GBAYC2400481` `qobuz:288458599`
+- **Olga Pashchenko** — I. Allegro [Mozart: Piano Concertos 20 & 23] (11:08) `isrc:FR50X2194204` `qobuz:265609376`
+- **Philippe Jaroussky** — Du bist die Ruh, Op. 59 No. 3, D. 776 [Schubert: Lieder] (4:27) `isrc:GBAYC2100561` `qobuz:292760274`
+- **Sophie de Bardonnèche** — Meslange de musique latine, françoise et italienne: Ariette dans le goût nouveau [Destinées] (3:08) `isrc:FR50X2407801` `qobuz:277462881`
+- **Lang Lang** — Saint-Saëns: Carnival of the Animals, R. 125: IX. The Cuckoo in the Woods [Saint-Saëns: Carnival of the Animals (Ogden Nash Poems Narrated by Jimmy Fallon)] (2:15) `isrc:DEN962431214` `qobuz:254609865`
+- **Claudio Arrau** — 12 Études, Op. 10: No. 1 in C Major [Chopin, Schumann, Liszt] (1:52) `isrc:GBAYC2200336` `qobuz:250454741`
+- **Bruce Liu** — Tchaikovsky: The Seasons, Op. 37a: I. January. At the Fireside [Tchaikovsky: The Seasons] (6:37) `isrc:DEN962433501` `qobuz:284154906`
+- **Vilde Frang** — Violin Concerto in B Minor, Op. 61: I. Allegro [Elgar: Violin Concerto, Op. 61] (17:45) `isrc:GBAYC2400824` `qobuz:280727858`
+- **Cassandra Wright** — Nocturne [In the Twilight (The Royal Academy of Music Bicentenary Series)] (3:31) `isrc:GBASH2473402` `qobuz:268356506`
+- **Leonidas Kavakos** — Violin Concerto in D Minor, BWV 1052R/I. Allegro [Bach: Violin Concertos] (7:03) `isrc:USSM12308684` `qobuz:249375207`
+- **Erika Tandiono** — Machet die Tore weit [Schütz: Weihnachtshistorie] (3:27) `isrc:BER182446701` `qobuz:283168248`
+- **Otto Klemperer** — Symphony No. 4 in E-Flat Major, WAB 104 "Romantic": II. Andante, quasi allegretto (1878/80 Version) [Bruckner: Symphonies Nos. 4 "Romantic" & 7] (14:00) `isrc:GBAYC2202767` `qobuz:252456061`
+- **Beatrice Rana** — Piano Sonata No. 2 in B-Flat Minor, Op. 35 "Funeral March": I. Grave - Doppio movimento [Chopin: Piano Sonata No. 2, Op. 35 "Funeral March" - Beethoven: Piano Sonata No. 29, Op. 106 "Hammerklavier"] (8:08) `isrc:GBAYC2302271` `qobuz:250391891`
+- **William Christie** — Marche pour la cérémonie des Turcs (Arr. for 2 Harpsichords by William Christie & Justin Taylor) ["Conversation" Gaspard Le Roux: Suites for 2 Harpsichords] (1:23) `isrc:FR7JM2372070` `qobuz:254971189`
+- **Rachel Podger** — I. Affetuoso [The Muses Restor'd] (3:17) `isrc:NLA460915421` `qobuz:258345955`
+- **Il Giardino Armonico** — Symphony No. 98 in B-Flat Major, Hob. I:98: I. Adagio - Allegro [Haydn 2032, Vol. 16: The Surprise] (8:23) `isrc:FR50X2469801` `qobuz:288330614`
+- **Budapest Festival Orchestra** — III. Scherzo. Allegro vivace - Trio [Beethoven: Symphony No. 3 "Eroica" & Coriolan Overture] (5:55) `isrc:NLA460915408` `qobuz:252278716`
+- **Sabine Devieilhe** — Komm, liebe Zither, komm, K. 351 [Mozart & Strauss: Lieder] (1:57) `isrc:GBAYC2400044` `qobuz:255619511`
+- **Dresdner Philharmonie** — No. 1, Die Vorstellung des Chaos [Haydn: Die Schöpfung] (5:45) `isrc:NLE422320501` `qobuz:262220232`
+- **Mari Kodama** — Piano Sonata in G Minor, WAB 243: First movement (Entwurf) [Bruckner: Piano Works] (8:57) `isrc:NLE422422401` `qobuz:283034552`
+- **Dresdner Philharmonie** — I. Andante un poco maestoso - Allegro molto vivace - Animato [Schumann: Complete Symphonies] (11:22) `isrc:NLE422107901` `qobuz:252283813`

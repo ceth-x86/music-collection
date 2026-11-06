@@ -1,0 +1,108 @@
+# Genre: Classic Synthpop
+
+Imported genre playlist: Classic Synthpop.
+
+Services: `qobuz:66717704` `tidal:e1506eac-af76-4e6a-842a-c620439f21b7`
+
+## Tracks (100)
+
+- **Gina X Performance** — Nice Mover [Nice Mover] (4:34) `isrc:GBHBR0400703` `qobuz:50570752`
+- **Kraftwerk** — The Model [The Man Machine (2009 Digital Remaster)] (3:40) `isrc:USCA20903078` `qobuz:1792676`
+- **The Normal** — Warm Leatherette [Warm Leatherette / T.V.O.D.] (3:23) `isrc:GBAJH0400898` `qobuz:52081057`
+- **Gary Numan** — Cars [The Pleasure Principle] (3:57) `isrc:GBAZP1500019` `qobuz:27967530`
+- **Japan** — Quiet Life [Quiet Life] (4:51) `isrc:GB5KW2003338` `qobuz:377326711`
+- **M / Robin Scott** — Pop Muzik [Pop Muzik] (4:56) `isrc:GBGHQ7900001` `qobuz:385964139`
+- **New Musik** — Living By Numbers [FROM A TO B] (3:28) `isrc:GBBBM7900013` `qobuz:100817`
+- **Modiga Agenter** — Oh Susie (Bara Vi Två Vet) [Night City Tribute – the Songs of Secret Service] (3:50) `isrc:SE54Q1800218` `qobuz:197364634`
+- **Sparks** — The Number One Song In Heaven [No. 1 In Heaven] (7:27) `isrc:USSK40710119` `qobuz:81010195`
+- **Telex** — Moskow Diskow [This Is Telex] (3:18) `isrc:BES762001002` `qobuz:112266086`
+- **The Buggles** — Video Killed The Radio Star [The Age Of Plastic] (4:13) `isrc:GBAAN7900013` `qobuz:68676893`
+- **Tubeway Army** — Are 'Friends' Electric? [Replicas] (5:23) `isrc:GBAZP9700052` `qobuz:26441450`
+- **Yellow Magic Orchestra** — Behind the Mask [Solid State Survivor] (3:36) `isrc:JPAL09900390` `qobuz:55763420`
+- **Orchestral Manoeuvres in the dark (OMD)** — Enola Gay [The OMD Singles] (3:32) `isrc:GBAAA8000002` `qobuz:1050075`
+- **Fad Gadget** — Ricky's Hand [The Best of Fad Gadget] (4:10) `isrc:GBAJH0100325` `qobuz:4666190`
+- **John Foxx** — Underpass [Metamatic] (3:56) `isrc:GBECB1400292` `qobuz:170641481`
+- **Units** — High Pressure Days [High Pressure Days] (3:17) `isrc:CH3320900008` `qobuz:134655055`
+- **Ultravox** — Vienna [Vienna] (4:56) `isrc:GBAYK0800167` `qobuz:169136017`
+- **Visage** — Fade To Grey [Fade To Grey:  The Best Of Visage] (4:03) `isrc:USPR38080067` `qobuz:3884557`
+- **Spandau Ballet** — To Cut a Long Story Short (12” Mix 1) [To Cut A Long Story Short] (6:30) `isrc:GBAYK2000014` `qobuz:104605033`
+- **Depeche Mode** — Just Can't Get Enough [Speak and Spell (Deluxe)] (3:40) `isrc:GBAJH0600205` `qobuz:816289`
+- **Duran Duran** — Planet Earth [Duran Duran] (4:02) `isrc:GBAYE1000024` `qobuz:1914521`
+- **Heaven 17** — (We Don't Need This)Fascist Groove Thang [Pedramovich Remix] [(We Don't Need This) Fascist Groove Thang [2010 Remixes Part One]] (5:47) `isrc:GB3DN1000005` `qobuz:167263982`
+- **Kim Wilde** — Kids In America [Love Blonde: The RAK Years] (3:26) `isrc:GBBLY2000187` `qobuz:278591303`
+- **Landscape** — Einstein a Go-Go [From the Tea Rooms of Mars...To the Hell Holes of Uranus] (2:59) `isrc:GBCEJ2200412` `qobuz:368615146`
+- **Pete Shelley** — Homosapien [Homosapien] (4:34) `isrc:GBVDE0800014` `qobuz:140273408`
+- **Soft Cell** — Tainted Love [Tainted Love / Where Did Our Love Go] (2:36) `isrc:GBF088100001` `qobuz:711401`
+- **Dream Theater** — Led Zeppelin Medley - The Rover / Achilles Last Stand / The Song Remains the Same [A Change of Seasons] (7:28) `isrc:USEW20100180` `qobuz:2782570`
+- **Human League** — Don't You Want Me [The Very Best Of The Human League] (3:57) `isrc:GBAAA0200924` `qobuz:4914664`
+- **A Flock Of Seagulls** — I Ran (So Far Away) [I Ran (So Far Away)] (5:14) `isrc:USA560619562` `qobuz:51008709`
+- **ABC** — The Look Of Love, Pt.1 [The Lexicon Of Love] (3:29) `isrc:GBF088200008` `qobuz:770252`
+- **B-Movie** — Nowhere Girl [Nowhere Girl - EP] (6:28) `isrc:QM6XS1576355` `qobuz:51058419`
+- **Blancmange** — Living On The Ceiling [Happy Families] (4:02) `isrc:GBAAP0800023` `qobuz:46123000`
+- **Blue Zoo** — Cry Boy Cry [2 By 2] (4:27) `isrc:GBAHS0800379` `qobuz:28482801`
+- **Naked Eyes** — Always Something There to Remind Me [Naked Eyes] (3:39) `isrc:UKKP21800044` `qobuz:169166508`
+- **Taco** — Puttin' on the Ritz [After Eight] (4:41) `isrc:DEK898200020` `qobuz:45505346`
+- **The Associates** — Party Fears Two [Sulk] (5:35) `isrc:UKCUL8200008` `qobuz:387106144`
+- **The Passage** — XOYO [Degenerates] (3:54) `isrc:GBBLY8200006` `qobuz:163552710`
+- **Thomas Dolby** — She Blinded Me With Science [Blinded With Science] (3:41) `isrc:GBAYE8200083` `qobuz:385582032`
+- **Yazoo** — Don't Go [Upstairs at Eric's] (3:11) `isrc:GBAJH0800097` `qobuz:385657813`
+- **The Assembly** — Never Never [Never Never] (3:46) `isrc:GBAJH9600239` `qobuz:385327156`
+- **Hubert Kah** — Sternenhimmel [Ich komme] (3:06) `isrc:DEF068205320` `qobuz:8597051`
+- **Mecano** — Me Colé en una Fiesta [Mecano] (4:16) `isrc:ES5029700682` `qobuz:385574194`
+- **Peter Schilling** — Major Tom (Völlig losgelöst) [Major Tom (Völlig losgelöst)] (3:59) `isrc:DEA622100158` `qobuz:113921631`
+- **Trio** — Da Da Da ich lieb dich nicht du liebst mich nicht Aha Aha Aha [Da Da Da] (6:32) `isrc:DEF078202720` `qobuz:4354694`
+- **Yello** — I Love You [Yello 40 Years] (3:14) `isrc:DEUM70500235` `qobuz:116648489`
+- **Alphaville** — Big in Japan (2019 Remaster) [Forever Young (Super Deluxe Edition) [2019 Remaster]] (4:44) `isrc:DEA621800673` `qobuz:57635339`
+- **Propaganda** — Dr. Mabuse [A Secret Wish] (5:02) `isrc:GBAHW0000201` `qobuz:131632130`
+- **The Twins** — Ballet Dancer [A Wild Romance] (3:26) `isrc:DEA650699974` `qobuz:55358345`
+- **Partenaire Particulier** — Partenaire Particulier [Le son des années 80] (4:05) `isrc:FRZ788500001` `qobuz:9449120`
+- **Desireless** — Voyage voyage [François] (4:26) `isrc:DEQ858600201` `qobuz:1662728`
+- **Our Daughter's Wedding** — Lawnchairs [The Graduates Original Soundtrack] (3:34) `isrc:USHM80973073` `qobuz:77028761`
+- **Men Without Hats** — The Safety Dance [Greatest] (2:44) `isrc:GBBLG0200043` `qobuz:52524552`
+- **Missing Persons** — Words [Spring Session M.] (4:27) `isrc:USCA28700329` `qobuz:841769`
+- **Rational Youth** — Saturdays In Silesia [Cold War Night Life] (4:20) `isrc:USCA29600677` `qobuz:69299437`
+- **Spoons** — Nova Heart [Arias & Symphonies 30th Anniversary] (5:46) `isrc:CASP31243207` `qobuz:6761412`
+- **The Flirts** — Jukebox (Don't Put Another Dime) [10 Cents For A Dance] (3:42) `isrc:USBKY0526639` `qobuz:49199760`
+- **Berlin** — The Metro [Pleasure Victim] (4:09) `isrc:USGF19918710` `qobuz:54695912`
+- **Real Life** — Send Me An Angel [Heartland] (3:52) `isrc:USCRB1109415` `qobuz:97550082`
+- **Trans-X** — Living On Video [Living On Video] (5:54) `isrc:CAU118301773` `qobuz:10224216`
+- **Animotion** — Obsession [Obsession:  The Best Of Animotion] (5:35) `isrc:USPR38530022` `qobuz:54342953`
+- **Book Of Love** — Boy [Book Of Love] (2:59) `isrc:USRE10100038` `qobuz:2933494`
+- **Eurythmics** — Sweet Dreams (Are Made of This) [Sweet Dreams (Are Made Of This)] (3:36) `isrc:GBARL0300589` `qobuz:240368`
+- **Fiction Factory** — (Feels Like) Heaven [Throw The Warped Wheel Out] (3:33) `isrc:GBBBN8400001` `qobuz:4911056`
+- **Frankie Goes To Hollywood** — Relax (Come Fighting) [Welcome To The Pleasuredome] (3:56) `isrc:GBAHW9900051` `qobuz:53675841`
+- **Freur** — Doot Doot [Doot Doot] (4:03) `isrc:GBBBN8300004` `qobuz:4918004`
+- **Paul Haig** — Heaven Help You Now [The Warp of Pure Fun] (4:02) `isrc:GBHBR0400728` `qobuz:50570549`
+- **Howard Jones** — What Is Love? [Human's Lib] (6:33) `isrc:GBAHS0104812` `qobuz:287663747`
+- **Kajagoogoo** — Too Shy [White Feathers] (3:41) `isrc:GBAYE8300270` `qobuz:1930078`
+- **Laid Back** — White Horse [Keep Smiling (Remastered)] (3:56) `isrc:DKABA1200327` `qobuz:5152641`
+- **Re-Flex** — The Politics of Dancing [The Politics of Dancing (Expanded)] (6:38) `isrc:GBAYE1900426` `qobuz:174315146`
+- **Thompson Twins** — Hold Me Now [Platinum & Gold Collection] (4:46) `isrc:GBARK8300013` `qobuz:385571464`
+- **Wang Chung** — Dance Hall Days [Points On The Curve] (4:00) `isrc:USGF18400401` `qobuz:102489599`
+- **Kissing The Pink** — The Last Film [Naked] (3:26) `isrc:GBAHS1100324` `qobuz:4843268`
+- **China Crisis** — Wishful Thinking [Working With Fire And Steel] (4:42) `isrc:GBAAA8200064` `qobuz:4620237`
+- **Alison Moyet** — Love Resurrection [Alf] (3:52) `isrc:GB5KW1602145` `qobuz:375966590`
+- **Dead Or Alive** — You Spin Me Round (Like a Record) [Re-Recorded / Remastered] [You Spin Me Round (Like A Record)] (4:27) `isrc:USA371028817` `qobuz:51035853`
+- **Nik Kershaw** — Wouldn't It Be Good [Live in Germany 1984] (5:04) `isrc:GBHQK1500785` `qobuz:59895963`
+- **Studio Group** — Together In Electric Dreams (Karaoke-Version) As Made Famous By: Philip Oakey / Giorgio Moroder [Karaoke Pop: Together In Electric Dreams] (4:06) `isrc:USFB20669072` `qobuz:1271990`
+- **Secession** — Touch [Touch] (3:53) `isrc:GBAZP8400138` `qobuz:2329841`
+- **Tears For Fears** — Shout [Songs From The Big Chair] (6:33) `isrc:GBF088490125` `qobuz:20252071`
+- **Talk Talk** — It's My Life [It's My Life] (3:52) `isrc:GBAYE9700491` `qobuz:1075362`
+- **The Blue Nile** — Tinseltown in the Rain [A Walk Across the Rooftops] (5:57) `isrc:GBAAA1200702` `qobuz:151715597`
+- **Harold Faltermeyer** — Axel F [Harold F] (3:00) `isrc:USMC18416586` `qobuz:60794552`
+- **Bronski Beat** — Smalltown Boy [The Age of Consent] (5:02) `isrc:GBAAP0200005` `qobuz:46123705`
+- **Pet Shop Boys** — West End Girls [Discography - Complete Singles Collection] (4:00) `isrc:GBAYE8500031` `qobuz:797819`
+- **Red Box** — Lean on Me (Ah-li-ayo) [80 Hits of the 80s] (4:25) `isrc:GBAHS0500260` `qobuz:68861891`
+- **A-Ha** — Take on Me (2015 Remaster) [Hunting High and Low] (3:48) `isrc:USWB11506571` `qobuz:26997279`
+- **New Order** — Bizarre Love Triangle [Brotherhood] (4:22) `isrc:GBAAP1500209` `qobuz:35951256`
+- **The Communards** — Don't Leave Me This Way [Don't Leave Me This Way] (8:25) `isrc:GBAAP2100205` `qobuz:137015607`
+- **Camouflage** — The Great Commandment [Voices & Images] (4:16) `isrc:DEF088802040` `qobuz:2474168`
+- **Johnny Hates Jazz** — Shattered Dreams [Turn Back The Clock] (3:27) `isrc:GBAAA0800243` `qobuz:4967377`
+- **Icehouse** — Electric Blue [White Heat: 30 Hits] (4:23) `isrc:AUC441100033` `qobuz:40604181`
+- **Erasure** — A Little Respect [The Innocents] (3:33) `isrc:GB5KW1701047` `qobuz:387306742`
+- **Information Society** — What's On Your Mind [Pure Energy] [Pure Energy Radio Edit] [What's On Your Mind [Pure Energy] [Pure Energy Radio Edit] / What's On Your Mind [Pure Energy] [Club Radio Edit] [Digital 45]] (3:36) `isrc:USRH10904234` `qobuz:2859248`
+- **When In Rome** — The Promise [When In Rome] (3:40) `isrc:GBAAA8800494` `qobuz:1947989`
+- **Celebrate the nun** — Will You Be There [Will Be There Single] (3:29) `isrc:USA560952907` `qobuz:68955754`
+- **Red Flag** — Russian Radio [Naïve Art [Special Editon]] (6:12) `isrc:USRY20514048` `qobuz:2811104`
+- **Anything Box** — Living In Oblivion [Peace] (5:06) `isrc:USSM10026764` `qobuz:56611893`
+- **Cause & Effect** — You Think You Know Her [Another Minute] (4:43) `isrc:USVR10400777` `qobuz:5017904`

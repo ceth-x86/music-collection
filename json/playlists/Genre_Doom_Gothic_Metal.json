@@ -1,0 +1,449 @@
+{
+  "name": "Genre: Doom Gothic Metal",
+  "services": {
+    "qobuz": "66735859"
+  },
+  "description": "Imported genre playlist: Doom Gothic Metal.",
+  "tracks": [
+    {
+      "artist": "Paradise Lost",
+      "title": "Gothic",
+      "services": {
+        "qobuz": "51000364"
+      },
+      "album": "Gothic",
+      "duration": 283,
+      "isrc": "GBCQV9100048"
+    },
+    {
+      "artist": "The Gathering",
+      "title": "In Power We Entrust the Love Advocated",
+      "services": {
+        "qobuz": "27555206"
+      },
+      "album": "Accessories (Rarities & B-Sides)",
+      "duration": 244,
+      "isrc": "US4E40526806"
+    },
+    {
+      "artist": "Cemetary",
+      "title": "An Evil Shade of Grey",
+      "services": {
+        "qobuz": "179351068"
+      },
+      "album": "An Evil Shade of Grey",
+      "duration": 318,
+      "isrc": "SEXHQ9200404"
+    },
+    {
+      "artist": "Type O Negative",
+      "title": "Bloody Kisses (A Death in the Family)",
+      "services": {
+        "qobuz": "2555696"
+      },
+      "album": "Bloody Kisses",
+      "duration": 656,
+      "isrc": "NLA329300750"
+    },
+    {
+      "artist": "Anathema",
+      "title": "Sleepless",
+      "services": {
+        "qobuz": "50990028"
+      },
+      "album": "Serenades",
+      "duration": 251,
+      "isrc": "GBCQV9300014"
+    },
+    {
+      "artist": "Katatonia",
+      "title": "Without God",
+      "services": {
+        "qobuz": "50989772"
+      },
+      "album": "Dance of December Souls",
+      "duration": 408,
+      "isrc": "GBCQV0700278"
+    },
+    {
+      "artist": "Lake Of Tears",
+      "title": "Under The Crescent",
+      "services": {
+        "qobuz": "410885203"
+      },
+      "album": "Greater Art",
+      "duration": 222,
+      "isrc": "SEXHQ9400401"
+    },
+    {
+      "artist": "During",
+      "title": "Why so lonely (The 3rd and the mortal)",
+      "services": {
+        "qobuz": "336941514"
+      },
+      "album": "Why so lonely (The 3rd and the mortal)",
+      "duration": 185,
+      "isrc": "QZRP52512108"
+    },
+    {
+      "artist": "Tiamat",
+      "title": "Whatever That Hurts",
+      "services": {
+        "qobuz": "47539059"
+      },
+      "album": "Wildhoney",
+      "duration": 348,
+      "isrc": "US4E40478002"
+    },
+    {
+      "artist": "Left Hand Solution",
+      "title": "Solitary Fallen Angel",
+      "services": {
+        "qobuz": "193732282"
+      },
+      "album": "Shadowdance",
+      "duration": 185,
+      "isrc": "SELIA9400502"
+    },
+    {
+      "artist": "Mindrot",
+      "title": "Dawning",
+      "services": {
+        "qobuz": "60650358"
+      },
+      "album": "Dawning",
+      "duration": 264,
+      "isrc": "US2640692501"
+    },
+    {
+      "artist": "Theatre of Tragedy",
+      "title": "Cassandra",
+      "services": {
+        "qobuz": "39799296"
+      },
+      "album": "A\u00e9gis",
+      "duration": 409,
+      "isrc": "DER379815901"
+    },
+    {
+      "artist": "Janny Oliver Tony",
+      "title": "Watering Dead Flowers",
+      "services": {
+        "qobuz": "431563555"
+      },
+      "album": "Tears in the Rain",
+      "duration": 241,
+      "isrc": "QT6EG2649237"
+    },
+    {
+      "artist": "Estatic Fear",
+      "title": "Somnium Obmutum",
+      "services": {
+        "qobuz": "67816557"
+      },
+      "album": "Somnium Obmutum",
+      "duration": 1935,
+      "isrc": "ATC159615102"
+    },
+    {
+      "artist": "Heavenwood",
+      "title": "Frozen Images",
+      "services": {
+        "qobuz": "336840942"
+      },
+      "album": "Diva",
+      "duration": 423,
+      "isrc": "US3L62417109"
+    },
+    {
+      "artist": "Moonspell",
+      "title": "Opium",
+      "services": {
+        "qobuz": "27576740"
+      },
+      "album": "Irreligious",
+      "duration": 167,
+      "isrc": "US4E40482302"
+    },
+    {
+      "artist": "SATURNUS",
+      "title": "Paradise Belongs To You",
+      "services": {
+        "qobuz": "58080527"
+      },
+      "album": "Paradise Belongs To You",
+      "duration": 614,
+      "isrc": "DKFDD9600401"
+    },
+    {
+      "artist": "Lacrimas Profundere",
+      "title": "The Crown of Leaving",
+      "services": {
+        "qobuz": "37129357"
+      },
+      "album": "Memorandum",
+      "duration": 399,
+      "isrc": "ATN269906906"
+    },
+    {
+      "artist": "Within Temptation",
+      "title": "Restless",
+      "services": {
+        "qobuz": "112625518"
+      },
+      "album": "Enter",
+      "duration": 368,
+      "isrc": "NLR261100021"
+    },
+    {
+      "artist": "On Thorns I Lay",
+      "title": "The Song of the Sea",
+      "services": {
+        "qobuz": "279124746"
+      },
+      "album": "Orama",
+      "duration": 99,
+      "isrc": "NLWJ22200715"
+    },
+    {
+      "artist": "Tristania",
+      "title": "My Lost Lenore",
+      "services": {
+        "qobuz": "47114643"
+      },
+      "album": "Widow's Weeds",
+      "duration": 383,
+      "isrc": "ATN269804107"
+    },
+    {
+      "artist": "Beseech",
+      "title": "Shadowscape",
+      "services": {
+        "qobuz": "60706296"
+      },
+      "album": "...From a Bleeding Heart",
+      "duration": 276,
+      "isrc": "USMBR1108556"
+    },
+    {
+      "artist": "Ashes You Leave",
+      "title": "The Passage Back to Life",
+      "services": {
+        "qobuz": "234259142"
+      },
+      "album": "The Passage Back to Life",
+      "duration": 512,
+      "isrc": "TCAHN2358670"
+    },
+    {
+      "artist": "The Sins Of Thy Beloved",
+      "title": "All Alone",
+      "services": {
+        "qobuz": "47114634"
+      },
+      "album": "Lake of Sorrow",
+      "duration": 433,
+      "isrc": "ATN269805306"
+    },
+    {
+      "artist": "Shakeel Ahmed",
+      "title": "Sirra",
+      "services": {
+        "qobuz": "353161386"
+      },
+      "album": "Sirra",
+      "duration": 181,
+      "isrc": "TCAJZ2543341"
+    },
+    {
+      "artist": "Rapture",
+      "title": "Futile",
+      "services": {
+        "qobuz": "195629010"
+      },
+      "album": "Futile",
+      "duration": 402,
+      "isrc": "FIUM71100494"
+    },
+    {
+      "artist": "Novembers Doom",
+      "title": "Autumn Reflection",
+      "services": {
+        "qobuz": "189584182"
+      },
+      "album": "The Pale Haunt Departure",
+      "duration": 366,
+      "isrc": "US2420505203"
+    },
+    {
+      "artist": "Virgin Black",
+      "title": "Opera De Romanci - I Stare",
+      "services": {
+        "qobuz": "135452583"
+      },
+      "album": "Sombre Romantic",
+      "duration": 194,
+      "isrc": "US2420502301"
+    },
+    {
+      "artist": "Sirenia",
+      "title": "Sister Nightfall",
+      "services": {
+        "qobuz": "37176764"
+      },
+      "album": "At Sixes and Sevens",
+      "duration": 338,
+      "isrc": "ATN260210502"
+    },
+    {
+      "artist": "Mourning Beloveth",
+      "title": "Narcissistic Funeral",
+      "services": {
+        "qobuz": "157661906"
+      },
+      "album": "The Sullen Sulcus",
+      "duration": 813,
+      "isrc": "QZHNA2234526"
+    },
+    {
+      "artist": "Swallow The Sun",
+      "title": "Don't Fall Asleep (Horror Pt. 2)",
+      "services": {
+        "qobuz": "190535795"
+      },
+      "album": "Hope",
+      "duration": 461,
+      "isrc": "FISFS0600187"
+    },
+    {
+      "artist": "Draconian",
+      "title": "Death, Come Near Me",
+      "services": {
+        "qobuz": "37176750"
+      },
+      "album": "Arcane Rain Fell",
+      "duration": 922,
+      "isrc": "ATN260515808"
+    },
+    {
+      "artist": "Ava Inferi",
+      "title": "Fate of Mountains",
+      "services": {
+        "qobuz": "77775059"
+      },
+      "album": "Burdens",
+      "duration": 518,
+      "isrc": "FR33T0511307"
+    },
+    {
+      "artist": "Judas Iscariot",
+      "title": "His Eternal Life, Like a Dream Was Obliterated",
+      "services": {
+        "qobuz": "64314335"
+      },
+      "album": "Thy Dying Light",
+      "duration": 555,
+      "isrc": "USGE30002402"
+    },
+    {
+      "artist": "The Foreshadowing",
+      "title": "Days Of Nothing",
+      "services": {
+        "qobuz": "190164875"
+      },
+      "album": "Days Of Nothing",
+      "duration": 398,
+      "isrc": "GBADD0716509"
+    },
+    {
+      "artist": "Doom:VS",
+      "title": "Earthless",
+      "services": {
+        "qobuz": "94613790"
+      },
+      "album": "Earthless",
+      "duration": 459,
+      "isrc": "CH6542058886"
+    },
+    {
+      "artist": "Woods Of Ypres",
+      "title": "I Was Buried in Mount Pleasant Cemetery",
+      "services": {
+        "qobuz": "14673438"
+      },
+      "album": "Woods 4: The Green Album",
+      "duration": 477,
+      "isrc": "GBBPB0805351"
+    },
+    {
+      "artist": "The Paco De Lucia Sextet",
+      "title": "Alta Mar",
+      "services": {
+        "qobuz": "626360"
+      },
+      "album": "Live... One Summer Night",
+      "duration": 699,
+      "isrc": "ES5700300338"
+    },
+    {
+      "artist": "The 11th Hour",
+      "title": "We All Die Alone",
+      "services": {
+        "qobuz": "37272958"
+      },
+      "album": "Lacrima Mortis",
+      "duration": 443,
+      "isrc": "ATN261237801"
+    },
+    {
+      "artist": "A Pale Horse Named Death",
+      "title": "Die Alone",
+      "services": {
+        "qobuz": "380489940"
+      },
+      "album": "And Hell Will Follow Me",
+      "duration": 454,
+      "isrc": "DEA451103830"
+    },
+    {
+      "artist": "City Of The Sun",
+      "title": "The Last Day",
+      "services": {
+        "qobuz": "96138975"
+      },
+      "album": "City of the Sun",
+      "duration": 347,
+      "isrc": "USUG11903164"
+    },
+    {
+      "artist": "Trees of Eternity",
+      "title": "My Requiem",
+      "services": {
+        "qobuz": "84389820"
+      },
+      "album": "Hour of the Nightingale",
+      "duration": 362,
+      "isrc": "DEZ651607315"
+    },
+    {
+      "artist": "Hallatar",
+      "title": "My Mistake",
+      "services": {
+        "qobuz": "84668978"
+      },
+      "album": "No Stars Upon the Bridge",
+      "duration": 404,
+      "isrc": "FI7S51700064"
+    },
+    {
+      "artist": "Ruby Hughes",
+      "title": "The shadow of my sorrow",
+      "services": {
+        "qobuz": "367250701"
+      },
+      "album": "Amidst the Shades",
+      "duration": 186,
+      "isrc": "SEAEC2598200"
+    }
+  ]
+}

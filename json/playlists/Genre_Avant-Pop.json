@@ -1,0 +1,1010 @@
+{
+  "name": "Genre: Avant-Pop",
+  "services": {
+    "qobuz": "66736163",
+    "tidal": "91114d91-606f-4c93-91c8-47e9df681f42"
+  },
+  "description": "Imported genre playlist: Avant-Pop.",
+  "tracks": [
+    {
+      "artist": "Roxy Music",
+      "title": "In Every Dream Home A Heartache",
+      "services": {
+        "qobuz": "1067060"
+      },
+      "album": "For Your Pleasure",
+      "duration": 329,
+      "isrc": "GBAAA9900169"
+    },
+    {
+      "artist": "Todd Rundgren",
+      "title": "International Feel",
+      "services": {
+        "qobuz": "30325634"
+      },
+      "album": "A Wizard / A True Star",
+      "duration": 170,
+      "isrc": "USRH11502639"
+    },
+    {
+      "artist": "Kraftwerk",
+      "title": "Autobahn",
+      "services": {
+        "qobuz": "316792295"
+      },
+      "album": "Autobahn",
+      "duration": 271,
+      "isrc": "GBAYE2500013"
+    },
+    {
+      "artist": "Brian Eno",
+      "title": "Third Uncle",
+      "services": {
+        "qobuz": "4395599"
+      },
+      "album": "Taking Tiger Mountain (By Strategy)",
+      "duration": 287,
+      "isrc": "GBAAA0400069"
+    },
+    {
+      "artist": "Sparks",
+      "title": "This Town Ain't Big Enough For Both Of Us",
+      "services": {
+        "qobuz": "13654987"
+      },
+      "album": "Kimono My House",
+      "duration": 184,
+      "isrc": "GBAAN7400025"
+    },
+    {
+      "artist": "10cc",
+      "title": "I'm Not In Love",
+      "services": {
+        "qobuz": "21561044"
+      },
+      "album": "20th Century Masters: The Millennium Collection: Best Of 10CC",
+      "duration": 367,
+      "isrc": "GBF087500001"
+    },
+    {
+      "artist": "David Bowie",
+      "title": "Sound and Vision",
+      "services": {
+        "qobuz": "44528106"
+      },
+      "album": "Low",
+      "duration": 183,
+      "isrc": "USJT11600348"
+    },
+    {
+      "artist": "Suicide",
+      "title": "Cheree",
+      "services": {
+        "qobuz": "385321153"
+      },
+      "album": "Suicide",
+      "duration": 222,
+      "isrc": "GB5KW1602344"
+    },
+    {
+      "artist": "The Normal",
+      "title": "Warm Leatherette",
+      "services": {
+        "qobuz": "52081057"
+      },
+      "album": "Warm Leatherette / T.V.O.D.",
+      "duration": 203,
+      "isrc": "GBAJH0400898"
+    },
+    {
+      "artist": "The Residents",
+      "title": "Constantinople",
+      "services": {
+        "qobuz": "78214051"
+      },
+      "album": "Duck Stab",
+      "duration": 146,
+      "isrc": "GBBLY1701092"
+    },
+    {
+      "artist": "The Buggles",
+      "title": "Video Killed The Radio Star",
+      "services": {
+        "qobuz": "68676893"
+      },
+      "album": "The Age Of Plastic",
+      "duration": 253,
+      "isrc": "GBAAN7900013"
+    },
+    {
+      "artist": "Lene Lovich",
+      "title": "Lucky Number",
+      "services": {
+        "qobuz": "26201749"
+      },
+      "album": "Stateless",
+      "duration": 171,
+      "isrc": "GBCCG7900001"
+    },
+    {
+      "artist": "Tubeway Army",
+      "title": "Are 'Friends' Electric?",
+      "services": {
+        "qobuz": "26441450"
+      },
+      "album": "Replicas",
+      "duration": 323,
+      "isrc": "GBAZP9700052"
+    },
+    {
+      "artist": "The B-52's",
+      "title": "Rock Lobster",
+      "services": {
+        "qobuz": "24201982"
+      },
+      "album": "The B-52's",
+      "duration": 412,
+      "isrc": "USIR27900014"
+    },
+    {
+      "artist": "Yellow Magic Orchestra",
+      "title": "RYDEEN",
+      "services": {
+        "qobuz": "55763418"
+      },
+      "album": "Solid State Survivor",
+      "duration": 266,
+      "isrc": "JPAL09900370"
+    },
+    {
+      "artist": "Orchestral Manoeuvres in the dark (OMD)",
+      "title": "Enola Gay",
+      "services": {
+        "qobuz": "1050075"
+      },
+      "album": "The OMD Singles",
+      "duration": 212,
+      "isrc": "GBAAA8000002"
+    },
+    {
+      "artist": "Devo",
+      "title": "Girl U Want",
+      "services": {
+        "qobuz": "4622761"
+      },
+      "album": "Oh No It's Devo / Freedom Of Choice",
+      "duration": 177,
+      "isrc": "GBAAA8000464"
+    },
+    {
+      "artist": "Peter Gabriel",
+      "title": "Intruder",
+      "services": {
+        "qobuz": "79758114"
+      },
+      "album": "Peter Gabriel 3: Melt",
+      "duration": 294,
+      "isrc": "GBCPB0900654"
+    },
+    {
+      "artist": "Talking Heads",
+      "title": "Once in a Lifetime",
+      "services": {
+        "qobuz": "5250687"
+      },
+      "album": "Remain In Light",
+      "duration": 261,
+      "isrc": "USWB10502889"
+    },
+    {
+      "artist": "Tom Tom Club",
+      "title": "Genius of Love",
+      "services": {
+        "qobuz": "77695455"
+      },
+      "album": "Genius of Live",
+      "duration": 435,
+      "isrc": "US66W1001844"
+    },
+    {
+      "artist": "Japan",
+      "title": "Ghosts",
+      "services": {
+        "qobuz": "1736002"
+      },
+      "album": "Tin Drum",
+      "duration": 276,
+      "isrc": "GBAAA0300385"
+    },
+    {
+      "artist": "Klaus Nomi",
+      "title": "Total Eclipse",
+      "services": {
+        "qobuz": "201477999"
+      },
+      "album": "Klaus Nomi",
+      "duration": 210,
+      "isrc": "FRZ080802024"
+    },
+    {
+      "artist": "Yoko Ono",
+      "title": "Walking On Thin Ice",
+      "services": {
+        "qobuz": "831584"
+      },
+      "album": "Yes, I'm A Witch",
+      "duration": 307,
+      "isrc": "USCN30600137"
+    },
+    {
+      "artist": "Laurie Anderson",
+      "title": "O Superman",
+      "services": {
+        "qobuz": "11362185"
+      },
+      "album": "Big Science",
+      "duration": 505,
+      "isrc": "USNO10750554"
+    },
+    {
+      "artist": "Thomas Dolby",
+      "title": "She Blinded Me With Science",
+      "services": {
+        "qobuz": "385582032"
+      },
+      "album": "Blinded With Science",
+      "duration": 221,
+      "isrc": "GBAYE8200083"
+    },
+    {
+      "artist": "Kate Bush",
+      "title": "The Dreaming",
+      "services": {
+        "qobuz": "199956361"
+      },
+      "album": "The Dreaming",
+      "duration": 280,
+      "isrc": "GBAYE1800855"
+    },
+    {
+      "artist": "Malcolm McLaren",
+      "title": "Buffalo Gals",
+      "services": {
+        "qobuz": "1726973"
+      },
+      "album": "Duck Rock",
+      "duration": 259,
+      "isrc": "GBAAA8300092"
+    },
+    {
+      "artist": "New Order",
+      "title": "Blue Monday",
+      "services": {
+        "qobuz": "33382287"
+      },
+      "album": "Singles",
+      "duration": 451,
+      "isrc": "GBAAP1500066"
+    },
+    {
+      "artist": "Art Of Noise",
+      "title": "Close (To The Edit)",
+      "services": {
+        "qobuz": "53902787"
+      },
+      "album": "(Who's Afraid Of) The Art Of Noise?",
+      "duration": 335,
+      "isrc": "GBUM71801124"
+    },
+    {
+      "artist": "Cabaret Voltaire",
+      "title": "Sensoria",
+      "services": {
+        "qobuz": "33630702"
+      },
+      "album": "#8385 Collected Works 1983 - 1985",
+      "duration": 376,
+      "isrc": "GBR8R1300799"
+    },
+    {
+      "artist": "Prince",
+      "title": "When Doves Cry",
+      "services": {
+        "qobuz": "267095402"
+      },
+      "album": "Purple Rain",
+      "duration": 354,
+      "isrc": "USWB10001877"
+    },
+    {
+      "artist": "Yello",
+      "title": "Oh Yeah",
+      "services": {
+        "qobuz": "34736413"
+      },
+      "album": "Touch Yello",
+      "duration": 146,
+      "isrc": "DEUM70905602"
+    },
+    {
+      "artist": "Grace Jones",
+      "title": "Slave To The Rhythm",
+      "services": {
+        "qobuz": "120786085"
+      },
+      "album": "Slave To The Rhythm",
+      "duration": 394,
+      "isrc": "USIR28500203"
+    },
+    {
+      "artist": "Scritti Politti",
+      "title": "The Sweetest Girl",
+      "services": {
+        "qobuz": "218385792"
+      },
+      "album": "Absolute",
+      "duration": 377,
+      "isrc": "GBAAA0100583"
+    },
+    {
+      "artist": "Propaganda",
+      "title": "Duel",
+      "services": {
+        "qobuz": "131632127"
+      },
+      "album": "A Secret Wish",
+      "duration": 281,
+      "isrc": "GBAHW0000197"
+    },
+    {
+      "artist": "Depeche Mode",
+      "title": "Stripped",
+      "services": {
+        "qobuz": "1762134"
+      },
+      "album": "The Singles 86-98",
+      "duration": 231,
+      "isrc": "GBAJH9800137"
+    },
+    {
+      "artist": "Sin\u00e9ad O'Connor",
+      "title": "Mandinka",
+      "services": {
+        "qobuz": "169157108"
+      },
+      "album": "The Lion and the Cobra",
+      "duration": 227,
+      "isrc": "GBAYK8700069"
+    },
+    {
+      "artist": "Pet Shop Boys",
+      "title": "It's a Sin",
+      "services": {
+        "qobuz": "797823"
+      },
+      "album": "Discography - Complete Singles Collection",
+      "duration": 301,
+      "isrc": "GBAYE8700057"
+    },
+    {
+      "artist": "David Sylvian",
+      "title": "Orpheus",
+      "services": {
+        "qobuz": "59084762"
+      },
+      "album": "Secrets Of The Beehive",
+      "duration": 291,
+      "isrc": "GBAAA0300438"
+    },
+    {
+      "artist": "Neneh Cherry",
+      "title": "Buffalo Stance",
+      "services": {
+        "qobuz": "85945500"
+      },
+      "album": "Raw Like Sushi",
+      "duration": 343,
+      "isrc": "GBAAA8800048"
+    },
+    {
+      "artist": "Enigma",
+      "title": "Sadeness",
+      "services": {
+        "qobuz": "1752657"
+      },
+      "album": "The Platinum Collection",
+      "duration": 260,
+      "isrc": "DEG129000013"
+    },
+    {
+      "artist": "Saint Etienne",
+      "title": "Only Love Can Break Your Heart",
+      "services": {
+        "qobuz": "2934430"
+      },
+      "album": "Foxbase Alpha",
+      "duration": 269,
+      "isrc": "USWB19903894"
+    },
+    {
+      "artist": "Primal Scream",
+      "title": "Loaded",
+      "services": {
+        "qobuz": "60931494"
+      },
+      "album": "Maximum Rock'n'Roll: The Singles (Remastered)",
+      "duration": 263,
+      "isrc": "GBARL1900107"
+    },
+    {
+      "artist": "Stereo MC's",
+      "title": "Connected",
+      "services": {
+        "qobuz": "757671"
+      },
+      "album": "Connected",
+      "duration": 313,
+      "isrc": "GBAAN9290023"
+    },
+    {
+      "artist": "PJ Harvey",
+      "title": "Down By The Water",
+      "services": {
+        "qobuz": "96880210"
+      },
+      "album": "To Bring You My Love - Demos",
+      "duration": 185,
+      "isrc": "GBUM72001545"
+    },
+    {
+      "artist": "Underworld",
+      "title": "Born Slippy (Nuxx)",
+      "services": {
+        "qobuz": "38011612"
+      },
+      "album": "Born Slippy (Nuxx)",
+      "duration": 264,
+      "isrc": "GBCGL9800026"
+    },
+    {
+      "artist": "Cibo Matto",
+      "title": "Sugar Water",
+      "services": {
+        "qobuz": "2858315"
+      },
+      "album": "Viva! La Woman",
+      "duration": 269,
+      "isrc": "USWB19500082"
+    },
+    {
+      "artist": "Beck",
+      "title": "Where It's At",
+      "services": {
+        "qobuz": "37457527"
+      },
+      "album": "Odelay",
+      "duration": 331,
+      "isrc": "USIR10400603"
+    },
+    {
+      "artist": "Tori Amos",
+      "title": "Professional Widow",
+      "services": {
+        "qobuz": "35126818"
+      },
+      "album": "Boys for Pele",
+      "duration": 272,
+      "isrc": "USRH11604343"
+    },
+    {
+      "artist": "Daft Punk",
+      "title": "Around the World",
+      "services": {
+        "qobuz": "1065482"
+      },
+      "album": "Homework",
+      "duration": 428,
+      "isrc": "GBDUW0600009"
+    },
+    {
+      "artist": "The Chemical Brothers",
+      "title": "Block Rockin' Beats",
+      "services": {
+        "qobuz": "1065661"
+      },
+      "album": "Dig Your Own Hole",
+      "duration": 313,
+      "isrc": "GBAAA9700048"
+    },
+    {
+      "artist": "The Prodigy",
+      "title": "Firestarter",
+      "services": {
+        "qobuz": "7008315"
+      },
+      "album": "The Fat of the Land - Expanded Edition",
+      "duration": 279,
+      "isrc": "GBBKS9700080"
+    },
+    {
+      "artist": "Bj\u00f6rk",
+      "title": "J\u00f3ga",
+      "services": {
+        "qobuz": "249106118"
+      },
+      "album": "Homogenic",
+      "duration": 305,
+      "isrc": "GBBTF9700093"
+    },
+    {
+      "artist": "Stereolab",
+      "title": "Miss Modular",
+      "services": {
+        "qobuz": "79198111"
+      },
+      "album": "Dots And Loops",
+      "duration": 269,
+      "isrc": "USEE19792077"
+    },
+    {
+      "artist": "Radiohead",
+      "title": "Paranoid Android",
+      "services": {
+        "qobuz": "41692581"
+      },
+      "album": "OK Computer OKNOTOK 1997 2017",
+      "duration": 383,
+      "isrc": "GBBKS1700185"
+    },
+    {
+      "artist": "Cornelius",
+      "title": "Star Fruit Surf Rider (Damon Albarn Remix)",
+      "services": {
+        "qobuz": "71606143"
+      },
+      "album": "FM - Fantasma reMixes",
+      "duration": 295,
+      "isrc": "USMTD9934905"
+    },
+    {
+      "artist": "Air",
+      "title": "Sexy Boy",
+      "services": {
+        "qobuz": "1065807"
+      },
+      "album": "Moon Safari",
+      "duration": 298,
+      "isrc": "FRS639700560"
+    },
+    {
+      "artist": "Madonna",
+      "title": "Frozen",
+      "services": {
+        "qobuz": "2126948"
+      },
+      "album": "Ray Of Light",
+      "duration": 367,
+      "isrc": "USWB19800001"
+    },
+    {
+      "artist": "Fiona Apple",
+      "title": "Paper Bag",
+      "services": {
+        "qobuz": "36548"
+      },
+      "album": "When The Pawn...",
+      "duration": 219,
+      "isrc": "USSM19910365"
+    },
+    {
+      "artist": "The Flaming Lips",
+      "title": "Race for the Prize",
+      "services": {
+        "qobuz": "41508828"
+      },
+      "album": "The Soft Bulletin",
+      "duration": 258,
+      "isrc": "USWB11602529"
+    },
+    {
+      "artist": "The Avalanches",
+      "title": "Frontier Psychiatrist",
+      "services": {
+        "qobuz": "58599763"
+      },
+      "album": "Since I Left You",
+      "duration": 287,
+      "isrc": "AUMPO0000031"
+    },
+    {
+      "artist": "Peaches",
+      "title": "Fuck the Pain Away",
+      "services": {
+        "qobuz": "34265054"
+      },
+      "album": "The Teaches of Peaches",
+      "duration": 250,
+      "isrc": "GBBKS0000479"
+    },
+    {
+      "artist": "Fischerspooner",
+      "title": "Emerge",
+      "services": {
+        "qobuz": "1011683"
+      },
+      "album": "#1",
+      "duration": 288,
+      "isrc": "USFS20200002"
+    },
+    {
+      "artist": "Ladytron",
+      "title": "Seventeen",
+      "services": {
+        "qobuz": "154193585"
+      },
+      "album": "Light & Magic",
+      "duration": 277,
+      "isrc": "CAN111000309"
+    },
+    {
+      "artist": "The Postal Service",
+      "title": "Such Great Heights",
+      "services": {
+        "qobuz": "407823680"
+      },
+      "album": "Give Up",
+      "duration": 266,
+      "isrc": "USSUB1304502"
+    },
+    {
+      "artist": "Goldfrapp",
+      "title": "Strict Machine",
+      "services": {
+        "qobuz": "385581313"
+      },
+      "album": "Black Cherry",
+      "duration": 231,
+      "isrc": "GBAJH0300036"
+    },
+    {
+      "artist": "The Go! Team",
+      "title": "Ladyflash",
+      "services": {
+        "qobuz": "49427864"
+      },
+      "album": "Thunder, Lightning, Strike",
+      "duration": 256,
+      "isrc": "GBCSG0500229"
+    },
+    {
+      "artist": "Gorillaz",
+      "title": "Feel Good Inc.",
+      "services": {
+        "qobuz": "35534430"
+      },
+      "album": "The Singles Collection 2001-2011",
+      "duration": 221,
+      "isrc": "GBAYE1400422"
+    },
+    {
+      "artist": "Imogen Heap",
+      "title": "Hide and Seek",
+      "services": {
+        "qobuz": "308243049"
+      },
+      "album": "Speak for Yourself",
+      "duration": 268,
+      "isrc": "GBJPX0500005"
+    },
+    {
+      "artist": "R\u00f3is\u00edn Murphy",
+      "title": "Ramalama (Bang Bang)",
+      "services": {
+        "qobuz": "388086497"
+      },
+      "album": "Ruby Blue",
+      "duration": 215,
+      "isrc": "GBBND0501431"
+    },
+    {
+      "artist": "Of Montreal",
+      "title": "Wraith Pinned to the Mist and Other Games",
+      "services": {
+        "qobuz": "3135656"
+      },
+      "album": "The Sunlandic Twins",
+      "duration": 257,
+      "isrc": "US3R40500054"
+    },
+    {
+      "artist": "Hot Chip",
+      "title": "Over And Over",
+      "services": {
+        "qobuz": "41822843"
+      },
+      "album": "The Warning",
+      "duration": 347,
+      "isrc": "GBAYE0501516"
+    },
+    {
+      "artist": "The Knife",
+      "title": "Silent Shout",
+      "services": {
+        "qobuz": "172626919"
+      },
+      "album": "Silent Shout",
+      "duration": 293,
+      "isrc": "SEWCE0600201"
+    },
+    {
+      "artist": "TV On The Radio",
+      "title": "Wolf Like Me",
+      "services": {
+        "qobuz": "53733338"
+      },
+      "album": "Return To Cookie Mountain",
+      "duration": 277,
+      "isrc": "USTG30626805"
+    },
+    {
+      "artist": "M.I.A.",
+      "title": "Paper Planes",
+      "services": {
+        "qobuz": "2484064"
+      },
+      "album": "Kala",
+      "duration": 205,
+      "isrc": "GBBKS0700215"
+    },
+    {
+      "artist": "MGMT",
+      "title": "Time to Pretend",
+      "services": {
+        "qobuz": "16628"
+      },
+      "album": "Oracular Spectacular",
+      "duration": 261,
+      "isrc": "USSM10702127"
+    },
+    {
+      "artist": "Santigold",
+      "title": "L.E.S Artistes",
+      "services": {
+        "qobuz": "20706558"
+      },
+      "album": "Santigold",
+      "duration": 206,
+      "isrc": "GBPPE0700023"
+    },
+    {
+      "artist": "Yeah Yeah Yeahs",
+      "title": "Heads Will Roll",
+      "services": {
+        "qobuz": "747482"
+      },
+      "album": "It's Blitz!",
+      "duration": 221,
+      "isrc": "GBUM70900924"
+    },
+    {
+      "artist": "Fever Ray",
+      "title": "If I Had a Heart",
+      "services": {
+        "qobuz": "19772684"
+      },
+      "album": "Fever Ray",
+      "duration": 227,
+      "isrc": "SEWCE0900201"
+    },
+    {
+      "artist": "Animal Collective",
+      "title": "My Girls",
+      "services": {
+        "qobuz": "2501503"
+      },
+      "album": "Merriweather Post Pavilion",
+      "duration": 340,
+      "isrc": "GBCEL0800810"
+    },
+    {
+      "artist": "Tune-Yards",
+      "title": "Gangsta",
+      "services": {
+        "qobuz": "3547160"
+      },
+      "album": "W H O K I L L",
+      "duration": 238,
+      "isrc": "GBAFL1100004"
+    },
+    {
+      "artist": "Kimbra",
+      "title": "Settle Down",
+      "services": {
+        "qobuz": "5413434"
+      },
+      "album": "Vows",
+      "duration": 241,
+      "isrc": "USWB11200653"
+    },
+    {
+      "artist": "Grimes",
+      "title": "Genesis",
+      "services": {
+        "qobuz": "5177860"
+      },
+      "album": "Visions",
+      "duration": 255,
+      "isrc": "CA21O1200002"
+    },
+    {
+      "artist": "Janelle Mon\u00e1e",
+      "title": "Q.U.E.E.N. (feat. Erykah Badu)",
+      "services": {
+        "qobuz": "37286994"
+      },
+      "album": "The Electric Lady",
+      "duration": 310,
+      "isrc": "USBB41300015"
+    },
+    {
+      "artist": "St. Vincent",
+      "title": "Digital Witness",
+      "services": {
+        "qobuz": "14580179"
+      },
+      "album": "St. Vincent",
+      "duration": 202,
+      "isrc": "USUM71318966"
+    },
+    {
+      "artist": "Perfume Genius",
+      "title": "Queen",
+      "services": {
+        "qobuz": "19453161"
+      },
+      "album": "Too Bright",
+      "duration": 230,
+      "isrc": "GBYPZ1400121"
+    },
+    {
+      "artist": "Christine and the Queens",
+      "title": "Tilted",
+      "services": {
+        "qobuz": "46329549"
+      },
+      "album": "Chaleur Humaine",
+      "duration": 233,
+      "isrc": "FR6P11500950"
+    },
+    {
+      "artist": "FKA twigs",
+      "title": "Two Weeks",
+      "services": {
+        "qobuz": "39294239"
+      },
+      "album": "LP1",
+      "duration": 247,
+      "isrc": "UK7MC1400274"
+    },
+    {
+      "artist": "Susanne Sundf\u00f8r",
+      "title": "Delirious",
+      "services": {
+        "qobuz": "45255589"
+      },
+      "album": "Ten Love Songs",
+      "duration": 295,
+      "isrc": "NOAGW1400191"
+    },
+    {
+      "artist": "ANOHNI",
+      "title": "Drone Bomb Me",
+      "services": {
+        "qobuz": "33933448"
+      },
+      "album": "HOPELESSNESS",
+      "duration": 250,
+      "isrc": "US38W1633311"
+    },
+    {
+      "artist": "Arca",
+      "title": "Anoche",
+      "services": {
+        "qobuz": "39645677"
+      },
+      "album": "Arca",
+      "duration": 217,
+      "isrc": "GBBKS1700088"
+    },
+    {
+      "artist": "SOPHIE",
+      "title": "It's Okay To Cry",
+      "services": {
+        "qobuz": "50640557"
+      },
+      "album": "OIL OF EVERY PEARL'S UN-INSIDES",
+      "duration": 230,
+      "isrc": "AUFF01700121"
+    },
+    {
+      "artist": "ROSAL\u00cdA",
+      "title": "MALAMENTE",
+      "services": {
+        "qobuz": "53485801"
+      },
+      "album": "El Mal Querer",
+      "duration": 150,
+      "isrc": "ES5021800275"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "bury a friend",
+      "services": {
+        "qobuz": "77469843"
+      },
+      "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+      "duration": 193,
+      "isrc": "USUM71900770"
+    },
+    {
+      "artist": "Caroline Polachek",
+      "title": "So Hot You're Hurting My Feelings",
+      "services": {
+        "qobuz": "74937678"
+      },
+      "album": "Pang",
+      "duration": 183,
+      "isrc": "USSM11902945"
+    },
+    {
+      "artist": "Yves Tumor",
+      "title": "Gospel For A New Century",
+      "services": {
+        "qobuz": "91635324"
+      },
+      "album": "Heaven To A Tortured Mind",
+      "duration": 198,
+      "isrc": "GBBPW1900277"
+    },
+    {
+      "artist": "Rina Sawayama",
+      "title": "XS",
+      "services": {
+        "qobuz": "84075864"
+      },
+      "album": "SAWAYAMA",
+      "duration": 200,
+      "isrc": "GBK3W1901224"
+    },
+    {
+      "artist": "Tirzah",
+      "title": "Send Me",
+      "services": {
+        "qobuz": "124680470"
+      },
+      "album": "Colourgrade",
+      "duration": 243,
+      "isrc": "GBCEL2100186"
+    },
+    {
+      "artist": "Shygirl",
+      "title": "Firefly",
+      "services": {
+        "qobuz": "157222330"
+      },
+      "album": "Nymph",
+      "duration": 198,
+      "isrc": "GBMVH2200500"
+    },
+    {
+      "artist": "Jockstrap",
+      "title": "Glasgow",
+      "services": {
+        "qobuz": "158919058"
+      },
+      "album": "I Love You Jennifer B",
+      "duration": 334,
+      "isrc": "GBCVZ2200083"
+    }
+  ]
+}

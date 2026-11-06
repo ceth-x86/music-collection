@@ -1,0 +1,108 @@
+# Genre: Experimental Hip-Hop
+
+Imported genre playlist: Experimental Hip-Hop.
+
+Services: `qobuz:66732365` `tidal:67a89451-caa7-4c55-a734-4a8eae34d2ce`
+
+## Tracks (100)
+
+- **Grandmaster Flash & The Furious Five** — The Adventures of Grandmaster Flash on the Wheels of Steel [The Message] (7:06) `isrc:GBAJE8100130` `qobuz:385301012`
+- **Rammellzee** — Beat Bop [Beat Bop] (6:10) `isrc:USAR11100210` `qobuz:114304398`
+- **DJ Krush** — Kemuri [Stepping Stones: The Self-Remixed Best] (5:17) `isrc:JPN200600070` `qobuz:48281945`
+- **DJ Shadow** — Midnight In A Perfect World [Endtroducing] (5:00) `isrc:GBAQH9600061` `qobuz:190271058`
+- **Dr. Octagon** — Blue Flowers [Dr. Octagonecologyst] (3:17) `isrc:GBAQH9600200` `qobuz:53078165`
+- **DJ Spooky** — Galactic Funk [Songs Of A Dead Dreamer] (6:50) `isrc:USASG0500003` `qobuz:14889045`
+- **Pink Floyd** — Shine On You Crazy Diamond [Wish You Were Here 50] (25:25) `isrc:USSM12503290` `qobuz:355836938`
+- **JC Coccoli** — Pittsburgh Catholic Perfection [Coming to the Stage Season 8] (12:16) `isrc:QMJYX2079808` `qobuz:92713587`
+- **Dj Qbert** — Turntable TV (Re-Vizion) [Wave Twisters, Episode 7 Million: Sonic Wars Within the Protons] (1:34) `isrc:TCABP1366078` `qobuz:123986780`
+- **Cornershop** — Sleep on the Left Side [When I Was Born for the 7th Time] (4:06) `isrc:GBBKT9700051` `qobuz:102875906`
+- **Mike Ladd** — Planet 10 [Welcome to the Afterfuture] (4:25) `isrc:QZDA62319976` `qobuz:202041083`
+- **Outkast** — B.O.B. [Stankonia (20th Anniversary Edition) [Deluxe]] (5:04) `isrc:USLF20000442` `qobuz:104024362`
+- **Prefuse 73** — Pagina Dos [Prefuse 73 Reads The Books] (2:30) `isrc:GBBPW0500055` `qobuz:79179528`
+- **Freddie Hubbard** — Mr. Clean [Straight Life] (13:34) `isrc:USSM17000192` `qobuz:112122`
+- **Cannibal Ox** — Iron Galaxy [The Cold Vein (Deluxe Edition)] (5:56) `isrc:USA2P1394770` `qobuz:190403119`
+- **Missy Elliott** — Get Ur Freak On [Respect M.E.] (3:56) `isrc:USEW20100036` `qobuz:11773000`
+- **RJD2** — Ghostwriter [Deadringer: Deluxe] (5:17) `isrc:USA4T0403506` `qobuz:52402137`
+- **Boom Bip** — Roads Must Roll [Seed to Sun] (3:58) `isrc:GBBPW0200074` `qobuz:349178864`
+- **Themselves** — Mouthful [The No Music] (4:07) `isrc:USA2Y0400069` `qobuz:82086062`
+- **Antipop Consortium** — Ghostlawns [Arrhythmia] (4:12) `isrc:GBBPW0100237` `qobuz:79174008`
+- **Busdriver** — Imaginary Places [Temporary Forever] (3:15) `isrc:US25X0801102` `qobuz:215830705`
+- **Buck 65** — Square 1 [Square] (16:03) `isrc:CAW110202213` `qobuz:2017422`
+- **Handsome Boy Modeling School** — The Truth [So...How's Your Girl?] (5:37) `isrc:USTB10300522` `qobuz:169114647`
+- **Radioinactive & Antimc** — With Light Within [Free Kamal] (3:52) `isrc:USJEJ0422601` `qobuz:70475917`
+- **Clouddead** — Dead Dogs Two [Ten] (3:59) `isrc:US25X2000986` `qobuz:215022953`
+- **Edit** — Ants [Crying over Pros for No Reason (Deluxe Edition)] (4:03) `isrc:US78Q0500307` `qobuz:20506341`
+- **Thavius Beck** — Exercise Caution [Decomposition] (3:58) `isrc:USJEJ0422308` `qobuz:71610025`
+- **Saul Williams** — List of Demands (Reparations) [Saul Williams] (3:18) `isrc:GBDNH0400612` `qobuz:23626389`
+- **Edan** — Torture Chamber [Beauty & The Beat] (3:12) `isrc:GBLVL0600006` `qobuz:73516480`
+- **M.I.A.** — Bucky Done Gun [Arular] (3:46) `isrc:GBBKS0462521` `qobuz:58597906`
+- **Odd Nosdam** — Sisters [Sisters] (3:37) `isrc:QMHG41692001` `qobuz:234913266`
+- **Jel** — All Day Breakfast [Soft Money] (4:18) `isrc:USA2Y0600002` `qobuz:215223406`
+- **Subtle** — The Mercury Craze [For Hero: For Fool] (4:40) `isrc:GBMYF0600043` `qobuz:349198770`
+- **Spank Rock** — Rick Rubin [YoYoYoYoYo] (3:33) `isrc:GBCFB0600302` `qobuz:6282371`
+- **Rob Sonic** — Killjoy (feat. Aesop Rock) [Alice in Thunderdome] (2:47) `isrc:TCABZ1416398` `qobuz:125493584`
+- **Why?** — These Few Presidents [Alopecia] (3:04) `isrc:US4M30701905` `qobuz:50151401`
+- **Flying Lotus** — Camel [Los Angeles] (2:22) `isrc:GBBPW0800007` `qobuz:3776639`
+- **Daedelus** — Fair Weather Friends [Love To Make Music To] (3:04) `isrc:GBCFB0701200` `qobuz:215827133`
+- **Gonjasufi** — Ancestors [A Sufi And A Killer] (2:37) `isrc:GBBPW0800230` `qobuz:3776705`
+- **Das Racist** — Combination Pizza Hut and Taco Bell [Shut Up, Dude] (2:58) `isrc:QM24S1928107` `qobuz:104430035`
+- **Zebra Katz** — Ima Read [Ima Read] (4:01) `isrc:USZ4V1200013` `qobuz:168829763`
+- **Shabazz Palaces** — An echo from the hosts that profess infinitum [Black Up] (3:14) `isrc:USSUB1190002` `qobuz:407820211`
+- **Azealia Banks** — 212 [Broke with Expensive Taste] (3:24) `isrc:US5Z51400584` `qobuz:223969364`
+- **Marc Boyett** — Caught in the In-Between [Looks Like I'm Fine] (4:14) `isrc:QZZ7N2678060` `qobuz:418638469`
+- **Mykki Blanco** — Wavvy [Wavvy] (3:55) `isrc:USA2B1512703` `qobuz:139819589`
+- **Waru Leaf** — Wut Wut Wut [Wut Wut Wut] (3:12) `isrc:AEA3A2103590` `qobuz:336101474`
+- **Kanye West** — On Sight [Yeezus] (2:36) `isrc:USUM71307527` `qobuz:9979743`
+- **Ratking** — Canal [So It Goes] (3:03) `isrc:GBBKS1300152` `qobuz:15652558`
+- **Open Mike Eagle** — Dark Comedy Morning Show [Dark Comedy] (3:23) `isrc:QMFME1456488` `qobuz:270304419`
+- **Young Fathers** — GET UP [Dead] (3:51) `isrc:GBCFB1305604` `qobuz:12173765`
+- **Beastie Boys** — Sabotage [Anthology: The Sounds Of Science] (2:58) `isrc:USCA29901042` `qobuz:996691`
+- **DJ-Chop$** — JUNE 27TH TRIBUTE(Slodine X Chopped) [JUNE 27TH TRIBUTE(Slodine X Chopped)] (2:30) `isrc:QZL382576807` `qobuz:317730221`
+- **Dj Vadim** — The Terrorist [USSR: Life From The Other Side] (2:37) `isrc:GBCFB9901860` `qobuz:6279292`
+- **Quasimoto** — Microphone Mathematics [The Unseen] (3:14) `isrc:US2S70425003` `qobuz:122269839`
+- **Kid Koala** — Bonus Materials: On the Set of Fender Bender [Some Of My Best Friends Are DJs] (2:21) `isrc:GBCFB0300241` `qobuz:291928795`
+- **Mix Master Mike** — Supa Wyde Laces [Anti-Theft Device] (2:17) `isrc:US25X2101426` `qobuz:217596855`
+- **The Avalanches** — Since I Left You [Since I Left You] (4:22) `isrc:AUMPO0000001` `qobuz:119702824`
+- **Gorillaz** — Clint Eastwood [Gorillaz] (5:43) `isrc:GBAYE1400468` `qobuz:35543620`
+- **N.E.R.D.** — Lapdance [In Search Of...] (3:29) `isrc:USVI20100615` `qobuz:67342160`
+- **DJ Dk** — Stay For Now [Skyline Dreams] (2:00) `isrc:US39N2545195` `qobuz:367078381`
+- **X-ecutioners featuring Mike Shinoda and Mr. Hahn of Linkin Park** — It's Goin' Down [Built From Scratch] (4:08) `isrc:USLR50100432` `qobuz:101536`
+- **Linkin Park** — H! Vltg3 (Evidence Reanimation) [feat. Pharoahe Monch and DJ Babu] [Reanimation] (3:30) `isrc:USWB11203193` `qobuz:11092274`
+- **Blockhead** — Insomniac Olympics [Music By Cavelight] (5:06) `isrc:GBCFB0300250` `qobuz:6276748`
+- **Wax Tailor** — Que Sera [Tales of the Forgotten Melodies] (2:44) `isrc:FRP180400180` `qobuz:100505431`
+- **J Dilla** — Workinonit [Donuts] (2:57) `isrc:US2S70626002` `qobuz:122264841`
+- **Cut Chemist** — The Garden [The Audience's Listening] (6:15) `isrc:USWB10601143` `qobuz:2842241`
+- **Goz Samy** — Girl Talk [Samy Goz Live Paris 22 Juin 2016, Pt. 1] (3:32) `isrc:FR3I62007101` `qobuz:100072441`
+- **Nosaj Thing** — Fog [Drift] (3:42) `isrc:US25X0901402` `qobuz:367516470`
+- **Teebs** — Why Like This? [Ardour] (2:57) `isrc:US25X1081898` `qobuz:6279456`
+- **Shlohmo** — Rained the Whole Time [Vacation - Single] (5:25) `isrc:US25X1083610` `qobuz:50617840`
+- **Rustie** — Slasherr [Triadzz / Slasherr] (3:38) `isrc:GB7CH1300020` `qobuz:49190792`
+- **TNGHT** — Higher Ground [TNGHT] (3:19) `isrc:GBBPW1200114` `qobuz:5693779`
+- **Lunice** — Can't Wait To [Can't Wait To] (3:05) `isrc:GB5P51400031` `qobuz:18103891`
+- **Death Grips** — Get Got [The Money Store] (2:51) `isrc:USSM11200903` `qobuz:5236974`
+- **Steve Reich** — Clapping Music [Collected Works] (4:48) `isrc:USNO18716903` `qobuz:322158362`
+- **Earl Sweatshirt** — Grief [I Don't Like Shit, I Don't Go Outside: An Album by Earl Sweatshirt] (4:10) `isrc:USQX91500425` `qobuz:23362516`
+- **Milo** — Folk-Metaphysics [things that happen at day // things that happen at night] (4:41) `isrc:US25X1089178` `qobuz:214841654`
+- **TOMMY GENESIS** — 100 Bad [100 Bad] (3:02) `isrc:GBKPL1820560` `qobuz:371982343`
+- **Danny Brown** — Ain't it Funny [Atrocity Exhibition] (2:57) `isrc:GBBPW1600102` `qobuz:79174141`
+- **Aesop Rock** — Rings [The Impossible Kid] (3:47) `isrc:USBWK1500143` `qobuz:95205101`
+- **Run The Jewels** — Legend Has It [Run The Jewels 3] (3:25) `isrc:QZ6AM1600004` `qobuz:382097207`
+- **Princess Nokia** — Tomboy [1992 Deluxe] (3:37) `isrc:GBCVZ1700104` `qobuz:43189279`
+- **Vince Staples** — Yeah Right [Big Fish Theory] (3:09) `isrc:USUM71705069` `qobuz:41598689`
+- **JonWayne** — These Words Are Everything [Rap Album Two] (5:11) `isrc:US25X1090474` `qobuz:38935340`
+- **Leikeli47** — Money [Wash & Set] (2:55) `isrc:USRC11601434` `qobuz:43106938`
+- **Quelle Chris** — Buddies [Being You Is Great, I Wish I Could Be You More Often] (3:37) `isrc:QMBZ91621072` `qobuz:274759735`
+- **BROCKHAMPTON** — BOOGIE [SATURATION III] (3:13) `isrc:USUYG1167865` `qobuz:56060252`
+- **JPEGMAFIA** — Baby I'm Bleeding [Veteran: Director's Cut] (2:32) `isrc:QM24S1705239` `qobuz:339341266`
+- **Tierra Whack** — Unemployed [Unemployed] (2:48) `isrc:USUM71904254` `qobuz:59949122`
+- **Armand Hammer** — Sir Benni Miles [Haram] (2:59) `isrc:QM4TX2112199` `qobuz:282530298`
+- **Kids See Ghosts** — Feel The Love [Kids See Ghosts] (2:45) `isrc:USUM71808242` `qobuz:50509676`
+- **Childish Gambino** — This Is America [This Is America (Explicit)] (3:45) `isrc:USRC11801773` `qobuz:49429943`
+- **Tyler, The Creator** — NEW MAGIC WAND [IGOR] (3:15) `isrc:USQX91901115` `qobuz:61879241`
+- **Slauson Malone 1** — Smile #1 [A Quiet Farwell, 2016–2018 (Crater Speak)] (3:04) `isrc:QZES51921972` `qobuz:139621873`
+- **billy woods** — Spongebob [Hiding Places] (3:52) `isrc:QM4TX1950091` `qobuz:282530535`
+- **slowthai** — Doorman [Nothing Great About Britain] (3:03) `isrc:GBAKX1800022` `qobuz:116147697`
+- **Playboi Carti** — Stop Breathing [Whole Lotta Red] (3:38) `isrc:USUM72024691` `qobuz:111689314`
+- **Little Simz** — Introvert [Sometimes I Might Be Introvert] (6:02) `isrc:GBWWP2106836` `qobuz:178467275`
+- **Injury Reserve** — Superman That [By the Time I Get to Phoenix] (2:40) `isrc:QM24S2104965` `qobuz:128278794`
+- **Genesis Owusu** — Gold Chains [Smiling With No Teeth] (3:38) `isrc:FR26V2053113` `qobuz:249292253`

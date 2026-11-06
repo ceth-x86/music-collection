@@ -1,0 +1,108 @@
+# Genre: Uplifting Trance
+
+Imported genre playlist: Uplifting Trance.
+
+Services: `qobuz:66732291` `tidal:28d2c34d-552d-4df8-9f95-d6a66e1d1c5d`
+
+## Tracks (100)
+
+- **Johan Gielen** — L'Esperanza [L'Esperanza] (7:20) `isrc:NLE710929905` `qobuz:247052250`
+- **Binary Finary** — 1998 [1998] (7:59) `isrc:AUKJ30800019` `qobuz:377907337`
+- **Push** — Universal Nation [Universal Nation] (7:32) `isrc:BE4JP2400001` `qobuz:243346211`
+- **Agnelli & Nelson** — El Niño [El Niño] (3:48) `isrc:GBBLG9800700` `qobuz:363878615`
+- **Gouryella** — Gouryella [Gouryella] (10:45) `isrc:NLB779900006` `qobuz:378189306`
+- **Technique** — Sun Is Shining [In Search Of Sunrise 1] (10:15) `isrc:GBAAW9900011` `qobuz:4361550`
+- **Rank 1** — Airwave [Airwave] (2:59) `isrc:NLE800510001` `qobuz:18731634`
+- **System f** — Out Of The Blue [Out Of The Blue] (3:54) `isrc:NLB770100093` `qobuz:378187768`
+- **The Thrillseekers** — Synaesthesia [Synaesthesia] (4:01) `isrc:NLF710903587` `qobuz:377909115`
+- **Veracocha** — Carte Blanche [Carte Blanche] (3:25) `isrc:NLF711102674` `qobuz:378309998`
+- **Vincent De Moor** — Fly Away [Fly Away] (2:49) `isrc:NLF711806898` `qobuz:378122449`
+- **Cygnus X** — The Orange Theme [Collected Works] (6:31) `isrc:NLE800510013` `qobuz:18883247`
+- **Solarstone** — The Spell [The Spell] (6:57) `isrc:NLE711243704` `qobuz:5205982`
+- **Svenson & Gielen** — The Beauty Of Silence [The Beauty Of Silence] (2:14) `isrc:NLE712500650` `qobuz:354217340`
+- **Ralphie B** — Massive [Massive] (5:38) `isrc:NLE711600399` `qobuz:35108117`
+- **Aly & Fila** — Eye Of Horus [A State of Trance - Classics Top 10, Vol. 8] (9:12) `isrc:NLCY30802294` `qobuz:378319836`
+- **Marcel Woods** — Advanced [Open All Hours] (6:11) `isrc:NLE801100435` `qobuz:7062297`
+- **Aalto** — Rush [25 Years Of Anjuna Mixed By Trance Wax] (6:50) `isrc:GBEWA2505296` `qobuz:424987501`
+- **Fictivision** — Symbols [Symbols] (8:14) `isrc:NLE711359101` `qobuz:9784421`
+- **Lasgo** — Something [Something] (7:30) `isrc:BEZ460100141` `qobuz:6407713`
+- **Perry O Neil** — Wave Force (Mix Cut) [A State Of Trance, Ibiza 2018 (Mixed by Armin van Buuren)] (3:25) `isrc:NLF711808772` `qobuz:378128257`
+- **Boston** — Foreplay / Long Time [Boston] (7:47) `isrc:USSM17600873` `qobuz:19179304`
+- **Ronski Speed** — E.O.S. [20 Years Euphonic, Vol. 1] (3:45) `isrc:DEL671700132` `qobuz:43479925`
+- **Silver Jews** — Smith & Jones Forever [American Water] (3:18) `isrc:US58L0514902` `qobuz:48468460`
+- **Solid Globe** — North Pole [Passion: The Album, Mixed by Lange & Genix] (6:47) `isrc:GBKQU1137036` `qobuz:106961253`
+- **Dominik Gehringer** — Close Your Eyes [Sommersville Records 1 Year Anniversary] (5:32) `isrc:NLHR22200098` `qobuz:253872145`
+- **Mike Foyle** — Shipwrecked [Planet Chill, Vol. 2 - Compiled by York] (5:08) `isrc:NLF710800715` `qobuz:377952699`
+- **Airbase** — Escape [We Might Fall] (9:45) `isrc:NLCY31000336` `qobuz:377943643`
+- **Daniel Kandi** — Venice Beach [Mix Cut] [Universal Religion Chapter 4 (Recorded live at Amnesia, Ibiza) [Mixed by Armin van Buuren]] (5:01) `isrc:NLF711103163` `qobuz:377937741`
+- **Peter Gabriel** — What Lies Ahead (Bright-Side Mix) [What Lies Ahead (Bright-Side Mix)] (2:52) `isrc:GBCPB2602195` `qobuz:397387274`
+- **Menno de Jong** — Set to Sail [Set to Sail] (7:30) `isrc:NLE711600371` `qobuz:35402903`
+- **Robert Nickson** — Spiral (ASOT 1275) [ASOT 1275 - A State of Trance Episode 1275 (UNFILTERED 004)] (2:17) `isrc:NLF712602503` `qobuz:414741468`
+- **Sean Tyas** — Lift [Militant Artists Presents... Chris Hampshire] (8:29) `isrc:GBJAL1000166` `qobuz:68643296`
+- **Super8 & Tab** — Helsinki Scorchin’ (ABGT319) [Group Therapy 319] (3:41) `isrc:GBEWA1900709` `qobuz:424941510`
+- **Backstreet Boys** — Never Gone [Never Gone] (3:45) `isrc:USJI10500263` `qobuz:4853314`
+- **Nitrous Oxide** — Amnesia [Dreamcatcher] (5:54) `isrc:GBEWA1000152` `qobuz:424914074`
+- **Activa** — Remember 2018 [Remember 2018] (3:29) `isrc:NLD681801897` `qobuz:50868592`
+- **Alex M.O.R.P.H.** — Walk The Edge [Walk The Edge] (2:55) `isrc:NLD682400890` `qobuz:264721195`
+- **Stoneface & Terminal** — Blueprint [10 Years] (8:10) `isrc:DEL670800140` `qobuz:27636687`
+- **Temple One** — World Beyond [Aurora EP] (7:53) `isrc:GBKQU0801153` `qobuz:106974974`
+- **Andy Blueman** — Sea Tides [Sea Tides] (8:46) `isrc:GBKQU0903999` `qobuz:110353691`
+- **DJ Eco** — Borealis [Borealis] (7:14) `isrc:GBKQU0904686` `qobuz:113524814`
+- **Jorn van Deynhoven** — Fastlane [Fastlane] (6:39) `isrc:GBKQU0906549` `qobuz:113536006`
+- **Re:Locate** — Rogue (Mix Cut) [Mark Sixma presents M6 - Elements] (3:42) `isrc:NLF711607330` `qobuz:378059774`
+- **7 Skies** — Sushi [Sushi] (7:52) `isrc:GBEWA1000340` `qobuz:424914567`
+- **Afternova** — Serenity [Serenity] (7:15) `isrc:GBTJD0700076` `qobuz:113473457`
+- **Cold Blue** — Ode to the Sun [Ode to the Sun] (3:47) `isrc:NLD681903719` `qobuz:78041890`
+- **Dan Levinson and His Canary Cottage Dance Orchestra** — Shine On, Harvest Moon [Crinoline Days] (2:11) `isrc:US4FU1120010` `qobuz:8451191`
+- **Fast Distance** — Trip to Eternity [Trip to Eternity] (8:56) `isrc:GBKQU1018286` `qobuz:113452924`
+- **Ferry Tayle** — The Prestige [The Prestige] (8:09) `isrc:GBKQU1025485` `qobuz:106967837`
+- **Linkin Park** — In the End [Hybrid Theory (Hi-Res Version)] (3:36) `isrc:USWB11201322` `qobuz:7020294`
+- **Phillip Alpha** — Valente [Valente] (7:50) `isrc:GBKQU1021623` `qobuz:106971810`
+- **Soundlift** — Empty Night Street [Empty Night Street] (7:00) `isrc:GBKQU1024538` `qobuz:113402617`
+- **Broken Social Scene** — 7/4 (Shoreline) [Broken Social Scene] (4:53) `isrc:CAAA10501403` `qobuz:140884655`
+- **TrancEye** — Good Morning Sunshine [Good Morning Sunshine] (3:16) `isrc:DEED72401143` `qobuz:274385515`
+- **The Chameleons** — Where Are You? [Arctic Moon] (5:01) `isrc:US57M2436101` `qobuz:349819904`
+- **Ram** — RAMsterdam [RAMsterdam] (7:02) `isrc:NLF710903680` `qobuz:377913146`
+- **The Noble Six** — Ocean Planet [Ocean Planet] (8:24) `isrc:UKRMQ1900223` `qobuz:106608372`
+- **Will Atkinson** — Breathe It [Breathe It] (8:22) `isrc:NLC281112234` `qobuz:47886627`
+- **James Dymond** — Overthrow [Overthrow] (8:41) `isrc:GBKQU1282714` `qobuz:113061167`
+- **Photographer** — Airport [Airport] (9:16) `isrc:GB3W41200503` `qobuz:112900709`
+- **Simon O'Shine** — Your Distant World [After Dark Sessions 100] (9:43) `isrc:DEAR41227097` `qobuz:8567621`
+- **A.R.D.I.** — Beyond The Time (Mix Cut) [A State Of Trance Year Mix 2013] (1:23) `isrc:NLF711314188` `qobuz:377991968`
+- **BT** — Every Other Way [Every Other Way] (4:26) `isrc:NLE712300243` `qobuz:198840635`
+- **Ahmed Romel** — Victory [Victory] (10:19) `isrc:GBKQU1311423` `qobuz:112467305`
+- **Darren Porter** — Spellbound [Spellbound] (7:25) `isrc:GB3W41200649` `qobuz:112842746`
+- **Allen & Envy** — Cerulian [Cerulian] (6:31) `isrc:GBKQU1494297` `qobuz:112025814`
+- **Amir Hussain** — Presence Of Mind [Presence Of Mind] (3:39) `isrc:GB3W41400531` `qobuz:112065625`
+- **Andain** — Beautiful Things [Beautiful Things [Remixes]] (8:14) `isrc:NLE711400378` `qobuz:16233185`
+- **Driftmoon** — Howl At the Moon [Howl At the Moon] (8:49) `isrc:NLD681303273` `qobuz:14344514`
+- **Dark Sahara** — Alternative Universes [Sirens EP] (7:46) `isrc:GBKQU1414061` `qobuz:112243058`
+- **Paul Bley** — Circle With A Hole In The Middle [Mindset] (1:40) `isrc:ITC000851563` `qobuz:146923732`
+- **ReOrder** — Seven Colors [Seven Colors] (7:32) `isrc:NLD681400259` `qobuz:15823099`
+- **Steve Dekay** — Quantum (MTRE022) [Monster Tunes Radio Show - Episode 022] (4:12) `isrc:GB3W42200177` `qobuz:167097797`
+- **The Streets** — The Irony of It All [Original Pirate Material] (3:29) `isrc:GBFFS0200009` `qobuz:2129426`
+- **Matt Bukovski** — Confusia [Confusia] (7:33) `isrc:GB3W41500202` `qobuz:111576728`
+- **Lye The Imprisoned** — I [A Faint Reflection of a Dungeon Siege] (31:23) `isrc:GX4R52420586` `qobuz:279869619`
+- **New Tribute Kings** — Hooked on a Feeling (Guardians of the Galaxy) (Originally Performed By Blue Swede) [Guardians of the Galaxy Mixtape Vol. 2 (Covers)] (2:56) `isrc:GBYUE1451445` `qobuz:46623969`
+- **Sam Laxton** — Life In Trance [Life in Trance] (3:30) `isrc:NLD682200278` `qobuz:144875356`
+- **David Guetta** — Baby Don't Hurt Me (feat. Anne-Marie & Coi Leray) [Baby Don't Hurt Me (feat. Coi Leray)] (4:51) `isrc:UKWLG2300038` `qobuz:209337744`
+- **Factor B** — Sea of Thoughts [Factor B Presents Theatre of the Mind] (7:09) `isrc:GBKQU2198917` `qobuz:131863335`
+- **Will Rees** — Natural World [Natural World] (7:24) `isrc:UKRMQ2201719` `qobuz:193895421`
+- **Ahmed Helmy** — R4VE 301 (Mixed) [A State of Trance Year Mix 2024 (Mixed by Armin van Buuren)] (0:37) `isrc:NLF712409710` `qobuz:378304292`
+- **Daxson** — Out of The Void [Out of The Void] (3:49) `isrc:UKRMQ2401034` `qobuz:287763218`
+- **James Cottle** — Night Flight [Night Flight] (3:35) `isrc:UKRMQ2400361` `qobuz:261195959`
+- **0Gravity** — You're The One [You're The One] (6:13) `isrc:UKRMQ2401627` `qobuz:315726378`
+- **Aeon Shift** — Echoes In Eternity [Echoes In Eternity] (4:01) `isrc:GB9AG2500006` `qobuz:320909285`
+- **ALIGASH** — Clouds' Hometown [Clouds’ Hometown] (4:00) `isrc:UKRMQ2501116` `qobuz:367994223`
+- **Allen Watts** — Back 2 U [Back 2 U] (3:41) `isrc:UKRMQ2500457` `qobuz:334392043`
+- **Bixx** — The Road Less Traveled [The Road Less Traveled] (3:48) `isrc:UKRMQ2500447` `qobuz:331651216`
+- **Chris Metcalfe** — Lost In Paradise [Lost In Paradise] (3:18) `isrc:UKRMQ2500358` `qobuz:328850606`
+- **Doppenberg** — A Million Lights [A Million Lights] (3:08) `isrc:UKRMQ2500542` `qobuz:337593333`
+- **Faith Mark** — Extasis [Extasis] (6:10) `isrc:NL7QW2500051` `qobuz:377880009`
+- **Jon Mangan** — Vintage [Vintage] (6:05) `isrc:UKRMQ2500265` `qobuz:327865907`
+- **Rhys Elliott** — Escapism [Escapism] (4:24) `isrc:UKRMQ2500840` `qobuz:350132490`
+- **Asteroid** — Earthling [Earthling] (7:39) `isrc:UKRMQ2600027` `qobuz:392967195`
+- **Niko Zografos** — Coastal Reset [Coastal Reset] (3:25) `isrc:UKRMQ2501537` `qobuz:382947995`
+- **Richard Durand** — Rubicon [Rubicon] (6:47) `isrc:UKRMQ2501546` `qobuz:386448753`
+- **Sequence Six** — Orka [Orka] (8:17) `isrc:UKRMQ2501538` `qobuz:391605118`
+- **Steve Allen** — Plural [Plural] (6:01) `isrc:UKRMQ2501534` `qobuz:385178247`

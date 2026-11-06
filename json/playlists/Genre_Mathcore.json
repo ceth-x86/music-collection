@@ -1,0 +1,1000 @@
+{
+  "name": "Genre: Mathcore",
+  "services": {
+    "qobuz": "66736503",
+    "tidal": "bf788fb1-ca68-472b-acd7-a5e31e0ba624"
+  },
+  "description": "Imported genre playlist: Mathcore.",
+  "tracks": [
+    {
+      "artist": "Starkweather",
+      "title": "Murder in Technicolor",
+      "services": {
+        "qobuz": "23908197"
+      },
+      "album": "Crossbearer / Into the Wire (Reissue)",
+      "duration": 355,
+      "isrc": "USCHW1408305"
+    },
+    {
+      "artist": "Rorschach",
+      "title": "Traditional",
+      "services": {
+        "qobuz": "66257242"
+      },
+      "album": "Remain Sedate/Protestant (Remix/Remaster)",
+      "duration": 194,
+      "isrc": "USA371396318"
+    },
+    {
+      "artist": "Deadguy",
+      "title": "Doom Patrol",
+      "services": {
+        "qobuz": "118265390"
+      },
+      "album": "Fixation On A Co-Worker",
+      "duration": 168,
+      "isrc": "USVIC9503001"
+    },
+    {
+      "artist": "Bastille",
+      "title": "Lethargy",
+      "services": {
+        "qobuz": "34668307"
+      },
+      "album": "Wild World",
+      "duration": 205,
+      "isrc": "GBUM71603414"
+    },
+    {
+      "artist": "Kiss It Goodbye",
+      "title": "Helvetica",
+      "services": {
+        "qobuz": "139090526"
+      },
+      "album": "She Loves Me, She Loves Me Not\u2026",
+      "duration": 239,
+      "isrc": "USB4U0400681"
+    },
+    {
+      "artist": "Coalesce",
+      "title": "Have Patience",
+      "services": {
+        "qobuz": "60619404"
+      },
+      "album": "Give Them Rope - Reissue",
+      "duration": 191,
+      "isrc": "US2641116001"
+    },
+    {
+      "artist": "Drowningman",
+      "title": "Busy Signal at the Suicide Hotline",
+      "services": {
+        "qobuz": "158076755"
+      },
+      "album": "Busy Signal at the Suicide Hotline",
+      "duration": 139,
+      "isrc": "QM6MZ2255842"
+    },
+    {
+      "artist": "Cave In",
+      "title": "Moral Eclipse",
+      "services": {
+        "qobuz": "192793079"
+      },
+      "album": "Until Your Heart Stops",
+      "duration": 125,
+      "isrc": "US2642250401"
+    },
+    {
+      "artist": "Botch",
+      "title": "To Our Friends in the Great White North",
+      "services": {
+        "qobuz": "331387004"
+      },
+      "album": "To Our Friends in the Great White North",
+      "duration": 340,
+      "isrc": "USA2B2513064"
+    },
+    {
+      "artist": "The Dillinger Escape Plan",
+      "title": "43% Burnt",
+      "services": {
+        "qobuz": "60616351"
+      },
+      "album": "Calculating Infinity",
+      "duration": 271,
+      "isrc": "US2649942702"
+    },
+    {
+      "artist": "The End",
+      "title": "The Asphyxiation of Lisa-Claire",
+      "services": {
+        "qobuz": "60705503"
+      },
+      "album": "Transfer Trachea Reverberations From Point: False Omniscient",
+      "duration": 256,
+      "isrc": "US2640357004"
+    },
+    {
+      "artist": "Converge",
+      "title": "Concubine",
+      "services": {
+        "qobuz": "77853801"
+      },
+      "album": "Jane Doe",
+      "duration": 79,
+      "isrc": "US3X50406101"
+    },
+    {
+      "artist": "Candiria",
+      "title": "Paradigm Shift",
+      "services": {
+        "qobuz": "41604839"
+      },
+      "album": "The Coma Imprint",
+      "duration": 265,
+      "isrc": "USLS50370101"
+    },
+    {
+      "artist": "Burnt By The Sun",
+      "title": "Dracula With Glasses",
+      "services": {
+        "qobuz": "60615925"
+      },
+      "album": "Soundtrack to the Personal Revolution",
+      "duration": 106,
+      "isrc": "US2640252001"
+    },
+    {
+      "artist": "Heaven's Echo",
+      "title": "All Hail The Power Of Jesus' Name",
+      "services": {
+        "qobuz": "427550641"
+      },
+      "album": "All Hail The Power Of Jesus' Name",
+      "duration": 207,
+      "isrc": "QT6E62623259"
+    },
+    {
+      "artist": "Every Time I Die",
+      "title": "Ebolarama",
+      "services": {
+        "qobuz": "2086585"
+      },
+      "album": "Hot Damn!",
+      "duration": 178,
+      "isrc": "US3H40403708"
+    },
+    {
+      "artist": "Sikth",
+      "title": "Bland Street Bloom",
+      "services": {
+        "qobuz": "51152194"
+      },
+      "album": "Death of a Dead Day (10th Anniversary Edition)",
+      "duration": 340,
+      "isrc": "GBCQV1600349"
+    },
+    {
+      "artist": "Psyopus",
+      "title": "Imogen's Puzzle, Pt. 2",
+      "services": {
+        "qobuz": "60705916"
+      },
+      "album": "Our Puzzling Encounters Considered",
+      "duration": 265,
+      "isrc": "USMBR0704865"
+    },
+    {
+      "artist": "Norma Jean",
+      "title": "Memphis Will Be Laid To Waste",
+      "services": {
+        "qobuz": "1008676"
+      },
+      "album": "Bless The Martyr And Kiss...",
+      "duration": 295,
+      "isrc": "USTN10216721"
+    },
+    {
+      "artist": "INTO THE MOAT",
+      "title": "Century II",
+      "services": {
+        "qobuz": "60768727"
+      },
+      "album": "The Design",
+      "duration": 114,
+      "isrc": "USMBR0501793"
+    },
+    {
+      "artist": "Ion Dissonance",
+      "title": "The Surge",
+      "services": {
+        "qobuz": "47672314"
+      },
+      "album": "Minus The Herd",
+      "duration": 200,
+      "isrc": "US4E20700544"
+    },
+    {
+      "artist": "The Human Abstract",
+      "title": "Vela, Together We Await The Storm",
+      "services": {
+        "qobuz": "120901759"
+      },
+      "album": "Nocturne",
+      "duration": 276,
+      "isrc": "USHR20646004"
+    },
+    {
+      "artist": "Genghis Tron",
+      "title": "Things Don't Look Good",
+      "services": {
+        "qobuz": "60619060"
+      },
+      "album": "Board Up the House",
+      "duration": 215,
+      "isrc": "US2640878903"
+    },
+    {
+      "artist": "Gaza",
+      "title": "The Truth Weighs Nothing",
+      "services": {
+        "qobuz": "128663748"
+      },
+      "album": "No Absolutes in Human Suffering",
+      "duration": 103,
+      "isrc": "TCABH1271114"
+    },
+    {
+      "artist": "The Tony Danza Tapdance Extravaganza",
+      "title": "Rudy X 3",
+      "services": {
+        "qobuz": "124156435"
+      },
+      "album": "Danza 4: The Alpha- the Omega",
+      "duration": 201,
+      "isrc": "TCABJ1206193"
+    },
+    {
+      "artist": "The Chariot",
+      "title": "David De La Hoz",
+      "services": {
+        "qobuz": "77300469"
+      },
+      "album": "Long Live",
+      "duration": 257,
+      "isrc": "USA2U1000103"
+    },
+    {
+      "artist": "The Number Twelve Looks Like You",
+      "title": "Ease My Siamese",
+      "services": {
+        "qobuz": "63532932"
+      },
+      "album": "Wild Gods",
+      "duration": 283,
+      "isrc": "QZD4H1900131"
+    },
+    {
+      "artist": "iwrestledabearonce",
+      "title": "Tastes Like Kevin Bacon",
+      "services": {
+        "qobuz": "27577378"
+      },
+      "album": "It's All Happening",
+      "duration": 200,
+      "isrc": "US4E40960405"
+    },
+    {
+      "artist": "Architects",
+      "title": "Early Grave",
+      "services": {
+        "qobuz": "27582987"
+      },
+      "album": "Hollow Crown",
+      "duration": 212,
+      "isrc": "US4E40851501"
+    },
+    {
+      "artist": "Heck",
+      "title": "Mope",
+      "services": {
+        "qobuz": "30679300"
+      },
+      "album": "Instructions",
+      "duration": 165,
+      "isrc": "GB7QY1500397"
+    },
+    {
+      "artist": "Code Orange",
+      "title": "Forever",
+      "services": {
+        "qobuz": "35622621"
+      },
+      "album": "Forever",
+      "duration": 188,
+      "isrc": "NLA321600219"
+    },
+    {
+      "artist": "The Armed",
+      "title": "AN ITERATION",
+      "services": {
+        "qobuz": "330293018"
+      },
+      "album": "ULTRAPOP",
+      "duration": 173,
+      "isrc": "USA2P1950625"
+    },
+    {
+      "artist": "Vein.fm",
+      "title": "Virus://Vibrance",
+      "services": {
+        "qobuz": "48810638"
+      },
+      "album": "Errorzone",
+      "duration": 144,
+      "isrc": "QM4TW1817266"
+    },
+    {
+      "artist": "Knocked Loose",
+      "title": "Mistakes Like Fractures",
+      "services": {
+        "qobuz": "322146923"
+      },
+      "album": "A Different Shade of Blue",
+      "duration": 219,
+      "isrc": "USSTT1900018"
+    },
+    {
+      "artist": "Pupil Slicer",
+      "title": "L'appel Du Vide",
+      "services": {
+        "qobuz": "104949502"
+      },
+      "album": "Mirrors",
+      "duration": 216,
+      "isrc": "USERN1010362"
+    },
+    {
+      "artist": "Dire Straits",
+      "title": "Brothers In Arms",
+      "services": {
+        "qobuz": "120751169"
+      },
+      "album": "Brothers In Arms",
+      "duration": 420,
+      "isrc": "GBUM72102506"
+    },
+    {
+      "artist": "Black Matter Device",
+      "title": "Hurricane Pornography",
+      "services": {
+        "qobuz": "64068589"
+      },
+      "album": "Hostile Architecture",
+      "duration": 76,
+      "isrc": "USCGJ1911240"
+    },
+    {
+      "artist": "Your Spirit Dies",
+      "title": "Night Pierces My Bones",
+      "services": {
+        "qobuz": "315811794"
+      },
+      "album": "My Gnawing Pains Will Never Rest",
+      "duration": 215,
+      "isrc": "US5ED2406549"
+    },
+    {
+      "artist": "Car Bomb",
+      "title": "Dissect Yourself",
+      "services": {
+        "qobuz": "71054009"
+      },
+      "album": "Mordial",
+      "duration": 183,
+      "isrc": "QMAAK1973949"
+    },
+    {
+      "artist": "South Central",
+      "title": "Crystaling",
+      "services": {
+        "qobuz": "7660451"
+      },
+      "album": "THE OWL OF MINERVA",
+      "duration": 268,
+      "isrc": "GBVVJ0800005"
+    },
+    {
+      "artist": "Slone Fussel",
+      "title": "The Rest. so I Got CDBaby, And the Most Songs You Can Do on an Album Is 50. so Here\u2019s a Bunch of Other Ideas I Had That Hopefully Someone Can Use. Look I Know This Is All Garbage, But Like, Anyways-Idk Why I Made This Really.",
+      "services": {
+        "qobuz": "277753780"
+      },
+      "album": "This Is What I Got. It\u2019s All Public Domain, So, Have at It. I\u2019m Done Tryna Write Some Great Thing. There\u2019s Always Been so Much of My Identity Attached to Music, Which Made a Lot of Ego. at This Point I\u2019m Just Happy to Share My Ideas. a Lot of These Are Un",
+      "duration": 2339,
+      "isrc": "USHM92436692"
+    },
+    {
+      "artist": "Uppermost",
+      "title": "go with the flow (against the current)",
+      "services": {
+        "qobuz": "360268336"
+      },
+      "album": "eternal love",
+      "duration": 221,
+      "isrc": "FR7JQ2500120"
+    },
+    {
+      "artist": "FIDLAR",
+      "title": "Max Can't Surf",
+      "services": {
+        "qobuz": "10873551"
+      },
+      "album": "FIDLAR",
+      "duration": 159,
+      "isrc": "USQE91200265"
+    },
+    {
+      "artist": "Dead Kiwis",
+      "title": "La Ma\u00e7a",
+      "services": {
+        "qobuz": "58410411"
+      },
+      "album": "Systematic Home Run",
+      "duration": 68,
+      "isrc": "CH6541894581"
+    },
+    {
+      "artist": "Employed To Serve",
+      "title": "No One's Perfect, This Includes You",
+      "services": {
+        "qobuz": "105774674"
+      },
+      "album": "Greyer Than You Remember",
+      "duration": 177,
+      "isrc": "GBMLT1500654"
+    },
+    {
+      "artist": "Neon Mitsumi",
+      "title": "Jiggle Physics",
+      "services": {
+        "qobuz": "335157691"
+      },
+      "album": "Jiggle Physics",
+      "duration": 204,
+      "isrc": "QZNWY2562815"
+    },
+    {
+      "artist": "Fawn Limbs",
+      "title": "Distilled In Observance",
+      "services": {
+        "qobuz": "241128501"
+      },
+      "album": "Vestigial Spectra",
+      "duration": 281,
+      "isrc": "QZTBA2350549"
+    },
+    {
+      "artist": "VOCES8 Foundation Choir",
+      "title": "Davis: Lux Aeterna",
+      "services": {
+        "qobuz": "383443189"
+      },
+      "album": "i carry your heart",
+      "duration": 233,
+      "isrc": "UK4WW1862611"
+    },
+    {
+      "artist": "Sugar Coast",
+      "title": "Fluorescent Nights",
+      "services": {
+        "qobuz": "232999607"
+      },
+      "album": "Fluorescent Nights",
+      "duration": 138,
+      "isrc": "SE4RG2301927"
+    },
+    {
+      "artist": "Moon Duo",
+      "title": "Lost Heads",
+      "services": {
+        "qobuz": "63157524"
+      },
+      "album": "Stars Are the Light",
+      "duration": 386,
+      "isrc": "US5NR1922805"
+    },
+    {
+      "artist": "Helpless",
+      "title": "Worth",
+      "services": {
+        "qobuz": "128515067"
+      },
+      "album": "Debt",
+      "duration": 91,
+      "isrc": "GBMLT1500966"
+    },
+    {
+      "artist": "Horse Torso",
+      "title": "Actual Stablemates",
+      "services": {
+        "qobuz": "78025637"
+      },
+      "album": "Wolf Who Cried Boy",
+      "duration": 292,
+      "isrc": "USHM91745597"
+    },
+    {
+      "artist": "311",
+      "title": "Juan Bond",
+      "services": {
+        "qobuz": "319947528"
+      },
+      "album": "311",
+      "duration": 169,
+      "isrc": "USVR11500014"
+    },
+    {
+      "artist": "Pesado",
+      "title": "Alma, Vida Y Coraz\u00f3n (Falsa Ilusi\u00f3n)",
+      "services": {
+        "qobuz": "6839424"
+      },
+      "album": "Desde La Cantina Vol. II",
+      "duration": 236,
+      "isrc": "USUM71011650"
+    },
+    {
+      "artist": "The Trials of Cato",
+      "title": "Boudicca C. Ad 60",
+      "services": {
+        "qobuz": "190409570"
+      },
+      "album": "Gog Magog",
+      "duration": 250,
+      "isrc": "UKJ2U2200007"
+    },
+    {
+      "artist": "Sammy Rae & The Friends",
+      "title": "Denim Jacket",
+      "services": {
+        "qobuz": "140579324"
+      },
+      "album": "Denim Jacket",
+      "duration": 247,
+      "isrc": "TCAEH1986758"
+    },
+    {
+      "artist": "Otaku",
+      "title": "Guren No Yumiya (Attack On Titan)",
+      "services": {
+        "qobuz": "123837926"
+      },
+      "album": "Anime Lofi Vol. 1",
+      "duration": 96,
+      "isrc": "FRR642100236"
+    },
+    {
+      "artist": "Noise Trail Immersion",
+      "title": "Mirroring",
+      "services": {
+        "qobuz": "53928888"
+      },
+      "album": "Symbology of Shelter",
+      "duration": 302,
+      "isrc": "DEOV41801134"
+    },
+    {
+      "artist": "Oddism",
+      "title": "Aegroto",
+      "services": {
+        "qobuz": "43649559"
+      },
+      "album": "Dance in the Maze",
+      "duration": 168,
+      "isrc": "CH6541737158"
+    },
+    {
+      "artist": "London Philharmonic Orchestra",
+      "title": "No. 22, Bridal March of the Birds",
+      "services": {
+        "qobuz": "305074962"
+      },
+      "album": "Boult Conducts Parry",
+      "duration": 323,
+      "isrc": "GBAET9229100"
+    },
+    {
+      "artist": "Good Riddance",
+      "title": "Dry Season",
+      "services": {
+        "qobuz": "347880324"
+      },
+      "album": "Peace in Our Time",
+      "duration": 140,
+      "isrc": "USFW41594207"
+    },
+    {
+      "artist": "Will Wood",
+      "title": "I / Me / Myself",
+      "services": {
+        "qobuz": "133038267"
+      },
+      "album": "The Normal Album",
+      "duration": 291,
+      "isrc": "QZKWA2004475"
+    },
+    {
+      "artist": "Rolo Tomassi",
+      "title": "Whispers Among Us",
+      "services": {
+        "qobuz": "204497796"
+      },
+      "album": "Time Will Die and Love Will Bury It",
+      "duration": 310,
+      "isrc": "GBMLT1501077"
+    },
+    {
+      "artist": "Sectioned",
+      "title": "Toothgrinder",
+      "services": {
+        "qobuz": "133273288"
+      },
+      "album": "Annihilated",
+      "duration": 165,
+      "isrc": "QZCE61820990"
+    },
+    {
+      "artist": "Seizures",
+      "title": "In a Valley of Twilit Meres",
+      "services": {
+        "qobuz": "259553116"
+      },
+      "album": "Reverie of the Revolving Diamond",
+      "duration": 350,
+      "isrc": "USDY42436262"
+    },
+    {
+      "artist": "The Sound That Ends Creation",
+      "title": "I Hate ICE, I Don't Even Put It In My Water",
+      "services": {
+        "qobuz": "136098604"
+      },
+      "album": "Boomers, Zoomers, Desperate Coomers",
+      "duration": 146,
+      "isrc": "QZMER2159704"
+    },
+    {
+      "artist": "Lueur",
+      "title": "Flat Earthers Around the Globe, Unite!",
+      "services": {
+        "qobuz": "419563216"
+      },
+      "album": "Half of Humanity",
+      "duration": 138,
+      "isrc": "QZWDW2563729"
+    },
+    {
+      "artist": "Steaksauce Mustache",
+      "title": "Floppy Disk Function",
+      "services": {
+        "qobuz": "149019774"
+      },
+      "album": "All Juice, No Noise.",
+      "duration": 207,
+      "isrc": "QZDA82218018"
+    },
+    {
+      "artist": "$uicideboy$",
+      "title": "My Flaws Burn Through My Skin Like Demonic Flames from Hell",
+      "services": {
+        "qobuz": "112742650"
+      },
+      "album": "I No Longer Fear the Razor Guarding My Heel",
+      "duration": 167,
+      "isrc": "QM8DG1600564"
+    },
+    {
+      "artist": "The Backing Tracks",
+      "title": "Nothing Else Matters",
+      "services": {
+        "qobuz": "72505877"
+      },
+      "album": "Play Guitar with the Music of Metallica",
+      "duration": 378,
+      "isrc": "NLG620461596"
+    },
+    {
+      "artist": "Throes",
+      "title": "Fang",
+      "services": {
+        "qobuz": "105774703"
+      },
+      "album": "In the Hands of an Angry God",
+      "duration": 93,
+      "isrc": "GBMLT1501370"
+    },
+    {
+      "artist": "Yowie",
+      "title": "The Reason Your House Is Haunted Can Be Found on This Microfiche",
+      "services": {
+        "qobuz": "73709733"
+      },
+      "album": "Synchromysticism",
+      "duration": 492,
+      "isrc": "USA2B1701165"
+    },
+    {
+      "artist": "30 Seconds GO!",
+      "title": "Did You Remember Your Reusable Shopping Bags",
+      "services": {
+        "qobuz": "131622419"
+      },
+      "album": "A Self Help Guide To Your Nervous Breakdown",
+      "duration": 205,
+      "isrc": "QZMEQ2185066"
+    },
+    {
+      "artist": "Nigel Hall",
+      "title": "Earth, Wind & Fire",
+      "services": {
+        "qobuz": "248267581"
+      },
+      "album": "The Burning Bush: A Journey Through the Music of Earth, Wind & Fire",
+      "duration": 224,
+      "isrc": "USA2P2323027"
+    },
+    {
+      "artist": "Velorah",
+      "title": "Lines We Never Crossed",
+      "services": {
+        "qobuz": "398830404"
+      },
+      "album": "FAKE FEELINGS, LONG NIGHT",
+      "duration": 352,
+      "isrc": "QT5M52690263"
+    },
+    {
+      "artist": "Dead Hour Noise",
+      "title": "Arson",
+      "services": {
+        "qobuz": "324692235"
+      },
+      "album": "Slow Burn",
+      "duration": 336,
+      "isrc": "QZHN92501025"
+    },
+    {
+      "artist": "Euclid C Finder",
+      "title": "My Glutenous Son, You Need To Get A Job",
+      "services": {
+        "qobuz": "239679860"
+      },
+      "album": "The Mirror, My Weapon, I Love You",
+      "duration": 94,
+      "isrc": "QZTBA2376724"
+    },
+    {
+      "artist": "Cigarettes After Sex",
+      "title": "Each Time You Fall in Love",
+      "services": {
+        "qobuz": "47730834"
+      },
+      "album": "Cigarettes After Sex",
+      "duration": 290,
+      "isrc": "USBQU1700032"
+    },
+    {
+      "artist": "Freighter",
+      "title": "Stick Around and Do It Right Until You Get It Perfect",
+      "services": {
+        "qobuz": "63416682"
+      },
+      "album": "The Den",
+      "duration": 155,
+      "isrc": "USL4Q1856212"
+    },
+    {
+      "artist": "Orelsan",
+      "title": "La terre est ronde",
+      "services": {
+        "qobuz": "311735979"
+      },
+      "album": "Le Chant des sir\u00e8nes",
+      "duration": 219,
+      "isrc": "FR6F31101390"
+    },
+    {
+      "artist": "Moist Briefs",
+      "title": "Low Key",
+      "services": {
+        "qobuz": "179587653"
+      },
+      "album": "Orbiter",
+      "duration": 265,
+      "isrc": "QMVU42200088"
+    },
+    {
+      "artist": "Architects",
+      "title": "Seeing Red",
+      "services": {
+        "qobuz": "319062958"
+      },
+      "album": "The Sky, The Earth & All Between",
+      "duration": 220,
+      "isrc": "USEP42359001"
+    },
+    {
+      "artist": "Chris Isaak",
+      "title": "Wicked Game",
+      "services": {
+        "qobuz": "122788773"
+      },
+      "album": "Heart Shaped World",
+      "duration": 287,
+      "isrc": "USRE19900989"
+    },
+    {
+      "artist": "The Motion Mosaic",
+      "title": "DMT Daydream",
+      "services": {
+        "qobuz": "85511585"
+      },
+      "album": "Avant-Garbage",
+      "duration": 386,
+      "isrc": "GBWUL2012394"
+    },
+    {
+      "artist": "Melanie Martinez",
+      "title": "Play Date",
+      "services": {
+        "qobuz": "27225171"
+      },
+      "album": "Cry Baby",
+      "duration": 179,
+      "isrc": "USAT21502471"
+    },
+    {
+      "artist": "Pillar of Wasps",
+      "title": "The Pillar",
+      "services": {
+        "qobuz": "250143755"
+      },
+      "album": "A Collective Hallucination (Instrumental)",
+      "duration": 105,
+      "isrc": "QZFZ72469069"
+    },
+    {
+      "artist": "Kid Bloom",
+      "title": "I Kissed a Girl, And She Kissed Me",
+      "services": {
+        "qobuz": "186983647"
+      },
+      "album": "Different State of Mind",
+      "duration": 155,
+      "isrc": "QZ4JJ1629162"
+    },
+    {
+      "artist": "Catch 22",
+      "title": "Giving Up Giving In",
+      "services": {
+        "qobuz": "118265523"
+      },
+      "album": "Keasbey Nights",
+      "duration": 168,
+      "isrc": "USVIC9807306"
+    },
+    {
+      "artist": "Satyr",
+      "title": "Apogee",
+      "services": {
+        "qobuz": "134037678"
+      },
+      "album": "Locus (Instrumental)",
+      "duration": 187,
+      "isrc": "QMEU32012424"
+    },
+    {
+      "artist": "Bilmuri",
+      "title": "LIVIN' LAUGHIN' LOVIN'",
+      "services": {
+        "qobuz": "294736671"
+      },
+      "album": "AMERICAN MOTOR SPORTS (420CC EDITION)",
+      "duration": 166,
+      "isrc": "USQX92405311"
+    },
+    {
+      "artist": "Prince Daddy & The Hyena",
+      "title": "Hollow, As You Figured",
+      "services": {
+        "qobuz": "141048318"
+      },
+      "album": "Prince Daddy & The Hyena",
+      "duration": 220,
+      "isrc": "USSTT2200044"
+    },
+    {
+      "artist": "Adele",
+      "title": "Water Under the Bridge",
+      "services": {
+        "qobuz": "28014972"
+      },
+      "album": "25",
+      "duration": 240,
+      "isrc": "GBBKS1500219"
+    },
+    {
+      "artist": "Strange Changes",
+      "title": "Pigeons & Rats",
+      "services": {
+        "qobuz": "79824035"
+      },
+      "album": "Pigeons & Rats",
+      "duration": 314,
+      "isrc": "USL4Q1940402"
+    },
+    {
+      "artist": "Guano Apes",
+      "title": "Kiss the Dawn",
+      "services": {
+        "qobuz": "262141"
+      },
+      "album": "Walking On A Thin Line",
+      "duration": 319,
+      "isrc": "DEC760200345"
+    },
+    {
+      "artist": "Totally Unicorn",
+      "title": "I'll Be Fine Now",
+      "services": {
+        "qobuz": "380516431"
+      },
+      "album": "I'll Be Fine Now",
+      "duration": 266,
+      "isrc": "AUVWE1900526"
+    },
+    {
+      "artist": "Under the Pier",
+      "title": "Four Sided Triangle",
+      "services": {
+        "qobuz": "93005867"
+      },
+      "album": "Puff Pieces",
+      "duration": 134,
+      "isrc": "USDY42050338"
+    },
+    {
+      "artist": "Joe Satriani",
+      "title": "Wind in the Trees",
+      "services": {
+        "qobuz": "2528584"
+      },
+      "album": "Black Swans and Wormhole Wizards",
+      "duration": 462,
+      "isrc": "USSM11003003"
+    },
+    {
+      "artist": "Kai Schumacher",
+      "title": "A New Error",
+      "services": {
+        "qobuz": "42679565"
+      },
+      "album": "Beauty In Simplicity",
+      "duration": 409,
+      "isrc": "DES380023288"
+    },
+    {
+      "artist": "Yellfire",
+      "title": "We're Not Saints",
+      "services": {
+        "qobuz": "181246395"
+      },
+      "album": "Lara Flynn Boyle",
+      "duration": 160,
+      "isrc": "QZGWW1977014"
+    }
+  ]
+}

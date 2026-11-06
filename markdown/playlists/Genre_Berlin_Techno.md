@@ -1,0 +1,108 @@
+# Genre: Berlin Techno
+
+Imported genre playlist: Berlin Techno.
+
+Services: `qobuz:66718440` `tidal:fd9ca087-09b9-4154-bfb9-d6e9e3c72b87`
+
+## Tracks (100)
+
+- **Planetary Assault Systems** — Twelve [The Light Years Reworks] (5:51) `isrc:BEN581600596` `qobuz:206284236`
+- **Joy Division** — Love Will Tear Us Apart [Substance 1977 - 1980] (3:26) `isrc:GBCRL1500067` `qobuz:24618114`
+- **BOOM THE BOMB** — Light Up The Room [Light Up The Room] (3:47) `isrc:QZMWW2503828` `qobuz:330307853`
+- **Fiedel** — Doors To Manual [Night Slugs Allstars X] (4:56) `isrc:GB5P51800113` `qobuz:225161344`
+- **Marcel Dettmann** — Phase Sequence [My Own Shadow: Faultline] (6:19) `isrc:DEG932601578` `qobuz:404113849`
+- **Nikola Gala** — Only (Ryan Elliott Remix) [DJ-Kicks (Deetron)] (1:40) `isrc:DEG931891968` `qobuz:46689745`
+- **Sinkane** — Warm Spell [Warm Spell / Making Time] (6:11) `isrc:US4GE1300006` `qobuz:243064902`
+- **Nathaniel Rateliff & The Night Sweats** — Face Down In The Moment [The Future] (4:39) `isrc:USC4R2107144` `qobuz:127600305`
+- **Huelgas Ensemble** — Christe, der du bist Tag und Licht: Wir bitten dein göttliche Kraft [PraeBachtorius] (4:17) `isrc:DEE471000077` `qobuz:1896892`
+- **Norman Matt** — Tense Start [Up Against Time] (2:31) `isrc:GBFPN2053214` `qobuz:91648706`
+- **Sonic Beat** — The Big Trophy [Boom Bap Swagger] (1:30) `isrc:QZKCP2600241` `qobuz:398506616`
+- **Tin Man** — Verity Acid [Mixmag Presents Ben Klock] (5:46) `isrc:QM6MZ1762484` `qobuz:70583616`
+- **Nick Höppner** — Paws [Folk] (7:16) `isrc:DELG71400648` `qobuz:23448304`
+- **Boris Andrianov** — Lilacs, Op. 21 No. 5 (arr. for Cello and Piano by Rem Urasin) [The Moscow Conservatory - Tribute to Rachmaninov. Chamber Works] (1:59) `isrc:RUABH2200217` `qobuz:239106382`
+- **Claudia Chopra** — Anyway [To My Valentine: Romantic Lounge Tunes] (3:17) `isrc:DEMV21910193` `qobuz:312700404`
+- **DVS1** — (Ecks) [Zehn | Fünf] (6:12) `isrc:DELG71400709` `qobuz:30984783`
+- **Etapp Kyle** — Nolah [Zehn | Zehn] (6:19) `isrc:DELG71400725` `qobuz:32172521`
+- **Answer Code Request** — Zeitspielraum [Zehn | Fünf] (5:42) `isrc:DELG71400710` `qobuz:30984785`
+- **Doms** — Whirling [Zehn | Fünf] (7:54) `isrc:DELG71400711` `qobuz:30984787`
+- **Anthony Parasole** — Heartbeat [Zehn | Sechs] (5:19) `isrc:DELG71400714` `qobuz:30987398`
+- **J. Cole** — p r i d e . i s . t h e . d e v i l [The Off-Season] (3:38) `isrc:QMJMT2103642` `qobuz:121549432`
+- **Planetary Assault Systems** — Hama Static [Zehn | Sieben] (5:16) `isrc:DELG71400717` `qobuz:31272712`
+- **Onkel Tuka** — Hvis krafta går ut av din tro [Geriljagospel] (2:46) `isrc:NOEAM1601110` `qobuz:196565313`
+- **tobias.** — Like a Drug [Zehn | Acht] (8:35) `isrc:DELG71400720` `qobuz:31272716`
+- **Efdemin** — America [Carry On, Pretend We're Not In The Room] (5:16) `isrc:BEN580800439` `qobuz:9216318`
+- **Function** — Dx3_Analog_Bass_Seq [Zehn | Drei] (6:40) `isrc:DELG71400704` `qobuz:30557133`
+- **Martyn** — Jah Bedouin [Zehn | Sieben] (7:37) `isrc:DELG71400715` `qobuz:31272710`
+- **Kobosil** — Saldae [Zehn | Zwei] (6:35) `isrc:DELG71400702` `qobuz:30242643`
+- **Crash Test Dummies** — Mmm Mmm Mmm Mmm [God Shuffled His Feet] (3:55) `isrc:CAA359300084` `qobuz:13102470`
+- **Csukás István** — Fejezet 1 - Pom Pom újabb meséi [Pom Pom újabb meséi] (3:15) `isrc:DEVU52367900` `qobuz:212686274`
+- **God Knows** — Munya's Comet / Remember 2 Forget [A Future of The Past] (4:28) `isrc:QZZ8A2558023` `qobuz:356231924`
+- **King's X** — Goldilox [Out Of The Silent Planet] (4:40) `isrc:USAT20102735` `qobuz:2003356`
+- **Emmanuel Top** — Radio [Specials 'Phase Two'] (7:41) `isrc:FR4LO1109210` `qobuz:9577405`
+- **Huey Mnemonic** — Transmutation [Transmutation] (5:36) `isrc:DELV42100253` `qobuz:372576557`
+- **D. Strange** — Metal Mono [Tresor 30] (5:15) `isrc:DELV42100706` `qobuz:384215494`
+- **Verraco** — Umbral de dolor [Tresor 30] (5:59) `isrc:DEF272133017` `qobuz:384165541`
+- **The Surgeon** — Berlin Disease [Tresor 30] (4:59) `isrc:DEF272133019` `qobuz:384165543`
+- **Regis** — Natural Enemies [Tresor 30] (4:33) `isrc:DEF272133020` `qobuz:384165544`
+- **LSDXOXO** — Love In Allegiance [Tresor 30] (4:07) `isrc:DEF272133025` `qobuz:384165549`
+- **Simulant** — The Purpose Of Simulation [Tresor 30] (5:20) `isrc:DELV42100741` `qobuz:384215533`
+- **TYGAPAW** — Diffusus [Tresor 30] (3:55) `isrc:DEF272133043` `qobuz:384165567`
+- **Nene H** — Only Words Break Silence [Tresor 30] (4:54) `isrc:DELV42100736` `qobuz:384215536`
+- **Fjaak** — Lovers [Tresor 30] (6:00) `isrc:DELV42100729` `qobuz:384215537`
+- **Yazzus** — Turn Of Speed [Tresor 30] (5:31) `isrc:DEF272133047` `qobuz:384165571`
+- **Tv Victor** — Change On [Tresor 30] (5:20) `isrc:DELV42100718` `qobuz:384215540`
+- **Carlota** — Breakfast On The Moon [Tresor 30] (4:41) `isrc:DEF272133050` `qobuz:384165574`
+- **Toru S.** — Deep Mid [Tresor 30] (3:47) `isrc:DEF272133051` `qobuz:384165575`
+- **Bergsonist** — Tout Maintenant [Tresor 30] (3:24) `isrc:DEF272133033` `qobuz:384165557`
+- **SHE Spells Doom** — Splash [Tresor 30] (5:11) `isrc:DELV42100739` `qobuz:384215519`
+- **Whodat** — Grit [Tresor 30] (5:08) `isrc:DELV42100723` `qobuz:384215521`
+- **rRoxymore** — MULTIPLICITY [Tresor 30] (5:42) `isrc:DEF272133007` `qobuz:384165531`
+- **Claudia Anderson** — Track 3 [Tresor 30] (5:58) `isrc:DEF272133021` `qobuz:384165545`
+- **Machina** — Trio [Tresor 30] (4:48) `isrc:DEF272133022` `qobuz:384165546`
+- **Speaker Music** — focus.point.shoot [Tresor 30] (5:12) `isrc:DELV42100707` `qobuz:384215495`
+- **AFRODEUTSCHE** — CAN'T STOP [CAN'T STOP] (5:03) `isrc:DELV42100443` `qobuz:372584206`
+- **Quelza** — Afternoon Calcium [Klubnacht 01] (10:43) `isrc:DEU672500731` `qobuz:337008901`
+- **Azu Tiwaline** — Chrome Fever [Klubnacht 01] (5:59) `isrc:DEU672500732` `qobuz:337008902`
+- **Altinbas** — Seele [Klubnacht 01] (7:03) `isrc:DEU672500733` `qobuz:337008903`
+- **GiGi FM** — Overseas [Klubnacht 01] (6:45) `isrc:GXBKV2500005` `qobuz:337008904`
+- **JakoJako** — Evaneszenz [Klubnacht 01] (5:27) `isrc:DEU672500734` `qobuz:337008905`
+- **Fadi Mohem** — Submerge [Klubnacht 01] (10:38) `isrc:DEU672500735` `qobuz:337008906`
+- **Lydia Eisenblätter** — Bliss [Klubnacht 01] (6:15) `isrc:DEU672500740` `qobuz:337008911`
+- **(Wallace)** — Pivot Point [Klubnacht 01] (6:34) `isrc:DEU672500741` `qobuz:337008912`
+- **Jinjé** — Idiome [Klubnacht 01] (7:15) `isrc:DEU672500743` `qobuz:337008914`
+- **Gallegos** — PAXMAN [Klubnacht 01] (10:58) `isrc:DEU672500744` `qobuz:337008915`
+- **Snecker** — Wet Word [Klubnacht 01] (5:47) `isrc:DEU672500745` `qobuz:337008916`
+- **Jancen** — Voided Oasis [One Hundred Fifty] (6:03) `isrc:GBLV62518450` `qobuz:370327332`
+- **Robert Arthur** — Dyson Sphere [One Hundred Fifty] (6:02) `isrc:GBLV62518451` `qobuz:370327333`
+- **Vinicius Honorio** — Tundra [One Hundred Fifty] (5:55) `isrc:GBLV62518452` `qobuz:370327334`
+- **A-STS** — Transit [One Hundred Fifty] (6:06) `isrc:GBLV62518453` `qobuz:370327335`
+- **IGLO** — Paraphrase [One Hundred Fifty] (5:15) `isrc:GBLV62518456` `qobuz:370327338`
+- **Glaskin** — User Illusion [One Hundred Fifty] (4:37) `isrc:GBLV62518457` `qobuz:370327339`
+- **Scheermann** — Elura [One Hundred Fifty] (5:11) `isrc:GBLV62518458` `qobuz:370327340`
+- **Obscure Shape** — Träume Im Nebel [One Hundred Fifty] (5:01) `isrc:GBLV62518459` `qobuz:370327341`
+- **Arkan** — French Kiss [One Hundred Fifty] (6:39) `isrc:GBLV62518461` `qobuz:370327343`
+- **Jeroen Search** — Fiber [One Hundred Fifty] (5:43) `isrc:GBLV62518455` `qobuz:370327337`
+- **The Beatles** — Why Don't We Do It In The Road? [The Beatles (White Album) [Super Deluxe]] (1:41) `isrc:GBUM71802716` `qobuz:53668093`
+- **Bob Dylan** — Hurricane [Desire] (8:32) `isrc:USSM17500791` `qobuz:4866129`
+- **Maoupa Mazzocchetti** — Mantequilla [Split 3] (4:36) `isrc:COAB11900253` `qobuz:345415804`
+- **Vincent Peirani** — Physical Attraction [Living Being IV (Time Reflections)] (6:20) `isrc:FR9W12516700` `qobuz:337660516`
+- **Bishop Briggs** — River [Church Of Scars] (3:36) `isrc:TCACL1648391` `qobuz:48004125`
+- **Anne-Marie** — 2002 [Speak Your Mind] (3:06) `isrc:GBAHS1800094` `qobuz:52077965`
+- **Max Romeo** — Blood Of The Prophet [Revelation Time] (3:32) `isrc:USVPR1900048` `qobuz:96733180`
+- **Jonas Xenon** — Berlin Pink [Heretic] (5:29) `isrc:DEMM42501902` `qobuz:368085245`
+- **ATLiens** — Obsidian Vortex [Obsidian Vortex] (2:42) `isrc:CA5KR2284646` `qobuz:192439474`
+- **Chloe Lula** — Prelude [Oneiris] (2:24) `isrc:GBGXC2420065` `qobuz:300628537`
+- **Joung King** — solarflare [Quest] (2:04) `isrc:QT4K32628791` `qobuz:410123756`
+- **Sarah Wreath** — Equinox [Integration] (6:08) `isrc:QMBZ92442470` `qobuz:285125643`
+- **Holding Absence** — Saint Cecilia [This Is as One] (4:49) `isrc:DED831701775` `qobuz:60261696`
+- **George Nascimento** — Waltz in A-Flat Major, Op. 39: XV. - [Relaxing Classical Piano] (3:04) `isrc:CASD10608541` `qobuz:18488261`
+- **Devin Bronson** — Life of The Party [Crank It Up!] (2:04) `isrc:QZLDE2501104` `qobuz:381917763`
+- **Sapurra** — Never Been To Detroit [Never Been To Detroit] (4:52) `isrc:GBKQU2244858` `qobuz:159449669`
+- **Sweet** — Lady Starlight [Desolation Boulevard (New Extended Version)] (3:11) `isrc:DEC767400011` `qobuz:49658956`
+- **Ireen Amnes** — October [Forbidden Memories] (6:21) `isrc:NLCK42416772` `qobuz:289572872`
+- **Ryan James Ford** — Visine Drppr2 [Quench Vol. 1 (Air)] (5:48) `isrc:NLL562605009` `qobuz:422367512`
+- **The Future Sound Of London** — Papua New Guinea [Accelerator] (6:45) `isrc:GBELY0600006` `qobuz:76767860`
+- **EsDeeKid** — Phantom [Rebel] (1:49) `isrc:QZHN32557300` `qobuz:340492386`
+- **Deals Death** — Escalation [Point Zero Solution] (4:02) `isrc:FIUM71300199` `qobuz:195731466`
+- **noonday underground** — Boy Like a Timebomb [Surface Noise (Bonus Track Version)] (2:38) `isrc:UK4XT1400048` `qobuz:16834540`
+- **Last Regret** — The Room That Wasn't There [I Was The Chair] (11:00) `isrc:QZK6L2635734` `qobuz:393360385`

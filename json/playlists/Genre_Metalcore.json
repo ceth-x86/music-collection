@@ -1,0 +1,970 @@
+{
+  "name": "Genre: Metalcore",
+  "services": {
+    "qobuz": "66734868",
+    "tidal": "bde54b80-412e-494c-bda3-feea54e2e440"
+  },
+  "description": "Imported genre playlist: Metalcore.",
+  "tracks": [
+    {
+      "artist": "Starkweather",
+      "title": "Murder in Technicolor",
+      "services": {
+        "qobuz": "23908197"
+      },
+      "album": "Crossbearer / Into the Wire (Reissue)",
+      "duration": 355,
+      "isrc": "USCHW1408305"
+    },
+    {
+      "artist": "Earth Crisis",
+      "title": "Firestorm",
+      "services": {
+        "qobuz": "118260550"
+      },
+      "album": "Forever True (1991-2001)",
+      "duration": 231,
+      "isrc": "USVIC0116315"
+    },
+    {
+      "artist": "Merauder",
+      "title": "Master Killer",
+      "services": {
+        "qobuz": "27577173"
+      },
+      "album": "Master Killer",
+      "duration": 203,
+      "isrc": "US4E40680404"
+    },
+    {
+      "artist": "Vision Of Disorder",
+      "title": "Element",
+      "services": {
+        "qobuz": "8387789"
+      },
+      "album": "Vision of Disorder",
+      "duration": 193,
+      "isrc": "NLA329680164"
+    },
+    {
+      "artist": "Overcast",
+      "title": "Apocalypse Upon Us",
+      "services": {
+        "qobuz": "22369003"
+      },
+      "album": "Only Death Is Smiling",
+      "duration": 261,
+      "isrc": "US3441404116"
+    },
+    {
+      "artist": "Shai Hulud",
+      "title": "My Heart Bleeds The Darkest Blood",
+      "services": {
+        "qobuz": "139090053"
+      },
+      "album": "Hearts Once Nourished With Hope And Compassion",
+      "duration": 125,
+      "isrc": "USB4U0613802"
+    },
+    {
+      "artist": "Strife",
+      "title": "Blistered",
+      "services": {
+        "qobuz": "118259682"
+      },
+      "album": "In This Defiance",
+      "duration": 147,
+      "isrc": "USVIC9705407"
+    },
+    {
+      "artist": "Cave In",
+      "title": "Juggernaut",
+      "services": {
+        "qobuz": "192793081"
+      },
+      "album": "Until Your Heart Stops",
+      "duration": 335,
+      "isrc": "US2642250403"
+    },
+    {
+      "artist": "Tanner Usrey",
+      "title": "If You Call Me Again",
+      "services": {
+        "qobuz": "394452012"
+      },
+      "album": "Morning Coffee & Country",
+      "duration": 227,
+      "isrc": "USAT22501528"
+    },
+    {
+      "artist": "Zao",
+      "title": "To Think Of You Is To Treasure An Absent Memory",
+      "services": {
+        "qobuz": "4408946"
+      },
+      "album": "Where Blood And Fire Bring Rest",
+      "duration": 265,
+      "isrc": "USTN19821375"
+    },
+    {
+      "artist": "All Out War",
+      "title": "Truth In The Age Of Lies",
+      "services": {
+        "qobuz": "118260283"
+      },
+      "album": "For Those Who Were Crucified",
+      "duration": 188,
+      "isrc": "USVIC9808512"
+    },
+    {
+      "artist": "Arkangel",
+      "title": "Within the Walls of Babylon",
+      "services": {
+        "qobuz": "156744091"
+      },
+      "album": "Prayers Upon Deaf Ears",
+      "duration": 162,
+      "isrc": "FR2X41953435"
+    },
+    {
+      "artist": "Disembodied",
+      "title": "7 Stitches",
+      "services": {
+        "qobuz": "80020148"
+      },
+      "album": "Transfiguration",
+      "duration": 263,
+      "isrc": "USA2U1500074"
+    },
+    {
+      "artist": "Poison The Well",
+      "title": "Nerdy",
+      "services": {
+        "qobuz": "324494105"
+      },
+      "album": "The Opposite of December... A Season of Separation",
+      "duration": 163,
+      "isrc": "QM24S1836879"
+    },
+    {
+      "artist": "Turmoil",
+      "title": "The Discipline of Self Loathing",
+      "services": {
+        "qobuz": "29237634"
+      },
+      "album": "The Process Of",
+      "duration": 180,
+      "isrc": "US4E40591502"
+    },
+    {
+      "artist": "Undying",
+      "title": "This Day All Gods Die",
+      "services": {
+        "qobuz": "173823572"
+      },
+      "album": "This Day All Gods Die",
+      "duration": 232,
+      "isrc": "TCAGL2268019"
+    },
+    {
+      "artist": "Converge",
+      "title": "Concubine",
+      "services": {
+        "qobuz": "77853801"
+      },
+      "album": "Jane Doe",
+      "duration": 79,
+      "isrc": "US3X50406101"
+    },
+    {
+      "artist": "Hatebreed",
+      "title": "I Will Be Heard",
+      "services": {
+        "qobuz": "3878718"
+      },
+      "album": "Perseverance",
+      "duration": 178,
+      "isrc": "USUR10111255"
+    },
+    {
+      "artist": "Killswitch Engage",
+      "title": "My Last Serenade",
+      "services": {
+        "qobuz": "2555677"
+      },
+      "album": "Alive or Just Breathing",
+      "duration": 255,
+      "isrc": "NLA320219720"
+    },
+    {
+      "artist": "Norma Jean",
+      "title": "Memphis Will Be Laid To Waste",
+      "services": {
+        "qobuz": "1008676"
+      },
+      "album": "Bless The Martyr And Kiss...",
+      "duration": 295,
+      "isrc": "USTN10216721"
+    },
+    {
+      "artist": "As I Lay Dying",
+      "title": "94 Hours",
+      "services": {
+        "qobuz": "60887112"
+      },
+      "album": "Frail Words Collapse",
+      "duration": 190,
+      "isrc": "USMBR0400722"
+    },
+    {
+      "artist": "Avenged Sevenfold",
+      "title": "Unholy Confessions",
+      "services": {
+        "qobuz": "120899395"
+      },
+      "album": "Waking The Fallen",
+      "duration": 283,
+      "isrc": "USHR20323015"
+    },
+    {
+      "artist": "Bleeding Through",
+      "title": "Love Lost In A Hail Of Gunfire (Live)",
+      "services": {
+        "qobuz": "397993924"
+      },
+      "album": "This Is Live, This Is Murderous",
+      "duration": 279,
+      "isrc": "USA2P2611783"
+    },
+    {
+      "artist": "Darkest Hour",
+      "title": "Veritas, Aequitas",
+      "services": {
+        "qobuz": "118260023"
+      },
+      "album": "Hidden Hands Of A Sadist Nation",
+      "duration": 776,
+      "isrc": "USVIC0423209"
+    },
+    {
+      "artist": "Every Time I Die",
+      "title": "Ebolarama",
+      "services": {
+        "qobuz": "2086585"
+      },
+      "album": "Hot Damn!",
+      "duration": 178,
+      "isrc": "US3H40403708"
+    },
+    {
+      "artist": "Atreyu",
+      "title": "Lip Gloss And Black",
+      "services": {
+        "qobuz": "42521216"
+      },
+      "album": "Suicide Notes And Butterfly Kisses",
+      "duration": 305,
+      "isrc": "USVIC0217710"
+    },
+    {
+      "artist": "Bury Your Dead",
+      "title": "Losin' It",
+      "services": {
+        "qobuz": "118259901"
+      },
+      "album": "Cover Your Tracks",
+      "duration": 74,
+      "isrc": "USVIC0423412"
+    },
+    {
+      "artist": "Caliban",
+      "title": "The Beloved and the Hatred",
+      "services": {
+        "qobuz": "2807950"
+      },
+      "album": "The Opposite From Within",
+      "duration": 227,
+      "isrc": "NLA320420726"
+    },
+    {
+      "artist": "Eighteen Visions",
+      "title": "Tower of Snakes",
+      "services": {
+        "qobuz": "165311"
+      },
+      "album": "Obsession",
+      "duration": 218,
+      "isrc": "USSM10404160"
+    },
+    {
+      "artist": "God Forbid",
+      "title": "Antihero",
+      "services": {
+        "qobuz": "27534082"
+      },
+      "album": "Gone Forever",
+      "duration": 238,
+      "isrc": "GBDHC0404662"
+    },
+    {
+      "artist": "Haste The Day",
+      "title": "The Closest Thing To Closure",
+      "services": {
+        "qobuz": "1056152"
+      },
+      "album": "Burning Bridges",
+      "duration": 154,
+      "isrc": "USTN10422185"
+    },
+    {
+      "artist": "Heaven Shall Burn",
+      "title": "The Weapon They Fear",
+      "services": {
+        "qobuz": "27539071"
+      },
+      "album": "Antigone",
+      "duration": 278,
+      "isrc": "US4E40417302"
+    },
+    {
+      "artist": "It Dies Today",
+      "title": "A Threnody For Modern Romance",
+      "services": {
+        "qobuz": "170323443"
+      },
+      "album": "The Caitiff Choir",
+      "duration": 210,
+      "isrc": "US3440455205"
+    },
+    {
+      "artist": "Martyr A.D.",
+      "title": "American Hollow",
+      "services": {
+        "qobuz": "118258282"
+      },
+      "album": "On Earth As It Is In Hell",
+      "duration": 215,
+      "isrc": "USVIC0418604"
+    },
+    {
+      "artist": "Shadows Fall",
+      "title": "The Light That Blinds",
+      "services": {
+        "qobuz": "27571129"
+      },
+      "album": "The War Within",
+      "duration": 298,
+      "isrc": "US4E40422801"
+    },
+    {
+      "artist": "Unearth",
+      "title": "My Will Be Done",
+      "services": {
+        "qobuz": "60803838"
+      },
+      "album": "The March",
+      "duration": 217,
+      "isrc": "USMBR0806056"
+    },
+    {
+      "artist": "Bullet For My Valentine",
+      "title": "Tears Don't Fall",
+      "services": {
+        "qobuz": "2719543"
+      },
+      "album": "The Poison (Deluxe Version)",
+      "duration": 348,
+      "isrc": "GBHQD0500017"
+    },
+    {
+      "artist": "Demon Hunter",
+      "title": "Not I",
+      "services": {
+        "qobuz": "104584528"
+      },
+      "album": "The Triptych",
+      "duration": 254,
+      "isrc": "USTN10500279"
+    },
+    {
+      "artist": "Throwdown",
+      "title": "Forever",
+      "services": {
+        "qobuz": "128861637"
+      },
+      "album": "Haymaker",
+      "duration": 218,
+      "isrc": "TCADW1858481"
+    },
+    {
+      "artist": "Trivium",
+      "title": "Pull Harder on the Strings of Your Martyr",
+      "services": {
+        "qobuz": "2269093"
+      },
+      "album": "Ascendancy",
+      "duration": 291,
+      "isrc": "NLA320480970"
+    },
+    {
+      "artist": "All That Remains",
+      "title": "Six",
+      "services": {
+        "qobuz": "54327978"
+      },
+      "album": "The Fall Of Ideals",
+      "duration": 202,
+      "isrc": "USRZR0695607"
+    },
+    {
+      "artist": "I Killed The Prom Queen",
+      "title": "Sharks in Your Mouth",
+      "services": {
+        "qobuz": "282447907"
+      },
+      "album": "Music for the Recently Deceased",
+      "duration": 244,
+      "isrc": "AUOT00500001"
+    },
+    {
+      "artist": "Misery Signals",
+      "title": "The Failsafe",
+      "services": {
+        "qobuz": "2086815"
+      },
+      "album": "Mirrors",
+      "duration": 321,
+      "isrc": "US3H40607002"
+    },
+    {
+      "artist": "Walls of Jericho",
+      "title": "A Trigger Full Of Promises",
+      "services": {
+        "qobuz": "202218909"
+      },
+      "album": "With Devils Amongst Us All",
+      "duration": 228,
+      "isrc": "US3440608201"
+    },
+    {
+      "artist": "August Burns Red",
+      "title": "Composure",
+      "services": {
+        "qobuz": "104582545"
+      },
+      "album": "Messengers",
+      "duration": 253,
+      "isrc": "USTN10700141"
+    },
+    {
+      "artist": "blessthefall",
+      "title": "Guys Like You Make Us Look Bad",
+      "services": {
+        "qobuz": "2847911"
+      },
+      "album": "His Last Walk",
+      "duration": 235,
+      "isrc": "USRC20600119"
+    },
+    {
+      "artist": "Oh, Sleeper",
+      "title": "Vices Like Vipers",
+      "services": {
+        "qobuz": "4908222"
+      },
+      "album": "When I Am God",
+      "duration": 258,
+      "isrc": "USTN10700447"
+    },
+    {
+      "artist": "Parkway Drive",
+      "title": "Carrion",
+      "services": {
+        "qobuz": "77651480"
+      },
+      "album": "Horizons",
+      "duration": 187,
+      "isrc": "USEP40721104"
+    },
+    {
+      "artist": "Still Remains",
+      "title": "The Worst Is yet to Come",
+      "services": {
+        "qobuz": "2807921"
+      },
+      "album": "Of Love And Lunacy",
+      "duration": 230,
+      "isrc": "NLA320581021"
+    },
+    {
+      "artist": "Attack Attack!",
+      "title": "Stick Stickly",
+      "services": {
+        "qobuz": "385323423"
+      },
+      "album": "Someday Came Suddenly",
+      "duration": 202,
+      "isrc": "USEK70807302"
+    },
+    {
+      "artist": "For Today",
+      "title": "Saul of Tarsus (The Messenger)",
+      "services": {
+        "qobuz": "77177253"
+      },
+      "album": "Portraits",
+      "duration": 226,
+      "isrc": "US38J0908002"
+    },
+    {
+      "artist": "Architects",
+      "title": "Early Grave",
+      "services": {
+        "qobuz": "27582987"
+      },
+      "album": "Hollow Crown",
+      "duration": 212,
+      "isrc": "US4E40851501"
+    },
+    {
+      "artist": "Asking Alexandria",
+      "title": "The Final Episode (Let's Change the Channel)",
+      "services": {
+        "qobuz": "338131628"
+      },
+      "album": "Stand Up And Scream",
+      "duration": 242,
+      "isrc": "USYFZ0902202"
+    },
+    {
+      "artist": "Miss May I",
+      "title": "Architect",
+      "services": {
+        "qobuz": "375968088"
+      },
+      "album": "Apologies Are For The Weak",
+      "duration": 248,
+      "isrc": "USEK70908102"
+    },
+    {
+      "artist": "The Devil Wears Prada",
+      "title": "Assistant To The Regional Manager",
+      "services": {
+        "qobuz": "2087181"
+      },
+      "album": "With Roots Above And Branches Below (Standard Edition)",
+      "duration": 217,
+      "isrc": "US3H40912303"
+    },
+    {
+      "artist": "We Came As Romans",
+      "title": "To Plant a Seed",
+      "services": {
+        "qobuz": "77864049"
+      },
+      "album": "To Plant a Seed (Deluxe)",
+      "duration": 230,
+      "isrc": "US3X50917401"
+    },
+    {
+      "artist": "Abandon All Ships",
+      "title": "Take One Last Breath",
+      "services": {
+        "qobuz": "68367343"
+      },
+      "album": "Geeving",
+      "duration": 219,
+      "isrc": "CAU2O1010217"
+    },
+    {
+      "artist": "Motionless In White",
+      "title": "Abigail",
+      "services": {
+        "qobuz": "102909043"
+      },
+      "album": "Creatures",
+      "duration": 172,
+      "isrc": "US5261014204"
+    },
+    {
+      "artist": "Of Mice & Men",
+      "title": "Second & Sebring",
+      "services": {
+        "qobuz": "385576105"
+      },
+      "album": "Of Mice & Men",
+      "duration": 229,
+      "isrc": "USEK71008903"
+    },
+    {
+      "artist": "The Word Alive",
+      "title": "The Hounds Of Anubis",
+      "services": {
+        "qobuz": "36143281"
+      },
+      "album": "Deceiver",
+      "duration": 253,
+      "isrc": "US5261014001"
+    },
+    {
+      "artist": "Woe Is Me",
+      "title": "Vengeance",
+      "services": {
+        "qobuz": "372445313"
+      },
+      "album": "Vengeance",
+      "duration": 256,
+      "isrc": "USEK71011012"
+    },
+    {
+      "artist": "PVRIS",
+      "title": "Dead Weight",
+      "services": {
+        "qobuz": "104070035"
+      },
+      "album": "Use Me",
+      "duration": 207,
+      "isrc": "USWB12000241"
+    },
+    {
+      "artist": "Like Moths To Flames",
+      "title": "The Worst in Me",
+      "services": {
+        "qobuz": "383052241"
+      },
+      "album": "When We Don't Exist",
+      "duration": 254,
+      "isrc": "USEK71218103"
+    },
+    {
+      "artist": "Memphis May Fire",
+      "title": "The Sinner",
+      "services": {
+        "qobuz": "388087001"
+      },
+      "album": "The Hollow",
+      "duration": 242,
+      "isrc": "USEK71113001"
+    },
+    {
+      "artist": "The Plot In You",
+      "title": "Premeditated",
+      "services": {
+        "qobuz": "380483365"
+      },
+      "album": "Could You Watch Your Children Burn",
+      "duration": 245,
+      "isrc": "USEK71318601"
+    },
+    {
+      "artist": "Bury Tomorrow",
+      "title": "Lionheart",
+      "services": {
+        "qobuz": "60255960"
+      },
+      "album": "The Union of Crowns",
+      "duration": 218,
+      "isrc": "DED831200146"
+    },
+    {
+      "artist": "Crown The Empire",
+      "title": "Machines",
+      "services": {
+        "qobuz": "385340109"
+      },
+      "album": "The Resistance",
+      "duration": 269,
+      "isrc": "USEK71423904"
+    },
+    {
+      "artist": "Gideon",
+      "title": "No Love/No One",
+      "services": {
+        "qobuz": "58662209"
+      },
+      "album": "No Love/No One",
+      "duration": 208,
+      "isrc": "ITH711900011"
+    },
+    {
+      "artist": "While She Sleeps",
+      "title": "Seven Hills",
+      "services": {
+        "qobuz": "49332501"
+      },
+      "album": "This Is the Six (Deluxe Edition)",
+      "duration": 260,
+      "isrc": "GBARL1200274"
+    },
+    {
+      "artist": "Bring Me The Horizon",
+      "title": "Shadow Moses",
+      "services": {
+        "qobuz": "8187802"
+      },
+      "album": "Sempiternal",
+      "duration": 242,
+      "isrc": "GBARL1202153"
+    },
+    {
+      "artist": "Fit For A King",
+      "title": "Bitter End",
+      "services": {
+        "qobuz": "104582776"
+      },
+      "album": "Creation / Destruction",
+      "duration": 197,
+      "isrc": "USTN11300005"
+    },
+    {
+      "artist": "I See Stars",
+      "title": "Filth Friends Unite",
+      "services": {
+        "qobuz": "341811756"
+      },
+      "album": "Digital Renegade",
+      "duration": 239,
+      "isrc": "USYFZ1220410"
+    },
+    {
+      "artist": "Sworn In",
+      "title": "Hypocrisy",
+      "services": {
+        "qobuz": "54325188"
+      },
+      "album": "The Death Card",
+      "duration": 256,
+      "isrc": "USRZR1346802"
+    },
+    {
+      "artist": "Beartooth",
+      "title": "In Between",
+      "services": {
+        "qobuz": "77201777"
+      },
+      "album": "Disgusting (Deluxe Edition)",
+      "duration": 213,
+      "isrc": "USP6L1400182"
+    },
+    {
+      "artist": "Issues",
+      "title": "Stingray Affliction",
+      "services": {
+        "qobuz": "380481028"
+      },
+      "album": "Issues",
+      "duration": 217,
+      "isrc": "USEK71422307"
+    },
+    {
+      "artist": "Kublai Khan TX",
+      "title": "The Hammer",
+      "services": {
+        "qobuz": "376843333"
+      },
+      "album": "Nomad",
+      "duration": 201,
+      "isrc": "QMRSZ1702089"
+    },
+    {
+      "artist": "Wage War",
+      "title": "Stitch",
+      "services": {
+        "qobuz": "42516838"
+      },
+      "album": "Deadweight",
+      "duration": 205,
+      "isrc": "US5261722539"
+    },
+    {
+      "artist": "Code Orange",
+      "title": "Forever",
+      "services": {
+        "qobuz": "35622621"
+      },
+      "album": "Forever",
+      "duration": 188,
+      "isrc": "NLA321600219"
+    },
+    {
+      "artist": "Stray From The Path",
+      "title": "Goodnight Alt-Right",
+      "services": {
+        "qobuz": "357097702"
+      },
+      "album": "Only Death is Real",
+      "duration": 186,
+      "isrc": "USYFZ1785603"
+    },
+    {
+      "artist": "Crystal Lake",
+      "title": "Apollo",
+      "services": {
+        "qobuz": "56779673"
+      },
+      "album": "Helix",
+      "duration": 312,
+      "isrc": "JPR751501151"
+    },
+    {
+      "artist": "Ice Nine Kills",
+      "title": "Stabbing In The Dark",
+      "services": {
+        "qobuz": "53235841"
+      },
+      "album": "The Silver Scream",
+      "duration": 276,
+      "isrc": "US5261822967"
+    },
+    {
+      "artist": "Jesus Piece",
+      "title": "Oppressor",
+      "services": {
+        "qobuz": "389970614"
+      },
+      "album": "Jesus Piece",
+      "duration": 136,
+      "isrc": "USA2P1657122"
+    },
+    {
+      "artist": "Vein.fm",
+      "title": "Virus://Vibrance",
+      "services": {
+        "qobuz": "48810638"
+      },
+      "album": "Errorzone",
+      "duration": 144,
+      "isrc": "QM4TW1817266"
+    },
+    {
+      "artist": "Knocked Loose",
+      "title": "Mistakes Like Fractures",
+      "services": {
+        "qobuz": "322146923"
+      },
+      "album": "A Different Shade of Blue",
+      "duration": 219,
+      "isrc": "USSTT1900018"
+    },
+    {
+      "artist": "Thornhill",
+      "title": "Where We Go When We Die",
+      "services": {
+        "qobuz": "282449212"
+      },
+      "album": "The Dark Pool",
+      "duration": 298,
+      "isrc": "AUI441900146"
+    },
+    {
+      "artist": "Alpha Wolf",
+      "title": "Akudama",
+      "services": {
+        "qobuz": "94402672"
+      },
+      "album": "A Quiet Place to Die",
+      "duration": 157,
+      "isrc": "AUNCC2000067"
+    },
+    {
+      "artist": "Loathe",
+      "title": "Two-Way Mirror",
+      "services": {
+        "qobuz": "80249739"
+      },
+      "album": "I Let It in and It Took Everything",
+      "duration": 300,
+      "isrc": "DED831901366"
+    },
+    {
+      "artist": "Tallah",
+      "title": "Overconfidence",
+      "services": {
+        "qobuz": "94923434"
+      },
+      "album": "Matriphagy",
+      "duration": 306,
+      "isrc": "GBBPB2002241"
+    },
+    {
+      "artist": "Imminence",
+      "title": "Paralyzed",
+      "services": {
+        "qobuz": "96570310"
+      },
+      "album": "Turn the Light On",
+      "duration": 252,
+      "isrc": "DED831802041"
+    },
+    {
+      "artist": "LANDMVRKS",
+      "title": "Lost in a Wave",
+      "services": {
+        "qobuz": "103634463"
+      },
+      "album": "Lost in the Waves",
+      "duration": 224,
+      "isrc": "DEYO62000191"
+    },
+    {
+      "artist": "Bad Omens",
+      "title": "ARTIFICIAL SUICIDE",
+      "services": {
+        "qobuz": "338331368"
+      },
+      "album": "THE DEATH OF PEACE OF MIND",
+      "duration": 195,
+      "isrc": "USYFZ2264214"
+    },
+    {
+      "artist": "Bleed from Within",
+      "title": "Levitate",
+      "services": {
+        "qobuz": "148132004"
+      },
+      "album": "Shrine",
+      "duration": 270,
+      "isrc": "DED832200139"
+    },
+    {
+      "artist": "Currents",
+      "title": "The Death We Seek",
+      "services": {
+        "qobuz": "193869366"
+      },
+      "album": "The Death We Seek",
+      "duration": 245,
+      "isrc": "DED832200482"
+    },
+    {
+      "artist": "Polaris",
+      "title": "Inhumane",
+      "services": {
+        "qobuz": "208548442"
+      },
+      "album": "Fatalism",
+      "duration": 239,
+      "isrc": "AUUF12301399"
+    },
+    {
+      "artist": "Silent Planet",
+      "title": "Antimatter",
+      "services": {
+        "qobuz": "224644800"
+      },
+      "album": "SUPERBLOOM",
+      "duration": 221,
+      "isrc": "QMGVJ2300117"
+    },
+    {
+      "artist": "Spiritbox",
+      "title": "Cellar Door",
+      "services": {
+        "qobuz": "383790639"
+      },
+      "album": "Cellar Door",
+      "duration": 283,
+      "isrc": "QMRSZ2301311"
+    }
+  ]
+}

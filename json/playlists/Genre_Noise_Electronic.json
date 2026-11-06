@@ -1,0 +1,529 @@
+{
+  "name": "Genre: Noise Electronic",
+  "services": {
+    "qobuz": "66714631"
+  },
+  "description": "Imported genre playlist: Noise Electronic.",
+  "tracks": [
+    {
+      "artist": "Tai Verdes",
+      "title": "FEELING THIS BAD NEVER FELT SO GREAT",
+      "services": {
+        "qobuz": "260917121"
+      },
+      "album": "Summer Nights Sounds",
+      "duration": 173,
+      "isrc": "USQX92100212"
+    },
+    {
+      "artist": "Somnia Arcadia",
+      "title": "Flooded Commercial Sector (From \"Stellar Blade\")",
+      "services": {
+        "qobuz": "264873699"
+      },
+      "album": "Flooded Commercial Sector (From \"Stellar Blade\")",
+      "duration": 94,
+      "isrc": "AUMEV2457500"
+    },
+    {
+      "artist": "Patrick Gibin",
+      "title": "Flash Point",
+      "services": {
+        "qobuz": "361602409"
+      },
+      "album": "From the Archive Vol. 3... compiled by Volcov",
+      "duration": 257,
+      "isrc": "GBEQT2500038"
+    },
+    {
+      "artist": "Havoc Unit",
+      "title": "Man vs. Flesh - Structured Suicide",
+      "services": {
+        "qobuz": "46581006"
+      },
+      "album": "h.IV+",
+      "duration": 222,
+      "isrc": "FIK671000021"
+    },
+    {
+      "artist": "Allegaeon",
+      "title": "Parthenogenesis",
+      "services": {
+        "qobuz": "60752620"
+      },
+      "album": "Apoptosis",
+      "duration": 134,
+      "isrc": "USMBR1813257"
+    },
+    {
+      "artist": "Pureojuice",
+      "title": "PAIN UK JERK DRILL (NARUTO RAP)",
+      "services": {
+        "qobuz": "381626419"
+      },
+      "album": "PAIN UK JERK DRILL (NARUTO RAP)",
+      "duration": 145,
+      "isrc": "QZFZ32662486"
+    },
+    {
+      "artist": "Alborosie",
+      "title": "No Cocaine",
+      "services": {
+        "qobuz": "2346476"
+      },
+      "album": "Escape From Babylon",
+      "duration": 254,
+      "isrc": "GBBZV0953472"
+    },
+    {
+      "artist": "Merzbow",
+      "title": "Woodpecker No. 1",
+      "services": {
+        "qobuz": "74520443"
+      },
+      "album": "Pulse Demon",
+      "duration": 403,
+      "isrc": "US2641913001"
+    },
+    {
+      "artist": "Masonna",
+      "title": "Part I",
+      "services": {
+        "qobuz": "56285539"
+      },
+      "album": "Spectrum Ripper",
+      "duration": 54,
+      "isrc": "GBAS91201701"
+    },
+    {
+      "artist": "Frank Zappa",
+      "title": "While You Were Out",
+      "services": {
+        "qobuz": "120944566"
+      },
+      "album": "Shut Up 'n Play Yer Guitar",
+      "duration": 363,
+      "isrc": "USZPE1200297"
+    },
+    {
+      "artist": "Doran Stucky Studer Tacuma",
+      "title": "3-5-0-0",
+      "services": {
+        "qobuz": "73270645"
+      },
+      "album": "Call Me Helium",
+      "duration": 230,
+      "isrc": "DEBN31500194"
+    },
+    {
+      "artist": "Government Alpha",
+      "title": "Tea With Redking",
+      "services": {
+        "qobuz": "87960107"
+      },
+      "album": "Pigmon Last Stand: Live at Bears 10.24.03",
+      "duration": 945,
+      "isrc": "QM4TW2019822"
+    },
+    {
+      "artist": "Lit Killah",
+      "title": "Si Te Vas 2.0",
+      "services": {
+        "qobuz": "418730774"
+      },
+      "album": "Si Te Vas 2.0",
+      "duration": 259,
+      "isrc": "ARDL12600078"
+    },
+    {
+      "artist": "Casandra",
+      "title": "DOUBLE SIDED GIRL",
+      "services": {
+        "qobuz": "245385156"
+      },
+      "album": "METAPHORIA",
+      "duration": 117,
+      "isrc": "QZSYP2332633"
+    },
+    {
+      "artist": "Jah Mason",
+      "title": "My Princess Gone",
+      "services": {
+        "qobuz": "2748032"
+      },
+      "album": "Princess Gone-The Saga Bed",
+      "duration": 245,
+      "isrc": "USVPR0611499"
+    },
+    {
+      "artist": "The Box Tops",
+      "title": "You Keep Tightening Up On Me",
+      "services": {
+        "qobuz": "415502"
+      },
+      "album": "Cry Like A Baby",
+      "duration": 172,
+      "isrc": "USAR10000560"
+    },
+    {
+      "artist": "Manuel & The Music Of The Mountains",
+      "title": "White Rose Of Athens (From Wolfgang Mueller-Sehn Film Traumland Der Sehnsucht",
+      "services": {
+        "qobuz": "1952059"
+      },
+      "album": "Reflections/Carnival",
+      "duration": 143,
+      "isrc": "GBAYE7100107"
+    },
+    {
+      "artist": "Diana Ratna",
+      "title": "Baby (Long Distance Relationship)",
+      "services": {
+        "qobuz": "258389201"
+      },
+      "album": "Baby (Long Distance Relationship)",
+      "duration": 191,
+      "isrc": "IDA832400968"
+    },
+    {
+      "artist": "Charli XCX",
+      "title": "Beg for You (feat. Rina Sawayama)",
+      "services": {
+        "qobuz": "136914754"
+      },
+      "album": "CRASH",
+      "duration": 168,
+      "isrc": "GBAHS2101236"
+    },
+    {
+      "artist": "AG Silver",
+      "title": "Can't You See?",
+      "services": {
+        "qobuz": "65709516"
+      },
+      "album": "Wake Up and Smell Reality",
+      "duration": 277,
+      "isrc": "USHM20675075"
+    },
+    {
+      "artist": "Zoppo Trump",
+      "title": "Six of Eight",
+      "services": {
+        "qobuz": "181337158"
+      },
+      "album": "70s Krautrock Explosion - Early Progressive Rock Around Germany",
+      "duration": 399,
+      "isrc": "DEA431250197"
+    },
+    {
+      "artist": "Romy",
+      "title": "She's On My Mind",
+      "services": {
+        "qobuz": "210788024"
+      },
+      "album": "Mid Air",
+      "duration": 181,
+      "isrc": "UK7MC2300064"
+    },
+    {
+      "artist": "Portugal. The Man",
+      "title": "Sea of Air",
+      "services": {
+        "qobuz": "11091705"
+      },
+      "album": "Evil Friends",
+      "duration": 262,
+      "isrc": "USAT21300498"
+    },
+    {
+      "artist": "Gothenburg Symphony Orchestra",
+      "title": "Seven: Part 1 - Third Cadenza (for Clark and Brown)",
+      "services": {
+        "qobuz": "222599209"
+      },
+      "album": "E\u00f6tv\u00f6s: Concertos",
+      "duration": 156,
+      "isrc": "HUA150817003"
+    },
+    {
+      "artist": "AT",
+      "title": "(Hyper)Ventilation",
+      "services": {
+        "qobuz": "128224556"
+      },
+      "album": "Village Hits Vol. 1",
+      "duration": 184,
+      "isrc": "TCAFR2190161"
+    },
+    {
+      "artist": "Thor Rixon",
+      "title": "He Held Him Close",
+      "services": {
+        "qobuz": "174755517"
+      },
+      "album": "He Held Him Close",
+      "duration": 340,
+      "isrc": "DEBE71700654"
+    },
+    {
+      "artist": "Spirit Adrift",
+      "title": "Hanged Man's Revenge",
+      "services": {
+        "qobuz": "212100211"
+      },
+      "album": "Ghost At The Gallows",
+      "duration": 289,
+      "isrc": "GBDHC2339303"
+    },
+    {
+      "artist": "Christopher Lawrence",
+      "title": "Untitled Dub With Noises",
+      "services": {
+        "qobuz": "113608681"
+      },
+      "album": "All Or Nothing (Remastered)",
+      "duration": 281,
+      "isrc": "US4L70400003"
+    },
+    {
+      "artist": "PAYBACK BOYS",
+      "title": "UNDER THE BREATHE (GUILTY CONNECTOR REMIX)",
+      "services": {
+        "qobuz": "56118032"
+      },
+      "album": "holtel muzik",
+      "duration": 186,
+      "isrc": "JPH491231109"
+    },
+    {
+      "artist": "Stray From The Path",
+      "title": "Guillotine",
+      "services": {
+        "qobuz": "282452490"
+      },
+      "album": "Euthanasia",
+      "duration": 216,
+      "isrc": "AUI442100245"
+    },
+    {
+      "artist": "Maisie Peters",
+      "title": "Enough For You",
+      "services": {
+        "qobuz": "54077808"
+      },
+      "album": "Dressed Too Nice For A Jacket",
+      "duration": 171,
+      "isrc": "GBAHS1800698"
+    },
+    {
+      "artist": "Yellow Swans",
+      "title": "Foiled",
+      "services": {
+        "qobuz": "30206042"
+      },
+      "album": "Going Places",
+      "duration": 262,
+      "isrc": "GBJSN1006301"
+    },
+    {
+      "artist": "The Dufay Collective",
+      "title": "The Play of Daniel - A Medieval Drama: Part One - The Court of Belshazzar: Rex in aeternum; Vos qui paretis",
+      "services": {
+        "qobuz": "105124769"
+      },
+      "album": "The Play of Daniel - Ludus Danielis",
+      "duration": 40,
+      "isrc": "USHM10747903"
+    },
+    {
+      "artist": "Richard Buckner",
+      "title": "Ariel Ramirez",
+      "services": {
+        "qobuz": "13657870"
+      },
+      "album": "Since",
+      "duration": 137,
+      "isrc": "USMC19857721"
+    },
+    {
+      "artist": "The Cautious Arc",
+      "title": "A LITTLE OF THAT NEVER HURT NO ONE [Swing Jazz Version]",
+      "services": {
+        "qobuz": "367436100"
+      },
+      "album": "A LITTLE OF THAT NEVER HURT NO ONE [Swing Jazz Version]",
+      "duration": 242,
+      "isrc": "GBLV62509416"
+    },
+    {
+      "artist": "French Police",
+      "title": "SUGAR KILLER",
+      "services": {
+        "qobuz": "338327504"
+      },
+      "album": "SUGAR KILLER",
+      "duration": 200,
+      "isrc": "QZTAU2527847"
+    },
+    {
+      "artist": "Myles Smith",
+      "title": "Hold Me In The Dark",
+      "services": {
+        "qobuz": "402506824"
+      },
+      "album": "My Mess, My Heart, My Life.",
+      "duration": 197,
+      "isrc": "GBARL2600380"
+    },
+    {
+      "artist": "Kevin Drumm",
+      "title": "The Inferno",
+      "services": {
+        "qobuz": "319876178"
+      },
+      "album": "Sheer Hellish Miasma",
+      "duration": 1476,
+      "isrc": "ATE690705304"
+    },
+    {
+      "artist": "Melinda Schneider",
+      "title": "Could I Have This Dance / Tennessee Waltz",
+      "services": {
+        "qobuz": "20110665"
+      },
+      "album": "Great Women Of Country And The Songs That Made Them",
+      "duration": 226,
+      "isrc": "AUUM71401245"
+    },
+    {
+      "artist": "City Wolf",
+      "title": "Face In The Dark",
+      "services": {
+        "qobuz": "206265997"
+      },
+      "album": "Face In The Dark",
+      "duration": 213,
+      "isrc": "US3DF1938275"
+    },
+    {
+      "artist": "Hair Police",
+      "title": "The Crevice",
+      "services": {
+        "qobuz": "30026367"
+      },
+      "album": "Mercurial Rites",
+      "duration": 262,
+      "isrc": "QMXWW1311302"
+    },
+    {
+      "artist": "John Wiese",
+      "title": "Sad Psychics",
+      "services": {
+        "qobuz": "52209269"
+      },
+      "album": "Soft Punk",
+      "duration": 290,
+      "isrc": "USA2Z1210270"
+    },
+    {
+      "artist": "Aaron Dilloway",
+      "title": "Tender Cuts",
+      "services": {
+        "qobuz": "135702808"
+      },
+      "album": "Lucy & Aaron",
+      "duration": 197,
+      "isrc": "QZHN32162878"
+    },
+    {
+      "artist": "Transient",
+      "title": "Mother's Day (feat. Bastard Noise)",
+      "services": {
+        "qobuz": "77507888"
+      },
+      "album": "Sources of Human Satisfaction",
+      "duration": 143,
+      "isrc": "USL4Q1906261"
+    },
+    {
+      "artist": "Seag",
+      "title": "SHOCK UNDER THE SKIN",
+      "services": {
+        "qobuz": "414943288"
+      },
+      "album": "STATIC BITES FIRST",
+      "duration": 172,
+      "isrc": "SE6I32693730"
+    },
+    {
+      "artist": "Werewolf Jerusalem",
+      "title": "Pt. II",
+      "services": {
+        "qobuz": "128079464"
+      },
+      "album": "Walpurgis Night",
+      "duration": 1071,
+      "isrc": "SE5RK2101302"
+    },
+    {
+      "artist": "Pedestrian Deposit",
+      "title": "Mascara",
+      "services": {
+        "qobuz": "137789816"
+      },
+      "album": "Fatale",
+      "duration": 1091,
+      "isrc": "QZ4JJ1680425"
+    },
+    {
+      "artist": "The Cherry Point",
+      "title": "Untitled/ 1",
+      "services": {
+        "qobuz": "95912186"
+      },
+      "album": "Night of the Bloody Tapes",
+      "duration": 568,
+      "isrc": "USA2Z2000652"
+    },
+    {
+      "artist": "Nile",
+      "title": "Utterances of the Crawling Dead",
+      "services": {
+        "qobuz": "60257928"
+      },
+      "album": "Those Whom the Gods Detest",
+      "duration": 309,
+      "isrc": "DED830900599"
+    },
+    {
+      "artist": "Michael Giacchino",
+      "title": "\"See You In The Sewer\"",
+      "services": {
+        "qobuz": "30112112"
+      },
+      "album": "Mission: Impossible III",
+      "duration": 106,
+      "isrc": "US3M50673310"
+    },
+    {
+      "artist": "Annihilator",
+      "title": "Armed To The Teeth",
+      "services": {
+        "qobuz": "75133979"
+      },
+      "album": "Ballistic, Sadistic",
+      "duration": 266,
+      "isrc": "UKKY81900195"
+    },
+    {
+      "artist": "Vomir",
+      "title": "Proanomie",
+      "services": {
+        "qobuz": "56204453"
+      },
+      "album": "Proanomie",
+      "duration": 4584,
+      "isrc": "GB2KE0900077"
+    }
+  ]
+}

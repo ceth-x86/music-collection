@@ -1,0 +1,108 @@
+# Genre: Hard Rock
+
+Imported genre playlist: Hard Rock.
+
+Services: `qobuz:66737496` `tidal:40640b6a-98cd-49de-adac-cc825897b6ea`
+
+## Tracks (100)
+
+- **Blue Cheer** — Summertime Blues [The History Of Blue Cheer: Good Times Are So Hard To Find] (3:46) `isrc:USPR36806028` `qobuz:61300886`
+- **Steppenwolf** — Born To Be Wild [Steppenwolf] (3:31) `isrc:USMC16846563` `qobuz:20409861`
+- **Grand Funk Railroad** — Inside Looking Out [Grand Funk (Red Album)] (9:40) `isrc:USCA20200612` `qobuz:1009004`
+- **Led Zeppelin** — Whole Lotta Love [Led Zeppelin II] (5:34) `isrc:USAT21207009` `qobuz:17110879`
+- **Free** — All Right Now [Fire And Water (Deluxe Edition)] (5:32) `isrc:GBAAN7000001` `qobuz:4292143`
+- **James Gang** — Funk #49 [Rides Again] (4:06) `isrc:USMC17344505` `qobuz:77510181`
+- **Mountain** — Mississippi Queen [Climbing!] (2:31) `isrc:USSM10017943` `qobuz:89939`
+- **Sir Lord Baltimore** — Kingdom Come [Kingdom Come] (6:34) `isrc:USUM71008842` `qobuz:54883185`
+- **Faces** — Stay with Me [A Nod Is as Good as a Wink... to a Blind Horse] (4:40) `isrc:USWB11400847` `qobuz:26610701`
+- **Leaf Hound** — Freelance Fiend [Growers Of Mushroom] (3:10) `isrc:DED467100027` `qobuz:3803851`
+- **Toad** — Cotton Wood Hill [Toad] (8:33) `isrc:DEBL60978194` `qobuz:10279212`
+- **Alice Cooper** — School's Out [School's Out] (3:29) `isrc:USRH12103120` `qobuz:208261694`
+- **Deep Purple** — Highway Star [Machine Head] (6:05) `isrc:GBDXG1200002` `qobuz:6419035`
+- **Humble Pie** — 30 Days In The Hole [Smokin'] (3:57) `isrc:USAM17200035` `qobuz:24259726`
+- **Uriah Heep** — Easy Livin' [Your Turn to Remember] (2:36) `isrc:USMR17287066` `qobuz:385569869`
+- **Brownsville Station** — Smokin' in the Boy's Room [Yeah!] (2:56) `isrc:USAT20107576` `qobuz:2940371`
+- **Budgie** — Breadfan [Never Turn Your Back On A Friend] (6:05) `isrc:USUM70807087` `qobuz:365934375`
+- **Golden Earring** — Radar Love [Moontan] (6:26) `isrc:NLC282100058` `qobuz:141765493`
+- **Montrose** — Rock Candy [Montrose (Deluxe Edition)] (5:04) `isrc:USRH11701335` `qobuz:42520313`
+- **Rick Derringer** — Rock and Roll, Hoochie Koo [All American Boy (Expanded Edition)] (3:45) `isrc:USSM10021862` `qobuz:73168309`
+- **The Sensational Alex Harvey Band** — Midnight Moses [Zalvation] (5:04) `isrc:GBMRL0600002` `qobuz:50519509`
+- **Bachman-Turner Overdrive** — Not Fragile [Not Fragile] (4:06) `isrc:USIR20000341` `qobuz:128578654`
+- **Bad Company** — Can't Get Enough [Bad Company] (4:17) `isrc:USAT21500891` `qobuz:23695790`
+- **U.F.O.** — Doctor Doctor [Will the Last Man Standing (Turn Out the Light): The Best of UFO] (4:10) `isrc:UKKP21900156` `qobuz:169167297`
+- **Aerosmith** — Walk This Way [Greatest Hits] (3:39) `isrc:USSM19906481` `qobuz:225811493`
+- **Angel** — Tower [The Casablanca Years] (6:57) `isrc:USDJ20200758` `qobuz:54992026`
+- **Armageddon** — Buzzard [Armageddon] (8:21) `isrc:DESK91511101` `qobuz:26868494`
+- **Head East** — Never Been Any Reason [Flat As A Pancake] (5:11) `isrc:USAM10110173` `qobuz:131168612`
+- **Moxy** — Sail On Sail Away [Moxy] (4:52) `isrc:CAU117503005` `qobuz:12259685`
+- **Nazareth** — Hair of the Dog [Hair of the Dog] (4:11) `isrc:GBCBR0402135` `qobuz:385582726`
+- **Ted Nugent** — Stranglehold [Ted Nugent] (8:22) `isrc:USSM19804011` `qobuz:3110247`
+- **Kiss** — Detroit Rock City [Destroyer] (5:14) `isrc:USPR37609134` `qobuz:19998935`
+- **Ritchie Blackmore's Rainbow** — Stargazer [Rising] (8:25) `isrc:USPR37680077` `qobuz:3881949`
+- **Starz** — Cherry Baby [Violation] (3:47) `isrc:USCA27700241` `qobuz:67339236`
+- **The Runaways** — Cherry Bomb [The Runaways] (2:18) `isrc:USIR20200576` `qobuz:8605566`
+- **Thin Lizzy** — The Boys Are Back In Town [The Boys Are Back In Town / Jailbreak] (4:23) `isrc:GBF087600063` `qobuz:711265`
+- **Blue Öyster Cult** — Godzilla [Spectres] (3:41) `isrc:USSM19917720` `qobuz:33443774`
+- **Detective** — Recognition [Detective] (4:31) `isrc:QMFME2119610` `qobuz:127443242`
+- **Heart** — Barracuda [Little Queen] (4:21) `isrc:USSM10009075` `qobuz:49356`
+- **Legs Diamond** — Woman [A Diamond is a Hard Rock] (6:41) `isrc:GBD8D1700722` `qobuz:48818415`
+- **Ram Jam** — Black Betty [Ram Jam] (4:00) `isrc:USSM10211288` `qobuz:19426653`
+- **Skarlett Riot** — Warrior [Regenerate] (3:35) `isrc:SEXTE1701910` `qobuz:99724893`
+- **The Angels** — Am I Ever Gonna See Your Face Again (1979 Re-record) [Am I Ever Gonna See Your Face Again (50 Years On)] (3:39) `isrc:AULI02567530` `qobuz:427149920`
+- **April Wine** — Roller [Classic Masters] (4:19) `isrc:USCA20200106` `qobuz:198072967`
+- **Jeremy Jordan** — Raise a Little Hell [Bonnie & Clyde (Original Broadway Cast Recording)] (3:08) `isrc:QMQYB1210010` `qobuz:192790793`
+- **Van Halen** — Runnin' with the Devil [Van Halen (Hi-Res Version)] (3:36) `isrc:USWB11300431` `qobuz:10474348`
+- **AC/DC** — Highway to Hell [Highway To Hell] (3:28) `isrc:AUAP07900028` `qobuz:19906039`
+- **Pat Travers** — Boom Boom (Out Go The Lights) [Live! Go For What You Know] (5:06) `isrc:USWWW0201231` `qobuz:112880761`
+- **Scorpions** — Always Somewhere [Lovedrive] (4:57) `isrc:DELV41501081` `qobuz:385569664`
+- **Triumph** — Lay It On The Line [Triumph: Rock And Roll Machine] (4:05) `isrc:QM7YK1600235` `qobuz:274179300`
+- **Billy Squier** — The Stroke [Don't Say No] (3:37) `isrc:USCA21001203` `qobuz:16657251`
+- **Joan Jett & The Blackhearts** — I Love Rock 'N Roll [I Love Rock 'N' Roll (Expanded Edition)] (2:55) `isrc:USBH18100118` `qobuz:386731293`
+- **Night Ranger** — Don't Tell Me You Love Me [Don't Tell Me You Love Me] (4:26) `isrc:ITG272600274` `qobuz:418604701`
+- **Def Leppard** — Rock Of Ages [Pyromania] (4:07) `isrc:GBF088200420` `qobuz:46564241`
+- **Krokus** — Screaming in the Night [Head Hunter] (6:37) `isrc:USAR10000048` `qobuz:202035`
+- **Bon Jovi** — Runaway [Bon Jovi] (3:50) `isrc:USPR39402231` `qobuz:112883703`
+- **Ratt** — Round and Round [Out of the Cellar] (4:25) `isrc:USAT29900560` `qobuz:385665988`
+- **Twisted Sister** — We're Not Gonna Take It [Stay Hungry] (3:39) `isrc:USAT20000548` `qobuz:387303460`
+- **Cinderella** — Nobody's Fool [Night Songs] (4:46) `isrc:USPR38630019` `qobuz:3883374`
+- **Europe** — Rock the Night [The Final Countdown (Expanded Edition)] (4:07) `isrc:USSM10105445` `qobuz:88145`
+- **Poison** — Talk Dirty To Me [Look What The Cat Dragged In] (3:44) `isrc:USCA28600090` `qobuz:34655986`
+- **Tesla (Band)** — Modern Day Cowboy [Mechanical Resonance] (5:18) `isrc:USGF18612007` `qobuz:755578`
+- **Great White** — Rock Me [Recovery: Live!] (7:17) `isrc:USCA28700116` `qobuz:198103717`
+- **Guns N' Roses** — Welcome To The Jungle [Appetite For Destruction (Super Deluxe) - 192 kHz] (4:33) `isrc:USGF18714801` `qobuz:51041290`
+- **White Lion** — Wait [Pride] (4:00) `isrc:USRH11600127` `qobuz:31052323`
+- **Whitesnake** — Still Of The Night [Whitesnake] (6:37) `isrc:GB01A1800006` `qobuz:379868279`
+- **Kingdom Come** — Get It On [Kingdom Come] (4:21) `isrc:USF068925250` `qobuz:4346151`
+- **Lita Ford** — Kiss Me Deadly [Lita] (4:01) `isrc:USRC18705885` `qobuz:198202`
+- **Vixen** — Edge of a Broken Heart (Live) [Live Fire] (5:42) `isrc:TCADQ1879064` `qobuz:125180591`
+- **Winger** — Seventeen [The Atlantic Albums] (4:05) `isrc:USAT20902970` `qobuz:173735608`
+- **Blue Murder** — Jelly Roll [Blue Murder] (4:42) `isrc:USGF19921204` `qobuz:54944406`
+- **L.A. Guns** — The Ballad Of Jayne [Cocked And Loaded] (4:33) `isrc:USPR38930331` `qobuz:60429084`
+- **Mr. Big** — Addicted To That Rush [Big, Bigger, Biggest! The Best Of Mr. Big] (4:45) `isrc:USAT20900869` `qobuz:61444892`
+- **Mötley Crüe** — Kickstart My Heart [Dr. Feelgood] (4:42) `isrc:USBY29900215` `qobuz:385614928`
+- **Skid Row** — 18 and Life [Skid Row] (3:52) `isrc:USRH11804134` `qobuz:380481634`
+- **Damn Yankees** — Coming of Age [Damn Yankees] (4:19) `isrc:USWB10902494` `qobuz:11564421`
+- **Extreme** — Get The Funk Out [Extreme II: Pornograffitti] (4:23) `isrc:USAM19090004` `qobuz:21758613`
+- **The Quireboys** — 7 O'Clock [A Bit Of What You Fancy] (3:38) `isrc:GBAYE8900068` `qobuz:1986417`
+- **Thunder** — Dirty Love [Backstreet Symphony] (5:24) `isrc:GBAYE0900941` `qobuz:1790538`
+- **Shotgun Messiah** — Heartbreak Blvd. [Second Coming] (4:19) `isrc:USSM11602415` `qobuz:62263703`
+- **Ugly Kid Joe** — Everything About You [As Ugly As It Gets: The Very Best Of] (4:14) `isrc:USMR19130361` `qobuz:54686567`
+- **Lenny Kravitz** — Are You Gonna Go My Way [Are You Gonna Go My Way] (3:31) `isrc:USVI29300001` `qobuz:14603186`
+- **The Wildhearts** — I Wanna Go Where the People Go [P.H.U.Q.] (5:06) `isrc:GBAHS0200017` `qobuz:4264790`
+- **King's X** — Dogman [Dogman] (4:01) `isrc:USAT20102759` `qobuz:2003654`
+- **Buckcherry** — Lit Up [Buckcherry] (3:35) `isrc:USDW19804401` `qobuz:9070184`
+- **The Darkness** — I Believe in a Thing Called Love [I Believe in a Thing Called Love] (5:11) `isrc:GBAHT2300122` `qobuz:221407514`
+- **Velvet Revolver** — Slither [Contraband (Deluxe Edition)] (4:08) `isrc:USRC10400063` `qobuz:276829613`
+- **The Answer** — Never Too Late [Rise (Special Edition)] (3:57) `isrc:GBEEX0600034` `qobuz:3462595`
+- **Airbourne** — Runnin' Wild [Runnin' Wild] (3:42) `isrc:NLA320786218` `qobuz:157070581`
+- **Halestorm** — I Miss the Misery [The Strange Case of...] (3:03) `isrc:USAT21200150` `qobuz:5202083`
+- **Slash** — Anastasia [Live At The Roxy 25.09.14] (6:56) `isrc:GBCBR1500019` `qobuz:38530666`
+- **The Winery Dogs** — Elevate [The Winery Dogs] (5:01) `isrc:JPZ921302937` `qobuz:126747730`
+- **The Pretty Reckless** — Heaven Knows [Going to Hell] (3:44) `isrc:USRZR1353301` `qobuz:368590078`
+- **The Dead Daisies** — Long Way to Go [Make Some Noise] (4:28) `isrc:AUNKA1600001` `qobuz:47377471`
+- **Dorothy** — Raise Hell [ROCKISDEAD] (3:02) `isrc:QMJMT1500706` `qobuz:33082737`
+- **Greta Van Fleet** — Highway Tune [From The Fires] (3:00) `isrc:USUM71702892` `qobuz:44716942`
+- **The Glorious Sons** — S.O.S. [S.O.S.] (3:15) `isrc:CABD61705406` `qobuz:51010354`
+- **Bob Dylan** — Let Me Die In My Footsteps [Through The Open Window: The Bootleg Series Vol. 18] (4:50) `isrc:USSM11207362` `qobuz:357154836`
+- **Dirty Honey** — When I'm Gone [When I'm Gone] (7:20) `isrc:QMFMF2423094` `qobuz:308298313`
+- **Mammoth** — Distance [Mammoth] (4:14) `isrc:QM6XS2300783` `qobuz:209037263`

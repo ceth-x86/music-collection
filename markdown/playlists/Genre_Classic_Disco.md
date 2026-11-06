@@ -1,0 +1,108 @@
+# Genre: Classic Disco
+
+Imported genre playlist: Classic Disco.
+
+Services: `qobuz:66736919`
+
+## Tracks (100)
+
+- **Eddie Kendricks** — Keep On Truckin' [Keep On Truckin': The Motown Solo Albums, Vol.1] (7:59) `isrc:USMO17384645` `qobuz:736402`
+- **Harold Melvin & The Blue Notes** — The Love I Lost [Black & Blue (Expanded Edition)] (6:24) `isrc:USSM19918767` `qobuz:39905428`
+- **The Love Unlimited Orchestra** — Love's Theme [Rhapsody In White] (4:06) `isrc:USPR37300012` `qobuz:52646069`
+- **Barry White** — You're The First, The Last, My Everything [The Complete 20th Century Records Singles (1973-1979)] (3:33) `isrc:USUM70502309` `qobuz:47173358`
+- **Carol Douglas** — Doctor's Orders [The Carol Douglas Album] (4:30) `isrc:CAU117503524` `qobuz:10264064`
+- **Disco Tex & His Sex-O-Lettes** — Get Dancin' [Disco Tex & The Sex-O-Lettes Review] (4:25) `isrc:GB7LE0900353` `qobuz:39450901`
+- **George McCrae** — Rock Your Baby [Rock Your Baby] (6:24) `isrc:USRH10553733` `qobuz:32360465`
+- **MFSB** — TSOP (The Sound of Philadelphia) [The Essential MFSB] (5:46) `isrc:USSM19912523` `qobuz:54948967`
+- **Shirley & Company** — Shame, Shame, Shame [Shame Shame Shame] (4:05) `isrc:GBAJE0501052` `qobuz:387263372`
+- **The Hues Corporation** — Rock the Boat [Rockin' Soul] (3:08) `isrc:USRC19900635` `qobuz:26753699`
+- **The Tymes** — You Little Trustmaker [Trustmaker] (2:47) `isrc:USRC10401753` `qobuz:3158040`
+- **KC And The Sunshine Band** — Get Down Tonight [Get Down Tonight] (5:20) `isrc:GBAYE7500046` `qobuz:173765664`
+- **People's Choice** — Do It Any Way You Wanna [Boogie Down U.S.A.] (3:18) `isrc:USSM10202944` `qobuz:20364412`
+- **Tavares** — It Only Takes A Minute [In The City] (4:01) `isrc:USCA28900558` `qobuz:45974599`
+- **The Miracles** — Love Machine [City Of Angels] (6:55) `isrc:USMO17582653` `qobuz:7662632`
+- **The O'Jays** — I Love Music [Family Reunion] (6:53) `isrc:USSM19914217` `qobuz:47008770`
+- **The Salsoul Orchestra** — Salsoul Hustle [Anthology, Vol. 1] (5:17) `isrc:USSA49420084` `qobuz:381232387`
+- **Van McCoy & The Soul City Symphony** — The Hustle [Music For Partying] (4:02) `isrc:GBF087500039` `qobuz:2390507`
+- **Andrea True Connection** — More, More, More [More, More, More] (6:16) `isrc:USBR10300001` `qobuz:27310898`
+- **Bohannon** — Let's Start The Dance [Summertime Groove] (5:52) `isrc:USUMG0000282` `qobuz:171506938`
+- **Brass Construction** — Movin' [Brass Construction] (8:40) `isrc:USUM71812268` `qobuz:53689105`
+- **Brick** — Dazz [Good High (Expanded Edition)] (5:36) `isrc:USSM17600017` `qobuz:14106908`
+- **Candi Staton** — Young Hearts Run Free [Young Hearts Run Free] (4:08) `isrc:USWB19700370` `qobuz:2940377`
+- **Diana Ross** — Love Hangover [Diana Ross] (3:48) `isrc:USMO17600377` `qobuz:8643021`
+- **Double Exposure** — Ten Percent [Ten Percent] (7:06) `isrc:USSA49310041` `qobuz:387249886`
+- **Dr. Buzzard's Original Savannah Band** — Cherchez la Femme / Se Si Bon [Dr. Buzzard's Original Savannah Band] (5:47) `isrc:USRC17603402` `qobuz:208944`
+- **Heatwave** — Boogie Nights [Too Hot to Handle (Expanded Edition)] (5:03) `isrc:GBBBM9999966` `qobuz:107609453`
+- **Johnnie Taylor** — Disco Lady [Eargasm] (4:27) `isrc:USSM17500504` `qobuz:81564`
+- **Leo Sayer** — You Make Me Feel Like Dancing [You Make Me Feel Like Dancing] (3:23) `isrc:USA560760203` `qobuz:32173087`
+- **Maxine Nightingale** — Right Back Where We Started From [Right Back Where We Started From] (3:12) `isrc:GBAYE7500076` `qobuz:173718828`
+- **Rose Royce** — Car Wash [Car Wash] (5:08) `isrc:USMC17646466` `qobuz:13285443`
+- **The Ritchie Family** — The Best Disco In Town [Arabian Nights] (6:41) `isrc:FR6V80878741` `qobuz:1391317`
+- **The Sylvers** — Boogie Fever [Classic Masters] (3:28) `isrc:USCA20101451` `qobuz:1007103`
+- **The Trammps** — Disco Inferno [Disco Inferno] (10:59) `isrc:USAT27600009` `qobuz:2955453`
+- **Thelma Houston** — Don't Leave Me This Way [Any Way You Like It] (5:42) `isrc:USUM71303881` `qobuz:55470799`
+- **Vicki Sue Robinson** — Turn the Beat Around [Never Gonna Let You Go (Expanded Edition)] (5:33) `isrc:USRC17507736` `qobuz:41816659`
+- **Walter Murphy & The Big Apple Band** — A Fifth of Beethoven [A Fifth Of Beethoven / California Strut] (3:03) `isrc:QM6MZ1772943` `qobuz:254128729`
+- **Bee Gees** — Stayin Alive [The Ultimate Bee Gees] (4:42) `isrc:USRH10721057` `qobuz:37473535`
+- **First Choice** — Let No Man Put Asunder [Delusions] (4:24) `isrc:QMSGD1220008` `qobuz:385321388`
+- **Loleatta Holloway** — Hit and Run [Loleatta] (6:01) `isrc:USUS11100749` `qobuz:380481752`
+- **Meco** — Star Wars Theme/Cantina Band [Music Inspired By Star Wars And Other Galactic Funk] (3:31) `isrc:USUM71511789` `qobuz:27640751`
+- **Odyssey** — Native New Yorker [Odyssey (Expanded Edition)] (4:18) `isrc:USRC17704078` `qobuz:3103533`
+- **The Emotions** — Best of My Love [Rejoice] (3:40) `isrc:USSM17700716` `qobuz:17221750`
+- **Addy Van Der Zwan** — Let's All Chant (feat. The Michael Zager Band) [Let's All Chant (feat. The Michael Zager Band)] (6:37) `isrc:NLC281011383` `qobuz:48006488`
+- **A Taste Of Honey** — Boogie Oogie Oogie [A Taste Of Honey] (4:04) `isrc:USCA29200217` `qobuz:3811084`
+- **Alicia Bridges** — I Love The Nightlife (Disco 'Round) [Disco Hits] (3:07) `isrc:USPR39400087` `qobuz:129188199`
+- **Andy Gibb** — Shadow Dancing [Shadow Dancing] (4:36) `isrc:NLF057890050` `qobuz:42349764`
+- **Barry Manilow** — Copacabana (At the Copa) [The Greatest Songs Of The Seventies] (4:01) `isrc:USAR10700436` `qobuz:4865980`
+- **Chaka Khan** — I'm Every Woman [Chaka] (4:06) `isrc:USWB11401198` `qobuz:22636432`
+- **Cheryl Lynn** — Got to Be Real [The Best Of Cheryl Lynn: Got To Be Real] (3:48) `isrc:USSM17800040` `qobuz:77604`
+- **Chic** — Le Freak [C'est Chic] (5:31) `isrc:USAT21304256` `qobuz:15765197`
+- **Dan Hartman** — Instant Replay [Keep The Fire Burnin'] (5:20) `isrc:USSM17801028` `qobuz:33613`
+- **Evelyn Champagne King** — Shame [Love Come Down: The Best of Evelyn "Champagne" King] (6:32) `isrc:USRC19305631` `qobuz:47200282`
+- **Gloria Gaynor** — I Will Survive [Love Tracks] (8:01) `isrc:USUR10200634` `qobuz:112880789`
+- **Karen Young** — Hot Shot [Hot Shot] (3:13) `isrc:NLML61400013` `qobuz:52159489`
+- **Musique** — Keep On Jumpin' [Keep On Jumpin'] (5:39) `isrc:CAU117800325` `qobuz:9895505`
+- **Peaches & Herb** — Shake Your Groove Thing [20th Century Masters: The Millennium Collection: The Best Of Peaches & Herb] (5:31) `isrc:USPR37800084` `qobuz:53122915`
+- **Peter Brown** — Dance with Me [A Fantasy Love Affair] (5:19) `isrc:USRH10551512` `qobuz:38573131`
+- **Sylvester** — You Make Me Feel (Mighty Real) [Step II] (6:35) `isrc:USFI87800059` `qobuz:9610062`
+- **Village People** — YMCA (Original Version 1978) [YMCA (Original Version 1978)] (4:44) `isrc:FR22F8000900` `qobuz:388111625`
+- **Yvonne Elliman** — If I Can't Have You [Night Flight] (2:57) `isrc:NLF057790003` `qobuz:265583826`
+- **Anita Ward** — Ring My Bell [Ring My Bell] (3:30) `isrc:UKDNQ1505253` `qobuz:51932778`
+- **Donna Summer** — Bad Girls [Bad Girls] (4:55) `isrc:USPR39402398` `qobuz:52219248`
+- **Earth, Wind & Fire** — Boogie Wonderland [The Essential Earth, Wind & Fire] (4:48) `isrc:USSM19922860` `qobuz:15215842`
+- **France Joli** — Come to Me [Come to Me] (9:50) `isrc:CAU117900284` `qobuz:10088716`
+- **Gary's Gang** — Keep On Dancin' [Keep On Dancin' b/w Do It At The Disco] (7:38) `isrc:USNRS1331203` `qobuz:9370646`
+- **G.Q.** — Disco Nights (Rock Freak) [Disco Nights (Expanded Edition)] (3:57) `isrc:USAR17900197` `qobuz:16983640`
+- **Instant Funk** — I Got My Mind Made Up (You Can Get It Girl) [I Got My Mind Made Up (You Can Get It Girl)] (5:29) `isrc:QMRSZ2203256` `qobuz:385752218`
+- **Kleeer** — Keep Your Body Workin' [The Very Best Of Kleeer] (5:19) `isrc:USAT20109432` `qobuz:2186256`
+- **Kool & The Gang** — Ladies Night [Ladies' Night] (6:25) `isrc:USMR17989031` `qobuz:52543573`
+- **Lipps Inc.** — Funkytown [Mouth To Mouth] (7:50) `isrc:USIR20300047` `qobuz:115237785`
+- **MACHINE** — There But for the Grace of God Go I [There But for the Grace of God Go I] (5:17) `isrc:CAU117902168` `qobuz:10119138`
+- **McFadden & Whitehead** — Ain't No Stoppin' Us Now [McFadden & Whitehead] (7:00) `isrc:USSM17801255` `qobuz:12635162`
+- **Michael Jackson** — Don't Stop 'Til You Get Enough [Off The Wall] (6:04) `isrc:USSM17900816` `qobuz:8302835`
+- **Sister Sledge** — We Are Family (1995 Remaster) [We Are Family] (3:36) `isrc:USAT20102166` `qobuz:2941241`
+- **The Jacksons** — Shake Your Body (Down to the Ground) [Destiny] (8:00) `isrc:USSM19922858` `qobuz:31756811`
+- **The Jones Girls** — You Gonna Make Me Love Somebody Else [The Jones Girls] (4:30) `isrc:USSM17901165` `qobuz:13496584`
+- **Bebu Silvetti** — Spring Rain [Música del Sábado Noche, Vol. 1] (5:50) `isrc:ES64E2409713` `qobuz:298406273`
+- **Carol Williams** — Love Is You [Lectric Lady] (5:07) `isrc:USSA47624261` `qobuz:385633563`
+- **Carrie Lucas** — I Gotta Keep Dancin' (Keep Smiling) [Dance With You - The Best Of] (5:07) `isrc:GBAJE7700121` `qobuz:390585790`
+- **Celi Bee & The Buzzy Bunch** — Superman [Celi Bee & The Buzzy Bunch] (5:07) `isrc:USGZ20608238` `qobuz:74434354`
+- **Eddie Holman** — It's Over [A Night to Remember] (4:16) `isrc:QMSGD1220120` `qobuz:388088787`
+- **High Inergy** — You Can't Turn Me Off (In The Middle Of Turning Me On) [Hitsville USA, The Motown Collection 1972-1992] (3:31) `isrc:USMO17782869` `qobuz:52614277`
+- **Joe Tex** — Ain't Gonna Bump No More (With No Big Fat Woman) [The Very Best of, Volume Two] (6:43) `isrc:USATV0500210` `qobuz:46206719`
+- **Ripple** — The Beat Goes on and On [Sons of the Gods] (4:32) `isrc:QMSGD1220219` `qobuz:376837356`
+- **Stargard** — Theme From "Which Way Is Up" [Stargard] (6:57) `isrc:USUM70609882` `qobuz:62236204`
+- **T-Connection** — Do What You Wanna Do [Something For The Weekend] (7:16) `isrc:GBAYE7700278` `qobuz:4689819`
+- **Ashford & Simpson** — It Seems To Hang On [The Best Of Ashford And Simpson] (5:12) `isrc:USWB17800010` `qobuz:840461`
+- **Bunny Sigler** — Let Me Party with You (Party, Party, Party) [Let Me Party With You] (12:27) `isrc:USUS11100742` `qobuz:375868739`
+- **Gene Chandler** — Get Down [Greatest - Gene Chandler] (8:19) `isrc:GBBLG8100258` `qobuz:30108745`
+- **Linda Clifford** — If My Friends Could See Me Now [Everybody Wants Some Disco] (5:18) `isrc:UK3XS1302590` `qobuz:32054376`
+- **Phreek (Patrick Adams Presents)** — Weekend [Patrick Adams Presents Phreek] (6:56) `isrc:USAT27800011` `qobuz:11566062`
+- **Bonnie Pointer** — Heaven Must Have Sent You [Hitsville USA, The Motown Collection 1972-1992] (3:34) `isrc:USMO10000356` `qobuz:52614282`
+- **Candido** — Thousand Finger Man [Dancin' & Prancin'] (9:06) `isrc:QMSGD1220021` `qobuz:380474581`
+- **Joe Bataan** — Rap-O Clap-O [Anthology] (3:51) `isrc:USSA40658914` `qobuz:385546039`
+- **Patrice Rushen** — Haven't You Heard [Pizzazz] (6:45) `isrc:USEE10183612` `qobuz:45651104`
+- **April Begaye** — Dancing in the Sky [Disco Magic] (3:18) `isrc:US39N2508870` `qobuz:359397232`
+- **The Isley Brothers** — It's a Disco Night (Rock Don't Stop), Pts. 1 & 2 [Winner Takes All] (5:15) `isrc:USSM17900796` `qobuz:26590237`
+- **The Spinners** — Working My Way Back to You / Forgive Me, Girl (2003 Remaster) [Essentials] (4:02) `isrc:USAT20301296` `qobuz:2885549`
+- **Vaughan Mason and Crew** — Bounce, Rock, Skate, Roll [Bounce, Rock, Skate, Roll] (5:28) `isrc:USZXT1100260` `qobuz:83596292`

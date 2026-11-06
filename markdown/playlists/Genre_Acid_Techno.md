@@ -1,0 +1,107 @@
+# Genre: Acid Techno
+
+Imported genre playlist: Acid Techno.
+
+Services: `qobuz:66718208` `tidal:a1fc1993-9aef-4f66-aa85-a60816ac88c2`
+
+## Tracks (99)
+
+- **XPQ-21** — In Your Eyes [Alive Remixes] (6:17) `isrc:DETH22000146` `qobuz:97131523`
+- **Pink Floyd** — Money [The Dark Side of the Moon] (6:20) `isrc:GBN9Y1100081` `qobuz:47683556`
+- **Savoir Adore** — Body Heat [Full Bloom] (3:08) `isrc:CAN111900020` `qobuz:145669661`
+- **Dismemberment Plan** — What Do You Want Me to Say? [Emergency & I] (4:18) `isrc:US24E0410063` `qobuz:72746022`
+- **Emmanuel Top** — Turkish Bazar [Release] (6:33) `isrc:FR4LO9400005` `qobuz:9366382`
+- **Skinshape** — Mandala [Oracolo] (5:44) `isrc:GBLVL1500016` `qobuz:144423798`
+- **Nexus 6** — Ab Chic [The Noom E.P.] (8:02) `isrc:GBHCD9308031` `qobuz:379825967`
+- **Hardfloor** — Into the Nature [TB Resucitation] (7:51) `isrc:DEP999300005` `qobuz:55187682`
+- **AWeX** — It's Our Future [Frantic DJ Legends: Mixed by A+D+A+M Lab4] (5:29) `isrc:DEE829500090` `qobuz:126651254`
+- **Jörg Henze** — Free Your Mind [Free Your Mind] (4:06) `isrc:QZZ7R2528126` `qobuz:355738609`
+- **Yee-King** — Whack Whack [abugida] (3:28) `isrc:GBZ3Q1100035` `qobuz:4414658`
+- **East End Dubs** — Searching [Searching] (4:07) `isrc:GBLV62401852` `qobuz:296137295`
+- **Baltic House Orchestra** — I Don't Want To Set The World On Fire (Inspired by 'Fallout') [I Don't Want To Set The World On Fire (Inspired by 'Fallout')] (3:22) `isrc:QZK6Q2477800` `qobuz:261618215`
+- **The Pineapple Thief** — Tightly Wound (Acoustic) [3000 Days] (5:36) `isrc:GBCQV0900686` `qobuz:51057791`
+- **Orbit Culture** — Alienated [Descent] (3:17) `isrc:QM6N22379413` `qobuz:210700541`
+- **Codefendants** — The Weathermen [LIFERS] (3:01) `isrc:QZZEB2567729` `qobuz:382026316`
+- **Shpongle** — How the Jellyfish Jumped up the Mountain [Shpongle Remixed] (6:01) `isrc:GBBMP1200641` `qobuz:103071480`
+- **Hofer Busch Held** — The Creeper [To Tortuga] (2:18) `isrc:DEY142300015` `qobuz:239452748`
+- **A+E Dept** — The Rabbit's Name Was... [The Rabbit's Name Was..] (6:58) `isrc:GBAZA7791401` `qobuz:200475984`
+- **Iron Maiden** — Man on the Edge [The X Factor] (4:13) `isrc:GBCHB1500102` `qobuz:25120854`
+- **Kyle Eastwood** — Magnum Force "Main Theme" [Eastwood Symphonic] (3:42) `isrc:FRPG52200440` `qobuz:206124627`
+- **The Buddy Rich Big Band** — Big Swing Face [Big Swing Face] (5:34) `isrc:USBN29601263` `qobuz:1063986`
+- **GMS** — Acid Quest [Adverse Cambers] (7:40) `isrc:GBKQU2135084` `qobuz:118353112`
+- **Lab4** — Reformation 2/021 [Reformation 2/021] (3:21) `isrc:NLD682103388` `qobuz:129082712`
+- **LNDN DRGS** — The Fee Is Mine [Affiliated 2] (2:53) `isrc:USUYG1537458` `qobuz:254527183`
+- **Daisy Brain** — Boring [Boring] (3:28) `isrc:FRX202161947` `qobuz:123515311`
+- **Holy Ghost Inc.** — Twister [Twister] (6:18) `isrc:DEL029910076` `qobuz:258691038`
+- **The Staple Singers** — When Will We Be Paid [We'll Get Over] (2:38) `isrc:USC4R1901673` `qobuz:81779809`
+- **Dogs on Acid** — Flushed [Dogs on Acid] (2:26) `isrc:USA6M1514102` `qobuz:77667291`
+- **Disgusting Sisters** — Weirdo Magnet [Weirdo Magnet] (2:47) `isrc:GBENL2604762` `qobuz:402506812`
+- **Kikagaku Moyo** — Orange Peel [Masana Temples] (4:27) `isrc:TCADT1851285` `qobuz:124546058`
+- **NCT 127** — Amino Acid [아날로그 트립 Analog Trip NCT 127 OST] (3:33) `isrc:KRA302100406` `qobuz:141395750`
+- **The Animals** — Please Don't Let Me Be Misunderstood [We Gotta Get Outta Dis Place] (8:21) `isrc:QZ5FN2068939` `qobuz:98388823`
+- **Benetti House Bar** — Feel the Funky Vibe [Devil Drinks NEGRONI] (3:43) `isrc:QT6EY2578552` `qobuz:369904803`
+- **Sabrina Carpenter** — Nonsense [emails i can't send] (2:43) `isrc:USUM72210708` `qobuz:164659617`
+- **Marvin Gaye** — Inner City Blues (Make Me Wanna Holler) [What's Going On] (5:30) `isrc:USMO17100049` `qobuz:16012446`
+- **war dog** — God Damn The Pusher Man [The Label That Pays Me] (3:27) `isrc:QZMEV2631432` `qobuz:403232847`
+- **Billy Manilli** — Garage Post-Rock/Fuck Pete Hegseth [Garage Post-Rock/You Don't Know Mogwai] (1:42) `isrc:QT6G52515255` `qobuz:377793556`
+- **The Congos** — The Wrong Thing [Heart Of The Congos] (3:02) `isrc:USVPR1601080` `qobuz:40374099`
+- **The Fall** — City Dweller [Middle Class Revolt] (4:12) `isrc:GBBLY1602368` `qobuz:343223636`
+- **Gate 5 Ensemble** — Ring Around the Moon. A Dance Fantasm for Here and Now Phase 2: One, Two, Three, Four - X, Y, Zee [The Harry Partch Collection, Volume 1] (2:12) `isrc:US4QP0462115` `qobuz:4211156`
+- **Len** — Steal My Sunshine [You Can't Stop The Bum Rush] (4:25) `isrc:USSM19900189` `qobuz:46978963`
+- **Toni Braxton** — Find Me a Man [Secrets] (4:29) `isrc:USLF29600187` `qobuz:9211205`
+- **Alien Ant Farm** — Smooth Criminal [Anthology] (3:29) `isrc:USDW10022224` `qobuz:699960`
+- **LOOK MUM NO COMPUTER** — Keeping Busy, The Most Effective Therapy I’ve Found [Keeping Busy, The Most Effective Therapy I’ve Found] (4:08) `isrc:QZRUP2500730` `qobuz:355823491`
+- **Geezer** — Shut Up Or Shit Out ! [We Are Acid Family 001] (7:24) `isrc:NLCK42609131` `qobuz:430118803`
+- **Anita O'Day** — The Party's Over (Remastered) [Four Classic Albums Plus (Anita O'day and Billy May Swing Rodgers and Hart / Anita O'day & The Three Sounds / Anita O'day Sings the Winners / Time for Two) [Remastered]] (2:23) `isrc:GBBMH1413646` `qobuz:64478471`
+- **David Farrell** — I Lost Her to the Sea [Meltdown Season] (2:49) `isrc:GXHND2523289` `qobuz:355820944`
+- **Don Dokken** — Crash 'N Burn [Up From The Ashes] (5:04) `isrc:USGF19030101` `qobuz:13449676`
+- **Sinfonia Of London** — Say Yes [The Young and the Restless (Original Soundtrack)] (1:05) `isrc:USJPL2100323` `qobuz:126483890`
+- **New Order** — Age of Consent [Power, Corruption & Lies] (5:15) `isrc:GBAAP1500172` `qobuz:35951273`
+- **Acid Mothers Temple & The Melting Paraiso UFO** — Psycho Buddha [New Geocentric World of Acid Mothers Temple] (21:27) `isrc:USL4R2038055` `qobuz:104358367`
+- **Michael Jackson** — Human Nature [Thriller] (4:05) `isrc:USSM19902992` `qobuz:7401`
+- **Dumpstaphunk** — Livin Ina World Gone Mad [Listen Hear] (5:50) `isrc:GBDTM1227222` `qobuz:208583723`
+- **Tik Tok** — Acid Unstoppable [Acid Unstoppable E.P.] (6:19) `isrc:GBKQU2221326` `qobuz:151359410`
+- **James Black** — For No Reason [This Time] (4:00) `isrc:FRIDO1810355` `qobuz:47820497`
+- **Granuja** — Colombian Gold [Rap y Hierbas] (2:29) `isrc:QZ5AB1716865` `qobuz:166829448`
+- **Nina Nesbitt** — Scotland In The Snow [Scotland In The Snow] (4:08) `isrc:NL8RL2563284` `qobuz:362113574`
+- **Glee Cast** — Tik Tok (Glee Cast Version) [Glee: The Music, The Complete Season Two] (3:19) `isrc:USQX91100217` `qobuz:47459760`
+- **ZERO Evolution** — Phantom Techno Frequencies [Halloween Techno Circuit Breaker] (3:19) `isrc:CALVP2444168` `qobuz:389392856`
+- **Krallice** — Feed on the Blood of Rats [Mass Cathexis] (5:00) `isrc:USHM22134224` `qobuz:122179048`
+- **BENJAMIN WILLIAM HASTINGS** — Still You [How I'd sing it on a sunday] (7:15) `isrc:USUG12501226` `qobuz:328354004`
+- **Benji303** — NEVER TRUST A POLITICIAN! [303 Alliance Remix 003] (7:36) `isrc:NLCK42510357` `qobuz:342519522`
+- **elsewhere** — Sundials & Sirens [Checkpoint EP] (4:23) `isrc:UKRBP2400382` `qobuz:275958058`
+- **Matt Duncan** — The Horn of Plenty [Soft Times] (3:06) `isrc:USQY51336653` `qobuz:238937558`
+- **Jan A.P. Kaczmarek** — Where Is Mr. Barrie? [Finding Neverland] (3:32) `isrc:USUMC0400288` `qobuz:733568`
+- **Sam Roberts Band** — Bridge To Nowhere [Chemical City] (3:09) `isrc:CAUM70500163` `qobuz:2428815`
+- **Dica** — The Way [Sorry For Your Neighbors] (5:21) `isrc:QZMEM2235397` `qobuz:166129697`
+- **S-Tone Inc.** — Get Freaky Now [The Funk Connection] (5:24) `isrc:ITI029200080` `qobuz:66108972`
+- **Ill Gotten Gains** — Tin [Odes to the Troublemakers] (3:28) `isrc:TCAJE2595565` `qobuz:313721493`
+- **Dj Garth** — Twenty Minutes of Disco Glory (The Acid Rock Mix) [DJ-Kicks: Eris Drew] (4:13) `isrc:DEG932504786` `qobuz:357107073`
+- **Acid Techno Ri0t** — HRP Illegal Rave 90s TRIBUTE [HRP Illegal Rave 90s TRIBUTE] (6:59) `isrc:QZWFQ2352115` `qobuz:246080097`
+- **Brain 5** — Power of a Dark Side [Brain Compilation, Vol. 1] (7:13) `isrc:DEH330601080` `qobuz:49950164`
+- **Brain 8** — Into the Future [Brain Compilation, Vol. 1] (10:01) `isrc:DEH330600706` `qobuz:49950167`
+- **Brain 11** — Mystique [Brain Compilation, Vol. 2] (8:05) `isrc:DEH330600952` `qobuz:49879201`
+- **Brain 13** — Acid Machines [Brain Compilation, Vol. 2] (9:00) `isrc:DEH330600018` `qobuz:49879203`
+- **Sugar Ray** — Personal Space Invader [14:59] (3:37) `isrc:USAT20902982` `qobuz:2881773`
+- **Brain 16** — The Acid Devil [Brain Compilation, Vol. 2] (8:42) `isrc:DEH330601408` `qobuz:49879206`
+- **Brain 17** — Mysterious Place [Brain Compilation, Vol. 2] (8:12) `isrc:DEH330600950` `qobuz:49879207`
+- **Brain 20** — Acid Motherfuckers [Brain Compilation, Vol. 3] (7:52) `isrc:DEH330600023` `qobuz:49938152`
+- **Rain Sounds & White Noise** — Distant Rain for Brain Relaxation and Mindfulness To Repeat for 24 Hours [Rain Loopable] (2:06) `isrc:NL3WF2001114` `qobuz:116582652`
+- **Brain 27** — Pneumatic Drill [Rinderwahn / Bse] (4:32) `isrc:DEZ650510374` `qobuz:49825012`
+- **Chihiro Hikari** — Geometry [Best Acid Techno 2024] (5:45) `isrc:NLCK42404460` `qobuz:312153224`
+- **VNDM** — Look at Me [Flash] (4:47) `isrc:NLCK42407482` `qobuz:267218738`
+- **Accentbuster** — Lifeform Detected [Best Acid Techno 2024] (5:50) `isrc:NLCK42404464` `qobuz:312153232`
+- **Citric Acid** — Vain [Best Acid Techno 2024] (6:37) `isrc:NLCK42404463` `qobuz:312153233`
+- **Franz & Shape** — Fuzz [Best Acid Techno 2025] (6:07) `isrc:NLCK42510431` `qobuz:374999565`
+- **Dima Gastrolër** — Acid Wall [Best Acid Techno 2025] (7:12) `isrc:NLCK42421876` `qobuz:374999568`
+- **G303** — Let Me Bang [Best Acid Techno 2025] (7:49) `isrc:NLCK42501106` `qobuz:374999569`
+- **Acidulant** — Serpentacid [Best Acid Techno 2025] (5:18) `isrc:NLCK42501101` `qobuz:374999570`
+- **Saytek** — Blend Acid25 [Blend Acid25 , recorded at Rebel Union at FOLD LDN] (7:23) `isrc:NLCK42512942` `qobuz:352532029`
+- **wrnr** — Orbit Energy [Best Acid Techno 2025] (6:32) `isrc:NLCK42510466` `qobuz:374999574`
+- **Carara** — Overdrive [Best Acid Techno 2025] (5:54) `isrc:NLCK42510445` `qobuz:374999575`
+- **Anml Mthr** — Sparkle Muffin [Sprakle Muffin EP] (6:00) `isrc:NLCK42420133` `qobuz:300972017`
+- **Paul Renard (NL)** — Gravity [Best Acid Techno 2025] (5:30) `isrc:NLCK42510419` `qobuz:374999564`
+- **Sour** — Worldframe [X-00F EP] (5:25) `isrc:NLCK42512398` `qobuz:350358894`
+- **Minimum Syndicat** — Disclosures [Revelation EP] (6:32) `isrc:NLCK42507020` `qobuz:331470868`
+- **Sarufaromeo** — Acid Nihonshu [Best Acid Techno 2025] (5:16) `isrc:NLCK42501102` `qobuz:374999571`
+- **Diana Oliveira** — Desconhecida [Best Acid Techno 2025] (6:13) `isrc:NLCK42510439` `qobuz:374999572`

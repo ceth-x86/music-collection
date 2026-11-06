@@ -1,0 +1,1010 @@
+{
+  "name": "Genre: Folk Rock",
+  "services": {
+    "qobuz": "66737385",
+    "tidal": "33c7314e-4e1e-4810-b0d5-cb9785257a5d"
+  },
+  "description": "Imported genre playlist: Folk Rock.",
+  "tracks": [
+    {
+      "artist": "Barry McGuire",
+      "title": "Eve Of Destruction",
+      "services": {
+        "qobuz": "3883273"
+      },
+      "album": "Eve Of Destruction",
+      "duration": 215,
+      "isrc": "USMC16500802"
+    },
+    {
+      "artist": "Bob Dylan",
+      "title": "Like a Rolling Stone",
+      "services": {
+        "qobuz": "15215741"
+      },
+      "album": "The Essential Bob Dylan",
+      "duration": 368,
+      "isrc": "USSM19922509"
+    },
+    {
+      "artist": "Sonny & Cher",
+      "title": "I Got You Babe",
+      "services": {
+        "qobuz": "24511483"
+      },
+      "album": "Look At Us",
+      "duration": 190,
+      "isrc": "USAT27500019"
+    },
+    {
+      "artist": "The Beau Brummels",
+      "title": "Laugh, Laugh",
+      "services": {
+        "qobuz": "50399452"
+      },
+      "album": "Introducing the Beau Brummels",
+      "duration": 169,
+      "isrc": "QM4TW1871941"
+    },
+    {
+      "artist": "The Byrds",
+      "title": "Mr. Tambourine Man",
+      "services": {
+        "qobuz": "39789"
+      },
+      "album": "Mr. Tambourine Man",
+      "duration": 149,
+      "isrc": "USSM16500019"
+    },
+    {
+      "artist": "The Turtles",
+      "title": "It Ain't Me Babe (Mono)",
+      "services": {
+        "qobuz": "33914977"
+      },
+      "album": "It Ain't Me Babe (Deluxe Version)",
+      "duration": 133,
+      "isrc": "USQE11610040"
+    },
+    {
+      "artist": "We five",
+      "title": "You Were On My Mind",
+      "services": {
+        "qobuz": "58799433"
+      },
+      "album": "You Were On My Mind",
+      "duration": 155,
+      "isrc": "USAM16900849"
+    },
+    {
+      "artist": "The Lovin' Spoonful",
+      "title": "Do You Believe in Magic?",
+      "services": {
+        "qobuz": "226189"
+      },
+      "album": "Do you Believe In Magic",
+      "duration": 125,
+      "isrc": "USBR10200019"
+    },
+    {
+      "artist": "The Mamas & The Papas",
+      "title": "California Dreamin'",
+      "services": {
+        "qobuz": "72894992"
+      },
+      "album": "California Dreaming",
+      "duration": 148,
+      "isrc": "USBT21614658"
+    },
+    {
+      "artist": "The Hollies",
+      "title": "Bus Stop",
+      "services": {
+        "qobuz": "4457079"
+      },
+      "album": "The Air That I Breathe - The Very Best of the Hollies",
+      "duration": 174,
+      "isrc": "GBAYE6600055"
+    },
+    {
+      "artist": "Buffalo Springfield",
+      "title": "For What It's Worth",
+      "services": {
+        "qobuz": "8708267"
+      },
+      "album": "Buffalo Springfield",
+      "duration": 153,
+      "isrc": "USEE10170607"
+    },
+    {
+      "artist": "Donovan",
+      "title": "Sunshine Superman",
+      "services": {
+        "qobuz": "44791"
+      },
+      "album": "Sunshine Superman",
+      "duration": 195,
+      "isrc": "USSM19805194"
+    },
+    {
+      "artist": "Simon & Garfunkel",
+      "title": "The Sound of Silence",
+      "services": {
+        "qobuz": "61807817"
+      },
+      "album": "The Graduate",
+      "duration": 186,
+      "isrc": "USSM19918649"
+    },
+    {
+      "artist": "THE GRASS ROOTS",
+      "title": "Where Were You When I Needed You",
+      "services": {
+        "qobuz": "99455907"
+      },
+      "album": "Where Were You When I Needed You",
+      "duration": 180,
+      "isrc": "USMC16755312"
+    },
+    {
+      "artist": "The Beach Boys",
+      "title": "Sloop John B",
+      "services": {
+        "qobuz": "6848884"
+      },
+      "album": "Pet Sounds",
+      "duration": 181,
+      "isrc": "USCA21201794"
+    },
+    {
+      "artist": "The Rose Garden",
+      "title": "Next Plane to London",
+      "services": {
+        "qobuz": "2955408"
+      },
+      "album": "The Rose Garden",
+      "duration": 150,
+      "isrc": "USEE10300103"
+    },
+    {
+      "artist": "Scott McKenzie",
+      "title": "San Francisco (Be Sure to Wear Flowers in Your Hair)",
+      "services": {
+        "qobuz": "92423336"
+      },
+      "album": "San Francisco (Be Sure to Wear Flowers in Your Hair)",
+      "duration": 209,
+      "isrc": "USBT21623399"
+    },
+    {
+      "artist": "Scott Bradlee",
+      "title": "Different Drum",
+      "services": {
+        "qobuz": "130233503"
+      },
+      "album": "Different Drum (feat. Nicole Atkins)",
+      "duration": 183,
+      "isrc": "QZMEM2177148"
+    },
+    {
+      "artist": "The Youngbloods",
+      "title": "Get Together",
+      "services": {
+        "qobuz": "14947330"
+      },
+      "album": "The Youngbloods",
+      "duration": 279,
+      "isrc": "USRC16707554"
+    },
+    {
+      "artist": "The Nitty Gritty Dirt Band",
+      "title": "Buy For Me The Rain",
+      "services": {
+        "qobuz": "15933956"
+      },
+      "album": "Dirt, Silver & Gold",
+      "duration": 142,
+      "isrc": "USEM39400212"
+    },
+    {
+      "artist": "The Band",
+      "title": "The Weight",
+      "services": {
+        "qobuz": "997942"
+      },
+      "album": "Greatest Hits",
+      "duration": 275,
+      "isrc": "USCA20000789"
+    },
+    {
+      "artist": "Pentangle",
+      "title": "Light Flight",
+      "services": {
+        "qobuz": "385640584"
+      },
+      "album": "Basket of Light",
+      "duration": 194,
+      "isrc": "GBAJE0414233"
+    },
+    {
+      "artist": "Crosby, Stills & Nash",
+      "title": "Suite : Judy Blue Eyes",
+      "services": {
+        "qobuz": "7104434"
+      },
+      "album": "Crosby, Stills & Nash",
+      "duration": 443,
+      "isrc": "USAT21204215"
+    },
+    {
+      "artist": "Fairport Convention",
+      "title": "Who Knows Where The Time Goes?",
+      "services": {
+        "qobuz": "4368905"
+      },
+      "album": "Unhalfbricking",
+      "duration": 305,
+      "isrc": "GBAAN6900035"
+    },
+    {
+      "artist": "John Denver",
+      "title": "Take Me Home, Country Roads",
+      "services": {
+        "qobuz": "75009346"
+      },
+      "album": "The John Denver Collection, Vol 1: Take Me Home Country Roads",
+      "duration": 197,
+      "isrc": "USA370529726"
+    },
+    {
+      "artist": "James Taylor",
+      "title": "Fire and Rain",
+      "services": {
+        "qobuz": "72631418"
+      },
+      "album": "Sweet Baby James",
+      "duration": 203,
+      "isrc": "USRH11900597"
+    },
+    {
+      "artist": "Matthews Southern Comfort",
+      "title": "Woodstock",
+      "services": {
+        "qobuz": "83182414"
+      },
+      "album": "Later That Same Year",
+      "duration": 269,
+      "isrc": "USCGJ1667941"
+    },
+    {
+      "artist": "Van Morrison",
+      "title": "Into the Mystic (2013 Remaster)",
+      "services": {
+        "qobuz": "12100316"
+      },
+      "album": "Moondance (Hi-Res Version)",
+      "duration": 210,
+      "isrc": "USWB11302600"
+    },
+    {
+      "artist": "Fotheringay",
+      "title": "The Sea",
+      "services": {
+        "qobuz": "23250930"
+      },
+      "album": "Nothing More - The Collected Fotheringay",
+      "duration": 331,
+      "isrc": "GBAAN7000047"
+    },
+    {
+      "artist": "Cat Stevens",
+      "title": "Peace Train",
+      "services": {
+        "qobuz": "132050834"
+      },
+      "album": "Teaser And The Firecat",
+      "duration": 251,
+      "isrc": "GBUM72104761"
+    },
+    {
+      "artist": "Lindisfarne",
+      "title": "Meet Me On The Corner",
+      "services": {
+        "qobuz": "1948132"
+      },
+      "album": "Fog On The Tyne",
+      "duration": 160,
+      "isrc": "GBAAA0300723"
+    },
+    {
+      "artist": "Rod Stewart",
+      "title": "Mandolin Wind",
+      "services": {
+        "qobuz": "52369842"
+      },
+      "album": "Every Picture Tells A Story",
+      "duration": 333,
+      "isrc": "USPR37105163"
+    },
+    {
+      "artist": "Strawbs",
+      "title": "Lay Down",
+      "services": {
+        "qobuz": "3881704"
+      },
+      "album": "Bursting At The Seam",
+      "duration": 273,
+      "isrc": "USAM17300048"
+    },
+    {
+      "artist": "America",
+      "title": "A Horse with No Name",
+      "services": {
+        "qobuz": "15765443"
+      },
+      "album": "America",
+      "duration": 255,
+      "isrc": "USWB11304213"
+    },
+    {
+      "artist": "John Martyn",
+      "title": "May You Never",
+      "services": {
+        "qobuz": "3879265"
+      },
+      "album": "Solid Air",
+      "duration": 220,
+      "isrc": "GBAAN7300043"
+    },
+    {
+      "artist": "Gordon Lightfoot",
+      "title": "If You Could Read My Mind",
+      "services": {
+        "qobuz": "2728963"
+      },
+      "album": "If You Could Read My Mind",
+      "duration": 229,
+      "isrc": "USRE19900467"
+    },
+    {
+      "artist": "Crosby, Stills, Nash & Young",
+      "title": "Teach Your Children",
+      "services": {
+        "qobuz": "2729084"
+      },
+      "album": "D\u00e9j\u00e0 Vu",
+      "duration": 173,
+      "isrc": "USAT20901709"
+    },
+    {
+      "artist": "Neil Young",
+      "title": "Heart of Gold",
+      "services": {
+        "qobuz": "35927312"
+      },
+      "album": "Harvest",
+      "duration": 187,
+      "isrc": "USRE11100415"
+    },
+    {
+      "artist": "Joni Mitchell",
+      "title": "Woodstock",
+      "services": {
+        "qobuz": "8766757"
+      },
+      "album": "Ladies Of The Canyon",
+      "duration": 329,
+      "isrc": "USRE11300014"
+    },
+    {
+      "artist": "Jackson Browne",
+      "title": "Doctor My Eyes",
+      "services": {
+        "qobuz": "15765004"
+      },
+      "album": "The Very Best Of Jackson Browne",
+      "duration": 199,
+      "isrc": "USEE10184286"
+    },
+    {
+      "artist": "Steeleye Span",
+      "title": "All Around My Hat",
+      "services": {
+        "qobuz": "169146477"
+      },
+      "album": "All Around My Hat",
+      "duration": 251,
+      "isrc": "GBAYK0900433"
+    },
+    {
+      "artist": "Richard & Linda Thompson",
+      "title": "Dimming Of The Day / Dargai",
+      "services": {
+        "qobuz": "772501"
+      },
+      "album": "The Best Of Richard And Linda Thompson: The Island Record Years",
+      "duration": 230,
+      "isrc": "GBAAN7500077"
+    },
+    {
+      "artist": "Al Stewart",
+      "title": "Year of the Cat",
+      "services": {
+        "qobuz": "4744380"
+      },
+      "album": "Year Of The Cat",
+      "duration": 401,
+      "isrc": "USALS0100032"
+    },
+    {
+      "artist": "Joan Baez",
+      "title": "Diamonds And Rust",
+      "services": {
+        "qobuz": "112883736"
+      },
+      "album": "Diamonds & Rust",
+      "duration": 285,
+      "isrc": "USAM17502181"
+    },
+    {
+      "artist": "Bruce Cockburn",
+      "title": "Wondering Where The Lions Are",
+      "services": {
+        "qobuz": "319754183"
+      },
+      "album": "Dancing In The Dragon's Jaws (Deluxe Edition)",
+      "duration": 227,
+      "isrc": "CAT247900176"
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "title": "Atlantic City",
+      "services": {
+        "qobuz": "13358660"
+      },
+      "album": "Nebraska",
+      "duration": 240,
+      "isrc": "USSM18200422"
+    },
+    {
+      "artist": "Aztec Camera",
+      "title": "Oblivious",
+      "services": {
+        "qobuz": "5687433"
+      },
+      "album": "High Land, Hard Rain",
+      "duration": 190,
+      "isrc": "GBAHT8303357"
+    },
+    {
+      "artist": "Big Country",
+      "title": "In A Big Country",
+      "services": {
+        "qobuz": "767331"
+      },
+      "album": "The Crossing",
+      "duration": 285,
+      "isrc": "GBF088300765"
+    },
+    {
+      "artist": "The Dream Academy",
+      "title": "Life in a Northern Town",
+      "services": {
+        "qobuz": "11745686"
+      },
+      "album": "Life in a Northern Town / Test Tape No. 3",
+      "duration": 256,
+      "isrc": "USWB10808463"
+    },
+    {
+      "artist": "R.E.M.",
+      "title": "Driver 8",
+      "services": {
+        "qobuz": "15936988"
+      },
+      "album": "Fables Of The Reconstruction",
+      "duration": 203,
+      "isrc": "USCA21001231"
+    },
+    {
+      "artist": "The Hooters",
+      "title": "All You Zombies",
+      "services": {
+        "qobuz": "32843"
+      },
+      "album": "Nervous Night",
+      "duration": 358,
+      "isrc": "USSM10105639"
+    },
+    {
+      "artist": "Paul Kelly",
+      "title": "To Her Door",
+      "services": {
+        "qobuz": "368575376"
+      },
+      "album": "Songs from the South. Greatest Hits (1985-2019)",
+      "duration": 198,
+      "isrc": "AUYP00820008"
+    },
+    {
+      "artist": "Suzanne Vega",
+      "title": "Luka",
+      "services": {
+        "qobuz": "131792506"
+      },
+      "album": "Solitude Standing",
+      "duration": 231,
+      "isrc": "USAM18704255"
+    },
+    {
+      "artist": "Fairground Attraction",
+      "title": "Perfect",
+      "services": {
+        "qobuz": "449390"
+      },
+      "album": "The First Of A Million Kisses",
+      "duration": 216,
+      "isrc": "GBARL8800011"
+    },
+    {
+      "artist": "Tracy Chapman",
+      "title": "Fast Car",
+      "services": {
+        "qobuz": "2781545"
+      },
+      "album": "Tracy Chapman",
+      "duration": 296,
+      "isrc": "USEE10180719"
+    },
+    {
+      "artist": "The Church",
+      "title": "Under the Milky Way",
+      "services": {
+        "qobuz": "33546473"
+      },
+      "album": "Starfish (Deluxe Edition)",
+      "duration": 298,
+      "isrc": "USAR18800002"
+    },
+    {
+      "artist": "The Proclaimers",
+      "title": "Sunshine on Leith",
+      "services": {
+        "qobuz": "4275022"
+      },
+      "album": "Sunshine On Leith (2011 - Remaster)",
+      "duration": 314,
+      "isrc": "GBAYK1100219"
+    },
+    {
+      "artist": "The Waterboys",
+      "title": "Fisherman's Blues",
+      "services": {
+        "qobuz": "169134204"
+      },
+      "album": "Fisherman's Blues",
+      "duration": 266,
+      "isrc": "GBAYK0500042"
+    },
+    {
+      "artist": "Tom Petty",
+      "title": "Free Fallin'",
+      "services": {
+        "qobuz": "22946510"
+      },
+      "album": "Full Moon Fever",
+      "duration": 255,
+      "isrc": "USMC18925673"
+    },
+    {
+      "artist": "Indigo Girls",
+      "title": "Closer To Fine",
+      "services": {
+        "qobuz": "43147"
+      },
+      "album": "Indigo Girls (Expanded Edition)",
+      "duration": 241,
+      "isrc": "USSM10012978"
+    },
+    {
+      "artist": "Spirit Of The West",
+      "title": "Home For A Rest",
+      "services": {
+        "qobuz": "319832921"
+      },
+      "album": "Save This House",
+      "duration": 276,
+      "isrc": "CAW119000447"
+    },
+    {
+      "artist": "Toad The Wet Sprocket",
+      "title": "Walk On the Ocean",
+      "services": {
+        "qobuz": "88121256"
+      },
+      "album": "Walk On The Ocean EP",
+      "duration": 218,
+      "isrc": "USSM12001047"
+    },
+    {
+      "artist": "Levellers",
+      "title": "One Way",
+      "services": {
+        "qobuz": "2907007"
+      },
+      "album": "Levelling The Land (Remastered)",
+      "duration": 248,
+      "isrc": "GBAHS0700359"
+    },
+    {
+      "artist": "10,000 Maniacs",
+      "title": "These Are Days",
+      "services": {
+        "qobuz": "11564354"
+      },
+      "album": "Our Time in Eden",
+      "duration": 219,
+      "isrc": "USEE10900606"
+    },
+    {
+      "artist": "The Jayhawks",
+      "title": "Blue",
+      "services": {
+        "qobuz": "8420758"
+      },
+      "album": "Tomorrow The Green Grass",
+      "duration": 189,
+      "isrc": "USSM19503763"
+    },
+    {
+      "artist": "The Cranberries",
+      "title": "Linger",
+      "services": {
+        "qobuz": "355852815"
+      },
+      "album": "MTV Unplugged",
+      "duration": 306,
+      "isrc": "USSJW2500031"
+    },
+    {
+      "artist": "Counting Crows",
+      "title": "Mr. Jones",
+      "services": {
+        "qobuz": "14836419"
+      },
+      "album": "August And Everything After",
+      "duration": 273,
+      "isrc": "USIR10000287"
+    },
+    {
+      "artist": "Crash Test Dummies",
+      "title": "Mmm Mmm Mmm Mmm",
+      "services": {
+        "qobuz": "13102470"
+      },
+      "album": "God Shuffled His Feet",
+      "duration": 235,
+      "isrc": "CAA359300084"
+    },
+    {
+      "artist": "Natalie Merchant",
+      "title": "Wonder",
+      "services": {
+        "qobuz": "6008163"
+      },
+      "album": "Tigerlily",
+      "duration": 267,
+      "isrc": "USEE11100400"
+    },
+    {
+      "artist": "Jewel",
+      "title": "Who Will Save Your Soul",
+      "services": {
+        "qobuz": "127403777"
+      },
+      "album": "Pieces Of You",
+      "duration": 237,
+      "isrc": "USAT29400031"
+    },
+    {
+      "artist": "The Wallflowers",
+      "title": "One Headlight",
+      "services": {
+        "qobuz": "131792855"
+      },
+      "album": "Bringing Down The Horse",
+      "duration": 313,
+      "isrc": "USIR19600462"
+    },
+    {
+      "artist": "Dave Matthews Band",
+      "title": "Crash into Me",
+      "services": {
+        "qobuz": "195095112"
+      },
+      "album": "Crash",
+      "duration": 316,
+      "isrc": "USRC19603151"
+    },
+    {
+      "artist": "Sarah McLachlan",
+      "title": "Building a Mystery",
+      "services": {
+        "qobuz": "2719506"
+      },
+      "album": "Surfacing",
+      "duration": 247,
+      "isrc": "USAR19700533"
+    },
+    {
+      "artist": "Ben Harper & The Innocent Criminals",
+      "title": "Steal My Kisses",
+      "services": {
+        "qobuz": "31675641"
+      },
+      "album": "Burn To Shine",
+      "duration": 267,
+      "isrc": "USUM71603062"
+    },
+    {
+      "artist": "The Shins",
+      "title": "New Slang",
+      "services": {
+        "qobuz": "407826199"
+      },
+      "album": "Oh, Inverted World",
+      "duration": 230,
+      "isrc": "USSUB2141506"
+    },
+    {
+      "artist": "Wilco",
+      "title": "Jesus, Etc. (2022 Remaster)",
+      "services": {
+        "qobuz": "298644982"
+      },
+      "album": "Yankee Hotel Foxtrot",
+      "duration": 231,
+      "isrc": "USNO12200100"
+    },
+    {
+      "artist": "Damien Rice",
+      "title": "The Blower's Daughter",
+      "services": {
+        "qobuz": "2586932"
+      },
+      "album": "O",
+      "duration": 287,
+      "isrc": "IEABD0100003"
+    },
+    {
+      "artist": "Iron & Wine",
+      "title": "Naked as We Came",
+      "services": {
+        "qobuz": "407819034"
+      },
+      "album": "Our Endless Numbered Days",
+      "duration": 152,
+      "isrc": "USSUB0400095"
+    },
+    {
+      "artist": "Oysterband",
+      "title": "When I'm up I Can't Get Down",
+      "services": {
+        "qobuz": "368531647"
+      },
+      "album": "Holy Bandits",
+      "duration": 210,
+      "isrc": "GBCEJ9300003"
+    },
+    {
+      "artist": "The Saw Doctors",
+      "title": "N17",
+      "services": {
+        "qobuz": "77342966"
+      },
+      "album": "If This Is Rock and Roll, I Want My Old Job Back",
+      "duration": 276,
+      "isrc": "IEAQE9100014"
+    },
+    {
+      "artist": "Bright Eyes",
+      "title": "First Day of My Life",
+      "services": {
+        "qobuz": "121210633"
+      },
+      "album": "I'm Wide Awake, It's Morning",
+      "duration": 188,
+      "isrc": "US2U61623706"
+    },
+    {
+      "artist": "The Decemberists",
+      "title": "Sons & Daughters",
+      "services": {
+        "qobuz": "39459569"
+      },
+      "album": "The Crane Wife",
+      "duration": 319,
+      "isrc": "USCA20601227"
+    },
+    {
+      "artist": "Glen Hansard",
+      "title": "Falling Slowly",
+      "services": {
+        "qobuz": "20399352"
+      },
+      "album": "Once (Music From The Motion Picture)",
+      "duration": 244,
+      "isrc": "USLIC0700662"
+    },
+    {
+      "artist": "Beirut",
+      "title": "Postcards from Italy",
+      "services": {
+        "qobuz": "44828997"
+      },
+      "album": "Gulag Orkestar",
+      "duration": 257,
+      "isrc": "USCPT0600023"
+    },
+    {
+      "artist": "Band of Horses",
+      "title": "The Funeral",
+      "services": {
+        "qobuz": "407819956"
+      },
+      "album": "Everything All The Time",
+      "duration": 322,
+      "isrc": "USSUB0669004"
+    },
+    {
+      "artist": "Bon Iver",
+      "title": "Skinny Love",
+      "services": {
+        "qobuz": "20956200"
+      },
+      "album": "For Emma, Forever Ago",
+      "duration": 238,
+      "isrc": "US38Y0811503"
+    },
+    {
+      "artist": "Fleet Foxes",
+      "title": "Mykonos",
+      "services": {
+        "qobuz": "53596006"
+      },
+      "album": "First Collection: 2006-2009",
+      "duration": 275,
+      "isrc": "USSUB0878104"
+    },
+    {
+      "artist": "The Avett Brothers",
+      "title": "I And Love And You",
+      "services": {
+        "qobuz": "19761542"
+      },
+      "album": "I And Love And You",
+      "duration": 299,
+      "isrc": "USSM10903395"
+    },
+    {
+      "artist": "Edward Sharpe & The Magnetic Zeros",
+      "title": "Home",
+      "services": {
+        "qobuz": "280505060"
+      },
+      "album": "Up from Below",
+      "duration": 303,
+      "isrc": "USVR90954206"
+    },
+    {
+      "artist": "Mumford & Sons",
+      "title": "Little Lion Man",
+      "services": {
+        "qobuz": "288725419"
+      },
+      "album": "Gentlemen of the Road",
+      "duration": 257,
+      "isrc": "GBUM71028205"
+    },
+    {
+      "artist": "The Head And The Heart",
+      "title": "Lost in My Mind",
+      "services": {
+        "qobuz": "10928720"
+      },
+      "album": "Lost in My Mind",
+      "duration": 259,
+      "isrc": "GBUM71100548"
+    },
+    {
+      "artist": "The Tallest Man On Earth",
+      "title": "The Wild Hunt",
+      "services": {
+        "qobuz": "2117453"
+      },
+      "album": "The Wild Hunt",
+      "duration": 201,
+      "isrc": "USJ5G1034001"
+    },
+    {
+      "artist": "The Civil Wars",
+      "title": "Dance Me to the End of Love",
+      "services": {
+        "qobuz": "5039388"
+      },
+      "album": "Barton Hollow",
+      "duration": 184,
+      "isrc": "USW5Q1100014"
+    },
+    {
+      "artist": "Of Monsters and Men",
+      "title": "Little Talks",
+      "services": {
+        "qobuz": "6254643"
+      },
+      "album": "My Head Is An Animal",
+      "duration": 266,
+      "isrc": "USUM71119106"
+    },
+    {
+      "artist": "The Lumineers",
+      "title": "Ho Hey",
+      "services": {
+        "qobuz": "273951038"
+      },
+      "album": "Ho Hey",
+      "duration": 163,
+      "isrc": "USDMG1260805"
+    },
+    {
+      "artist": "First Aid Kit",
+      "title": "Emmylou",
+      "services": {
+        "qobuz": "6309278"
+      },
+      "album": "The Lion's Roar",
+      "duration": 258,
+      "isrc": "GBDNH1100097"
+    },
+    {
+      "artist": "Lord Huron",
+      "title": "The Night We Met",
+      "services": {
+        "qobuz": "328339180"
+      },
+      "album": "Strange Trails",
+      "duration": 208,
+      "isrc": "US53Q1200103"
+    },
+    {
+      "artist": "The Strumbellas",
+      "title": "Spirits",
+      "services": {
+        "qobuz": "292873373"
+      },
+      "album": "Hope",
+      "duration": 203,
+      "isrc": "CA6MD1500001"
+    },
+    {
+      "artist": "The Weather Station",
+      "title": "Robber",
+      "services": {
+        "qobuz": "98087568"
+      },
+      "album": "Ignorance",
+      "duration": 320,
+      "isrc": "USFP13774601"
+    },
+    {
+      "artist": "Big Thief",
+      "title": "Simulation Swarm",
+      "services": {
+        "qobuz": "136139007"
+      },
+      "album": "Dragon New Warm Mountain I Believe In You",
+      "duration": 252,
+      "isrc": "GBAFL2100193"
+    }
+  ]
+}

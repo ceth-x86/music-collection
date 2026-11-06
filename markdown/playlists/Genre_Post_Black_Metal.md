@@ -1,0 +1,108 @@
+# Genre: Post Black Metal
+
+Imported genre playlist: Post Black Metal.
+
+Services: `qobuz:66734251`
+
+## Tracks (100)
+
+- **Diabolical Masquerade** — Blackheim's Quest To Bring Back The Stolen Autumn [Ravendusk In My Heart] (6:18) `isrc:GBCQV0700359` `qobuz:51001912`
+- **Ulver** — I Troldskog Faren Vild [Bergtatt] (7:51) `isrc:NOFVH9505010` `qobuz:58915824`
+- **Ved Buens Ende** — I Sang for the Swans [Written in Waters] (7:01) `isrc:DEZ901801070` `qobuz:79713740`
+- **Mysticum** — The Rest [In the Streams of Inferno] (4:26) `isrc:GBCQV1200395` `qobuz:50996960`
+- **Arcturus** — The Chaos Path [La Masquerade Infernale] (5:33) `isrc:DES561826103` `qobuz:189629081`
+- **Gwar** — Hail, Genocide! [Bloody Pit of Horror] (3:19) `isrc:USMBR1007865` `qobuz:117797339`
+- **The Kovenant** — New World Order [Animatronik] (4:30) `isrc:DED839945302` `qobuz:61267576`
+- **Dodheimsgard** — Traces of Reality [Satanic Art] (7:06) `isrc:GBCQV9800219` `qobuz:153899095`
+- **The Soggy Bottom Boys** — I Am A Man Of Constant Sorrow [O Brother, Where Art Thou?] (3:09) `isrc:USMR10000050` `qobuz:57937464`
+- **Féral** — As the Feast Begins [Where Dead Dreams Dwell] (5:30) `isrc:DEOJ91514703` `qobuz:31792019`
+- **Thorns** — Underneath the Universe 1 [Thorns] (7:46) `isrc:GBCQV1100610` `qobuz:51150931`
+- **Aborym** — With No Human Intervention [With No Human Intervention] (6:19) `isrc:ITJ350300104` `qobuz:55159044`
+- **Blut Aus Nord** — The Choir Of The Dead [The Work Which Transforms God] (6:40) `isrc:GBADD0409402` `qobuz:160834076`
+- **Solefald** — Dionysify This Night of Spring [In Harmonia Universal] (8:12) `isrc:US4E40419505` `qobuz:27573014`
+- **Deathspell Omega** — Sola Fide I [Si Monumentum Requires, Circumspice] (5:14) `isrc:FR6V81448427` `qobuz:50631498`
+- **Enslaved** — Isa [Isa] (3:46) `isrc:NOTAB0407030` `qobuz:51213276`
+- **Alcest** — Elévation [Le secret] (13:56) `isrc:DES561111402` `qobuz:189615098`
+- **Richard Bennett** — It's a Lucky Old World [Code Red Cloud Nine] (4:43) `isrc:USX9P0794375` `qobuz:86858290`
+- **Agalloch** — Falling Snow [Ashes Against The Grain] (9:38) `isrc:US2421671902` `qobuz:380494997`
+- **Negura Bunget** — Tesarul de Lumini [OM] (12:48) `isrc:ITJ350600290` `qobuz:55159149`
+- **Shining** — For the God Below [Redefining Darkness] (8:36) `isrc:FIUM71600445` `qobuz:195551682`
+- **Wolves In The Throne Room** — I Will Lay Down My Bones Among The Rocks And Roots [Two Hunters] (18:16) `isrc:USZPA0900068` `qobuz:60615701`
+- **Coldworld** — Suicide [The Stars Are Dead Now] (5:15) `isrc:USA2P2031591` `qobuz:251626504`
+- **Krallice** — Cnestorial [Krallice] (10:42) `isrc:USHM21634579` `qobuz:81531903`
+- **Lifelover** — Androider [Dekadens] (5:11) `isrc:FR4E60900780` `qobuz:10357824`
+- **Nachtmystium** — Ghosts of Grace [Assassins: Black Meddle, Pt. I] (4:49) `isrc:US4E40849603` `qobuz:47458010`
+- **Amesoeurs** — Amesoeurs [Amesoeurs] (4:03) `isrc:ITJ350900519` `qobuz:55016837`
+- **Austere** — To Fade With the Dusk [To Lay Like Old Ashes] (7:34) `isrc:DES562210126` `qobuz:189662773`
+- **Poppy** — the cost of giving up [Negative Spaces] (3:17) `isrc:USFYZ2429002` `qobuz:286181611`
+- **Altar Of Plagues** — Mills [Teethed Glory & Injury] (4:08) `isrc:GBADD1341801` `qobuz:190324823`
+- **Ihsahn** — Misanthrope [angL] (4:58) `isrc:GBADD0821801` `qobuz:189989317`
+- **Lantlôs** — Pulse/ Surreal [.neon] (8:23) `isrc:DES561098703` `qobuz:189595433`
+- **Les Discrets** — L'échappée [Septembre et ses dernières pensées] (4:03) `isrc:DES560910302` `qobuz:189613920`
+- **Totalselfhatred** — Enlightment [Totalselfhatred] (5:41) `isrc:FR4E60800530` `qobuz:10273986`
+- **Falls of Rauros** — The Fire We Fathered [Hail Wind and Hewn Oak] (12:00) `isrc:SEVVF1600802` `qobuz:210308008`
+- **Heretoir** — Fatigue [Heretoir] (7:17) `isrc:DEPI82220728` `qobuz:186819701`
+- **The Who** — My Generation [My Generation] (3:19) `isrc:GBUM71406026` `qobuz:20554382`
+- **Woods of Desolation** — Unfold [As the Stars] (5:04) `isrc:FR33T2213402` `qobuz:171492604`
+- **A Forest Of Stars** — Gatherer of the Pure [A Shadowplay for Yesterdays] (8:19) `isrc:DES561293007` `qobuz:189596238`
+- **An Autumn for Crippled Children** — As the Void [Closure] (4:42) `isrc:USERN1010981` `qobuz:197647467`
+- **Bosse-de-Nage** — The God Ennui [III] (10:26) `isrc:USN681210049` `qobuz:41091849`
+- **Mandy, Indiana** — Dodecahedron [URGH] (3:22) `isrc:US5NR2637304` `qobuz:363131826`
+- **Panopticon** — Kentucky [Kentucky] (3:21) `isrc:SEVVF1700808` `qobuz:210311706`
+- **Svartidaudi** — Sterile Seeds [Flesh Cathedral] (15:31) `isrc:DENI11800632` `qobuz:59842570`
+- **Urfaust** — Die Erste Levitation [Compilation Of Intoxications] (5:07) `isrc:DENI12100045` `qobuz:117734290`
+- **Deafheaven** — Dream House [Sunbather] (9:14) `isrc:QZ22D2300064` `qobuz:218527189`
+- **GERM** — The Stain of Past Regrets [Grief] (5:48) `isrc:DES561415903` `qobuz:189619234`
+- **Vattnet Viskar** — New Alchemy [Sky Swallower] (5:56) `isrc:US4E41304701` `qobuz:27557341`
+- **Anomali** — Gräns [Reflections III] (7:50) `isrc:GBKQU2260954` `qobuz:164194974`
+- **Hail Spirit Noir** — Blood Guru [Oi Magoi] (6:17) `isrc:ITJ351401316` `qobuz:54206305`
+- **Harakiri for the Sky** — Fire, Walk with Me [Arson] (9:08) `isrc:DEPI81701840` `qobuz:44161711`
+- **Saor** — Aura (Remastered) [Aura (Remastered)] (13:37) `isrc:USHM82041373` `qobuz:97342422`
+- **Sinmara** — Aphotic Womb [Aphotic Womb] (6:37) `isrc:DENI11800641` `qobuz:59872048`
+- **So Hideous** — To Clasp A Fallen Wish With Broken Fingers [To Clasp A Fallen Wish With Broken Fingers] (4:38) `isrc:QM4H61500104` `qobuz:222159650`
+- **Kerry King** — Where I Reign [From Hell I Rise] (3:50) `isrc:QZYEH2300013` `qobuz:249266776`
+- **Akhlys** — Tides of Oneiric Darkness [The Dreaming I] (5:33) `isrc:FR9W11421335` `qobuz:23816307`
+- **Der Weg einer Freiheit** — Eiswanderer [Stellar] (9:15) `isrc:FR33T1534905` `qobuz:77792177`
+- **Ghost Bath** — Golden Number [Moonlover] (9:08) `isrc:DED831600015` `qobuz:60777424`
+- **Misþyrming** — Orgia [Algleymi] (5:28) `isrc:FXQ111900019` `qobuz:61707222`
+- **Downfall of Gaia** — Woe [Atrophy] (8:54) `isrc:USMBR1612056` `qobuz:60650391`
+- **Laster** — Alles Wat Mij Bevalt, Ontvalt Me [De Verste Verte Is Hier] (13:46) `isrc:DES561823205` `qobuz:189626588`
+- **Numenorean** — Home [Home] (9:13) `isrc:FR33T1639101` `qobuz:77796381`
+- **Oathbreaker** — Needles in Your Skin [Rheia] (7:14) `isrc:QZ22D1600273` `qobuz:72959723`
+- **Oranssi Pazuzu** — Uusi teknokratia [Mestarin kynsi] (10:20) `isrc:DED831901479` `qobuz:86887816`
+- **Schammasch** — Consensus [Triangle] (8:20) `isrc:USERN1009287` `qobuz:30603754`
+- **Sylvaine** — Abeyance [Atoms Aligned, Coming Undone] (5:37) `isrc:FR33T1848903` `qobuz:77785000`
+- **Au Dessus** — VI [End of Chapter] (6:12) `isrc:FR9W11730825` `qobuz:59703607`
+- **Dawn Ray'd** — A Litany to Cowards [The Unlawful Assembly] (3:10) `isrc:USERN1009661` `qobuz:44178691`
+- **Týr** — Mare of My Night [Valkyrja] (3:55) `isrc:USMBR1309793` `qobuz:60805269`
+- **Sömn** — Tempest [The All-Devouring] (9:58) `isrc:USCGH1939188` `qobuz:68223656`
+- **Sunken** — Departure [Departure] (11:33) `isrc:QZWFG2304201` `qobuz:241138709`
+- **Svalbard** — Revenge Porn [It's Hard to Have Hope] (6:15) `isrc:GBMLT1501094` `qobuz:162553007`
+- **Wending Tide** — The Painter [The Painter] (4:52) `isrc:DEAR41767611` `qobuz:44722854`
+- **Zhrine** — Utopian Warfare [Unortheta] (7:17) `isrc:FR33T1638001` `qobuz:77783588`
+- **Imperial Triumphant** — Swarming Opulence [Vile Luxury] (6:25) `isrc:GBDHC2444801` `qobuz:248517344`
+- **MØL** — Bruma [Jord] (5:23) `isrc:GBMLT1501104` `qobuz:109140951`
+- **J Scott Rakozy** — Gateways to the Far Stars [Hogwarts Legacy (Study Themes from the Original Video Game Soundtrack)] (0:59) `isrc:USNLR2300092` `qobuz:196308222`
+- **None** — The Damp Chill of Life [Damp Chill of Life] (10:30) `isrc:USCGJ1927543` `qobuz:100348673`
+- **White Ward** — Love Exchange Failure [Love Exchange Failure] (11:55) `isrc:FR9W11914386` `qobuz:64215295`
+- **Tragédie** — L'Art du corps et du coeur [A Fleur 2 Peau] (4:05) `isrc:FR3T40400012` `qobuz:11577944`
+- **deluge** — Gloire Au Silence [Ægo Templo] (6:51) `isrc:USMBR2014495` `qobuz:100428632`
+- **Ellende** — Triebe II [Triebe] (10:41) `isrc:TCAFH2019405` `qobuz:370323194`
+- **Gaerea** — Null [Limbo] (6:01) `isrc:FR33T2055602` `qobuz:93957191`
+- **Sadness** — i want to be with you [i want to be there] (5:55) `isrc:GBSMU6624912` `qobuz:117562243`
+- **Wayfarer** — The Crimson Rider (Gallows Frontier, Act I) [A Romance with Violence] (10:40) `isrc:USN682025102` `qobuz:131285534`
+- **Albin de la Simone** — L'un de nous [L'un de nous] (2:37) `isrc:FR79W1600790` `qobuz:57227877`
+- **Portrayal of Guilt** — Chamber of Misery Pt. IV [...Beginning of the End] (1:06) `isrc:QMCE72629708` `qobuz:390167934`
+- **Show Me a Dinosaur** — Red River [Plantgazer] (9:36) `isrc:TCAFF2002764` `qobuz:126882808`
+- **Somnuri** — Death Is The Beginning [Desiderium] (5:07) `isrc:US5ED2202570` `qobuz:206251198`
+- **Trna** — Earthcult [Earthcult] (14:58) `isrc:USCGJ1828517` `qobuz:98034440`
+- **Violet Cold** — Be Like Magic [Empire of Love] (5:30) `isrc:CH6542138688` `qobuz:390816496`
+- **Agriculture** — The Circle Chant [The Circle Chant] (5:05) `isrc:QZHN62256055` `qobuz:156134327`
+- **Ashenspire** — The Law of Asbestos [Hostile Architecture] (8:31) `isrc:ITJ352001875` `qobuz:165049496`
+- **Weezer** — Island In The Sun [Weezer] (3:20) `isrc:USIR10110358` `qobuz:754346`
+- **Karg** — EBBE//FLUT [Resignation] (10:21) `isrc:DEPI82102430` `qobuz:175222596`
+- **Andrew Lahiff** — Frozen Bloom [A Dream Awaiting a Dreamer] (8:55) `isrc:QT3TB2525089` `qobuz:376006737`
+- **Respire** — Cicatrice [Black Line] (4:55) `isrc:GBMLT1501534` `qobuz:105985783`
+- **Underdark** — Managed Decline I [Managed Decline] (9:46) `isrc:GX34M2100241` `qobuz:226501295`
+- **Daft Punk** — Beyond [Random Access Memories] (4:50) `isrc:USQX91300109` `qobuz:9140032`
+- **Together to the Stars** — The Fragile Silence [The Fragile Silence] (7:12) `isrc:QZPLR2496242` `qobuz:274946734`

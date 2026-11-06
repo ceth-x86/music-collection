@@ -1,0 +1,1010 @@
+{
+  "name": "Genre: Indie Pop",
+  "services": {
+    "qobuz": "66732737",
+    "tidal": "f07136c1-fb83-4ecf-8e83-8f62f9062823"
+  },
+  "description": "Imported genre playlist: Indie Pop.",
+  "tracks": [
+    {
+      "artist": "Television Personalities",
+      "title": "Part Time Punks",
+      "services": {
+        "qobuz": "194802381"
+      },
+      "album": "Yes Darling, But Is It Art",
+      "duration": 158,
+      "isrc": "GBCKK9502403"
+    },
+    {
+      "artist": "Orange Juice",
+      "title": "Rip It Up",
+      "services": {
+        "qobuz": "169116386"
+      },
+      "album": "Rip It Up",
+      "duration": 320,
+      "isrc": "GBCEL1000577"
+    },
+    {
+      "artist": "The Go-Betweens",
+      "title": "Cattle And Cane",
+      "services": {
+        "qobuz": "244447878"
+      },
+      "album": "Before Hollywood",
+      "duration": 262,
+      "isrc": "GBCEL2300818"
+    },
+    {
+      "artist": "Young Marble Giants",
+      "title": "Final Day",
+      "services": {
+        "qobuz": "103317960"
+      },
+      "album": "Colossal Youth",
+      "duration": 103,
+      "isrc": "GBCEL0700262"
+    },
+    {
+      "artist": "Marine Girls",
+      "title": "In Love",
+      "services": {
+        "qobuz": "134975245"
+      },
+      "album": "Lazy Ways / Beach Paty",
+      "duration": 117,
+      "isrc": "GBBLY8100202"
+    },
+    {
+      "artist": "Velocity Girl",
+      "title": "Breaking Lines - Seven Seas single",
+      "services": {
+        "qobuz": "407831142"
+      },
+      "album": "\u00a1Simpatico!",
+      "duration": 169,
+      "isrc": "USSUB2570320"
+    },
+    {
+      "artist": "David Keegan",
+      "title": "Safety Net",
+      "services": {
+        "qobuz": "277825940"
+      },
+      "album": "Will Anything Happen",
+      "duration": 130,
+      "isrc": "UKKP22400796"
+    },
+    {
+      "artist": "Close Lobsters",
+      "title": "Firestation Towers",
+      "services": {
+        "qobuz": "194821441"
+      },
+      "album": "Forever, Until Victory!",
+      "duration": 110,
+      "isrc": "GBCKK0903911"
+    },
+    {
+      "artist": "Primal Scream",
+      "title": "Velocity Girl",
+      "services": {
+        "qobuz": "60931490"
+      },
+      "album": "Maximum Rock'n'Roll: The Singles (Remastered)",
+      "duration": 83,
+      "isrc": "GBARL1900105"
+    },
+    {
+      "artist": "The Soup Dragons",
+      "title": "Pleasantly Surprised",
+      "services": {
+        "qobuz": "34380009"
+      },
+      "album": "Hang-Ten!",
+      "duration": 129,
+      "isrc": "USWB10501881"
+    },
+    {
+      "artist": "The Mighty Lemon Drops",
+      "title": "Happy Head",
+      "services": {
+        "qobuz": "169147853"
+      },
+      "album": "Rollercoaster: The Best of The Mighty Lemon Drops (1986-1989)",
+      "duration": 147,
+      "isrc": "GBAYK8600040"
+    },
+    {
+      "artist": "Talulah Gosh",
+      "title": "Steaming Train",
+      "services": {
+        "qobuz": "11409137"
+      },
+      "album": "Was It Just a Dream?",
+      "duration": 103,
+      "isrc": "GBGLR1300023"
+    },
+    {
+      "artist": "Everclear",
+      "title": "Molly's Lips",
+      "services": {
+        "qobuz": "211023215"
+      },
+      "album": "Live At The Whisky A Go Go",
+      "duration": 121,
+      "isrc": "USBT21629007"
+    },
+    {
+      "artist": "The Sea Urchins",
+      "title": "Pristine Christine",
+      "services": {
+        "qobuz": "18508958"
+      },
+      "album": "Stardust",
+      "duration": 167,
+      "isrc": "GBMFU0600001"
+    },
+    {
+      "artist": "The Servants",
+      "title": "Transparent",
+      "services": {
+        "qobuz": "411897949"
+      },
+      "album": "Entrance \u2013 The C86 Line-up Singles",
+      "duration": 155,
+      "isrc": "GBBLY0601966"
+    },
+    {
+      "artist": "The Primitives",
+      "title": "Crash",
+      "services": {
+        "qobuz": "457263"
+      },
+      "album": "Lovely",
+      "duration": 151,
+      "isrc": "GBARL8800002"
+    },
+    {
+      "artist": "The Field Mice",
+      "title": "Emma's House",
+      "services": {
+        "qobuz": "14969676"
+      },
+      "album": "Where'd You Learn To Kiss That Way?",
+      "duration": 216,
+      "isrc": "GBMFU0600029"
+    },
+    {
+      "artist": "Beat Happening",
+      "title": "Indian Summer",
+      "services": {
+        "qobuz": "27293493"
+      },
+      "album": "Look Around",
+      "duration": 182,
+      "isrc": "USK110400203"
+    },
+    {
+      "artist": "The Darling Buds",
+      "title": "Burst",
+      "services": {
+        "qobuz": "455235"
+      },
+      "album": "Pop Said...",
+      "duration": 171,
+      "isrc": "GBBBM8802029"
+    },
+    {
+      "artist": "St. Christopher",
+      "title": "You Deserve More Than A Maybe",
+      "services": {
+        "qobuz": "20393868"
+      },
+      "album": "Air Balloon Road: a Sarah Records compilation",
+      "duration": 170,
+      "isrc": "GBMFU0600034"
+    },
+    {
+      "artist": "Brighter",
+      "title": "Noah's Ark",
+      "services": {
+        "qobuz": "48066284"
+      },
+      "album": "Disney & Other Singles",
+      "duration": 306,
+      "isrc": "GBMFU0600068"
+    },
+    {
+      "artist": "The Orchids",
+      "title": "Something for the Longing",
+      "services": {
+        "qobuz": "138454965"
+      },
+      "album": "Who Needs Tomorrow",
+      "duration": 327,
+      "isrc": "GBMFU0600073"
+    },
+    {
+      "artist": "Saint Etienne",
+      "title": "Nothing Can Stop Us",
+      "services": {
+        "qobuz": "40812503"
+      },
+      "album": "Foxbase Alpha",
+      "duration": 261,
+      "isrc": "GBUM70811383"
+    },
+    {
+      "artist": "Even As We Speak",
+      "title": "One Step Forward",
+      "services": {
+        "qobuz": "2375603"
+      },
+      "album": "Feral Pop Frenzy",
+      "duration": 258,
+      "isrc": "GBMFU0600125"
+    },
+    {
+      "artist": "The Hit Parade",
+      "title": "In Gunnersbury Park",
+      "services": {
+        "qobuz": "73913032"
+      },
+      "album": "Pick Of The Pops (Vol. 1)",
+      "duration": 177,
+      "isrc": "GBMFU0600145"
+    },
+    {
+      "artist": "Blueboy",
+      "title": "Popkiss",
+      "services": {
+        "qobuz": "272037795"
+      },
+      "album": "Clearer and other singles, 1991-1998",
+      "duration": 258,
+      "isrc": "GBMFU0600161"
+    },
+    {
+      "artist": "Another Sunny Day",
+      "title": "You Should All Be Murdered",
+      "services": {
+        "qobuz": "48066087"
+      },
+      "album": "London Weekend",
+      "duration": 278,
+      "isrc": "GBMFU0600054"
+    },
+    {
+      "artist": "The Sugargliders",
+      "title": "Letter From A Lifeboat",
+      "services": {
+        "qobuz": "342091212"
+      },
+      "album": "A Nest With A View 1990-1994",
+      "duration": 265,
+      "isrc": "USHM82588644"
+    },
+    {
+      "artist": "Heavenly",
+      "title": "Atta Girl",
+      "services": {
+        "qobuz": "48066178"
+      },
+      "album": "Atta Girl",
+      "duration": 238,
+      "isrc": "GBMFU0600210"
+    },
+    {
+      "artist": "Tiger Trap",
+      "title": "Puzzle Pieces",
+      "services": {
+        "qobuz": "25276953"
+      },
+      "album": "Tiger Trap",
+      "duration": 150,
+      "isrc": "USK110401701"
+    },
+    {
+      "artist": "Boyracer",
+      "title": "I've Got It And It's Not Worth Having",
+      "services": {
+        "qobuz": "23299110"
+      },
+      "album": "B is for Boyracer: the Sarah Singles, 1993-1994",
+      "duration": 151,
+      "isrc": "GBMFU0600192"
+    },
+    {
+      "artist": "The Cardigans",
+      "title": "Rise & Shine",
+      "services": {
+        "qobuz": "58421357"
+      },
+      "album": "Emmerdale",
+      "duration": 210,
+      "isrc": "SEBKB9429010"
+    },
+    {
+      "artist": "The Wannadies",
+      "title": "You And Me Song",
+      "services": {
+        "qobuz": "105663465"
+      },
+      "album": "Be A Girl",
+      "duration": 169,
+      "isrc": "SELAC9409010"
+    },
+    {
+      "artist": "The Softies",
+      "title": "Hello Rain",
+      "services": {
+        "qobuz": "25284353"
+      },
+      "album": "It's Love",
+      "duration": 219,
+      "isrc": "USK110404301"
+    },
+    {
+      "artist": "Unwed Sailor",
+      "title": "Don't Let Go",
+      "services": {
+        "qobuz": "394845311"
+      },
+      "album": "High Remembrance",
+      "duration": 237,
+      "isrc": "QMGEB2601403"
+    },
+    {
+      "artist": "Belle and Sebastian",
+      "title": "Get Me Away from Here, I'm Dying",
+      "services": {
+        "qobuz": "8922142"
+      },
+      "album": "If You're Feeling Sinister",
+      "duration": 205,
+      "isrc": "GBCAX9600106"
+    },
+    {
+      "artist": "Bis",
+      "title": "Kandy Pop",
+      "services": {
+        "qobuz": "237778188"
+      },
+      "album": "I Love Bis",
+      "duration": 166,
+      "isrc": "UK8RE1500011"
+    },
+    {
+      "artist": "Ivy",
+      "title": "This Is The Day",
+      "services": {
+        "qobuz": "174739070"
+      },
+      "album": "Apartment Life",
+      "duration": 212,
+      "isrc": "USUR30300033"
+    },
+    {
+      "artist": "Komeda",
+      "title": "It's Alright,  Baby",
+      "services": {
+        "qobuz": "81935925"
+      },
+      "album": "What Makes It Go?",
+      "duration": 171,
+      "isrc": "SEUM71700766"
+    },
+    {
+      "artist": "Milo\u0161 Karadagli\u0107",
+      "title": "The Book Of Love (Arr. Hale)",
+      "services": {
+        "qobuz": "63811259"
+      },
+      "album": "Sound Of Silence",
+      "duration": 199,
+      "isrc": "GBUM71903441"
+    },
+    {
+      "artist": "Tahiti 80",
+      "title": "Yellow Butterfly",
+      "services": {
+        "qobuz": "11130835"
+      },
+      "album": "Puzzle",
+      "duration": 274,
+      "isrc": "FR5E79800610"
+    },
+    {
+      "artist": "Dressy Bessy",
+      "title": "If You Should Try To Kiss Her",
+      "services": {
+        "qobuz": "74351363"
+      },
+      "album": "Pink Hearts, Yellow Moons",
+      "duration": 164,
+      "isrc": "US25T9910545"
+    },
+    {
+      "artist": "The Aislers Set",
+      "title": "The Red Door",
+      "services": {
+        "qobuz": "77347863"
+      },
+      "album": "The Last Match",
+      "duration": 166,
+      "isrc": "US4TA0400515"
+    },
+    {
+      "artist": "The New Pornographers",
+      "title": "Letter From An Occupant",
+      "services": {
+        "qobuz": "26440934"
+      },
+      "album": "Mass Romantic",
+      "duration": 226,
+      "isrc": "USMTD0354006"
+    },
+    {
+      "artist": "The Lucksmiths",
+      "title": "Music To Hold Hands To",
+      "services": {
+        "qobuz": "298550801"
+      },
+      "album": "Why That Doesn't Surprise Me",
+      "duration": 227,
+      "isrc": "AU25T0610207"
+    },
+    {
+      "artist": "Trembling Blue Stars",
+      "title": "The Ghost Of An Unkissed Kiss",
+      "services": {
+        "qobuz": "14964801"
+      },
+      "album": "Alive To Every Smile",
+      "duration": 273,
+      "isrc": "GBMZG0600073"
+    },
+    {
+      "artist": "Beulah",
+      "title": "Gene Autry",
+      "services": {
+        "qobuz": "14474441"
+      },
+      "album": "The Coast Is Never Clear",
+      "duration": 214,
+      "isrc": "US72K0500204"
+    },
+    {
+      "artist": "The Shins",
+      "title": "New Slang",
+      "services": {
+        "qobuz": "407826199"
+      },
+      "album": "Oh, Inverted World",
+      "duration": 230,
+      "isrc": "USSUB2141506"
+    },
+    {
+      "artist": "The Sounds",
+      "title": "Living in America",
+      "services": {
+        "qobuz": "2961663"
+      },
+      "album": "Dying to Say This to You",
+      "duration": 205,
+      "isrc": "SEPQA0213030"
+    },
+    {
+      "artist": "Camera Obscura",
+      "title": "Lloyd, I'm Ready To Be Heartbroken",
+      "services": {
+        "qobuz": "317064108"
+      },
+      "album": "Lloyd, I'm Ready To Be Heartbroken",
+      "duration": 231,
+      "isrc": "ES6640500198"
+    },
+    {
+      "artist": "Phoenix",
+      "title": "Lisztomania",
+      "services": {
+        "qobuz": "292873513"
+      },
+      "album": "Wolfgang Amadeus Phoenix",
+      "duration": 241,
+      "isrc": "FR31Q0900001"
+    },
+    {
+      "artist": "The Thrills",
+      "title": "Big Sur",
+      "services": {
+        "qobuz": "1016492"
+      },
+      "album": "Big Sur",
+      "duration": 189,
+      "isrc": "GBAAA0300204"
+    },
+    {
+      "artist": "OK Go",
+      "title": "Here It Goes Again",
+      "services": {
+        "qobuz": "4655867"
+      },
+      "album": "Oh No",
+      "duration": 179,
+      "isrc": "USCA20500270"
+    },
+    {
+      "artist": "The Magic Numbers",
+      "title": "Love Me Like You",
+      "services": {
+        "qobuz": "4631084"
+      },
+      "album": "The Magic Numbers",
+      "duration": 257,
+      "isrc": "GBDGG0500031"
+    },
+    {
+      "artist": "Peter Bjorn And John",
+      "title": "Young Folks",
+      "services": {
+        "qobuz": "885500"
+      },
+      "album": "Writer's Block",
+      "duration": 276,
+      "isrc": "SEBPA0600024"
+    },
+    {
+      "artist": "Feist",
+      "title": "1, 2, 3, 4 (Van She Tech Remix)",
+      "services": {
+        "qobuz": "1615594"
+      },
+      "album": "Kitsun\u00e9 Boombox Mixed by Jerry Bouthier",
+      "duration": 277,
+      "isrc": "FRUM70600547"
+    },
+    {
+      "artist": "The Concretes",
+      "title": "Say Something New",
+      "services": {
+        "qobuz": "34839768"
+      },
+      "album": "The Concretes",
+      "duration": 227,
+      "isrc": "SEVJH0300401"
+    },
+    {
+      "artist": "Shout Out Louds",
+      "title": "Please Please Please",
+      "services": {
+        "qobuz": "5029702"
+      },
+      "album": "Howl Howl Gaff Gaff",
+      "duration": 210,
+      "isrc": "USCA20500122"
+    },
+    {
+      "artist": "The Boy Least Likely To",
+      "title": "Be Gentle With Me",
+      "services": {
+        "qobuz": "80588597"
+      },
+      "album": "The Best Party Ever",
+      "duration": 227,
+      "isrc": "GBJUN0500001"
+    },
+    {
+      "artist": "The Pipettes",
+      "title": "Pull Shapes",
+      "services": {
+        "qobuz": "49427798"
+      },
+      "album": "We Are The Pipettes",
+      "duration": 178,
+      "isrc": "GBCSG0600080"
+    },
+    {
+      "artist": "Hellogoodbye",
+      "title": "Here (In Your Arms)",
+      "services": {
+        "qobuz": "134273122"
+      },
+      "album": "Zombies! Aliens! Vampires! Dinosaurs! And More!",
+      "duration": 240,
+      "isrc": "USDTR0600111"
+    },
+    {
+      "artist": "Architecture in Helsinki",
+      "title": "Do the Whirlwind",
+      "services": {
+        "qobuz": "23626289"
+      },
+      "album": "In Case We Die",
+      "duration": 274,
+      "isrc": "GBGEY0500027"
+    },
+    {
+      "artist": "Los Campesinos!",
+      "title": "You! Me! Dancing! (2018 Remaster)",
+      "services": {
+        "qobuz": "348379013"
+      },
+      "album": "Hold On Now, Youngster... (2018 Deluxe Remaster)",
+      "duration": 405,
+      "isrc": "GBDNH1800037"
+    },
+    {
+      "artist": "The Ting Tings",
+      "title": "That's Not My Name",
+      "services": {
+        "qobuz": "438832"
+      },
+      "album": "We Started Nothing",
+      "duration": 310,
+      "isrc": "GBARL0800038"
+    },
+    {
+      "artist": "The Wombats",
+      "title": "Let's Dance to Joy Division",
+      "services": {
+        "qobuz": "2904314"
+      },
+      "album": "Proudly Present... A Guide to Love, Loss & Desperation",
+      "duration": 191,
+      "isrc": "GBFTG0300132"
+    },
+    {
+      "artist": "Lykke Li",
+      "title": "Little Bit (feat. Autoerotique)",
+      "services": {
+        "qobuz": "175841300"
+      },
+      "album": "Little Bit (feat. Autoerotique)",
+      "duration": 234,
+      "isrc": "GBCRL2200698"
+    },
+    {
+      "artist": "The Whitest Boy Alive",
+      "title": "Golden Cage",
+      "services": {
+        "qobuz": "17625774"
+      },
+      "album": "Dreams",
+      "duration": 242,
+      "isrc": "DED620600073"
+    },
+    {
+      "artist": "Miike Snow",
+      "title": "Animal",
+      "services": {
+        "qobuz": "320260273"
+      },
+      "album": "Miike Snow",
+      "duration": 264,
+      "isrc": "GBARL0900399"
+    },
+    {
+      "artist": "The Spinto Band",
+      "title": "Oh Mandy",
+      "services": {
+        "qobuz": "4731305"
+      },
+      "album": "Nice And Nicely Done",
+      "duration": 215,
+      "isrc": "US37V0516803"
+    },
+    {
+      "artist": "Voxtrot",
+      "title": "The Start of Something",
+      "services": {
+        "qobuz": "385422258"
+      },
+      "album": "Raised By Wolves",
+      "duration": 271,
+      "isrc": "USHM80559016"
+    },
+    {
+      "artist": "Foster The People",
+      "title": "Pumped Up Kicks",
+      "services": {
+        "qobuz": "14069908"
+      },
+      "album": "Torches",
+      "duration": 239,
+      "isrc": "USSM11002931"
+    },
+    {
+      "artist": "Grouplove",
+      "title": "Tongue Tied",
+      "services": {
+        "qobuz": "3872634"
+      },
+      "album": "Never Trust a Happy Song",
+      "duration": 217,
+      "isrc": "USAT21101334"
+    },
+    {
+      "artist": "Walk The Moon",
+      "title": "Anna Sun",
+      "services": {
+        "qobuz": "47523938"
+      },
+      "album": "Walk The Moon (Expanded Edition)",
+      "duration": 321,
+      "isrc": "USRC11200002"
+    },
+    {
+      "artist": "Bastille",
+      "title": "Pompeii",
+      "services": {
+        "qobuz": "7268219"
+      },
+      "album": "Pompeii",
+      "duration": 213,
+      "isrc": "GBAAA1200795"
+    },
+    {
+      "artist": "Haim",
+      "title": "The Wire",
+      "services": {
+        "qobuz": "11530764"
+      },
+      "album": "Days Are Gone",
+      "duration": 245,
+      "isrc": "GBUM71304660"
+    },
+    {
+      "artist": "Capital Cities",
+      "title": "Safe and Sound",
+      "services": {
+        "qobuz": "287032844"
+      },
+      "album": "In A Tidal Wave of Mystery (Deluxe Edition)",
+      "duration": 192,
+      "isrc": "TCABD1246970"
+    },
+    {
+      "artist": "Two Door Cinema Club",
+      "title": "What You Know",
+      "services": {
+        "qobuz": "11093525"
+      },
+      "album": "Tourist History",
+      "duration": 190,
+      "isrc": "FRU700900116"
+    },
+    {
+      "artist": "The Naked And Famous",
+      "title": "Young Blood",
+      "services": {
+        "qobuz": "388668376"
+      },
+      "album": "Passive Me, Aggressive You",
+      "duration": 246,
+      "isrc": "NZNK11000001"
+    },
+    {
+      "artist": "San Cisco",
+      "title": "Awkward",
+      "services": {
+        "qobuz": "6788747"
+      },
+      "album": "Awkward EP",
+      "duration": 153,
+      "isrc": "AUU221100001"
+    },
+    {
+      "artist": "The Mowgli's",
+      "title": "San Francisco",
+      "services": {
+        "qobuz": "54431647"
+      },
+      "album": "Waiting For The Dawn",
+      "duration": 172,
+      "isrc": "USUM71213439"
+    },
+    {
+      "artist": "Neon Trees",
+      "title": "Animal",
+      "services": {
+        "qobuz": "3189961"
+      },
+      "album": "Habits",
+      "duration": 211,
+      "isrc": "USUM71001801"
+    },
+    {
+      "artist": "Fitz and The Tantrums",
+      "title": "The Walker",
+      "services": {
+        "qobuz": "14105902"
+      },
+      "album": "More Than Just a Dream",
+      "duration": 232,
+      "isrc": "USAT21300240"
+    },
+    {
+      "artist": "Saint Motel",
+      "title": "My Type",
+      "services": {
+        "qobuz": "17384145"
+      },
+      "album": "My Type EP",
+      "duration": 204,
+      "isrc": "GBAYE1400856"
+    },
+    {
+      "artist": "Bad Suns",
+      "title": "Cardiac Arrest",
+      "services": {
+        "qobuz": "77668916"
+      },
+      "album": "Language & Perspective",
+      "duration": 182,
+      "isrc": "USVR91316301"
+    },
+    {
+      "artist": "The Griswolds",
+      "title": "Beware The Dog",
+      "services": {
+        "qobuz": "35414967"
+      },
+      "album": "Be Impressive",
+      "duration": 201,
+      "isrc": "USWU31400034"
+    },
+    {
+      "artist": "Coin",
+      "title": "Talk Too Much",
+      "services": {
+        "qobuz": "39943304"
+      },
+      "album": "How Will You Know If You Never Try",
+      "duration": 189,
+      "isrc": "USSM11602662"
+    },
+    {
+      "artist": "Charly Bliss",
+      "title": "Percolator",
+      "services": {
+        "qobuz": "57571393"
+      },
+      "album": "Guppy",
+      "duration": 166,
+      "isrc": "USBS51600054"
+    },
+    {
+      "artist": "The Beths",
+      "title": "Future Me Hates Me",
+      "services": {
+        "qobuz": "156379331"
+      },
+      "album": "Future Me Hates Me",
+      "duration": 245,
+      "isrc": "US22N1812802"
+    },
+    {
+      "artist": "The Aces",
+      "title": "Stuck (Album Version)",
+      "services": {
+        "qobuz": "46818450"
+      },
+      "album": "When My Heart Felt Volcanic",
+      "duration": 245,
+      "isrc": "USP6L1700243"
+    },
+    {
+      "artist": "Beach Bunny",
+      "title": "Prom Queen",
+      "services": {
+        "qobuz": "397368598"
+      },
+      "album": "Prom Queen",
+      "duration": 136,
+      "isrc": "QZDA71885746"
+    },
+    {
+      "artist": "Hippo Campus",
+      "title": "Bambi",
+      "services": {
+        "qobuz": "52522814"
+      },
+      "album": "Bambi",
+      "duration": 194,
+      "isrc": "QM5BK1800228"
+    },
+    {
+      "artist": "Wallows",
+      "title": "Are You Bored Yet? (feat. Clairo)",
+      "services": {
+        "qobuz": "58503781"
+      },
+      "album": "Nothing Happens",
+      "duration": 178,
+      "isrc": "USAT21812258"
+    },
+    {
+      "artist": "half\u2022alive",
+      "title": "still feel.",
+      "services": {
+        "qobuz": "62563090"
+      },
+      "album": "Now, Not Yet",
+      "duration": 247,
+      "isrc": "GBKPL1814938"
+    },
+    {
+      "artist": "Japanese Breakfast",
+      "title": "Be Sweet",
+      "services": {
+        "qobuz": "116463001"
+      },
+      "album": "Jubilee",
+      "duration": 195,
+      "isrc": "USJ5G2022502"
+    },
+    {
+      "artist": "TOPS",
+      "title": "Pirouette",
+      "services": {
+        "qobuz": "340951412"
+      },
+      "album": "I Feel Alive",
+      "duration": 186,
+      "isrc": "QMFME1912621"
+    },
+    {
+      "artist": "Sea Girls",
+      "title": "Transplant",
+      "services": {
+        "qobuz": "99397675"
+      },
+      "album": "Open Up Your Head",
+      "duration": 211,
+      "isrc": "GBUM72001843"
+    },
+    {
+      "artist": "BENEE",
+      "title": "Supalonely",
+      "services": {
+        "qobuz": "79763198"
+      },
+      "album": "STELLA & STEVE",
+      "duration": 223,
+      "isrc": "USUM71922597"
+    },
+    {
+      "artist": "Kero Kero Bonito",
+      "title": "Only Acting",
+      "services": {
+        "qobuz": "169772119"
+      },
+      "album": "Time 'n' Place",
+      "duration": 229,
+      "isrc": "GBKPL1897766"
+    },
+    {
+      "artist": "Mitski",
+      "title": "The Only Heartbreaker",
+      "services": {
+        "qobuz": "146128191"
+      },
+      "album": "Laurel Hell",
+      "duration": 184,
+      "isrc": "USJ5G2125006"
+    },
+    {
+      "artist": "Cafun\u00e9",
+      "title": "Tek It",
+      "services": {
+        "qobuz": "155058304"
+      },
+      "album": "Running",
+      "duration": 191,
+      "isrc": "QM24S1926168"
+    }
+  ]
+}

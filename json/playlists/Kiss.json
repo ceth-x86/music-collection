@@ -1,0 +1,208 @@
+{
+  "name": "Kiss",
+  "services": {
+    "qobuz": "66053696"
+  },
+  "tracks": [
+    {
+      "artist": "Kiss",
+      "title": "Strutter",
+      "services": {
+        "qobuz": "19998957"
+      },
+      "album": "Kiss",
+      "duration": 192,
+      "isrc": "USPR37409126"
+    },
+    {
+      "artist": "Kiss",
+      "title": "100,000 Years",
+      "services": {
+        "qobuz": "19998965"
+      },
+      "album": "Kiss",
+      "duration": 203,
+      "isrc": "USPR37409134"
+    },
+    {
+      "artist": "Kiss",
+      "title": "Black Diamond",
+      "services": {
+        "qobuz": "19998966"
+      },
+      "album": "Kiss",
+      "duration": 311,
+      "isrc": "USPR37409135"
+    },
+    {
+      "artist": "Kiss",
+      "title": "Detroit Rock City",
+      "services": {
+        "qobuz": "19998935"
+      },
+      "album": "Destroyer",
+      "duration": 314,
+      "isrc": "USPR37609134"
+    },
+    {
+      "artist": "Kiss",
+      "title": "God Of Thunder",
+      "services": {
+        "qobuz": "19998937"
+      },
+      "album": "Destroyer",
+      "duration": 254,
+      "isrc": "USPR37609136"
+    },
+    {
+      "artist": "Kiss",
+      "title": "Beth",
+      "services": {
+        "qobuz": "19998942"
+      },
+      "album": "Destroyer",
+      "duration": 166,
+      "isrc": "USPR37609141"
+    },
+    {
+      "artist": "Kiss",
+      "title": "I Want You",
+      "services": {
+        "qobuz": "20000967"
+      },
+      "album": "Rock And Roll Over",
+      "duration": 184,
+      "isrc": "USPR37609143"
+    },
+    {
+      "artist": "Kiss",
+      "title": "I Stole Your Love",
+      "services": {
+        "qobuz": "19998890"
+      },
+      "album": "Love Gun",
+      "duration": 184,
+      "isrc": "USPR37730027"
+    },
+    {
+      "artist": "Kiss",
+      "title": "Love Gun",
+      "services": {
+        "qobuz": "19998895"
+      },
+      "album": "Love Gun",
+      "duration": 196,
+      "isrc": "USPR37730032"
+    },
+    {
+      "artist": "Kiss",
+      "title": "I Was Made For Lovin' You",
+      "services": {
+        "qobuz": "20000876"
+      },
+      "album": "Dynasty",
+      "duration": 269,
+      "isrc": "USPR39330175"
+    },
+    {
+      "artist": "Kiss",
+      "title": "Sure Know Something",
+      "services": {
+        "qobuz": "20000878"
+      },
+      "album": "Dynasty",
+      "duration": 240,
+      "isrc": "USMR17930177"
+    },
+    {
+      "artist": "Kiss",
+      "title": "Charisma",
+      "services": {
+        "qobuz": "20000880"
+      },
+      "album": "Dynasty",
+      "duration": 264,
+      "isrc": "USMR17930179"
+    },
+    {
+      "artist": "Kiss",
+      "title": "Magic Touch",
+      "services": {
+        "qobuz": "20000881"
+      },
+      "album": "Dynasty",
+      "duration": 280,
+      "isrc": "USMR17930180"
+    },
+    {
+      "artist": "Kiss",
+      "title": "Shandi",
+      "services": {
+        "qobuz": "20000995"
+      },
+      "album": "Unmasked",
+      "duration": 215,
+      "isrc": "USMR18010005"
+    },
+    {
+      "artist": "Kiss",
+      "title": "Naked City",
+      "services": {
+        "qobuz": "20000997"
+      },
+      "album": "Unmasked",
+      "duration": 230,
+      "isrc": "USMR18010007"
+    },
+    {
+      "artist": "Kiss",
+      "title": "What Makes The World Go Round",
+      "services": {
+        "qobuz": "20000998"
+      },
+      "album": "Unmasked",
+      "duration": 258,
+      "isrc": "USMR18010008"
+    },
+    {
+      "artist": "Kiss",
+      "title": "Creatures Of The Night",
+      "services": {
+        "qobuz": "19998925"
+      },
+      "album": "Creatures Of The Night",
+      "duration": 243,
+      "isrc": "USMR18210009"
+    },
+    {
+      "artist": "Kiss",
+      "title": "Danger",
+      "services": {
+        "qobuz": "19998929"
+      },
+      "album": "Creatures Of The Night",
+      "duration": 240,
+      "isrc": "USMR18210013"
+    },
+    {
+      "artist": "Kiss",
+      "title": "I Still Love You",
+      "services": {
+        "qobuz": "19998931"
+      },
+      "album": "Creatures Of The Night",
+      "duration": 366,
+      "isrc": "USMR18210015"
+    },
+    {
+      "artist": "Kiss",
+      "title": "Exciter",
+      "services": {
+        "qobuz": "20000944"
+      },
+      "album": "Lick It Up",
+      "duration": 251,
+      "isrc": "USMR18382037"
+    }
+  ]
+}

@@ -1,0 +1,1010 @@
+{
+  "name": "Genre: Baroque Pop",
+  "services": {
+    "qobuz": "66736227",
+    "tidal": "27ee7224-dbe8-49a1-b6b2-826ce8437b82"
+  },
+  "description": "Imported genre playlist: Baroque Pop.",
+  "tracks": [
+    {
+      "artist": "The Left Banke",
+      "title": "Walk Away Renee",
+      "services": {
+        "qobuz": "73044198"
+      },
+      "album": "Walk Away Ren\u00e9e/Pretty Ballerina",
+      "duration": 164,
+      "isrc": "USIR20180419"
+    },
+    {
+      "artist": "The Beatles",
+      "title": "Eleanor Rigby",
+      "services": {
+        "qobuz": "172443631"
+      },
+      "album": "Revolver",
+      "duration": 126,
+      "isrc": "GBUM72202545"
+    },
+    {
+      "artist": "The Beach Boys",
+      "title": "God Only Knows",
+      "services": {
+        "qobuz": "26841847"
+      },
+      "album": "Pet Sounds",
+      "duration": 175,
+      "isrc": "USCA29600662"
+    },
+    {
+      "artist": "The Rolling Stones",
+      "title": "Lady Jane (Mono Version)",
+      "services": {
+        "qobuz": "21101687"
+      },
+      "album": "Aftermath (Original UK Edition)",
+      "duration": 189,
+      "isrc": "USA176610040"
+    },
+    {
+      "artist": "The Kinks",
+      "title": "Sunny Afternoon",
+      "services": {
+        "qobuz": "68767924"
+      },
+      "album": "Too Much on My Mind",
+      "duration": 214,
+      "isrc": "QM6P41762643"
+    },
+    {
+      "artist": "The Walker Brothers",
+      "title": "The Sun Ain't Gonna Shine Anymore",
+      "services": {
+        "qobuz": "223826765"
+      },
+      "album": "The Sun Ain't Gonna Shine Anymore",
+      "duration": 183,
+      "isrc": "USMR16687610"
+    },
+    {
+      "artist": "The Mamas & The Papas",
+      "title": "Monday, Monday",
+      "services": {
+        "qobuz": "47367993"
+      },
+      "album": "If You Can Believe Your Eyes & Ears",
+      "duration": 207,
+      "isrc": "USMC16546367"
+    },
+    {
+      "artist": "The Association",
+      "title": "Along Comes Mary",
+      "services": {
+        "qobuz": "16473389"
+      },
+      "album": "Greatest Hits",
+      "duration": 171,
+      "isrc": "USWB11400793"
+    },
+    {
+      "artist": "CatStephens",
+      "title": "Summer Wine",
+      "services": {
+        "qobuz": "371516867"
+      },
+      "album": "Summer Wine",
+      "duration": 251,
+      "isrc": "QT6F62508438"
+    },
+    {
+      "artist": "Herman's Hermits",
+      "title": "No Milk Today (2003 Remaster)",
+      "services": {
+        "qobuz": "1732976"
+      },
+      "album": "Into Something Good (The Mickie Most Years 1964-1972)",
+      "duration": 173,
+      "isrc": "GBAYE0300674"
+    },
+    {
+      "artist": "Love",
+      "title": "Alone Again Or",
+      "services": {
+        "qobuz": "25664461"
+      },
+      "album": "Forever Changes",
+      "duration": 197,
+      "isrc": "USEE11500314"
+    },
+    {
+      "artist": "Procol Harum",
+      "title": "A Whiter Shade Of Pale",
+      "services": {
+        "qobuz": "276781901"
+      },
+      "album": "The Sunday Concert",
+      "duration": 315,
+      "isrc": "USY252412535"
+    },
+    {
+      "artist": "Bee Gees",
+      "title": "To Love Somebody",
+      "services": {
+        "qobuz": "116314820"
+      },
+      "album": "Timeless - The All-Time Greatest Hits",
+      "duration": 180,
+      "isrc": "GBAKW6701004"
+    },
+    {
+      "artist": "The Hollies",
+      "title": "King Midas in Reverse",
+      "services": {
+        "qobuz": "4457103"
+      },
+      "album": "The Air That I Breathe - The Very Best of the Hollies",
+      "duration": 182,
+      "isrc": "GBGYU6700010"
+    },
+    {
+      "artist": "Harpers Bizarre",
+      "title": "59th Street Bridge Song",
+      "services": {
+        "qobuz": "2840086"
+      },
+      "album": "Feelin' Groovy: The Best Of Harpers Bizarre Featuring The 59th Street Bridge Song",
+      "duration": 151,
+      "isrc": "USWB19601251"
+    },
+    {
+      "artist": "The Free Design",
+      "title": "Kites Are Fun",
+      "services": {
+        "qobuz": "313170164"
+      },
+      "album": "Kites Are Fun",
+      "duration": 162,
+      "isrc": "USAN40600001"
+    },
+    {
+      "artist": "Scott Bradlee",
+      "title": "Different Drum",
+      "services": {
+        "qobuz": "130233503"
+      },
+      "album": "Different Drum (feat. Nicole Atkins)",
+      "duration": 183,
+      "isrc": "QZMEM2177148"
+    },
+    {
+      "artist": "Keith West",
+      "title": "Excerpt from a Teenage Opera",
+      "services": {
+        "qobuz": "174215073"
+      },
+      "album": "Grocer Jack",
+      "duration": 282,
+      "isrc": "GBAYE6600534"
+    },
+    {
+      "artist": "Nico",
+      "title": "The Fairest Of The Seasons",
+      "services": {
+        "qobuz": "62632986"
+      },
+      "album": "Chelsea Girl",
+      "duration": 250,
+      "isrc": "USF096625380"
+    },
+    {
+      "artist": "The Merry-Go-Round",
+      "title": "Live",
+      "services": {
+        "qobuz": "52432581"
+      },
+      "album": "The Merry-Go-Round",
+      "duration": 154,
+      "isrc": "USAM10110007"
+    },
+    {
+      "artist": "The Cowsills",
+      "title": "The Rain, the Park & Other Things (Rerecorded)",
+      "services": {
+        "qobuz": "294137420"
+      },
+      "album": "The Rain, the Park & Other Things / Indian Lake (Rerecorded Version)",
+      "duration": 170,
+      "isrc": "USDEI2374919"
+    },
+    {
+      "artist": "Spanky and Our Gang",
+      "title": "Sunday Will Never Be the Same",
+      "services": {
+        "qobuz": "51933160"
+      },
+      "album": "Like to Get to Know You",
+      "duration": 175,
+      "isrc": "UKDNQ1505662"
+    },
+    {
+      "artist": "Alabama",
+      "title": "If You're Gonna Play in Texas (You Gotta Have a Fiddle in the Band)",
+      "services": {
+        "qobuz": "201122"
+      },
+      "album": "Roll On",
+      "duration": 269,
+      "isrc": "USRN19400218"
+    },
+    {
+      "artist": "Gene Clark",
+      "title": "So You Say You Lost Your Baby",
+      "services": {
+        "qobuz": "47320056"
+      },
+      "album": "Gene Clark With The Gosdin Brothers + bonus tracks",
+      "duration": 127,
+      "isrc": "USSM16601839"
+    },
+    {
+      "artist": "The Byrds",
+      "title": "Lady Friend",
+      "services": {
+        "qobuz": "11403115"
+      },
+      "album": "Younger Than Yesterday",
+      "duration": 150,
+      "isrc": "USSM16700032"
+    },
+    {
+      "artist": "Sagittarius",
+      "title": "My World Fell Down",
+      "services": {
+        "qobuz": "2632229"
+      },
+      "album": "Present Tense (Expanded Edition)",
+      "duration": 174,
+      "isrc": "USSM16701426"
+    },
+    {
+      "artist": "Van Dyke Parks",
+      "title": "Vine Street",
+      "services": {
+        "qobuz": "27299673"
+      },
+      "album": "Song Cycle",
+      "duration": 220,
+      "isrc": "USWB10102763"
+    },
+    {
+      "artist": "The Moody Blues",
+      "title": "Nights In White Satin",
+      "services": {
+        "qobuz": "41004384"
+      },
+      "album": "Nights In White Satin",
+      "duration": 265,
+      "isrc": "GBA176700080"
+    },
+    {
+      "artist": "Dave Davies",
+      "title": "Death of a Clown",
+      "services": {
+        "qobuz": "67952372"
+      },
+      "album": "Kinked",
+      "duration": 196,
+      "isrc": "USKO10600147"
+    },
+    {
+      "artist": "The Supremes",
+      "title": "Love Is Here And Now You're Gone",
+      "services": {
+        "qobuz": "3870070"
+      },
+      "album": "The #1's",
+      "duration": 168,
+      "isrc": "USMO10300719"
+    },
+    {
+      "artist": "The Zombies",
+      "title": "Care Of Cell 44",
+      "services": {
+        "qobuz": "241495597"
+      },
+      "album": "Odessey and Oracle",
+      "duration": 237,
+      "isrc": "GBCBS6732201"
+    },
+    {
+      "artist": "The Millennium",
+      "title": "To Claudia on Thursday",
+      "services": {
+        "qobuz": "2694514"
+      },
+      "album": "Begin",
+      "duration": 205,
+      "isrc": "USSM16801609"
+    },
+    {
+      "artist": "Margo Guryan",
+      "title": "Sunday Morning",
+      "services": {
+        "qobuz": "210481574"
+      },
+      "album": "Take A Picture",
+      "duration": 140,
+      "isrc": "USOEG0080801"
+    },
+    {
+      "artist": "JK & Co.",
+      "title": "Fly",
+      "services": {
+        "qobuz": "31680543"
+      },
+      "album": "Suddenly One Summer",
+      "duration": 285,
+      "isrc": "US3M50891202"
+    },
+    {
+      "artist": "Eternity's Children",
+      "title": "Mrs. Bluebird",
+      "services": {
+        "qobuz": "83252741"
+      },
+      "album": "Eternity's Children",
+      "duration": 199,
+      "isrc": "GBBLY0200277"
+    },
+    {
+      "artist": "Aphrodite's Child",
+      "title": "Rain And Tears",
+      "services": {
+        "qobuz": "370669145"
+      },
+      "album": "End Of The World",
+      "duration": 197,
+      "isrc": "NLF056890022"
+    },
+    {
+      "artist": "Richard Harris",
+      "title": "MacArthur Park",
+      "services": {
+        "qobuz": "54758981"
+      },
+      "album": "A Tramp Shining",
+      "duration": 449,
+      "isrc": "USWWW0200044"
+    },
+    {
+      "artist": "Barry Ryan",
+      "title": "Eloise",
+      "services": {
+        "qobuz": "757175"
+      },
+      "album": "The Very Best Of Barry Ryan",
+      "duration": 345,
+      "isrc": "DEF066918180"
+    },
+    {
+      "artist": "Scott Walker",
+      "title": "Jackie",
+      "services": {
+        "qobuz": "9285097"
+      },
+      "album": "Scott 2",
+      "duration": 201,
+      "isrc": "GBF086700033"
+    },
+    {
+      "artist": "Harry Nilsson",
+      "title": "I Guess the Lord Must Be in New York City",
+      "services": {
+        "qobuz": "44257463"
+      },
+      "album": "Harry",
+      "duration": 163,
+      "isrc": "USRC16901014"
+    },
+    {
+      "artist": "Serge Gainsbourg",
+      "title": "Initials B.B.",
+      "services": {
+        "qobuz": "30325521"
+      },
+      "album": "Initials B.B.",
+      "duration": 213,
+      "isrc": "FRZ036800400"
+    },
+    {
+      "artist": "Fran\u00e7oise Hardy",
+      "title": "Comment te dire adieu (Remasteris\u00e9 en 2016)",
+      "services": {
+        "qobuz": "34751532"
+      },
+      "album": "Comment te dire adieu",
+      "duration": 148,
+      "isrc": "FR65X1600061"
+    },
+    {
+      "artist": "The Monkees",
+      "title": "Mr. Webster",
+      "services": {
+        "qobuz": "13087885"
+      },
+      "album": "Headquarters",
+      "duration": 126,
+      "isrc": "USRH11301057"
+    },
+    {
+      "artist": "Robin Gibb",
+      "title": "Saved By The Bell",
+      "services": {
+        "qobuz": "50884263"
+      },
+      "album": "Saved By The Bell (The Collected Works Of Robin Gibb 1968-1970)",
+      "duration": 188,
+      "isrc": "GBUM71800667"
+    },
+    {
+      "artist": "Ron McClure",
+      "title": "Fun and Games",
+      "services": {
+        "qobuz": "39297616"
+      },
+      "album": "Closer to Your Tears",
+      "duration": 377,
+      "isrc": "DKARS9702101"
+    },
+    {
+      "artist": "Tom Northcott",
+      "title": "Sunny Goodge Street",
+      "services": {
+        "qobuz": "35621009"
+      },
+      "album": "Sunny Goodge Street: The Warner Bros. Recordings",
+      "duration": 188,
+      "isrc": "USWB10703765"
+    },
+    {
+      "artist": "Wallace Collection",
+      "title": "Daydream",
+      "services": {
+        "qobuz": "42276337"
+      },
+      "album": "Laughing Cavalier",
+      "duration": 299,
+      "isrc": "GBAYE6900101"
+    },
+    {
+      "artist": "Emitt Rhodes",
+      "title": "Lullabye",
+      "services": {
+        "qobuz": "60565507"
+      },
+      "album": "The Emitt Rhodes Recordings (1969-1973)",
+      "duration": 65,
+      "isrc": "USMC17054044"
+    },
+    {
+      "artist": "Nick Drake",
+      "title": "Northern Sky",
+      "services": {
+        "qobuz": "226780443"
+      },
+      "album": "Bryter Layter",
+      "duration": 223,
+      "isrc": "GBAAN7000016"
+    },
+    {
+      "artist": "Montage",
+      "title": "I Shall Call Her Mary",
+      "services": {
+        "qobuz": "57199138"
+      },
+      "album": "Montage",
+      "duration": 144,
+      "isrc": "USCA26900173"
+    },
+    {
+      "artist": "John Randolph Marr",
+      "title": "Raggedy Ann",
+      "services": {
+        "qobuz": "320158913"
+      },
+      "album": "John Randolph Marr",
+      "duration": 147,
+      "isrc": "USRH12202055"
+    },
+    {
+      "artist": "Appaloosa",
+      "title": "Tulu Rogers",
+      "services": {
+        "qobuz": "60829597"
+      },
+      "album": "Appaloosa",
+      "duration": 236,
+      "isrc": "USSM16901427"
+    },
+    {
+      "artist": "The Pleasure Fair",
+      "title": "Turnaway",
+      "services": {
+        "qobuz": "204339118"
+      },
+      "album": "The Pleasure Fair",
+      "duration": 124,
+      "isrc": "USUM72300281"
+    },
+    {
+      "artist": "NORA Guthrie",
+      "title": "Home Before Dark",
+      "services": {
+        "qobuz": "92913979"
+      },
+      "album": "Sky Girl",
+      "duration": 156,
+      "isrc": "DETB31640016"
+    },
+    {
+      "artist": "H. P. Lovecraft",
+      "title": "Blue Jack Of Diamonds",
+      "services": {
+        "qobuz": "89517830"
+      },
+      "album": "H. P. Lovecraft II",
+      "duration": 188,
+      "isrc": "USIR20000416"
+    },
+    {
+      "artist": "Bonnie Dobson",
+      "title": "Time",
+      "services": {
+        "qobuz": "44735441"
+      },
+      "album": "Bonnie Dobson",
+      "duration": 187,
+      "isrc": "USRC10600356"
+    },
+    {
+      "artist": "The Blades of Grass",
+      "title": "Satin Slipper",
+      "services": {
+        "qobuz": "242731290"
+      },
+      "album": "The Blades of Grass Are Not for Smoking",
+      "duration": 124,
+      "isrc": "GBAYE2301300"
+    },
+    {
+      "artist": "David Garrett",
+      "title": "Can\u2019t Get You Out of My Head",
+      "services": {
+        "qobuz": "294530132"
+      },
+      "album": "Millennium Symphony",
+      "duration": 234,
+      "isrc": "DEUM72405653"
+    },
+    {
+      "artist": "Russ Giguere",
+      "title": "My Plan",
+      "services": {
+        "qobuz": "13308222"
+      },
+      "album": "Hexagram 16",
+      "duration": 280,
+      "isrc": "USWB11301708"
+    },
+    {
+      "artist": "Neon Philharmonic",
+      "title": "You Lied",
+      "services": {
+        "qobuz": "2182109"
+      },
+      "album": "Brilliant Colors: The Complete Warner Bros. Recordings",
+      "duration": 209,
+      "isrc": "USWB10301896"
+    },
+    {
+      "artist": "The Common People",
+      "title": "I Have Been Alone",
+      "services": {
+        "qobuz": "368474244"
+      },
+      "album": "Of The People / By The People / For The People - Remastered + 4 bonus tracks",
+      "duration": 189,
+      "isrc": "GBSMU1551651"
+    },
+    {
+      "artist": "Philip Brunelle",
+      "title": "The Tender Land, Act 2, Scene 3: \"Laurie, you know\u2026 I'm gettin' tired of travellin' through\" (Martin)",
+      "services": {
+        "qobuz": "138713820"
+      },
+      "album": "Copland: The Tender Land",
+      "duration": 179,
+      "isrc": "GBAYC8905361"
+    },
+    {
+      "artist": "Rosebud",
+      "title": "Lorelei",
+      "services": {
+        "qobuz": "2850204"
+      },
+      "album": "Rosebud",
+      "duration": 232,
+      "isrc": "USRE10301692"
+    },
+    {
+      "artist": "Genesis",
+      "title": "Am I Very Wrong?",
+      "services": {
+        "qobuz": "121728515"
+      },
+      "album": "Come Join My Orchestra: The British Baroque Pop Sound 1967-73",
+      "duration": 211,
+      "isrc": "GBCBT6990023"
+    },
+    {
+      "artist": "Honeybus",
+      "title": "(Do I Figure) In Your Life",
+      "services": {
+        "qobuz": "391833401"
+      },
+      "album": "She Flies Like A Bird",
+      "duration": 154,
+      "isrc": "GBAJE6700355"
+    },
+    {
+      "artist": "John McAndrew",
+      "title": "Freedoms In Our Blood",
+      "services": {
+        "qobuz": "325507740"
+      },
+      "album": "BETTER SIDE OF ME",
+      "duration": 224,
+      "isrc": "US7CU2400038"
+    },
+    {
+      "artist": "Michael Blount",
+      "title": "Acorn Street",
+      "services": {
+        "qobuz": "30641265"
+      },
+      "album": "Curiosity Shop, Volume 1: A Collection of Rare Aural Antiquities and Objet D'art from the British Isles, 1968-1971",
+      "duration": 93,
+      "isrc": "CYRLD1501401"
+    },
+    {
+      "artist": "Simon & Garfunkel",
+      "title": "Flowers Never Bend with the Rainfall",
+      "services": {
+        "qobuz": "62467629"
+      },
+      "album": "Parsley, Sage, Rosemary And Thyme",
+      "duration": 135,
+      "isrc": "USSM16600257"
+    },
+    {
+      "artist": "Tony Hazzard",
+      "title": "The Sound Of The Candyman's Trumpet",
+      "services": {
+        "qobuz": "121728512"
+      },
+      "album": "Come Join My Orchestra: The British Baroque Pop Sound 1967-73",
+      "duration": 153,
+      "isrc": "GBBLY0607515"
+    },
+    {
+      "artist": "Picadilly Line",
+      "title": "Your Dog Won't Bark",
+      "services": {
+        "qobuz": "152578974"
+      },
+      "album": "The Huge World of Emily Small",
+      "duration": 177,
+      "isrc": "GBBLY0903261"
+    },
+    {
+      "artist": "John Williams",
+      "title": "Can't Find Time For Anything Now",
+      "services": {
+        "qobuz": "121728514"
+      },
+      "album": "Come Join My Orchestra: The British Baroque Pop Sound 1967-73",
+      "duration": 133,
+      "isrc": "GBBLY1603424"
+    },
+    {
+      "artist": "Warm Sounds",
+      "title": "Sticks And Stones",
+      "services": {
+        "qobuz": "119092932"
+      },
+      "album": "Mike Hurst: The Sixties Productions",
+      "duration": 203,
+      "isrc": "GBHMX0930206"
+    },
+    {
+      "artist": "The Alan Bown",
+      "title": "You're Not in My Class",
+      "services": {
+        "qobuz": "152580317"
+      },
+      "album": "Outward Bown",
+      "duration": 214,
+      "isrc": "GBBLY1200231"
+    },
+    {
+      "artist": "Neil MacArthur",
+      "title": "Don't Try To Explain",
+      "services": {
+        "qobuz": "121728519"
+      },
+      "album": "Come Join My Orchestra: The British Baroque Pop Sound 1967-73",
+      "duration": 202,
+      "isrc": "GBHMX0212314"
+    },
+    {
+      "artist": "The Fall",
+      "title": "Popcorn Double Feature",
+      "services": {
+        "qobuz": "11521970"
+      },
+      "album": "Extricate",
+      "duration": 223,
+      "isrc": "GBF089000747"
+    },
+    {
+      "artist": "The Left Banke",
+      "title": "Barterers And Their Wives",
+      "services": {
+        "qobuz": "73044194"
+      },
+      "album": "Walk Away Ren\u00e9e/Pretty Ballerina",
+      "duration": 180,
+      "isrc": "USUM71918799"
+    },
+    {
+      "artist": "Laza Morgan",
+      "title": "One By One",
+      "services": {
+        "qobuz": "4688633"
+      },
+      "album": "One By One (feat. Mavado)",
+      "duration": 197,
+      "isrc": "USAT21100418"
+    },
+    {
+      "artist": "The Bliss",
+      "title": "Courtyards Of Castile",
+      "services": {
+        "qobuz": "121728522"
+      },
+      "album": "Come Join My Orchestra: The British Baroque Pop Sound 1967-73",
+      "duration": 176,
+      "isrc": "GBLFV1400980"
+    },
+    {
+      "artist": "The Orange Bicycle",
+      "title": "Competition",
+      "services": {
+        "qobuz": "247269633"
+      },
+      "album": "Old Feet, New Socks: The Many Faces of Wil Malone 1965-72",
+      "duration": 160,
+      "isrc": "GBFDB1000894"
+    },
+    {
+      "artist": "Mike Batt",
+      "title": "I See Wonderful Things In You",
+      "services": {
+        "qobuz": "111049755"
+      },
+      "album": "Curiosity Shop, Vol. 6 (A Rare Collection of Aural Antiquities and Objets d\u2019Art 1967-1971)",
+      "duration": 161,
+      "isrc": "CYA1E2001503"
+    },
+    {
+      "artist": "Billy Nicholls",
+      "title": "This Song Is Green",
+      "services": {
+        "qobuz": "121728525"
+      },
+      "album": "Come Join My Orchestra: The British Baroque Pop Sound 1967-73",
+      "duration": 176,
+      "isrc": "GBBLY1804490"
+    },
+    {
+      "artist": "Miles Davis Quintet",
+      "title": "I Could Write A Book",
+      "services": {
+        "qobuz": "30174159"
+      },
+      "album": "Relaxin' With The Miles Davis Quintet",
+      "duration": 310,
+      "isrc": "USC4R1604592"
+    },
+    {
+      "artist": "John Pantry",
+      "title": "Battle Of Trafalgar",
+      "services": {
+        "qobuz": "121728528"
+      },
+      "album": "Come Join My Orchestra: The British Baroque Pop Sound 1967-73",
+      "duration": 115,
+      "isrc": "GBBLY1804492"
+    },
+    {
+      "artist": "Forever Amber",
+      "title": "Letters From Her",
+      "services": {
+        "qobuz": "121728529"
+      },
+      "album": "Come Join My Orchestra: The British Baroque Pop Sound 1967-73",
+      "duration": 118,
+      "isrc": "GBBLY1804493"
+    },
+    {
+      "artist": "Andy Ellison",
+      "title": "It's Been a Long Time",
+      "services": {
+        "qobuz": "238318055"
+      },
+      "album": "Wall To Wall Jive",
+      "duration": 186,
+      "isrc": "GBMMS2200031"
+    },
+    {
+      "artist": "Paper Bubble",
+      "title": "Fillin' a Gap",
+      "services": {
+        "qobuz": "166229778"
+      },
+      "album": "Scenery",
+      "duration": 197,
+      "isrc": "QM6N21473792"
+    },
+    {
+      "artist": "Nirvana",
+      "title": "Illinois",
+      "services": {
+        "qobuz": "4365047"
+      },
+      "album": "To Markos III",
+      "duration": 217,
+      "isrc": "GBAAN0300612"
+    },
+    {
+      "artist": "Fickle Pickle",
+      "title": "Saturday",
+      "services": {
+        "qobuz": "189722540"
+      },
+      "album": "A Complete Pickle",
+      "duration": 185,
+      "isrc": "GBFDB1800071"
+    },
+    {
+      "artist": "Donovan",
+      "title": "Writer in the sun",
+      "services": {
+        "qobuz": "103450"
+      },
+      "album": "Mellow Yellow",
+      "duration": 273,
+      "isrc": "USSM10503181"
+    },
+    {
+      "artist": "The Humblebums",
+      "title": "Rick Rack",
+      "services": {
+        "qobuz": "387275372"
+      },
+      "album": "Humble Beginnings: The Complete Transatlantic Recordings 1969-74",
+      "duration": 169,
+      "isrc": "GBAJE6900651"
+    },
+    {
+      "artist": "David Bowie",
+      "title": "Life on Mars?",
+      "services": {
+        "qobuz": "25311815"
+      },
+      "album": "Hunky Dory",
+      "duration": 235,
+      "isrc": "USJT11500153"
+    },
+    {
+      "artist": "John Cale",
+      "title": "Paris 1919",
+      "services": {
+        "qobuz": "297826153"
+      },
+      "album": "Paris 1919",
+      "duration": 243,
+      "isrc": "GBCEL2303345"
+    },
+    {
+      "artist": "Sparks",
+      "title": "This Town Ain't Big Enough For Both Of Us",
+      "services": {
+        "qobuz": "13654987"
+      },
+      "album": "Kimono My House",
+      "duration": 184,
+      "isrc": "GBAAN7400025"
+    },
+    {
+      "artist": "The Stranglers",
+      "title": "Golden Brown",
+      "services": {
+        "qobuz": "1004735"
+      },
+      "album": "La Folie",
+      "duration": 207,
+      "isrc": "GBAYE8100053"
+    },
+    {
+      "artist": "Madonna",
+      "title": "Dear Jessie",
+      "services": {
+        "qobuz": "2078405"
+      },
+      "album": "Like A Prayer",
+      "duration": 261,
+      "isrc": "USWB10002781"
+    },
+    {
+      "artist": "The Divine Comedy",
+      "title": "National Express",
+      "services": {
+        "qobuz": "102471806"
+      },
+      "album": "Fin De Si\u00e8cle",
+      "duration": 306,
+      "isrc": "GBNFD2000215"
+    },
+    {
+      "artist": "Rufus Wainwright",
+      "title": "Cigarettes And Chocolate Milk",
+      "services": {
+        "qobuz": "14831095"
+      },
+      "album": "Vibrate: The Best Of",
+      "duration": 281,
+      "isrc": "USDW10022134"
+    },
+    {
+      "artist": "Panic! At The Disco",
+      "title": "Nine in the Afternoon",
+      "services": {
+        "qobuz": "2931420"
+      },
+      "album": "Nine in the Afternoon",
+      "duration": 192,
+      "isrc": "USAT20800754"
+    },
+    {
+      "artist": "The Lemon Twigs",
+      "title": "As Long As We're Together",
+      "services": {
+        "qobuz": "36840381"
+      },
+      "album": "Do Hollywood",
+      "duration": 303,
+      "isrc": "GBAFL1600336"
+    },
+    {
+      "artist": "Angel Olsen",
+      "title": "All Mirrors",
+      "services": {
+        "qobuz": "64887627"
+      },
+      "album": "All Mirrors",
+      "duration": 282,
+      "isrc": "US38Y1934402"
+    }
+  ]
+}

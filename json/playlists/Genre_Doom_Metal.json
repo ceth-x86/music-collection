@@ -1,0 +1,1010 @@
+{
+  "name": "Genre: Doom Metal",
+  "services": {
+    "qobuz": "66735594",
+    "tidal": "ea26d47a-9e36-460a-9038-e47cf1e8ab21"
+  },
+  "description": "Imported genre playlist: Doom Metal.",
+  "tracks": [
+    {
+      "artist": "Black Sabbath",
+      "title": "Paranoid",
+      "services": {
+        "qobuz": "8816871"
+      },
+      "album": "Greatest Hits",
+      "duration": 168,
+      "isrc": "GBAJE7000057"
+    },
+    {
+      "artist": "Witchfinder General",
+      "title": "Death Penalty",
+      "services": {
+        "qobuz": "279536710"
+      },
+      "album": "Death Penalty",
+      "duration": 335,
+      "isrc": "GBACD1700803"
+    },
+    {
+      "artist": "Trouble",
+      "title": "Psalm 9",
+      "services": {
+        "qobuz": "143024463"
+      },
+      "album": "Psalm 9 (Remastered 2020)",
+      "duration": 288,
+      "isrc": "QM6MZ2009985"
+    },
+    {
+      "artist": "Anechoic Chamber Music",
+      "title": "The Black Hole Road",
+      "services": {
+        "qobuz": "402283568"
+      },
+      "album": "Thoroughfares And Blind Alleys",
+      "duration": 766,
+      "isrc": "CAGOO2586019"
+    },
+    {
+      "artist": "Pentagram",
+      "title": "Forever My Queen",
+      "services": {
+        "qobuz": "32179346"
+      },
+      "album": "First Daze Here (Reissue)",
+      "duration": 144,
+      "isrc": "US2641531101"
+    },
+    {
+      "artist": "Candlemass",
+      "title": "Solitude",
+      "services": {
+        "qobuz": "50989783"
+      },
+      "album": "Epicus Doomicus Metallicus",
+      "duration": 338,
+      "isrc": "GBCQV0700944"
+    },
+    {
+      "artist": "Paul Chain Violet Theatre",
+      "title": "Welcome to My Hell",
+      "services": {
+        "qobuz": "84898218"
+      },
+      "album": "In the Darkness",
+      "duration": 246,
+      "isrc": "USCGH1736631"
+    },
+    {
+      "artist": "Saint Vitus",
+      "title": "Born Too Late",
+      "services": {
+        "qobuz": "63487237"
+      },
+      "album": "Born Too Late",
+      "duration": 413,
+      "isrc": "USA370539046"
+    },
+    {
+      "artist": "Dream Death",
+      "title": "Sealed In Blood",
+      "services": {
+        "qobuz": "14974859"
+      },
+      "album": "Journey Into Mystery",
+      "duration": 386,
+      "isrc": "USGXD0612507"
+    },
+    {
+      "artist": "Count Raven",
+      "title": "The Poltergeist",
+      "services": {
+        "qobuz": "316855745"
+      },
+      "album": "Mammons War",
+      "duration": 264,
+      "isrc": "SE3TG1300701"
+    },
+    {
+      "artist": "Cathedral",
+      "title": "Ebony Tears",
+      "services": {
+        "qobuz": "22873087"
+      },
+      "album": "Forest of Equilibrium",
+      "duration": 466,
+      "isrc": "GBBPB0401851"
+    },
+    {
+      "artist": "Confessor",
+      "title": "Condemned",
+      "services": {
+        "qobuz": "77775021"
+      },
+      "album": "Sour Times",
+      "duration": 280,
+      "isrc": "FR33T0510703"
+    },
+    {
+      "artist": "R\u00e9v\u00e9lation",
+      "title": "Salvation's Answer",
+      "services": {
+        "qobuz": "114278471"
+      },
+      "album": "Salvation's Answer",
+      "duration": 504,
+      "isrc": "GBMLU9300602"
+    },
+    {
+      "artist": "Solitude Aeturnus",
+      "title": "Mirror Of Sorrow",
+      "services": {
+        "qobuz": "53387028"
+      },
+      "album": "Into the Depths of Sorrow",
+      "duration": 457,
+      "isrc": "NLA321800212"
+    },
+    {
+      "artist": "Famous Last Words",
+      "title": "Banish - Famous Last Words",
+      "services": {
+        "qobuz": "98546458"
+      },
+      "album": "Dissenting Soundscapes and Songs of G.W.'s America",
+      "duration": 268,
+      "isrc": "USHM20589765"
+    },
+    {
+      "artist": "Unorthodox",
+      "title": "Suicide King",
+      "services": {
+        "qobuz": "97388088"
+      },
+      "album": "Asylum",
+      "duration": 179,
+      "isrc": "USHM81367438"
+    },
+    {
+      "artist": "Veni Domine",
+      "title": "Wisdom Calls (2024 Version)",
+      "services": {
+        "qobuz": "302843819"
+      },
+      "album": "Fall Babylon Fall",
+      "duration": 498,
+      "isrc": "USY242429910"
+    },
+    {
+      "artist": "Devotchka",
+      "title": "Blessing in Disguise",
+      "services": {
+        "qobuz": "77651541"
+      },
+      "album": "A Mad And Faithful Telling",
+      "duration": 348,
+      "isrc": "USEP40728107"
+    },
+    {
+      "artist": "Memento Mori",
+      "title": "The Riddle",
+      "services": {
+        "qobuz": "179354594"
+      },
+      "album": "Rhymes of Lunacy",
+      "duration": 114,
+      "isrc": "SEXHQ9300410"
+    },
+    {
+      "artist": "Iron Man",
+      "title": "The Passage",
+      "services": {
+        "qobuz": "78777650"
+      },
+      "album": "The Passage",
+      "duration": 48,
+      "isrc": "USKUT1003405"
+    },
+    {
+      "artist": "Solstice",
+      "title": "Earthsong 2025",
+      "services": {
+        "qobuz": "370772219"
+      },
+      "album": "Clann",
+      "duration": 434,
+      "isrc": "QAP6X2500045"
+    },
+    {
+      "artist": "Cleo Sol",
+      "title": "Golden Child (Jealous)",
+      "services": {
+        "qobuz": "227432405"
+      },
+      "album": "Heaven",
+      "duration": 207,
+      "isrc": "UKMEH2300196"
+    },
+    {
+      "artist": "Abstrakt Algebra",
+      "title": "Stigmata",
+      "services": {
+        "qobuz": "183050801"
+      },
+      "album": "Abstrakt Algebra",
+      "duration": 342,
+      "isrc": "SEWFK2205001"
+    },
+    {
+      "artist": "Memory Garden",
+      "title": "The Innocent Sleep",
+      "services": {
+        "qobuz": "56310578"
+      },
+      "album": "Tides",
+      "duration": 291,
+      "isrc": "NLW500923006"
+    },
+    {
+      "artist": "Jeanette Kohn",
+      "title": "Recitative. Men inte heller nu/Arioso. Det \u00e4r jag",
+      "services": {
+        "qobuz": "306191062"
+      },
+      "album": "En svensk Markuspassion",
+      "duration": 125,
+      "isrc": "SEAGA0802270"
+    },
+    {
+      "artist": "Scald",
+      "title": "Night Sky",
+      "services": {
+        "qobuz": "79714049"
+      },
+      "album": "Will of the Gods is a Great Power",
+      "duration": 552,
+      "isrc": "IT0501601701"
+    },
+    {
+      "artist": "Dawn Of Winter",
+      "title": "Where Low The Ravens Fly",
+      "services": {
+        "qobuz": "318013174"
+      },
+      "album": "In the Valley of Tears",
+      "duration": 276,
+      "isrc": "SE3TG1700605"
+    },
+    {
+      "artist": "Pagan Altar",
+      "title": "Judgement of the Dead",
+      "services": {
+        "qobuz": "352819640"
+      },
+      "album": "Judgement of the Dead",
+      "duration": 472,
+      "isrc": "QM6MZ2543777"
+    },
+    {
+      "artist": "While Heaven Wept",
+      "title": "Thus With A Kiss I Die",
+      "services": {
+        "qobuz": "99304059"
+      },
+      "album": "Sorrow Of The Angels",
+      "duration": 1018,
+      "isrc": "USX9P0958932"
+    },
+    {
+      "artist": "Doomsword",
+      "title": "Claidheamh Solais (Sword of Light)",
+      "services": {
+        "qobuz": "45612481"
+      },
+      "album": "My Name Will Live On",
+      "duration": 402,
+      "isrc": "IT0500414005"
+    },
+    {
+      "artist": "Pale Divine",
+      "title": "Spinning Wheel",
+      "services": {
+        "qobuz": "64183695"
+      },
+      "album": "Pale Divine",
+      "duration": 320,
+      "isrc": "USL4Q1856343"
+    },
+    {
+      "artist": "Andrea Krux",
+      "title": "White Tundra",
+      "services": {
+        "qobuz": "159290858"
+      },
+      "album": "Ethnic Female Vocals",
+      "duration": 170,
+      "isrc": "QZHNC2277318"
+    },
+    {
+      "artist": "Reverend Bizarre",
+      "title": "Doom Over The World",
+      "services": {
+        "qobuz": "195659395"
+      },
+      "album": "II: Crush the Insects",
+      "duration": 457,
+      "isrc": "FISFS0500067"
+    },
+    {
+      "artist": "Massive Attack",
+      "title": "Teardrop",
+      "services": {
+        "qobuz": "1066045"
+      },
+      "album": "Mezzanine",
+      "duration": 330,
+      "isrc": "GBAAA9800322"
+    },
+    {
+      "artist": "Spiritus Mortis",
+      "title": "Doom Mood",
+      "services": {
+        "qobuz": "77360896"
+      },
+      "album": "Spiritus Mortis",
+      "duration": 57,
+      "isrc": "FIFX91006505"
+    },
+    {
+      "artist": "Isole",
+      "title": "Forevermore",
+      "services": {
+        "qobuz": "185432705"
+      },
+      "album": "Forevermore",
+      "duration": 365,
+      "isrc": "NLWJ22300041"
+    },
+    {
+      "artist": "Mirror Of Deception",
+      "title": "Haunted",
+      "services": {
+        "qobuz": "22394619"
+      },
+      "album": "Shards",
+      "duration": 344,
+      "isrc": "DEOJ90600001"
+    },
+    {
+      "artist": "Warning",
+      "title": "Footprints",
+      "services": {
+        "qobuz": "348211393"
+      },
+      "album": "Watching from a Distance",
+      "duration": 451,
+      "isrc": "GBLFP1795021"
+    },
+    {
+      "artist": "Hour Of 13",
+      "title": "The Gathering / Call to Satan",
+      "services": {
+        "qobuz": "78042313"
+      },
+      "album": "Salt the Dead: The Rare and Unreleased",
+      "duration": 380,
+      "isrc": "USHM81792776"
+    },
+    {
+      "artist": "Isen Torr",
+      "title": "Mighty & Superior",
+      "services": {
+        "qobuz": "170817855"
+      },
+      "album": "Mighty & Superior",
+      "duration": 534,
+      "isrc": "UK4MC2100070"
+    },
+    {
+      "artist": "Pink Floyd",
+      "title": "Astronomy Domine",
+      "services": {
+        "qobuz": "47683476"
+      },
+      "album": "The Piper at the Gates of Dawn",
+      "duration": 251,
+      "isrc": "GBN9Y1100001"
+    },
+    {
+      "artist": "Atlantean Kodex",
+      "title": "Sol Invictus",
+      "services": {
+        "qobuz": "74128028"
+      },
+      "album": "The White Goddess",
+      "duration": 655,
+      "isrc": "ITI291306302"
+    },
+    {
+      "artist": "Jex Thoth",
+      "title": "Nothing Left to Die",
+      "services": {
+        "qobuz": "315275957"
+      },
+      "album": "Jex Thoth",
+      "duration": 309,
+      "isrc": "SE3TG1300401"
+    },
+    {
+      "artist": "Argus",
+      "title": "A Curse On The World",
+      "services": {
+        "qobuz": "74148150"
+      },
+      "album": "Boldly Stride the Doomed",
+      "duration": 325,
+      "isrc": "ITI291105102"
+    },
+    {
+      "artist": "The Central Park North",
+      "title": "Between the Devil and the Deep Blue Sea",
+      "services": {
+        "qobuz": "196208042"
+      },
+      "album": "Between the Devil and the Deep Blue Sea",
+      "duration": 215,
+      "isrc": "SE5W32305181"
+    },
+    {
+      "artist": "Altar of Oblivion",
+      "title": "Where Darkness Is Light",
+      "services": {
+        "qobuz": "66149395"
+      },
+      "album": "Grand Gesture of Defiance",
+      "duration": 421,
+      "isrc": "USKUT1205601"
+    },
+    {
+      "artist": "Pilgrim",
+      "title": "Quest",
+      "services": {
+        "qobuz": "60752988"
+      },
+      "album": "Misery Wizard",
+      "duration": 592,
+      "isrc": "USMBR1208716"
+    },
+    {
+      "artist": "Avatarium",
+      "title": "Moonhorse",
+      "services": {
+        "qobuz": "60746085"
+      },
+      "album": "Avatarium",
+      "duration": 521,
+      "isrc": "DED831300553"
+    },
+    {
+      "artist": "Procession",
+      "title": "To Reap Heavens Apart",
+      "services": {
+        "qobuz": "91725824"
+      },
+      "album": "To Reap Heavens Apart",
+      "duration": 561,
+      "isrc": "DEQN41300012"
+    },
+    {
+      "artist": "Below",
+      "title": "Bid You Farewell",
+      "services": {
+        "qobuz": "60886980"
+      },
+      "album": "Across the Dark River",
+      "duration": 347,
+      "isrc": "USMBR1310386"
+    },
+    {
+      "artist": "The Midnight",
+      "title": "Love Is an Ocean",
+      "services": {
+        "qobuz": "359480983"
+      },
+      "album": "Syndicate",
+      "duration": 322,
+      "isrc": "USUS12500062"
+    },
+    {
+      "artist": "Mavis Staples",
+      "title": "Wide River To Cross",
+      "services": {
+        "qobuz": "147361638"
+      },
+      "album": "Carry Me Home",
+      "duration": 308,
+      "isrc": "USEP42175009"
+    },
+    {
+      "artist": "Crypt Sermon",
+      "title": "Temple Doors",
+      "services": {
+        "qobuz": "83567640"
+      },
+      "album": "Out of the Garden",
+      "duration": 404,
+      "isrc": "QM6N21477199"
+    },
+    {
+      "artist": "Sorcerer",
+      "title": "The Dark Tower of the Sorcerer",
+      "services": {
+        "qobuz": "60686263"
+      },
+      "album": "In the Shadow of the Inverted Cross",
+      "duration": 381,
+      "isrc": "USMBR1511036"
+    },
+    {
+      "artist": "Messa",
+      "title": "Leah",
+      "services": {
+        "qobuz": "53770786"
+      },
+      "album": "Feast for Water",
+      "duration": 489,
+      "isrc": "ITJ351801648"
+    },
+    {
+      "artist": "Smoulder",
+      "title": "Ilian of Garathorm",
+      "services": {
+        "qobuz": "60071501"
+      },
+      "album": "Times of Obscene Evil and Wild Daring",
+      "duration": 389,
+      "isrc": "ITI291901201"
+    },
+    {
+      "artist": "Apostle Of Solitude",
+      "title": "When the Darkness Comes",
+      "services": {
+        "qobuz": "131418220"
+      },
+      "album": "Until the Darkness Goes",
+      "duration": 354,
+      "isrc": "ITI292101801"
+    },
+    {
+      "artist": "Khemmis",
+      "title": "Living Pyre",
+      "services": {
+        "qobuz": "128464437"
+      },
+      "album": "Deceiver",
+      "duration": 312,
+      "isrc": "DED832100252"
+    },
+    {
+      "artist": "Pallbearer",
+      "title": "Where The Light Fades",
+      "services": {
+        "qobuz": "254635338"
+      },
+      "album": "Mind Burns Alive",
+      "duration": 399,
+      "isrc": "DED832300704"
+    },
+    {
+      "artist": "Angel of Damnation",
+      "title": "Warning From The Sky",
+      "services": {
+        "qobuz": "329337787"
+      },
+      "album": "Ethereal Blasphemy",
+      "duration": 336,
+      "isrc": "QM6N22555814"
+    },
+    {
+      "artist": "Thergothon",
+      "title": "Everlasting",
+      "services": {
+        "qobuz": "50995497"
+      },
+      "album": "Stream From The Heavens",
+      "duration": 367,
+      "isrc": "GBCQV0900469"
+    },
+    {
+      "artist": "Funeral",
+      "title": "Taarene",
+      "services": {
+        "qobuz": "177591314"
+      },
+      "album": "Tragedies",
+      "duration": 744,
+      "isrc": "USI4R0809575"
+    },
+    {
+      "artist": "Skepticism",
+      "title": "The March and the Stream",
+      "services": {
+        "qobuz": "130335114"
+      },
+      "album": "Lead and Aether",
+      "duration": 634,
+      "isrc": "FI7S52100173"
+    },
+    {
+      "artist": "Shape Of Despair",
+      "title": "Angels of Distress",
+      "services": {
+        "qobuz": "195587541"
+      },
+      "album": "Angels Of Distress",
+      "duration": 582,
+      "isrc": "FIUM71000132"
+    },
+    {
+      "artist": "Bobby O",
+      "title": "She Has A Way",
+      "services": {
+        "qobuz": "60454769"
+      },
+      "album": "Freedom In An Unfree World",
+      "duration": 353,
+      "isrc": "USBKY0526575"
+    },
+    {
+      "artist": "Daniel Spaleniak",
+      "title": "One Last Thing Before We Immerse",
+      "services": {
+        "qobuz": "146094077"
+      },
+      "album": "Tape V",
+      "duration": 85,
+      "isrc": "GBPVV2204166"
+    },
+    {
+      "artist": "Monolithe",
+      "title": "Monolithe I",
+      "services": {
+        "qobuz": "312714171"
+      },
+      "album": "Monolithe I",
+      "duration": 3119,
+      "isrc": "CH6542214106"
+    },
+    {
+      "artist": "Tyranny",
+      "title": "Sonorous Howl from Beyond the Stars",
+      "services": {
+        "qobuz": "71570985"
+      },
+      "album": "Tides of Awakening",
+      "duration": 701,
+      "isrc": "USI4R0809595"
+    },
+    {
+      "artist": "Shintaro Sakamoto",
+      "title": "A Gleam Of Hope",
+      "services": {
+        "qobuz": "163659744"
+      },
+      "album": "How To Live With A Phantom",
+      "duration": 206,
+      "isrc": "JPZ921110452"
+    },
+    {
+      "artist": "Evoken",
+      "title": "In Solitary Ruin",
+      "services": {
+        "qobuz": "51131333"
+      },
+      "album": "Antithesis of Light",
+      "duration": 646,
+      "isrc": "GBCQV1100014"
+    },
+    {
+      "artist": "Mournful Congregation",
+      "title": "The Monad of Creation",
+      "services": {
+        "qobuz": "7985159"
+      },
+      "album": "The Monad of Creation",
+      "duration": 1255,
+      "isrc": "FR4E61300360"
+    },
+    {
+      "artist": "Ahab",
+      "title": "Below the Sun",
+      "services": {
+        "qobuz": "28458254"
+      },
+      "album": "The Call Of The Wretched Seas",
+      "duration": 705,
+      "isrc": "ATN260619801"
+    },
+    {
+      "artist": "Doom:VS",
+      "title": "Aeternus",
+      "services": {
+        "qobuz": "94613223"
+      },
+      "album": "Aeternum Vale",
+      "duration": 746,
+      "isrc": "CH6542058865"
+    },
+    {
+      "artist": "Gustavo Dudamel",
+      "title": "X. The Great Gate of Kiev",
+      "services": {
+        "qobuz": "35087191"
+      },
+      "album": "Mussorgsky : Pictures at an Exhibition",
+      "duration": 340,
+      "isrc": "DEN961630515"
+    },
+    {
+      "artist": "Esoteric",
+      "title": "Circle",
+      "services": {
+        "qobuz": "77774749"
+      },
+      "album": "The Maniacal Vale",
+      "duration": 1245,
+      "isrc": "GBGWQ0800001"
+    },
+    {
+      "artist": "The Howling Void",
+      "title": "The Womb Beyond the World",
+      "services": {
+        "qobuz": "94853997"
+      },
+      "album": "The Womb Beyond the World",
+      "duration": 859,
+      "isrc": "CH6542059151"
+    },
+    {
+      "artist": "Lycus",
+      "title": "Solar Chamber",
+      "services": {
+        "qobuz": "28231593"
+      },
+      "album": "Chasms",
+      "duration": 641,
+      "isrc": "US2641631601"
+    },
+    {
+      "artist": "Bell Witch",
+      "title": "Mirror Reaper",
+      "services": {
+        "qobuz": "224909765"
+      },
+      "album": "Mirror Reaper",
+      "duration": 4995,
+      "isrc": "USN681710071"
+    },
+    {
+      "artist": "Un",
+      "title": "A Garden Where Nothing Grows",
+      "services": {
+        "qobuz": "50801606"
+      },
+      "album": "Sentiment",
+      "duration": 933,
+      "isrc": "USCHW1813604"
+    },
+    {
+      "artist": "Atramentus",
+      "title": "Stygian I: From Tumultuous Heavens... (Descended Forth the Ceaseless Darkness)",
+      "services": {
+        "qobuz": "96855432"
+      },
+      "album": "Stygian",
+      "duration": 988,
+      "isrc": "USJE72013501"
+    },
+    {
+      "artist": "Symphony X",
+      "title": "Paradise Lost",
+      "services": {
+        "qobuz": "125574265"
+      },
+      "album": "Paradise Lost",
+      "duration": 392,
+      "isrc": "QM3MF1900105"
+    },
+    {
+      "artist": "Winter",
+      "title": "Servants of the Warsmen",
+      "services": {
+        "qobuz": "91985985"
+      },
+      "album": "Into Darkness",
+      "duration": 263,
+      "isrc": "QM4TX2099149"
+    },
+    {
+      "artist": "Tiamat",
+      "title": "The Sleeping Beauty",
+      "services": {
+        "qobuz": "47536588"
+      },
+      "album": "Clouds",
+      "duration": 250,
+      "isrc": "US4E40473605"
+    },
+    {
+      "artist": "Anathema",
+      "title": "Sleepless",
+      "services": {
+        "qobuz": "50990028"
+      },
+      "album": "Serenades",
+      "duration": 251,
+      "isrc": "GBCQV9300014"
+    },
+    {
+      "artist": "Decomposed",
+      "title": "At Rest",
+      "services": {
+        "qobuz": "190290711"
+      },
+      "album": "Hope Finally Died...",
+      "duration": 403,
+      "isrc": "GBADD9300304"
+    },
+    {
+      "artist": "Disembowelment",
+      "title": "The Tree of Life and Death",
+      "services": {
+        "qobuz": "60622064"
+      },
+      "album": "Transcendence Into the Peripheral / Dusk",
+      "duration": 625,
+      "isrc": "US2640560401"
+    },
+    {
+      "artist": "Katatonia",
+      "title": "Gateways of Bereavement",
+      "services": {
+        "qobuz": "50989770"
+      },
+      "album": "Dance of December Souls",
+      "duration": 495,
+      "isrc": "GBCQV0700276"
+    },
+    {
+      "artist": "My Dying Bride",
+      "title": "The Cry of Mankind",
+      "services": {
+        "qobuz": "50991147"
+      },
+      "album": "The Angel & The Dark River",
+      "duration": 733,
+      "isrc": "GBCQV9500064"
+    },
+    {
+      "artist": "Rippikoulu",
+      "title": "Musta seremonia",
+      "services": {
+        "qobuz": "85898779"
+      },
+      "album": "Musta Seremonia",
+      "duration": 384,
+      "isrc": "DEZ651342485"
+    },
+    {
+      "artist": "Slash",
+      "title": "The Unholy",
+      "services": {
+        "qobuz": "17132413"
+      },
+      "album": "World on Fire",
+      "duration": 408,
+      "isrc": "US9T51400017"
+    },
+    {
+      "artist": "October Tide",
+      "title": "12 Days Of Rain",
+      "services": {
+        "qobuz": "137925962"
+      },
+      "album": "12 Days Of Rain",
+      "duration": 428,
+      "isrc": "SE5S62108201"
+    },
+    {
+      "artist": "SATURNUS",
+      "title": "Paradise Belongs To You",
+      "services": {
+        "qobuz": "58080527"
+      },
+      "album": "Paradise Belongs To You",
+      "duration": 614,
+      "isrc": "DKFDD9600401"
+    },
+    {
+      "artist": "Runemagick",
+      "title": "Enter the Realm of Death",
+      "services": {
+        "qobuz": "27568959"
+      },
+      "album": "Enter the Realm of Death",
+      "duration": 369,
+      "isrc": "GBDHC0502542"
+    },
+    {
+      "artist": "Camille Thomas",
+      "title": "Purcell: Dido and Aeneas, Z. 626 / Act III: \"When I Am Laid in Earth\" Dido's Lamento (Arr. by Mathieu Herzog for Cello and Strings)",
+      "services": {
+        "qobuz": "87240333"
+      },
+      "album": "Voice Of Hope",
+      "duration": 228,
+      "isrc": "DEN961903650"
+    },
+    {
+      "artist": "Swallow The Sun",
+      "title": "Through Her Silvery Body",
+      "services": {
+        "qobuz": "190485382"
+      },
+      "album": "The Morning Never Came",
+      "duration": 522,
+      "isrc": "FIFX90300029"
+    },
+    {
+      "artist": "Coffins",
+      "title": "Buried Death",
+      "services": {
+        "qobuz": "52192080"
+      },
+      "album": "Buried Death",
+      "duration": 211,
+      "isrc": "USJE70810036"
+    },
+    {
+      "artist": "Novembers Doom",
+      "title": "The Pale Haunt Departure",
+      "services": {
+        "qobuz": "189584180"
+      },
+      "album": "The Pale Haunt Departure",
+      "duration": 344,
+      "isrc": "US2420505201"
+    },
+    {
+      "artist": "A Dream Of Poe",
+      "title": "Lighthouses for the Dead",
+      "services": {
+        "qobuz": "29606349"
+      },
+      "album": "An Infinity Emerged",
+      "duration": 627,
+      "isrc": "CH6451507019"
+    },
+    {
+      "artist": "Mourning Beloveth",
+      "title": "Narcissistic Funeral",
+      "services": {
+        "qobuz": "157661906"
+      },
+      "album": "The Sullen Sulcus",
+      "duration": 813,
+      "isrc": "QZHNA2234526"
+    },
+    {
+      "artist": "Hooded Menace",
+      "title": "Fulfill the Curse",
+      "services": {
+        "qobuz": "156736794"
+      },
+      "album": "Gloom Immemorial",
+      "duration": 415,
+      "isrc": "DEZ651350944"
+    }
+  ]
+}

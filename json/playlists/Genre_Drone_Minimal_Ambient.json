@@ -1,0 +1,809 @@
+{
+  "name": "Genre: Drone / Minimal Ambient",
+  "services": {
+    "qobuz": "66712114"
+  },
+  "description": "Drone/Minimal Ambient is a genre defined by extreme sonic reduction and sustained, evolving soundscapes. It prioritizes texture, resonance, and slow temporal shifts over traditional melody or rhythm, utilizing long-duration tones (drones) and sparse arrangements to create a meditative, immersive environment where the listener's focus shifts from musical progression to the physical experience of sound itself.",
+  "tracks": [
+    {
+      "artist": "Terry Riley",
+      "title": "Poppy Nogood and the Phantom Band",
+      "services": {
+        "qobuz": "274973591"
+      },
+      "album": "A Rainbow In Curved Air",
+      "duration": 1298,
+      "isrc": "USSM16900447"
+    },
+    {
+      "artist": "Electric Phoenix",
+      "title": "Stimmung: Model 2",
+      "services": {
+        "qobuz": "151584381"
+      },
+      "album": "Stockhausen: Stimmung",
+      "duration": 118,
+      "isrc": "UKA682100001"
+    },
+    {
+      "artist": "Tony Conrad With Faust",
+      "title": "The Side of Man and Womankind",
+      "services": {
+        "qobuz": "35472748"
+      },
+      "album": "Outside the Dream Syndicate",
+      "duration": 1659,
+      "isrc": "USA2Z1610361"
+    },
+    {
+      "artist": "Charlemagne Palestine",
+      "title": "Strumming Music",
+      "services": {
+        "qobuz": "199612909"
+      },
+      "album": "Strumming Music",
+      "duration": 3133,
+      "isrc": "ITI400800931"
+    },
+    {
+      "artist": "Christina Kubisch",
+      "title": "Two persons walking through a street in Madrid (2004)",
+      "services": {
+        "qobuz": "402514206"
+      },
+      "album": "TUNING",
+      "duration": 698,
+      "isrc": "DELA22600508"
+    },
+    {
+      "artist": "Jon Gibson",
+      "title": "Relative Calm: I. Relative Calm \"Rise\"",
+      "services": {
+        "qobuz": "36344392"
+      },
+      "album": "Jon Gibson: Relative Calm",
+      "duration": 1018,
+      "isrc": "US4QP1678301"
+    },
+    {
+      "artist": "David Behrman",
+      "title": "On the Other Ocean",
+      "services": {
+        "qobuz": "49150967"
+      },
+      "album": "Late Night Tales: Belle and Sebastian, Vol. 2",
+      "duration": 410,
+      "isrc": "USZBJ0610099"
+    },
+    {
+      "artist": "Ellen Fullman",
+      "title": "Woven Processional",
+      "services": {
+        "qobuz": "35449381"
+      },
+      "album": "The Long String Instrument",
+      "duration": 698,
+      "isrc": "USA2Z1511516"
+    },
+    {
+      "artist": "Pauline Oliveros",
+      "title": "Lear",
+      "services": {
+        "qobuz": "380235544"
+      },
+      "album": "Deep Listening",
+      "duration": 1496,
+      "isrc": "US87H8910496"
+    },
+    {
+      "artist": "Phill Niblock",
+      "title": "Didjeridoos and Don'ts",
+      "services": {
+        "qobuz": "64344558"
+      },
+      "album": "Young Person's Guide to Phill Niblock (YPGPN)",
+      "duration": 814,
+      "isrc": "USA560448808"
+    },
+    {
+      "artist": "Eliane Radigue",
+      "title": "Adnos I",
+      "services": {
+        "qobuz": "192585245"
+      },
+      "album": "Adnos",
+      "duration": 4288,
+      "isrc": "FRT157418001"
+    },
+    {
+      "artist": "Symphonieorchester Des Bayerischen Rundfunks",
+      "title": "I. \u2014",
+      "services": {
+        "qobuz": "303895475"
+      },
+      "album": "Musica Viva, Vol. 17 - Scelsi",
+      "duration": 174,
+      "isrc": "DEGF70712205"
+    },
+    {
+      "artist": "Rhys Chatham",
+      "title": "Two Gongs (1971)",
+      "services": {
+        "qobuz": "2878703"
+      },
+      "album": "Two Gongs (1971)",
+      "duration": 3697,
+      "isrc": "USG4G0673101"
+    },
+    {
+      "artist": "Bill Laswell",
+      "title": "African Virus - Electronic Sonata With A Cold Loved By Nature - Part 1",
+      "services": {
+        "qobuz": "226556901"
+      },
+      "album": "Outland",
+      "duration": 570,
+      "isrc": "QMDA72371031"
+    },
+    {
+      "artist": "Catherine Christer Hennix",
+      "title": "Further Selections from The Electric Harpsichord",
+      "services": {
+        "qobuz": "276226611"
+      },
+      "album": "Further Selections from The Electric Harpsichord",
+      "duration": 2810,
+      "isrc": "QZUBX2200466"
+    },
+    {
+      "artist": "David Tudor",
+      "title": "Rainforest IV",
+      "services": {
+        "qobuz": "306737366"
+      },
+      "album": "David Tudor: Rainforest (Versions 1 & 4)",
+      "duration": 3113,
+      "isrc": "US4BP9806402"
+    },
+    {
+      "artist": "Labradford",
+      "title": "Listening in Depth",
+      "services": {
+        "qobuz": "25021920"
+      },
+      "album": "Prazision LP",
+      "duration": 452,
+      "isrc": "USI4R0401535"
+    },
+    {
+      "artist": "main",
+      "title": "Flametracer",
+      "services": {
+        "qobuz": "148904455"
+      },
+      "album": "Hydra-Calm",
+      "duration": 349,
+      "isrc": "GBAZP9200170"
+    },
+    {
+      "artist": "Roy Montgomery",
+      "title": "Landfall",
+      "services": {
+        "qobuz": "51211450"
+      },
+      "album": "Suffuse",
+      "duration": 360,
+      "isrc": "USCPT1810034"
+    },
+    {
+      "artist": "Stars of the Lid",
+      "title": "Before Top Dead Center (2025 Remaster)",
+      "services": {
+        "qobuz": "329132716"
+      },
+      "album": "Music for Nitrous Oxide (30 Year Anniversary Remastered)",
+      "duration": 323,
+      "isrc": "QZK6F2592354"
+    },
+    {
+      "artist": "Windy, Carl",
+      "title": "Antarctica",
+      "services": {
+        "qobuz": "59911380"
+      },
+      "album": "The Best of the Bliss Out",
+      "duration": 1326,
+      "isrc": "USA4D1530102"
+    },
+    {
+      "artist": "Troum",
+      "title": "Part 3",
+      "services": {
+        "qobuz": "73783899"
+      },
+      "album": "Dominium Visurgis",
+      "duration": 1512,
+      "isrc": "USCPT1010043"
+    },
+    {
+      "artist": "Richard Chartier",
+      "title": "Recurrence (series)",
+      "services": {
+        "qobuz": "14457439"
+      },
+      "album": "Recurrence",
+      "duration": 3071,
+      "isrc": "USXPN1100063"
+    },
+    {
+      "artist": "Ryoji Ikeda",
+      "title": "data.matrix",
+      "services": {
+        "qobuz": "210499673"
+      },
+      "album": "dataplex",
+      "duration": 601,
+      "isrc": "DEAS90500018"
+    },
+    {
+      "artist": "Fennesz",
+      "title": "Endless Summer",
+      "services": {
+        "qobuz": "319876792"
+      },
+      "album": "Endless Summer",
+      "duration": 509,
+      "isrc": "ATE690603502"
+    },
+    {
+      "artist": "Philip Jeck",
+      "title": "Pax",
+      "services": {
+        "qobuz": "56034191"
+      },
+      "album": "Stoke",
+      "duration": 489,
+      "isrc": "GBJYX0256204"
+    },
+    {
+      "artist": "Taylor Deupree",
+      "title": "Stil. (For Vibraphone & Bass Drum)",
+      "services": {
+        "qobuz": "258636016"
+      },
+      "album": "Sti.ll",
+      "duration": 1151,
+      "isrc": "CAN112400927"
+    },
+    {
+      "artist": "Aarktica",
+      "title": "Glacia",
+      "services": {
+        "qobuz": "327148616"
+      },
+      "album": "No Solace in Sleep",
+      "duration": 816,
+      "isrc": "USHK92534301"
+    },
+    {
+      "artist": "Tim Hecker",
+      "title": "Music of the Air",
+      "services": {
+        "qobuz": "33930211"
+      },
+      "album": "Love Streams",
+      "duration": 248,
+      "isrc": "GBAFL1500223"
+    },
+    {
+      "artist": "Oren  Ambarchi",
+      "title": "Corkscrew",
+      "services": {
+        "qobuz": "56027675"
+      },
+      "album": "Grapes from the Estate",
+      "duration": 583,
+      "isrc": "GBJYX0561201"
+    },
+    {
+      "artist": "The Dead Texan",
+      "title": "The Struggle",
+      "services": {
+        "qobuz": "24337928"
+      },
+      "album": "The Dead Texan",
+      "duration": 328,
+      "isrc": "USI4R0403332"
+    },
+    {
+      "artist": "Brian McBride",
+      "title": "Overture (For Other Halfs)",
+      "services": {
+        "qobuz": "24335215"
+      },
+      "album": "When the Detail Lost Its Freedom",
+      "duration": 398,
+      "isrc": "USI4R0504154"
+    },
+    {
+      "artist": "Chihei Hatakeyama",
+      "title": "Broken Mirror",
+      "services": {
+        "qobuz": "24208994"
+      },
+      "album": "Moon Light Reflecting over Mountains",
+      "duration": 324,
+      "isrc": "QM4TW1515055"
+    },
+    {
+      "artist": "Expo 70",
+      "title": "Midnight Stalking / Dawn of the Black Ohms",
+      "services": {
+        "qobuz": "84745961"
+      },
+      "album": "Black Ohms",
+      "duration": 1168,
+      "isrc": "USL4Q1894726"
+    },
+    {
+      "artist": "Growing",
+      "title": "Untitled",
+      "services": {
+        "qobuz": "111532884"
+      },
+      "album": "The Sky\u2019s Run Into the Sea",
+      "duration": 1041,
+      "isrc": "USA2P2045914"
+    },
+    {
+      "artist": "Alva Noto",
+      "title": "Xerrox Monophaser 2",
+      "services": {
+        "qobuz": "93720499"
+      },
+      "album": "Xerrox, Vol. 2",
+      "duration": 331,
+      "isrc": "DEAS90800436"
+    },
+    {
+      "artist": "Kevin Drumm",
+      "title": "More",
+      "services": {
+        "qobuz": "305714001"
+      },
+      "album": "Neither Here Nor There",
+      "duration": 1189,
+      "isrc": "DEX262401296"
+    },
+    {
+      "artist": "Lichens",
+      "title": "Vevor of Agassou",
+      "services": {
+        "qobuz": "24338008"
+      },
+      "album": "Omns",
+      "duration": 297,
+      "isrc": "USI4R0608194"
+    },
+    {
+      "artist": "Celer",
+      "title": "A Once And Meaningful Life",
+      "services": {
+        "qobuz": "54164190"
+      },
+      "album": "Engaged Touches",
+      "duration": 303,
+      "isrc": "UK6821411450"
+    },
+    {
+      "artist": "Grouper",
+      "title": "Heavy Water/I'd Rather Be Sleeping",
+      "services": {
+        "qobuz": "71526553"
+      },
+      "album": "Dragging a Dead Deer Up a Hill",
+      "duration": 173,
+      "isrc": "USI4R1115074"
+    },
+    {
+      "artist": "Machinefabriek",
+      "title": "Stof en Ruis 1",
+      "services": {
+        "qobuz": "381655031"
+      },
+      "album": "Stof en Ruis",
+      "duration": 201,
+      "isrc": "QZFZ32672829"
+    },
+    {
+      "artist": "Belong",
+      "title": "Perfect Life",
+      "services": {
+        "qobuz": "24509664"
+      },
+      "album": "Common Era",
+      "duration": 269,
+      "isrc": "USNCB1115504"
+    },
+    {
+      "artist": "Oneohtrix Point Never",
+      "title": "Zones Without People",
+      "services": {
+        "qobuz": "234488773"
+      },
+      "album": "Zones Without People",
+      "duration": 239,
+      "isrc": "QMUJD1202010"
+    },
+    {
+      "artist": "Rafael Anton Irisarri",
+      "title": "Hiatus",
+      "services": {
+        "qobuz": "229226487"
+      },
+      "album": "A Fragile Geography",
+      "duration": 158,
+      "isrc": "QM6N21580572"
+    },
+    {
+      "artist": "Jefre Cantu-Ledesma",
+      "title": "Love's Refrain",
+      "services": {
+        "qobuz": "34369816"
+      },
+      "album": "In Summer",
+      "duration": 457,
+      "isrc": "DEX261600456"
+    },
+    {
+      "artist": "Norman Westberg",
+      "title": "Frostbite Falls",
+      "services": {
+        "qobuz": "27667053"
+      },
+      "album": "13",
+      "duration": 666,
+      "isrc": "QM6P41576414"
+    },
+    {
+      "artist": "Keith Fullerton Whitman",
+      "title": "Occlusion (Rue de Bitche)",
+      "services": {
+        "qobuz": "319876251"
+      },
+      "album": "Occlusions",
+      "duration": 1096,
+      "isrc": "ATE691202601"
+    },
+    {
+      "artist": "Rashad Becker",
+      "title": "Dances I",
+      "services": {
+        "qobuz": "30143085"
+      },
+      "album": "Traditional Music of Notional Species Vol. I",
+      "duration": 260,
+      "isrc": "DEX260991875"
+    },
+    {
+      "artist": "Alessandro Cortini",
+      "title": "Voltaggio solitario",
+      "services": {
+        "qobuz": "147820931"
+      },
+      "album": "Sonno",
+      "duration": 238,
+      "isrc": "TCADC1768792"
+    },
+    {
+      "artist": "Kara-Lis Coverdale",
+      "title": "Grafts",
+      "services": {
+        "qobuz": "40483697"
+      },
+      "album": "Grafts",
+      "duration": 1351,
+      "isrc": "USA2Z1710790"
+    },
+    {
+      "artist": "Klara Lewis",
+      "title": "Altered",
+      "services": {
+        "qobuz": "319840791"
+      },
+      "album": "Ett",
+      "duration": 733,
+      "isrc": "ATE691419009"
+    },
+    {
+      "artist": "Sarah Davachi",
+      "title": "Guildford",
+      "services": {
+        "qobuz": "101478854"
+      },
+      "album": "Barons Court",
+      "duration": 777,
+      "isrc": "USCPT1410325"
+    },
+    {
+      "artist": "Ian William Craig",
+      "title": "Contain",
+      "services": {
+        "qobuz": "84981366"
+      },
+      "album": "Centres",
+      "duration": 604,
+      "isrc": "GBDCA1603062"
+    },
+    {
+      "artist": "Abul Mogard",
+      "title": "In the Eastern Wild",
+      "services": {
+        "qobuz": "416429960"
+      },
+      "album": "Where Light Pauses in the Silence of the Sun",
+      "duration": 376,
+      "isrc": "DEX262600205"
+    },
+    {
+      "artist": "Christina Vantzou",
+      "title": "Kimona II",
+      "services": {
+        "qobuz": "172007421"
+      },
+      "album": "No. 5",
+      "duration": 382,
+      "isrc": "USNCB2223510"
+    },
+    {
+      "artist": "Ellen Arkbro",
+      "title": "For Organ and Brass",
+      "services": {
+        "qobuz": "70094837"
+      },
+      "album": "For Organ and Brass",
+      "duration": 1208,
+      "isrc": "GBGXC1720013"
+    },
+    {
+      "artist": "Emily A. Sprague",
+      "title": "Tokyo 1",
+      "services": {
+        "qobuz": "344029440"
+      },
+      "album": "Cloud Time",
+      "duration": 282,
+      "isrc": "US6PQ2500089"
+    },
+    {
+      "artist": "Lawrence English",
+      "title": "Requiem for a Reaper / Pillar of Cloud",
+      "services": {
+        "qobuz": "36823978"
+      },
+      "album": "Cruel Optimism",
+      "duration": 199,
+      "isrc": "QM7281605023"
+    },
+    {
+      "artist": "Tashi Wada",
+      "title": "Bottom of the Sky",
+      "services": {
+        "qobuz": "50594946"
+      },
+      "album": "FRKWYS Vol. 14 - Nue",
+      "duration": 234,
+      "isrc": "US6PQ1800111"
+    },
+    {
+      "artist": "Lucy Railton",
+      "title": "To the End",
+      "services": {
+        "qobuz": "119884838"
+      },
+      "album": "Paradise 94",
+      "duration": 260,
+      "isrc": "USA2Z1810602"
+    },
+    {
+      "artist": "Marta de Pascalis",
+      "title": "Harmonices Infinity",
+      "services": {
+        "qobuz": "220828878"
+      },
+      "album": "Sky Flesh",
+      "duration": 300,
+      "isrc": "DEG932302613"
+    },
+    {
+      "artist": "Kali Malone",
+      "title": "Spectacle Of Ritual\u00a0",
+      "services": {
+        "qobuz": "313187570"
+      },
+      "album": "The Sacrificial Code",
+      "duration": 653,
+      "isrc": "UK8261900001"
+    },
+    {
+      "artist": "Ana Roxanne",
+      "title": "It's a Rainy Day on the Cosmic Shore",
+      "services": {
+        "qobuz": "122256719"
+      },
+      "album": "~~~",
+      "duration": 320,
+      "isrc": "QMHG41851003"
+    },
+    {
+      "artist": "Anna von Hausswolff",
+      "title": "All Thoughts Fly",
+      "services": {
+        "qobuz": "98087715"
+      },
+      "album": "All Thoughts Fly",
+      "duration": 743,
+      "isrc": "USZPA0901933"
+    },
+    {
+      "artist": "Claire M Singer",
+      "title": "Turadh",
+      "services": {
+        "qobuz": "357078023"
+      },
+      "album": "Gleann Ci\u00f9in",
+      "duration": 1154,
+      "isrc": "GBJYX2512901"
+    },
+    {
+      "artist": "Kmru",
+      "title": "Well",
+      "services": {
+        "qobuz": "319842253"
+      },
+      "album": "Peel",
+      "duration": 330,
+      "isrc": "ATE692028902"
+    },
+    {
+      "artist": "New York Treble Singers",
+      "title": "Call of The Dance",
+      "services": {
+        "qobuz": "4204517"
+      },
+      "album": "Mary Jane Leach: Ariadne's Lament",
+      "duration": 601,
+      "isrc": "US4QP0452502"
+    },
+    {
+      "artist": "Caterina Barbieri",
+      "title": "SOTRS",
+      "services": {
+        "qobuz": "146225118"
+      },
+      "album": "Patterns Of Consciousness",
+      "duration": 570,
+      "isrc": "QMQQH1708734"
+    },
+    {
+      "artist": "William Basinski",
+      "title": "dlp 1.1",
+      "services": {
+        "qobuz": "20778225"
+      },
+      "album": "The Disintegration Loops",
+      "duration": 3815,
+      "isrc": "USY6C1422301"
+    },
+    {
+      "artist": "Thomas K\u00f6ner",
+      "title": "Tiento de las Nieves",
+      "services": {
+        "qobuz": "95463331"
+      },
+      "album": "Tiento de las Nieves",
+      "duration": 4082,
+      "isrc": "DERK91421501"
+    },
+    {
+      "artist": "Sarah Davachi",
+      "title": "En Bas Tu Vois",
+      "services": {
+        "qobuz": "164177331"
+      },
+      "album": "Two Sisters",
+      "duration": 767,
+      "isrc": "GB5P52200291"
+    },
+    {
+      "artist": "Kali Malone",
+      "title": "All Life Long (for organ)",
+      "services": {
+        "qobuz": "230193566"
+      },
+      "album": "All Life Long",
+      "duration": 518,
+      "isrc": "FR9W12304863"
+    },
+    {
+      "artist": "Quatuor Bozzini",
+      "title": "Navigations for Strings",
+      "services": {
+        "qobuz": "114237120"
+      },
+      "album": "Alvin Lucier: Navigations",
+      "duration": 1142,
+      "isrc": "CAA4J2010121"
+    },
+    {
+      "artist": "Mary Jane Leach",
+      "title": "Feu de Joie",
+      "services": {
+        "qobuz": "218482561"
+      },
+      "album": "Woodwind Multiples",
+      "duration": 534,
+      "isrc": "UK8261901186"
+    },
+    {
+      "artist": "Felicia Atkinson",
+      "title": "Thinking Iceberg",
+      "services": {
+        "qobuz": "276039311"
+      },
+      "album": "Thinking Iceberg",
+      "duration": 770,
+      "isrc": "FR9W12434618"
+    },
+    {
+      "artist": "Rafael Toral",
+      "title": "Spectral Evolution",
+      "services": {
+        "qobuz": "233727864"
+      },
+      "album": "Spectral Evolution",
+      "duration": 2834,
+      "isrc": "QM4WV2315313"
+    },
+    {
+      "artist": "Eliane Radigue",
+      "title": "Kyema",
+      "services": {
+        "qobuz": "192586221"
+      },
+      "album": "Trilogie de la Mort",
+      "duration": 3667,
+      "isrc": "FRT158818001"
+    },
+    {
+      "artist": "Charlemagne Palestine",
+      "title": "Schlingen Bl\u00e4ngen for Organo Rinascimentale Non Temperato",
+      "services": {
+        "qobuz": "410228110"
+      },
+      "album": "Schlingen Bl\u00e4ngen for Organo Rinascimentale Non Temperato",
+      "duration": 3495,
+      "isrc": "FR96X2597212"
+    },
+    {
+      "artist": "ELEH",
+      "title": "Living Space",
+      "services": {
+        "qobuz": "70435042"
+      },
+      "album": "Living Space",
+      "duration": 860,
+      "isrc": "GBJYX1814301"
+    },
+    {
+      "artist": "Duane Pitre",
+      "title": "The Seeker",
+      "services": {
+        "qobuz": "39147776"
+      },
+      "album": "The Seeker and the Healer",
+      "duration": 1140,
+      "isrc": "USCPT1410023"
+    }
+  ]
+}

@@ -1,0 +1,1009 @@
+{
+  "name": "Genre: Psychodelic Dark Folk",
+  "services": {
+    "qobuz": "66711189"
+  },
+  "description": "Imported genre playlist: Psychodelic Dark Folk.",
+  "tracks": [
+    {
+      "artist": "Davy Graham and Shirley Collins",
+      "title": "Nottamun Town",
+      "services": {
+        "qobuz": "109082393"
+      },
+      "album": "Folk Roots, New Routes",
+      "duration": 224,
+      "isrc": "ZA42A2007669"
+    },
+    {
+      "artist": "Dr. Strangely Strange",
+      "title": "Strangely Strange But Oddly Normal",
+      "services": {
+        "qobuz": "129200052"
+      },
+      "album": "Kip Of The Serenes",
+      "duration": 295,
+      "isrc": "GBUM70904809"
+    },
+    {
+      "artist": "Fairport Convention",
+      "title": "A Sailor's Life",
+      "services": {
+        "qobuz": "4368903"
+      },
+      "album": "Unhalfbricking",
+      "duration": 668,
+      "isrc": "GBAAN6900033"
+    },
+    {
+      "artist": "Forest",
+      "title": "Graveyard",
+      "services": {
+        "qobuz": "5281524"
+      },
+      "album": "The Full Circle",
+      "duration": 345,
+      "isrc": "GBAYE0802133"
+    },
+    {
+      "artist": "Pearls Before Swine",
+      "title": "The Jeweler",
+      "services": {
+        "qobuz": "3506488"
+      },
+      "album": "The Use Of Ashes",
+      "duration": 168,
+      "isrc": "USRE10200460"
+    },
+    {
+      "artist": "Simon Finn",
+      "title": "Jerusalem",
+      "services": {
+        "qobuz": "152579845"
+      },
+      "album": "Pass the Distance",
+      "duration": 404,
+      "isrc": "GBBLY1603378"
+    },
+    {
+      "artist": "Trader Horne",
+      "title": "Morning Way",
+      "services": {
+        "qobuz": "385630858"
+      },
+      "album": "Morning Way",
+      "duration": 275,
+      "isrc": "GBAJE6900488"
+    },
+    {
+      "artist": "Comus",
+      "title": "Drip Drip",
+      "services": {
+        "qobuz": "385627244"
+      },
+      "album": "First Utterance",
+      "duration": 651,
+      "isrc": "GBAJE0502701"
+    },
+    {
+      "artist": "Vangelis",
+      "title": "One More Kiss, Dear",
+      "services": {
+        "qobuz": "2015670"
+      },
+      "album": "Blade Runner (Music From The Original Soundtrack)",
+      "duration": 239,
+      "isrc": "GBAHS0104436"
+    },
+    {
+      "artist": "Fresh Maggots",
+      "title": "Rosemary Hill",
+      "services": {
+        "qobuz": "343658131"
+      },
+      "album": "Fresh Maggots",
+      "duration": 212,
+      "isrc": "GBARL1401551"
+    },
+    {
+      "artist": "Jan Dukes De Grey",
+      "title": "Yorkshire Indian Sitting In The Sun",
+      "services": {
+        "qobuz": "120355621"
+      },
+      "album": "Sorcerers",
+      "duration": 135,
+      "isrc": "GBBBA6978810"
+    },
+    {
+      "artist": "Shelagh Mcdonald",
+      "title": "Dowie Dens of Yarrow",
+      "services": {
+        "qobuz": "385629541"
+      },
+      "album": "Stargazer",
+      "duration": 413,
+      "isrc": "GBAJE0500064"
+    },
+    {
+      "artist": "Spring",
+      "title": "Grail",
+      "services": {
+        "qobuz": "206051617"
+      },
+      "album": "Spring",
+      "duration": 393,
+      "isrc": "GBBWX7100012"
+    },
+    {
+      "artist": "Mayday Parade",
+      "title": "Jamie All Over",
+      "services": {
+        "qobuz": "39283665"
+      },
+      "album": "A Lesson In Romantics",
+      "duration": 215,
+      "isrc": "US5260709901"
+    },
+    {
+      "artist": "Mark Fry",
+      "title": "The Witch",
+      "services": {
+        "qobuz": "103314000"
+      },
+      "album": "Dreaming With Alice",
+      "duration": 403,
+      "isrc": "USA2P2036541"
+    },
+    {
+      "artist": "Espers",
+      "title": "Dead Queen",
+      "services": {
+        "qobuz": "48465956"
+      },
+      "album": "II",
+      "duration": 493,
+      "isrc": "US58L0631001"
+    },
+    {
+      "artist": "Ashley Cleveland",
+      "title": "Ready Or Not",
+      "services": {
+        "qobuz": "66834740"
+      },
+      "album": "Before The Daylight's Shot",
+      "duration": 215,
+      "isrc": "USHM20669631"
+    },
+    {
+      "artist": "The Heartwood Institute",
+      "title": "A Kingdom By The Sea",
+      "services": {
+        "qobuz": "333395740"
+      },
+      "album": "Music to Accompany the Poems of Edgar Allan Poe",
+      "duration": 246,
+      "isrc": "UK6822505154"
+    },
+    {
+      "artist": "Julia Holter",
+      "title": "Boy in the Moon",
+      "services": {
+        "qobuz": "6846544"
+      },
+      "album": "Ekstasis",
+      "duration": 499,
+      "isrc": "GBCEL1200456"
+    },
+    {
+      "artist": "The Owl Service",
+      "title": "Dives & Lazarus",
+      "services": {
+        "qobuz": "326153666"
+      },
+      "album": "Rise Up, Rise Up",
+      "duration": 375,
+      "isrc": "QZK6N2525902"
+    },
+    {
+      "artist": "Johnny Mathis",
+      "title": "Lovers in New York (From the NBC-TV Series, \"Peter Gunn\")",
+      "services": {
+        "qobuz": "77582"
+      },
+      "album": "The Global Masters",
+      "duration": 183,
+      "isrc": "USSM16500112"
+    },
+    {
+      "artist": "Wyrdstone",
+      "title": "Meditation on Lost Gardens",
+      "services": {
+        "qobuz": "99935145"
+      },
+      "album": "Potemkin Village Fayre",
+      "duration": 216,
+      "isrc": "USCGJ1992064"
+    },
+    {
+      "artist": "Simon Field",
+      "title": "Shake The Tree",
+      "services": {
+        "qobuz": "219520708"
+      },
+      "album": "Shake The Tree",
+      "duration": 184,
+      "isrc": "UK4ZF1900004"
+    },
+    {
+      "artist": "Soul Circus Cowboys",
+      "title": "Must Have Had a Good Time",
+      "services": {
+        "qobuz": "144275120"
+      },
+      "album": "Rolling Across America - Home Stretch",
+      "duration": 202,
+      "isrc": "USBAE2095986"
+    },
+    {
+      "artist": "The Rowan Amber Mill",
+      "title": "Sands of Time",
+      "services": {
+        "qobuz": "405531733"
+      },
+      "album": "Summoned to Measure the Seasons",
+      "duration": 294,
+      "isrc": "UKT862600007"
+    },
+    {
+      "artist": "Telling The Bees",
+      "title": "Sweet Dream",
+      "services": {
+        "qobuz": "91090852"
+      },
+      "album": "An English Arcanum",
+      "duration": 213,
+      "isrc": "GBVNJ0900006"
+    },
+    {
+      "artist": "Christian Franke",
+      "title": "Ich w\u00fcnsch dir die H\u00f6lle auf Erden 2001",
+      "services": {
+        "qobuz": "343253"
+      },
+      "album": "Genau wie du",
+      "duration": 163,
+      "isrc": "DEA810100554"
+    },
+    {
+      "artist": "Twelve Thousand Days",
+      "title": "Thistles",
+      "services": {
+        "qobuz": "56260402"
+      },
+      "album": "John Barleycorn Reborn: Rebirth",
+      "duration": 327,
+      "isrc": "GBAS91215025"
+    },
+    {
+      "artist": "Stereolab",
+      "title": "The Flower Called Nowhere",
+      "services": {
+        "qobuz": "79198112"
+      },
+      "album": "Dots And Loops",
+      "duration": 315,
+      "isrc": "USEE19792078"
+    },
+    {
+      "artist": "Amorphis",
+      "title": "Black Winter Day",
+      "services": {
+        "qobuz": "60846088"
+      },
+      "album": "Tales From The Thousand Lakes",
+      "duration": 230,
+      "isrc": "US2640771916"
+    },
+    {
+      "artist": "Henry Cow",
+      "title": "Extract from With The Yellow Half-Moon and Blue Star",
+      "services": {
+        "qobuz": "104265591"
+      },
+      "album": "Legend",
+      "duration": 217,
+      "isrc": "UKBUU1900096"
+    },
+    {
+      "artist": "Rivers of Nihil",
+      "title": "House of Light",
+      "services": {
+        "qobuz": "307623510"
+      },
+      "album": "Rivers of Nihil",
+      "duration": 349,
+      "isrc": "USMBR2516634"
+    },
+    {
+      "artist": "Hawksmoor",
+      "title": "Parallelograms",
+      "services": {
+        "qobuz": "275577464"
+      },
+      "album": "Oneironautics",
+      "duration": 404,
+      "isrc": "GBBCK2401951"
+    },
+    {
+      "artist": "Graham Johnson",
+      "title": "Berlioz: Les nuits d'\u00e9t\u00e9, H. 81b: Le spectre de la rose, H. 83b",
+      "services": {
+        "qobuz": "259411610"
+      },
+      "album": "L'heure exquise: A French Songbook",
+      "duration": 371,
+      "isrc": "GBAJY1596210"
+    },
+    {
+      "artist": "Alex De Grassi",
+      "title": "Alba",
+      "services": {
+        "qobuz": "89548991"
+      },
+      "album": "Tata Monk",
+      "duration": 450,
+      "isrc": "US73Y0010052"
+    },
+    {
+      "artist": "Ana SIlvera",
+      "title": "Queen of Swords",
+      "services": {
+        "qobuz": "151816598"
+      },
+      "album": "The Fabulist",
+      "duration": 229,
+      "isrc": "UKMR92200006"
+    },
+    {
+      "artist": "The Left Outsides",
+      "title": "You Told Your Secrets to the Sea",
+      "services": {
+        "qobuz": "76439070"
+      },
+      "album": "The Shape of Things to Come",
+      "duration": 228,
+      "isrc": "USQ6E1300020"
+    },
+    {
+      "artist": "Renaissance",
+      "title": "Mr.Pine",
+      "services": {
+        "qobuz": "77813095"
+      },
+      "album": "Illusion",
+      "duration": 418,
+      "isrc": "DED467100040"
+    },
+    {
+      "artist": "R.E.M.",
+      "title": "Man on the Moon",
+      "services": {
+        "qobuz": "62295766"
+      },
+      "album": "Live 8",
+      "duration": 329,
+      "isrc": "UK6821903015"
+    },
+    {
+      "artist": "The Cranky Bighead Band",
+      "title": "Don't You Mess with Me Boy",
+      "services": {
+        "qobuz": "336163738"
+      },
+      "album": "I Don't Want to be Famous",
+      "duration": 185,
+      "isrc": "QZPLS2545694"
+    },
+    {
+      "artist": "Mystery Flavors",
+      "title": "A Thousand Ways",
+      "services": {
+        "qobuz": "79269654"
+      },
+      "album": "A Thousand Ways",
+      "duration": 196,
+      "isrc": "USL4Q1931131"
+    },
+    {
+      "artist": "Savage Hands",
+      "title": "Brain Dead",
+      "services": {
+        "qobuz": "73537301"
+      },
+      "album": "The Truth in Your Eyes",
+      "duration": 191,
+      "isrc": "DED831900906"
+    },
+    {
+      "artist": "Adam Viktora",
+      "title": "Beatus vir, ZWV 75: Beatus vir",
+      "services": {
+        "qobuz": "29359339"
+      },
+      "album": "Jan Dismas Zelenka: Psalmi Vespertini I",
+      "duration": 319,
+      "isrc": "CZA301500027"
+    },
+    {
+      "artist": "Hanford Reach",
+      "title": "Autumn Calling",
+      "services": {
+        "qobuz": "331785463"
+      },
+      "album": "Ceiling Stars",
+      "duration": 260,
+      "isrc": "USHM22528124"
+    },
+    {
+      "artist": "The Jon Spencer Blues Explosion",
+      "title": "2Kindsa Love",
+      "services": {
+        "qobuz": "31183423"
+      },
+      "album": "Now I Got Worry",
+      "duration": 182,
+      "isrc": "USSE91031741"
+    },
+    {
+      "artist": "Wild Child",
+      "title": "Silly Things",
+      "services": {
+        "qobuz": "183263410"
+      },
+      "album": "Pillow Talk",
+      "duration": 254,
+      "isrc": "QMUCH1100013"
+    },
+    {
+      "artist": "Hive",
+      "title": "Experiments In Synthetic Rhythm",
+      "services": {
+        "qobuz": "360675910"
+      },
+      "album": "Devious Methods",
+      "duration": 137,
+      "isrc": "US25X1801317"
+    },
+    {
+      "artist": "Yasuyuki Okamura",
+      "title": "Kahlua Milk",
+      "services": {
+        "qobuz": "95640000"
+      },
+      "album": "Oh Best",
+      "duration": 310,
+      "isrc": "JPES09004660"
+    },
+    {
+      "artist": "Saru",
+      "title": "Strange Puppet (Monta At Odds Remix)",
+      "services": {
+        "qobuz": "87986403"
+      },
+      "album": "Strange Puppet - Single",
+      "duration": 242,
+      "isrc": "USCGJ1125092"
+    },
+    {
+      "artist": "Stand High Patrol",
+      "title": "Dinner Time",
+      "services": {
+        "qobuz": "49134269"
+      },
+      "album": "The Shift",
+      "duration": 245,
+      "isrc": "DEZ651705643"
+    },
+    {
+      "artist": "John Williams",
+      "title": "Adventures on Earth (From \"E. T.\")",
+      "services": {
+        "qobuz": "60400"
+      },
+      "album": "John Williams Conducts His Classic Scores for the Films of Steven Spielberg",
+      "duration": 587,
+      "isrc": "USSM19909904"
+    },
+    {
+      "artist": "Hard-Fi",
+      "title": "Gotta Reason",
+      "services": {
+        "qobuz": "330139790"
+      },
+      "album": "Stars Of CCTV",
+      "duration": 155,
+      "isrc": "GBAHS2400874"
+    },
+    {
+      "artist": "Of The Wand & The Moon",
+      "title": "A Pyre of Black Sunflowers",
+      "services": {
+        "qobuz": "76251782"
+      },
+      "album": "The Lone Descent",
+      "duration": 515,
+      "isrc": "DEKB31100182"
+    },
+    {
+      "artist": "Rafiq Bhatia",
+      "title": "At Midnight On A Black Sand Beach, The Raging Tides Begin To Speak",
+      "services": {
+        "qobuz": "336950762"
+      },
+      "album": "Environments",
+      "duration": 271,
+      "isrc": "USEP42519003"
+    },
+    {
+      "artist": "Kate Bush",
+      "title": "Big Stripey Lie",
+      "services": {
+        "qobuz": "199956065"
+      },
+      "album": "The Red Shoes",
+      "duration": 208,
+      "isrc": "GBAYE1800927"
+    },
+    {
+      "artist": "Astralasia",
+      "title": "The Magician",
+      "services": {
+        "qobuz": "105728353"
+      },
+      "album": "The Darkest Voyage",
+      "duration": 226,
+      "isrc": "GBCES2000013"
+    },
+    {
+      "artist": "Jay Price",
+      "title": "Come on and Set Me Free",
+      "services": {
+        "qobuz": "404500146"
+      },
+      "album": "Up - Righteous Riff Rock",
+      "duration": 159,
+      "isrc": "DEB632602845"
+    },
+    {
+      "artist": "Joe Bonamassa",
+      "title": "I'll Play The Blues For You",
+      "services": {
+        "qobuz": "35488017"
+      },
+      "album": "Live at the Greek Theatre",
+      "duration": 374,
+      "isrc": "USMH51600698"
+    },
+    {
+      "artist": "Sleepyard",
+      "title": "Falling in Love",
+      "services": {
+        "qobuz": "151445604"
+      },
+      "album": "Head Values",
+      "duration": 324,
+      "isrc": "NOL862133060"
+    },
+    {
+      "artist": "The Striped Bananas",
+      "title": "Heaven and Hell",
+      "services": {
+        "qobuz": "92526838"
+      },
+      "album": "Stone of Madness",
+      "duration": 157,
+      "isrc": "QMAAK1733631"
+    },
+    {
+      "artist": "Queens Of The Stone Age",
+      "title": "The Sky Is Fallin'",
+      "services": {
+        "qobuz": "8956328"
+      },
+      "album": "Songs For The Deaf",
+      "duration": 375,
+      "isrc": "USIR10211296"
+    },
+    {
+      "artist": "The Beach Boys",
+      "title": "Lonely Days",
+      "services": {
+        "qobuz": "41715691"
+      },
+      "album": "1967 - Sunshine Tomorrow",
+      "duration": 105,
+      "isrc": "USUM71703618"
+    },
+    {
+      "artist": "Bournemouth Symphony Orchestra",
+      "title": "The Two Pigeons, Act 1: The Gypsy Girl Flirts with the Young Man",
+      "services": {
+        "qobuz": "135560944"
+      },
+      "album": "Messager: Les deux pigeons",
+      "duration": 30,
+      "isrc": "GBAYD8300355"
+    },
+    {
+      "artist": "Groove Armada",
+      "title": "Pre 63",
+      "services": {
+        "qobuz": "302356"
+      },
+      "album": "The Remixes",
+      "duration": 359,
+      "isrc": "GBAHK0000003"
+    },
+    {
+      "artist": "Green Day",
+      "title": "J.A.R. (Jason Andrew Relva)",
+      "services": {
+        "qobuz": "62606037"
+      },
+      "album": "International Superhits!",
+      "duration": 171,
+      "isrc": "USRE11600699"
+    },
+    {
+      "artist": "Florence + The Machine",
+      "title": "Strangeness And Charm",
+      "services": {
+        "qobuz": "8531480"
+      },
+      "album": "Ceremonials",
+      "duration": 316,
+      "isrc": "GBUM71107585"
+    },
+    {
+      "artist": "Gov't Mule",
+      "title": "Head Full Of Thunder",
+      "services": {
+        "qobuz": "202056225"
+      },
+      "album": "Peace...Like A River",
+      "duration": 275,
+      "isrc": "USC4R2228357"
+    },
+    {
+      "artist": "Alice Phoebe Lou",
+      "title": "Witches",
+      "services": {
+        "qobuz": "325672318"
+      },
+      "album": "Witches",
+      "duration": 195,
+      "isrc": "GBKPL2089608"
+    },
+    {
+      "artist": "The Cat and Owl",
+      "title": "White Sky",
+      "services": {
+        "qobuz": "279836370"
+      },
+      "album": "Lullaby Versions of Vampire Weekend",
+      "duration": 300,
+      "isrc": "UK54A2200175"
+    },
+    {
+      "artist": "J\u00f3nsi",
+      "title": "Sticks & Stones",
+      "services": {
+        "qobuz": "30111765"
+      },
+      "album": "How To Train Your Dragon",
+      "duration": 258,
+      "isrc": "US3M51001224"
+    },
+    {
+      "artist": "David Ian Roberts",
+      "title": "Carillon",
+      "services": {
+        "qobuz": "59247406"
+      },
+      "album": "Travelling Bright",
+      "duration": 234,
+      "isrc": "UK6821812608"
+    },
+    {
+      "artist": "Street Dogs",
+      "title": "These Ain't The Old Days",
+      "services": {
+        "qobuz": "49008258"
+      },
+      "album": "Stand For Something Or Die For Nothing",
+      "duration": 195,
+      "isrc": "USQX91702730"
+    },
+    {
+      "artist": "Glenn Hughes",
+      "title": "The Boy Can Sing the Blues",
+      "services": {
+        "qobuz": "79568234"
+      },
+      "album": "L.a Blues Authority Vol. Ii: Blues",
+      "duration": 338,
+      "isrc": "QM7281534226"
+    },
+    {
+      "artist": "You Blew It!",
+      "title": "A Noble Black Eye",
+      "services": {
+        "qobuz": "48679729"
+      },
+      "album": "Grow Up, Dude",
+      "duration": 175,
+      "isrc": "USEZ61200021"
+    },
+    {
+      "artist": "Bird Radio",
+      "title": "Fear",
+      "services": {
+        "qobuz": "25203073"
+      },
+      "album": "Oh, Happy England",
+      "duration": 283,
+      "isrc": "GBBLY1500138"
+    },
+    {
+      "artist": "Ewa Marciniec",
+      "title": "No. 4, The Wind, an Autumn Wind, Howled",
+      "services": {
+        "qobuz": "306172375"
+      },
+      "album": "Penderecki: A Sea of Dreams Did Breathe on Me...",
+      "duration": 85,
+      "isrc": "HKI191419815"
+    },
+    {
+      "artist": "John Martyn",
+      "title": "Under My Wing",
+      "services": {
+        "qobuz": "60567714"
+      },
+      "album": "On The Cobbles",
+      "duration": 250,
+      "isrc": "GBBPF0301095"
+    },
+    {
+      "artist": "Alula Down",
+      "title": "Grace Lies Down",
+      "services": {
+        "qobuz": "63321049"
+      },
+      "album": "Homespun",
+      "duration": 316,
+      "isrc": "USHM21984536"
+    },
+    {
+      "artist": "Vic Mars",
+      "title": "Villages, Hamlets and Fetes",
+      "services": {
+        "qobuz": "28127164"
+      },
+      "album": "The Land and the Garden",
+      "duration": 189,
+      "isrc": "UK6821407606"
+    },
+    {
+      "artist": "Pretty Vicious",
+      "title": "Are You Ready For Me",
+      "services": {
+        "qobuz": "28277873"
+      },
+      "album": "Are You Ready For Me",
+      "duration": 215,
+      "isrc": "GBUM71507207"
+    },
+    {
+      "artist": "Lady Maisery",
+      "title": "Staines Morris",
+      "services": {
+        "qobuz": "402818407"
+      },
+      "album": "Wakefire: A Summer Album",
+      "duration": 162,
+      "isrc": "UKQZG2600008"
+    },
+    {
+      "artist": "David Gilmour",
+      "title": "Then I Close My Eyes",
+      "services": {
+        "qobuz": "4643649"
+      },
+      "album": "On an Island",
+      "duration": 327,
+      "isrc": "GBLTP0600007"
+    },
+    {
+      "artist": "Sharron Kraus",
+      "title": "Y fari lwyd",
+      "services": {
+        "qobuz": "10980553"
+      },
+      "album": "Pilgrim Chants & Pastoral Trails",
+      "duration": 294,
+      "isrc": "FR6V81896400"
+    },
+    {
+      "artist": "Hector Oaks",
+      "title": "We Met Under The Strobe Light",
+      "services": {
+        "qobuz": "209843745"
+      },
+      "album": "We Met Under The Strobe Light",
+      "duration": 345,
+      "isrc": "QZHZD1952929"
+    },
+    {
+      "artist": "HOYO-MiX",
+      "title": "Voyage of the Black Crystal",
+      "services": {
+        "qobuz": "220386817"
+      },
+      "album": "Genshin Impact - The Shimmering Voyage, Vol. 3",
+      "duration": 113,
+      "isrc": "DGA062386434"
+    },
+    {
+      "artist": "The Hare And The Moon",
+      "title": "I'll Bid My Heart Be Still",
+      "services": {
+        "qobuz": "67116300"
+      },
+      "album": "All the Merry Year Round",
+      "duration": 224,
+      "isrc": "USHM91710495"
+    },
+    {
+      "artist": "Chumbawamba",
+      "title": "When an Old Man Dies",
+      "services": {
+        "qobuz": "300447295"
+      },
+      "album": "The Boy Bands Have Won",
+      "duration": 54,
+      "isrc": "DEZ430815401"
+    },
+    {
+      "artist": "David Buckley",
+      "title": "A Thousand Miles of Sand",
+      "services": {
+        "qobuz": "212703332"
+      },
+      "album": "Kandahar (Original Motion Picture Soundtrack)",
+      "duration": 104,
+      "isrc": "USLS52342201"
+    },
+    {
+      "artist": "Jacken Elswyth",
+      "title": "Singing Birds / Jack Lattin",
+      "services": {
+        "qobuz": "260556008"
+      },
+      "album": "At Fargrounds",
+      "duration": 193,
+      "isrc": "UKX2L2400010"
+    },
+    {
+      "artist": "The Great Old Ones",
+      "title": "In Screams and Flames",
+      "services": {
+        "qobuz": "77783343"
+      },
+      "album": "EOD: A Tale of Dark Legacy (Deluxe Edition)",
+      "duration": 470,
+      "isrc": "FR33T1640306"
+    },
+    {
+      "artist": "Chad Lawson",
+      "title": "Lawson: She Dreams of Time",
+      "services": {
+        "qobuz": "97273319"
+      },
+      "album": "You Finally Knew",
+      "duration": 201,
+      "isrc": "USUG12000365"
+    },
+    {
+      "artist": "The King's Singers",
+      "title": "Carol of the Bells (Arr. Keith Roberts)",
+      "services": {
+        "qobuz": "33950090"
+      },
+      "album": "Christmas Songbook",
+      "duration": 163,
+      "isrc": "GBLLH1645905"
+    },
+    {
+      "artist": "Sproatly Smith",
+      "title": "We Plough and Sow",
+      "services": {
+        "qobuz": "107266445"
+      },
+      "album": "Times Is N' Times Was",
+      "duration": 287,
+      "isrc": "USHM21393228"
+    },
+    {
+      "artist": "Takashi Nishioka",
+      "title": "\u6e80\u54e1\u306e\u6728",
+      "services": {
+        "qobuz": "199367714"
+      },
+      "album": "\u6e80\u54e1\u306e\u6728",
+      "duration": 247,
+      "isrc": "JPS307300003"
+    },
+    {
+      "artist": "The Chainsmokers",
+      "title": "In Too Deep",
+      "services": {
+        "qobuz": "168265304"
+      },
+      "album": "So Far So Good",
+      "duration": 194,
+      "isrc": "USQX92105844"
+    },
+    {
+      "artist": "Kan Mikami",
+      "title": "\u4e00\u4eba\u306e\u5973\u306e\u30d5\u30a3\u30ca\u30fc\u30ec",
+      "services": {
+        "qobuz": "199145033"
+      },
+      "album": "\u3072\u3089\u304f\u5922\u306a\u3069\u3042\u308b\u3058\u3083\u306a\u3057",
+      "duration": 159,
+      "isrc": "JPS307200023"
+    },
+    {
+      "artist": "Logic System",
+      "title": "Unit",
+      "services": {
+        "qobuz": "81296781"
+      },
+      "album": "Logic",
+      "duration": 293,
+      "isrc": "JPTO08119990"
+    },
+    {
+      "artist": "Tanizawa Tomofumi",
+      "title": "Night On The Galactic Railroad",
+      "services": {
+        "qobuz": "298419689"
+      },
+      "album": "We Are All Spacy",
+      "duration": 261,
+      "isrc": "TCJPC2410457"
+    },
+    {
+      "artist": "Garden",
+      "title": "Junigatsu No Ame No Hi",
+      "services": {
+        "qobuz": "119281402"
+      },
+      "album": "Happy End Ni Sasagu",
+      "duration": 195,
+      "isrc": "JPSR09315010"
+    },
+    {
+      "artist": "Jyoji Sawada",
+      "title": "\u6765\u308b\u3079\u304d\u3082\u306e",
+      "services": {
+        "qobuz": "383719230"
+      },
+      "album": "\u84fc\u79d1\u5e7b\u60f3",
+      "duration": 65,
+      "isrc": "JPB462680015"
+    }
+  ]
+}

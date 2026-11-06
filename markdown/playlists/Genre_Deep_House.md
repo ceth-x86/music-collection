@@ -1,0 +1,104 @@
+# Genre: Deep House
+
+Imported genre playlist: Deep House.
+
+Services: `qobuz:66715573` `tidal:3e1c0ef0-9732-4fd7-b380-eb622ccd6bf8`
+
+## Tracks (96)
+
+- **Turbonegro** — Intro The Party Zone [Party Animals] (2:00) `isrc:SEVHC0502010` `qobuz:77645166`
+- **Ladies of Soul feat. Berget Lewis & Glennis Grace & Edsilia Rombley & Candy Dulfer** — Final Hits Medley (I Feel It Coming/No Scrubs/Where Is The Love?/Shape Of You/Feels/Rockabye/I Want Your Love/Signs/Heartbreak Hotel/Groove Is In The Heart/Cheerleader/Follow The Leader/Locked Out Of Heaven) [Ladies of Soul Live at the Ziggo Dome 2018] (16:30) `isrc:NLXV41800031` `qobuz:52749698`
+- **Nalin & Kane** — Beachball [Beachball] (3:54) `isrc:DEN061600817` `qobuz:91640887`
+- **The Beatles** — All You Need Is Love [Magical Mystery Tour] (3:50) `isrc:GBAYE0601643` `qobuz:30369109`
+- **Miguel Campbell** — Something Special [Back in Flight School] (4:42) `isrc:GBK6Y1111002` `qobuz:202815936`
+- **Betoko** — U So Fine [U So Fine EP] (6:20) `isrc:USNRS1230320` `qobuz:7123735`
+- **Dusky** — Careless [Careless] (6:31) `isrc:GBJPB0500377` `qobuz:17718826`
+- **Route 94** — My Love (feat. Jess Glynne) [I Cry When I Laugh (Deluxe)] (4:22) `isrc:GBAHS1500236` `qobuz:24438356`
+- **Maya Jane Coles** — What They Say [What They Say EP] (6:40) `isrc:GBKPL1417035` `qobuz:168871173`
+- **Txomin Navarro** — Double Trouble [5 latidos] (3:59) `isrc:QT5M52582620` `qobuz:418446040`
+- **Yes** — No Opportunity Necessary, No Experience Needed [Time and a Word] (4:42) `isrc:USEE10251873` `qobuz:2942772`
+- **African Head Charge** — Push Me Pull You [A Trip To Bolgatanga] (3:49) `isrc:GB5P59700062` `qobuz:217520541`
+- **Empire Of The Sun** — Walking On A Dream [Walking On A Dream] (3:18) `isrc:AUEI10800039` `qobuz:1746721`
+- **Philip Cohran & The Artistic Heritage Ensemble** — Ain't Nobody Gonna Treat Us Like They Used to Do - The Spencer Jackson Family [The Zulu 45s Collection] (2:48) `isrc:GBCTF1000078` `qobuz:54337036`
+- **Charli XCX** — Roll with Me [Number 1 Angel] (3:22) `isrc:GBAHS1700243` `qobuz:39060444`
+- **Joe Louis Walker** — Bliss Street Blues [Guitar Brothers (10th Anniversary Reissue)] (4:52) `isrc:GBAJD1182909` `qobuz:7245294`
+- **Ninetoes** — Finder [Ibiza Fever by Bob Sinclar] (3:26) `isrc:DENC31800057` `qobuz:334921525`
+- **Nothing But Thieves** — Take This Lonely Heart [What Did You Think When You Made Me This Way?] (4:01) `isrc:GBARL1801209` `qobuz:52838742`
+- **Ronnie Milsap** — Any Day Now [The Best Of Ronnie Milsap] (3:41) `isrc:USRN19400367` `qobuz:62815932`
+- **Sirs** — Check It out Heritage [Check It out Heritage] (7:38) `isrc:DEPI81700690` `qobuz:40134180`
+- **Dam Swindle** — Coffee in the Morning [Coffee in the Morning] (3:45) `isrc:NLYV52000014` `qobuz:195086685`
+- **Chris Stussy** — Seeing & Believing [Across Ocean] (3:31) `isrc:DEY472085295` `qobuz:233709415`
+- **Flea** — Traffic Lights (feat. Thom Yorke) [Honora] (5:41) `isrc:USNO12500454` `qobuz:382811303`
+- **Chris Stussy** — Breather [Get Together] (7:45) `isrc:UKACT2130817` `qobuz:388068027`
+- **Fred again..** — Marea (we’ve lost dancing) [Actual Life (April 14 - December 17 2020)] (4:45) `isrc:GBAHS2100041` `qobuz:118331198`
+- **Oden & Fatzo** — Lauren (I Can't Stay Forever) [Lauren (I Can't Stay Forever)] (6:36) `isrc:DEE862102284` `qobuz:146983896`
+- **Chris Stussy** — All Night Long [All Night Long] (3:54) `isrc:USZXT2351303` `qobuz:210817086`
+- **Chris Stussy** — Desire [Desire] (2:51) `isrc:QM4TW2437510` `qobuz:265321009`
+- **Killer Be Killed** — Deconstructing Self-Destruction [Reluctant Hero] (4:33) `isrc:DED832000642` `qobuz:99981836`
+- **ANOTR** — How You Feel (ft Leven Kali) [On A Trip] (3:17) `isrc:USZXT2454115` `qobuz:312488762`
+- **Dennis Quin** — Treat You Right [Treat You Right] (3:56) `isrc:GBKQU2449478` `qobuz:273019359`
+- **RÜFÜS DU SOL** — Lately [Inhale / Exhale Remixed, Vol. 2] (3:36) `isrc:USRE12400439` `qobuz:339235305`
+- **Tomàn** — De Bongo Man [Dolce Far Niente] (6:30) `isrc:GBKQU2469933` `qobuz:279765084`
+- **Mario Brunello** — Violin Sonata No. 3 in C Major, BWV 1005 (Arr. for Two Piccolo Cellos): I. Adagio [J. S. Bach on Nine Strings. Suite, Partita and Sonata for Two Piccolo Cellos] (4:43) `isrc:FR46Y2559001` `qobuz:376450017`
+- **Booker T. & The M.G.'s** — Hang 'Em High [Soul Limbo] (3:59) `isrc:USFI86800040` `qobuz:62070612`
+- **Gaskin** — Closer [Closer] (3:54) `isrc:UKU932482797` `qobuz:388435858`
+- **Max Dean** — Can't Decide [Can't Decide] (5:26) `isrc:GBAHT2500239` `qobuz:340452621`
+- **Brunello** — Melted [Melted] (7:37) `isrc:CA5KR2589098` `qobuz:400942300`
+- **Josh Baker** — Back It Up [Back It Up] (2:36) `isrc:US38Y2512970` `qobuz:324672621`
+- **Abity** — Spaceship [Black Roses] (6:15) `isrc:FR59R2604047` `qobuz:399116668`
+- **Sidney Charles** — Take It Back (To The Old School) [Take It Back EP] (3:33) `isrc:GXG4Y2500031` `qobuz:365975222`
+- **Sosa UK** — Time Away [ENDZ061] (2:57) `isrc:GBKQU2577951` `qobuz:349664111`
+- **Gennaro** — Te Conoci [Sensual Disguise EP] (3:10) `isrc:GBKQU2579564` `qobuz:349663697`
+- **Josh Baker** — Come Closer (feat. Sienna Sophia) [Come Closer EP] (3:26) `isrc:US39N2548888` `qobuz:371169893`
+- **OMRI.** — Nothing Wrong [Nothing Wrong] (5:16) `isrc:GB7NR2533202` `qobuz:335265471`
+- **M-High** — Craving What Ain't Mine [Craving What Ain't Mine] (6:42) `isrc:UKACT2540058` `qobuz:375773393`
+- **Mita Gami** — All By Myself [All By Myself] (3:29) `isrc:QMFME2461184` `qobuz:305153863`
+- **Dam Swindle** — Backyard Galaxy [Backyard Galaxy] (4:42) `isrc:NLYV52500064` `qobuz:357615080`
+- **Across Boundaries** — Sakura [Sakura] (6:24) `isrc:UKU932581530` `qobuz:388426912`
+- **KETTAMA** — Yosemite [Yosemite (Philip George Remix)] (4:35) `isrc:USZXT2557092` `qobuz:349610029`
+- **OMRI.** — Nothing Wrong (Love Mix) [Crosstown Rebels present Alive in '25 - The Best Of Crosstown Rebels 2025] (3:25) `isrc:GB7NR2533201` `qobuz:372464161`
+- **Vernis Rouge** — James Bande [James Bande] (2:59) `isrc:DEH742443295` `qobuz:347326331`
+- **Roland Clark** — I Get Deep [Get Physical Radio by Meloko] (6:20) `isrc:DEBE72600270` `qobuz:411726243`
+- **High Beam** — Just What I Said (Everything In Its Right Place) [Just What I Said (Everything In Its Right Place)] (3:16) `isrc:QZES52582870` `qobuz:333858472`
+- **Joss Dean** — Was I Loved? [Was I Loved?] (3:13) `isrc:GB6LY1602010` `qobuz:354537609`
+- **JAKKOB** — And Back [And Back] (6:10) `isrc:GBLV62524041` `qobuz:374039669`
+- **Mita Gami** — Happiness Is Too Finesse [Untouchable EP] (3:39) `isrc:GB7NR2533403` `qobuz:340348494`
+- **Yuvee** — Freydies [Freydies EP] (3:53) `isrc:GBEWA2501620` `qobuz:424984034`
+- **Nick Curly** — Attention [Joystick EP] (3:47) `isrc:GBLV62516848` `qobuz:370327645`
+- **Cam Stockman** — Into My Life (feat. Joyce Sims) [Into My Life (feat. Joyce Sims)] (2:11) `isrc:US39N2579920` `qobuz:385459707`
+- **Caleb Laurenson** — Beautiful Thing [Beautiful Thing] (3:00) `isrc:US39N2624236` `qobuz:394104334`
+- **Gorge** — Come With Me [Keep On Movin' EP] (6:40) `isrc:DEW872601548` `qobuz:390590236`
+- **Reboot** — No Danger [House Call EP] (3:38) `isrc:GBKQU2603585` `qobuz:388594592`
+- **Sidney Charles** — On My Mind [On My Mind] (3:12) `isrc:QM4TW2618724` `qobuz:383421581`
+- **Yorkshire By Nature** — How My World Spins (feat. Monster Moe) [How My World Spins (feat. Monster Moe)] (3:28) `isrc:QZWFR2677976` `qobuz:413725486`
+- **Ruze** — Does Ya Momma Know? [Does Ya Momma Know?] (2:51) `isrc:NL8RL2604140` `qobuz:383581589`
+- **Reboot** — Here We Go [House Call EP] (4:07) `isrc:GBKQU2603586` `qobuz:388594593`
+- **Gorge** — Keep On Movin' [Keep On Movin' EP] (6:09) `isrc:DEW872601550` `qobuz:390590237`
+- **Alexander Ross** — Life In A Northern Town [The Long Journey Home (Deluxe Version)] (4:43) `isrc:GBVSJ2200015` `qobuz:212271721`
+- **Nick Curly** — Switching Levels [Switching Levels EP] (6:18) `isrc:DEW872506837` `qobuz:382547671`
+- **Eric Luttrell** — On The Line (ABGT664) [Group Therapy 664 (DJ Mix)] (3:19) `isrc:GBEWA2600733` `qobuz:424989636`
+- **Hector Couto** — Day By Day [Magic EP] (3:29) `isrc:GBKQU2603309` `qobuz:384438527`
+- **oskar med k** — On The Ground [On The Ground] (2:14) `isrc:US3DF2604849` `qobuz:383920442`
+- **Yuvee** — Set The Fire [Crosstown Rebels present SPIRITS VIII] (5:25) `isrc:GB7NR2658205` `qobuz:381916207`
+- **Reboot** — Blues [House Call EP] (3:53) `isrc:GBKQU2603587` `qobuz:388594594`
+- **Raz Alon** — Hey It's Me [Crosstown Rebels present SPIRITS VIII] (5:51) `isrc:GB7NR2658201` `qobuz:381916203`
+- **Roberto Sol** — Good to Me [Hotel Aurora] (4:31) `isrc:DEMQ11501162` `qobuz:26600661`
+- **Mihai Popoviciu** — The Shake [The Shake] (6:26) `isrc:DEL022680004` `qobuz:373509360`
+- **Sidney Charles** — Till The Early Mornin [On My Mind] (6:09) `isrc:QM4TW2621209` `qobuz:383421584`
+- **Sidney Charles** — Astral Express [On My Mind] (6:37) `isrc:QM4TW2621208` `qobuz:383421583`
+- **Sidney Charles** — The Missing Link [On My Mind] (6:10) `isrc:QM4TW2621207` `qobuz:383421582`
+- **Sandrop** — Ready To Go [Say It EP] (4:00) `isrc:GXDGV2600014` `qobuz:390591654`
+- **Yuvee** — Nowhere To Hide [Nowhere To Hide] (4:52) `isrc:GBKQU2615013` `qobuz:391774047`
+- **Natema** — Moon House [Moon House] (5:46) `isrc:BXWGB2400001` `qobuz:294064791`
+- **Sam Goku** — x-plor09 (much to give) [Explorations 03] (7:33) `isrc:DECY62600001` `qobuz:382928011`
+- **6th Borough Project** — The Deal [The Deal EP] (4:07) `isrc:GBZHR2500467` `qobuz:382210082`
+- **Kepler.** — Life [Life] (6:01) `isrc:UKACT2641083` `qobuz:385246562`
+- **Sonic Youth** — Plastic Sun [Murray Street] (2:14) `isrc:USIR10210947` `qobuz:33572090`
+- **6th Borough Project** — The Hertz [The Hertz] (4:26) `isrc:GBZHR2600466` `qobuz:382210056`
+- **Colau** — Back To Basics [Back To Basics] (6:01) `isrc:UKM6J2600004` `qobuz:384515650`
+- **D'Julz** — J'Y Vais [JV] (4:49) `isrc:GBKQU2604607` `qobuz:390653130`
+- **Trilucid** — Let Go Of Your Pain (ABGT660) [Group Therapy 660 (DJ Mix)] (4:25) `isrc:GBEWA2600141` `qobuz:424989428`
+- **Marc Lenz** — After Shock [Breath] (7:57) `isrc:GB7NR2661262` `qobuz:387370102`
+- **DJ Swella** — Next To Me [EP3] (5:38) `isrc:NLL562604493` `qobuz:397129830`
+- **Lil' Son Jackson** — Get High Everybody [Lil' Son Jackson, Vol. 2] (2:08) `isrc:USA561308015` `qobuz:7025547`
+- **Mihai Popoviciu** — Interplay [The Shake] (5:30) `isrc:DEL022680006` `qobuz:373509362`

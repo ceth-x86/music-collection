@@ -1,0 +1,1009 @@
+{
+  "name": "Genre: Avantgarde Rock",
+  "services": {
+    "qobuz": "66737249"
+  },
+  "description": "Imported genre playlist: Avantgarde Rock.",
+  "tracks": [
+    {
+      "artist": "The Fugs",
+      "title": "CIA Man",
+      "services": {
+        "qobuz": "14453610"
+      },
+      "album": "Refuse To Be Burnt-Out",
+      "duration": 208,
+      "isrc": "USX7M1001010"
+    },
+    {
+      "artist": "The Monks",
+      "title": "Monk Time",
+      "services": {
+        "qobuz": "313175890"
+      },
+      "album": "The Early Years 1964 - 1965",
+      "duration": 144,
+      "isrc": "USDEA0904101"
+    },
+    {
+      "artist": "Bonzo Dog Doo Dah Band",
+      "title": "The Intro and the Outro",
+      "services": {
+        "qobuz": "3133999"
+      },
+      "album": "A Dog's Life (The Albums 1967 - 1972)",
+      "duration": 182,
+      "isrc": "GBAYE0701005"
+    },
+    {
+      "artist": "The Doors",
+      "title": "Horse Latitudes",
+      "services": {
+        "qobuz": "43509063"
+      },
+      "album": "Strange Days (50th Anniversary Expanded Edition)",
+      "duration": 95,
+      "isrc": "USRH11703373"
+    },
+    {
+      "artist": "Frank Zappa",
+      "title": "Brown Shoes Don't Make It",
+      "services": {
+        "qobuz": "118330637"
+      },
+      "album": "Absolutely Free",
+      "duration": 449,
+      "isrc": "USZPE1200029"
+    },
+    {
+      "artist": "The Red Krayola",
+      "title": "Hurricane Fighter Plane",
+      "services": {
+        "qobuz": "2238321"
+      },
+      "album": "The Parable Of Arable Land / God Bless The Red Krayola And All Who Sail With It Vol. 1",
+      "duration": 211,
+      "isrc": "USFB20607806"
+    },
+    {
+      "artist": "Fifty Foot Hose",
+      "title": "If Not This Time",
+      "services": {
+        "qobuz": "156024357"
+      },
+      "album": "Cauldron",
+      "duration": 218,
+      "isrc": "GB03A0916771"
+    },
+    {
+      "artist": "Lothar and the Hand People",
+      "title": "Machines",
+      "services": {
+        "qobuz": "86172975"
+      },
+      "album": "Machines: Amherst 1969",
+      "duration": 140,
+      "isrc": "USCWY1900610"
+    },
+    {
+      "artist": "The United States Of America",
+      "title": "The American Metaphysical Circus",
+      "services": {
+        "qobuz": "4959068"
+      },
+      "album": "The United States Of America",
+      "duration": 297,
+      "isrc": "USSM16801788"
+    },
+    {
+      "artist": "Silver Apples",
+      "title": "Oscillations",
+      "services": {
+        "qobuz": "34218862"
+      },
+      "album": "Silver Apples",
+      "duration": 167,
+      "isrc": "USMC16811187"
+    },
+    {
+      "artist": "The Beatles",
+      "title": "Revolution 9",
+      "services": {
+        "qobuz": "53668107"
+      },
+      "album": "The Beatles (White Album) [Super Deluxe]",
+      "duration": 500,
+      "isrc": "GBUM71802729"
+    },
+    {
+      "artist": "The Velvet Underground",
+      "title": "Sister Ray",
+      "services": {
+        "qobuz": "52482732"
+      },
+      "album": "White Light / White Heat",
+      "duration": 1051,
+      "isrc": "USPR36805196"
+    },
+    {
+      "artist": "The Band",
+      "title": "Caledonia Mission",
+      "services": {
+        "qobuz": "15435938"
+      },
+      "album": "Music From Big Pink",
+      "duration": 174,
+      "isrc": "USCA20000893"
+    },
+    {
+      "artist": "Captain Beefheart",
+      "title": "Ry Cooder talks about working with The Captain and The Magic Band",
+      "services": {
+        "qobuz": "237731530"
+      },
+      "album": "The Captain's Last Live Concert Plus...",
+      "duration": 79,
+      "isrc": "GBRHE0710138"
+    },
+    {
+      "artist": "White Noise",
+      "title": "Love Without Sound",
+      "services": {
+        "qobuz": "4277778"
+      },
+      "album": "An Electric Storm",
+      "duration": 186,
+      "isrc": "GBAAN0300253"
+    },
+    {
+      "artist": "Nico",
+      "title": "Janitor Of Lunacy",
+      "services": {
+        "qobuz": "250782141"
+      },
+      "album": "Desertshore",
+      "duration": 243,
+      "isrc": "GBCEL2303237"
+    },
+    {
+      "artist": "Brian Eno",
+      "title": "Needles In The Camel's Eye",
+      "services": {
+        "qobuz": "4583084"
+      },
+      "album": "Here Come The Warm Jets",
+      "duration": 190,
+      "isrc": "GBAAA0400054"
+    },
+    {
+      "artist": "John Cale",
+      "title": "Fear Is A Man's Best Friend",
+      "services": {
+        "qobuz": "633366"
+      },
+      "album": "Fear",
+      "duration": 232,
+      "isrc": "GBAAN7400059"
+    },
+    {
+      "artist": "Lou Reed",
+      "title": "Metal Machine Music, Pt. 1",
+      "services": {
+        "qobuz": "183246"
+      },
+      "album": "Metal Machine Music",
+      "duration": 965,
+      "isrc": "USRC10000879"
+    },
+    {
+      "artist": "Patti Smith",
+      "title": "Birdland",
+      "services": {
+        "qobuz": "351836223"
+      },
+      "album": "Horses (50th Anniversary)",
+      "duration": 553,
+      "isrc": "USAR17500206"
+    },
+    {
+      "artist": "Gary Wilson",
+      "title": "6.4 = Make Out",
+      "services": {
+        "qobuz": "74339623"
+      },
+      "album": "You Think You Really Know Me",
+      "duration": 301,
+      "isrc": "USG320600011"
+    },
+    {
+      "artist": "Suicide",
+      "title": "Ghost Rider",
+      "services": {
+        "qobuz": "385321151"
+      },
+      "album": "Suicide",
+      "duration": 153,
+      "isrc": "GB5KW1602342"
+    },
+    {
+      "artist": "Ultravox",
+      "title": "I Want To Be A Machine",
+      "services": {
+        "qobuz": "4389369"
+      },
+      "album": "Ultravox!",
+      "duration": 441,
+      "isrc": "GBAAN7700034"
+    },
+    {
+      "artist": "David Bowie",
+      "title": "Warszawa",
+      "services": {
+        "qobuz": "44528110"
+      },
+      "album": "Low",
+      "duration": 387,
+      "isrc": "USJT11600352"
+    },
+    {
+      "artist": "Devo",
+      "title": "Jocko Homo",
+      "services": {
+        "qobuz": "4622733"
+      },
+      "album": "Q: Are We Not Men?  A: We Are Devo / Devo Live",
+      "duration": 219,
+      "isrc": "GBAAA7800026"
+    },
+    {
+      "artist": "Magazine",
+      "title": "Shot By Both Sides",
+      "services": {
+        "qobuz": "835438"
+      },
+      "album": "Real Life",
+      "duration": 243,
+      "isrc": "GBAAA0700206"
+    },
+    {
+      "artist": "Pere Ubu",
+      "title": "Final Solution",
+      "services": {
+        "qobuz": "194592655"
+      },
+      "album": "Terminal Tower",
+      "duration": 298,
+      "isrc": "GBCKK1837903"
+    },
+    {
+      "artist": "The Residents",
+      "title": "Constantinople",
+      "services": {
+        "qobuz": "78214051"
+      },
+      "album": "Duck Stab",
+      "duration": 146,
+      "isrc": "GBBLY1701092"
+    },
+    {
+      "artist": "Wire",
+      "title": "A Touching Display",
+      "services": {
+        "qobuz": "46760518"
+      },
+      "album": "154",
+      "duration": 415,
+      "isrc": "GBAYE0400747"
+    },
+    {
+      "artist": "Talking Heads",
+      "title": "Big Business / I Zimbra (Live)",
+      "services": {
+        "qobuz": "217552741"
+      },
+      "album": "Stop Making Sense (Deluxe Edition)",
+      "duration": 443,
+      "isrc": "USRH12300832"
+    },
+    {
+      "artist": "The Pop Group",
+      "title": "She Is Beyond Good And Evil",
+      "services": {
+        "qobuz": "66352398"
+      },
+      "album": "She Is Beyond Good And Evil / 3:38",
+      "duration": 202,
+      "isrc": "UK8DN1700042"
+    },
+    {
+      "artist": "The Raincoats",
+      "title": "No Side to Fall In",
+      "services": {
+        "qobuz": "77345103"
+      },
+      "album": "The Raincoats",
+      "duration": 109,
+      "isrc": "GB5ZC0900002"
+    },
+    {
+      "artist": "Chrome",
+      "title": "TV As Eyes",
+      "services": {
+        "qobuz": "50997507"
+      },
+      "album": "Half Machine Lip Moves / Alien Soundtracks",
+      "duration": 139,
+      "isrc": "USA560668619"
+    },
+    {
+      "artist": "Cabaret Voltaire",
+      "title": "Nag, Nag, Nag",
+      "services": {
+        "qobuz": "1940918"
+      },
+      "album": "The Original Sound of Sheffield: '78 / '82 Best Of",
+      "duration": 278,
+      "isrc": "GBAJH0402421"
+    },
+    {
+      "artist": "Robert Fripp",
+      "title": "Exposure",
+      "services": {
+        "qobuz": "75829459"
+      },
+      "album": "Exposure",
+      "duration": 266,
+      "isrc": "GBCTX1800883"
+    },
+    {
+      "artist": "Snakefinger",
+      "title": "The Man in the Dark Sedan",
+      "services": {
+        "qobuz": "48327953"
+      },
+      "album": "Greener Postures",
+      "duration": 273,
+      "isrc": "ATKH51622503"
+    },
+    {
+      "artist": "Swell Maps",
+      "title": "Let's Build A Car",
+      "services": {
+        "qobuz": "71830643"
+      },
+      "album": "International Rescue",
+      "duration": 181,
+      "isrc": "US27U0403503"
+    },
+    {
+      "artist": "The Fall",
+      "title": "The Classical",
+      "services": {
+        "qobuz": "120486665"
+      },
+      "album": "Hex Enduction Hour",
+      "duration": 316,
+      "isrc": "QMFMF1526371"
+    },
+    {
+      "artist": "Young Marble Giants",
+      "title": "N.I.T.A.",
+      "services": {
+        "qobuz": "103317945"
+      },
+      "album": "Colossal Youth",
+      "duration": 211,
+      "isrc": "GBCEL0700246"
+    },
+    {
+      "artist": "Tuxedomoon",
+      "title": "No Tears",
+      "services": {
+        "qobuz": "3156376"
+      },
+      "album": "Solve Et Coagula (The Best Of Tuxedomoon)",
+      "duration": 340,
+      "isrc": "BEG207800010"
+    },
+    {
+      "artist": "Brian Eno & David Byrne",
+      "title": "America Is Waiting",
+      "services": {
+        "qobuz": "4395285"
+      },
+      "album": "My Life In The Bush Of Ghosts",
+      "duration": 217,
+      "isrc": "GBAAA8100270"
+    },
+    {
+      "artist": "Glenn Branca",
+      "title": "The Ascension",
+      "services": {
+        "qobuz": "156380757"
+      },
+      "album": "The Ascension",
+      "duration": 789,
+      "isrc": "US22N0420205"
+    },
+    {
+      "artist": "Laurie Anderson",
+      "title": "O Superman",
+      "services": {
+        "qobuz": "11362185"
+      },
+      "album": "Big Science",
+      "duration": 505,
+      "isrc": "USNO10750554"
+    },
+    {
+      "artist": "Public Image Ltd.",
+      "title": "Flowers Of Romance",
+      "services": {
+        "qobuz": "4789364"
+      },
+      "album": "Flowers Of Romance",
+      "duration": 169,
+      "isrc": "GBAAA1100099"
+    },
+    {
+      "artist": "Renaldo & The Loaf",
+      "title": "120 Before Zero",
+      "services": {
+        "qobuz": "44962827"
+      },
+      "album": "Breadcrumbs",
+      "duration": 263,
+      "isrc": "QMFMF1599318"
+    },
+    {
+      "artist": "The Birthday Party",
+      "title": "Release The Bats",
+      "services": {
+        "qobuz": "58599202"
+      },
+      "album": "Junkyard",
+      "duration": 151,
+      "isrc": "GBAFL8200058"
+    },
+    {
+      "artist": "The Lounge Lizards",
+      "title": "Bob the Bob",
+      "services": {
+        "qobuz": "74714643"
+      },
+      "album": "Voice Of Chunk",
+      "duration": 127,
+      "isrc": "USSBM0101201"
+    },
+    {
+      "artist": "This Heat",
+      "title": "Paper Hats",
+      "services": {
+        "qobuz": "99157265"
+      },
+      "album": "Deceit",
+      "duration": 362,
+      "isrc": "GBTFC1700021"
+    },
+    {
+      "artist": "Art Of Noise",
+      "title": "Close (To The Edit)",
+      "services": {
+        "qobuz": "53902787"
+      },
+      "album": "(Who's Afraid Of) The Art Of Noise?",
+      "duration": 335,
+      "isrc": "GBUM71801124"
+    },
+    {
+      "artist": "Butthole Surfers",
+      "title": "Sweat Loaf",
+      "services": {
+        "qobuz": "271773210"
+      },
+      "album": "Locust Abortion Technician",
+      "duration": 311,
+      "isrc": "USMTD2300578"
+    },
+    {
+      "artist": "Mark Stewart and The Maffia & Mark Stewart",
+      "title": "Liberty City",
+      "services": {
+        "qobuz": "53913019"
+      },
+      "album": "Learning to Cope With Cowardice",
+      "duration": 336,
+      "isrc": "UK8DN1700016"
+    },
+    {
+      "artist": "The Ex",
+      "title": "State of Shock",
+      "services": {
+        "qobuz": "246981139"
+      },
+      "album": "Scrabbling At The Lock",
+      "duration": 366,
+      "isrc": "NLL500500219"
+    },
+    {
+      "artist": "Dog Faced Hermans",
+      "title": "Jan 9",
+      "services": {
+        "qobuz": "149031181"
+      },
+      "album": "Hum Of Life",
+      "duration": 297,
+      "isrc": "QZDA82220732"
+    },
+    {
+      "artist": "Einst\u00fcrzende Neubauten",
+      "title": "Feurio!",
+      "services": {
+        "qobuz": "54392338"
+      },
+      "album": "Haus der L\u00fcge",
+      "duration": 345,
+      "isrc": "GBEEL8850002"
+    },
+    {
+      "artist": "The Young Gods",
+      "title": "Kissing the Sun",
+      "services": {
+        "qobuz": "346065398"
+      },
+      "album": "Only Heaven",
+      "duration": 269,
+      "isrc": "BEP010590274"
+    },
+    {
+      "artist": "Bongwater",
+      "title": "Chicken Pussy",
+      "services": {
+        "qobuz": "14965537"
+      },
+      "album": "The Power of Pussy",
+      "duration": 100,
+      "isrc": "USIR40562205"
+    },
+    {
+      "artist": "Mercury Rev",
+      "title": "Chasing A Bee",
+      "services": {
+        "qobuz": "73566736"
+      },
+      "album": "Yerself Is Steam",
+      "duration": 431,
+      "isrc": "GBCST9180401"
+    },
+    {
+      "artist": "Mr. Bungle",
+      "title": "Carousel",
+      "services": {
+        "qobuz": "2934279"
+      },
+      "album": "Mr. Bungle",
+      "duration": 313,
+      "isrc": "USWB19903995"
+    },
+    {
+      "artist": "U2",
+      "title": "With Or Without You",
+      "services": {
+        "qobuz": "740353"
+      },
+      "album": "The Joshua Tree",
+      "duration": 295,
+      "isrc": "GBUM70709792"
+    },
+    {
+      "artist": "Slint",
+      "title": "Good Morning, Captain",
+      "services": {
+        "qobuz": "32668927"
+      },
+      "album": "Spiderland (remastered)",
+      "duration": 461,
+      "isrc": "USTG31436406"
+    },
+    {
+      "artist": "Bruno Mars",
+      "title": "Treasure",
+      "services": {
+        "qobuz": "8766352"
+      },
+      "album": "Unorthodox Jukebox (Hi-Res Version)",
+      "duration": 178,
+      "isrc": "USAT21206710"
+    },
+    {
+      "artist": "Primus",
+      "title": "My Name Is Mud",
+      "services": {
+        "qobuz": "56801093"
+      },
+      "album": "Pork Soda",
+      "duration": 286,
+      "isrc": "USIR19300506"
+    },
+    {
+      "artist": "The Flaming Lips",
+      "title": "She Don't Use Jelly",
+      "services": {
+        "qobuz": "40435371"
+      },
+      "album": "Transmissions From the Satellite Heart",
+      "duration": 220,
+      "isrc": "USWB11700505"
+    },
+    {
+      "artist": "Bark Psychosis",
+      "title": "The Loom",
+      "services": {
+        "qobuz": "4653163"
+      },
+      "album": "Hex",
+      "duration": 315,
+      "isrc": "GBAAA9401050"
+    },
+    {
+      "artist": "Loop Collective",
+      "title": "The Sea and Cake",
+      "services": {
+        "qobuz": "82376319"
+      },
+      "album": "Remixes",
+      "duration": 278,
+      "isrc": "USHM90915060"
+    },
+    {
+      "artist": "Bj\u00f6rk",
+      "title": "Army Of Me",
+      "services": {
+        "qobuz": "249106593"
+      },
+      "album": "Post",
+      "duration": 234,
+      "isrc": "GBBTF0200244"
+    },
+    {
+      "artist": "Don Caballero",
+      "title": "Fire Back About Your New Baby's Sex",
+      "services": {
+        "qobuz": "32674056"
+      },
+      "album": "American Don",
+      "duration": 283,
+      "isrc": "USTG30021801"
+    },
+    {
+      "artist": "Gastr del Sol",
+      "title": "The Seasons Reverse",
+      "services": {
+        "qobuz": "48466630"
+      },
+      "album": "Camoufleur",
+      "duration": 351,
+      "isrc": "US58L0513301"
+    },
+    {
+      "artist": "Stereolab",
+      "title": "Metronomic Underground",
+      "services": {
+        "qobuz": "79173662"
+      },
+      "album": "Emperor Tomato Ketchup",
+      "duration": 474,
+      "isrc": "USEE19694710"
+    },
+    {
+      "artist": "The Olivia Tremor Control",
+      "title": "Jumping Fences",
+      "services": {
+        "qobuz": "20821067"
+      },
+      "album": "Dusk at Cubist Castle",
+      "duration": 112,
+      "isrc": "USG590610052"
+    },
+    {
+      "artist": "Cornelius",
+      "title": "Star Fruit Surf Rider (Damon Albarn Remix)",
+      "services": {
+        "qobuz": "71606143"
+      },
+      "album": "FM - Fantasma reMixes",
+      "duration": 295,
+      "isrc": "USMTD9934905"
+    },
+    {
+      "artist": "Lifte",
+      "title": "The Dead Flag Blues",
+      "services": {
+        "qobuz": "172589487"
+      },
+      "album": "The Dead Flag Blues (feat. Jameson Day) [Abridged]",
+      "duration": 444,
+      "isrc": "QZNWU2263748"
+    },
+    {
+      "artist": "Radiohead",
+      "title": "Paranoid Android",
+      "services": {
+        "qobuz": "41692581"
+      },
+      "album": "OK Computer OKNOTOK 1997 2017",
+      "duration": 383,
+      "isrc": "GBBKS1700185"
+    },
+    {
+      "artist": "The Beta Band",
+      "title": "Dry The Rain (Remaster)",
+      "services": {
+        "qobuz": "51532079"
+      },
+      "album": "The Three E.P.\u2019s (20th Anniversary Remaster)",
+      "duration": 363,
+      "isrc": "GBMVH1800440"
+    },
+    {
+      "artist": "Ween",
+      "title": "Spinal Meningitis (Got Me Down)",
+      "services": {
+        "qobuz": "270785603"
+      },
+      "album": "Chocolate and Cheese",
+      "duration": 172,
+      "isrc": "USRH12401242"
+    },
+    {
+      "artist": "Enon",
+      "title": "Natural Disasters",
+      "services": {
+        "qobuz": "32678261"
+      },
+      "album": "High Society",
+      "duration": 170,
+      "isrc": "USTG30223511"
+    },
+    {
+      "artist": "Fireworks",
+      "title": "Sheets of Easter",
+      "services": {
+        "qobuz": "5247703"
+      },
+      "album": "Koozies, Woodies, and Beers: A Brah/Ocropolis Benefit Compilation for Japan Relief",
+      "duration": 331,
+      "isrc": "US38Y1202105"
+    },
+    {
+      "artist": "The Books",
+      "title": "Smells Like Content",
+      "services": {
+        "qobuz": "20786953"
+      },
+      "album": "Lost and Safe (Remastered)",
+      "duration": 222,
+      "isrc": "USY6C1118204"
+    },
+    {
+      "artist": "Deerhoof",
+      "title": "Milk Man",
+      "services": {
+        "qobuz": "163342537"
+      },
+      "album": "Milk Man",
+      "duration": 263,
+      "isrc": "USKRS0340601"
+    },
+    {
+      "artist": "Secret Chiefs 3",
+      "title": "Renunciation",
+      "services": {
+        "qobuz": "52190451"
+      },
+      "album": "Hurqalya: 2nd Grand Constitution and Bylaws",
+      "duration": 269,
+      "isrc": "USA3V0400116"
+    },
+    {
+      "artist": "Sleepytime Gorilla Museum",
+      "title": "Salamander in Two Worlds",
+      "services": {
+        "qobuz": "234319544"
+      },
+      "album": "of the Last Human Being",
+      "duration": 390,
+      "isrc": "USJZA2480101"
+    },
+    {
+      "artist": "The Fiery Furnaces",
+      "title": "Quay Cur",
+      "services": {
+        "qobuz": "136114823"
+      },
+      "album": "Blueberry Boat",
+      "duration": 625,
+      "isrc": "GBCVZ0300843"
+    },
+    {
+      "artist": "Xiu Xiu",
+      "title": "Apistat Commander",
+      "services": {
+        "qobuz": "73670829"
+      },
+      "album": "A Promise",
+      "duration": 275,
+      "isrc": "USKRS0302402"
+    },
+    {
+      "artist": "Liars",
+      "title": "Plaster Casts of Everything",
+      "services": {
+        "qobuz": "5999845"
+      },
+      "album": "Liars",
+      "duration": 236,
+      "isrc": "GBAJH0700432"
+    },
+    {
+      "artist": "TV On The Radio",
+      "title": "Wolf Like Me",
+      "services": {
+        "qobuz": "53733338"
+      },
+      "album": "Return To Cookie Mountain",
+      "duration": 277,
+      "isrc": "USTG30626805"
+    },
+    {
+      "artist": "Animal Collective",
+      "title": "Peacebone",
+      "services": {
+        "qobuz": "2501445"
+      },
+      "album": "Strawberry Jam",
+      "duration": 313,
+      "isrc": "GBCEL0700347"
+    },
+    {
+      "artist": "Battles",
+      "title": "Atlas",
+      "services": {
+        "qobuz": "3776541"
+      },
+      "album": "Mirrored",
+      "duration": 426,
+      "isrc": "GBBPW0700009"
+    },
+    {
+      "artist": "Of Montreal",
+      "title": "The Past Is A Grotesque Animal",
+      "services": {
+        "qobuz": "181989937"
+      },
+      "album": "The Past Is A Grotesque Animal",
+      "duration": 713,
+      "isrc": "US3R40612407"
+    },
+    {
+      "artist": "Women",
+      "title": "Eyesore",
+      "services": {
+        "qobuz": "2307233"
+      },
+      "album": "Public Strain",
+      "duration": 385,
+      "isrc": "US38Y1015211"
+    },
+    {
+      "artist": "Dirty Projectors",
+      "title": "Stillness Is The Move",
+      "services": {
+        "qobuz": "2501665"
+      },
+      "album": "Bitte Orca",
+      "duration": 314,
+      "isrc": "GBCEL0900173"
+    },
+    {
+      "artist": "Tune-Yards",
+      "title": "Bizness",
+      "services": {
+        "qobuz": "3547163"
+      },
+      "album": "W H O K I L L",
+      "duration": 262,
+      "isrc": "GBAFL1100007"
+    },
+    {
+      "artist": "St. Vincent",
+      "title": "Digital Witness",
+      "services": {
+        "qobuz": "14580179"
+      },
+      "album": "St. Vincent",
+      "duration": 202,
+      "isrc": "USUM71318966"
+    },
+    {
+      "artist": "Palm",
+      "title": "Dog Milk",
+      "services": {
+        "qobuz": "156379493"
+      },
+      "album": "Rock Island",
+      "duration": 319,
+      "isrc": "US22N1812403"
+    },
+    {
+      "artist": "Anna von Hausswolff",
+      "title": "The Truth the Glow the Fall",
+      "services": {
+        "qobuz": "139092824"
+      },
+      "album": "Live at Montreux Jazz Festival",
+      "duration": 512,
+      "isrc": "USZPA0901972"
+    },
+    {
+      "artist": "Black Country, New Road",
+      "title": "Sunglasses",
+      "services": {
+        "qobuz": "114217495"
+      },
+      "album": "For the first time",
+      "duration": 590,
+      "isrc": "GBCFB2000568"
+    },
+    {
+      "artist": "black midi",
+      "title": "John L",
+      "services": {
+        "qobuz": "119702680"
+      },
+      "album": "Cavalcade",
+      "duration": 313,
+      "isrc": "GBCVZ2000251"
+    },
+    {
+      "artist": "Squid",
+      "title": "Narrator",
+      "services": {
+        "qobuz": "120957303"
+      },
+      "album": "Bright Green Field",
+      "duration": 508,
+      "isrc": "GBBPW2000224"
+    },
+    {
+      "artist": "caroline",
+      "title": "Dark blue",
+      "services": {
+        "qobuz": "135441907"
+      },
+      "album": "caroline",
+      "duration": 396,
+      "isrc": "GBCVZ2100182"
+    },
+    {
+      "artist": "The Smile",
+      "title": "Thin Thing",
+      "services": {
+        "qobuz": "154186860"
+      },
+      "album": "A Light for Attracting Attention",
+      "duration": 270,
+      "isrc": "GBBKS2200005"
+    },
+    {
+      "artist": "Grote Geelstaart",
+      "title": "Maalstroom",
+      "services": {
+        "qobuz": "422107824"
+      },
+      "album": "Maalstroom",
+      "duration": 104,
+      "isrc": "QZFZ32688379"
+    }
+  ]
+}

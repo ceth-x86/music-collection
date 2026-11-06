@@ -1,0 +1,108 @@
+# Genre: Hard Trance
+
+Imported genre playlist: Hard Trance.
+
+Services: `qobuz:66721061` `tidal:4d566d57-8bd7-49e6-8636-8233c990bf00`
+
+## Tracks (100)
+
+- **Jones & Stephenson** — The First Rebirth [The First Rebirth] (4:34) `isrc:BEZ452010447` `qobuz:107172040`
+- **Yves Deruyter** — Rave Cloud [Rave Cloud / Mind Attack] (6:09) `isrc:BEDB92100001` `qobuz:131917672`
+- **Joe Williams** — Wrap Your Troubles in Dreams (And Dream Your Troubles Away) [Jump for Joy] (2:13) `isrc:USBB16301052` `qobuz:20798336`
+- **Glass Animals** — Melon and the Coconut [Dreamland] (2:28) `isrc:GBUM72000422` `qobuz:93517301`
+- **Thunderball** — Bonzai Channel One [Bonzai Channel One] (2:35) `isrc:BEIW12400720` `qobuz:299232723`
+- **Cherry Moon Trax** — Let There Be House [Brave 002] (7:21) `isrc:NLCK41001313` `qobuz:57251816`
+- **System 7** — Back to Reality [Encantado] (7:58) `isrc:GBDPW0400003` `qobuz:3898975`
+- **Blue Alphabet** — Cybertrance [The Sound Of Belgium Vol. 3] (5:23) `isrc:BEZ451200624` `qobuz:347362185`
+- **Indigenous Resistance** — Galdino Jesus Dos Santos 2010 [IR 36 Galdino] (5:10) `isrc:FRX871597355` `qobuz:27029528`
+- **Sunbeam** — Outside World [Outside World] (3:35) `isrc:DEN060301417` `qobuz:259633380`
+- **Eminem** — Venom [Kamikaze] (4:29) `isrc:USUM71813345` `qobuz:53709051`
+- **ULTRA SHOCK** — The Sound Of E [The Sound Of E] (3:22) `isrc:BE9GI1800017` `qobuz:378125666`
+- **Ecstasy, Passion & Pain** — Touch and Go [Ecstasy, Passion & Pain] (5:06) `isrc:GBAYE7600438` `qobuz:37805823`
+- **DRS** — Contact [DRS Remix Album] (3:32) `isrc:NLFL72100272` `qobuz:119974582`
+- **Ritmi per Bambini** — Giornata di Sole con il Pony [Pony Che Balla] (1:52) `isrc:QT2VB2609706` `qobuz:402411439`
+- **Komakino** — Man on Mars [Man on Mars] (8:17) `isrc:DEN061600096` `qobuz:30200994`
+- **Aether Realm** — The Chariot [Tarot] (6:24) `isrc:TCADB1712238` `qobuz:93413798`
+- **Dreaming Cooper** — Liquid Flow [Parallels] (7:36) `isrc:USLZJ1725538` `qobuz:39126531`
+- **Alien Ant Farm** — Smooth Criminal [Anthology] (3:29) `isrc:USDW10022224` `qobuz:699960`
+- **Elbow** — Forget Myself [Leaders Of The Free World] (5:22) `isrc:GBBLK0500156` `qobuz:880646`
+- **B.G. The Prince Of Rap** — Take Control of the Party [90's Eurodance, Vol. 2 - 20 Eurodance Essentials] (6:40) `isrc:DEMW61400020` `qobuz:17111808`
+- **Boyz II Men** — Motownphilly [Cooleyhighharmony] (3:55) `isrc:USMO19190022` `qobuz:8699248`
+- **Nikolai** — Ready to Flow [Nikolai EP] (5:00) `isrc:DEN061201055` `qobuz:51612879`
+- **Terry Bones** — Dreaming [Dreaming] (4:01) `isrc:FR2X42303552` `qobuz:193861520`
+- **Gen X Traveller** — Boesmanland [Boesmanland] (3:58) `isrc:QT6E72605952` `qobuz:427842317`
+- **Katy Perry** — The One That Got Away [The One That Got Away] (6:05) `isrc:USCA21102726` `qobuz:4581935`
+- **Fritz Van Dank** — Düb [Bring Minimal to Berlin] (5:04) `isrc:DEY941401974` `qobuz:33095403`
+- **Julie Dexter** — Mankind [Déjà Vu] (4:51) `isrc:TCAEG1962603` `qobuz:126822458`
+- **Arrakis** — The Spice [The Spice] (7:07) `isrc:DEXO22394096` `qobuz:232519823`
+- **Hennes & Cold** — First Step [Works] (7:41) `isrc:DEBL60334717` `qobuz:17228683`
+- **Scot Project** — O (Overdrive) [O (Overdrive)] (5:57) `isrc:GBLV62006169` `qobuz:106984641`
+- **Atome Libre** — Hope Screaming [Lost in Thought] (3:56) `isrc:CH6542477688` `qobuz:305293844`
+- **M-Pire Project** — Disco Fanz 2000 [Trance Voyages (Continuous DJ Mix by Vicious Vic)] (4:47) `isrc:USWR30920005` `qobuz:77212202`
+- **DJ Energy** — Enter the Future [Best of 1995 - 2005] (4:46) `isrc:CH1689900084` `qobuz:35426698`
+- **Warp Brothers** — Blast the Speakers [Blast the Speakers] (7:05) `isrc:DEDOD5339676` `qobuz:109049144`
+- **Quality Sound** — Give Energy [Each Type of Music - Greatest Mix, Sound of Silence, Moment Rest, Relaxation and Total Restart, Wonderful Time for Tea] (3:24) `isrc:QZ6P91603865` `qobuz:78034088`
+- **Susanne Sundfør** — Can You Feel The Thunder [The Silicone Veil] (4:56) `isrc:NO2EY1201040` `qobuz:44017916`
+- **Y.a.g.o.** — The Dark [Collective Pulse E.P.] (5:19) `isrc:CH6542658611` `qobuz:406930397`
+- **T. Rex** — Satisfaction Pony [Whatever Happened to the Teenage Dream? (1973)] (2:47) `isrc:GBBLG1400053` `qobuz:212059790`
+- **BloodDropz!** — Only You [Pain Of My Soul] (6:39) `isrc:GBKQU2570461` `qobuz:349873125`
+- **Nostrum** — Blow Back [The Ultimate Trance Classics, Vol. 1 (30 All-Time Killers)] (6:14) `isrc:DELM40900163` `qobuz:43968167`
+- **Pascal Dubois** — Soda Club [Beachdancer - The Chill House Fly] (4:21) `isrc:DEH330902189` `qobuz:49856858`
+- **Klangfeld** — Free 2018 [Free 2018] (8:07) `isrc:DERH81707405` `qobuz:45845177`
+- **Chrissie Hynde** — Can’t Help Falling In Love (feat. Mark Lanegan) [Duets Special] (3:16) `isrc:GBAYE2501033` `qobuz:356423771`
+- **Dumonde** — God Music [God Music] (8:46) `isrc:DEBL60678344` `qobuz:9787119`
+- **Cosmic Gate** — Fire Wire [Fire Wire] (2:51) `isrc:NLD681702435` `qobuz:43538122`
+- **DERB** — Derb [Derb Works] (3:32) `isrc:DEBL60331811` `qobuz:17228549`
+- **Move D** — To the Disco ‘77 [To the Disco ‘77 & Hybrid Minds Remixes] (6:59) `isrc:GBWFX1300088` `qobuz:106926015`
+- **Ambassador** — The Fade [Smash Trax - The Collection] (7:05) `isrc:NLE801400033` `qobuz:15382316`
+- **De Donatis** — Angel 2010 [Angel 2010] (7:44) `isrc:GBKQU1011438` `qobuz:113480254`
+- **Milli Vanilli** — All or Nothing [All Or Nothing US Remix Album] (4:31) `isrc:DED168900012` `qobuz:15708697`
+- **Summer Pool Party Chillout Music** — Deeper Every Time [VIP Topless Pool Party: Deep House Summer Mix, Private Club Hotel Lounge Set, Midnight Hot Chillout Music] (4:31) `isrc:UKR4Q2063764` `qobuz:210955769`
+- **C. Da Afro** — Funk-O-Holic [Funk-O-Holic] (6:06) `isrc:GBKQU1752668` `qobuz:110495128`
+- **68 Beats** — Afterhours [After Midnight - Mixed By Eartight] (7:16) `isrc:USGZ20716156` `qobuz:74428758`
+- **Dr. Motte** — Our Future Is Now [Our Future Is Now] (7:51) `isrc:DEY472575527` `qobuz:339890271`
+- **X-Coast** — Da Boing Boing Trak (Partiboi69 Remix) [Da Boing Boing Trak] (4:17) `isrc:USZ4V2600017` `qobuz:400872052`
+- **Croatia Squad** — We Don't Need No Sleep [We Don't Need No Sleep] (4:59) `isrc:CH3131613216` `qobuz:35004911`
+- **RM** — Godspeech [The Ultimate Ronnie Minder Dance Collection Pt. 2] (7:59) `isrc:GBKQU1475365` `qobuz:112009785`
+- **Laylah** — Outta Control (Chris "The Greek" Panaghi Club Mix) [100 Dance Workout Hits 2 - Techno, Electro, House, Trance Exercise & Aerobics Music] (4:58) `isrc:USA561059451` `qobuz:65147105`
+- **Yoji Biomehanika** — Ding A Ling [A Quarter Century Of Yoji Biomehanika [The Era of Hard Dance 2000-2005]] (9:13) `isrc:GBLV61719468` `qobuz:110128325`
+- **Kai Tracid** — Trance & Acid [Trance & Acid] (7:04) `isrc:DEAF71108117` `qobuz:54810907`
+- **Alphazone** — Alphazone "Stay" [Alphazone "Stay"] (7:05) `isrc:DEZ650522629` `qobuz:48828517`
+- **Megara vs DJ Lee** — Hold Your Hands Up High [Hold Your Hands Up High] (6:36) `isrc:DEA340300993` `qobuz:1957519`
+- **Organ Donors** — Turntablism [Ultimate Tidy Downunder] (3:35) `isrc:GBKQU2030441` `qobuz:113603898`
+- **Liquid Child** — Diving Faces [Trance Legacy III] (3:41) `isrc:DEKB71655943` `qobuz:378305425`
+- **Rodd-y-ler** — Lifesigns [The Art Work E.P.] (8:22) `isrc:DEN062400250` `qobuz:259570352`
+- **Genlog** — Mockmoon [Genlog, Vol. 1] (5:42) `isrc:DEOY71300015` `qobuz:127776082`
+- **House Boulevard** — Set Me Free [Set Me Free] (6:04) `isrc:BRAEE0700026` `qobuz:174318113`
+- **Kylie Minogue** — Breathe [12" Masters - Essential Mixes] (6:44) `isrc:GBARL9800012` `qobuz:375864459`
+- **Hi-Gate** — Caned And Unable [I Can Hear Voices - Caned And Unable] (7:30) `isrc:GBKQU2208341` `qobuz:144880944`
+- **Warp Brothers** — We Will Survive [We Will Survive (Egbert & Lilly Palmer 2020 Rework)] (4:09) `isrc:DEPI82014172` `qobuz:94782231`
+- **Nick Muir** — Fu Man Chew [Fu Man Chew] (8:03) `isrc:GBTQZ0600282` `qobuz:6133610`
+- **VooDoo & Serano** — Blood Is Pumpin' [Blood Is Pumpin'] (3:26) `isrc:DEUE22568384` `qobuz:319757472`
+- **Steve Hill** — Things Can Only Get Better (Original Mix) [feat. Biggzy] [Things Can Only Get Better (feat. Biggzy)] (5:31) `isrc:AUXN21330526` `qobuz:70029676`
+- **Guyver** — You'll Know It [Keep It Tidy 4: 2002 - 2004] (7:12) `isrc:GBKQU1982190` `qobuz:113609372`
+- **The Generator** — Where Are You Now? [Tidy vs Nukleuz, Vol. 1] (5:32) `isrc:GBKQU2062047` `qobuz:107192361`
+- **Esperanza Spalding** — Formwela 4 [SONGWRIGHTS APOTHECARY LAB] (4:19) `isrc:USC4R2108236` `qobuz:131627339`
+- **Yakooza** — French Kiss [Techno Classics 1990-2010] (7:44) `isrc:DEAF70933090` `qobuz:54887687`
+- **Ellrich & Plaice** — Fucking Society [Fucking Society (The Remixes)] (6:35) `isrc:NLC281010037` `qobuz:50261358`
+- **Bruno Mars** — That's What I Like (feat. Gucci Mane) [That's What I Like (feat. Gucci Mane)] (3:55) `isrc:USAT21701157` `qobuz:40308913`
+- **The Wings Of End Day** — You Will Always Be My Angel [Despair of Resentment (2016 Death Black Metal)] (5:10) `isrc:RUA491611436` `qobuz:36807927`
+- **Beam** — Amun 2020 [Amun 2020] (4:51) `isrc:DEPI82021164` `qobuz:104039639`
+- **Heaven's Cry** — Til Tears Do Us Part [Ultimate Tidy Downunder] (4:03) `isrc:GBKQU2030447` `qobuz:113603904`
+- **Global Cee** — Burnin [All in One] (8:58) `isrc:FR2X42343814` `qobuz:195325331`
+- **NU NRG** — Casino [Casino] (8:00) `isrc:FR10S1804888` `qobuz:46715920`
+- **Acute Inflections** — Exodus [400] (4:48) `isrc:GX38U2101590` `qobuz:120661825`
+- **Adz** — Hypnotizin' [Hard Trance Anthems] (7:51) `isrc:GBKQU2415688` `qobuz:354237391`
+- **Eden Project** — Mummy (Lost In Trance) [Hard Trance Anthems] (9:11) `isrc:GBKQU2415656` `qobuz:354237392`
+- **Lee Osbourne** — Twisted [Hard Trance Anthems] (7:00) `isrc:GBKQU2415701` `qobuz:354237393`
+- **Misfit** — Session 273 [Hard Trance Anthems] (4:37) `isrc:GBKQU2184568` `qobuz:354237394`
+- **Pmx** — Radiate [Hard Trance Anthems] (5:33) `isrc:GBKQU2138658` `qobuz:354237395`
+- **Scott Attrill** — Dangerous [Hard Trance Anthems] (6:43) `isrc:GBKQU2415848` `qobuz:354237397`
+- **Trevor McLachlan** — Imagination [Hard Trance Anthems] (7:43) `isrc:GBKQU2415696` `qobuz:354237398`
+- **Vinylgroover** — Wave Racer [Hard Trance Anthems] (6:28) `isrc:GBKQU2533505` `qobuz:354237399`
+- **Future Disciple** — 28 Tracks Later [Traffic Hidden Gems Vol 2] (7:19) `isrc:GBKQU1141362` `qobuz:314508477`
+- **Mark Young** — Reality Check [Hard Trance Anthems] (6:35) `isrc:GBNHK1000054` `qobuz:354237401`
+- **Tommie Quick** — Signs [Hard Trance Anthems] (7:17) `isrc:GBNHK1000059` `qobuz:354237403`
+- **DJ Zilos** — Always Changing (Giuseppe D.'s Midnight Club Mix) [feat. Sophia Cruz] [House Party - This Is House Music (Minimal, Progressive, Tech, Electro, Tribal, Deep, Euro)] (5:30) `isrc:USA371248577` `qobuz:65150114`
+- **Leon B** — Fallen Star [Hard Trance Anthems] (7:25) `isrc:GBKQU1166804` `qobuz:354237408`
+- **Steve Knoxx** — La Musica [Hardcore Trance Euphoria] (3:49) `isrc:GBKQU2477491` `qobuz:380347579`

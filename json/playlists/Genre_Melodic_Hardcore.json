@@ -1,0 +1,1010 @@
+{
+  "name": "Genre: Melodic Hardcore",
+  "services": {
+    "qobuz": "66736563",
+    "tidal": "3980958e-6add-4a03-b156-5ec786ca770d"
+  },
+  "description": "Imported genre playlist: Melodic Hardcore.",
+  "tracks": [
+    {
+      "artist": "Warriors of Awareness",
+      "title": "Faith in the Flames",
+      "services": {
+        "qobuz": "428365042"
+      },
+      "album": "Music Thru Thoughts and Farewell",
+      "duration": 234,
+      "isrc": "QT6E82683777"
+    },
+    {
+      "artist": "H\u00fcsker D\u00fc",
+      "title": "Something I Learned Today",
+      "services": {
+        "qobuz": "63480381"
+      },
+      "album": "Zen Arcade",
+      "duration": 122,
+      "isrc": "USA560766803"
+    },
+    {
+      "artist": "Dag Nasty",
+      "title": "Circles",
+      "services": {
+        "qobuz": "159950618"
+      },
+      "album": "Can I Say",
+      "duration": 166,
+      "isrc": "US35U0401903"
+    },
+    {
+      "artist": "Verbal Assault",
+      "title": "Trial",
+      "services": {
+        "qobuz": "79895933"
+      },
+      "album": "Trial",
+      "duration": 137,
+      "isrc": "QM6MZ1856868"
+    },
+    {
+      "artist": "Bad Religion",
+      "title": "Do What You Want",
+      "services": {
+        "qobuz": "77643807"
+      },
+      "album": "Suffer",
+      "duration": 67,
+      "isrc": "USEP40303113"
+    },
+    {
+      "artist": "Turning Point",
+      "title": "Before the Dawn",
+      "services": {
+        "qobuz": "104254202"
+      },
+      "album": "It's Always Darkest... Before the Dawn",
+      "duration": 99,
+      "isrc": "USA6M0404905"
+    },
+    {
+      "artist": "Pegboy",
+      "title": "Hardlight",
+      "services": {
+        "qobuz": "32737289"
+      },
+      "album": "Strong Reaction",
+      "duration": 85,
+      "isrc": "USA4C9100710"
+    },
+    {
+      "artist": "Avail",
+      "title": "Simple Song",
+      "services": {
+        "qobuz": "77628115"
+      },
+      "album": "4AM Friday",
+      "duration": 192,
+      "isrc": "USA6M0511001"
+    },
+    {
+      "artist": "Ignite",
+      "title": "Family",
+      "services": {
+        "qobuz": "139090861"
+      },
+      "album": "Call On My Brothers",
+      "duration": 141,
+      "isrc": "USB4U0400996"
+    },
+    {
+      "artist": "Good Riddance",
+      "title": "Mother Superior",
+      "services": {
+        "qobuz": "347878917"
+      },
+      "album": "For God and Country",
+      "duration": 186,
+      "isrc": "USFW40452307"
+    },
+    {
+      "artist": "Crown of thornz",
+      "title": "Icepick",
+      "services": {
+        "qobuz": "17844481"
+      },
+      "album": "Train Yard Blues/Mentally Vexed",
+      "duration": 155,
+      "isrc": "USKUN1303106"
+    },
+    {
+      "artist": "Turnstile",
+      "title": "NEVER ENOUGH",
+      "services": {
+        "qobuz": "339606224"
+      },
+      "album": "NEVER ENOUGH",
+      "duration": 287,
+      "isrc": "NLA322500053"
+    },
+    {
+      "artist": "Sven Wunder",
+      "title": "Setting Off",
+      "services": {
+        "qobuz": "336571058"
+      },
+      "album": "Daybreak",
+      "duration": 198,
+      "isrc": "SEYJB2500101"
+    },
+    {
+      "artist": "88 Fingers Louie",
+      "title": "Punk Rock Rulebook",
+      "services": {
+        "qobuz": "120897942"
+      },
+      "album": "Back On The Streets (Remixed and Remastered)",
+      "duration": 143,
+      "isrc": "USHR21905023"
+    },
+    {
+      "artist": "Death By Stereo",
+      "title": "Sing Along With The Patriotic Punks",
+      "services": {
+        "qobuz": "123676128"
+      },
+      "album": "If Looks Could Kill, I'd Watch You Die",
+      "duration": 152,
+      "isrc": "US5740801902"
+    },
+    {
+      "artist": "Reach The Sky",
+      "title": "So Far From Home",
+      "services": {
+        "qobuz": "118263903"
+      },
+      "album": "So Far From Home",
+      "duration": 117,
+      "isrc": "USVIC0011102"
+    },
+    {
+      "artist": "Bane",
+      "title": "Can We Start Again",
+      "services": {
+        "qobuz": "77866558"
+      },
+      "album": "It All Comes Down to This",
+      "duration": 199,
+      "isrc": "US3X50405306"
+    },
+    {
+      "artist": "H2O",
+      "title": "One Life, One Chance",
+      "services": {
+        "qobuz": "77631385"
+      },
+      "album": "F.T.T.W.",
+      "duration": 115,
+      "isrc": "USEP40342203"
+    },
+    {
+      "artist": "The Hope Conspiracy",
+      "title": "Animal Farm",
+      "services": {
+        "qobuz": "72951617"
+      },
+      "album": "Death Knows Your Name",
+      "duration": 220,
+      "isrc": "USTC10650995"
+    },
+    {
+      "artist": "Kid Dynamite",
+      "title": "Heart A Tact",
+      "services": {
+        "qobuz": "77639949"
+      },
+      "album": "Cheap Shots, Youth Anthems",
+      "duration": 91,
+      "isrc": "USA6M0408501"
+    },
+    {
+      "artist": "John Harle",
+      "title": "Spring-heeled Jack",
+      "services": {
+        "qobuz": "151594713"
+      },
+      "album": "The Tyburn Tree - Dark London",
+      "duration": 269,
+      "isrc": "UK5EE1300003"
+    },
+    {
+      "artist": "AFI",
+      "title": "The Days Of The Phoenix",
+      "services": {
+        "qobuz": "16846027"
+      },
+      "album": "The Art Of Drowning",
+      "duration": 207,
+      "isrc": "USNRR0400337"
+    },
+    {
+      "artist": "Raised Fist",
+      "title": "Killing It",
+      "services": {
+        "qobuz": "77647965"
+      },
+      "album": "Sound Of The Republic",
+      "duration": 207,
+      "isrc": "SEVHC0515050"
+    },
+    {
+      "artist": "Strike Anywhere",
+      "title": "Chalkline",
+      "services": {
+        "qobuz": "77635781"
+      },
+      "album": "Change Is A Sound",
+      "duration": 159,
+      "isrc": "USA6M0406009"
+    },
+    {
+      "artist": "Give Up The Ghost",
+      "title": "Love American",
+      "services": {
+        "qobuz": "77864034"
+      },
+      "album": "We're Down Til We're Underground",
+      "duration": 131,
+      "isrc": "US3X50408302"
+    },
+    {
+      "artist": "Carry On",
+      "title": "Roll with the Punches",
+      "services": {
+        "qobuz": "18487423"
+      },
+      "album": "It's All Our Blood",
+      "duration": 97,
+      "isrc": "USDRS0600501"
+    },
+    {
+      "artist": "As Friends Rust",
+      "title": "Coffee Black",
+      "services": {
+        "qobuz": "175977444"
+      },
+      "album": "As Friends Rust",
+      "duration": 199,
+      "isrc": "US4K30400518"
+    },
+    {
+      "artist": "Nick Lowe",
+      "title": "Let's Stay in and Make Love",
+      "services": {
+        "qobuz": "158632829"
+      },
+      "album": "Quiet Please: The New Best of Nick Lowe",
+      "duration": 230,
+      "isrc": "GBEEJ0100012"
+    },
+    {
+      "artist": "Rise Against",
+      "title": "Like The Angel",
+      "services": {
+        "qobuz": "355859559"
+      },
+      "album": "Revolutions Per Minute",
+      "duration": 166,
+      "isrc": "USFW40465305"
+    },
+    {
+      "artist": "Paint It Black",
+      "title": "The Ledge",
+      "services": {
+        "qobuz": "77651218"
+      },
+      "album": "New Lexicon",
+      "duration": 90,
+      "isrc": "USA6M0812601"
+    },
+    {
+      "artist": "None More Black",
+      "title": "Under My Feet",
+      "services": {
+        "qobuz": "347844040"
+      },
+      "album": "This Is Satire",
+      "duration": 144,
+      "isrc": "USFW40671302"
+    },
+    {
+      "artist": "The Suicide File",
+      "title": "Twilight",
+      "services": {
+        "qobuz": "123671852"
+      },
+      "album": "Twilight",
+      "duration": 91,
+      "isrc": "US5740805401"
+    },
+    {
+      "artist": "Only Crime",
+      "title": "R.J.R.",
+      "services": {
+        "qobuz": "347887992"
+      },
+      "album": "To the Nines",
+      "duration": 124,
+      "isrc": "USFW40468201"
+    },
+    {
+      "artist": "With Honor",
+      "title": "Like Trumpets",
+      "services": {
+        "qobuz": "118267389"
+      },
+      "album": "This Is Our Revenge",
+      "duration": 172,
+      "isrc": "USVIC0527601"
+    },
+    {
+      "artist": "J.D. LeChamp",
+      "title": "Whispered Promise",
+      "services": {
+        "qobuz": "246637953"
+      },
+      "album": "Ridge Down to the River",
+      "duration": 283,
+      "isrc": "USD6M2300229"
+    },
+    {
+      "artist": "The Salt Collective",
+      "title": "Waiting for the End of Time",
+      "services": {
+        "qobuz": "352623510"
+      },
+      "album": "A Brief History of Blindness",
+      "duration": 285,
+      "isrc": "QZR8Y2500311"
+    },
+    {
+      "artist": "A Wilhelm Scream",
+      "title": "The Horse",
+      "services": {
+        "qobuz": "16845899"
+      },
+      "album": "Career Suicide",
+      "duration": 293,
+      "isrc": "USNRR0700696"
+    },
+    {
+      "artist": "Comeback Kid",
+      "title": "Wake The Dead",
+      "services": {
+        "qobuz": "118258008"
+      },
+      "album": "Wake The Dead",
+      "duration": 197,
+      "isrc": "USVIC0524603"
+    },
+    {
+      "artist": "Killing The Dream",
+      "title": "Where The Heart Is",
+      "services": {
+        "qobuz": "72952392"
+      },
+      "album": "In Place Apart",
+      "duration": 143,
+      "isrc": "USTC10791029"
+    },
+    {
+      "artist": "Modern Life Is War",
+      "title": "By the Sea",
+      "services": {
+        "qobuz": "72952547"
+      },
+      "album": "My Love My Way",
+      "duration": 219,
+      "isrc": "USTC10651008"
+    },
+    {
+      "artist": "PVRIS",
+      "title": "Dead Weight",
+      "services": {
+        "qobuz": "104070035"
+      },
+      "album": "Use Me",
+      "duration": 207,
+      "isrc": "USWB12000241"
+    },
+    {
+      "artist": "Western Addiction",
+      "title": "Mailer, Meet Jim",
+      "services": {
+        "qobuz": "347874007"
+      },
+      "album": "Cognicide",
+      "duration": 97,
+      "isrc": "USFW40569802"
+    },
+    {
+      "artist": "Imogen Heap",
+      "title": "What Have You Done To Me?",
+      "services": {
+        "qobuz": "358836818"
+      },
+      "album": "I AM ___",
+      "duration": 378,
+      "isrc": "GBJPX2400434"
+    },
+    {
+      "artist": "Crime In Stereo",
+      "title": "Bicycles For Afghanistan",
+      "services": {
+        "qobuz": "16846081"
+      },
+      "album": "The Troubled Stateside",
+      "duration": 178,
+      "isrc": "USNRR0600659"
+    },
+    {
+      "artist": "Eddie Higgins",
+      "title": "Someone To Watch Over Me",
+      "services": {
+        "qobuz": "45689735"
+      },
+      "album": "Haunted Heart",
+      "duration": 286,
+      "isrc": "US2W60408006"
+    },
+    {
+      "artist": "Jay B",
+      "title": "Verse die f\u00fcr immer bleiben",
+      "services": {
+        "qobuz": "270029119"
+      },
+      "album": "New Golden Era",
+      "duration": 200,
+      "isrc": "TCAIJ2414490"
+    },
+    {
+      "artist": "Love Retro Jazz",
+      "title": "Go It Alone",
+      "services": {
+        "qobuz": "333866030"
+      },
+      "album": "Dream Weaving",
+      "duration": 166,
+      "isrc": "QZAMM2298346"
+    },
+    {
+      "artist": "No Trigger",
+      "title": "The Honshu Underground",
+      "services": {
+        "qobuz": "16848865"
+      },
+      "album": "Canyoneer",
+      "duration": 233,
+      "isrc": "USNRR0600650"
+    },
+    {
+      "artist": "Casey Jones",
+      "title": "Just Another Day In The Fla",
+      "services": {
+        "qobuz": "74804279"
+      },
+      "album": "The Few, The Proud, The Crucial",
+      "duration": 106,
+      "isrc": "US28Y0400039"
+    },
+    {
+      "artist": "Shook Ones",
+      "title": "So Grown Up",
+      "services": {
+        "qobuz": "139093656"
+      },
+      "album": "Slaughter of the Insole",
+      "duration": 202,
+      "isrc": "USB4U0401294"
+    },
+    {
+      "artist": "Beat Pushers",
+      "title": "Jump Up '99 (Guerilla Warfare Mix)",
+      "services": {
+        "qobuz": "77220417"
+      },
+      "album": "Hard Funk Encounter (E.P.)",
+      "duration": 371,
+      "isrc": "QMTR31600247"
+    },
+    {
+      "artist": "The Carrier",
+      "title": "No: 51",
+      "services": {
+        "qobuz": "72949425"
+      },
+      "album": "No Love Can Save Me",
+      "duration": 198,
+      "isrc": "USHTV0810036"
+    },
+    {
+      "artist": "The Clarks",
+      "title": "A Million Miles Away",
+      "services": {
+        "qobuz": "128806139"
+      },
+      "album": "Rewind",
+      "duration": 220,
+      "isrc": "TCACG1507240"
+    },
+    {
+      "artist": "Conan Gray",
+      "title": "The Final Fight",
+      "services": {
+        "qobuz": "260461403"
+      },
+      "album": "Found Heaven",
+      "duration": 129,
+      "isrc": "USUM72400703"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "title": "The Hunter",
+      "services": {
+        "qobuz": "32064377"
+      },
+      "album": "The Getaway",
+      "duration": 240,
+      "isrc": "USWB11600640"
+    },
+    {
+      "artist": "Life Long Tragedy",
+      "title": "Collecting Dust",
+      "services": {
+        "qobuz": "72948925"
+      },
+      "album": "Runaways",
+      "duration": 204,
+      "isrc": "USHTV0810002"
+    },
+    {
+      "artist": "JPEGMAFIA",
+      "title": "What the hip hop hell is this ?",
+      "services": {
+        "qobuz": "318440091"
+      },
+      "album": "I LAY DOWN MY LIFE FOR YOU: DIRECTOR'S CUT",
+      "duration": 152,
+      "isrc": "QM4TW2597863"
+    },
+    {
+      "artist": "Death Is Not Glamorous",
+      "title": "This Life Is Huge",
+      "services": {
+        "qobuz": "147289592"
+      },
+      "album": "Soft Clicks",
+      "duration": 138,
+      "isrc": "NOFYF0806010"
+    },
+    {
+      "artist": "Silent Majority",
+      "title": "Polar Bear Club",
+      "services": {
+        "qobuz": "159299412"
+      },
+      "album": "Life of a Spectator",
+      "duration": 113,
+      "isrc": "QZHNC2280194"
+    },
+    {
+      "artist": "Stretch Arm Strong",
+      "title": "For The Record",
+      "services": {
+        "qobuz": "4380911"
+      },
+      "album": "A Revolution Transmission",
+      "duration": 125,
+      "isrc": "USTN10120304"
+    },
+    {
+      "artist": "Stereophonics",
+      "title": "It Means Nothing",
+      "services": {
+        "qobuz": "13502764"
+      },
+      "album": "Pull The Pin",
+      "duration": 228,
+      "isrc": "GBBLK0700161"
+    },
+    {
+      "artist": "Justun Wanted",
+      "title": "Defeat the Bastards",
+      "services": {
+        "qobuz": "313294369"
+      },
+      "album": "Violence,Vengeance and Retribution",
+      "duration": 206,
+      "isrc": "USCGH2542979"
+    },
+    {
+      "artist": "Lacuna Coil",
+      "title": "I Wish You Were Dead",
+      "services": {
+        "qobuz": "288893650"
+      },
+      "album": "Sleepless Empire",
+      "duration": 172,
+      "isrc": "GBDHC2340309"
+    },
+    {
+      "artist": "More Than Life",
+      "title": "Love Let Me Go",
+      "services": {
+        "qobuz": "232464997"
+      },
+      "album": "Love Let Me Go",
+      "duration": 237,
+      "isrc": "QZES62187473"
+    },
+    {
+      "artist": "Sinking Ships",
+      "title": "Ghost Story",
+      "services": {
+        "qobuz": "139093099"
+      },
+      "album": "Disconnecting",
+      "duration": 197,
+      "isrc": "USB4U0401454"
+    },
+    {
+      "artist": "Your Demise",
+      "title": "Burnt Tongues",
+      "services": {
+        "qobuz": "94933274"
+      },
+      "album": "Ignorance Never Dies",
+      "duration": 175,
+      "isrc": "GBBPB0803719"
+    },
+    {
+      "artist": "Atlas Losing Grip",
+      "title": "The Curse",
+      "services": {
+        "qobuz": "378058313"
+      },
+      "album": "Currents",
+      "duration": 205,
+      "isrc": "DEZ651350107"
+    },
+    {
+      "artist": "Esthero",
+      "title": "Breath From Another",
+      "services": {
+        "qobuz": "5394524"
+      },
+      "album": "Breath From Another",
+      "duration": 287,
+      "isrc": "USSM19703469"
+    },
+    {
+      "artist": "Heartsounds",
+      "title": "The Song Inside Me",
+      "services": {
+        "qobuz": "77660404"
+      },
+      "album": "Until We Surrender",
+      "duration": 214,
+      "isrc": "USEP41010001"
+    },
+    {
+      "artist": "Make Do And Mend",
+      "title": "Stay In The Sun",
+      "services": {
+        "qobuz": "376990885"
+      },
+      "album": "Everything You Ever Loved",
+      "duration": 237,
+      "isrc": "USEK71216205"
+    },
+    {
+      "artist": "Lello Panico",
+      "title": "Three Hundred Pounds of Joy",
+      "services": {
+        "qobuz": "81987030"
+      },
+      "album": "The Willie Dixon Songbook",
+      "duration": 246,
+      "isrc": "USL4Q1743318"
+    },
+    {
+      "artist": "Departures",
+      "title": "Teenage Haze",
+      "services": {
+        "qobuz": "193445434"
+      },
+      "album": "Teenage Haze",
+      "duration": 106,
+      "isrc": "GX89G2398077"
+    },
+    {
+      "artist": "Landscapes",
+      "title": "Cemetary",
+      "services": {
+        "qobuz": "322155699"
+      },
+      "album": "Life Gone Wrong",
+      "duration": 113,
+      "isrc": "USSTT1300044"
+    },
+    {
+      "artist": "Worthwhile",
+      "title": "Unlovable",
+      "services": {
+        "qobuz": "124861912"
+      },
+      "album": "Carry on Kid",
+      "duration": 250,
+      "isrc": "QMUYR1300086"
+    },
+    {
+      "artist": "Bastions",
+      "title": "Haar",
+      "services": {
+        "qobuz": "147285038"
+      },
+      "album": "Majestic Desolation",
+      "duration": 73,
+      "isrc": "GX34M2100065"
+    },
+    {
+      "artist": "Heart in Hand",
+      "title": "A Beautiful White",
+      "services": {
+        "qobuz": "28269189"
+      },
+      "album": "A Beautiful White",
+      "duration": 242,
+      "isrc": "US4E41320202"
+    },
+    {
+      "artist": "Polar",
+      "title": "Black Days",
+      "services": {
+        "qobuz": "73928501"
+      },
+      "album": "Shadowed by Vultures",
+      "duration": 201,
+      "isrc": "GBNSF1400014"
+    },
+    {
+      "artist": "No Bragging Rights",
+      "title": "Hope Theory",
+      "services": {
+        "qobuz": "36695621"
+      },
+      "album": "Cycles",
+      "duration": 239,
+      "isrc": "USKO11201665"
+    },
+    {
+      "artist": "Great Collapse",
+      "title": "New Abolition",
+      "services": {
+        "qobuz": "85315318"
+      },
+      "album": "Holy War",
+      "duration": 244,
+      "isrc": "DESG40800073"
+    },
+    {
+      "artist": "Conveyer",
+      "title": "No Future",
+      "services": {
+        "qobuz": "118262178"
+      },
+      "album": "No Future",
+      "duration": 132,
+      "isrc": "USVIC1774507"
+    },
+    {
+      "artist": "Napoleon",
+      "title": "Newborn Mind",
+      "services": {
+        "qobuz": "31202553"
+      },
+      "album": "Newborn Mind",
+      "duration": 264,
+      "isrc": "UK2D51600039"
+    },
+    {
+      "artist": "Angel Du$t",
+      "title": "Set Me Up",
+      "services": {
+        "qobuz": "217113810"
+      },
+      "album": "A.D.",
+      "duration": 84,
+      "isrc": "QMFMF1419268"
+    },
+    {
+      "artist": "Renounced",
+      "title": "Beauty Is a Destructive Angel",
+      "services": {
+        "qobuz": "116856742"
+      },
+      "album": "Beauty Is a Destructive Angel",
+      "duration": 282,
+      "isrc": "GBMLT1501393"
+    },
+    {
+      "artist": "Higher Power",
+      "title": "Low Season",
+      "services": {
+        "qobuz": "70010114"
+      },
+      "album": "27 Miles Underwater",
+      "duration": 157,
+      "isrc": "NLA321900164"
+    },
+    {
+      "artist": "Praise",
+      "title": "All in a Dream",
+      "services": {
+        "qobuz": "148448736"
+      },
+      "album": "All in a Dream",
+      "duration": 162,
+      "isrc": "USB4U2219601"
+    },
+    {
+      "artist": "Drug Church",
+      "title": "Weed Pin",
+      "services": {
+        "qobuz": "322145013"
+      },
+      "album": "Cheer",
+      "duration": 282,
+      "isrc": "USSTT1700274"
+    },
+    {
+      "artist": "Turnstile",
+      "title": "Real Thing",
+      "services": {
+        "qobuz": "46439762"
+      },
+      "album": "Time & Space",
+      "duration": 116,
+      "isrc": "NLA321700308"
+    },
+    {
+      "artist": "Giver",
+      "title": "Pills",
+      "services": {
+        "qobuz": "44679791"
+      },
+      "album": "Where the Cycle Breaks",
+      "duration": 257,
+      "isrc": "GBMLT1501052"
+    },
+    {
+      "artist": "Gazelle Twin",
+      "title": "The Entire City",
+      "services": {
+        "qobuz": "176100570"
+      },
+      "album": "The Entire City",
+      "duration": 143,
+      "isrc": "UKX5N1100003"
+    },
+    {
+      "artist": "High Vis",
+      "title": "Deserve It",
+      "services": {
+        "qobuz": "277702340"
+      },
+      "album": "Guided Tour",
+      "duration": 193,
+      "isrc": "QZJCP2400120"
+    },
+    {
+      "artist": "Restraining Order",
+      "title": "This World Is Too Much",
+      "services": {
+        "qobuz": "151020823"
+      },
+      "album": "This World Is Too Much",
+      "duration": 128,
+      "isrc": "QMCE71302552"
+    },
+    {
+      "artist": "The Rolling Stones",
+      "title": "Beast Of Burden",
+      "services": {
+        "qobuz": "54328845"
+      },
+      "album": "Some Girls",
+      "duration": 265,
+      "isrc": "GBCJN7800009"
+    },
+    {
+      "artist": "Dragged Under",
+      "title": "Crooked Halos",
+      "services": {
+        "qobuz": "148295135"
+      },
+      "album": "Upright Animals",
+      "duration": 197,
+      "isrc": "NLB932200604"
+    },
+    {
+      "artist": "Be Well",
+      "title": "Meaningless Measures",
+      "services": {
+        "qobuz": "95890015"
+      },
+      "album": "The Weight and the Cost",
+      "duration": 173,
+      "isrc": "US3X52044101"
+    },
+    {
+      "artist": "One Step Closer",
+      "title": "Pringle Street",
+      "services": {
+        "qobuz": "122883963"
+      },
+      "album": "This Place You Know",
+      "duration": 179,
+      "isrc": "QMCE71303185"
+    },
+    {
+      "artist": "Fiddlehead",
+      "title": "Heart to Heart",
+      "services": {
+        "qobuz": "116102956"
+      },
+      "album": "Between the Richness",
+      "duration": 257,
+      "isrc": "QMCE71302770"
+    },
+    {
+      "artist": "Militarie Gun",
+      "title": "Do It Faster",
+      "services": {
+        "qobuz": "204294024"
+      },
+      "album": "Life Under The Gun",
+      "duration": 107,
+      "isrc": "USC4R2328622"
+    },
+    {
+      "artist": "Koy\u00f6",
+      "title": "Moriches",
+      "services": {
+        "qobuz": "151026147"
+      },
+      "album": "Drives Out East",
+      "duration": 133,
+      "isrc": "QMCE71303233"
+    },
+    {
+      "artist": "Destiny Bond",
+      "title": "The Glow",
+      "services": {
+        "qobuz": "215760674"
+      },
+      "album": "Be My Vengeance",
+      "duration": 80,
+      "isrc": "QZK6L2363828"
+    },
+    {
+      "artist": "Mil-Spec",
+      "title": "Secret Passage",
+      "services": {
+        "qobuz": "230800542"
+      },
+      "album": "Marathon",
+      "duration": 181,
+      "isrc": "USKSV2305501"
+    }
+  ]
+}

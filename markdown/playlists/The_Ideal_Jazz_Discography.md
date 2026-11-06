@@ -1,0 +1,110 @@
+# The Ideal Jazz Discography
+
+The music experts at Qobuz have carefully curated a collection of must-have masterpieces for every genre. The albums in the Qobuz Ideal Discography were chosen for being faultless, for their groundbreaking impact, or the way they elevated their genre to new heights—each one marking a pivotal moment in music history.
+
+This playlist showcases the very best jazz albums from our Ideal Discography. It's your chance to (re)discover iconic recordings by the most legendary jazz artists of all time!
+
+Services: `qobuz:28377257`
+
+## Tracks (100)
+
+- **Keith Jarrett** — Köln, January 24, 1975, Pt. I [The Köln Concert (Live at the Opera, Köln, 1975)] (26:24) `isrc:DEB337506401` `qobuz:24044959`
+- **Miles Davis** — So What [Kind Of Blue] (9:07) `isrc:USSM15900113` `qobuz:13176083`
+- **John Coltrane** — Blue Train [Blue Train] (10:42) `isrc:USBN21200591` `qobuz:15936751`
+- **Art Blakey & The Jazz Messengers** — Moanin' [Moanin'] (9:33) `isrc:USBN21300011` `qobuz:16104033`
+- **Herbie Hancock** — Watermelon Man [Head Hunters] (6:30) `isrc:USSM17300166` `qobuz:37906`
+- **Alice Coltrane** — Journey In Satchidananda [Journey in Satchidananda] (6:35) `isrc:USMC17052076` `qobuz:56934368`
+- **Donald Byrd** — Cristo Redentor [A New Perspective] (5:41) `isrc:USBN28400003` `qobuz:13946364`
+- **Miles Davis** — Générique [Ascenseur pour l'échafaud] (2:48) `isrc:FRZ035800010` `qobuz:50324227`
+- **Gil Evans** — Las Vegas Tango [The Individualism Of Gil Evans] (6:34) `isrc:USPR36301924` `qobuz:57389903`
+- **Stan Getz** — Para Machuchar Meu Coracao [Getz/Gilberto] (5:07) `isrc:USPR36312114` `qobuz:77532139`
+- **John Coltrane** — A Love Supreme, Pt. I – Acknowledgement (Album Version) [A Love Supreme] (7:42) `isrc:USMC16490243` `qobuz:9883170`
+- **Freddie Hubbard** — Red Clay [Red Clay (CTI Records 40th Anniversary Edition - Original Recording Remastered)] (12:11) `isrc:USSM10113450` `qobuz:2545850`
+- **Roy Hargrove** — Hardgroove [Hard Groove] (5:31) `isrc:USGR10300078` `qobuz:642050`
+- **Nina Simone** — Wild Is The Wind [Wild Is The Wind] (7:00) `isrc:USPR36400087` `qobuz:61236234`
+- **Anouar Brahem** — Deliverance [Souvenance] (5:07) `isrc:DEB331442303` `qobuz:20321136`
+- **Nik Bärtsch** — A [Awase] (8:23) `isrc:DEB331760303` `qobuz:48282248`
+- **Ahmad Jamal** — Dolphin Dance [The Awakening] (5:09) `isrc:USMC17052099` `qobuz:58840411`
+- **Billie Holiday** — Day In Day Out [Songs For Distingué Lovers] (6:49) `isrc:USF095700010` `qobuz:61236207`
+- **Brad Mehldau** — Madrid [Places] (6:04) `isrc:USWB10002212` `qobuz:2007673`
+- **The Crusaders** — The Hustler [Street Life] (5:26) `isrc:USMC17908472` `qobuz:21573195`
+- **Herbie Hancock** — Empty Pockets [Takin' Off] (6:10) `isrc:USBN20700546` `qobuz:16148444`
+- **Nils Petter Molvaer** — On Stream [Khmer] (5:02) `isrc:DEB339756004` `qobuz:770029`
+- **Esbjörn Svensson Trio** — Behind the Stars [301] (3:42) `isrc:DEA891200170` `qobuz:5385977`
+- **Kenny Dorham** — Lotus Flower [Afro-Cuban] (4:16) `isrc:USBN20700535` `qobuz:14048625`
+- **Grant Green** — Idle Moments [Idle Moments] (14:54) `isrc:USBN28800633` `qobuz:15936781`
+- **Wayne Shorter** — Infant Eyes [Speak No Evil] (6:52) `isrc:USBN21200611` `qobuz:15936722`
+- **Miles Davis** — Shhh / Peaceful [In A Silent Way] (18:18) `isrc:USSM10202652` `qobuz:5046210`
+- **Pat Metheny** — Bright Size Life [Bright Size Life] (4:52) `isrc:DEB337507301` `qobuz:98514533`
+- **Donald Byrd** — Sky High [Black Byrd] (5:57) `isrc:USBN21300105` `qobuz:15208542`
+- **Oscar Peterson** — Quiet Nights Of Quiet Stars (Corcovado) [We Get Requests] (2:53) `isrc:USF096500120` `qobuz:26332262`
+- **Chick Corea** — Return To Forever [Return To Forever] (12:14) `isrc:DEB337202201` `qobuz:127258937`
+- **Miles Davis** — Concierto de Aranjuez: Adagio [Sketches of Spain] (16:21) `isrc:USSM15900212` `qobuz:15124904`
+- **Herbie Hancock** — Little One [Maiden Voyage] (8:50) `isrc:USBN21200626` `qobuz:15936747`
+- **Oscar Peterson** — I've Got a Crush On You [Exclusively for My Friends: Action, Vol. I (Live)] (5:15) `isrc:DEA116802260` `qobuz:14293152`
+- **Joachim Kühn** — Figueretas [Free Ibiza] (5:16) `isrc:FR46Y1001201` `qobuz:128258480`
+- **The Dave Brubeck Quartet** — Take Five [Time Out (Legacy Edition)] (5:24) `isrc:USSM15900108` `qobuz:458302`
+- **Chucho Valdés** — Congadanza [Border-Free] (9:09) `isrc:ESA061301501` `qobuz:8690580`
+- **João Donato** — Forgotten Places [The New Sound Of Brazil / Piano Of João Donato] (2:14) `isrc:USRC16508016` `qobuz:27293211`
+- **Melody Gardot** — Baby I'm A Fool [My One And Only Thrill (Special Edition)] (3:31) `isrc:GBUM70816554` `qobuz:751167`
+- **Ella Fitzgerald** — They Can't Take That Away From Me [Ella And Louis] (4:39) `isrc:USGR10301262` `qobuz:52210213`
+- **Chet Baker** — The Thrill is Gone [Chet Sings!] (2:56) `isrc:FRZ335318040` `qobuz:8775966`
+- **Dexter Gordon** — Three O'Clock In The Morning [Go] (5:41) `isrc:USBN21300057` `qobuz:16104025`
+- **Lee Morgan** — The Sidewinder [The Sidewinder] (10:27) `isrc:USBN21200853` `qobuz:15936712`
+- **Bill Evans** — With A Song In My Heart [Empathy] (9:13) `isrc:USPR36205240` `qobuz:14785746`
+- **Quincy Jones** — Manha De Carnaval (Morning Of The Carnival) [Big Band Bossa Nova] (2:59) `isrc:USPR36260059` `qobuz:17269681`
+- **Tord Gustavsen Quartet** — Circling [The Well] (4:38) `isrc:DEB331123705` `qobuz:4916492`
+- **Bill Evans Trio** — When I Fall In Love [Portrait In Jazz] (5:01) `isrc:USC4R1705855` `qobuz:39123452`
+- **Coleman Hawkins** — Desafinado [Desafinado - Coleman Hawkins Plays Bossa Nova & Jazz Samba] (5:48) `isrc:USMC16252088` `qobuz:17303644`
+- **Horace Silver** — Lonely Woman [Song For My Father] (7:07) `isrc:USBN21200579` `qobuz:15936734`
+- **Frank Sinatra** — In The Wee Small Hours Of The Morning [In The Wee Small Hours] (2:59) `isrc:USCA29800105` `qobuz:19640483`
+- **Hank Mobley** — Dig Dis [Soul Station] (6:07) `isrc:USBN21300036` `qobuz:16104015`
+- **John Coltrane Quartet** — Too Young To Go Steady [Ballads] (4:24) `isrc:USMC16211161` `qobuz:9863799`
+- **Carla Bley** — Útviklingssang [Trios] (7:55) `isrc:DEB331228701` `qobuz:11657558`
+- **Lee Morgan** — Melancholee [Search For The New Land] (6:16) `isrc:USBN20000328` `qobuz:15936668`
+- **Ben Webster** — The Touch Of Your Lips [Ben Webster Meets Oscar Peterson] (6:20) `isrc:USPR35912063` `qobuz:14785641`
+- **Keith Jarrett** — Conclusion [The Survivors' Suite] (21:18) `isrc:DEB337608502` `qobuz:24044994`
+- **Thelonious Monk** — Misterioso [Genius Of Modern Music] (3:21) `isrc:USBN21300030` `qobuz:17423687`
+- **Cassandra Wilson** — Love Is Blindness [New Moon Daughter] (4:57) `isrc:USBN29500072` `qobuz:14158342`
+- **Chick Corea** — You're Everything [Light As A Feather] (5:12) `isrc:USPR37200023` `qobuz:11006112`
+- **Gary Peacock** — Vignette [Tales Of Another] (7:03) `isrc:DEB337710101` `qobuz:627254`
+- **McCoy Tyner** — Contemplation [The Real McCoy] (9:15) `isrc:USBN21201011` `qobuz:15936684`
+- **Eric Dolphy** — Something Sweet, Something Tender [Out To Lunch!] (6:02) `isrc:USBN21200676` `qobuz:15936737`
+- **Johnny Hodges** — Going Up [Side By Side] (4:54) `isrc:USPR35900025` `qobuz:14785720`
+- **George Benson** — Breezin' [Breezin'] (5:41) `isrc:USWB10403443` `qobuz:5250665`
+- **Sonny Rollins** — St. Thomas [Saxophone Colossus] (6:49) `isrc:USFI85600001` `qobuz:17041374`
+- **Nina Simone** — I Hold No Grudge [High Priestess Of Soul] (2:21) `isrc:USPR36600064` `qobuz:14048605`
+- **Terje Rypdal** — Karusell [Waves] (8:11) `isrc:DEB337711002` `qobuz:35322230`
+- **Mark Turner Quartet** — Year Of The Rabbit [Lathe Of Heaven] (12:19) `isrc:DEB331335702` `qobuz:18909678`
+- **Grachan Moncur III** — Evolution [Evolution] (12:20) `isrc:USBN20800463` `qobuz:15936672`
+- **Duke Ellington and His Orchestra** — Take the "A" Train [Ellington at Newport (July 7, 1956 - Newport 60th Anniversary Edition)] (4:33) `isrc:USSM11405686` `qobuz:19318159`
+- **Kamasi Washington** — Askim [The Epic] (12:34) `isrc:US25X1086564` `qobuz:57916318`
+- **Thelonious Monk** — Let's Cool One [Genius Of Modern Music, Vol. 2] (3:47) `isrc:USBN21300043` `qobuz:7877107`
+- **Bobby Hutcherson** — Total Eclipse [Total Eclipse] (8:53) `isrc:USBN21300018` `qobuz:16104028`
+- **The Monty Alexander Trio** — Satin Doll [The Monty Alexander Trio Live at the Montreux Festival] (8:21) `isrc:DEPI81400153` `qobuz:29753484`
+- **Andrew Hill** — Flight 19 [Point of Departure] (4:09) `isrc:USBN28800407` `qobuz:21990205`
+- **Blossom Dearie** — Lover Man (Oh Where Can You Be) [Blossom Dearie] (2:47) `isrc:USF095625260` `qobuz:33565278`
+- **Joe Henderson** — Blue Bossa [Page One] (8:02) `isrc:USBN28800650` `qobuz:15097127`
+- **Art Pepper** — Red Pepper Blues [Art Pepper Meets The Rhythm Section] (3:39) `isrc:USC4R2105241` `qobuz:198462270`
+- **Sonny Rollins** — Solitude [Way Out West] (7:52) `isrc:USC4R1700192` `qobuz:47206533`
+- **Charles Lloyd** — Ballade And Allegro [The Water Is Wide] (3:44) `isrc:DEB339973404` `qobuz:777662`
+- **Abdullah Ibrahim** — Selby That The Eternal Spirit Is The Only Reality [African Piano] (2:23) `isrc:DEB336960202` `qobuz:29682197`
+- **Antonio Carlos Jobim** — Mojave [Wave] (2:22) `isrc:USAM16704380` `qobuz:76340685`
+- **Charlie Parker** — April In Paris [April In Paris: Charlie Parker With Strings - The Genius Of Charlie Parker #2] (3:07) `isrc:USPR35000115` `qobuz:33739325`
+- **Stanley Clarke** — Quiet Afternoon [School Days] (5:08) `isrc:USSM17600580` `qobuz:5379095`
+- **Jan Garbarek** — Folk Song [Folk Songs] (8:12) `isrc:DEB337917001` `qobuz:627335`
+- **Wayne Shorter** — House Of Jade [Juju] (6:52) `isrc:USBN21300078` `qobuz:14045133`
+- **Sonny Rollins** — When Your Lover Has Gone [Tenor Madness (Rudy Van Gelder Remasters)] (6:09) `isrc:USFI85600264` `qobuz:4838203`
+- **Billy Cobham** — Snoopy's Search / Red Baron [Spectrum] (7:43) `isrc:USAT21101944` `qobuz:5253328`
+- **Dexter Gordon** — Modal Mood [Dexter Calling (192kHz/24bit)] (5:21) `isrc:USUM71417974` `qobuz:21990307`
+- **Coleman Hawkins** — Maria [Coleman Hawkins And His Confreres] (6:31) `isrc:USF096125550` `qobuz:14785711`
+- **Grant Green** — Corcovado [I Want To Hold Your Hand] (5:58) `isrc:USBN29500450` `qobuz:15437625`
+- **Jimmy Smith** — Basin Street Blues [The Cat] (3:59) `isrc:USF096400110` `qobuz:771100`
+- **Ornette Coleman** — Peace [The Shape Of Jazz To Come] (9:05) `isrc:USAT21301739` `qobuz:11092696`
+- **Clifford Brown** — Easy Livin [Memorial Album] (3:41) `isrc:USBN28900323` `qobuz:20470727`
+- **Fats Waller** — Numb Fumblin' [Saga Jazz: Alligator Crawl] (3:01) `isrc:FRZ022980110` `qobuz:3759380`
+- **Illinois Jacquet** — Harlem Nocturne [Swing's The Thing] (4:32) `isrc:USUM70504466` `qobuz:29633775`
+- **Erroll Garner** — Night and Day [The Complete Concert By The Sea (Expanded)] (5:04) `isrc:USQX91501033` `qobuz:25803368`
+- **Hank Mobley** — Carolyn [No Room For Squares] (5:31) `isrc:USBN28800123` `qobuz:14981118`
+- **Jackie McLean** — Love And Hate [Destination...Out!] (8:25) `isrc:USBN26300242` `qobuz:21463488`
+- **Bobby Hutcherson** — Tranquillity [Components] (5:03) `isrc:USBN29400195` `qobuz:1060445`

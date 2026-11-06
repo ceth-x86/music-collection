@@ -1,0 +1,108 @@
+# Genre: Gothic Americana
+
+Imported genre playlist: Gothic Americana.
+
+Services: `qobuz:66710133`
+
+## Tracks (100)
+
+- **Violent Femmes** — Country Death Song [Hallowed Ground] (5:01) `isrc:USC4R2447734` `qobuz:299144875`
+- **Steve Earle** — Tom Ames' Prayer [Train A Comin'] (3:02) `isrc:USWB19600761` `qobuz:2571377`
+- **Jim White** — A Perfect Day To Chase Tornados [Wrong-Eyed Jesus!] (6:07) `isrc:USLB10210482` `qobuz:101626800`
+- **Gillian Welch** — Caleb Meyer [Hell Among The Yearlings] (3:01) `isrc:USAL19800053` `qobuz:48825013`
+- **Lucinda Williams** — Drunken Angel [Car Wheels On A Gravel Road] (3:19) `isrc:USMR19889009` `qobuz:781424`
+- **Bonnie "Prince" Billy** — Black [I See A Darkness] (3:45) `isrc:GBCEL9900010` `qobuz:49615221`
+- **The Black Heart Procession** — The Waiter #5 [The Spell] (4:05) `isrc:USTG30627108` `qobuz:32659317`
+- **Whitney Houston** — Jesus Loves Me / He's Got The Whole World In His Hands [I Wish You Love: More From The Bodyguard] (10:38) `isrc:USQX91702214` `qobuz:44849706`
+- **Johnny Cash** — Wayfaring Stranger [American III: Solitary Man] (3:19) `isrc:USSM10014911` `qobuz:8420788`
+- **Lambchop** — The Old Gold Shoe [Nixon] (6:21) `isrc:DED620005201` `qobuz:243032549`
+- **Slim Cessna's Auto Club** — Hold My Head [Always Say Please And Thank You] (9:55) `isrc:QM6QS1400013` `qobuz:21484443`
+- **Angels of Light** — Untitled Love Song [How I Loved You] (4:54) `isrc:USA3T0400093` `qobuz:48068967`
+- **Reverend Glasseye** — 50% Murder [Black River Falls] (4:28) `isrc:USL4Q0832903` `qobuz:76758967`
+- **Snakefarm** — St James [Songs From My Funeral] (3:26) `isrc:GBHBR0404427` `qobuz:50519528`
+- **16 Horsepower** — Sinnerman [Folklore] (4:15) `isrc:DEE350253028` `qobuz:54000633`
+- **Neko Case** — Deep Red Bells [Blacklisted] (4:03) `isrc:USA360309902` `qobuz:77639556`
+- **Geordie** — Dollars Deutsche Marks Silver & Gold [No Good Woman] (2:46) `isrc:GBBXS7318019` `qobuz:145761251`
+- **Drive-By Truckers** — The Living Bubba [Ugly Buildings, Whores and Politicians: Greatest Hits, 1998 - 2009] (5:57) `isrc:US27Q0460684` `qobuz:72059806`
+- **Murder By Death** — Intermission [Who Will Survive and What Will Be Left of Them] (1:14) `isrc:US5660603105` `qobuz:368541101`
+- **Songs: Ohia** — Farewell Transmission [Magnolia Electric Co.] (7:22) `isrc:US38W1330001` `qobuz:57707221`
+- **The Be Good Tanyas** — Waiting Around To Die [Chinatown] (5:14) `isrc:CAN110300015` `qobuz:145681753`
+- **The Handsome Family** — Far from Any Road [Singing Bones] (2:48) `isrc:GBJCP0900421` `qobuz:3471768`
+- **Blanche** — Wayfaring Stranger [If We Can't Trust the Doctors] (2:52) `isrc:GBJCP1300781` `qobuz:13079410`
+- **Richard Tucker** — Elohai (Oh My God, Before I Was Formed I Had No Worth) [Kol Nidre Service] (4:27) `isrc:USSM15901431` `qobuz:49878`
+- **Curtis Eller's American Circus** — Taking Up Serpents Again [Taking Up Serpents Again] (3:40) `isrc:USHM20536217` `qobuz:72084833`
+- **Munly & The Lee Lewis Harlots** — Goose Walking Over My Grave [Munly & The Lee Lewis Harlots] (5:40) `isrc:QM6QS1400072` `qobuz:21484768`
+- **Alasdair Roberts** — The Cruel Mother [No Earthly Man] (6:47) `isrc:US58L0528303` `qobuz:48469799`
+- **Helldorado** — Waiting Around to Die [The Ballad of Nora Lee] (3:38) `isrc:NOBHG0540120` `qobuz:197300460`
+- **Puerto Muerto** — Apple Pie [Songs of Muerto County] (2:09) `isrc:GBCKK0509607` `qobuz:194501792`
+- **The .357 STring Band** — Hard Times [Ghost Town] (2:32) `isrc:USHM20698924` `qobuz:64415910`
+- **16 Horsepower** — Strawfoot [Secret South] (3:30) `isrc:DEE350053036` `qobuz:54000708`
+- **The Broken Circle Breakdown Bluegrass Band** — Wayfaring Stranger [The Broken Circle Breakdown / Alabama Monroe (Original Motion Picture Soundtrack)] (2:51) `isrc:BEUM71200342` `qobuz:7229186`
+- **Two Gallants** — Las Cruces Jail [What The Toll Tells] (5:46) `isrc:US2U60609101` `qobuz:129156633`
+- **Wovenhand** — Whistling Girl [Mosaic] (4:40) `isrc:USG4M0651605` `qobuz:379167313`
+- **Antic Clay** — Decades [Hilarious Death Blues] (5:34) `isrc:USCGH0761571` `qobuz:66678083`
+- **Christian Williams** — Red [Built With Bones] (2:56) `isrc:USX9P0697456` `qobuz:70763603`
+- **Dax Riggs** — Say Goodnight to the World [Say Goodnight to the World] (4:19) `isrc:USFP71022001` `qobuz:19319402`
+- **Damnation Angels** — Pride (The Warrior's Way) [Bringer of Light] (9:47) `isrc:DER371380310` `qobuz:39802866`
+- **The Builders and the Butchers** — Bringin Home the Rain [Where the Roots All Grow] (7:03) `isrc:QMBZ91513295` `qobuz:74770636`
+- **Vic Chesnutt** — Marathon [North Star Deserter] (5:34) `isrc:CACQ20704611` `qobuz:49816590`
+- **Blackbird Raum** — Honey in the Hair [Swidden] (3:21) `isrc:USHM91047784` `qobuz:67969775`
+- **Elliott BROOD** — The Spring Floods (Interlude) [Mountain Meadows] (0:32) `isrc:CASB10804110` `qobuz:52067037`
+- **Ghoultown** — Drink with the Living Dead [Life After Sundown] (6:11) `isrc:USCGJ1773496` `qobuz:76632393`
+- **Dumbfoundead** — K-town Voicemails (feat. Danny Cho) [Old Boy Jon] (1:47) `isrc:TCACJ1519969` `qobuz:314247235`
+- **Pinebox Serenade** — The Lash [Let the River Take Them Home] (2:37) `isrc:USHM91962040` `qobuz:74663804`
+- **The Dad Horse Experience** — Reach Out Your Hand [Too Close To Heaven] (7:00) `isrc:DEC830801666` `qobuz:55060288`
+- **The Felice Brothers** — Frankie's Gun! [The Felice Brothers] (4:06) `isrc:US58B0802703` `qobuz:129112201`
+- **The Spanish Donkey** — Mid-Evil [XYX] (37:36) `isrc:USWEX1000059` `qobuz:48682007`
+- **The Steeldrivers** — If It Hadn't Been For Love [The SteelDrivers] (3:58) `isrc:USRO20759806` `qobuz:66453328`
+- **Those Poor Bastards** — This World Is Evil [Satan is Watching] (3:20) `isrc:USHM90833510` `qobuz:95475021`
+- **Uncle Sinner** — When Jesus Comes [Ballads and Mental Breakdowns] (2:54) `isrc:QM6N21856023` `qobuz:53936770`
+- **Danger Mouse** — Grim Augury (feat. Vic Chesnutt) [Dark Night of The Soul] (2:31) `isrc:GBAYE1000513` `qobuz:2189454`
+- **Dead Man's Bones** — In The Room Where You Sleep [Dead Man's Bones] (3:56) `isrc:USEP40921007` `qobuz:77659164`
+- **Alva** — i don't know why i still try [i don't know why i still try] (1:14) `isrc:QZZ8B2557243` `qobuz:365827342`
+- **Highlonesome** — Sinners Soul [In Life We Can't Be Free] (2:26) `isrc:USX9P0939530` `qobuz:77778690`
+- **Ryan Bingham** — The Weary Kind [Junky Star] (4:18) `isrc:USUM71014564` `qobuz:2310952`
+- **The Avett Brothers** — Murder in the City [The Second Gleam] (3:14) `isrc:US4BW0800205` `qobuz:91155509`
+- **The Golden Grass** — Stuck on a Mountain [The Golden Grass] (7:00) `isrc:DEZ651337838` `qobuz:85579597`
+- **Timber Timbre** — Demon Host [Timber Timbre] (3:37) `isrc:CASA70919286` `qobuz:299241709`
+- **American Sinner** — Henry Lee [José Arcadio Is Dead] (3:57) `isrc:USHM81404363` `qobuz:66272773`
+- **Karen Elson** — The Ghost Who Walks [The Ghost Who Walks] (3:02) `isrc:GBBKS1000025` `qobuz:2484110`
+- **Last False Hope** — Giving Up God For Lent [The Shape of Bluegrass to Come] (2:48) `isrc:USCGH1158358` `qobuz:81859333`
+- **Lonesome Wyatt and the Holy Spooks** — The Sideshow is Coming! [Moldy Basement Tapes] (4:21) `isrc:USHM91040570` `qobuz:82625656`
+- **Munly & The Lupercalians** — Grandfater [Munly & The Lupercalians] (5:37) `isrc:QM6QS1400082` `qobuz:21484447`
+- **Fat White Family** — Feed The Horse [Forgiveness Is Yours] (5:11) `isrc:GBCEL2303391` `qobuz:249577392`
+- **Choir of King's College, Cambridge** — The Light of Life, Op. 29: Light of the World [Now the Green Blade Riseth: Choral Music for Easter] (5:03) `isrc:GBMY52206516` `qobuz:148716692`
+- **The Cranberries** — When You're Gone [To The Faithful Departed] (4:55) `isrc:USIR29600117` `qobuz:46507172`
+- **Rob Coffinshaker** — In the Pines [Dark Rollin' Skies EP] (3:06) `isrc:SEYOK1119311` `qobuz:204358315`
+- **Z-Lous** — African Contemporary Praise Medley: Our God Is Greater / My Redeemer / I Love You Lord / The Name of the Lord / Blessed Be the Name / Sing for Joy / Arise / Gonna Be Alright / Lord of Lords / He's Alive / Great I Am / Your Grace / Carry Me Dey Go / Chinek [Declarations] (9:21) `isrc:USL4R2114801` `qobuz:139495290`
+- **The Brothers Bright** — Blood on My Name [A Song Treasury] (4:20) `isrc:TCABD1245094` `qobuz:188587132`
+- **The Civil Wars** — Dance Me to the End of Love [Barton Hollow] (3:04) `isrc:USW5Q1100014` `qobuz:5039388`
+- **The Goddamn Gallows** — Y'all Motherfuckers Need Jesus [7 Devils] (3:35) `isrc:USHM81627942` `qobuz:91586378`
+- **Caster** — Rise Of The Beast [Sinner's Sanctum] (3:30) `isrc:QZHCR2100126` `qobuz:122108480`
+- **Mark Lanegan** — The Gravedigger's Song [Blues Funeral] (3:43) `isrc:GBAFL1100281` `qobuz:34264590`
+- **Shawn James** — Through the Valley [Shadows] (3:40) `isrc:USHM81263726` `qobuz:126388761`
+- **Shovels & Rope** — Birmingham [O' Be Joyful] (4:00) `isrc:USDMG1261901` `qobuz:267082574`
+- **Otto Klemperer** — Symphony No. 9 in D Minor, Op. 125 "Choral": IV. (a) Presto - Allegro assai [Wagner Ride of the Valkyries - Mozart, Beethoven, Bach, Mendelssohn] (6:31) `isrc:GBAYC2203070` `qobuz:318721898`
+- **The Outlaws** — Knoxville Girl [The Outlaws] (3:32) `isrc:USAR17500208` `qobuz:226157`
+- **Carrie Nation & the Speakeasy** — Obis [Hatchetations] (2:42) `isrc:USHM81358260` `qobuz:69803084`
+- **Graveyard Train** — Ballad For Beelzebub [The Serpent And The Crow] (3:57) `isrc:DEVF42202148` `qobuz:276555772`
+- **The .357 STring Band** — Up Jump the Devil [Ghost Town] (2:25) `isrc:USHM20698919` `qobuz:64415905`
+- **The Shortwave Set** — Better Than Bad [The Debt Collection] (2:10) `isrc:GBBPF0401249` `qobuz:314245202`
+- **Reverend Hardy Hardon and The Church Of Elvis** — Suspicious Minds [Kong of Rock'n Roll] (3:15) `isrc:DEKG92400359` `qobuz:307259658`
+- **Sons Of Kemet** — My Queen Is Nanny Of The Maroons [Your Queen Is A Reptile] (6:43) `isrc:USUM71714089` `qobuz:47215701`
+- **Josephine Foster** — The Spider Holds a Silver Ball [Graphic as a Star] (2:42) `isrc:GBCKK0913625` `qobuz:194274271`
+- **The White Buffalo** — The Whistler [The Whistler] (3:26) `isrc:US6KF1200200` `qobuz:223119060`
+- **The Bones of J.R. Jones** — The Devil [Radio Waves (Deluxe)] (3:20) `isrc:TCAJH2568520` `qobuz:357713451`
+- **Brown Bird** — Avalon [Axis Mundi] (0:45) `isrc:USQNL1500016` `qobuz:24063750`
+- **MGMT** — Kids [Oracular Spectacular] (5:02) `isrc:USSM10702135` `qobuz:16632`
+- **Reverend Elvis & The Undead Syncopators** — People Hate Blues [Yells from the Crypt] (3:44) `isrc:USCGH0569564` `qobuz:124276763`
+- **Michael Jackson** — Immortal Megamix: Can You Feel It / Don't Stop 'Til You Get Enough / Billie Jean/Black or White [Immortal] (9:08) `isrc:USSM11105976` `qobuz:4554152`
+- **The Dead South** — In Hell I'll Be in Good Company [Good Company] (4:05) `isrc:CACA11404804` `qobuz:80159884`
+- **The Devil Makes Three** — The Angel of Death [Redemption & Ruin] (3:36) `isrc:US27Q1635512` `qobuz:264752066`
+- **Me And That Man** — My Church Is Black [Songs of Love and Death] (2:58) `isrc:GBCEJ1600996` `qobuz:318823353`
+- **Federale** — Sarcophagus [The Blood Flowed Like Wine] (8:34) `isrc:USLN71201408` `qobuz:74781576`
+- **Colter Wall** — Rocky Mountain Rangers [Western Swing & Waltzes and Other Punchy Songs] (2:08) `isrc:QZLGF2000010` `qobuz:224257021`
+- **Lera Lynn** — What I'm Looking For [On My Own] (3:19) `isrc:QMF7F2000002` `qobuz:427957840`
+- **Orville Peck** — No Glory in the West [Show Pony] (4:13) `isrc:USSM12001425` `qobuz:99568725`
+- **Amigo The Devil** — Murder at the Bingo Hall [Murder at the Bingo Hall] (3:21) `isrc:USA2P1951150` `qobuz:115325564`
+- **The Bridge City Sinners** — Unholy Hymns [Unholy Hymns] (4:00) `isrc:QZHN62127251` `qobuz:135772632`

@@ -1,0 +1,18 @@
+{
+  "name": "Assemblage 23",
+  "services": {
+    "qobuz": "66172581"
+  },
+  "tracks": [
+    {
+      "artist": "Assemblage 23",
+      "title": "Surface",
+      "services": {
+        "qobuz": "100071937"
+      },
+      "album": "Contempt",
+      "duration": 304,
+      "isrc": "DEU550001702"
+    }
+  ]
+}

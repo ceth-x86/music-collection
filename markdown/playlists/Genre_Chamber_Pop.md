@@ -1,0 +1,108 @@
+# Genre: Chamber Pop
+
+Imported genre playlist: Chamber Pop.
+
+Services: `qobuz:66736270` `tidal:99c99865-f5e7-4f61-8c38-16715797b57b`
+
+## Tracks (100)
+
+- **The Pale Fountains** — Reach [Pacific Street] (4:14) `isrc:GBAAA8400371` `qobuz:4620779`
+- **Prefab Sprout** — When Love Breaks Down [Steve McQueen] (4:06) `isrc:GBARL1900486` `qobuz:75532296`
+- **Momus** — John the Baptist Jones [Circus Maximus] (3:12) `isrc:GBBLY8600121` `qobuz:129694894`
+- **The Bathers** — Fancy Dress [Summer Lightning] (4:57) `isrc:UKUJK2200098` `qobuz:161008508`
+- **Louis Philippe** — You Mary You [Claret(Best Of Compilation)] (3:23) `isrc:GBBLY8700126` `qobuz:329656615`
+- **Tindersticks** — City Sickness [The First Tindersticks Album] (4:01) `isrc:GBAUP9300004` `qobuz:13502902`
+- **The Divine Comedy** — Your Daddy's Car [Liberation] (3:56) `isrc:GBBSR9300155` `qobuz:3150902`
+- **The High Llamas** — The Dutchman [Gideon Gaye] (4:41) `isrc:GBBLK9800223` `qobuz:13574040`
+- **Cardinal** — Dream Figure [Cardinal] (3:01) `isrc:GBCKK1121506` `qobuz:194467868`
+- **Eric Johnson** — Fanfare One [Souvenir] (1:58) `isrc:USQTZ1400023` `qobuz:302090516`
+- **Tarja** — Witch Hunt [The Brightest Void] (5:16) `isrc:DEH841600202` `qobuz:31259124`
+- **The Innocence Mission** — Bright As Yellow [Glow] (3:32) `isrc:USWWW0201694` `qobuz:53108055`
+- **Spookey Ruben** — These Days Are Old [Modes Of Transportation Vol. 1] (3:44) `isrc:USTV19500216` `qobuz:48526378`
+- **Yum-Yum** — Dan Loves Patti [Dan Loves Patti] (3:27) `isrc:USAT20619703` `qobuz:60689234`
+- **Fiona Apple** — Never Is a Promise [Tidal] (5:54) `isrc:USSM19600950` `qobuz:21984209`
+- **Pernice Brothers** — The Ballad of Bjorn Borg [The World Won't End] (3:38) `isrc:USA2E0100409` `qobuz:212106841`
+- **Rufus Wainwright** — April Fools [Rufus Wainwright] (5:00) `isrc:USDW19701003` `qobuz:210896404`
+- **Mercury Rev** — Holes [Deserter's Songs] (5:56) `isrc:GBUM71102304` `qobuz:97843875`
+- **Beulah** — If We Can Land A Man On The Moon, Surely I Can Win Your Heart [When Your Heartstrings Break] (3:17) `isrc:USBYE0500211` `qobuz:14389139`
+- **Miloš Karadaglić** — The Book Of Love (Arr. Hale) [Sound Of Silence] (3:19) `isrc:GBUM71903441` `qobuz:63811259`
+- **Aimee Mann** — Save Me [Magnolia (Music from the Motion Picture)] (4:34) `isrc:USSE59900009` `qobuz:2844344`
+- **The Ladybug Transistor** — The Swimmer [The Albemarle Sound (25th Anniversary Expanded Edition)] (3:52) `isrc:USMRG0312021` `qobuz:356781095`
+- **Faber** — Komm her [I fucking love my life] (6:19) `isrc:DEUM71903085` `qobuz:77516368`
+- **Belle and Sebastian** — Get Me Away from Here, I'm Dying [If You're Feeling Sinister] (3:25) `isrc:GBCAX9600106` `qobuz:8922142`
+- **Cousteau** — Last Good Day Of The Year [Cousteau] (5:00) `isrc:USPA30000310` `qobuz:72751990`
+- **The Gentle Waves** — Falling from Grace [Swansong for You] (3:45) `isrc:GBCAX0002603` `qobuz:8922011`
+- **Lambchop** — Up with People [Nixon] (6:02) `isrc:DED620005204` `qobuz:243032552`
+- **The Clientele** — Reflections After Jane [Suburban Light] (3:21) `isrc:GBFXJ0000003` `qobuz:42188359`
+- **Ed Harcourt** — Something in My Eye [Here Be Monsters] (3:41) `isrc:GBDGG0000066` `qobuz:1007436`
+- **Richard Hawley** — The Nights Are Cold [Late Night Final] (2:49) `isrc:GBBSR0100260` `qobuz:400315090`
+- **Andrew Bird** — A Nervous Tic Motion of the Head to the Left [Borrow or Rob] (5:51) `isrc:QMB622501019` `qobuz:395307485`
+- **The Pearlfishers** — My Dad the Weatherfan [Sky Meadows] (4:18) `isrc:DEH620305804` `qobuz:49045459`
+- **Patrick Wolf** — To the Lighthouse [Lycanthropy] (4:03) `isrc:GBFXN0300004` `qobuz:206157014`
+- **The Hidden Cameras** — A Miracle [The Smell of Our Own] (2:54) `isrc:CAO370300203` `qobuz:190399119`
+- **Camera Obscura** — Eighties Fan [Eighties Fan] (4:23) `isrc:GBBRE0100006` `qobuz:73913852`
+- **Teitur** — Josephine [Poetry & Airplanes] (2:52) `isrc:USUR10300247` `qobuz:52013810`
+- **A Girl Called Eddy** — People Used to Dream About The Future [A Girl Called Eddy] (5:33) `isrc:USEP40410106` `qobuz:77641247`
+- **Sondre Lerche** — Two Way Monologue [Two Way Monologue] (5:42) `isrc:NOAHV0304090` `qobuz:6763229`
+- **Feist** — Mushaboom [Let It Die] (3:43) `isrc:FRZ020302530` `qobuz:4313039`
+- **The Concretes** — Say Something New [The Concretes] (3:47) `isrc:SEVJH0300401` `qobuz:34839768`
+- **Joanna Newsom** — Peach, Plum, Pear [The Milk-Eyed Mender] (3:33) `isrc:US58L0426309` `qobuz:48466456`
+- **Kings Of Convenience** — Misread [Riot On An Empty Street] (3:08) `isrc:GBDCG0400006` `qobuz:192470810`
+- **The Polyphonic Spree** — Light & Day / Reach For The Sun [The Beginning Stages of...] (3:23) `isrc:USA2B1302449` `qobuz:231777280`
+- **Sparks** — My Baby's Taking Me Home [Lil' Beethoven] (4:42) `isrc:USSK40310007` `qobuz:381954773`
+- **Sarah Slean** — Weight [Universe] (2:53) `isrc:CA2RZ1000013` `qobuz:77375716`
+- **Keren Ann** — Not Going Anywhere [Not Going Anywhere] (3:41) `isrc:FRZ110300333` `qobuz:40977214`
+- **Rachael Yamagata** — Be Be Your Love [Happenstance] (4:12) `isrc:USV110400124` `qobuz:207897`
+- **Ben Folds** — Landed [Songs For Silverman] (4:26) `isrc:USSM10500189` `qobuz:5072128`
+- **Kate Bush** — A Coral Room [Aerial] (6:12) `isrc:GBAYE1800966` `qobuz:199956272`
+- **The Boy Least Likely To** — Be Gentle With Me [The Best Party Ever] (3:47) `isrc:GBJUN0500001` `qobuz:80588597`
+- **Camille** — Ta douleur [Le fil] (3:06) `isrc:FRS630400057` `qobuz:41014015`
+- **Antony and the Johnsons** — Hope There's Someone [I Am A Bird Now] (4:21) `isrc:US38W0510527` `qobuz:2531160`
+- **Charlotte Gainsbourg** — The Songs That We Sing [5:55 (Nouvelle Edition)] (2:57) `isrc:FR6P10600130` `qobuz:1722823`
+- **My Brightest Diamond** — Dragonfly [Bring Me The Workhorse] (5:24) `isrc:US64G0602304` `qobuz:144072740`
+- **Bat For Lashes** — Daniel [Two Suns] (4:11) `isrc:GBBND0801828` `qobuz:387099747`
+- **Regina Spektor** — Us [Soviet Kitsch] (4:52) `isrc:USWB10401857` `qobuz:2618790`
+- **Patrick Watson** — The Great Escape [Close to Paradise] (3:07) `isrc:CAJ220622490` `qobuz:93490663`
+- **Efterklang** — Mirador [Parades] (5:08) `isrc:DKEF50700502` `qobuz:74062723`
+- **Nicole Atkins** — Maybe Tonight [Neptune City] (3:12) `isrc:USSM10701257` `qobuz:50598348`
+- **A Fine Frenzy** — Almost Lover [Almost Lover] (4:30) `isrc:USVI20700644` `qobuz:842371`
+- **Yael Naim** — New Soul [Yael Naim] (3:45) `isrc:FR79W0700370` `qobuz:57227919`
+- **Kate Miller-Heidke** — Words [Little Eve] (3:33) `isrc:AUBM00700323` `qobuz:13402017`
+- **Beirut** — Nantes [The Flying Club Cup] (3:50) `isrc:USCPT0700043` `qobuz:44829009`
+- **Jens Lekman** — Your Arms Around Me [The Linden Trees Are Still In Blossom (Night Falls Over Kortedala)] (5:01) `isrc:US38W2138908` `qobuz:148869183`
+- **The Fab Four Fan Club** — The Long and Winding Road - Girl - Julia / Here, There and Everywhere - Don't Let Me Down / Yesterday - Do You Want to Know a Secret? / She Is Living Home - Michelle - Golden Slumbers / If I Fell - the Fool on the Hill - a Day in a Life / (From New York [With a Little Help From My... Fans, Vol. 3] (5:53) `isrc:USRAR1000770` `qobuz:154180553`
+- **Grizzly Bear** — Two Weeks [Veckatimest] (4:06) `isrc:GBBPW0900065` `qobuz:3776830`
+- **Other Lives** — Black Tables [Other Lives] (4:33) `isrc:USATO0080112` `qobuz:339274337`
+- **Villagers** — Becoming A Jackal [Becoming A Jackal] (3:21) `isrc:GBCEL1000096` `qobuz:2538944`
+- **The Irrepressibles** — In This Shirt [Mirror Mirror] (5:35) `isrc:GBUM70916171` `qobuz:151600202`
+- **Agnes Obel** — Riverside [Philharmonics] (3:48) `isrc:BEP011000054` `qobuz:3555597`
+- **Owen Pallett** — This Is The Dream Of Win & Regine [Has A Good Home] (3:24) `isrc:GBCEL2000074` `qobuz:196063171`
+- **Keaton Henson** — You Don't Know How Lucky You Are [Dear] (3:48) `isrc:GB2ME1100484` `qobuz:5174217`
+- **Ane Brun** — Do You Remember [It All Starts With One] (3:12) `isrc:SEVVQ1100104` `qobuz:286371598`
+- **Destroyer** — Chinatown [Kaputt] (3:49) `isrc:USJ5G1134601` `qobuz:3563510`
+- **Susanne Sundfør** — The Silicone Veil [The Silicone Veil] (5:02) `isrc:NO2EY1201070` `qobuz:44017919`
+- **Kishi Bashi** — Bright Whites [151a] (4:13) `isrc:USJZA1200008` `qobuz:20751291`
+- **Birdy** — Wings [Wings] (3:42) `isrc:GBAHS1500344` `qobuz:25531591`
+- **Laura Mvula** — Green Garden [Sing to the Moon] (4:09) `isrc:GBARL1202269` `qobuz:7848310`
+- **Woodkid** — Run Boy Run [The Golden Age] (3:33) `isrc:FR4DI1200110` `qobuz:8151324`
+- **Sleeping At Last** — Saturn [Atlas: I] (4:49) `isrc:USGES1480018` `qobuz:128592217`
+- **Iamthemorning** — Touching II [Iamthemorning] (4:03) `isrc:USCGJ1337344` `qobuz:78421646`
+- **Benjamin Clementine** — Cornerstone [At Least For Now] (4:31) `isrc:FR3PA1300050` `qobuz:20635502`
+- **Natalie Prass** — My Baby Don't Understand Me [Natalie Prass] (5:12) `isrc:QMDN21400016` `qobuz:109782964`
+- **San Fermin** — Sonsick [San Fermin] (4:13) `isrc:USCJ81300986` `qobuz:12440100`
+- **The Last Shadow Puppets** — Aviation [Everything You’ve Come To Expect] (3:43) `isrc:GBCEL1600006` `qobuz:30947090`
+- **The Lemon Twigs** — As Long As We're Together [Do Hollywood] (5:03) `isrc:GBAFL1600336` `qobuz:36840381`
+- **Lisa Hannigan** — Undertow [At Swim] (3:24) `isrc:GBENL1601623` `qobuz:250387969`
+- **AURORA** — Through The Eyes Of A Child [All My Demons Greeting Me As A Friend] (4:34) `isrc:GBUM71506954` `qobuz:30721128`
+- **Perfume Genius** — Slip Away [No Shape] (2:45) `isrc:USMTD1709509` `qobuz:40458885`
+- **Sufjan Stevens** — Mystery of Love [Mystery of Love] (4:08) `isrc:US64G1737302` `qobuz:45661181`
+- **Tamino** — Habibi [Amir] (5:07) `isrc:GB6TW1800028` `qobuz:54654144`
+- **Kelsey Lu** — I'm Not In Love [Blood] (6:54) `isrc:USSM11809046` `qobuz:60749297`
+- **Hannah Cohen** — Draggin' [Earthstar Mountain] (4:35) `isrc:GBBRP2501367` `qobuz:309753210`
+- **Angel Olsen** — Lark [All Mirrors] (6:18) `isrc:US38Y1934401` `qobuz:64887626`
+- **Caroline Polachek** — Butterfly Net (feat. Weyes Blood) [Desire, I Want To Turn Into You: Everasking Edition] (5:33) `isrc:QM4TW2467782` `qobuz:253677605`
+- **Pomme** — On brûlera [À peu près] (3:27) `isrc:FRUM71700925` `qobuz:49074901`
+- **Phoebe Bridgers** — Moon Song [Punisher] (4:37) `isrc:USJ5G2020007` `qobuz:91444038`
+- **Cassandra Jenkins** — Hard Drive [An Overview on Phenomenal Nature] (5:27) `isrc:USCPT2116403` `qobuz:156380691`
+- **Father John Misty** — Chloë [Chloë and the Next 20th Century] (3:28) `isrc:USSUB2143001` `qobuz:143265473`
+- **Laufey** — From The Start [Bewitched] (2:49) `isrc:QM6N22309399` `qobuz:213067619`

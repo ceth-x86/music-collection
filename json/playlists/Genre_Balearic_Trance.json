@@ -1,0 +1,1009 @@
+{
+  "name": "Genre: Balearic Trance",
+  "services": {
+    "qobuz": "66720653"
+  },
+  "description": "Imported genre playlist: Balearic Trance.",
+  "tracks": [
+    {
+      "artist": "Jam & Spoon",
+      "title": "Stella",
+      "services": {
+        "qobuz": "54221174"
+      },
+      "album": "Tripomatic Fairytales 2001",
+      "duration": 378,
+      "isrc": "DEMW61000005"
+    },
+    {
+      "artist": "Humate",
+      "title": "Love Stimulation",
+      "services": {
+        "qobuz": "107290017"
+      },
+      "album": "Love Stimulation",
+      "duration": 468,
+      "isrc": "GBKQU2019451"
+    },
+    {
+      "artist": "Energy 52",
+      "title": "Caf\u00e9 del Mar",
+      "services": {
+        "qobuz": "125316266"
+      },
+      "album": "Caf\u00e9 del Mar (Paul Van Dyk Remixes)",
+      "duration": 495,
+      "isrc": "DEL022110001"
+    },
+    {
+      "artist": "Chicane",
+      "title": "Offshore",
+      "services": {
+        "qobuz": "377954709"
+      },
+      "album": "Offshore",
+      "duration": 417,
+      "isrc": "GBRDU0700017"
+    },
+    {
+      "artist": "Nalin & Kane",
+      "title": "Beachball",
+      "services": {
+        "qobuz": "91640887"
+      },
+      "album": "Beachball",
+      "duration": 234,
+      "isrc": "DEN061600817"
+    },
+    {
+      "artist": "Three Drives On A Vinyl",
+      "title": "Greece 2000",
+      "services": {
+        "qobuz": "378120883"
+      },
+      "album": "Greece 2000",
+      "duration": 234,
+      "isrc": "NLC050700178"
+    },
+    {
+      "artist": "York",
+      "title": "The Awakening",
+      "services": {
+        "qobuz": "378310295"
+      },
+      "album": "YORK Mini Mix",
+      "duration": 213,
+      "isrc": "DEPN61100007"
+    },
+    {
+      "artist": "Salt Tank",
+      "title": "Dimension",
+      "services": {
+        "qobuz": "376475402"
+      },
+      "album": "Dimension",
+      "duration": 514,
+      "isrc": "GBBCR9906099"
+    },
+    {
+      "artist": "Atb",
+      "title": "9 PM (Till I Come)",
+      "services": {
+        "qobuz": "54232484"
+      },
+      "album": "9 PM (Till I Come)",
+      "duration": 199,
+      "isrc": "DEN069900066"
+    },
+    {
+      "artist": "Blank & Jones",
+      "title": "Chilled Cream",
+      "services": {
+        "qobuz": "215250519"
+      },
+      "album": "The Best of Relax // 20 Years // 2003 - 2023",
+      "duration": 420,
+      "isrc": "DEGE90900002"
+    },
+    {
+      "artist": "Solarstone",
+      "title": "Seven Cities",
+      "services": {
+        "qobuz": "377952221"
+      },
+      "album": "Seven Cities",
+      "duration": 211,
+      "isrc": "GBBCR9906115"
+    },
+    {
+      "artist": "The Thrillseekers",
+      "title": "Synaesthesia",
+      "services": {
+        "qobuz": "377909115"
+      },
+      "album": "Synaesthesia",
+      "duration": 241,
+      "isrc": "NLF710903587"
+    },
+    {
+      "artist": "MIX NOVA",
+      "title": "In Da Club",
+      "services": {
+        "qobuz": "373690489"
+      },
+      "album": "In Da Club",
+      "duration": 185,
+      "isrc": "QT6FG2524906"
+    },
+    {
+      "artist": "Dave Joy",
+      "title": "Amplifier",
+      "services": {
+        "qobuz": "62201828"
+      },
+      "album": "Amplifier",
+      "duration": 492,
+      "isrc": "CH5011500008"
+    },
+    {
+      "artist": "One Leek",
+      "title": "Out of Mind",
+      "services": {
+        "qobuz": "341133059"
+      },
+      "album": "Out of Mind",
+      "duration": 188,
+      "isrc": "UKU932530631"
+    },
+    {
+      "artist": "Sven V\u00e4th",
+      "title": "Harlequin - The Beauty and the Beast",
+      "services": {
+        "qobuz": "220717390"
+      },
+      "album": "Retrodelic Vibes 6",
+      "duration": 444,
+      "isrc": "IL1211808812"
+    },
+    {
+      "artist": "Velvet Lounge Project",
+      "title": "Afternoon in Paris",
+      "services": {
+        "qobuz": "232312011"
+      },
+      "album": "Afternoon in Paris",
+      "duration": 162,
+      "isrc": "DEHK12300862"
+    },
+    {
+      "artist": "Max Richter",
+      "title": "Of remembrance",
+      "services": {
+        "qobuz": "361520095"
+      },
+      "album": "Hamnet",
+      "duration": 149,
+      "isrc": "GBUM72506128"
+    },
+    {
+      "artist": "Marcos Rodriguez",
+      "title": "La Playa (Remix)",
+      "services": {
+        "qobuz": "158179218"
+      },
+      "album": "La Playa (Remix)",
+      "duration": 204,
+      "isrc": "CH6542097772"
+    },
+    {
+      "artist": "Modjo",
+      "title": "Chillin'",
+      "services": {
+        "qobuz": "11294883"
+      },
+      "album": "Modjo Remixes",
+      "duration": 354,
+      "isrc": "FR9W10000465"
+    },
+    {
+      "artist": "Death On The Balcony",
+      "title": "Crystal",
+      "services": {
+        "qobuz": "107008390"
+      },
+      "album": "Ways & Means EP",
+      "duration": 450,
+      "isrc": "GBLV62010864"
+    },
+    {
+      "artist": "AC/DC",
+      "title": "It's a Long Way to the Top (If You Wanna Rock 'N' Roll)",
+      "services": {
+        "qobuz": "19906331"
+      },
+      "album": "Backtracks",
+      "duration": 314,
+      "isrc": "AUAP07500078"
+    },
+    {
+      "artist": "Jimi La Lumia",
+      "title": "For DJ's Only",
+      "services": {
+        "qobuz": "75395657"
+      },
+      "album": "For DJ's Only",
+      "duration": 346,
+      "isrc": "USH2E1200025"
+    },
+    {
+      "artist": "U96",
+      "title": "Night in Motion",
+      "services": {
+        "qobuz": "69377494"
+      },
+      "album": "Night in Motion",
+      "duration": 323,
+      "isrc": "DEBC41900034"
+    },
+    {
+      "artist": "Gareth Emery",
+      "title": "Vertigo (Radio Edit)",
+      "services": {
+        "qobuz": "242010460"
+      },
+      "album": "Vertigo",
+      "duration": 199,
+      "isrc": "NLRD52025940"
+    },
+    {
+      "artist": "Blur",
+      "title": "Girls & Boys",
+      "services": {
+        "qobuz": "19201325"
+      },
+      "album": "Parklife",
+      "duration": 291,
+      "isrc": "GBAYE1400783"
+    },
+    {
+      "artist": "Indra Diky",
+      "title": "Esperando-Donde-Comienza-El-Sue\u00f1o-(Waiting-Where-The-Dream-Begins)",
+      "services": {
+        "qobuz": "351800905"
+      },
+      "album": "Te Amo",
+      "duration": 269,
+      "isrc": "GXHAF2596339"
+    },
+    {
+      "artist": "Alex Diehl",
+      "title": "Auf der Suche",
+      "services": {
+        "qobuz": "31261399"
+      },
+      "album": "Bretter meiner Welt",
+      "duration": 217,
+      "isrc": "DEUM71600485"
+    },
+    {
+      "artist": "Sean Hayman",
+      "title": "Mirage",
+      "services": {
+        "qobuz": "58465967"
+      },
+      "album": "Forget Time and Space",
+      "duration": 330,
+      "isrc": "DEH331803621"
+    },
+    {
+      "artist": "The Jazz Makers",
+      "title": "Pitiful Pearl",
+      "services": {
+        "qobuz": "22257157"
+      },
+      "album": "The Jazz Makers & The Jazz Five",
+      "duration": 215,
+      "isrc": "QMFMF1401305"
+    },
+    {
+      "artist": "Amex",
+      "title": "World Doesn't Care",
+      "services": {
+        "qobuz": "3073930"
+      },
+      "album": "World Doesn't Care",
+      "duration": 323,
+      "isrc": "DEQ600896704"
+    },
+    {
+      "artist": "Sacred Spirit",
+      "title": "Yeha Noha (Wishes Of Happiness And Prosperity)",
+      "services": {
+        "qobuz": "3548591"
+      },
+      "album": "Chants And Dances Of The Native Americans",
+      "duration": 243,
+      "isrc": "GBAAA9400375"
+    },
+    {
+      "artist": "Lou Reed",
+      "title": "This Magic Moment",
+      "services": {
+        "qobuz": "53113578"
+      },
+      "album": "Lost Highway",
+      "duration": 203,
+      "isrc": "USRH10904295"
+    },
+    {
+      "artist": "Dead Or Alive",
+      "title": "You Spin Me Round (Like a Record)",
+      "services": {
+        "qobuz": "143373"
+      },
+      "album": "You Spin Me Round Promo CD",
+      "duration": 196,
+      "isrc": "GBBBM9999987"
+    },
+    {
+      "artist": "Zaylan",
+      "title": "Never Give Up (If It's Your Dream)",
+      "services": {
+        "qobuz": "64670759"
+      },
+      "album": "Never Give Up (If It's Your Dream) [Remixes] [feat. Brenda O.R. Love]",
+      "duration": 257,
+      "isrc": "USDY41867097"
+    },
+    {
+      "artist": "DJ Tonka",
+      "title": "Show Me The Way",
+      "services": {
+        "qobuz": "111839698"
+      },
+      "album": "Show Me The Way",
+      "duration": 319,
+      "isrc": "GBKQU1518528"
+    },
+    {
+      "artist": "Ciaran Mcauley",
+      "title": "Forgotten",
+      "services": {
+        "qobuz": "377912572"
+      },
+      "album": "Forgotten",
+      "duration": 327,
+      "isrc": "NLF711000368"
+    },
+    {
+      "artist": "Blue Motion",
+      "title": "After Sunset",
+      "services": {
+        "qobuz": "113160174"
+      },
+      "album": "Sounds Of Soul Deep Vol. 3",
+      "duration": 410,
+      "isrc": "GBKQU1163060"
+    },
+    {
+      "artist": "Phil Perry",
+      "title": "Perfect Island Night",
+      "services": {
+        "qobuz": "506004"
+      },
+      "album": "Magic",
+      "duration": 330,
+      "isrc": "USC4R0302543"
+    },
+    {
+      "artist": "Montego Bay",
+      "title": "Magic",
+      "services": {
+        "qobuz": "388338528"
+      },
+      "album": "Kinki (Original Soundtracks)",
+      "duration": 363,
+      "isrc": "ITI029200060"
+    },
+    {
+      "artist": "Third Person",
+      "title": "Person One",
+      "services": {
+        "qobuz": "403911913"
+      },
+      "album": "Third Person",
+      "duration": 309,
+      "isrc": "BEZ352600018"
+    },
+    {
+      "artist": "Big Gigantic",
+      "title": "Got The Love (feat. Jennifer Hartswick)",
+      "services": {
+        "qobuz": "124284111"
+      },
+      "album": "Brighter Future",
+      "duration": 306,
+      "isrc": "USA2P1679644"
+    },
+    {
+      "artist": "Speedometer",
+      "title": "I Showed Them (The Ghetto) [feat. James Junior]",
+      "services": {
+        "qobuz": "50682547"
+      },
+      "album": "No Turning Back",
+      "duration": 250,
+      "isrc": "GBJSH1522009"
+    },
+    {
+      "artist": "Fran\u00e7ois & The Atlas Mountains",
+      "title": "Elle s'envole",
+      "services": {
+        "qobuz": "300623741"
+      },
+      "album": "\u00c2ge Fleuve",
+      "duration": 197,
+      "isrc": "FRT092400087"
+    },
+    {
+      "artist": "Geese",
+      "title": "Long Island City Here I Come",
+      "services": {
+        "qobuz": "339501940"
+      },
+      "album": "Getting Killed",
+      "duration": 397,
+      "isrc": "USBQU2500086"
+    },
+    {
+      "artist": "Nu Era",
+      "title": "Strength Inside",
+      "services": {
+        "qobuz": "285609289"
+      },
+      "album": "Strength Inside",
+      "duration": 190,
+      "isrc": "AEA3A2406447"
+    },
+    {
+      "artist": "ethereal echoes",
+      "title": "Baby Shark Remix afraid",
+      "services": {
+        "qobuz": "262073832"
+      },
+      "album": "Time To Say Goodbye ago",
+      "duration": 178,
+      "isrc": "FRX282489290"
+    },
+    {
+      "artist": "Charles Mackerras",
+      "title": "La Traviata, Act III: For ever I must leave thee (Addio del passato) (Violetta, Chorus)",
+      "services": {
+        "qobuz": "309892502"
+      },
+      "album": "A Verdi Celebration",
+      "duration": 180,
+      "isrc": "GBLWD0105714"
+    },
+    {
+      "artist": "Dee Dee Warwick",
+      "title": "I'm Only Human (feat. The Dixie Flyers)",
+      "services": {
+        "qobuz": "31468299"
+      },
+      "album": "The Complete Atco Recordings",
+      "duration": 203,
+      "isrc": "USAT20611730"
+    },
+    {
+      "artist": "High Noon At Salinas",
+      "title": "Iberican Ways",
+      "services": {
+        "qobuz": "17958454"
+      },
+      "album": "Magic Island - Music for Balearic People, Vol. 5",
+      "duration": 280,
+      "isrc": "NLE711400698"
+    },
+    {
+      "artist": "Sunlounger",
+      "title": "Found",
+      "services": {
+        "qobuz": "261643355"
+      },
+      "album": "Best Of Zara Taylor",
+      "duration": 221,
+      "isrc": "NLF711000798"
+    },
+    {
+      "artist": "Dennis Hart",
+      "title": "Sea Breeze",
+      "services": {
+        "qobuz": "62579056"
+      },
+      "album": "Sommertraum",
+      "duration": 258,
+      "isrc": "DES461900063"
+    },
+    {
+      "artist": "Christa Lee",
+      "title": "Celestial Resort",
+      "services": {
+        "qobuz": "188614385"
+      },
+      "album": "Celeste B-Sides (Original Game Soundtrack)",
+      "duration": 225,
+      "isrc": "QZ6K41800274"
+    },
+    {
+      "artist": "Roy Hargrove",
+      "title": "Natural Wonders",
+      "services": {
+        "qobuz": "773682"
+      },
+      "album": "Moment To Moment",
+      "duration": 325,
+      "isrc": "USGR10000301"
+    },
+    {
+      "artist": "Aruna",
+      "title": "Save the Day",
+      "services": {
+        "qobuz": "6958831"
+      },
+      "album": "Mellomania 22",
+      "duration": 385,
+      "isrc": "NLE711247501"
+    },
+    {
+      "artist": "Max Richter",
+      "title": "Terra Incognita",
+      "services": {
+        "qobuz": "76341312"
+      },
+      "album": "Ad Astra",
+      "duration": 169,
+      "isrc": "DEUM71905875"
+    },
+    {
+      "artist": "Christina Milian",
+      "title": "Call Me, Beep Me! (The Kim Possible Song)",
+      "services": {
+        "qobuz": "85067742"
+      },
+      "album": "Songs from Kim Possible",
+      "duration": 156,
+      "isrc": "USWD10220422"
+    },
+    {
+      "artist": "Adventure Time",
+      "title": "Island Song (Come Along with Me) [feat. Ashley Eriksson]",
+      "services": {
+        "qobuz": "95659232"
+      },
+      "album": "Adventure Time: Come Along with Me (Original Soundtrack)",
+      "duration": 108,
+      "isrc": "TCADU1811555"
+    },
+    {
+      "artist": "Ronny Jordan",
+      "title": "Season For Change",
+      "services": {
+        "qobuz": "759808"
+      },
+      "album": "The Quiet Revolution",
+      "duration": 295,
+      "isrc": "GBAAN9300056"
+    },
+    {
+      "artist": "Sean Norvis",
+      "title": "Ibiza Feelings",
+      "services": {
+        "qobuz": "9978179"
+      },
+      "album": "Playa Del Lounge 4",
+      "duration": 243,
+      "isrc": "DEQ601371406"
+    },
+    {
+      "artist": "Garrido",
+      "title": "Split Second",
+      "services": {
+        "qobuz": "7815404"
+      },
+      "album": "Split Second",
+      "duration": 211,
+      "isrc": "DEQ601271102"
+    },
+    {
+      "artist": "Rocking J",
+      "title": "New Dawn",
+      "services": {
+        "qobuz": "6958847"
+      },
+      "album": "Mellomania 22",
+      "duration": 363,
+      "isrc": "DEQ601219101"
+    },
+    {
+      "artist": "Jamie Carpenter",
+      "title": "You're Not Alone",
+      "services": {
+        "qobuz": "6025346"
+      },
+      "album": "Playa del Lounge 3",
+      "duration": 332,
+      "isrc": "DEQ601260802"
+    },
+    {
+      "artist": "The Jonah Hex",
+      "title": "Happy Ever After",
+      "services": {
+        "qobuz": "428002998"
+      },
+      "album": "A Heart Full of Ghosts",
+      "duration": 252,
+      "isrc": "QT6662622917"
+    },
+    {
+      "artist": "Travis Scott",
+      "title": "FE!N",
+      "services": {
+        "qobuz": "220894313"
+      },
+      "album": "UTOPIA",
+      "duration": 191,
+      "isrc": "USSM12305010"
+    },
+    {
+      "artist": "Miikka Leinonen",
+      "title": "Firewatch",
+      "services": {
+        "qobuz": "106718730"
+      },
+      "album": "Firewatch",
+      "duration": 202,
+      "isrc": "GBKQU1789391"
+    },
+    {
+      "artist": "Epos",
+      "title": "Polarized",
+      "services": {
+        "qobuz": "5638569"
+      },
+      "album": "In Search of Sunrise 10 - Australia",
+      "duration": 429,
+      "isrc": "DEQ601270502"
+    },
+    {
+      "artist": "Roman Messer",
+      "title": "Come Home",
+      "services": {
+        "qobuz": "7771240"
+      },
+      "album": "Come Home",
+      "duration": 458,
+      "isrc": "DEQ601271004"
+    },
+    {
+      "artist": "E-Mantra",
+      "title": "Between Two Worlds The Boatman",
+      "services": {
+        "qobuz": "107119546"
+      },
+      "album": "The Hermit's Sanctuary",
+      "duration": 445,
+      "isrc": "GBKQU2071710"
+    },
+    {
+      "artist": "Carla Werner",
+      "title": "Power",
+      "services": {
+        "qobuz": "17958456"
+      },
+      "album": "Magic Island - Music for Balearic People, Vol. 5",
+      "duration": 370,
+      "isrc": "NLD681400698"
+    },
+    {
+      "artist": "Balearic Session",
+      "title": "Visitas",
+      "services": {
+        "qobuz": "18620146"
+      },
+      "album": "Magic Island Vol. 5 Album Sampler",
+      "duration": 326,
+      "isrc": "DEQ601468802"
+    },
+    {
+      "artist": "Denis Sender",
+      "title": "From Sunset to Sunrise",
+      "services": {
+        "qobuz": "17958478"
+      },
+      "album": "Magic Island - Music for Balearic People, Vol. 5",
+      "duration": 420,
+      "isrc": "DEQ601467802"
+    },
+    {
+      "artist": "Paul Legvand",
+      "title": "New Age",
+      "services": {
+        "qobuz": "19504151"
+      },
+      "album": "New Age",
+      "duration": 330,
+      "isrc": "DEQ601469001"
+    },
+    {
+      "artist": "Nick Callan",
+      "title": "Trust Me",
+      "services": {
+        "qobuz": "17958482"
+      },
+      "album": "Magic Island - Music for Balearic People, Vol. 5",
+      "duration": 372,
+      "isrc": "DEQ601467603"
+    },
+    {
+      "artist": "Craft Integrated",
+      "title": "New Dimension",
+      "services": {
+        "qobuz": "17407877"
+      },
+      "album": "New Dimension",
+      "duration": 441,
+      "isrc": "DEQ601467901"
+    },
+    {
+      "artist": "Another Big Cat",
+      "title": "New Sunset",
+      "services": {
+        "qobuz": "184595474"
+      },
+      "album": "New Sunset",
+      "duration": 340,
+      "isrc": "NLD682203448"
+    },
+    {
+      "artist": "Rend Collective",
+      "title": "Live Alive",
+      "services": {
+        "qobuz": "35321709"
+      },
+      "album": "Campfire II: Simplicity",
+      "duration": 207,
+      "isrc": "USUM71607482"
+    },
+    {
+      "artist": "Sleeper",
+      "title": "STAY OVER, OUR YOUTH.",
+      "services": {
+        "qobuz": "304314804"
+      },
+      "album": "RAINYDAY//17",
+      "duration": 446,
+      "isrc": "QZZ7P2453433"
+    },
+    {
+      "artist": "Sunflare",
+      "title": "Madeira",
+      "services": {
+        "qobuz": "157321449"
+      },
+      "album": "Madeira / Chalkidiki",
+      "duration": 191,
+      "isrc": "NLD682201343"
+    },
+    {
+      "artist": "Ditoma",
+      "title": "Stay Awake",
+      "services": {
+        "qobuz": "166397271"
+      },
+      "album": "Stay Awake",
+      "duration": 222,
+      "isrc": "NLD682202129"
+    },
+    {
+      "artist": "East Forest",
+      "title": "Gratitude Sleep (Guided Meditation)",
+      "services": {
+        "qobuz": "160583870"
+      },
+      "album": "Still",
+      "duration": 1255,
+      "isrc": "QM24S2004836"
+    },
+    {
+      "artist": "Noah Shah",
+      "title": "Out of Time",
+      "services": {
+        "qobuz": "144474586"
+      },
+      "album": "Out of Time",
+      "duration": 187,
+      "isrc": "NLD682200253"
+    },
+    {
+      "artist": "Cory Goldsmith",
+      "title": "Cesca (FSOE 728)",
+      "services": {
+        "qobuz": "138963463"
+      },
+      "album": "FSOE 728 - Future Sound Of Egypt Episode 728",
+      "duration": 192,
+      "isrc": "UKRMQ2101074"
+    },
+    {
+      "artist": "Rafael Osmo",
+      "title": "Domina",
+      "services": {
+        "qobuz": "199000962"
+      },
+      "album": "Domina",
+      "duration": 449,
+      "isrc": "UKU932261377"
+    },
+    {
+      "artist": "Dance Gavin Dance",
+      "title": "Chucky vs. The Giant Tortoise",
+      "services": {
+        "qobuz": "380476238"
+      },
+      "album": "Mothership",
+      "duration": 236,
+      "isrc": "QMRSZ1600572"
+    },
+    {
+      "artist": "Larisa Migachyov",
+      "title": "The Long Road to San Antonio",
+      "services": {
+        "qobuz": "83528862"
+      },
+      "album": "Oh, That Ragtime Chick!",
+      "duration": 91,
+      "isrc": "USCGH0902314"
+    },
+    {
+      "artist": "Archers",
+      "title": "Adam's Ale",
+      "services": {
+        "qobuz": "179263912"
+      },
+      "album": "Adam's Ale / Embers",
+      "duration": 322,
+      "isrc": "NLD682203001"
+    },
+    {
+      "artist": "Cosmic Gate",
+      "title": "Exploration of Space",
+      "services": {
+        "qobuz": "123129986"
+      },
+      "album": "Exploration of Space",
+      "duration": 380,
+      "isrc": "NLD682102545"
+    },
+    {
+      "artist": "Julie Dvir",
+      "title": "Getting Older",
+      "services": {
+        "qobuz": "166543369"
+      },
+      "album": "Getting Older",
+      "duration": 225,
+      "isrc": "GBKQU2269557"
+    },
+    {
+      "artist": "Sofiane Pamart",
+      "title": "Aurora",
+      "services": {
+        "qobuz": "352764718"
+      },
+      "album": "Borealis",
+      "duration": 164,
+      "isrc": "FRX452190117"
+    },
+    {
+      "artist": "Vintage & Morelli",
+      "title": "Serein",
+      "services": {
+        "qobuz": "160840273"
+      },
+      "album": "Serein",
+      "duration": 214,
+      "isrc": "NLD682201711"
+    },
+    {
+      "artist": "Thomas Newman",
+      "title": "50% of Light Speed",
+      "services": {
+        "qobuz": "36896600"
+      },
+      "album": "Passengers (Original Motion Picture Soundtrack)",
+      "duration": 193,
+      "isrc": "US4DG1600765"
+    },
+    {
+      "artist": "gAIno",
+      "title": "Thought It Might Have Been Love",
+      "services": {
+        "qobuz": "401030430"
+      },
+      "album": "Unsaid And Undone",
+      "duration": 173,
+      "isrc": "SGB502589840"
+    },
+    {
+      "artist": "Iam",
+      "title": "N\u00e9s sous la m\u00eame \u00e9toile",
+      "services": {
+        "qobuz": "1784612"
+      },
+      "album": "Galaxie",
+      "duration": 231,
+      "isrc": "FRY689700490"
+    },
+    {
+      "artist": "The meaninglessness of existence, and therefore freedom",
+      "title": "Essence 779 Spy 133 Helpless 27 Redesign 990 Nervously 851 Partially",
+      "services": {
+        "qobuz": "265928083"
+      },
+      "album": "Threat 173 Complementary 834 Acceleration 186 Parametric 434 Torture 55 Gastric",
+      "duration": 121,
+      "isrc": "TCAIF2416581"
+    },
+    {
+      "artist": "Fredd Moz",
+      "title": "Au Revoir",
+      "services": {
+        "qobuz": "166396736"
+      },
+      "album": "Au Revoir",
+      "duration": 373,
+      "isrc": "NLD682202130"
+    },
+    {
+      "artist": "Sergey Shabanov",
+      "title": "Far Away",
+      "services": {
+        "qobuz": "163412596"
+      },
+      "album": "Far Away",
+      "duration": 189,
+      "isrc": "NLD682201908"
+    },
+    {
+      "artist": "Tekno",
+      "title": "Castles Made Of Sand (FSOE811)",
+      "services": {
+        "qobuz": "216617882"
+      },
+      "album": "FSOE 811 - Future Sound Of Egypt Episode 811",
+      "duration": 237,
+      "isrc": "UKRMQ2300737"
+    },
+    {
+      "artist": "Sudan Archives",
+      "title": "Coming Up",
+      "services": {
+        "qobuz": "122270651"
+      },
+      "album": "Athena",
+      "duration": 221,
+      "isrc": "US2S71912008"
+    },
+    {
+      "artist": "Thomas Knight",
+      "title": "Forget Me",
+      "services": {
+        "qobuz": "147840312"
+      },
+      "album": "Forget Me",
+      "duration": 233,
+      "isrc": "NLD682200551"
+    }
+  ]
+}

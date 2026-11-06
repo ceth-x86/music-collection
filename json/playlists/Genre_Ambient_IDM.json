@@ -1,0 +1,1010 @@
+{
+  "name": "Genre: Ambient IDM",
+  "services": {
+    "qobuz": "66716762",
+    "tidal": "370c728c-2a5b-4c7d-9513-ee873abaac56"
+  },
+  "description": "Imported genre playlist: Ambient IDM.",
+  "tracks": [
+    {
+      "artist": "Musicology",
+      "title": "Telefone 529",
+      "services": {
+        "qobuz": "79173708"
+      },
+      "album": "Artificial Intelligence",
+      "duration": 250,
+      "isrc": "GBBPW9200031"
+    },
+    {
+      "artist": "I.A.O",
+      "title": "The Clan",
+      "services": {
+        "qobuz": "79173710"
+      },
+      "album": "Artificial Intelligence",
+      "duration": 307,
+      "isrc": "GBBPW9200033"
+    },
+    {
+      "artist": "Speedy j",
+      "title": "De-Orbit",
+      "services": {
+        "qobuz": "198410923"
+      },
+      "album": "Ginger",
+      "duration": 372,
+      "isrc": "GBBPW9200034"
+    },
+    {
+      "artist": "Dr Alex Paterson",
+      "title": "Loving You Live",
+      "services": {
+        "qobuz": "79173716"
+      },
+      "album": "Artificial Intelligence",
+      "duration": 240,
+      "isrc": "GBBPW9200039"
+    },
+    {
+      "artist": "The Dice Man",
+      "title": "Polygon Window",
+      "services": {
+        "qobuz": "79173707"
+      },
+      "album": "Artificial Intelligence",
+      "duration": 312,
+      "isrc": "GBBPW9200030"
+    },
+    {
+      "artist": "Plastikman",
+      "title": "Substance Abuse",
+      "services": {
+        "qobuz": "235558930"
+      },
+      "album": "Dimension Intrusion",
+      "duration": 307,
+      "isrc": "CAM261800156"
+    },
+    {
+      "artist": "Seefeel",
+      "title": "Climactic Phase No.3",
+      "services": {
+        "qobuz": "2331832"
+      },
+      "album": "Quique",
+      "duration": 504,
+      "isrc": "GBBNZ9300050"
+    },
+    {
+      "artist": "Houston Calls",
+      "title": "Bob and Bonnie",
+      "services": {
+        "qobuz": "144021793"
+      },
+      "album": "A Collection of Short Stories",
+      "duration": 225,
+      "isrc": "GBAJE0503700"
+    },
+    {
+      "artist": "Higher Intelligence Agency",
+      "title": "The Rotunda",
+      "services": {
+        "qobuz": "61397006"
+      },
+      "album": "Birmingham Frequencies",
+      "duration": 368,
+      "isrc": "GBMKL0600063"
+    },
+    {
+      "artist": "Lida Husik",
+      "title": "Fade Sister Cool",
+      "services": {
+        "qobuz": "72717676"
+      },
+      "album": "Beaumont Hannant Remixes",
+      "duration": 263,
+      "isrc": "USGKX9813802"
+    },
+    {
+      "artist": "Autechre",
+      "title": "Montreal",
+      "services": {
+        "qobuz": "3775477"
+      },
+      "album": "Amber",
+      "duration": 435,
+      "isrc": "GBBPW9400138"
+    },
+    {
+      "artist": "The Sabres Of Paradise",
+      "title": "Tow Truck",
+      "services": {
+        "qobuz": "335220460"
+      },
+      "album": "Haunted Dancehall",
+      "duration": 396,
+      "isrc": "GBBPW2501821"
+    },
+    {
+      "artist": "The Black Dog",
+      "title": "Psil-cosyin",
+      "services": {
+        "qobuz": "79174845"
+      },
+      "album": "Spanners",
+      "duration": 634,
+      "isrc": "GBBPW9500005"
+    },
+    {
+      "artist": "Sun Electric",
+      "title": "Entrance",
+      "services": {
+        "qobuz": "49811128"
+      },
+      "album": "Kitchen",
+      "duration": 321,
+      "isrc": "BEZ350900115"
+    },
+    {
+      "artist": "B12",
+      "title": "Void/Comm",
+      "services": {
+        "qobuz": "3777216"
+      },
+      "album": "Time Tourist",
+      "duration": 349,
+      "isrc": "GBBPW9600068"
+    },
+    {
+      "artist": "Plaid",
+      "title": "Eyen",
+      "services": {
+        "qobuz": "79173901"
+      },
+      "album": "Double Figure",
+      "duration": 260,
+      "isrc": "GBBPW0100017"
+    },
+    {
+      "artist": "Boards of Canada",
+      "title": "Roygbiv",
+      "services": {
+        "qobuz": "3775737"
+      },
+      "album": "Music Has The Right To Children",
+      "duration": 149,
+      "isrc": "GBBPW9800019"
+    },
+    {
+      "artist": "Isan",
+      "title": "Vosill",
+      "services": {
+        "qobuz": "30043668"
+      },
+      "album": "Beautronics Plus",
+      "duration": 250,
+      "isrc": "DEX261312201"
+    },
+    {
+      "artist": "Jorge Ben Jor",
+      "title": "O Telefone Tocou Novamente",
+      "services": {
+        "qobuz": "18046828"
+      },
+      "album": "Show de Bola 1970",
+      "duration": 231,
+      "isrc": "BRMCA7000036"
+    },
+    {
+      "artist": "\u00dcv Index",
+      "title": "I'd Never Let You Fall",
+      "services": {
+        "qobuz": "352103841"
+      },
+      "album": "UV Index",
+      "duration": 224,
+      "isrc": "QZWFX2587585"
+    },
+    {
+      "artist": "M\u00fam",
+      "title": "The Balla\u00f0 Of The Broken Birdie Records",
+      "services": {
+        "qobuz": "64959144"
+      },
+      "album": "Yesterday Was Dramatic \u2013 Today Is OK",
+      "duration": 313,
+      "isrc": "DEX261905811"
+    },
+    {
+      "artist": "Arovane",
+      "title": "Theme",
+      "services": {
+        "qobuz": "29905936"
+      },
+      "album": "Tides",
+      "duration": 220,
+      "isrc": "DEX700000001"
+    },
+    {
+      "artist": "Casino versus Japan",
+      "title": "It's Very Sunny",
+      "services": {
+        "qobuz": "29784483"
+      },
+      "album": "Go Hawaii",
+      "duration": 286,
+      "isrc": "USCW60750302"
+    },
+    {
+      "artist": "Lackluster",
+      "title": "Catch 22",
+      "services": {
+        "qobuz": "81731676"
+      },
+      "album": "Container",
+      "duration": 257,
+      "isrc": "USCGJ1592568"
+    },
+    {
+      "artist": "Illtemper",
+      "title": "Don't Fall Down",
+      "services": {
+        "qobuz": "418334920"
+      },
+      "album": "Manic! At The Shitshow",
+      "duration": 163,
+      "isrc": "QZZ7M2694789"
+    },
+    {
+      "artist": "Proem",
+      "title": "Cold Water (Flat)",
+      "services": {
+        "qobuz": "211505065"
+      },
+      "album": "Negativ",
+      "duration": 331,
+      "isrc": "USHM20452670"
+    },
+    {
+      "artist": "Brothomstates",
+      "title": "Kava",
+      "services": {
+        "qobuz": "79173923"
+      },
+      "album": "Claro",
+      "duration": 352,
+      "isrc": "GBBPW0100111"
+    },
+    {
+      "artist": "Funckarma",
+      "title": "Lolala",
+      "services": {
+        "qobuz": "71919807"
+      },
+      "album": "Solid State",
+      "duration": 557,
+      "isrc": "NLP500500054"
+    },
+    {
+      "artist": "Telefon Tel Aviv",
+      "title": "Fahrenheit Fair Enough",
+      "services": {
+        "qobuz": "36878845"
+      },
+      "album": "Fahrenheit Fair Enough",
+      "duration": 400,
+      "isrc": "US2J71607201"
+    },
+    {
+      "artist": "Ulrich Schnauss",
+      "title": "Passing By",
+      "services": {
+        "qobuz": "88924530"
+      },
+      "album": "Far Away Trains Passing By",
+      "duration": 397,
+      "isrc": "GBKP41900003"
+    },
+    {
+      "artist": "Freescha",
+      "title": "Kite High",
+      "services": {
+        "qobuz": "168776842"
+      },
+      "album": "Kids Fill the Floor",
+      "duration": 179,
+      "isrc": "US84C2000003"
+    },
+    {
+      "artist": "Aural Float",
+      "title": "Perspectives",
+      "services": {
+        "qobuz": "31097960"
+      },
+      "album": "Freefloat",
+      "duration": 548,
+      "isrc": "DEY600100001"
+    },
+    {
+      "artist": "Monolake",
+      "title": "Fragile",
+      "services": {
+        "qobuz": "71829972"
+      },
+      "album": "Gravity",
+      "duration": 720,
+      "isrc": "USI4R0401075"
+    },
+    {
+      "artist": "lusine icl",
+      "title": "Blind",
+      "services": {
+        "qobuz": "71677005"
+      },
+      "album": "Iron City",
+      "duration": 386,
+      "isrc": "USI4R0600689"
+    },
+    {
+      "artist": "City Girl",
+      "title": "The Burden of an Endless Dream",
+      "services": {
+        "qobuz": "378557421"
+      },
+      "album": "Mana Lake",
+      "duration": 181,
+      "isrc": "QT6G62557241"
+    },
+    {
+      "artist": "$uicideboy$",
+      "title": "Degeneration in the Key of A Minor",
+      "services": {
+        "qobuz": "125385275"
+      },
+      "album": "Long Term Effects of SUFFERING",
+      "duration": 128,
+      "isrc": "QZAPK2000191"
+    },
+    {
+      "artist": "Four Tet",
+      "title": "And They All Look Broken Hearted",
+      "services": {
+        "qobuz": "9123145"
+      },
+      "album": "Rounds",
+      "duration": 309,
+      "isrc": "GBCEL0300066"
+    },
+    {
+      "artist": "Secede",
+      "title": "Greetings Twinsunian",
+      "services": {
+        "qobuz": "88273441"
+      },
+      "album": "Bye Bye Gridlock Traffic",
+      "duration": 412,
+      "isrc": "USHM20489526"
+    },
+    {
+      "artist": "Xela",
+      "title": "Japanese Whispers",
+      "services": {
+        "qobuz": "30096750"
+      },
+      "album": "For Frosty Mornings And Summer Nights",
+      "duration": 370,
+      "isrc": "GBJSN0600076"
+    },
+    {
+      "artist": "Yasume",
+      "title": "Rengoku (Condensed)",
+      "services": {
+        "qobuz": "30128036"
+      },
+      "album": "Where We're From The Birds Sing A Pretty Song",
+      "duration": 379,
+      "isrc": "DEX700300039"
+    },
+    {
+      "artist": "Ochre",
+      "title": "A Midsummer Nice Dream",
+      "services": {
+        "qobuz": "61882916"
+      },
+      "album": "A Midsummer Nice Dream (15th Anniversary Edition)",
+      "duration": 175,
+      "isrc": "ESA011995907"
+    },
+    {
+      "artist": "Bitcrush",
+      "title": "Enarc Ende Y",
+      "services": {
+        "qobuz": "137626494"
+      },
+      "album": "Enarc",
+      "duration": 329,
+      "isrc": "QZNWX2119942"
+    },
+    {
+      "artist": "H.U.V.A. NETWORK",
+      "title": "Something Heavens",
+      "services": {
+        "qobuz": "5892015"
+      },
+      "album": "Ephemeris",
+      "duration": 403,
+      "isrc": "USQY50909793"
+    },
+    {
+      "artist": "Cepia",
+      "title": "Dowry",
+      "services": {
+        "qobuz": "20779497"
+      },
+      "album": "Dowry",
+      "duration": 283,
+      "isrc": "US2J70403101"
+    },
+    {
+      "artist": "The Album Leaf",
+      "title": "Window",
+      "services": {
+        "qobuz": "1040344"
+      },
+      "album": "In A Safe Place",
+      "duration": 226,
+      "isrc": "DED620424401"
+    },
+    {
+      "artist": "Prefuse 73",
+      "title": "Pagina Dos",
+      "services": {
+        "qobuz": "79179528"
+      },
+      "album": "Prefuse 73 Reads The Books",
+      "duration": 150,
+      "isrc": "GBBPW0500055"
+    },
+    {
+      "artist": "Arms and Sleepers",
+      "title": "Black Paris 86",
+      "services": {
+        "qobuz": "182362495"
+      },
+      "album": "Black Paris 86 (15th Anniversary Edition)",
+      "duration": 312,
+      "isrc": "DEGY60700004"
+    },
+    {
+      "artist": "Tycho",
+      "title": "Sunrise Projector",
+      "services": {
+        "qobuz": "228143920"
+      },
+      "album": "Past Is Prologue",
+      "duration": 184,
+      "isrc": "US2J71011302"
+    },
+    {
+      "artist": "Helios",
+      "title": "Bless This Morning Year",
+      "services": {
+        "qobuz": "53484334"
+      },
+      "album": "Eingya",
+      "duration": 361,
+      "isrc": "GBJSN0600009"
+    },
+    {
+      "artist": "Yppah",
+      "title": "Again With The Subtitles",
+      "services": {
+        "qobuz": "6278379"
+      },
+      "album": "You Are Beautiful At All Times",
+      "duration": 167,
+      "isrc": "GBCFB0601100"
+    },
+    {
+      "artist": "Loscil",
+      "title": "Equivalent 1",
+      "services": {
+        "qobuz": "62588315"
+      },
+      "album": "Equivalents",
+      "duration": 438,
+      "isrc": "USNCB1922101"
+    },
+    {
+      "artist": "Lymbyc Systym",
+      "title": "Split Stones",
+      "services": {
+        "qobuz": "26626050"
+      },
+      "album": "Split Stones",
+      "duration": 359,
+      "isrc": "US78L1514106"
+    },
+    {
+      "artist": "The American Dollar",
+      "title": "Anything You Synthesize (Ambient)",
+      "services": {
+        "qobuz": "125267370"
+      },
+      "album": "Music for Focus and Creativity",
+      "duration": 237,
+      "isrc": "TCABL1392447"
+    },
+    {
+      "artist": "Nathan Fake",
+      "title": "The Sky Was Pink",
+      "services": {
+        "qobuz": "3197545"
+      },
+      "album": "The Sky Was Pink",
+      "duration": 570,
+      "isrc": "GBUZD0800603"
+    },
+    {
+      "artist": "Bonobo",
+      "title": "Kiara",
+      "services": {
+        "qobuz": "6280973"
+      },
+      "album": "Black Sands",
+      "duration": 230,
+      "isrc": "GBCFB1000002"
+    },
+    {
+      "artist": "Apparat",
+      "title": "Arcadia",
+      "services": {
+        "qobuz": "29906823"
+      },
+      "album": "Walls",
+      "duration": 310,
+      "isrc": "DEX180700033"
+    },
+    {
+      "artist": "Aretha Franklin",
+      "title": "Good to Me as I Am to You",
+      "services": {
+        "qobuz": "4807919"
+      },
+      "album": "I Never Loved A Man The Way I Love You / Lady Soul / Aretha Now / Spirit In The Dark / Aretha Live At Fillmore West (Original Album Series)",
+      "duration": 238,
+      "isrc": "USAT20801169"
+    },
+    {
+      "artist": "The Field",
+      "title": "Over The Ice",
+      "services": {
+        "qobuz": "141538038"
+      },
+      "album": "From Here We Go Sublime",
+      "duration": 416,
+      "isrc": "DEU670600071"
+    },
+    {
+      "artist": "Flying Lotus",
+      "title": "Camel",
+      "services": {
+        "qobuz": "3776639"
+      },
+      "album": "Los Angeles",
+      "duration": 142,
+      "isrc": "GBBPW0800007"
+    },
+    {
+      "artist": "Emancipator",
+      "title": "First Snow",
+      "services": {
+        "qobuz": "124151425"
+      },
+      "album": "Soon It Will Be Cold Enough",
+      "duration": 312,
+      "isrc": "TCABY1497184"
+    },
+    {
+      "artist": "Jon Hopkins",
+      "title": "Light Through the Veins",
+      "services": {
+        "qobuz": "151538397"
+      },
+      "album": "Insides",
+      "duration": 558,
+      "isrc": "GBDDN0800294"
+    },
+    {
+      "artist": "Bibio",
+      "title": "jealous of roses",
+      "services": {
+        "qobuz": "276197938"
+      },
+      "album": "Ambivalence Avenue",
+      "duration": 155,
+      "isrc": "GBBPW0900002"
+    },
+    {
+      "artist": "Moderat",
+      "title": "A New Error",
+      "services": {
+        "qobuz": "49034564"
+      },
+      "album": "Moderat",
+      "duration": 367,
+      "isrc": "DEAE60900757"
+    },
+    {
+      "artist": "Gold Panda",
+      "title": "You",
+      "services": {
+        "qobuz": "103089947"
+      },
+      "album": "Lucky Shiner",
+      "duration": 216,
+      "isrc": "GBDNH1000136"
+    },
+    {
+      "artist": "Mount Kimbie",
+      "title": "Carbonated",
+      "services": {
+        "qobuz": "16305483"
+      },
+      "album": "Carbonated",
+      "duration": 258,
+      "isrc": "GBHQT1000040"
+    },
+    {
+      "artist": "Caribou",
+      "title": "Odessa",
+      "services": {
+        "qobuz": "243037078"
+      },
+      "album": "Swim",
+      "duration": 315,
+      "isrc": "DED621000414"
+    },
+    {
+      "artist": "Ital Tek",
+      "title": "Babel",
+      "services": {
+        "qobuz": "237822569"
+      },
+      "album": "Midnight Colour",
+      "duration": 253,
+      "isrc": "US78Q1010104"
+    },
+    {
+      "artist": "Floating Points",
+      "title": "Sais",
+      "services": {
+        "qobuz": "94799768"
+      },
+      "album": "Shadows",
+      "duration": 483,
+      "isrc": "GB4HG0900066"
+    },
+    {
+      "artist": "Nicolas Jaar",
+      "title": "Space Is Only Noise If You Can See",
+      "services": {
+        "qobuz": "376131175"
+      },
+      "album": "Space Is Only Noise",
+      "duration": 342,
+      "isrc": "FR2T01100012"
+    },
+    {
+      "artist": "James Blake",
+      "title": "The Wilhelm Scream",
+      "services": {
+        "qobuz": "8581498"
+      },
+      "album": "James Blake",
+      "duration": 273,
+      "isrc": "GBUM71030822"
+    },
+    {
+      "artist": "Shlohmo",
+      "title": "Rained the Whole Time",
+      "services": {
+        "qobuz": "50617840"
+      },
+      "album": "Vacation - Single",
+      "duration": 325,
+      "isrc": "US25X1083610"
+    },
+    {
+      "artist": "Andy Stott",
+      "title": "We Stay Together (Part One)",
+      "services": {
+        "qobuz": "119884714"
+      },
+      "album": "We Stay Together",
+      "duration": 396,
+      "isrc": "USA2Z1111793"
+    },
+    {
+      "artist": "Rival Consoles",
+      "title": "Kid Velo",
+      "services": {
+        "qobuz": "58587443"
+      },
+      "album": "Kid Velo",
+      "duration": 281,
+      "isrc": "GBWZD1103101"
+    },
+    {
+      "artist": "Kuedo",
+      "title": "Work, Live & Sleep In Collapsing Space",
+      "services": {
+        "qobuz": "238302204"
+      },
+      "album": "Severant",
+      "duration": 273,
+      "isrc": "US78Q1210062"
+    },
+    {
+      "artist": "Burial",
+      "title": "Kindred",
+      "services": {
+        "qobuz": "61342746"
+      },
+      "album": "Kindred",
+      "duration": 686,
+      "isrc": "GBLZC1200011"
+    },
+    {
+      "artist": "Nils Frahm",
+      "title": "Says",
+      "services": {
+        "qobuz": "58583818"
+      },
+      "album": "Spaces",
+      "duration": 498,
+      "isrc": "GBWZD1305502"
+    },
+    {
+      "artist": "Max Cooper",
+      "title": "Repetition",
+      "services": {
+        "qobuz": "63558526"
+      },
+      "album": "Yearning for the Infinite",
+      "duration": 350,
+      "isrc": "GB45A1901680"
+    },
+    {
+      "artist": "Lapalux",
+      "title": "Without You",
+      "services": {
+        "qobuz": "7907176"
+      },
+      "album": "Nostalchic",
+      "duration": 326,
+      "isrc": "GBCFB1207506"
+    },
+    {
+      "artist": "Oneohtrix Point Never",
+      "title": "Chrome Country",
+      "services": {
+        "qobuz": "11699555"
+      },
+      "album": "R Plus Seven",
+      "duration": 305,
+      "isrc": "GBBPW1300079"
+    },
+    {
+      "artist": "Tim Hecker",
+      "title": "Virginal II",
+      "services": {
+        "qobuz": "13948735"
+      },
+      "album": "Virgins",
+      "duration": 323,
+      "isrc": "USNCB1318306"
+    },
+    {
+      "artist": "Forest Swords",
+      "title": "Crow (DJ-Kicks)",
+      "services": {
+        "qobuz": "48125808"
+      },
+      "album": "DJ-Kicks (Forest Swords)",
+      "duration": 214,
+      "isrc": "DEG931892034"
+    },
+    {
+      "artist": "Kiasmos",
+      "title": "Looped",
+      "services": {
+        "qobuz": "58583578"
+      },
+      "album": "Kiasmos",
+      "duration": 360,
+      "isrc": "GBWZD1406203"
+    },
+    {
+      "artist": "Beacon",
+      "title": "Drive",
+      "services": {
+        "qobuz": "21028074"
+      },
+      "album": "The Ways We Separate",
+      "duration": 198,
+      "isrc": "US2J71308004"
+    },
+    {
+      "artist": "Seekae",
+      "title": "Test & Recognise (Flume Re-work)",
+      "services": {
+        "qobuz": "229902783"
+      },
+      "album": "Test & Recognise (Remixes)",
+      "duration": 303,
+      "isrc": "AUFF01400535"
+    },
+    {
+      "artist": "Clark",
+      "title": "Winter Linn",
+      "services": {
+        "qobuz": "20238007"
+      },
+      "album": "Clark",
+      "duration": 188,
+      "isrc": "GBBPW1400212"
+    },
+    {
+      "artist": "Throwing Snow",
+      "title": "Avarice",
+      "services": {
+        "qobuz": "303780404"
+      },
+      "album": "Mosaic",
+      "duration": 189,
+      "isrc": "GBEXH1300263"
+    },
+    {
+      "artist": "Ishome",
+      "title": "Ken Tavr",
+      "services": {
+        "qobuz": "371027575"
+      },
+      "album": "Confession",
+      "duration": 307,
+      "isrc": "US25X1084608"
+    },
+    {
+      "artist": "Deru",
+      "title": "1979",
+      "services": {
+        "qobuz": "17925462"
+      },
+      "album": "1979",
+      "duration": 291,
+      "isrc": "QMR6U1400021"
+    },
+    {
+      "artist": "Photay",
+      "title": "Aura",
+      "services": {
+        "qobuz": "139846360"
+      },
+      "album": "Onism",
+      "duration": 288,
+      "isrc": "USYBL1700739"
+    },
+    {
+      "artist": "Shigeto",
+      "title": "Detroit Part II (ft. Marcus Elliot)",
+      "services": {
+        "qobuz": "52326465"
+      },
+      "album": "Weighted",
+      "duration": 411,
+      "isrc": "US2J71802804"
+    },
+    {
+      "artist": "Skee Mask",
+      "title": "Dial 274",
+      "services": {
+        "qobuz": "50349456"
+      },
+      "album": "Compro",
+      "duration": 366,
+      "isrc": "DEOB61800335"
+    },
+    {
+      "artist": "Kelly Moran",
+      "title": "Autowave",
+      "services": {
+        "qobuz": "81300791"
+      },
+      "album": "Ultraviolet",
+      "duration": 189,
+      "isrc": "GBBPW1800149"
+    },
+    {
+      "artist": "Barker",
+      "title": "Look How Hard I've Tried",
+      "services": {
+        "qobuz": "60438596"
+      },
+      "album": "Global Underground #42: Patrice B\u00e4umel - Berlin",
+      "duration": 294,
+      "isrc": "GBHFW1800241"
+    },
+    {
+      "artist": "Daniel Avery",
+      "title": "Dusting For Smoke",
+      "services": {
+        "qobuz": "95123748"
+      },
+      "album": "Love + Light",
+      "duration": 337,
+      "isrc": "GBTZZ2000021"
+    },
+    {
+      "artist": "Actress",
+      "title": "Walking Flames",
+      "services": {
+        "qobuz": "103803656"
+      },
+      "album": "Karma & Desire",
+      "duration": 250,
+      "isrc": "GBCFB2000429"
+    },
+    {
+      "artist": "Kelly Lee Owens",
+      "title": "On",
+      "services": {
+        "qobuz": "87285533"
+      },
+      "album": "Inner Song",
+      "duration": 357,
+      "isrc": "NOSTS2072020"
+    },
+    {
+      "artist": "Overmono",
+      "title": "So U Kno",
+      "services": {
+        "qobuz": "191290502"
+      },
+      "album": "Good Lies",
+      "duration": 343,
+      "isrc": "UKLTE2100202"
+    },
+    {
+      "artist": "Bicep",
+      "title": "Apricots",
+      "services": {
+        "qobuz": "112281484"
+      },
+      "album": "Isles",
+      "duration": 246,
+      "isrc": "GBCFB2000317"
+    },
+    {
+      "artist": "Loraine James",
+      "title": "Running Like That",
+      "services": {
+        "qobuz": "116130214"
+      },
+      "album": "Reflection",
+      "duration": 259,
+      "isrc": "GBLZC2000112"
+    },
+    {
+      "artist": "Aphex Twin",
+      "title": "Blackbox Life Recorder 21f",
+      "services": {
+        "qobuz": "220474589"
+      },
+      "album": "Blackbox Life Recorder 21f / in a room7 F760",
+      "duration": 266,
+      "isrc": "GBBPW2300061"
+    }
+  ]
+}

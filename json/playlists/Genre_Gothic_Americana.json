@@ -1,0 +1,1009 @@
+{
+  "name": "Genre: Gothic Americana",
+  "services": {
+    "qobuz": "66710133"
+  },
+  "description": "Imported genre playlist: Gothic Americana.",
+  "tracks": [
+    {
+      "artist": "Violent Femmes",
+      "title": "Country Death Song",
+      "services": {
+        "qobuz": "299144875"
+      },
+      "album": "Hallowed Ground",
+      "duration": 301,
+      "isrc": "USC4R2447734"
+    },
+    {
+      "artist": "Steve Earle",
+      "title": "Tom Ames' Prayer",
+      "services": {
+        "qobuz": "2571377"
+      },
+      "album": "Train A Comin'",
+      "duration": 182,
+      "isrc": "USWB19600761"
+    },
+    {
+      "artist": "Jim White",
+      "title": "A Perfect Day To Chase Tornados",
+      "services": {
+        "qobuz": "101626800"
+      },
+      "album": "Wrong-Eyed Jesus!",
+      "duration": 367,
+      "isrc": "USLB10210482"
+    },
+    {
+      "artist": "Gillian Welch",
+      "title": "Caleb Meyer",
+      "services": {
+        "qobuz": "48825013"
+      },
+      "album": "Hell Among The Yearlings",
+      "duration": 181,
+      "isrc": "USAL19800053"
+    },
+    {
+      "artist": "Lucinda Williams",
+      "title": "Drunken Angel",
+      "services": {
+        "qobuz": "781424"
+      },
+      "album": "Car Wheels On A Gravel Road",
+      "duration": 199,
+      "isrc": "USMR19889009"
+    },
+    {
+      "artist": "Bonnie \"Prince\" Billy",
+      "title": "Black",
+      "services": {
+        "qobuz": "49615221"
+      },
+      "album": "I See A Darkness",
+      "duration": 225,
+      "isrc": "GBCEL9900010"
+    },
+    {
+      "artist": "The Black Heart Procession",
+      "title": "The Waiter #5",
+      "services": {
+        "qobuz": "32659317"
+      },
+      "album": "The Spell",
+      "duration": 245,
+      "isrc": "USTG30627108"
+    },
+    {
+      "artist": "Whitney Houston",
+      "title": "Jesus Loves Me / He's Got The Whole World In His Hands",
+      "services": {
+        "qobuz": "44849706"
+      },
+      "album": "I Wish You Love: More From The Bodyguard",
+      "duration": 638,
+      "isrc": "USQX91702214"
+    },
+    {
+      "artist": "Johnny Cash",
+      "title": "Wayfaring Stranger",
+      "services": {
+        "qobuz": "8420788"
+      },
+      "album": "American III: Solitary Man",
+      "duration": 199,
+      "isrc": "USSM10014911"
+    },
+    {
+      "artist": "Lambchop",
+      "title": "The Old Gold Shoe",
+      "services": {
+        "qobuz": "243032549"
+      },
+      "album": "Nixon",
+      "duration": 381,
+      "isrc": "DED620005201"
+    },
+    {
+      "artist": "Slim Cessna's Auto Club",
+      "title": "Hold My Head",
+      "services": {
+        "qobuz": "21484443"
+      },
+      "album": "Always Say Please And Thank You",
+      "duration": 595,
+      "isrc": "QM6QS1400013"
+    },
+    {
+      "artist": "Angels of Light",
+      "title": "Untitled Love Song",
+      "services": {
+        "qobuz": "48068967"
+      },
+      "album": "How I Loved You",
+      "duration": 294,
+      "isrc": "USA3T0400093"
+    },
+    {
+      "artist": "Reverend Glasseye",
+      "title": "50% Murder",
+      "services": {
+        "qobuz": "76758967"
+      },
+      "album": "Black River Falls",
+      "duration": 268,
+      "isrc": "USL4Q0832903"
+    },
+    {
+      "artist": "Snakefarm",
+      "title": "St James",
+      "services": {
+        "qobuz": "50519528"
+      },
+      "album": "Songs From My Funeral",
+      "duration": 206,
+      "isrc": "GBHBR0404427"
+    },
+    {
+      "artist": "16 Horsepower",
+      "title": "Sinnerman",
+      "services": {
+        "qobuz": "54000633"
+      },
+      "album": "Folklore",
+      "duration": 255,
+      "isrc": "DEE350253028"
+    },
+    {
+      "artist": "Neko Case",
+      "title": "Deep Red Bells",
+      "services": {
+        "qobuz": "77639556"
+      },
+      "album": "Blacklisted",
+      "duration": 243,
+      "isrc": "USA360309902"
+    },
+    {
+      "artist": "Geordie",
+      "title": "Dollars Deutsche Marks Silver & Gold",
+      "services": {
+        "qobuz": "145761251"
+      },
+      "album": "No Good Woman",
+      "duration": 166,
+      "isrc": "GBBXS7318019"
+    },
+    {
+      "artist": "Drive-By Truckers",
+      "title": "The Living Bubba",
+      "services": {
+        "qobuz": "72059806"
+      },
+      "album": "Ugly Buildings, Whores and Politicians: Greatest Hits, 1998 - 2009",
+      "duration": 357,
+      "isrc": "US27Q0460684"
+    },
+    {
+      "artist": "Murder By Death",
+      "title": "Intermission",
+      "services": {
+        "qobuz": "368541101"
+      },
+      "album": "Who Will Survive and What Will Be Left of Them",
+      "duration": 74,
+      "isrc": "US5660603105"
+    },
+    {
+      "artist": "Songs: Ohia",
+      "title": "Farewell Transmission",
+      "services": {
+        "qobuz": "57707221"
+      },
+      "album": "Magnolia Electric Co.",
+      "duration": 442,
+      "isrc": "US38W1330001"
+    },
+    {
+      "artist": "The Be Good Tanyas",
+      "title": "Waiting Around To Die",
+      "services": {
+        "qobuz": "145681753"
+      },
+      "album": "Chinatown",
+      "duration": 314,
+      "isrc": "CAN110300015"
+    },
+    {
+      "artist": "The Handsome Family",
+      "title": "Far from Any Road",
+      "services": {
+        "qobuz": "3471768"
+      },
+      "album": "Singing Bones",
+      "duration": 168,
+      "isrc": "GBJCP0900421"
+    },
+    {
+      "artist": "Blanche",
+      "title": "Wayfaring Stranger",
+      "services": {
+        "qobuz": "13079410"
+      },
+      "album": "If We Can't Trust the Doctors",
+      "duration": 172,
+      "isrc": "GBJCP1300781"
+    },
+    {
+      "artist": "Richard Tucker",
+      "title": "Elohai (Oh My God, Before I Was Formed I Had No Worth)",
+      "services": {
+        "qobuz": "49878"
+      },
+      "album": "Kol Nidre Service",
+      "duration": 267,
+      "isrc": "USSM15901431"
+    },
+    {
+      "artist": "Curtis Eller's American Circus",
+      "title": "Taking Up Serpents Again",
+      "services": {
+        "qobuz": "72084833"
+      },
+      "album": "Taking Up Serpents Again",
+      "duration": 220,
+      "isrc": "USHM20536217"
+    },
+    {
+      "artist": "Munly & The Lee Lewis Harlots",
+      "title": "Goose Walking Over My Grave",
+      "services": {
+        "qobuz": "21484768"
+      },
+      "album": "Munly & The Lee Lewis Harlots",
+      "duration": 340,
+      "isrc": "QM6QS1400072"
+    },
+    {
+      "artist": "Alasdair Roberts",
+      "title": "The Cruel Mother",
+      "services": {
+        "qobuz": "48469799"
+      },
+      "album": "No Earthly Man",
+      "duration": 407,
+      "isrc": "US58L0528303"
+    },
+    {
+      "artist": "Helldorado",
+      "title": "Waiting Around to Die",
+      "services": {
+        "qobuz": "197300460"
+      },
+      "album": "The Ballad of Nora Lee",
+      "duration": 218,
+      "isrc": "NOBHG0540120"
+    },
+    {
+      "artist": "Puerto Muerto",
+      "title": "Apple Pie",
+      "services": {
+        "qobuz": "194501792"
+      },
+      "album": "Songs of Muerto County",
+      "duration": 129,
+      "isrc": "GBCKK0509607"
+    },
+    {
+      "artist": "The .357 STring Band",
+      "title": "Hard Times",
+      "services": {
+        "qobuz": "64415910"
+      },
+      "album": "Ghost Town",
+      "duration": 152,
+      "isrc": "USHM20698924"
+    },
+    {
+      "artist": "16 Horsepower",
+      "title": "Strawfoot",
+      "services": {
+        "qobuz": "54000708"
+      },
+      "album": "Secret South",
+      "duration": 210,
+      "isrc": "DEE350053036"
+    },
+    {
+      "artist": "The Broken Circle Breakdown Bluegrass Band",
+      "title": "Wayfaring Stranger",
+      "services": {
+        "qobuz": "7229186"
+      },
+      "album": "The Broken Circle Breakdown / Alabama Monroe (Original Motion Picture Soundtrack)",
+      "duration": 171,
+      "isrc": "BEUM71200342"
+    },
+    {
+      "artist": "Two Gallants",
+      "title": "Las Cruces Jail",
+      "services": {
+        "qobuz": "129156633"
+      },
+      "album": "What The Toll Tells",
+      "duration": 346,
+      "isrc": "US2U60609101"
+    },
+    {
+      "artist": "Wovenhand",
+      "title": "Whistling Girl",
+      "services": {
+        "qobuz": "379167313"
+      },
+      "album": "Mosaic",
+      "duration": 280,
+      "isrc": "USG4M0651605"
+    },
+    {
+      "artist": "Antic Clay",
+      "title": "Decades",
+      "services": {
+        "qobuz": "66678083"
+      },
+      "album": "Hilarious Death Blues",
+      "duration": 334,
+      "isrc": "USCGH0761571"
+    },
+    {
+      "artist": "Christian Williams",
+      "title": "Red",
+      "services": {
+        "qobuz": "70763603"
+      },
+      "album": "Built With Bones",
+      "duration": 176,
+      "isrc": "USX9P0697456"
+    },
+    {
+      "artist": "Dax Riggs",
+      "title": "Say Goodnight to the World",
+      "services": {
+        "qobuz": "19319402"
+      },
+      "album": "Say Goodnight to the World",
+      "duration": 259,
+      "isrc": "USFP71022001"
+    },
+    {
+      "artist": "Damnation Angels",
+      "title": "Pride (The Warrior's Way)",
+      "services": {
+        "qobuz": "39802866"
+      },
+      "album": "Bringer of Light",
+      "duration": 587,
+      "isrc": "DER371380310"
+    },
+    {
+      "artist": "The Builders and the Butchers",
+      "title": "Bringin Home the Rain",
+      "services": {
+        "qobuz": "74770636"
+      },
+      "album": "Where the Roots All Grow",
+      "duration": 423,
+      "isrc": "QMBZ91513295"
+    },
+    {
+      "artist": "Vic Chesnutt",
+      "title": "Marathon",
+      "services": {
+        "qobuz": "49816590"
+      },
+      "album": "North Star Deserter",
+      "duration": 334,
+      "isrc": "CACQ20704611"
+    },
+    {
+      "artist": "Blackbird Raum",
+      "title": "Honey in the Hair",
+      "services": {
+        "qobuz": "67969775"
+      },
+      "album": "Swidden",
+      "duration": 201,
+      "isrc": "USHM91047784"
+    },
+    {
+      "artist": "Elliott BROOD",
+      "title": "The Spring Floods (Interlude)",
+      "services": {
+        "qobuz": "52067037"
+      },
+      "album": "Mountain Meadows",
+      "duration": 32,
+      "isrc": "CASB10804110"
+    },
+    {
+      "artist": "Ghoultown",
+      "title": "Drink with the Living Dead",
+      "services": {
+        "qobuz": "76632393"
+      },
+      "album": "Life After Sundown",
+      "duration": 371,
+      "isrc": "USCGJ1773496"
+    },
+    {
+      "artist": "Dumbfoundead",
+      "title": "K-town Voicemails (feat. Danny Cho)",
+      "services": {
+        "qobuz": "314247235"
+      },
+      "album": "Old Boy Jon",
+      "duration": 107,
+      "isrc": "TCACJ1519969"
+    },
+    {
+      "artist": "Pinebox Serenade",
+      "title": "The Lash",
+      "services": {
+        "qobuz": "74663804"
+      },
+      "album": "Let the River Take Them Home",
+      "duration": 157,
+      "isrc": "USHM91962040"
+    },
+    {
+      "artist": "The Dad Horse Experience",
+      "title": "Reach Out Your Hand",
+      "services": {
+        "qobuz": "55060288"
+      },
+      "album": "Too Close To Heaven",
+      "duration": 420,
+      "isrc": "DEC830801666"
+    },
+    {
+      "artist": "The Felice Brothers",
+      "title": "Frankie's Gun!",
+      "services": {
+        "qobuz": "129112201"
+      },
+      "album": "The Felice Brothers",
+      "duration": 246,
+      "isrc": "US58B0802703"
+    },
+    {
+      "artist": "The Spanish Donkey",
+      "title": "Mid-Evil",
+      "services": {
+        "qobuz": "48682007"
+      },
+      "album": "XYX",
+      "duration": 2256,
+      "isrc": "USWEX1000059"
+    },
+    {
+      "artist": "The Steeldrivers",
+      "title": "If It Hadn't Been For Love",
+      "services": {
+        "qobuz": "66453328"
+      },
+      "album": "The SteelDrivers",
+      "duration": 238,
+      "isrc": "USRO20759806"
+    },
+    {
+      "artist": "Those Poor Bastards",
+      "title": "This World Is Evil",
+      "services": {
+        "qobuz": "95475021"
+      },
+      "album": "Satan is Watching",
+      "duration": 200,
+      "isrc": "USHM90833510"
+    },
+    {
+      "artist": "Uncle Sinner",
+      "title": "When Jesus Comes",
+      "services": {
+        "qobuz": "53936770"
+      },
+      "album": "Ballads and Mental Breakdowns",
+      "duration": 174,
+      "isrc": "QM6N21856023"
+    },
+    {
+      "artist": "Danger Mouse",
+      "title": "Grim Augury (feat. Vic Chesnutt)",
+      "services": {
+        "qobuz": "2189454"
+      },
+      "album": "Dark Night of The Soul",
+      "duration": 151,
+      "isrc": "GBAYE1000513"
+    },
+    {
+      "artist": "Dead Man's Bones",
+      "title": "In The Room Where You Sleep",
+      "services": {
+        "qobuz": "77659164"
+      },
+      "album": "Dead Man's Bones",
+      "duration": 236,
+      "isrc": "USEP40921007"
+    },
+    {
+      "artist": "Alva",
+      "title": "i don't know why i still try",
+      "services": {
+        "qobuz": "365827342"
+      },
+      "album": "i don't know why i still try",
+      "duration": 74,
+      "isrc": "QZZ8B2557243"
+    },
+    {
+      "artist": "Highlonesome",
+      "title": "Sinners Soul",
+      "services": {
+        "qobuz": "77778690"
+      },
+      "album": "In Life We Can't Be Free",
+      "duration": 146,
+      "isrc": "USX9P0939530"
+    },
+    {
+      "artist": "Ryan Bingham",
+      "title": "The Weary Kind",
+      "services": {
+        "qobuz": "2310952"
+      },
+      "album": "Junky Star",
+      "duration": 258,
+      "isrc": "USUM71014564"
+    },
+    {
+      "artist": "The Avett Brothers",
+      "title": "Murder in the City",
+      "services": {
+        "qobuz": "91155509"
+      },
+      "album": "The Second Gleam",
+      "duration": 194,
+      "isrc": "US4BW0800205"
+    },
+    {
+      "artist": "The Golden Grass",
+      "title": "Stuck on a Mountain",
+      "services": {
+        "qobuz": "85579597"
+      },
+      "album": "The Golden Grass",
+      "duration": 420,
+      "isrc": "DEZ651337838"
+    },
+    {
+      "artist": "Timber Timbre",
+      "title": "Demon Host",
+      "services": {
+        "qobuz": "299241709"
+      },
+      "album": "Timber Timbre",
+      "duration": 217,
+      "isrc": "CASA70919286"
+    },
+    {
+      "artist": "American Sinner",
+      "title": "Henry Lee",
+      "services": {
+        "qobuz": "66272773"
+      },
+      "album": "Jos\u00e9 Arcadio Is Dead",
+      "duration": 237,
+      "isrc": "USHM81404363"
+    },
+    {
+      "artist": "Karen Elson",
+      "title": "The Ghost Who Walks",
+      "services": {
+        "qobuz": "2484110"
+      },
+      "album": "The Ghost Who Walks",
+      "duration": 182,
+      "isrc": "GBBKS1000025"
+    },
+    {
+      "artist": "Last False Hope",
+      "title": "Giving Up God For Lent",
+      "services": {
+        "qobuz": "81859333"
+      },
+      "album": "The Shape of Bluegrass to Come",
+      "duration": 168,
+      "isrc": "USCGH1158358"
+    },
+    {
+      "artist": "Lonesome Wyatt and the Holy Spooks",
+      "title": "The Sideshow is Coming!",
+      "services": {
+        "qobuz": "82625656"
+      },
+      "album": "Moldy Basement Tapes",
+      "duration": 261,
+      "isrc": "USHM91040570"
+    },
+    {
+      "artist": "Munly & The Lupercalians",
+      "title": "Grandfater",
+      "services": {
+        "qobuz": "21484447"
+      },
+      "album": "Munly & The Lupercalians",
+      "duration": 337,
+      "isrc": "QM6QS1400082"
+    },
+    {
+      "artist": "Fat White Family",
+      "title": "Feed The Horse",
+      "services": {
+        "qobuz": "249577392"
+      },
+      "album": "Forgiveness Is Yours",
+      "duration": 311,
+      "isrc": "GBCEL2303391"
+    },
+    {
+      "artist": "Choir of King's College, Cambridge",
+      "title": "The Light of Life, Op. 29: Light of the World",
+      "services": {
+        "qobuz": "148716692"
+      },
+      "album": "Now the Green Blade Riseth: Choral Music for Easter",
+      "duration": 303,
+      "isrc": "GBMY52206516"
+    },
+    {
+      "artist": "The Cranberries",
+      "title": "When You're Gone",
+      "services": {
+        "qobuz": "46507172"
+      },
+      "album": "To The Faithful Departed",
+      "duration": 295,
+      "isrc": "USIR29600117"
+    },
+    {
+      "artist": "Rob Coffinshaker",
+      "title": "In the Pines",
+      "services": {
+        "qobuz": "204358315"
+      },
+      "album": "Dark Rollin' Skies EP",
+      "duration": 186,
+      "isrc": "SEYOK1119311"
+    },
+    {
+      "artist": "Z-Lous",
+      "title": "African Contemporary Praise Medley: Our God Is Greater / My Redeemer / I Love You Lord / The Name of the Lord / Blessed Be the Name / Sing for Joy / Arise / Gonna Be Alright / Lord of Lords / He's Alive / Great I Am / Your Grace / Carry Me Dey Go / Chinek",
+      "services": {
+        "qobuz": "139495290"
+      },
+      "album": "Declarations",
+      "duration": 561,
+      "isrc": "USL4R2114801"
+    },
+    {
+      "artist": "The Brothers Bright",
+      "title": "Blood on My Name",
+      "services": {
+        "qobuz": "188587132"
+      },
+      "album": "A Song Treasury",
+      "duration": 260,
+      "isrc": "TCABD1245094"
+    },
+    {
+      "artist": "The Civil Wars",
+      "title": "Dance Me to the End of Love",
+      "services": {
+        "qobuz": "5039388"
+      },
+      "album": "Barton Hollow",
+      "duration": 184,
+      "isrc": "USW5Q1100014"
+    },
+    {
+      "artist": "The Goddamn Gallows",
+      "title": "Y'all Motherfuckers Need Jesus",
+      "services": {
+        "qobuz": "91586378"
+      },
+      "album": "7 Devils",
+      "duration": 215,
+      "isrc": "USHM81627942"
+    },
+    {
+      "artist": "Caster",
+      "title": "Rise Of The Beast",
+      "services": {
+        "qobuz": "122108480"
+      },
+      "album": "Sinner's Sanctum",
+      "duration": 210,
+      "isrc": "QZHCR2100126"
+    },
+    {
+      "artist": "Mark Lanegan",
+      "title": "The Gravedigger's Song",
+      "services": {
+        "qobuz": "34264590"
+      },
+      "album": "Blues Funeral",
+      "duration": 223,
+      "isrc": "GBAFL1100281"
+    },
+    {
+      "artist": "Shawn James",
+      "title": "Through the Valley",
+      "services": {
+        "qobuz": "126388761"
+      },
+      "album": "Shadows",
+      "duration": 220,
+      "isrc": "USHM81263726"
+    },
+    {
+      "artist": "Shovels & Rope",
+      "title": "Birmingham",
+      "services": {
+        "qobuz": "267082574"
+      },
+      "album": "O' Be Joyful",
+      "duration": 240,
+      "isrc": "USDMG1261901"
+    },
+    {
+      "artist": "Otto Klemperer",
+      "title": "Symphony No. 9 in D Minor, Op. 125 \"Choral\": IV. (a) Presto - Allegro assai",
+      "services": {
+        "qobuz": "318721898"
+      },
+      "album": "Wagner Ride of the Valkyries - Mozart, Beethoven, Bach, Mendelssohn",
+      "duration": 391,
+      "isrc": "GBAYC2203070"
+    },
+    {
+      "artist": "The Outlaws",
+      "title": "Knoxville Girl",
+      "services": {
+        "qobuz": "226157"
+      },
+      "album": "The Outlaws",
+      "duration": 212,
+      "isrc": "USAR17500208"
+    },
+    {
+      "artist": "Carrie Nation & the Speakeasy",
+      "title": "Obis",
+      "services": {
+        "qobuz": "69803084"
+      },
+      "album": "Hatchetations",
+      "duration": 162,
+      "isrc": "USHM81358260"
+    },
+    {
+      "artist": "Graveyard Train",
+      "title": "Ballad For Beelzebub",
+      "services": {
+        "qobuz": "276555772"
+      },
+      "album": "The Serpent And The Crow",
+      "duration": 237,
+      "isrc": "DEVF42202148"
+    },
+    {
+      "artist": "The .357 STring Band",
+      "title": "Up Jump the Devil",
+      "services": {
+        "qobuz": "64415905"
+      },
+      "album": "Ghost Town",
+      "duration": 145,
+      "isrc": "USHM20698919"
+    },
+    {
+      "artist": "The Shortwave Set",
+      "title": "Better Than Bad",
+      "services": {
+        "qobuz": "314245202"
+      },
+      "album": "The Debt Collection",
+      "duration": 130,
+      "isrc": "GBBPF0401249"
+    },
+    {
+      "artist": "Reverend Hardy Hardon and The Church Of Elvis",
+      "title": "Suspicious Minds",
+      "services": {
+        "qobuz": "307259658"
+      },
+      "album": "Kong of Rock'n Roll",
+      "duration": 195,
+      "isrc": "DEKG92400359"
+    },
+    {
+      "artist": "Sons Of Kemet",
+      "title": "My Queen Is Nanny Of The Maroons",
+      "services": {
+        "qobuz": "47215701"
+      },
+      "album": "Your Queen Is A Reptile",
+      "duration": 403,
+      "isrc": "USUM71714089"
+    },
+    {
+      "artist": "Josephine Foster",
+      "title": "The Spider Holds a Silver Ball",
+      "services": {
+        "qobuz": "194274271"
+      },
+      "album": "Graphic as a Star",
+      "duration": 162,
+      "isrc": "GBCKK0913625"
+    },
+    {
+      "artist": "The White Buffalo",
+      "title": "The Whistler",
+      "services": {
+        "qobuz": "223119060"
+      },
+      "album": "The Whistler",
+      "duration": 206,
+      "isrc": "US6KF1200200"
+    },
+    {
+      "artist": "The Bones of J.R. Jones",
+      "title": "The Devil",
+      "services": {
+        "qobuz": "357713451"
+      },
+      "album": "Radio Waves (Deluxe)",
+      "duration": 200,
+      "isrc": "TCAJH2568520"
+    },
+    {
+      "artist": "Brown Bird",
+      "title": "Avalon",
+      "services": {
+        "qobuz": "24063750"
+      },
+      "album": "Axis Mundi",
+      "duration": 45,
+      "isrc": "USQNL1500016"
+    },
+    {
+      "artist": "MGMT",
+      "title": "Kids",
+      "services": {
+        "qobuz": "16632"
+      },
+      "album": "Oracular Spectacular",
+      "duration": 302,
+      "isrc": "USSM10702135"
+    },
+    {
+      "artist": "Reverend Elvis & The Undead Syncopators",
+      "title": "People Hate Blues",
+      "services": {
+        "qobuz": "124276763"
+      },
+      "album": "Yells from the Crypt",
+      "duration": 224,
+      "isrc": "USCGH0569564"
+    },
+    {
+      "artist": "Michael Jackson",
+      "title": "Immortal Megamix: Can You Feel It / Don't Stop 'Til You Get Enough / Billie Jean/Black or White",
+      "services": {
+        "qobuz": "4554152"
+      },
+      "album": "Immortal",
+      "duration": 548,
+      "isrc": "USSM11105976"
+    },
+    {
+      "artist": "The Dead South",
+      "title": "In Hell I'll Be in Good Company",
+      "services": {
+        "qobuz": "80159884"
+      },
+      "album": "Good Company",
+      "duration": 245,
+      "isrc": "CACA11404804"
+    },
+    {
+      "artist": "The Devil Makes Three",
+      "title": "The Angel of Death",
+      "services": {
+        "qobuz": "264752066"
+      },
+      "album": "Redemption & Ruin",
+      "duration": 216,
+      "isrc": "US27Q1635512"
+    },
+    {
+      "artist": "Me And That Man",
+      "title": "My Church Is Black",
+      "services": {
+        "qobuz": "318823353"
+      },
+      "album": "Songs of Love and Death",
+      "duration": 178,
+      "isrc": "GBCEJ1600996"
+    },
+    {
+      "artist": "Federale",
+      "title": "Sarcophagus",
+      "services": {
+        "qobuz": "74781576"
+      },
+      "album": "The Blood Flowed Like Wine",
+      "duration": 514,
+      "isrc": "USLN71201408"
+    },
+    {
+      "artist": "Colter Wall",
+      "title": "Rocky Mountain Rangers",
+      "services": {
+        "qobuz": "224257021"
+      },
+      "album": "Western Swing & Waltzes and Other Punchy Songs",
+      "duration": 128,
+      "isrc": "QZLGF2000010"
+    },
+    {
+      "artist": "Lera Lynn",
+      "title": "What I'm Looking For",
+      "services": {
+        "qobuz": "427957840"
+      },
+      "album": "On My Own",
+      "duration": 199,
+      "isrc": "QMF7F2000002"
+    },
+    {
+      "artist": "Orville Peck",
+      "title": "No Glory in the West",
+      "services": {
+        "qobuz": "99568725"
+      },
+      "album": "Show Pony",
+      "duration": 253,
+      "isrc": "USSM12001425"
+    },
+    {
+      "artist": "Amigo The Devil",
+      "title": "Murder at the Bingo Hall",
+      "services": {
+        "qobuz": "115325564"
+      },
+      "album": "Murder at the Bingo Hall",
+      "duration": 201,
+      "isrc": "USA2P1951150"
+    },
+    {
+      "artist": "The Bridge City Sinners",
+      "title": "Unholy Hymns",
+      "services": {
+        "qobuz": "135772632"
+      },
+      "album": "Unholy Hymns",
+      "duration": 240,
+      "isrc": "QZHN62127251"
+    }
+  ]
+}

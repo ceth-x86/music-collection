@@ -1,0 +1,108 @@
+# Genre: Eclectic Prog
+
+Imported genre playlist: Eclectic Prog.
+
+Services: `qobuz:66737699`
+
+## Tracks (100)
+
+- **King Crimson** — 21st Century Schizoid Man [Radical Action To Unseat the Hold of Monkey Mind (Live)] (10:57) `isrc:GBCTX1600644` `qobuz:41000578`
+- **Gentle Giant** — Knots [Octopus] (4:12) `isrc:GB5XG1400033` `qobuz:38506524`
+- **Van Der Graaf Generator** — A Plague Of Lighthouse Keepers (Medley) [Pawn Hearts] (23:11) `isrc:GBAAA0500207` `qobuz:4634901`
+- **Peter Hammill** — A Louse Is Not A Home [The Silent Corner And The Empty Stage] (12:31) `isrc:GBAAA0600439` `qobuz:824558`
+- **U.K.** — In The Dead Of Night [U.K.] (5:34) `isrc:GBAAA7800369` `qobuz:1951352`
+- **Robert Fripp** — Exposure [Exposure] (4:26) `isrc:GBCTX1800883` `qobuz:75829459`
+- **Steve Hackett** — Spectral Mornings [Spectral Mornings] (6:37) `isrc:GBAAA0500583` `qobuz:807458`
+- **Traffic** — The Low Spark Of High-Heeled Boys [The Low Spark Of High Heeled Boys] (11:37) `isrc:GBAAN7100022` `qobuz:777423`
+- **Family** — The Weaver’s Answer [Family Entertainment] (4:56) `isrc:GBTCL1204815` `qobuz:263501836`
+- **Procol Harum** — In Held 'Twas In I: a) Glimpses of Nirvana [Shine On Brightly] (4:26) `isrc:GBBWX0800630` `qobuz:206052422`
+- **Strawbs** — Hero And Heroine [Hero And Heroine] (3:29) `isrc:USAM17402211` `qobuz:3881687`
+- **Curved Air** — Vivaldi [Air Conditioning] (7:30) `isrc:USWB10501066` `qobuz:295169410`
+- **Gnidrolog** — I Could Never Be A Soldier [Lady Lake] (11:34) `isrc:GBARL7200049` `qobuz:5699220`
+- **Rare Bird** — Epic Forest [Epic Forest] (9:13) `isrc:DESK91894704` `qobuz:49615922`
+- **Gryphon** — The Unquiet Grave [Gryphon] (5:48) `isrc:GBAJE7300576` `qobuz:388084844`
+- **Horslips** — Dearg Doom [The Táin] (3:06) `isrc:IEASC0600019` `qobuz:146465300`
+- **Sky** — Toccata [Sky 2] (4:42) `isrc:GBBLY1404163` `qobuz:90533119`
+- **Manfred Mann's Earth Band** — Saturn, Lord of the Ring / Mercury, the Winged Messenger [Solar Fire] (6:31) `isrc:GBBXM7310014` `qobuz:169915917`
+- **Queen** — The Prophet's Song [A Night At The Opera] (8:20) `isrc:GBUM71100539` `qobuz:427253000`
+- **10cc** — Une Nuit A Paris (Part 1) / The Same Night In Paris (Part 2) / Later The Same Night In Paris (Part 3) [The Original Soundtrack] (8:41) `isrc:GBF087500040` `qobuz:767755`
+- **Alquin** — The Dance [The Mountain Queen] (12:59) `isrc:NLA317300250` `qobuz:13269883`
+- **Frumpy** — How The Gipsy Was Born [Best Of Frumpy] (8:50) `isrc:DEF077102330` `qobuz:2464637`
+- **Czesław Niemen** — Bema pamięci żałobny rapsod [Enigmatic] (16:27) `isrc:PLA241400253` `qobuz:58975026`
+- **Marek Grechuta** — Korowód [Marek Grechuta - 40 piosenek] (9:57) `isrc:PLA247114838` `qobuz:45251121`
+- **Skaldowie** — Krywaniu, Krywaniu [Krywań, Krywań] (17:43) `isrc:PLA551900469` `qobuz:64812596`
+- **SBB** — Memento z banalnym tryptykiem [Memento z banalnym tryptykiem] (20:53) `isrc:PLA248024523` `qobuz:83157352`
+- **Czech Philharmonic, Václav Neumann** — The Prague Carnival. Introduction and Polonaise (1883), . [Česká filharmonie hraje a hovoří - Smetana: Pražský karneval - Suk: Pohádka - Beethoven: Egmont] (6:14) `isrc:CZA167900326` `qobuz:50592207`
+- **Goblin** — Profondo Rosso [Profondo rosso] (3:46) `isrc:USHM82097662` `qobuz:334058258`
+- **Alberto Nemo** — I barbari [Fat(u)o] (3:56) `isrc:ITR891900039` `qobuz:59693215`
+- **Lazuli** — Sol [Le fantastique envol de Dieter Böhm] (4:28) `isrc:FRY852000001` `qobuz:87746711`
+- **Ciccada** — The Finest of Miracles: 2(Wandering) [The Finest of Miracles] (6:42) `isrc:USCGH1580269` `qobuz:70886270`
+- **Gevende** — Vigeland [Sen Balık Değilsin ki] (6:12) `isrc:TR9121000023` `qobuz:77341541`
+- **Keor** — Petrichor [Petrichor] (11:28) `isrc:USL4Q1855098` `qobuz:88009488`
+- **iNFiNiEN** — Beyond the Veil [Beyond the Veil] (6:56) `isrc:QMPK42000070` `qobuz:192168577`
+- **Natanya** — Meeting You Once (The End) [Feline's Return Act II] (2:17) `isrc:QMFME2500128` `qobuz:354083441`
+- **Beardfish** — Sleeping In Traffic [Sleeping In Traffic: Pt. 2] (35:44) `isrc:GBDHC0943307` `qobuz:27807180`
+- **Motorpsycho** — The Hollow Lands [The Death Defying Unicorn] (7:36) `isrc:NOFGR1224020` `qobuz:222750256`
+- **Anekdoten** — Karelia [Vemod] (7:21) `isrc:SEVWG9300101` `qobuz:66565398`
+- **Fromuz** — Lot [Sodom and Gomorrah] (4:53) `isrc:DGA062002425` `qobuz:109184460`
+- **Fromuz** — Stone Salad [Overlook] (15:17) `isrc:DGA052040452` `qobuz:107720436`
+- **Utopia** — The Ikon [Todd Rundgren's Utopia] (30:25) `isrc:USRH10553073` `qobuz:2940541`
+- **Rush** — Xanadu [A Farewell To Kings] (11:12) `isrc:USMR17780106` `qobuz:23677921`
+- **Captain Beyond** — Dancing Madly Backwards (On A Sea Of Air) [Captain Beyond] (4:02) `isrc:USPR37280223` `qobuz:54297710`
+- **Happy The Man** — Service with a Smile [Crafty Hands] (2:43) `isrc:QT4YL7800201` `qobuz:339110914`
+- **Pavlov's Dog** — Julia [Pampered Menial] (3:09) `isrc:USSM17500477` `qobuz:365704335`
+- **Klaatu** — Hope [Hope] (4:44) `isrc:USCA20700476` `qobuz:34108669`
+- **Saga** — On The Loose [Worlds Apart] (4:12) `isrc:DEF068713340` `qobuz:13321482`
+- **Yezda Urfa** — Boris and His Three Verses [Sacred Baboon] (2:51) `isrc:USCGJ1491258` `qobuz:100654033`
+- **Bübü** — El Cortejo de un Día Amarillo: Danza de las Atlántides / Locomotora Blues [Anabelas] (19:24) `isrc:QM6P41833228` `qobuz:56826018`
+- **Invisible** — El Anillo del Capitán Beto [El Jardin de los Presentes] (5:06) `isrc:ARF109902267` `qobuz:47371170`
+- **La Maquina De Hacer Pájaros** — Hipercandombe [Peliculas] (4:30) `isrc:ARF100300043` `qobuz:249816`
+- **Birds and Buildings** — Birds Flying Into Buildings [Bantam to Behemoth] (9:12) `isrc:USY280712777` `qobuz:67886968`
+- **Days Between Stations** — No Cause for Alarm [In Extremis] (3:51) `isrc:QMJA71300001` `qobuz:312651195`
+- **Edensong** — The Illusion of Permanence [Our Road to Dust] (6:10) `isrc:USET72508302` `qobuz:319704883`
+- **Pandora Snail** — Dance Under the Bullets [War and Peace] (3:10) `isrc:FR2X41804621` `qobuz:48429629`
+- **Mahogany Frog** — Houndstooth, Pt. 1 [Senna] (4:03) `isrc:USHM81270763` `qobuz:82776712`
+- **Lindsey Stirling** — Beyond the Veil [Shatter Me (Deluxe)] (4:14) `isrc:QMF921450105` `qobuz:357997839`
+- **Bent Knee** — Being Human [Shiny Eyed Babies] (6:28) `isrc:USHM21491636` `qobuz:67597231`
+- **Coheed and Cambria** — The Willing Well IV: The Final Cut [Good Apollo I'm Burning Star IV Volume One:  From Fear Through The Eyes Of Madness] (7:40) `isrc:USSM10504120` `qobuz:13065874`
+- **The Mars Volta** — L'Via L'Viaquez [L'Via L'Viaquez] (4:27) `isrc:USUR10500364` `qobuz:9041167`
+- **Henry Jackman** — King Kong [Kong: Skull Island (Original Motion Picture Soundtrack)] (2:42) `isrc:USNLR1700237` `qobuz:59952455`
+- **East Of Eden** — Have the Whack It Up [Snafu] (2:19) `isrc:DESK97090701` `qobuz:131604977`
+- **Circus** — Movin'on [MOVIN' ON (Remastered 2021)] (22:29) `isrc:QZDA62200073` `qobuz:147731632`
+- **Khun Narin** — Oen Ai Nae Doe Yam Thoe Mi Haeng [III] (2:26) `isrc:USD8D2631004` `qobuz:397681820`
+- **Quarteto 1111** — Onde quando como porquê cantamos pessoas vivas (1ª parte) [Onde Quando Como Porquê Cantamos Pessoas Vivas] (16:43) `isrc:PTVC17500047` `qobuz:47446274`
+- **Culpeper's Orchard** — Mountain Music (Part 1) [Culpeper’s Orchard] (6:24) `isrc:DKUM70500145` `qobuz:74439025`
+- **Lara Fabian** — Saisir Le Jour [Carpe Diem] (4:09) `isrc:GBXT91410161` `qobuz:128619371`
+- **The Isley Brothers** — This Old Heart Of Mine (Is Weak For You) [This Old Heart Of Mine] (2:52) `isrc:USMO16600488` `qobuz:30426312`
+- **Atomic Rooster** — Death Walks Behind You [The First 10 Explosive Years] (7:20) `isrc:GBHMX0203810` `qobuz:209353510`
+- **Aphrodite's Child** — The Four Horsemen [666] (5:53) `isrc:NLF057190036` `qobuz:630342`
+- **Comus** — Drip Drip [First Utterance] (10:51) `isrc:GBAJE0502701` `qobuz:385627244`
+- **The Alan Parsons Project** — The Fall Of The House Of Usher: Fall [Tales Of Mystery And Imagination - Edgar Allan Poe] (0:51) `isrc:USIR20200407` `qobuz:53111793`
+- **Supertramp** — Crime Of The Century [Crime Of The Century [2014 - HD Remaster]] (5:32) `isrc:USUM71022446` `qobuz:20750960`
+- **Styx** — Suite Madame Blue [Greatest Hits] (6:31) `isrc:USAM17500369` `qobuz:4373319`
+- **Jethro Tull** — Thick as a Brick (Edit #1) [2001 Remaster] [The Very Best of Jethro Tull] (3:02) `isrc:GBAYK0100052` `qobuz:1003473`
+- **Djam Karet** — Prince of the Inland Empire [Regenerator 3017] (5:34) `isrc:USCGH1486045` `qobuz:73390430`
+- **Analog Shift Register** — Lizard Eyes [Lizard Eyes] (3:47) `isrc:QT6EF2624058` `qobuz:431007695`
+- **Guy J** — Diagonal [MDQ / Diagonal] (8:16) `isrc:BEN581600552` `qobuz:206282837`
+- **Ske** — Fraguglie [1001 Autunni] (6:05) `isrc:CH6541841866` `qobuz:51607186`
+- **Yel** — Nil Novi Sub Sole [Intimes illusions] (3:49) `isrc:BEW020300001` `qobuz:96382832`
+- **The Tangent** — Prelude - Time for You [The Music That Died Alone] (2:28) `isrc:GBDHC0925301` `qobuz:27678289`
+- **Seven Impale** — Oh, My Gravity! [City of the Sun] (9:49) `isrc:NOKAR1401010` `qobuz:197711156`
+- **Marsupilami** — Prelude To The Arena [Arena] (5:21) `isrc:GBAJE0401722` `qobuz:375960871`
+- **Shamblemaths** — Måneskygge [Shamblemaths II] (1:04) `isrc:NOL862108010` `qobuz:129314644`
+- **Judas Priest** — Breaking the Law [British Steel] (2:33) `isrc:GBBBN8000007` `qobuz:100981`
+- **Omar Rodriguez Lopez** — Desarraigo [Xenophanes] (5:54) `isrc:DELK22100275` `qobuz:121803393`
+- **Critical Role** — The Adventure Begins... [Welcome to Tal'Dorei (Critical Role Soundtrack)] (3:09) `isrc:QZSE22100002` `qobuz:160999694`
+- **The Weeknd** — Nothing Is Lost (You Give Me Strength) [Avatar: The Way of Water] (4:26) `isrc:USUG12209251` `qobuz:190342191`
+- **Maxwell Farrington & Le SuperHomard** — Plat Du Jour [Please, Wait...] (4:08) `isrc:FR59Y2313003` `qobuz:236512727`
+- **Laura Pausini** — It's Not Good-Bye [From the Inside] (4:38) `isrc:ITR000200107` `qobuz:11722390`
+- **Major Parkinson** — Skeleton Sangria [Twilight Cinema] (2:49) `isrc:NO2MD1401010` `qobuz:197135729`
+- **Lalle Larsson** — Weaveworld [Weaveworld] (14:46) `isrc:SEYWW0900205` `qobuz:196714129`
+- **Soul Enema** — Aral Sea III: Epilogue (feat. Sergey Kalugin) [Of Clans and Clones and Clowns] (6:25) `isrc:USDY41757643` `qobuz:107202695`
+- **156/Silence** — The Rodents Race [Narrative] (3:29) `isrc:DED832200165` `qobuz:158924446`
+- **Thieves' Kitchen** — The Water Road [The Water Road] (11:13) `isrc:USCGH0844335` `qobuz:92870110`
+- **Stick Men** — Prog Noir [Prog Noir] (5:37) `isrc:DEGP31601133` `qobuz:35459855`
+- **Don Was** — Midnight Marauders [Groove In The Face Of Adversity] (4:03) `isrc:USMAR2523801` `qobuz:352600864`
+- **Brighteye Brison** — Pointless Living [Believers & Deceivers] (5:13) `isrc:NOX9X3772301` `qobuz:258709804`
+- **The Gourishankar** — Autumn Frost (Bonus Track) [Close Grip] (10:26) `isrc:FR2X41805347` `qobuz:48429661`
+- **Nightwish** — The Greatest Show on Earth [Decades] (23:59) `isrc:DED831701897` `qobuz:60813966`

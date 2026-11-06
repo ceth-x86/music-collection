@@ -1,0 +1,108 @@
+# Genre: Screamo
+
+Imported genre playlist: Screamo.
+
+Services: `qobuz:66736658` `tidal:b695d215-ba75-4703-abdc-232fc6e02e75`
+
+## Tracks (100)
+
+- **Heroin** — Head Cold [Discography] (3:16) `isrc:USZPA0902115` `qobuz:221090572`
+- **Mohinder** — To Satisfy [O Nation, You Bleed From Many Wounds, 1896] (2:05) `isrc:US27Y0403401` `qobuz:99794089`
+- **Julia...** — Song In A [Julia...] (2:22) `isrc:QZFYX2462037` `qobuz:246089193`
+- **Antioch Arrow** — Angel's Lawn [In Love With Jetts] (1:20) `isrc:USTC00958255` `qobuz:352635950`
+- **Swing Kids** — Disease [Discography] (2:43) `isrc:USV351317378` `qobuz:63330087`
+- **Portraits of Past** — Bang Yer Head [Portraits of Past] (7:21) `isrc:USCGJ2520094` `qobuz:317158062`
+- **Angel Hair** — Witch Hunt Scene from Star Trek [Insect Immortality] (1:59) `isrc:USTC00947449` `qobuz:236623982`
+- **Saetia** — Venus and Bacchus [Collected] (3:19) `isrc:QMFMF1545233` `qobuz:44882376`
+- **Reversal Of Man** — January Twenty Second [This Is Medicine] (1:22) `isrc:USQY51709154` `qobuz:389879050`
+- **You and I** — Tell Me About Your Childhood (Remastered 2020) [Complete] (3:38) `isrc:TCAJX2524975` `qobuz:369825810`
+- **Love Lost But Not Forgotten** — Loathing [Love Lost but Not Forgotten] (2:43) `isrc:QM4TX1562387` `qobuz:79148594`
+- **Cat Stevens** — Father And Son [On The Road To Findout: Greatest Hits] (3:40) `isrc:GBUM71905972` `qobuz:350553526`
+- **Jeromes Dream** — It's More Like a Message to You [Completed] (3:30) `isrc:QM4DW1881506` `qobuz:79861862`
+- **Pageninetynine** — In Love with an Apparition [Document 10] (3:40) `isrc:QM6N21706859` `qobuz:75385790`
+- **City of Caterpillar** — A Little Change Could Go a Long Ways [City of Caterpillar] (9:38) `isrc:QM6N21409790` `qobuz:79134588`
+- **envy** — A Will Remains in the Ashes [A Dead Sinking Story] (12:44) `isrc:JPS801835758` `qobuz:99477920`
+- **Circle Takes the Square** — Interview at the Ruins [As the Roots Undo] (5:09) `isrc:USBE71910005` `qobuz:65332195`
+- **TigerShot JazzWorks** — Coffee Notes Rain [Bold Roast Jazz Grooves] (2:41) `isrc:TCJPI2549487` `qobuz:339889486`
+- **La quiete** — La fine non è la fine [La fine non è la fine] (4:26) `isrc:QZTAT2424653` `qobuz:327827224`
+- **Golden Hour Worship** — Kora Dawn [Southern Gospel Blues, Vol. 27] (3:26) `isrc:QT6EV2671727` `qobuz:432800142`
+- **Funeral Diner** — What Was Said [The Underdark] (3:20) `isrc:TCAEM1973518` `qobuz:125536411`
+- **Franck Pourcel** — Les Diamants sont éternels [Vivre et laisser mourir (Live and Let Die)] (3:28) `isrc:FRZ111200690` `qobuz:6257276`
+- **Dream, Ivory** — Nancy's Knife [When You Come Back I Have So Much To Tell You] (3:09) `isrc:QM6MZ2511162` `qobuz:328323268`
+- **Chapel Choir of the Royal Hospital Chelsea** — No. 498, Gird on Thy Sword, H. 168 "Chilswell" [I Vow to Thee, My Country] (2:19) `isrc:GBBZS2227902` `qobuz:309825418`
+- **The Porter's Gate** — GUARDIAN (Psalm 121) (feat. Page CXVI & Leslie Jordan) [Message Songs] (3:09) `isrc:QZGXC2400351` `qobuz:429871685`
+- **Voices Of The Ocean** — Coastal Route [Coastal Route] (3:15) `isrc:SE66H2300671` `qobuz:215530709`
+- **Matthew C. Whitaker** — A Portrait of the Artist as an Old Man [Songs for the Weary] (4:38) `isrc:GBER72500079` `qobuz:358114899`
+- **IAmNotARobot** — Its So Much Better When I Listen To You [O'Hare By The Morning] (2:26) `isrc:QT4K42561276` `qobuz:355559578`
+- **The Bird and the Bee** — Fucking Boyfriend [Forgetting Sarah Marshall Original Motion Picture Soundtrack] (3:13) `isrc:USBN20600375` `qobuz:742261`
+- **Lost At Sea** — I would be a doctor I say fruit a dog patience Dewsbury eats with his mother. He lives in a big house. I want to have a dog for now opportunity Pizza at work you make me happy [What is codol sqdduirrel I think his grades are bad Oh! what is sqdduirrel kodal I'm sure his nuts aren't that big he is amazing Oh my god I don't like his nut big hugdde hopdde I hope they are not red dear god: How wonderful Its seeds are not large Wow!] (2:08) `isrc:QZNWU2428933` `qobuz:271302237`
+- **We Came Out Like Tigers** — Do Not Say Reduced To Tears [True Love, Always] (2:21) `isrc:GBSMU9479268` `qobuz:119869568`
+- **NESecito** — Eyes Turned Towards Heaven [Living Water ("An Instrumental Worship Album") [Extended Version]] (23:47) `isrc:QT6632510293` `qobuz:366167787`
+- **Otis Clay** — When Hearts Grow Cold [In the House] (5:55) `isrc:DEH400518403` `qobuz:48357815`
+- **The Blind Boys Of Alabama** — I Am Not Waiting Anymore [I'll Find a Way] (3:41) `isrc:USQX91301269` `qobuz:25367237`
+- **Fever Ray** — Falling [Plunge] (5:03) `isrc:SEWCE1700004` `qobuz:44549254`
+- **Haley Heynderickx** — Untitled God Song [I Need to Start a Garden] (3:44) `isrc:QMFW91700134` `qobuz:46515201`
+- **Pallbearer** — Worlds Apart [Foundations of Burden] (10:16) `isrc:USN681410078` `qobuz:18804399`
+- **Kings Of Convenience** — Riot On An Empty Street [Declaration Of Dependence] (4:05) `isrc:GBDCG0900027` `qobuz:192467406`
+- **Mgła** — Exercises in Futility V [Exercises in Futility] (8:15) `isrc:GBSMU5712818` `qobuz:226934588`
+- **Rihanna** — Where Have You Been [Talk That Talk] (4:02) `isrc:USUM71118074` `qobuz:4514785`
+- **Detroit Hustler's** — Purple Pills [Music Inspired by the Films: 8 Mile vs. Get Rich or Die Tryin'] (5:09) `isrc:QMVRR1537601` `qobuz:26802546`
+- **Grim Salvo** — In Case of Flies [VOIDST★R] (4:10) `isrc:QZRP52492166` `qobuz:276566293`
+- **New Cool Collective** — For The World Is Hollow And I Have Touched The Sky [BIG] (6:13) `isrc:NLB150100660` `qobuz:73250078`
+- **Pierce The Veil** — Hell Above [Collide With The Sky] (3:44) `isrc:US5261216602` `qobuz:31035203`
+- **Iselia** — Great Kharlan [Life from Dead Limbs] (4:39) `isrc:USHM21173377` `qobuz:78811067`
+- **american poetry club** — One Day We Will Both Feel Fine and Good and Free! [Do You Believe in Your Heart?!] (3:38) `isrc:QZGWX2041347` `qobuz:179836498`
+- **Bertrand Chamayou** — Our Spring Will Come [Cage²] (4:09) `isrc:GBAYC2400415` `qobuz:265250888`
+- **Salvatore Adamo** — Gute reise, schöne Rose [Adamo: All the Best] (2:52) `isrc:BEI010700201` `qobuz:43526286`
+- **John Vincent III** — Untitled #2 [Songs from the Valley] (5:14) `isrc:FR2X41988857` `qobuz:62146880`
+- **ねこと音楽/Cats & Music** — さかな雲 – Fish-shaped Clouds [海辺のギター~Guitar by the sea ~] (4:10) `isrc:QZMEQ2551266` `qobuz:330789168`
+- **The Red Scare** — 12 Years Past [Smoky Mountain High] (3:16) `isrc:USA2Z1900987` `qobuz:253608879`
+- **The Beatles** — I'm Happy Just To Dance With You [A Hard Day's Night] (1:56) `isrc:GBAYE0601441` `qobuz:30369967`
+- **I Love You Honey Bunny** — On Our Way [We Just Had a Wonderful Time] (3:05) `isrc:CZCW72200008` `qobuz:205972073`
+- **The Selecter** — Things Fall Apart [Daylight] (4:09) `isrc:UKAMJ1700019` `qobuz:57141681`
+- **Buddhism Academy** — Sacred Elation on Worldly Ground [Augmenting My Capacities] (2:06) `isrc:DEAR42315661` `qobuz:223115405`
+- **David Bowie** — Slip Away [A Reality Tour] (5:56) `isrc:USRF30900026` `qobuz:203637088`
+- **meraki.** — melancholia [melancholia] (2:01) `isrc:QT4K42620504` `qobuz:418127558`
+- **Indifferent Sky** — From My Fingertips To Your Eyes [RANDOM CHAOS] (3:14) `isrc:QZTB42535914` `qobuz:341187410`
+- **Teen Suicide** — the same things happening to me all the time, even in my dreams [i will be my own hell because there is a devil inside my body] (4:51) `isrc:QMCE71300274` `qobuz:83174819`
+- **Julia Michaels** — Issues [Nervous System] (2:55) `isrc:USUM71615691` `qobuz:54700962`
+- **Mitski** — My Love Mine All Mine [The Land Is Inhospitable and So Are We] (2:17) `isrc:USJ5G2335007` `qobuz:218844819`
+- **Björn Valhalla** — I Still See Your Shadow At The Shield Wall Where You Fell (Viking Trap) [Somewhere Between Love And Valhalla] (2:52) `isrc:QT3EX2684490` `qobuz:421588604`
+- **Protoje** — Something I Said [The Art of Acceptance] (3:42) `isrc:QZ5FN2651263` `qobuz:390720118`
+- **Blackgold** — One Chance [Back With Another One] (3:45) `isrc:USA2P2349005` `qobuz:242982108`
+- **Alessandro Simonetto (Pianist, Harpsichordist)** — Untitled Piece "Caresse" (Ed. R. Caby) [Satie: Favourite Music (Gymnopédies, Gnossiennes & Other Pieces)] (2:19) `isrc:ITBZ82201579` `qobuz:305888444`
+- **Josh White Jr.** — Wherefores and Whys [Josh White Jr. Live at the Raven] (3:32) `isrc:QMDA61404415` `qobuz:80893653`
+- **The American Analog Set** — The Only Living Boy Around [Through the 90's: Singles and Unreleased] (3:58) `isrc:USS320810029` `qobuz:192163763`
+- **Immortal** — Where Dark And Light Don't Differ [At The Heart Of Winter] (6:45) `isrc:FR6V89900076` `qobuz:1626412`
+- **Overdrive** — Bass On Earth / Heaven is a Place On Heart [Hardstyle: The History, Vol. 5] (7:38) `isrc:ITB840300165` `qobuz:36780271`
+- **Artel** — LE TEMPS NOUS A TOUT PRIS [LE TEMPS NOUS A TOUT PRIS] (3:14) `isrc:FR9W12455169` `qobuz:316844998`
+- **Deep Aura Meditation Ambient** — Strata Drifted [Sacred Silence] (2:52) `isrc:GBPS85562730` `qobuz:341086912`
+- **Secret Gardens** — MT [The Impermanent Amber] (4:30) `isrc:QZTBA2454938` `qobuz:286329466`
+- **State Faults** — Despera [Moon Sign Gemini] (2:37) `isrc:USA2P2018794` `qobuz:214033025`
+- **Herman's Hermits** — Leaning on a Lamp Post [The Hits Re-Recorded] (2:30) `isrc:GBXHC2033479` `qobuz:184613727`
+- **To Be Gentle** — To Me, You Are the Color Green [Unyielding Joy / Elements Conducive To Unassailable Heartbreak] (11:12) `isrc:QZTB92274167` `qobuz:353636525`
+- **Becky Ainge** — Seashells [Coastlines] (1:17) `isrc:UKURD2200006` `qobuz:183092493`
+- **Willie** — Lost Caravan [Between The Waters] (6:30) `isrc:USAT29500255` `qobuz:2618776`
+- **Prieuré** — Patience [Jusqu'au bénitier] (3:16) `isrc:QZNWU2508383` `qobuz:333056723`
+- **Ché Salah** — Medusa [Medusa] (2:26) `isrc:DEKF22501358` `qobuz:363439840`
+- **Respire** — A Heart Still Pines [Dénouement] (2:47) `isrc:USDY41807684` `qobuz:95167829`
+- **Godsmack** — I Fucking Hate You [Faceless] (4:06) `isrc:USUR10300055` `qobuz:282314679`
+- **Viva Belgrado** — La Cima [La Cima] (2:32) `isrc:ES71I1700016` `qobuz:340282485`
+- **Souffle d’Étoiles** — Onde tenue [Vertige du Serein] (3:12) `isrc:PL2E32569353` `qobuz:346433114`
+- **Frail Body** — Your Death Makes Me Wish Heaven Was Real [A Brief Memoriam] (4:23) `isrc:QZ22D1900052` `qobuz:74628370`
+- **Øjne** — Nel migliore dei mondi possibili [Prima che tutto bruci] (3:13) `isrc:DEE021701210` `qobuz:54014485`
+- **Frail Hands** — Holding [parted/departed/apart] (1:55) `isrc:QMFME1934927` `qobuz:82005384`
+- **Shin Guard** — Grief Instilled [Death of Spring] (3:31) `isrc:USDY41974265` `qobuz:84640788`
+- **Infant Island** — Another Cycle [Obsidian Wreath] (2:51) `isrc:QZ22D2400017` `qobuz:229332255`
+- **Red Dragon Blues** — Better To Die On My Own [Red Dragon Blues II] (4:38) `isrc:AUSZX2100004` `qobuz:137417104`
+- **Gil Scott-Heron** — Home Is Where the Hatred Is [Pieces of a Man] (3:21) `isrc:USBB17101031` `qobuz:155999432`
+- **Trainwreck** — Time Erases Everything [Old Departures, New Beginnings] (3:07) `isrc:USA2P1905016` `qobuz:58061427`
+- **Big Thief** — Shark Smile [Capacity] (3:57) `isrc:US2U61725502` `qobuz:271165653`
+- **New Constellations** — Think it Over [Think it Over] (3:08) `isrc:SE62M2232756` `qobuz:327926848`
+- **CORE MATO** — a kind of perspective on love [this is not my first album but it is] (2:28) `isrc:QZMEP2531226` `qobuz:412449611`
+- **Faintest Idea** — They Drew First Blood [The Voice of Treason] (1:22) `isrc:GB6KN1200034` `qobuz:75431362`
+- **Seabear** — Cat Piano [The Ghost That Carried Us Away] (3:28) `isrc:DEX260707602` `qobuz:30116293`
+- **La Reine des chansons pour enfants et bébés** — Ah Les Crocodiles [60 Comptines pour Enfants et Bébés] (2:36) `isrc:TCADK1784647` `qobuz:126064292`
+- **Constrain** — I Found A Razor Blade In My Spaghetti Once [Welcome To Club Vampire] (2:05) `isrc:QZHNA2437859` `qobuz:259805689`
+- **Gillian Carter** — I've Been Forgotten & So Have You [Lost Ships Sinking With the Sunset] (2:06) `isrc:QZ4JJ1983559` `qobuz:256094531`
+- **Live Longer Burn Everything** — Can U Trust Yr Brain? [A Flash of Light and Then...] (5:19) `isrc:QZTAT2381653` `qobuz:228913372`

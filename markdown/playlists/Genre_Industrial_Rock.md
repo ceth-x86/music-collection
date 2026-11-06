@@ -1,0 +1,108 @@
+# Genre: Industrial Rock
+
+Imported genre playlist: Industrial Rock.
+
+Services: `qobuz:66733270`
+
+## Tracks (100)
+
+- **Iggy Pop** — Mass Production [The Idiot] (8:28) `isrc:USVI27700004` `qobuz:41121072`
+- **Suicide** — Frankie Teardrop [Suicide] (10:26) `isrc:GB5KW1602347` `qobuz:385321156`
+- **Chrome** — TV As Eyes [Half Machine Lip Moves / Alien Soundtracks] (2:19) `isrc:USA560668619` `qobuz:50997507`
+- **Killing Joke** — Wardance [Killing Joke] (3:45) `isrc:GBAAA0500315` `qobuz:219752609`
+- **Scraping Foetus Off The Wheel** — I'll Meet You in Poland Baby [Hole] (3:33) `isrc:GBEEL0702013` `qobuz:39575180`
+- **Big Black** — Kerosene [Atomizer (Remastered)] (6:03) `isrc:USTG31409304` `qobuz:32621490`
+- **Laibach** — Geburt Einer Nation [Opus Dei] (4:23) `isrc:GBAJH0100478` `qobuz:1770408`
+- **The Young Gods** — Envoyé [The Young Gods] (2:14) `isrc:CH4931200049` `qobuz:134775295`
+- **KMFDM** — Don''t Blow Your Top [Don't Blow Your Top] (3:40) `isrc:US57M0644002` `qobuz:6140531`
+- **Ministry** — Stigmata (Update Mix) [Land of Rape and Honey] (5:44) `isrc:USWB19902808` `qobuz:19124608`
+- **Pailhead** — I Will Refuse [Trait] (4:16) `isrc:QM4TW1521995` `qobuz:150085952`
+- **Tackhead** — Mind At The End Of The Tether [Tackhead Tape Time] (6:40) `isrc:GBNLN1100277` `qobuz:79181548`
+- **1000 Homo DJs** — Supernaut [Supernaut] (6:42) `isrc:QMBZ91387999` `qobuz:51120772`
+- **Cop Shoot Cop** — Room 429 [Ask Questions Later] (5:08) `isrc:QMFMG1428835` `qobuz:51036190`
+- **Lard** — Forkboy [The Last Temptation Of Reid] (3:53) `isrc:US2B20408401` `qobuz:52278701`
+- **My Life With The Thrill Kill Kult** — Sex on Wheelz [Sexplosion! (Expanded Edition) [2022 Remaster]] (4:59) `isrc:QZFWM1900074` `qobuz:161574787`
+- **Revolting Cocks** — Beers, Steers & Queers [Beers, Steers + Queers] (5:56) `isrc:QMBZ91389053` `qobuz:14974105`
+- **Die Warzau** — Shine (All Good Girls Part 2) [Convenience] (4:46) `isrc:USA2B0597916` `qobuz:74842492`
+- **Metallica** — Damage, Inc. [Master Of Puppets] (5:32) `isrc:QMKHM1600225` `qobuz:95787410`
+- **Pigface** — Suck [Gub] (3:42) `isrc:USA560576987` `qobuz:64334998`
+- **Peace Love & Pitbulls** — A. Psycho [Peace Love & Pitbulls] (5:59) `isrc:SELBD9200107` `qobuz:60840177`
+- **Pop Will Eat Itself** — Ich Bin Ein Auslander [Dos Dedos Mis Amigos] (4:00) `isrc:GBAHT1800808` `qobuz:58333592`
+- **16Volt** — Motorskill [Wisdom] (5:11) `isrc:US57M1177201` `qobuz:95641158`
+- **Chemlab** — Codeine, Glue, And You [Burn Out At The Hydrogen Bar] (4:45) `isrc:USA560576772` `qobuz:64333528`
+- **Depeche Mode** — I Feel You [Songs of Faith and Devotion (Deluxe)] (4:35) `isrc:GBAJH0601241` `qobuz:823803`
+- **Machines Of Loving Grace** — Butterfly Wings [Concentration] (3:37) `isrc:USMA20320205` `qobuz:60849251`
+- **Sheep On Drugs** — Years [Club Meds] (4:19) `isrc:GBHDA1200032` `qobuz:9183899`
+- **The Electric Hellfire Club** — Kiss The Goat! [Kiss The Goat - 2005 Deluxe Edition] (8:30) `isrc:USA560647336` `qobuz:51072386`
+- **Acumen** — Gun Lover [Transmissions From Eville] (4:13) `isrc:US4Q30400003` `qobuz:74135273`
+- **Cubanate** — Oxyacetylene [Live Brutalism] (5:16) `isrc:USA2P2252222` `qobuz:186816795`
+- **Front Line Assembly** — Millennium [Millennium] (6:09) `isrc:NLA329499999` `qobuz:2950265`
+- **Hate Dept.** — I Am Truth [Meat.Your.Maker] (3:13) `isrc:USHM80912117` `qobuz:77594252`
+- **Nine Inch Nails** — March Of The Pigs [The Downward Spiral] (2:58) `isrc:USIR19400528` `qobuz:51979438`
+- **Argyle Park** — Headscrew [Misguided] (4:57) `isrc:QM5LC1600957` `qobuz:346070060`
+- **Björk** — Army Of Me [Post] (3:54) `isrc:GBBTF0200244` `qobuz:249106593`
+- **Circle of Dust** — Deviate [Brainchild (Remastered)] (2:55) `isrc:QM5LC1600090` `qobuz:49633555`
+- **Filter** — Hey Man Nice Shot [Short Bus] (5:14) `isrc:USRE19900522` `qobuz:127402085`
+- **God Lives Underwater** — All Wrong [Empty] (4:53) `isrc:USSM19503777` `qobuz:54342851`
+- **Whisper Party** — City Eyes [Love Sick Love] (2:59) `isrc:USDY42216169` `qobuz:154822751`
+- **Prick** — Animal [Animal] (4:15) `isrc:GBSMU1527372` `qobuz:112976832`
+- **Sister Machine Gun** — Burn [Burn] (4:45) `isrc:USTV19500301` `qobuz:3095317`
+- **Gravity Kills** — Guilty [Gravity Kills] (4:02) `isrc:USTV19600075` `qobuz:48527180`
+- **Marilyn Manson** — The Beautiful People [Antichrist Superstar] (3:38) `isrc:USIR19601008` `qobuz:20020393`
+- **Skold** — Chasing Demons [The Undoing (Deluxe)] (4:26) `isrc:US57M1501806` `qobuz:95578327`
+- **Stabbing Westward** — Save Yourself [Darkest Days] (4:13) `isrc:USSM19703731` `qobuz:41662`
+- **Buck-Tick** — My Fuckin' Valentine [Sexy Stream Liner] (4:37) `isrc:JPPH09703280` `qobuz:189824773`
+- **David Bowie** — I'm Afraid of Americans [Earthling] (5:00) `isrc:USRF30000053` `qobuz:28108717`
+- **Econoline Crush** — Home [The Devil You Know] (3:11) `isrc:CAE159700054` `qobuz:5008500`
+- **Gary Numan** — Absolution (Gray Mix) [Hybrid CD #1] (6:43) `isrc:USPBR0300040` `qobuz:68565020`
+- **Razed In Black** — Share This Poison [Damaged] (6:54) `isrc:USA370574238` `qobuz:51043705`
+- **The Mad Legends** — "Transcendent Pulse" [Bloodline Frequency] (5:16) `isrc:GXJBV2668471` `qobuz:404517938`
+- **The Prodigy** — Firestarter [The Fat of the Land - Expanded Edition] (4:39) `isrc:GBBKS9700080` `qobuz:7008315`
+- **Dark Corridor** — The End Is The Beginning Is The End (Made Famous by Smashing Pumpkins) [A Gothic-Industrial Tribute To The Smashing Pumpkins] (4:53) `isrc:USA371080838` `qobuz:51070633`
+- **Rob Halford** — I Am a Pig [Voyeurs] (3:35) `isrc:USQX91500221` `qobuz:42686097`
+- **Apartment 26** — Backwards [Hallucinating] (3:09) `isrc:USHM80986924` `qobuz:66709602`
+- **Godhead** — Eleanor Rigby [Power Tool Stigmata] (3:43) `isrc:USA370319290` `qobuz:63935910`
+- **Orgy** — Blue Monday [Candyass] (4:27) `isrc:USRE19800365` `qobuz:2840646`
+- **Pitchshifter** — Genius [www.pitchshifter.com] (4:06) `isrc:USGF19716303` `qobuz:756118`
+- **Ultraspank** — Push [Progress] (3:51) `isrc:USSM10006341` `qobuz:5051591`
+- **VAST** — Touched [Step into Liquid Soundtrack] (3:58) `isrc:USSFR0414016` `qobuz:390164335`
+- **Powerman 5000** — When Worlds Collide [Tonight The Stars Revolt] (2:57) `isrc:USDW19910703` `qobuz:699819`
+- **Videodrone** — Ty Jonathan Down [Videodrone] (4:21) `isrc:USRE19900001` `qobuz:2007348`
+- **MDFMK** — Rabble Rouser [MDFMK] (4:12) `isrc:USUR19980536` `qobuz:91187576`
+- **Snake River Conspiracy** — Lovesong [Sonic Jihad] (3:55) `isrc:USRE10000287` `qobuz:41177759`
+- **Spineshank** — Synthetic [The Height of Callousness [Special Edition]] (3:09) `isrc:NLA320019154` `qobuz:2809213`
+- **Brain Damage** — The Truth [The Truth] (3:40) `isrc:FR92U2600340` `qobuz:419917221`
+- **The Union Underground** — Turn Me On "Mr. Deadman" [...An Education In Rebellion] (2:38) `isrc:USSM10000893` `qobuz:13376658`
+- **Zeromancer** — Doctor Online [Eurotrash] (3:18) `isrc:DEA610101664` `qobuz:127875787`
+- **American Head Charge** — Just So You Know [The War Of Art] (5:31) `isrc:USDJ20110960` `qobuz:783413`
+- **Crossbreed** — Breathe [Synthetic Division] (5:01) `isrc:TCAFP2146429` `qobuz:127383616`
+- **Katatonic Silentio** — Primordial Blossom [Paradise Mountain] (2:59) `isrc:DEG932600606` `qobuz:396855250`
+- **tweaker** — Ruby (Instrumental) [2 A.M. Wakeup Call (The Instrumentals)] (3:43) `isrc:NLRD51831654` `qobuz:347343479`
+- **Deadsy** — The Key To Gramercy Park [Commencement] (3:12) `isrc:USDW10200029` `qobuz:8700178`
+- **Kidneythieves** — Before I'm Dead [Queen Of The Damned (Music From The Motion Picture)] (4:36) `isrc:US2IR0100075` `qobuz:44137026`
+- **PMM** — Slow [Professional Murder Music] (3:57) `isrc:USIR19915054` `qobuz:753993`
+- **Celldweller** — Switchback [Celldweller 10 Year Anniversary] (5:02) `isrc:USHM20435087` `qobuz:49631083`
+- **Dope Stars Inc.** — Bang Your Head [Gigahearts] (3:00) `isrc:DEZ900702379` `qobuz:128709399`
+- **Eisbrecher** — Eisbrecher [Es bleibt kalt°! (2003-2023)] (4:03) `isrc:DEE861300772` `qobuz:216446597`
+- **Oomph!** — Augen auf [Augen Auf] (3:23) `isrc:DEC760300223` `qobuz:295145`
+- **Slick Idiot** — Xcess [DickNity] (5:59) `isrc:USA370576069` `qobuz:51103316`
+- **Mindless Self Indulgence** — Shut Me Up [You'll Rebel To Anything] (2:47) `isrc:US68L0500001` `qobuz:48841381`
+- **Deadstar Assembly** — Send Me An Angel [Deadstar Assembly] (4:14) `isrc:USHM20404021` `qobuz:72919492`
+- **Deathstars** — Synthetic Generation [Synthetic Generation] (3:28) `isrc:DED830369502` `qobuz:61266707`
+- **Iamx** — Spit It Out [The Alternative] (3:58) `isrc:DEBC40600114` `qobuz:145576089`
+- **Daniel Eriksen** — Let's Burn Down The Cornfield [There'll Be A Time When The Sun Will Refuse To Shine] (4:40) `isrc:NOCLV2401080` `qobuz:296961303`
+- **Black Light Burns** — Burn the World [The Moment You Realize You're Going to Fall] (4:18) `isrc:TCAFZ2267923` `qobuz:144108696`
+- **Emigrate** — My World [Emigrate] (4:17) `isrc:DEGD80700003` `qobuz:20106570`
+- **Blue Stahli** — ULTRAnumb [Blue Stahli] (4:25) `isrc:USI4R1058115` `qobuz:49632387`
+- **Jesse Bru** — Lucid Dreaming [Happiness Therapy LP01: The Coast] (3:08) `isrc:FRS182042503` `qobuz:150173291`
+- **Julien K** — Kick the Bass (2004 Demo) [Time Capsule: A Future Retrospective 2004 - 2017] (4:30) `isrc:QMP7G1700267` `qobuz:327033667`
+- **Liars** — No.1 Against the Rush [Wixiw] (5:10) `isrc:GBR8R1100389` `qobuz:5652948`
+- **Beasto Blanco** — Machine Girl [Beasto Blanco] (3:38) `isrc:QMPD81600020` `qobuz:207267100`
+- **Health** — STONEFIST [DEATH MAGIC] (3:24) `isrc:USC4R1500544` `qobuz:26171411`
+- **The Soft Moon** — Black [Deeper] (3:28) `isrc:QMMZN1521802` `qobuz:335425267`
+- **Street Sects** — In for a World of Hurt [The Kicking Mule] (4:29) `isrc:USA2Z1811323` `qobuz:53088731`
+- **3TEETH** — AMERICAN LANDFILL [METAWAR] (3:08) `isrc:USQX91900121` `qobuz:60003851`
+- **Algiers** — The Underside of Power [The Underside of Power] (4:12) `isrc:USMTD1709157` `qobuz:41584619`
+- **Author & Punisher** — Nihil Strength [Beastland] (3:36) `isrc:US2641838302` `qobuz:51734546`
+- **Uniform** — Tabloid [Wake in Fright] (3:15) `isrc:US5NR1717001` `qobuz:36879375`
+- **Poppy** — BLOODMONEY [I Disagree] (3:02) `isrc:USYFZ1924103` `qobuz:338329753`

@@ -1,0 +1,809 @@
+{
+  "name": "New in IDM, Glitch & Experimental",
+  "services": {
+    "qobuz": "58707238"
+  },
+  "description": "Our selection of the latest releases and reissues in IDM, Glitch and other stylistic experiments. This is a space where deconstructed rhythms collide with synthesizers and software that is being pushed to its limits with demanding arrangements and rough sonorities... For those who like to listen carefully, here you'll find a selection of highly complex electronic music.\n\nLast updated on 20.7.2026. With Anastasia Kristensen, Foodman, gyrofield, Satoshi Osei, Hannah Peel, Clark, MUN SING, dgoHn, FaltyDL, Lazy Ants, FIRE-TOOLZ, Upsammy, Paperclip Minimiser, Tristan Arp, Ital Tek, Heavee, Air Max '97, Loraine James, Throwing Snow, Kent Watari, Xylitol, Proc Fiskal, Rob Clouth, Gooooose, Kavari, Skrillex, Nondi_, Nick Leon, CoLD SToRAGE, Oneohtrix Point Never, Wordcolour, Bancal, Daisuke Tanabe...\n\nPhoto: Horse Lords \u00a9 Kasia Zacharko",
+  "tracks": [
+    {
+      "artist": "Anastasia Kristensen",
+      "title": "Sulphur Mustang",
+      "services": {
+        "qobuz": "396534959"
+      },
+      "album": "Bestiarium Sombre",
+      "duration": 261,
+      "isrc": "DEG932600357"
+    },
+    {
+      "artist": "Foodman",
+      "title": "Hard Reclining",
+      "services": {
+        "qobuz": "424919788"
+      },
+      "album": "Hard Reclining",
+      "duration": 199,
+      "isrc": "GBLZC2600021"
+    },
+    {
+      "artist": "gyrofield",
+      "title": "Goat With the Red Tooth",
+      "services": {
+        "qobuz": "408973938"
+      },
+      "album": "Your Fight",
+      "duration": 284,
+      "isrc": "UKQNV2600027"
+    },
+    {
+      "artist": "Satoshi Osei",
+      "title": "Whatever Happens In the End",
+      "services": {
+        "qobuz": "404072226"
+      },
+      "album": "Sad Computer",
+      "duration": 355,
+      "isrc": "FRIDO2612012"
+    },
+    {
+      "artist": "Hannah Peel",
+      "title": "Awaken The Insects",
+      "services": {
+        "qobuz": "391750178"
+      },
+      "album": "The Endless Dance",
+      "duration": 247,
+      "isrc": "GBCPA2502181"
+    },
+    {
+      "artist": "Clark",
+      "title": "Who Booed the Geese",
+      "services": {
+        "qobuz": "402265809"
+      },
+      "album": "Opponent Stims",
+      "duration": 414,
+      "isrc": "UKQ7N2600006"
+    },
+    {
+      "artist": "MUN SING",
+      "title": "Fluffy",
+      "services": {
+        "qobuz": "409916992"
+      },
+      "album": "Fluffy",
+      "duration": 145,
+      "isrc": "DEG932602085"
+    },
+    {
+      "artist": "dgoHn",
+      "title": "Whistling On A Tuesday",
+      "services": {
+        "qobuz": "410183418"
+      },
+      "album": "Whistling On A Tuesday",
+      "duration": 330,
+      "isrc": "USA2B2601976"
+    },
+    {
+      "artist": "FaltyDL",
+      "title": "Neurology Department",
+      "services": {
+        "qobuz": "421606517"
+      },
+      "album": "Neurology Department",
+      "duration": 198,
+      "isrc": "DEG932602525"
+    },
+    {
+      "artist": "Lazy Ants",
+      "title": "Dark City",
+      "services": {
+        "qobuz": "401032474"
+      },
+      "album": "Dark City",
+      "duration": 265,
+      "isrc": "UK9PS2600096"
+    },
+    {
+      "artist": "FIRE-TOOLZ",
+      "title": "Balam =^..^= Says IPv09082024 Strawberry Head",
+      "services": {
+        "qobuz": "397995626"
+      },
+      "album": "Balam =^..^= Says IPv09082024 Strawberry Head",
+      "duration": 200,
+      "isrc": "GBBPW2602494"
+    },
+    {
+      "artist": "Upsammy",
+      "title": "Hyperlocalize",
+      "services": {
+        "qobuz": "381925959"
+      },
+      "album": "Seismo",
+      "duration": 229,
+      "isrc": "QMB622516103"
+    },
+    {
+      "artist": "Paperclip Minimiser",
+      "title": "II A2",
+      "services": {
+        "qobuz": "387527287"
+      },
+      "album": "II",
+      "duration": 385,
+      "isrc": "QM4TW2681476"
+    },
+    {
+      "artist": "Lyra Pramuk",
+      "title": "Ending",
+      "services": {
+        "qobuz": "405886938"
+      },
+      "album": "Ending (Djrum Endless Rework)",
+      "duration": 362,
+      "isrc": "DEG932601172"
+    },
+    {
+      "artist": "Tristan Arp",
+      "title": "Forking Paths",
+      "services": {
+        "qobuz": "398456980"
+      },
+      "album": "(re)weave",
+      "duration": 307,
+      "isrc": "GBQLP2600130"
+    },
+    {
+      "artist": "Ital Tek",
+      "title": "Kill Switch",
+      "services": {
+        "qobuz": "398213142"
+      },
+      "album": "Kill Switch",
+      "duration": 321,
+      "isrc": "USA2B2600458"
+    },
+    {
+      "artist": "Heavee",
+      "title": "Mainframe",
+      "services": {
+        "qobuz": "411712962"
+      },
+      "album": "Mainframe",
+      "duration": 251,
+      "isrc": "GBLZC2600033"
+    },
+    {
+      "artist": "Air Max '97",
+      "title": "Strange Attractor",
+      "services": {
+        "qobuz": "413567448"
+      },
+      "album": "Fool's Errand",
+      "duration": 251,
+      "isrc": "AUNMG2600003"
+    },
+    {
+      "artist": "Alexander Noice",
+      "title": "Comfort in Dull Company",
+      "services": {
+        "qobuz": "410999370"
+      },
+      "album": "Comfort in Dull Company",
+      "duration": 287,
+      "isrc": "QMBBU2611908"
+    },
+    {
+      "artist": "Loraine James",
+      "title": "Flatline",
+      "services": {
+        "qobuz": "393909134"
+      },
+      "album": "Detached From The Rest Of You",
+      "duration": 192,
+      "isrc": "GBLZC2600006"
+    },
+    {
+      "artist": "Glok",
+      "title": "Nothing Ever Reprise",
+      "services": {
+        "qobuz": "374490817"
+      },
+      "album": "Alliance Remixed",
+      "duration": 421,
+      "isrc": "UKF342200194"
+    },
+    {
+      "artist": "Mayashiba",
+      "title": "No Borders",
+      "services": {
+        "qobuz": "405701289"
+      },
+      "album": "No Borders",
+      "duration": 306,
+      "isrc": "FRDX62603150"
+    },
+    {
+      "artist": "Throwing Snow",
+      "title": "Smokescreen",
+      "services": {
+        "qobuz": "378756946"
+      },
+      "album": "Smokescreen",
+      "duration": 254,
+      "isrc": "DGA082577171"
+    },
+    {
+      "artist": "Ouri",
+      "title": "Lose Control",
+      "services": {
+        "qobuz": "394505593"
+      },
+      "album": "Lose Control",
+      "duration": 191,
+      "isrc": "QM4TX2657755"
+    },
+    {
+      "artist": "Cristian Vogel",
+      "title": "Stepping Stones",
+      "services": {
+        "qobuz": "397120562"
+      },
+      "album": "NEL and The Instrument of Shapes",
+      "duration": 327,
+      "isrc": "NLAR12600002"
+    },
+    {
+      "artist": "Los Sara Fontan",
+      "title": "Elektra",
+      "services": {
+        "qobuz": "382400840"
+      },
+      "album": "Consuelo",
+      "duration": 272,
+      "isrc": "ES71I2600007"
+    },
+    {
+      "artist": "Kent Watari",
+      "title": "i saw the ghost",
+      "services": {
+        "qobuz": "371394159"
+      },
+      "album": "subtraction in spiral",
+      "duration": 142,
+      "isrc": "UK9AV2503269"
+    },
+    {
+      "artist": "Maika Loubt\u00e9",
+      "title": "Super Producer",
+      "services": {
+        "qobuz": "385800516"
+      },
+      "album": "Super Producer",
+      "duration": 192,
+      "isrc": "JPZ922507320"
+    },
+    {
+      "artist": "\uff65 \uff65\uff0d\uff65 \uff65\uff0d \uff65\uff65\uff65 \uff65 \uff0d\uff65\uff65",
+      "title": "\uff0d\uff0d \uff65\uff65\uff0d \uff65\uff0d\uff65\uff65 \uff0d \uff65\uff65 \uff65\uff0d\uff0d\uff65 \uff65\uff0d\uff65\uff65 \uff65\uff0d \uff0d\uff65\uff0d\uff0d",
+      "services": {
+        "qobuz": "394532458"
+      },
+      "album": "\uff0d\uff0d \uff65\uff65\uff0d \uff65\uff0d\uff65\uff65 \uff0d \uff65\uff65 \uff65\uff0d\uff0d\uff65 \uff65\uff0d\uff65\uff65 \uff65\uff0d \uff0d\uff65\uff0d\uff0d",
+      "duration": 212,
+      "isrc": "GBWZD2026002"
+    },
+    {
+      "artist": "Los Pulpitos",
+      "title": "Pannetronica",
+      "services": {
+        "qobuz": "390536448"
+      },
+      "album": "Pannetronica",
+      "duration": 258,
+      "isrc": "BE6F52600030"
+    },
+    {
+      "artist": "Xylitol",
+      "title": "Chromophoria",
+      "services": {
+        "qobuz": "383039259"
+      },
+      "album": "Blumenfantasie",
+      "duration": 270,
+      "isrc": "USA2B2516194"
+    },
+    {
+      "artist": "C.ling",
+      "title": "Stranded Matter",
+      "services": {
+        "qobuz": "385536118"
+      },
+      "album": "Vault With Holes",
+      "duration": 343,
+      "isrc": "DEG932506067"
+    },
+    {
+      "artist": "Lesley Mok",
+      "title": "berserk",
+      "services": {
+        "qobuz": "410445887"
+      },
+      "album": "berserk",
+      "duration": 293,
+      "isrc": "QZS832600011"
+    },
+    {
+      "artist": "Taroug",
+      "title": "Najet",
+      "services": {
+        "qobuz": "391584928"
+      },
+      "album": "Najet",
+      "duration": 360,
+      "isrc": "DERK92640004"
+    },
+    {
+      "artist": "chewlie",
+      "title": "Beluga",
+      "services": {
+        "qobuz": "394201113"
+      },
+      "album": "Beluga",
+      "duration": 239,
+      "isrc": "DEG932600854"
+    },
+    {
+      "artist": "Gloorp",
+      "title": "Ice Bath",
+      "services": {
+        "qobuz": "418064199"
+      },
+      "album": "Ice Bath",
+      "duration": 206,
+      "isrc": "QT7CE2601707"
+    },
+    {
+      "artist": "Rob Clouth",
+      "title": "Gummy Clusters",
+      "services": {
+        "qobuz": "371243843"
+      },
+      "album": "Cicada",
+      "duration": 319,
+      "isrc": "DGA072568918"
+    },
+    {
+      "artist": "Nondi_",
+      "title": "Broken Future 175",
+      "services": {
+        "qobuz": "367081276"
+      },
+      "album": "Nondi...",
+      "duration": 257,
+      "isrc": "USA2B2515777"
+    },
+    {
+      "artist": "WAASS",
+      "title": "Tight Joe",
+      "services": {
+        "qobuz": "409687108"
+      },
+      "album": "Tight Joe",
+      "duration": 240,
+      "isrc": "USA2P2623442"
+    },
+    {
+      "artist": "Ehua",
+      "title": "Gold Matter",
+      "services": {
+        "qobuz": "404589820"
+      },
+      "album": "Pyrexia",
+      "duration": 281,
+      "isrc": "COAB11900302"
+    },
+    {
+      "artist": "Xylitol",
+      "title": "Falling",
+      "services": {
+        "qobuz": "383039268"
+      },
+      "album": "Blumenfantasie",
+      "duration": 403,
+      "isrc": "USA2B2516203"
+    },
+    {
+      "artist": "Proc Fiskal",
+      "title": "ADDICTIONZ",
+      "services": {
+        "qobuz": "383039455"
+      },
+      "album": "Exchequer EP",
+      "duration": 195,
+      "isrc": "GBLZC2500022"
+    },
+    {
+      "artist": "Rob Clouth",
+      "title": "Grefuser",
+      "services": {
+        "qobuz": "371224953"
+      },
+      "album": "Grefuser",
+      "duration": 302,
+      "isrc": "DGA072568919"
+    },
+    {
+      "artist": "Gooooose",
+      "title": "Chrome",
+      "services": {
+        "qobuz": "385611626"
+      },
+      "album": "Wriggle",
+      "duration": 236,
+      "isrc": "GBHLW2600198"
+    },
+    {
+      "artist": "Kavari",
+      "title": "SERPENT CHAMBER",
+      "services": {
+        "qobuz": "378695650"
+      },
+      "album": "PLAGUE MUSIC",
+      "duration": 211,
+      "isrc": "GBBKS2500571"
+    },
+    {
+      "artist": "Skrillex",
+      "title": "Yo Yan",
+      "services": {
+        "qobuz": "382963330"
+      },
+      "album": "Kora",
+      "duration": 120,
+      "isrc": "USAT22600020"
+    },
+    {
+      "artist": "Nondi_",
+      "title": "Death Juke",
+      "services": {
+        "qobuz": "367080876"
+      },
+      "album": "Death Juke",
+      "duration": 187,
+      "isrc": "USA2B2515773"
+    },
+    {
+      "artist": "Kent Watari",
+      "title": "critical point",
+      "services": {
+        "qobuz": "385293259"
+      },
+      "album": "critical point",
+      "duration": 171,
+      "isrc": "UK9AV2503266"
+    },
+    {
+      "artist": "Upsammy",
+      "title": "Superimposed",
+      "services": {
+        "qobuz": "387382285"
+      },
+      "album": "Superimposed",
+      "duration": 187,
+      "isrc": "QMB622516102"
+    },
+    {
+      "artist": "Pleizel",
+      "title": "ZAFER",
+      "services": {
+        "qobuz": "373650577"
+      },
+      "album": "ZAFER",
+      "duration": 326,
+      "isrc": "DGA082502675"
+    },
+    {
+      "artist": "Dialect",
+      "title": "Earth Angels of the Bone Age",
+      "services": {
+        "qobuz": "373272998"
+      },
+      "album": "Full Serpent",
+      "duration": 134,
+      "isrc": "US6PQ2500141"
+    },
+    {
+      "artist": "Trois-Quarts Taxi System",
+      "title": "Coil",
+      "services": {
+        "qobuz": "381657831"
+      },
+      "album": "Coil",
+      "duration": 362,
+      "isrc": "DEG932600065"
+    },
+    {
+      "artist": "Prayer",
+      "title": "Hypnosis",
+      "services": {
+        "qobuz": "387812884"
+      },
+      "album": "Hypnosis",
+      "duration": 238,
+      "isrc": "DEG932600475"
+    },
+    {
+      "artist": "Nick Leon",
+      "title": "R.I.P. Current",
+      "services": {
+        "qobuz": "361557093"
+      },
+      "album": "A Tropical Entropy (Remixed)",
+      "duration": 127,
+      "isrc": "COAB11900269"
+    },
+    {
+      "artist": "CoLD SToRAGE",
+      "title": "Canada",
+      "services": {
+        "qobuz": "355224653"
+      },
+      "album": "wipE\u2032out\u2033 - The Zero Gravity Soundtrack Vol. 2",
+      "duration": 267,
+      "isrc": "DEG932504607"
+    },
+    {
+      "artist": "Oneohtrix Point Never",
+      "title": "D.I.S.",
+      "services": {
+        "qobuz": "365181731"
+      },
+      "album": "Tranquilizer",
+      "duration": 212,
+      "isrc": "GBBPW2502041"
+    },
+    {
+      "artist": "Rob Clouth",
+      "title": "Cicada",
+      "services": {
+        "qobuz": "371224455"
+      },
+      "album": "Cicada",
+      "duration": 405,
+      "isrc": "DGA072568917"
+    },
+    {
+      "artist": "Clark",
+      "title": "Globecore Flats",
+      "services": {
+        "qobuz": "351002480"
+      },
+      "album": "Steep Stims",
+      "duration": 337,
+      "isrc": "UKQ7N2500006"
+    },
+    {
+      "artist": "Wordcolour",
+      "title": "Spiral Emoji",
+      "services": {
+        "qobuz": "368306768"
+      },
+      "album": "Spiral Emoji",
+      "duration": 348,
+      "isrc": "GBEXH2500176"
+    },
+    {
+      "artist": "Bancal",
+      "title": "Cheers",
+      "services": {
+        "qobuz": "365829157"
+      },
+      "album": "Domino",
+      "duration": 157,
+      "isrc": "UKF4T1600197"
+    },
+    {
+      "artist": "Daisuke Tanabe",
+      "title": "plastic tray",
+      "services": {
+        "qobuz": "357077252"
+      },
+      "album": "Hole on Layers",
+      "duration": 129,
+      "isrc": "GBMCZ0602122"
+    },
+    {
+      "artist": "Weval",
+      "title": "DOPAMINE",
+      "services": {
+        "qobuz": "368297310"
+      },
+      "album": "DOPAMINE Remixes",
+      "duration": 254,
+      "isrc": "GBCFB2500604"
+    },
+    {
+      "artist": "Nondi_",
+      "title": "Tree Festival",
+      "services": {
+        "qobuz": "367080467"
+      },
+      "album": "Tree Festival",
+      "duration": 186,
+      "isrc": "USA2B2515770"
+    },
+    {
+      "artist": "ALEPH",
+      "title": "ENV_petals",
+      "services": {
+        "qobuz": "357548211"
+      },
+      "album": "ENV_Petals",
+      "duration": 324,
+      "isrc": "DGA052542226"
+    },
+    {
+      "artist": "Essvus",
+      "title": "Never Here",
+      "services": {
+        "qobuz": "354385097"
+      },
+      "album": "Never Here",
+      "duration": 219,
+      "isrc": "DEG932503982"
+    },
+    {
+      "artist": "Powell",
+      "title": "goblin-mode-i",
+      "services": {
+        "qobuz": "364500100"
+      },
+      "album": "W D R EP1",
+      "duration": 135,
+      "isrc": "UKAFT2200234"
+    },
+    {
+      "artist": "Hidden Frequencies",
+      "title": "Dancing On Data Streams",
+      "services": {
+        "qobuz": "360261587"
+      },
+      "album": "Dancing On Data Streams",
+      "duration": 297,
+      "isrc": "QMFME2521437"
+    },
+    {
+      "artist": "Nikki Nair",
+      "title": "Deep Miso",
+      "services": {
+        "qobuz": "363481255"
+      },
+      "album": "Nagoya EP",
+      "duration": 274,
+      "isrc": "GBLZC2500027"
+    },
+    {
+      "artist": "Kavari",
+      "title": "IRON VEINS",
+      "services": {
+        "qobuz": "378732137"
+      },
+      "album": "IRON VEINS",
+      "duration": 204,
+      "isrc": "GBBKS2500570"
+    },
+    {
+      "artist": "Foodman",
+      "title": "Nameraka",
+      "services": {
+        "qobuz": "366009360"
+      },
+      "album": "Nameraka EP",
+      "duration": 251,
+      "isrc": "GXEUJ2400102"
+    },
+    {
+      "artist": "Traxman",
+      "title": "I'M DRUNK!!!!!!!",
+      "services": {
+        "qobuz": "360497421"
+      },
+      "album": "TEKVISION Volume 4",
+      "duration": 210,
+      "isrc": "UKF4T1600203"
+    },
+    {
+      "artist": "Shoko Igarashi",
+      "title": "Kincha",
+      "services": {
+        "qobuz": "371999362"
+      },
+      "album": "Kokoro no Kibi",
+      "duration": 204,
+      "isrc": "QT6F72582006"
+    },
+    {
+      "artist": "Ship Sket",
+      "title": "Mimikyu",
+      "services": {
+        "qobuz": "351965068"
+      },
+      "album": "Mimikyu",
+      "duration": 232,
+      "isrc": "USA2B2514514"
+    },
+    {
+      "artist": "Martyn Bootyspoon",
+      "title": "Let's Get Wet",
+      "services": {
+        "qobuz": "357837470"
+      },
+      "album": "Of The Draw",
+      "duration": 238,
+      "isrc": "GBBPW2502080"
+    },
+    {
+      "artist": "Liza Dries",
+      "title": "Akyra",
+      "services": {
+        "qobuz": "361574270"
+      },
+      "album": "Akyra",
+      "duration": 223,
+      "isrc": "DEG932505180"
+    },
+    {
+      "artist": "Blawan",
+      "title": "Weirdos United",
+      "services": {
+        "qobuz": "351310954"
+      },
+      "album": "SickElixir",
+      "duration": 197,
+      "isrc": "GBBKS2500087"
+    },
+    {
+      "artist": "Max Cooper",
+      "title": "8 Billion Realities",
+      "services": {
+        "qobuz": "350586211"
+      },
+      "album": "8 Billion Realities",
+      "duration": 222,
+      "isrc": "FRX872509224"
+    },
+    {
+      "artist": "LOFIHOUSEBOY",
+      "title": "FODE FODE",
+      "services": {
+        "qobuz": "373245293"
+      },
+      "album": "ROCK DOIDO EXPERIMENTAL",
+      "duration": 170,
+      "isrc": "BX6IQ2500439"
+    },
+    {
+      "artist": "Zone Null",
+      "title": "There Will Be Poems (Condensed)",
+      "services": {
+        "qobuz": "383038606"
+      },
+      "album": "There Will Be Poems (Condensed)",
+      "duration": 375,
+      "isrc": "GBHLW2600023"
+    },
+    {
+      "artist": "Esse Ran",
+      "title": "Mind Scanner",
+      "services": {
+        "qobuz": "356166416"
+      },
+      "album": "Off Program",
+      "duration": 341,
+      "isrc": "CBGC62501302"
+    }
+  ]
+}

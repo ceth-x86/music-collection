@@ -1,0 +1,108 @@
+# Genre: Grunge
+
+Imported genre playlist: Grunge.
+
+Services: `qobuz:66709527` `tidal:b6a3ce1b-8ca4-4455-b2ec-bbff9795f1e3`
+
+## Tracks (100)
+
+- **Green River** — Come on Down [Come on Down] (3:20) `isrc:USA2Z1811007` `qobuz:50524290`
+- **The Lilac Time** — I Wasn't Scared Of Flying [Keep Going] (6:07) `isrc:UKW3Z2303131` `qobuz:231956362`
+- **FL DJ ZAYA LUMEN** — Call Me in the Breakdown [Heartbreak Gospel at 4 A.M] (1:55) `isrc:QT6FP2596417` `qobuz:375764304`
+- **Yo La Tengo** — My Heart's Not In It [Stuff Like That There] (2:48) `isrc:USMTD1506532` `qobuz:26497312`
+- **The Birthday** — 声 [Blood And Love Circus] (4:08) `isrc:JPPO01508510` `qobuz:27466186`
+- **Big Fart Butt Man in Poopoo Land** — Cat Space Poo Diarrhea Meow [Poo Fire Sigma Farter Yahui] (1:36) `isrc:USHM82524086` `qobuz:338431995`
+- **CHEMISTRY SET** — Underground [The Incomplete Fabulous Stinking] (4:38) `isrc:QMQ3E1900119` `qobuz:67527221`
+- **Green River** — Swallow My Pride [Come on Down] (3:02) `isrc:USA2Z1811009` `qobuz:50524292`
+- **Stephen Day** — Is There Anywhere It Ain't Coming Down [The Shapes I'm In] (4:37) `isrc:TCAFQ2155823` `qobuz:125357419`
+- **The Banana Splits** — I'm Gonna Find A Cave [We're The Banana Splits] (2:28) `isrc:USA2P2335506` `qobuz:315476725`
+- **Zen Music Garden** — Solitude [Lord of Humanity / Deep Meditation, Easy Sleep Music, Nature's Wonders] (7:16) `isrc:UK6821741811` `qobuz:101710685`
+- **Sex Pistols** — God Save The Queen [Never Mind The Bollocks, Here's The Sex Pistols] (3:19) `isrc:GBUM71200588` `qobuz:6317880`
+- **Kerri Chandler** — You Get Lost In It [The Warehouse Project] [Spaces and Places] (6:58) `isrc:GBKQU2235827` `qobuz:173927445`
+- **The National** — Don't Swallow the Cap [Trouble Will Find Me] (4:45) `isrc:GBAFL1300057` `qobuz:98483814`
+- **Brian Culbertson** — Back in the Day [Somethin' Bout Love] (4:32) `isrc:USAT29901323` `qobuz:2004180`
+- **Stick Figure** — Sound of the Sea [Set in Stone] (5:25) `isrc:US4CL1510103` `qobuz:132497783`
+- **Coffin Break** — Just Say No [Revival] (1:48) `isrc:USDY42554374` `qobuz:328139529`
+- **Dpoint** — Shoot To Kill [Let There Be Synth - Volume 5.2] (4:17) `isrc:SE29G1600202` `qobuz:30884987`
+- **Adam Young** — H-Hour [Omaha Beach (Original Score)] (3:19) `isrc:TCACO1664393` `qobuz:128721817`
+- **Pure Joy** — Standing on a Bridge [Carnivore] (2:54) `isrc:QMDA71558020` `qobuz:44855552`
+- **Chris Botti** — A Thousand Kisses Deep [Live With Orchestra And Special Guests] (5:04) `isrc:USSM10600644` `qobuz:31897746`
+- **Slipknot** — Before I Forget [Vol. 3 The Subliminal Verses] (4:38) `isrc:NLA320420824` `qobuz:2808458`
+- **Vertigoaway** — Missed the Bus! [Agaki Home Radio] (1:28) `isrc:QZMEM2055810` `qobuz:395030715`
+- **Skin Yard** — Hallowed Ground [Hallowed Ground] (3:08) `isrc:US99R1200021` `qobuz:72728944`
+- **Mudhoney** — Touch Me I'm Sick [Superfuzz Bigmuff] (2:32) `isrc:USSUB0877301` `qobuz:407820306`
+- **Buddy Guy** — Been There Done That [Ain't Done With The Blues] (3:48) `isrc:USRC12500585` `qobuz:339802374`
+- **Public Trust** — Dirt in My Eye [Dirt In My Eye] (1:51) `isrc:QM6MZ2338642` `qobuz:210564919`
+- **Michael Kiwanuka** — Solid Ground [KIWANUKA] (3:52) `isrc:GBUM71902969` `qobuz:77119103`
+- **MOTHER LOVE BONE** — Chloe Dancer/Crown Of Thorns [On Earth As It Is: The Complete Works] (8:21) `isrc:USWWW0134840` `qobuz:54317187`
+- **The Afghan Whigs** — If I Were Going [Gentlemen (Gentlemen At 21 Deluxe Edition)] (3:17) `isrc:USEE11400753` `qobuz:19357995`
+- **Beat Happening** — Red Head Walking [Dreamy] (2:06) `isrc:USK110400310` `qobuz:179322235`
+- **Marty Robbins** — Saddle Tramp [Gunfighter Ballads And Trail Songs] (2:03) `isrc:USSM16001504` `qobuz:82194`
+- **The Strokes** — Between Love & Hate [Room On Fire] (3:16) `isrc:USRC10301522` `qobuz:18986`
+- **Local H** — Ugly Sunday [Local H's Awesome Quarantine Mix-Tape #3] (6:12) `isrc:QMBZ92194927` `qobuz:126501582`
+- **Nirvana** — Smells Like Teen Spirit [Nevermind] (5:01) `isrc:USGF19942501` `qobuz:14158543`
+- **Pearl Jam** — Alive [Ten] (5:41) `isrc:USSM19100003` `qobuz:4849191`
+- **Soundgarden** — Outshined [Badmotorfinger] (5:11) `isrc:USAM19104304` `qobuz:36430437`
+- **Tad** — Bullhorn [Infrared Riding Hood] (3:18) `isrc:USEE11700035` `qobuz:40792318`
+- **Temple Of The Dog** — Hunger Strike [Temple Of The Dog] (4:06) `isrc:USUM71607186` `qobuz:35196426`
+- **The Chieftains with Sinead O'Connor** — The Foggy Dew [The Long Black Veil] (5:21) `isrc:USBC19400225` `qobuz:214934`
+- **Alice In Chains** — Would? [The Essential Alice In Chains] (3:27) `isrc:USSM19200805` `qobuz:3103755`
+- **Babes In Toyland** — Bruise Violet [Fontanelle] (2:52) `isrc:USRE10000700` `qobuz:2934580`
+- **Rainbow Kitten Surprise** — Daddy Yankee [Love Hate Music Box] (3:21) `isrc:USAT22400519` `qobuz:255616831`
+- **Daisy Chainsaw** — Love Your Money [Love Your Money] (2:41) `isrc:GBMMS2300313` `qobuz:260558923`
+- **Gruntruck** — Tribe [Push] (4:21) `isrc:NLA329299977` `qobuz:2810412`
+- **L7** — Pretend We're Dead [Bricks Are Heavy] (3:55) `isrc:USRH10901858` `qobuz:2882618`
+- **DJmegan23** — I'm a They/Them, 30 in my Khakis [Dopamine Machine] (3:45) `isrc:QZK6F2230389` `qobuz:165429570`
+- **Screaming Trees** — Nearly Lost You [Sweet Oblivion] (4:07) `isrc:USSM19200962` `qobuz:43329`
+- **Stone Temple Pilots** — Plush [Core] (5:13) `isrc:USAT21702683` `qobuz:43485723`
+- **Lola Demo** — He Gets Away With Murder [Second Skin] (5:17) `isrc:USCGJ2583815` `qobuz:320431272`
+- **Brad** — Screen [Shame] (5:11) `isrc:USSM19300012` `qobuz:133513887`
+- **Dandelion** — Under My Skin [I Think I'm Gonna Be Sick] (2:55) `isrc:USSM11801839` `qobuz:47990748`
+- **Sonic Youth** — Eric's Trip (Album Version) [Daydream Nation (Remastered Original Album)] (3:48) `isrc:TCABF1244273` `qobuz:144269867`
+- **Hammerbox** — When 3 Is 2 [Numb] (4:25) `isrc:USAM10400575` `qobuz:54937606`
+- **Lizzo** — STILL CANT FUH (FEAT. DOJA CAT) [MY FACE HURTS FROM SMILING] (2:42) `isrc:USAT22504844` `qobuz:343404752`
+- **Paw** — Jessie [Dragline] (3:13) `isrc:USWWW0140015` `qobuz:54343027`
+- **PJ Harvey** — 50ft Queenie [Rid Of Me] (2:23) `isrc:GBAAN9300099` `qobuz:758693`
+- **My Little Pony** — Unleash The Magic - spooky skeletons remix [DJ Pon-3 Presents: Halloween] (3:15) `isrc:QM7282446176` `qobuz:360610454`
+- **The Breeders** — Cannonball [Last Splash] (3:33) `isrc:GBAFL9300109` `qobuz:41936972`
+- **The Smashing Pumpkins** — Cherub Rock [Siamese Dream] (4:58) `isrc:USVI21100146` `qobuz:56800775`
+- **7 Year Bitch** — Dead Men Don't Rape [Sick'em] (2:47) `isrc:US99R0510028` `qobuz:72722779`
+- **Dinosaur Jr.** — Feel The Pain [Without A Sound] (4:18) `isrc:GBBLY1903617` `qobuz:287269815`
+- **Hole** — Violet [Live Through This] (3:23) `isrc:USGF19963101` `qobuz:9067715`
+- **10 CC** — I´m not in love [Super Éxitos de los 70 Vol. 1] (3:28) `isrc:FR10S1853024` `qobuz:290292160`
+- **Sponge** — Plowed [Rotting Pinata] (3:16) `isrc:USSM19400412` `qobuz:67481`
+- **Toadies** — Possum Kingdom [Rubberneck] (5:08) `isrc:USIR19500420` `qobuz:13662087`
+- **Veruca Salt** — Seether [American Thighs] (3:16) `isrc:USA2N0740353` `qobuz:75409385`
+- **For Squirrels** — Mighty K.C. [Example] (5:37) `isrc:USSM19501048` `qobuz:40748`
+- **Mad Season** — River of Deceit [Above (Deluxe Edition)] (5:02) `isrc:USSM11207511` `qobuz:12831567`
+- **Soundgarden** — Rusty Cage [Badmotorfinger] (4:26) `isrc:USAM19104305` `qobuz:36430436`
+- **Silverchair** — Tomorrow [Frogstomp (Deluxe Edition)] (4:26) `isrc:AUBM01500029` `qobuz:23333132`
+- **Sweet Water** — Superstar [Superfriends] (3:58) `isrc:USEW19900344` `qobuz:16473466`
+- **Truly** — Blue Flame Ford [Fast Stories...From Kid Coma] (6:18) `isrc:USCA20807474` `qobuz:1781425`
+- **Dead Moon** — 54/40 Or Fight [Unknown Passage] (4:11) `isrc:QZSQG2409004` `qobuz:266697351`
+- **Flóp** — Julie Francavilla [Whenever You're Ready] (2:09) `isrc:USSM11508257` `qobuz:62427536`
+- **Gas Huffer** — Crooked Bird [One Inch Masters] (3:04) `isrc:USEP40320105` `qobuz:77654172`
+- **Local H** — Bound For The Floor [Best Of Local H – The Island Years] (3:43) `isrc:USIR29600091` `qobuz:54865989`
+- **Ikes Creek** — Fires Coming Down (Kennys Blues) [Up, Rising] (3:13) `isrc:QMAAK1916227` `qobuz:78182058`
+- **A*Teens** — Halfway Around The World [Teen Spirit] (3:40) `isrc:SEBKA0013030` `qobuz:55992150`
+- **Some Velvet Sidewalk** — Mousetrap [Shipwreck] (1:55) `isrc:USK119503210` `qobuz:410738305`
+- **Spiderbait** — Buy Me A Pony [Ivy & The Big Apples] (1:43) `isrc:AUPO09620230` `qobuz:22702638`
+- **The Supersuckers** — I Say Fuck [The Songs All Sound The Same] (0:35) `isrc:USDBY0600672` `qobuz:72003785`
+- **The Flower Pot Men** — Let's Go To San Francisco, Pt. 1 (Mono Single) [Listen To The Flowers Grow] (4:04) `isrc:GBBLY0701203` `qobuz:143723531`
+- **The Posies** — Throwaway [Amazing Disgrace] (3:52) `isrc:USGF19682904` `qobuz:54695597`
+- **Young Fresh Fellows** — Before the Deluge [Loft] (3:29) `isrc:USY1R2511805` `qobuz:369466100`
+- **Wipers** — Return of the Rat [Is This Real?] (2:37) `isrc:USA2P1502912` `qobuz:102418102`
+- **Grinspoon** — Just Ace [Guide To Better Living] (1:47) `isrc:AUUN09700020` `qobuz:105889058`
+- **Verdena** — Valvonauta [Verdena] (4:24) `isrc:ITUM71900628` `qobuz:73040894`
+- **Moon Martin** — Pushed Around [Street Fever] (3:10) `isrc:USCA29200421` `qobuz:55978865`
+- **Mr. Epp and the Calculations** — Out of Control [It Crawled from the Basement: The Green Monkey Records Anthology] (3:13) `isrc:USHM80940538` `qobuz:74758888`
+- **Spite House** — Losing Skin [Just for a While (Live Plus Two)] (2:33) `isrc:TCAHN2367150` `qobuz:336361614`
+- **Blackouts** — Happy Hunting Ground [History In Reverse] (4:52) `isrc:USK110416401` `qobuz:25284465`
+- **Treepeople** — Andy Warhol [Guilt, Regret, Embarrassment] (2:53) `isrc:USK110406902` `qobuz:25278928`
+- **Yuck** — Get Away [Yuck (Deluxe)] (3:35) `isrc:GBUM71029945` `qobuz:4262463`
+- **Concentration Music Ensemble** — Headache Migrane Relief [Clear Head - Rustgevende Mentale Training Oefeningen Muziek voor Biofeedback Opleiding Mentale Gezondheid Kracht In Jezelf met New Age Natuur Instrumentale Geluiden] (5:48) `isrc:ITO101558639` `qobuz:40639931`
+- **Superheaven** — Youngest Daughter [Jar] (4:09) `isrc:USQU71308107` `qobuz:83003780`
+- **Violent Soho** — Covered in Chrome [Hungry Ghost] (3:34) `isrc:AULI01387560` `qobuz:24103752`
+- **Bully** — Trying [Feels Like] (3:53) `isrc:USSM11500307` `qobuz:25189563`
+- **Dinosaur Pile-Up** — Back Foot [Celebrity Mansions] (3:08) `isrc:GBAYE1900158` `qobuz:60301360`
+- **3rd Secret** — I Choose Me [3rd Secret] (4:30) `isrc:TCAGD2286348` `qobuz:153725175`

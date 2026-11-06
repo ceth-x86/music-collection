@@ -1,0 +1,108 @@
+# Genre: Electronic Rock
+
+Imported genre playlist: Electronic Rock.
+
+Services: `qobuz:66709189`
+
+## Tracks (100)
+
+- **The Tornados** — Telstar [The Original Telstar: The Sounds of the Tornadoes] (3:17) `isrc:DEZZ42170596` `qobuz:140077033`
+- **The Beatles** — Tomorrow Never Knows [Revolver] (2:57) `isrc:GBUM72202557` `qobuz:172443643`
+- **Silver Apples** — Oscillations [Silver Apples] (2:47) `isrc:USMC16811187` `qobuz:34218862`
+- **The United States Of America** — The American Metaphysical Circus [The United States Of America] (4:57) `isrc:USSM16801788` `qobuz:4959068`
+- **The Who** — Baba O'Riley [Who’s Next : Life House] (5:03) `isrc:GBUM72203480` `qobuz:218888058`
+- **Pink Floyd** — On the Run [The Dark Side of the Moon] (3:36) `isrc:GBN9Y1100078` `qobuz:47683553`
+- **Brian Eno** — Needles In The Camel's Eye [Here Come The Warm Jets] (3:10) `isrc:GBAAA0400054` `qobuz:4583084`
+- **Kraftwerk** — Autobahn [Autobahn] (4:31) `isrc:GBAYE2500013` `qobuz:316792295`
+- **Suicide** — Ghost Rider [Suicide] (2:33) `isrc:GB5KW1602342` `qobuz:385321151`
+- **David Bowie** — Sound and Vision [Low] (3:03) `isrc:USJT11600348` `qobuz:44528106`
+- **Blondie** — Heart Of Glass [Parallel Lines (Deluxe Collector's Edition)] (4:09) `isrc:USCH38900007` `qobuz:1732335`
+- **The Buggles** — Video Killed The Radio Star [The Age Of Plastic] (4:13) `isrc:GBAAN7900013` `qobuz:68676893`
+- **Gary Numan** — Cars [The Pleasure Principle] (3:57) `isrc:GBAZP1500019` `qobuz:27967530`
+- **The Cars** — Let's Go [Candy-O] (3:33) `isrc:USRH11509841` `qobuz:30516266`
+- **Devo** — Whip It [Oh No It's Devo / Freedom Of Choice] (2:38) `isrc:GBAAA8000030` `qobuz:4622763`
+- **Talking Heads** — Once in a Lifetime [Remain In Light] (4:21) `isrc:USWB10502889` `qobuz:5250687`
+- **Ultravox** — Vienna [Vienna] (4:56) `isrc:GBAYK0800167` `qobuz:169136017`
+- **Orchestral Manoeuvres in the dark (OMD)** — Electricity [The OMD Singles] (3:32) `isrc:GBAAA8000013` `qobuz:1050071`
+- **Japan** — Ghosts [Tin Drum] (4:36) `isrc:GBAAA0300385` `qobuz:1736002`
+- **Human League** — Don't You Want Me [The Very Best Of The Human League] (3:57) `isrc:GBAAA0200924` `qobuz:4914664`
+- **Simple Minds** — New Gold Dream (81/82/83/84) [New Gold Dream (81/82/83/84)] (5:38) `isrc:GBAAA0200610` `qobuz:4673983`
+- **A Flock Of Seagulls** — I Ran (So Far Away) [I Ran (So Far Away)] (5:14) `isrc:USA560619562` `qobuz:51008709`
+- **Eurythmics** — Sweet Dreams (Are Made of This) [Sweet Dreams (Are Made Of This)] (3:36) `isrc:GBARL0300589` `qobuz:240368`
+- **New Order** — Blue Monday [Singles] (7:31) `isrc:GBAAP1500066` `qobuz:33382287`
+- **Cabaret Voltaire** — Sensoria [#8385 Collected Works 1983 - 1985] (6:16) `isrc:GBR8R1300799` `qobuz:33630702`
+- **Queen** — Radio Ga Ga [The Works] (5:48) `isrc:GBUM71029623` `qobuz:427251705`
+- **Van Halen** — Jump [1984] (4:01) `isrc:USWB11503569` `qobuz:23448603`
+- **Tears For Fears** — Shout [Songs From The Big Chair] (6:33) `isrc:GBF088490125` `qobuz:20252071`
+- **Sigue Sigue Sputnik** — Love Missile F1-11 [21st Century Boys] (3:44) `isrc:GBAYE8600097` `qobuz:385581767`
+- **Skinny Puppy** — Dig It [Mind: The Perpetual Intercourse] (7:33) `isrc:CAN119900101` `qobuz:154866362`
+- **Depeche Mode** — Personal Jesus [Violator (Deluxe)] (4:55) `isrc:GBAJH0600289` `qobuz:36114844`
+- **Jesus Jones** — Right Here Right Now [Doubt] (3:09) `isrc:GBAYE9000326` `qobuz:838319`
+- **Passenger** — Paper Cut, Chinese Burn [Sometimes It's Something, Sometimes It's Nothing at All] (2:21) `isrc:GBMQN1900005` `qobuz:140980189`
+- **Ministry** — Just One Fix [KE*A*H** (Psalm 69)] (5:10) `isrc:USWB19904152` `qobuz:2934377`
+- **Nine Inch Nails** — Closer [The Downward Spiral] (6:13) `isrc:USIR19400529` `qobuz:51979439`
+- **Filter** — Hey Man Nice Shot [Short Bus] (5:14) `isrc:USRE19900522` `qobuz:127402085`
+- **KMFDM** — Juke-Joint Jezebel [Nihil] (5:40) `isrc:US57M0747502` `qobuz:18539592`
+- **Republica** — Ready to Go [Republica] (5:01) `isrc:GBARL9600018` `qobuz:255234`
+- **Marilyn Manson** — The Beautiful People [Antichrist Superstar] (3:38) `isrc:USIR19601008` `qobuz:20020393`
+- **The Smashing Pumpkins** — Eye [(Rotten Apples) The Smashing Pumpkins Greatest Hits] (4:53) `isrc:USVI29700082` `qobuz:1057410`
+- **U2** — Mofo [Pop] (5:47) `isrc:GBAAN9700017` `qobuz:763197`
+- **Primal Scream** — Kowalski [Vanishing Point (Expanded Edition)] (5:48) `isrc:GBAAW9700090` `qobuz:4591541`
+- **The Prodigy** — Firestarter [The Fat of the Land - Expanded Edition] (4:39) `isrc:GBBKS9700080` `qobuz:7008315`
+- **The Chemical Brothers** — Setting Sun [Dig Your Own Hole] (5:28) `isrc:GBAAA9700194` `qobuz:1065665`
+- **The Crystal Method** — Busy Child [Vegas] (7:24) `isrc:USOR19700302` `qobuz:168757727`
+- **Rammstein** — Du hast [Made In Germany 1995 - 2011] (3:54) `isrc:DEUM71103421` `qobuz:4531064`
+- **The Cure** — Wrong Number [Greatest Hits] (6:01) `isrc:GBALB9700001` `qobuz:785261`
+- **Garbage** — Push It [Version 2.0] (4:02) `isrc:USAL19800028` `qobuz:387298931`
+- **Stabbing Westward** — Save Yourself [Darkest Days] (4:13) `isrc:USSM19703731` `qobuz:41662`
+- **Apollo 440** — Stop the Rock [Gettin' High On Your Own Supply] (3:32) `isrc:GBBBM9902102` `qobuz:13373075`
+- **Radiohead** — Idioteque [Kid A] (5:09) `isrc:GBAYE0000817` `qobuz:33930458`
+- **Fischerspooner** — Emerge [#1] (4:48) `isrc:USFS20200002` `qobuz:1011683`
+- **Ladytron** — Seventeen [Light & Magic] (4:37) `isrc:CAN111000309` `qobuz:154193585`
+- **The Rapture** — House Of Jealous Lovers [Echoes] (5:04) `isrc:GBF080300283` `qobuz:248110964`
+- **Le Tigre** — TKO [This Island] (3:24) `isrc:USUR10400848` `qobuz:4330411`
+- **The Faint** — Agenda Suicide [Danse Macabre] (3:58) `isrc:US2U60403701` `qobuz:129155162`
+- **The Killers** — Somebody Told Me [Hot Fuss] (3:17) `isrc:USIR20400195` `qobuz:99162964`
+- **Soulwax** — NY Excuse [Any Minute Now] (4:50) `isrc:BEP010400109` `qobuz:3462838`
+- **Death In Vegas** — Scorpio Rising [Scorpio Rising] (5:37) `isrc:GBARL0200107` `qobuz:37361435`
+- **The Bravery** — An Honest Mistake [The Bravery] (3:39) `isrc:USIR20500157` `qobuz:57937036`
+- **LCD Soundsystem** — Daft Punk Is Playing at My House [Daft Punk Is Playing at My House] (3:21) `isrc:US4GE0400025` `qobuz:11690540`
+- **Ennio Morricone** — A Lidia (From "Scusi facciamo l'amore - Listen, Let's Make Love") [Maestro Ennio Morricone Greatest Hits] (2:38) `isrc:GBHGA1527808` `qobuz:55817497`
+- **Goldfrapp** — Ooh La La [Supernature] (3:24) `isrc:GBAJH0500954` `qobuz:388789537`
+- **Daft Punk** — Robot Rock / Oh Yeah [Alive 2007] (6:27) `isrc:GBDUW0700001` `qobuz:1758308`
+- **Shiny Toy Guns** — Le Disko [We Are Pilots] (3:23) `isrc:USUM70606691` `qobuz:148404218`
+- **Ratatat** — Loud Pipes [Classics] (3:46) `isrc:GBBKS0600074` `qobuz:2484016`
+- **Muse** — Starlight [Black Holes and Revelations] (3:59) `isrc:GBAYE1500853` `qobuz:27145828`
+- **Justice** — Genesis [Justice] (3:55) `isrc:FR0NT0700300` `qobuz:1722786`
+- **MGMT** — Kids [Oracular Spectacular] (5:02) `isrc:USSM10702135` `qobuz:16632`
+- **The Presets** — My People [Apocalypso] (4:27) `isrc:AUUM70700903` `qobuz:13166905`
+- **Pendulum** — Propane Nightmares [In Silico] (5:13) `isrc:GBAHT0800150` `qobuz:2977718`
+- **Does It Offend You, Yeah?** — We Are Rockstars [We Are Rockstars] (2:58) `isrc:GBAAA0701625` `qobuz:2488088`
+- **Innerpartysystem** — Don't Stop [Innerpartysystem] (4:42) `isrc:USUM70820105` `qobuz:91999584`
+- **The Big Pink** — Dominos [A Brief History of Love] (3:46) `isrc:GBAFL0900085` `qobuz:2331379`
+- **Editors** — Papillon [In This Light and on This Evening] (5:24) `isrc:GBGAC0900029` `qobuz:3461313`
+- **The Naked And Famous** — Young Blood [Passive Me, Aggressive You] (4:06) `isrc:NZNK11000001` `qobuz:388668376`
+- **Phantogram** — When I'm Small [Eyelid Movies] (4:09) `isrc:USBS51300075` `qobuz:73705302`
+- **Crystal Castles** — Not In Love [(II)] (3:46) `isrc:GBUM71029513` `qobuz:195932080`
+- **Sleigh Bells** — Rill Rill [Treats] (3:49) `isrc:USQE91000035` `qobuz:46247504`
+- **M83** — Midnight City [Hurry up, We're Dreaming] (4:03) `isrc:GB55H1100002` `qobuz:54054284`
+- **AWOLNATION** — Sail [Megalithic Symphony] (4:19) `isrc:USP6L1000053` `qobuz:116174588`
+- **Breathe Carolina** — Blackout [Hell Is What You Make It] (3:29) `isrc:US5261115303` `qobuz:5402932`
+- **Imagine Dragons** — Radioactive [Night Visions] (3:06) `isrc:USUM71201074` `qobuz:7593467`
+- **Linkin Park** — BURN IT DOWN [LIVING THINGS] (3:50) `isrc:USWB11200588` `qobuz:11092333`
+- **Metric** — Youth Without Youth [Synthetica] (4:17) `isrc:CARB71211202` `qobuz:91377442`
+- **CHVRCHES** — The Mother We Share [The Bones Of What You Believe] (3:11) `isrc:GBZN82300001` `qobuz:232776853`
+- **Atoms For Peace** — Default [AMOK] (5:15) `isrc:GB4YG1200011` `qobuz:7955230`
+- **††† (Crosses)** — Bitches Brew [††† (Crosses)] (3:28) `isrc:USYFZ1448003` `qobuz:229990693`
+- **Modestep** — Feel Good [Evolution Theory] (4:10) `isrc:GBUM71204371` `qobuz:8566185`
+- **Starset** — My Demons [Transmissions] (4:48) `isrc:USRZR1460007` `qobuz:54431476`
+- **PVRIS** — St. Patrick [White Noise] (4:20) `isrc:USEK71424902` `qobuz:385323624`
+- **twenty one pilots** — Stressed Out [Blurryface] (3:22) `isrc:USAT21500628` `qobuz:23100557`
+- **Health** — TEARS [Max Payne 3 Official Soundtrack] (4:17) `isrc:TCABG1229472` `qobuz:186013333`
+- **Enter Shikari** — The Last Garrison [Alternative Spirit] (3:41) `isrc:GBNPA1400085` `qobuz:33624165`
+- **The Black Queen** — Ice to Never [Fever Daydream] (4:46) `isrc:TCACK1548625` `qobuz:292635167`
+- **3TEETH** — Atrophy [Shutdown.ɘxe] (3:36) `isrc:QM6XS1703739` `qobuz:40215852`
+- **Bring Me The Horizon** — MANTRA [amo] (3:53) `isrc:GBARL1801065` `qobuz:55104135`
+- **half•alive** — still feel. [Now, Not Yet] (4:07) `isrc:GBKPL1814938` `qobuz:62563090`
+- **Waterparks** — Turbulent [FANDOM] (2:42) `isrc:USHR21912801` `qobuz:120897453`
+- **I DONT KNOW HOW BUT THEY FOUND ME** — Choke [Choke] (3:15) `isrc:TCADH1774692` `qobuz:52593270`

@@ -1,0 +1,108 @@
+# Genre: Avantgarde Metal
+
+Imported genre playlist: Avantgarde Metal.
+
+Services: `qobuz:66735814`
+
+## Tracks (100)
+
+- **Celtic Frost** — Mexican Radio [Into the Pandemonium] (3:29) `isrc:DEA249919001` `qobuz:385316268`
+- **Disharmonic Orchestra** — Introphylaxe [Expositionsprophylaxe (Re-Mastered)] (1:33) `isrc:ATDR02019010` `qobuz:101745838`
+- **Naked City** — Batman [Naked City Live vol. 1: Knitting Factory 1989] (2:06) `isrc:USCRW0233601` `qobuz:87124216`
+- **Vladimir Spivakov** — I. Andante (Arr. From Violin Sonata No. 1) [Schnittke, A.: Violin Sonata No. 1 / Suite in the Old Style / 5 Fragmente Zu Bildern Von Hieronymus Bosch] (2:30) `isrc:DEB260200249` `qobuz:303439777`
+- **Painkiller** — Scud Attack [Guts of a Virgin - Buried Secrets] (3:06) `isrc:GBBPB0702022` `qobuz:94935748`
+- **Mr. Bungle** — Quote Unquote [Mr. Bungle] (6:56) `isrc:USWB19903992` `qobuz:2934276`
+- **Atheist** — Mother Man [Unquestionable Presence] (4:32) `isrc:FR33T1227801` `qobuz:184904902`
+- **Undermine** — Divine Step (Conspectu Mortis) [Muy Lejos De Encontrar La Paz] (6:50) `isrc:QM4TX1880087` `qobuz:80826519`
+- **Thought Industry** — The Chalice Vermillion [Songs for Insects] (10:07) `isrc:USMBR0705625` `qobuz:60755836`
+- **Pan.thy.monium** — The Battle of Geeheeb [Khaooohs and Kon-Fus-Ion] (11:55) `isrc:US2649693601` `qobuz:18605488`
+- **Cynic** — Veil of Maya [Focus] (5:20) `isrc:NLA329300800` `qobuz:2810459`
+- **Voivod** — Jack Luminous [The Outer Limits] (17:28) `isrc:USMC19340523` `qobuz:6988843`
+- **Boris** — Absolutego [Dear] (4:55) `isrc:QZDA62357764` `qobuz:202226502`
+- **Today Is The Day** — Temple of the Morning Star [Temple of the Morning Star] (2:51) `isrc:QMBZ92197010` `qobuz:126080463`
+- **Arcturus** — The Chaos Path [La Masquerade Infernale] (5:33) `isrc:DES561826103` `qobuz:189629081`
+- **Strapping Young Lad** — Detox [City] (5:36) `isrc:US4E40736504` `qobuz:61948813`
+- **Devin Townsend** — Bad Devil [Infinity] (4:52) `isrc:GBDHC0910703` `qobuz:27674610`
+- **Duke Ellington & His Cotton Club Orchestra** — A Night at the Cotton Club, Part 1 (Cotton Club Stomp / Misty Mornin') [Ellington In Order, Volume 2 (1928-30)] (3:48) `isrc:USBB19900060` `qobuz:218615782`
+- **Steven Osborne** — Debussy: Pièce pour le Vêtement du blessé "Page d'album", CD 141 ["Bal fantôme": Romantic works] (1:04) `isrc:GBAJY2239020` `qobuz:356917916`
+- **Dog Fashion Disco** — Mushroom Cult [Anarchists of Good Taste (2018 Deluxe Edition)] (4:27) `isrc:TCADY1817194` `qobuz:212861960`
+- **Sleepytime Gorilla Museum** — Salamander in Two Worlds [of the Last Human Being] (6:30) `isrc:USJZA2480101` `qobuz:234319544`
+- **Tub Ring** — Invalid [Fermi Paradox] (3:53) `isrc:USA370693306` `qobuz:165483009`
+- **Carnival In Coal** — Fuckable [Collection Prestige] (4:03) `isrc:GBBPB0500030` `qobuz:94932900`
+- **Stolen Babies** — Splatter [Naught] (3:14) `isrc:USLN71201057` `qobuz:6378075`
+- **Hammers of Misfortune** — The Locust Years [The Locust Years] (7:32) `isrc:ITI290601501` `qobuz:73850481`
+- **Polkadot Cadaver** — Chloroform Girl [Purgatory Dance Party] (2:56) `isrc:USDXG0603208` `qobuz:63283932`
+- **Diablo Swing Orchestra** — Balrog Boogie [The Butcher's Ballroom] (3:53) `isrc:GBADD0719501` `qobuz:189008531`
+- **Pin-up went down** — Vaginaal Nathrakh [342] (4:23) `isrc:TCAGL2210442` `qobuz:172317987`
+- **Will Wood** — Ideas Only Spread Because People Like Them, the "Free Market of Ideas" is not a Meritocracy, it's a Set of Unhealthy Coping Skills and a Corporate Oligarchy, Wake Up, Man! Don't Let the Lies Dim Your Light! anyway this one's black box warrior (2024 edit) [The New Normal! (The Normal Album 2024 Edit)] (4:51) `isrc:QZTB42455071` `qobuz:283222575`
+- **6:33** — (I Should Have Known) Her Name Was Boogie [The Stench from the Swelling (A True Story)] (5:53) `isrc:FR9W11302268` `qobuz:153008045`
+- **R. Missing** — I’m Not a Guide, I’m a Professional Driver [I’m Not a Guide, I’m a Professional Driver] (3:07) `isrc:QZK6L2605909` `qobuz:393303544`
+- **Igorrr** — Very Noise [Spirituality and Distortion] (1:47) `isrc:USMBR1913985` `qobuz:83142641`
+- **Ram-Zet** — The Fall [Pure Therapy] (4:37) `isrc:FIUM71301155` `qobuz:190419192`
+- **Aghora** — Satya (Remastered) [Aghora (Remastered)] (5:54) `isrc:USCGH2127577` `qobuz:112433115`
+- **Maudlin of the Well** — The Curve That to an Angle Turn'd [Leaving Your Body Map] (8:22) `isrc:TCAAZ1187603` `qobuz:188586756`
+- **The Beatles** — Here Comes The Sun [Abbey Road] (3:05) `isrc:GBUM71903335` `qobuz:64868961`
+- **Kayo Dot** — The Manifold Curiosity [Choirs Of The Eye] (14:28) `isrc:USCRW0309203` `qobuz:87115493`
+- **Ephel Duath** — Labyrinthine [The Painters Palette] (5:21) `isrc:GBBPB0701775` `qobuz:94938005`
+- **Avatar** — Silence in the Age of Apes [Hunter Gatherer] (4:21) `isrc:USKO12000081` `qobuz:93447779`
+- **Yakuza** — Stones and Bones [Of Seismic Consequence] (5:34) `isrc:USN681010070` `qobuz:52234806`
+- **Trepalium** — Sick Boogie Murder [Alchemik Clockwork Of Disorder] (3:20) `isrc:FR7M00610811` `qobuz:10353044`
+- **Liselotte Rebmann** — Hojotoho! Hojotoho! "Walkürenritt" - War't ihr Kühnen zu zwei? [Wagner : Die Walküre] (8:09) `isrc:DEF056630041` `qobuz:34217372`
+- **Shining** — Fisheye [Blackjazz] (5:08) `isrc:NOCVC1045020` `qobuz:31608905`
+- **Ex Eye** — Xenolith; the Anvil [Ex Eye] (3:55) `isrc:US2641738501` `qobuz:40483788`
+- **Imperial Triumphant** — Swarming Opulence [Vile Luxury] (6:25) `isrc:GBDHC2444801` `qobuz:248517344`
+- **White Ward** — Love Exchange Failure [Love Exchange Failure] (11:55) `isrc:FR9W11914386` `qobuz:64215295`
+- **Ved Buens Ende** — I Sang for the Swans [Written in Waters] (7:01) `isrc:DEZ901801070` `qobuz:79713740`
+- **Gorguts** — Obscura [Obscura] (4:04) `isrc:US4E41300501` `qobuz:29050966`
+- **Dodheimsgard** — Shiva Interfere [666 International] (9:10) `isrc:GBCQV1100788` `qobuz:51103272`
+- **Sigh** — Corpsecry - Angelfall [Imaginary Sonicscape] (6:42) `isrc:US4E40607401` `qobuz:27562273`
+- **Blut Aus Nord** — The Choir Of The Dead [The Work Which Transforms God] (6:40) `isrc:GBADD0409402` `qobuz:160834076`
+- **Big L** — Put It On [Lifestylez Ov Da Poor & Dangerous] (3:37) `isrc:USSM10022977` `qobuz:33110`
+- **Deathspell Omega** — Wings of Predation [Paracletus] (3:40) `isrc:FR33T1080902` `qobuz:51183149`
+- **Portal** — Curtain [Vexovoid] (5:57) `isrc:USN681310014` `qobuz:52287387`
+- **Ulcerate** — Everything Is Fire [Everything Is Fire] (7:51) `isrc:USRMX0900008` `qobuz:54548689`
+- **Elvis Presley** — Are You Lonesome Tonight? [Number Ones Of The Sixties] (3:10) `isrc:UK3XS1400281` `qobuz:28090484`
+- **Howard Shore** — The Caverns of Isengard [The Lord of the Rings: The Fellowship of the Ring - the Complete Recordings] (4:54) `isrc:USRE10501646` `qobuz:48497425`
+- **Krallice** — Forgiveness in Rot [Krallice] (15:21) `isrc:USHM21634583` `qobuz:81531907`
+- **Mitochondrion** — Vacuuole [Vitriseptome] (8:46) `isrc:USN682431106` `qobuz:287527185`
+- **Baring Teeth** — Atrophy [Atrophy] (3:10) `isrc:USRMX1100038` `qobuz:49089027`
+- **Pyrrhon** — The Oracle of Nassau [The Mother of Virtues] (1:25) `isrc:US2641425601` `qobuz:14862522`
+- **Ritchie Blackmore's Rainbow** — A Light In The Black [Rising] (8:11) `isrc:USPR37689219` `qobuz:3881950`
+- **Thantifaxath** — Void Masquerading as Matter [Void Masquerading as Matter] (7:32) `isrc:USA2Z2300049` `qobuz:194228738`
+- **Men I Trust** — Nasty Ostinato Ad Nauseam Snap Bass Caron [Men I Trust] (1:49) `isrc:USHM21433145` `qobuz:277639276`
+- **The Who** — My Generation [My Generation] (3:19) `isrc:GBUM71406026` `qobuz:20554382`
+- **Akhlys** — Somniloquy [Melinoë] (8:37) `isrc:FR9W12022306` `qobuz:102053136`
+- **Bryson Echo Rocker** — Echoes in the Darkness [Mirror Ball] (1:50) `isrc:BK4DA2460459` `qobuz:306438286`
+- **Artificial Brain** — Celestial Cyst [Artificial Brain] (4:30) `isrc:USN682227303` `qobuz:150705702`
+- **Dodecahedron** — Tetrahedron: The Culling of the Unwanted from the Earth [Tetrahedron: The Culling of the Unwanted from the Earth] (4:34) `isrc:FR33T1787302` `qobuz:77781192`
+- **Oranssi Pazuzu** — Ilmestys [Mestarin kynsi] (7:14) `isrc:DED831901477` `qobuz:86887814`
+- **Abstrakt Algebra** — Stigmata [Abstrakt Algebra] (5:42) `isrc:SEWFK2205001` `qobuz:183050801`
+- **Flogging Molly** — A Song Of Liberty [Anthem] (3:37) `isrc:QMRSZ2200322` `qobuz:380463027`
+- **Solefald** — Fluorescent (The Total Orchestra) [Neonism] (5:21) `isrc:GBCQV0900461` `qobuz:50995153`
+- **Green Carnation** — Light of Day, Day of Darkness [Light of Day, Day of Darkness] (60:05) `isrc:DES560204201` `qobuz:189651343`
+- **Khanate** — Pieces of Quiet [Khanate] (13:22) `isrc:GX8KD2204386` `qobuz:205458183`
+- **Cephalic Carnage** — Ohrwurm [Misled by Certainty] (4:56) `isrc:US2641005509` `qobuz:60705740`
+- **Katerine Duska** — Won't Leave [Embodiment] (3:23) `isrc:GRUM71402376` `qobuz:29448752`
+- **Triptykon** — Goetia [Eparistera Daimones] (11:00) `isrc:US4E41069201` `qobuz:27580754`
+- **Moon Duo** — The Crystal World [Occult Architecture Vol. 2] (10:08) `isrc:US5NR1616905` `qobuz:41790703`
+- **Spektr** — The Art to Disappear [The Art to Disappear] (10:43) `isrc:QMBZ91588654` `qobuz:312716884`
+- **Author & Punisher** — Nihil Strength [Beastland] (3:36) `isrc:US2641838302` `qobuz:51734546`
+- **Ne Obliviscaris** — And Plague Flowers the Kaleidoscope [Portal of I] (11:32) `isrc:AU7V11100005` `qobuz:188585767`
+- **Ihsahn** — Heavens Black Sea [After] (6:17) `isrc:GBADD0928806` `qobuz:189977395`
+- **Zeal & Ardor** — Devil Is Fine [Devil Is Fine] (3:12) `isrc:FR59R1612424` `qobuz:35862433`
+- **The Algorithm** — brute force [Brute Force] (5:21) `isrc:QM5LC1600010` `qobuz:49635491`
+- **Ashenspire** — The Law of Asbestos [Hostile Architecture] (8:31) `isrc:ITJ352001875` `qobuz:165049496`
+- **Godflesh** — Like Rats [Streetcleaner] (4:28) `isrc:GBBPB0401316` `qobuz:20095956`
+- **Helmet** — In The Meantime [Meantime] (3:08) `isrc:USIR19200541` `qobuz:3898892`
+- **Alchemist** — Spirittechnology [Embryonics] (6:34) `isrc:US2640645820` `qobuz:60685255`
+- **Amped Alley** — Projecting Self Reflections [Ashes Of A Broken Soul] (3:43) `isrc:QT6EG2651094` `qobuz:431600276`
+- **Candiria** — Pull [Process of Self Development] (3:55) `isrc:QM4DW1567265` `qobuz:148529354`
+- **SUNN O)))** — It Took the Night to Believe [Black One] (5:56) `isrc:USZPA0901514` `qobuz:60615596`
+- **Melvins** — Honey Bucket [Houdini] (3:01) `isrc:USAT20103379` `qobuz:2797789`
+- **Tomahawk** — God Hates a Coward [Tomahawk] (2:39) `isrc:US4N80500767` `qobuz:407948283`
+- **John Moreland & The Dust Bowl Souls** — Hounds of Youth [Everything the Hard Way] (3:23) `isrc:USX9P1165559` `qobuz:80175588`
+- **Noir Désir** — One Trip One Noise [One Trip One Noise] (5:25) `isrc:FRZ019801830` `qobuz:19603187`
+- **The Body** — To Carry the Seeds of Death Within Me [I Shall Die Here / Earth Triumphant] (6:29) `isrc:US6PQ1400001` `qobuz:202389249`
+- **The Dillinger Escape Plan** — Panasonic Youth [Miss Machine] (2:27) `isrc:US2640458701` `qobuz:45399867`
+- **Car Bomb** — Lights Out [Meta] (4:17) `isrc:USHM21692751` `qobuz:69580051`
+- **Genghis Tron** — Board Up the House [Board Up the House] (5:54) `isrc:US2640878901` `qobuz:60619058`

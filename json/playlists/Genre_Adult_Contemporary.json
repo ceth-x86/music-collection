@@ -1,0 +1,1009 @@
+{
+  "name": "Genre: Adult Contemporary",
+  "services": {
+    "qobuz": "66736104"
+  },
+  "description": "Imported genre playlist: Adult Contemporary.",
+  "tracks": [
+    {
+      "artist": "B.J. Thomas",
+      "title": "Raindrops Keep Fallin' On My Head",
+      "services": {
+        "qobuz": "208335173"
+      },
+      "album": "Raindrops Keep Fallin' On My Head (Re-Recorded - Sped Up)",
+      "duration": 177,
+      "isrc": "USA370942037"
+    },
+    {
+      "artist": "The Carpenters",
+      "title": "(They Long To Be) Close To You",
+      "services": {
+        "qobuz": "55717620"
+      },
+      "album": "Carpenters With The Royal Philharmonic Orchestra",
+      "duration": 220,
+      "isrc": "USUM71815356"
+    },
+    {
+      "artist": "James Taylor",
+      "title": "You've Got a Friend",
+      "services": {
+        "qobuz": "14345372"
+      },
+      "album": "Mud Slide Slim And The Blue Horizon",
+      "duration": 269,
+      "isrc": "USWB11304018"
+    },
+    {
+      "artist": "Roberta Flack",
+      "title": "Killing Me Softly With His Song",
+      "services": {
+        "qobuz": "193868328"
+      },
+      "album": "Killing Me Softly With His Song",
+      "duration": 354,
+      "isrc": "USRH12300051"
+    },
+    {
+      "artist": "Neil Diamond",
+      "title": "Song Sung Blue",
+      "services": {
+        "qobuz": "76992291"
+      },
+      "album": "All-Time Greatest Hits",
+      "duration": 185,
+      "isrc": "USUG11400705"
+    },
+    {
+      "artist": "John Denver",
+      "title": "Annie's Song",
+      "services": {
+        "qobuz": "60748334"
+      },
+      "album": "Back Home Again",
+      "duration": 180,
+      "isrc": "USRC17403082"
+    },
+    {
+      "artist": "Barbra Streisand",
+      "title": "Evergreen (Love Theme from \"A Star Is Born\")",
+      "services": {
+        "qobuz": "17632"
+      },
+      "album": "A Star Is Born",
+      "duration": 184,
+      "isrc": "USSM10001384"
+    },
+    {
+      "artist": "Barry Manilow",
+      "title": "Mandy",
+      "services": {
+        "qobuz": "338839"
+      },
+      "album": "The Essential Barry Manilow",
+      "duration": 201,
+      "isrc": "USAR17500146"
+    },
+    {
+      "artist": "Bread",
+      "title": "If",
+      "services": {
+        "qobuz": "2943212"
+      },
+      "album": "The Best of Bread",
+      "duration": 155,
+      "isrc": "USEE10181208"
+    },
+    {
+      "artist": "Seals & Crofts",
+      "title": "Summer Breeze",
+      "services": {
+        "qobuz": "2934389"
+      },
+      "album": "Summer Breeze",
+      "duration": 205,
+      "isrc": "USWB19901645"
+    },
+    {
+      "artist": "Billy Joel",
+      "title": "Just the Way You Are",
+      "services": {
+        "qobuz": "11465767"
+      },
+      "album": "The Essential Billy Joel",
+      "duration": 290,
+      "isrc": "USSM17700371"
+    },
+    {
+      "artist": "Bee Gees",
+      "title": "How Deep Is Your Love",
+      "services": {
+        "qobuz": "37473580"
+      },
+      "album": "Greatest",
+      "duration": 244,
+      "isrc": "GBAKW7701005"
+    },
+    {
+      "artist": "Chicago",
+      "title": "If You Leave Me Now",
+      "services": {
+        "qobuz": "8766738"
+      },
+      "album": "X",
+      "duration": 238,
+      "isrc": "USRH11300066"
+    },
+    {
+      "artist": "Anne Murray",
+      "title": "You Needed Me",
+      "services": {
+        "qobuz": "4381942"
+      },
+      "album": "Let's Keep It That Way",
+      "duration": 218,
+      "isrc": "CAE157800006"
+    },
+    {
+      "artist": "Christopher Cross",
+      "title": "Sailing",
+      "services": {
+        "qobuz": "2932927"
+      },
+      "album": "Christopher Cross",
+      "duration": 256,
+      "isrc": "USWB19901344"
+    },
+    {
+      "artist": "Air Supply",
+      "title": "All Out of Love",
+      "services": {
+        "qobuz": "44395469"
+      },
+      "album": "Lost in Love",
+      "duration": 243,
+      "isrc": "USAR18000002"
+    },
+    {
+      "artist": "Journey",
+      "title": "Open Arms",
+      "services": {
+        "qobuz": "378395"
+      },
+      "album": "Greatest Hits",
+      "duration": 199,
+      "isrc": "USSM18100126"
+    },
+    {
+      "artist": "Foreigner",
+      "title": "I Want to Know What Love Is",
+      "services": {
+        "qobuz": "14083922"
+      },
+      "album": "I Want to Know What Love Is - The Ballads",
+      "duration": 286,
+      "isrc": "USRZR1113634"
+    },
+    {
+      "artist": "Bonnie Tyler",
+      "title": "Total Eclipse of the Heart",
+      "services": {
+        "qobuz": "91145244"
+      },
+      "album": "Faster Than the Speed of Night",
+      "duration": 418,
+      "isrc": "GBBBN8302012"
+    },
+    {
+      "artist": "Phil Collins",
+      "title": "Against All Odds (Take a Look at Me Now)",
+      "services": {
+        "qobuz": "34601517"
+      },
+      "album": "The Singles",
+      "duration": 206,
+      "isrc": "USRH11603367"
+    },
+    {
+      "artist": "Lionel Richie",
+      "title": "Hello",
+      "services": {
+        "qobuz": "15957184"
+      },
+      "album": "Can't Slow Down",
+      "duration": 248,
+      "isrc": "USMO18390012"
+    },
+    {
+      "artist": "George Michael",
+      "title": "Careless Whisper",
+      "services": {
+        "qobuz": "3488744"
+      },
+      "album": "Ladies & Gentlemen: The Best Of George Michael",
+      "duration": 300,
+      "isrc": "GBBBM8402006"
+    },
+    {
+      "artist": "Whitney Houston",
+      "title": "Greatest Love of All",
+      "services": {
+        "qobuz": "7149"
+      },
+      "album": "Whitney Houston",
+      "duration": 297,
+      "isrc": "USAR18500139"
+    },
+    {
+      "artist": "Chris De Burgh",
+      "title": "The Lady In Red",
+      "services": {
+        "qobuz": "53245286"
+      },
+      "album": "Into The Light",
+      "duration": 256,
+      "isrc": "GBAAM8600001"
+    },
+    {
+      "artist": "Peter Cetera",
+      "title": "Glory of Love",
+      "services": {
+        "qobuz": "2883904"
+      },
+      "album": "Solitude / Solitaire",
+      "duration": 258,
+      "isrc": "USWB10000619"
+    },
+    {
+      "artist": "Paul Young",
+      "title": "Every Time You Go Away",
+      "services": {
+        "qobuz": "2822818"
+      },
+      "album": "The Secret Of Association",
+      "duration": 324,
+      "isrc": "GBBBN0400310"
+    },
+    {
+      "artist": "Simply Red",
+      "title": "Holding Back the Years",
+      "services": {
+        "qobuz": "2996920"
+      },
+      "album": "Picture Book",
+      "duration": 266,
+      "isrc": "GBAHS8504143"
+    },
+    {
+      "artist": "Spandau Ballet",
+      "title": "True",
+      "services": {
+        "qobuz": "12024122"
+      },
+      "album": "True",
+      "duration": 393,
+      "isrc": "GBAYK0200008"
+    },
+    {
+      "artist": "Richard Marx",
+      "title": "Right Here Waiting",
+      "services": {
+        "qobuz": "4601104"
+      },
+      "album": "Repeat Offender",
+      "duration": 264,
+      "isrc": "USEM38900208"
+    },
+    {
+      "artist": "Bette Midler",
+      "title": "Wind Beneath My Wings",
+      "services": {
+        "qobuz": "2952857"
+      },
+      "album": "Beaches (Original Soundtrack Recording)",
+      "duration": 293,
+      "isrc": "USAT29900553"
+    },
+    {
+      "artist": "Mike + The Mechanics",
+      "title": "The Living Years",
+      "services": {
+        "qobuz": "245587971"
+      },
+      "album": "Out Of The Blue",
+      "duration": 332,
+      "isrc": "GB5KW1900096"
+    },
+    {
+      "artist": "Heart",
+      "title": "Alone",
+      "services": {
+        "qobuz": "117879387"
+      },
+      "album": "Bad Animals",
+      "duration": 218,
+      "isrc": "USCA28700690"
+    },
+    {
+      "artist": "Starship",
+      "title": "Nothing's Gonna Stop Us Now",
+      "services": {
+        "qobuz": "57003439"
+      },
+      "album": "No Protection",
+      "duration": 270,
+      "isrc": "USRC18702968"
+    },
+    {
+      "artist": "Gloria Estefan",
+      "title": "Anything For You",
+      "services": {
+        "qobuz": "46877879"
+      },
+      "album": "Essential Love Ballads",
+      "duration": 222,
+      "isrc": "USSM18800443"
+    },
+    {
+      "artist": "Michael Jackson",
+      "title": "I Just Can't Stop Loving You",
+      "services": {
+        "qobuz": "6344113"
+      },
+      "album": "Bad 25th Anniversary",
+      "duration": 253,
+      "isrc": "USSM11204987"
+    },
+    {
+      "artist": "C\u00e9line Dion",
+      "title": "My Heart Will Go On",
+      "services": {
+        "qobuz": "265938862"
+      },
+      "album": "I AM: CELINE DION (Original Motion Picture Soundtrack)",
+      "duration": 283,
+      "isrc": "CAC222400019"
+    },
+    {
+      "artist": "Mariah Carey",
+      "title": "Hero",
+      "services": {
+        "qobuz": "226879454"
+      },
+      "album": "Music Box",
+      "duration": 257,
+      "isrc": "USSM19303171"
+    },
+    {
+      "artist": "Michael Bolton",
+      "title": "A Love So Beautiful",
+      "services": {
+        "qobuz": "98389532"
+      },
+      "album": "When A Man Loves A Woman: The Love Songs of Michael Bolton",
+      "duration": 245,
+      "isrc": "USSM19501102"
+    },
+    {
+      "artist": "Bryan Adams",
+      "title": "(Everything I Do) I Do It For You",
+      "services": {
+        "qobuz": "647366"
+      },
+      "album": "Waking Up The Neighbours",
+      "duration": 393,
+      "isrc": "USAM19190012"
+    },
+    {
+      "artist": "Toni Braxton",
+      "title": "Un-Break My Heart",
+      "services": {
+        "qobuz": "9211201"
+      },
+      "album": "Secrets",
+      "duration": 270,
+      "isrc": "USLF29600015"
+    },
+    {
+      "artist": "Seal",
+      "title": "Kiss from a Rose",
+      "services": {
+        "qobuz": "2356064"
+      },
+      "album": "Seal",
+      "duration": 288,
+      "isrc": "USWB19900917"
+    },
+    {
+      "artist": "Eric Clapton",
+      "title": "Tears in Heaven",
+      "services": {
+        "qobuz": "176716599"
+      },
+      "album": "Unplugged",
+      "duration": 280,
+      "isrc": "USRE11300314"
+    },
+    {
+      "artist": "Sarah McLachlan",
+      "title": "Angel",
+      "services": {
+        "qobuz": "2719535"
+      },
+      "album": "Surfacing",
+      "duration": 270,
+      "isrc": "USAR19700531"
+    },
+    {
+      "artist": "Shania Twain",
+      "title": "You're Still The One",
+      "services": {
+        "qobuz": "218890990"
+      },
+      "album": "Come On Over",
+      "duration": 212,
+      "isrc": "USMR19887499"
+    },
+    {
+      "artist": "Savage Garden",
+      "title": "Truly Madly Deeply",
+      "services": {
+        "qobuz": "31753046"
+      },
+      "album": "Savage Garden",
+      "duration": 277,
+      "isrc": "USSM19700100"
+    },
+    {
+      "artist": "Vanessa Williams",
+      "title": "Save The Best For Last",
+      "services": {
+        "qobuz": "13442820"
+      },
+      "album": "The Comfort Zone",
+      "duration": 218,
+      "isrc": "USPG19190052"
+    },
+    {
+      "artist": "Rod Stewart",
+      "title": "Have I Told You Lately",
+      "services": {
+        "qobuz": "115002715"
+      },
+      "album": "Cupid",
+      "duration": 239,
+      "isrc": "USWB12100182"
+    },
+    {
+      "artist": "Sting",
+      "title": "Fields Of Gold (My Songs Version)",
+      "services": {
+        "qobuz": "61878330"
+      },
+      "album": "My Songs (Deluxe)",
+      "duration": 226,
+      "isrc": "USUM71903415"
+    },
+    {
+      "artist": "Jewel",
+      "title": "You Were Meant For Me",
+      "services": {
+        "qobuz": "128404906"
+      },
+      "album": "Pieces Of You",
+      "duration": 254,
+      "isrc": "USC4R2003800"
+    },
+    {
+      "artist": "Natalie Imbruglia",
+      "title": "Torn",
+      "services": {
+        "qobuz": "269687"
+      },
+      "album": "Left Of The Middle",
+      "duration": 244,
+      "isrc": "GBARL9700412"
+    },
+    {
+      "artist": "Elton John",
+      "title": "Can You Feel the Love Tonight",
+      "services": {
+        "qobuz": "26601719"
+      },
+      "album": "The Lion King - Walt Disney Records The Legacy Collection",
+      "duration": 240,
+      "isrc": "USWD10220758"
+    },
+    {
+      "artist": "Amy Grant",
+      "title": "Every Heartbeat",
+      "services": {
+        "qobuz": "106897507"
+      },
+      "album": "Heart In Motion",
+      "duration": 213,
+      "isrc": "USSP30765180"
+    },
+    {
+      "artist": "Extreme",
+      "title": "More Than Words",
+      "services": {
+        "qobuz": "21758614"
+      },
+      "album": "Extreme II: Pornograffitti",
+      "duration": 333,
+      "isrc": "USAM19090005"
+    },
+    {
+      "artist": "The Corrs",
+      "title": "Runaway",
+      "services": {
+        "qobuz": "3000420"
+      },
+      "album": "Forgiven, Not Forgotten",
+      "duration": 265,
+      "isrc": "USAT29500004"
+    },
+    {
+      "artist": "Brian McKnight",
+      "title": "Back At One",
+      "services": {
+        "qobuz": "3881297"
+      },
+      "album": "Back At One",
+      "duration": 263,
+      "isrc": "USMO19900016"
+    },
+    {
+      "artist": "Norah Jones",
+      "title": "Don't Know Why",
+      "services": {
+        "qobuz": "63333861"
+      },
+      "album": "Come Away With Me",
+      "duration": 186,
+      "isrc": "USBN21200333"
+    },
+    {
+      "artist": "Dido",
+      "title": "White Flag",
+      "services": {
+        "qobuz": "3438243"
+      },
+      "album": "Life For Rent",
+      "duration": 240,
+      "isrc": "GBBXH0300035"
+    },
+    {
+      "artist": "John Mayer",
+      "title": "Daughters",
+      "services": {
+        "qobuz": "33318568"
+      },
+      "album": "Heavier Things",
+      "duration": 239,
+      "isrc": "USSM10310154"
+    },
+    {
+      "artist": "Vanessa Carlton",
+      "title": "A Thousand Miles",
+      "services": {
+        "qobuz": "3879319"
+      },
+      "album": "Be Not Nobody",
+      "duration": 236,
+      "isrc": "USIR10210955"
+    },
+    {
+      "artist": "Michelle Branch",
+      "title": "All You Wanted",
+      "services": {
+        "qobuz": "2770604"
+      },
+      "album": "The Spirit Room",
+      "duration": 218,
+      "isrc": "USMV20100082"
+    },
+    {
+      "artist": "Train",
+      "title": "Drops of Jupiter (Tell Me)",
+      "services": {
+        "qobuz": "14069842"
+      },
+      "album": "Drops Of Jupiter",
+      "duration": 259,
+      "isrc": "USSM10019751"
+    },
+    {
+      "artist": "Matchbox Twenty",
+      "title": "Unwell",
+      "services": {
+        "qobuz": "11091999"
+      },
+      "album": "More Than You Think You Are",
+      "duration": 228,
+      "isrc": "USAT21204119"
+    },
+    {
+      "artist": "Maroon 5",
+      "title": "She Will Be Loved",
+      "services": {
+        "qobuz": "3890217"
+      },
+      "album": "Songs About Jane",
+      "duration": 256,
+      "isrc": "USJAY0300082"
+    },
+    {
+      "artist": "Gavin DeGraw",
+      "title": "Chariot",
+      "services": {
+        "qobuz": "20067501"
+      },
+      "album": "Finest Hour: The Best of Gavin DeGraw",
+      "duration": 240,
+      "isrc": "USJAY0300036"
+    },
+    {
+      "artist": "Keane",
+      "title": "Somewhere Only We Know",
+      "services": {
+        "qobuz": "3870599"
+      },
+      "album": "Hopes And Fears",
+      "duration": 236,
+      "isrc": "GBAAN0300664"
+    },
+    {
+      "artist": "James Blunt",
+      "title": "You're Beautiful",
+      "services": {
+        "qobuz": "36352587"
+      },
+      "album": "Back to Bedlam",
+      "duration": 213,
+      "isrc": "USAT21303052"
+    },
+    {
+      "artist": "Daniel Powter",
+      "title": "Bad Day",
+      "services": {
+        "qobuz": "2267355"
+      },
+      "album": "Daniel Powter",
+      "duration": 234,
+      "isrc": "USWB10401971"
+    },
+    {
+      "artist": "The Fray",
+      "title": "How to Save a Life",
+      "services": {
+        "qobuz": "2719602"
+      },
+      "album": "How To Save A Life",
+      "duration": 262,
+      "isrc": "USSM10601178"
+    },
+    {
+      "artist": "Lifehouse",
+      "title": "You And Me",
+      "services": {
+        "qobuz": "41004055"
+      },
+      "album": "Lifehouse",
+      "duration": 195,
+      "isrc": "USDW10500001"
+    },
+    {
+      "artist": "Snow Patrol",
+      "title": "Chasing Cars",
+      "services": {
+        "qobuz": "731297"
+      },
+      "album": "Eyes Open",
+      "duration": 267,
+      "isrc": "GBUM70600345"
+    },
+    {
+      "artist": "The Script",
+      "title": "The Man Who Can't Be Moved",
+      "services": {
+        "qobuz": "28203506"
+      },
+      "album": "The Script",
+      "duration": 241,
+      "isrc": "GBARL0800144"
+    },
+    {
+      "artist": "OneRepublic",
+      "title": "Apologize",
+      "services": {
+        "qobuz": "78727314"
+      },
+      "album": "Dreaming Out Loud",
+      "duration": 207,
+      "isrc": "USUM70757102"
+    },
+    {
+      "artist": "Leona Lewis",
+      "title": "Bleeding Love",
+      "services": {
+        "qobuz": "461281"
+      },
+      "album": "Spirit",
+      "duration": 262,
+      "isrc": "GBHMU0700049"
+    },
+    {
+      "artist": "Michael Bubl\u00e9",
+      "title": "Home",
+      "services": {
+        "qobuz": "35995992"
+      },
+      "album": "It's Time",
+      "duration": 226,
+      "isrc": "USRE11300261"
+    },
+    {
+      "artist": "Josh Groban",
+      "title": "You Raise Me Up",
+      "services": {
+        "qobuz": "37267604"
+      },
+      "album": "Closer",
+      "duration": 289,
+      "isrc": "USRE11300544"
+    },
+    {
+      "artist": "Adele",
+      "title": "Someone Like You",
+      "services": {
+        "qobuz": "3147381"
+      },
+      "album": "21",
+      "duration": 285,
+      "isrc": "GBBKS1000351"
+    },
+    {
+      "artist": "Ed Sheeran",
+      "title": "Thinking out Loud",
+      "services": {
+        "qobuz": "16006623"
+      },
+      "album": "x",
+      "duration": 281,
+      "isrc": "GBAHS1400099"
+    },
+    {
+      "artist": "Sam Smith",
+      "title": "Stay With Me",
+      "services": {
+        "qobuz": "27999923"
+      },
+      "album": "In The Lonely Hour",
+      "duration": 172,
+      "isrc": "GBUM71308833"
+    },
+    {
+      "artist": "John Legend",
+      "title": "All of Me",
+      "services": {
+        "qobuz": "11223507"
+      },
+      "album": "Love In The Future (Deluxe Version)",
+      "duration": 269,
+      "isrc": "USSM11303954"
+    },
+    {
+      "artist": "Bruno Mars",
+      "title": "Just the Way You Are",
+      "services": {
+        "qobuz": "2987537"
+      },
+      "album": "Doo-Wops & Hooligans",
+      "duration": 220,
+      "isrc": "USAT21001269"
+    },
+    {
+      "artist": "Lee sang gul",
+      "title": "Shallow Lady Gaga Bradley Cooper",
+      "services": {
+        "qobuz": "263347748"
+      },
+      "album": "Shallow Lady Gaga Bradley Cooper",
+      "duration": 161,
+      "isrc": "FRX452436558"
+    },
+    {
+      "artist": "Lewis Capaldi",
+      "title": "Someone You Loved",
+      "services": {
+        "qobuz": "61709941"
+      },
+      "album": "Divinely Uninspired To A Hellish Extent",
+      "duration": 182,
+      "isrc": "DEUM71807062"
+    },
+    {
+      "artist": "P!nk",
+      "title": "Just Give Me a Reason",
+      "services": {
+        "qobuz": "120978134"
+      },
+      "album": "All I Know So Far: Setlist",
+      "duration": 277,
+      "isrc": "USRC12100839"
+    },
+    {
+      "artist": "Phillip Phillips",
+      "title": "Home",
+      "services": {
+        "qobuz": "19064847"
+      },
+      "album": "The World From The Side Of The Moon",
+      "duration": 209,
+      "isrc": "QMTM61200272"
+    },
+    {
+      "artist": "Rachel Platten",
+      "title": "Fight Song",
+      "services": {
+        "qobuz": "29102307"
+      },
+      "album": "Wildfire",
+      "duration": 204,
+      "isrc": "USSM11500753"
+    },
+    {
+      "artist": "Mason Lea",
+      "title": "Ellie Goulding - Love Me Like You Do (Acoustic) [Covers]",
+      "services": {
+        "qobuz": "128769446"
+      },
+      "album": "Love Me Like You Do",
+      "duration": 269,
+      "isrc": "TCACG1582666"
+    },
+    {
+      "artist": "James Arthur",
+      "title": "Say You Won't Let Go",
+      "services": {
+        "qobuz": "34483998"
+      },
+      "album": "Say You Won't Let Go",
+      "duration": 211,
+      "isrc": "DEE861600586"
+    },
+    {
+      "artist": "Christina Perri",
+      "title": "a thousand years",
+      "services": {
+        "qobuz": "43461512"
+      },
+      "album": "a thousand years",
+      "duration": 285,
+      "isrc": "USAT21102141"
+    },
+    {
+      "artist": "Passenger",
+      "title": "Let Her Go",
+      "services": {
+        "qobuz": "54349898"
+      },
+      "album": "Let Her Go",
+      "duration": 252,
+      "isrc": "GBMQN1100004"
+    },
+    {
+      "artist": "Sara Bareilles",
+      "title": "Brave",
+      "services": {
+        "qobuz": "10303157"
+      },
+      "album": "The Blessed Unrest",
+      "duration": 220,
+      "isrc": "USSM11301638"
+    },
+    {
+      "artist": "Miley Cyrus",
+      "title": "Flowers",
+      "services": {
+        "qobuz": "193055711"
+      },
+      "album": "Flowers",
+      "duration": 200,
+      "isrc": "USSM12209777"
+    },
+    {
+      "artist": "Justin Bieber",
+      "title": "Ghost",
+      "services": {
+        "qobuz": "117940112"
+      },
+      "album": "Justice",
+      "duration": 153,
+      "isrc": "USUM72102635"
+    },
+    {
+      "artist": "Harry Styles",
+      "title": "Adore You",
+      "services": {
+        "qobuz": "82644108"
+      },
+      "album": "Fine Line",
+      "duration": 207,
+      "isrc": "USSM11912588"
+    },
+    {
+      "artist": "Jonas Brothers",
+      "title": "Sucker",
+      "services": {
+        "qobuz": "62426715"
+      },
+      "album": "Happiness Begins",
+      "duration": 181,
+      "isrc": "USUG11900515"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+      "services": {
+        "qobuz": "218883117"
+      },
+      "album": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+      "duration": 222,
+      "isrc": "USUM72307484"
+    },
+    {
+      "artist": "Stephen Sanchez",
+      "title": "Until I Found You",
+      "services": {
+        "qobuz": "149495383"
+      },
+      "album": "Until I Found You",
+      "duration": 177,
+      "isrc": "USUG12103651"
+    },
+    {
+      "artist": "Teddy Swims",
+      "title": "Lose Control",
+      "services": {
+        "qobuz": "215625078"
+      },
+      "album": "Lose Control",
+      "duration": 210,
+      "isrc": "USWB12302315"
+    },
+    {
+      "artist": "Benson Boone",
+      "title": "Beautiful Things",
+      "services": {
+        "qobuz": "248041253"
+      },
+      "album": "Beautiful Things",
+      "duration": 180,
+      "isrc": "USWB12307016"
+    },
+    {
+      "artist": "Alex Warren",
+      "title": "Ordinary",
+      "services": {
+        "qobuz": "315904621"
+      },
+      "album": "Ordinary",
+      "duration": 186,
+      "isrc": "USAT22500463"
+    },
+    {
+      "artist": "Pentatonix",
+      "title": "I've Got My Love To Keep Me Warm",
+      "services": {
+        "qobuz": "363430048"
+      },
+      "album": "Christmas in the City",
+      "duration": 147,
+      "isrc": "USUG12507412"
+    }
+  ]
+}

@@ -1,0 +1,809 @@
+{
+  "name": "New in Alternative Rock",
+  "services": {
+    "qobuz": "6866405"
+  },
+  "description": "Treat yourself to a good dose of energy with the latest in alternative rock. \nLast update: 27.7.2026. Featuring The Xcerts, chest., Mayday Parade, Coach Party, Citizen, Slothrust, The Haunt, Russian Circles, Jutes, No Joy, lina-mariah, BODEGA, madfolk, Saint Agnes, Tooth, LA Priest, ME., Y, Keo, Pancho, Papa Roach, False Advertising, Gurriers, Shinedown, Wilt...\n\nPhoto: Sprints \u00a9 Emilia Spitale",
+  "tracks": [
+    {
+      "artist": "The Xcerts",
+      "title": "sinking feeling",
+      "services": {
+        "qobuz": "411641016"
+      },
+      "album": "i think i want to go home now.",
+      "duration": 148,
+      "isrc": "ITG272600241"
+    },
+    {
+      "artist": "chest.",
+      "title": "Lotus Eater",
+      "services": {
+        "qobuz": "425639906"
+      },
+      "album": "Lotus Eater",
+      "duration": 223,
+      "isrc": "FR5R02600892"
+    },
+    {
+      "artist": "Mayday Parade",
+      "title": "Blame It On The Youth",
+      "services": {
+        "qobuz": "402964753"
+      },
+      "album": "Sugar",
+      "duration": 191,
+      "isrc": "QZNWP2606002"
+    },
+    {
+      "artist": "Coach Party",
+      "title": "Over",
+      "services": {
+        "qobuz": "423471258"
+      },
+      "album": "Over",
+      "duration": 196,
+      "isrc": "USA2P2635659"
+    },
+    {
+      "artist": "Citizen",
+      "title": "I Can See You From Here",
+      "services": {
+        "qobuz": "408211786"
+      },
+      "album": "I Can See You From Here",
+      "duration": 190,
+      "isrc": "QMCE72629902"
+    },
+    {
+      "artist": "Slothrust",
+      "title": "Burn the Deck",
+      "services": {
+        "qobuz": "429731544"
+      },
+      "album": "Burn the Deck",
+      "duration": 231,
+      "isrc": "US3X52656001"
+    },
+    {
+      "artist": "The Haunt",
+      "title": "Worst Taste in Men",
+      "services": {
+        "qobuz": "429397150"
+      },
+      "album": "Worst Taste in Men",
+      "duration": 154,
+      "isrc": "CAN112601054"
+    },
+    {
+      "artist": "Russian Circles",
+      "title": "Eluvial",
+      "services": {
+        "qobuz": "430591520"
+      },
+      "album": "Eluvial",
+      "duration": 503,
+      "isrc": "USA2B2601838"
+    },
+    {
+      "artist": "Jutes",
+      "title": "Blink Twice",
+      "services": {
+        "qobuz": "424786286"
+      },
+      "album": "Blink Twice",
+      "duration": 233,
+      "isrc": "US43C2601582"
+    },
+    {
+      "artist": "No Joy",
+      "title": "Barking at the Sun",
+      "services": {
+        "qobuz": "422408784"
+      },
+      "album": "Barking at the Sun",
+      "duration": 309,
+      "isrc": "CAHL42612701"
+    },
+    {
+      "artist": "lina-mariah",
+      "title": "Whatever",
+      "services": {
+        "qobuz": "425548577"
+      },
+      "album": "I Feel Like Shit And It's All Your Fault",
+      "duration": 168,
+      "isrc": "DEVQ92600181"
+    },
+    {
+      "artist": "Doghouse Rose",
+      "title": "It Gets Worse",
+      "services": {
+        "qobuz": "420272832"
+      },
+      "album": "It Gets Worse",
+      "duration": 180,
+      "isrc": "CASE12600069"
+    },
+    {
+      "artist": "Forest",
+      "title": "Anchor",
+      "services": {
+        "qobuz": "418871153"
+      },
+      "album": "Anchor",
+      "duration": 197,
+      "isrc": "QM7282609289"
+    },
+    {
+      "artist": "Veridian",
+      "title": "It Takes Time",
+      "services": {
+        "qobuz": "422420322"
+      },
+      "album": "It Takes Time",
+      "duration": 212,
+      "isrc": "UK9AV2600584"
+    },
+    {
+      "artist": "Jeanwilder",
+      "title": "Somersault",
+      "services": {
+        "qobuz": "429017431"
+      },
+      "album": "god is a website",
+      "duration": 240,
+      "isrc": "FRIDO2614317"
+    },
+    {
+      "artist": "Victories",
+      "title": "I'm A Swiftie Too",
+      "services": {
+        "qobuz": "417640110"
+      },
+      "album": "I'm A Swiftie Too",
+      "duration": 190,
+      "isrc": "CAY7C2610004"
+    },
+    {
+      "artist": "Fiddlehead",
+      "title": "Baby I'll Change",
+      "services": {
+        "qobuz": "418621187"
+      },
+      "album": "Baby I'll Change",
+      "duration": 262,
+      "isrc": "QMCE72631703"
+    },
+    {
+      "artist": "Two Trains Left",
+      "title": "Don't Hold On",
+      "services": {
+        "qobuz": "423430166"
+      },
+      "album": "Don't Hold On",
+      "duration": 219,
+      "isrc": "QT3F62606205"
+    },
+    {
+      "artist": "Chastity",
+      "title": "Penny on the Tracks",
+      "services": {
+        "qobuz": "426792546"
+      },
+      "album": "Penny on the Tracks",
+      "duration": 155,
+      "isrc": "CADE72600075"
+    },
+    {
+      "artist": "Oxford Comma",
+      "title": "Tether",
+      "services": {
+        "qobuz": "424999615"
+      },
+      "album": "Tether",
+      "duration": 270,
+      "isrc": "QM7282684656"
+    },
+    {
+      "artist": "Cam Kahin",
+      "title": "come around",
+      "services": {
+        "qobuz": "421947283"
+      },
+      "album": "CHUG",
+      "duration": 203,
+      "isrc": "CADE72500045"
+    },
+    {
+      "artist": "2,000,000,000,000yen",
+      "title": "sangatsu",
+      "services": {
+        "qobuz": "432992852"
+      },
+      "album": "Gwa",
+      "duration": 373,
+      "isrc": "QT66R2602082"
+    },
+    {
+      "artist": "Nanaco Sato",
+      "title": "A Bullet Hole In My Ear",
+      "services": {
+        "qobuz": "431587790"
+      },
+      "album": "A Bullet Hole In My Ear",
+      "duration": 408,
+      "isrc": "FRX282646798"
+    },
+    {
+      "artist": "Agatha is Dead!",
+      "title": "Cold-Hearted",
+      "services": {
+        "qobuz": "400590476"
+      },
+      "album": "Cold-Hearted",
+      "duration": 201,
+      "isrc": "USA2B2601067"
+    },
+    {
+      "artist": "Jutes",
+      "title": "White Butterflies",
+      "services": {
+        "qobuz": "421709092"
+      },
+      "album": "White Butterflies",
+      "duration": 182,
+      "isrc": "US43C2601576"
+    },
+    {
+      "artist": "BODEGA",
+      "title": "All Inside Aquarium",
+      "services": {
+        "qobuz": "422420195"
+      },
+      "album": "All Inside Aquarium",
+      "duration": 254,
+      "isrc": "UKKP22600455"
+    },
+    {
+      "artist": "madfolk",
+      "title": "Make It Worse",
+      "services": {
+        "qobuz": "398874273"
+      },
+      "album": "madfolk",
+      "duration": 210,
+      "isrc": "USA2B2516312"
+    },
+    {
+      "artist": "Saint Agnes",
+      "title": "Everything You Denied",
+      "services": {
+        "qobuz": "348385689"
+      },
+      "album": "Your God Fearing Days Are About To Begin",
+      "duration": 253,
+      "isrc": "GBPVV2404281"
+    },
+    {
+      "artist": "Tooth",
+      "title": "Restless in Bloom",
+      "services": {
+        "qobuz": "403219819"
+      },
+      "album": "Restless in Bloom",
+      "duration": 264,
+      "isrc": "GBARL2600242"
+    },
+    {
+      "artist": "LA Priest",
+      "title": "Into the Sky",
+      "services": {
+        "qobuz": "417926609"
+      },
+      "album": "Into The Sky",
+      "duration": 135,
+      "isrc": "GBCEL2600011"
+    },
+    {
+      "artist": "ME.",
+      "title": "Grown Man",
+      "services": {
+        "qobuz": "420664411"
+      },
+      "album": "Grown Man",
+      "duration": 245,
+      "isrc": "QZRUP2600350"
+    },
+    {
+      "artist": "Y",
+      "title": "Waiting Winning",
+      "services": {
+        "qobuz": "388666403"
+      },
+      "album": "ENTER",
+      "duration": 284,
+      "isrc": "GBAJC2600070"
+    },
+    {
+      "artist": "Keo",
+      "title": "That's Me",
+      "services": {
+        "qobuz": "420539014"
+      },
+      "album": "That's Me",
+      "duration": 131,
+      "isrc": "GBUM72602764"
+    },
+    {
+      "artist": "Pancho",
+      "title": "Honey",
+      "services": {
+        "qobuz": "406537732"
+      },
+      "album": "Honey",
+      "duration": 303,
+      "isrc": "UK9AV2600285"
+    },
+    {
+      "artist": "Papa Roach",
+      "title": "See U in Hell (from the Netflix Series \"Devil May Cry\")",
+      "services": {
+        "qobuz": "416819844"
+      },
+      "album": "Devil May Cry: Season 2 (Soundtrack from the Netflix Series)",
+      "duration": 243,
+      "isrc": "QZ8BZ2617368"
+    },
+    {
+      "artist": "False Advertising",
+      "title": "Acid Rain",
+      "services": {
+        "qobuz": "400557125"
+      },
+      "album": "The Sorry Window",
+      "duration": 209,
+      "isrc": "QZHNC2654338"
+    },
+    {
+      "artist": "Gurriers",
+      "title": "Nobody's Coming To Save You",
+      "services": {
+        "qobuz": "410551185"
+      },
+      "album": "Nobody's Coming To Save You",
+      "duration": 222,
+      "isrc": "GBENL2604768"
+    },
+    {
+      "artist": "Shinedown",
+      "title": "Dance, Kid, Dance",
+      "services": {
+        "qobuz": "406553285"
+      },
+      "album": "EI8HT",
+      "duration": 212,
+      "isrc": "USAT22411430"
+    },
+    {
+      "artist": "Wilt",
+      "title": "nothing good to cry about",
+      "services": {
+        "qobuz": "417061929"
+      },
+      "album": "nothing good to cry about",
+      "duration": 188,
+      "isrc": "QM6P42688292"
+    },
+    {
+      "artist": "Elephant Stone",
+      "title": "Fascists Killed Yer Rock'N' Roll",
+      "services": {
+        "qobuz": "404671361"
+      },
+      "album": "Fascists Killed Yer Rock 'N' Roll",
+      "duration": 251,
+      "isrc": "QM4TX2664261"
+    },
+    {
+      "artist": "Alex Henry Foster",
+      "title": "Springtime",
+      "services": {
+        "qobuz": "420252086"
+      },
+      "album": "Springtime",
+      "duration": 253,
+      "isrc": "FRX202618588"
+    },
+    {
+      "artist": "Petter Ericson Stakee",
+      "title": "Cold Halo",
+      "services": {
+        "qobuz": "416678212"
+      },
+      "album": "Transmissions from a Falling Sky",
+      "duration": 303,
+      "isrc": "GBGLW2600420"
+    },
+    {
+      "artist": "Them Flying Monkeys",
+      "title": "Attrition",
+      "services": {
+        "qobuz": "418378584"
+      },
+      "album": "Attrition",
+      "duration": 176,
+      "isrc": "FR5R02600803"
+    },
+    {
+      "artist": "Body Type",
+      "title": "Mulberry",
+      "services": {
+        "qobuz": "412874065"
+      },
+      "album": "Mulberry",
+      "duration": 221,
+      "isrc": "AU2ZC2401730"
+    },
+    {
+      "artist": "Theatre",
+      "title": "Gaudete",
+      "services": {
+        "qobuz": "406183752"
+      },
+      "album": "Incarnate",
+      "duration": 247,
+      "isrc": "GB5KW2600492"
+    },
+    {
+      "artist": "Split Chain",
+      "title": "Scatterbrain",
+      "services": {
+        "qobuz": "410756048"
+      },
+      "album": "Scatterbrain",
+      "duration": 194,
+      "isrc": "USEP42607002"
+    },
+    {
+      "artist": "Soft Palms",
+      "title": "Garbage In The Sand",
+      "services": {
+        "qobuz": "385422128"
+      },
+      "album": "In Echo",
+      "duration": 196,
+      "isrc": "USER82507002"
+    },
+    {
+      "artist": "Sparkle Blood",
+      "title": "Restless",
+      "services": {
+        "qobuz": "411630569"
+      },
+      "album": "Restless",
+      "duration": 182,
+      "isrc": "QM6MZ2605049"
+    },
+    {
+      "artist": "Show Pony",
+      "title": "Lightning",
+      "services": {
+        "qobuz": "396020759"
+      },
+      "album": "Show Pony For The Masses",
+      "duration": 204,
+      "isrc": "QZZ7U2599771"
+    },
+    {
+      "artist": "Jeanwilder",
+      "title": "Stars Collide",
+      "services": {
+        "qobuz": "417689188"
+      },
+      "album": "Stars Collide",
+      "duration": 210,
+      "isrc": "FRIDO2613203"
+    },
+    {
+      "artist": "madfolk",
+      "title": "Signal",
+      "services": {
+        "qobuz": "411338234"
+      },
+      "album": "Signal",
+      "duration": 145,
+      "isrc": "USA2B2516316"
+    },
+    {
+      "artist": "False Advertising",
+      "title": "Narrow",
+      "services": {
+        "qobuz": "400557124"
+      },
+      "album": "The Sorry Window",
+      "duration": 205,
+      "isrc": "UKFC91600037"
+    },
+    {
+      "artist": "Lip Critic",
+      "title": "Talon",
+      "services": {
+        "qobuz": "371002879"
+      },
+      "album": "Talon",
+      "duration": 217,
+      "isrc": "USBQU2500219"
+    },
+    {
+      "artist": "Bleeker",
+      "title": "Great Unknown",
+      "services": {
+        "qobuz": "398137346"
+      },
+      "album": "Great Unknown",
+      "duration": 177,
+      "isrc": "CAM372500548"
+    },
+    {
+      "artist": "Jeanwilder",
+      "title": "Slide",
+      "services": {
+        "qobuz": "412189495"
+      },
+      "album": "Slide",
+      "duration": 213,
+      "isrc": "FRIDO2612670"
+    },
+    {
+      "artist": "Elm Tree Circle",
+      "title": "Brutal Dreamy",
+      "services": {
+        "qobuz": "404768333"
+      },
+      "album": "Brutal Dreamy",
+      "duration": 175,
+      "isrc": "FR59R2661781"
+    },
+    {
+      "artist": "Homeground",
+      "title": "The Raft",
+      "services": {
+        "qobuz": "398121751"
+      },
+      "album": "SPLENDID",
+      "duration": 235,
+      "isrc": "QM4TX2656289"
+    },
+    {
+      "artist": "Rarity",
+      "title": "Boulder",
+      "services": {
+        "qobuz": "405959193"
+      },
+      "album": "Boulder",
+      "duration": 169,
+      "isrc": "CADE72600029"
+    },
+    {
+      "artist": "Villanelle",
+      "title": "Opportunity Arising",
+      "services": {
+        "qobuz": "392492153"
+      },
+      "album": "Measly Means",
+      "duration": 221,
+      "isrc": "UKELY2500034"
+    },
+    {
+      "artist": "Dumama",
+      "title": "Layer After Layer",
+      "services": {
+        "qobuz": "390023316"
+      },
+      "album": "Towards An Expanse",
+      "duration": 298,
+      "isrc": "GBUQH2500247"
+    },
+    {
+      "artist": "Charles Garant",
+      "title": "Leap Of Faith",
+      "services": {
+        "qobuz": "407917202"
+      },
+      "album": "Dual Nature Of Time",
+      "duration": 279,
+      "isrc": "CBG0E2600003"
+    },
+    {
+      "artist": "Architects",
+      "title": "Broken Mirror",
+      "services": {
+        "qobuz": "407651710"
+      },
+      "album": "Broken Mirror / Everything Ends",
+      "duration": 189,
+      "isrc": "USEP42606002"
+    },
+    {
+      "artist": "As December Falls",
+      "title": "Teeth",
+      "services": {
+        "qobuz": "402819325"
+      },
+      "album": "Teeth",
+      "duration": 164,
+      "isrc": "USA2P2617189"
+    },
+    {
+      "artist": "20:02",
+      "title": "city lights",
+      "services": {
+        "qobuz": "408993226"
+      },
+      "album": "city lights",
+      "duration": 173,
+      "isrc": "FREL72600070"
+    },
+    {
+      "artist": "Hammok",
+      "title": "The Scene",
+      "services": {
+        "qobuz": "406837345"
+      },
+      "album": "Tap Water",
+      "duration": 163,
+      "isrc": "USA2B2514980"
+    },
+    {
+      "artist": "lovelost",
+      "title": "I Thought I Could Hide But You Caught Me",
+      "services": {
+        "qobuz": "406235276"
+      },
+      "album": "Picking Petals By Your Graveside",
+      "duration": 227,
+      "isrc": "UK9AV2600225"
+    },
+    {
+      "artist": "Rezn",
+      "title": "Cloudfall",
+      "services": {
+        "qobuz": "409494001"
+      },
+      "album": "Cloudfall",
+      "duration": 246,
+      "isrc": "USA2B2601136"
+    },
+    {
+      "artist": "The Real McKenzies",
+      "title": "Black Agnes",
+      "services": {
+        "qobuz": "396674650"
+      },
+      "album": "Black Agnes",
+      "duration": 175,
+      "isrc": "CASE12600013"
+    },
+    {
+      "artist": "Jutes",
+      "title": "Icarus",
+      "services": {
+        "qobuz": "410218898"
+      },
+      "album": "Icarus",
+      "duration": 207,
+      "isrc": "USA2P2624062"
+    },
+    {
+      "artist": "Delta Sleep",
+      "title": "UNREAD",
+      "services": {
+        "qobuz": "407679933"
+      },
+      "album": "UNREAD",
+      "duration": 164,
+      "isrc": "QZNWP2552822"
+    },
+    {
+      "artist": "The Twilight Sad",
+      "title": "CHEST WOUND TO THE CHEST",
+      "services": {
+        "qobuz": "371674787"
+      },
+      "album": "IT'S THE LONG GOODBYE",
+      "duration": 239,
+      "isrc": "GBGDZ2500069"
+    },
+    {
+      "artist": "Sprints",
+      "title": "Trickle Down",
+      "services": {
+        "qobuz": "388365106"
+      },
+      "album": "Trickle Down",
+      "duration": 167,
+      "isrc": "DED622500077"
+    },
+    {
+      "artist": "Yonaka",
+      "title": "Problems",
+      "services": {
+        "qobuz": "400898029"
+      },
+      "album": "Until You're Satisfied",
+      "duration": 215,
+      "isrc": "NL8RL2553305"
+    },
+    {
+      "artist": "Marmozets",
+      "title": "Running With The Sun In Your Eyes",
+      "services": {
+        "qobuz": "390852150"
+      },
+      "album": "Running With The Sun In Your Eyes",
+      "duration": 204,
+      "isrc": "CAN112502006"
+    },
+    {
+      "artist": "Saint Agnes",
+      "title": "The Ghost",
+      "services": {
+        "qobuz": "361894286"
+      },
+      "album": "The Ghost",
+      "duration": 212,
+      "isrc": "GBPVV2404277"
+    },
+    {
+      "artist": "Mirrortalk",
+      "title": "Circle The Drain",
+      "services": {
+        "qobuz": "398770499"
+      },
+      "album": "Circle The Drain",
+      "duration": 257,
+      "isrc": "GBJSG2649701"
+    },
+    {
+      "artist": "Chevreuil",
+      "title": "Ordrus",
+      "services": {
+        "qobuz": "378846620"
+      },
+      "album": "Ordrus",
+      "duration": 142,
+      "isrc": "QMEU32511818"
+    },
+    {
+      "artist": "Wynona Bleach",
+      "title": "Religion",
+      "services": {
+        "qobuz": "387271289"
+      },
+      "album": "Religion",
+      "duration": 230,
+      "isrc": "GBFFA2500074"
+    },
+    {
+      "artist": "Upchuck",
+      "title": "Last Breath",
+      "services": {
+        "qobuz": "391687701"
+      },
+      "album": "Last Breath",
+      "duration": 110,
+      "isrc": "GBCEL2500125"
+    },
+    {
+      "artist": "Cheap Teen",
+      "title": "Wall",
+      "services": {
+        "qobuz": "386388708"
+      },
+      "album": "Wall",
+      "duration": 281,
+      "isrc": "FR5R02600275"
+    }
+  ]
+}

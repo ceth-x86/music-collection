@@ -1,0 +1,108 @@
+# Genre: Classic Punk
+
+Imported genre playlist: Classic Punk.
+
+Services: `qobuz:66736397` `tidal:d7b825ae-4077-4e3c-a466-e67dd8a5e889`
+
+## Tracks (100)
+
+- **Ramones** — Blitzkrieg Bop [Ramones - 40th Anniversary Deluxe Edition (Remastered)] (2:13) `isrc:USRH11603648` `qobuz:33967376`
+- **Crime** — Hot Wire My Heart [Murder by Guitar] (3:19) `isrc:USA2Z1410695` `qobuz:35449302`
+- **Dead Boys** — Sonic Reducer [Young, Loud And Snotty] (3:09) `isrc:USWB19903971` `qobuz:5196685`
+- **Richard Hell & The Voidoids** — Blank Generation (2017 Remaster Audio) [Remastered] [Blank Generation (40th Anniversary Deluxe Edition)] (2:44) `isrc:USRH11702643` `qobuz:47149572`
+- **Johnny Thunders & The Heartbreakers** — Born to Lose [L.A.M.F. - The Lost '77 Mixes] (3:04) `isrc:GBCST9424401` `qobuz:43970198`
+- **The Pagans** — Street Where Nobody Lives [Soul Jazz Records Presents Punk 45: Extermination Nights in the Sixth City: Cleveland, Ohio: Punk and the Decline of the Mid-West 1975-82] (1:37) `isrc:GBBCK1400780` `qobuz:23565427`
+- **The Real Kids** — All Kindsa Girls [The Real Kids] (3:38) `isrc:USA370689319` `qobuz:67413714`
+- **The Avengers** — We Are the One [The American in Me] (2:38) `isrc:USHM90770887` `qobuz:67076308`
+- **The Dils** — Class War [Dils Dils Dils] (1:40) `isrc:US5970510842` `qobuz:61197993`
+- **The Zeros** — Wimp [Don't Push Me Around] (2:34) `isrc:US4EQ0403502` `qobuz:104614643`
+- **Viletones** — Screamin' Fist [A Taste Of Honey] (2:05) `isrc:USA2B0603705` `qobuz:72042060`
+- **I Set My Friends On Fire** — But The NUNS Are Watching [You Can't Spell Slaughter Without Laughter] (3:26) `isrc:USEP40816111` `qobuz:77658563`
+- **Wayne County & The Electric Chairs** — Cream in My Jeans [Live at Rockpalast Westfalenhalle, Dortmund 9th December 1978] (1:46) `isrc:DED461400850` `qobuz:77816295`
+- **The Suicide Commandos** — Complicated Fun [The Commandos Commit Suicide Dance Concert] (2:09) `isrc:USLYH0800616` `qobuz:234245792`
+- **The Weirdos** — We Got the Neutron Bomb [We Got the Neutron Bomb: Weird World Volume 2] (2:58) `isrc:USA6P0407513` `qobuz:77847847`
+- **The Diodes** — Tired of Waking Up Tired [Tired Of Waking Up Tired: The Best of The Diodes] (2:54) `isrc:CAE247800006` `qobuz:34433044`
+- **Misfits** — Horror Business [Collection] (2:45) `isrc:USCN37900001` `qobuz:4458786`
+- **The Dickies** — Gigantor [Stukas over Disneyland] (2:30) `isrc:QM6XS2101675` `qobuz:132905976`
+- **Prospect** — Plug 'N' Play [Rock 'N' Roll Beats & Electric Guitars] (4:25) `isrc:NO80H1901050` `qobuz:175076949`
+- **Teenage Head** — Picture My Face [Teenage Head] (2:58) `isrc:CAW111800574` `qobuz:55674619`
+- **X** — Los Angeles [Los Angeles] (2:24) `isrc:GBAAP0100716` `qobuz:2885011`
+- **Plasmatics** — Butcher Baby [The Vice Squad Records Recordings] (3:05) `isrc:USY252290906` `qobuz:156557212`
+- **Gun Club** — Sex Beat [Live at the Hacienda, 1984] (2:56) `isrc:GBBLY1003993` `qobuz:142025101`
+- **Fear** — I Love Livin' in the City [The Record] (2:04) `isrc:GBAAP0500222` `qobuz:2947623`
+- **The Forgotten Rebels** — Surfin' on Heroin [Surfin' on Heroin] (2:53) `isrc:TCAHT2476071` `qobuz:250081121`
+- **Sex Pistols** — Anarchy In The UK [The Filth & The Fury] (3:31) `isrc:GBDFX7700002` `qobuz:262708929`
+- **The Damned** — New Rose [Damned Damned Damned] (2:42) `isrc:GB5KW1602872` `qobuz:380474924`
+- **The Clash** — White Riot [The Clash] (1:56) `isrc:GBARL1200702` `qobuz:11189633`
+- **Buzzcocks** — Boredom [Spiral Scratch] (2:54) `isrc:GBAJH9900533` `qobuz:37792166`
+- **X-Ray Spex** — Oh Bondage Up Yours! [Live @ The Roundhouse London 2008] (3:04) `isrc:GBSUW0729101` `qobuz:313525658`
+- **The Vibrators** — Baby, Baby [Pure Mania] (3:39) `isrc:GBBBM9999923` `qobuz:49888`
+- **The Adverts** — One Chord Wonders [Crossing the Red Sea] (2:48) `isrc:GBCKK0200288` `qobuz:194351168`
+- **The Boys** — First Time [The Boys] (2:22) `isrc:GBCKK1123608` `qobuz:194408995`
+- **Eater** — Outside View [The Album] (2:04) `isrc:GBBLY9300253` `qobuz:75685863`
+- **Subway Sect** — Ambition [Twenty Odd Years] (3:08) `isrc:GBCFK7805506` `qobuz:64370932`
+- **Slaughter And The Dogs** — Where Have All The Boot Boys Gone [We Don't Care: Anthology] (3:53) `isrc:GBAJE0101099` `qobuz:387257742`
+- **The Stranglers** — Peaches [Rattus Norvegicus] (4:07) `isrc:GBAYE9600447` `qobuz:1004631`
+- **The Cortinas** — Fascist Dictator [Punk Rock Anthology] (2:36) `isrc:USV351396877` `qobuz:138457508`
+- **TV On The Radio** — Staring at the Sun [Desperate Youth, Blood Thirsty Babes] (3:25) `isrc:USTG30425402` `qobuz:284894550`
+- **Sham 69** — If The Kids Are United [If the Kids Are United: The Best Of] (3:37) `isrc:GBBLY7800045` `qobuz:131579911`
+- **Generation X** — Your Generation [Generation X] (3:15) `isrc:GBAYK0200108` `qobuz:169145511`
+- **999** — Homicide [Separates] (4:26) `isrc:GBAYE7800428` `qobuz:1761549`
+- **Johnny Moped** — No One [Cycledelic Plus the Singles] (2:49) `isrc:GBBHN9500456` `qobuz:156011985`
+- **The Undertones** — Teenage Kicks [True Confessions] (2:28) `isrc:GBAJE7800192` `qobuz:385582789`
+- **The Lurkers** — Shadow [Fulham Fallout] (2:38) `isrc:GBAZP7800003` `qobuz:2484160`
+- **The Outcasts** — Just Another Teenage Rebel [Action Time Vision (A Story Of Independent UK Punk 1976-1979)] (3:15) `isrc:GBBLY1604531` `qobuz:115323139`
+- **Stiff Little Fingers** — Alternative Ulster [Inflammable Material] (2:44) `isrc:GB01A0700157` `qobuz:1006182`
+- **The Ruts** — Babylon's Burning [The Crack] (2:35) `isrc:GBAAA7900142` `qobuz:4418790`
+- **UK Subs** — Stranglehold [Another Kind of Blues] (1:57) `isrc:GBBPJ9801029` `qobuz:21600106`
+- **The Members** — The Sound Of The Suburbs [At The Chelsea Nightclub] (3:53) `isrc:GBAAA7900007` `qobuz:88258272`
+- **Chelsea** — Right to Work [Right to Work - The Singles] (3:04) `isrc:QMFMG1571832` `qobuz:56251291`
+- **Angelic Upstarts** — Teenage Warning [Teenage Warning] (3:02) `isrc:GBAHT0500531` `qobuz:60440115`
+- **Crass** — Do They Owe Us a Living? [The Feeding of the 5000] (1:24) `isrc:GBBTF1800061` `qobuz:249087770`
+- **Cockney Rejects** — Oi! Oi! Oi! [Greatest Hits Vol. 2] (3:24) `isrc:GBAYE8000116` `qobuz:174336606`
+- **The Adicts** — Viva La Revolution [Viva La Revolution] (3:48) `isrc:GBCST8230201` `qobuz:73569255`
+- **Vice Squad** — Last Rockers [The Complete Punk Singles Collection] (4:20) `isrc:GBBLY8000052` `qobuz:148463311`
+- **Anti-Nowhere League** — So What [We Are the League...Uncut] (3:03) `isrc:USV291478449` `qobuz:51044318`
+- **Peter & The Test Tube Babies** — Banned From The Pubs [The Best Of Peter & The Test Tube Babies] (2:45) `isrc:GBBLY8200310` `qobuz:168351961`
+- **Blitz** — Someone's Gonna Die [Voice Of A Generation] (2:35) `isrc:GBBLY8200295` `qobuz:120592243`
+- **The 4 Skins** — One Law for Them [The Good the Bad and the 4 Skins] (2:40) `isrc:GBPYM0730101` `qobuz:129689164`
+- **The Last Resort** — King Of The Jungle [A Way of Life Skinhead Anthems] (3:33) `isrc:GBPYM0730330` `qobuz:142184712`
+- **Zounds** — Can't Cheat Karma [Curse of the Zounds + Singles] (2:45) `isrc:US2A90405602` `qobuz:43316648`
+- **Flux Of Pink Indians** — Tube Disaster [Not So Brave] (2:32) `isrc:GBKYA0604630` `qobuz:168439844`
+- **One Way System** — Stab The Judge [The Best Of...] (1:56) `isrc:GBBLY8200375` `qobuz:75687784`
+- **The Business** — Suburban Rebels [Suburban Rebels] (2:17) `isrc:GBPYM0730195` `qobuz:129688286`
+- **The Blood** — Megalomania [No Future Complete Singles Collection: The Sound Of UK 82] (3:14) `isrc:GBBLY8300315` `qobuz:99173536`
+- **Rudimentary Peni** — Rotten To The Core [Death Church] (3:26) `isrc:GBHLW2103469` `qobuz:238253034`
+- **Cock Sparrer** — Runnin' Riot [Rarities] (3:31) `isrc:GBPYM0730212` `qobuz:120001263`
+- **Toy Dolls** — Nellie The Elephant [Dig That Groove Baby] (3:27) `isrc:GBUM70908469` `qobuz:385570027`
+- **The Mob** — No Doves Fly Here [No Doves Fly Here] (6:41) `isrc:GBBTF1900453` `qobuz:343185653`
+- **The Saints** — (I'm) Stranded [(I'm) Stranded] (3:29) `isrc:AUEM00400004` `qobuz:300522430`
+- **Radio Birdman** — New Race [Radios Appear Deluxe (Black Version)] (4:32) `isrc:AURB10720010` `qobuz:79027169`
+- **The Victims** — Television Addict [The Victims] (2:58) `isrc:USA3D1933901` `qobuz:78397346`
+- **Suburban Reptiles** — Saturday Night Stay at Home [Suburban Reptiles] (2:47) `isrc:NZPL01300001` `qobuz:295090275`
+- **Lipstick Killers** — Hindu Gods of Love [Hindu Gods of Love] (3:21) `isrc:GB9TP2010063` `qobuz:120344155`
+- **The Scavengers** — Mysterex [AK79 (40th Anniversary Reissue)] (3:43) `isrc:NZPL01400002` `qobuz:87366954`
+- **Proud Scum** — I Am A Rabbit [AK79 (40th Anniversary Reissue)] (1:49) `isrc:NZPL01400004` `qobuz:87366956`
+- **The Terrorways** — Never Been To Borstal [AK79 (40th Anniversary Reissue)] (2:04) `isrc:NZPL01400003` `qobuz:87366955`
+- **X** — Good on Ya Baby [X-Aspirations] (3:20) `isrc:USA2P1604217` `qobuz:346379836`
+- **The Celibate Rifles** — Killing Time [Sideroxylon] (2:28) `isrc:USA2P2108531` `qobuz:348370104`
+- **Metal Urbain** — Panik [Les Hommes Morts Sont Dangereux] (2:16) `isrc:QM6XS2002388` `qobuz:103541638`
+- **The Kids** — Fascist Cops [The Kids] (2:31) `isrc:BEBB71700113` `qobuz:39746349`
+- **Ivy Green** — I'm Sure We're Gonna Make It [Ivy Green] (3:29) `isrc:NLA807700011` `qobuz:85318142`
+- **Ebba Grön** — We´re Only In It For The Drugs No. 1 [We´re only in it for the drugs] (4:24) `isrc:SELAA8001010` `qobuz:2725676`
+- **Pekinška Patka** — Biti Ružan, Pametan I Mlad [Plitka Poezija] (1:54) `isrc:HRA048050523` `qobuz:289755435`
+- **Bad Bubble** — Summer Coats [a Conclusion: Mors] (4:52) `isrc:QT6E82520991` `qobuz:377527290`
+- **Sods** — Police [Minutes To Go (2011 Digital Remaster)] (1:30) `isrc:DKABA1101884` `qobuz:3548355`
+- **Marko LaNe** — Räkna med bråk [My talk] (3:20) `isrc:QT6EV2634376` `qobuz:432692311`
+- **Pelle Miljoona Oy** — Juokse villi lapsi [Moottoritie on kuuma] (4:35) `isrc:FILKA8000337` `qobuz:26319368`
+- **Pankrti** — Lublana je bulana [Zbrana dela 1977 - 1988] (2:03) `isrc:SIA631101159` `qobuz:101421114`
+- **Paraf** — Narodna Pjesma [Rijeka (Extended)] (1:53) `isrc:SIA421600024` `qobuz:32301826`
+- **Slime** — Armes Deutschland [3!+7¹] (2:48) `isrc:DEG032503501` `qobuz:349734508`
+- **National Wake** — International News [Walk in Africa 1979-81] (3:18) `isrc:USDEA1310501` `qobuz:313174777`
+- **The Vapors** — Turning Japanese [New Clear Days] (3:44) `isrc:GBAYE8000147` `qobuz:46995367`
+- **Die Toten Hosen** — Opel-Gang [Opel-Gang] (1:57) `isrc:DEP610712357` `qobuz:25119694`
+- **Eskorbuto** — Mucha policía, poca diversión [Impuesto Revolucionario] (2:54) `isrc:ES5018618013` `qobuz:2836093`
+- **Los Violadores** — Represión [Lo Mejor De Los Violadores] (3:35) `isrc:ARF410901897` `qobuz:65117660`
+- **die ärzte** — Zu spät [Devil (Debil Re-Release)] (2:45) `isrc:DEE868400044` `qobuz:102811306`
+- **La polla records** — Salve [Salve] (3:06) `isrc:ES5590601846` `qobuz:52059300`
+- **Dezerter** — Spytaj Milicjanta [Underground out of Poland] (1:37) `isrc:PLB178300002` `qobuz:91250787`

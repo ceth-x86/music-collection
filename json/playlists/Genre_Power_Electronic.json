@@ -1,0 +1,1010 @@
+{
+  "name": "Genre: Power Electronic",
+  "services": {
+    "qobuz": "66733578",
+    "tidal": "cda76ee4-8032-4723-b616-a2e0d1c060e4"
+  },
+  "description": "Imported genre playlist: Power Electronic.",
+  "tracks": [
+    {
+      "artist": "Church of Misery",
+      "title": "Dusseldorf Monster (Peter Kurten)",
+      "services": {
+        "qobuz": "56262065"
+      },
+      "album": "Thy Kingdom Scum",
+      "duration": 765,
+      "isrc": "GBMLU1316307"
+    },
+    {
+      "artist": "Andr\u00e9s Calamaro",
+      "title": "La parte de adelante",
+      "services": {
+        "qobuz": "2582438"
+      },
+      "album": "Honestidad Brutal",
+      "duration": 261,
+      "isrc": "ES5019953003"
+    },
+    {
+      "artist": "Kaytranada",
+      "title": "DESPITE THE WEATHER",
+      "services": {
+        "qobuz": "33931939"
+      },
+      "album": "99.9%",
+      "duration": 121,
+      "isrc": "GBBKS1600020"
+    },
+    {
+      "artist": "Tracy Chapman",
+      "title": "Stand by Me",
+      "services": {
+        "qobuz": "27956674"
+      },
+      "album": "Greatest Hits",
+      "duration": 169,
+      "isrc": "USRH11508098"
+    },
+    {
+      "artist": "B\u2019Rock Orchestra",
+      "title": "Handel: Orlando, HWV 31 / Act 3 - Rec. \"S'\u00e8 corrisposto un core\" - No. 30 Aria \"Amor \u00e8 qual vento\"",
+      "services": {
+        "qobuz": "16174834"
+      },
+      "album": "Georg Friedrich H\u00e4ndel : Orlando",
+      "duration": 334,
+      "isrc": "DEN961330831"
+    },
+    {
+      "artist": "528 hz",
+      "title": "Anti Anxiety Cleanse - Stop Overthinking Phase 2",
+      "services": {
+        "qobuz": "66833899"
+      },
+      "album": "Anti Anxiety Cleanse - Stop Overthinking",
+      "duration": 331,
+      "isrc": "ATB571917082"
+    },
+    {
+      "artist": "Cottonwood Firing Squad",
+      "title": "untitled demo 113",
+      "services": {
+        "qobuz": "156875921"
+      },
+      "album": "death metal, golden retriever",
+      "duration": 157,
+      "isrc": "QZHN82292738"
+    },
+    {
+      "artist": "Annenmaykantereit",
+      "title": "Als ich ein Kind war",
+      "services": {
+        "qobuz": "197244965"
+      },
+      "album": "Es ist Abend und wir sitzen bei mir",
+      "duration": 273,
+      "isrc": "DE1CR2200016"
+    },
+    {
+      "artist": "Genocide Organ",
+      "title": "Hate",
+      "services": {
+        "qobuz": "76257008"
+      },
+      "album": "Mind Control",
+      "duration": 255,
+      "isrc": "QM6N21888757"
+    },
+    {
+      "artist": "Ben Harper",
+      "title": "When Love Is Not Enough",
+      "services": {
+        "qobuz": "77619517"
+      },
+      "album": "No Mercy In This Land",
+      "duration": 248,
+      "isrc": "USEP41731016"
+    },
+    {
+      "artist": "Simon & Garfunkel",
+      "title": "The Sound of Silence",
+      "services": {
+        "qobuz": "20534163"
+      },
+      "album": "Sounds Of Silence",
+      "duration": 190,
+      "isrc": "USSM16401131"
+    },
+    {
+      "artist": "Amon Tobin",
+      "title": "Bad Sex",
+      "services": {
+        "qobuz": "238004309"
+      },
+      "album": "Xen Cuts",
+      "duration": 345,
+      "isrc": "GBCFB0001810"
+    },
+    {
+      "artist": "Victims Family",
+      "title": "The Germ",
+      "services": {
+        "qobuz": "52332390"
+      },
+      "album": "Germ",
+      "duration": 189,
+      "isrc": "US2B20410801"
+    },
+    {
+      "artist": "$uicideboy$",
+      "title": "The Number You Have Dialed Is Not in Service",
+      "services": {
+        "qobuz": "125385287"
+      },
+      "album": "Long Term Effects of SUFFERING",
+      "duration": 165,
+      "isrc": "QZAPK2000201"
+    },
+    {
+      "artist": "Jean Lumi\u00e8re",
+      "title": "Maman vous \u00eates la plus belle",
+      "services": {
+        "qobuz": "18652472"
+      },
+      "album": "Voulez-vous danser grand'm\u00e8re ? (feat. Jacques M\u00e9t\u00e9hen et son orchestre, Marcel Carniven et son orchestre)",
+      "duration": 176,
+      "isrc": "FRS181464629"
+    },
+    {
+      "artist": "Seventeen",
+      "title": "MOONWALKER",
+      "services": {
+        "qobuz": "221344721"
+      },
+      "album": "YOU MAKE MY DAY",
+      "duration": 180,
+      "isrc": "KRA871800011"
+    },
+    {
+      "artist": "Incapacitants",
+      "title": "Yellow Silk Buddha",
+      "services": {
+        "qobuz": "61624681"
+      },
+      "album": "A Purpose Not Necessary",
+      "duration": 1840,
+      "isrc": "QM6MZ1960717"
+    },
+    {
+      "artist": "Sshe Retina Stimulants",
+      "title": "Gauze Surfing, Next",
+      "services": {
+        "qobuz": "157830019"
+      },
+      "album": "Neurotransmitter Actions",
+      "duration": 281,
+      "isrc": "DEZ651356388"
+    },
+    {
+      "artist": "Discordant Discharge",
+      "title": "Engineering Heaven",
+      "services": {
+        "qobuz": "430269755"
+      },
+      "album": "Engineering Heaven",
+      "duration": 264,
+      "isrc": "QT6ED2667907"
+    },
+    {
+      "artist": "K.I.Z",
+      "title": "Mehr als nur ein Fan",
+      "services": {
+        "qobuz": "122035447"
+      },
+      "album": "Rap \u00fcber Hass",
+      "duration": 288,
+      "isrc": "DECE72006595"
+    },
+    {
+      "artist": "Heretical Rites",
+      "title": "Cumrag of Turin",
+      "services": {
+        "qobuz": "270143453"
+      },
+      "album": "A Blessing Not From God",
+      "duration": 121,
+      "isrc": "QZNWS2407602"
+    },
+    {
+      "artist": "AC/DC",
+      "title": "Thunderstruck",
+      "services": {
+        "qobuz": "19906146"
+      },
+      "album": "Iron Man 2",
+      "duration": 293,
+      "isrc": "AUAP09000014"
+    },
+    {
+      "artist": "Fred Mollin",
+      "title": "Something There",
+      "services": {
+        "qobuz": "54893490"
+      },
+      "album": "Princess Lullaby: Soothing Instrumental Lullabies For Little Princesses",
+      "duration": 195,
+      "isrc": "USWD10220272"
+    },
+    {
+      "artist": "Survival Unit III",
+      "title": "Never Eat Anything Bigger Than Your Head",
+      "services": {
+        "qobuz": "75406957"
+      },
+      "album": "Game Theory",
+      "duration": 1307,
+      "isrc": "QMDA61385530"
+    },
+    {
+      "artist": "Alteanne ASMR",
+      "title": "Chine, pole\u0301miques et ce qui m\u2019est arrive\u0301",
+      "services": {
+        "qobuz": "372721782"
+      },
+      "album": "ASMR PYJAMA DRAMA (\u00e0 coeur ouvert...)",
+      "duration": 531,
+      "isrc": "QT62V2532350"
+    },
+    {
+      "artist": "Coroner",
+      "title": "Suicide Command",
+      "services": {
+        "qobuz": "48632309"
+      },
+      "album": "R.I.P.",
+      "duration": 259,
+      "isrc": "CH0011701053"
+    },
+    {
+      "artist": "Berlin",
+      "title": "Take My Breath Away",
+      "services": {
+        "qobuz": "2719930"
+      },
+      "album": "Top Gun - Motion Picture Soundtrack (Special Expanded Edition)",
+      "duration": 256,
+      "isrc": "USSM19801613"
+    },
+    {
+      "artist": "Groove Movement",
+      "title": "Victim",
+      "services": {
+        "qobuz": "77195909"
+      },
+      "album": "By Definition",
+      "duration": 228,
+      "isrc": "USHM80893412"
+    },
+    {
+      "artist": "Jeff Tweedy",
+      "title": "Forever Never Ends",
+      "services": {
+        "qobuz": "345509435"
+      },
+      "album": "Twilight Override",
+      "duration": 191,
+      "isrc": "QMKRW2500087"
+    },
+    {
+      "artist": "New Order",
+      "title": "Regret",
+      "services": {
+        "qobuz": "35996475"
+      },
+      "album": "Republic",
+      "duration": 251,
+      "isrc": "GBAAP1500092"
+    },
+    {
+      "artist": "Monteverdi Choir",
+      "title": "J.S. Bach: Weihnachts-Oratorium, BWV 248, Pt. 3: No. 28, Chorale. Dies hat er alles uns getan",
+      "services": {
+        "qobuz": "571694"
+      },
+      "album": "Bach, J.S.: Christmas Oratorio; St. Matthew Passion; St. John Passion; Mass in B minor",
+      "duration": 43,
+      "isrc": "DEF058730139"
+    },
+    {
+      "artist": "The Grey Wolves",
+      "title": "Pure Hatred (Live)",
+      "services": {
+        "qobuz": "267702202"
+      },
+      "album": "Exit Wounds",
+      "duration": 169,
+      "isrc": "QM6N22467155"
+    },
+    {
+      "artist": "Shiro Sagisu",
+      "title": "Persecution Of The Masses (1172)",
+      "services": {
+        "qobuz": "86819493"
+      },
+      "album": "Shin Godzilla (Original Motion Picture Soundtrack)",
+      "duration": 266,
+      "isrc": "US5941406459"
+    },
+    {
+      "artist": "The Smiths",
+      "title": "Nowhere Fast",
+      "services": {
+        "qobuz": "10474532"
+      },
+      "album": "Meat Is Murder",
+      "duration": 157,
+      "isrc": "GBCRL1300020"
+    },
+    {
+      "artist": "Keith Jarrett",
+      "title": "The Masquerade Is Over",
+      "services": {
+        "qobuz": "46799969"
+      },
+      "album": "After The Fall",
+      "duration": 949,
+      "isrc": "DEB339859001"
+    },
+    {
+      "artist": "The Jack Saints",
+      "title": "Nightmares In A Damaged Brain",
+      "services": {
+        "qobuz": "74745716"
+      },
+      "album": "Rock And Roll Saved Our Lives...But Now It's Trying To Kill Us!",
+      "duration": 141,
+      "isrc": "ITKO70610059"
+    },
+    {
+      "artist": "Alex Chilton",
+      "title": "Dominating Force (Live)",
+      "services": {
+        "qobuz": "67429621"
+      },
+      "album": "Ocean Club '77",
+      "duration": 213,
+      "isrc": "QM4TX1559184"
+    },
+    {
+      "artist": "John Legend",
+      "title": "Show Me",
+      "services": {
+        "qobuz": "11832209"
+      },
+      "album": "Once Again",
+      "duration": 298,
+      "isrc": "USSM10605262"
+    },
+    {
+      "artist": "P.O.D.",
+      "title": "Execute the Sounds",
+      "services": {
+        "qobuz": "2925484"
+      },
+      "album": "Payable on Death",
+      "duration": 180,
+      "isrc": "USAT20302818"
+    },
+    {
+      "artist": "Damn Low",
+      "title": "Death Pact",
+      "services": {
+        "qobuz": "287464101"
+      },
+      "album": "Death Pact",
+      "duration": 173,
+      "isrc": "FRR642401250"
+    },
+    {
+      "artist": "Jenny Owen Youngs",
+      "title": "Goldenrod",
+      "services": {
+        "qobuz": "294248342"
+      },
+      "album": "Avalanche",
+      "duration": 265,
+      "isrc": "USY1R2306603"
+    },
+    {
+      "artist": "Morbid Angel",
+      "title": "Prayer of Hatred",
+      "services": {
+        "qobuz": "15641264"
+      },
+      "album": "Formulas Fatal to the Flesh",
+      "duration": 268,
+      "isrc": "GBBPB0400438"
+    },
+    {
+      "artist": "The Smiths",
+      "title": "Please, Please, Please Let Me Get What I Want",
+      "services": {
+        "qobuz": "4264692"
+      },
+      "album": "Hatful of Hollow",
+      "duration": 112,
+      "isrc": "GBCRL1100072"
+    },
+    {
+      "artist": "Operation Cleansweep",
+      "title": "Powerhungry",
+      "services": {
+        "qobuz": "95222419"
+      },
+      "album": "Release Now! Hungry for Power",
+      "duration": 922,
+      "isrc": "QM6N22043914"
+    },
+    {
+      "artist": "Larry Gatlin & The Gatlin Brothers Band",
+      "title": "What Are We Doin' Lonesome",
+      "services": {
+        "qobuz": "47274155"
+      },
+      "album": "Not Guilty (Expanded Edition)",
+      "duration": 153,
+      "isrc": "USSM19916105"
+    },
+    {
+      "artist": "Teenage Bottlerocket",
+      "title": "Be with You",
+      "services": {
+        "qobuz": "347870250"
+      },
+      "album": "They Came From The Shadows",
+      "duration": 102,
+      "isrc": "USFW40974711"
+    },
+    {
+      "artist": "Three Black Eyes",
+      "title": "Cotton Wool",
+      "services": {
+        "qobuz": "54834778"
+      },
+      "album": "Everyone Is No-One",
+      "duration": 134,
+      "isrc": "FR9W11100797"
+    },
+    {
+      "artist": "James Last",
+      "title": "Wem Gott will rechte Gunst erweisen / \u00dcb' immer Treu und Redlichkeit / Ein M\u00e4nnlein steht im Walde",
+      "services": {
+        "qobuz": "60796525"
+      },
+      "album": "\u00c4nnchen von Tharau bittet zum Tanz",
+      "duration": 205,
+      "isrc": "DEUM71900795"
+    },
+    {
+      "artist": "Alberich",
+      "title": "Snow Is Falling in the Ruins of Stalingrad",
+      "services": {
+        "qobuz": "342007995"
+      },
+      "album": "Nibel-Infrared, Vol. 1",
+      "duration": 306,
+      "isrc": "USA2Z2500759"
+    },
+    {
+      "artist": "Narciso Yepes",
+      "title": "Rodrigo: Concierto de Aranjuez for Guitar and Orchestra: II. Adagio",
+      "services": {
+        "qobuz": "26589518"
+      },
+      "album": "Rodrigo: Concierto di Aranjuez",
+      "duration": 675,
+      "isrc": "DEF057900402"
+    },
+    {
+      "artist": "Ibrahim Maalouf",
+      "title": "Ba\u00efkal",
+      "services": {
+        "qobuz": "32397047"
+      },
+      "album": "Dans les for\u00eats de Sib\u00e9rie (Bande originale du film)",
+      "duration": 175,
+      "isrc": "FRP8H1600130"
+    },
+    {
+      "artist": "The White Buffalo",
+      "title": "Kingdom For A Fool",
+      "services": {
+        "qobuz": "190595637"
+      },
+      "album": "Year Of The Dark Horse",
+      "duration": 208,
+      "isrc": "GBUM72201528"
+    },
+    {
+      "artist": "Indie Rose",
+      "title": "Under the Moon's Iron Gaze",
+      "services": {
+        "qobuz": "385013692"
+      },
+      "album": "Under the Moon's Iron Gaze",
+      "duration": 191,
+      "isrc": "QT5M22657164"
+    },
+    {
+      "artist": "Katzenjammer",
+      "title": "Soviet Trumpeter",
+      "services": {
+        "qobuz": "47108262"
+      },
+      "album": "A Kiss Before You Go",
+      "duration": 251,
+      "isrc": "NOPRR1102080"
+    },
+    {
+      "artist": "Uncle Acid & the Deadbeats",
+      "title": "Death's Door",
+      "services": {
+        "qobuz": "56253338"
+      },
+      "album": "Blood Lust",
+      "duration": 435,
+      "isrc": "GBMLU1213902"
+    },
+    {
+      "artist": "De La Soul",
+      "title": "Sunny Storms",
+      "services": {
+        "qobuz": "369830162"
+      },
+      "album": "Cabin In The Sky",
+      "duration": 204,
+      "isrc": "QMFMF2594024"
+    },
+    {
+      "artist": "Lauri Porra",
+      "title": "Sometimes I Can't Stop Myself",
+      "services": {
+        "qobuz": "312941706"
+      },
+      "album": "Seasons in Moominvalley",
+      "duration": 106,
+      "isrc": "DEE862402309"
+    },
+    {
+      "artist": "BEN plg",
+      "title": "La symphonie de l'arr\u00eat de bus",
+      "services": {
+        "qobuz": "375957314"
+      },
+      "album": "R\u00e9alit\u00e9 Rap Musique, Vol. 1",
+      "duration": 158,
+      "isrc": "FR8Y72200124"
+    },
+    {
+      "artist": "The Jubilee Gospel Team",
+      "title": "I Know The Lord Has Laid His Hands On Me",
+      "services": {
+        "qobuz": "956771"
+      },
+      "album": "The Jubilee Gospel Team (1928) & Deep River Plantation Singers (1931)",
+      "duration": 191,
+      "isrc": "USA560590845"
+    },
+    {
+      "artist": "\u00a1Mayday!",
+      "title": "Against My Better Judgement",
+      "services": {
+        "qobuz": "27258506"
+      },
+      "album": "Future Vintage",
+      "duration": 295,
+      "isrc": "USZHR1500126"
+    },
+    {
+      "artist": "You Know Who!",
+      "title": "I've Fallen And I Can\u2019t Get Up",
+      "services": {
+        "qobuz": "359047495"
+      },
+      "album": "Nu Groove Edits, Vol. 7",
+      "duration": 326,
+      "isrc": "GBCPZ2324888"
+    },
+    {
+      "artist": "Bring Me The Horizon",
+      "title": "One Day The Only Butterflies Left Will Be In Your Chest As You March Towards Your Death",
+      "services": {
+        "qobuz": "103252972"
+      },
+      "album": "POST HUMAN: SURVIVAL HORROR",
+      "duration": 243,
+      "isrc": "GBARL2001278"
+    },
+    {
+      "artist": "Joni Mitchell",
+      "title": "Big Yellow Taxi",
+      "services": {
+        "qobuz": "282345336"
+      },
+      "album": "Joni Mitchell Archives, Vol. 4: The Asylum Years (1976-1980)",
+      "duration": 183,
+      "isrc": "USRH12401750"
+    },
+    {
+      "artist": "Lin-Manuel Miranda",
+      "title": "The Story of Tonight",
+      "services": {
+        "qobuz": "26464366"
+      },
+      "album": "Hamilton. An American Musical",
+      "duration": 91,
+      "isrc": "USAT21502645"
+    },
+    {
+      "artist": "Rap La Rue",
+      "title": "Katastrophe",
+      "services": {
+        "qobuz": "256172526"
+      },
+      "album": "Katastrophe",
+      "duration": 198,
+      "isrc": "DEKF22400268"
+    },
+    {
+      "artist": "\u00c2mes Sanglantes",
+      "title": "Unaware of Their Behavior",
+      "services": {
+        "qobuz": "52473849"
+      },
+      "album": "Crackdown",
+      "duration": 2835,
+      "isrc": "USA2Z1710725"
+    },
+    {
+      "artist": "The Chicks",
+      "title": "Hole in My Head",
+      "services": {
+        "qobuz": "30990936"
+      },
+      "album": "Fly",
+      "duration": 202,
+      "isrc": "USSM19901541"
+    },
+    {
+      "artist": "Mammal Hands",
+      "title": "The Spinner",
+      "services": {
+        "qobuz": "192720621"
+      },
+      "album": "Gift from the Trees",
+      "duration": 319,
+      "isrc": "GBVTB2361001"
+    },
+    {
+      "artist": "Puce Mary",
+      "title": "The Spiral",
+      "services": {
+        "qobuz": "237836640"
+      },
+      "album": "The Spiral",
+      "duration": 339,
+      "isrc": "GBHLW1700863"
+    },
+    {
+      "artist": "Pharmakon",
+      "title": "Transmission",
+      "services": {
+        "qobuz": "37690835"
+      },
+      "album": "Contact",
+      "duration": 294,
+      "isrc": "US5NR1717503"
+    },
+    {
+      "artist": "Nail Bite",
+      "title": "Pain",
+      "services": {
+        "qobuz": "340126597"
+      },
+      "album": "Anomaly",
+      "duration": 93,
+      "isrc": "QZMEP2534534"
+    },
+    {
+      "artist": "Lorn",
+      "title": "Dead Dogs",
+      "services": {
+        "qobuz": "6252106"
+      },
+      "album": "Ask The Dust",
+      "duration": 251,
+      "isrc": "GBCFB1203208"
+    },
+    {
+      "artist": "Blue Foundation",
+      "title": "Eyes on Fire",
+      "services": {
+        "qobuz": "4890246"
+      },
+      "album": "Life Of A Ghost",
+      "duration": 302,
+      "isrc": "DKABA0700900"
+    },
+    {
+      "artist": "Mogens Klyvare Hose Band",
+      "title": "Den felande l\u00e4nken",
+      "services": {
+        "qobuz": "178775171"
+      },
+      "album": "SWEDISH MEATBALLS Vol 2 - The Hard Rock Psych Underground 1970-1977",
+      "duration": 306,
+      "isrc": "SEWRL2200806"
+    },
+    {
+      "artist": "Christopher Tin",
+      "title": "Kia Hora Te Marino",
+      "services": {
+        "qobuz": "99362065"
+      },
+      "album": "Calling All Dawns",
+      "duration": 198,
+      "isrc": "US7LW0900012"
+    },
+    {
+      "artist": "Sylvie Courvoisier",
+      "title": "A Line Through Time",
+      "services": {
+        "qobuz": "350445414"
+      },
+      "album": "Angel Falls",
+      "duration": 450,
+      "isrc": "CH2702505774"
+    },
+    {
+      "artist": "Cadlag",
+      "title": "Matrix",
+      "services": {
+        "qobuz": "339750049"
+      },
+      "album": "Tensor",
+      "duration": 208,
+      "isrc": "SIA302558002"
+    },
+    {
+      "artist": "Tove Lo",
+      "title": "Talking Body",
+      "services": {
+        "qobuz": "19635964"
+      },
+      "album": "Queen Of The Clouds",
+      "duration": 238,
+      "isrc": "SEUM71401533"
+    },
+    {
+      "artist": "Promise the Unbreakable",
+      "title": "If Today Was My Last Day",
+      "services": {
+        "qobuz": "431816995"
+      },
+      "album": "All You Could Do Is All You Could Do",
+      "duration": 230,
+      "isrc": "USHM92668954"
+    },
+    {
+      "artist": "Skitzoid",
+      "title": "Industrial Break Development",
+      "services": {
+        "qobuz": "414412371"
+      },
+      "album": "Nothing But... Drum & Bass Revolution, Vol. 16",
+      "duration": 289,
+      "isrc": "GBKQU2371144"
+    },
+    {
+      "artist": "System Of A Down",
+      "title": "Violent Pornography",
+      "services": {
+        "qobuz": "160065"
+      },
+      "album": "Mezmerize",
+      "duration": 211,
+      "isrc": "USSM10501583"
+    },
+    {
+      "artist": "Metric",
+      "title": "Victim Of Luck",
+      "services": {
+        "qobuz": "376216373"
+      },
+      "album": "Romanticize The Dive",
+      "duration": 203,
+      "isrc": "QMFMG2532673"
+    },
+    {
+      "artist": "Black Label Society",
+      "title": "In This River",
+      "services": {
+        "qobuz": "53817149"
+      },
+      "album": "Mafia",
+      "duration": 235,
+      "isrc": "USAR50451581"
+    },
+    {
+      "artist": "Heavenly Soundwaves",
+      "title": "I Am Not Who I Was",
+      "services": {
+        "qobuz": "412634137"
+      },
+      "album": "I Am Not Who I Was",
+      "duration": 261,
+      "isrc": "QZWFN2657515"
+    },
+    {
+      "artist": "Mark Padmore",
+      "title": "Selbstgespr\u00e4ch WoO 114",
+      "services": {
+        "qobuz": "23301354"
+      },
+      "album": "Beethoven - Haydn - Mozart : Lieder",
+      "duration": 198,
+      "isrc": "USHM11461111"
+    },
+    {
+      "artist": "Lucy Dacus",
+      "title": "Night Shift",
+      "services": {
+        "qobuz": "47394104"
+      },
+      "album": "Historian",
+      "duration": 391,
+      "isrc": "USMTD1810669"
+    },
+    {
+      "artist": "Louis-Ferdinand C\u00e9line",
+      "title": "Mort \u00e0 cr\u00e9dit / Voyage au bout de la nuit",
+      "services": {
+        "qobuz": "5551736"
+      },
+      "album": "Mort \u00e0 cr\u00e9dit / Voyage au bout de la nuit",
+      "duration": 480,
+      "isrc": "FR6V80664743"
+    },
+    {
+      "artist": "Salford Electronics",
+      "title": "Deconstruction (Ancient Methods Deconstruction)",
+      "services": {
+        "qobuz": "60546394"
+      },
+      "album": "Deconstruction",
+      "duration": 487,
+      "isrc": "USA2Z1900461"
+    },
+    {
+      "artist": "Austra",
+      "title": "Math Equation",
+      "services": {
+        "qobuz": "354015240"
+      },
+      "album": "Chin Up Buttercup",
+      "duration": 252,
+      "isrc": "GBCEL2400446"
+    },
+    {
+      "artist": "My Chemical Romance",
+      "title": "The Ghost of You",
+      "services": {
+        "qobuz": "2618876"
+      },
+      "album": "Three Cheers for Sweet Revenge",
+      "duration": 194,
+      "isrc": "USRE10400661"
+    },
+    {
+      "artist": "Hurray For The Riff Raff",
+      "title": "Alibi",
+      "services": {
+        "qobuz": "260461425"
+      },
+      "album": "The Past Is Still Alive",
+      "duration": 168,
+      "isrc": "USNO12300236"
+    },
+    {
+      "artist": "Miquel Villalba",
+      "title": "Untitled",
+      "services": {
+        "qobuz": "306362142"
+      },
+      "album": "Blancafort, M.: Piano Music, Vol. 2  - Jocs I Danses Al Camp / Cants Intims I",
+      "duration": 85,
+      "isrc": "HKI190403603"
+    },
+    {
+      "artist": "Rum Buffalo",
+      "title": "Screama Preacha",
+      "services": {
+        "qobuz": "201807370"
+      },
+      "album": "Blood Moon",
+      "duration": 343,
+      "isrc": "UKQ892000010"
+    },
+    {
+      "artist": "Clear Vision",
+      "title": "Behind The Silence",
+      "services": {
+        "qobuz": "263254292"
+      },
+      "album": "Behind The Silence",
+      "duration": 221,
+      "isrc": "SE6HB2400201"
+    },
+    {
+      "artist": "Depeche Mode",
+      "title": "Enjoy the Silence",
+      "services": {
+        "qobuz": "1762148"
+      },
+      "album": "The Singles 86-98",
+      "duration": 256,
+      "isrc": "GBAJH9800146"
+    },
+    {
+      "artist": "Alkpote",
+      "title": "Plus pure",
+      "services": {
+        "qobuz": "32444275"
+      },
+      "album": "Sadisme et perversion",
+      "duration": 275,
+      "isrc": "FR6031501620"
+    },
+    {
+      "artist": "Buddha Lounge Ensemble",
+      "title": "Mind over Matter",
+      "services": {
+        "qobuz": "106382293"
+      },
+      "album": "Perfect New Age for Study - Collection of Mindfulness Music That Will Make You Achieve the Highest Concentration and Learning Will Be Easy",
+      "duration": 219,
+      "isrc": "PLS921921458"
+    },
+    {
+      "artist": "Napalm Death",
+      "title": "Instruments of Persuasion",
+      "services": {
+        "qobuz": "27570768"
+      },
+      "album": "The Code Is Red - Long Live the Code",
+      "duration": 179,
+      "isrc": "US4E40528706"
+    },
+    {
+      "artist": "New Order",
+      "title": "Bizarre Love Triangle",
+      "services": {
+        "qobuz": "35951256"
+      },
+      "album": "Brotherhood",
+      "duration": 262,
+      "isrc": "GBAAP1500209"
+    },
+    {
+      "artist": "Prurient",
+      "title": "Return To Necrophilia",
+      "services": {
+        "qobuz": "272520395"
+      },
+      "album": "Destroyed Electricity",
+      "duration": 416,
+      "isrc": "USA2Z2400875"
+    }
+  ]
+}

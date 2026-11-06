@@ -1,0 +1,1010 @@
+{
+  "name": "Genre: Psybient",
+  "services": {
+    "qobuz": "66712575",
+    "tidal": "74652dc3-fba8-4b27-bc90-c8e1e10219d5"
+  },
+  "description": "Imported genre playlist: Psybient.",
+  "tracks": [
+    {
+      "artist": "Shpongle",
+      "title": "Divine Moments of Truth",
+      "services": {
+        "qobuz": "63526771"
+      },
+      "album": "Are You Shpongled?",
+      "duration": 620,
+      "isrc": "USA2P0300011"
+    },
+    {
+      "artist": "Aioi",
+      "title": "3:00 A.M. (feat. Kamata Junko)",
+      "services": {
+        "qobuz": "122900394"
+      },
+      "album": "Nemurenu Yoruwa Jasmine Tea Wo",
+      "duration": 177,
+      "isrc": "USHM22159939"
+    },
+    {
+      "artist": "Doulce M\u00e9moire - Denis Raisin Dadre",
+      "title": "Lagrime di San Pietro: No. 9, Chi ad una ad una, LV 1013",
+      "services": {
+        "qobuz": "381677163"
+      },
+      "album": "Lasso & Agostini: Lagrime di San Pietro",
+      "duration": 136,
+      "isrc": "FR50X2520916"
+    },
+    {
+      "artist": "The Souljazz Orchestra",
+      "title": "Greet The Dawn",
+      "services": {
+        "qobuz": "26761456"
+      },
+      "album": "Resistance",
+      "duration": 290,
+      "isrc": "DEG931500736"
+    },
+    {
+      "artist": "Chanchal Uberoi",
+      "title": "Heliospheric Emission, Sun",
+      "services": {
+        "qobuz": "85802882"
+      },
+      "album": "Ragas Across Space (A Space Physicist's Musical Journey Through Our Solar System)",
+      "duration": 646,
+      "isrc": "USHM81167297"
+    },
+    {
+      "artist": "Craig Padilla",
+      "title": "Woven Planet",
+      "services": {
+        "qobuz": "66283457"
+      },
+      "album": "Below the Mountain",
+      "duration": 290,
+      "isrc": "USSP50814008"
+    },
+    {
+      "artist": "Nanci Griffith",
+      "title": "Love At The Five & Dime",
+      "services": {
+        "qobuz": "67341896"
+      },
+      "album": "The Last Of The True Believers",
+      "duration": 278,
+      "isrc": "USPH19110902"
+    },
+    {
+      "artist": "Akara",
+      "title": "Sarah torres",
+      "services": {
+        "qobuz": "404324891"
+      },
+      "album": "R\u00eaves d'une Vie",
+      "duration": 164,
+      "isrc": "GXJBV2655330"
+    },
+    {
+      "artist": "Asura",
+      "title": "Eternal Sunshine (Ambient Version)",
+      "services": {
+        "qobuz": "98091603"
+      },
+      "album": "Serial Chillers, Pt. 1",
+      "duration": 414,
+      "isrc": "USCGH1799827"
+    },
+    {
+      "artist": "Robert Rich",
+      "title": "Aerial on Warm Seas",
+      "services": {
+        "qobuz": "367117655"
+      },
+      "album": "What We Left Behind",
+      "duration": 548,
+      "isrc": "USSP61602708"
+    },
+    {
+      "artist": "Vibrasphere",
+      "title": "Luminous Visions",
+      "services": {
+        "qobuz": "259724727"
+      },
+      "album": "Spectral Insight",
+      "duration": 212,
+      "isrc": "QZHNA2424300"
+    },
+    {
+      "artist": "Desert Dwellers",
+      "title": "Wandering Sadhu",
+      "services": {
+        "qobuz": "219387619"
+      },
+      "album": "Anahata Yoga Dub",
+      "duration": 341,
+      "isrc": "USA2P1271828"
+    },
+    {
+      "artist": "Nuclear Ramjet",
+      "title": "Foldingtime",
+      "services": {
+        "qobuz": "74339347"
+      },
+      "album": "Mission To Sedna",
+      "duration": 812,
+      "isrc": "CASJ90600001"
+    },
+    {
+      "artist": "OTT",
+      "title": "Splitting An Atom",
+      "services": {
+        "qobuz": "166345998"
+      },
+      "album": "Blumenkraft",
+      "duration": 441,
+      "isrc": "QZMEM2270090"
+    },
+    {
+      "artist": "Entheogenic",
+      "title": "Ground Luminosity",
+      "services": {
+        "qobuz": "75042446"
+      },
+      "album": "Spontaneous Illumination",
+      "duration": 704,
+      "isrc": "USHM80877594"
+    },
+    {
+      "artist": "Solar Fields",
+      "title": "Sol",
+      "services": {
+        "qobuz": "178695047"
+      },
+      "album": "Movements",
+      "duration": 503,
+      "isrc": "SEYOK2126825"
+    },
+    {
+      "artist": "Beastie Boys",
+      "title": "Sabotage",
+      "services": {
+        "qobuz": "13291368"
+      },
+      "album": "Ill Communication",
+      "duration": 178,
+      "isrc": "USCA20901511"
+    },
+    {
+      "artist": "Carbon Based Lifeforms",
+      "title": "Interloper",
+      "services": {
+        "qobuz": "127126882"
+      },
+      "album": "Interloper",
+      "duration": 389,
+      "isrc": "SEYOK1507551"
+    },
+    {
+      "artist": "Bluetech",
+      "title": "Enter The Lovely",
+      "services": {
+        "qobuz": "319422119"
+      },
+      "album": "Sines and Singularities",
+      "duration": 490,
+      "isrc": "US25X2002930"
+    },
+    {
+      "artist": "Martin Nonstatic",
+      "title": "Methodical Random (Miktek & AES Dana Remix)",
+      "services": {
+        "qobuz": "56741543"
+      },
+      "album": "Ligand Remixes",
+      "duration": 477,
+      "isrc": "FR9W11820939"
+    },
+    {
+      "artist": "Lemonchill",
+      "title": "Sublime",
+      "services": {
+        "qobuz": "90084931"
+      },
+      "album": "Peace Code",
+      "duration": 456,
+      "isrc": "USA2P1838390"
+    },
+    {
+      "artist": "Cell",
+      "title": "Hanging Masses",
+      "services": {
+        "qobuz": "14827022"
+      },
+      "album": "Hanging Masses",
+      "duration": 662,
+      "isrc": "USQY50971548"
+    },
+    {
+      "artist": "Craig Chaquico",
+      "title": "The Grey Wolf Hunts Again",
+      "services": {
+        "qobuz": "4602287"
+      },
+      "album": "Acoustic Planet",
+      "duration": 277,
+      "isrc": "USHOM9401019"
+    },
+    {
+      "artist": "Ochi Brothers",
+      "title": "Silver Shore",
+      "services": {
+        "qobuz": "7516982"
+      },
+      "album": "Albedo",
+      "duration": 380,
+      "isrc": "USA2P0612016"
+    },
+    {
+      "artist": "Peter, Paul and Mary",
+      "title": "Puff, the Magic Dragon",
+      "services": {
+        "qobuz": "3002048"
+      },
+      "album": "Moving",
+      "duration": 206,
+      "isrc": "USWB19901501"
+    },
+    {
+      "artist": "Ashit Desai",
+      "title": "Solace (Jai Radha Madhav - Based on Raag Darbari)",
+      "services": {
+        "qobuz": "139605177"
+      },
+      "album": "Divinity - Divine Music For Meditation",
+      "duration": 436,
+      "isrc": "GBCHQ9902608"
+    },
+    {
+      "artist": "Sun Dial",
+      "title": "Magic Potion",
+      "services": {
+        "qobuz": "152580465"
+      },
+      "album": "Return Journey: The Lost Second Album Sessions 1991",
+      "duration": 188,
+      "isrc": "GBBLY1002595"
+    },
+    {
+      "artist": "Red Sparowes",
+      "title": "The Great Leap Forward Poured Down Upon Us One Day Like a Mighty Storm, Suddenly and Furiously Blinding Our Senses",
+      "services": {
+        "qobuz": "46845525"
+      },
+      "album": "Every Red Heart Shines Toward the Red Sun",
+      "duration": 419,
+      "isrc": "US4JA0600384"
+    },
+    {
+      "artist": "Third Eye Blind",
+      "title": "Deep Inside of You",
+      "services": {
+        "qobuz": "2783161"
+      },
+      "album": "Blue",
+      "duration": 250,
+      "isrc": "USEE10801711"
+    },
+    {
+      "artist": "H.U.V.A. NETWORK",
+      "title": "Orientations part 2 (Ephemeride 15.43\u00b0)",
+      "services": {
+        "qobuz": "5892010"
+      },
+      "album": "Ephemeris",
+      "duration": 498,
+      "isrc": "USQY50909788"
+    },
+    {
+      "artist": "Scann-Tec",
+      "title": "Parallels",
+      "services": {
+        "qobuz": "68741671"
+      },
+      "album": "Facial Memories",
+      "duration": 428,
+      "isrc": "QZES71840945"
+    },
+    {
+      "artist": "Alpha Wave Movement",
+      "title": "Dark Space Distant Islands of Light",
+      "services": {
+        "qobuz": "66141242"
+      },
+      "album": "System A.",
+      "duration": 356,
+      "isrc": "USDY41676876"
+    },
+    {
+      "artist": "Digitally Nomadistry",
+      "title": "Gaiana",
+      "services": {
+        "qobuz": "39332081"
+      },
+      "album": "Virtual Parade",
+      "duration": 266,
+      "isrc": "DEVJ21612016"
+    },
+    {
+      "artist": "Arctic Monkeys",
+      "title": "Do I Wanna Know?",
+      "services": {
+        "qobuz": "11181334"
+      },
+      "album": "AM",
+      "duration": 272,
+      "isrc": "GBCEL1300362"
+    },
+    {
+      "artist": "Farazdeck",
+      "title": "Sine Fine",
+      "services": {
+        "qobuz": "402042367"
+      },
+      "album": "Circular Limited 13 Years Compilation",
+      "duration": 433,
+      "isrc": "CA5KR2265134"
+    },
+    {
+      "artist": "Boards of Canada",
+      "title": "A Moment Of Clarity",
+      "services": {
+        "qobuz": "3776247"
+      },
+      "album": "The Campfire Headphase",
+      "duration": 51,
+      "isrc": "GBBPW0500099"
+    },
+    {
+      "artist": "Field Rotation",
+      "title": "The History of Repetition",
+      "services": {
+        "qobuz": "104315458"
+      },
+      "album": "Fatalist: The Repetition of History",
+      "duration": 660,
+      "isrc": "DEZ651210703"
+    },
+    {
+      "artist": "R.E.M.",
+      "title": "It's The End Of The World As We Know It (And I Feel Fine)",
+      "services": {
+        "qobuz": "990127"
+      },
+      "album": "Document (R.E.M. No. 5)",
+      "duration": 246,
+      "isrc": "USIR38700037"
+    },
+    {
+      "artist": "Alucidnation",
+      "title": "Protocol",
+      "services": {
+        "qobuz": "117417679"
+      },
+      "album": "Aural Architecture",
+      "duration": 296,
+      "isrc": "QMFMG1321366"
+    },
+    {
+      "artist": "Another Fine Day",
+      "title": "Dusty Feet",
+      "services": {
+        "qobuz": "116919097"
+      },
+      "album": "A Good Place To Be",
+      "duration": 251,
+      "isrc": "QM6N21472313"
+    },
+    {
+      "artist": "Kaya Project",
+      "title": "Desert Phase",
+      "services": {
+        "qobuz": "72390355"
+      },
+      "album": "Desert Phase Remixes",
+      "duration": 340,
+      "isrc": "CAM491010056"
+    },
+    {
+      "artist": "Gus Till",
+      "title": "The Night Sands",
+      "services": {
+        "qobuz": "118522887"
+      },
+      "album": "Ghosts of the Earth",
+      "duration": 427,
+      "isrc": "QMFMG1464139"
+    },
+    {
+      "artist": "Hibernation",
+      "title": "Plastics",
+      "services": {
+        "qobuz": "72388479"
+      },
+      "album": "Second Nature",
+      "duration": 309,
+      "isrc": "CAM491200012"
+    },
+    {
+      "artist": "Sunmonx",
+      "title": "70 Percent Cocoa",
+      "services": {
+        "qobuz": "116919120"
+      },
+      "album": "Power Salad",
+      "duration": 249,
+      "isrc": "CAM491200010"
+    },
+    {
+      "artist": "Spiral System",
+      "title": "Rain",
+      "services": {
+        "qobuz": "117417698"
+      },
+      "album": "Be Sides",
+      "duration": 296,
+      "isrc": "QMFME1329547"
+    },
+    {
+      "artist": "Sinepearl",
+      "title": "Ceremonial Tea",
+      "services": {
+        "qobuz": "117417649"
+      },
+      "album": "Cycles Within Cycles Within",
+      "duration": 522,
+      "isrc": "QMDA61425007"
+    },
+    {
+      "artist": "Ishq",
+      "title": "Skylike",
+      "services": {
+        "qobuz": "155741529"
+      },
+      "album": "And Awake",
+      "duration": 631,
+      "isrc": "CAM491100018"
+    },
+    {
+      "artist": "Kliment",
+      "title": "Jaia Flower",
+      "services": {
+        "qobuz": "98091604"
+      },
+      "album": "Serial Chillers, Pt. 1",
+      "duration": 457,
+      "isrc": "USCGH1799828"
+    },
+    {
+      "artist": "Suduaya",
+      "title": "Nomad",
+      "services": {
+        "qobuz": "117298704"
+      },
+      "album": "Venus",
+      "duration": 456,
+      "isrc": "USHM81674452"
+    },
+    {
+      "artist": "E-Mantra",
+      "title": "Daydream",
+      "services": {
+        "qobuz": "107119551"
+      },
+      "album": "The Hermit's Sanctuary",
+      "duration": 384,
+      "isrc": "GBKQU2071715"
+    },
+    {
+      "artist": "Alwoods",
+      "title": "Love Spell",
+      "services": {
+        "qobuz": "98091610"
+      },
+      "album": "Serial Chillers, Pt. 1",
+      "duration": 567,
+      "isrc": "USCGH1799834"
+    },
+    {
+      "artist": "Dreaming Cooper",
+      "title": "Zero-G",
+      "services": {
+        "qobuz": "72908016"
+      },
+      "album": "Mysterious Places",
+      "duration": 485,
+      "isrc": "USCGH1649695"
+    },
+    {
+      "artist": "Dhamika",
+      "title": "Indukala",
+      "services": {
+        "qobuz": "73276069"
+      },
+      "album": "Endless Horizons",
+      "duration": 508,
+      "isrc": "USCGJ1694666"
+    },
+    {
+      "artist": "Profondita",
+      "title": "Island",
+      "services": {
+        "qobuz": "125621029"
+      },
+      "album": "Island",
+      "duration": 509,
+      "isrc": "USCGH1746288"
+    },
+    {
+      "artist": "Keemiyo",
+      "title": "Song for Can Cabestany",
+      "services": {
+        "qobuz": "81118984"
+      },
+      "album": "A Mystical Journey",
+      "duration": 518,
+      "isrc": "USHM81500864"
+    },
+    {
+      "artist": "ELEA",
+      "title": "Muladhara",
+      "services": {
+        "qobuz": "84610469"
+      },
+      "album": "Oniros",
+      "duration": 440,
+      "isrc": "USHM21675940"
+    },
+    {
+      "artist": "Flucturion 2.0",
+      "title": "Aimlessly During Sleep (Remix)",
+      "services": {
+        "qobuz": "70017746"
+      },
+      "album": "Wherever Miracles Are",
+      "duration": 487,
+      "isrc": "USCGH1614720"
+    },
+    {
+      "artist": "Astral Waves",
+      "title": "Stellaragen  (Remastered Version)",
+      "services": {
+        "qobuz": "66890443"
+      },
+      "album": "Mystique 2.0",
+      "duration": 409,
+      "isrc": "USHM81190292"
+    },
+    {
+      "artist": "Chronos",
+      "title": "Zikkurat (Live)",
+      "services": {
+        "qobuz": "99285430"
+      },
+      "album": "Serial Chillers, Pt. 2",
+      "duration": 533,
+      "isrc": "USCGH1799849"
+    },
+    {
+      "artist": "Merlin",
+      "title": "No Way Back",
+      "services": {
+        "qobuz": "83382291"
+      },
+      "album": "Magic Potion",
+      "duration": 481,
+      "isrc": "USCGJ1596162"
+    },
+    {
+      "artist": "Argus",
+      "title": "We Are One",
+      "services": {
+        "qobuz": "79899094"
+      },
+      "album": "Pure Love, Pure Down-Tempo, Vol. 1",
+      "duration": 482,
+      "isrc": "CAGWA1800121"
+    },
+    {
+      "artist": "The Flying Mars",
+      "title": "Vibrant State",
+      "services": {
+        "qobuz": "91565643"
+      },
+      "album": "Vibradimensional Experience",
+      "duration": 738,
+      "isrc": "USCGJ1679383"
+    },
+    {
+      "artist": "Digital Blue",
+      "title": "Ghost Dance",
+      "services": {
+        "qobuz": "99285445"
+      },
+      "album": "Serial Chillers, Pt. 2",
+      "duration": 499,
+      "isrc": "USCGH1799865"
+    },
+    {
+      "artist": "CJ Catalizer",
+      "title": "Serotonin",
+      "services": {
+        "qobuz": "100353329"
+      },
+      "album": "Serial Chillers, Pt. 3",
+      "duration": 573,
+      "isrc": "USCGH1799869"
+    },
+    {
+      "artist": "Moon Tripper",
+      "title": "Ukiyo",
+      "services": {
+        "qobuz": "107851671"
+      },
+      "album": "Mystical Whirling",
+      "duration": 632,
+      "isrc": "CAGWA2000016"
+    },
+    {
+      "artist": "Abiogenesis",
+      "title": "Nucleus",
+      "services": {
+        "qobuz": "65432298"
+      },
+      "album": "Biosynthesis",
+      "duration": 615,
+      "isrc": "USCGH1710627"
+    },
+    {
+      "artist": "Omnisound",
+      "title": "Moving",
+      "services": {
+        "qobuz": "100353335"
+      },
+      "album": "Serial Chillers, Pt. 3",
+      "duration": 445,
+      "isrc": "USCGH1799872"
+    },
+    {
+      "artist": "John Ov3rblast",
+      "title": "Return to the Source",
+      "services": {
+        "qobuz": "100353336"
+      },
+      "album": "Serial Chillers, Pt. 3",
+      "duration": 644,
+      "isrc": "USCGH1799873"
+    },
+    {
+      "artist": "Galaxy Drop",
+      "title": "Transfer",
+      "services": {
+        "qobuz": "100353337"
+      },
+      "album": "Serial Chillers, Pt. 3",
+      "duration": 649,
+      "isrc": "USCGH1799875"
+    },
+    {
+      "artist": "Akshan",
+      "title": "Forces of Gravitation",
+      "services": {
+        "qobuz": "94095242"
+      },
+      "album": "Laws of Nature",
+      "duration": 501,
+      "isrc": "CAGWA2000047"
+    },
+    {
+      "artist": "Liquid Relaxation Oasis",
+      "title": "Gentle Dreams",
+      "services": {
+        "qobuz": "75181594"
+      },
+      "album": "30 Tracks of Liquid Relaxation \u2013 Music Therapy, Less Anxiety and Stress, Calm Rest Time, Peace of Mind, Feeling Positive Energy",
+      "duration": 237,
+      "isrc": "QZ6P91652108"
+    },
+    {
+      "artist": "Doctor P\u00f3lvora",
+      "title": "Los Momentos de Ayer",
+      "services": {
+        "qobuz": "313826203"
+      },
+      "album": "Enciende Mi Llama",
+      "duration": 251,
+      "isrc": "CH6542500150"
+    },
+    {
+      "artist": "Guns N' Roses",
+      "title": "November Rain",
+      "services": {
+        "qobuz": "173779645"
+      },
+      "album": "Use Your Illusion I",
+      "duration": 535,
+      "isrc": "USUG12200195"
+    },
+    {
+      "artist": "The Glitch Mob",
+      "title": "Enter Formless (Remix) X Dream Mentor (revision)",
+      "services": {
+        "qobuz": "127934398"
+      },
+      "album": "Revisions",
+      "duration": 223,
+      "isrc": "QMFME2160505"
+    },
+    {
+      "artist": "EMDR Music Therapy",
+      "title": "The Breath Of New Beginnings",
+      "services": {
+        "qobuz": "329456028"
+      },
+      "album": "Orchestra Of Endless Horizons: A Symphony For The Mind And Spirit",
+      "duration": 190,
+      "isrc": "QZTV32501434"
+    },
+    {
+      "artist": "XG",
+      "title": "HYPNOTIZE",
+      "services": {
+        "qobuz": "385592589"
+      },
+      "album": "THE CORE - \u6838",
+      "duration": 170,
+      "isrc": "JPB602600009"
+    },
+    {
+      "artist": "Bob Marley & The Wailers",
+      "title": "Natural Mystic",
+      "services": {
+        "qobuz": "159433700"
+      },
+      "album": "Live At The Rainbow, 1st June 1977",
+      "duration": 309,
+      "isrc": "USUM71702525"
+    },
+    {
+      "artist": "Jacob Collier",
+      "title": "Heaven (Butterflies)",
+      "services": {
+        "qobuz": "354624456"
+      },
+      "album": "The Light For Days",
+      "duration": 297,
+      "isrc": "GBUM72505178"
+    },
+    {
+      "artist": "Sleep Token",
+      "title": "The Summoning",
+      "services": {
+        "qobuz": "195178291"
+      },
+      "album": "Take Me Back To Eden",
+      "duration": 395,
+      "isrc": "GBUM72200352"
+    },
+    {
+      "artist": "Karnivool",
+      "title": "Reanimation",
+      "services": {
+        "qobuz": "351503277"
+      },
+      "album": "IN VERSES",
+      "duration": 441,
+      "isrc": "AUBM02500139"
+    },
+    {
+      "artist": "Richard Stonefield",
+      "title": "Astral Asteroid",
+      "services": {
+        "qobuz": "222993686"
+      },
+      "album": "Astral Asteroid",
+      "duration": 615,
+      "isrc": "QZWDD2321019"
+    },
+    {
+      "artist": "Birds of Paradise",
+      "title": "Eternal Recurrence",
+      "services": {
+        "qobuz": "58266683"
+      },
+      "album": "100",
+      "duration": 477,
+      "isrc": "USA2P1907195"
+    },
+    {
+      "artist": "Mick Giacchino",
+      "title": "Lost in Hyperspace",
+      "services": {
+        "qobuz": "312890369"
+      },
+      "album": "Star Wars: Skeleton Crew",
+      "duration": 39,
+      "isrc": "USWD12434858"
+    },
+    {
+      "artist": "Ganga Giri",
+      "title": "Curried Ripples",
+      "services": {
+        "qobuz": "75389432"
+      },
+      "album": "Beats Around The Bush",
+      "duration": 303,
+      "isrc": "AUOM31010002"
+    },
+    {
+      "artist": "Lorenzo Mauro",
+      "title": "Cloud 10",
+      "services": {
+        "qobuz": "316844703"
+      },
+      "album": "CTRL072",
+      "duration": 305,
+      "isrc": "USA2P2505481"
+    },
+    {
+      "artist": "King Crimson",
+      "title": "Improv: A Voyage To The Centre Of The Cosmos [Bonus Track]",
+      "services": {
+        "qobuz": "49627893"
+      },
+      "album": "Red (Expanded & Remastered Original Album Mix)",
+      "duration": 898,
+      "isrc": "GBCTX1400821"
+    },
+    {
+      "artist": "Electric Light Orchestra",
+      "title": "Livin' Thing",
+      "services": {
+        "qobuz": "28185329"
+      },
+      "album": "A New World Record",
+      "duration": 211,
+      "isrc": "USSM17800853"
+    },
+    {
+      "artist": "Ensemble Discantus",
+      "title": "Viderunt Emmanuel",
+      "services": {
+        "qobuz": "37722090"
+      },
+      "album": "Eya Pueri: Chant de No\u00ebl des XIIe et XIIIe si\u00e8cles",
+      "duration": 258,
+      "isrc": "FR10S1709951"
+    },
+    {
+      "artist": "Monaleo",
+      "title": "Open The Gates",
+      "services": {
+        "qobuz": "362966139"
+      },
+      "album": "Who Did The Body",
+      "duration": 125,
+      "isrc": "USQX92505539"
+    },
+    {
+      "artist": "Variant Field",
+      "title": "Immeasurable",
+      "services": {
+        "qobuz": "117476136"
+      },
+      "album": "Immeasurable",
+      "duration": 233,
+      "isrc": "USLZJ2103042"
+    },
+    {
+      "artist": "Kalya Scintilla",
+      "title": "Rises in the East",
+      "services": {
+        "qobuz": "5981487"
+      },
+      "album": "Dance the Spiral Never Ending",
+      "duration": 318,
+      "isrc": "USA2P1207680"
+    },
+    {
+      "artist": "Deya Dova",
+      "title": "The Winged One",
+      "services": {
+        "qobuz": "53087279"
+      },
+      "album": "Mandala Affect",
+      "duration": 357,
+      "isrc": "UKACT1829724"
+    },
+    {
+      "artist": "L'Imp\u00e9ratrice",
+      "title": "chrysalis",
+      "services": {
+        "qobuz": "361849132"
+      },
+      "album": "chrysalis",
+      "duration": 240,
+      "isrc": "FR9W12551455"
+    },
+    {
+      "artist": "Coin",
+      "title": "Talk Too Much",
+      "services": {
+        "qobuz": "39943304"
+      },
+      "album": "How Will You Know If You Never Try",
+      "duration": 189,
+      "isrc": "USSM11602662"
+    },
+    {
+      "artist": "Night",
+      "title": "Crimson Past",
+      "services": {
+        "qobuz": "92970954"
+      },
+      "album": "High Tides - Distant Skies",
+      "duration": 192,
+      "isrc": "SE3D72001203"
+    },
+    {
+      "artist": "Bleed from Within",
+      "title": "In Place of your Halo",
+      "services": {
+        "qobuz": "305152308"
+      },
+      "album": "Zenith",
+      "duration": 223,
+      "isrc": "DED832400715"
+    },
+    {
+      "artist": "Arcturus - And The Deception Circus",
+      "title": "White Tie Black Noise - Designed by When for Arcturus",
+      "services": {
+        "qobuz": "197527517"
+      },
+      "album": "Disguised Masters",
+      "duration": 49,
+      "isrc": "NOFVJ9903010"
+    },
+    {
+      "artist": "Liquid Bloom",
+      "title": "Roots of the Earth (Medicina Mix)",
+      "services": {
+        "qobuz": "102884241"
+      },
+      "album": "Heart of the Shamans: Ceremonial Medicine Songs",
+      "duration": 999,
+      "isrc": "USWS41415408"
+    },
+    {
+      "artist": "System Of A Down",
+      "title": "Lost In Hollywood",
+      "services": {
+        "qobuz": "160069"
+      },
+      "album": "Mezmerize",
+      "duration": 320,
+      "isrc": "USSM10501587"
+    },
+    {
+      "artist": "Mumford & Sons",
+      "title": "Icarus",
+      "services": {
+        "qobuz": "374793628"
+      },
+      "album": "Prizefighter",
+      "duration": 192,
+      "isrc": "GBUM72506325"
+    }
+  ]
+}

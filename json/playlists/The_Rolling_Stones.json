@@ -1,0 +1,118 @@
+{
+  "name": "The Rolling Stones",
+  "services": {
+    "qobuz": "65972954"
+  },
+  "tracks": [
+    {
+      "artist": "The Rolling Stones",
+      "title": "Gimme Shelter",
+      "services": {
+        "qobuz": "20396219"
+      },
+      "album": "Let It Bleed",
+      "duration": 270,
+      "isrc": "USA176910020"
+    },
+    {
+      "artist": "The Rolling Stones",
+      "title": "Sister Morphine",
+      "services": {
+        "qobuz": "96137484"
+      },
+      "album": "Sticky Fingers",
+      "duration": 334,
+      "isrc": "GBUM70909471"
+    },
+    {
+      "artist": "The Rolling Stones",
+      "title": "Terrifying",
+      "services": {
+        "qobuz": "96136911"
+      },
+      "album": "Steel Wheels",
+      "duration": 293,
+      "isrc": "GBUM70909454"
+    },
+    {
+      "artist": "The Rolling Stones",
+      "title": "Hearts For Sale",
+      "services": {
+        "qobuz": "96136913"
+      },
+      "album": "Steel Wheels",
+      "duration": 280,
+      "isrc": "GBUM70909456"
+    },
+    {
+      "artist": "The Rolling Stones",
+      "title": "Rock And A Hard Place",
+      "services": {
+        "qobuz": "96136915"
+      },
+      "album": "Steel Wheels",
+      "duration": 325,
+      "isrc": "GBUM70909458"
+    },
+    {
+      "artist": "The Rolling Stones",
+      "title": "Love Is Strong",
+      "services": {
+        "qobuz": "96137818"
+      },
+      "album": "Voodoo Lounge",
+      "duration": 230,
+      "isrc": "GBUM70909516"
+    },
+    {
+      "artist": "The Rolling Stones",
+      "title": "Out Of Tears",
+      "services": {
+        "qobuz": "96137824"
+      },
+      "album": "Voodoo Lounge",
+      "duration": 327,
+      "isrc": "GBUM70909522"
+    },
+    {
+      "artist": "The Rolling Stones",
+      "title": "Anybody Seen My Baby?",
+      "services": {
+        "qobuz": "96137500"
+      },
+      "album": "Bridges To Babylon",
+      "duration": 271,
+      "isrc": "GBUM70909350"
+    },
+    {
+      "artist": "The Rolling Stones",
+      "title": "Low Down",
+      "services": {
+        "qobuz": "96137501"
+      },
+      "album": "Bridges To Babylon",
+      "duration": 265,
+      "isrc": "GBUM70909351"
+    },
+    {
+      "artist": "The Rolling Stones",
+      "title": "Out Of Control",
+      "services": {
+        "qobuz": "96137505"
+      },
+      "album": "Bridges To Babylon",
+      "duration": 283,
+      "isrc": "GBUM70909367"
+    },
+    {
+      "artist": "The Rolling Stones",
+      "title": "Rough And Twisted",
+      "services": {
+        "qobuz": "434160006"
+      },
+      "album": "Foreign Tongues",
+      "duration": 279,
+      "isrc": "GBUM72508260"
+    }
+  ]
+}

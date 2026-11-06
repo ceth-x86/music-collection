@@ -1,0 +1,108 @@
+# Genre: Dark Synthpop
+
+Imported genre playlist: Dark Synthpop.
+
+Services: `qobuz:66717732` `tidal:e29f6ea2-fc4e-4217-a942-5f129c9d73b8`
+
+## Tracks (100)
+
+- **Human League** — Being Boiled [Reproduction] (3:54) `isrc:GB01A0701071` `qobuz:1048813`
+- **The Normal** — Warm Leatherette [Warm Leatherette / T.V.O.D.] (3:23) `isrc:GBAJH0400898` `qobuz:52081057`
+- **Fad Gadget** — Back to Nature [The Best of Fad Gadget] (5:49) `isrc:GBAJH0100323` `qobuz:4666188`
+- **Tubeway Army** — Are 'Friends' Electric? [Replicas] (5:23) `isrc:GBAZP9700052` `qobuz:26441450`
+- **Holger Kern** — Eisbär (Karaoke Version) [Karaoke the Way to the Star, Vol. 1] (4:58) `isrc:ATW481500058` `qobuz:24434480`
+- **John Foxx** — Underpass [Metamatic] (3:56) `isrc:GBECB1400292` `qobuz:170641481`
+- **Ultravox** — Vienna [Vienna] (4:56) `isrc:GBAYK0800167` `qobuz:169136017`
+- **Liasons Dangereuses** — Los Niños Del Parque [Liaisons Dangereuses] (5:01) `isrc:DEE610200502` `qobuz:30074965`
+- **Dream Theater** — Led Zeppelin Medley - The Rover / Achilles Last Stand / The Song Remains the Same [A Change of Seasons] (7:28) `isrc:USEW20100180` `qobuz:2782570`
+- **Soft Cell** — Sex Dwarf [Non-Stop Erotic Cabaret] (5:16) `isrc:GBF088100765` `qobuz:767596`
+- **Japan** — Ghosts [Tin Drum] (4:36) `isrc:GBAAA0300385` `qobuz:1736002`
+- **Klaus Nomi** — Total Eclipse [Klaus Nomi] (3:30) `isrc:FRZ080802024` `qobuz:201477999`
+- **Laurie Anderson** — O Superman [Big Science] (8:25) `isrc:USNO10750554` `qobuz:11362185`
+- **B-Movie** — Nowhere Girl [Nowhere Girl - EP] (6:28) `isrc:QM6XS1576355` `qobuz:51058419`
+- **Berlin** — The Metro [Pleasure Victim] (4:09) `isrc:USGF19918710` `qobuz:54695912`
+- **New Order** — Blue Monday [Singles] (7:31) `isrc:GBAAP1500066` `qobuz:33382287`
+- **Severed Heads** — Dead Eyes Opened [Dead Eyes Opened] (6:32) `isrc:USQY51728439` `qobuz:371119398`
+- **Ministry** — Revenge [With Sympathy] (3:48) `isrc:USAR18300139` `qobuz:4903967`
+- **Deux** — Decadence [Decadence] (3:21) `isrc:US8YW1100014` `qobuz:50761280`
+- **Kas Product** — Never Come Back [TRY OUT] (3:19) `isrc:FRPEW1900150` `qobuz:181917956`
+- **Nacht Und Nebel** — Beats of Love [Casablanca + Beats Of Love] (3:52) `isrc:BEI010700012` `qobuz:4678552`
+- **Martin Dupont** — Just Because [Just Because...] (4:56) `isrc:QM4TW1993953` `qobuz:59898172`
+- **Anne Clark** — Our Darkness [The Very Best Of] (5:21) `isrc:GBAAA8400459` `qobuz:2626997`
+- **Section 25** — Looking from a Hilltop [From the Hip: 30th Anniversary Edition] (4:23) `isrc:GBHBR0400078` `qobuz:50522990`
+- **Dominatrix** — The Dominatrix Sleeps Tonight [The Dominatrix Sleeps Tonight] (3:33) `isrc:US4F92201010` `qobuz:150860595`
+- **Alphaville** — Forever Young (2019 Remaster) [Forever Young (Super Deluxe Edition) [2019 Remaster]] (3:46) `isrc:DEA621800676` `qobuz:57635342`
+- **Propaganda** — Dr. Mabuse [A Secret Wish] (5:02) `isrc:GBAHW0000201` `qobuz:131632130`
+- **A-Ha** — The Sun Always Shines On TV [The Sun Always Shines On TV] (4:15) `isrc:DEUM71723167` `qobuz:43331590`
+- **Depeche Mode** — Stripped [The Singles 86-98] (3:51) `isrc:GBAJH9800137` `qobuz:1762134`
+- **The Invincible Spirit** — Push [Push] (2:49) `isrc:DEU771200057` `qobuz:359022434`
+- **Red Flag** — Russian Radio [Naïve Art [Special Editon]] (6:12) `isrc:USRY20514048` `qobuz:2811104`
+- **Camouflage** — The Great Commandment [Voices & Images] (4:16) `isrc:DEF088802040` `qobuz:2474168`
+- **Cetu Javu** — Situations [Situations - The Very Best Of] (4:03) `isrc:USA560961785` `qobuz:51044066`
+- **Q Lazzarus** — Goodbye Horses - Single [Goodbye Horses - Single] (3:07) `isrc:QMFME1337712` `qobuz:74785623`
+- **When In Rome** — The Promise [When In Rome] (3:40) `isrc:GBAAA8800494` `qobuz:1947989`
+- **Information Society** — Walking Away [Information Society] (5:04) `isrc:USRE10100517` `qobuz:169127807`
+- **Book Of Love** — Witchcraft [Lullaby] (3:43) `isrc:USWB10101545` `qobuz:39757486`
+- **Lord Of The Lost** — Your Love Is Colder Than Death [OPVS NOIR Vol. 3] (4:22) `isrc:ATN262640409` `qobuz:374514917`
+- **Anything Box** — Living In Oblivion [Peace] (5:06) `isrc:USSM10026764` `qobuz:56611893`
+- **Cause & Effect** — You Think You Know Her [Another Minute] (4:43) `isrc:USVR10400777` `qobuz:5017904`
+- **And One** — Second Voice [Anguish] (3:13) `isrc:GBAJE0603368` `qobuz:385627961`
+- **Wolfsheim** — The Sparrows And The Nightingales [The Sparrows And The Nightingales] (6:45) `isrc:DEE029100020` `qobuz:55185064`
+- **Celebrate the nun** — She's a Secretary (Gothic Mix) [80s Alternative] (5:27) `isrc:USA560952926` `qobuz:68954660`
+- **Psyche** — Unveiling the Secret [Unveiling the Secret] (7:00) `isrc:QMFMG1510523` `qobuz:34011586`
+- **Elegant Machinery** — Safety in Mind [Degraded Faces] (3:59) `isrc:SELRA2001001` `qobuz:99227889`
+- **De/Vision** — Try to Forget [Strange Days] (3:55) `isrc:DEMT31300010` `qobuz:91720755`
+- **Beborn Beton** — Im Innern einer Frau [Nightfall] (4:30) `isrc:DES561591211` `qobuz:189607004`
+- **The Frozen Autumn** — Dusk Is Like a Dagger [Fragments of Memories] (5:03) `isrc:QZFZ32043191` `qobuz:133733499`
+- **Diorama** — Horizons [Fast Advance Fast Reverse] (5:32) `isrc:DEU552214901` `qobuz:183014503`
+- **Shiny Toy Guns** — Le Disko [We Are Pilots] (3:23) `isrc:USUM70606691` `qobuz:148404218`
+- **Colony 5** — Plastic World [Fixed] (3:58) `isrc:SETGM0500206` `qobuz:198573074`
+- **Melotron** — Der Kosmonaut [Sternenstaub] (5:25) `isrc:QZFZ52176953` `qobuz:240131080`
+- **Mesh** — Crash [We Collide] (4:21) `isrc:DEBC40800231` `qobuz:83386857`
+- **Arco Iris** — The Tower [Hierofante] (6:44) `isrc:QZHN32109647` `qobuz:135695300`
+- **The The** — Angels Of Deception [Infected] (4:36) `isrc:GBBBM0102160` `qobuz:47182009`
+- **Ashbury Heights** — SmAlLeR [Three Cheers for the Newlydeads] (4:23) `isrc:DEBZ70700297` `qobuz:135018773`
+- **Iamx** — Kiss And Swallow [Kiss + Swallow] (5:39) `isrc:DEBC40600155` `qobuz:143190764`
+- **Xeno & Oaklander** — Sentinelle [Sentinelle] (3:17) `isrc:USJ3D0900008` `qobuz:76205628`
+- **The Knife** — We Share Our Mothers' Health [Silent Shout] (4:11) `isrc:SEWCE0600204` `qobuz:172626922`
+- **Blaqk Audio** — Stiff Kittens [CexCells] (3:45) `isrc:USUM70741347` `qobuz:2451821`
+- **Fever Ray** — If I Had a Heart [Fever Ray] (3:47) `isrc:SEWCE0900201` `qobuz:19772684`
+- **Cold Cave** — Love Comes Close [Love Comes Close] (4:25) `isrc:USMTD0991302` `qobuz:224565127`
+- **Sixth June** — Everytime [Everytime] (2:52) `isrc:NOAPI1794514` `qobuz:197776525`
+- **Hurts** — Wonderful Life [Happiness] (4:14) `isrc:GBARL0901539` `qobuz:2344657`
+- **Light Asylum** — Dark Allies [In Tension] (6:01) `isrc:USMEX1100074` `qobuz:134465470`
+- **Austra** — Beat And The Pulse [Feel It Break] (4:55) `isrc:GBCEL1001069` `qobuz:3557849`
+- **iamamiwhoami** — sever [kin] (3:58) `isrc:GBUM71200499` `qobuz:170934131`
+- **TR/ST** — Sulk [TRST] (6:17) `isrc:CAAA11106811` `qobuz:45384596`
+- **Linea Aspera** — Synapse [Linea Aspera] (4:16) `isrc:USQY51728442` `qobuz:102004652`
+- **Black Marble** — A Great Design [A Different Arrangement] (4:30) `isrc:USHF31206303` `qobuz:407829589`
+- **Vile Electrodes** — Deep Red [The Future Through a Lens] (7:14) `isrc:UK2YF1300018` `qobuz:170813142`
+- **Kite** — Dance Again [V] (4:40) `isrc:SEXCH0131002` `qobuz:208339252`
+- **Automelodi** — La Cigale [Surlendemains Acides] (3:43) `isrc:USQY51771445` `qobuz:43121924`
+- **Thou Art Lord** — Eyes Wide Shut And Lips Wide Open [DV8] (4:12) `isrc:USA560513768` `qobuz:64505132`
+- **Selofan** — Give Me a Reason [Vitrioli] (4:16) `isrc:TCADN1810894` `qobuz:124077291`
+- **Linear Movement** — Way Out of Living [On the Screen] (5:27) `isrc:US8YW0900029` `qobuz:50763573`
+- **Carman Hammond** — I Need You [My Defender] (4:35) `isrc:USHM81363011` `qobuz:69724747`
+- **Dua Lipa** — Levitating [Future Nostalgia] (3:23) `isrc:GBAHT1901299` `qobuz:104606209`
+- **Bayonet Dismemberment** — Razorwire Laceration [Skull Crushed By A Tank] (4:02) `isrc:QZFZ62642870` `qobuz:382305162`
+- **Sy Oliver** — Dit Dot Dit [Cocktails & Jazz, Vol. 9 - Lounge Swing & Elegant Vocal Pop] (3:10) `isrc:AUXN22603131` `qobuz:389964850`
+- **Chris Gestrin** — Unity of the Divine System [So Below (Music from the Film)] (9:28) `isrc:CAU5M2500017` `qobuz:334999996`
+- **Thee Marloes** — What's On Your Mind [Di Hotel Malibu] (2:37) `isrc:QZ2L62600020` `qobuz:394862232`
+- **Adacama Dream** — No Changes [Audio Jrnl: No Changes] (4:10) `isrc:QZFZ22453778` `qobuz:290967643`
+- **Albert Glasser** — Quit Livin' In A Dreamworld Lou / Chalk Him Off And Dust The Place [The Albert Glasser Collection, Vol. 7 - Film Noir Thrillers #1] (4:15) `isrc:QM6P42439394` `qobuz:272681216`
+- **Queen** — Bohemian Rhapsody [Greatest Hits In Japan] (5:55) `isrc:GBUM71029604` `qobuz:427252075`
+- **Sarah McLachlan** — Broken Heart [Shine On] (3:17) `isrc:USUM71404045` `qobuz:16174193`
+- **Sir Neville Marriner** — The Seven Last Words of Christ, Hob. XX:1: Sonata I. "Pater, dimitte illis, quia nesciunt, quid faciunt" [Haydn: The Seven Last Words, Hob. XX:1] (7:10) `isrc:GBAYC2302069` `qobuz:265994314`
+- **Unovidual** — Metal [Underground Wave, Vol. 3] (1:48) `isrc:BEBB72000431` `qobuz:101917834`
+- **Boy Harsher** — Pain [Lesser Man EP] (7:19) `isrc:GB9TP1501926` `qobuz:243017964`
+- **Minuit Machine** — Honey [Violent Rains] (3:32) `isrc:DE0021511908` `qobuz:284112266`
+- **Empathy Test** — Losing Touch [Losing Touch] (3:50) `isrc:GBKPL1789417` `qobuz:170638629`
+- **Like A Storm** — Love the Way You Hate Me [Awaken the Fire] (4:49) `isrc:US4E41417301` `qobuz:28268937`
+- **Provoker** — Dark Angel [Provoker On Audiotree live] (4:10) `isrc:QM99V2201908` `qobuz:155656146`
+- **Kontravoid** — Too Deep [Too Deep] (4:32) `isrc:QZHN31917670` `qobuz:230364914`
+- **Nuovo Testamento** — Heat [Love Lines] (4:09) `isrc:QZFYZ2318205` `qobuz:195007478`
+- **Riki** — Napoleon [Riki] (4:52) `isrc:QZJCP1900015` `qobuz:76634572`
+- **Mareux** — The Perfect Girl [The Perfect Girl] (3:14) `isrc:QZF8N1986577` `qobuz:141481098`
+- **ULTRA SUNN** — Night Is Mine [Night Is Mine] (5:01) `isrc:SEYOK2104161` `qobuz:205102636`
+- **Glass Spells** — Shattered [Shattered] (4:03) `isrc:QMJPJ2100040` `qobuz:124895270`
+- **Pixel Grip** — Stamina [Percepticide: The Death of Reality] (4:06) `isrc:TCAIN2439614` `qobuz:335121628`

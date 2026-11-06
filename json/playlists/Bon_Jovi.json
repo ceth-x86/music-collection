@@ -1,0 +1,68 @@
+{
+  "name": "Bon Jovi",
+  "services": {
+    "qobuz": "66895028"
+  },
+  "tracks": [
+    {
+      "artist": "Bon Jovi",
+      "title": "You Give Love A Bad Name",
+      "services": {
+        "qobuz": "52324088"
+      },
+      "album": "Slippery When Wet",
+      "duration": 223,
+      "isrc": "USPR39402224"
+    },
+    {
+      "artist": "Bon Jovi",
+      "title": "Livin' On A Prayer",
+      "services": {
+        "qobuz": "52324089"
+      },
+      "album": "Slippery When Wet",
+      "duration": 251,
+      "isrc": "USPR38619998"
+    },
+    {
+      "artist": "Bon Jovi",
+      "title": "Wanted Dead Or Alive",
+      "services": {
+        "qobuz": "52324091"
+      },
+      "album": "Slippery When Wet",
+      "duration": 310,
+      "isrc": "USPR39402222"
+    },
+    {
+      "artist": "Bon Jovi",
+      "title": "It's My Life",
+      "services": {
+        "qobuz": "20477754"
+      },
+      "album": "Crush",
+      "duration": 223,
+      "isrc": "USIR20000145"
+    },
+    {
+      "artist": "Bon Jovi",
+      "title": "Hey God",
+      "services": {
+        "qobuz": "12634648"
+      },
+      "album": "These Days",
+      "duration": 370,
+      "isrc": "USPR39505117"
+    },
+    {
+      "artist": "Bon Jovi",
+      "title": "This Ain't A Love Song",
+      "services": {
+        "qobuz": "12634650"
+      },
+      "album": "These Days",
+      "duration": 305,
+      "isrc": "USMR19505102"
+    }
+  ]
+}

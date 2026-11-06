@@ -1,0 +1,102 @@
+# Genre: Progressive techno
+
+Imported genre playlist: Progressive techno.
+
+Services: `qobuz:66719965` `tidal:23136039-8a51-4b22-b8af-5328901838de`
+
+## Tracks (94)
+
+- **Jeff Mills** — The Bells [SIGHT SOUND AND SPACE] (4:45) `isrc:USAX10000249` `qobuz:295033856`
+- **DJ Rolando** — Knights of the Jaguar [Paradise Garage: Inspirations] (6:37) `isrc:DEY471815086` `qobuz:214225620`
+- **Aphex Twin** — Windowlicker [Windowlicker] (6:05) `isrc:GBBPW9900038` `qobuz:3812730`
+- **Björk** — Hyper-ballad [Telegram] (4:21) `isrc:GBBTF9600133` `qobuz:249106573`
+- **Plastikman** — Spastik [Recycled Plastik] (9:15) `isrc:CAM261800030` `qobuz:92713869`
+- **Underworld** — King Of Snake [Beaucoup Fish (Super Deluxe Edition)] (7:28) `isrc:UK7EF1600027` `qobuz:42603872`
+- **Raving George** — Slaves [Slaves / Alternate] (7:35) `isrc:GBR9M1411234` `qobuz:21410984`
+- **Ben Klock & Fadi Mohem** — The Vanishing [Layer One] (5:22) `isrc:QMBZ92494346` `qobuz:397163559`
+- **Mathew Jonson** — Illusions Of Control [Her Blurry Pictures] (4:27) `isrc:GB7NR1323202` `qobuz:202297254`
+- **Adam Beyer** — Your Mind [Your Mind] (8:22) `isrc:GBUR61700227` `qobuz:221622058`
+- **Barnt** — Chappell [His Name] (7:44) `isrc:UKMDH1900029` `qobuz:75419999`
+- **Paul Kalkbrenner** — Sky and Sand [Sky and Sand (Robag Wruhme Remix)] (3:53) `isrc:DENZ71000005` `qobuz:134884537`
+- **Moderat** — Bad Kingdom [II] (4:22) `isrc:DEOE81310018` `qobuz:134826938`
+- **Felix Cartal** — New Scene (feat. Ofelia) [New Scene (feat. Ofelia)] (4:00) `isrc:USDM31300266` `qobuz:53860252`
+- **mrbeatsonic** — Tale of Us When the Love Remains Afterlife [Tale of Us When the Love Remains Afterlife] (4:53) `isrc:GXJBK2695929` `qobuz:386838061`
+- **Recondite** — Levo [Armada Electronic Elements presents Timeless] (4:42) `isrc:DEEC31400025` `qobuz:378315284`
+- **Nathan Fake** — The Sky Was Pink [The Sky Was Pink] (9:30) `isrc:GBUZD0800603` `qobuz:3197545`
+- **Kas:st** — Hell on Earth [Road to Nowhere] (6:28) `isrc:TCADY1814956` `qobuz:106628606`
+- **NTO** — Trauma [Hungry 5] (10:00) `isrc:DEAA21800028` `qobuz:54981438`
+- **The Swinging Blue-Jeans** — Save the Last Dance for Me [Good Golly, Miss Molly!: The EMI Years 1963-1969] (2:55) `isrc:GBAYE6400351` `qobuz:169135623`
+- **Roger Waters** — Comfortably Numb [Roger Waters: This Is Not A Drill] (7:25) `isrc:USQX92501071` `qobuz:338379519`
+- **Trentemøller** — Take Me Into Your Skin [The Last Resort] (7:30) `isrc:DEL020620047` `qobuz:85483113`
+- **TIMO MAAS** — First Day [Pictures] (3:52) `isrc:GBAHT0500192` `qobuz:2683801`
+- **Laurent Garnier** — Flashback [30] (8:43) `isrc:FRV229700040` `qobuz:3174303`
+- **Massive Attack** — Inertia Creeps [Upbeat Techno for Kids Parties] (6:26) `isrc:GBAAA9820629` `qobuz:373407845`
+- **Stephan Bodzin** — Singularity [Powers of Ten] (7:01) `isrc:DET751400078` `qobuz:24194352`
+- **Mind Against** — Atlant [Atlant] (9:00) `isrc:DEU671301887` `qobuz:371247130`
+- **Down By Law** — Agents of Sin [Revolution Time] (3:36) `isrc:QM6XS2000842` `qobuz:92069972`
+- **Recondite** — Rise [Hinterland] (2:41) `isrc:US2J71309001` `qobuz:20781531`
+- **L'âme Immortelle** — The Night Is My Shelter [Lieder die wie Wunden bluten] (6:28) `isrc:DEZ901500739` `qobuz:23067032`
+- **Billie Eilish** — listen before i go [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?] (4:02) `isrc:USUM71900772` `qobuz:77469845`
+- **Mano Le Tough** — Primative People [Changing Days (Remixes)] (7:06) `isrc:DECY61300035` `qobuz:134831959`
+- **Architectural** — A Girl With No Friends [Global Underground #42: Patrice Bäumel - Berlin] (2:59) `isrc:GBHFW1800280` `qobuz:60438635`
+- **RÜFÜS DU SOL** — Lately [Hit the Club] (4:09) `isrc:USRE12400413` `qobuz:357486998`
+- **Tedeschi Trucks Band** — Who Am I [Future Soul] (4:56) `isrc:USC4R2560425` `qobuz:401058551`
+- **Lucinda Williams** — We've Come Too Far To Turn Around [World's Gone Wrong] (4:58) `isrc:QMDA72583276` `qobuz:360303258`
+- **Guy Gerber** — What To Do [What to Do (Remixes)] (8:24) `isrc:CH7531800007` `qobuz:203593083`
+- **Esta.** — outta space [FRANCIS] (3:12) `isrc:QM6N22452135` `qobuz:266495978`
+- **Maceo Plex** — Insomnia 2021 [Insomnia 2021] (4:48) `isrc:GBCEN2100066` `qobuz:122432211`
+- **Tale Of Us** — Concor [Concor] (7:41) `isrc:DEU671302318` `qobuz:14097882`
+- **Denzel Curry** — Dynasties and Dystopia (from the series Arcane League of Legends) [Arcane League of Legends (Soundtrack from the Animated Series)] (2:58) `isrc:USA2P2434988` `qobuz:268621042`
+- **NF** — Let You Down [Perception] (3:31) `isrc:USUM71708226` `qobuz:43773527`
+- **Bring Me The Horizon** — Drown [That's The Spirit] (3:42) `isrc:GBARL1500797` `qobuz:26916300`
+- **Grin** — Vortex [Hush] (1:45) `isrc:DEZC62499136` `qobuz:251442015`
+- **Maxi Priest** — Human Work Of Art [Bonafide] (4:09) `isrc:GBAAA9000357` `qobuz:1951270`
+- **Anna Calvi** — Whip The Night [Live For Burberry] (3:06) `isrc:GBCEL1700222` `qobuz:38880638`
+- **Pulp** — The Day After The Revolution [This Is Hardcore] (14:55) `isrc:GBAAN0080103` `qobuz:727138`
+- **Victor Ruiz** — ENERGY [THIS IS NOT AN ALBUM] (6:17) `isrc:DEY472476715` `qobuz:275103924`
+- **Tale Of Us** — Another Earth [Another Earth] (5:45) `isrc:CAM261350410` `qobuz:81272771`
+- **Mind Against** — Walking Away [Walking Away] (7:05) `isrc:DEEC32000028` `qobuz:236706115`
+- **CamelPhat** — For a Feeling [For a Feeling] (8:04) `isrc:GBARL2000686` `qobuz:95713179`
+- **Artbat** — Upperground [Upperground EP] (6:45) `isrc:DEDH71800045` `qobuz:251687389`
+- **Aphex Twin** — Xtal [Selected Ambient Works 85-92] (4:53) `isrc:BEZ350800022` `qobuz:49809866`
+- **Monolink** — Return to Oz (ARTBAT Remix) [Edit] [Return to Oz] (3:25) `isrc:DETO31900165` `qobuz:65141668`
+- **Agents Of Time** — Friend Of Mine [Friend Of Mine] (3:33) `isrc:BE5KW2400427` `qobuz:248184244`
+- **Julia Kammerlander** — Fauré: 3 Songs, Op. 8: No. 1, Au bord de l'eau (Arr. Rouger for Choir & Piano) [Kennst du das Land …] (1:43) `isrc:DEB111804912` `qobuz:151420474`
+- **Mango** — Manitoba [Global Underground #42: Patrice Bäumel - Berlin] (1:07) `isrc:GBHFW1800261` `qobuz:60438616`
+- **Anyma** — Eternity [Genesys] (3:06) `isrc:DEEC33500935` `qobuz:222685399`
+- **Supermode** — Tell Me Why [Tell Me Why] (2:51) `isrc:GBKCF2201098` `qobuz:167889718`
+- **Artbat** — Breathe In [Breathe In] (4:07) `isrc:US39N2305556` `qobuz:212639258`
+- **The Lust-O-Rama** — Won't Be Running [Original Sins] (2:37) `isrc:USHM21005581` `qobuz:82600517`
+- **DJ Carlos** — Bac Kapuyt Achqert x The Rapture Pt. III (Carlos Afro House Mashup) [Bac Kapuyt Achqert x The Rapture Pt. III (Carlos Afro House Mashup) (feat. Brunette, Black Coffee & &ME)] (5:22) `isrc:QZTB72593251` `qobuz:342610102`
+- **Kosheen** — Hide U [Hide U] (3:41) `isrc:NLF712102759` `qobuz:378212694`
+- **Age of Love** — The Age Of Love [The Age Of Love] (8:09) `isrc:BEN582100445` `qobuz:173255802`
+- **Denis Horvat** — Noise [Miracle Of The Rose EP] (7:21) `isrc:DEEC31900025` `qobuz:236706085`
+- **The Smiths** — How Soon Is Now? [Hatful of Hollow] (6:48) `isrc:GBCRL1100068` `qobuz:4264681`
+- **Train** — Drops of Jupiter (Tell Me) [Drops Of Jupiter] (4:19) `isrc:USSM10019751` `qobuz:14069842`
+- **Adam Port** — The Dream [The Dream] (3:30) `isrc:GBCPZ2322034` `qobuz:309332376`
+- **Gala** — Lose Yourself In Me (Culture Clashed Dub Remix) [Singles, Vol.1] (3:57) `isrc:USQY51507574` `qobuz:22209688`
+- **CamelPhat** — Hypercolour [Hypercolour] (8:30) `isrc:GBARL2000791` `qobuz:97935506`
+- **Anyma** — Welcome To The Opera [Genesys] (4:05) `isrc:USUG12303917` `qobuz:222685400`
+- **Anyma** — Syren [Genesys] (3:17) `isrc:USUG12303925` `qobuz:222685404`
+- **Kevin de Vries** — Metro [Metro] (3:59) `isrc:DEEC33501145` `qobuz:239197915`
+- **Anyma** — Voices In My Head [The End Of Genesys] (2:26) `isrc:USUG12500914` `qobuz:337082185`
+- **Simon Field** — You On Red (feat. Aya Anne) [You On Red (feat. Aya Anne)] (2:33) `isrc:UK4ZF2200043` `qobuz:227686827`
+- **Genesi** — Take It [Freak EP] (3:18) `isrc:DEDH72300374` `qobuz:315127448`
+- **Layton Giordani** — Act of God [Act of God] (3:52) `isrc:USA2P2502183` `qobuz:313501979`
+- **Miss Monique** — Nomacita [Nomacita] (2:50) `isrc:US38Y2434499` `qobuz:307252747`
+- **Anyma** — Save Me [Genesys] (3:09) `isrc:USUG12303926` `qobuz:222685405`
+- **Meduza** — Pegasus [Anjunadeep The Yearbook 2023] (5:01) `isrc:GBEWA2306774` `qobuz:424975567`
+- **Fideles** — Night After Night (CamelPhat Remix) [Night After Night] (6:57) `isrc:DEEC33500953` `qobuz:236944314`
+- **Eynka** — Beyond Us [Beyond Us] (3:54) `isrc:FR59R2323734` `qobuz:353144273`
+- **Adam Port** — Point Of No Return [Point Of No Return] (4:43) `isrc:DEEC33500956` `qobuz:236413520`
+- **The Beach Boys** — The Warmth Of The Sun [Shut Down, Vol. 2] (2:56) `isrc:USCA21202031` `qobuz:25205696`
+- **Samm** — Does It Matter [Does It Matter] (5:40) `isrc:GBKQU2345210` `qobuz:209468243`
+- **Kaufmann (DE)** — Have You Turned Off the Oven [Have You Turned Off the Oven] (6:07) `isrc:DEXO32485689` `qobuz:318452399`
+- **Anyma** — Samsara [Genesys] (4:23) `isrc:USUG12303923` `qobuz:222685402`
+- **Anyma** — Explore Your Future [Genesys] (3:40) `isrc:DEEC33500963` `qobuz:222685403`
+- **Massano** — Touch Me [Touch Me] (3:42) `isrc:BE5KW2500642` `qobuz:312828091`
+- **Linska** — Bad Boy [Bad Boy] (3:08) `isrc:US38Y2502570` `qobuz:314999933`
+- **Tripolism** — Sunrise [Sunrise] (3:15) `isrc:USUS12500040` `qobuz:317777668`
+- **Kelis** — Milkshake 20 [Milkshake 20] (2:56) `isrc:QMRSZ2302091` `qobuz:387428966`
+- **Anyma** — Hypnotized [Hypnotized] (2:50) `isrc:USUG12500915` `qobuz:318373462`
+- **Artbat** — She The Last One [She The Last One] (3:22) `isrc:US38Y2434320` `qobuz:311331203`

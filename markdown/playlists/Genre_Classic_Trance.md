@@ -1,0 +1,107 @@
+# Genre: Classic Trance
+
+Imported genre playlist: Classic Trance.
+
+Services: `qobuz:66720828` `tidal:82cf96d6-173c-47a6-bf43-cdb9872986c7`
+
+## Tracks (99)
+
+- **The KLF** — America: What Time Is Love? [Solid State Logik 1] (4:07) `isrc:GBCEL2000618` `qobuz:109609316`
+- **Age of Love** — The Age Of Love [The Age Of Love] (8:09) `isrc:BEN582100445` `qobuz:173238381`
+- **Dance 2 Trance** — We Came In Peace [We Came In Peace] (6:04) `isrc:DEMW61000056` `qobuz:54877753`
+- **Gat Décor** — Passion [Passion] (4:22) `isrc:NLML69200121` `qobuz:63810305`
+- **Suburbass** — Barbarella - The Mission [Astroboy 12] (8:35) `isrc:FR6V80656467` `qobuz:271772274`
+- **Sven Väth** — L'Esperanza [Over Drive: The Return] (5:44) `isrc:ESA061310511` `qobuz:247125571`
+- **Cygnus X** — Superstring (Original Mix) [Vol I, The Original Club Tracks] (7:52) `isrc:DEBW40500134` `qobuz:55176308`
+- **Art Of Trance** — Octopus [Octopus] (7:39) `isrc:UKR6V2484668` `qobuz:294439408`
+- **Energy 52** — Café Del Mar [Anthems 02: Café Del Mar] (7:21) `isrc:DEL029360001` `qobuz:99338602`
+- **Marmion** — Schöneberg [Schöneberg] (6:25) `isrc:DEL029310006` `qobuz:204221331`
+- **Quench** — Dreams [Dreams] (6:12) `isrc:DEZ090700035` `qobuz:350405507`
+- **Humate** — Love Stimulation [Love Stimulation] (7:48) `isrc:GBKQU2019451` `qobuz:107290017`
+- **Datura** — Eternity [Eternity] (7:07) `isrc:ITC942210359` `qobuz:192460237`
+- **Kenji Harris** — The Last Summer Frequency [The Last Summer Frequency] (1:27) `isrc:GXJBY2665430` `qobuz:410206201`
+- **Paragliders** — Paraglide [Paraglide] (12:16) `isrc:DEL029310003` `qobuz:313589163`
+- **4Voice** — Eternal Spirit [III] (6:26) `isrc:BEN582000785` `qobuz:104246535`
+- **Metal Master** — Spectrum [Global Underground: Afterhours 9] (1:15) `isrc:GBHFW2200036` `qobuz:173211545`
+- **Pete Lazonby** — Sacred Cycles [Sacred Cycles] (10:28) `isrc:NLD681300255` `qobuz:7627262`
+- **Loic d** — Last Dance [Last Dance] (2:52) `isrc:GXJ8K2533438` `qobuz:369090054`
+- **L.S.G.** — Netherworld [Netherworld] (11:04) `isrc:DEL020510004` `qobuz:336780932`
+- **Union Jack** — Two Full Moons And A Trout [Full On Fluoro, Vol. 2 (Unmixed)] (8:49) `isrc:GBCFW1300034` `qobuz:377993833`
+- **Paul van Dyk** — For an Angel [45 RPM] (6:21) `isrc:DEW760900143` `qobuz:61729530`
+- **Brainchild** — Symmetry [Selected Tracks] (6:34) `isrc:DEBW40500107` `qobuz:55176139`
+- **Blank & Jones** — Desire [The Best of Relax // 20 Years // 2003 - 2023] (4:32) `isrc:DEGE91100053` `qobuz:215250514`
+- **Schwarz & Funk** — Free Floating [The Beach House Sessions, Vol. 5] (5:04) `isrc:DEAR42250285` `qobuz:207404827`
+- **Crazy P** — Do It Good (Do Un Goodur') [The Crazy Penis Collection] (9:38) `isrc:GBEYE0000005` `qobuz:113613834`
+- **Odyssee of Noises** — Firedance, The Sunrise [Selected Tracks] (7:10) `isrc:DEBW40500095` `qobuz:55176259`
+- **Legend B** — Lost in Love [Lost in Love] (3:29) `isrc:DEYI62140011` `qobuz:116052885`
+- **Hearts Of Space** — With A Medium Into Trance [With A Medium Into Trance] (6:14) `isrc:BEN582000740` `qobuz:104246468`
+- **Robert Miles** — Children [Dreamland] (7:06) `isrc:ITA169600001` `qobuz:122622785`
+- **Future Breeze** — Why Don't You Dance With Me [Why Don't You Dance with Me] (3:47) `isrc:DEG840902640` `qobuz:60859917`
+- **BBE** — Seven Days and One Week [Seven Days and One Week] (4:31) `isrc:FR4LO1109330` `qobuz:5583270`
+- **RMB** — Spring [Spring] (3:25) `isrc:DEZ650512352` `qobuz:15996043`
+- **Ayla** — Ayla, Pt. 2 [Nirwana] (3:19) `isrc:DEBL60867737` `qobuz:10197474`
+- **Vincent De Moor** — Flowtation 2002 [A State Of Trance Classics (Best of 2006-2010)] (7:24) `isrc:NLS240600306` `qobuz:378294897`
+- **Sunbeam** — Arms of Heaven [Arms of Heaven] (6:07) `isrc:DEN062300631` `qobuz:231711605`
+- **Joris Voorn** — Don't Be Afraid (ASOT 1265) [ASOT 1265 - A State of Trance Episode 1265] (1:34) `isrc:NLF712601001` `qobuz:394932310`
+- **Dj Dado** — X-Files Main Theme (From The Serie "X-Files") [Film & Tv Music 90, Vol. 6] (3:43) `isrc:USA560729074` `qobuz:45748892`
+- **DJ Quicksilver** — Bellissima [Quicksilver] (3:54) `isrc:DEL569600094` `qobuz:41531585`
+- **Virtualmismo** — Last Train to Universe [Last Train to Universe] (5:39) `isrc:IT00G9670541` `qobuz:284422311`
+- **Tenth Planet** — Ghosts [Ghosts] (6:50) `isrc:USTB12200208` `qobuz:174995122`
+- **Da Hool** — Meet Her at the Loveparade [Meet Her at the Loveparade] (3:33) `isrc:DEC719700559` `qobuz:187606094`
+- **Taucher** — Atlantis [Atlantis] (8:30) `isrc:DEPN61100041` `qobuz:377941790`
+- **Three Drives On A Vinyl** — Greece 2000 [Greece 2000] (3:54) `isrc:NLC050700178` `qobuz:378120883`
+- **Matt Darey** — Gamemaster [Retrospective (25 Years)] (8:01) `isrc:UK9ZT1800011` `qobuz:378225183`
+- **Mark Van Dale** — Water Verve [50 Trance Tunes, Vol. 7] (3:24) `isrc:NLC050600083` `qobuz:377886448`
+- **Dannii Minogue** — We Could Be The One [We Could Be The One] (8:57) `isrc:UKW3Z2301404` `qobuz:212145004`
+- **Tranquility Base Project** — The Flower Of Life [Chill Out Goa Trance 2020 Top 100 Hits DJ Mix] (11:32) `isrc:GBWUL1923415` `qobuz:81561792`
+- **Rodd-y-ler** — Lifesigns [The Art Work E.P.] (8:22) `isrc:DEN062400250` `qobuz:259570352`
+- **Marc Et Claude** — La [La] (6:05) `isrc:DEG840902622` `qobuz:51718447`
+- **BT** — Flaming June [Flaming June] (7:13) `isrc:NLE711137502` `qobuz:5478646`
+- **Cm** — Dream Universe [Dream Universe] (4:54) `isrc:BEN581100503` `qobuz:104232512`
+- **Robert Plant** — Ship of Fools [Now and Zen] (5:00) `isrc:USAT20616620` `qobuz:2436492`
+- **POB** — The Awakening [Magik Three] (9:44) `isrc:NLE711110412` `qobuz:4595909`
+- **Binary Finary** — 1998 [1998] (7:59) `isrc:AUKJ30800019` `qobuz:377907337`
+- **Push** — Universal Nation [Universal Nation] (7:32) `isrc:BE4JP2400001` `qobuz:243346211`
+- **Atb** — 9 PM (Till I Come) [9 PM (Till I Come)] (3:19) `isrc:DEN069900066` `qobuz:54232484`
+- **Kay Cee** — Escape [Escape] (6:51) `isrc:DEG840902733` `qobuz:47498863`
+- **Transa** — Enervate [Enervate] (7:51) `isrc:GX4632200003` `qobuz:193769094`
+- **Liquid Child** — Diving Faces [Trance Legacy III] (3:41) `isrc:DEKB71655943` `qobuz:378305425`
+- **Agnelli & Nelson** — El Niño [El Niño] (3:48) `isrc:GBBLG9800700` `qobuz:363878615`
+- **Niels Van Gogh** — Pulverturm [Pulverturm] (9:14) `isrc:DEC719800815` `qobuz:187605917`
+- **Johan Gielen** — L'Esperanza [L'Esperanza] (7:20) `isrc:NLE710929905` `qobuz:247052250`
+- **Blank & Jones** — Chilled Cream [The Best of Relax // 20 Years // 2003 - 2023] (7:00) `isrc:DEGE90900002` `qobuz:215250519`
+- **Death** — Rock-N-Roll Victim [...For the Whole World to See] (2:41) `isrc:US58L0938702` `qobuz:48471072`
+- **System f** — Out Of The Blue [Out Of The Blue] (3:54) `isrc:NLB770100093` `qobuz:378187768`
+- **Rank 1** — Airwave [Airwave] (2:59) `isrc:NLE800510001` `qobuz:18731634`
+- **Veracocha** — Carte Blanche [Carte Blanche] (3:25) `isrc:NLF711102674` `qobuz:378309998`
+- **DJ Jean** — The Launch [The Launch] (3:40) `isrc:NLB869900001` `qobuz:121082291`
+- **York** — The Awakening [YORK Mini Mix] (3:33) `isrc:DEPN61100007` `qobuz:378310295`
+- **Judith Sosa** — Stress Release - Quiet Wave [Health Chapters] (2:41) `isrc:QM6N22650232` `qobuz:409630980`
+- **Kamaya Painters** — Endless Wave [The Collected Works] (6:04) `isrc:NLE710803304` `qobuz:315497322`
+- **Dumonde** — Tomorrow [A Decade 1997-2007] (4:30) `isrc:DEBL60678659` `qobuz:9667098`
+- **DJ Sakin & Friends** — Protect Your Mind (Braveheart) [Protect Your Mind (Braveheart)] (3:39) `isrc:DEPN61100086` `qobuz:378209547`
+- **The Quest** — C Sharp [C Sharp] (3:11) `isrc:NLD682102230` `qobuz:122750167`
+- **William Orbit** — Barber's Adagio for Strings (Ferry Corsten Remix) [Pieces In A Modern Style] (6:35) `isrc:GBAHT9903546` `qobuz:10478878`
+- **Armin van Buuren** — Communication [Communication] (4:16) `isrc:NLF710500557` `qobuz:58824465`
+- **Darude** — Sandstorm [Sandstorm] (3:46) `isrc:FISGC9900001` `qobuz:76532604`
+- **Oasis** — Wonderwall [(What's The Story) Morning Glory? (Deluxe Remastered Edition)] (4:18) `isrc:GBQCP1400149` `qobuz:102737238`
+- **Gouryella** — Gouryella [Gouryella] (10:45) `isrc:NLB779900006` `qobuz:378189306`
+- **Miro** — Paradise [Emotions of Sunsets] (3:46) `isrc:DK2X52500301` `qobuz:320798019`
+- **Plastic Boy** — Silver Bath [World Citizen] (6:45) `isrc:BEY921300225` `qobuz:7811223`
+- **Pulser** — My Religion [My Religion] (6:10) `isrc:NLF711502973` `qobuz:378019457`
+- **Limp Bizkit** — Rollin' (Air Raid Vehicle) [2000's Rock Hits] (3:33) `isrc:USIR10001170` `qobuz:115592211`
+- **Svenson & Gielen** — We Know What You Did [We Know What You Did] (8:24) `isrc:NLE800510085` `qobuz:25750546`
+- **Dutch Force** — Deadline [Smash Trax - The Collection] (3:22) `isrc:NLE801400120` `qobuz:15382313`
+- **The Thrillseekers** — Synaesthesia [Synaesthesia] (4:01) `isrc:NLF710903587` `qobuz:377909115`
+- **Tukan** — Light a Rainbow [Best of Trance Anthems, Vol.1] (8:04) `isrc:DEBL60796834` `qobuz:26787390`
+- **Y-Traxx** — Mystery Land [Mystery Land] (7:32) `isrc:US7NS1800031` `qobuz:203154871`
+- **Solid Sessions** — Janeiro [Janeiro] (6:19) `isrc:NLF712111437` `qobuz:378229261`
+- **Mara Delphy** — One Night Love Affair [One Night Love Affair] (3:04) `isrc:SE69Z2409821` `qobuz:267058281`
+- **DJ Jenk** — Resurrection [Resurrection (feat. PPK)] (6:13) `isrc:QZZ7N2562701` `qobuz:354718203`
+- **Tiësto** — Suburban Train [In My Memory] (10:22) `isrc:NOX9X3702009` `qobuz:315497306`
+- **Signum** — What Ya Got 4 Me [10 Years Armada] (3:09) `isrc:NLF711311437` `qobuz:377989965`
+- **Ralph Fridge** — Angel [Angel] (7:45) `isrc:DEG120000943` `qobuz:110173909`
+- **Cosmic Gate** — Exploration of Space [Exploration of Space] (3:36) `isrc:NLD681702431` `qobuz:123129979`
+- **Moogwai** — Viola [Viola] (4:31) `isrc:NLD681804086` `qobuz:55589522`
+- **Ferry Corsten** — Punk [Right Of Way] (7:38) `isrc:NLB770200007` `qobuz:378194334`
+- **Arksun** — Arisen [Mix Cut] [A State Of Trance 2006 (Mixed by Armin van Buuren)] (8:21) `isrc:NLF711101698` `qobuz:377933417`

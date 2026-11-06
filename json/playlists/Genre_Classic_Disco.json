@@ -1,0 +1,1009 @@
+{
+  "name": "Genre: Classic Disco",
+  "services": {
+    "qobuz": "66736919"
+  },
+  "description": "Imported genre playlist: Classic Disco.",
+  "tracks": [
+    {
+      "artist": "Eddie Kendricks",
+      "title": "Keep On Truckin'",
+      "services": {
+        "qobuz": "736402"
+      },
+      "album": "Keep On Truckin': The Motown Solo Albums, Vol.1",
+      "duration": 479,
+      "isrc": "USMO17384645"
+    },
+    {
+      "artist": "Harold Melvin & The Blue Notes",
+      "title": "The Love I Lost",
+      "services": {
+        "qobuz": "39905428"
+      },
+      "album": "Black & Blue (Expanded Edition)",
+      "duration": 384,
+      "isrc": "USSM19918767"
+    },
+    {
+      "artist": "The Love Unlimited Orchestra",
+      "title": "Love's Theme",
+      "services": {
+        "qobuz": "52646069"
+      },
+      "album": "Rhapsody In White",
+      "duration": 246,
+      "isrc": "USPR37300012"
+    },
+    {
+      "artist": "Barry White",
+      "title": "You're The First, The Last, My Everything",
+      "services": {
+        "qobuz": "47173358"
+      },
+      "album": "The Complete 20th Century Records Singles (1973-1979)",
+      "duration": 213,
+      "isrc": "USUM70502309"
+    },
+    {
+      "artist": "Carol Douglas",
+      "title": "Doctor's Orders",
+      "services": {
+        "qobuz": "10264064"
+      },
+      "album": "The Carol Douglas Album",
+      "duration": 270,
+      "isrc": "CAU117503524"
+    },
+    {
+      "artist": "Disco Tex & His Sex-O-Lettes",
+      "title": "Get Dancin'",
+      "services": {
+        "qobuz": "39450901"
+      },
+      "album": "Disco Tex & The Sex-O-Lettes Review",
+      "duration": 265,
+      "isrc": "GB7LE0900353"
+    },
+    {
+      "artist": "George McCrae",
+      "title": "Rock Your Baby",
+      "services": {
+        "qobuz": "32360465"
+      },
+      "album": "Rock Your Baby",
+      "duration": 384,
+      "isrc": "USRH10553733"
+    },
+    {
+      "artist": "MFSB",
+      "title": "TSOP (The Sound of Philadelphia)",
+      "services": {
+        "qobuz": "54948967"
+      },
+      "album": "The Essential MFSB",
+      "duration": 346,
+      "isrc": "USSM19912523"
+    },
+    {
+      "artist": "Shirley & Company",
+      "title": "Shame, Shame, Shame",
+      "services": {
+        "qobuz": "387263372"
+      },
+      "album": "Shame Shame Shame",
+      "duration": 245,
+      "isrc": "GBAJE0501052"
+    },
+    {
+      "artist": "The Hues Corporation",
+      "title": "Rock the Boat",
+      "services": {
+        "qobuz": "26753699"
+      },
+      "album": "Rockin' Soul",
+      "duration": 188,
+      "isrc": "USRC19900635"
+    },
+    {
+      "artist": "The Tymes",
+      "title": "You Little Trustmaker",
+      "services": {
+        "qobuz": "3158040"
+      },
+      "album": "Trustmaker",
+      "duration": 167,
+      "isrc": "USRC10401753"
+    },
+    {
+      "artist": "KC And The Sunshine Band",
+      "title": "Get Down Tonight",
+      "services": {
+        "qobuz": "173765664"
+      },
+      "album": "Get Down Tonight",
+      "duration": 320,
+      "isrc": "GBAYE7500046"
+    },
+    {
+      "artist": "People's Choice",
+      "title": "Do It Any Way You Wanna",
+      "services": {
+        "qobuz": "20364412"
+      },
+      "album": "Boogie Down U.S.A.",
+      "duration": 198,
+      "isrc": "USSM10202944"
+    },
+    {
+      "artist": "Tavares",
+      "title": "It Only Takes A Minute",
+      "services": {
+        "qobuz": "45974599"
+      },
+      "album": "In The City",
+      "duration": 241,
+      "isrc": "USCA28900558"
+    },
+    {
+      "artist": "The Miracles",
+      "title": "Love Machine",
+      "services": {
+        "qobuz": "7662632"
+      },
+      "album": "City Of Angels",
+      "duration": 415,
+      "isrc": "USMO17582653"
+    },
+    {
+      "artist": "The O'Jays",
+      "title": "I Love Music",
+      "services": {
+        "qobuz": "47008770"
+      },
+      "album": "Family Reunion",
+      "duration": 413,
+      "isrc": "USSM19914217"
+    },
+    {
+      "artist": "The Salsoul Orchestra",
+      "title": "Salsoul Hustle",
+      "services": {
+        "qobuz": "381232387"
+      },
+      "album": "Anthology, Vol. 1",
+      "duration": 317,
+      "isrc": "USSA49420084"
+    },
+    {
+      "artist": "Van McCoy & The Soul City Symphony",
+      "title": "The Hustle",
+      "services": {
+        "qobuz": "2390507"
+      },
+      "album": "Music For Partying",
+      "duration": 242,
+      "isrc": "GBF087500039"
+    },
+    {
+      "artist": "Andrea True Connection",
+      "title": "More, More, More",
+      "services": {
+        "qobuz": "27310898"
+      },
+      "album": "More, More, More",
+      "duration": 376,
+      "isrc": "USBR10300001"
+    },
+    {
+      "artist": "Bohannon",
+      "title": "Let's Start The Dance",
+      "services": {
+        "qobuz": "171506938"
+      },
+      "album": "Summertime Groove",
+      "duration": 352,
+      "isrc": "USUMG0000282"
+    },
+    {
+      "artist": "Brass Construction",
+      "title": "Movin'",
+      "services": {
+        "qobuz": "53689105"
+      },
+      "album": "Brass Construction",
+      "duration": 520,
+      "isrc": "USUM71812268"
+    },
+    {
+      "artist": "Brick",
+      "title": "Dazz",
+      "services": {
+        "qobuz": "14106908"
+      },
+      "album": "Good High (Expanded Edition)",
+      "duration": 336,
+      "isrc": "USSM17600017"
+    },
+    {
+      "artist": "Candi Staton",
+      "title": "Young Hearts Run Free",
+      "services": {
+        "qobuz": "2940377"
+      },
+      "album": "Young Hearts Run Free",
+      "duration": 248,
+      "isrc": "USWB19700370"
+    },
+    {
+      "artist": "Diana Ross",
+      "title": "Love Hangover",
+      "services": {
+        "qobuz": "8643021"
+      },
+      "album": "Diana Ross",
+      "duration": 228,
+      "isrc": "USMO17600377"
+    },
+    {
+      "artist": "Double Exposure",
+      "title": "Ten Percent",
+      "services": {
+        "qobuz": "387249886"
+      },
+      "album": "Ten Percent",
+      "duration": 426,
+      "isrc": "USSA49310041"
+    },
+    {
+      "artist": "Dr. Buzzard's Original Savannah Band",
+      "title": "Cherchez la Femme / Se Si Bon",
+      "services": {
+        "qobuz": "208944"
+      },
+      "album": "Dr. Buzzard's Original Savannah Band",
+      "duration": 347,
+      "isrc": "USRC17603402"
+    },
+    {
+      "artist": "Heatwave",
+      "title": "Boogie Nights",
+      "services": {
+        "qobuz": "107609453"
+      },
+      "album": "Too Hot to Handle (Expanded Edition)",
+      "duration": 303,
+      "isrc": "GBBBM9999966"
+    },
+    {
+      "artist": "Johnnie Taylor",
+      "title": "Disco Lady",
+      "services": {
+        "qobuz": "81564"
+      },
+      "album": "Eargasm",
+      "duration": 267,
+      "isrc": "USSM17500504"
+    },
+    {
+      "artist": "Leo Sayer",
+      "title": "You Make Me Feel Like Dancing",
+      "services": {
+        "qobuz": "32173087"
+      },
+      "album": "You Make Me Feel Like Dancing",
+      "duration": 203,
+      "isrc": "USA560760203"
+    },
+    {
+      "artist": "Maxine Nightingale",
+      "title": "Right Back Where We Started From",
+      "services": {
+        "qobuz": "173718828"
+      },
+      "album": "Right Back Where We Started From",
+      "duration": 192,
+      "isrc": "GBAYE7500076"
+    },
+    {
+      "artist": "Rose Royce",
+      "title": "Car Wash",
+      "services": {
+        "qobuz": "13285443"
+      },
+      "album": "Car Wash",
+      "duration": 308,
+      "isrc": "USMC17646466"
+    },
+    {
+      "artist": "The Ritchie Family",
+      "title": "The Best Disco In Town",
+      "services": {
+        "qobuz": "1391317"
+      },
+      "album": "Arabian Nights",
+      "duration": 401,
+      "isrc": "FR6V80878741"
+    },
+    {
+      "artist": "The Sylvers",
+      "title": "Boogie Fever",
+      "services": {
+        "qobuz": "1007103"
+      },
+      "album": "Classic Masters",
+      "duration": 208,
+      "isrc": "USCA20101451"
+    },
+    {
+      "artist": "The Trammps",
+      "title": "Disco Inferno",
+      "services": {
+        "qobuz": "2955453"
+      },
+      "album": "Disco Inferno",
+      "duration": 659,
+      "isrc": "USAT27600009"
+    },
+    {
+      "artist": "Thelma Houston",
+      "title": "Don't Leave Me This Way",
+      "services": {
+        "qobuz": "55470799"
+      },
+      "album": "Any Way You Like It",
+      "duration": 342,
+      "isrc": "USUM71303881"
+    },
+    {
+      "artist": "Vicki Sue Robinson",
+      "title": "Turn the Beat Around",
+      "services": {
+        "qobuz": "41816659"
+      },
+      "album": "Never Gonna Let You Go (Expanded Edition)",
+      "duration": 333,
+      "isrc": "USRC17507736"
+    },
+    {
+      "artist": "Walter Murphy & The Big Apple Band",
+      "title": "A Fifth of Beethoven",
+      "services": {
+        "qobuz": "254128729"
+      },
+      "album": "A Fifth Of Beethoven / California Strut",
+      "duration": 183,
+      "isrc": "QM6MZ1772943"
+    },
+    {
+      "artist": "Bee Gees",
+      "title": "Stayin Alive",
+      "services": {
+        "qobuz": "37473535"
+      },
+      "album": "The Ultimate Bee Gees",
+      "duration": 282,
+      "isrc": "USRH10721057"
+    },
+    {
+      "artist": "First Choice",
+      "title": "Let No Man Put Asunder",
+      "services": {
+        "qobuz": "385321388"
+      },
+      "album": "Delusions",
+      "duration": 264,
+      "isrc": "QMSGD1220008"
+    },
+    {
+      "artist": "Loleatta Holloway",
+      "title": "Hit and Run",
+      "services": {
+        "qobuz": "380481752"
+      },
+      "album": "Loleatta",
+      "duration": 361,
+      "isrc": "USUS11100749"
+    },
+    {
+      "artist": "Meco",
+      "title": "Star Wars Theme/Cantina Band",
+      "services": {
+        "qobuz": "27640751"
+      },
+      "album": "Music Inspired By Star Wars And Other Galactic Funk",
+      "duration": 211,
+      "isrc": "USUM71511789"
+    },
+    {
+      "artist": "Odyssey",
+      "title": "Native New Yorker",
+      "services": {
+        "qobuz": "3103533"
+      },
+      "album": "Odyssey (Expanded Edition)",
+      "duration": 258,
+      "isrc": "USRC17704078"
+    },
+    {
+      "artist": "The Emotions",
+      "title": "Best of My Love",
+      "services": {
+        "qobuz": "17221750"
+      },
+      "album": "Rejoice",
+      "duration": 220,
+      "isrc": "USSM17700716"
+    },
+    {
+      "artist": "Addy Van Der Zwan",
+      "title": "Let's All Chant (feat. The Michael Zager Band)",
+      "services": {
+        "qobuz": "48006488"
+      },
+      "album": "Let's All Chant (feat. The Michael Zager Band)",
+      "duration": 397,
+      "isrc": "NLC281011383"
+    },
+    {
+      "artist": "A Taste Of Honey",
+      "title": "Boogie Oogie Oogie",
+      "services": {
+        "qobuz": "3811084"
+      },
+      "album": "A Taste Of Honey",
+      "duration": 244,
+      "isrc": "USCA29200217"
+    },
+    {
+      "artist": "Alicia Bridges",
+      "title": "I Love The Nightlife (Disco 'Round)",
+      "services": {
+        "qobuz": "129188199"
+      },
+      "album": "Disco Hits",
+      "duration": 187,
+      "isrc": "USPR39400087"
+    },
+    {
+      "artist": "Andy Gibb",
+      "title": "Shadow Dancing",
+      "services": {
+        "qobuz": "42349764"
+      },
+      "album": "Shadow Dancing",
+      "duration": 276,
+      "isrc": "NLF057890050"
+    },
+    {
+      "artist": "Barry Manilow",
+      "title": "Copacabana (At the Copa)",
+      "services": {
+        "qobuz": "4865980"
+      },
+      "album": "The Greatest Songs Of The Seventies",
+      "duration": 241,
+      "isrc": "USAR10700436"
+    },
+    {
+      "artist": "Chaka Khan",
+      "title": "I'm Every Woman",
+      "services": {
+        "qobuz": "22636432"
+      },
+      "album": "Chaka",
+      "duration": 246,
+      "isrc": "USWB11401198"
+    },
+    {
+      "artist": "Cheryl Lynn",
+      "title": "Got to Be Real",
+      "services": {
+        "qobuz": "77604"
+      },
+      "album": "The Best Of Cheryl Lynn: Got To Be Real",
+      "duration": 228,
+      "isrc": "USSM17800040"
+    },
+    {
+      "artist": "Chic",
+      "title": "Le Freak",
+      "services": {
+        "qobuz": "15765197"
+      },
+      "album": "C'est Chic",
+      "duration": 331,
+      "isrc": "USAT21304256"
+    },
+    {
+      "artist": "Dan Hartman",
+      "title": "Instant Replay",
+      "services": {
+        "qobuz": "33613"
+      },
+      "album": "Keep The Fire Burnin'",
+      "duration": 320,
+      "isrc": "USSM17801028"
+    },
+    {
+      "artist": "Evelyn Champagne King",
+      "title": "Shame",
+      "services": {
+        "qobuz": "47200282"
+      },
+      "album": "Love Come Down: The Best of Evelyn \"Champagne\" King",
+      "duration": 392,
+      "isrc": "USRC19305631"
+    },
+    {
+      "artist": "Gloria Gaynor",
+      "title": "I Will Survive",
+      "services": {
+        "qobuz": "112880789"
+      },
+      "album": "Love Tracks",
+      "duration": 481,
+      "isrc": "USUR10200634"
+    },
+    {
+      "artist": "Karen Young",
+      "title": "Hot Shot",
+      "services": {
+        "qobuz": "52159489"
+      },
+      "album": "Hot Shot",
+      "duration": 193,
+      "isrc": "NLML61400013"
+    },
+    {
+      "artist": "Musique",
+      "title": "Keep On Jumpin'",
+      "services": {
+        "qobuz": "9895505"
+      },
+      "album": "Keep On Jumpin'",
+      "duration": 339,
+      "isrc": "CAU117800325"
+    },
+    {
+      "artist": "Peaches & Herb",
+      "title": "Shake Your Groove Thing",
+      "services": {
+        "qobuz": "53122915"
+      },
+      "album": "20th Century Masters: The Millennium Collection: The Best Of Peaches & Herb",
+      "duration": 331,
+      "isrc": "USPR37800084"
+    },
+    {
+      "artist": "Peter Brown",
+      "title": "Dance with Me",
+      "services": {
+        "qobuz": "38573131"
+      },
+      "album": "A Fantasy Love Affair",
+      "duration": 319,
+      "isrc": "USRH10551512"
+    },
+    {
+      "artist": "Sylvester",
+      "title": "You Make Me Feel (Mighty Real)",
+      "services": {
+        "qobuz": "9610062"
+      },
+      "album": "Step II",
+      "duration": 395,
+      "isrc": "USFI87800059"
+    },
+    {
+      "artist": "Village People",
+      "title": "YMCA (Original Version 1978)",
+      "services": {
+        "qobuz": "388111625"
+      },
+      "album": "YMCA (Original Version 1978)",
+      "duration": 284,
+      "isrc": "FR22F8000900"
+    },
+    {
+      "artist": "Yvonne Elliman",
+      "title": "If I Can't Have You",
+      "services": {
+        "qobuz": "265583826"
+      },
+      "album": "Night Flight",
+      "duration": 177,
+      "isrc": "NLF057790003"
+    },
+    {
+      "artist": "Anita Ward",
+      "title": "Ring My Bell",
+      "services": {
+        "qobuz": "51932778"
+      },
+      "album": "Ring My Bell",
+      "duration": 210,
+      "isrc": "UKDNQ1505253"
+    },
+    {
+      "artist": "Donna Summer",
+      "title": "Bad Girls",
+      "services": {
+        "qobuz": "52219248"
+      },
+      "album": "Bad Girls",
+      "duration": 295,
+      "isrc": "USPR39402398"
+    },
+    {
+      "artist": "Earth, Wind & Fire",
+      "title": "Boogie Wonderland",
+      "services": {
+        "qobuz": "15215842"
+      },
+      "album": "The Essential Earth, Wind & Fire",
+      "duration": 288,
+      "isrc": "USSM19922860"
+    },
+    {
+      "artist": "France Joli",
+      "title": "Come to Me",
+      "services": {
+        "qobuz": "10088716"
+      },
+      "album": "Come to Me",
+      "duration": 590,
+      "isrc": "CAU117900284"
+    },
+    {
+      "artist": "Gary's Gang",
+      "title": "Keep On Dancin'",
+      "services": {
+        "qobuz": "9370646"
+      },
+      "album": "Keep On Dancin' b/w Do It At The Disco",
+      "duration": 458,
+      "isrc": "USNRS1331203"
+    },
+    {
+      "artist": "G.Q.",
+      "title": "Disco Nights (Rock Freak)",
+      "services": {
+        "qobuz": "16983640"
+      },
+      "album": "Disco Nights (Expanded Edition)",
+      "duration": 237,
+      "isrc": "USAR17900197"
+    },
+    {
+      "artist": "Instant Funk",
+      "title": "I Got My Mind Made Up (You Can Get It Girl)",
+      "services": {
+        "qobuz": "385752218"
+      },
+      "album": "I Got My Mind Made Up (You Can Get It Girl)",
+      "duration": 329,
+      "isrc": "QMRSZ2203256"
+    },
+    {
+      "artist": "Kleeer",
+      "title": "Keep Your Body Workin'",
+      "services": {
+        "qobuz": "2186256"
+      },
+      "album": "The Very Best Of Kleeer",
+      "duration": 319,
+      "isrc": "USAT20109432"
+    },
+    {
+      "artist": "Kool & The Gang",
+      "title": "Ladies Night",
+      "services": {
+        "qobuz": "52543573"
+      },
+      "album": "Ladies' Night",
+      "duration": 385,
+      "isrc": "USMR17989031"
+    },
+    {
+      "artist": "Lipps Inc.",
+      "title": "Funkytown",
+      "services": {
+        "qobuz": "115237785"
+      },
+      "album": "Mouth To Mouth",
+      "duration": 470,
+      "isrc": "USIR20300047"
+    },
+    {
+      "artist": "MACHINE",
+      "title": "There But for the Grace of God Go I",
+      "services": {
+        "qobuz": "10119138"
+      },
+      "album": "There But for the Grace of God Go I",
+      "duration": 317,
+      "isrc": "CAU117902168"
+    },
+    {
+      "artist": "McFadden & Whitehead",
+      "title": "Ain't No Stoppin' Us Now",
+      "services": {
+        "qobuz": "12635162"
+      },
+      "album": "McFadden & Whitehead",
+      "duration": 420,
+      "isrc": "USSM17801255"
+    },
+    {
+      "artist": "Michael Jackson",
+      "title": "Don't Stop 'Til You Get Enough",
+      "services": {
+        "qobuz": "8302835"
+      },
+      "album": "Off The Wall",
+      "duration": 364,
+      "isrc": "USSM17900816"
+    },
+    {
+      "artist": "Sister Sledge",
+      "title": "We Are Family (1995 Remaster)",
+      "services": {
+        "qobuz": "2941241"
+      },
+      "album": "We Are Family",
+      "duration": 216,
+      "isrc": "USAT20102166"
+    },
+    {
+      "artist": "The Jacksons",
+      "title": "Shake Your Body (Down to the Ground)",
+      "services": {
+        "qobuz": "31756811"
+      },
+      "album": "Destiny",
+      "duration": 480,
+      "isrc": "USSM19922858"
+    },
+    {
+      "artist": "The Jones Girls",
+      "title": "You Gonna Make Me Love Somebody Else",
+      "services": {
+        "qobuz": "13496584"
+      },
+      "album": "The Jones Girls",
+      "duration": 270,
+      "isrc": "USSM17901165"
+    },
+    {
+      "artist": "Bebu Silvetti",
+      "title": "Spring Rain",
+      "services": {
+        "qobuz": "298406273"
+      },
+      "album": "M\u00fasica del S\u00e1bado Noche, Vol. 1",
+      "duration": 350,
+      "isrc": "ES64E2409713"
+    },
+    {
+      "artist": "Carol Williams",
+      "title": "Love Is You",
+      "services": {
+        "qobuz": "385633563"
+      },
+      "album": "Lectric Lady",
+      "duration": 307,
+      "isrc": "USSA47624261"
+    },
+    {
+      "artist": "Carrie Lucas",
+      "title": "I Gotta Keep Dancin' (Keep Smiling)",
+      "services": {
+        "qobuz": "390585790"
+      },
+      "album": "Dance With You - The Best Of",
+      "duration": 307,
+      "isrc": "GBAJE7700121"
+    },
+    {
+      "artist": "Celi Bee & The Buzzy Bunch",
+      "title": "Superman",
+      "services": {
+        "qobuz": "74434354"
+      },
+      "album": "Celi Bee & The Buzzy Bunch",
+      "duration": 307,
+      "isrc": "USGZ20608238"
+    },
+    {
+      "artist": "Eddie Holman",
+      "title": "It's Over",
+      "services": {
+        "qobuz": "388088787"
+      },
+      "album": "A Night to Remember",
+      "duration": 256,
+      "isrc": "QMSGD1220120"
+    },
+    {
+      "artist": "High Inergy",
+      "title": "You Can't Turn Me Off (In The Middle Of Turning Me On)",
+      "services": {
+        "qobuz": "52614277"
+      },
+      "album": "Hitsville USA, The Motown Collection 1972-1992",
+      "duration": 211,
+      "isrc": "USMO17782869"
+    },
+    {
+      "artist": "Joe Tex",
+      "title": "Ain't Gonna Bump No More (With No Big Fat Woman)",
+      "services": {
+        "qobuz": "46206719"
+      },
+      "album": "The Very Best of, Volume Two",
+      "duration": 403,
+      "isrc": "USATV0500210"
+    },
+    {
+      "artist": "Ripple",
+      "title": "The Beat Goes on and On",
+      "services": {
+        "qobuz": "376837356"
+      },
+      "album": "Sons of the Gods",
+      "duration": 272,
+      "isrc": "QMSGD1220219"
+    },
+    {
+      "artist": "Stargard",
+      "title": "Theme From \"Which Way Is Up\"",
+      "services": {
+        "qobuz": "62236204"
+      },
+      "album": "Stargard",
+      "duration": 417,
+      "isrc": "USUM70609882"
+    },
+    {
+      "artist": "T-Connection",
+      "title": "Do What You Wanna Do",
+      "services": {
+        "qobuz": "4689819"
+      },
+      "album": "Something For The Weekend",
+      "duration": 436,
+      "isrc": "GBAYE7700278"
+    },
+    {
+      "artist": "Ashford & Simpson",
+      "title": "It Seems To Hang On",
+      "services": {
+        "qobuz": "840461"
+      },
+      "album": "The Best Of Ashford And Simpson",
+      "duration": 312,
+      "isrc": "USWB17800010"
+    },
+    {
+      "artist": "Bunny Sigler",
+      "title": "Let Me Party with You (Party, Party, Party)",
+      "services": {
+        "qobuz": "375868739"
+      },
+      "album": "Let Me Party With You",
+      "duration": 747,
+      "isrc": "USUS11100742"
+    },
+    {
+      "artist": "Gene Chandler",
+      "title": "Get Down",
+      "services": {
+        "qobuz": "30108745"
+      },
+      "album": "Greatest - Gene Chandler",
+      "duration": 499,
+      "isrc": "GBBLG8100258"
+    },
+    {
+      "artist": "Linda Clifford",
+      "title": "If My Friends Could See Me Now",
+      "services": {
+        "qobuz": "32054376"
+      },
+      "album": "Everybody Wants Some Disco",
+      "duration": 318,
+      "isrc": "UK3XS1302590"
+    },
+    {
+      "artist": "Phreek (Patrick Adams Presents)",
+      "title": "Weekend",
+      "services": {
+        "qobuz": "11566062"
+      },
+      "album": "Patrick Adams Presents Phreek",
+      "duration": 416,
+      "isrc": "USAT27800011"
+    },
+    {
+      "artist": "Bonnie Pointer",
+      "title": "Heaven Must Have Sent You",
+      "services": {
+        "qobuz": "52614282"
+      },
+      "album": "Hitsville USA, The Motown Collection 1972-1992",
+      "duration": 214,
+      "isrc": "USMO10000356"
+    },
+    {
+      "artist": "Candido",
+      "title": "Thousand Finger Man",
+      "services": {
+        "qobuz": "380474581"
+      },
+      "album": "Dancin' & Prancin'",
+      "duration": 546,
+      "isrc": "QMSGD1220021"
+    },
+    {
+      "artist": "Joe Bataan",
+      "title": "Rap-O Clap-O",
+      "services": {
+        "qobuz": "385546039"
+      },
+      "album": "Anthology",
+      "duration": 231,
+      "isrc": "USSA40658914"
+    },
+    {
+      "artist": "Patrice Rushen",
+      "title": "Haven't You Heard",
+      "services": {
+        "qobuz": "45651104"
+      },
+      "album": "Pizzazz",
+      "duration": 405,
+      "isrc": "USEE10183612"
+    },
+    {
+      "artist": "April Begaye",
+      "title": "Dancing in the Sky",
+      "services": {
+        "qobuz": "359397232"
+      },
+      "album": "Disco Magic",
+      "duration": 198,
+      "isrc": "US39N2508870"
+    },
+    {
+      "artist": "The Isley Brothers",
+      "title": "It's a Disco Night (Rock Don't Stop), Pts. 1 & 2",
+      "services": {
+        "qobuz": "26590237"
+      },
+      "album": "Winner Takes All",
+      "duration": 315,
+      "isrc": "USSM17900796"
+    },
+    {
+      "artist": "The Spinners",
+      "title": "Working My Way Back to You / Forgive Me, Girl (2003 Remaster)",
+      "services": {
+        "qobuz": "2885549"
+      },
+      "album": "Essentials",
+      "duration": 242,
+      "isrc": "USAT20301296"
+    },
+    {
+      "artist": "Vaughan Mason and Crew",
+      "title": "Bounce, Rock, Skate, Roll",
+      "services": {
+        "qobuz": "83596292"
+      },
+      "album": "Bounce, Rock, Skate, Roll",
+      "duration": 328,
+      "isrc": "USZXT1100260"
+    }
+  ]
+}

@@ -1,0 +1,860 @@
+{
+  "name": "Genre: Post Hardcore",
+  "services": {
+    "qobuz": "66736610",
+    "tidal": "de89dfba-3d0e-4f2d-b980-b9544c29501d"
+  },
+  "description": "Imported genre playlist: Post Hardcore.",
+  "tracks": [
+    {
+      "artist": "H\u00fcsker D\u00fc",
+      "title": "Something I Learned Today",
+      "services": {
+        "qobuz": "63480381"
+      },
+      "album": "Zen Arcade",
+      "duration": 122,
+      "isrc": "USA560766803"
+    },
+    {
+      "artist": "Minutemen",
+      "title": "Corona",
+      "services": {
+        "qobuz": "24534632"
+      },
+      "album": "Double Nickels on the Dime",
+      "duration": 145,
+      "isrc": "USA370538099"
+    },
+    {
+      "artist": "Rites of Spring",
+      "title": "For Want Of",
+      "services": {
+        "qobuz": "159949480"
+      },
+      "album": "Rites of Spring",
+      "duration": 190,
+      "isrc": "US35U0401603"
+    },
+    {
+      "artist": "Gray Matter",
+      "title": "Burn No Bridges",
+      "services": {
+        "qobuz": "154116817"
+      },
+      "album": "Take It Back",
+      "duration": 159,
+      "isrc": "US35U1302102"
+    },
+    {
+      "artist": "Big Black",
+      "title": "Kerosene",
+      "services": {
+        "qobuz": "32621490"
+      },
+      "album": "Atomizer (Remastered)",
+      "duration": 363,
+      "isrc": "USTG31409304"
+    },
+    {
+      "artist": "Embrace",
+      "title": "Dance Of Days",
+      "services": {
+        "qobuz": "159950226"
+      },
+      "album": "Embrace",
+      "duration": 136,
+      "isrc": "US35U0402402"
+    },
+    {
+      "artist": "Fugazi",
+      "title": "Waiting Room",
+      "services": {
+        "qobuz": "159963156"
+      },
+      "album": "13 Songs",
+      "duration": 173,
+      "isrc": "US35U0403601"
+    },
+    {
+      "artist": "NoMeansNo",
+      "title": "It's Catching Up",
+      "services": {
+        "qobuz": "266678950"
+      },
+      "album": "Wrong",
+      "duration": 209,
+      "isrc": "US2B22407701"
+    },
+    {
+      "artist": "Bitch Magnet",
+      "title": "Motor",
+      "services": {
+        "qobuz": "20877653"
+      },
+      "album": "Umber",
+      "duration": 227,
+      "isrc": "USY6C1115011"
+    },
+    {
+      "artist": "Pitchfork",
+      "title": "Placebo",
+      "services": {
+        "qobuz": "52233472"
+      },
+      "album": "Eucalyptus / Saturn Outhouse",
+      "duration": 234,
+      "isrc": "US2850411602"
+    },
+    {
+      "artist": "Shudder To Think",
+      "title": "Speak",
+      "services": {
+        "qobuz": "159951223"
+      },
+      "album": "Ten Spot",
+      "duration": 252,
+      "isrc": "US35U1304605"
+    },
+    {
+      "artist": "Nation of Ulysses",
+      "title": "Target: U.S.A.",
+      "services": {
+        "qobuz": "159950315"
+      },
+      "album": "13-Point Program to Destroy America",
+      "duration": 104,
+      "isrc": "US35U0405712"
+    },
+    {
+      "artist": "Jawbox",
+      "title": "Tools And Chrome",
+      "services": {
+        "qobuz": "159949498"
+      },
+      "album": "Grippe + 5",
+      "duration": 151,
+      "isrc": "US35U1305203"
+    },
+    {
+      "artist": "Helmet",
+      "title": "Unsung",
+      "services": {
+        "qobuz": "3898895"
+      },
+      "album": "Meantime",
+      "duration": 236,
+      "isrc": "USIR19200544"
+    },
+    {
+      "artist": "Circus Lupus",
+      "title": "Unrequited",
+      "services": {
+        "qobuz": "159951878"
+      },
+      "album": "Super Genius + 2 songs",
+      "duration": 223,
+      "isrc": "US35U0406301"
+    },
+    {
+      "artist": "Jawbreaker",
+      "title": "Chesterfield King",
+      "services": {
+        "qobuz": "220936015"
+      },
+      "album": "Bivouac",
+      "duration": 235,
+      "isrc": "USA6N1210003"
+    },
+    {
+      "artist": "Quicksand",
+      "title": "Fazer",
+      "services": {
+        "qobuz": "42686251"
+      },
+      "album": "Slip",
+      "duration": 193,
+      "isrc": "USUR10080043"
+    },
+    {
+      "artist": "Lungfish",
+      "title": "Creation Story",
+      "services": {
+        "qobuz": "159951837"
+      },
+      "album": "Rainbows From Atoms",
+      "duration": 213,
+      "isrc": "US35U0407806"
+    },
+    {
+      "artist": "Unwound",
+      "title": "Nervous Energy",
+      "services": {
+        "qobuz": "219353995"
+      },
+      "album": "Fake Train",
+      "duration": 289,
+      "isrc": "USCW61201015"
+    },
+    {
+      "artist": "Moss Icon",
+      "title": "Locket",
+      "services": {
+        "qobuz": "186374197"
+      },
+      "album": "Lyburnum Wits End Liberation Fly",
+      "duration": 273,
+      "isrc": "USY6C1220104"
+    },
+    {
+      "artist": "Drive Like Jehu",
+      "title": "Here Come the Rome Plows",
+      "services": {
+        "qobuz": "18560900"
+      },
+      "album": "Yank Crime",
+      "duration": 344,
+      "isrc": "US2850411501"
+    },
+    {
+      "artist": "Rodan",
+      "title": "The Everyday World of Bodies",
+      "services": {
+        "qobuz": "32673452"
+      },
+      "album": "Rusty",
+      "duration": 715,
+      "isrc": "USA4C9402403"
+    },
+    {
+      "artist": "Sunny Day Real Estate",
+      "title": "In Circles",
+      "services": {
+        "qobuz": "407819334"
+      },
+      "album": "Diary",
+      "duration": 298,
+      "isrc": "USSUB0984602"
+    },
+    {
+      "artist": "Hoover",
+      "title": "Electrolux",
+      "services": {
+        "qobuz": "159963187"
+      },
+      "album": "The Lurid Traversal of Route 7",
+      "duration": 429,
+      "isrc": "US35U0408903"
+    },
+    {
+      "artist": "Indian Summer",
+      "title": "Woolworm",
+      "services": {
+        "qobuz": "63286052"
+      },
+      "album": "Giving Birth to Thunder",
+      "duration": 445,
+      "isrc": "USCW61921203"
+    },
+    {
+      "artist": "June Of 44",
+      "title": "Have a Safe Trip, Dear",
+      "services": {
+        "qobuz": "32628797"
+      },
+      "album": "Engine Takes to Water",
+      "duration": 506,
+      "isrc": "USA4C9503201"
+    },
+    {
+      "artist": "Cap'n Jazz",
+      "title": "Little League",
+      "services": {
+        "qobuz": "77631048"
+      },
+      "album": "Analphabetapolothology",
+      "duration": 236,
+      "isrc": "USA6M0403601"
+    },
+    {
+      "artist": "Texas Is The Reason",
+      "title": "Back And To The Left",
+      "services": {
+        "qobuz": "139038090"
+      },
+      "album": "Do You Know Who You Are?: The Complete Collection",
+      "duration": 235,
+      "isrc": "USB4U1315107"
+    },
+    {
+      "artist": "The Crownhate Ruin",
+      "title": "Ride Your Ride",
+      "services": {
+        "qobuz": "159952019"
+      },
+      "album": "Until The Eagle Grins",
+      "duration": 265,
+      "isrc": "US35U0409801"
+    },
+    {
+      "artist": "Sense Field",
+      "title": "Save Yourself",
+      "services": {
+        "qobuz": "154863175"
+      },
+      "album": "Tonight And Forever",
+      "duration": 198,
+      "isrc": "CAN110100142"
+    },
+    {
+      "artist": "Snapcase",
+      "title": "Caboose",
+      "services": {
+        "qobuz": "118265706"
+      },
+      "album": "Progression Through Unlearning",
+      "duration": 153,
+      "isrc": "USVIC9705101"
+    },
+    {
+      "artist": "Shiner",
+      "title": "The Simple Truth",
+      "services": {
+        "qobuz": "72748805"
+      },
+      "album": "The Egg",
+      "duration": 477,
+      "isrc": "US24E0410024"
+    },
+    {
+      "artist": "Arlo Parks",
+      "title": "Hope",
+      "services": {
+        "qobuz": "103568567"
+      },
+      "album": "Collapsed In Sunbeams",
+      "duration": 270,
+      "isrc": "GBKZV2000121"
+    },
+    {
+      "artist": "Saetia",
+      "title": "Venus and Bacchus",
+      "services": {
+        "qobuz": "44882376"
+      },
+      "album": "Collected",
+      "duration": 199,
+      "isrc": "QMFMF1545233"
+    },
+    {
+      "artist": "Mineral",
+      "title": "Gloria",
+      "services": {
+        "qobuz": "372512708"
+      },
+      "album": "The Power Of Failing",
+      "duration": 224,
+      "isrc": "USA771400059"
+    },
+    {
+      "artist": "Smart Went Crazy",
+      "title": "Con Art",
+      "services": {
+        "qobuz": "159950791"
+      },
+      "album": "Con Art",
+      "duration": 303,
+      "isrc": "US35U0411205"
+    },
+    {
+      "artist": "FAR",
+      "title": "Mother Mary",
+      "services": {
+        "qobuz": "32319"
+      },
+      "album": "Water & Solutions",
+      "duration": 135,
+      "isrc": "USSM19702812"
+    },
+    {
+      "artist": "At The Drive-In",
+      "title": "Chanbara",
+      "services": {
+        "qobuz": "35084419"
+      },
+      "album": "In / Casino / Out",
+      "duration": 179,
+      "isrc": "US37N0430002"
+    },
+    {
+      "artist": "Braid",
+      "title": "The New Nathan Detroits",
+      "services": {
+        "qobuz": "3197747"
+      },
+      "album": "Frame and Canvas",
+      "duration": 257,
+      "isrc": "US3R49801801"
+    },
+    {
+      "artist": "Christie Front Drive",
+      "title": "About Two Days",
+      "services": {
+        "qobuz": "46888291"
+      },
+      "album": "Stereo",
+      "duration": 367,
+      "isrc": "USBNA0500038"
+    },
+    {
+      "artist": "knapsack",
+      "title": "Courage Was Confused",
+      "services": {
+        "qobuz": "72717215"
+      },
+      "album": "Day Three of My New Life",
+      "duration": 231,
+      "isrc": "USGKX9809502"
+    },
+    {
+      "artist": "Dismemberment Plan",
+      "title": "You Are Invited",
+      "services": {
+        "qobuz": "72746026"
+      },
+      "album": "Emergency & I",
+      "duration": 292,
+      "isrc": "US24E0410067"
+    },
+    {
+      "artist": "Refused",
+      "title": "New Noise",
+      "services": {
+        "qobuz": "77631897"
+      },
+      "album": "The Shape Of Punk To Come",
+      "duration": 310,
+      "isrc": "SEVHC9801060"
+    },
+    {
+      "artist": "Burning Airlines",
+      "title": "The Escape Engine",
+      "services": {
+        "qobuz": "72778556"
+      },
+      "album": "Mission: Control!",
+      "duration": 174,
+      "isrc": "US24E0410077"
+    },
+    {
+      "artist": "Grade",
+      "title": "Stolen Bikes Ride Faster",
+      "services": {
+        "qobuz": "118267545"
+      },
+      "album": "Under The Radar",
+      "duration": 208,
+      "isrc": "USVIC9910909"
+    },
+    {
+      "artist": "Glassjaw",
+      "title": "Tip Your Bartender",
+      "services": {
+        "qobuz": "10576035"
+      },
+      "album": "Worship And Tribute",
+      "duration": 179,
+      "isrc": "USWB10201338"
+    },
+    {
+      "artist": "Hot Snakes",
+      "title": "If Credit's What Matters I'll Take Credit",
+      "services": {
+        "qobuz": "407822333"
+      },
+      "album": "Automatic Midnight",
+      "duration": 152,
+      "isrc": "USSUB1721701"
+    },
+    {
+      "artist": "Planes Mistaken For Stars",
+      "title": "Copper and Stars",
+      "services": {
+        "qobuz": "91149793"
+      },
+      "album": "Planes Mistaken for Stars",
+      "duration": 211,
+      "isrc": "QM4TX2078334"
+    },
+    {
+      "artist": "Thursday",
+      "title": "Understanding In A Car Crash",
+      "services": {
+        "qobuz": "121964722"
+      },
+      "album": "Full Collapse",
+      "duration": 262,
+      "isrc": "USVIC0114502"
+    },
+    {
+      "artist": "From Autumn To Ashes",
+      "title": "The After Dinner Payback",
+      "services": {
+        "qobuz": "387106434"
+      },
+      "album": "The Fiction We Live",
+      "duration": 171,
+      "isrc": "USVR90238601"
+    },
+    {
+      "artist": "Further Seems Forever",
+      "title": "The Moon Is Down",
+      "services": {
+        "qobuz": "931200"
+      },
+      "album": "The Moon Is Down",
+      "duration": 192,
+      "isrc": "USTN10018801"
+    },
+    {
+      "artist": "Pageninetynine",
+      "title": "In Love with an Apparition",
+      "services": {
+        "qobuz": "75385790"
+      },
+      "album": "Document 10",
+      "duration": 220,
+      "isrc": "QM6N21706859"
+    },
+    {
+      "artist": "City of Caterpillar",
+      "title": "And You're Wondering How a Top Floor Could Replace Heaven",
+      "services": {
+        "qobuz": "79134583"
+      },
+      "album": "City of Caterpillar",
+      "duration": 512,
+      "isrc": "QM6N21409785"
+    },
+    {
+      "artist": "Thrice",
+      "title": "Deadbolt",
+      "services": {
+        "qobuz": "120900919"
+      },
+      "album": "The Illusion of Safety",
+      "duration": 180,
+      "isrc": "USHR20338016"
+    },
+    {
+      "artist": "The Used",
+      "title": "The Taste of Ink",
+      "services": {
+        "qobuz": "11743308"
+      },
+      "album": "The Used",
+      "duration": 208,
+      "isrc": "USRE10200741"
+    },
+    {
+      "artist": "Alexisonfire",
+      "title": "Accidents",
+      "services": {
+        "qobuz": "80059582"
+      },
+      "album": "\"Watch out!\"",
+      "duration": 249,
+      "isrc": "CADE70901055"
+    },
+    {
+      "artist": "Finch",
+      "title": "What It Is To Burn",
+      "services": {
+        "qobuz": "3953906"
+      },
+      "album": "What It Is To Burn",
+      "duration": 269,
+      "isrc": "USMC10200944"
+    },
+    {
+      "artist": "Sparta",
+      "title": "Cut Your Ribbon",
+      "services": {
+        "qobuz": "700029"
+      },
+      "album": "Wiretap Scars",
+      "duration": 184,
+      "isrc": "USDW10200292"
+    },
+    {
+      "artist": "The Blood Brothers",
+      "title": "Love Rhymes With Hideous Car Wreck",
+      "services": {
+        "qobuz": "77659425"
+      },
+      "album": "Crimes",
+      "duration": 194,
+      "isrc": "USVT10400148"
+    },
+    {
+      "artist": "Funeral For A Friend",
+      "title": "Juneau",
+      "services": {
+        "qobuz": "2682297"
+      },
+      "album": "Casually Dressed And Deep In Conversation",
+      "duration": 216,
+      "isrc": "GBAHS0300626"
+    },
+    {
+      "artist": "Hell Is For Heroes",
+      "title": "I Can Climb Mountains",
+      "services": {
+        "qobuz": "45928572"
+      },
+      "album": "I Can Climb Mountains",
+      "duration": 184,
+      "isrc": "GBAYE0200920"
+    },
+    {
+      "artist": "Million Dead",
+      "title": "Smiling at Strangers on Trains",
+      "services": {
+        "qobuz": "355382584"
+      },
+      "album": "Smiling at Strangers on Trains",
+      "duration": 180,
+      "isrc": "GBCRE2500003"
+    },
+    {
+      "artist": "Saosin",
+      "title": "Seven Years",
+      "services": {
+        "qobuz": "189817143"
+      },
+      "album": "Translating the Name",
+      "duration": 192,
+      "isrc": "TCABD1270059"
+    },
+    {
+      "artist": "Emery",
+      "title": "Walls",
+      "services": {
+        "qobuz": "4409299"
+      },
+      "album": "The Weak's End",
+      "duration": 203,
+      "isrc": "USTN10321444"
+    },
+    {
+      "artist": "Circle Takes the Square",
+      "title": "Non Objective Portrait of Karma",
+      "services": {
+        "qobuz": "65332196"
+      },
+      "album": "As the Roots Undo",
+      "duration": 402,
+      "isrc": "USBE71910006"
+    },
+    {
+      "artist": "Carly Simon",
+      "title": "That's the Way I've Always Heard It Should Be",
+      "services": {
+        "qobuz": "218344903"
+      },
+      "album": "These Are The Good Old Days: The Carly Simon & Jac Holzman Story",
+      "duration": 257,
+      "isrc": "USRH12301349"
+    },
+    {
+      "artist": "Circa Survive",
+      "title": "Act Appalled",
+      "services": {
+        "qobuz": "77864098"
+      },
+      "album": "Juturna",
+      "duration": 200,
+      "isrc": "US3X50510302"
+    },
+    {
+      "artist": "The Receiving End Of Sirens",
+      "title": "Planning a Prison Break",
+      "services": {
+        "qobuz": "80183096"
+      },
+      "album": "Between the Heart and the Synapse",
+      "duration": 318,
+      "isrc": "US72W0510142"
+    },
+    {
+      "artist": "Silverstein",
+      "title": "Smile In Your Sleep",
+      "services": {
+        "qobuz": "118261256"
+      },
+      "album": "Discovering The Waterfront",
+      "duration": 193,
+      "isrc": "USVIC0632402"
+    },
+    {
+      "artist": "Chiodos",
+      "title": "Baby, You Wouldn't Last A Minute On The Creek",
+      "services": {
+        "qobuz": "77864321"
+      },
+      "album": "All's Well That Ends Well",
+      "duration": 280,
+      "isrc": "US3X50511105"
+    },
+    {
+      "artist": "The Fall of Troy",
+      "title": "F.C.P.R.E.M.I.X.",
+      "services": {
+        "qobuz": "58129520"
+      },
+      "album": "Doppelganger",
+      "duration": 237,
+      "isrc": "US3X50511203"
+    },
+    {
+      "artist": "Bear vs. Shark",
+      "title": "Ma Jolie",
+      "services": {
+        "qobuz": "77859409"
+      },
+      "album": "Right Now, You're in the Best of Hands",
+      "duration": 231,
+      "isrc": "US3X50408501"
+    },
+    {
+      "artist": "Fear Before The March Of Flames",
+      "title": "Taking Cassandra to the End of the World Party",
+      "services": {
+        "qobuz": "77860153"
+      },
+      "album": "The Always Open Mouth",
+      "duration": 164,
+      "isrc": "US3X50612104"
+    },
+    {
+      "artist": "mewithoutYou",
+      "title": "January 1979",
+      "services": {
+        "qobuz": "4412237"
+      },
+      "album": "Catch For Us The Foxes",
+      "duration": 206,
+      "isrc": "USTN10424756"
+    },
+    {
+      "artist": "Dance Gavin Dance",
+      "title": "And I Told Them I Invented Times New Roman",
+      "services": {
+        "qobuz": "385323765"
+      },
+      "album": "Downtown Battle Mountain",
+      "duration": 288,
+      "isrc": "USEK70704602"
+    },
+    {
+      "artist": "Balance and Composure",
+      "title": "Tiny Raindrop",
+      "services": {
+        "qobuz": "264191867"
+      },
+      "album": "The Things We Think We're Missing",
+      "duration": 213,
+      "isrc": "USZZ81310102"
+    },
+    {
+      "artist": "Hail The Sun",
+      "title": "Human Target Practice",
+      "services": {
+        "qobuz": "387126780"
+      },
+      "album": "Wake",
+      "duration": 234,
+      "isrc": "USHM91404605"
+    },
+    {
+      "artist": "Casey",
+      "title": "Phosphenes",
+      "services": {
+        "qobuz": "300841134"
+      },
+      "album": "Where I Go When I Am Sleeping",
+      "duration": 203,
+      "isrc": "GBJSG1727003"
+    },
+    {
+      "artist": "Drug Church",
+      "title": "Weed Pin",
+      "services": {
+        "qobuz": "322145013"
+      },
+      "album": "Cheer",
+      "duration": 282,
+      "isrc": "USSTT1700274"
+    },
+    {
+      "artist": "The Armed",
+      "title": "AN ITERATION",
+      "services": {
+        "qobuz": "330293018"
+      },
+      "album": "ULTRAPOP",
+      "duration": 173,
+      "isrc": "USA2P1950625"
+    },
+    {
+      "artist": "Birds in row",
+      "title": "15-38",
+      "services": {
+        "qobuz": "72950138"
+      },
+      "album": "We Already Lost the World",
+      "duration": 199,
+      "isrc": "QZ22D1800031"
+    },
+    {
+      "artist": "Holding Absence",
+      "title": "Afterlife",
+      "services": {
+        "qobuz": "102843780"
+      },
+      "album": "The Greatest Mistake of My Life",
+      "duration": 226,
+      "isrc": "DED832000701"
+    },
+    {
+      "artist": "Royal Coda",
+      "title": "Cut Me Under",
+      "services": {
+        "qobuz": "371973201"
+      },
+      "album": "Cut Me Under",
+      "duration": 220,
+      "isrc": "TCADO1859169"
+    },
+    {
+      "artist": "Frail Body",
+      "title": "Your Death Makes Me Wish Heaven Was Real",
+      "services": {
+        "qobuz": "74628370"
+      },
+      "album": "A Brief Memoriam",
+      "duration": 263,
+      "isrc": "QZ22D1900052"
+    },
+    {
+      "artist": "Infant Island",
+      "title": "Another Cycle",
+      "services": {
+        "qobuz": "229332255"
+      },
+      "album": "Obsidian Wreath",
+      "duration": 171,
+      "isrc": "QZ22D2400017"
+    }
+  ]
+}

@@ -1,0 +1,960 @@
+{
+  "name": "Genre: Cool Jazz",
+  "services": {
+    "qobuz": "66733850",
+    "tidal": "2e72a468-f1ec-4bd3-a69f-6b34d15fe556"
+  },
+  "description": "Imported genre playlist: Cool Jazz.",
+  "tracks": [
+    {
+      "artist": "Woody Herman & His Orchestra",
+      "title": "Four Brothers",
+      "services": {
+        "qobuz": "15059021"
+      },
+      "album": "The Essential Woody Herman",
+      "duration": 195,
+      "isrc": "USSM14800062"
+    },
+    {
+      "artist": "Lee Konitz",
+      "title": "Subconscious-Lee",
+      "services": {
+        "qobuz": "511227"
+      },
+      "album": "Subconscious-Lee",
+      "duration": 167,
+      "isrc": "USFI84900058"
+    },
+    {
+      "artist": "The Johnny Smith Quintet",
+      "title": "Moonlight in Vermont",
+      "services": {
+        "qobuz": "1055509"
+      },
+      "album": "Moonlight In Vermont",
+      "duration": 195,
+      "isrc": "GBAYE5200123"
+    },
+    {
+      "artist": "Gerry Mulligan Quartet",
+      "title": "Bernie's Tune",
+      "services": {
+        "qobuz": "797266"
+      },
+      "album": "Best Of Gerry Mulligan & Chet Baker",
+      "duration": 173,
+      "isrc": "USBN29000317"
+    },
+    {
+      "artist": "George Shearing Quintet",
+      "title": "Lullaby Of Birdland",
+      "services": {
+        "qobuz": "1055529"
+      },
+      "album": "The Swingin's Mutual!",
+      "duration": 145,
+      "isrc": "USCA29201495"
+    },
+    {
+      "artist": "Tal Farlow",
+      "title": "Autumn In New York",
+      "services": {
+        "qobuz": "4088349"
+      },
+      "album": "Verve Jazz Masters 41: Tal Farlow",
+      "duration": 303,
+      "isrc": "USPR35400128"
+    },
+    {
+      "artist": "June Christy",
+      "title": "Something Cool",
+      "services": {
+        "qobuz": "41143377"
+      },
+      "album": "Something Cool",
+      "duration": 298,
+      "isrc": "USCA29100590"
+    },
+    {
+      "artist": "Chet Baker",
+      "title": "My Funny Valentine",
+      "services": {
+        "qobuz": "1058849"
+      },
+      "album": "Chet Baker Sings",
+      "duration": 141,
+      "isrc": "USBN28900073"
+    },
+    {
+      "artist": "Helen Merrill",
+      "title": "You'd Be So Nice to Come Home To",
+      "services": {
+        "qobuz": "237955197"
+      },
+      "album": "Helen Merrill",
+      "duration": 259,
+      "isrc": "UKPFB1891341"
+    },
+    {
+      "artist": "Julie London",
+      "title": "Cry Me A River",
+      "services": {
+        "qobuz": "4692113"
+      },
+      "album": "Julie Is Her Name",
+      "duration": 178,
+      "isrc": "USEM39200253"
+    },
+    {
+      "artist": "Miles Davis",
+      "title": "Boplicity",
+      "services": {
+        "qobuz": "60573566"
+      },
+      "album": "The Complete Birth Of The Cool",
+      "duration": 181,
+      "isrc": "USCA29800234"
+    },
+    {
+      "artist": "Frank Rosolino",
+      "title": "Blue Daniel",
+      "services": {
+        "qobuz": "65632033"
+      },
+      "album": "In Copenhagen",
+      "duration": 829,
+      "isrc": "DKEFA0800701"
+    },
+    {
+      "artist": "Cy Touff & His Octet",
+      "title": "Keester Parade",
+      "services": {
+        "qobuz": "47022486"
+      },
+      "album": "Cy Touff, His Octet & Quintet",
+      "duration": 473,
+      "isrc": "GBLGL1091085"
+    },
+    {
+      "artist": "Lennie Tristano",
+      "title": "Line Up",
+      "services": {
+        "qobuz": "2941265"
+      },
+      "album": "Lennie Tristano/The New Tristano",
+      "duration": 212,
+      "isrc": "USAT20103914"
+    },
+    {
+      "artist": "Jutta Hipp",
+      "title": "Just Blues",
+      "services": {
+        "qobuz": "63530696"
+      },
+      "album": "Jutta Hipp With Zoot Sims",
+      "duration": 521,
+      "isrc": "USBN25600001"
+    },
+    {
+      "artist": "Serge Chaloff",
+      "title": "A Handful Of Stars",
+      "services": {
+        "qobuz": "990889"
+      },
+      "album": "Blue Serge",
+      "duration": 335,
+      "isrc": "USCA25600025"
+    },
+    {
+      "artist": "Zoot Sims Quartet",
+      "title": "Zoot Swings The Blues",
+      "services": {
+        "qobuz": "264517478"
+      },
+      "album": "Zoot Sims Quartets",
+      "duration": 518,
+      "isrc": "USFI85100156"
+    },
+    {
+      "artist": "Al Cohn",
+      "title": "The Goof And I",
+      "services": {
+        "qobuz": "71227895"
+      },
+      "album": "Al Cohn Meets Al Porcino",
+      "duration": 196,
+      "isrc": "DEDN39733008"
+    },
+    {
+      "artist": "Modern Jazz Quartet",
+      "title": "The Queen's Fancy",
+      "services": {
+        "qobuz": "51898854"
+      },
+      "album": "Django",
+      "duration": 192,
+      "isrc": "USFI85300137"
+    },
+    {
+      "artist": "Jimmy Raney",
+      "title": "Minor",
+      "services": {
+        "qobuz": "40146906"
+      },
+      "album": "\"A\" + 2 Guitars",
+      "duration": 274,
+      "isrc": "QM4TX1772229"
+    },
+    {
+      "artist": "Bob Gordon",
+      "title": "Meet Mr. Gordon",
+      "services": {
+        "qobuz": "8396719"
+      },
+      "album": "Two Can Play: Complete Quintet and Sextet Sessions 1954 - 1955",
+      "duration": 158,
+      "isrc": "QMFMG1420383"
+    },
+    {
+      "artist": "Bud Shank Quartet",
+      "title": "Nature Boy",
+      "services": {
+        "qobuz": "58852314"
+      },
+      "album": "The Bud Shank Quartet",
+      "duration": 268,
+      "isrc": "USBN29801454"
+    },
+    {
+      "artist": "Bill Perkins",
+      "title": "Song of the Islands",
+      "services": {
+        "qobuz": "51800047"
+      },
+      "album": "Perk Plays Prez",
+      "duration": 242,
+      "isrc": "QM6MZ1801572"
+    },
+    {
+      "artist": "Jack Sheldon",
+      "title": "Groovus Mentus",
+      "services": {
+        "qobuz": "352119915"
+      },
+      "album": "The Cool Side of the City, Vol. 16 - Refined Jazz Grooves",
+      "duration": 239,
+      "isrc": "AUXN22529724"
+    },
+    {
+      "artist": "Stu Williamson",
+      "title": "Pee Jay",
+      "services": {
+        "qobuz": "305921549"
+      },
+      "album": "Stu Williamson (Remastered 2014)",
+      "duration": 206,
+      "isrc": "QMSGD1470195"
+    },
+    {
+      "artist": "Howard Rumsey's Lighthouse All Stars",
+      "title": "East Of The Sun",
+      "services": {
+        "qobuz": "50805676"
+      },
+      "album": "Howard Rumsey's Lighthouse All-Stars, Vol. 6",
+      "duration": 240,
+      "isrc": "GBLGL0986364"
+    },
+    {
+      "artist": "Art Pepper Quartet",
+      "title": "Dianne's Dilemma (Remastered)",
+      "services": {
+        "qobuz": "64465569"
+      },
+      "album": "Modern Art (Remastered)",
+      "duration": 230,
+      "isrc": "USA560879079"
+    },
+    {
+      "artist": "Andr\u00e9 Previn, Russ Freeman",
+      "title": "Double Play",
+      "services": {
+        "qobuz": "91188779"
+      },
+      "album": "Double Play!",
+      "duration": 294,
+      "isrc": "FR4HR2011370"
+    },
+    {
+      "artist": "Herb Geller",
+      "title": "Jitterbug Waltz",
+      "services": {
+        "qobuz": "64496658"
+      },
+      "album": "Fire in the West",
+      "duration": 351,
+      "isrc": "GBBMH1622122"
+    },
+    {
+      "artist": "Quincy Jones",
+      "title": "The Midnight Sun Will Never Set",
+      "services": {
+        "qobuz": "626367"
+      },
+      "album": "The Birth Of A Band Vol.2",
+      "duration": 163,
+      "isrc": "USGR10401633"
+    },
+    {
+      "artist": "Lennie Niehaus",
+      "title": "Whose Blues",
+      "services": {
+        "qobuz": "295983724"
+      },
+      "album": "Lennie Niehaus Vol. 1: The Quintets",
+      "duration": 202,
+      "isrc": "USFI85400422"
+    },
+    {
+      "artist": "Victor Feldman",
+      "title": "Flamingo",
+      "services": {
+        "qobuz": "105912498"
+      },
+      "album": "The Arrival of Victor Feldman",
+      "duration": 198,
+      "isrc": "USCXG2001024"
+    },
+    {
+      "artist": "Barney Kessel",
+      "title": "Easy Like",
+      "services": {
+        "qobuz": "102078623"
+      },
+      "album": "Easy Like, Vol. 1",
+      "duration": 242,
+      "isrc": "USFI85600376"
+    },
+    {
+      "artist": "Kai Winding",
+      "title": "Whistle While You Work",
+      "services": {
+        "qobuz": "8398585"
+      },
+      "album": "Kai Winding & Carl Fontana's Cleveland Express : The Complete Ohio Sessions",
+      "duration": 187,
+      "isrc": "ADA010807607"
+    },
+    {
+      "artist": "Bill Holman",
+      "title": "No Heat",
+      "services": {
+        "qobuz": "150461212"
+      },
+      "album": "In a Jazz Orbit",
+      "duration": 367,
+      "isrc": "DK5C50152218"
+    },
+    {
+      "artist": "Bob Cooper",
+      "title": "Jazz Theme And Four Variations - 3rd Variation: Night Stroll",
+      "services": {
+        "qobuz": "99818205"
+      },
+      "album": "Coop! The Music Of Bob Cooper",
+      "duration": 395,
+      "isrc": "USFI85800903"
+    },
+    {
+      "artist": "Scott LaFaro",
+      "title": "Bass Blues (Commentary By Richie Kamuca)",
+      "services": {
+        "qobuz": "66014226"
+      },
+      "album": "Essential Jazz Masters",
+      "duration": 918,
+      "isrc": "USA371227486"
+    },
+    {
+      "artist": "Marty Paich",
+      "title": "Just in Time",
+      "services": {
+        "qobuz": "27568235"
+      },
+      "album": "The Broadway Bit",
+      "duration": 192,
+      "isrc": "GBBMH1517326"
+    },
+    {
+      "artist": "The New Mastersounds",
+      "title": "Hip City",
+      "services": {
+        "qobuz": "49260765"
+      },
+      "album": "Renewable Energy",
+      "duration": 270,
+      "isrc": "GBGCY1801011"
+    },
+    {
+      "artist": "Chris Connor",
+      "title": "Lullaby of Birdland",
+      "services": {
+        "qobuz": "305921264"
+      },
+      "album": "Lullabys of Birdland (Remastered 2014)",
+      "duration": 144,
+      "isrc": "QMSGD1470106"
+    },
+    {
+      "artist": "Bob Dorough",
+      "title": "Devil May Care (Live)",
+      "services": {
+        "qobuz": "68293348"
+      },
+      "album": "Bob Dorough Trio & Special Guests Live at the Deer Head Inn",
+      "duration": 330,
+      "isrc": "USCGH1735662"
+    },
+    {
+      "artist": "Lambert Hendricks & Ross",
+      "title": "Every Day I Have the Blues",
+      "services": {
+        "qobuz": "102536512"
+      },
+      "album": "Singing Their Best",
+      "duration": 315,
+      "isrc": "DEXO32081503"
+    },
+    {
+      "artist": "The Four Freshmen",
+      "title": "Mood Indigo",
+      "services": {
+        "qobuz": "1950183"
+      },
+      "album": "Capitol Collectors Series",
+      "duration": 161,
+      "isrc": "USCA29100389"
+    },
+    {
+      "artist": "Blossom Dearie",
+      "title": "Someone To Watch Over Me",
+      "services": {
+        "qobuz": "259343868"
+      },
+      "album": "Great Women Of Song: Blossom Dearie",
+      "duration": 359,
+      "isrc": "USPR35908018"
+    },
+    {
+      "artist": "Anita O'Day",
+      "title": "Sweet Georgia Brown",
+      "services": {
+        "qobuz": "52478975"
+      },
+      "album": "Pick Yourself Up",
+      "duration": 256,
+      "isrc": "USGR19905242"
+    },
+    {
+      "artist": "Quiet Force",
+      "title": "Please Don't Dance",
+      "services": {
+        "qobuz": "55100488"
+      },
+      "album": "Smile",
+      "duration": 164,
+      "isrc": "DED510800378"
+    },
+    {
+      "artist": "Tony Scott",
+      "title": "My Old Flame",
+      "services": {
+        "qobuz": "46376919"
+      },
+      "album": "Poets of Jazz",
+      "duration": 422,
+      "isrc": "FRX281733873"
+    },
+    {
+      "artist": "Don Lanphere And New Stories",
+      "title": "Violets For Your Furs",
+      "services": {
+        "qobuz": "73144460"
+      },
+      "album": "Home At Last",
+      "duration": 340,
+      "isrc": "US3M80400325"
+    },
+    {
+      "artist": "Ahmad Jamal",
+      "title": "Poinciana",
+      "services": {
+        "qobuz": "59100914"
+      },
+      "album": "Ahmad Jamal Trio Live at The Pershing Vol.1&2",
+      "duration": 487,
+      "isrc": "ITK601900192"
+    },
+    {
+      "artist": "The Dave Brubeck Quartet",
+      "title": "Take Five",
+      "services": {
+        "qobuz": "22543101"
+      },
+      "album": "Time Out",
+      "duration": 328,
+      "isrc": "USSM15900108"
+    },
+    {
+      "artist": "Vince Guaraldi Trio",
+      "title": "Cast Your Fate To The Wind",
+      "services": {
+        "qobuz": "173650138"
+      },
+      "album": "Jazz Impressions Of Black Orpheus",
+      "duration": 190,
+      "isrc": "USC4R2213094"
+    },
+    {
+      "artist": "Paul Desmond",
+      "title": "Take Ten",
+      "services": {
+        "qobuz": "222122"
+      },
+      "album": "Take Ten",
+      "duration": 189,
+      "isrc": "USBB16300832"
+    },
+    {
+      "artist": "Irene Kral",
+      "title": "Better Than Anything",
+      "services": {
+        "qobuz": "91284537"
+      },
+      "album": "In the Name of Love",
+      "duration": 141,
+      "isrc": "DES201526217"
+    },
+    {
+      "artist": "Cal Tjader",
+      "title": "Soul Sauce (Guachi Guaro)",
+      "services": {
+        "qobuz": "65948308"
+      },
+      "album": "Greatest Jazz Masters",
+      "duration": 181,
+      "isrc": "USA561142173"
+    },
+    {
+      "artist": "Dave Frishberg",
+      "title": "I'm Hip",
+      "services": {
+        "qobuz": "56397713"
+      },
+      "album": "Dave Frishberg Classics",
+      "duration": 211,
+      "isrc": "USC4R0304969"
+    },
+    {
+      "artist": "Shirley Horn",
+      "title": "Like Someone In Love",
+      "services": {
+        "qobuz": "237909020"
+      },
+      "album": "Embers And Ashes",
+      "duration": 153,
+      "isrc": "UKPFB1887992"
+    },
+    {
+      "artist": "Chet Baker",
+      "title": "It Never Entered My Mind",
+      "services": {
+        "qobuz": "116322594"
+      },
+      "album": "Chet",
+      "duration": 280,
+      "isrc": "USC4R1901554"
+    },
+    {
+      "artist": "Toots Thielemans",
+      "title": "Bluesette",
+      "services": {
+        "qobuz": "39254328"
+      },
+      "album": "The Real... Toots Thielemans",
+      "duration": 275,
+      "isrc": "NLD017811003"
+    },
+    {
+      "artist": "The Gil Evans Orchestra",
+      "title": "La Nevada",
+      "services": {
+        "qobuz": "740263"
+      },
+      "album": "Out Of The Cool",
+      "duration": 936,
+      "isrc": "USMC16001156"
+    },
+    {
+      "artist": "Henry Mancini",
+      "title": "Dreamsville",
+      "services": {
+        "qobuz": "204795"
+      },
+      "album": "Music From Peter Gunn",
+      "duration": 237,
+      "isrc": "USRC19901423"
+    },
+    {
+      "artist": "Quincy Jones",
+      "title": "Theme From The Pawnbroker",
+      "services": {
+        "qobuz": "56535908"
+      },
+      "album": "The Pawnbroker",
+      "duration": 190,
+      "isrc": "USPR36509019"
+    },
+    {
+      "artist": "Johnny Mandel",
+      "title": "Emily Song - from The Americanization of Emily",
+      "services": {
+        "qobuz": "341581130"
+      },
+      "album": "The Americanization of Emily",
+      "duration": 107,
+      "isrc": "CAC901736501"
+    },
+    {
+      "artist": "Paul Del Nero",
+      "title": "Some Other Time / Some Time Ago",
+      "services": {
+        "qobuz": "262664986"
+      },
+      "album": "Darn That Dream: Rare Instrumental Duets",
+      "duration": 452,
+      "isrc": "QZJ9L2300006"
+    },
+    {
+      "artist": "Kai Winding",
+      "title": "More (Theme From Mondo Cane)",
+      "services": {
+        "qobuz": "49023821"
+      },
+      "album": "Soul Surfin'",
+      "duration": 121,
+      "isrc": "USUMG9900635"
+    },
+    {
+      "artist": "Conte Candoli",
+      "title": "Fine and Dandy",
+      "services": {
+        "qobuz": "305898471"
+      },
+      "album": "Sincerely, Conti (Remastered 2014)",
+      "duration": 192,
+      "isrc": "QMSGD1470135"
+    },
+    {
+      "artist": "Pete Candoli",
+      "title": "I Can't Get Started",
+      "services": {
+        "qobuz": "25332577"
+      },
+      "album": "Johnny Williams. Rhythm in Motion / So Nice! With Johnny Desmond",
+      "duration": 168,
+      "isrc": "QM4TX1591092"
+    },
+    {
+      "artist": "Bob Enevoldsen",
+      "title": "Iron Works",
+      "services": {
+        "qobuz": "1883529"
+      },
+      "album": "Smorgasbord",
+      "duration": 236,
+      "isrc": "US6R21344095"
+    },
+    {
+      "artist": "Johnny Dankworth et son orchestre",
+      "title": "African Waltz",
+      "services": {
+        "qobuz": "19353182"
+      },
+      "album": "African Waltz",
+      "duration": 141,
+      "isrc": "FRS181473804"
+    },
+    {
+      "artist": "Bob Brookmeyer",
+      "title": "Ugly Music",
+      "services": {
+        "qobuz": "16814967"
+      },
+      "album": "Electricity",
+      "duration": 633,
+      "isrc": "DEA899402020"
+    },
+    {
+      "artist": "The Gary McFarland Orchestra",
+      "title": "Reflections In The Park",
+      "services": {
+        "qobuz": "53962879"
+      },
+      "album": "The Complete Bill Evans On Verve",
+      "duration": 226,
+      "isrc": "USPR36209034"
+    },
+    {
+      "artist": "Tierney Sutton",
+      "title": "A Timeless Place (The Peacock)",
+      "services": {
+        "qobuz": "190530679"
+      },
+      "album": "Unsung Heroes",
+      "duration": 436,
+      "isrc": "USTE10447703"
+    },
+    {
+      "artist": "Shelly Manne",
+      "title": "On The Street Where You Live",
+      "services": {
+        "qobuz": "193649657"
+      },
+      "album": "My Fair Lady",
+      "duration": 338,
+      "isrc": "USC4R2212599"
+    },
+    {
+      "artist": "Shorty Rogers",
+      "title": "Martians Go Home",
+      "services": {
+        "qobuz": "2850596"
+      },
+      "album": "The Swinging Mr. Rogers",
+      "duration": 476,
+      "isrc": "USAT20401097"
+    },
+    {
+      "artist": "Teddy Charles",
+      "title": "The Quiet Time",
+      "services": {
+        "qobuz": "2850910"
+      },
+      "album": "The Teddy Charles Tentet",
+      "duration": 350,
+      "isrc": "USAT20505699"
+    },
+    {
+      "artist": "Jimmy Giuffre",
+      "title": "The Train and the River",
+      "services": {
+        "qobuz": "2943559"
+      },
+      "album": "The Jimmy Giuffre 3",
+      "duration": 213,
+      "isrc": "USAT20104908"
+    },
+    {
+      "artist": "Jan Johansson",
+      "title": "Visa Fr\u00e5n Utanmyra",
+      "services": {
+        "qobuz": "80092845"
+      },
+      "album": "Folkvisor - Jazz P\u00e5 Svenska",
+      "duration": 273,
+      "isrc": "SERVA0530001"
+    },
+    {
+      "artist": "Arne Domnerus",
+      "title": "Limehouse Blues (Live)",
+      "services": {
+        "qobuz": "307234501"
+      },
+      "album": "Jazz at the Pawnshop (Remastered 2014) [feat. Bengt Halberg, Georg Riedel, Egil Johansen & Lars Erstrand] [Live]",
+      "duration": 574,
+      "isrc": "USB8U1088358"
+    },
+    {
+      "artist": "Lars Gullin",
+      "title": "Danny's Dream",
+      "services": {
+        "qobuz": "2053231"
+      },
+      "album": "F\u00e4bodjazz",
+      "duration": 338,
+      "isrc": "SEPQA9815010"
+    },
+    {
+      "artist": "Bengt Hallberg",
+      "title": "Jam for the Bread",
+      "services": {
+        "qobuz": "4890588"
+      },
+      "album": "Live at Cervantes",
+      "duration": 387,
+      "isrc": "SEAMA1100490"
+    },
+    {
+      "artist": "Ole Paus",
+      "title": "Jeg er ikke redd mer",
+      "services": {
+        "qobuz": "4827420"
+      },
+      "album": "Stjerner i rennesteinen",
+      "duration": 261,
+      "isrc": "NOAFC1100391"
+    },
+    {
+      "artist": "Eartha Kitt",
+      "title": "Under the Bridges of Paris",
+      "services": {
+        "qobuz": "62031285"
+      },
+      "album": "French Melodies",
+      "duration": 164,
+      "isrc": "FR6V80455241"
+    },
+    {
+      "artist": "Bobby Jaspar",
+      "title": "I Remember You",
+      "services": {
+        "qobuz": "1882605"
+      },
+      "album": "Clarinescapade",
+      "duration": 293,
+      "isrc": "ES7710744905"
+    },
+    {
+      "artist": "Michel Legrand",
+      "title": "Legrand: The Windmills of your Mind (from \"The Thomas Crown Affair\")",
+      "services": {
+        "qobuz": "569565"
+      },
+      "album": "Michel Legrand by Michel Legrand",
+      "duration": 341,
+      "isrc": "GBBBB2014202"
+    },
+    {
+      "artist": "Bill Evans",
+      "title": "My Funny Valentine",
+      "services": {
+        "qobuz": "1007883"
+      },
+      "album": "Undercurrent",
+      "duration": 324,
+      "isrc": "USBN28800046"
+    },
+    {
+      "artist": "Scott Hamilton",
+      "title": "Skylark",
+      "services": {
+        "qobuz": "505421"
+      },
+      "album": "Ballad Essentials",
+      "duration": 295,
+      "isrc": "USC4R0508236"
+    },
+    {
+      "artist": "Emily Remler",
+      "title": "Samba de Orfeu (Live at the 4 Queens, Las Vegas, May 28, 1984)",
+      "services": {
+        "qobuz": "315931045"
+      },
+      "album": "Cookin' at the Queens (Live in Las Vegas 1984 & 1988)",
+      "duration": 536,
+      "isrc": "USA2P2504154"
+    },
+    {
+      "artist": "Diana Krall",
+      "title": "The Look Of Love",
+      "services": {
+        "qobuz": "19054026"
+      },
+      "album": "The Look Of Love",
+      "duration": 282,
+      "isrc": "USGR10110628"
+    },
+    {
+      "artist": "Madeleine Peyroux",
+      "title": "Dance Me To The End Of Love",
+      "services": {
+        "qobuz": "46555773"
+      },
+      "album": "Careless Love",
+      "duration": 237,
+      "isrc": "USRO20419201"
+    },
+    {
+      "artist": "Sue Kent",
+      "title": "So Nice (Summer Samba)",
+      "services": {
+        "qobuz": "90648859"
+      },
+      "album": "Love, Lost and Found",
+      "duration": 211,
+      "isrc": "USHM91245361"
+    },
+    {
+      "artist": "Melody Gardot",
+      "title": "Baby I'm A Fool",
+      "services": {
+        "qobuz": "286384347"
+      },
+      "album": "The Essential Melody Gardot",
+      "duration": 212,
+      "isrc": "GBUM70816554"
+    },
+    {
+      "artist": "Patricia Barber",
+      "title": "Nardis",
+      "services": {
+        "qobuz": "203851720"
+      },
+      "album": "Cafe Blue",
+      "duration": 540,
+      "isrc": "USPR59400011"
+    },
+    {
+      "artist": "Karrin Allyson",
+      "title": "'Round Midnight",
+      "services": {
+        "qobuz": "5384599"
+      },
+      "album": "'Round Midnight",
+      "duration": 351,
+      "isrc": "USC4R1023101"
+    },
+    {
+      "artist": "Robert Valentino et son orchestre",
+      "title": "Medley: La complainte de Mackie / Begin the Beguine / I've Got You Under My Skin",
+      "services": {
+        "qobuz": "15705436"
+      },
+      "album": "Vous en souvenez-vous? 60 airs de que aimez, vol. 2",
+      "duration": 339,
+      "isrc": "FRS181277642"
+    },
+    {
+      "artist": "Duke Ellington",
+      "title": "In A Sentimental Mood",
+      "services": {
+        "qobuz": "35031475"
+      },
+      "album": "Duke Ellington & John Coltrane",
+      "duration": 256,
+      "isrc": "USMC16351954"
+    },
+    {
+      "artist": "Jim Hall",
+      "title": "You'd Be So Nice To Come Home To",
+      "services": {
+        "qobuz": "3104303"
+      },
+      "album": "Concierto (CTI Records 40th Anniversary Edition)",
+      "duration": 425,
+      "isrc": "USSM17500186"
+    }
+  ]
+}

@@ -1,0 +1,1010 @@
+{
+  "name": "Genre: Neo-Prog",
+  "services": {
+    "qobuz": "66737939",
+    "tidal": "4fe9d3cd-cb2e-45d0-9bca-a386b1e888f1"
+  },
+  "description": "Imported genre playlist: Neo-Prog.",
+  "tracks": [
+    {
+      "artist": "Twelfth Night",
+      "title": "Creepshow",
+      "services": {
+        "qobuz": "87639878"
+      },
+      "album": "Fact and Fiction: The Definitive Edition",
+      "duration": 710,
+      "isrc": "UKGZ31800007"
+    },
+    {
+      "artist": "Marillion",
+      "title": "Script for a Jester's Tear",
+      "services": {
+        "qobuz": "85780918"
+      },
+      "album": "Script for a Jester's Tear",
+      "duration": 522,
+      "isrc": "GBAYE1901558"
+    },
+    {
+      "artist": "Abel Ganz",
+      "title": "The Life of the Honey Bee and Other Moments of Clarity",
+      "services": {
+        "qobuz": "102353667"
+      },
+      "album": "The Life of the Honey Bee and Other Moments of Clarity",
+      "duration": 757,
+      "isrc": "USL4R1921643"
+    },
+    {
+      "artist": "Levellers",
+      "title": "Searchlights",
+      "services": {
+        "qobuz": "99975910"
+      },
+      "album": "Help",
+      "duration": 233,
+      "isrc": "GBAQT9500140"
+    },
+    {
+      "artist": "Pallas",
+      "title": "Eastwest",
+      "services": {
+        "qobuz": "44011788"
+      },
+      "album": "The Sentinel",
+      "duration": 300,
+      "isrc": "GBDHC0906705"
+    },
+    {
+      "artist": "Solstice",
+      "title": "Cheyenne",
+      "services": {
+        "qobuz": "144846234"
+      },
+      "album": "Silent Dance - The Definitive Edition",
+      "duration": 361,
+      "isrc": "GBBLY0900243"
+    },
+    {
+      "artist": "IQ",
+      "title": "The Wake",
+      "services": {
+        "qobuz": "95244765"
+      },
+      "album": "The Wake",
+      "duration": 251,
+      "isrc": "GBLWL0600025"
+    },
+    {
+      "artist": "Audra Pendragon",
+      "title": "Angel Standing By",
+      "services": {
+        "qobuz": "396438217"
+      },
+      "album": "Angel Standing By",
+      "duration": 148,
+      "isrc": "QZMEQ2693747"
+    },
+    {
+      "artist": "This Will Destroy You",
+      "title": "Happiness: We're All in It Together",
+      "services": {
+        "qobuz": "46826298"
+      },
+      "album": "Young Mountain",
+      "duration": 514,
+      "isrc": "US76L0710016"
+    },
+    {
+      "artist": "It Bites",
+      "title": "Calling All The Heroes",
+      "services": {
+        "qobuz": "4620426"
+      },
+      "album": "The Big Lad In The Windmill",
+      "duration": 333,
+      "isrc": "GBAAA8600048"
+    },
+    {
+      "artist": "Elenco de Mickey Mouse Funhouse",
+      "title": "Tema Principal",
+      "services": {
+        "qobuz": "163534301"
+      },
+      "album": "Mickey Mouse Funhouse",
+      "duration": 113,
+      "isrc": "USWD12112964"
+    },
+    {
+      "artist": "Fish",
+      "title": "Vigil",
+      "services": {
+        "qobuz": "5195314"
+      },
+      "album": "Vigil In The Wilderness Of Mirrors",
+      "duration": 527,
+      "isrc": "GBAYE9000766"
+    },
+    {
+      "artist": "Yodelice",
+      "title": "More Than Meets The Eye",
+      "services": {
+        "qobuz": "2542857"
+      },
+      "album": "Cardioid",
+      "duration": 184,
+      "isrc": "FRUM71000385"
+    },
+    {
+      "artist": "English Sinfonia",
+      "title": "II. Air",
+      "services": {
+        "qobuz": "309617301"
+      },
+      "album": "Holst: Double Concerto / St Paul's Suite / Brook Green Suite",
+      "duration": 125,
+      "isrc": "HKI190707802"
+    },
+    {
+      "artist": "Dave Dudley",
+      "title": "Can I Sing a Christmas Song for You",
+      "services": {
+        "qobuz": "42852074"
+      },
+      "album": "King of Country",
+      "duration": 175,
+      "isrc": "DEE378100390"
+    },
+    {
+      "artist": "Collage",
+      "title": "Heroes Cry",
+      "services": {
+        "qobuz": "349400684"
+      },
+      "album": "Moonshine",
+      "duration": 399,
+      "isrc": "PLB822300112"
+    },
+    {
+      "artist": "Arena",
+      "title": "Solomon (Live) [feat. Mick Pointer, Clive Nolan, John Mitchell, John Jowitt & Paul Manzi]",
+      "services": {
+        "qobuz": "66748815"
+      },
+      "album": "Arena: Live (feat. Mick Pointer, Clive Nolan, John Mitchell, John Jowitt & Paul Manzi)",
+      "duration": 835,
+      "isrc": "USHM21331777"
+    },
+    {
+      "artist": "Crystal Palace",
+      "title": "Confess Your Crime",
+      "services": {
+        "qobuz": "31916050"
+      },
+      "album": "Dawn of Eternity",
+      "duration": 507,
+      "isrc": "DENC11600295"
+    },
+    {
+      "artist": "Quidam",
+      "title": "Sanktuarium / Sanctuary",
+      "services": {
+        "qobuz": "119488424"
+      },
+      "album": "Quidam",
+      "duration": 536,
+      "isrc": "USHM21379482"
+    },
+    {
+      "artist": "Larkin Poe",
+      "title": "Mad As A Hatter",
+      "services": {
+        "qobuz": "368553998"
+      },
+      "album": "Paint The Roses",
+      "duration": 312,
+      "isrc": "US9ZA2100003"
+    },
+    {
+      "artist": "Coldplay",
+      "title": "Adventure of a Lifetime",
+      "services": {
+        "qobuz": "28269651"
+      },
+      "album": "A Head Full of Dreams",
+      "duration": 263,
+      "isrc": "GBAYE1501037"
+    },
+    {
+      "artist": "Heaven 17",
+      "title": "Temptation",
+      "services": {
+        "qobuz": "48976059"
+      },
+      "album": "The Luxury Gap",
+      "duration": 213,
+      "isrc": "GBAAA0600345"
+    },
+    {
+      "artist": "Judas Priest",
+      "title": "Beyond the Realms of Death",
+      "services": {
+        "qobuz": "110729"
+      },
+      "album": "Stained Class",
+      "duration": 409,
+      "isrc": "GBBBN0102358"
+    },
+    {
+      "artist": "Grey Lady Down",
+      "title": "The Ballad of Billy Grey (The Crime Part One)",
+      "services": {
+        "qobuz": "77113039"
+      },
+      "album": "The Crime",
+      "duration": 688,
+      "isrc": "USCGJ1183434"
+    },
+    {
+      "artist": "Iluvatar",
+      "title": "Sojourns",
+      "services": {
+        "qobuz": "400079816"
+      },
+      "album": "A Story Two Days Wide...",
+      "duration": 544,
+      "isrc": "CALVP2537577"
+    },
+    {
+      "artist": "The Rolling Stones",
+      "title": "Sympathy For The Devil",
+      "services": {
+        "qobuz": "3377889"
+      },
+      "album": "Beggars Banquet",
+      "duration": 376,
+      "isrc": "USA176810010"
+    },
+    {
+      "artist": "The Raincoats",
+      "title": "Dance of Hopping Mad",
+      "services": {
+        "qobuz": "77343532"
+      },
+      "album": "Moving",
+      "duration": 329,
+      "isrc": "GB5ZC0900023"
+    },
+    {
+      "artist": "Local News Legend",
+      "title": "Neutral Spirit Hotel",
+      "services": {
+        "qobuz": "220137416"
+      },
+      "album": "Split Peas",
+      "duration": 88,
+      "isrc": "USDHM2107228"
+    },
+    {
+      "artist": "Majestic Man Press",
+      "title": "The Arrival of the Starborn",
+      "services": {
+        "qobuz": "419524604"
+      },
+      "album": "The Silver Choirs of the Void - The Eterra Cycle",
+      "duration": 232,
+      "isrc": "CAENV2610243"
+    },
+    {
+      "artist": "Abraxas",
+      "title": "Nantalomba",
+      "services": {
+        "qobuz": "328812047"
+      },
+      "album": "CENTURIE",
+      "duration": 263,
+      "isrc": "QZK6F2517625"
+    },
+    {
+      "artist": "Harmonic Pulse FM",
+      "title": "Edge of the Forest (432 Hz)",
+      "services": {
+        "qobuz": "291201047"
+      },
+      "album": "Deeper Sleep (432 Hz)",
+      "duration": 120,
+      "isrc": "QT2VB2439467"
+    },
+    {
+      "artist": "RPWL",
+      "title": "Wasted Land",
+      "services": {
+        "qobuz": "396951038"
+      },
+      "album": "World Through My Eyes",
+      "duration": 339,
+      "isrc": "DENC12600969"
+    },
+    {
+      "artist": "Salem's Pot",
+      "title": "Nothing Hill",
+      "services": {
+        "qobuz": "140212727"
+      },
+      "album": "...lurar ut dig pa\u030a pra\u0308rien",
+      "duration": 551,
+      "isrc": "USYBL1400178"
+    },
+    {
+      "artist": "Pessel and Daughters",
+      "title": "The Ballad of Samuel Clarence and Carol Lynne",
+      "services": {
+        "qobuz": "372119473"
+      },
+      "album": "Greatest Hits",
+      "duration": 247,
+      "isrc": "QZPJ32524139"
+    },
+    {
+      "artist": "Millenium",
+      "title": "Ego",
+      "services": {
+        "qobuz": "179628190"
+      },
+      "album": "Ego",
+      "duration": 636,
+      "isrc": "PLI971300106"
+    },
+    {
+      "artist": "Flamborough Head",
+      "title": "One For The Crow",
+      "services": {
+        "qobuz": "183408509"
+      },
+      "album": "One For The Crow",
+      "duration": 720,
+      "isrc": "NLW2R1927605"
+    },
+    {
+      "artist": "Satellite Mile",
+      "title": "The Water's Edge",
+      "services": {
+        "qobuz": "343710282"
+      },
+      "album": "The Water's Edge",
+      "duration": 346,
+      "isrc": "AUG7Q2200002"
+    },
+    {
+      "artist": "Silhouette",
+      "title": "The Answers",
+      "services": {
+        "qobuz": "258409473"
+      },
+      "album": "Moods",
+      "duration": 355,
+      "isrc": "NOX9X3772412"
+    },
+    {
+      "artist": "The Watch",
+      "title": "Damage Mode",
+      "services": {
+        "qobuz": "128808074"
+      },
+      "album": "Vacuum",
+      "duration": 437,
+      "isrc": "TCABS1382313"
+    },
+    {
+      "artist": "Carptree",
+      "title": "Sunshine Waters",
+      "services": {
+        "qobuz": "69801410"
+      },
+      "album": "Man Made Machine",
+      "duration": 348,
+      "isrc": "SEVMY0500102"
+    },
+    {
+      "artist": "Final Conflict",
+      "title": "Return of the Artisan",
+      "services": {
+        "qobuz": "279620919"
+      },
+      "album": "Return of the Artisan",
+      "duration": 605,
+      "isrc": "GBSF82000009"
+    },
+    {
+      "artist": "Mclusky",
+      "title": "Rice Is Nice",
+      "services": {
+        "qobuz": "2342770"
+      },
+      "album": "My Pain And Sadness is More Sad And Painful Than Yours",
+      "duration": 66,
+      "isrc": "GBBNZ9900072"
+    },
+    {
+      "artist": "Mindgames",
+      "title": "The Benefit of Anxiety",
+      "services": {
+        "qobuz": "83605238"
+      },
+      "album": "Actors In A Play",
+      "duration": 543,
+      "isrc": "USHM20864724"
+    },
+    {
+      "artist": "Ben Frost",
+      "title": "Black Thread, \u1824\u182f\u1820\u182d\u1820\u1828\u182a\u1820\u182d\u1820\u1832\u1824\u1837",
+      "services": {
+        "qobuz": "329465306"
+      },
+      "album": "Under Certain Light and Atmospheric Conditions",
+      "duration": 384,
+      "isrc": "GBR8R2500039"
+    },
+    {
+      "artist": "Sylvan",
+      "title": "Posthumous Silence",
+      "services": {
+        "qobuz": "21528253"
+      },
+      "album": "Posthumous Silence",
+      "duration": 299,
+      "isrc": "DEML50600515"
+    },
+    {
+      "artist": "The Kiboomers",
+      "title": "Shapes Song / Square, Triangle, Circle",
+      "services": {
+        "qobuz": "63929248"
+      },
+      "album": "The Best Toddler Learning Songs",
+      "duration": 125,
+      "isrc": "QM6P41495843"
+    },
+    {
+      "artist": "Knight Area",
+      "title": "The Sun Also Rises",
+      "services": {
+        "qobuz": "96208140"
+      },
+      "album": "The Sun Also Rises",
+      "duration": 351,
+      "isrc": "NLS8V1700005"
+    },
+    {
+      "artist": "D Project",
+      "title": "Don't Tell The Kids",
+      "services": {
+        "qobuz": "73625566"
+      },
+      "album": "Big Face",
+      "duration": 218,
+      "isrc": "USCGH1156751"
+    },
+    {
+      "artist": "CAKE",
+      "title": "Friend Is a Four Letter Word",
+      "services": {
+        "qobuz": "163832975"
+      },
+      "album": "Fashion Nugget (Deluxe Edition)",
+      "duration": 202,
+      "isrc": "USCA19686702"
+    },
+    {
+      "artist": "Paavo J\u00e4rvi",
+      "title": "La Sindone",
+      "services": {
+        "qobuz": "351562973"
+      },
+      "album": "Arvo P\u00e4rt: Credo",
+      "duration": 541,
+      "isrc": "FR50X2515801"
+    },
+    {
+      "artist": "Introitus",
+      "title": "Like Always",
+      "services": {
+        "qobuz": "258430802"
+      },
+      "album": "Elements",
+      "duration": 502,
+      "isrc": "NONOR1108030"
+    },
+    {
+      "artist": "Marty O'Reilly & the Old Soul Orchestra",
+      "title": "Southern Road",
+      "services": {
+        "qobuz": "234381791"
+      },
+      "album": "Stereoscope",
+      "duration": 290,
+      "isrc": "QZAAH1700002"
+    },
+    {
+      "artist": "Fragments",
+      "title": "Directive 4 (Radio Edit)",
+      "services": {
+        "qobuz": "294885683"
+      },
+      "album": "Directive 4",
+      "duration": 127,
+      "isrc": "FR9W12450480"
+    },
+    {
+      "artist": "Talisco",
+      "title": "The Martian Man",
+      "services": {
+        "qobuz": "34426169"
+      },
+      "album": "Capitol Vision",
+      "duration": 225,
+      "isrc": "FR8V41600046"
+    },
+    {
+      "artist": "Red Sand",
+      "title": "Mirror of Insanity",
+      "services": {
+        "qobuz": "128501042"
+      },
+      "album": "Mirror of Insanity",
+      "duration": 884,
+      "isrc": "TCAFS2130230"
+    },
+    {
+      "artist": "Shamall",
+      "title": "Is This Human Behavior",
+      "services": {
+        "qobuz": "88429578"
+      },
+      "album": "History Book",
+      "duration": 435,
+      "isrc": "DEN281622045"
+    },
+    {
+      "artist": "Lizzy McAlpine",
+      "title": "Apple Pie",
+      "services": {
+        "qobuz": "176323467"
+      },
+      "album": "Give Me A Minute",
+      "duration": 259,
+      "isrc": "GBKPL1972264"
+    },
+    {
+      "artist": "The Riflebirds of Portland",
+      "title": "Sometime Somewhere",
+      "services": {
+        "qobuz": "340593711"
+      },
+      "album": "Windmills On The Moon",
+      "duration": 195,
+      "isrc": "USASN2530039"
+    },
+    {
+      "artist": "The Reasoning",
+      "title": "Awakening",
+      "services": {
+        "qobuz": "142185349"
+      },
+      "album": "Awakening",
+      "duration": 409,
+      "isrc": "GBXQX0800001"
+    },
+    {
+      "artist": "Yuka & Chronoship",
+      "title": "Stone Age",
+      "services": {
+        "qobuz": "166277589"
+      },
+      "album": "The 3rd Planetary Chronicles",
+      "duration": 506,
+      "isrc": "GBL2D1500146"
+    },
+    {
+      "artist": "Airbag",
+      "title": "All Rights Removed",
+      "services": {
+        "qobuz": "62933741"
+      },
+      "album": "All Rights Removed",
+      "duration": 539,
+      "isrc": "NOKAR1103010"
+    },
+    {
+      "artist": "Docker's Guild",
+      "title": "Cassilda_s Song",
+      "services": {
+        "qobuz": "181012426"
+      },
+      "album": "The Mystic Technocracy - Season 2: The Age of Entropy",
+      "duration": 175,
+      "isrc": "ITCZ62210065"
+    },
+    {
+      "artist": "Edison's Children",
+      "title": "Dusk",
+      "services": {
+        "qobuz": "142232552"
+      },
+      "album": "In the Last Waking Moments...",
+      "duration": 402,
+      "isrc": "QMSXE1100001"
+    },
+    {
+      "artist": "Kinetic Element",
+      "title": "Travelog",
+      "services": {
+        "qobuz": "81418402"
+      },
+      "album": "Travelog",
+      "duration": 591,
+      "isrc": "QMAAK1592327"
+    },
+    {
+      "artist": "Leap Day",
+      "title": "Awaking the Muse",
+      "services": {
+        "qobuz": "99879915"
+      },
+      "album": "Timelapse",
+      "duration": 312,
+      "isrc": "USHM81806689"
+    },
+    {
+      "artist": "Oysterband",
+      "title": "Like a Swimmer in the Ocean",
+      "services": {
+        "qobuz": "151685223"
+      },
+      "album": "Diamonds on the Water",
+      "duration": 142,
+      "isrc": "GBCSY1300012"
+    },
+    {
+      "artist": "t.A.T.u.",
+      "title": "All The Things She Said",
+      "services": {
+        "qobuz": "3891717"
+      },
+      "album": "t.A.T.u. - The Best",
+      "duration": 212,
+      "isrc": "RUA110100017"
+    },
+    {
+      "artist": "Phoenix Again",
+      "title": "Adso da Melk",
+      "services": {
+        "qobuz": "85184437"
+      },
+      "album": "Look Out",
+      "duration": 710,
+      "isrc": "USCGH1727907"
+    },
+    {
+      "artist": "Ben Fuller",
+      "title": "Turn",
+      "services": {
+        "qobuz": "374225868"
+      },
+      "album": "Goodbye Yesterday: Songs for the New Year",
+      "duration": 234,
+      "isrc": "USA5W2400156"
+    },
+    {
+      "artist": "Seven Steps to the Green Door",
+      "title": "Porn!",
+      "services": {
+        "qobuz": "88384579"
+      },
+      "album": "Fetish",
+      "duration": 530,
+      "isrc": "USDY41508569"
+    },
+    {
+      "artist": "Clive Nolan",
+      "title": "Act 1: Wedding",
+      "services": {
+        "qobuz": "382546425"
+      },
+      "album": "The Mortal Light",
+      "duration": 319,
+      "isrc": "NOXPF2505101"
+    },
+    {
+      "artist": "Cosmograf",
+      "title": "The Man Left in Space",
+      "services": {
+        "qobuz": "71646673"
+      },
+      "album": "The Man Left in Space",
+      "duration": 598,
+      "isrc": "USCGH1362035"
+    },
+    {
+      "artist": "Jolly",
+      "title": "Firewell",
+      "services": {
+        "qobuz": "27676930"
+      },
+      "album": "The Audio Guide to Happiness (Part II)",
+      "duration": 403,
+      "isrc": "GBDHC1363502"
+    },
+    {
+      "artist": "Lifesigns",
+      "title": "At the End of the World",
+      "services": {
+        "qobuz": "417559839"
+      },
+      "album": "Anthology",
+      "duration": 504,
+      "isrc": "GBBLY1300209"
+    },
+    {
+      "artist": "Anubis",
+      "title": "Hitchhiking to Byzantium (Acoustic)",
+      "services": {
+        "qobuz": "73438646"
+      },
+      "album": "Different Stories",
+      "duration": 542,
+      "isrc": "USCGH1971881"
+    },
+    {
+      "artist": "Cirrus Bay",
+      "title": "Places Unseen",
+      "services": {
+        "qobuz": "70944257"
+      },
+      "album": "Places Unseen",
+      "duration": 412,
+      "isrc": "USHM21688936"
+    },
+    {
+      "artist": "Cassandra Wilson",
+      "title": "A Day In The Life Of A Fool",
+      "services": {
+        "qobuz": "1756859"
+      },
+      "album": "Loverly",
+      "duration": 296,
+      "isrc": "USBN20701179"
+    },
+    {
+      "artist": "Rev. Louis  Overstreet",
+      "title": "Get Ready, I'm Gonna Move in the Room Upstairs",
+      "services": {
+        "qobuz": "92846559"
+      },
+      "album": "With His Sons and the Congregation of St. Luke's Powerhouse Church of God in Christ",
+      "duration": 212,
+      "isrc": "USAP39544205"
+    },
+    {
+      "artist": "Drasko Adzic",
+      "title": "I Talk of Dreams: Thou Canst Not Speak",
+      "services": {
+        "qobuz": "362460130"
+      },
+      "album": "I Talk of Dreams",
+      "duration": 113,
+      "isrc": "RSA132506901"
+    },
+    {
+      "artist": "AURA LV2",
+      "title": "Chaos Within - the Monarch\u2019s Trial",
+      "services": {
+        "qobuz": "412427260"
+      },
+      "album": "Shadows Rise - Sung Jinwoo\u2019s Triumph",
+      "duration": 239,
+      "isrc": "QZGLS2671202"
+    },
+    {
+      "artist": "Steve Rothery",
+      "title": "Morpheus",
+      "services": {
+        "qobuz": "126555115"
+      },
+      "album": "The Ghosts of Pripyat",
+      "duration": 475,
+      "isrc": "GBGST1400033"
+    },
+    {
+      "artist": "Motionless In White",
+      "title": "Undead Ahead 2: The Tale of the Midnight Ride",
+      "services": {
+        "qobuz": "61079872"
+      },
+      "album": "Disguise",
+      "duration": 273,
+      "isrc": "NLA321900083"
+    },
+    {
+      "artist": "Joe Hisaishi",
+      "title": "On The Tiger Moth",
+      "services": {
+        "qobuz": "318727688"
+      },
+      "album": "Laputa: Castle in the Sky Soundtrack -The Mystery of the Levitation Stone-",
+      "duration": 152,
+      "isrc": "JPTK08680209"
+    },
+    {
+      "artist": "Barock Project",
+      "title": "Skyline",
+      "services": {
+        "qobuz": "114466985"
+      },
+      "album": "Skyline",
+      "duration": 620,
+      "isrc": "ITF712000065"
+    },
+    {
+      "artist": "Comedy of Errors",
+      "title": "Time Machine",
+      "services": {
+        "qobuz": "187035680"
+      },
+      "album": "Time Machine",
+      "duration": 741,
+      "isrc": "UK2672200005"
+    },
+    {
+      "artist": "Sophie Ellis-Bextor",
+      "title": "Today The Sun's On Us",
+      "services": {
+        "qobuz": "13639169"
+      },
+      "album": "Trip The Light Fantastic",
+      "duration": 256,
+      "isrc": "GBUM70602861"
+    },
+    {
+      "artist": "Jakob Lindberg",
+      "title": "The New Highland Laddie - Devo's Gigue - A new Scotts Measure - After the Pauges of a Desperate Lover - I never knew I loved thee - Lillybul",
+      "services": {
+        "qobuz": "249409101"
+      },
+      "album": "Lute Music From Scotland and France",
+      "duration": 489,
+      "isrc": "SEAEC8701080"
+    },
+    {
+      "artist": "Mystery",
+      "title": "Delusion Rain",
+      "services": {
+        "qobuz": "124653463"
+      },
+      "album": "Delusion Rain",
+      "duration": 603,
+      "isrc": "CAU291511001"
+    },
+    {
+      "artist": "Evership",
+      "title": "The Serious Room",
+      "services": {
+        "qobuz": "67411750"
+      },
+      "album": "Evership II",
+      "duration": 472,
+      "isrc": "USHM91845533"
+    },
+    {
+      "artist": "Royal Northern College of Music Wind Orchestra",
+      "title": "Epitaph XIV: Harvest of Sorrow (Ukraine)",
+      "services": {
+        "qobuz": "382430791"
+      },
+      "album": "Tributes - Music for Concert Band",
+      "duration": 390,
+      "isrc": "UKKRK2500042"
+    },
+    {
+      "artist": "Little Atlas",
+      "title": "The Ballad of Eddie Wanderlust",
+      "services": {
+        "qobuz": "124660944"
+      },
+      "album": "Wanderlust",
+      "duration": 457,
+      "isrc": "USHM90647832"
+    },
+    {
+      "artist": "Salem Witch Army",
+      "title": "All Our Yesterdays",
+      "services": {
+        "qobuz": "131294549"
+      },
+      "album": "Thunder In Solitude / Sundown In Silence",
+      "duration": 99,
+      "isrc": "QZDUY1800025"
+    },
+    {
+      "artist": "Modern-Rock Ensemble",
+      "title": "Dark Kingdom & the Evil King,Pt.3",
+      "services": {
+        "qobuz": "125827406"
+      },
+      "album": "Night Dreams & Wishes",
+      "duration": 570,
+      "isrc": "TCAEK1957358"
+    },
+    {
+      "artist": "Nine Stones Close",
+      "title": "The Weight",
+      "services": {
+        "qobuz": "16332531"
+      },
+      "album": "One Eye On The Sunrise",
+      "duration": 591,
+      "isrc": "USZWJ1231207"
+    },
+    {
+      "artist": "Vienna Circle",
+      "title": "Dreams Presage",
+      "services": {
+        "qobuz": "116474784"
+      },
+      "album": "Silhouette Moon",
+      "duration": 800,
+      "isrc": "GBYRA1300003"
+    },
+    {
+      "artist": "Stefano Panunzi",
+      "title": "Those Words (Words Are All We Have)",
+      "services": {
+        "qobuz": "208313078"
+      },
+      "album": "Pages from the Sea",
+      "duration": 315,
+      "isrc": "ITISX2000022"
+    },
+    {
+      "artist": "The Beach Boys",
+      "title": "God Only Knows",
+      "services": {
+        "qobuz": "57162267"
+      },
+      "album": "The Beach Boys On Tour: 1968",
+      "duration": 166,
+      "isrc": "USUM71821509"
+    },
+    {
+      "artist": "This Winter Machine",
+      "title": "The Man Who Never Was (Remastered 2025)",
+      "services": {
+        "qobuz": "336632243"
+      },
+      "album": "The Man Who Never Was (Remastered 2025)",
+      "duration": 955,
+      "isrc": "TCAJQ2525867"
+    },
+    {
+      "artist": "R.A. The Rugged Man",
+      "title": "Living Through A Screen (Everything Is A Lie)",
+      "services": {
+        "qobuz": "87149270"
+      },
+      "album": "All My Heroes Are Dead",
+      "duration": 226,
+      "isrc": "USHKR0918413"
+    },
+    {
+      "artist": "Moonrise",
+      "title": "The Answer",
+      "services": {
+        "qobuz": "179454952"
+      },
+      "album": "Travel Within",
+      "duration": 328,
+      "isrc": "PLI971900018"
+    }
+  ]
+}

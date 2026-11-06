@@ -1,0 +1,1000 @@
+{
+  "name": "Genre: Gothic Rock",
+  "services": {
+    "qobuz": "66736781",
+    "tidal": "6fe6badd-961e-4024-8857-3bb41949dedd"
+  },
+  "description": "Imported genre playlist: Gothic Rock.",
+  "tracks": [
+    {
+      "artist": "Bauhaus",
+      "title": "Bela Lugosi's Dead (Official Version)",
+      "services": {
+        "qobuz": "122256709"
+      },
+      "album": "The Bela Session",
+      "duration": 576,
+      "isrc": "QMHG41850001"
+    },
+    {
+      "artist": "Joy Division",
+      "title": "Atmosphere",
+      "services": {
+        "qobuz": "24618113"
+      },
+      "album": "Substance 1977 - 1980",
+      "duration": 250,
+      "isrc": "GBCRL1500066"
+    },
+    {
+      "artist": "The Cure",
+      "title": "A Forest",
+      "services": {
+        "qobuz": "721350"
+      },
+      "album": "Seventeen Seconds",
+      "duration": 354,
+      "isrc": "GBALB8000007"
+    },
+    {
+      "artist": "The Damned",
+      "title": "Curtain Call",
+      "services": {
+        "qobuz": "13157391"
+      },
+      "album": "The Light At The End Of The Tunnel",
+      "duration": 1040,
+      "isrc": "USMC18724715"
+    },
+    {
+      "artist": "The Birthday Party",
+      "title": "Release The Bats",
+      "services": {
+        "qobuz": "58599202"
+      },
+      "album": "Junkyard",
+      "duration": 151,
+      "isrc": "GBAFL8200058"
+    },
+    {
+      "artist": "13th Chime",
+      "title": "Cuts of Love",
+      "services": {
+        "qobuz": "20882690"
+      },
+      "album": "The Singles: 1981-1983",
+      "duration": 308,
+      "isrc": "US5NR0900001"
+    },
+    {
+      "artist": "Siouxsie & The Banshees",
+      "title": "Spellbound",
+      "services": {
+        "qobuz": "181177761"
+      },
+      "album": "All Souls",
+      "duration": 197,
+      "isrc": "GBAKW8101063"
+    },
+    {
+      "artist": "UK Decay",
+      "title": "Unexpected Guest",
+      "services": {
+        "qobuz": "68084379"
+      },
+      "album": "For Madmen Only",
+      "duration": 299,
+      "isrc": "DEXO61917535"
+    },
+    {
+      "artist": "The Angels",
+      "title": "After The Rain",
+      "services": {
+        "qobuz": "171209495"
+      },
+      "album": "Face To Face Recharged",
+      "duration": 225,
+      "isrc": "AULI01816870"
+    },
+    {
+      "artist": "The Sound",
+      "title": "Skeletons",
+      "services": {
+        "qobuz": "26390179"
+      },
+      "album": "From The Lion's Mouth",
+      "duration": 207,
+      "isrc": "GBAHT1100078"
+    },
+    {
+      "artist": "Virgin Prunes",
+      "title": "Baby Turns Blue",
+      "services": {
+        "qobuz": "385623449"
+      },
+      "album": "...If I Die, I Die",
+      "duration": 222,
+      "isrc": "GBAJH0401510"
+    },
+    {
+      "artist": "Theatre of Hate",
+      "title": "Do You Believe In The Westworld",
+      "services": {
+        "qobuz": "89325074"
+      },
+      "album": "The Westworld",
+      "duration": 225,
+      "isrc": "GBQRF1036735"
+    },
+    {
+      "artist": "The Southern Death Cult",
+      "title": "Moya",
+      "services": {
+        "qobuz": "58597743"
+      },
+      "album": "The Southern Death Cult",
+      "duration": 281,
+      "isrc": "GBAZP8800157"
+    },
+    {
+      "artist": "The Danse Society",
+      "title": "Somewhere",
+      "services": {
+        "qobuz": "152580021"
+      },
+      "album": "Seduction (The Society Collection)",
+      "duration": 260,
+      "isrc": "GBBLY0604715"
+    },
+    {
+      "artist": "Sad Lovers & Giants",
+      "title": "Things We Never Did",
+      "services": {
+        "qobuz": "85826351"
+      },
+      "album": "Epic Garden Music",
+      "duration": 248,
+      "isrc": "GBBLY9600015"
+    },
+    {
+      "artist": "Lords Of The New Church",
+      "title": "Open Your Eyes",
+      "services": {
+        "qobuz": "23436927"
+      },
+      "album": "The Lords Of The New Church",
+      "duration": 211,
+      "isrc": "USIR38600013"
+    },
+    {
+      "artist": "Christian Death",
+      "title": "Romeo's Distress",
+      "services": {
+        "qobuz": "92753375"
+      },
+      "album": "Only Theatre of Pain",
+      "duration": 196,
+      "isrc": "USA6P0400708"
+    },
+    {
+      "artist": "Paralisis Permanente",
+      "title": "Autosuficiencia",
+      "services": {
+        "qobuz": "11661878"
+      },
+      "album": "Los singles y primeras grabaciones",
+      "duration": 128,
+      "isrc": "ES5018403000"
+    },
+    {
+      "artist": "Alien Sex Fiend",
+      "title": "Ignore the Machine",
+      "services": {
+        "qobuz": "120000991"
+      },
+      "album": "Who's Been Sleeping in My Brain",
+      "duration": 405,
+      "isrc": "GBBLY8300189"
+    },
+    {
+      "artist": "45 Grave",
+      "title": "Partytime (Single Version)",
+      "services": {
+        "qobuz": "2811001"
+      },
+      "album": "Sleep In Safety",
+      "duration": 184,
+      "isrc": "USRS72919014"
+    },
+    {
+      "artist": "The Gloomy Days",
+      "title": "Something Inside Me Has Died",
+      "services": {
+        "qobuz": "363352612"
+      },
+      "album": "Broken",
+      "duration": 202,
+      "isrc": "QT3FE2593881"
+    },
+    {
+      "artist": "The Chameleons",
+      "title": "Second Skin",
+      "services": {
+        "qobuz": "50524056"
+      },
+      "album": "Script of the Bridge (Remastered)",
+      "duration": 410,
+      "isrc": "GBNYZ1100195"
+    },
+    {
+      "artist": "Sex Gang Children",
+      "title": "Sebastiane",
+      "services": {
+        "qobuz": "48792874"
+      },
+      "album": "Song and Legend",
+      "duration": 193,
+      "isrc": "QM6XS1805574"
+    },
+    {
+      "artist": "The Sisters Of Mercy",
+      "title": "Temple of Love (1992)",
+      "services": {
+        "qobuz": "49728901"
+      },
+      "album": "Greatest Hits Volume One: A Slight Case Of Overbombing",
+      "duration": 487,
+      "isrc": "GBCRL1800016"
+    },
+    {
+      "artist": "Play Dead",
+      "title": "The Tenant",
+      "services": {
+        "qobuz": "195934559"
+      },
+      "album": "The Collection",
+      "duration": 337,
+      "isrc": "GBCST8320302"
+    },
+    {
+      "artist": "Skeletal Family",
+      "title": "Promised Land",
+      "services": {
+        "qobuz": "134974992"
+      },
+      "album": "Best Of\u2026: The Singles Plus 1983-85",
+      "duration": 291,
+      "isrc": "GBBLY8500072"
+    },
+    {
+      "artist": "Flesh For Lulu",
+      "title": "Roman Candle",
+      "services": {
+        "qobuz": "43105118"
+      },
+      "album": "The Polydor Years",
+      "duration": 259,
+      "isrc": "GBUM71700450"
+    },
+    {
+      "artist": "Specimen",
+      "title": "Kiss Kiss Bang Bang",
+      "services": {
+        "qobuz": "73575808"
+      },
+      "album": "Azoic",
+      "duration": 293,
+      "isrc": "GBCST8325401"
+    },
+    {
+      "artist": "Xmal Deutschland",
+      "title": "Incubus Succubus II",
+      "services": {
+        "qobuz": "2485209"
+      },
+      "album": "Tocsin",
+      "duration": 285,
+      "isrc": "GBAFL8400010"
+    },
+    {
+      "artist": "Ausgang",
+      "title": "Weight",
+      "services": {
+        "qobuz": "231707925"
+      },
+      "album": "Teaching Of The Web",
+      "duration": 220,
+      "isrc": "GBBLY1007134"
+    },
+    {
+      "artist": "Bill Fay",
+      "title": "Pictures Of Adolf Again",
+      "services": {
+        "qobuz": "133670818"
+      },
+      "album": "Still Some Light: Part 1 (Piano, Guitar, Bass & Drums 1970-1971)",
+      "duration": 157,
+      "isrc": "USJ5G2122413"
+    },
+    {
+      "artist": "The Cult",
+      "title": "Spiritwalker",
+      "services": {
+        "qobuz": "26490830"
+      },
+      "album": "Dreamtime",
+      "duration": 219,
+      "isrc": "GBAZP8400001"
+    },
+    {
+      "artist": "The March Violets",
+      "title": "Snake Dance",
+      "services": {
+        "qobuz": "73569813"
+      },
+      "album": "The Botanic Verses",
+      "duration": 246,
+      "isrc": "GBCST8424218"
+    },
+    {
+      "artist": "Echo And The Bunnymen",
+      "title": "The Killing Moon",
+      "services": {
+        "qobuz": "147304805"
+      },
+      "album": "Ocean Rain",
+      "duration": 346,
+      "isrc": "GBAHT2200030"
+    },
+    {
+      "artist": "Tones On Tail",
+      "title": "Go!",
+      "services": {
+        "qobuz": "3726201"
+      },
+      "album": "Weird Pop",
+      "duration": 155,
+      "isrc": "GBAZP9800098"
+    },
+    {
+      "artist": "Marilyn Monroe",
+      "title": "The River of No Return",
+      "services": {
+        "qobuz": "37586097"
+      },
+      "album": "The River of No Return",
+      "duration": 136,
+      "isrc": "FR6V80051809"
+    },
+    {
+      "artist": "Clan of Xymox",
+      "title": "A Day",
+      "services": {
+        "qobuz": "2330910"
+      },
+      "album": "Clan Of Xymox",
+      "duration": 400,
+      "isrc": "GBAFL8500039"
+    },
+    {
+      "artist": "The Snake Corps",
+      "title": "\"This Is Seagull\u2026.\"",
+      "services": {
+        "qobuz": "75681168"
+      },
+      "album": "Smother Earth",
+      "duration": 238,
+      "isrc": "GBBLY9000145"
+    },
+    {
+      "artist": "The Rose Of Avalanche",
+      "title": "L.A. Rain (MMXXV)",
+      "services": {
+        "qobuz": "368421258"
+      },
+      "album": "L.A. Rain (MMXXV)",
+      "duration": 485,
+      "isrc": "SE57V2512670"
+    },
+    {
+      "artist": "Killing Joke",
+      "title": "Love Like Blood",
+      "services": {
+        "qobuz": "219754541"
+      },
+      "album": "Night Time",
+      "duration": 408,
+      "isrc": "GBAAA0701586"
+    },
+    {
+      "artist": "Red Lorry Yellow Lorry",
+      "title": "Talk About The Weather",
+      "services": {
+        "qobuz": "75688073"
+      },
+      "album": "Talk About The Weather",
+      "duration": 246,
+      "isrc": "GBBLY8500062"
+    },
+    {
+      "artist": "Love and Rockets",
+      "title": "Haunted When the Minutes Drag",
+      "services": {
+        "qobuz": "38173137"
+      },
+      "album": "Seventh Dream of Teenage Heaven",
+      "duration": 481,
+      "isrc": "GBAZP8500030"
+    },
+    {
+      "artist": "The Wake",
+      "title": "Melancholy Man",
+      "services": {
+        "qobuz": "50519161"
+      },
+      "album": "Here Comes Everybody + Singles",
+      "duration": 442,
+      "isrc": "GBHBR0400329"
+    },
+    {
+      "artist": "Balaam And The Angel",
+      "title": "I Love The Things You Do To Me",
+      "services": {
+        "qobuz": "1744849"
+      },
+      "album": "Live Free Or Die",
+      "duration": 247,
+      "isrc": "GBAAA0701684"
+    },
+    {
+      "artist": "The Bolshoi",
+      "title": "A Way",
+      "services": {
+        "qobuz": "40417046"
+      },
+      "album": "Friends",
+      "duration": 296,
+      "isrc": "GBAZP8600001"
+    },
+    {
+      "artist": "The Sisterhood",
+      "title": "Giving Ground",
+      "services": {
+        "qobuz": "192736711"
+      },
+      "album": "Gift",
+      "duration": 451,
+      "isrc": "DEPI82300425"
+    },
+    {
+      "artist": "The Mission",
+      "title": "Wasteland",
+      "services": {
+        "qobuz": "627980"
+      },
+      "album": "Gods Own Medicine",
+      "duration": 340,
+      "isrc": "GBF089400266"
+    },
+    {
+      "artist": "Fields Of The Nephilim",
+      "title": "Moonchild",
+      "services": {
+        "qobuz": "26440302"
+      },
+      "album": "The Nephilim",
+      "duration": 340,
+      "isrc": "GBAZP8800150"
+    },
+    {
+      "artist": "All About Eve",
+      "title": "Martha's Harbour",
+      "services": {
+        "qobuz": "27235617"
+      },
+      "album": "All About Eve",
+      "duration": 194,
+      "isrc": "GBF088800608"
+    },
+    {
+      "artist": "Peter Murphy",
+      "title": "Cuts You Up",
+      "services": {
+        "qobuz": "2532610"
+      },
+      "album": "Deep",
+      "duration": 327,
+      "isrc": "GBAZP8900105"
+    },
+    {
+      "artist": "Inkubus Sukkubus",
+      "title": "Wytches",
+      "services": {
+        "qobuz": "56286576"
+      },
+      "album": "Wytches",
+      "duration": 188,
+      "isrc": "GBUZW0800098"
+    },
+    {
+      "artist": "My Deception",
+      "title": "Sacrifice (London After Midnight Tribute)",
+      "services": {
+        "qobuz": "83912556"
+      },
+      "album": "Sinful Twilight",
+      "duration": 353,
+      "isrc": "USCGH1876619"
+    },
+    {
+      "artist": "The Merry Thoughts",
+      "title": "Pale Empress",
+      "services": {
+        "qobuz": "73809359"
+      },
+      "album": "New Alternatives II",
+      "duration": 217,
+      "isrc": "GBAD20610212"
+    },
+    {
+      "artist": "Die Laughing",
+      "title": "Glamour And Suicide",
+      "services": {
+        "qobuz": "51039449"
+      },
+      "album": "Incarnations: A Retrospective",
+      "duration": 248,
+      "isrc": "USA370602567"
+    },
+    {
+      "artist": "SHADOW PROJECT",
+      "title": "Days of Glory",
+      "services": {
+        "qobuz": "67889734"
+      },
+      "album": "Dreams for the Dying",
+      "duration": 257,
+      "isrc": "USA371168501"
+    },
+    {
+      "artist": "Children On Stun",
+      "title": "Sidelined",
+      "services": {
+        "qobuz": "129255173"
+      },
+      "album": "Tourniquets of Love's Desire",
+      "duration": 252,
+      "isrc": "QM6XS2100963"
+    },
+    {
+      "artist": "Rosetta Stone",
+      "title": "Adrenaline",
+      "services": {
+        "qobuz": "51013360"
+      },
+      "album": "Adrenaline",
+      "duration": 220,
+      "isrc": "USA370573503"
+    },
+    {
+      "artist": "Love Like Blood",
+      "title": "Kiss & Tell",
+      "services": {
+        "qobuz": "61387601"
+      },
+      "album": "An Irony of Fate",
+      "duration": 311,
+      "isrc": "DED830900705"
+    },
+    {
+      "artist": "Suspiria",
+      "title": "Allegedly, Dancefloor Tragedy",
+      "services": {
+        "qobuz": "51034839"
+      },
+      "album": "The Gothic Sounds Of Nightbreed Volumes One & Two",
+      "duration": 278,
+      "isrc": "USA370577463"
+    },
+    {
+      "artist": "Vendemmian",
+      "title": "One Eye Open",
+      "services": {
+        "qobuz": "56289260"
+      },
+      "album": "One Eye Open",
+      "duration": 255,
+      "isrc": "GBUZW0700239"
+    },
+    {
+      "artist": "Nosferatu",
+      "title": "Rise",
+      "services": {
+        "qobuz": "51108472"
+      },
+      "album": "Vampyres, Witches, Devils & Ghouls",
+      "duration": 272,
+      "isrc": "USDPS0600566"
+    },
+    {
+      "artist": "Paralysed Age",
+      "title": "Bloodsucker",
+      "services": {
+        "qobuz": "16307913"
+      },
+      "album": "Empire Of Thevampire",
+      "duration": 290,
+      "isrc": "US37B0501104"
+    },
+    {
+      "artist": "London Music Works",
+      "title": "End Credits",
+      "services": {
+        "qobuz": "188405728"
+      },
+      "album": "The Silver Screen - Great Movie Themes",
+      "duration": 307,
+      "isrc": "GBAJC1400158"
+    },
+    {
+      "artist": "Buck-Tick",
+      "title": "Dress",
+      "services": {
+        "qobuz": "95657921"
+      },
+      "album": "ONE LIFE, ONE DEATH CUT UP(LIVE)",
+      "duration": 400,
+      "isrc": "JPBV00100057"
+    },
+    {
+      "artist": "Switchblade Symphony",
+      "title": "Dollhouse",
+      "services": {
+        "qobuz": "51086771"
+      },
+      "album": "Serpentine Gallery - Deluxe 2005 Edition",
+      "duration": 248,
+      "isrc": "USA370521806"
+    },
+    {
+      "artist": "Dry Cleaning",
+      "title": "Hit My Head All Day",
+      "services": {
+        "qobuz": "356715764"
+      },
+      "album": "Secret Love",
+      "duration": 363,
+      "isrc": "GBAFL2500471"
+    },
+    {
+      "artist": "Corpus Delicti",
+      "title": "Saraband",
+      "services": {
+        "qobuz": "96722424"
+      },
+      "album": "Sylphes",
+      "duration": 327,
+      "isrc": "QM6XS1901835"
+    },
+    {
+      "artist": "The Alan Parsons Project",
+      "title": "The Fall Of The House Of Usher: Arrival",
+      "services": {
+        "qobuz": "53111790"
+      },
+      "album": "Tales Of Mystery And Imagination - Edgar Allan Poe",
+      "duration": 159,
+      "isrc": "USIR20200404"
+    },
+    {
+      "artist": "The Nefilim",
+      "title": "Xodus",
+      "services": {
+        "qobuz": "294474188"
+      },
+      "album": "Zoon",
+      "duration": 229,
+      "isrc": "GBAZP2400059"
+    },
+    {
+      "artist": "The Dreamside",
+      "title": "Open Your Eyes",
+      "services": {
+        "qobuz": "18029768"
+      },
+      "album": "Spin Moon Magic",
+      "duration": 235,
+      "isrc": "CH6540871764"
+    },
+    {
+      "artist": "Sopor Aeternus & The Ensemble Of Shadows",
+      "title": "Procession / Funeral March",
+      "services": {
+        "qobuz": "91723334"
+      },
+      "album": "Dead Lovers Sarabande, Vol.2",
+      "duration": 404,
+      "isrc": "DEZ900800378"
+    },
+    {
+      "artist": "The 69 Eyes",
+      "title": "Gothic Girl",
+      "services": {
+        "qobuz": "52940971"
+      },
+      "album": "Blessed Be",
+      "duration": 262,
+      "isrc": "FIUNG0000001"
+    },
+    {
+      "artist": "Garden Of Delight",
+      "title": "Necromanteion IV",
+      "services": {
+        "qobuz": "73835414"
+      },
+      "album": "Necromanteion IV",
+      "duration": 408,
+      "isrc": "DEAD20710067"
+    },
+    {
+      "artist": "Two Witches",
+      "title": "Cat's Eyes",
+      "services": {
+        "qobuz": "51087852"
+      },
+      "album": "Wenches, Wytches And Vampyres: The Very Best Of Two Witches 1987-1999",
+      "duration": 170,
+      "isrc": "USA560629693"
+    },
+    {
+      "artist": "The Urban Voodoo Machine",
+      "title": "Last Dance of the Silver Wolf",
+      "services": {
+        "qobuz": "168446284"
+      },
+      "album": "Rare Gumbo: EPs, B-Sides and Assorted Pieces",
+      "duration": 136,
+      "isrc": "GBKYA1303072"
+    },
+    {
+      "artist": "Ikon",
+      "title": "Life Without End",
+      "services": {
+        "qobuz": "140880356"
+      },
+      "album": "Flowers for the Gathering",
+      "duration": 246,
+      "isrc": "QM6XS2102250"
+    },
+    {
+      "artist": "Whispers In The Shadow",
+      "title": "More Than Words",
+      "services": {
+        "qobuz": "49112317"
+      },
+      "album": "Laudanum",
+      "duration": 320,
+      "isrc": "DEZ650714328"
+    },
+    {
+      "artist": "Cinema Strange",
+      "title": "Nightfalls",
+      "services": {
+        "qobuz": "70922046"
+      },
+      "album": "Cinema Strange",
+      "duration": 232,
+      "isrc": "USCGH1263692"
+    },
+    {
+      "artist": "Cathedral",
+      "title": "Ebony Tears",
+      "services": {
+        "qobuz": "22873087"
+      },
+      "album": "Forest of Equilibrium",
+      "duration": 466,
+      "isrc": "GBBPB0401851"
+    },
+    {
+      "artist": "The Beauty of Gemina",
+      "title": "Suicide Landscape",
+      "services": {
+        "qobuz": "28143151"
+      },
+      "album": "Anthology, Vol. 1",
+      "duration": 238,
+      "isrc": "CH6451504072"
+    },
+    {
+      "artist": "Chantal Chamberland",
+      "title": "Miss Sarajevo",
+      "services": {
+        "qobuz": "70230179"
+      },
+      "album": "Temptation",
+      "duration": 227,
+      "isrc": "CA6EI1900012"
+    },
+    {
+      "artist": "Iain Matthews & Egbert Der\u00edx",
+      "title": "Buddha Dials Your Number",
+      "services": {
+        "qobuz": "17132431"
+      },
+      "album": "In The Now",
+      "duration": 266,
+      "isrc": "QMWHB1400569"
+    },
+    {
+      "artist": "The Flatliners",
+      "title": "Resuscitation of the Year",
+      "services": {
+        "qobuz": "104835429"
+      },
+      "album": "Dead Language",
+      "duration": 202,
+      "isrc": "CADE70901255"
+    },
+    {
+      "artist": "Ain't No Limits",
+      "title": "Rolling Through the Midnight",
+      "services": {
+        "qobuz": "354764981"
+      },
+      "album": "Dust Off My Soul",
+      "duration": 223,
+      "isrc": "QZZ7N2581313"
+    },
+    {
+      "artist": "Milky Chance",
+      "title": "Eden's House",
+      "services": {
+        "qobuz": "79750912"
+      },
+      "album": "Mind The Moon",
+      "duration": 231,
+      "isrc": "DEVP21900003"
+    },
+    {
+      "artist": "Angels Of Liberty",
+      "title": "The Last Vampire",
+      "services": {
+        "qobuz": "98664061"
+      },
+      "album": "Servant of the Grail",
+      "duration": 335,
+      "isrc": "USHM92014102"
+    },
+    {
+      "artist": "Depeche Mode",
+      "title": "A Question of Time",
+      "services": {
+        "qobuz": "985662"
+      },
+      "album": "Black Celebration",
+      "duration": 249,
+      "isrc": "GBAJH9900270"
+    },
+    {
+      "artist": "Tom Smith",
+      "title": "Life Is For Living",
+      "services": {
+        "qobuz": "343627144"
+      },
+      "album": "There Is Nothing In The Dark That Isn't There In The Light",
+      "duration": 248,
+      "isrc": "GBENL2504392"
+    },
+    {
+      "artist": "Merciful Nuns",
+      "title": "Cremation",
+      "services": {
+        "qobuz": "39203233"
+      },
+      "album": "A-U-M IX",
+      "duration": 156,
+      "isrc": "DEW271305236"
+    },
+    {
+      "artist": "The Spiritual Bat",
+      "title": "Cruel Machine",
+      "services": {
+        "qobuz": "211305622"
+      },
+      "album": "Cruel Machine",
+      "duration": 259,
+      "isrc": "USHM22361777"
+    },
+    {
+      "artist": "New Build",
+      "title": "Misery Loves Company",
+      "services": {
+        "qobuz": "5057551"
+      },
+      "album": "Yesterday Was Lived and Lost",
+      "duration": 309,
+      "isrc": "GBBPW1100276"
+    },
+    {
+      "artist": "Soror Dolorosa",
+      "title": "Silver Square",
+      "services": {
+        "qobuz": "189621892"
+      },
+      "album": "No More Heroes",
+      "duration": 344,
+      "isrc": "DES561618901"
+    },
+    {
+      "artist": "Sonsombre",
+      "title": "One Thousand Graves",
+      "services": {
+        "qobuz": "82755556"
+      },
+      "album": "One Thousand Graves",
+      "duration": 268,
+      "isrc": "QM6XS1902778"
+    },
+    {
+      "artist": "BAD AGE",
+      "title": "I'm your Shadow",
+      "services": {
+        "qobuz": "374436307"
+      },
+      "album": "Among the Ruins",
+      "duration": 251,
+      "isrc": "DEZC62545348"
+    },
+    {
+      "artist": "Astari Nite",
+      "title": "Unfulfilled Promise",
+      "services": {
+        "qobuz": "51134842"
+      },
+      "album": "Midnight Conversations",
+      "duration": 236,
+      "isrc": "QM6XS1806918"
+    },
+    {
+      "artist": "The Awakening",
+      "title": "The Dark Romantics (XV)",
+      "services": {
+        "qobuz": "69293148"
+      },
+      "album": "Anthology XV",
+      "duration": 285,
+      "isrc": "USCGJ1367415"
+    },
+    {
+      "artist": "Nox Novacula",
+      "title": "Cursed",
+      "services": {
+        "qobuz": "260172914"
+      },
+      "album": "Feed The Fire",
+      "duration": 266,
+      "isrc": "QM6MZ2416662"
+    },
+    {
+      "artist": "Kill Shelter",
+      "title": "Cover Me (feat. The Bellwether Syndicate)",
+      "services": {
+        "qobuz": "159601840"
+      },
+      "album": "Asylum",
+      "duration": 263,
+      "isrc": "FR9W12203069"
+    },
+    {
+      "artist": "Vision Video",
+      "title": "In My Side",
+      "services": {
+        "qobuz": "114285455"
+      },
+      "album": "Inked in Red",
+      "duration": 225,
+      "isrc": "QM4TX2069233"
+    }
+  ]
+}

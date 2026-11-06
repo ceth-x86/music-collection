@@ -1,0 +1,1010 @@
+{
+  "name": "Genre: Pop Punk",
+  "services": {
+    "qobuz": "66736703",
+    "tidal": "be53a8ad-a57a-4f55-98c7-3a26c7c11679"
+  },
+  "description": "Imported genre playlist: Pop Punk.",
+  "tracks": [
+    {
+      "artist": "Descendents",
+      "title": "Suburban Home",
+      "services": {
+        "qobuz": "150069632"
+      },
+      "album": "Milo Goes to College",
+      "duration": 100,
+      "isrc": "USA370538803"
+    },
+    {
+      "artist": "Shonen Knife",
+      "title": "Twist Barbie",
+      "services": {
+        "qobuz": "92309824"
+      },
+      "album": "Shonen Knife on Audiotree Live",
+      "duration": 138,
+      "isrc": "QM99V1810102"
+    },
+    {
+      "artist": "ALL",
+      "title": "She's My Ex",
+      "services": {
+        "qobuz": "63484817"
+      },
+      "album": "Allroy's Revenge",
+      "duration": 197,
+      "isrc": "USA370538662"
+    },
+    {
+      "artist": "Screeching Weasel",
+      "title": "My Brain Hurts",
+      "services": {
+        "qobuz": "221334650"
+      },
+      "album": "My Brain Hurts",
+      "duration": 187,
+      "isrc": "USB750512014"
+    },
+    {
+      "artist": "Big Star",
+      "title": "Big Black Car",
+      "services": {
+        "qobuz": "35533252"
+      },
+      "album": "Complete Third",
+      "duration": 281,
+      "isrc": "QMWHB1606971"
+    },
+    {
+      "artist": "The Mitchell Brothers",
+      "title": "Excuse My Brother",
+      "services": {
+        "qobuz": "2684079"
+      },
+      "album": "A Breath Of Fresh Attire",
+      "duration": 320,
+      "isrc": "GBAHT0500342"
+    },
+    {
+      "artist": "The Queers",
+      "title": "Punk Rock Girls",
+      "services": {
+        "qobuz": "273836450"
+      },
+      "album": "Don't Back Down",
+      "duration": 162,
+      "isrc": "USB750700062"
+    },
+    {
+      "artist": "J. Church",
+      "title": "Yellow, Blue and Green",
+      "services": {
+        "qobuz": "34908494"
+      },
+      "album": "Open Road: The Allied Years",
+      "duration": 197,
+      "isrc": "US4KC0722808"
+    },
+    {
+      "artist": "Pansy Division",
+      "title": "Fem in a Black Leather Jacket",
+      "services": {
+        "qobuz": "185672357"
+      },
+      "album": "The Essential Pansy Division",
+      "duration": 123,
+      "isrc": "QMPKX1602082"
+    },
+    {
+      "artist": "The Muffs",
+      "title": "Lucky Guy",
+      "services": {
+        "qobuz": "2005863"
+      },
+      "album": "The Muffs",
+      "duration": 167,
+      "isrc": "USWB10104467"
+    },
+    {
+      "artist": "Green Day",
+      "title": "Basket Case",
+      "services": {
+        "qobuz": "35615398"
+      },
+      "album": "Dookie",
+      "duration": 182,
+      "isrc": "USRE11600554"
+    },
+    {
+      "artist": "The Offspring",
+      "title": "Self Esteem",
+      "services": {
+        "qobuz": "77654452"
+      },
+      "album": "Smash",
+      "duration": 257,
+      "isrc": "USEP40710208"
+    },
+    {
+      "artist": "Smoking Popes",
+      "title": "Need You Around",
+      "services": {
+        "qobuz": "118264755"
+      },
+      "album": "At Metro",
+      "duration": 225,
+      "isrc": "USVIC0629515"
+    },
+    {
+      "artist": "Ahmad Jamal",
+      "title": "The Girl Next Door",
+      "services": {
+        "qobuz": "3955089"
+      },
+      "album": "Ahmad's Blues",
+      "duration": 206,
+      "isrc": "USGR10200602"
+    },
+    {
+      "artist": "The Mr. T Experience",
+      "title": "Even Hitler Had a Girlfriend",
+      "services": {
+        "qobuz": "70951785"
+      },
+      "album": "Our Bodies Our Selves",
+      "duration": 159,
+      "isrc": "USA561079818"
+    },
+    {
+      "artist": "Nerf Herder",
+      "title": "Van Halen",
+      "services": {
+        "qobuz": "214700"
+      },
+      "album": "Nerf Herder",
+      "duration": 218,
+      "isrc": "USAR19600250"
+    },
+    {
+      "artist": "The Vandals",
+      "title": "My Girlfriend's Dead",
+      "services": {
+        "qobuz": "16846559"
+      },
+      "album": "Hitler Bad, Vandals Good",
+      "duration": 160,
+      "isrc": "USNRR0400198"
+    },
+    {
+      "artist": "blink-182",
+      "title": "Dammit",
+      "services": {
+        "qobuz": "115401065"
+      },
+      "album": "Dude Ranch",
+      "duration": 165,
+      "isrc": "USCR29752442"
+    },
+    {
+      "artist": "MxPx",
+      "title": "Punk Rawk Show",
+      "services": {
+        "qobuz": "1958604"
+      },
+      "album": "Teenage Politics",
+      "duration": 152,
+      "isrc": "USTN19555645"
+    },
+    {
+      "artist": "Fenix TX",
+      "title": "All My Fault",
+      "services": {
+        "qobuz": "3880876"
+      },
+      "album": "Fenix TX",
+      "duration": 168,
+      "isrc": "USMC19959243"
+    },
+    {
+      "artist": "Chixdiggit!",
+      "title": "Chupacabras",
+      "services": {
+        "qobuz": "347862285"
+      },
+      "album": "Born on the First of July",
+      "duration": 120,
+      "isrc": "USFW40501604"
+    },
+    {
+      "artist": "Huntingtons",
+      "title": "Alison's The Bomb",
+      "services": {
+        "qobuz": "282824171"
+      },
+      "album": "Ciao Italia! Live At Punk Rock Raduno 5",
+      "duration": 120,
+      "isrc": "QZTB32478956"
+    },
+    {
+      "artist": "The Ataris",
+      "title": "San Dimas High School Football Rules",
+      "services": {
+        "qobuz": "17947169"
+      },
+      "album": "Blue Skies, Broken Hearts...Next 12 Exits",
+      "duration": 167,
+      "isrc": "USKFR0410058"
+    },
+    {
+      "artist": "The Bouncing Souls",
+      "title": "Hopeless Romantic",
+      "services": {
+        "qobuz": "77630865"
+      },
+      "album": "Hopeless Romantic",
+      "duration": 127,
+      "isrc": "USEP40343301"
+    },
+    {
+      "artist": "Lit",
+      "title": "My Own Worst Enemy",
+      "services": {
+        "qobuz": "208867"
+      },
+      "album": "A Place In The Sun",
+      "duration": 169,
+      "isrc": "USRC19808159"
+    },
+    {
+      "artist": "GOB",
+      "title": "Soda",
+      "services": {
+        "qobuz": "127550405"
+      },
+      "album": "Too Late\u2026 No Friends",
+      "duration": 95,
+      "isrc": "CAN119900201"
+    },
+    {
+      "artist": "Allister",
+      "title": "Somewhere On Fullerton",
+      "services": {
+        "qobuz": "134273269"
+      },
+      "album": "Last Stop Suburbia",
+      "duration": 159,
+      "isrc": "USDTR0300111"
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "Guilty as Sin?",
+      "services": {
+        "qobuz": "263179387"
+      },
+      "album": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+      "duration": 254,
+      "isrc": "USUG12401036"
+    },
+    {
+      "artist": "SR-71",
+      "title": "Right Now",
+      "services": {
+        "qobuz": "209334"
+      },
+      "album": "Now You See Inside",
+      "duration": 167,
+      "isrc": "USRC10000206"
+    },
+    {
+      "artist": "Mest",
+      "title": "Drawing Board",
+      "services": {
+        "qobuz": "2113875"
+      },
+      "album": "Destination Unknown",
+      "duration": 211,
+      "isrc": "USMV20000072"
+    },
+    {
+      "artist": "Jamies Elsewhere",
+      "title": "The Illusionist (feat. Tyler Carter)",
+      "services": {
+        "qobuz": "124039021"
+      },
+      "album": "Rebel-Revive",
+      "duration": 198,
+      "isrc": "TCABT1491653"
+    },
+    {
+      "artist": "RIDDLIN' KIDS",
+      "title": "I Feel Fine",
+      "services": {
+        "qobuz": "180980073"
+      },
+      "album": "Hurry Up and Wait",
+      "duration": 157,
+      "isrc": "USSM10114040"
+    },
+    {
+      "artist": "Bodyjar",
+      "title": "Not the Same",
+      "services": {
+        "qobuz": "285221885"
+      },
+      "album": "How It Works",
+      "duration": 189,
+      "isrc": "USA2P1634993"
+    },
+    {
+      "artist": "Slick Shoes",
+      "title": "Angel",
+      "services": {
+        "qobuz": "931171"
+      },
+      "album": "Wake Up Screaming",
+      "duration": 136,
+      "isrc": "USTN10053150"
+    },
+    {
+      "artist": "Sum 41",
+      "title": "Fat Lip",
+      "services": {
+        "qobuz": "3879618"
+      },
+      "album": "All Killer, No Filler",
+      "duration": 178,
+      "isrc": "USIR20110124"
+    },
+    {
+      "artist": "Alkaline Trio",
+      "title": "Stupid Kid",
+      "services": {
+        "qobuz": "389022491"
+      },
+      "album": "From Here To Infirmary",
+      "duration": 143,
+      "isrc": "USVR90235304"
+    },
+    {
+      "artist": "Rufio",
+      "title": "Above Me",
+      "services": {
+        "qobuz": "59926706"
+      },
+      "album": "Perhaps, I Suppose...",
+      "duration": 192,
+      "isrc": "US28B0500370"
+    },
+    {
+      "artist": "The Apers",
+      "title": "Eyes Wide Open",
+      "services": {
+        "qobuz": "60616871"
+      },
+      "album": "S/T",
+      "duration": 166,
+      "isrc": "US4ZV1200092"
+    },
+    {
+      "artist": "New Found Glory",
+      "title": "My Friends Over You",
+      "services": {
+        "qobuz": "64367367"
+      },
+      "album": "Sticks And Stones",
+      "duration": 219,
+      "isrc": "USMC10200363"
+    },
+    {
+      "artist": "Good Charlotte",
+      "title": "The Anthem",
+      "services": {
+        "qobuz": "419471"
+      },
+      "album": "The Young and The Hopeless",
+      "duration": 175,
+      "isrc": "USSM10209827"
+    },
+    {
+      "artist": "Simple Plan",
+      "title": "I'd Do Anything",
+      "services": {
+        "qobuz": "47765956"
+      },
+      "album": "No Pads, No Helmets...Just Balls",
+      "duration": 197,
+      "isrc": "USAT20200123"
+    },
+    {
+      "artist": "Avril Lavigne",
+      "title": "Sk8er Boi",
+      "services": {
+        "qobuz": "12986019"
+      },
+      "album": "Let Go",
+      "duration": 204,
+      "isrc": "USAR10200229"
+    },
+    {
+      "artist": "Bowling For Soup",
+      "title": "Girl All the Bad Guys Want",
+      "services": {
+        "qobuz": "7602008"
+      },
+      "album": "Drunk Enough To Dance",
+      "duration": 197,
+      "isrc": "USJI10200080"
+    },
+    {
+      "artist": "The Starting Line",
+      "title": "The Best Of Me",
+      "services": {
+        "qobuz": "134273240"
+      },
+      "album": "The Make Yourself At Home - EP",
+      "duration": 284,
+      "isrc": "USDTR0300060"
+    },
+    {
+      "artist": "Something Corporate",
+      "title": "Punk Rock Princess",
+      "services": {
+        "qobuz": "115882484"
+      },
+      "album": "Played In Space: The Best of Something Corporate",
+      "duration": 233,
+      "isrc": "USMC10111819"
+    },
+    {
+      "artist": "Midtown",
+      "title": "Give It Up",
+      "services": {
+        "qobuz": "47160723"
+      },
+      "album": "Forget What You Know",
+      "duration": 219,
+      "isrc": "USSM10404531"
+    },
+    {
+      "artist": "Home Grown",
+      "title": "You're Not Alone",
+      "services": {
+        "qobuz": "134269986"
+      },
+      "album": "Kings Of Pop",
+      "duration": 225,
+      "isrc": "USDTR0300118"
+    },
+    {
+      "artist": "Tsunami Bomb",
+      "title": "Take the Reins",
+      "services": {
+        "qobuz": "196256809"
+      },
+      "album": "Live at the Glasshouse",
+      "duration": 181,
+      "isrc": "QM6XS2202781"
+    },
+    {
+      "artist": "The All-American Rejects",
+      "title": "Swing, Swing",
+      "services": {
+        "qobuz": "61110335"
+      },
+      "album": "The All-American Rejects",
+      "duration": 233,
+      "isrc": "USDW10200529"
+    },
+    {
+      "artist": "Yellowcard",
+      "title": "Ocean Avenue",
+      "services": {
+        "qobuz": "4465269"
+      },
+      "album": "Ocean Avenue",
+      "duration": 197,
+      "isrc": "USCA20300233"
+    },
+    {
+      "artist": "Motion City Soundtrack",
+      "title": "The Future Freaks Me Out",
+      "services": {
+        "qobuz": "77639852"
+      },
+      "album": "I Am The Movie",
+      "duration": 216,
+      "isrc": "USEP40377103"
+    },
+    {
+      "artist": "Spitalfield",
+      "title": "I Loved The Way She Said L.A.",
+      "services": {
+        "qobuz": "118265757"
+      },
+      "album": "Remember Right Now",
+      "duration": 198,
+      "isrc": "USVIC0320204"
+    },
+    {
+      "artist": "Dirty Vegas",
+      "title": "Lost Not Found",
+      "services": {
+        "qobuz": "337534487"
+      },
+      "album": "Days Go By (The Retrospective)",
+      "duration": 245,
+      "isrc": "GBAYE0200655"
+    },
+    {
+      "artist": "Autopilot Off",
+      "title": "Clockwork",
+      "services": {
+        "qobuz": "57225942"
+      },
+      "album": "Make A Sound",
+      "duration": 183,
+      "isrc": "USIR20300476"
+    },
+    {
+      "artist": "Sugarcult",
+      "title": "Memory",
+      "services": {
+        "qobuz": "61897149"
+      },
+      "album": "Bouncing Off The Walls",
+      "duration": 223,
+      "isrc": "USADD0330504"
+    },
+    {
+      "artist": "The Matches",
+      "title": "Chain Me Free",
+      "services": {
+        "qobuz": "124916659"
+      },
+      "album": "E Von Dahl Killed the Locals",
+      "duration": 194,
+      "isrc": "TCADR1806979"
+    },
+    {
+      "artist": "Relient k",
+      "title": "Be My Escape",
+      "services": {
+        "qobuz": "102412592"
+      },
+      "album": "Mmhmm",
+      "duration": 240,
+      "isrc": "USGOT0406068"
+    },
+    {
+      "artist": "The F-Ups",
+      "title": "Lazy Generation",
+      "services": {
+        "qobuz": "4914682"
+      },
+      "album": "The F-Ups",
+      "duration": 144,
+      "isrc": "USCA20400457"
+    },
+    {
+      "artist": "The Academy Is...",
+      "title": "Slow Down",
+      "services": {
+        "qobuz": "252969248"
+      },
+      "album": "EMO Bangers",
+      "duration": 242,
+      "isrc": "US56V0407103"
+    },
+    {
+      "artist": "Fall Out Boy",
+      "title": "Sugar, We're Goin Down",
+      "services": {
+        "qobuz": "363229677"
+      },
+      "album": "From Under The Cork Tree",
+      "duration": 229,
+      "isrc": "USIR20500201"
+    },
+    {
+      "artist": "Cartel",
+      "title": "Honestly",
+      "services": {
+        "qobuz": "46990063"
+      },
+      "album": "Chroma",
+      "duration": 207,
+      "isrc": "US28B0500335"
+    },
+    {
+      "artist": "Houston Calls",
+      "title": "Bob and Bonnie",
+      "services": {
+        "qobuz": "144021793"
+      },
+      "album": "A Collection of Short Stories",
+      "duration": 225,
+      "isrc": "GBAJE0503700"
+    },
+    {
+      "artist": "Hit The Lights",
+      "title": "Bodybag",
+      "services": {
+        "qobuz": "80183777"
+      },
+      "album": "This is a Stick Up\u2026don't Make It a Murder",
+      "duration": 189,
+      "isrc": "US72W0610186"
+    },
+    {
+      "artist": "Cute Is What We Aim For",
+      "title": "The Curse of Curves",
+      "services": {
+        "qobuz": "2932720"
+      },
+      "album": "The Curse Of Curves (Digital Download)",
+      "duration": 203,
+      "isrc": "US56V0608708"
+    },
+    {
+      "artist": "Boys Like Girls",
+      "title": "The Great Escape",
+      "services": {
+        "qobuz": "46882384"
+      },
+      "album": "Boys Like Girls",
+      "duration": 206,
+      "isrc": "USSM10603069"
+    },
+    {
+      "artist": "Alanis Morissette",
+      "title": "You Oughta Know (Jimmy the Saint Blend) / Your House (A Capella) [2015 Remaster]",
+      "services": {
+        "qobuz": "27891015"
+      },
+      "album": "Jagged Little Pill",
+      "duration": 490,
+      "isrc": "USMV21500048"
+    },
+    {
+      "artist": "Paramore",
+      "title": "Misery Business",
+      "services": {
+        "qobuz": "11091746"
+      },
+      "album": "Riot!",
+      "duration": 211,
+      "isrc": "USAT21300089"
+    },
+    {
+      "artist": "All Time Low",
+      "title": "Dear Maria, Count Me In",
+      "services": {
+        "qobuz": "120902917"
+      },
+      "album": "Dear Maria, Count Me In",
+      "duration": 182,
+      "isrc": "USHR20747017"
+    },
+    {
+      "artist": "We The Kings",
+      "title": "Check Yes, Juliet",
+      "services": {
+        "qobuz": "388781862"
+      },
+      "album": "So Far",
+      "duration": 220,
+      "isrc": "USKFE0700003"
+    },
+    {
+      "artist": "Mayday Parade",
+      "title": "Jamie All Over",
+      "services": {
+        "qobuz": "39283665"
+      },
+      "album": "A Lesson In Romantics",
+      "duration": 215,
+      "isrc": "US5260709901"
+    },
+    {
+      "artist": "Faber Drive",
+      "title": "Tongue Tied",
+      "services": {
+        "qobuz": "412868168"
+      },
+      "album": "Seven Second Surgery",
+      "duration": 195,
+      "isrc": "CAB392504831"
+    },
+    {
+      "artist": "Valencia",
+      "title": "The Space Between",
+      "services": {
+        "qobuz": "246038196"
+      },
+      "album": "This Could be a Possibility",
+      "duration": 217,
+      "isrc": "USBAL0500001"
+    },
+    {
+      "artist": "The Maine",
+      "title": "Into Your Arms",
+      "services": {
+        "qobuz": "38761772"
+      },
+      "album": "Can't Stop Won't Stop",
+      "duration": 239,
+      "isrc": "US5260811205"
+    },
+    {
+      "artist": "Forever The Sickest Kids",
+      "title": "Whoa Oh! (Me vs Everyone)",
+      "services": {
+        "qobuz": "22393753"
+      },
+      "album": "Underdog Alma Mater",
+      "duration": 205,
+      "isrc": "USUM70808193"
+    },
+    {
+      "artist": "Hey Monday",
+      "title": "Homecoming",
+      "services": {
+        "qobuz": "441458"
+      },
+      "album": "Hold On Tight",
+      "duration": 238,
+      "isrc": "USSM10803206"
+    },
+    {
+      "artist": "The Summer Set",
+      "title": "Chelsea",
+      "services": {
+        "qobuz": "54447044"
+      },
+      "album": "Love Like This",
+      "duration": 160,
+      "isrc": "USRZR0904703"
+    },
+    {
+      "artist": "Every Avenue",
+      "title": "Tell Me I'm A Wreck",
+      "services": {
+        "qobuz": "41145882"
+      },
+      "album": "Picture Perfect",
+      "duration": 220,
+      "isrc": "US5260912803"
+    },
+    {
+      "artist": "Fireworks",
+      "title": "Detroit",
+      "services": {
+        "qobuz": "80188422"
+      },
+      "album": "All I Have to Offer Is My Own Confusion",
+      "duration": 236,
+      "isrc": "US72W1110795"
+    },
+    {
+      "artist": "Man Overboard",
+      "title": "Love Your Friends, Die Laughing",
+      "services": {
+        "qobuz": "383053367"
+      },
+      "album": "Man Overboard",
+      "duration": 141,
+      "isrc": "USEK71217313"
+    },
+    {
+      "artist": "The Wonder Years",
+      "title": "Came Out Swinging",
+      "services": {
+        "qobuz": "120901804"
+      },
+      "album": "Suburbia I've Given You All and Now I'm Nothing",
+      "duration": 244,
+      "isrc": "USHR21166002"
+    },
+    {
+      "artist": "Transit",
+      "title": "Long Lost Friends",
+      "services": {
+        "qobuz": "380480294"
+      },
+      "album": "Listen & Forgive",
+      "duration": 214,
+      "isrc": "USEK71114302"
+    },
+    {
+      "artist": "State Champs",
+      "title": "Secrets",
+      "services": {
+        "qobuz": "322153172"
+      },
+      "album": "Around the World and Back",
+      "duration": 224,
+      "isrc": "USSTT1500132"
+    },
+    {
+      "artist": "The Story So Far",
+      "title": "Quicksand",
+      "services": {
+        "qobuz": "322148924"
+      },
+      "album": "Under Soil and Dirt",
+      "duration": 158,
+      "isrc": "USSTT1100026"
+    },
+    {
+      "artist": "Real Friends",
+      "title": "I've Given Up on You",
+      "services": {
+        "qobuz": "96715878"
+      },
+      "album": "Put Yourself Back Together",
+      "duration": 164,
+      "isrc": "USQY51379754"
+    },
+    {
+      "artist": "Neck Deep",
+      "title": "Can't Kick Up The Roots",
+      "services": {
+        "qobuz": "120898344"
+      },
+      "album": "Life's Not Out To Get You",
+      "duration": 169,
+      "isrc": "USHR21579003"
+    },
+    {
+      "artist": "Knuckle Puck",
+      "title": "Pretense",
+      "services": {
+        "qobuz": "385576051"
+      },
+      "album": "Copacetic",
+      "duration": 185,
+      "isrc": "USEK71527810"
+    },
+    {
+      "artist": "Seaway",
+      "title": "Best Mistake",
+      "services": {
+        "qobuz": "322153010"
+      },
+      "album": "Colour Blind",
+      "duration": 197,
+      "isrc": "USSTT1500144"
+    },
+    {
+      "artist": "As It Is",
+      "title": "Dial Tones",
+      "services": {
+        "qobuz": "31130473"
+      },
+      "album": "Never Happy, Ever After",
+      "duration": 200,
+      "isrc": "US5261520899"
+    },
+    {
+      "artist": "Waterparks",
+      "title": "Stupid for You",
+      "services": {
+        "qobuz": "36025283"
+      },
+      "album": "Double Dare",
+      "duration": 191,
+      "isrc": "US3X51636703"
+    },
+    {
+      "artist": "Boston Manor",
+      "title": "Laika",
+      "services": {
+        "qobuz": "322129579"
+      },
+      "album": "Be Nothing.",
+      "duration": 197,
+      "isrc": "USSTT1600061"
+    },
+    {
+      "artist": "WSTR",
+      "title": "Footprints",
+      "services": {
+        "qobuz": "120898893"
+      },
+      "album": "Red, Green Or Inbetween",
+      "duration": 189,
+      "isrc": "USZZ81610027"
+    },
+    {
+      "artist": "Stand Atlantic",
+      "title": "Lavender Bones",
+      "services": {
+        "qobuz": "120897665"
+      },
+      "album": "Skinny Dipping",
+      "duration": 204,
+      "isrc": "USHR21811801"
+    },
+    {
+      "artist": "Alex Melton",
+      "title": "my ex's best friend",
+      "services": {
+        "qobuz": "136496703"
+      },
+      "album": "my ex's best friend (Blink Version)",
+      "duration": 156,
+      "isrc": "QZNWU2141575"
+    },
+    {
+      "artist": "KennyHoopla",
+      "title": "how will i rest in peace if i'm buried by a highway?//",
+      "services": {
+        "qobuz": "92386268"
+      },
+      "album": "how will i rest in peace if i'm buried by a highway?//",
+      "duration": 218,
+      "isrc": "USQX92000282"
+    },
+    {
+      "artist": "jxdn",
+      "title": "ANGELS & DEMONS",
+      "services": {
+        "qobuz": "94312783"
+      },
+      "album": "ANGELS & DEMONS",
+      "duration": 160,
+      "isrc": "USAT22003132"
+    },
+    {
+      "artist": "Meet Me @ The Altar",
+      "title": "Garden",
+      "services": {
+        "qobuz": "103131867"
+      },
+      "album": "Garden",
+      "duration": 220,
+      "isrc": "USAT22005996"
+    },
+    {
+      "artist": "Willow",
+      "title": "t r a n s p a r e n t s o u l",
+      "services": {
+        "qobuz": "122031268"
+      },
+      "album": "lately I feel EVERYTHING",
+      "duration": 168,
+      "isrc": "QMJMT2103571"
+    },
+    {
+      "artist": "Maggie Lindemann",
+      "title": "break me!",
+      "services": {
+        "qobuz": "251702009"
+      },
+      "album": "SUCKERPUNCH (deluxe version)",
+      "duration": 153,
+      "isrc": "QZMLX2000065"
+    },
+    {
+      "artist": "The Linda Lindas",
+      "title": "Growing Up",
+      "services": {
+        "qobuz": "143179099"
+      },
+      "album": "Growing Up",
+      "duration": 186,
+      "isrc": "USEP42145003"
+    },
+    {
+      "artist": "Hot Milk",
+      "title": "Candy Coated Lie$",
+      "services": {
+        "qobuz": "125675808"
+      },
+      "album": "Candy Coated Lie$",
+      "duration": 177,
+      "isrc": "TCAEN1932970"
+    }
+  ]
+}

@@ -1,0 +1,929 @@
+{
+  "name": "Genre: Glam Rock",
+  "services": {
+    "qobuz": "66737483"
+  },
+  "description": "Imported genre playlist: Glam Rock.",
+  "tracks": [
+    {
+      "artist": "Slade",
+      "title": "Coz I Luv You",
+      "services": {
+        "qobuz": "385315516"
+      },
+      "album": "Sladest",
+      "duration": 205,
+      "isrc": "GBC267100020"
+    },
+    {
+      "artist": "T. Rex",
+      "title": "Bang a Gong (Get It On)",
+      "services": {
+        "qobuz": "127894048"
+      },
+      "album": "Bang a Gong (Get It On)",
+      "duration": 274,
+      "isrc": "QM6XS2101098"
+    },
+    {
+      "artist": "Sweet",
+      "title": "Block Buster!",
+      "services": {
+        "qobuz": "31937528"
+      },
+      "album": "Strung Up (New Extended Version)",
+      "duration": 332,
+      "isrc": "DEC761500011"
+    },
+    {
+      "artist": "The Glitter Boys",
+      "title": "Rock and Roll Part 2",
+      "services": {
+        "qobuz": "34581253"
+      },
+      "album": "One Hit Wonders (Re-Recorded Versions)",
+      "duration": 183,
+      "isrc": "USA560833529"
+    },
+    {
+      "artist": "Elton John",
+      "title": "Rocket Man",
+      "services": {
+        "qobuz": "11848573"
+      },
+      "album": "One Night Only",
+      "duration": 343,
+      "isrc": "GBF080000394"
+    },
+    {
+      "artist": "Alice Cooper",
+      "title": "School's Out",
+      "services": {
+        "qobuz": "208261694"
+      },
+      "album": "School's Out",
+      "duration": 209,
+      "isrc": "USRH12103120"
+    },
+    {
+      "artist": "Chicory Tip",
+      "title": "Son Of My Father",
+      "services": {
+        "qobuz": "89242305"
+      },
+      "album": "Son Of My Father",
+      "duration": 179,
+      "isrc": "USA560633099"
+    },
+    {
+      "artist": "David Bowie",
+      "title": "Starman",
+      "services": {
+        "qobuz": "25311765"
+      },
+      "album": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
+      "duration": 254,
+      "isrc": "USJT11500064"
+    },
+    {
+      "artist": "Roxy Music",
+      "title": "Virginia Plain",
+      "services": {
+        "qobuz": "1067049"
+      },
+      "album": "Roxy Music",
+      "duration": 178,
+      "isrc": "GBAAA9900179"
+    },
+    {
+      "artist": "Lou Reed",
+      "title": "Walk On the Wild Side",
+      "services": {
+        "qobuz": "23265470"
+      },
+      "album": "Transformer",
+      "duration": 255,
+      "isrc": "USRC17201948"
+    },
+    {
+      "artist": "Mott The Hoople",
+      "title": "All the Young Dudes",
+      "services": {
+        "qobuz": "361568"
+      },
+      "album": "All The Young Dudes",
+      "duration": 211,
+      "isrc": "USSM17200181"
+    },
+    {
+      "artist": "Blackfoot Sue",
+      "title": "Standing In The Road",
+      "services": {
+        "qobuz": "206053015"
+      },
+      "album": "45s - The Original Hit Singles",
+      "duration": 235,
+      "isrc": "GBBFF7200046"
+    },
+    {
+      "artist": "Lloyd Banks",
+      "title": "Automatic Pilot",
+      "services": {
+        "qobuz": "207504087"
+      },
+      "album": "The Course Of The Inevitable 3: Pieces Of My Pain",
+      "duration": 291,
+      "isrc": "USUYG1475435"
+    },
+    {
+      "artist": "Suzi Quatro",
+      "title": "Can The Can",
+      "services": {
+        "qobuz": "169171952"
+      },
+      "album": "Can The Can",
+      "duration": 217,
+      "isrc": "UKKP22200260"
+    },
+    {
+      "artist": "Donovan",
+      "title": "Cosmic Wheels",
+      "services": {
+        "qobuz": "249771666"
+      },
+      "album": "Cosmic Wheels",
+      "duration": 246,
+      "isrc": "IEACI0900064"
+    },
+    {
+      "artist": "Barry Blue",
+      "title": "Dancing On a Saturday Night",
+      "services": {
+        "qobuz": "290507200"
+      },
+      "album": "Hits of 1973",
+      "duration": 188,
+      "isrc": "FR10S1836679"
+    },
+    {
+      "artist": "Alvin Stardust",
+      "title": "My Coo Ca Choo",
+      "services": {
+        "qobuz": "3867654"
+      },
+      "album": "The Untouchable",
+      "duration": 167,
+      "isrc": "GBAHS0200284"
+    },
+    {
+      "artist": "New York Dolls",
+      "title": "Personality Crisis",
+      "services": {
+        "qobuz": "19008662"
+      },
+      "album": "New York Dolls",
+      "duration": 227,
+      "isrc": "USPR37300026"
+    },
+    {
+      "artist": "Wizzard",
+      "title": "See My Baby Jive",
+      "services": {
+        "qobuz": "7269075"
+      },
+      "album": "Wizzard Brew",
+      "duration": 300,
+      "isrc": "GBAYE0600806"
+    },
+    {
+      "artist": "Secos & Molhados",
+      "title": "Sangue latino",
+      "services": {
+        "qobuz": "2903303"
+      },
+      "album": "A Volta De Secos & Molhados",
+      "duration": 128,
+      "isrc": "BRWMB9802394"
+    },
+    {
+      "artist": "The Sensational Alex Harvey Band",
+      "title": "The Faith Healer",
+      "services": {
+        "qobuz": "120373877"
+      },
+      "album": "Next",
+      "duration": 430,
+      "isrc": "DEN120307206"
+    },
+    {
+      "artist": "Tame Impala",
+      "title": "'Cause I'm A Man",
+      "services": {
+        "qobuz": "24770698"
+      },
+      "album": "Currents",
+      "duration": 241,
+      "isrc": "AUUM71500298"
+    },
+    {
+      "artist": "Silverhead",
+      "title": "Hello New York",
+      "services": {
+        "qobuz": "148680163"
+      },
+      "album": "16 And Savaged",
+      "duration": 203,
+      "isrc": "QMFMF1526493"
+    },
+    {
+      "artist": "Brownsville Station",
+      "title": "Smokin' in the Boy's Room",
+      "services": {
+        "qobuz": "2940371"
+      },
+      "album": "Yeah!",
+      "duration": 176,
+      "isrc": "USAT20107576"
+    },
+    {
+      "artist": "Space Waltz",
+      "title": "Out On The Street",
+      "services": {
+        "qobuz": "210891760"
+      },
+      "album": "Space Waltz",
+      "duration": 195,
+      "isrc": "NZUM72200006"
+    },
+    {
+      "artist": "Kiss",
+      "title": "Strutter",
+      "services": {
+        "qobuz": "19998957"
+      },
+      "album": "Kiss",
+      "duration": 192,
+      "isrc": "USPR37409126"
+    },
+    {
+      "artist": "BIXBY",
+      "title": "dying to see you",
+      "services": {
+        "qobuz": "185444980"
+      },
+      "album": "dying to see you",
+      "duration": 141,
+      "isrc": "USAT22219589"
+    },
+    {
+      "artist": "The Glitter Band",
+      "title": "Angel Face",
+      "services": {
+        "qobuz": "52537023"
+      },
+      "album": "20 Glittering Greats - the original hit recordings",
+      "duration": 181,
+      "isrc": "GBBLG9700046"
+    },
+    {
+      "artist": "Skyhooks",
+      "title": "Horror Movie",
+      "services": {
+        "qobuz": "312924560"
+      },
+      "album": "Living In The 70's",
+      "duration": 229,
+      "isrc": "AUWA02400441"
+    },
+    {
+      "artist": "Queen",
+      "title": "Killer Queen",
+      "services": {
+        "qobuz": "427252073"
+      },
+      "album": "Greatest Hits In Japan",
+      "duration": 181,
+      "isrc": "GBUM71029606"
+    },
+    {
+      "artist": "Pilot",
+      "title": "Magic",
+      "services": {
+        "qobuz": "1762977"
+      },
+      "album": "From The Album Of The Same Name",
+      "duration": 186,
+      "isrc": "GBAYE7400052"
+    },
+    {
+      "artist": "Be Bop Deluxe",
+      "title": "Maid In Heaven",
+      "services": {
+        "qobuz": "291020983"
+      },
+      "album": "Futurama",
+      "duration": 149,
+      "isrc": "GBAYE7500302"
+    },
+    {
+      "artist": "The Rubettes",
+      "title": "Sugar Baby Love",
+      "services": {
+        "qobuz": "2597400"
+      },
+      "album": "The Very Best Of",
+      "duration": 210,
+      "isrc": "GBAKW7400099"
+    },
+    {
+      "artist": "Bay City Rollers",
+      "title": "Shang-a-Lang",
+      "services": {
+        "qobuz": "15209309"
+      },
+      "album": "Bay City Rollers",
+      "duration": 181,
+      "isrc": "USAR10000005"
+    },
+    {
+      "artist": "Sparks",
+      "title": "This Town Ain't Big Enough For Both Of Us",
+      "services": {
+        "qobuz": "13654987"
+      },
+      "album": "Kimono My House",
+      "duration": 184,
+      "isrc": "GBAAN7400025"
+    },
+    {
+      "artist": "Mud",
+      "title": "Tiger Feet",
+      "services": {
+        "qobuz": "4544270"
+      },
+      "album": "The Very Best Of Mud",
+      "duration": 230,
+      "isrc": "GBAYE7400036"
+    },
+    {
+      "artist": "Bryan Ferry",
+      "title": "The 'In' Crowd",
+      "services": {
+        "qobuz": "1067156"
+      },
+      "album": "Another Time, Another Place",
+      "duration": 276,
+      "isrc": "GBAAA9900235"
+    },
+    {
+      "artist": "Kenny",
+      "title": "The Bump",
+      "services": {
+        "qobuz": "359538094"
+      },
+      "album": "The Hits",
+      "duration": 155,
+      "isrc": "NLB127400620"
+    },
+    {
+      "artist": "David Essex",
+      "title": "Gonna Make You a Star",
+      "services": {
+        "qobuz": "12269413"
+      },
+      "album": "Reflections",
+      "duration": 197,
+      "isrc": "GB7QU1300069"
+    },
+    {
+      "artist": "Paper Lace",
+      "title": "The Night Chicago Died",
+      "services": {
+        "qobuz": "174678876"
+      },
+      "album": "\u2026And Other Bits Of Material",
+      "duration": 212,
+      "isrc": "GBUM72105385"
+    },
+    {
+      "artist": "Brian Eno",
+      "title": "Baby's On Fire",
+      "services": {
+        "qobuz": "4583086"
+      },
+      "album": "Here Come The Warm Jets",
+      "duration": 318,
+      "isrc": "GBAAA0400056"
+    },
+    {
+      "artist": "Mick Ronson",
+      "title": "Only After Dark",
+      "services": {
+        "qobuz": "75693769"
+      },
+      "album": "Slaughter on 10th Avenue",
+      "duration": 211,
+      "isrc": "GBBLY0903345"
+    },
+    {
+      "artist": "Heavy Metal Kids",
+      "title": "Delirious",
+      "services": {
+        "qobuz": "1744753"
+      },
+      "album": "Kitsch",
+      "duration": 224,
+      "isrc": "GBAYE0902552"
+    },
+    {
+      "artist": "Jet",
+      "title": "My River",
+      "services": {
+        "qobuz": "105496541"
+      },
+      "album": "Jet",
+      "duration": 254,
+      "isrc": "GBARL1000502"
+    },
+    {
+      "artist": "Hello",
+      "title": "New York Groove",
+      "services": {
+        "qobuz": "93885000"
+      },
+      "album": "Hello: The Albums",
+      "duration": 165,
+      "isrc": "GBBGF9810001"
+    },
+    {
+      "artist": "Ian Hunter",
+      "title": "Once Bitten, Twice Shy",
+      "services": {
+        "qobuz": "71697"
+      },
+      "album": "Once Bitten Twice Shy",
+      "duration": 232,
+      "isrc": "USSM10004441"
+    },
+    {
+      "artist": "The Arrows and Friends",
+      "title": "I Love Rock 'N Roll",
+      "services": {
+        "qobuz": "66780890"
+      },
+      "album": "Tawny Tracks",
+      "duration": 167,
+      "isrc": "USHM90543661"
+    },
+    {
+      "artist": "Steve Harley & Cockney Rebel",
+      "title": "Make Me Smile (Come Up And See Me)",
+      "services": {
+        "qobuz": "331484505"
+      },
+      "album": "Make Me Smile (Come Up And See Me)",
+      "duration": 196,
+      "isrc": "UKKP22500999"
+    },
+    {
+      "artist": "The Swingin' Canadians",
+      "title": "Boney Maronie",
+      "services": {
+        "qobuz": "359966239"
+      },
+      "album": "Kangaroo Hash",
+      "duration": 148,
+      "isrc": "USA2B2515369"
+    },
+    {
+      "artist": "Angel",
+      "title": "Tower",
+      "services": {
+        "qobuz": "54992026"
+      },
+      "album": "The Casablanca Years",
+      "duration": 417,
+      "isrc": "USDJ20200758"
+    },
+    {
+      "artist": "Ney Matogrosso",
+      "title": "Bandido coraz\u00f3n",
+      "services": {
+        "qobuz": "33169162"
+      },
+      "album": "Bandido (1976)",
+      "duration": 211,
+      "isrc": "BRWMB9804411"
+    },
+    {
+      "artist": "Doctors Of Madness",
+      "title": "So Many Ways To Hurt You",
+      "services": {
+        "qobuz": "238034008"
+      },
+      "album": "Dark Times",
+      "duration": 311,
+      "isrc": "UKPQW1900001"
+    },
+    {
+      "artist": "The Tubes",
+      "title": "White Punks On Dope",
+      "services": {
+        "qobuz": "112884518"
+      },
+      "album": "The Tubes",
+      "duration": 410,
+      "isrc": "USAM17504284"
+    },
+    {
+      "artist": "Metro",
+      "title": "Criminal World",
+      "services": {
+        "qobuz": "385662543"
+      },
+      "album": "Metro",
+      "duration": 327,
+      "isrc": "GBAJE7600462"
+    },
+    {
+      "artist": "Magnus Uggla",
+      "title": "Varning p\u00e5 stan",
+      "services": {
+        "qobuz": "47639326"
+      },
+      "album": "Va ska man ta livet av sig f\u00f6r n\u00e4r man \u00e4nd\u00e5 inte f\u00e5r h\u00f6ra snacket efter\u00e5t (Med bonussingel)",
+      "duration": 281,
+      "isrc": "SEBGA7701020"
+    },
+    {
+      "artist": "Nick Gilder",
+      "title": "Hot Child In The City",
+      "services": {
+        "qobuz": "4615985"
+      },
+      "album": "Hot Child In The City",
+      "duration": 214,
+      "isrc": "USCH39100017"
+    },
+    {
+      "artist": "Japan",
+      "title": "Adolescent Sex",
+      "services": {
+        "qobuz": "376441"
+      },
+      "album": "Adolescent Sex",
+      "duration": 223,
+      "isrc": "GBARL7800021"
+    },
+    {
+      "artist": "Girl",
+      "title": "Hollywood Tease",
+      "services": {
+        "qobuz": "391834443"
+      },
+      "album": "My Number: The Anthology",
+      "duration": 157,
+      "isrc": "GBAJE8000108"
+    },
+    {
+      "artist": "Hanoi Rocks",
+      "title": "Tragedy",
+      "services": {
+        "qobuz": "385657272"
+      },
+      "album": "Bangkok Shocks, Saigon Shakes, Hanoi Rocks",
+      "duration": 246,
+      "isrc": "GBAJE8100025"
+    },
+    {
+      "artist": "Zolar X",
+      "title": "Timeless",
+      "services": {
+        "qobuz": "149440157"
+      },
+      "album": "Timeless 50 Years (Remastered)",
+      "duration": 118,
+      "isrc": "QZS9R2200001"
+    },
+    {
+      "artist": "Specimen",
+      "title": "Kiss Kiss Bang Bang",
+      "services": {
+        "qobuz": "73575808"
+      },
+      "album": "Azoic",
+      "duration": 293,
+      "isrc": "GBCST8325401"
+    },
+    {
+      "artist": "Doctor And The Medics",
+      "title": "Spirit in the Sky",
+      "services": {
+        "qobuz": "79597438"
+      },
+      "album": "Essential Disco 80's",
+      "duration": 210,
+      "isrc": "QMDA61527592"
+    },
+    {
+      "artist": "MOTHER LOVE BONE",
+      "title": "Stardog Champion",
+      "services": {
+        "qobuz": "352100416"
+      },
+      "album": "Apple",
+      "duration": 297,
+      "isrc": "USF069026200"
+    },
+    {
+      "artist": "Manic Street Preachers",
+      "title": "You Love Us",
+      "services": {
+        "qobuz": "6987963"
+      },
+      "album": "Generation Terrorists (Legacy Edition)",
+      "duration": 258,
+      "isrc": "GBARL1201422"
+    },
+    {
+      "artist": "Suede",
+      "title": "Metal Mickey",
+      "services": {
+        "qobuz": "211902275"
+      },
+      "album": "Suede",
+      "duration": 210,
+      "isrc": "GBL2J1000005"
+    },
+    {
+      "artist": "D Generation",
+      "title": "No Way Out",
+      "services": {
+        "qobuz": "2645165"
+      },
+      "album": "No Lunch",
+      "duration": 240,
+      "isrc": "USSM19600703"
+    },
+    {
+      "artist": "Spacehog",
+      "title": "In the Meantime",
+      "services": {
+        "qobuz": "3006277"
+      },
+      "album": "Resident Alien",
+      "duration": 300,
+      "isrc": "USEE10250270"
+    },
+    {
+      "artist": "The Ark",
+      "title": "It Takes A Fool To Remain Sane",
+      "services": {
+        "qobuz": "5239100"
+      },
+      "album": "It Takes a Fool to Remain Sane",
+      "duration": 236,
+      "isrc": "SEVCA0002010"
+    },
+    {
+      "artist": "King Adora",
+      "title": "Smoulder",
+      "services": {
+        "qobuz": "91001910"
+      },
+      "album": "Vibrate You",
+      "duration": 127,
+      "isrc": "GBF080000348"
+    },
+    {
+      "artist": "Ray Charles",
+      "title": "I Can't Stop Lovin' You",
+      "services": {
+        "qobuz": "73167819"
+      },
+      "album": "The Stars of the Rock and Roll Hall of Fame Sing Their Classic Hits - Volume 5",
+      "duration": 254,
+      "isrc": "GBDAG9302161"
+    },
+    {
+      "artist": "Khruangbin",
+      "title": "People Everywhere (Still Alive)",
+      "services": {
+        "qobuz": "284367037"
+      },
+      "album": "The Universe Smiles Upon You",
+      "duration": 159,
+      "isrc": "GB5EM1501518"
+    },
+    {
+      "artist": "The Darkness",
+      "title": "I Believe in a Thing Called Love",
+      "services": {
+        "qobuz": "221407514"
+      },
+      "album": "I Believe in a Thing Called Love",
+      "duration": 311,
+      "isrc": "GBAHT2300122"
+    },
+    {
+      "artist": "White Hot Odyssey",
+      "title": "Subway Killer",
+      "services": {
+        "qobuz": "47367717"
+      },
+      "album": "White Hot Odyssey",
+      "duration": 225,
+      "isrc": "USMJ30400011"
+    },
+    {
+      "artist": "Supergroupies",
+      "title": "Bouncin'",
+      "services": {
+        "qobuz": "237765711"
+      },
+      "album": "Supergroupies",
+      "duration": 163,
+      "isrc": "GBHLW0610002"
+    },
+    {
+      "artist": "Sohodolls",
+      "title": "Stripper",
+      "services": {
+        "qobuz": "37308565"
+      },
+      "album": "Ribbed Music for the Numb Generation",
+      "duration": 216,
+      "isrc": "GBHGV0700019"
+    },
+    {
+      "artist": "Hot Mulligan",
+      "title": "Shouldn\u2019t Have a Leg Hole But I Do",
+      "services": {
+        "qobuz": "187900292"
+      },
+      "album": "Why Would I Watch",
+      "duration": 104,
+      "isrc": "QZNWP2371501"
+    },
+    {
+      "artist": "Foxy Shazam",
+      "title": "Unstoppable",
+      "services": {
+        "qobuz": "2114446"
+      },
+      "album": "Foxy Shazam",
+      "duration": 213,
+      "isrc": "USRE11000001"
+    },
+    {
+      "artist": "Giuda",
+      "title": "Racey Roller",
+      "services": {
+        "qobuz": "120057305"
+      },
+      "album": "Racey Roller",
+      "duration": 221,
+      "isrc": "GBSMU4891698"
+    },
+    {
+      "artist": "Smith Westerns",
+      "title": "Weekend",
+      "services": {
+        "qobuz": "3504498"
+      },
+      "album": "Dye It Blonde",
+      "duration": 202,
+      "isrc": "GBCEL1100086"
+    },
+    {
+      "artist": "Prima Donna",
+      "title": "Doll Face Baby",
+      "services": {
+        "qobuz": "72783177"
+      },
+      "album": "After Hours",
+      "duration": 187,
+      "isrc": "US52Z0810063"
+    },
+    {
+      "artist": "Grace Jones",
+      "title": "The Fashion Show",
+      "services": {
+        "qobuz": "120786082"
+      },
+      "album": "Slave To The Rhythm",
+      "duration": 386,
+      "isrc": "USIR28700002"
+    },
+    {
+      "artist": "Diane Coffee",
+      "title": "Spring Breathes",
+      "services": {
+        "qobuz": "25034729"
+      },
+      "album": "Everybody's a Good Dog",
+      "duration": 304,
+      "isrc": "US78L1513201"
+    },
+    {
+      "artist": "The Struts",
+      "title": "Could Have Been Me",
+      "services": {
+        "qobuz": "32506397"
+      },
+      "album": "Everybody Wants",
+      "duration": 187,
+      "isrc": "GBUM71304611"
+    },
+    {
+      "artist": "Semi Precious Weapons",
+      "title": "Magnetic Baby",
+      "services": {
+        "qobuz": "2171436"
+      },
+      "album": "You Love You",
+      "duration": 164,
+      "isrc": "USUM70922999"
+    },
+    {
+      "artist": "Sincerely, Kyle",
+      "title": "Eye Of The Hurricane",
+      "services": {
+        "qobuz": "317568772"
+      },
+      "album": "The Story Of A Hopeful Romantic",
+      "duration": 162,
+      "isrc": "QZL382564316"
+    },
+    {
+      "artist": "The Lemon Twigs",
+      "title": "As Long As We're Together",
+      "services": {
+        "qobuz": "36840381"
+      },
+      "album": "Do Hollywood",
+      "duration": 303,
+      "isrc": "GBAFL1600336"
+    },
+    {
+      "artist": "Starbenders",
+      "title": "Powder",
+      "services": {
+        "qobuz": "125256552"
+      },
+      "album": "Heavy Petting",
+      "duration": 230,
+      "isrc": "TCACN1679336"
+    },
+    {
+      "artist": "Cait Ceol",
+      "title": "Running Away",
+      "services": {
+        "qobuz": "417369920"
+      },
+      "album": "Running Away",
+      "duration": 193,
+      "isrc": "QT6642647859"
+    },
+    {
+      "artist": "Palaye Royale",
+      "title": "Lonely",
+      "services": {
+        "qobuz": "338486972"
+      },
+      "album": "The Bastards",
+      "duration": 186,
+      "isrc": "USYFZ2031305"
+    },
+    {
+      "artist": "HMLTD",
+      "title": "To The Door",
+      "services": {
+        "qobuz": "86705259"
+      },
+      "album": "West of Eden",
+      "duration": 199,
+      "isrc": "GBJET1900005"
+    },
+    {
+      "artist": "M\u00e5neskin",
+      "title": "ZITTI E BUONI",
+      "services": {
+        "qobuz": "116790087"
+      },
+      "album": "Teatro d'ira - Vol. I",
+      "duration": 194,
+      "isrc": "ITB002100112"
+    },
+    {
+      "artist": "Buzzard Buzzard Buzzard",
+      "title": "Double Denim Hop",
+      "services": {
+        "qobuz": "94855779"
+      },
+      "album": "The Non-Stop EP",
+      "duration": 210,
+      "isrc": "GB6TW2000136"
+    }
+  ]
+}

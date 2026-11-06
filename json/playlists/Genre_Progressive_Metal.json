@@ -1,0 +1,990 @@
+{
+  "name": "Genre: Progressive Metal",
+  "services": {
+    "qobuz": "66734992",
+    "tidal": "22a3ae67-fd96-42cb-8e2b-e481f3adac34"
+  },
+  "description": "Imported genre playlist: Progressive Metal.",
+  "tracks": [
+    {
+      "artist": "Queensr\u00ffche",
+      "title": "Eyes Of A Stranger",
+      "services": {
+        "qobuz": "131792986"
+      },
+      "album": "Operation: Mindcrime",
+      "duration": 396,
+      "isrc": "USEM30200425"
+    },
+    {
+      "artist": "Crimson Glory",
+      "title": "Valhalla",
+      "services": {
+        "qobuz": "188585746"
+      },
+      "album": "Crimson Glory",
+      "duration": 229,
+      "isrc": "TCAAR1038401"
+    },
+    {
+      "artist": "Watchtower",
+      "title": "Control And Resistance",
+      "services": {
+        "qobuz": "385631007"
+      },
+      "album": "Control and Resistance",
+      "duration": 418,
+      "isrc": "GBAJE0609505"
+    },
+    {
+      "artist": "Savatage",
+      "title": "Gutter Ballet",
+      "services": {
+        "qobuz": "33022111"
+      },
+      "album": "Gutter Ballet (2011 Edition)",
+      "duration": 380,
+      "isrc": "DEB340900149"
+    },
+    {
+      "artist": "Anand Wilder",
+      "title": "Give Us A Wink",
+      "services": {
+        "qobuz": "341833911"
+      },
+      "album": "Psychic Lessons",
+      "duration": 221,
+      "isrc": "US5ED2506599"
+    },
+    {
+      "artist": "Fates Warning",
+      "title": "Through Different Eyes",
+      "services": {
+        "qobuz": "60769395"
+      },
+      "album": "Perfect Symmetry",
+      "duration": 261,
+      "isrc": "USMBR0400999"
+    },
+    {
+      "artist": "Dream Theater",
+      "title": "Metropolis - Part I: \"The Miracle and the Sleeper\"",
+      "services": {
+        "qobuz": "2927589"
+      },
+      "album": "Images and Words",
+      "duration": 572,
+      "isrc": "USEE10180255"
+    },
+    {
+      "artist": "Shadow Gallery",
+      "title": "CliffHanger",
+      "services": {
+        "qobuz": "72919835"
+      },
+      "album": "Carved In Stone",
+      "duration": 521,
+      "isrc": "US78S0500101"
+    },
+    {
+      "artist": "Damn The Machine",
+      "title": "The Mission",
+      "services": {
+        "qobuz": "54688903"
+      },
+      "album": "Damn The Machine",
+      "duration": 339,
+      "isrc": "USAM10400497"
+    },
+    {
+      "artist": "Threshold",
+      "title": "Pilot in the Sky of Dreams",
+      "services": {
+        "qobuz": "61264511"
+      },
+      "album": "Dead Reckoning (Expanded Edition)",
+      "duration": 587,
+      "isrc": "DED830696605"
+    },
+    {
+      "artist": "Conception",
+      "title": "Silent Crying",
+      "services": {
+        "qobuz": "375955408"
+      },
+      "album": "Parallel Minds",
+      "duration": 196,
+      "isrc": "GB5KW2105281"
+    },
+    {
+      "artist": "Vanden Plas",
+      "title": "I Don't Miss You",
+      "services": {
+        "qobuz": "60986964"
+      },
+      "album": "The Epic Works 1991 - 2015",
+      "duration": 231,
+      "isrc": "ITG271900224"
+    },
+    {
+      "artist": "Artension",
+      "title": "Into the Eye of the Storm",
+      "services": {
+        "qobuz": "79573952"
+      },
+      "album": "Into the Eye of the Storm",
+      "duration": 278,
+      "isrc": "QM7281522094"
+    },
+    {
+      "artist": "Lemur Voice",
+      "title": "Akasha Chronicles",
+      "services": {
+        "qobuz": "72925588"
+      },
+      "album": "Insights",
+      "duration": 306,
+      "isrc": "US78S0501502"
+    },
+    {
+      "artist": "Symphony X",
+      "title": "The Divine Wings of Tragedy",
+      "services": {
+        "qobuz": "125623746"
+      },
+      "album": "The Divine Wings of Tragedy (Special Edition)",
+      "duration": 1242,
+      "isrc": "QM3MF1700027"
+    },
+    {
+      "artist": "Royal Hunt",
+      "title": "River of Pain",
+      "services": {
+        "qobuz": "64057054"
+      },
+      "album": "Paradox",
+      "duration": 434,
+      "isrc": "DKRC39700102"
+    },
+    {
+      "artist": "Pain Of Salvation",
+      "title": "To the End",
+      "services": {
+        "qobuz": "27664970"
+      },
+      "album": "Entropia",
+      "duration": 296,
+      "isrc": "GBDHC0905109"
+    },
+    {
+      "artist": "Liquid Tension Experiment",
+      "title": "Paradigm Shift",
+      "services": {
+        "qobuz": "43013244"
+      },
+      "album": "Liquid Tension Experiment",
+      "duration": 535,
+      "isrc": "US78S0502301"
+    },
+    {
+      "artist": "Evergrey",
+      "title": "Dark Discovery",
+      "services": {
+        "qobuz": "43629172"
+      },
+      "album": "The Dark Discovery",
+      "duration": 215,
+      "isrc": "DEU601707286"
+    },
+    {
+      "artist": "The Explorers Club",
+      "title": "Impact 1 - Fate Speaks",
+      "services": {
+        "qobuz": "72925835"
+      },
+      "album": "Age Of Impact",
+      "duration": 959,
+      "isrc": "US78S0502101"
+    },
+    {
+      "artist": "Nevermore",
+      "title": "Dreaming Neon Black",
+      "services": {
+        "qobuz": "27569731"
+      },
+      "album": "Dreaming Neon Black",
+      "duration": 386,
+      "isrc": "US4E40489105"
+    },
+    {
+      "artist": "Dali's Dilemma",
+      "title": "Miracles In Yesteryear",
+      "services": {
+        "qobuz": "72921009"
+      },
+      "album": "Manifesto For Futurism",
+      "duration": 431,
+      "isrc": "US78S0502402"
+    },
+    {
+      "artist": "Talking Heads",
+      "title": "Burning Down the House",
+      "services": {
+        "qobuz": "6005369"
+      },
+      "album": "Speaking in Tongues",
+      "duration": 241,
+      "isrc": "USWB10502916"
+    },
+    {
+      "artist": "Control Denied",
+      "title": "Breaking The Broken",
+      "services": {
+        "qobuz": "60619230"
+      },
+      "album": "The Fragile Art Of Existence (Reissue)",
+      "duration": 340,
+      "isrc": "US2641011802"
+    },
+    {
+      "artist": "Ice Age",
+      "title": "Perpetual Child, Part II (Forever)",
+      "services": {
+        "qobuz": "192905416"
+      },
+      "album": "Waves of Loss and Power",
+      "duration": 875,
+      "isrc": "USET72319203"
+    },
+    {
+      "artist": "Mullmuzzler",
+      "title": "Shores of Avalon",
+      "services": {
+        "qobuz": "72930593"
+      },
+      "album": "Keep It To Yourself",
+      "duration": 473,
+      "isrc": "US78S0503903"
+    },
+    {
+      "artist": "Black Sabbath",
+      "title": "Spiral Architect",
+      "services": {
+        "qobuz": "385311146"
+      },
+      "album": "Sabbath Bloody Sabbath",
+      "duration": 328,
+      "isrc": "GBAJE7300029"
+    },
+    {
+      "artist": "Spastic Ink",
+      "title": "Just A Little Bit",
+      "services": {
+        "qobuz": "90148940"
+      },
+      "album": "Ink Compatible",
+      "duration": 282,
+      "isrc": "USK4M0702002"
+    },
+    {
+      "artist": "Andromeda",
+      "title": "Extension of the Wish",
+      "services": {
+        "qobuz": "58716001"
+      },
+      "album": "Extension of the Wish",
+      "duration": 603,
+      "isrc": "USDHM1210515"
+    },
+    {
+      "artist": "Zero Hour",
+      "title": "The Towers of Avarice",
+      "services": {
+        "qobuz": "103081908"
+      },
+      "album": "The Towers of Avarice",
+      "duration": 472,
+      "isrc": "USET70101101"
+    },
+    {
+      "artist": "Beyond Twilight",
+      "title": "Hellfire",
+      "services": {
+        "qobuz": "67722489"
+      },
+      "album": "The Devil's Hall Of Fame",
+      "duration": 498,
+      "isrc": "USCGH0563482"
+    },
+    {
+      "artist": "Adagio",
+      "title": "Next profundis",
+      "services": {
+        "qobuz": "65546438"
+      },
+      "album": "Underworld",
+      "duration": 459,
+      "isrc": "USHM20952354"
+    },
+    {
+      "artist": "Pagan's Mind",
+      "title": "Through Osiris' Eyes",
+      "services": {
+        "qobuz": "196579850"
+      },
+      "album": "Celestial Entrance",
+      "duration": 368,
+      "isrc": "DET270204602"
+    },
+    {
+      "artist": "Exo",
+      "title": "Girl x Friend",
+      "services": {
+        "qobuz": "66651371"
+      },
+      "album": "EXO PLANET #3-The EXO'rDIUM[dot] - Live Album",
+      "duration": 219,
+      "isrc": "KRA301700564"
+    },
+    {
+      "artist": "Sun Caged",
+      "title": "Closing In",
+      "services": {
+        "qobuz": "90655946"
+      },
+      "album": "Sun Caged",
+      "duration": 358,
+      "isrc": "USHM80568467"
+    },
+    {
+      "artist": "Devin Townsend",
+      "title": "Deadhead",
+      "services": {
+        "qobuz": "27680307"
+      },
+      "album": "Accelerated Evolution",
+      "duration": 485,
+      "isrc": "GBDHC0924104"
+    },
+    {
+      "artist": "Anubis Gate",
+      "title": "Golden Days",
+      "services": {
+        "qobuz": "66698967"
+      },
+      "album": "Anubis Gate",
+      "duration": 386,
+      "isrc": "USCGJ1172481"
+    },
+    {
+      "artist": "Redemption",
+      "title": "Threads",
+      "services": {
+        "qobuz": "103081972"
+      },
+      "album": "The Fullness of Time",
+      "duration": 343,
+      "isrc": "USET70600044"
+    },
+    {
+      "artist": "Communic",
+      "title": "Conspiracy in Mind",
+      "services": {
+        "qobuz": "60257721"
+      },
+      "album": "Conspiracy in Mind",
+      "duration": 458,
+      "isrc": "DED830402431"
+    },
+    {
+      "artist": "Karnivool",
+      "title": "Themata",
+      "services": {
+        "qobuz": "91194281"
+      },
+      "album": "Themata",
+      "duration": 340,
+      "isrc": "AUKA00500020"
+    },
+    {
+      "artist": "Circus Maximus",
+      "title": "A Darkened Mind",
+      "services": {
+        "qobuz": "196548149"
+      },
+      "album": "Isolate",
+      "duration": 333,
+      "isrc": "ITG270700232"
+    },
+    {
+      "artist": "John Petrucci",
+      "title": "Glasgow Kiss",
+      "services": {
+        "qobuz": "98391255"
+      },
+      "album": "Suspended Animation",
+      "duration": 468,
+      "isrc": "US4FQ0400002"
+    },
+    {
+      "artist": "Seventh Wonder",
+      "title": "Waiting In The Wings",
+      "services": {
+        "qobuz": "212730443"
+      },
+      "album": "Waiting In The Wings",
+      "duration": 558,
+      "isrc": "ITG272300708"
+    },
+    {
+      "artist": "Darkwater",
+      "title": "The Play",
+      "services": {
+        "qobuz": "58716431"
+      },
+      "album": "Calling the Earth to Witness",
+      "duration": 518,
+      "isrc": "USDHM0801267"
+    },
+    {
+      "artist": "myPath!",
+      "title": "last hope",
+      "services": {
+        "qobuz": "270192270"
+      },
+      "album": "last hope",
+      "duration": 150,
+      "isrc": "AEA2Z2445267"
+    },
+    {
+      "artist": "Meshuggah",
+      "title": "Bleed",
+      "services": {
+        "qobuz": "298221178"
+      },
+      "album": "Obzen",
+      "duration": 442,
+      "isrc": "DE1AH2308803"
+    },
+    {
+      "artist": "Scale The Summit",
+      "title": "The Great Plains",
+      "services": {
+        "qobuz": "49106626"
+      },
+      "album": "Carving Desert Canyons",
+      "duration": 311,
+      "isrc": "USRZR0907003"
+    },
+    {
+      "artist": "Guilt Machine",
+      "title": "Twisted Coil",
+      "services": {
+        "qobuz": "141305548"
+      },
+      "album": "On This Perfect Day",
+      "duration": 703,
+      "isrc": "NLB930900420"
+    },
+    {
+      "artist": "Animals As Leaders",
+      "title": "Cafo",
+      "services": {
+        "qobuz": "49176979"
+      },
+      "album": "Animals as Leaders - Encore Edition",
+      "duration": 401,
+      "isrc": "USRZR0904308"
+    },
+    {
+      "artist": "Chimp Spanner",
+      "title": "At the Dream's Edge",
+      "services": {
+        "qobuz": "69786526"
+      },
+      "album": "At the Dreams Edge",
+      "duration": 231,
+      "isrc": "GBTBS1000003"
+    },
+    {
+      "artist": "Hacride",
+      "title": "To walk among them",
+      "services": {
+        "qobuz": "1487812"
+      },
+      "album": "Lazarus",
+      "duration": 903,
+      "isrc": "FR1PP0900100"
+    },
+    {
+      "artist": "Periphery",
+      "title": "Icarus Lives",
+      "services": {
+        "qobuz": "269303216"
+      },
+      "album": "Periphery",
+      "duration": 190,
+      "isrc": "NLA321089764"
+    },
+    {
+      "artist": "Astral Forest",
+      "title": "Set Course for Andromeda",
+      "services": {
+        "qobuz": "174569788"
+      },
+      "album": "*VISIBLE CONFUSION*",
+      "duration": 66,
+      "isrc": "GX89G2233656"
+    },
+    {
+      "artist": "Voyager",
+      "title": "She Takes Me",
+      "services": {
+        "qobuz": "77783877"
+      },
+      "album": "The Meaning of I",
+      "duration": 246,
+      "isrc": "USET70915911"
+    },
+    {
+      "artist": "Haken",
+      "title": "Visions",
+      "services": {
+        "qobuz": "37262871"
+      },
+      "album": "Visions (Re-issue 2017)",
+      "duration": 1348,
+      "isrc": "GBDHC1777908"
+    },
+    {
+      "artist": "Leprous",
+      "title": "Forced Entry",
+      "services": {
+        "qobuz": "27673031"
+      },
+      "album": "Bilateral",
+      "duration": 621,
+      "isrc": "GBDHC1156002"
+    },
+    {
+      "artist": "vildhjarta",
+      "title": "Dagger",
+      "services": {
+        "qobuz": "137632243"
+      },
+      "album": "m\u00e5sstaden (forte)",
+      "duration": 265,
+      "isrc": "GBDHC2227902"
+    },
+    {
+      "artist": "Uneven Structure",
+      "title": "Awaken",
+      "services": {
+        "qobuz": "69784149"
+      },
+      "album": "Februus",
+      "duration": 395,
+      "isrc": "GBTBS1100047"
+    },
+    {
+      "artist": "TesseracT",
+      "title": "Acceptance - Concealing Fate, Pt. 1",
+      "services": {
+        "qobuz": "27555597"
+      },
+      "album": "One",
+      "duration": 514,
+      "isrc": "US4E41174303"
+    },
+    {
+      "artist": "Monuments",
+      "title": "I, The Creator",
+      "services": {
+        "qobuz": "28631106"
+      },
+      "album": "The Amanuensis",
+      "duration": 234,
+      "isrc": "US4E41413201"
+    },
+    {
+      "artist": "Skyharbor",
+      "title": "Evolution",
+      "services": {
+        "qobuz": "69784617"
+      },
+      "album": "Evolution",
+      "duration": 338,
+      "isrc": "QMFMG1422866"
+    },
+    {
+      "artist": "Soen",
+      "title": "Fraccions",
+      "services": {
+        "qobuz": "190529848"
+      },
+      "album": "Cognitive",
+      "duration": 296,
+      "isrc": "FIUM71101371"
+    },
+    {
+      "artist": "Distorted Harmony",
+      "title": "Unfair",
+      "services": {
+        "qobuz": "73375510"
+      },
+      "album": "Utopia",
+      "duration": 487,
+      "isrc": "USCGJ1387268"
+    },
+    {
+      "artist": "Modern Day Babylon",
+      "title": "Travelers",
+      "services": {
+        "qobuz": "128609761"
+      },
+      "album": "Travelers",
+      "duration": 268,
+      "isrc": "TCABS1345182"
+    },
+    {
+      "artist": "Mandroid Echostar",
+      "title": "Kingdom and the Crown",
+      "services": {
+        "qobuz": "128799443"
+      },
+      "album": "Mandroid Echostar",
+      "duration": 298,
+      "isrc": "TCACT1693809"
+    },
+    {
+      "artist": "Caligula's Horse",
+      "title": "Atlas",
+      "services": {
+        "qobuz": "42473302"
+      },
+      "album": "In Contact",
+      "duration": 310,
+      "isrc": "AUH731100040"
+    },
+    {
+      "artist": "Pomegranate Tiger",
+      "title": "Devils To Ourselves",
+      "services": {
+        "qobuz": "222131870"
+      },
+      "album": "All Input Is Error",
+      "duration": 212,
+      "isrc": "USHM82359837"
+    },
+    {
+      "artist": "Ella Fitzgerald",
+      "title": "On A Slow Boat To China",
+      "services": {
+        "qobuz": "4275770"
+      },
+      "album": "Twelve Nights In Hollywood",
+      "duration": 145,
+      "isrc": "USUM70979056"
+    },
+    {
+      "artist": "Voyager Solar System",
+      "title": "John Bounce In The Nebula",
+      "services": {
+        "qobuz": "411737365"
+      },
+      "album": "Owls Of Jupiter And Other Stories",
+      "duration": 360,
+      "isrc": "FR9W12618276"
+    },
+    {
+      "artist": "Intervals",
+      "title": "Ephemeral",
+      "services": {
+        "qobuz": "430829391"
+      },
+      "album": "A Voice Within",
+      "duration": 305,
+      "isrc": "TCACE1545847"
+    },
+    {
+      "artist": "Seungmin",
+      "title": "My Destiny",
+      "services": {
+        "qobuz": "319033914"
+      },
+      "album": "The potato lab, Pt. 1 (Original Soundtrack)",
+      "duration": 230,
+      "isrc": "KRA492500046"
+    },
+    {
+      "artist": "Vola",
+      "title": "Stray The Skies",
+      "services": {
+        "qobuz": "141291742"
+      },
+      "album": "Inmazes",
+      "duration": 253,
+      "isrc": "NLB931600514"
+    },
+    {
+      "artist": "Earthside",
+      "title": "A Dream in Static",
+      "services": {
+        "qobuz": "310427664"
+      },
+      "album": "A Dream in Static",
+      "duration": 455,
+      "isrc": "QM2JD1500003"
+    },
+    {
+      "artist": "Native Construct",
+      "title": "Chromatic Aberration",
+      "services": {
+        "qobuz": "60684680"
+      },
+      "album": "Quiet World",
+      "duration": 748,
+      "isrc": "USMBR1410942"
+    },
+    {
+      "artist": "Elvenking",
+      "title": "On These Haunted Shores",
+      "services": {
+        "qobuz": "312142617"
+      },
+      "album": "Reader Of The Runes - Luna",
+      "duration": 304,
+      "isrc": "DE1K12510906"
+    },
+    {
+      "artist": "Plini",
+      "title": "Electric Sunrise",
+      "services": {
+        "qobuz": "148258370"
+      },
+      "album": "Handmade Cities",
+      "duration": 305,
+      "isrc": "TCACR1606807"
+    },
+    {
+      "artist": "Anup Sastry",
+      "title": "Illuminate",
+      "services": {
+        "qobuz": "125329157"
+      },
+      "album": "Illuminate",
+      "duration": 428,
+      "isrc": "TCAEF1983147"
+    },
+    {
+      "artist": "Paul Wardingham",
+      "title": "The Fallen",
+      "services": {
+        "qobuz": "129838190"
+      },
+      "album": "Day Zero: Rise of the Horde",
+      "duration": 276,
+      "isrc": "TCAEZ2024755"
+    },
+    {
+      "artist": "Jakub Zytecki",
+      "title": "Sunflower",
+      "services": {
+        "qobuz": "128954525"
+      },
+      "album": "Sunflower",
+      "duration": 181,
+      "isrc": "TCAEJ1986270"
+    },
+    {
+      "artist": "Jason Richardson",
+      "title": "Tendinitis",
+      "services": {
+        "qobuz": "157422472"
+      },
+      "album": "II",
+      "duration": 317,
+      "isrc": "TCADO1847504"
+    },
+    {
+      "artist": "DGM",
+      "title": "The Secret Pt. 1",
+      "services": {
+        "qobuz": "32762440"
+      },
+      "album": "The Passage",
+      "duration": 504,
+      "isrc": "ITG271600393"
+    },
+    {
+      "artist": "The Reticent",
+      "title": "Stage 1: His Name Is Henry",
+      "services": {
+        "qobuz": "102542342"
+      },
+      "album": "The Oubliette",
+      "duration": 586,
+      "isrc": "USL4Q2072109"
+    },
+    {
+      "artist": "Angel Vivaldi",
+      "title": "A Martian Winter",
+      "services": {
+        "qobuz": "191474779"
+      },
+      "album": "Universal Language",
+      "duration": 223,
+      "isrc": "TCAAY1105094"
+    },
+    {
+      "artist": "Sons Of Apollo",
+      "title": "Alive",
+      "services": {
+        "qobuz": "43770613"
+      },
+      "album": "Psychotic Symphony",
+      "duration": 305,
+      "isrc": "GBDHC1779605"
+    },
+    {
+      "artist": "Shattered Serenity",
+      "title": "Till the End of Time",
+      "services": {
+        "qobuz": "370907408"
+      },
+      "album": "Till the End of Time",
+      "duration": 250,
+      "isrc": "QT6F42546552"
+    },
+    {
+      "artist": "Cola Boyy",
+      "title": "Kid Born in Space",
+      "services": {
+        "qobuz": "262048326"
+      },
+      "album": "Prosthetic Boombox",
+      "duration": 194,
+      "isrc": "FRS712000210"
+    },
+    {
+      "artist": "Captain Black Beard",
+      "title": "No Worries",
+      "services": {
+        "qobuz": "174822110"
+      },
+      "album": "Captain Black Beard",
+      "duration": 190,
+      "isrc": "USE831500977"
+    },
+    {
+      "artist": "I built the Sky",
+      "title": "The Zenith Rise",
+      "services": {
+        "qobuz": "387646537"
+      },
+      "album": "The Zenith Rise",
+      "duration": 369,
+      "isrc": "TCAEK1988897"
+    },
+    {
+      "artist": "Arch Echo",
+      "title": "Color Wheel",
+      "services": {
+        "qobuz": "66738829"
+      },
+      "album": "Arch Echo",
+      "duration": 361,
+      "isrc": "USDY41717156"
+    },
+    {
+      "artist": "Artificial Language",
+      "title": "These Aren't Mirages",
+      "services": {
+        "qobuz": "212998679"
+      },
+      "album": "The Observer",
+      "duration": 215,
+      "isrc": "TCACZ1741990"
+    },
+    {
+      "artist": "Ihlo",
+      "title": "Coalescence",
+      "services": {
+        "qobuz": "172381378"
+      },
+      "album": "Live Sessions From Pirate Studios",
+      "duration": 895,
+      "isrc": "QZNWU2223204"
+    },
+    {
+      "artist": "Wheel",
+      "title": "Vultures",
+      "services": {
+        "qobuz": "174090702"
+      },
+      "album": "Moving Backwards",
+      "duration": 239,
+      "isrc": "DERK41900073"
+    },
+    {
+      "artist": "Rendezvous Point",
+      "title": "Digital Waste",
+      "services": {
+        "qobuz": "59704956"
+      },
+      "album": "Universal Chaos",
+      "duration": 262,
+      "isrc": "DEA451900490"
+    },
+    {
+      "artist": "Cassandra Wilson",
+      "title": "Strange Fruit",
+      "services": {
+        "qobuz": "14158341"
+      },
+      "album": "New Moon Daughter",
+      "duration": 355,
+      "isrc": "USUM71314436"
+    },
+    {
+      "artist": "Novena",
+      "title": "Prison Walls",
+      "services": {
+        "qobuz": "81633643"
+      },
+      "album": "Eleventh Hour",
+      "duration": 918,
+      "isrc": "ITG272000265"
+    },
+    {
+      "artist": "Lucid Planet",
+      "title": "Zenith",
+      "services": {
+        "qobuz": "109998379"
+      },
+      "album": "II",
+      "duration": 595,
+      "isrc": "AUORG2000024"
+    },
+    {
+      "artist": "The Omnific",
+      "title": "Base Camp",
+      "services": {
+        "qobuz": "301332129"
+      },
+      "album": "The Law of Augmenting Returns",
+      "duration": 363,
+      "isrc": "AUM9Z2400004"
+    },
+    {
+      "artist": "Teramaze",
+      "title": "LIKE A CYBORG",
+      "services": {
+        "qobuz": "321731120"
+      },
+      "album": "The Harmony Machine",
+      "duration": 376,
+      "isrc": "USCGJ2592404"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+# Genre: Progressive Trance
+
+Imported genre playlist: Progressive Trance.
+
+Services: `qobuz:66721248` `tidal:b4fc2359-01d8-484c-9868-6d6e20edab6a`
+
+## Tracks (100)
+
+- **Raul Midón** — All In Your Mind [State Of Mind] (3:19) `isrc:USMR80400048` `qobuz:4532053`
+- **Libra Presents Taylor** — Anomaly - Calling Your Name [Platipus 30 Years] (7:57) `isrc:GBCFW2400005` `qobuz:397251134`
+- **Salpa** — Seadog [Seadog] (3:40) `isrc:ESA122498470` `qobuz:276598127`
+- **BT** — Flaming June [ESCM] (8:25) `isrc:GBAHS1600301` `qobuz:34146092`
+- **L.S.G.** — The Hidden Sun Of Venus [Rendezvous In Outer Space] (5:05) `isrc:DEL029510017` `qobuz:63379794`
+- **Sickmode** — Evolution [Hey x] (2:51) `isrc:GBKQU2004022` `qobuz:106581204`
+- **Art Of Trance** — Octopus [Octopus] (7:39) `isrc:UKR6V2484668` `qobuz:294439408`
+- **Terra Armoniosa** — Lunar Dreamscape [Lunar Dreamscape] (2:58) `isrc:SE69Z2402958` `qobuz:252265080`
+- **Robert Plant** — Ship of Fools [Now and Zen] (5:00) `isrc:USAT20616620` `qobuz:2436492`
+- **Marmion** — Schöneberg [Schöneberg] (6:25) `isrc:DEL029310006` `qobuz:204221331`
+- **POB** — The Awakening [Magik Three] (9:44) `isrc:NLE711110412` `qobuz:4595909`
+- **Journey** — Don't Stop Believin' [The Essential Journey] (4:08) `isrc:USSM18100116` `qobuz:38360`
+- **Albion** — Air [Air] (2:43) `isrc:NLF711501213` `qobuz:378306190`
+- **On Thorns I Lay** — Ethereal Blue [Future Narcotic] (6:43) `isrc:NLWJ22200738` `qobuz:279129366`
+- **Humate** — Love Stimulation [Love Stimulation] (7:48) `isrc:GBKQU2019451` `qobuz:107290017`
+- **Lost Tribe** — Gamemaster (ASOT 1271) [ASOT 1271 - A State of Trance Episode 1271] (4:33) `isrc:NLF712601900` `qobuz:406605052`
+- **Buckshot LeFonque** — Phoenix [Music Evolution] (6:06) `isrc:USSM19603649` `qobuz:447072`
+- **York** — The Awakening [YORK Mini Mix] (3:33) `isrc:DEPN61100007` `qobuz:378310295`
+- **Breeder** — Twilo Thunder [Twilo Thunder] (6:29) `isrc:NLD681701816` `qobuz:42787088`
+- **Ritchie Blackmore's Rainbow** — Stargazer [Rising] (8:25) `isrc:USPR37680077` `qobuz:3881949`
+- **Olivia Rodrigo** — scared of my guitar [GUTS (spilled)] (4:23) `isrc:USUG12305565` `qobuz:258406307`
+- **Solid Sessions** — Janeiro [Janeiro] (6:19) `isrc:NLF712111437` `qobuz:378229261`
+- **Midway** — Monkey Forest [Monkey Forest] (3:36) `isrc:NLE712500254` `qobuz:337618964`
+- **The Space Brothers** — Shine [Armada presents:Trance Classics, Vol. 2] (6:33) `isrc:NLF710801770` `qobuz:377902462`
+- **Flea** — Free As I Want to Be [Honora] (5:13) `isrc:USNO12500461` `qobuz:382811310`
+- **Space Manoeuvres** — Stage One [Trance Trax #1] (7:10) `isrc:GBHCD1728869` `qobuz:380436729`
+- **Moogwai** — Viola [Viola] (4:31) `isrc:NLD681804086` `qobuz:55589522`
+- **KillaHurtz** — West on 27th [House Definition, Vol. 4] (8:24) `isrc:FR2X41746862` `qobuz:39853948`
+- **Insigma** — Open Our Eyes [Open Our Eyes] (7:53) `isrc:NLF712506298` `qobuz:378330783`
+- **The Thrillseekers** — Synaesthesia [Synaesthesia] (4:01) `isrc:NLF710903587` `qobuz:377909115`
+- **Ballroom Orchestra and Singers** — The Passenger (Train Spotting) (Jive/ 40 BPM) [Dancelife Presents: Dance Classics, Vol. 2 (Strict Dance Tempo)] (3:06) `isrc:NLHR52121905` `qobuz:150041605`
+- **Saints & Sinners** — Peace [Peace] (8:03) `isrc:DEPI82523484` `qobuz:336653660`
+- **Accadia** — Into The Dawn [Trance Trax #1] (11:59) `isrc:GBHCD1728871` `qobuz:380436731`
+- **Tiësto** — Suburban Train [In My Memory] (10:22) `isrc:NOX9X3702009` `qobuz:315497306`
+- **Jayson Wayne Brown** — Cinematic Hollywood explorer intro [Whimsy at Full Tilt] (1:44) `isrc:QMAHS2378239` `qobuz:418845641`
+- **Miro** — By Your Side [Emotions of Sunsets] (5:27) `isrc:DK2X52500310` `qobuz:320798028`
+- **Tiësto** — A Tear In The Open [Just Be] (9:56) `isrc:NLE710582662` `qobuz:315593340`
+- **Aalto** — Rush [25 Years Of Anjuna Mixed By Trance Wax] (6:50) `isrc:GBEWA2505296` `qobuz:424987501`
+- **L'Orchestra Cinematique** — Cinderella - Aeon [Disney Epics] (3:19) `isrc:CB2CY0950721` `qobuz:91512719`
+- **Tranquility Base** — Razorfish (ASOT 1236) [Service For Dreamers] [ASOT 1236 - A State of Trance Episode 1236] (3:45) `isrc:NLF712505166` `qobuz:378320956`
+- **Lange** — Sincere (Mixed) [A State Of Trance, Ibiza 2022] (2:47) `isrc:NLF712206078` `qobuz:378240270`
+- **Mark Bates** — Touch Me [Touch Me] (9:15) `isrc:GBUM70605822` `qobuz:4272887`
+- **Boston** — Foreplay / Long Time [Boston] (7:47) `isrc:USSM17600873` `qobuz:19179304`
+- **P.O.S** — Gravity [Sunny Lax Presents: 20 Years Of Anjunabeats] (4:01) `isrc:GBEWA1906936` `qobuz:424949455`
+- **Endre** — Kallocain (Mixed) [A State Of Trance Year Mix 2004 (Mixed)] (0:56) `isrc:NLS241401457` `qobuz:378285551`
+- **Smith & Pledger** — Northern Lights [Gabriel & Dresden Presents: 20 Years Of Anjunabeats] (7:13) `isrc:GBEWA2100660` `qobuz:424954631`
+- **Mark Otten** — Tranquility [Tranquility] (9:45) `isrc:NLF710400011` `qobuz:377879140`
+- **Super8** — Alba [Alba] (7:12) `isrc:NLD681901014` `qobuz:60421082`
+- **Arksun** — Arisen [Mix Cut] [A State Of Trance 2006 (Mixed by Armin van Buuren)] (8:21) `isrc:NLF711101698` `qobuz:377933417`
+- **Gabriel & Dresden** — Arcadia [Arcadia] (9:53) `isrc:NLF710500323` `qobuz:53149696`
+- **Fonzerelli** — Moonlight Party [Moonlight Party] (6:53) `isrc:GBBRQ0600080` `qobuz:126773003`
+- **Mike Shiver** — Morning Drive [A State Of Mind] (7:11) `isrc:USLZ41010574` `qobuz:6717330`
+- **$uicideboy$** — One Last Look at the Damage [Stop Staring At the Shadows] (1:37) `isrc:QZAPK1900012` `qobuz:114030898`
+- **Mirco de Govia** — Voller Sterne [Voller Sterne (Nitrous Oxide Remix)] (5:58) `isrc:DEL672300106` `qobuz:235338166`
+- **Perry O Neil** — Wave Force (Mix Cut) [A State Of Trance, Ibiza 2018 (Mixed by Armin van Buuren)] (3:25) `isrc:NLF711808772` `qobuz:378128257`
+- **Whiteroom** — The Whiteroom [The Whiteroom] (5:43) `isrc:NLD681900108` `qobuz:58052462`
+- **Bart Claessen** — 90 Nights Of Summer (ABGT400) [Group Therapy 400 Live from London] (6:44) `isrc:GBEWA1909319` `qobuz:424952327`
+- **Yilmaz Altanhan** — Eighties [The Gallery - 18 Years Mixed By Judge Jules, Simon Patterson & Gavyn Mytchel] (6:23) `isrc:GBEWA0500009` `qobuz:106921401`
+- **Super8 & Tab** — Helsinki Scorchin’ (ABGT319) [Group Therapy 319] (3:41) `isrc:GBEWA1900709` `qobuz:424941510`
+- **Duderstadt** — Muhanjala (ASOT 1166) [ASOT 1166 - A State of Trance Episode 1166] (2:18) `isrc:NLF712401771` `qobuz:378270994`
+- **Kuffdam & Plant** — Summer Dream [Summer Dream] (8:19) `isrc:FR10S1804877` `qobuz:46715880`
+- **Above & Beyond** — Tri-State (Flashback) [ABGT620] [Group Therapy 620 (DJ Mix)] (3:00) `isrc:GBEWA2501824` `qobuz:424984112`
+- **Arnej** — They Need Us [A State Of Trance Year Mix 2010] (6:42) `isrc:NLF711000193` `qobuz:378285638`
+- **Boom Jinx** — Azzura [Azzura] (6:36) `isrc:GBKQU1167201` `qobuz:106956664`
+- **Oliver Smith** — Faithful In Paradise [Faithful In Paradise] (2:17) `isrc:SE69N2400279` `qobuz:257403307`
+- **Nitrous Oxide** — Downforce [Downforce] (7:39) `isrc:GBEWA1000881` `qobuz:424914771`
+- **Rank 1** — Symfo (Sunrise Festival Theme 2009) [Symfo (Sunrise Festival Theme 2009)] (7:04) `isrc:NLE800900253` `qobuz:14301654`
+- **Darren Tate** — When The Morning Comes (ABGT662) [Group Therapy 662 (DJ Mix)] (5:18) `isrc:GBEWA2600444` `qobuz:388785449`
+- **Breeze Groove** — Breakfast Tango with Sunlight [Lazy Morning] (2:22) `isrc:GBLLT2600649` `qobuz:381188936`
+- **Rex Mundi** — Opera of Northern Ocean [Opera of Northern Ocean] (3:11) `isrc:NLD681802424` `qobuz:50784333`
+- **Pitbull Featuring Vein** — Mr. Worldwide (Intro) [Planet Pit (Deluxe Version)] (1:24) `isrc:USJAY1100091` `qobuz:3635131`
+- **Andy Duguid** — Wasted [Wasted] (8:23) `isrc:NLE710821102` `qobuz:6108160`
+- **Estiva** — I Feel Fine [I Feel Fine] (8:59) `isrc:GBKQU0908200` `qobuz:106976074`
+- **Suspect 44** — Here Right Now [Here Right Now] (3:45) `isrc:NLF711504018` `qobuz:378022723`
+- **Super8 & Tab** — Rubicon (ABGT400) [Group Therapy 400 Live from London] (2:19) `isrc:GBEWA1909296` `qobuz:424952304`
+- **Mat zo** — The Sky [Gabriel & Dresden Presents: 20 Years Of Anjunabeats] (4:30) `isrc:GBEWA2100656` `qobuz:424954627`
+- **Dinka** — Tales of the Sun [Tales of the Sun (Continuous Mix)] (5:54) `isrc:CH3131100431` `qobuz:206364386`
+- **Gerard Butler** — Medley: Down Once More / Track Down This Murderer [The Phantom of the Opera (Original Motion Picture Soundtrack)] (12:48) `isrc:USSM10414120` `qobuz:360590716`
+- **KhoMha** — The Dark Knight [Coldharbour presents KhoMha] (3:54) `isrc:NLF711203747` `qobuz:377967275`
+- **Norin & Rad** — Bloom [Fatum Presents: 20 Years Of Anjunabeats] (4:12) `isrc:GBEWA1908397` `qobuz:424951117`
+- **Mathias Eick** — Ten Minutes to Midnight [Morning Light] (6:08) `isrc:NODBB1101080` `qobuz:197469204`
+- **James Horner** — Rose [Titanic (Original Motion Picture Soundtrack - Collector's Edition - Anniversary Edition)] (2:52) `isrc:USSM19702327` `qobuz:5139755`
+- **Audien** — Wayfarer (ABGT400) [Group Therapy 400 Live from London] (3:21) `isrc:GBEWA1909325` `qobuz:424952333`
+- **DJ Eco** — Borealis [Borealis] (7:14) `isrc:GBKQU0904686` `qobuz:113524814`
+- **Alpha 9** — Come Home [Come Home] (6:09) `isrc:NLQ881000625` `qobuz:378194239`
+- **Wrechiski** — Atlas (ABGT400) [Group Therapy 400 Live from London] (4:42) `isrc:GBEWA1909328` `qobuz:424952336`
+- **C-Systems** — Close My Eyes [Close My Eyes] (6:10) `isrc:GBKQU1012615` `qobuz:113556298`
+- **Myon** — Omen In The Rain [Anjunabeats Volume 13] (5:26) `isrc:GBEWA1700066` `qobuz:424930726`
+- **Maor Levi** — Reflect Reliquified [Reflect Reliquified / Illumina Reliquified] (4:14) `isrc:GBEWA2600210` `qobuz:424989246`
+- **Ilan Bluestone** — Sinai (Tritonia 505) [Tritonia 505] (4:55) `isrc:GBKQU2519150` `qobuz:318801159`
+- **Genix** — Run (ABGT400) [Group Therapy 400 Live from London] (3:28) `isrc:GBEWA1909331` `qobuz:424952339`
+- **Gai Barone** — Nexo [Nexo] (4:08) `isrc:GBJAJ1700769` `qobuz:42082527`
+- **Basil O'Glue** — The First Deity (FSOE 731) [FSOE 731 - Future Sound Of Egypt Episode 731] (4:37) `isrc:UKRMQ2101171` `qobuz:141085605`
+- **Matt Fax** — Shift [Shift] (7:33) `isrc:GBKQU1462827` `qobuz:106813172`
+- **Grum** — Want U [Heartbeats: Ten] (3:35) `isrc:GBC4T2020253` `qobuz:96452869`
+- **Sunny Lax** — Enceladus [A State Of Trance Radio Top 20 - January 2016] (3:32) `isrc:GBEWA1501060` `qobuz:378039423`
+- **Elevven** — Vivi [Vivi] (3:56) `isrc:CA6D22100749` `qobuz:133350288`
+- **Mari Kodama** — The Sleeping Beauty Suite, Op. 66a, TH 234 (Arr. S. Rachmaninoff): IV. Panorama [Tchaikovsky: Ballet Suites for Piano Duo] (2:20) `isrc:NLE421503804` `qobuz:221283160`
+- **Farius** — A Big Life [A Big Life (Remixes)] (4:11) `isrc:GBKQU2225944` `qobuz:150351074`
+- **flawed mangoes** — Surreal [Anomaly III] (4:47) `isrc:QZZ4J2500145` `qobuz:328586959`

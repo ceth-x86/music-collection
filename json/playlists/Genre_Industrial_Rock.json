@@ -1,0 +1,1009 @@
+{
+  "name": "Genre: Industrial Rock",
+  "services": {
+    "qobuz": "66733270"
+  },
+  "description": "Imported genre playlist: Industrial Rock.",
+  "tracks": [
+    {
+      "artist": "Iggy Pop",
+      "title": "Mass Production",
+      "services": {
+        "qobuz": "41121072"
+      },
+      "album": "The Idiot",
+      "duration": 508,
+      "isrc": "USVI27700004"
+    },
+    {
+      "artist": "Suicide",
+      "title": "Frankie Teardrop",
+      "services": {
+        "qobuz": "385321156"
+      },
+      "album": "Suicide",
+      "duration": 626,
+      "isrc": "GB5KW1602347"
+    },
+    {
+      "artist": "Chrome",
+      "title": "TV As Eyes",
+      "services": {
+        "qobuz": "50997507"
+      },
+      "album": "Half Machine Lip Moves / Alien Soundtracks",
+      "duration": 139,
+      "isrc": "USA560668619"
+    },
+    {
+      "artist": "Killing Joke",
+      "title": "Wardance",
+      "services": {
+        "qobuz": "219752609"
+      },
+      "album": "Killing Joke",
+      "duration": 225,
+      "isrc": "GBAAA0500315"
+    },
+    {
+      "artist": "Scraping Foetus Off The Wheel",
+      "title": "I'll Meet You in Poland Baby",
+      "services": {
+        "qobuz": "39575180"
+      },
+      "album": "Hole",
+      "duration": 213,
+      "isrc": "GBEEL0702013"
+    },
+    {
+      "artist": "Big Black",
+      "title": "Kerosene",
+      "services": {
+        "qobuz": "32621490"
+      },
+      "album": "Atomizer (Remastered)",
+      "duration": 363,
+      "isrc": "USTG31409304"
+    },
+    {
+      "artist": "Laibach",
+      "title": "Geburt Einer Nation",
+      "services": {
+        "qobuz": "1770408"
+      },
+      "album": "Opus Dei",
+      "duration": 263,
+      "isrc": "GBAJH0100478"
+    },
+    {
+      "artist": "The Young Gods",
+      "title": "Envoy\u00e9",
+      "services": {
+        "qobuz": "134775295"
+      },
+      "album": "The Young Gods",
+      "duration": 134,
+      "isrc": "CH4931200049"
+    },
+    {
+      "artist": "KMFDM",
+      "title": "Don''t Blow Your Top",
+      "services": {
+        "qobuz": "6140531"
+      },
+      "album": "Don't Blow Your Top",
+      "duration": 220,
+      "isrc": "US57M0644002"
+    },
+    {
+      "artist": "Ministry",
+      "title": "Stigmata (Update Mix)",
+      "services": {
+        "qobuz": "19124608"
+      },
+      "album": "Land of Rape and Honey",
+      "duration": 344,
+      "isrc": "USWB19902808"
+    },
+    {
+      "artist": "Pailhead",
+      "title": "I Will Refuse",
+      "services": {
+        "qobuz": "150085952"
+      },
+      "album": "Trait",
+      "duration": 256,
+      "isrc": "QM4TW1521995"
+    },
+    {
+      "artist": "Tackhead",
+      "title": "Mind At The End Of The Tether",
+      "services": {
+        "qobuz": "79181548"
+      },
+      "album": "Tackhead Tape Time",
+      "duration": 400,
+      "isrc": "GBNLN1100277"
+    },
+    {
+      "artist": "1000 Homo DJs",
+      "title": "Supernaut",
+      "services": {
+        "qobuz": "51120772"
+      },
+      "album": "Supernaut",
+      "duration": 402,
+      "isrc": "QMBZ91387999"
+    },
+    {
+      "artist": "Cop Shoot Cop",
+      "title": "Room 429",
+      "services": {
+        "qobuz": "51036190"
+      },
+      "album": "Ask Questions Later",
+      "duration": 308,
+      "isrc": "QMFMG1428835"
+    },
+    {
+      "artist": "Lard",
+      "title": "Forkboy",
+      "services": {
+        "qobuz": "52278701"
+      },
+      "album": "The Last Temptation Of Reid",
+      "duration": 233,
+      "isrc": "US2B20408401"
+    },
+    {
+      "artist": "My Life With The Thrill Kill Kult",
+      "title": "Sex on Wheelz",
+      "services": {
+        "qobuz": "161574787"
+      },
+      "album": "Sexplosion! (Expanded Edition) [2022 Remaster]",
+      "duration": 299,
+      "isrc": "QZFWM1900074"
+    },
+    {
+      "artist": "Revolting Cocks",
+      "title": "Beers, Steers & Queers",
+      "services": {
+        "qobuz": "14974105"
+      },
+      "album": "Beers, Steers + Queers",
+      "duration": 356,
+      "isrc": "QMBZ91389053"
+    },
+    {
+      "artist": "Die Warzau",
+      "title": "Shine (All Good Girls Part 2)",
+      "services": {
+        "qobuz": "74842492"
+      },
+      "album": "Convenience",
+      "duration": 286,
+      "isrc": "USA2B0597916"
+    },
+    {
+      "artist": "Metallica",
+      "title": "Damage, Inc.",
+      "services": {
+        "qobuz": "95787410"
+      },
+      "album": "Master Of Puppets",
+      "duration": 332,
+      "isrc": "QMKHM1600225"
+    },
+    {
+      "artist": "Pigface",
+      "title": "Suck",
+      "services": {
+        "qobuz": "64334998"
+      },
+      "album": "Gub",
+      "duration": 222,
+      "isrc": "USA560576987"
+    },
+    {
+      "artist": "Peace Love & Pitbulls",
+      "title": "A. Psycho",
+      "services": {
+        "qobuz": "60840177"
+      },
+      "album": "Peace Love & Pitbulls",
+      "duration": 359,
+      "isrc": "SELBD9200107"
+    },
+    {
+      "artist": "Pop Will Eat Itself",
+      "title": "Ich Bin Ein Auslander",
+      "services": {
+        "qobuz": "58333592"
+      },
+      "album": "Dos Dedos Mis Amigos",
+      "duration": 240,
+      "isrc": "GBAHT1800808"
+    },
+    {
+      "artist": "16Volt",
+      "title": "Motorskill",
+      "services": {
+        "qobuz": "95641158"
+      },
+      "album": "Wisdom",
+      "duration": 311,
+      "isrc": "US57M1177201"
+    },
+    {
+      "artist": "Chemlab",
+      "title": "Codeine, Glue, And You",
+      "services": {
+        "qobuz": "64333528"
+      },
+      "album": "Burn Out At The Hydrogen Bar",
+      "duration": 285,
+      "isrc": "USA560576772"
+    },
+    {
+      "artist": "Depeche Mode",
+      "title": "I Feel You",
+      "services": {
+        "qobuz": "823803"
+      },
+      "album": "Songs of Faith and Devotion (Deluxe)",
+      "duration": 275,
+      "isrc": "GBAJH0601241"
+    },
+    {
+      "artist": "Machines Of Loving Grace",
+      "title": "Butterfly Wings",
+      "services": {
+        "qobuz": "60849251"
+      },
+      "album": "Concentration",
+      "duration": 217,
+      "isrc": "USMA20320205"
+    },
+    {
+      "artist": "Sheep On Drugs",
+      "title": "Years",
+      "services": {
+        "qobuz": "9183899"
+      },
+      "album": "Club Meds",
+      "duration": 259,
+      "isrc": "GBHDA1200032"
+    },
+    {
+      "artist": "The Electric Hellfire Club",
+      "title": "Kiss The Goat!",
+      "services": {
+        "qobuz": "51072386"
+      },
+      "album": "Kiss The Goat - 2005 Deluxe Edition",
+      "duration": 510,
+      "isrc": "USA560647336"
+    },
+    {
+      "artist": "Acumen",
+      "title": "Gun Lover",
+      "services": {
+        "qobuz": "74135273"
+      },
+      "album": "Transmissions From Eville",
+      "duration": 253,
+      "isrc": "US4Q30400003"
+    },
+    {
+      "artist": "Cubanate",
+      "title": "Oxyacetylene",
+      "services": {
+        "qobuz": "186816795"
+      },
+      "album": "Live Brutalism",
+      "duration": 316,
+      "isrc": "USA2P2252222"
+    },
+    {
+      "artist": "Front Line Assembly",
+      "title": "Millennium",
+      "services": {
+        "qobuz": "2950265"
+      },
+      "album": "Millennium",
+      "duration": 369,
+      "isrc": "NLA329499999"
+    },
+    {
+      "artist": "Hate Dept.",
+      "title": "I Am Truth",
+      "services": {
+        "qobuz": "77594252"
+      },
+      "album": "Meat.Your.Maker",
+      "duration": 193,
+      "isrc": "USHM80912117"
+    },
+    {
+      "artist": "Nine Inch Nails",
+      "title": "March Of The Pigs",
+      "services": {
+        "qobuz": "51979438"
+      },
+      "album": "The Downward Spiral",
+      "duration": 178,
+      "isrc": "USIR19400528"
+    },
+    {
+      "artist": "Argyle Park",
+      "title": "Headscrew",
+      "services": {
+        "qobuz": "346070060"
+      },
+      "album": "Misguided",
+      "duration": 297,
+      "isrc": "QM5LC1600957"
+    },
+    {
+      "artist": "Bj\u00f6rk",
+      "title": "Army Of Me",
+      "services": {
+        "qobuz": "249106593"
+      },
+      "album": "Post",
+      "duration": 234,
+      "isrc": "GBBTF0200244"
+    },
+    {
+      "artist": "Circle of Dust",
+      "title": "Deviate",
+      "services": {
+        "qobuz": "49633555"
+      },
+      "album": "Brainchild (Remastered)",
+      "duration": 175,
+      "isrc": "QM5LC1600090"
+    },
+    {
+      "artist": "Filter",
+      "title": "Hey Man Nice Shot",
+      "services": {
+        "qobuz": "127402085"
+      },
+      "album": "Short Bus",
+      "duration": 314,
+      "isrc": "USRE19900522"
+    },
+    {
+      "artist": "God Lives Underwater",
+      "title": "All Wrong",
+      "services": {
+        "qobuz": "54342851"
+      },
+      "album": "Empty",
+      "duration": 293,
+      "isrc": "USSM19503777"
+    },
+    {
+      "artist": "Whisper Party",
+      "title": "City Eyes",
+      "services": {
+        "qobuz": "154822751"
+      },
+      "album": "Love Sick Love",
+      "duration": 179,
+      "isrc": "USDY42216169"
+    },
+    {
+      "artist": "Prick",
+      "title": "Animal",
+      "services": {
+        "qobuz": "112976832"
+      },
+      "album": "Animal",
+      "duration": 255,
+      "isrc": "GBSMU1527372"
+    },
+    {
+      "artist": "Sister Machine Gun",
+      "title": "Burn",
+      "services": {
+        "qobuz": "3095317"
+      },
+      "album": "Burn",
+      "duration": 285,
+      "isrc": "USTV19500301"
+    },
+    {
+      "artist": "Gravity Kills",
+      "title": "Guilty",
+      "services": {
+        "qobuz": "48527180"
+      },
+      "album": "Gravity Kills",
+      "duration": 242,
+      "isrc": "USTV19600075"
+    },
+    {
+      "artist": "Marilyn Manson",
+      "title": "The Beautiful People",
+      "services": {
+        "qobuz": "20020393"
+      },
+      "album": "Antichrist Superstar",
+      "duration": 218,
+      "isrc": "USIR19601008"
+    },
+    {
+      "artist": "Skold",
+      "title": "Chasing Demons",
+      "services": {
+        "qobuz": "95578327"
+      },
+      "album": "The Undoing (Deluxe)",
+      "duration": 266,
+      "isrc": "US57M1501806"
+    },
+    {
+      "artist": "Stabbing Westward",
+      "title": "Save Yourself",
+      "services": {
+        "qobuz": "41662"
+      },
+      "album": "Darkest Days",
+      "duration": 253,
+      "isrc": "USSM19703731"
+    },
+    {
+      "artist": "Buck-Tick",
+      "title": "My Fuckin' Valentine",
+      "services": {
+        "qobuz": "189824773"
+      },
+      "album": "Sexy Stream Liner",
+      "duration": 277,
+      "isrc": "JPPH09703280"
+    },
+    {
+      "artist": "David Bowie",
+      "title": "I'm Afraid of Americans",
+      "services": {
+        "qobuz": "28108717"
+      },
+      "album": "Earthling",
+      "duration": 300,
+      "isrc": "USRF30000053"
+    },
+    {
+      "artist": "Econoline Crush",
+      "title": "Home",
+      "services": {
+        "qobuz": "5008500"
+      },
+      "album": "The Devil You Know",
+      "duration": 191,
+      "isrc": "CAE159700054"
+    },
+    {
+      "artist": "Gary Numan",
+      "title": "Absolution (Gray Mix)",
+      "services": {
+        "qobuz": "68565020"
+      },
+      "album": "Hybrid CD #1",
+      "duration": 403,
+      "isrc": "USPBR0300040"
+    },
+    {
+      "artist": "Razed In Black",
+      "title": "Share This Poison",
+      "services": {
+        "qobuz": "51043705"
+      },
+      "album": "Damaged",
+      "duration": 414,
+      "isrc": "USA370574238"
+    },
+    {
+      "artist": "The Mad Legends",
+      "title": "\"Transcendent Pulse\"",
+      "services": {
+        "qobuz": "404517938"
+      },
+      "album": "Bloodline Frequency",
+      "duration": 316,
+      "isrc": "GXJBV2668471"
+    },
+    {
+      "artist": "The Prodigy",
+      "title": "Firestarter",
+      "services": {
+        "qobuz": "7008315"
+      },
+      "album": "The Fat of the Land - Expanded Edition",
+      "duration": 279,
+      "isrc": "GBBKS9700080"
+    },
+    {
+      "artist": "Dark Corridor",
+      "title": "The End Is The Beginning Is The End (Made Famous by Smashing Pumpkins)",
+      "services": {
+        "qobuz": "51070633"
+      },
+      "album": "A Gothic-Industrial Tribute To The Smashing Pumpkins",
+      "duration": 293,
+      "isrc": "USA371080838"
+    },
+    {
+      "artist": "Rob Halford",
+      "title": "I Am a Pig",
+      "services": {
+        "qobuz": "42686097"
+      },
+      "album": "Voyeurs",
+      "duration": 215,
+      "isrc": "USQX91500221"
+    },
+    {
+      "artist": "Apartment 26",
+      "title": "Backwards",
+      "services": {
+        "qobuz": "66709602"
+      },
+      "album": "Hallucinating",
+      "duration": 189,
+      "isrc": "USHM80986924"
+    },
+    {
+      "artist": "Godhead",
+      "title": "Eleanor Rigby",
+      "services": {
+        "qobuz": "63935910"
+      },
+      "album": "Power Tool Stigmata",
+      "duration": 223,
+      "isrc": "USA370319290"
+    },
+    {
+      "artist": "Orgy",
+      "title": "Blue Monday",
+      "services": {
+        "qobuz": "2840646"
+      },
+      "album": "Candyass",
+      "duration": 267,
+      "isrc": "USRE19800365"
+    },
+    {
+      "artist": "Pitchshifter",
+      "title": "Genius",
+      "services": {
+        "qobuz": "756118"
+      },
+      "album": "www.pitchshifter.com",
+      "duration": 246,
+      "isrc": "USGF19716303"
+    },
+    {
+      "artist": "Ultraspank",
+      "title": "Push",
+      "services": {
+        "qobuz": "5051591"
+      },
+      "album": "Progress",
+      "duration": 231,
+      "isrc": "USSM10006341"
+    },
+    {
+      "artist": "VAST",
+      "title": "Touched",
+      "services": {
+        "qobuz": "390164335"
+      },
+      "album": "Step into Liquid Soundtrack",
+      "duration": 238,
+      "isrc": "USSFR0414016"
+    },
+    {
+      "artist": "Powerman 5000",
+      "title": "When Worlds Collide",
+      "services": {
+        "qobuz": "699819"
+      },
+      "album": "Tonight The Stars Revolt",
+      "duration": 177,
+      "isrc": "USDW19910703"
+    },
+    {
+      "artist": "Videodrone",
+      "title": "Ty Jonathan Down",
+      "services": {
+        "qobuz": "2007348"
+      },
+      "album": "Videodrone",
+      "duration": 261,
+      "isrc": "USRE19900001"
+    },
+    {
+      "artist": "MDFMK",
+      "title": "Rabble Rouser",
+      "services": {
+        "qobuz": "91187576"
+      },
+      "album": "MDFMK",
+      "duration": 252,
+      "isrc": "USUR19980536"
+    },
+    {
+      "artist": "Snake River Conspiracy",
+      "title": "Lovesong",
+      "services": {
+        "qobuz": "41177759"
+      },
+      "album": "Sonic Jihad",
+      "duration": 235,
+      "isrc": "USRE10000287"
+    },
+    {
+      "artist": "Spineshank",
+      "title": "Synthetic",
+      "services": {
+        "qobuz": "2809213"
+      },
+      "album": "The Height of Callousness [Special Edition]",
+      "duration": 189,
+      "isrc": "NLA320019154"
+    },
+    {
+      "artist": "Brain Damage",
+      "title": "The Truth",
+      "services": {
+        "qobuz": "419917221"
+      },
+      "album": "The Truth",
+      "duration": 220,
+      "isrc": "FR92U2600340"
+    },
+    {
+      "artist": "The Union Underground",
+      "title": "Turn Me On \"Mr. Deadman\"",
+      "services": {
+        "qobuz": "13376658"
+      },
+      "album": "...An Education In Rebellion",
+      "duration": 158,
+      "isrc": "USSM10000893"
+    },
+    {
+      "artist": "Zeromancer",
+      "title": "Doctor Online",
+      "services": {
+        "qobuz": "127875787"
+      },
+      "album": "Eurotrash",
+      "duration": 198,
+      "isrc": "DEA610101664"
+    },
+    {
+      "artist": "American Head Charge",
+      "title": "Just So You Know",
+      "services": {
+        "qobuz": "783413"
+      },
+      "album": "The War Of Art",
+      "duration": 331,
+      "isrc": "USDJ20110960"
+    },
+    {
+      "artist": "Crossbreed",
+      "title": "Breathe",
+      "services": {
+        "qobuz": "127383616"
+      },
+      "album": "Synthetic Division",
+      "duration": 301,
+      "isrc": "TCAFP2146429"
+    },
+    {
+      "artist": "Katatonic Silentio",
+      "title": "Primordial Blossom",
+      "services": {
+        "qobuz": "396855250"
+      },
+      "album": "Paradise Mountain",
+      "duration": 179,
+      "isrc": "DEG932600606"
+    },
+    {
+      "artist": "tweaker",
+      "title": "Ruby (Instrumental)",
+      "services": {
+        "qobuz": "347343479"
+      },
+      "album": "2 A.M. Wakeup Call (The Instrumentals)",
+      "duration": 223,
+      "isrc": "NLRD51831654"
+    },
+    {
+      "artist": "Deadsy",
+      "title": "The Key To Gramercy Park",
+      "services": {
+        "qobuz": "8700178"
+      },
+      "album": "Commencement",
+      "duration": 192,
+      "isrc": "USDW10200029"
+    },
+    {
+      "artist": "Kidneythieves",
+      "title": "Before I'm Dead",
+      "services": {
+        "qobuz": "44137026"
+      },
+      "album": "Queen Of The Damned (Music From The Motion Picture)",
+      "duration": 276,
+      "isrc": "US2IR0100075"
+    },
+    {
+      "artist": "PMM",
+      "title": "Slow",
+      "services": {
+        "qobuz": "753993"
+      },
+      "album": "Professional Murder Music",
+      "duration": 237,
+      "isrc": "USIR19915054"
+    },
+    {
+      "artist": "Celldweller",
+      "title": "Switchback",
+      "services": {
+        "qobuz": "49631083"
+      },
+      "album": "Celldweller 10 Year Anniversary",
+      "duration": 302,
+      "isrc": "USHM20435087"
+    },
+    {
+      "artist": "Dope Stars Inc.",
+      "title": "Bang Your Head",
+      "services": {
+        "qobuz": "128709399"
+      },
+      "album": "Gigahearts",
+      "duration": 180,
+      "isrc": "DEZ900702379"
+    },
+    {
+      "artist": "Eisbrecher",
+      "title": "Eisbrecher",
+      "services": {
+        "qobuz": "216446597"
+      },
+      "album": "Es bleibt kalt\u00b0! (2003-2023)",
+      "duration": 243,
+      "isrc": "DEE861300772"
+    },
+    {
+      "artist": "Oomph!",
+      "title": "Augen auf",
+      "services": {
+        "qobuz": "295145"
+      },
+      "album": "Augen Auf",
+      "duration": 203,
+      "isrc": "DEC760300223"
+    },
+    {
+      "artist": "Slick Idiot",
+      "title": "Xcess",
+      "services": {
+        "qobuz": "51103316"
+      },
+      "album": "DickNity",
+      "duration": 359,
+      "isrc": "USA370576069"
+    },
+    {
+      "artist": "Mindless Self Indulgence",
+      "title": "Shut Me Up",
+      "services": {
+        "qobuz": "48841381"
+      },
+      "album": "You'll Rebel To Anything",
+      "duration": 167,
+      "isrc": "US68L0500001"
+    },
+    {
+      "artist": "Deadstar Assembly",
+      "title": "Send Me An Angel",
+      "services": {
+        "qobuz": "72919492"
+      },
+      "album": "Deadstar Assembly",
+      "duration": 254,
+      "isrc": "USHM20404021"
+    },
+    {
+      "artist": "Deathstars",
+      "title": "Synthetic Generation",
+      "services": {
+        "qobuz": "61266707"
+      },
+      "album": "Synthetic Generation",
+      "duration": 208,
+      "isrc": "DED830369502"
+    },
+    {
+      "artist": "Iamx",
+      "title": "Spit It Out",
+      "services": {
+        "qobuz": "145576089"
+      },
+      "album": "The Alternative",
+      "duration": 238,
+      "isrc": "DEBC40600114"
+    },
+    {
+      "artist": "Daniel Eriksen",
+      "title": "Let's Burn Down The Cornfield",
+      "services": {
+        "qobuz": "296961303"
+      },
+      "album": "There'll Be A Time When The Sun Will Refuse To Shine",
+      "duration": 280,
+      "isrc": "NOCLV2401080"
+    },
+    {
+      "artist": "Black Light Burns",
+      "title": "Burn the World",
+      "services": {
+        "qobuz": "144108696"
+      },
+      "album": "The Moment You Realize You're Going to Fall",
+      "duration": 258,
+      "isrc": "TCAFZ2267923"
+    },
+    {
+      "artist": "Emigrate",
+      "title": "My World",
+      "services": {
+        "qobuz": "20106570"
+      },
+      "album": "Emigrate",
+      "duration": 257,
+      "isrc": "DEGD80700003"
+    },
+    {
+      "artist": "Blue Stahli",
+      "title": "ULTRAnumb",
+      "services": {
+        "qobuz": "49632387"
+      },
+      "album": "Blue Stahli",
+      "duration": 265,
+      "isrc": "USI4R1058115"
+    },
+    {
+      "artist": "Jesse Bru",
+      "title": "Lucid Dreaming",
+      "services": {
+        "qobuz": "150173291"
+      },
+      "album": "Happiness Therapy LP01: The Coast",
+      "duration": 188,
+      "isrc": "FRS182042503"
+    },
+    {
+      "artist": "Julien K",
+      "title": "Kick the Bass (2004 Demo)",
+      "services": {
+        "qobuz": "327033667"
+      },
+      "album": "Time Capsule: A Future Retrospective 2004 - 2017",
+      "duration": 270,
+      "isrc": "QMP7G1700267"
+    },
+    {
+      "artist": "Liars",
+      "title": "No.1 Against the Rush",
+      "services": {
+        "qobuz": "5652948"
+      },
+      "album": "Wixiw",
+      "duration": 310,
+      "isrc": "GBR8R1100389"
+    },
+    {
+      "artist": "Beasto Blanco",
+      "title": "Machine Girl",
+      "services": {
+        "qobuz": "207267100"
+      },
+      "album": "Beasto Blanco",
+      "duration": 218,
+      "isrc": "QMPD81600020"
+    },
+    {
+      "artist": "Health",
+      "title": "STONEFIST",
+      "services": {
+        "qobuz": "26171411"
+      },
+      "album": "DEATH MAGIC",
+      "duration": 204,
+      "isrc": "USC4R1500544"
+    },
+    {
+      "artist": "The Soft Moon",
+      "title": "Black",
+      "services": {
+        "qobuz": "335425267"
+      },
+      "album": "Deeper",
+      "duration": 208,
+      "isrc": "QMMZN1521802"
+    },
+    {
+      "artist": "Street Sects",
+      "title": "In for a World of Hurt",
+      "services": {
+        "qobuz": "53088731"
+      },
+      "album": "The Kicking Mule",
+      "duration": 269,
+      "isrc": "USA2Z1811323"
+    },
+    {
+      "artist": "3TEETH",
+      "title": "AMERICAN LANDFILL",
+      "services": {
+        "qobuz": "60003851"
+      },
+      "album": "METAWAR",
+      "duration": 188,
+      "isrc": "USQX91900121"
+    },
+    {
+      "artist": "Algiers",
+      "title": "The Underside of Power",
+      "services": {
+        "qobuz": "41584619"
+      },
+      "album": "The Underside of Power",
+      "duration": 252,
+      "isrc": "USMTD1709157"
+    },
+    {
+      "artist": "Author & Punisher",
+      "title": "Nihil Strength",
+      "services": {
+        "qobuz": "51734546"
+      },
+      "album": "Beastland",
+      "duration": 216,
+      "isrc": "US2641838302"
+    },
+    {
+      "artist": "Uniform",
+      "title": "Tabloid",
+      "services": {
+        "qobuz": "36879375"
+      },
+      "album": "Wake in Fright",
+      "duration": 195,
+      "isrc": "US5NR1717001"
+    },
+    {
+      "artist": "Poppy",
+      "title": "BLOODMONEY",
+      "services": {
+        "qobuz": "338329753"
+      },
+      "album": "I Disagree",
+      "duration": 182,
+      "isrc": "USYFZ1924103"
+    }
+  ]
+}

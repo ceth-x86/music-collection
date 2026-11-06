@@ -1,0 +1,108 @@
+# Genre: Indie Folk
+
+Imported genre playlist: Indie Folk.
+
+Services: `qobuz:66732674` `tidal:a4ba9ce6-23fc-41fe-9e10-ad8a2ed94a33`
+
+## Tracks (100)
+
+- **Palace Brothers** — Ohio River Boat Song [Ohio River Boat Song] (4:26) `isrc:US58L1802501` `qobuz:48468671`
+- **Remour** — In the Aeroplane Over the Sea [In the Aeroplane Over the Sea] (3:20) `isrc:QT3FA2549800` `qobuz:362122425`
+- **Smog** — Dress Sexy At My Funeral [Dongs Of Sevotion] (5:30) `isrc:US58L0516902` `qobuz:48471361`
+- **The Be Good Tanyas** — Waiting Around To Die [Chinatown] (5:14) `isrc:CAN110300015` `qobuz:145681753`
+- **Bright Eyes** — Haligh, Haligh, A Lie, Haligh [Fevers and Mirrors] (4:43) `isrc:US2U61623508` `qobuz:362949039`
+- **Microphones** — I Want Wind to Blow [The Glow, Pt. 2] (5:32) `isrc:USI4R1130481` `qobuz:39418009`
+- **Kings Of Convenience** — Failure [Quiet Is The New Loud] (3:33) `isrc:GBDCG0000081` `qobuz:192471125`
+- **Damien Rice** — The Blower's Daughter [O] (4:47) `isrc:IEABD0100003` `qobuz:2586932`
+- **The Decemberists** — California One / Youth and Beauty Brigade [Castaways and Cutouts] (9:50) `isrc:USKRS0339710` `qobuz:73675370`
+- **M. Ward** — Vincent O'Brien [Transfiguration Of Vincent] (2:37) `isrc:USMRG0306003` `qobuz:13042273`
+- **José González** — Heartbeats [Veneer] (2:40) `isrc:SENAA2300104` `qobuz:397505236`
+- **Songs: Ohia** — Farewell Transmission [Magnolia Electric Co.] (7:22) `isrc:US38W1330001` `qobuz:57707221`
+- **Iron & Wine** — Naked as We Came [Our Endless Numbered Days] (2:32) `isrc:USSUB0400095` `qobuz:407819034`
+- **Devendra Banhart** — Never Seen Such Good Things [Mala] (3:14) `isrc:USNO11300066` `qobuz:11091583`
+- **Okkervil River** — For Real [Black Sheep Boy] (4:43) `isrc:US38Y0510527` `qobuz:27677680`
+- **The Mountain Goats** — This Year [The Sunset Tree] (3:53) `isrc:GBAFL1400192` `qobuz:20023951`
+- **Mount Eerie** — You Swan, Go On [Lost Wisdom] (1:32) `isrc:USI4R0806562` `qobuz:71601091`
+- **Akron/Family** — Italy [Akron/Family] (8:08) `isrc:USA3T0500016` `qobuz:48065202`
+- **Wille and the Bandits** — Keep It on the Down-low [The Kernow Sessions] (6:03) `isrc:GBDUZ2300005` `qobuz:192994467`
+- **Two Gallants** — Las Cruces Jail [What The Toll Tells] (5:46) `isrc:US2U60609101` `qobuz:129156633`
+- **Fionn Regan** — Be Good or Be Gone [The End of History] (3:19) `isrc:GBBRP0611901` `qobuz:250027418`
+- **Alexi Murdoch** — Orange Sky [Four Songs] (6:19) `isrc:US4B80400002` `qobuz:14440549`
+- **Midlake** — Roscoe [The Trials of Van Occupanther] (4:46) `isrc:GBBRP0611701` `qobuz:18768436`
+- **Laura Veirs** — Galaxies [Year of Meteors] (3:35) `isrc:USNO10589302` `qobuz:49725378`
+- **Deer Tick** — Ashamed [War Elephant] (2:12) `isrc:USME31000081` `qobuz:305008902`
+- **Great Lake Swimmers** — Your Rocky Spine [Ongiara] (3:36) `isrc:CAN110700016` `qobuz:145678389`
+- **Bon Iver** — Skinny Love [For Emma, Forever Ago] (3:58) `isrc:US38Y0811503` `qobuz:20956200`
+- **Fleet Foxes** — White Winter Hymnal [Fleet Foxes] (2:27) `isrc:USNO11700081` `qobuz:39146185`
+- **The Low Anthem** — Charlie Darwin [Oh My God, Charlie Darwin] (4:32) `isrc:GBBRP0920201` `qobuz:11119323`
+- **Bowerbirds** — In Our Talons [Hymns For a Dark Horse] (3:53) `isrc:USJ5G0831702` `qobuz:2967857`
+- **The Dodos** — Fools [Visiter] (4:42) `isrc:USJMZ0800027` `qobuz:306858360`
+- **Blitzen Trapper** — Furr [Live at Third Man Records] (4:53) `isrc:US3JJ1601124` `qobuz:370464672`
+- **Noah And The Whale** — 5 Years Time [Peaceful, The World Lays Me Down] (3:34) `isrc:GBUM70804501` `qobuz:3969847`
+- **Gregory Alan Isakov** — The Stable Song [That Sea, The Gambler] (6:00) `isrc:USHM80743720` `qobuz:74461157`
+- **Edward Sharpe & The Magnetic Zeros** — Home [Up from Below] (5:03) `isrc:USVR90954206` `qobuz:280505060`
+- **The Avett Brothers** — I And Love And You [I And Love And You] (4:59) `isrc:USSM10903395` `qobuz:19761542`
+- **Alela Diane** — White as Diamonds [To Be Still] (3:36) `isrc:GBQWS0700029` `qobuz:38786617`
+- **The Tallest Man On Earth** — Love is All [The Wild Hunt] (4:15) `isrc:USJ5G1034007` `qobuz:2117459`
+- **Laura Marling** — Sophia [A Creature I Don't Know] (4:51) `isrc:GBAAA1100145` `qobuz:13277212`
+- **First Aid Kit** — Tangerine [Drunken Trees EP] (3:13) `isrc:GBDNH0801071` `qobuz:10467399`
+- **Angus & Julia Stone** — Big Jet Plane [Down The Way] (3:58) `isrc:AUAP10900011` `qobuz:4091383`
+- **Of Monsters and Men** — Dirty Paws [My Head Is An Animal] (4:28) `isrc:USUM71202066` `qobuz:119828230`
+- **The Head And The Heart** — Rivers and Roads [Rivers and Roads] (5:14) `isrc:USSUB2674713` `qobuz:412189564`
+- **The Civil Wars** — Poison & Wine [Barton Hollow] (3:39) `isrc:USW5Q1100005` `qobuz:5039378`
+- **Ben Howard** — Old Pine [Every Kingdom] (5:28) `isrc:GBUM71106250` `qobuz:8636771`
+- **The Lumineers** — Ho Hey [Ho Hey] (2:43) `isrc:USDMG1260805` `qobuz:273951038`
+- **Gavin Mikhail** — I Will Wait (Mumford & Sons Cover) [I Will Wait (Mumford & Sons Cover)] (4:42) `isrc:USA2P1279130` `qobuz:6916051`
+- **The Staves** — Mexico [Dead & Born & Grown] (4:06) `isrc:GBAHS1100390` `qobuz:6972745`
+- **Milo Greene** — 1957 [Milo Greene] (3:23) `isrc:USAT21202460` `qobuz:5875424`
+- **The Paper Kites** — Bloom [Woodland] (3:30) `isrc:TCAAZ1171906` `qobuz:146513438`
+- **Daughter** — Youth [If You Leave] (4:13) `isrc:GBAFL1200314` `qobuz:8019030`
+- **The Milk Carton Kids** — Snake Eyes [The Ash & Clay] (2:38) `isrc:USEP41235014` `qobuz:77607588`
+- **The Oh Hellos** — Hello My Old Heart [The Oh Hellos EP] (4:16) `isrc:USCGJ1205481` `qobuz:119730181`
+- **Phosphorescent** — Song for Zula [Muchacho] (6:10) `isrc:USJ5G1305002` `qobuz:8027683`
+- **The Lone Bellow** — You Never Need Nobody [The Lone Bellow] (4:49) `isrc:USA5W1200383` `qobuz:10249258`
+- **Bear's Den** — Agape [Islands] (4:16) `isrc:GB6TW1400045` `qobuz:116555042`
+- **Nick Mulvey** — Fever To The Form [First Mind] (4:12) `isrc:GBUM71308779` `qobuz:16339268`
+- **Vance Joy** — Riptide [Dream Your Life Away] (3:22) `isrc:USAT21301414` `qobuz:27225145`
+- **The Barr Brothers** — Beggar in the Morning [The Barr Brothers] (5:55) `isrc:CA0RZ1100071` `qobuz:93521769`
+- **Shakey Graves** — Dearly Departed (feat. Esmé Patterson) [And The War Came] (3:32) `isrc:US92H1400003` `qobuz:272819646`
+- **Lord Huron** — The Night We Met [Strange Trails] (3:28) `isrc:US53Q1200103` `qobuz:328339180`
+- **Houndmouth** — Sedona [Little Neon Limelight] (3:59) `isrc:GBCVZ1403597` `qobuz:22904155`
+- **Sufjan Stevens** — Should Have Known Better [Carrie & Lowell] (5:08) `isrc:US64G1509902` `qobuz:23201890`
+- **Father John Misty** — Chateau Lobby #4 (in C for Two Virgins) [Chateau Lobby #4 (in C for Two Virgins)] (2:50) `isrc:USSUB1411502` `qobuz:21280675`
+- **Jessica Pratt** — Back, Baby [On Your Own Love Again] (3:55) `isrc:US58L1560608` `qobuz:307566769`
+- **Hiss Golden Messenger** — Super Blue (Two Days Clean) [Poor Moon] (4:31) `isrc:USCBL1233007` `qobuz:7019361`
+- **Julia Jacklin** — Pool Party [Don't Let the Kids Win] (4:16) `isrc:TCACM1659395` `qobuz:35435628`
+- **Tall Heights** — Spirit Cold [Neptune] (3:42) `isrc:USQX91601335` `qobuz:424923907`
+- **The Weather Station** — Thirty [The Weather Station] (3:40) `isrc:QM5L81700039` `qobuz:42226011`
+- **Aldous Harding** — Horizon [Party] (4:09) `isrc:GBAFL1700091` `qobuz:40817570`
+- **Phoebe Bridgers** — Georgia [Stranger in the Alps] (4:07) `isrc:USJ5G1714207` `qobuz:53660398`
+- **Johnny Flynn** — The Water [Been Listening] (4:13) `isrc:GBKZV1025578` `qobuz:19773962`
+- **Haley Heynderickx** — Oom Sha La La [I Need to Start a Garden] (2:57) `isrc:QMFW91700128` `qobuz:46515202`
+- **Novo Amor** — State Lines [Birthplace] (3:28) `isrc:GB45A1800990` `qobuz:50076828`
+- **Field Medic** — talkin johnny & june (your arms around me) [talkin johnny & june (your arms around me)] (2:42) `isrc:QMCE71302728` `qobuz:89652689`
+- **Angie McMahon** — Slow Mover [Salt] (3:10) `isrc:GBKPL1789869` `qobuz:170680129`
+- **Leif Vollebekk** — Long Blue Light [Long Blue Light] (3:20) `isrc:CA0RZ2000141` `qobuz:104028280`
+- **Fruit Bats** — The Saddest Part of the Song [The Landfill] (3:01) `isrc:USMRG2688701` `qobuz:396976967`
+- **Hollow Coves** — When We Were Young [Moments] (4:18) `isrc:CAN111900221` `qobuz:146513328`
+- **Roo Panes** — A Message To Myself [Quiet Man] (5:23) `isrc:GB5UQ1700196` `qobuz:60825933`
+- **Adrianne Lenker** — anything [songs] (3:22) `isrc:GBAFL2000252` `qobuz:99278043`
+- **Bonny Light Horseman** — Deep In Love [Bonny Light Horseman] (5:09) `isrc:QMB621900802` `qobuz:73005554`
+- **This Is The Kit** — This Is When The Sky Gets Big [Careful Of Your Keepers] (3:50) `isrc:GBCVZ2300008` `qobuz:201493864`
+- **Christian Lee Hutson** — Northsiders [Beginners] (3:43) `isrc:USEP42002005` `qobuz:94029232`
+- **Jess Williamson** — Infinite Scroll [Sorceress] (4:10) `isrc:QMV8L1928005` `qobuz:296654454`
+- **Cassandra Jenkins** — Hard Drive [An Overview on Phenomenal Nature] (5:27) `isrc:USCPT2116403` `qobuz:156380691`
+- **Reb Fountain** — Psyche [Iris] (5:51) `isrc:NZFN02100100` `qobuz:312076091`
+- **Big Thief** — Simulation Swarm [Dragon New Warm Mountain I Believe In You] (4:12) `isrc:GBAFL2100193` `qobuz:136139007`
+- **Florist** — Spring in Hours [Florist] (6:05) `isrc:QZAZS2208704` `qobuz:149902248`
+- **Angel Olsen** — All The Good Times [Big Time] (4:36) `isrc:US38Y2142401` `qobuz:160154557`
+- **Kevin Morby** — This Is A Photograph [This Is A Photograph] (3:30) `isrc:USJ5G2131601` `qobuz:145615882`
+- **S. Carey** — Break Me Open [Break Me Open] (3:03) `isrc:US38Y2142309` `qobuz:142388423`
+- **Kate Bollinger** — Yards / Gardens [Look at it in the Light] (2:21) `isrc:US2J72100201` `qobuz:145433273`
+- **Lomelda** — Hannah Sun [Hannah] (3:28) `isrc:QZAZS2007302` `qobuz:95933015`
+- **Julie Byrne** — Flare [The Greater Wings] (3:47) `isrc:US2J72301607` `qobuz:201569106`
+- **Fenne Lily** — Lights Light Up [Big Picture] (4:12) `isrc:USJ5G2232903` `qobuz:189866724`
+- **Billie Marten** — Garden of Eden [Flora Fauna] (3:18) `isrc:GBUM72005706` `qobuz:109213070`
+- **Waxahatchee** — Right Back to It [Tigers Blood] (4:33) `isrc:USEP42346004` `qobuz:243067674`
+- **Jacob Alon** — Liquid Gold 25 [In Limerence] (4:27) `isrc:GBUM72407797` `qobuz:319882711`
+- **Constant Smiles** — Allowed to Be [Moonflowers] (4:21) `isrc:QMGEB2511603` `qobuz:347765235`

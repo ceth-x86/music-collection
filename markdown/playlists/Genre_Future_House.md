@@ -1,0 +1,108 @@
+# Genre: Future House
+
+Imported genre playlist: Future House.
+
+Services: `qobuz:66715962`
+
+## Tracks (100)
+
+- **Tchami** — Promesses (feat. Kaleem Taylor) [Promesses (feat. Kaleem Taylor)] (2:39) `isrc:GBCEN1401100` `qobuz:47422305`
+- **Pure Hitstars** — You got me intoxicated (Tribute to Martin Solveig and GTA) [You got me intoxicated (Tribute to Martin Solveig and GTA)] (3:17) `isrc:FR59R1596173` `qobuz:23841138`
+- **Oliver Heldens** — Gecko (Overdrive) [Gecko (Overdrive)] (2:45) `isrc:CYA111400063` `qobuz:16732805`
+- **Kideko** — The Jam [The Jam] (3:12) `isrc:GBARL1501110` `qobuz:26272766`
+- **Vicetone** — Catch Me [Catch Me] (3:12) `isrc:USDM31575902` `qobuz:365642499`
+- **Curbi** — Discharge [Discharge] (4:22) `isrc:NLZ541500010` `qobuz:47145662`
+- **David Zowie** — House Every Weekend [House Every Weekend] (3:03) `isrc:GBUM71502520` `qobuz:24274418`
+- **Pep & Rash** — Rumors [Rumors] (2:51) `isrc:NLZ541401079` `qobuz:47599756`
+- **New Order** — Waiting for the Sirens' Call (2015 Remaster) [Esperando el avión] (5:39) `isrc:GBAAP1500043` `qobuz:267398436`
+- **Freed** — DJ SAYANG TULUNG KOWE OJO LUNGO X RUNGKONO KANG MAS AKU GELO RASAH BALI VIRAL TIK TOK [DJ SAYANG TULUNG KOWE OJO LUNGO X RUNGKONO KANG MAS AKU GELO RASAH BALI VIRAL TIK TOK] (4:10) `isrc:DGA0Q2375027` `qobuz:242943567`
+- **Chocolate Puma** — Listen To The Talk [Listen To The Talk] (3:08) `isrc:NLZ541600008` `qobuz:47156332`
+- **Don Diablo** — Cutting Shapes [Cutting Shapes] (2:59) `isrc:NLZ541601041` `qobuz:46651833`
+- **Myalansky** — Its Crazy (Intro) [Drastic Measures II] (3:30) `isrc:USL4R1810789` `qobuz:67417621`
+- **Julian Jordan** — Oldskool [Oldskool] (2:41) `isrc:NLM5S1900549` `qobuz:61535419`
+- **Lucas & Steve** — Love On My Mind [Love On My Mind] (3:00) `isrc:NLZ541601000` `qobuz:47148101`
+- **Kylie Minogue** — In My Arms [X] (3:30) `isrc:GBAYE0703009` `qobuz:1733494`
+- **Mike Williams** — Sweet & Sour [Sweet & Sour] (2:57) `isrc:CYA111600004` `qobuz:46676707`
+- **Tv Noise** — Tell Me [Tell Me] (4:47) `isrc:GB5HL1500004` `qobuz:47251818`
+- **Bougenvilla** — No Sleep [No Sleep] (3:29) `isrc:TCACY1784161` `qobuz:110707107`
+- **Brooks** — Boomerang [Boomerang] (3:15) `isrc:NLM5S1600118` `qobuz:44035630`
+- **Jonas Aden** — Strangers Do [Strangers Do] (2:33) `isrc:CYA111800379` `qobuz:88173608`
+- **Mesto** — Chances (feat. Brielle Von Hugel) [Chances (feat. Brielle Von Hugel)] (3:16) `isrc:NLZ541700548` `qobuz:47189580`
+- **Merk & Kremont** — Sad Story (Out Of Luck) [Sad Story] (3:32) `isrc:NLZ541700093` `qobuz:47147912`
+- **Justin Mylo** — Out Of Time [Out Of Time] (2:52) `isrc:NLM5S2502455` `qobuz:319337329`
+- **Toby Green** — Work It [Work It] (2:37) `isrc:CYA111900016` `qobuz:92199138`
+- **Madison Mars** — Milky Way [Milky Way] (3:12) `isrc:NLZ541600034` `qobuz:381691217`
+- **Stephen Sagan** — Happy Alone [Happy Alone] (3:22) `isrc:TCAJZ2516614` `qobuz:350807007`
+- **Mr. Belt & Wezol** — Finally [Finally] (5:45) `isrc:NLZ541500122` `qobuz:47145685`
+- **RetroVision** — Get Down [Get Down] (2:42) `isrc:CYA111800120` `qobuz:89919125`
+- **ATLiens** — Tantra [Ghost Planet] (2:08) `isrc:CA5KR1966946` `qobuz:190802777`
+- **Jay Hardway** — Need It [Need It] (3:14) `isrc:NLZ541700788` `qobuz:47158988`
+- **SWACQ** — No Strings Attached [No Strings Attached] (3:01) `isrc:NLM5S1900630` `qobuz:67429098`
+- **Adrian Fyrla** — Collide [Collide] (3:02) `isrc:NL1ZN2000896` `qobuz:116749869`
+- **The Wombats** — Blood On The Hospital Floor [Oh! The Ocean] (3:06) `isrc:QMDA62406244` `qobuz:293296627`
+- **SITHEA** — Figure It Out [Figure It Out] (3:19) `isrc:QZTV32479030` `qobuz:268931486`
+- **Flayer** — Wanna Get Back Your Love [Wanna Get Back Your Love] (7:50) `isrc:ITN341900558` `qobuz:64104144`
+- **BCMP** — In My Eyes [In My Eyes] (4:01) `isrc:NL1ZN2302258` `qobuz:204371706`
+- **Approaching Nirvana** — Illusion (Extended Mix) [feat. Brenton Mattheus] [Illusions] (6:11) `isrc:TCABL1213299` `qobuz:128662620`
+- **Grace Kim** — Never Give Up [Milk & Sugar House Nation Ibiza 2025] (4:48) `isrc:DERN42500102` `qobuz:356925090`
+- **KPLR** — Safer On My Own [Safer On My Own] (3:01) `isrc:GBKQU2136585` `qobuz:119365768`
+- **Now O Later** — Alive [Alive] (2:48) `isrc:CH3132001298` `qobuz:120213145`
+- **Sebastian Ingrosso** — Calling (Lose My Mind) [Until Now] (6:13) `isrc:GBJ4B1200057` `qobuz:12186081`
+- **Dario Rodriguez** — All I Need (feat. Mika Setzer) [All I Need (feat. Mika Setzer)] (2:41) `isrc:DEA622100504` `qobuz:121803586`
+- **Sheridan Grout** — Bad Days [Bad Days] (6:01) `isrc:NLD681800596` `qobuz:47923541`
+- **Nik Kershaw** — I Won't Let The Sun Go Down On Me [Human Racing] (6:31) `isrc:GBUM70704954` `qobuz:167526480`
+- **Mighty Sam McClain** — Why Do We Have To Say Goodbye? [One More Bridge To Cross] (5:17) `isrc:USCGJ1080361` `qobuz:242830950`
+- **DJ Kuba** — Sandstorm [Sandstorm] (4:18) `isrc:NL1ZN2302185` `qobuz:200415121`
+- **Mads Gismerica** — Lights In The City [Sunday Vibes] (2:15) `isrc:CA5KR2171776` `qobuz:402640636`
+- **Fabian Hernandez DFH** — La Calle [Echoes from the Tribal Heart, Vol.01] (5:04) `isrc:DEW872306399` `qobuz:278371614`
+- **LP Giobbi** — All In A Dream [All In A Dream] (3:50) `isrc:GBCFB2200357` `qobuz:163631704`
+- **Marc Benjamin** — Lovin' You [Lovin' You] (2:22) `isrc:GBKQU2134400` `qobuz:120363795`
+- **Maurice Lessing** — Home [Home] (5:13) `isrc:NL1ZN2301966` `qobuz:184925866`
+- **Melsen** — Walk Alone [Walk Alone] (2:58) `isrc:CH3131915533` `qobuz:105099714`
+- **Waltry** — Take Me There [Ibiza Music 2024] (3:59) `isrc:GBKQU2152365` `qobuz:273020627`
+- **The Beaches** — Can I Call You in the Morning? [No Hard Feelings] (2:52) `isrc:QM6N22532874` `qobuz:329659904`
+- **David Acres** — Follow Me [Sign Of Life EP] (5:29) `isrc:GBKQU2546677` `qobuz:338520015`
+- **Rush & Hydro** — Alterate [Alterate / Push] (2:53) `isrc:UKKGA2100031` `qobuz:121067255`
+- **The Count Basie Orchestra** — I Keep Remembering (Someone I Should Forget) [The Complete Decca Recordings] (2:47) `isrc:USMC13762682` `qobuz:52557378`
+- **Siine** — Destiny [Destiny] (2:37) `isrc:NLUM72100353` `qobuz:121542928`
+- **Dropgun** — Stay [Stay] (3:20) `isrc:NL1ZN2001208` `qobuz:120962889`
+- **Bud Freeman** — I Got It Bad [Two Moods of Beryl Bryden] (3:49) `isrc:US1A19411308` `qobuz:28940987`
+- **Basement Jaxx** — Never Say Never [Junto] (4:23) `isrc:GBPVV1400877` `qobuz:16971269`
+- **Kosmic Nova** — Secrets [Dancewood Summer Hits 2025] (3:00) `isrc:GBKQU2160492` `qobuz:344249843`
+- **Kolya Dark** — Come on Feel You [Natural Selection Anniversary Music Pack] (2:40) `isrc:FRX202119000` `qobuz:133181503`
+- **Kiras (IT)** — Don't You Worry [Don't You Worry] (3:31) `isrc:DEW872105264` `qobuz:121889940`
+- **VEATZ** — Oye Bichota [Oye Bichota] (3:54) `isrc:UKR6V2521346` `qobuz:355606298`
+- **OOTORO** — Breaking Away [Breaking Away] (3:52) `isrc:NLM5S2101339` `qobuz:122515837`
+- **Percy Faith & His Orchestra** — Be Mine Tonight (Noche De Ronda) [Viva! The Music of Mexico] (3:26) `isrc:USSM10606244` `qobuz:40399430`
+- **Sage** — outta here [Small Town Kid] (3:06) `isrc:CAENV2658399` `qobuz:427420127`
+- **Gary Primich** — Put The Hammer Down [Travelin' Mood] (3:46) `isrc:USFF29463512` `qobuz:77328350`
+- **Raven & Kreyn** — Lift Your Voices [Lift Your Voices] (2:44) `isrc:GBKQU2127826` `qobuz:118806907`
+- **Black Legend** — You See the Trouble with Me [You See the Trouble with Me] (6:38) `isrc:ITL010000115` `qobuz:44007298`
+- **Niklas Adam NKA** — You Could Be The One (feat. Megan Simpson) [You Could Be The One (feat. Megan Simpson)] (3:22) `isrc:QZMEN2651255` `qobuz:395523069`
+- **Masha Grove** — Shooting Stars in the Rain [Shooting Stars in the Rain] (2:34) `isrc:QT4K52519312` `qobuz:340949496`
+- **VASSCA** — Secrets [Secrets] (6:31) `isrc:CH3132001321` `qobuz:120408260`
+- **Joy Again** — Looking Out for You [Looking Out for You] (2:59) `isrc:GBJET1500070` `qobuz:122121260`
+- **Ca7riel & Paco Amoroso** — EL DÍA DEL AMIGO [PAPOTA] (2:50) `isrc:US5022500035` `qobuz:320004495`
+- **Tony Romera** — Waste My Time [Waste My Time] (4:45) `isrc:GBJAJ2600458` `qobuz:404204259`
+- **Househeadz** — We Call It House [Inner Sense - ADE 2024 Compilation] (6:22) `isrc:UKR6V2420828` `qobuz:291864098`
+- **Majority One** — Looks Like Rain [What A Groovy Day: The British Sunshine Pop Sound 1967-1972] (2:49) `isrc:GBBLY0603751` `qobuz:190543207`
+- **James Brown** — People Get Up And Drive Your Funky Soul [Motherlode] (9:04) `isrc:USUR10300488` `qobuz:56961095`
+- **Audien** — Lose It All [First Love] (4:35) `isrc:NLF712504119` `qobuz:388369494`
+- **Lino Q** — O-Di-C-A [O-Di-C-A] (2:52) `isrc:USDY42617418` `qobuz:400048404`
+- **Going Deeper** — Without You [Without You] (2:57) `isrc:GBKQU2150860` `qobuz:122065736`
+- **Delerium** — Falling Back to You (Myon Return to 2000 Extended Mix) [Falling Back to You (Myon Remixes)] (6:24) `isrc:US57M2330516` `qobuz:259771745`
+- **Smack** — Ride Or Die [Ride Or Die] (2:59) `isrc:GBKQU2146297` `qobuz:120794357`
+- **Gabry Ponte** — Rabbit Hole [Rabbit Hole] (2:34) `isrc:ITV952100018` `qobuz:121935804`
+- **IMANU** — A Taste of Hope [A Taste of Hope (Hallowvale)] (3:48) `isrc:GB2LD2110131` `qobuz:155873253`
+- **Dada Life** — Love Is Coming Down [Blood, Sweat & Smiles] (3:03) `isrc:NLQ8D2100847` `qobuz:146250465`
+- **Petit Biscuit** — Pick Your Battles [Parachute Remixes] (3:46) `isrc:FR8PF2100040` `qobuz:115458677`
+- **Klingande** — Better Man [Better Man] (2:43) `isrc:USUS12100230` `qobuz:232325362`
+- **Kaan** — Sirens - Sweet Dreams [Sirens - Sweet Dreams (Sean Norvis Remix)] (3:03) `isrc:GBKQU2167507` `qobuz:123448430`
+- **Yo La Tengo** — I Feel Like Going Home [I Am Not Afraid Of You And I Will Beat Your Ass] (4:14) `isrc:USMTD0669203` `qobuz:2484991`
+- **Eran Hersh** — Lost in Dubai [Lost in Dubai] (4:56) `isrc:CH3132001324` `qobuz:120367111`
+- **Eugenio Tokarev** — Out Of My Mind [Out Of My Mind] (6:03) `isrc:QZA742525246` `qobuz:401013222`
+- **Ewa Bem** — Medley: Them There Eyes, Love Is Here to Stay, Exactly Like You, the Days of Wine and Roses, Honeysuckle Rose, When the Saints Go Marching In [Be A Man] (6:28) `isrc:PLA248125102` `qobuz:38215029`
+- **Chango** — Stay With Me [Antidote] (3:21) `isrc:QT62V2509947` `qobuz:369593829`
+- **Funkin Matt** — Hope [Hope] (3:56) `isrc:NL1ZN2001161` `qobuz:118901120`
+- **Sage** — outta here [Small Town Kid] (3:06) `isrc:CAENV2658399` `qobuz:427420127`
+- **Black Legend** — You See the Trouble with Me [You See the Trouble with Me] (6:38) `isrc:ITL010000115` `qobuz:44007298`

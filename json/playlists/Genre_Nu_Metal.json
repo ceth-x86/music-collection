@@ -1,0 +1,980 @@
+{
+  "name": "Genre: Nu Metal",
+  "services": {
+    "qobuz": "66733980",
+    "tidal": "41578249-0612-4f5f-b964-cc0e9e8b5eb8"
+  },
+  "description": "Imported genre playlist: Nu Metal.",
+  "tracks": [
+    {
+      "artist": "Korn",
+      "title": "Blind",
+      "services": {
+        "qobuz": "4858474"
+      },
+      "album": "Korn",
+      "duration": 258,
+      "isrc": "USSM10022054"
+    },
+    {
+      "artist": "(Hed) Planet Earth",
+      "title": "Serpent Boy",
+      "services": {
+        "qobuz": "188209"
+      },
+      "album": "(Hed)Pe",
+      "duration": 353,
+      "isrc": "USJI19710127"
+    },
+    {
+      "artist": "Coal Chamber",
+      "title": "Loco",
+      "services": {
+        "qobuz": "168708752"
+      },
+      "album": "Coal Chamber",
+      "duration": 254,
+      "isrc": "NLA329780033"
+    },
+    {
+      "artist": "Deftones",
+      "title": "My Own Summer (Shove It)",
+      "services": {
+        "qobuz": "31159546"
+      },
+      "album": "Around the Fur",
+      "duration": 215,
+      "isrc": "USRE11600084"
+    },
+    {
+      "artist": "Guano Apes",
+      "title": "Open Your Eyes",
+      "services": {
+        "qobuz": "183948"
+      },
+      "album": "Proud Like a God",
+      "duration": 187,
+      "isrc": "DEC689700412"
+    },
+    {
+      "artist": "Nothingface",
+      "title": "Defaced",
+      "services": {
+        "qobuz": "84291448"
+      },
+      "album": "Nothingface",
+      "duration": 195,
+      "isrc": "USHM81299545"
+    },
+    {
+      "artist": "Snot",
+      "title": "Stoopid",
+      "services": {
+        "qobuz": "2378186"
+      },
+      "album": "Get Some",
+      "duration": 231,
+      "isrc": "USGF19711002"
+    },
+    {
+      "artist": "Kid Rock",
+      "title": "Bawitdaba",
+      "services": {
+        "qobuz": "11091922"
+      },
+      "album": "Devil Without a Cause",
+      "duration": 267,
+      "isrc": "USAT21207362"
+    },
+    {
+      "artist": "Ultraspank",
+      "title": "Push",
+      "services": {
+        "qobuz": "5051591"
+      },
+      "album": "Progress",
+      "duration": 231,
+      "isrc": "USSM10006341"
+    },
+    {
+      "artist": "Crazy Town",
+      "title": "Butterfly",
+      "services": {
+        "qobuz": "29267"
+      },
+      "album": "The Gift Of Game",
+      "duration": 216,
+      "isrc": "USSM19911429"
+    },
+    {
+      "artist": "Limp Bizkit",
+      "title": "Break Stuff",
+      "services": {
+        "qobuz": "22393769"
+      },
+      "album": "Significant Other",
+      "duration": 166,
+      "isrc": "USIR19902309"
+    },
+    {
+      "artist": "Machine Head",
+      "title": "From This Day",
+      "services": {
+        "qobuz": "6284526"
+      },
+      "album": "The Burning Red",
+      "duration": 236,
+      "isrc": "NLA329980217"
+    },
+    {
+      "artist": "Powerman 5000",
+      "title": "When Worlds Collide",
+      "services": {
+        "qobuz": "699819"
+      },
+      "album": "Tonight The Stars Revolt",
+      "duration": 177,
+      "isrc": "USDW19910703"
+    },
+    {
+      "artist": "Slapshock",
+      "title": "Agent Orange",
+      "services": {
+        "qobuz": "358854629"
+      },
+      "album": "4th Degree Burn",
+      "duration": 245,
+      "isrc": "PHO019900132"
+    },
+    {
+      "artist": "Slipknot",
+      "title": "Wait and Bleed",
+      "services": {
+        "qobuz": "2809376"
+      },
+      "album": "Slipknot",
+      "duration": 147,
+      "isrc": "NLA329980194"
+    },
+    {
+      "artist": "Staind",
+      "title": "Mudshovel",
+      "services": {
+        "qobuz": "2051944"
+      },
+      "album": "Dysfunction",
+      "duration": 281,
+      "isrc": "USEE19800351"
+    },
+    {
+      "artist": "Videodrone",
+      "title": "Ty Jonathan Down",
+      "services": {
+        "qobuz": "2007348"
+      },
+      "album": "Videodrone",
+      "duration": 261,
+      "isrc": "USRE19900001"
+    },
+    {
+      "artist": "28 Days",
+      "title": "Rip It Up",
+      "services": {
+        "qobuz": "177350012"
+      },
+      "album": "Heaven Is a Halfpipe",
+      "duration": 219,
+      "isrc": "AUMU00000053"
+    },
+    {
+      "artist": "Bender",
+      "title": "Superfly",
+      "services": {
+        "qobuz": "48526693"
+      },
+      "album": "Jehovah's Hitlist",
+      "duration": 173,
+      "isrc": "USTV10000088"
+    },
+    {
+      "artist": "Cold",
+      "title": "Just Got Wicked",
+      "services": {
+        "qobuz": "753980"
+      },
+      "album": "13 Ways To Bleed Onstage",
+      "duration": 240,
+      "isrc": "USIR10000875"
+    },
+    {
+      "artist": "Disturbed",
+      "title": "Down with the Sickness",
+      "services": {
+        "qobuz": "35549998"
+      },
+      "album": "The Sickness",
+      "duration": 279,
+      "isrc": "USRE11500333"
+    },
+    {
+      "artist": "Creedence Clearwater Revival",
+      "title": "I Heard It Through The Grapevine",
+      "services": {
+        "qobuz": "17697027"
+      },
+      "album": "Cosmo's Factory",
+      "duration": 667,
+      "isrc": "USFI87000061"
+    },
+    {
+      "artist": "Kittie",
+      "title": "Brackish",
+      "services": {
+        "qobuz": "25905655"
+      },
+      "album": "Spit",
+      "duration": 189,
+      "isrc": "USAR50010126"
+    },
+    {
+      "artist": "Linkin Park",
+      "title": "One Step Closer",
+      "services": {
+        "qobuz": "7020288"
+      },
+      "album": "Hybrid Theory (Hi-Res Version)",
+      "duration": 155,
+      "isrc": "USWB11201316"
+    },
+    {
+      "artist": "Mudvayne",
+      "title": "Dig",
+      "services": {
+        "qobuz": "31964"
+      },
+      "album": "L.D. 50",
+      "duration": 162,
+      "isrc": "USSM10010700"
+    },
+    {
+      "artist": "Nonpoint",
+      "title": "What A Day",
+      "services": {
+        "qobuz": "53727329"
+      },
+      "album": "Statement",
+      "duration": 198,
+      "isrc": "USMC10001516"
+    },
+    {
+      "artist": "One Minute Silence",
+      "title": "I Wear My Skin",
+      "services": {
+        "qobuz": "167119183"
+      },
+      "album": "One Lie Fits All",
+      "duration": 208,
+      "isrc": "GBCVT0300049"
+    },
+    {
+      "artist": "Papa Roach",
+      "title": "Last Resort",
+      "services": {
+        "qobuz": "58261625"
+      },
+      "album": "Infest",
+      "duration": 199,
+      "isrc": "USDW10021712"
+    },
+    {
+      "artist": "Primer 55",
+      "title": "Loose",
+      "services": {
+        "qobuz": "54321889"
+      },
+      "album": "Introduction To Mayhem",
+      "duration": 182,
+      "isrc": "USIR29905509"
+    },
+    {
+      "artist": "Shuvel",
+      "title": "Set It Off",
+      "services": {
+        "qobuz": "54331295"
+      },
+      "album": "Set It Off",
+      "duration": 236,
+      "isrc": "USIR10000905"
+    },
+    {
+      "artist": "Slaves On Dope",
+      "title": "Pushing Me",
+      "services": {
+        "qobuz": "179436596"
+      },
+      "album": "Klepto",
+      "duration": 192,
+      "isrc": "CAJ229916960"
+    },
+    {
+      "artist": "Soulfly",
+      "title": "Back to the Primitive",
+      "services": {
+        "qobuz": "2809245"
+      },
+      "album": "Primitive",
+      "duration": 262,
+      "isrc": "NLA320019178"
+    },
+    {
+      "artist": "Spineshank",
+      "title": "Synthetic",
+      "services": {
+        "qobuz": "2809213"
+      },
+      "album": "The Height of Callousness [Special Edition]",
+      "duration": 189,
+      "isrc": "NLA320019154"
+    },
+    {
+      "artist": "Sunk Loto",
+      "title": "Sunken Eyes",
+      "services": {
+        "qobuz": "71182139"
+      },
+      "album": "Big Picture Lies (Deluxe Version)",
+      "duration": 274,
+      "isrc": "AUSM00000168"
+    },
+    {
+      "artist": "Taproot",
+      "title": "Poem",
+      "services": {
+        "qobuz": "2925143"
+      },
+      "album": "Welcome",
+      "duration": 189,
+      "isrc": "USAT20201778"
+    },
+    {
+      "artist": "Dropkick Murphys",
+      "title": "Smash Shit Up",
+      "services": {
+        "qobuz": "149738837"
+      },
+      "album": "Turn Up That Dial",
+      "duration": 229,
+      "isrc": "USK251300081"
+    },
+    {
+      "artist": "The Deadlights",
+      "title": "Amplifier",
+      "services": {
+        "qobuz": "32469426"
+      },
+      "album": "The Deadlights",
+      "duration": 205,
+      "isrc": "USEE19900213"
+    },
+    {
+      "artist": "The Union Underground",
+      "title": "Turn Me On \"Mr. Deadman\"",
+      "services": {
+        "qobuz": "13376658"
+      },
+      "album": "...An Education In Rebellion",
+      "duration": 158,
+      "isrc": "USSM10000893"
+    },
+    {
+      "artist": "40 Below Summer",
+      "title": "Step Into the Sideshow",
+      "services": {
+        "qobuz": "76727658"
+      },
+      "album": "Side Show Freaks",
+      "duration": 186,
+      "isrc": "USPJ90800024"
+    },
+    {
+      "artist": "Adema",
+      "title": "Giving In",
+      "services": {
+        "qobuz": "4876538"
+      },
+      "album": "Adema",
+      "duration": 273,
+      "isrc": "USAR10100175"
+    },
+    {
+      "artist": "Alien Ant Farm",
+      "title": "Movies",
+      "services": {
+        "qobuz": "699950"
+      },
+      "album": "Anthology",
+      "duration": 195,
+      "isrc": "USDW10022217"
+    },
+    {
+      "artist": "Boy Hits Car",
+      "title": "Lovefurypassionenergy",
+      "services": {
+        "qobuz": "100145744"
+      },
+      "album": "Worldwide Alive",
+      "duration": 533,
+      "isrc": "QM6XS2000425"
+    },
+    {
+      "artist": "Crossbreed",
+      "title": "Underlined",
+      "services": {
+        "qobuz": "127383615"
+      },
+      "album": "Synthetic Division",
+      "duration": 262,
+      "isrc": "TCAFP2146422"
+    },
+    {
+      "artist": "Darwin's Waiting Room",
+      "title": "Feel So Stupid (Table 9)",
+      "services": {
+        "qobuz": "30870444"
+      },
+      "album": "Orphan",
+      "duration": 194,
+      "isrc": "USMC10110567"
+    },
+    {
+      "artist": "Drowning Pool",
+      "title": "Bodies",
+      "services": {
+        "qobuz": "17795408"
+      },
+      "album": "Sinner",
+      "duration": 201,
+      "isrc": "USWU30006502"
+    },
+    {
+      "artist": "Dry Kill Logic",
+      "title": "Nightmare",
+      "services": {
+        "qobuz": "2808956"
+      },
+      "album": "The Darker Side of Nonsense",
+      "duration": 185,
+      "isrc": "NLA320119417"
+    },
+    {
+      "artist": "Endo",
+      "title": "Suffer",
+      "services": {
+        "qobuz": "41637"
+      },
+      "album": "Evolve",
+      "duration": 240,
+      "isrc": "USSM10017515"
+    },
+    {
+      "artist": "Flaw",
+      "title": "Payback",
+      "services": {
+        "qobuz": "58246041"
+      },
+      "album": "Through The Eyes",
+      "duration": 241,
+      "isrc": "USUR10110793"
+    },
+    {
+      "artist": "From Zero",
+      "title": "Check Ya",
+      "services": {
+        "qobuz": "13533004"
+      },
+      "album": "One Nation Under",
+      "duration": 201,
+      "isrc": "USAR10100063"
+    },
+    {
+      "artist": "Ill Ni\u00f1o",
+      "title": "What Comes Around",
+      "services": {
+        "qobuz": "2809015"
+      },
+      "album": "Revolution Revolucion",
+      "duration": 225,
+      "isrc": "NLA320119509"
+    },
+    {
+      "artist": "Insolence",
+      "title": "Poison Well",
+      "services": {
+        "qobuz": "2948548"
+      },
+      "album": "Revolution",
+      "duration": 209,
+      "isrc": "USMV20100067"
+    },
+    {
+      "artist": "Lifer",
+      "title": "Boring",
+      "services": {
+        "qobuz": "5405763"
+      },
+      "album": "Lifer",
+      "duration": 226,
+      "isrc": "USUR10110303"
+    },
+    {
+      "artist": "No One",
+      "title": "Chemical",
+      "services": {
+        "qobuz": "250347063"
+      },
+      "album": "No One",
+      "duration": 221,
+      "isrc": "USCGH2476108"
+    },
+    {
+      "artist": "NullSet",
+      "title": "Speechless",
+      "services": {
+        "qobuz": "260258626"
+      },
+      "album": "Nullset",
+      "duration": 219,
+      "isrc": "USZXT0811143"
+    },
+    {
+      "artist": "Onesidezero",
+      "title": "Instead Laugh",
+      "services": {
+        "qobuz": "11743289"
+      },
+      "album": "Is This Room Getting Smaller?",
+      "duration": 235,
+      "isrc": "USMV20100106"
+    },
+    {
+      "artist": "P.O.D.",
+      "title": "Alive",
+      "services": {
+        "qobuz": "123013863"
+      },
+      "album": "Satellite",
+      "duration": 203,
+      "isrc": "USRH12101125"
+    },
+    {
+      "artist": "Pressure 4-5",
+      "title": "Beat The World",
+      "services": {
+        "qobuz": "4337918"
+      },
+      "album": "Burning The Process",
+      "duration": 180,
+      "isrc": "USDW10110203"
+    },
+    {
+      "artist": "Seth Slaydon Project",
+      "title": "Room to Breathe",
+      "services": {
+        "qobuz": "428164208"
+      },
+      "album": "Permission to Live Loud",
+      "duration": 298,
+      "isrc": "QT6E72697210"
+    },
+    {
+      "artist": "FaithXtractor",
+      "title": "Relative First Occurrence",
+      "services": {
+        "qobuz": "191515310"
+      },
+      "album": "Contempt for a Failed Dimension",
+      "duration": 205,
+      "isrc": "QMFME2232217"
+    },
+    {
+      "artist": "Reveille",
+      "title": "What You Got",
+      "services": {
+        "qobuz": "362686190"
+      },
+      "album": "Bleed the Sky",
+      "duration": 146,
+      "isrc": "QM4TX2558903"
+    },
+    {
+      "artist": "Saliva",
+      "title": "Click Click Boom",
+      "services": {
+        "qobuz": "52352240"
+      },
+      "album": "Every Six Seconds",
+      "duration": 252,
+      "isrc": "USIR20110005"
+    },
+    {
+      "artist": "Sevendust",
+      "title": "Denial",
+      "services": {
+        "qobuz": "27883810"
+      },
+      "album": "Home",
+      "duration": 257,
+      "isrc": "USTV19900046"
+    },
+    {
+      "artist": "Skrape",
+      "title": "Waste",
+      "services": {
+        "qobuz": "47249505"
+      },
+      "album": "New Killer America",
+      "duration": 209,
+      "isrc": "USRC10000941"
+    },
+    {
+      "artist": "SOiL",
+      "title": "Halo",
+      "services": {
+        "qobuz": "4284417"
+      },
+      "album": "Scars (Expanded Edition)",
+      "duration": 195,
+      "isrc": "USJAY0100076"
+    },
+    {
+      "artist": "Stereomud",
+      "title": "Pain",
+      "services": {
+        "qobuz": "118489"
+      },
+      "album": "Perfect Self",
+      "duration": 217,
+      "isrc": "USLR50100095"
+    },
+    {
+      "artist": "Superheist",
+      "title": "Crank the System",
+      "services": {
+        "qobuz": "237660960"
+      },
+      "album": "The History Between Us",
+      "duration": 225,
+      "isrc": "AUOWA1201841"
+    },
+    {
+      "artist": "Magic Wands",
+      "title": "Daylight",
+      "services": {
+        "qobuz": "221507547"
+      },
+      "album": "Switched",
+      "duration": 360,
+      "isrc": "US57M2331618"
+    },
+    {
+      "artist": "System Of A Down",
+      "title": "Chop Suey!",
+      "services": {
+        "qobuz": "12983955"
+      },
+      "album": "Toxicity",
+      "duration": 210,
+      "isrc": "USSM10107256"
+    },
+    {
+      "artist": "\u00fcnloco",
+      "title": "Face Down",
+      "services": {
+        "qobuz": "2885650"
+      },
+      "album": "Healing",
+      "duration": 244,
+      "isrc": "USMV20000213"
+    },
+    {
+      "artist": "12 Stones",
+      "title": "Broken Road",
+      "services": {
+        "qobuz": "17979210"
+      },
+      "album": "Anthem For The Underdog",
+      "duration": 240,
+      "isrc": "USWU30700043"
+    },
+    {
+      "artist": "Blindspott",
+      "title": "Nil By Mouth",
+      "services": {
+        "qobuz": "68108072"
+      },
+      "album": "Blindspott",
+      "duration": 216,
+      "isrc": "USCGH0521126"
+    },
+    {
+      "artist": "Carajo",
+      "title": "Sacate la Mierda",
+      "services": {
+        "qobuz": "319048376"
+      },
+      "album": "Sacate la Mierda",
+      "duration": 280,
+      "isrc": "ARG601600179"
+    },
+    {
+      "artist": "Downthesun",
+      "title": "We All Die",
+      "services": {
+        "qobuz": "2808644"
+      },
+      "album": "downthesun",
+      "duration": 203,
+      "isrc": "NLA320219898"
+    },
+    {
+      "artist": "Dry Cell",
+      "title": "Body Crumbles",
+      "services": {
+        "qobuz": "44137024"
+      },
+      "album": "Queen Of The Damned (Music From The Motion Picture)",
+      "duration": 183,
+      "isrc": "USWB10200225"
+    },
+    {
+      "artist": "Earshot",
+      "title": "Wait",
+      "services": {
+        "qobuz": "2842439"
+      },
+      "album": "Two",
+      "duration": 212,
+      "isrc": "USWB10400590"
+    },
+    {
+      "artist": "Five Pointe O",
+      "title": "Double X Minus",
+      "services": {
+        "qobuz": "2808889"
+      },
+      "album": "Untitled",
+      "duration": 202,
+      "isrc": "NLA320119651"
+    },
+    {
+      "artist": "Otep",
+      "title": "Blood Pigs",
+      "services": {
+        "qobuz": "4688100"
+      },
+      "album": "Sevas Tra",
+      "duration": 243,
+      "isrc": "USCA20200291"
+    },
+    {
+      "artist": "Pleymo",
+      "title": "New Wave",
+      "services": {
+        "qobuz": "55590232"
+      },
+      "album": "Episode 2 : Medecine Cake",
+      "duration": 211,
+      "isrc": "FRZ080103940"
+    },
+    {
+      "artist": "Project 86",
+      "title": "Oblivion",
+      "services": {
+        "qobuz": "4412180"
+      },
+      "album": "Songs To Burn Bridges By",
+      "duration": 242,
+      "isrc": "USTN10422931"
+    },
+    {
+      "artist": "Pulse Ultra",
+      "title": "Build Your Cages",
+      "services": {
+        "qobuz": "2925135"
+      },
+      "album": "Headspace (EXPLICIT)",
+      "duration": 234,
+      "isrc": "USAT20200728"
+    },
+    {
+      "artist": "RA",
+      "title": "Do You Call My Name",
+      "services": {
+        "qobuz": "123832356"
+      },
+      "album": "The Best of Ra Unplugged EP",
+      "duration": 318,
+      "isrc": "TCABX1464646"
+    },
+    {
+      "artist": "Skindred",
+      "title": "Nobody",
+      "services": {
+        "qobuz": "11733977"
+      },
+      "album": "Babylon",
+      "duration": 236,
+      "isrc": "USAT20400765"
+    },
+    {
+      "artist": "Andreas Guskos",
+      "title": "Future Airplanes&Spaceships",
+      "services": {
+        "qobuz": "334638719"
+      },
+      "album": "New Home",
+      "duration": 221,
+      "isrc": "QZNWX2541186"
+    },
+    {
+      "artist": "Sugarcoma",
+      "title": "Zero Star",
+      "services": {
+        "qobuz": "22160095"
+      },
+      "album": "Becoming Something Else",
+      "duration": 194,
+      "isrc": "GBCKC0200234"
+    },
+    {
+      "artist": "The Blank Theory",
+      "title": "Middle Of Nowhere",
+      "services": {
+        "qobuz": "59936781"
+      },
+      "album": "Beyond The Calm Of The Corridor",
+      "duration": 245,
+      "isrc": "USNLR0200026"
+    },
+    {
+      "artist": "TRUSTcompany",
+      "title": "Downfall",
+      "services": {
+        "qobuz": "58450395"
+      },
+      "album": "The Lonely Position Of Neutral",
+      "duration": 191,
+      "isrc": "USIR10210977"
+    },
+    {
+      "artist": "Element Eighty",
+      "title": "Broken Promises",
+      "services": {
+        "qobuz": "346146390"
+      },
+      "album": "M\u00fasica de Videojuegos",
+      "duration": 197,
+      "isrc": "USUR10300935"
+    },
+    {
+      "artist": "Anthrax",
+      "title": "Inside Out",
+      "services": {
+        "qobuz": "76126467"
+      },
+      "album": "Volume 8: The Threat is Real",
+      "duration": 331,
+      "isrc": "USME31900539"
+    },
+    {
+      "artist": "Motograter",
+      "title": "Down",
+      "services": {
+        "qobuz": "2783659"
+      },
+      "album": "Motograter",
+      "duration": 209,
+      "isrc": "USEE10340398"
+    },
+    {
+      "artist": "Mushroomhead",
+      "title": "Sun Doesn't Rise",
+      "services": {
+        "qobuz": "54893236"
+      },
+      "album": "XIII",
+      "duration": 193,
+      "isrc": "USUR10300762"
+    },
+    {
+      "artist": "Revis",
+      "title": "Caught In The Rain",
+      "services": {
+        "qobuz": "2636754"
+      },
+      "album": "Places For Breathing",
+      "duration": 210,
+      "isrc": "USSM10211502"
+    },
+    {
+      "artist": "Jerk",
+      "title": "Sucked In",
+      "services": {
+        "qobuz": "85336565"
+      },
+      "album": "When Pure Is Defiled",
+      "duration": 173,
+      "isrc": "AUSM00300047"
+    },
+    {
+      "artist": "PMM",
+      "title": "Painkiller Introduction",
+      "services": {
+        "qobuz": "754004"
+      },
+      "album": "Professional Murder Music",
+      "duration": 230,
+      "isrc": "USIR10001010"
+    },
+    {
+      "artist": "Twin Method",
+      "title": "The Abrasive",
+      "services": {
+        "qobuz": "64332663"
+      },
+      "album": "The Volume Of Self",
+      "duration": 186,
+      "isrc": "USA370658736"
+    },
+    {
+      "artist": "Ocean Grove",
+      "title": "Intimate Alien",
+      "services": {
+        "qobuz": "282436112"
+      },
+      "album": "The Rhapsody Tapes",
+      "duration": 212,
+      "isrc": "AUI441600308"
+    },
+    {
+      "artist": "Blind Channel",
+      "title": "Dark Side",
+      "services": {
+        "qobuz": "410192668"
+      },
+      "album": "Dark Side",
+      "duration": 177,
+      "isrc": "FIRAN2100001"
+    },
+    {
+      "artist": "Tetrarch",
+      "title": "I'm Not Right",
+      "services": {
+        "qobuz": "111622298"
+      },
+      "album": "Unstable",
+      "duration": 226,
+      "isrc": "TCAEU2004356"
+    }
+  ]
+}

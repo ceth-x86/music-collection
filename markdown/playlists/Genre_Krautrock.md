@@ -1,0 +1,95 @@
+# Genre: Krautrock
+
+Imported genre playlist: Krautrock.
+
+Services: `qobuz:66737826` `tidal:8b310626-94d3-43a1-9312-50041626d178`
+
+## Tracks (87)
+
+- **Amon Düül** — Der Garten Sandosa im Morgentau [Psychedelic Underground] (8:06) `isrc:DEC371300523` `qobuz:59744836`
+- **Orange Peel** — We Still Try to Change [Orange Peel] (10:04) `isrc:DEA437100045` `qobuz:58226047`
+- **Xhol Caravan** — All Green [Electrip] (7:37) `isrc:USA371249015` `qobuz:44337911`
+- **Ty Segall** — Archangel Thunderbird [Fudge Sandwich] (3:11) `isrc:USA3D1832608` `qobuz:53301919`
+- **Embryo** — You Don't Know What's Happening [Opal] (4:52) `isrc:DEC371300312` `qobuz:49213309`
+- **Floh de Cologne** — Sei ruhig, Fliessbandbaby [Fließbandbabys Beat-Show] (1:32) `isrc:DEZ431120704` `qobuz:54832978`
+- **Gomorrha** — Trauma [Trauma] (13:15) `isrc:DEMV92500252` `qobuz:350236253`
+- **Guru Guru** — Der Lsd-Marsch [Ufo] (8:28) `isrc:QM6XS2002448` `qobuz:104194782`
+- **Kin Ping Meh** — Fairy-Tales [Kin Ping Meh] (9:48) `isrc:DEN120406073` `qobuz:9023462`
+- **Kluster** — Kluster 1 (Electric Music und Texte) [Klopfzeichen] (23:33) `isrc:DELI51200825` `qobuz:49851423`
+- **Kraftwerk** — Ruckzuck [Pop Und Avantgarde] (10:55) `isrc:USY252603261` `qobuz:401214745`
+- **Miracle Tone** — Pure Beta Binaural Beat - Increased Concentration [Binaural Beats - Brainwave Symphony] (5:11) `isrc:GBRKQ2398023` `qobuz:251699903`
+- **Rufus Zuphall** — Walpurgisnacht [Weiss der Teufel] (3:06) `isrc:DEC830900180` `qobuz:55036478`
+- **Sweet Smoke** — Baby Night [Just A Poke] (16:31) `isrc:DEA347000374` `qobuz:238011457`
+- **A.R. & Machines** — Station 1 - Globus [Die Grüne Reise] (2:57) `isrc:DEAQ97102011` `qobuz:380478172`
+- **Annexus Quam** — Osmose I [Osmose] (4:15) `isrc:DEC371300246` `qobuz:49214889`
+- **Brainticket** — Brainticket, Pt. 1 [Cottonwoodhill (2013 Remaster)] (12:38) `isrc:USV351319574` `qobuz:44338469`
+- **BröselMaschine** — Schmetterling [Bröselmaschine] (9:35) `isrc:DEC371300254` `qobuz:47935988`
+- **Can** — Halleluhwah [Tago Mago] (18:33) `isrc:DEX170420604` `qobuz:11614759`
+- **Deuter** — Babylon [D] (14:59) `isrc:DEA747100068` `qobuz:77516430`
+- **Stephen Bishop** — Losing Myself In You [Bish] (3:57) `isrc:USMC17853814` `qobuz:501134`
+- **Eulenspygel** — Till Eulenspygel [Eulenspygel] (3:34) `isrc:DEVU51720279` `qobuz:46176566`
+- **Frumpy** — How The Gipsy Was Born [Best Of Frumpy] (8:50) `isrc:DEF077102330` `qobuz:2464637`
+- **Gila** — Kommunikation [Gila] (12:56) `isrc:DEA432500052` `qobuz:327075195`
+- **Out of Focus** — See How A White Negro Flies [Wake Up] (5:54) `isrc:DEA747000044` `qobuz:77512770`
+- **Popol Vuh** — In den gärten pharaos [In Den Gärten Pharaos] (17:38) `isrc:DEA450524170` `qobuz:324670866`
+- **Witthüser & Westrupp** — Liturgie [Der Jesuspilz] (9:39) `isrc:DEC831800453` `qobuz:53554028`
+- **Agitation Free** — Sahara City [Malesch] (7:50) `isrc:DEA450810950` `qobuz:95800448`
+- **Ash Ra Tempel** — Reunion [Friendship] (30:40) `isrc:DECS61400001` `qobuz:98442243`
+- **Birth Control** — Gamma Ray [Hoodoo Man] (9:43) `isrc:DEE867200029` `qobuz:12764399`
+- **Dom** — Edge Of Time [Edge of Time] (9:05) `isrc:QM4TX2392749` `qobuz:205290088`
+- **Gabriel Marghieri** — « Iblis le désespéré » ? [Gabriel Marghieri: Paysages intérieurs, Suite 5 – Improvisations Orgue de la basilique Saint-Bonaventure, Lyon (2025)] (3:06) `isrc:FRW952626902` `qobuz:377894119`
+- **Werner Nadolnys Jane** — Daytime [The Journey I] (7:22) `isrc:DEBL61300217` `qobuz:18433391`
+- **Mythos** — Encyclopedia Terra, Pt. 1 [Mythos] (10:16) `isrc:DEC371300288` `qobuz:48122877`
+- **NEU!** — Hallogallo [NEU! Digital Box] (10:07) `isrc:DEA340002063` `qobuz:2043924`
+- **DJ Bim** — Man in the Moon [DJ Bim - Matchbox] (8:51) `isrc:GBBYB1401521` `qobuz:278277345`
+- **Tritonus** — Between The Universes [Between The Universes] (9:56) `isrc:DEH611913301` `qobuz:70722567`
+- **Wallenstein** — Mother Universe [Mother Universe] (8:41) `isrc:DEC371300185` `qobuz:47842287`
+- **Between** — And the Waters Opened [Soul Jazz Records Presents Deutsche Elektronische Musik 3: Experimental German Rock and Electronic Music 1971-81] (10:58) `isrc:GBBCK1701237` `qobuz:44450005`
+- **Faust** — Krautrock [Faust IV] (11:47) `isrc:GBAAA7300007` `qobuz:4620108`
+- **kollEktiv** — Gaged [Kollektiv] (19:58) `isrc:USHM92045018` `qobuz:99458554`
+- **Sergius Golowin** — Der Reigen [Lord Krishna von Goloka] (16:57) `isrc:DEC371300263` `qobuz:47952666`
+- **Cosmic Jokers** — Galactic Joke [Galactic Joke] (22:39) `isrc:DEC371300917` `qobuz:138227921`
+- **Walter Wegmüller** — Der Wagen [Tarot] (5:16) `isrc:DEC371300375` `qobuz:49215049`
+- **Yatha Sidhra** — A Meditation Mass Part 1 [A Meditation Mass] (17:21) `isrc:DEN120400573` `qobuz:2472753`
+- **Cluster** — Ho Renomo [Cluster & Eno] (5:11) `isrc:DELI50800082` `qobuz:49956592`
+- **Michael Rother** — Flammende Herzen [Flammende Herzen] (7:06) `isrc:DED267700010` `qobuz:58256837`
+- **Conrad Schnitzler** — Ballet Statique [Con] (5:03) `isrc:DELI52002980` `qobuz:97754029`
+- **Brian Eno** — Foreign Affairs [After the Heat] (3:31) `isrc:DELI50800092` `qobuz:49791926`
+- **Tributos Punk $hile** — Penas (feat. Klaus de Pirque) [Baladas Punk Rock] (2:54) `isrc:USL4Q2564058` `qobuz:353412348`
+- **Michael Hoenig** — Departure from the Northern Wasteland [Departure from the Northern Wasteland] (20:55) `isrc:DEA748700288` `qobuz:77514130`
+- **Roedelius** — Durch die Wüste [Durch die Wüste] (13:52) `isrc:DELI50800077` `qobuz:49792298`
+- **Riechmann** — Wunderbar [Wunderbar] (5:41) `isrc:DELI50800070` `qobuz:49803483`
+- **Cala** — Take a toast [Pacific coast highway] (2:09) `isrc:QZES92513980` `qobuz:323302723`
+- **Holger Czukay** — My Persian Love [The Claremont 56 Versions] (6:24) `isrc:GBSWL2400013` `qobuz:270205576`
+- **Robert Schroeder** — Galaxie Cygnus [Galaxie Cygnus A] (8:09) `isrc:DEA768200602` `qobuz:63283533`
+- **Bullfrog** — Feelin' Allright (The Conny Plank Mix) [High In Spirits] (6:06) `isrc:DEC830900966` `qobuz:55001292`
+- **pasaka be galo** — Tyliais Vakarais [Tyliais Vakarais] (4:10) `isrc:TCAIK2431787` `qobuz:272738152`
+- **Harald Grosskopf** — Emphasis [Synthesist] (4:59) `isrc:DELI51401546` `qobuz:49826475`
+- **Moebius** — Rastakraut Pasta [Rastakraut Pasta] (6:17) `isrc:DELI51000269` `qobuz:49862552`
+- **Rolf Trostel** — Two Faces [Two Faces] (16:45) `isrc:DELI51602011` `qobuz:49854677`
+- **Asmus Tietchens** — Spät-Europa [Spät-Europa] (2:59) `isrc:DELI51301201` `qobuz:49882888`
+- **Jazzrausch Bigband** — Moebius Strip [Live at Kleine Olympiahalle] (4:47) `isrc:QM6P42511087` `qobuz:332702489`
+- **S.W.** — E2-E4 [House On The Beach, Vol. 9] (7:45) `isrc:FRX201767979` `qobuz:45332053`
+- **The Fall** — I Am Damo Suzuki [This Nation's Saving Grace] (5:43) `isrc:GBAZP0900080` `qobuz:3147449`
+- **Stereolab** — Jenny Ondioline [Transient Random-Noise Bursts With Announcements] (18:07) `isrc:USEE10000911` `qobuz:79187227`
+- **Sc Static** — Mr. E (Dedication to Braetan) [Third Person] (4:30) `isrc:TCAIZ2486847` `qobuz:303289140`
+- **Primal Scream** — Kowalski [Vanishing Point (Expanded Edition)] (5:48) `isrc:GBAAW9700090` `qobuz:4591541`
+- **To Rococo Rot** — Telema [The Amateur View] (3:40) `isrc:DED629971702` `qobuz:330620841`
+- **Mook Boy** — Red Trans Am [King Titus III] (2:04) `isrc:USUYG1259875` `qobuz:62762130`
+- **Groundation** — Weak Heart [Each One Teach One] (5:17) `isrc:USLF11701401` `qobuz:103126060`
+- **Stefania Dipierro, Paz Community** — Ankle Injuries [Base Terra] (3:56) `isrc:ITK601801799` `qobuz:54162893`
+- **LCD Soundsystem** — All My Friends [Sound of Silver] (7:41) `isrc:US4GE0600018` `qobuz:4732883`
+- **Drums Off Chaos** — Say Hello to the Heat [Centre] (3:20) `isrc:DEP641800353` `qobuz:49197728`
+- **The Horrors** — Sea Within a Sea [Primary Colours] (7:58) `isrc:GBBKS0900056` `qobuz:2532085`
+- **Suuns** — 2020 [Images du Futur] (4:13) `isrc:US38W1326002` `qobuz:7884856`
+- **Kreidler** — New Earth [Tank] (6:41) `isrc:DELI51100460` `qobuz:49832843`
+- **Moon Duo** — Sleepwalker [Circles] (4:55) `isrc:US5NR1208301` `qobuz:243058630`
+- **Beak>** — Wulfstan II [Live At Zebulon] (7:20) `isrc:UKFGV2500322` `qobuz:364250312`
+- **Camera Shy** — Colors Radiate [Camera Shy] (3:02) `isrc:QMCE71300444` `qobuz:83004514`
+- **Toy** — Kopter [Toy] (9:50) `isrc:GBUM71204176` `qobuz:22729369`
+- **Föllakzoid** — 9 [II] (6:31) `isrc:US5NR1394501` `qobuz:20882701`
+- **Nisennenmondai** — #1 [#N/A] (10:02) `isrc:JPE471500056` `qobuz:32184052`
+- **Klaus Johann Grobe** — Discogedanken [Du bist so symmetrisch] (5:21) `isrc:QMXQJ1813701` `qobuz:51207577`
+- **Motrik** — Circuit Breaker [Motrik] (2:03) `isrc:USVJJ1411301` `qobuz:83779502`
+- **Cavern Of Anti Matter** — tardis cymbals [void beats/invocation trex] (12:51) `isrc:GB5P51500031` `qobuz:30199875`
+- **Minami Deutsch** — Tunnel [Tunnel/New Pastoral Life] (5:48) `isrc:SE34R1602802` `qobuz:58326170`

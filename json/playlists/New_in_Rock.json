@@ -1,0 +1,809 @@
+{
+  "name": "New in Rock",
+  "services": {
+    "qobuz": "5956680"
+  },
+  "description": "Listen to the latest Rock releases, last updated 27.7.2026. With Chelsea Wolfe, Wild Pink, Robyn Hitchcock, Mayday Parade, Rezn, The Tubs, The Jayhawks, Russian Circles, MCKENNA Grace, The Olivia Tremor Control, Queens Of The Stone Age, Quicksand, The Menzingers, Arab Strap, The Buoys, Lenny Kaye, Keo, Agatha is Dead!, Ty Segall, As It Is, Split Dogs, Sun Voyager...\n\nPhoto: Dinosaur Jr \u00a9 Jeff Fowler",
+  "tracks": [
+    {
+      "artist": "Chelsea Wolfe",
+      "title": "Cold",
+      "services": {
+        "qobuz": "435520481"
+      },
+      "album": "Cold",
+      "duration": 271,
+      "isrc": "USC4R2557543"
+    },
+    {
+      "artist": "Wild Pink",
+      "title": "500 Is The New 250",
+      "services": {
+        "qobuz": "414743274"
+      },
+      "album": "500 Is The New 250",
+      "duration": 245,
+      "isrc": "USA2B2602282"
+    },
+    {
+      "artist": "Robyn Hitchcock",
+      "title": "I Am This Thing",
+      "services": {
+        "qobuz": "411785926"
+      },
+      "album": "The Confuser",
+      "duration": 155,
+      "isrc": "QM6P42619123"
+    },
+    {
+      "artist": "Mayday Parade",
+      "title": "Sweet Sad Sugar",
+      "services": {
+        "qobuz": "402964754"
+      },
+      "album": "Sugar",
+      "duration": 224,
+      "isrc": "QZNWP2606003"
+    },
+    {
+      "artist": "Rezn",
+      "title": "Transient",
+      "services": {
+        "qobuz": "409493955"
+      },
+      "album": "Cycles in the Infinite Dream",
+      "duration": 328,
+      "isrc": "USA2B2601135"
+    },
+    {
+      "artist": "The Tubs",
+      "title": "Stoop to Me",
+      "services": {
+        "qobuz": "427517378"
+      },
+      "album": "Stoop to Me",
+      "duration": 227,
+      "isrc": "USMRG2689004"
+    },
+    {
+      "artist": "The Jayhawks",
+      "title": "American Midnight",
+      "services": {
+        "qobuz": "420278692"
+      },
+      "album": "American Midnight",
+      "duration": 284,
+      "isrc": "QM6MZ2695932"
+    },
+    {
+      "artist": "Russian Circles",
+      "title": "Eluvial",
+      "services": {
+        "qobuz": "430591520"
+      },
+      "album": "Eluvial",
+      "duration": 503,
+      "isrc": "USA2B2601838"
+    },
+    {
+      "artist": "MCKENNA Grace",
+      "title": "It's so fine",
+      "services": {
+        "qobuz": "431751108"
+      },
+      "album": "It's so fine",
+      "duration": 178,
+      "isrc": "QZ47A2600902"
+    },
+    {
+      "artist": "The Olivia Tremor Control",
+      "title": "Garden of Light",
+      "services": {
+        "qobuz": "431962541"
+      },
+      "album": "Garden of Light [single]",
+      "duration": 224,
+      "isrc": "USY252605968"
+    },
+    {
+      "artist": "G\u0331a\u0331mksimoon",
+      "title": "Moolks",
+      "services": {
+        "qobuz": "410882643"
+      },
+      "album": "Gyiin Na\u0331xnox",
+      "duration": 501,
+      "isrc": "CA0LX2600059"
+    },
+    {
+      "artist": "Eric Schenkman",
+      "title": "Recipe",
+      "services": {
+        "qobuz": "422195955"
+      },
+      "album": "Recipe",
+      "duration": 276,
+      "isrc": "CATL32602326"
+    },
+    {
+      "artist": "Queens Of The Stone Age",
+      "title": "Easy Street",
+      "services": {
+        "qobuz": "428708175"
+      },
+      "album": "Easy Street",
+      "duration": 231,
+      "isrc": "USMTD2600088"
+    },
+    {
+      "artist": "Quicksand",
+      "title": "Regenerate",
+      "services": {
+        "qobuz": "409946854"
+      },
+      "album": "Bring On The Psychics",
+      "duration": 175,
+      "isrc": "US3X52652702"
+    },
+    {
+      "artist": "The Menzingers",
+      "title": "Everything I Ever Saw",
+      "services": {
+        "qobuz": "406336711"
+      },
+      "album": "Everything I Ever Saw",
+      "duration": 204,
+      "isrc": "USEP42552011"
+    },
+    {
+      "artist": "Arab Strap",
+      "title": "Glamour Magick",
+      "services": {
+        "qobuz": "423401302"
+      },
+      "album": "Glamour Magick",
+      "duration": 270,
+      "isrc": "GBGDZ2600022"
+    },
+    {
+      "artist": "The Buoys",
+      "title": "Welcome to My Brain",
+      "services": {
+        "qobuz": "431030887"
+      },
+      "album": "Concrete Cowboy",
+      "duration": 258,
+      "isrc": "AUBM02600067"
+    },
+    {
+      "artist": "Lenny Kaye",
+      "title": "Goin' Local",
+      "services": {
+        "qobuz": "402996266"
+      },
+      "album": "Goin' Local",
+      "duration": 244,
+      "isrc": "USY1R2612901"
+    },
+    {
+      "artist": "Keo",
+      "title": "That's Me",
+      "services": {
+        "qobuz": "423678351"
+      },
+      "album": "Put A Smile On For Me",
+      "duration": 131,
+      "isrc": "GBUM72602764"
+    },
+    {
+      "artist": "Agatha is Dead!",
+      "title": "Cold-Hearted",
+      "services": {
+        "qobuz": "400590476"
+      },
+      "album": "Cold-Hearted",
+      "duration": 201,
+      "isrc": "USA2B2601067"
+    },
+    {
+      "artist": "Ty Segall",
+      "title": "Running to Nowhere",
+      "services": {
+        "qobuz": "414106592"
+      },
+      "album": "Running to Nowhere",
+      "duration": 149,
+      "isrc": "US58L2698002"
+    },
+    {
+      "artist": "As It Is",
+      "title": "Ruin My Life (feat. Murray Macleod)",
+      "services": {
+        "qobuz": "401267849"
+      },
+      "album": "As It Is",
+      "duration": 214,
+      "isrc": "ITG272600203"
+    },
+    {
+      "artist": "Split Dogs",
+      "title": "Suffer",
+      "services": {
+        "qobuz": "427963752"
+      },
+      "album": "Suffer",
+      "duration": 161,
+      "isrc": "UKYT62400377"
+    },
+    {
+      "artist": "Sun Voyager",
+      "title": "Coming Down",
+      "services": {
+        "qobuz": "427599200"
+      },
+      "album": "Coming Down",
+      "duration": 180,
+      "isrc": "USA2B2603113"
+    },
+    {
+      "artist": "sawyer hill",
+      "title": "Alibi",
+      "services": {
+        "qobuz": "431642621"
+      },
+      "album": "Alibi",
+      "duration": 215,
+      "isrc": "QM7282635882"
+    },
+    {
+      "artist": "Index",
+      "title": "Fractured",
+      "services": {
+        "qobuz": "428828588"
+      },
+      "album": "Fractured",
+      "duration": 157,
+      "isrc": "USA2B2602705"
+    },
+    {
+      "artist": "The Waterboys",
+      "title": "Knockin' On Heaven's Door",
+      "services": {
+        "qobuz": "421920552"
+      },
+      "album": "Knockin' On Heaven's Door",
+      "duration": 233,
+      "isrc": "UKKP22500699"
+    },
+    {
+      "artist": "Reigning Sound",
+      "title": "Reptile Style",
+      "services": {
+        "qobuz": "429379685"
+      },
+      "album": "Time Bomb High School",
+      "duration": 202,
+      "isrc": "USMRG2669610"
+    },
+    {
+      "artist": "Psychedelic Porn Crumpets",
+      "title": "Okarena",
+      "services": {
+        "qobuz": "427842779"
+      },
+      "album": "Okarena",
+      "duration": 250,
+      "isrc": "QT6662618320"
+    },
+    {
+      "artist": "Velocity Girl",
+      "title": "I Know Exactly What You Mean",
+      "services": {
+        "qobuz": "416102271"
+      },
+      "album": "I Know Exactly What You Mean",
+      "duration": 137,
+      "isrc": "US4TA2600051"
+    },
+    {
+      "artist": "Yoko Ono",
+      "title": "Walking on Thin Ice",
+      "services": {
+        "qobuz": "387786812"
+      },
+      "album": "Season of Glass",
+      "duration": 420,
+      "isrc": "US38W2528615"
+    },
+    {
+      "artist": "Nanaco Sato",
+      "title": "A Bullet Hole In My Ear",
+      "services": {
+        "qobuz": "431587790"
+      },
+      "album": "A Bullet Hole In My Ear",
+      "duration": 408,
+      "isrc": "FRX282646798"
+    },
+    {
+      "artist": "Clamm",
+      "title": "Rats",
+      "services": {
+        "qobuz": "433141861"
+      },
+      "album": "Rats",
+      "duration": 227,
+      "isrc": "QMBZ92683930"
+    },
+    {
+      "artist": "Eddie 9V",
+      "title": "Blowin\u2019 Up",
+      "services": {
+        "qobuz": "434063141"
+      },
+      "album": "Blowin\u2019 Up",
+      "duration": 196,
+      "isrc": "USC4R2667049"
+    },
+    {
+      "artist": "HEADSEND",
+      "title": "Free",
+      "services": {
+        "qobuz": "434366226"
+      },
+      "album": "Free",
+      "duration": 193,
+      "isrc": "GB2DY2604255"
+    },
+    {
+      "artist": "Echochamber",
+      "title": "downpour",
+      "services": {
+        "qobuz": "425865918"
+      },
+      "album": "downpour",
+      "duration": 229,
+      "isrc": "UK9AV2600683"
+    },
+    {
+      "artist": "Stand Atlantic",
+      "title": "LUCID",
+      "services": {
+        "qobuz": "437064580"
+      },
+      "album": "LUCID",
+      "duration": 188,
+      "isrc": "USA2P2636692"
+    },
+    {
+      "artist": "VELOCITYRAPTOR",
+      "title": "Night Current",
+      "services": {
+        "qobuz": "432099712"
+      },
+      "album": "Night Current",
+      "duration": 244,
+      "isrc": "FISXT2600003"
+    },
+    {
+      "artist": "The Rolling Stones",
+      "title": "Mr Charm",
+      "services": {
+        "qobuz": "434160009"
+      },
+      "album": "Foreign Tongues",
+      "duration": 274,
+      "isrc": "GBUM72508267"
+    },
+    {
+      "artist": "Interpol",
+      "title": "Iron City",
+      "services": {
+        "qobuz": "427659358"
+      },
+      "album": "Iron City",
+      "duration": 250,
+      "isrc": "USBQU2600033"
+    },
+    {
+      "artist": "U2",
+      "title": "Street Of Dreams",
+      "services": {
+        "qobuz": "431679487"
+      },
+      "album": "Street Of Dreams",
+      "duration": 234,
+      "isrc": "GBUM72603603"
+    },
+    {
+      "artist": "Jack White",
+      "title": "Nobody Knows",
+      "services": {
+        "qobuz": "415828155"
+      },
+      "album": "Frozen Charlotte",
+      "duration": 184,
+      "isrc": "US3JJ2601445"
+    },
+    {
+      "artist": "Suede",
+      "title": "Emotionally Unavailable",
+      "services": {
+        "qobuz": "423317345"
+      },
+      "album": "Antidepressants: Expanded",
+      "duration": 164,
+      "isrc": "GB5KW2600378"
+    },
+    {
+      "artist": "The Xcerts",
+      "title": "do it to myself",
+      "services": {
+        "qobuz": "411641014"
+      },
+      "album": "i think i want to go home now.",
+      "duration": 195,
+      "isrc": "ITG272600226"
+    },
+    {
+      "artist": "Nothing But Thieves",
+      "title": "Stray Dogs",
+      "services": {
+        "qobuz": "420778411"
+      },
+      "album": "Stray Dogs",
+      "duration": 323,
+      "isrc": "GBARL2600770"
+    },
+    {
+      "artist": "Green Day",
+      "title": "I'm Never Gonna R.I.P.",
+      "services": {
+        "qobuz": "432869222"
+      },
+      "album": "I'm Never Gonna R.I.P.",
+      "duration": 124,
+      "isrc": "USRE12600214"
+    },
+    {
+      "artist": "Gurriers",
+      "title": "Party Lines",
+      "services": {
+        "qobuz": "420274445"
+      },
+      "album": "Party Lines",
+      "duration": 179,
+      "isrc": "GBENL2604769"
+    },
+    {
+      "artist": "Tacoblaster",
+      "title": "Calimero",
+      "services": {
+        "qobuz": "425298432"
+      },
+      "album": "Calimero / Garage Girl",
+      "duration": 112,
+      "isrc": "FR9W12625294"
+    },
+    {
+      "artist": "Thea May",
+      "title": "Twenty Seven",
+      "services": {
+        "qobuz": "429487838"
+      },
+      "album": "Twenty Seven",
+      "duration": 160,
+      "isrc": "USZXT2658844"
+    },
+    {
+      "artist": "Coach Party",
+      "title": "Over",
+      "services": {
+        "qobuz": "423471258"
+      },
+      "album": "Over",
+      "duration": 196,
+      "isrc": "USA2P2635659"
+    },
+    {
+      "artist": "The Sick Man Of Europe",
+      "title": "Negative Stimuli",
+      "services": {
+        "qobuz": "424992170"
+      },
+      "album": "Negative Stimuli",
+      "duration": 224,
+      "isrc": "GBCKB2614211"
+    },
+    {
+      "artist": "Sharp Pins",
+      "title": "Saturday Sun",
+      "services": {
+        "qobuz": "427428106"
+      },
+      "album": "Saturday Sun",
+      "duration": 231,
+      "isrc": "USK112632812"
+    },
+    {
+      "artist": "As It Is",
+      "title": "Live, Laugh, Love, Los Angeles",
+      "services": {
+        "qobuz": "412405460"
+      },
+      "album": "Live, Laugh, Love, Los Angeles",
+      "duration": 212,
+      "isrc": "ITG272600213"
+    },
+    {
+      "artist": "The Amazons",
+      "title": "One Hot July",
+      "services": {
+        "qobuz": "426892826"
+      },
+      "album": "One Hot July",
+      "duration": 348,
+      "isrc": "CAN112600771"
+    },
+    {
+      "artist": "The Beefs",
+      "title": "Foreign Lands",
+      "services": {
+        "qobuz": "428555196"
+      },
+      "album": "Foreign Lands",
+      "duration": 235,
+      "isrc": "AUI442600800"
+    },
+    {
+      "artist": "ROBYN HITCHCOCK",
+      "title": "Yesterday's Rain",
+      "services": {
+        "qobuz": "423158641"
+      },
+      "album": "Yesterday's Rain",
+      "duration": 235,
+      "isrc": "QM6P42619130"
+    },
+    {
+      "artist": "Show Me the Body",
+      "title": "No God",
+      "services": {
+        "qobuz": "432430567"
+      },
+      "album": "Alone Together",
+      "duration": 165,
+      "isrc": "USC4R2663653"
+    },
+    {
+      "artist": "Lucidvox",
+      "title": "A House of Glass",
+      "services": {
+        "qobuz": "426834097"
+      },
+      "album": "A House of Glass",
+      "duration": 355,
+      "isrc": "DETP62600104"
+    },
+    {
+      "artist": "Fred Mudge",
+      "title": "Modern Moonlight",
+      "services": {
+        "qobuz": "414536155"
+      },
+      "album": "Modern Moonlight",
+      "duration": 291,
+      "isrc": "GBCEJ2600173"
+    },
+    {
+      "artist": "The Haunt",
+      "title": "Worst Taste in Men",
+      "services": {
+        "qobuz": "429397150"
+      },
+      "album": "Worst Taste in Men",
+      "duration": 154,
+      "isrc": "CAN112601054"
+    },
+    {
+      "artist": "Matt Pond PA",
+      "title": "Endless Summer",
+      "services": {
+        "qobuz": "429668332"
+      },
+      "album": "Endless Summer",
+      "duration": 208,
+      "isrc": "QM24S2603920"
+    },
+    {
+      "artist": "Taxi Girls",
+      "title": "Midnight Mixtape",
+      "services": {
+        "qobuz": "408894458"
+      },
+      "album": "Static",
+      "duration": 211,
+      "isrc": "CASE12600037"
+    },
+    {
+      "artist": "Chat Pile",
+      "title": "PEN I S MALL",
+      "services": {
+        "qobuz": "420750315"
+      },
+      "album": "PEN I S MALL",
+      "duration": 298,
+      "isrc": "USA2Z2600381"
+    },
+    {
+      "artist": "Dan Sultan",
+      "title": "Forgiveness",
+      "services": {
+        "qobuz": "427119899"
+      },
+      "album": "Forgiveness",
+      "duration": 264,
+      "isrc": "AULI02566360"
+    },
+    {
+      "artist": "Dinosaur Jr.",
+      "title": "Several Got Away",
+      "services": {
+        "qobuz": "423471011"
+      },
+      "album": "Several Got Away",
+      "duration": 213,
+      "isrc": "US38Y2648001"
+    },
+    {
+      "artist": "Bryan Adams",
+      "title": "51st State",
+      "services": {
+        "qobuz": "428742768"
+      },
+      "album": "51st State",
+      "duration": 139,
+      "isrc": "IETLH2600035"
+    },
+    {
+      "artist": "Shed Seven",
+      "title": "Stand Together",
+      "services": {
+        "qobuz": "425880395"
+      },
+      "album": "Stand Together",
+      "duration": 261,
+      "isrc": "GBCEJ2600314"
+    },
+    {
+      "artist": "Airbourne",
+      "title": "Kid In A Candy Store",
+      "services": {
+        "qobuz": "406235942"
+      },
+      "album": "Kid In A Candy Store",
+      "duration": 248,
+      "isrc": "GBPVV2504093"
+    },
+    {
+      "artist": "The Fleshtones",
+      "title": "Float Your Showboat",
+      "services": {
+        "qobuz": "417779464"
+      },
+      "album": "Float Your Showboat",
+      "duration": 190,
+      "isrc": "USY1R2614201"
+    },
+    {
+      "artist": "Rezn",
+      "title": "Aerial Birth",
+      "services": {
+        "qobuz": "426699350"
+      },
+      "album": "Aerial Birth",
+      "duration": 310,
+      "isrc": "USA2B2601137"
+    },
+    {
+      "artist": "Snow Patrol",
+      "title": "These Alarms",
+      "services": {
+        "qobuz": "431200630"
+      },
+      "album": "These Alarms",
+      "duration": 201,
+      "isrc": "GB5KW2601072"
+    },
+    {
+      "artist": "Margaret Glaspy",
+      "title": "That Rose",
+      "services": {
+        "qobuz": "418470142"
+      },
+      "album": "That Rose",
+      "duration": 204,
+      "isrc": "USATO2600104"
+    },
+    {
+      "artist": "Adult DVD",
+      "title": "Cowboy On Aisle Three",
+      "services": {
+        "qobuz": "423447461"
+      },
+      "album": "Cowboy On Aisle Three",
+      "duration": 232,
+      "isrc": "QM6P42617812"
+    },
+    {
+      "artist": "Peri Rae",
+      "title": "Surf With The Boys",
+      "services": {
+        "qobuz": "423367029"
+      },
+      "album": "Surf With The Boys",
+      "duration": 126,
+      "isrc": "QM7282666442"
+    },
+    {
+      "artist": "D.a.n.",
+      "title": "The Unknown",
+      "services": {
+        "qobuz": "423098024"
+      },
+      "album": "The Unknown",
+      "duration": 341,
+      "isrc": "JP92L2602780"
+    },
+    {
+      "artist": "lina-mariah",
+      "title": "Hate My Mom",
+      "services": {
+        "qobuz": "425548572"
+      },
+      "album": "I Feel Like Shit And It's All Your Fault",
+      "duration": 177,
+      "isrc": "DEZC62683344"
+    },
+    {
+      "artist": "Lisa LeBlanc",
+      "title": "Whole Lotta Talkin'",
+      "services": {
+        "qobuz": "417773561"
+      },
+      "album": "Whole Lotta Talkin'",
+      "duration": 161,
+      "isrc": "CAZ842600062"
+    },
+    {
+      "artist": "Bootsy Collins",
+      "title": "Manic Depression",
+      "services": {
+        "qobuz": "423480188"
+      },
+      "album": "Manic Depression",
+      "duration": 251,
+      "isrc": "NL8RL2641539"
+    },
+    {
+      "artist": "Micky Dolenz",
+      "title": "Terri",
+      "services": {
+        "qobuz": "417657078"
+      },
+      "album": "Terri",
+      "duration": 253,
+      "isrc": "USFJ70901578"
+    },
+    {
+      "artist": "The Tragically Hip",
+      "title": "Little Bones",
+      "services": {
+        "qobuz": "427881278"
+      },
+      "album": "Little Bones/It's A Good Life If You Don't Weaken",
+      "duration": 307,
+      "isrc": "CAUM72600055"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+# Genre: Free Jazz
+
+Imported genre playlist: Free Jazz.
+
+Services: `qobuz:66733784`
+
+## Tracks (100)
+
+- **Ornette Coleman** — Free Jazz (Pts. 1 & 2) [Free Jazz] (37:03) `isrc:USAT20104835` `qobuz:2944943`
+- **Jimmy Giuffre** — The Five Ways [Free Fall] (10:19) `isrc:USSM16200807` `qobuz:79598`
+- **Prince Lasha Quintet** — Congo Call [The Cry!] (5:06) `isrc:USC4R2341020` `qobuz:287045464`
+- **New York Lounge Quartett** — Time for Sweet Experience [Dark Noir Jazz Music 2020] (3:32) `isrc:PLS921821388` `qobuz:98696673`
+- **The Giuseppi Logan Quartet** — Dance of Satan [The Giuseppi Logan Quartet] (6:20) `isrc:QMPFN1200035` `qobuz:101601716`
+- **Albert Ayler** — Ghosts - First Variation [Spiritual Unity] (5:15) `isrc:ZA42A2114416` `qobuz:140804413`
+- **Jacques Douai** — La tour Saint-Jacques [L'Intégrale de Jacques Douai] (2:57) `isrc:FRS181223504` `qobuz:19352678`
+- **Archie Shepp** — Hambone [Fire Music] (12:29) `isrc:USGR10110229` `qobuz:54314691`
+- **Sunny Murray** — Hilariously [Sunny Murray] (10:14) `isrc:USES89310458` `qobuz:101601669`
+- **Don Cherry** — Complete Communion: Complete Communion/And Now/Golden Heart/Remembrance [Complete Communion] (20:40) `isrc:USBN29901005` `qobuz:21990217`
+- **John Coltrane** — Ascension [Ascension] (19:00) `isrc:USUM71609161` `qobuz:54940313`
+- **Cecil Taylor** — Steps [Unit Structures] (10:18) `isrc:USBN28700157` `qobuz:16146703`
+- **His Name Is Alive** — Capricorn Moon [Sweet Earth Flower - A Tribute to Marion Brown] (13:32) `isrc:US8830714003` `qobuz:73226031`
+- **Archie Shepp** — Consequences [The New York Contemporary Five] (8:40) `isrc:DKEFA0812901` `qobuz:33807124`
+- **Frank Wright Trio** — The Earth [Frank Wright Trio] (7:45) `isrc:QMPFN1200100` `qobuz:101596234`
+- **Burton Greene** — Bloom in the Commune [Burton Greene Quartet] (8:06) `isrc:QMPFN1200105` `qobuz:101629677`
+- **Henry Grimes Trio** — The Call [The Call (1965)] (7:53) `isrc:QMPFN1200116` `qobuz:101597755`
+- **Noah Howard Quartet** — Phoenix [Live at Documenta IX] (6:54) `isrc:CAN118900150` `qobuz:145660305`
+- **Roscoe Mitchell** — Spatial Aspects Of The Sound [Bells For The South Side] (12:14) `isrc:DEB331549401` `qobuz:40797624`
+- **The Beatles** — Yesterday [The Beatles 1962 – 1966] (2:04) `isrc:GBUM72306557` `qobuz:235802075`
+- **Gato Barbieri** — In Search of the Mystery / Michelle [In Search of the Mystery] (18:39) `isrc:QMPFN1200258` `qobuz:101596398`
+- **Pharoah Sanders** — Upper Egypt And Lower Egypt [Priceless Jazz 10: Pharoah Sanders] (6:03) `isrc:USMC17152674` `qobuz:55942304`
+- **Globe Unity Orchestra** — Globe Unity 67 [Globe Unity 67 & 70] (34:11) `isrc:USA560534453` `qobuz:26510987`
+- **Byard Lancaster** — It's Not up to Us [It's Not Up To Us] (4:53) `isrc:USAT20300663` `qobuz:2946215`
+- **Eddie Gale** — Fulton Street [Eddie Gale’s Ghetto Music] (6:51) `isrc:USBN26800104` `qobuz:44897466`
+- **Spontaneous Music Ensemble** — Club 66 [QUESTION AND ANSWER 1966] (6:12) `isrc:GBHLW2101005` `qobuz:238163212`
+- **The Peter Brötzmann Octet** — Machine Gun [The Complete Machine Gun Sessions] (17:18) `isrc:USA560670284` `qobuz:26514788`
+- **Muhal Richard Abrams** — Levels and Degrees of Light [Levels and Degrees of Light] (10:34) `isrc:US4B99141301` `qobuz:63183020`
+- **Gil Evans** — Parabola [Golden Hair] (10:01) `isrc:FR1R18780080` `qobuz:630508`
+- **The Clifford Thornton New Art Ensemble** — Free Huey [Freedom And Unity] (13:10) `isrc:USA560533730` `qobuz:26513160`
+- **Sonny Sharrock** — Black Woman [Black Woman] (5:13) `isrc:USAT20505251` `qobuz:2850778`
+- **Art Ensemble Of Chicago** — People in Sorrow (Pt. I) [American Swinging In Paris] (17:07) `isrc:FRZ116906406` `qobuz:1009290`
+- **Anthony Braxton** — To Composer John Cage [For Alto] (9:30) `isrc:US4B90042002` `qobuz:60961843`
+- **Dave Burrell** — Echo [Jazzactuel] (20:15) `isrc:GBAWA9967420` `qobuz:7856269`
+- **Tony Oxley** — Crossing/Arrival [THE BAPTISED TRAVELLER] (17:33) `isrc:GBBBN6902021` `qobuz:5135252`
+- **Alan Silva and His Celestrial Communication Orchestra** — From The Luna Surface, Pt. 1 [Luna Surface] (14:10) `isrc:GBAWA6967274` `qobuz:360245362`
+- **Sonny Simmons** — Metamorphosis [Staying on the Watch] (11:37) `isrc:QMPFN1200144` `qobuz:101600616`
+- **Dave Holland** — Thought On Earth [Uncharted Territories (feat. Evan Parker, Craig Taiborn and Ches Smith)] (7:37) `isrc:US5821800001` `qobuz:48554777`
+- **Masayuki Takayanagi New Direction Unit** — Fragment - IV (Mass Projection) [Axis/Another Revolvable Thing] (12:30) `isrc:US2392000250` `qobuz:190101717`
+- **Joseph Jarman** — As If It Were the Seasons / Song to Make the Sun Come Up [As If It Were the Seasons] (23:50) `isrc:US4B90741701` `qobuz:89468213`
+- **Joe McPhee** — Nation Time [Nation Time] (18:32) `isrc:USA370681554` `qobuz:26514455`
+- **Albert Mangelsdorff** — Trombirds [Trombirds] (3:39) `isrc:DEPI81402017` `qobuz:25134339`
+- **Chris McGregor's Brotherhood Of Breath** — MRA [Chris Mcgregor's Brotherhood of Breath] (5:05) `isrc:GBBLD7106201` `qobuz:151838449`
+- **Grateful Dead** — The Other One (Live at Baltimore Civic Center, September 17, 1972) [Winter Solstice] (39:07) `isrc:USRH10901368` `qobuz:243934004`
+- **Revolutionary Ensemble** — Vietnam 1 [Vietnam] (34:25) `isrc:QMPFN1300296` `qobuz:101629861`
+- **Jerry Garcia** — Jenny Jenkins [Not For Kids Only] (4:22) `isrc:USAD49900430` `qobuz:368918666`
+- **Dewey Redman** — Innerconnection [The Ear Of The Behearer] (4:55) `isrc:USMC17354613` `qobuz:128184132`
+- **Rashied Ali** — Duo Exchange Part I (Movement 1) [Duo Exchange: Complete Sessions] (13:41) `isrc:US2392000018` `qobuz:84591666`
+- **Frank Lowe** — In Trane's Name [Black Beings] (33:27) `isrc:QMPFN1200516` `qobuz:101595916`
+- **Charles Brackeen** — Rhythm X [Rhythm X] (8:00) `isrc:USST17300137` `qobuz:366143767`
+- **Andrew Lippa** — What Is It About Her? [Love Somebody Now] (1:58) `isrc:QT2C42502605` `qobuz:404641453`
+- **Jemeel Moondoc** — Judy's Bounce [Judy's Bounce] (8:45) `isrc:ITC000853138` `qobuz:146953279`
+- **Lester Bowie's Brass Fantasy** — Save the Best for Last [When the Spirit Returns] (6:16) `isrc:FRT299750270` `qobuz:387126700`
+- **Yosuke Yamashita Trio** — Double Helix [Chiasma (Live)] (4:42) `isrc:DEPI81500234` `qobuz:23960688`
+- **Hidden Renaissance** — All Sizzle [BA SING SE] (1:26) `isrc:QZTBB2326141` `qobuz:239807358`
+- **Electric Company** — The Crab Eating Fox [Creative Playthings] (2:03) `isrc:USA3P0400489` `qobuz:52291368`
+- **Christopher Hogwood** — Purcell: The Virtuous Wife: Song tune - Slow Air - Air [Purcell: Theatre Music (6CD set)] (4:48) `isrc:GBF077510652` `qobuz:4155490`
+- **Wadada Leo Smith** — Reflectativity [Reflectativity] (18:28) `isrc:USCRW0006001` `qobuz:87114689`
+- **Don Cherry** — Lonely Woman [Old And New Dreams] (12:25) `isrc:DEB337915401` `qobuz:372690559`
+- **David Murray Octet** — Flowers For Albert [Murray's Steps] (9:42) `isrc:ITC000850519` `qobuz:146929640`
+- **Oliver Lake** — Africa [Ntu: The Point from Which Creation Begins] (10:51) `isrc:GBBCK7700391` `qobuz:7608453`
+- **Tomasz Stańko** — Balladyna [Balladyna] (8:01) `isrc:DEB337507105` `qobuz:372690696`
+- **Chico Freeman** — Morning Prayer [Morning Prayer] (12:53) `isrc:GBCWU0902588` `qobuz:397147178`
+- **World Saxophone Quartet** — Hattie Wall [Yes We Can] (10:54) `isrc:USB8U1015160` `qobuz:303723502`
+- **Ian Hunter** — Irene Wilde [All American Alien Boy (Expanded Edition)] (3:43) `isrc:USSM10600387` `qobuz:362661`
+- **Charles Tyler** — Cadiz of the West [Definite, Vol. 1] (14:06) `isrc:DKEFA1703101` `qobuz:45367521`
+- **Johnny Paycheck** — The Spirits of St. Louis [Take This Job And Shove It] (3:04) `isrc:USSM19924839` `qobuz:2195420`
+- **George Lewis** — Homage To Charles Parker [Homage To Charles Parker] (17:58) `isrc:ITC000853603` `qobuz:146954889`
+- **Henry Threadgill** — Salute to the Enema Bandit [X-75 Volume 1 (Expanded)] (10:20) `isrc:USAR11000174` `qobuz:17316455`
+- **Arthur Blythe** — Lenox Avenue Breakdown [Lenox Avenue Breakdown] (13:17) `isrc:USSM11509372` `qobuz:32300825`
+- **James "Blood" Ulmer** — Are You Glad To Be In America? [Odyssey] (3:40) `isrc:USSM18300100` `qobuz:481934`
+- **Zarqnon the Embarrassed** — Gurgly and Fuddy [Danger Music, Darkwave, Chaos and Noise, Vol 947G] (2:34) `isrc:QMHNS1302008` `qobuz:39642071`
+- **Ronald Shannon Jackson** — Circus of Civilized Fools [Pulse] (7:27) `isrc:GBAWA0212769` `qobuz:235596437`
+- **Charles Gayle** — WEBO A1, Gayle - Graves - Parker [WEBO] (20:45) `isrc:US2392450124` `qobuz:261729729`
+- **David Arkenstone** — The Great Wall [Citizen Of Time] (4:46) `isrc:USNA19013843` `qobuz:5017061`
+- **Barry Guy** — Ode, Pt. I [Portrait] (9:02) `isrc:CH2709698560` `qobuz:16283543`
+- **Marilyn Crispell** — Amaryllis [Amaryllis] (3:33) `isrc:DEB330074202` `qobuz:634980`
+- **Matthew Shipp** — New Orbit [New Orbit] (2:59) `isrc:USA6J0109501` `qobuz:291120771`
+- **William Parker** — Thot [The Peach Orchard] (14:14) `isrc:USEZ90601001` `qobuz:14478900`
+- **Ivo Perelman** — Tree of Life [Armageddon Flower] (21:00) `isrc:USEZ92581802` `qobuz:329171794`
+- **The Vandermark 5** — Fever Dream [Target Or Flag] (8:46) `isrc:USA560533390` `qobuz:26482193`
+- **Fire!** — The Dark Inside Of Cabbage [Testament] (8:38) `isrc:NOFGR2434020` `qobuz:244133251`
+- **Fred Anderson Quartet** — Dark Day [Dark Day + Live In Verona] (18:41) `isrc:USA560534418` `qobuz:26512071`
+- **Gorillaz** — The Hardest Thing (feat. Tony Allen) [The Mountain] (2:18) `isrc:QMDA72543805` `qobuz:388712171`
+- **Nicole Mitchell's Black Earth Ensemble** — Black Unstoppable [Black Unstoppable] (7:24) `isrc:US4B90757502` `qobuz:4154431`
+- **Mary Halvorson** — Haunted Head (feat. The Mivos Quartet) [Belladonna (feat. The Mivos Quartet)] (10:13) `isrc:USNO12100407` `qobuz:149738573`
+- **Earth, Wind & Fire** — September [The Best Of Earth, Wind & Fire Vol. 1] (3:35) `isrc:USSM17800845` `qobuz:60132596`
+- **Nate Wooley** — Seven Storey Mountain VI [Seven Storey Mountain VI] (45:01) `isrc:QZ3DS2000010` `qobuz:281214918`
+- **Atomic** — Boom Boom [Boom Boom] (10:10) `isrc:NOWAJ0301020` `qobuz:130431786`
+- **Peter Evans** — Nova [Extra] (2:30) `isrc:FIWJZ2400058` `qobuz:284898166`
+- **Matana Roberts** — Libation for Mr. Brown: Bid Em In... [Coin Coin Chapter One: Gens de Couleur Libres] (9:47) `isrc:CACQ21107905` `qobuz:49817288`
+- **Tyshawn Sorey** — Awakening [Koan] (12:45) `isrc:USHM80959718` `qobuz:77222958`
+- **Alex Peh** — Paniniwala (Version for Piano & Drumset) [Susie Ibarra: Talking Gong] (4:29) `isrc:QM8K52000497` `qobuz:305897711`
+- **Large Unit** — Bubbles [Clusterfuck] (13:02) `isrc:NOPNL2255020` `qobuz:187456291`
+- **Andrei Ionita** — III. Courante [Oblique Strategies] (2:26) `isrc:GBYDS1900026` `qobuz:305128146`
+- **Jens Winther** — Ubatuba [Stunt Records Compilation 2006, Vol. 14] (4:55) `isrc:USA560661811` `qobuz:47099109`
+- **Irreversible Entanglements** — Open the Gates [Open the Gates] (2:39) `isrc:QM84B2149001` `qobuz:129160181`
+- **James Brandon Lewis** — Jesup Wagon [Jesup Wagon] (6:22) `isrc:USEZ92180501` `qobuz:118245166`
+- **Zoh Amba** — O, Sun [O, Sun] (7:12) `isrc:USA2B2201304` `qobuz:229989048`
+- **Billy Woods** — The Blues Remembers Everything the Country Forgot [Brass] (3:01) `isrc:QMFMF2000104` `qobuz:282535870`

@@ -1,0 +1,108 @@
+# Genre: Bass House
+
+Imported genre playlist: Bass House.
+
+Services: `qobuz:66715431`
+
+## Tracks (100)
+
+- **Jazz for the Sake of Jazz** — Hear See Feel the Mood Music [Jazz for the Sake of Jazz: Volume 2] (1:40) `isrc:GBSMU6819892` `qobuz:117203807`
+- **AC Slater** — Bass Inside [Bass Inside] (4:24) `isrc:USAT21601116` `qobuz:31071457`
+- **Destructo** — Party Up [Party Up (feat. YG)] (3:55) `isrc:USUM71407267` `qobuz:57562637`
+- **D&d** — Notorious Malaa [Noel No End] (3:36) `isrc:HKD012421414` `qobuz:363656201`
+- **Dr. Fresch** — Take A Step Back [Take A Step Back] (2:40) `isrc:CA5KR2102337` `qobuz:415178026`
+- **LOVIN' THE BUNK** — Ghostly lights [Ghostly lights] (3:52) `isrc:TCJPL2531179` `qobuz:356092511`
+- **Drezo** — Guap [Guap] (4:43) `isrc:TCACI1594248` `qobuz:132255749`
+- **Autoerotique** — Asphyxiation [Asphyxiation] (4:41) `isrc:USDM31300225` `qobuz:53861571`
+- **Curbi** — Rubber [Rubber] (2:48) `isrc:NLZ541500380` `qobuz:47423002`
+- **Valentino Khan** — Pump [Pump] (3:04) `isrc:USZ4V1700087` `qobuz:40881518`
+- **Ephwurd** — Duckface (feat. DKAY) [Duckface (feat. DKAY)] (2:27) `isrc:NLZ541500693` `qobuz:47158831`
+- **Skrillex** — Dirty Vibe (with Diplo, G-Dragon, and CL) [Dirty Vibe] (4:01) `isrc:USAT21405313` `qobuz:21285307`
+- **Iration Steppas** — Foot & Mouth [SUBDUB - Digital Africa] (4:52) `isrc:FXQ802300004` `qobuz:236544438`
+- **Prong** — Snap Your Fingers, Snap Your Neck [Cleansing] (4:11) `isrc:USSM19303155` `qobuz:4898637`
+- **Jay Dixie** — Feel Your Love [Feel Your Love] (2:45) `isrc:NLYK92200038` `qobuz:153100809`
+- **David Bowie** — I'm Deranged [1. Outside (The Nathan Adler Diaries: A Hyper Cycle)] (4:31) `isrc:USRF30000042` `qobuz:28108760`
+- **Los Lobos** — Come on Let's Go [...And A Time To Dance] (2:11) `isrc:USRH10904291` `qobuz:2859675`
+- **Various Interprets** — What Kind of Fool [Duets] (4:05) `isrc:USSM10209148` `qobuz:17505`
+- **Boys Noize** — Got It [Out of the Black] (3:12) `isrc:DEDU21200149` `qobuz:6790853`
+- **Dustycloud** — Ignore Them [Ignore Them] (3:08) `isrc:CA6D22100861` `qobuz:143610875`
+- **Bellecour** — Fonky Beat [The 10 Years Of Confession] (3:29) `isrc:USLD90817477` `qobuz:351641240`
+- **Henry Fong** — Bust It [Bust It] (2:08) `isrc:USDM32136201` `qobuz:123284767`
+- **Genesis** — Get 'Em Out by Friday [Foxtrot] (8:35) `isrc:GBAAA0701744` `qobuz:45275438`
+- **Sikdope** — Snakes [Snakes] (2:54) `isrc:GB5HL1500024` `qobuz:47148725`
+- **Stray Kids** — Truman (HAN & Felix) [Mixtape : dominATE] (3:15) `isrc:US5TA2500013` `qobuz:325781061`
+- **Wax Motif** — Go Deep [Go DeepRemixes] (4:43) `isrc:GBEFR1208102` `qobuz:6661537`
+- **Joyryde** — HOT DRUM [HOT DRUM] (4:27) `isrc:USAT21603258` `qobuz:36089757`
+- **Skrillex** — Chicken Soup [HOWSLA] (3:27) `isrc:USAT21701093` `qobuz:40308917`
+- **Tove Lo** — stranger [BLUE LIPS] (3:53) `isrc:SEUM71701025` `qobuz:44888088`
+- **Fake Blood** — Pushing Me [The Feels] (7:01) `isrc:UK84Q1500005` `qobuz:212917018`
+- **Wax Motif** — Used 2 Be [Used 2 Be (feat. Jevon Doe)] (5:37) `isrc:GBKPL1788375` `qobuz:57562639`
+- **Janelle Monáe** — Lipstick Lover [Little Runaway - All Fresh] (2:49) `isrc:USAT22302984` `qobuz:266892529`
+- **Low Steppa** — Got The Funk [Got The Funk] (3:04) `isrc:GBCPZ2524290` `qobuz:325694130`
+- **Father** — Everybody in the Club Gettin Shot [Who's Gonna Get Fucked First?] (2:00) `isrc:UST8K1551779` `qobuz:37659168`
+- **Doechii** — girl, get up. [girl, get up.] (3:08) `isrc:USUG12504106` `qobuz:380056426`
+- **Tisoki** — Bring It Back [Bring It Back] (2:32) `isrc:CA6D21800093` `qobuz:58013299`
+- **Kuuro** — Savage [Savage] (3:46) `isrc:CA6D21600366` `qobuz:58026365`
+- **Tony Romera** — I Can't [I Can't] (3:03) `isrc:CA6D21900164` `qobuz:62435336`
+- **Nitti Gritti** — Dirty Dancing [Dirty Dancing] (3:30) `isrc:TCACQ1626466` `qobuz:36139191`
+- **Wuki** — Lip Pop [BBQ Beats, Vol. 3] (6:13) `isrc:UKACT1550574` `qobuz:95179793`
+- **Black V Neck** — Like Whoa [Like Whoa] (3:06) `isrc:GBKQU2164630` `qobuz:126201528`
+- **Matroda** — Boom Bap [Shut It Down] (4:24) `isrc:CA6D21800039` `qobuz:58013281`
+- **The Hatters** — Russian Style [Полная шляпа] (4:08) `isrc:FR2X41758280` `qobuz:40023947`
+- **Marten Hørger** — Believe In Me [Believe In Me] (3:11) `isrc:USDM32100351` `qobuz:122456396`
+- **DJ Mercer** — Encore [Encore] (3:06) `isrc:CYA111700156` `qobuz:88033000`
+- **Bingo Players** — Like This Like That [Like This Like That] (2:54) `isrc:NLXV51301025` `qobuz:317351792`
+- **D.J. Rogers** — Say You Love Me, One More Time [On the Road Again] (2:25) `isrc:USRC17607874` `qobuz:33551189`
+- **One True God** — Addicted [Addicted] (2:42) `isrc:CA5KR2059396` `qobuz:381762595`
+- **Deniz Akbulut** — Raid [CrossCode ~ The Ultimate Arrange] (5:13) `isrc:QZ6K42100060` `qobuz:206838797`
+- **Kage** — The Grave [The Grave] (3:32) `isrc:CA6D22000428` `qobuz:105263963`
+- **Mastodon** — More Than I Could Chew [Hushed and Grim] (6:51) `isrc:USRE12100526` `qobuz:130748251`
+- **Shift K3y** — I Know [I Know] (3:14) `isrc:GBARL1400878` `qobuz:17999580`
+- **Joe Cocker** — Feelin' Alright [Mad Dogs & Englishmen] (5:47) `isrc:USAM17000388` `qobuz:52480493`
+- **DJ Allai** — Zipzap Zap Loop [Zip Zap Rap] (3:03) `isrc:UKXN22523560` `qobuz:314145686`
+- **Mosey** — So Damn Funky [So Damn Funky] (3:49) `isrc:GBKPL1825542` `qobuz:253871919`
+- **Midnight Tyrannosaurus** — Supreme Symbiote [Supreme Symbiote] (3:28) `isrc:GB7YL1999402` `qobuz:163284356`
+- **DONT BLINK** — YOU KNOW WHAT I LIKE [YOU KNOW WHAT I LIKE] (3:34) `isrc:GBLV62416298` `qobuz:305217390`
+- **Pink Noise** — Loopable - Noisy Wildlife Ambience (Pink Noise) [Relaxing Forest Nature Sounds with Pink Noise, Loopable] (4:59) `isrc:PL52J2271416` `qobuz:158289857`
+- **Ocean Sounds** — Ocean Sounds to Relax Your Body and Mind [Ocean Sounds] (2:10) `isrc:DEYA92005673` `qobuz:99486332`
+- **Late Blossom** — Only Complication [Only Complication] (2:19) `isrc:QZHZ42614213` `qobuz:418852567`
+- **Sqwad** — Wild [Wild] (4:05) `isrc:FRV602300196` `qobuz:237664593`
+- **Bad Bunny** — 200 Mph [X 100PRE] (2:50) `isrc:QM7281884665` `qobuz:57485950`
+- **Saint Motel** — My Type [Tiktok Nostalgia] (3:24) `isrc:GBAYE1400856` `qobuz:420703618`
+- **D'Angelo** — Send It On [Voodoo] (5:57) `isrc:USVI29900230` `qobuz:37457592`
+- **MPL** — 3 ami·es [Bisou magique] (2:25) `isrc:FR9W12473180` `qobuz:370187057`
+- **Knock2** — dashstar* [dashstar*] (2:20) `isrc:CA5KR2261726` `qobuz:380726198`
+- **Grateful Dead** — The Other One [Madison Square Garden, New York, NY 3/9/81] (7:47) `isrc:USRH12102441` `qobuz:164958547`
+- **Adrian Celest Putra** — Backstage Pass Badge [Backstage Pass Badge] (3:55) `isrc:QT5M62676405` `qobuz:401086171`
+- **Cliff Richard** — Human Work of Art [1990s] (4:38) `isrc:GBAYE0202181` `qobuz:5257194`
+- **€URO TRA$H** — What You Looking For [House Music For Stripclubs] (3:02) `isrc:CA5KR2447421` `qobuz:301206550`
+- **Reece Rosé** — Breathe [Eating Good] (3:35) `isrc:USYBL2401628` `qobuz:289531067`
+- **Bad Computer** — Move Like This [Move Like This] (3:35) `isrc:GB2LD2510110` `qobuz:385719911`
+- **Julian Jordan** — PUSH [PUSH] (2:35) `isrc:NLM5S2502472` `qobuz:323106919`
+- **Laidback Luke** — It Clicked [CODE/RED] (1:50) `isrc:USDM32570501` `qobuz:368972968`
+- **Glass Petals** — Just Let Go [Best of 2025] (3:21) `isrc:CA5KR2528318` `qobuz:399212088`
+- **GTA** — Little Bit of This (feat. Vince Staples) [Little Bit of This (feat. Vince Staples)] (2:48) `isrc:USWB11601286` `qobuz:34772406`
+- **Aazar** — The Carnival [The Carnival] (2:45) `isrc:FRUM72200596` `qobuz:155265983`
+- **Muscle Shoals Horns** — Get It Up [Born to Get Down] (3:38) `isrc:USSM11501335` `qobuz:31700023`
+- **Reneé Rapp** — Kiss It Kiss It [BITE ME] (2:52) `isrc:USUM72504844` `qobuz:348466677`
+- **Ship Wrek** — Energy [Energy] (2:53) `isrc:USAT21902703` `qobuz:61944334`
+- **Sage and Grace take the Disco** — Dancing Lights [Dancing Lights] (3:32) `isrc:SGW502507663` `qobuz:411878133`
+- **Batıkan Abız** — Naughty Pleasure [Atmospheric Creations, Vol. 3] (5:22) `isrc:DEW872307586` `qobuz:370317836`
+- **Ryan Kurt** — Further [Further] (2:53) `isrc:USDM32027501` `qobuz:99658704`
+- **Us3** — Tukka Yoot's Riddim [Acid Jazz] (5:40) `isrc:USBN29300082` `qobuz:151185021`
+- **UTO** — Art&Life [When all you want to do is be the fire part of fire] (3:17) `isrc:FRT092300135` `qobuz:250465272`
+- **Cheyenne Giles** — Been Good [Been Good] (2:47) `isrc:USDM32684803` `qobuz:388303071`
+- **Beastie Boys** — Intergalactic [Hello Nasty (Remastered Edition)] (3:51) `isrc:USCA20903764` `qobuz:1781581`
+- **Gwen Stefani** — Hot Cocoa [You Make It Feel Like Christmas] (3:38) `isrc:USUM72509399` `qobuz:367384768`
+- **CHYL** — Fool Me [Fool Me] (2:13) `isrc:CA6D22300055` `qobuz:199857308`
+- **MEMBA** — CAUTION [ABOVE*GROUND] (2:51) `isrc:CA5KR2543250` `qobuz:387931745`
+- **Queen** — Somebody To Love [Greatest Hits In Japan] (4:57) `isrc:GBUM71029613` `qobuz:427252069`
+- **NUZB** — Waiting For Ya [Waiting For Ya] (3:05) `isrc:GBKQU2559634` `qobuz:343540613`
+- **NXSTY** — Street Level [Street Level / Listen Up] (2:59) `isrc:CA6D22500202` `qobuz:338422994`
+- **Tujamo** — Fader [Fader] (2:25) `isrc:FRX202513741` `qobuz:329610195`
+- **Melva Houston** — All Along Broadway [Black Coffee] (2:58) `isrc:USHM91013204` `qobuz:83364833`
+- **RetroVision** — ALLNIGHT [ALLNIGHT] (2:36) `isrc:CA6D22400768` `qobuz:327047758`
+- **Tiësto** — Flex [Flex] (3:32) `isrc:NLZ542500097` `qobuz:318705368`
+- **Aspyer** — Falling Into You [Falling Into You] (3:07) `isrc:GBKQU2507166` `qobuz:315571040`
+- **Magnificence** — Time Machine [Time Machine] (3:35) `isrc:USA2P2511156` `qobuz:322612690`
+- **Vluarr** — Anyway [Anyway] (2:37) `isrc:NLM5S2502697` `qobuz:361955030`

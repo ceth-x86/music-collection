@@ -1,0 +1,100 @@
+# Genre: Melodic Techno
+
+Melodic Techno is a subgenre that marries the steady, driving 4/4 pulse of techno with rich, emotive harmonic layers and intricate synthesizer melodies. Unlike the more abrasive or stripped-back industrial forms of the genre, Melodic Techno emphasizes atmosphere, epic builds, and poignant chord progressions, creating a sound that is both club-ready and deeply cinematic or melancholic in nature.
+
+Services: `qobuz:66719422` `tidal:3b06786e-02f6-4c28-8f2b-f7c620445ab4`
+
+## Tracks (92)
+
+- **A.M.R** — Whispers [Whispers] (7:45) `isrc:GBKQU1394753` `qobuz:106906443`
+- **Dahu** — Sedated (Mix Cut) [Beyond Borders: Berlin (Mixed by Dave Seaman)] (5:33) `isrc:NLF711507173` `qobuz:378036450`
+- **Aaryon** — Hex [Ethereal Techno #001] (8:55) `isrc:FRX761594271` `qobuz:278563559`
+- **Rafael Cerato, THe WHite SHadow (FR)** — Spektrum [Vomvo 03 Part 3] (7:24) `isrc:QM6MZ1750406` `qobuz:41547114`
+- **Nick Devon** — The Poem [Nick Devon Chronicles] (7:15) `isrc:FRX871532721` `qobuz:278575582`
+- **Clawz SG** — Gwendoline [Clawz SG Chronicles] (7:32) `isrc:US83Z1502657` `qobuz:278587630`
+- **Blancah** — Queda Do Ninho (Original Mix) [Buddha Bar Presents Armen Miran & Ravin] (4:21) `isrc:FR59R1635912` `qobuz:46035065`
+- **Parra for Cuva** — Elara [Veiled in Blue - EP] (5:46) `isrc:DEBW21400185` `qobuz:49081272`
+- **Yan Cook** — Exhale [XXX LP] (5:24) `isrc:NLCK42213468` `qobuz:153135432`
+- **Peder Mannerfelt** — And That Happened [Ensnared] (4:56) `isrc:NLCK41072712` `qobuz:105107604`
+- **Andreas Henneberg** — Grim [Ethereal Techno #001] (7:44) `isrc:DEY470942537` `qobuz:278563566`
+- **Tale Of Us** — Another Earth [Another Earth] (5:45) `isrc:CAM261350410` `qobuz:81272771`
+- **Monoloc** — Phoenix [Realm Of Consciousness] (6:08) `isrc:DEEC31610001` `qobuz:236928069`
+- **Recondite** — Think Twice [Think Twice EP] (6:30) `isrc:DEU671501764` `qobuz:371247790`
+- **Jon Hester** — Through The Smoke [Here and Present EP] (6:10) `isrc:GBLTF2600029` `qobuz:390745490`
+- **Locked Groove** — Emeralds [Realm Of Consciousness] (8:11) `isrc:DEEC31610006` `qobuz:236928074`
+- **Tale Of Us** — Astral [Astral] (6:42) `isrc:DEU671502691` `qobuz:371248343`
+- **Ae:ther** — Beyond The Lights [Realm Of Consciousness Pt. II] (6:17) `isrc:DEEC31750014` `qobuz:236956013`
+- **Denis Horvat** — Bruto [Realm Of Consciousness Pt. II] (8:15) `isrc:DEEC31750016` `qobuz:236956015`
+- **Keith Carnal** — Cloudy Monday [Realm Of Consciousness Pt. II] (9:07) `isrc:DEEC31750017` `qobuz:236956016`
+- **Per:sona** — 393 [Realm Of Consciousness Pt. II] (7:53) `isrc:DEEC31750019` `qobuz:236956018`
+- **Black Peters** — Avenue B [Realm Of Consciousness Pt. II] (7:25) `isrc:DEEC31750021` `qobuz:236956020`
+- **Darse** — Horus [Realm Of Consciousness Pt. II] (7:59) `isrc:DEEC31750022` `qobuz:236956021`
+- **Hunter/Game** — Illusion [Realm Of Consciousness Pt. II] (6:23) `isrc:DEEC31750024` `qobuz:236956023`
+- **Agents Of Time** — Paradigm [Realm Of Consciousness Pt. III] (6:09) `isrc:DEEC31850080` `qobuz:236945816`
+- **Fideles** — Lotus [Realm Of Consciousness Pt. III] (7:12) `isrc:DEEC31850084` `qobuz:236945820`
+- **SCB** — Tide Slide [Realm Of Consciousness Pt. III] (7:59) `isrc:DEEC31850085` `qobuz:236945821`
+- **Øostil** — Quantic [Global Underground #42: Patrice Bäumel - Berlin] (2:17) `isrc:GBHFW1800258` `qobuz:60438613`
+- **Sterac** — Universum [Realm Of Consciousness Pt. III] (6:11) `isrc:DEEC31850087` `qobuz:236945823`
+- **Tone Depth** — Ibn Sina [Realm Of Consciousness Pt. III] (8:19) `isrc:DEEC31850093` `qobuz:236945829`
+- **Jobe** — Orcus [Jobe Presents Authentic Steyoyoke #012] (7:52) `isrc:DEY472177931` `qobuz:278575684`
+- **Carlo Whale** — Trust [Melodic Structures, Vol. 9] (6:56) `isrc:DEW872005657` `qobuz:259831327`
+- **Erly Tepshi** — Hard to Love [Ethereal Techno #005] (7:36) `isrc:FRX201733756` `qobuz:278571439`
+- **Lilly Palmer** — Aether [Aether] (7:31) `isrc:DEPI82106552` `qobuz:126046029`
+- **Stephan Bodzin** — Strand [Strand] (7:48) `isrc:DEEC31750084` `qobuz:236752202`
+- **Adriatique** — Hound [Realm Of Consciousness Pt. IV] (6:35) `isrc:DEEC31900098` `qobuz:236925014`
+- **Adamant (IT)** — Last Promises [Realm Of Consciousness Pt. IV] (6:18) `isrc:DEEC31900099` `qobuz:236925015`
+- **Colyn** — Amor [Realm Of Consciousness Pt. IV] (8:33) `isrc:DEEC31900101` `qobuz:236925017`
+- **Anna** — Spectral [Realm Of Consciousness Pt. IV] (5:50) `isrc:DEEC31900104` `qobuz:236925020`
+- **Artbat** — Element [Realm Of Consciousness Pt. IV] (7:24) `isrc:DEEC31900105` `qobuz:236925021`
+- **matHame** — Farewell [Realm Of Consciousness Pt. IV] (8:05) `isrc:DEEC31900106` `qobuz:236925022`
+- **Vaal** — Weakness Pays [Realm Of Consciousness Pt. IV] (5:22) `isrc:DEEC31900108` `qobuz:236925024`
+- **Innellea** — Lost In Fades [Realm Of Consciousness Pt. IV] (5:38) `isrc:DEEC31900109` `qobuz:236925025`
+- **Kevin de Vries** — Phoenix [Realm Of Consciousness Pt. IV] (6:40) `isrc:DEEC31900111` `qobuz:236925027`
+- **Coeus** — Eden [Realm Of Consciousness Pt. IV] (6:50) `isrc:DEEC31900112` `qobuz:236925028`
+- **Lyke** — Lem [Realm Of Consciousness Pt. IV] (5:22) `isrc:DEEC31900113` `qobuz:236925029`
+- **Murat Uncuoglu** — Abetone [Realm Of Consciousness Pt. IV] (8:00) `isrc:DEEC31900114` `qobuz:236925030`
+- **ENØS** — Neptune [Realm Of Consciousness Pt. IV] (6:20) `isrc:DEEC31900116` `qobuz:236925032`
+- **Mitch de Klein** — Brother [Underground Frequencies Vol 3] (7:00) `isrc:GBKQU1969602` `qobuz:107766808`
+- **Donna-Marie (NZ)** — The Law Of Rhythm [FGIX] (6:50) `isrc:GBKQU2030508` `qobuz:107249750`
+- **Bonsai (US)** — Forward Unto Darkness [Rule of Two] (7:56) `isrc:GBJX32145425` `qobuz:278579971`
+- **Senses Of Mind** — Triquetra [Triquetra / Artery Of Life] (6:55) `isrc:GBKQU2000320` `qobuz:107349563`
+- **Trudge** — Restless [Drowned] (7:44) `isrc:GBLV61900460` `qobuz:107367864`
+- **Emiliano Demarco** — Sombras [Monosphere, Vol. 14] (6:30) `isrc:DEW872503376` `qobuz:374542199`
+- **Flashmatt** — The Dark Of Your Eyes [The Dark Of Your Eyes] (4:44) `isrc:FIFL32300049` `qobuz:251789182`
+- **Martin Dubiansky** — Frenesi En FM [Frenesi En FM] (6:16) `isrc:QMDA72559841` `qobuz:351826110`
+- **Aquiver** — Shattered Silence [Steyoyoke Anniversary, Vol. 13] (6:09) `isrc:QM6P42567001` `qobuz:333916409`
+- **René Diehl** — Luna [Luna] (6:18) `isrc:QMDA72559845` `qobuz:351681479`
+- **Seismal D** — Brushes of Dawn [Anima et Amor] (4:42) `isrc:QM6P42567004` `qobuz:350722581`
+- **Germán Case** — A Sky Without You [A Sky Without You] (6:19) `isrc:QMDA72553652` `qobuz:351624806`
+- **Turker** — Robots In Love [Robots In Love] (6:43) `isrc:QM6P42519374` `qobuz:331521854`
+- **Rive** — Anima [Anima] (6:21) `isrc:QMDA72420491` `qobuz:296645966`
+- **Riggel** — I'm Gone [Steyoyoke Gems Nocturnal 14] (6:25) `isrc:QM6N22593396` `qobuz:374423482`
+- **Djuma Soundsystem** — Naach [Naach] (6:10) `isrc:UKACT2675974` `qobuz:409611906`
+- **6RAJ** — Nos Adieux [Ethereal Techno #015] (7:52) `isrc:US83Z2502663` `qobuz:354482933`
+- **ZERO CONTACT** — Captured [Ethereal Techno #015] (5:58) `isrc:QMDA72590877` `qobuz:354482936`
+- **Eleven Of July** — History [Ethereal Techno #015] (5:59) `isrc:QMFME2502608` `qobuz:354482937`
+- **Talal Bazzi** — Quantyra [Steyoyoke Gems Nocturnal 14] (6:17) `isrc:QMFME2502612` `qobuz:374423488`
+- **Marwan El-Meligy** — Katharsis [Ethereal Techno #015] (4:37) `isrc:QMFME2502614` `qobuz:354482940`
+- **Lost Rhythm** — Dark Ocean [Dark Ocean] (6:08) `isrc:DEY472371693` `qobuz:278570462`
+- **Mode99** — Everlasting [Ethereal Techno #015] (6:13) `isrc:QMFME2502635` `qobuz:354482946`
+- **DJ Geri** — Chapter 79 [Ethereal Techno #015] (6:19) `isrc:QMFME2502648` `qobuz:354482948`
+- **Taylan** — Absinthe [Ethereal Techno #011] (6:52) `isrc:DEY472180209` `qobuz:278585851`
+- **Matan Caspi** — Pretty Little Smile [Ethereal Techno #011] (7:52) `isrc:USS1Z2101180` `qobuz:278585854`
+- **Mind Against** — Walking Away [Walking Away] (7:05) `isrc:DEEC32000028` `qobuz:236706115`
+- **Mind Against** — Solaris [Solaris EP] (6:05) `isrc:DEEC31720000` `qobuz:239199234`
+- **Woo York** — Chasing The Dream [Chasing The Dream] (5:57) `isrc:DEEC31850038` `qobuz:236438844`
+- **Woo York** — There is a Light [Chasing The Dream] (6:14) `isrc:DEEC31850039` `qobuz:236438845`
+- **Kas:st** — Road to Nowhere [Road to Nowhere] (7:14) `isrc:TCADT1818956` `qobuz:106628603`
+- **Kas:st** — Insomnia [Road to Nowhere] (6:51) `isrc:NLCK41052418` `qobuz:106628604`
+- **Anyma** — Consciousness [Genesys] (4:34) `isrc:DEEC33500555` `qobuz:222685411`
+- **Anyma** — Eternity [Genesys] (3:06) `isrc:DEEC33500935` `qobuz:222685399`
+- **Mrak** — Manifesto [Manifesto] (3:42) `isrc:DEEC33501120` `qobuz:239176644`
+- **Massano** — The Feeling [The Feeling] (8:32) `isrc:ITH642005105` `qobuz:315054971`
+- **Massano** — Shut Down [Shut Down] (3:50) `isrc:USA2P2359430` `qobuz:239635536`
+- **Argy** — Aria [Aria] (3:55) `isrc:DEEC31810498` `qobuz:239198209`
+- **Argy** — Tataki [Tataki] (5:27) `isrc:DEEC33500430` `qobuz:236706027`
+- **Monolink** — Return to Oz [Return to Oz] (8:00) `isrc:DETO31900005` `qobuz:65141669`
+- **8Kays** — Rainbow [Rainbow] (6:09) `isrc:DEQ021904766` `qobuz:134807766`
+- **CamelPhat** — For a Feeling [For a Feeling] (8:04) `isrc:GBARL2000686` `qobuz:95713179`
+- **Yotto** — Walls [Toolroom Ibiza 2019] (7:24) `isrc:GBEWA1900551` `qobuz:61223610`
+- **Stephan Bodzin** — Powers of Ten [Powers of Ten] (7:59) `isrc:DET751400084` `qobuz:24194358`

@@ -1,0 +1,1000 @@
+{
+  "name": "Genre: Braindance",
+  "services": {
+    "qobuz": "66716969",
+    "tidal": "e179a7ee-bfea-4a74-abed-41dd50bf926d"
+  },
+  "description": "Imported genre playlist: Braindance.",
+  "tracks": [
+    {
+      "artist": "The Gentle People",
+      "title": "Journey",
+      "services": {
+        "qobuz": "73469069"
+      },
+      "album": "Mix Gently",
+      "duration": 298,
+      "isrc": "JPM400700047"
+    },
+    {
+      "artist": "Steve Oliver",
+      "title": "Long Road",
+      "services": {
+        "qobuz": "84539399"
+      },
+      "album": "Global Kiss",
+      "duration": 261,
+      "isrc": "USCGH1053111"
+    },
+    {
+      "artist": "Cylob",
+      "title": "Rewind!",
+      "services": {
+        "qobuz": "51011043"
+      },
+      "album": "Rewind!",
+      "duration": 184,
+      "isrc": "GBTSL1400020"
+    },
+    {
+      "artist": "DMX Krew",
+      "title": "The Glass Room",
+      "services": {
+        "qobuz": "126805423"
+      },
+      "album": "We Are DMX (2021 Expanded Reissue)",
+      "duration": 149,
+      "isrc": "GBNVJ0800542"
+    },
+    {
+      "artist": "Detroit Soul Sensation",
+      "title": "Reach Out I'll Be There ('88 Mix)",
+      "services": {
+        "qobuz": "115462040"
+      },
+      "album": "80's Running Playlist",
+      "duration": 180,
+      "isrc": "CAM460404725"
+    },
+    {
+      "artist": "Bochum Welt",
+      "title": "Greenwich",
+      "services": {
+        "qobuz": "159998747"
+      },
+      "album": "Desktop Robotics & Feelings on a Screen (25th Anniversary Edition)",
+      "duration": 273,
+      "isrc": "GBJU22200719"
+    },
+    {
+      "artist": "Ibrahim Maalouf",
+      "title": "The Proposal",
+      "services": {
+        "qobuz": "283939538"
+      },
+      "album": "Trumpets of Michel-Ange",
+      "duration": 299,
+      "isrc": "FRP8H2400030"
+    },
+    {
+      "artist": "Nina Simone",
+      "title": "My Baby Just Cares For Me",
+      "services": {
+        "qobuz": "420312403"
+      },
+      "album": "night drives by myself",
+      "duration": 231,
+      "isrc": "USUM72116203"
+    },
+    {
+      "artist": "\u00b5-ziq",
+      "title": "Swan Vesta",
+      "services": {
+        "qobuz": "237802423"
+      },
+      "album": "Tango N'Vectif",
+      "duration": 369,
+      "isrc": "US78Q1110035"
+    },
+    {
+      "artist": "Dick Van Dyke",
+      "title": "Put on a Happy Face",
+      "services": {
+        "qobuz": "7348401"
+      },
+      "album": "Bye Bye Birdie (Original Motion Picture Soundtrack)",
+      "duration": 215,
+      "isrc": "USRC16307238"
+    },
+    {
+      "artist": "Amahla",
+      "title": "Do Something You Can't Take Back",
+      "services": {
+        "qobuz": "241932582"
+      },
+      "album": "Enough: The Collection",
+      "duration": 155,
+      "isrc": "GBKPL2152377"
+    },
+    {
+      "artist": "LEMAT WORKS",
+      "title": "Chaos Precision / Deep Flow Mix",
+      "services": {
+        "qobuz": "380357503"
+      },
+      "album": "Flow 2.0 / AD 2025",
+      "duration": 203,
+      "isrc": "QZYB32541611"
+    },
+    {
+      "artist": "Bogdan Raczynski",
+      "title": "Death To The Natives",
+      "services": {
+        "qobuz": "79196268"
+      },
+      "album": "Bombs Over Ibiza",
+      "duration": 171,
+      "isrc": "GB5P59700029"
+    },
+    {
+      "artist": "Leo Kottke & Mike Gordon",
+      "title": "Oh Well",
+      "services": {
+        "qobuz": "4965758"
+      },
+      "album": "Sixty Six Steps",
+      "duration": 201,
+      "isrc": "USV110500220"
+    },
+    {
+      "artist": "Leila",
+      "title": "Don't Fall Asleep (feat. Luca Santucci)",
+      "services": {
+        "qobuz": "119886175"
+      },
+      "album": "Like Weather (Remastered Edition)",
+      "duration": 207,
+      "isrc": "UK8261900523"
+    },
+    {
+      "artist": "Diana Krall",
+      "title": "Temptation",
+      "services": {
+        "qobuz": "54319180"
+      },
+      "album": "The Girl In The Other Room",
+      "duration": 269,
+      "isrc": "USGR10301330"
+    },
+    {
+      "artist": "Squarepusher",
+      "title": "Circular Flexing",
+      "services": {
+        "qobuz": "5683577"
+      },
+      "album": "Maximum Priest",
+      "duration": 336,
+      "isrc": "GBBPW9900090"
+    },
+    {
+      "artist": "Santiano",
+      "title": "Bis in alle Ewigkeit (Walhalla)",
+      "services": {
+        "qobuz": "177263757"
+      },
+      "album": "Die Sehnsucht ist mein Steuermann - Das Beste aus 10 Jahren",
+      "duration": 246,
+      "isrc": "DEUM72202149"
+    },
+    {
+      "artist": "Little Mix",
+      "title": "Red Planet",
+      "services": {
+        "qobuz": "100212638"
+      },
+      "album": "DNA",
+      "duration": 233,
+      "isrc": "GBHMU1200282"
+    },
+    {
+      "artist": "Tim Hill",
+      "title": "Like a Leaf Gone Dry",
+      "services": {
+        "qobuz": "93913709"
+      },
+      "album": "Piano Songs",
+      "duration": 91,
+      "isrc": "USCGH1735172"
+    },
+    {
+      "artist": "Terry_Alex",
+      "title": "\uc720\ub9ac\uad6c\ub450 _ The Glass Slipper",
+      "services": {
+        "qobuz": "422885174"
+      },
+      "album": "\uc720\ub9ac\uad6c\ub450 _ The Glass Slipper",
+      "duration": 254,
+      "isrc": "QT3F42603990"
+    },
+    {
+      "artist": "Roy Woods",
+      "title": "Down Girl",
+      "services": {
+        "qobuz": "314521236"
+      },
+      "album": "Waking at Dawn",
+      "duration": 169,
+      "isrc": "USWB11601141"
+    },
+    {
+      "artist": "Pierre Bastien",
+      "title": "Nature's Voice",
+      "services": {
+        "qobuz": "364187469"
+      },
+      "album": "Nuits Sans Nuit",
+      "duration": 187,
+      "isrc": "DEDX62500006"
+    },
+    {
+      "artist": "Ensemble Double Face",
+      "title": "Waldkl\u00e4nge, Op. 28: No. 1, Waldv\u00f6glein",
+      "services": {
+        "qobuz": "360705014"
+      },
+      "album": "Les deux Franz",
+      "duration": 211,
+      "isrc": "FRV732503591"
+    },
+    {
+      "artist": "Lynda Lemay",
+      "title": "Bleu",
+      "services": {
+        "qobuz": "2709992"
+      },
+      "album": "Allo C'est Moi",
+      "duration": 296,
+      "isrc": "CAW110800124"
+    },
+    {
+      "artist": "The Beatles",
+      "title": "A Day In The Life",
+      "services": {
+        "qobuz": "45990283"
+      },
+      "album": "Sgt. Pepper's Lonely Hearts Club Band",
+      "duration": 330,
+      "isrc": "GBUM71700946"
+    },
+    {
+      "artist": "AFX La Melodia",
+      "title": "Party",
+      "services": {
+        "qobuz": "360593788"
+      },
+      "album": "Party",
+      "duration": 153,
+      "isrc": "MX2832591443"
+    },
+    {
+      "artist": "Lorn",
+      "title": "Acid Rain",
+      "services": {
+        "qobuz": "106440571"
+      },
+      "album": "The Maze To Nowhere",
+      "duration": 172,
+      "isrc": "QM2PV1640378"
+    },
+    {
+      "artist": "Resting Cell",
+      "title": "INPUT Iconic Black Suit",
+      "services": {
+        "qobuz": "402086290"
+      },
+      "album": "Recombinant Phenotypes",
+      "duration": 273,
+      "isrc": "CA5KR2538999"
+    },
+    {
+      "artist": "Johnny Jones",
+      "title": "Are You Missing Me?",
+      "services": {
+        "qobuz": "383043199"
+      },
+      "album": "Bluegrass Hits",
+      "duration": 161,
+      "isrc": "GBXHC2034483"
+    },
+    {
+      "artist": "Mastodon",
+      "title": "More Than I Could Chew",
+      "services": {
+        "qobuz": "130748251"
+      },
+      "album": "Hushed and Grim",
+      "duration": 411,
+      "isrc": "USRE12100526"
+    },
+    {
+      "artist": "Young Thug",
+      "title": "Anybody (feat. Nicki Minaj)",
+      "services": {
+        "qobuz": "48832346"
+      },
+      "album": "Hear No Evil",
+      "duration": 254,
+      "isrc": "USAT21801877"
+    },
+    {
+      "artist": "The 1975",
+      "title": "It's Not Living (If It's Not With You)",
+      "services": {
+        "qobuz": "53270946"
+      },
+      "album": "A Brief Inquiry Into Online Relationships",
+      "duration": 248,
+      "isrc": "GBK3W1800838"
+    },
+    {
+      "artist": "Bengt L\u00f6fberg",
+      "title": "\"Inte s\u00f6rjer jag f\u00f6r mina barn \u00e4r sm\u00e5\" - polska efter August Str\u00f6mberg, J\u00e4t",
+      "services": {
+        "qobuz": "105496073"
+      },
+      "album": "The Swedish Violin Vol. 2",
+      "duration": 100,
+      "isrc": "SEAGA1501715"
+    },
+    {
+      "artist": "Kuboiz",
+      "title": "Proper Sorted, Innit",
+      "services": {
+        "qobuz": "406438135"
+      },
+      "album": "Midnight Frequency Grid",
+      "duration": 118,
+      "isrc": "GXJBW2650625"
+    },
+    {
+      "artist": "Seals & Crofts",
+      "title": "Funny Little Man",
+      "services": {
+        "qobuz": "2934387"
+      },
+      "album": "Summer Breeze",
+      "duration": 192,
+      "isrc": "USWB10100730"
+    },
+    {
+      "artist": "Hardfloor",
+      "title": "Dark Shadow",
+      "services": {
+        "qobuz": "54195511"
+      },
+      "album": "The Art of Acid",
+      "duration": 459,
+      "isrc": "DEP991300005"
+    },
+    {
+      "artist": "Compact Disk Dummies",
+      "title": "Kyoto Protocol",
+      "services": {
+        "qobuz": "104244445"
+      },
+      "album": "Neon Fever Dream",
+      "duration": 212,
+      "isrc": "BEAC52001009"
+    },
+    {
+      "artist": "Eric Prydz",
+      "title": "Call on Me",
+      "services": {
+        "qobuz": "47751969"
+      },
+      "album": "Call On Me (Remixes)",
+      "duration": 171,
+      "isrc": "GBCEN0400130"
+    },
+    {
+      "artist": "Suzanne Collins",
+      "title": "Kapitel 72.5 & Kapitel 73.1 - Die Tribute von Panem X. Das Lied von Vogel und Schlange",
+      "services": {
+        "qobuz": "177891897"
+      },
+      "album": "Die Tribute von Panem X. Das Lied von Vogel und Schlange",
+      "duration": 134,
+      "isrc": "DEWM11301988"
+    },
+    {
+      "artist": "Omni Trio",
+      "title": "Thru the Vibe",
+      "services": {
+        "qobuz": "209011449"
+      },
+      "album": "Thru the Vibe (John B Remix) / Thru the Vibe (2 on 1 Mix)",
+      "duration": 357,
+      "isrc": "GBAGN9400015"
+    },
+    {
+      "artist": "Scape",
+      "title": "Be My Friend",
+      "services": {
+        "qobuz": "111219099"
+      },
+      "album": "Be My Friend",
+      "duration": 475,
+      "isrc": "GBCEN0600001"
+    },
+    {
+      "artist": "Luh Tyler",
+      "title": "On A Tuesday",
+      "services": {
+        "qobuz": "205309044"
+      },
+      "album": "My Vision: Reloaded",
+      "duration": 151,
+      "isrc": "USAT22303806"
+    },
+    {
+      "artist": "n9oc",
+      "title": "Hyphae",
+      "services": {
+        "qobuz": "239235241"
+      },
+      "album": "Braindance",
+      "duration": 448,
+      "isrc": "NLZ8C2300777"
+    },
+    {
+      "artist": "Pepe",
+      "title": "Cloudbusters",
+      "services": {
+        "qobuz": "239235242"
+      },
+      "album": "Braindance",
+      "duration": 342,
+      "isrc": "NLZ8C2300778"
+    },
+    {
+      "artist": "Gacha Bakradze",
+      "title": "Inhumanity",
+      "services": {
+        "qobuz": "239235243"
+      },
+      "album": "Braindance",
+      "duration": 164,
+      "isrc": "NLZ8C2300779"
+    },
+    {
+      "artist": "Rali Pibs",
+      "title": "Hooked & Strungout",
+      "services": {
+        "qobuz": "239235244"
+      },
+      "album": "Braindance",
+      "duration": 319,
+      "isrc": "NLZ8C2300780"
+    },
+    {
+      "artist": "Teatre",
+      "title": "Daze",
+      "services": {
+        "qobuz": "239235245"
+      },
+      "album": "Braindance",
+      "duration": 260,
+      "isrc": "NLZ8C2300781"
+    },
+    {
+      "artist": "O-Wells",
+      "title": "Deep Concentration",
+      "services": {
+        "qobuz": "239235246"
+      },
+      "album": "Braindance",
+      "duration": 319,
+      "isrc": "NLZ8C2300782"
+    },
+    {
+      "artist": "oma totem",
+      "title": "Sobre Caderas",
+      "services": {
+        "qobuz": "239235247"
+      },
+      "album": "Braindance",
+      "duration": 276,
+      "isrc": "NLZ8C2300783"
+    },
+    {
+      "artist": "Dana Kuehr",
+      "title": "Biota",
+      "services": {
+        "qobuz": "239235248"
+      },
+      "album": "Braindance",
+      "duration": 392,
+      "isrc": "NLZ8C2300784"
+    },
+    {
+      "artist": "Benjamin Milz",
+      "title": "Cmos",
+      "services": {
+        "qobuz": "239235249"
+      },
+      "album": "Braindance",
+      "duration": 325,
+      "isrc": "NLZ8C2300785"
+    },
+    {
+      "artist": "Poly Chain",
+      "title": "Turbulent",
+      "services": {
+        "qobuz": "239235250"
+      },
+      "album": "Braindance",
+      "duration": 246,
+      "isrc": "NLZ8C2300786"
+    },
+    {
+      "artist": "Katatonic Silentio",
+      "title": "Grain Of Consumption",
+      "services": {
+        "qobuz": "239235251"
+      },
+      "album": "Braindance",
+      "duration": 335,
+      "isrc": "NLZ8C2300787"
+    },
+    {
+      "artist": "Koloah",
+      "title": "The Highway",
+      "services": {
+        "qobuz": "239235252"
+      },
+      "album": "Braindance",
+      "duration": 289,
+      "isrc": "NLZ8C2300788"
+    },
+    {
+      "artist": "Reptant",
+      "title": "Protectors Of The Moss",
+      "services": {
+        "qobuz": "239235253"
+      },
+      "album": "Braindance",
+      "duration": 463,
+      "isrc": "NLZ8C2300789"
+    },
+    {
+      "artist": "edward",
+      "title": "Blurry Trees And Peanuts",
+      "services": {
+        "qobuz": "239235254"
+      },
+      "album": "Braindance",
+      "duration": 485,
+      "isrc": "NLZ8C2300790"
+    },
+    {
+      "artist": "Promising Youngster",
+      "title": "Wildcards",
+      "services": {
+        "qobuz": "413430823"
+      },
+      "album": "Ude 02 - Sequences",
+      "duration": 367,
+      "isrc": "GXJBZ2663795"
+    },
+    {
+      "artist": "Irrational Language",
+      "title": "Indivisible",
+      "services": {
+        "qobuz": "413430822"
+      },
+      "album": "Ude 02 - Sequences",
+      "duration": 317,
+      "isrc": "GXJBZ2663794"
+    },
+    {
+      "artist": "7053M4R14",
+      "title": "K4R1N4",
+      "services": {
+        "qobuz": "413430820"
+      },
+      "album": "Ude 02 - Sequences",
+      "duration": 361,
+      "isrc": "GXJBZ2663792"
+    },
+    {
+      "artist": "Caramel Chameleon",
+      "title": "Digitone Spectrum Acid",
+      "services": {
+        "qobuz": "413430821"
+      },
+      "album": "Ude 02 - Sequences",
+      "duration": 338,
+      "isrc": "GXJBZ2663793"
+    },
+    {
+      "artist": "James Shinra",
+      "title": "Moonlit",
+      "services": {
+        "qobuz": "325398988"
+      },
+      "album": "Meteorites",
+      "duration": 217,
+      "isrc": "QZTAW2383871"
+    },
+    {
+      "artist": "David Bowie",
+      "title": "Sunday",
+      "services": {
+        "qobuz": "345388329"
+      },
+      "album": "I Can't Give Everything Away (2002 - 2016)",
+      "duration": 285,
+      "isrc": "USJT12500118"
+    },
+    {
+      "artist": "The Beatles",
+      "title": "Here Comes The Sun",
+      "services": {
+        "qobuz": "64868961"
+      },
+      "album": "Abbey Road",
+      "duration": 185,
+      "isrc": "GBUM71903335"
+    },
+    {
+      "artist": "Vairon",
+      "title": "Heatwave Skyline Glow",
+      "services": {
+        "qobuz": "416835155"
+      },
+      "album": "Summer pop",
+      "duration": 166,
+      "isrc": "RUA492618565"
+    },
+    {
+      "artist": "M.E.R.S & LBH Di Vegas",
+      "title": "Papier de verre",
+      "services": {
+        "qobuz": "48981558"
+      },
+      "album": "Nerves of Time, Vol. 4",
+      "duration": 318,
+      "isrc": "CH6541819079"
+    },
+    {
+      "artist": "The Chainsmokers",
+      "title": "Closer",
+      "services": {
+        "qobuz": "33870696"
+      },
+      "album": "Closer",
+      "duration": 245,
+      "isrc": "USQX91601347"
+    },
+    {
+      "artist": "Dj Garth",
+      "title": "Twenty Minutes of Disco Glory (The Acid Rock Mix)",
+      "services": {
+        "qobuz": "357107073"
+      },
+      "album": "DJ-Kicks: Eris Drew",
+      "duration": 253,
+      "isrc": "DEG932504786"
+    },
+    {
+      "artist": "Dizzee Rascal",
+      "title": "You Don't Know",
+      "services": {
+        "qobuz": "99204553"
+      },
+      "album": "E3 AF",
+      "duration": 150,
+      "isrc": "GBUM72003882"
+    },
+    {
+      "artist": "Full Of Hell",
+      "title": "Armory of Obsidian Glass",
+      "services": {
+        "qobuz": "59021255"
+      },
+      "album": "Weeping Choir",
+      "duration": 415,
+      "isrc": "US2641942107"
+    },
+    {
+      "artist": "S.Pri Noir",
+      "title": "Signe",
+      "services": {
+        "qobuz": "250215249"
+      },
+      "album": "La Cour des Miracles",
+      "duration": 204,
+      "isrc": "DGA0P2382481"
+    },
+    {
+      "artist": "Will Ackerman",
+      "title": "Wings On The Water",
+      "services": {
+        "qobuz": "221615"
+      },
+      "album": "Sound Of Wind Driven Rain",
+      "duration": 332,
+      "isrc": "USWH19800389"
+    },
+    {
+      "artist": "U.F.O.",
+      "title": "Alpha Centauri",
+      "services": {
+        "qobuz": "331741201"
+      },
+      "album": "No Place To Run (2025 Remaster)",
+      "duration": 116,
+      "isrc": "UKKP22500478"
+    },
+    {
+      "artist": "Bob Laithwaite",
+      "title": "It's Not What Keeps me Up",
+      "services": {
+        "qobuz": "299009959"
+      },
+      "album": "Only Time Will Tell",
+      "duration": 355,
+      "isrc": "QZWFX2441526"
+    },
+    {
+      "artist": "International Teachers Of Pop",
+      "title": "Another Brick in The Wall",
+      "services": {
+        "qobuz": "58064895"
+      },
+      "album": "The Ballad of Remedy Nilsson",
+      "duration": 192,
+      "isrc": "GB9TP1800793"
+    },
+    {
+      "artist": "Rapper Big Pooh",
+      "title": "Fortune & Fame",
+      "services": {
+        "qobuz": "5926335"
+      },
+      "album": "FatBoyFresh Vol. 1: For Members Only",
+      "duration": 262,
+      "isrc": "USUYG1005555"
+    },
+    {
+      "artist": "Manami",
+      "title": "Dial Again",
+      "services": {
+        "qobuz": "404046145"
+      },
+      "album": "LNS002",
+      "duration": 330,
+      "isrc": "UKN6K2600105"
+    },
+    {
+      "artist": "The Killers",
+      "title": "Mr. Brightside",
+      "services": {
+        "qobuz": "99162962"
+      },
+      "album": "Hot Fuss",
+      "duration": 223,
+      "isrc": "USIR20400274"
+    },
+    {
+      "artist": "Sensational",
+      "title": "Life Buzz",
+      "services": {
+        "qobuz": "396877600"
+      },
+      "album": "Audio Scape",
+      "duration": 69,
+      "isrc": "UKG2M2503001"
+    },
+    {
+      "artist": "K\u00f8ps",
+      "title": "Inside The Machine",
+      "services": {
+        "qobuz": "396877601"
+      },
+      "album": "Audio Scape",
+      "duration": 384,
+      "isrc": "UKG2M2503002"
+    },
+    {
+      "artist": "ASYX (Audiosyntax)",
+      "title": "Dream Like Snow",
+      "services": {
+        "qobuz": "396877602"
+      },
+      "album": "Audio Scape",
+      "duration": 296,
+      "isrc": "UKG2M2503003"
+    },
+    {
+      "artist": "Rasmus Fisker",
+      "title": "Fell",
+      "services": {
+        "qobuz": "396877603"
+      },
+      "album": "Audio Scape",
+      "duration": 184,
+      "isrc": "UKG2M2503004"
+    },
+    {
+      "artist": "Original Tradition",
+      "title": "Shoin",
+      "services": {
+        "qobuz": "396877604"
+      },
+      "album": "Audio Scape",
+      "duration": 264,
+      "isrc": "UKG2M2503005"
+    },
+    {
+      "artist": "Adam Winchester",
+      "title": "Sine Scan",
+      "services": {
+        "qobuz": "396877605"
+      },
+      "album": "Audio Scape",
+      "duration": 257,
+      "isrc": "UKG2M2503006"
+    },
+    {
+      "artist": "Wrenasmir",
+      "title": "Live in Islington Park (Continuous Mix) [Live]",
+      "services": {
+        "qobuz": "413766965"
+      },
+      "album": "Live in Islington Park",
+      "duration": 2096,
+      "isrc": "USHM22674453"
+    },
+    {
+      "artist": "Aphex Twin",
+      "title": "Cow Cud Is A Twin",
+      "services": {
+        "qobuz": "79173782"
+      },
+      "album": "...I Care Because You Do",
+      "duration": 333,
+      "isrc": "GBBPW9500102"
+    },
+    {
+      "artist": "General Soundbwoy",
+      "title": "Be Easy",
+      "services": {
+        "qobuz": "271210102"
+      },
+      "album": "IBIZA Summer Mix",
+      "duration": 161,
+      "isrc": "ARF412400375"
+    },
+    {
+      "artist": "Tame Impala",
+      "title": "Dracula",
+      "services": {
+        "qobuz": "389711053"
+      },
+      "album": "Dracula (Remix)",
+      "duration": 209,
+      "isrc": "USQX92600464"
+    },
+    {
+      "artist": "Aphex Twin",
+      "title": "Come On You Slags",
+      "services": {
+        "qobuz": "79173777"
+      },
+      "album": "...I Care Because You Do",
+      "duration": 344,
+      "isrc": "GBBPW9500097"
+    },
+    {
+      "artist": "Fleetwood Mac",
+      "title": "Need Your Love So Bad",
+      "services": {
+        "qobuz": "166062"
+      },
+      "album": "The Pious Bird Of Good Omen",
+      "duration": 416,
+      "isrc": "GBBBN9902096"
+    },
+    {
+      "artist": "The Avett Brothers",
+      "title": "I Should\u2019ve Spent The Day With My Family",
+      "services": {
+        "qobuz": "96760462"
+      },
+      "album": "The Third Gleam",
+      "duration": 276,
+      "isrc": "USC4R2003445"
+    },
+    {
+      "artist": "Evangelion_guy",
+      "title": "Music For Multiple Pianists",
+      "services": {
+        "qobuz": "376075938"
+      },
+      "album": "Bason Coda Farad",
+      "duration": 280,
+      "isrc": "QZRPB2586481"
+    },
+    {
+      "artist": "Tsha",
+      "title": "Somebody",
+      "services": {
+        "qobuz": "246038070"
+      },
+      "album": "Somebody (Trance Wax Remix)",
+      "duration": 171,
+      "isrc": "GBCFB2300869"
+    },
+    {
+      "artist": "R. Blane",
+      "title": "Have Yourself A Merry Little Christmas",
+      "services": {
+        "qobuz": "4143339"
+      },
+      "album": "A Fireside Christmas",
+      "duration": 245,
+      "isrc": "GBCEU0776519"
+    },
+    {
+      "artist": "Anti-Music",
+      "title": "Trafffic Jam",
+      "services": {
+        "qobuz": "32948999"
+      },
+      "album": "Music for anti-social individuals",
+      "duration": 122,
+      "isrc": "QMHNS1302827"
+    },
+    {
+      "artist": "Aphex Twin",
+      "title": "Wet Tip Hen Ax",
+      "services": {
+        "qobuz": "79173779"
+      },
+      "album": "...I Care Because You Do",
+      "duration": 317,
+      "isrc": "GBBPW9500099"
+    },
+    {
+      "artist": "Sandra",
+      "title": "We'll Be Together",
+      "services": {
+        "qobuz": "794686"
+      },
+      "album": "18 Greatest Hits",
+      "duration": 227,
+      "isrc": "DEG129201112"
+    },
+    {
+      "artist": "Nina Simone",
+      "title": "I'm Gonna Leave You",
+      "services": {
+        "qobuz": "90491478"
+      },
+      "album": "Martin Freeman and Eddie Piller Present Jazz On The Corner Two",
+      "duration": 137,
+      "isrc": "USPR36660015"
+    },
+    {
+      "artist": "Vanessa Daou",
+      "title": "Near the Black Forest 2.0",
+      "services": {
+        "qobuz": "103796820"
+      },
+      "album": "Songs for Solace",
+      "duration": 309,
+      "isrc": "USEY51700513"
+    }
+  ]
+}

@@ -1,0 +1,1010 @@
+{
+  "name": "Genre: Dark Electro",
+  "services": {
+    "qobuz": "66714359",
+    "tidal": "63fe5cef-cd63-4316-8365-ad5dff335897"
+  },
+  "description": "Imported genre playlist: Dark Electro.",
+  "tracks": [
+    {
+      "artist": "d4vd",
+      "title": "Placebo Effect",
+      "services": {
+        "qobuz": "196018636"
+      },
+      "album": "Placebo Effect",
+      "duration": 191,
+      "isrc": "USUM72301278"
+    },
+    {
+      "artist": "Blood in Face",
+      "title": "Yelworc",
+      "services": {
+        "qobuz": "29885858"
+      },
+      "album": "14 Years Of Electronic Chall",
+      "duration": 494,
+      "isrc": "USY251634029"
+    },
+    {
+      "artist": "R\u039eC\u039bNT",
+      "title": "BLACK//SALT: [DEBT]",
+      "services": {
+        "qobuz": "415828201"
+      },
+      "album": "State Unsupported",
+      "duration": 343,
+      "isrc": "USHM22694779"
+    },
+    {
+      "artist": "Thierry David",
+      "title": "IC 434",
+      "services": {
+        "qobuz": "182964900"
+      },
+      "album": "Mosa\u00efques",
+      "duration": 235,
+      "isrc": "QMDA62223920"
+    },
+    {
+      "artist": "Stereolab",
+      "title": "Self Portrait with \"Electric Brain\"",
+      "services": {
+        "qobuz": "238150156"
+      },
+      "album": "Chemical Chords",
+      "duration": 196,
+      "isrc": "GBJCJ0800009"
+    },
+    {
+      "artist": "Amnistia",
+      "title": "Let's Pretend",
+      "services": {
+        "qobuz": "282356352"
+      },
+      "album": "The Mirror: Fr34k5",
+      "duration": 338,
+      "isrc": "GBLPF6794535"
+    },
+    {
+      "artist": "Glitchvine Engine",
+      "title": "Porcelain Midnight Morgue",
+      "services": {
+        "qobuz": "376676138"
+      },
+      "album": "Error Root Mechanism",
+      "duration": 118,
+      "isrc": "BK4DA2563430"
+    },
+    {
+      "artist": "Virginia Wing",
+      "title": "The Second Shift",
+      "services": {
+        "qobuz": "194800499"
+      },
+      "album": "Ecstatic Arrow",
+      "duration": 181,
+      "isrc": "GBCKK1749002"
+    },
+    {
+      "artist": "Guerrilla Records",
+      "title": "REVELATIONS (feat. Stygian Saint & TOXIC)",
+      "services": {
+        "qobuz": "420556375"
+      },
+      "album": "Necrotic Crucible",
+      "duration": 172,
+      "isrc": "QZZ7V2608310"
+    },
+    {
+      "artist": "Charles Mackerras",
+      "title": "The Magic Flute, Act II: The wrath of hell is burning in my bosom",
+      "services": {
+        "qobuz": "309884215"
+      },
+      "album": "Mozart: The Magic Flute",
+      "duration": 241,
+      "isrc": "GBLWD0502507"
+    },
+    {
+      "artist": "Ezra Collective",
+      "title": "Joy To The World",
+      "services": {
+        "qobuz": "366909579"
+      },
+      "album": "Joy To The World",
+      "duration": 325,
+      "isrc": "USBQU2500348"
+    },
+    {
+      "artist": "Staatsphilharmonie Rheinland-Pfalz",
+      "title": "La Nuit et l'Amour: Interlude de l'ode symphonique",
+      "services": {
+        "qobuz": "305048126"
+      },
+      "album": "Holmes, A.: Orchestral Works",
+      "duration": 349,
+      "isrc": "HKI199420804"
+    },
+    {
+      "artist": "Brooks & Dunn",
+      "title": "Holy War",
+      "services": {
+        "qobuz": "50987102"
+      },
+      "album": "Red Dirt Road",
+      "duration": 309,
+      "isrc": "USAN20300018"
+    },
+    {
+      "artist": "GoGo Penguin",
+      "title": "Initiate",
+      "services": {
+        "qobuz": "30015819"
+      },
+      "album": "Man Made Object (Deluxe Edition)",
+      "duration": 214,
+      "isrc": "FRUM71502474"
+    },
+    {
+      "artist": "Woody Guthrie",
+      "title": "Tear The Facists Down",
+      "services": {
+        "qobuz": "28002057"
+      },
+      "album": "My Dusty Road",
+      "duration": 128,
+      "isrc": "USRO20916508"
+    },
+    {
+      "artist": "Zo\u00eb Keating",
+      "title": "Seven League Boots",
+      "services": {
+        "qobuz": "120056530"
+      },
+      "album": "Into The Trees",
+      "duration": 370,
+      "isrc": "USU2C1000008"
+    },
+    {
+      "artist": "The Dust Of Basement",
+      "title": "Despair",
+      "services": {
+        "qobuz": "22700456"
+      },
+      "album": "Opticus Vice Versa",
+      "duration": 266,
+      "isrc": "DEZ901500279"
+    },
+    {
+      "artist": "Kill Dyll",
+      "title": "God's Failed Experiment",
+      "services": {
+        "qobuz": "257999280"
+      },
+      "album": "God's Failed Experiment",
+      "duration": 162,
+      "isrc": "USWB12400927"
+    },
+    {
+      "artist": "Captain Jack",
+      "title": "Jack in da House",
+      "services": {
+        "qobuz": "72143140"
+      },
+      "album": "The Mission",
+      "duration": 373,
+      "isrc": "DED710509060"
+    },
+    {
+      "artist": "The Brew",
+      "title": "Pointless Pain",
+      "services": {
+        "qobuz": "52068047"
+      },
+      "album": "Art of Persuasion",
+      "duration": 187,
+      "isrc": "ATN261878107"
+    },
+    {
+      "artist": "The Artisans",
+      "title": "Swerve to Avoid",
+      "services": {
+        "qobuz": "321844158"
+      },
+      "album": "Deviation",
+      "duration": 109,
+      "isrc": "TCAJJ2585325"
+    },
+    {
+      "artist": "Wizo",
+      "title": "Raum Der Zeit",
+      "services": {
+        "qobuz": "138126762"
+      },
+      "album": "Uuaarrgh!",
+      "duration": 98,
+      "isrc": "DEG039415204"
+    },
+    {
+      "artist": "OJ",
+      "title": "Unknown Traveler",
+      "services": {
+        "qobuz": "294281546"
+      },
+      "album": "Portal Access Points",
+      "duration": 252,
+      "isrc": "GBCMQ2400371"
+    },
+    {
+      "artist": "Unknown Mortal Orchestra",
+      "title": "Hunnybee",
+      "services": {
+        "qobuz": "46655823"
+      },
+      "album": "Sex & Food",
+      "duration": 268,
+      "isrc": "US38Y1832204"
+    },
+    {
+      "artist": "Utilize The Remains",
+      "title": "Devouring Neuropathy",
+      "services": {
+        "qobuz": "401648693"
+      },
+      "album": "Devouring Neuropathy",
+      "duration": 202,
+      "isrc": "NZRI12600610"
+    },
+    {
+      "artist": "Dead When I Found Her",
+      "title": "Better Days",
+      "services": {
+        "qobuz": "73845379"
+      },
+      "album": "Stitches & Cover Ups",
+      "duration": 282,
+      "isrc": "CAAD21200517"
+    },
+    {
+      "artist": "Degenerates Boiled Alive In Raw Human Faeces",
+      "title": "Cadaveric Discharge from the Corpses of Humanity",
+      "services": {
+        "qobuz": "371462466"
+      },
+      "album": "Disgorgement of the Decomposition of Mankind",
+      "duration": 72,
+      "isrc": "CALVP2579441"
+    },
+    {
+      "artist": "Peter Green",
+      "title": "Seven Stars",
+      "services": {
+        "qobuz": "385641505"
+      },
+      "album": "In the Skies",
+      "duration": 187,
+      "isrc": "GBAJE7800308"
+    },
+    {
+      "artist": "Sleep Token",
+      "title": "The Summoning",
+      "services": {
+        "qobuz": "195178291"
+      },
+      "album": "Take Me Back To Eden",
+      "duration": 395,
+      "isrc": "GBUM72200352"
+    },
+    {
+      "artist": "Florence + The Machine",
+      "title": "Girl With One Eye",
+      "services": {
+        "qobuz": "8606362"
+      },
+      "album": "Lungs",
+      "duration": 218,
+      "isrc": "GBUM70904755"
+    },
+    {
+      "artist": "Instant Ramen",
+      "title": "Robot Funk",
+      "services": {
+        "qobuz": "301311657"
+      },
+      "album": "Vibes and Vogue",
+      "duration": 167,
+      "isrc": "DEUF82214807"
+    },
+    {
+      "artist": "The Clash",
+      "title": "Stay Free",
+      "services": {
+        "qobuz": "11140730"
+      },
+      "album": "Sound System (8 CD)",
+      "duration": 220,
+      "isrc": "GBARL1200720"
+    },
+    {
+      "artist": "bassvictim",
+      "title": "Dog Tag freestyle",
+      "services": {
+        "qobuz": "362207438"
+      },
+      "album": "Forever",
+      "duration": 144,
+      "isrc": "QT3FA2592478"
+    },
+    {
+      "artist": "SDP",
+      "title": "ADAC",
+      "services": {
+        "qobuz": "333173290"
+      },
+      "album": "ADAC",
+      "duration": 173,
+      "isrc": "DETX42500002"
+    },
+    {
+      "artist": "Jordi Savall",
+      "title": "Die Jahreszeiten, Hob. XXI:3, Der Herbst: XIIIb. Duett: Ihr Sch\u00f6nen aus der Stadt (Lukas, Hanne)",
+      "services": {
+        "qobuz": "361917893"
+      },
+      "album": "Haydn: Die Jahreszeiten, Hob. XXI:3",
+      "duration": 474,
+      "isrc": "CH4212500050"
+    },
+    {
+      "artist": "Bvdub",
+      "title": "It All Ends with the Coming Sky",
+      "services": {
+        "qobuz": "49731870"
+      },
+      "album": "Epilogues for the End of the Sky",
+      "duration": 426,
+      "isrc": "ITT931700179"
+    },
+    {
+      "artist": "Tribal Tech",
+      "title": "Nomad",
+      "services": {
+        "qobuz": "2956386"
+      },
+      "album": "Primal Tracks",
+      "duration": 438,
+      "isrc": "USAT20109371"
+    },
+    {
+      "artist": "System Of A Down",
+      "title": "Old School Hollywood",
+      "services": {
+        "qobuz": "160068"
+      },
+      "album": "Mezmerize",
+      "duration": 176,
+      "isrc": "USSM10501586"
+    },
+    {
+      "artist": "Thy Art Is Murder",
+      "title": "The Final Curtain",
+      "services": {
+        "qobuz": "60817139"
+      },
+      "album": "Dear Desolation",
+      "duration": 229,
+      "isrc": "DED831700758"
+    },
+    {
+      "artist": "Starkillers",
+      "title": "Scream",
+      "services": {
+        "qobuz": "77449701"
+      },
+      "album": "Dirty Sound Vol. 1 - The Injection",
+      "duration": 390,
+      "isrc": "US4BR0700702"
+    },
+    {
+      "artist": "Haujobb",
+      "title": "Letting The Demon Sleep",
+      "services": {
+        "qobuz": "189658425"
+      },
+      "album": "Dead Market",
+      "duration": 354,
+      "isrc": "DEOT31100005"
+    },
+    {
+      "artist": "Accept",
+      "title": "Trail of Tears",
+      "services": {
+        "qobuz": "60749727"
+      },
+      "album": "Blind Rage",
+      "duration": 248,
+      "isrc": "DED831400521"
+    },
+    {
+      "artist": "Total Harmonic Distortion",
+      "title": "Golem",
+      "services": {
+        "qobuz": "427717714"
+      },
+      "album": "Golem",
+      "duration": 216,
+      "isrc": "QT6E62671666"
+    },
+    {
+      "artist": "Sleepy Parents",
+      "title": "Brown Noise In My Ears",
+      "services": {
+        "qobuz": "152197564"
+      },
+      "album": "Brown Noise Ocean",
+      "duration": 263,
+      "isrc": "QZAKB2163061"
+    },
+    {
+      "artist": "FRONTAL",
+      "title": "Zeig mir",
+      "services": {
+        "qobuz": "68957012"
+      },
+      "album": "Alles L\u00fcge",
+      "duration": 219,
+      "isrc": "DEM481200134"
+    },
+    {
+      "artist": "Kraftwerk",
+      "title": "Radioactivity",
+      "services": {
+        "qobuz": "109725179"
+      },
+      "album": "Remixes",
+      "duration": 335,
+      "isrc": "GBAYE2001240"
+    },
+    {
+      "artist": "Anthrax",
+      "title": "Deathrider",
+      "services": {
+        "qobuz": "63286151"
+      },
+      "album": "Fistful of Metal",
+      "duration": 192,
+      "isrc": "USME30900496"
+    },
+    {
+      "artist": "ZAND",
+      "title": "Cocktail Molotov (from the series Arcane League of Legends)",
+      "services": {
+        "qobuz": "413099649"
+      },
+      "album": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+      "duration": 148,
+      "isrc": "USA2P2459597"
+    },
+    {
+      "artist": "Bruno Ganz",
+      "title": "Da ich ein Knabe war (Friedrich H\u00f6lderlin)",
+      "services": {
+        "qobuz": "43540607"
+      },
+      "album": "H\u00f6lderlin: Gedichte gelesen von Bruno Ganz",
+      "duration": 89,
+      "isrc": "DEB338428516"
+    },
+    {
+      "artist": "The Gleeks",
+      "title": "We Built This City (From \"We Built This Glee Club\")",
+      "services": {
+        "qobuz": "23188100"
+      },
+      "album": "Music Inspired from Glee: Season 6 (2015) the End: Episodes 9-12",
+      "duration": 294,
+      "isrc": "QMVRR1533052"
+    },
+    {
+      "artist": "Loving Caliber",
+      "title": "I Am Falling For You",
+      "services": {
+        "qobuz": "49943146"
+      },
+      "album": "I Am Falling For You",
+      "duration": 190,
+      "isrc": "SE5Q51800479"
+    },
+    {
+      "artist": "Void Kampf",
+      "title": "Karmeliet (Thirsty Mix by EVVILKING aka STERIL)",
+      "services": {
+        "qobuz": "98646163"
+      },
+      "album": "Severe Mais Juste",
+      "duration": 259,
+      "isrc": "USCGH1057275"
+    },
+    {
+      "artist": "Studio-X",
+      "title": "Clouds and Trees",
+      "services": {
+        "qobuz": "371434594"
+      },
+      "album": "Matrix+ Downloaded 012",
+      "duration": 312,
+      "isrc": "BEC262506602"
+    },
+    {
+      "artist": "Rector Scanner",
+      "title": "Wand aus Glas",
+      "services": {
+        "qobuz": "165661406"
+      },
+      "album": "Fluormenschen",
+      "duration": 248,
+      "isrc": "BEC262293403"
+    },
+    {
+      "artist": "Aesthetische",
+      "title": "Fear OFF",
+      "services": {
+        "qobuz": "335066792"
+      },
+      "album": "Selling Fear",
+      "duration": 335,
+      "isrc": "BEC262506506"
+    },
+    {
+      "artist": "cut.rate.box",
+      "title": "Isticism",
+      "services": {
+        "qobuz": "371434597"
+      },
+      "album": "Matrix+ Downloaded 012",
+      "duration": 267,
+      "isrc": "BEC262508004"
+    },
+    {
+      "artist": "Kant Kino",
+      "title": "Denial",
+      "services": {
+        "qobuz": "371434598"
+      },
+      "album": "Matrix+ Downloaded 012",
+      "duration": 235,
+      "isrc": "BEC262508005"
+    },
+    {
+      "artist": "Frontal Boundary",
+      "title": "Hate",
+      "services": {
+        "qobuz": "370004167"
+      },
+      "album": "Failure",
+      "duration": 202,
+      "isrc": "BEC262507701"
+    },
+    {
+      "artist": "C-Lekktor",
+      "title": "Juicio Final",
+      "services": {
+        "qobuz": "286600109"
+      },
+      "album": "2.0",
+      "duration": 287,
+      "isrc": "BEC262434107"
+    },
+    {
+      "artist": "Acylum",
+      "title": "Rape",
+      "services": {
+        "qobuz": "371278802"
+      },
+      "album": "XX20XX",
+      "duration": 279,
+      "isrc": "BEC262509003"
+    },
+    {
+      "artist": "Diffuzion",
+      "title": "Ain't Gonna Fuck with My Brain",
+      "services": {
+        "qobuz": "371434602"
+      },
+      "album": "Matrix+ Downloaded 012",
+      "duration": 262,
+      "isrc": "BEC262179002"
+    },
+    {
+      "artist": "Implant",
+      "title": "Drugs vs Violance",
+      "services": {
+        "qobuz": "371434603"
+      },
+      "album": "Matrix+ Downloaded 012",
+      "duration": 218,
+      "isrc": "BEC262508010"
+    },
+    {
+      "artist": "First Aid 4 Souls",
+      "title": "Don't Touch Me",
+      "services": {
+        "qobuz": "371434605"
+      },
+      "album": "Matrix+ Downloaded 012",
+      "duration": 222,
+      "isrc": "BEC262508012"
+    },
+    {
+      "artist": "Llumen",
+      "title": "Between The Words",
+      "services": {
+        "qobuz": "371434608"
+      },
+      "album": "Matrix+ Downloaded 012",
+      "duration": 276,
+      "isrc": "BEC262508015"
+    },
+    {
+      "artist": "Lederman / De Meyer",
+      "title": "Heartbeat",
+      "services": {
+        "qobuz": "50665221"
+      },
+      "album": "Eleven Grinding Songs",
+      "duration": 207,
+      "isrc": "BEC261826705"
+    },
+    {
+      "artist": "Digital Factor",
+      "title": "Everyone Wants To Be A King",
+      "services": {
+        "qobuz": "371434613"
+      },
+      "album": "Matrix+ Downloaded 012",
+      "duration": 212,
+      "isrc": "BEC262508020"
+    },
+    {
+      "artist": "Armageddon Dildos",
+      "title": "Schmerz",
+      "services": {
+        "qobuz": "371434614"
+      },
+      "album": "Matrix+ Downloaded 012",
+      "duration": 183,
+      "isrc": "BEC262508021"
+    },
+    {
+      "artist": "Helalyn Flowers",
+      "title": "Suicidal Birds",
+      "services": {
+        "qobuz": "107331863"
+      },
+      "album": "\u00c0iresis",
+      "duration": 244,
+      "isrc": "BEC262129202"
+    },
+    {
+      "artist": "Krystal System",
+      "title": "\u00c9clats Rouges",
+      "services": {
+        "qobuz": "340368436"
+      },
+      "album": "\u00c9clats Rouges",
+      "duration": 170,
+      "isrc": "BEC262507301"
+    },
+    {
+      "artist": "The True Union",
+      "title": "This Is War",
+      "services": {
+        "qobuz": "371434617"
+      },
+      "album": "Matrix+ Downloaded 012",
+      "duration": 322,
+      "isrc": "BEC262508024"
+    },
+    {
+      "artist": "Freakangel",
+      "title": "Death Bloom",
+      "services": {
+        "qobuz": "404318014"
+      },
+      "album": "Control",
+      "duration": 211,
+      "isrc": "BEC262400901"
+    },
+    {
+      "artist": "Totem Obscura",
+      "title": "Eisenmann",
+      "services": {
+        "qobuz": "45786524"
+      },
+      "album": "Nordische Feste",
+      "duration": 272,
+      "isrc": "BEC261724914"
+    },
+    {
+      "artist": "Lovelorn Dolls",
+      "title": "Dancing At Your Funeral",
+      "services": {
+        "qobuz": "257827098"
+      },
+      "album": "Deadtime Stories",
+      "duration": 287,
+      "isrc": "BEC262432808"
+    },
+    {
+      "artist": "Imjudas",
+      "title": "Go Away",
+      "services": {
+        "qobuz": "371434623"
+      },
+      "album": "Matrix+ Downloaded 012",
+      "duration": 182,
+      "isrc": "BEC262433608"
+    },
+    {
+      "artist": "Synapsyche",
+      "title": "Deafness",
+      "services": {
+        "qobuz": "326899188"
+      },
+      "album": "Deafness",
+      "duration": 258,
+      "isrc": "BEC262506101"
+    },
+    {
+      "artist": "Miseria Ultima",
+      "title": "Displayed For Punishment",
+      "services": {
+        "qobuz": "286419126"
+      },
+      "album": "Arctic Esotericism",
+      "duration": 180,
+      "isrc": "BEC262433901"
+    },
+    {
+      "artist": "Unter Null",
+      "title": "Coming Up To Breathe",
+      "services": {
+        "qobuz": "326887594"
+      },
+      "album": "Coming Up To Breathe",
+      "duration": 341,
+      "isrc": "BEC262506001"
+    },
+    {
+      "artist": "Alien Vampires",
+      "title": "Witchy Bitchy (hbimv2)",
+      "services": {
+        "qobuz": "231850183"
+      },
+      "album": "Witchy Bitchy",
+      "duration": 244,
+      "isrc": "BEC262332604"
+    },
+    {
+      "artist": "Venal Flesh",
+      "title": "Amyloid Plaque",
+      "services": {
+        "qobuz": "371434628"
+      },
+      "album": "Matrix+ Downloaded 012",
+      "duration": 365,
+      "isrc": "BEC261692315"
+    },
+    {
+      "artist": "HellE9",
+      "title": "Omen",
+      "services": {
+        "qobuz": "371434629"
+      },
+      "album": "Matrix+ Downloaded 012",
+      "duration": 166,
+      "isrc": "BEC262398848"
+    },
+    {
+      "artist": "Pouppee Fabrikk",
+      "title": "Bring Back the Ways of Old",
+      "services": {
+        "qobuz": "371434631"
+      },
+      "album": "Matrix+ Downloaded 012",
+      "duration": 316,
+      "isrc": "BEC262030077"
+    },
+    {
+      "artist": "Stahlgeist",
+      "title": "Alter Ego",
+      "services": {
+        "qobuz": "371434632"
+      },
+      "album": "Matrix+ Downloaded 012",
+      "duration": 223,
+      "isrc": "BEC262508039"
+    },
+    {
+      "artist": "Nigra Nebula",
+      "title": "Totung Erfolgt",
+      "services": {
+        "qobuz": "371434633"
+      },
+      "album": "Matrix+ Downloaded 012",
+      "duration": 220,
+      "isrc": "BEC262508040"
+    },
+    {
+      "artist": "Aengeldust",
+      "title": "Duce",
+      "services": {
+        "qobuz": "73514564"
+      },
+      "album": "Agent Orange",
+      "duration": 274,
+      "isrc": "BEC261724801"
+    },
+    {
+      "artist": "Circuito Cerrado",
+      "title": "Das is Laut",
+      "services": {
+        "qobuz": "56827228"
+      },
+      "album": "Furious Basslines (Deluxe Edition)",
+      "duration": 269,
+      "isrc": "BEC261897003"
+    },
+    {
+      "artist": "The Psychic Force",
+      "title": "Painful Revelation",
+      "services": {
+        "qobuz": "36338742"
+      },
+      "album": "Welcome to Scarcity (Deluxe Edition)",
+      "duration": 327,
+      "isrc": "BEC261623306"
+    },
+    {
+      "artist": "Komor Kommando",
+      "title": "Get off the X",
+      "services": {
+        "qobuz": "371434640"
+      },
+      "album": "Matrix+ Downloaded 012",
+      "duration": 255,
+      "isrc": "BEC262294405"
+    },
+    {
+      "artist": "First Aid Tech",
+      "title": "Acid Evolution",
+      "services": {
+        "qobuz": "298530542"
+      },
+      "album": "Tech Under Your Skin",
+      "duration": 299,
+      "isrc": "BEC262402003"
+    },
+    {
+      "artist": "Die Robo Sapiens",
+      "title": "Teufelskreis",
+      "services": {
+        "qobuz": "48328199"
+      },
+      "album": "Teufelskreis - Tanz Mit Dem Roboter",
+      "duration": 246,
+      "isrc": "BEC261876904"
+    },
+    {
+      "artist": "Plastic Noise Experience",
+      "title": "Control",
+      "services": {
+        "qobuz": "73491728"
+      },
+      "album": "Control",
+      "duration": 300,
+      "isrc": "BEC261348501"
+    },
+    {
+      "artist": "Elektroklange",
+      "title": "Bordcomputer",
+      "services": {
+        "qobuz": "255451535"
+      },
+      "album": "Abfahrt",
+      "duration": 385,
+      "isrc": "BEC262400606"
+    },
+    {
+      "artist": "808 Dot Pop",
+      "title": "FM/AM",
+      "services": {
+        "qobuz": "215499952"
+      },
+      "album": "AM1040",
+      "duration": 217,
+      "isrc": "BEC262397903"
+    },
+    {
+      "artist": "Elektrostaub",
+      "title": "Falling",
+      "services": {
+        "qobuz": "340369995"
+      },
+      "album": "Falling",
+      "duration": 281,
+      "isrc": "BEC262506701"
+    },
+    {
+      "artist": "Cryogenic Echelon",
+      "title": "Fall of the Reptiles",
+      "services": {
+        "qobuz": "371434650"
+      },
+      "album": "Matrix+ Downloaded 012",
+      "duration": 327,
+      "isrc": "BEC262508057"
+    },
+    {
+      "artist": "Entrzelle",
+      "title": "Hero",
+      "services": {
+        "qobuz": "371434651"
+      },
+      "album": "Matrix+ Downloaded 012",
+      "duration": 295,
+      "isrc": "BEC262472516"
+    },
+    {
+      "artist": "Stray",
+      "title": "Obsolete",
+      "services": {
+        "qobuz": "8481281"
+      },
+      "album": "Letting Go (Bonus Tracks Version)",
+      "duration": 394,
+      "isrc": "BEC261283910"
+    },
+    {
+      "artist": "Psy'Aviah",
+      "title": "Heaven Is Not Enough",
+      "services": {
+        "qobuz": "286445332"
+      },
+      "album": "Sounds from the Matrix 025",
+      "duration": 350,
+      "isrc": "BEC262392402"
+    },
+    {
+      "artist": "Zombie Girl",
+      "title": "Pleasure Games",
+      "services": {
+        "qobuz": "371434658"
+      },
+      "album": "Matrix+ Downloaded 012",
+      "duration": 230,
+      "isrc": "BEC261591716"
+    },
+    {
+      "artist": "Circumpolar",
+      "title": "We Will Die Again",
+      "services": {
+        "qobuz": "135153558"
+      },
+      "album": "Awaiting the Dawn",
+      "duration": 388,
+      "isrc": "BEC262130507"
+    },
+    {
+      "artist": "Dunkelwerk",
+      "title": "Schwere See",
+      "services": {
+        "qobuz": "58909045"
+      },
+      "album": "Waffengang",
+      "duration": 231,
+      "isrc": "BEC261927807"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Essentials: Saga",
+  "services": {
+    "qobuz": "66706039"
+  },
+  "tracks": [
+    {
+      "artist": "Saga",
+      "title": "How Long",
+      "services": {
+        "qobuz": "13753968"
+      },
+      "album": "Saga",
+      "duration": 236,
+      "isrc": "DEF068713590"
+    },
+    {
+      "artist": "Saga",
+      "title": "You're Not Alone",
+      "services": {
+        "qobuz": "2377889"
+      },
+      "album": "Images At Twilight",
+      "duration": 328,
+      "isrc": "DEF068713460"
+    },
+    {
+      "artist": "Saga",
+      "title": "Hot To Cold",
+      "services": {
+        "qobuz": "2377892"
+      },
+      "album": "Images At Twilight",
+      "duration": 300,
+      "isrc": "DEF068713490"
+    },
+    {
+      "artist": "Saga",
+      "title": "Don't Be Late (Chapter 2)",
+      "services": {
+        "qobuz": "2377878"
+      },
+      "album": "Silent Knight",
+      "duration": 367,
+      "isrc": "DEF068713510"
+    },
+    {
+      "artist": "Saga",
+      "title": "Wind Him Up",
+      "services": {
+        "qobuz": "13321484"
+      },
+      "album": "Worlds Apart",
+      "duration": 347,
+      "isrc": "DEF068713360"
+    },
+    {
+      "artist": "Saga",
+      "title": "Cat Walk",
+      "services": {
+        "qobuz": "6739057"
+      },
+      "album": "Heads Or Tales",
+      "duration": 264,
+      "isrc": "DEF068307470"
+    }
+  ]
+}

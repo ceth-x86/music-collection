@@ -1,0 +1,108 @@
+# Genre: Groove Metal
+
+Imported genre playlist: Groove Metal.
+
+Services: `qobuz:66734452` `tidal:0603d5ca-777c-4774-b475-55e41bbbd179`
+
+## Tracks (100)
+
+- **Excel** — Tapping into the Emotional Void [The Joke's on You] (4:20) `isrc:USZPA0901412` `qobuz:60806302`
+- **Exhorder** — The Law [The Law] (4:48) `isrc:NLA320320451` `qobuz:11475806`
+- **Pantera** — Walk [Vulgar Display of Power] (5:15) `isrc:USAT21502045` `qobuz:28879713`
+- **Metallica** — Sad But True [Metallica] (5:24) `isrc:QMKHM1900002` `qobuz:123452388`
+- **Slayer** — Seasons In The Abyss [Seasons In The Abyss] (6:34) `isrc:USSM19000330` `qobuz:27117388`
+- **Megadeth** — Symphony Of Destruction [Countdown To Extinction] (4:02) `isrc:USCA29200001` `qobuz:200676194`
+- **Suicidal Tendencies** — You Can't Bring Me Down [Lights...Camera...Revolution] (5:48) `isrc:USSM19000164` `qobuz:47029719`
+- **Helmet** — Unsung [Meantime] (3:56) `isrc:USIR19200544` `qobuz:3898895`
+- **Ministry** — N.W.O. [KE*A*H** (Psalm 69)] (5:31) `isrc:USWB10101896` `qobuz:2934376`
+- **Biohazard** — Punishment [Urban Discipline] (4:44) `isrc:NLA329880386` `qobuz:2809600`
+- **Sepultura** — Refuse / Resist [Chaos A.D.] (3:18) `isrc:USRH11702327` `qobuz:44048107`
+- **Machine Head** — Davidian [Burn My Eyes] (4:56) `isrc:NLA329400920` `qobuz:2810242`
+- **Prong** — Snap Your Fingers, Snap Your Neck [Cleansing] (4:11) `isrc:USSM19303155` `qobuz:4898637`
+- **Testament** — Low [Low] (3:33) `isrc:USAT20181147` `qobuz:2797922`
+- **Anthrax** — Only [Sound of White Noise - Expanded Edition] (4:56) `isrc:USME30700837` `qobuz:63286317`
+- **Overkill** — I Hear Black [I Hear Black] (5:37) `isrc:USAT20102855` `qobuz:2797682`
+- **Grip Inc.** — Ostracized [Power of Inner Strength] (3:08) `isrc:TCABL1367332` `qobuz:124118263`
+- **White Zombie** — More Human Than Human [Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head] (4:28) `isrc:USGF19580608` `qobuz:54879947`
+- **Fear Factory** — Replica [Demanufacture] (3:58) `isrc:NLA329506360` `qobuz:2728920`
+- **Nailbomb** — World of Shit [Point Blank] (4:13) `isrc:NLA329400090` `qobuz:2810296`
+- **Merauder** — Master Killer [Master Killer] (3:23) `isrc:US4E40680404` `qobuz:27577173`
+- **Puddle Of Mudd** — Blurry [Come Clean] (5:03) `isrc:USIR10110581` `qobuz:58450326`
+- **Stuck Mojo** — Here Come the Infidels [Here Come the Infidels] (3:45) `isrc:QMFME2235333` `qobuz:187657688`
+- **Rob Zombie** — Dragula [Hellbilly Deluxe] (3:42) `isrc:USGF19821203` `qobuz:756168`
+- **Static-X** — Push It [Wisconsin Death Trip] (2:34) `isrc:USWB19800988` `qobuz:2060423`
+- **Coal Chamber** — Loco [Coal Chamber] (4:14) `isrc:NLA329780033` `qobuz:168708752`
+- **Snot** — Snot [Get Some] (3:21) `isrc:USGF19711001` `qobuz:2378185`
+- **Sevendust** — Denial [Home] (4:17) `isrc:USTV19900046` `qobuz:27883810`
+- **Powerman 5000** — When Worlds Collide [Tonight The Stars Revolt] (2:57) `isrc:USDW19910703` `qobuz:699819`
+- **Kittie** — Brackish [Spit] (3:09) `isrc:USAR50010126` `qobuz:25905655`
+- **Korn** — Freak On a Leash [Follow The Leader] (4:15) `isrc:USSM19801755` `qobuz:35561878`
+- **Deftones** — My Own Summer (Shove It) [Around the Fur] (3:35) `isrc:USRE11600084` `qobuz:31159546`
+- **Slipknot** — Wait and Bleed [Slipknot] (2:27) `isrc:NLA329980194` `qobuz:2809376`
+- **Rammstein** — Du hast [Made In Germany 1995 - 2011] (3:54) `isrc:DEUM71103421` `qobuz:4531064`
+- **Clawfinger** — Do What I Say [Use Your Brain] (4:24) `isrc:SELBD0400207` `qobuz:9665975`
+- **Downset** — Anger [Downset] (4:13) `isrc:USPR39401402` `qobuz:760144`
+- **Corrosion Of Conformity** — Albatross [Deliverance] (5:20) `isrc:USSM10025014` `qobuz:37882`
+- **Rage Against The Machine** — Bulls On Parade [Evil Empire] (3:49) `isrc:USSM19502563` `qobuz:2719140`
+- **Faith No More** — Digging the Grave [King for a Day, Fool for a Lifetime] (3:03) `isrc:GBANC9500009` `qobuz:8302120`
+- **Skinlab** — Scapegoat [Disembody - The New Flesh] (6:06) `isrc:US4E40593804` `qobuz:27583116`
+- **Soulfly** — Back to the Primitive [Primitive] (4:22) `isrc:NLA320019178` `qobuz:2809245`
+- **Mudvayne** — Dig [L.D. 50] (2:42) `isrc:USSM10010700` `qobuz:31964`
+- **Nothingface** — Bleeder [Violence] (3:29) `isrc:USTV10000002` `qobuz:48527360`
+- **Spineshank** — Synthetic [The Height of Callousness [Special Edition]] (3:09) `isrc:NLA320019154` `qobuz:2809213`
+- **Disturbed** — Down with the Sickness [The Sickness] (4:39) `isrc:USRE11500333` `qobuz:35549998`
+- **Drowning Pool** — Bodies [Sinner] (3:21) `isrc:USWU30006502` `qobuz:17795408`
+- **Dry Kill Logic** — Rot [The Darker Side of Nonsense] (4:32) `isrc:NLA320119426` `qobuz:2808963`
+- **Ill Niño** — How Can I Live [Confession] (3:16) `isrc:NLA320320207` `qobuz:2808487`
+- **American Head Charge** — Just So You Know [The War Of Art] (5:31) `isrc:USDJ20110960` `qobuz:783413`
+- **Pissing Razors** — Fork Tongue [Fields of Disbelief] (4:52) `isrc:DEA240050002` `qobuz:126455291`
+- **Chevelle** — The Red [Wonder What's Next (Expanded Edition)] (3:58) `isrc:USSM10201531` `qobuz:425005`
+- **Shadows Fall** — The Light That Blinds [The War Within] (4:58) `isrc:US4E40422801` `qobuz:27571129`
+- **DevilDriver** — I Could Care Less [The Fury of Our Maker's Hand] (3:43) `isrc:NLA320682352` `qobuz:387107973`
+- **Chimaira** — Down Again [The Impossibility of Reason] (4:20) `isrc:NLA320320087` `qobuz:2808552`
+- **Dagoba** — The White Guy (And the Black Ceremony) [Dagoba] (3:29) `isrc:FR96X2161518` `qobuz:121457997`
+- **Black Label Society** — Stillborn [The Blessed Hellride] (3:16) `isrc:GBCBR0300034` `qobuz:53817050`
+- **Lamb of God** — Laid to Rest [Ashes of the Wake] (3:50) `isrc:USSM10409073` `qobuz:269542921`
+- **Damageplan** — Save Me [New Found Power] (3:33) `isrc:USEE10340861` `qobuz:2783891`
+- **Ektomorf** — Destroy [Destroy] (3:49) `isrc:DED830371202` `qobuz:48537213`
+- **Mnemic** — Door 2.12 [The Audio Injected Soul] (4:22) `isrc:DED830476102` `qobuz:61387524`
+- **Mastodon** — Blood and Thunder [Leviathan] (3:48) `isrc:US2640462201` `qobuz:43230999`
+- **Trivium** — Like Light to the Flies [Ember to Inferno: Ab Initio] (5:37) `isrc:GBCEJ1600290` `qobuz:368517506`
+- **Nonpoint** — Bullet With a Name [To the Pain (Deluxe Edition)] (3:26) `isrc:QZK6P1912173` `qobuz:395006084`
+- **bloodsimple** — Straight Hate [A Cruel World] (4:45) `isrc:USRE10500006` `qobuz:2843233`
+- **God Forbid** — To the Fallen Hero [IV: Constitution Of Treason] (4:42) `isrc:US4E40526607` `qobuz:47670371`
+- **Killswitch Engage** — My Curse [As Daylight Dies] (4:04) `isrc:NLA320682675` `qobuz:7782032`
+- **Hatebreed** — Destroy Everything [Supremacy] (3:29) `isrc:NLA320682407` `qobuz:2323600`
+- **Throwdown** — Forever [Haymaker] (3:38) `isrc:TCADW1858481` `qobuz:128861637`
+- **HELLYEAH** — Alcohaulin' Ass [HELLYEAH] (3:54) `isrc:USSM10700389` `qobuz:47010503`
+- **Five Finger Death Punch** — The Bleeding [The Way of the Fist] (4:28) `isrc:US4VQ0660101` `qobuz:73195112`
+- **Meshuggah** — Bleed [Obzen] (7:22) `isrc:DE1AH2308803` `qobuz:298221178`
+- **Byzantine** — Oblivion Beckons [Oblivion Bekons] (3:54) `isrc:USRZR0804703` `qobuz:49100711`
+- **Cavalera Conspiracy** — Inflikted [Inflikted] (4:32) `isrc:NLA320786401` `qobuz:2806654`
+- **Texas Hippie Coalition** — Turn It Up [Peacemaker] (3:43) `isrc:USUF81200005` `qobuz:71017865`
+- **Volbeat** — Still Counting [Guitar Gangsters & Cadillac Blood] (4:21) `isrc:NLB930800317` `qobuz:343258503`
+- **Gojira** — L'enfant sauvage [L'Enfant Sauvage] (4:16) `isrc:NLA321292251` `qobuz:5650380`
+- **Adrenaline Mob** — Undaunted [Omertá] (4:44) `isrc:US8BD0900074` `qobuz:47664620`
+- **Stone Sour** — Absolute Zero [House of Gold & Bones, Part 1] (3:49) `isrc:NLA321292440` `qobuz:6720471`
+- **Periphery** — Scarlet [Periphery II] (4:08) `isrc:USYFZ1222405` `qobuz:262536369`
+- **TesseracT** — Of Mind - Nocturne [Altered State] (5:50) `isrc:US4E41397404` `qobuz:27564450`
+- **Bring Me The Horizon** — Can You Feel My Heart [Can You Feel My Heart] (3:48) `isrc:GBARL1202415` `qobuz:11532177`
+- **Avatar** — Hail the Apocalypse [Hail the Apocalypse] (4:13) `isrc:SEVWR1400601` `qobuz:51042254`
+- **Killer Be Killed** — Face Down [Killer Be Killed] (4:35) `isrc:DED831400223` `qobuz:61783121`
+- **Code Orange** — I Am King [I Am King] (2:38) `isrc:QMFMG1493908` `qobuz:72955095`
+- **Devil You Know** — Seven Years Alone [The Beauty of Destruction] (3:42) `isrc:DED831400093` `qobuz:60749410`
+- **Parkway Drive** — Vice Grip [Ire] (4:23) `isrc:USEP41523014` `qobuz:77613935`
+- **Ghost** — Cirice [Meliora] (6:02) `isrc:SEUM71500656` `qobuz:26546788`
+- **Electric Light Orchestra** — Fire On High [Face the Music] (5:31) `isrc:USSM10600993` `qobuz:28184148`
+- **Red Fang** — Wires [Murder the Mountains (Deluxe Version)] (5:43) `isrc:US2641114402` `qobuz:60685378`
+- **Thy Art Is Murder** — Reign Of Darkness [Hate] (3:35) `isrc:AUSH01200012` `qobuz:223081607`
+- **JINJER** — Pisces [King of Everything] (5:05) `isrc:ATN261667709` `qobuz:37230710`
+- **Bad Wolves** — Remember When [Disobey] (3:29) `isrc:USDPK1800068` `qobuz:73195319`
+- **Alien Weaponry** — Kai Tangata [Tū] (6:35) `isrc:ATN261878505` `qobuz:49167909`
+- **Architects** — Doomsday [Holy Hell] (4:08) `isrc:USEP41827043` `qobuz:77622433`
+- **Power Trip** — Executioner's Tax (Swing of the Axe) [Nightmare Logic] (3:45) `isrc:USZPA0901385` `qobuz:40391562`
+- **Orbit Culture** — North Star of Nija [Nija] (5:14) `isrc:QM6N22002442` `qobuz:105295264`
+- **Spiritbox** — Holy Roller [Eternal Blue] (2:53) `isrc:QM6N22091479` `qobuz:380483153`
+- **Loathe** — Two-Way Mirror [I Let It in and It Took Everything] (5:00) `isrc:DED831901366` `qobuz:80249739`
+- **Kublai Khan TX** — The Hammer [Nomad] (3:21) `isrc:QMRSZ1702089` `qobuz:376843333`
+- **Sleep Token** — The Summoning [Take Me Back To Eden] (6:35) `isrc:GBUM72200352` `qobuz:195178291`

@@ -1,0 +1,103 @@
+# Genre: Psytrance
+
+Imported genre playlist: Psytrance.
+
+Services: `qobuz:66721344` `tidal:93ddaab0-96f2-4837-9984-bf0c519d09ee`
+
+## Tracks (95)
+
+- **Astral Projection** — Mahadeva '99 [Another World] (8:22) `isrc:USA2P0600653` `qobuz:7833446`
+- **Tujiko Noriko** — Gondola Song [Kuro (OST)] (0:58) `isrc:USYBL1900554` `qobuz:89520299`
+- **Astral Projection** — Butterfly Trip [Trust In Trance 2] (8:40) `isrc:USA2P0600718` `qobuz:5770727`
+- **Electric Universe** — One Love [One Love] (11:17) `isrc:USA2P0606554` `qobuz:5967696`
+- **Total Eclipse** — Blade Runner [Bordeaux Live 1997] (9:14) `isrc:GBKQU2184286` `qobuz:127588180`
+- **The Infinity Project** — Feeling Weird [Raja Ram's Anthology] (5:41) `isrc:GBKQU1458178` `qobuz:113580298`
+- **Hallucinogen** — L.S.D. [Twisted] (6:43) `isrc:USA2P0300457` `qobuz:5762598`
+- **Spectral** — Moonstone [Retrodelic Vibes 6] (7:11) `isrc:IL1211808807` `qobuz:220717386`
+- **Technossomy** — Pyramid [Synthetic Flesh] (9:41) `isrc:QZFZ72207406` `qobuz:146363606`
+- **Etnica** — Vicky's Dream [The Juggeling Alchemists Under The Black Light] (9:10) `isrc:GBKQU2350808` `qobuz:211943291`
+- **Man With No Name** — Azymuth [Moment of Truth] (7:58) `isrc:GBBKS9600084` `qobuz:2343682`
+- **Cosmosis** — Cannabanoid [Cosmology] (8:38) `isrc:GBDLM0790047` `qobuz:83606696`
+- **Doof** — Let's Turn On [Let's Turn On - Remixed & Remastered] (9:39) `isrc:GBLV61906627` `qobuz:111773817`
+- **Transwave** — Land of Freedom [Phototropic] (7:25) `isrc:FR6V80931085` `qobuz:1451100`
+- **Bliss** — Trippy Blinders [Sacred Garden, Vol. 2] (7:50) `isrc:USA2P2113185` `qobuz:141935589`
+- **Space Tribe** — Sonic Mandala [Sonic Mandala] (9:27) `isrc:USA2P0600034` `qobuz:95821176`
+- **Ace Ventura** — Biological Computer [Biological Computer] (6:33) `isrc:DKZVA1761314` `qobuz:84457205`
+- **Dimension 5** — Iron Sun [Transdimensional] (8:57) `isrc:SEYOK0994533` `qobuz:113587154`
+- **Amy Macdonald** — This Is The Life [This is The Life] (3:04) `isrc:GBUM70607840` `qobuz:4302503`
+- **MFG** — When We Dream [Lost Treasures] (8:59) `isrc:UKR6V2341458` `qobuz:210620746`
+- **Pleiadians** — Time Dilation [Single Collection] (9:58) `isrc:GBLV62401165` `qobuz:296392987`
+- **Shakta** — Silicon Trip [Silicon Trip] (7:29) `isrc:SEYOK1933691` `qobuz:204500117`
+- **Tandu** — New Aura [Multimoods] (10:10) `isrc:USQY50942286` `qobuz:423450934`
+- **Beckenhorst Singers** — I Want to Walk as a Child of the Light [Beckenhorst Choral Music Fall 2024] (4:55) `isrc:USHM22439932` `qobuz:265701131`
+- **UX** — Master Of The Universe [Lucid Flux] (10:05) `isrc:GBKQU1462050` `qobuz:112450465`
+- **Oforia** — Delirious [Delirious] (9:05) `isrc:USQY50942307` `qobuz:423469024`
+- **Pigs In Space** — Invisible Contact [Pigs in Space] (8:09) `isrc:USQY50942291` `qobuz:424961010`
+- **Sun Project** — I Feel [I Feel] (6:37) `isrc:UKACT1864820` `qobuz:53353520`
+- **The Muses Rapt** — Spiritual Healing [Dream Creation - Sound of Freedom] (9:27) `isrc:GBDLM0790114` `qobuz:83477196`
+- **Blue Planet Corporation** — Crystal [A Blueprint For Survival] (8:47) `isrc:GBLV61906593` `qobuz:113501970`
+- **Human Blue** — Trust In Rythm [Ice] (9:17) `isrc:USLZJ1537358` `qobuz:26071831`
+- **Infected Mushroom** — The Gathering [The Gathering] (7:43) `isrc:IL1089901069` `qobuz:47944989`
+- **Orichalcum** — Wicked Mille [Goa Classics 2] (9:16) `isrc:GBKVK0600783` `qobuz:113247327`
+- **Psysex** — Experimental Procedure [Expressions of Rage] (9:00) `isrc:USA2P1133029` `qobuz:59854510`
+- **Space Cat** — Funky [Beam Me Up] (10:44) `isrc:IL1210905808` `qobuz:425911453`
+- **X Dream** — Coming Soon [The Best 1991-2001] (7:06) `isrc:USA2P0610419` `qobuz:15773175`
+- **Yahel** — Voyage [Voyage] (6:29) `isrc:GBKQU1839259` `qobuz:109731260`
+- **Skazi** — Hit 'N' Run [Total Anarchy] (7:38) `isrc:USA560977278` `qobuz:92068036`
+- **Sesto Sento** — Key To The Universe [The Melody Factory] (5:37) `isrc:GBKQU1540255` `qobuz:111695516`
+- **Logic Bomb** — Unlimited [Unlimited] (7:44) `isrc:GBKQU1458148` `qobuz:113615101`
+- **1200 Micrograms** — Mescaline [1200 Micrograms] (6:33) `isrc:USQY50927731` `qobuz:7330621`
+- **Astrix** — Deep Jungle Walk [He.art] (9:14) `isrc:USA2P1611449` `qobuz:59835217`
+- **Alien Project** — Aztechno Dream [Aztechno Dream] (8:08) `isrc:GBKVK0500035` `qobuz:5825741`
+- **Cosma (IL)** — Nonstop [Nonstop] (7:15) `isrc:UKR6V2372095` `qobuz:212062346`
+- **Wrecked Machines** — Rise [Rise] (6:48) `isrc:NLRD52423862` `qobuz:358629258`
+- **Talamasca** — The Time Machine [The Time Machine] (8:44) `isrc:GBKQU1587501` `qobuz:111430472`
+- **Sacred Bansuri** — Forest Dream [Forest Dream] (2:36) `isrc:SE66H2300558` `qobuz:211742966`
+- **Ticon** — Back to Basic [Aero] (8:08) `isrc:DKZVA1560760` `qobuz:84461722`
+- **Tokyo Blade** — The Lights of Soho [Dark Revolution] (4:34) `isrc:UKJXT2000109` `qobuz:314979328`
+- **Son Kite** — Game & Watch [Colours] (8:47) `isrc:DKZVA1460641` `qobuz:84461708`
+- **Absolum** — The Stomper [Inside The Sphere] (7:28) `isrc:USA2P0501636` `qobuz:23686868`
+- **Vibe Tribe** — Melodrama [Melodrama] (7:28) `isrc:IL4630400432` `qobuz:147514364`
+- **Sub6** — 7th Son [Highlights] (4:12) `isrc:UKR6V2174617` `qobuz:434189922`
+- **Aphid Moon** — Axel [Global Culture] (7:35) `isrc:USA2P0605737` `qobuz:113613530`
+- **Killerwatts** — Freaky Family [Freaky Family] (7:28) `isrc:GBKQU2554300` `qobuz:339968236`
+- **Loud** — 5 Billion Stars [5 Billion Stars] (12:05) `isrc:DKZVA2000410` `qobuz:109744651`
+- **U-Recken** — Let It Rain [Deeper Into Man] (8:25) `isrc:USQY50940027` `qobuz:6151235`
+- **Protoculture** — Out of Reality [Circadians] (7:40) `isrc:USA2P0605663` `qobuz:113603781`
+- **Goasia** — From Other Spaces [From Other Spaces] (8:47) `isrc:SEYOK0994624` `qobuz:113577126`
+- **Filteria** — Filtertraces [Daze Of Our Lives] (10:18) `isrc:SEYOK2219082` `qobuz:164266734`
+- **Ace Ventura** — Serenity Now [Rebirth] (7:42) `isrc:DKZVA0810002` `qobuz:73449062`
+- **Xerox & Illumination** — Night Shift [Rmx] (9:50) `isrc:USQY50932711` `qobuz:95106292`
+- **Psykovsky** — l'amour est bleu [Lubeauvь] (4:09) `isrc:QZDA62317428` `qobuz:236569798`
+- **Liquid Soul** — Love in Stereo [Love in Stereo] (7:56) `isrc:DKZVA0800604` `qobuz:84477416`
+- **Khetzal** — Anamatha [Corolle] (8:53) `isrc:SEYOK0994640` `qobuz:113599076`
+- **Freedom Fighters** — Era [Era] (9:36) `isrc:UKR6V2031163` `qobuz:93637425`
+- **Richard Anthony** — Le sirop typhon [Les Plus Belles Chansons] (3:29) `isrc:FRZ116900740` `qobuz:4644092`
+- **Atriohm** — Ukalen [Ukalen] (7:52) `isrc:NLD910900010` `qobuz:119704787`
+- **Ajja** — Bebopper [Tulpa] (7:37) `isrc:USA2P1295929` `qobuz:7469590`
+- **SYNC.EXE** — Kaleidoscope [Equinox II] (2:44) `isrc:QM3DF2254222` `qobuz:218016235`
+- **Sonic Species** — Just Another Freak [Goa Session] (6:51) `isrc:GBBYB1501906` `qobuz:110431486`
+- **Captain Hook** — Origin [Origin] (10:10) `isrc:DKZVA1862080` `qobuz:84394207`
+- **Faders** — Psychedelic Theory [Goa Session] (6:08) `isrc:GBBYB1501908` `qobuz:110431488`
+- **Morten Granau** — The Collective [Pack] (8:21) `isrc:DEKC41500024` `qobuz:122015107`
+- **Outsiders** — Completely Different [Djantrix Collection 001] (7:07) `isrc:USA2P1938031` `qobuz:104342956`
+- **Ludwig Göransson** — Quantum Mechanics [Oppenheimer (Original Motion Picture Soundtrack)] (3:00) `isrc:USQ4E2204393` `qobuz:218691309`
+- **Semargl** — In Outsiders [Knowledge Of The Others] (2:48) `isrc:QT6F82588823` `qobuz:426038760`
+- **Timo Tolkki’s Avalon** — Rise of the 4th Reich [Angels of the Apocalypse] (4:43) `isrc:ITG271400250` `qobuz:45803874`
+- **Ranji** — Power of Acid [Blue Tunes Mega Pack] (6:50) `isrc:DEGA21702314` `qobuz:45387859`
+- **Joy Division** — Transmission [Substance 1977 - 1980] (3:37) `isrc:GBCRL1500062` `qobuz:24618109`
+- **Inner Circle** — Bad Boys [Blazzin' Fire] (3:49) `isrc:USA2P1004784` `qobuz:238431714`
+- **Mad@Faq*,Tatanka** — Make Some Noise [Maxi Hardstyle Compilation Vol. 3] (7:29) `isrc:ITK100700130` `qobuz:74843927`
+- **Blastoyz** — Mandala [Blueprint. Legacy.] (5:57) `isrc:BEY921717253` `qobuz:402071781`
+- **ACID BOYZ** — Crank That (Soulja Boy) [Crank That (Soulja Boy)] (2:11) `isrc:US38Y2594575` `qobuz:362853664`
+- **Art Of Noise** — Moments In Love [Daft] (10:17) `isrc:GBAHW0000221` `qobuz:55378200`
+- **Isabelle Faust** — III. Rondo allegro [Berg - Beethoven : Violin Concertos] (8:34) `isrc:FRZ141026050` `qobuz:4838759`
+- **Made in M** — Mushroom Kingdom [Fungus] (1:24) `isrc:TCADY1814998` `qobuz:181166021`
+- **Jack Garratt** — The Love You're Given [Phase] (5:00) `isrc:GBUM71406400` `qobuz:30048212`
+- **Laufey** — Serendipity [Bewitched] (3:39) `isrc:QM6P42387623` `qobuz:213067621`
+- **Technical Hitch** — Mama India (Shantrip) Remaster [Mama India (Shantrip) Remaster] (8:29) `isrc:QZPLR2166475` `qobuz:139480270`
+- **Mandragora** — Codeine [Disc 1] (5:29) `isrc:GBKQU1873058` `qobuz:109415192`
+- **Vertical Mode** — Trust the Universe [Trust the Universe] (8:41) `isrc:USA2P1915528` `qobuz:143450922`
+- **Dekel** — Ancient Future [Ancient Future] (8:55) `isrc:UKR6V2180992` `qobuz:117069416`
+- **Alpha Wave Movement** — Portal Full of Stars [A Distant Signal] (7:26) `isrc:USCGH0717900` `qobuz:66138936`
+- **Zenzile** — Panama Red [Modus Vivendi] (5:17) `isrc:FRP620400160` `qobuz:123609660`

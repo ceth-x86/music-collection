@@ -1,0 +1,105 @@
+# Genre: Rave techno
+
+Imported genre playlist: Rave techno.
+
+Services: `qobuz:66720137` `tidal:1e1445bb-efbe-444c-b630-378528d68392`
+
+## Tracks (97)
+
+- **Joey Beltram** — Energy Flash [Classics] (5:50) `isrc:BEZ350800044` `qobuz:49810299`
+- **Second Phase** — Mentasm [Mentasm] (4:34) `isrc:BEZ350800169` `qobuz:239160071`
+- **Basic Channel** — Quadrant Dub I [Quadrant Dub] (15:36) `isrc:DEW259400126` `qobuz:49165165`
+- **Jeff Mills** — The Bells [SIGHT SOUND AND SPACE] (4:45) `isrc:USAX10000249` `qobuz:295033856`
+- **Dance 2 Trance** — We Came In Peace [We Came In Peace] (6:04) `isrc:DEMW61000056` `qobuz:54877753`
+- **Orbital** — Chime (Edit) [A Beginner's Guide] (3:13) `isrc:GBAAP0200238` `qobuz:292964718`
+- **L A  Style** — James Brown Is Dead [James Brown Is Dead] (3:31) `isrc:FR96X1759522` `qobuz:342854925`
+- **Human Resource** — Dominator [Dominator] (3:29) `isrc:NLF711608554` `qobuz:378062108`
+- **T99** — Anasthasia [Anasthasia] (4:35) `isrc:BEP010491555` `qobuz:33653521`
+- **Sonic Youth** — Pacific Coast Highway [Sister] (4:17) `isrc:USIR10110404` `qobuz:144266084`
+- **Age of Love** — The Age Of Love [Rex Club Techno] (6:46) `isrc:BEE329000020` `qobuz:173238381`
+- **Outlander** — Vamp [Vamp] (5:07) `isrc:BEZ359100101` `qobuz:48096825`
+- **N-Joi** — Anthem [Anthem] (4:03) `isrc:GBARS9800005` `qobuz:13263035`
+- **Cherry Moon Trax** — The House Of House (Yves Deruyter & BYØRN Remix) [Live At Tomorrowland] [Vinyl Only] (3:08) `isrc:BEIW12400706` `qobuz:288850037`
+- **Emmanuel Top** — Acid Phase [Acid Phase] (5:20) `isrc:FR4LO9400004` `qobuz:9368355`
+- **A Guy Called Gerald** — Voodoo Ray [Hot Lemonade] (4:27) `isrc:GBGWW0400001` `qobuz:290338705`
+- **The Prodigy** — Everybody in the Place [What Evil Lurks] (3:32) `isrc:GBBKS9100023` `qobuz:2329390`
+- **2 Unlimited** — Get Ready [Get Ready] (5:26) `isrc:BEAA11301352` `qobuz:103822069`
+- **Channel X** — Rave the Rhythm [To the Top] (3:39) `isrc:BEF699400010` `qobuz:129843103`
+- **Duran Duran** — I Don't Want Your Love (Shep Pettibone Mix) [Greatest] (3:48) `isrc:GBAYE8800090` `qobuz:992199`
+- **CJ Bolland** — Camargue 2019 [Camargue 2019] (6:57) `isrc:GBUR61900067` `qobuz:208193533`
+- **Ayreon** — The Prodigy's World [The Theory of Everything] (1:31) `isrc:NLR491300004` `qobuz:141546370`
+- **Of Monsters and Men** — I Of The Storm [Beneath The Skin (Deluxe Version)] (4:32) `isrc:USUG11500409` `qobuz:24705841`
+- **Rotterdam Termination Source** — Poing! [Happy Hardcore Top 100] (5:28) `isrc:NLC050500057` `qobuz:378268573`
+- **Nitzer Ebb** — Let Your Body Learn [That Total Age] (2:49) `isrc:GBAJH0400607` `qobuz:12844321`
+- **The King's Blues Club** — Clouds of Smoke (A Prophet's Warning) [Clouds of Smoke (A Prophet's Warning)] (7:39) `isrc:QZHN32696890` `qobuz:387571338`
+- **Armin van Buuren** — Pull Over [Armada Music - '90s / '00s Dance Hits, Vol. 1] (2:25) `isrc:NLF711604224` `qobuz:378235663`
+- **Eisbrecher** — Volle Kraft voraus [Schock] (3:16) `isrc:DEE861400542` `qobuz:20641278`
+- **Graveyard** — Breathe In Breathe Out [6] (5:44) `isrc:SEYRS2300204` `qobuz:218258715`
+- **4 Strings** — Take Me Away (Into The Night) [Take Me Away (Into The Night)] (3:14) `isrc:NLC280210001` `qobuz:55446078`
+- **LB aka LABAT** — Rave Generator [Feel So Good Around U] (3:03) `isrc:FRF1P2500060` `qobuz:367102739`
+- **Illegal Substances** — Beach Culture [Progressive Goa 2018 - Best of Top 100 Electronic Dance, Acid Techno, House Rave Anthems, Psytrance] (9:15) `isrc:QZ5FN1785617` `qobuz:46025797`
+- **Jones & Stephenson** — The First Rebirth [The First Rebirth] (4:34) `isrc:BEZ452010447` `qobuz:107172040`
+- **Metro Boomin** — Annihilate [METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE] (3:51) `isrc:USUM72308539` `qobuz:213129271`
+- **Josh Baker** — Dr Feel Right (feat. The Egyptian Lover & Rome Fortune) [Dr Feel Right (feat. The Egyptian Lover & Rome Fortune)] (2:26) `isrc:US38Y2591044` `qobuz:358885889`
+- **DJ Misjah** — Access [Access] (7:02) `isrc:GBJAJ1400626` `qobuz:38934704`
+- **The Ultimate Seduction** — The Ultimate Seduction [Armada Music - '90s / '00s Dance Hits, Vol. 1] (3:30) `isrc:NLF711903488` `qobuz:378235660`
+- **Charlotte De Witte** — Rave On Time [Rave on Time EP] (5:53) `isrc:BE4JP2000001` `qobuz:203156047`
+- **Bizarre Inc** — Playing With Knives [Quadrant Mix} [Playing With Knives [Quadrant Mix]] (6:47) `isrc:GBHKS0900027` `qobuz:2694902`
+- **Miss Jane** — It's a Fine Day [It's a Fine Day (2K13 Remixes)] (4:07) `isrc:ITCG91300010` `qobuz:135487440`
+- **GRAYSSOKER** — Accordéon Raveolution [Accordéon Raveolution] (2:38) `isrc:FR9W12240306` `qobuz:217429796`
+- **3Phase feat. Dr. Motte** — Der Klang Der Familie [Fear Of A Silver Planet mixed by James Holden] (2:55) `isrc:USA2P0749246` `qobuz:5908027`
+- **Perplexer** — Acid Folk [Acid Folk] (3:09) `isrc:DEP999400015` `qobuz:55165277`
+- **Members Of Mayday** — We Are Different [The Complete Anthem Collection 1992 - 2007] (3:21) `isrc:DEE190100038` `qobuz:199511600`
+- **101 Strings Orchestra** — Barrier X-69 [The Original Sounds of Psychedelic Chill - A Sonic Fusion of Electronic Phasing, Distorted Guitars and Orchestral Strings] (2:15) `isrc:CAM460430101` `qobuz:51956317`
+- **666** — ALARMA! [ALARMA!] (5:46) `isrc:DEBL61234322` `qobuz:9201878`
+- **Da Hool** — Meet Her at the Loveparade [Meet Her at the Loveparade] (3:33) `isrc:DEC719700559` `qobuz:187606094`
+- **The Babys** — Union Jack [Union Jacks] (5:41) `isrc:GBAYK0700044` `qobuz:169145527`
+- **Euphoria Dj's** — We Call It Acieed [Top 40 Rave Anthems - 40 Uplifting Classic Old Skool Trance, Acid, Techno & House Club Anthems] (3:09) `isrc:QMVRR1333352` `qobuz:71204380`
+- **Smooth Jazz All Stars** — All Around the World [80's R&B] (4:24) `isrc:USG7D1514601` `qobuz:24044534`
+- **Sleaford Mods** — Elitest G.O.A.T. [Elitest G.O.A.T.] (4:30) `isrc:GBCVZ2600014` `qobuz:397833967`
+- **The Flaming Lips** — Are You a Hypnotist?? [Yoshimi Battles the Pink Robots] (4:45) `isrc:USWB11602512` `qobuz:39634260`
+- **Soft Cell** — Tainted Love [Non-Stop Ecstatic Dancing] (6:22) `isrc:GBUM72501029` `qobuz:327852146`
+- **Dr. Motte** — Love Is Stronger [Love Is Stronger] (3:12) `isrc:DEY472476205` `qobuz:272440636`
+- **Maurice Joshua** — This Is Acid [MJD Trax Vol. 1] (6:25) `isrc:USAH91102562` `qobuz:59408272`
+- **INYU Music** — Epic Rave in Space [Can't Stop Me Now] (3:18) `isrc:QT6652519783` `qobuz:372414755`
+- **The Kansas City Six** — Four O'Clock Drag [Jazzuela. Julio Cortázar y el Jazz] (2:53) `isrc:ES6109944403` `qobuz:1362243`
+- **Baby D** — Let Me Be Your Fantasy [Let Me Be Your Fantasy EP] (3:51) `isrc:GBBFF0900106` `qobuz:206056498`
+- **Suduaya** — House of the Flying People [Full Moon Dance Party DJ Mix 100 Hits 2014 - Top Progressive Goa Psytrance Rave Festival Masters & Acid Techno Hard House] (8:07) `isrc:TCABX1446697` `qobuz:119407232`
+- **DJ Rolando** — Knights of the Jaguar [Paradise Garage: Inspirations] (6:37) `isrc:DEY471815086` `qobuz:214225620`
+- **Darude** — Sandstorm [Sandstorm] (3:46) `isrc:FISGC9900001` `qobuz:76532604`
+- **Zombie Nation** — Kernkraft 400 [Leichenschmaus] (4:45) `isrc:DEZ200600038` `qobuz:2493624`
+- **Mr. Big** — Daddy, Brother, Lover, Little Boy (The Electric Drill Song) - 2021 Remastered - 2021 Remastered [Lean Into It (30th Anniversary Edition)] (3:56) `isrc:HKG292100084` `qobuz:123972659`
+- **Orbital** — HALCYON + ON + ON [Orbital 2] (9:27) `isrc:GBAAP9500471` `qobuz:46123382`
+- **Energy 52** — Café Del Mar [Anthems 02: Café Del Mar] (8:42) `isrc:DEL029760004` `qobuz:99338603`
+- **DJ Jean** — The Launch [The Launch] (3:40) `isrc:NLB869900001` `qobuz:121082291`
+- **Mauro Picotto** — Komodo (Save A Soul) [Komodo (Save A Soul)] (6:09) `isrc:NLF712503086` `qobuz:378315690`
+- **Mauro Picotto** — Lizard [Lizard] (3:33) `isrc:NLE711900402` `qobuz:72061766`
+- **Dimitri Vegas & Like Mike** — The House Of House [The House Of House] (4:27) `isrc:BEZ451800600` `qobuz:48179039`
+- **Hi-Gate** — Pitchin' (In Every Direction) [Pitchin' (In Every Direction)] (8:22) `isrc:GBKQU2207207` `qobuz:144643417`
+- **Marco V** — GODD [Godd] (3:09) `isrc:NLE800510080` `qobuz:19032203`
+- **Chris Liebing** — Fault Line [Another Night] (9:09) `isrc:GBR8R2200169` `qobuz:176840002`
+- **Paul Glazby** — Acid Disco [Vicious Circle: 15 Years Of Hard House - Mixed by Andy Farley] (6:03) `isrc:GBKQU1939708` `qobuz:108526398`
+- **CLIQUES.** — Rave Sequence [Rave Sequence] (3:28) `isrc:GBFG92400146` `qobuz:287760797`
+- **Armin van Buuren** — The Sound Of Goodbye [Best Of Female Vocal Trance 2014] (3:19) `isrc:NLC731100012` `qobuz:112051318`
+- **DJ Isaac** — Slave To The Rave [Slave To The Rave] (3:42) `isrc:NLS762200192` `qobuz:162359981`
+- **Kai Tracid** — Wrong or Right [Wrong or Right (Acid Rain over Berlin Mix)] (6:31) `isrc:DEOI52000032` `qobuz:126224705`
+- **Sam Paganini** — Rave [Rave] (3:59) `isrc:GBUR62000418` `qobuz:208365963`
+- **Nina Kraviz** — Taxi Talk [Marcellus Pittman & Urban Tribe Remixes] (5:25) `isrc:GBLTF1200081` `qobuz:203469212`
+- **Get Hard Techno** — I Hate Models [Get Hard Techno - Best Hard Techno 2025] (3:59) `isrc:CAENV2530314` `qobuz:394968723`
+- **Scratch Massive** — Take me there [Nuit de Rêve] (4:02) `isrc:FRR641100029` `qobuz:4589497`
+- **Mau P** — Your Mind Is Dirty [Your Mind Is Dirty] (3:18) `isrc:GBCPZ2321812` `qobuz:309330824`
+- **Reinier Zonneveld** — Keine Liebe, Kein Rave [Keine Liebe, Kein Rave] (4:20) `isrc:GBKQU2322068` `qobuz:199849166`
+- **TOOL** — Wings For Marie (Pt 1) [10,000 Days] (6:11) `isrc:USVR10600021` `qobuz:64859950`
+- **Unknown Artist** — Vamped [Strings / Vamped] (4:25) `isrc:NLCK42412020` `qobuz:281119726`
+- **Boris Brejcha** — Rave City [Level One] (8:34) `isrc:DEY472472305` `qobuz:255094253`
+- **W&W** — Rave From Outer Space [Rave From Outer Space] (2:11) `isrc:DEN062600265` `qobuz:401058167`
+- **Vitalic** — Stamina [Rave Age] (3:42) `isrc:FRU661213602` `qobuz:365501290`
+- **Dax J** — Wir Leben Für Die Nacht [The Invisible Man EP] (6:02) `isrc:GBJX38209003` `qobuz:57005809`
+- **Mark Dekoda** — Rave Harder Techno Bass [Rave Harder Techno Bass] (6:00) `isrc:DEAR42298309` `qobuz:148198961`
+- **Paula Temple** — Ful [Deathvox] (7:04) `isrc:BEZ351400124` `qobuz:32255230`
+- **Réma** — Calm Down [Rave & Roses] (3:39) `isrc:NGA3B2214004` `qobuz:149779967`
+- **Scooter** — FCK 2020 [God Save The Rave] (3:29) `isrc:DEN062004625` `qobuz:214818561`
+- **Sub Zero Project** — Renaissance Of Rave [Renaissance Of Rave] (3:17) `isrc:BEB682200055` `qobuz:162979747`
+- **David John & The Mood** — Pretty Thing [Having A Rave-Up! The British R&B Sound Of 1964] (2:17) `isrc:GBBLY2302101` `qobuz:268504368`
+- **Boys Noize** — SVNDY [LVLY] (5:24) `isrc:FRX452475575` `qobuz:264597808`
+- **Pink Floyd** — The Great Gig in the Sky [The Dark Side Of The Moon (50th Anniversary)] (4:43) `isrc:GBN9Y2200019` `qobuz:193171339`

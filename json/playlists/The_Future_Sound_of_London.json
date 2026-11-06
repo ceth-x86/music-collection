@@ -1,0 +1,129 @@
+{
+  "name": "The Future Sound of London",
+  "services": {
+    "qobuz": "67129622",
+    "tidal": "35f01305-f54f-4ae7-a783-0250bb55ad83"
+  },
+  "tracks": [
+    {
+      "artist": "The Future Sound Of London",
+      "title": "Expander",
+      "services": {
+        "qobuz": "51039733"
+      },
+      "album": "Accelerator Deluxe",
+      "duration": 340,
+      "isrc": "USA370578038"
+    },
+    {
+      "artist": "The Future Sound Of London",
+      "title": "Calcium",
+      "services": {
+        "qobuz": "51039736"
+      },
+      "album": "Accelerator Deluxe",
+      "duration": 323,
+      "isrc": "USA370578041"
+    },
+    {
+      "artist": "The Future Sound Of London",
+      "title": "Central Industrial",
+      "services": {
+        "qobuz": "51039742"
+      },
+      "album": "Accelerator Deluxe",
+      "duration": 267,
+      "isrc": "USA370578047"
+    },
+    {
+      "artist": "The Future Sound Of London",
+      "title": "Papua New Guinea",
+      "services": {
+        "qobuz": "51039738"
+      },
+      "album": "Accelerator Deluxe",
+      "duration": 405,
+      "isrc": "USA370578043"
+    },
+    {
+      "artist": "The Future Sound Of London",
+      "title": "Papua New Guinea (Dumb Child Of Q Mix)",
+      "services": {
+        "qobuz": "51039749"
+      },
+      "album": "Accelerator Deluxe",
+      "duration": 265,
+      "isrc": "USA370578054"
+    },
+    {
+      "artist": "The Future Sound Of London",
+      "title": "Cascade",
+      "services": {
+        "qobuz": "2487977"
+      },
+      "album": "Lifeforms",
+      "duration": 359,
+      "isrc": "GBAAA9400542"
+    },
+    {
+      "artist": "The Future Sound Of London",
+      "title": "Flak",
+      "services": {
+        "qobuz": "2487979"
+      },
+      "album": "Lifeforms",
+      "duration": 293,
+      "isrc": "GBAAA9400714"
+    },
+    {
+      "artist": "The Future Sound Of London",
+      "title": "Lifeforms",
+      "services": {
+        "qobuz": "2487982"
+      },
+      "album": "Lifeforms",
+      "duration": 318,
+      "isrc": "GBAAA9400718"
+    },
+    {
+      "artist": "The Future Sound Of London",
+      "title": "Eggshell",
+      "services": {
+        "qobuz": "2487983"
+      },
+      "album": "Lifeforms",
+      "duration": 405,
+      "isrc": "GBAAA9400730"
+    },
+    {
+      "artist": "The Future Sound Of London",
+      "title": "You're Creeping Me Out",
+      "services": {
+        "qobuz": "1954186"
+      },
+      "album": "ISDN",
+      "duration": 391,
+      "isrc": "GBAAA9400748"
+    },
+    {
+      "artist": "The Future Sound Of London",
+      "title": "Eyes Pop - Skin Explodes - Everybody Dead",
+      "services": {
+        "qobuz": "1954187"
+      },
+      "album": "ISDN",
+      "duration": 225,
+      "isrc": "GBAAA9400749"
+    },
+    {
+      "artist": "The Future Sound Of London",
+      "title": "Egypt",
+      "services": {
+        "qobuz": "1954191"
+      },
+      "album": "ISDN",
+      "duration": 251,
+      "isrc": "GBAAA9400754"
+    }
+  ]
+}

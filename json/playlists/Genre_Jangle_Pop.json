@@ -1,0 +1,1010 @@
+{
+  "name": "Genre: Jangle Pop",
+  "services": {
+    "qobuz": "66732853",
+    "tidal": "f8bb2aeb-79b8-4769-a868-6557fce34aad"
+  },
+  "description": "Imported genre playlist: Jangle Pop.",
+  "tracks": [
+    {
+      "artist": "The Feelies",
+      "title": "The Boy With The Perpetual Nervousness",
+      "services": {
+        "qobuz": "2524846"
+      },
+      "album": "Crazy Rhythms",
+      "duration": 313,
+      "isrc": "GBCEL0900523"
+    },
+    {
+      "artist": "The dB's",
+      "title": "Black And White",
+      "services": {
+        "qobuz": "1783954"
+      },
+      "album": "Stands For Decibels",
+      "duration": 189,
+      "isrc": "USCA20705653"
+    },
+    {
+      "artist": "The Church",
+      "title": "The Unguarded Moment",
+      "services": {
+        "qobuz": "2530035"
+      },
+      "album": "Of Skins And Heart",
+      "duration": 254,
+      "isrc": "AUEM00200031"
+    },
+    {
+      "artist": "The Clean",
+      "title": "Tally Ho!",
+      "services": {
+        "qobuz": "296239721"
+      },
+      "album": "It's Bigger Than Both of Us - Nz Singles: 1979-82",
+      "duration": 166,
+      "isrc": "NZFN00400057"
+    },
+    {
+      "artist": "Orange Juice",
+      "title": "Rip It Up",
+      "services": {
+        "qobuz": "169116386"
+      },
+      "album": "Rip It Up",
+      "duration": 320,
+      "isrc": "GBCEL1000577"
+    },
+    {
+      "artist": "The Wild Swans",
+      "title": "Young Manhood",
+      "services": {
+        "qobuz": "9032897"
+      },
+      "album": "Bringing Home The Ashes",
+      "duration": 230,
+      "isrc": "USWB10001810"
+    },
+    {
+      "artist": "The Go-Betweens",
+      "title": "Cattle And Cane",
+      "services": {
+        "qobuz": "244447878"
+      },
+      "album": "Before Hollywood",
+      "duration": 262,
+      "isrc": "GBCEL2300818"
+    },
+    {
+      "artist": "Aztec Camera",
+      "title": "Oblivious",
+      "services": {
+        "qobuz": "5687433"
+      },
+      "album": "High Land, Hard Rain",
+      "duration": 190,
+      "isrc": "GBAHT8303357"
+    },
+    {
+      "artist": "The Smiths",
+      "title": "This Charming Man",
+      "services": {
+        "qobuz": "10474487"
+      },
+      "album": "The Smiths",
+      "duration": 162,
+      "isrc": "GBCRL1300039"
+    },
+    {
+      "artist": "Various Artists",
+      "title": "I Look Around - The Rain Parade",
+      "services": {
+        "qobuz": "99023494"
+      },
+      "album": "WarfRat Tales (Unabridged)",
+      "duration": 180,
+      "isrc": "USHM80773304"
+    },
+    {
+      "artist": "The Three O'Clock",
+      "title": "With a Cantaloupe Girlfriend",
+      "services": {
+        "qobuz": "110132835"
+      },
+      "album": "Baroque Hoedown",
+      "duration": 174,
+      "isrc": "USY1R2073001"
+    },
+    {
+      "artist": "Guadalcanal Diary",
+      "title": "Watusi Rodeo",
+      "services": {
+        "qobuz": "3004898"
+      },
+      "album": "Walking In The Shadow Of The Big Man",
+      "duration": 160,
+      "isrc": "USEE10300664"
+    },
+    {
+      "artist": "R.E.M.",
+      "title": "So. Central Rain (I'm Sorry)",
+      "services": {
+        "qobuz": "31142656"
+      },
+      "album": "Green",
+      "duration": 219,
+      "isrc": "USWB11301240"
+    },
+    {
+      "artist": "Lloyd Cole And The Commotions",
+      "title": "Perfect Skin",
+      "services": {
+        "qobuz": "25170195"
+      },
+      "album": "Collected Recordings 1983-1989",
+      "duration": 191,
+      "isrc": "GBAKW8400485"
+    },
+    {
+      "artist": "The Loft",
+      "title": "Why Does The Rain",
+      "services": {
+        "qobuz": "118519843"
+      },
+      "album": "Ghost Trains & Country Lanes: Studio, Stage & Sessions 1984-2015",
+      "duration": 215,
+      "isrc": "GBBLY0501082"
+    },
+    {
+      "artist": "The Pastels",
+      "title": "Million Tears",
+      "services": {
+        "qobuz": "113259910"
+      },
+      "album": "Creation Artifact (The Dawn Of Creation Records 1983-1985)",
+      "duration": 173,
+      "isrc": "GBBLY1503381"
+    },
+    {
+      "artist": "Matraca Berg",
+      "title": "Back In The Saddle",
+      "services": {
+        "qobuz": "41004466"
+      },
+      "album": "Sunday Morning To Saturday Night",
+      "duration": 200,
+      "isrc": "USRT19710120"
+    },
+    {
+      "artist": "Red Guitars",
+      "title": "Good Technology",
+      "services": {
+        "qobuz": "65923302"
+      },
+      "album": "Good Technology 1982-84",
+      "duration": 294,
+      "isrc": "GBTBM0700001"
+    },
+    {
+      "artist": "Let's Active",
+      "title": "Every Word Means No",
+      "services": {
+        "qobuz": "4723629"
+      },
+      "album": "Every Word Means No",
+      "duration": 173,
+      "isrc": "USCA20705418"
+    },
+    {
+      "artist": "The Long Ryders",
+      "title": "Looking For Lewis And Clark",
+      "services": {
+        "qobuz": "54234921"
+      },
+      "album": "State Of Our Union",
+      "duration": 190,
+      "isrc": "USUM70975927"
+    },
+    {
+      "artist": "The Verlaines",
+      "title": "Death And The Maiden",
+      "services": {
+        "qobuz": "20819841"
+      },
+      "album": "Juvenilia",
+      "duration": 267,
+      "isrc": "NZFN08700004"
+    },
+    {
+      "artist": "Game Theory",
+      "title": "24",
+      "services": {
+        "qobuz": "22959605"
+      },
+      "album": "Real Nighttime",
+      "duration": 168,
+      "isrc": "QMWHB1401020"
+    },
+    {
+      "artist": "Felt",
+      "title": "Primitive Painters",
+      "services": {
+        "qobuz": "91142148"
+      },
+      "album": "Primitive Painters",
+      "duration": 362,
+      "isrc": "GBBLY1601493"
+    },
+    {
+      "artist": "Look Blue Go Purple",
+      "title": "Circumspect Penelope",
+      "services": {
+        "qobuz": "79024998"
+      },
+      "album": "Look Blue Go Purple Compilation",
+      "duration": 178,
+      "isrc": "NZFN00400359"
+    },
+    {
+      "artist": "The Chills",
+      "title": "Heavenly Pop Hit",
+      "services": {
+        "qobuz": "2574128"
+      },
+      "album": "Submarine Bells",
+      "duration": 208,
+      "isrc": "USRH10802282"
+    },
+    {
+      "artist": "The Housemartins",
+      "title": "Happy Hour",
+      "services": {
+        "qobuz": "19486395"
+      },
+      "album": "London 0 Hull 4",
+      "duration": 144,
+      "isrc": "GBAAM8601005"
+    },
+    {
+      "artist": "The Mighty Lemon Drops",
+      "title": "Happy Head",
+      "services": {
+        "qobuz": "169147853"
+      },
+      "album": "Rollercoaster: The Best of The Mighty Lemon Drops (1986-1989)",
+      "duration": 147,
+      "isrc": "GBAYK8600040"
+    },
+    {
+      "artist": "The Weather Prophets",
+      "title": "Hollow Heart",
+      "services": {
+        "qobuz": "83252549"
+      },
+      "album": "Judges, Juries And Horsemen",
+      "duration": 185,
+      "isrc": "GBBLY0400882"
+    },
+    {
+      "artist": "Close Lobsters",
+      "title": "Going to Heaven to See If It Rains",
+      "services": {
+        "qobuz": "194821431"
+      },
+      "album": "Forever, Until Victory!",
+      "duration": 191,
+      "isrc": "GBCKK0903901"
+    },
+    {
+      "artist": "The Wedding Present",
+      "title": "Kennedy",
+      "services": {
+        "qobuz": "178374"
+      },
+      "album": "Bizarro",
+      "duration": 261,
+      "isrc": "GBARL8900095"
+    },
+    {
+      "artist": "The Bodines",
+      "title": "Therese",
+      "services": {
+        "qobuz": "113259993"
+      },
+      "album": "Creation Artifact (The Dawn Of Creation Records 1983-1985)",
+      "duration": 193,
+      "isrc": "GBCAD1500509"
+    },
+    {
+      "artist": "10,000 Maniacs",
+      "title": "Like the Weather",
+      "services": {
+        "qobuz": "11817386"
+      },
+      "album": "In My Tribe",
+      "duration": 237,
+      "isrc": "USEE19901215"
+    },
+    {
+      "artist": "The Bats",
+      "title": "Made up in Blue",
+      "services": {
+        "qobuz": "79017235"
+      },
+      "album": "Daddy's Highway",
+      "duration": 239,
+      "isrc": "NZFN08700067"
+    },
+    {
+      "artist": "The House Of Love",
+      "title": "Shine On",
+      "services": {
+        "qobuz": "3883958"
+      },
+      "album": "House Of Love",
+      "duration": 239,
+      "isrc": "GBF089000036"
+    },
+    {
+      "artist": "The Connells",
+      "title": "Stone Cold Yesterday",
+      "services": {
+        "qobuz": "19200817"
+      },
+      "album": "One Simple Word",
+      "duration": 237,
+      "isrc": "USRZ51010964"
+    },
+    {
+      "artist": "The Tragically Hip",
+      "title": "Looking For A Place To Happen",
+      "services": {
+        "qobuz": "99868099"
+      },
+      "album": "Fully Completely",
+      "duration": 290,
+      "isrc": "CAUM71400351"
+    },
+    {
+      "artist": "Straitjacket Fits",
+      "title": "She Speeds",
+      "services": {
+        "qobuz": "98651517"
+      },
+      "album": "Hail",
+      "duration": 245,
+      "isrc": "NZFN00400129"
+    },
+    {
+      "artist": "The Chesterfields",
+      "title": "Ask Johnny Dee",
+      "services": {
+        "qobuz": "145389793"
+      },
+      "album": "Electric Guitars in Their Hearts: The Best of the Chesterfields",
+      "duration": 177,
+      "isrc": "GBBLY0600824"
+    },
+    {
+      "artist": "Primal Scream",
+      "title": "Gentle Tuesday",
+      "services": {
+        "qobuz": "16010060"
+      },
+      "album": "Sonic Flower Groove",
+      "duration": 227,
+      "isrc": "GBAHT0400115"
+    },
+    {
+      "artist": "The Sea Urchins",
+      "title": "Pristine Christine",
+      "services": {
+        "qobuz": "18508958"
+      },
+      "album": "Stardust",
+      "duration": 167,
+      "isrc": "GBMFU0600001"
+    },
+    {
+      "artist": "The Darling Buds",
+      "title": "Hit The Ground",
+      "services": {
+        "qobuz": "455234"
+      },
+      "album": "Pop Said...",
+      "duration": 139,
+      "isrc": "GBBBM8802028"
+    },
+    {
+      "artist": "The La's",
+      "title": "There She Goes",
+      "services": {
+        "qobuz": "4306679"
+      },
+      "album": "The La's (Deluxe Edition)",
+      "duration": 162,
+      "isrc": "GBAQT8800001"
+    },
+    {
+      "artist": "The Primitives",
+      "title": "Crash",
+      "services": {
+        "qobuz": "457263"
+      },
+      "album": "Lovely",
+      "duration": 151,
+      "isrc": "GBARL8800002"
+    },
+    {
+      "artist": "The Ocean Blue",
+      "title": "Between Something and Nothing",
+      "services": {
+        "qobuz": "3002012"
+      },
+      "album": "The Ocean Blue",
+      "duration": 241,
+      "isrc": "USRE10100001"
+    },
+    {
+      "artist": "The Grapes Of Wrath",
+      "title": "All The Things I Wasn't",
+      "services": {
+        "qobuz": "796471"
+      },
+      "album": "Now And Again",
+      "duration": 137,
+      "isrc": "CAE158900039"
+    },
+    {
+      "artist": "Biff Bang Pow!",
+      "title": "Someone Stole My Wheels",
+      "services": {
+        "qobuz": "127031831"
+      },
+      "album": "The Girl Who Runs The Beat Hotel",
+      "duration": 164,
+      "isrc": "GBBLY0300504"
+    },
+    {
+      "artist": "Donald Ann",
+      "title": "All Day Long",
+      "services": {
+        "qobuz": "252979813"
+      },
+      "album": "Will Anything Happen",
+      "duration": 110,
+      "isrc": "GBAYK0800205"
+    },
+    {
+      "artist": "The Wake",
+      "title": "Melancholy Man",
+      "services": {
+        "qobuz": "50519161"
+      },
+      "album": "Here Comes Everybody + Singles",
+      "duration": 442,
+      "isrc": "GBHBR0400329"
+    },
+    {
+      "artist": "The Bangles",
+      "title": "Hero Takes A Fall",
+      "services": {
+        "qobuz": "350747896"
+      },
+      "album": "Sleepless Nights",
+      "duration": 258,
+      "isrc": "GXESV2554014"
+    },
+    {
+      "artist": "Razorcuts",
+      "title": "Goodnight England",
+      "services": {
+        "qobuz": "150847335"
+      },
+      "album": "The World Keeps Turning",
+      "duration": 150,
+      "isrc": "GBBLY1006363"
+    },
+    {
+      "artist": "The Sundays",
+      "title": "Here's Where the Story Ends",
+      "services": {
+        "qobuz": "4693905"
+      },
+      "album": "Reading Writing And Arithmetic",
+      "duration": 230,
+      "isrc": "GB01A9000004"
+    },
+    {
+      "artist": "The Trash Can Sinatras",
+      "title": "Only Tongue Can Tell",
+      "services": {
+        "qobuz": "46984686"
+      },
+      "album": "Cake",
+      "duration": 225,
+      "isrc": "GBAKW8901047"
+    },
+    {
+      "artist": "The Field Mice",
+      "title": "If You Need Someone",
+      "services": {
+        "qobuz": "48066537"
+      },
+      "album": "Coastal",
+      "duration": 224,
+      "isrc": "GBMFU0600060"
+    },
+    {
+      "artist": "Heavenly",
+      "title": "I Fell In Love Last Night",
+      "services": {
+        "qobuz": "48066126"
+      },
+      "album": "Heavenly Vs. Satan",
+      "duration": 320,
+      "isrc": "GBMFU0600076"
+    },
+    {
+      "artist": "Teenage Fanclub",
+      "title": "The Concept",
+      "services": {
+        "qobuz": "51922020"
+      },
+      "album": "Bandwagonesque",
+      "duration": 367,
+      "isrc": "GBARL1800234"
+    },
+    {
+      "artist": "Milltown Brothers",
+      "title": "Which Way Should I Jump",
+      "services": {
+        "qobuz": "75112575"
+      },
+      "album": "Slinky",
+      "duration": 234,
+      "isrc": "USHM91969355"
+    },
+    {
+      "artist": "Matthew Sweet",
+      "title": "Girlfriend",
+      "services": {
+        "qobuz": "205482"
+      },
+      "album": "Girlfriend",
+      "duration": 220,
+      "isrc": "USVR19100001"
+    },
+    {
+      "artist": "The Lemonheads",
+      "title": "It's a Shame About Ray",
+      "services": {
+        "qobuz": "194710751"
+      },
+      "album": "It's a Shame About Ray",
+      "duration": 187,
+      "isrc": "USAT20706775"
+    },
+    {
+      "artist": "Another Sunny Day",
+      "title": "You Should All Be Murdered",
+      "services": {
+        "qobuz": "48066087"
+      },
+      "album": "London Weekend",
+      "duration": 278,
+      "isrc": "GBMFU0600054"
+    },
+    {
+      "artist": "Gin Blossoms",
+      "title": "Hey Jealousy",
+      "services": {
+        "qobuz": "59987819"
+      },
+      "album": "New Miserable Experience",
+      "duration": 236,
+      "isrc": "USAM19201246"
+    },
+    {
+      "artist": "Sloan",
+      "title": "Underwhelmed",
+      "services": {
+        "qobuz": "75635342"
+      },
+      "album": "Smeared",
+      "duration": 285,
+      "isrc": "USKO10407945"
+    },
+    {
+      "artist": "Glo-Worm",
+      "title": "Crazy Town",
+      "services": {
+        "qobuz": "329162244"
+      },
+      "album": "Glimmer",
+      "duration": 156,
+      "isrc": "USK110405413"
+    },
+    {
+      "artist": "The Wannadies",
+      "title": "You And Me Song",
+      "services": {
+        "qobuz": "105663465"
+      },
+      "album": "Be A Girl",
+      "duration": 169,
+      "isrc": "SELAC9409010"
+    },
+    {
+      "artist": "The Lucksmiths",
+      "title": "The Sandringham Line",
+      "services": {
+        "qobuz": "298551155"
+      },
+      "album": "Naturaliste",
+      "duration": 326,
+      "isrc": "AU25T0310073"
+    },
+    {
+      "artist": "The Posies",
+      "title": "Dream All Day",
+      "services": {
+        "qobuz": "54921682"
+      },
+      "album": "Dream All Day: The Best Of The Posies",
+      "duration": 183,
+      "isrc": "USGF19952201"
+    },
+    {
+      "artist": "The Clientele",
+      "title": "Reflections After Jane",
+      "services": {
+        "qobuz": "42188359"
+      },
+      "album": "Suburban Light",
+      "duration": 201,
+      "isrc": "GBFXJ0000003"
+    },
+    {
+      "artist": "The Aislers Set",
+      "title": "The Red Door",
+      "services": {
+        "qobuz": "77347863"
+      },
+      "album": "The Last Match",
+      "duration": 166,
+      "isrc": "US4TA0400515"
+    },
+    {
+      "artist": "Valkyrie's Ravencall",
+      "title": "We Sail With the Crimson Tide of Dawn",
+      "services": {
+        "qobuz": "431743844"
+      },
+      "album": "Ragnar smiles in thunder",
+      "duration": 259,
+      "isrc": "QT62U2632414"
+    },
+    {
+      "artist": "AREA21",
+      "title": "All I Need",
+      "services": {
+        "qobuz": "137671203"
+      },
+      "album": "Greatest Hits Vol. 1",
+      "duration": 186,
+      "isrc": "USHR12142258"
+    },
+    {
+      "artist": "Beulah",
+      "title": "Gene Autry",
+      "services": {
+        "qobuz": "14474441"
+      },
+      "album": "The Coast Is Never Clear",
+      "duration": 214,
+      "isrc": "US72K0500204"
+    },
+    {
+      "artist": "The Shins",
+      "title": "Caring Is Creepy",
+      "services": {
+        "qobuz": "407826194"
+      },
+      "album": "Oh, Inverted World",
+      "duration": 199,
+      "isrc": "USSUB2141501"
+    },
+    {
+      "artist": "Pernice Brothers",
+      "title": "PCH One",
+      "services": {
+        "qobuz": "212106942"
+      },
+      "album": "Live A Little",
+      "duration": 215,
+      "isrc": "USA2B0612908"
+    },
+    {
+      "artist": "The Thrills",
+      "title": "Santa Cruz (You're Not That Far)",
+      "services": {
+        "qobuz": "4668446"
+      },
+      "album": "Santa Cruz (You're Not That Far)",
+      "duration": 216,
+      "isrc": "GBAAA0300526"
+    },
+    {
+      "artist": "The Magic Numbers",
+      "title": "Forever Lost",
+      "services": {
+        "qobuz": "4631081"
+      },
+      "album": "The Magic Numbers",
+      "duration": 257,
+      "isrc": "GBDGG0500033"
+    },
+    {
+      "artist": "The Concretes",
+      "title": "You Can't Hurry Love",
+      "services": {
+        "qobuz": "34839769"
+      },
+      "album": "The Concretes",
+      "duration": 124,
+      "isrc": "SEVJH0300402"
+    },
+    {
+      "artist": "The Pains Of Being Pure At Heart",
+      "title": "Young Adult Friction",
+      "services": {
+        "qobuz": "43492451"
+      },
+      "album": "Young Adult Friction",
+      "duration": 243,
+      "isrc": "US4TA0900029"
+    },
+    {
+      "artist": "The Brunettes",
+      "title": "Holding Hands, Feeding Ducks",
+      "services": {
+        "qobuz": "68693657"
+      },
+      "album": "Holding Hands, Feeding Ducks",
+      "duration": 245,
+      "isrc": "USA560848362"
+    },
+    {
+      "artist": "Yo La Tengo",
+      "title": "Autumn Sweater",
+      "services": {
+        "qobuz": "26434256"
+      },
+      "album": "I Can Hear The Heart Beating As One",
+      "duration": 318,
+      "isrc": "USMTD9722208"
+    },
+    {
+      "artist": "Lynyrd Skynyrd",
+      "title": "The Real Thing",
+      "services": {
+        "qobuz": "52115122"
+      },
+      "album": "Live in Atlantic City",
+      "duration": 229,
+      "isrc": "DEH841800454"
+    },
+    {
+      "artist": "Los Campesinos!",
+      "title": "You! Me! Dancing! (2018 Remaster)",
+      "services": {
+        "qobuz": "348379013"
+      },
+      "album": "Hold On Now, Youngster... (2018 Deluxe Remaster)",
+      "duration": 405,
+      "isrc": "GBDNH1800037"
+    },
+    {
+      "artist": "The Drums",
+      "title": "Lets Go Surfing",
+      "services": {
+        "qobuz": "13594284"
+      },
+      "album": "The Drums",
+      "duration": 174,
+      "isrc": "GBGEY0900107"
+    },
+    {
+      "artist": "Beach Fossils",
+      "title": "Down the Line (Piano)",
+      "services": {
+        "qobuz": "128530501"
+      },
+      "album": "The Other Side of Life: Piano Ballads",
+      "duration": 212,
+      "isrc": "QM6YT2104306"
+    },
+    {
+      "artist": "The Fresh & Onlys",
+      "title": "Waterfall",
+      "services": {
+        "qobuz": "52200553"
+      },
+      "album": "Play It Strange",
+      "duration": 192,
+      "isrc": "USA3D1010108"
+    },
+    {
+      "artist": "Veronica Falls",
+      "title": "Found Love In A Graveyard",
+      "services": {
+        "qobuz": "11020509"
+      },
+      "album": "Veronica Falls",
+      "duration": 240,
+      "isrc": "GBBRP1130101"
+    },
+    {
+      "artist": "Twerps",
+      "title": "Work It Out",
+      "services": {
+        "qobuz": "46297470"
+      },
+      "album": "Work It Out",
+      "duration": 199,
+      "isrc": "AUCI11209601"
+    },
+    {
+      "artist": "The Proper Ornaments",
+      "title": "The Frozen Stare",
+      "services": {
+        "qobuz": "36864336"
+      },
+      "album": "Foxhole",
+      "duration": 256,
+      "isrc": "QM4TW1647533"
+    },
+    {
+      "artist": "The Goon Sax",
+      "title": "Boyfriend",
+      "services": {
+        "qobuz": "46287159"
+      },
+      "album": "Up to Anything",
+      "duration": 179,
+      "isrc": "AUCI11613206"
+    },
+    {
+      "artist": "Alvvays",
+      "title": "Archie, Marry Me",
+      "services": {
+        "qobuz": "16961867"
+      },
+      "album": "Alvvays",
+      "duration": 197,
+      "isrc": "US3R41428202"
+    },
+    {
+      "artist": "Ultimate Painting",
+      "title": "Central Park Blues",
+      "services": {
+        "qobuz": "26049231"
+      },
+      "album": "Ultimate Painting",
+      "duration": 255,
+      "isrc": "QMXQJ1408103"
+    },
+    {
+      "artist": "EZTV",
+      "title": "Hard to Believe",
+      "services": {
+        "qobuz": "25237313"
+      },
+      "album": "Calling Out",
+      "duration": 193,
+      "isrc": "QMMZN1300862"
+    },
+    {
+      "artist": "The Courtneys",
+      "title": "Silver Velvet",
+      "services": {
+        "qobuz": "36879212"
+      },
+      "album": "The Courtneys II",
+      "duration": 181,
+      "isrc": "NZFN01600136"
+    },
+    {
+      "artist": "Rolling Blackouts Coastal Fever",
+      "title": "Talking Straight",
+      "services": {
+        "qobuz": "407824546"
+      },
+      "album": "Hope Downs",
+      "duration": 224,
+      "isrc": "AULI01814950"
+    },
+    {
+      "artist": "Kiwi Jr.",
+      "title": "Gimme More",
+      "services": {
+        "qobuz": "79900542"
+      },
+      "album": "Football Money",
+      "duration": 180,
+      "isrc": "CAMA11918404"
+    },
+    {
+      "artist": "Ducks Ltd.",
+      "title": "As Big as All Outside",
+      "services": {
+        "qobuz": "156379731"
+      },
+      "album": "As Big as All Outside",
+      "duration": 200,
+      "isrc": "US22N2115206"
+    },
+    {
+      "artist": "The Umbrellas",
+      "title": "Near You",
+      "services": {
+        "qobuz": "121741236"
+      },
+      "album": "The Umbrellas",
+      "duration": 120,
+      "isrc": "US4TA2100015"
+    },
+    {
+      "artist": "The Catenary Wires",
+      "title": "Love on the Screen",
+      "services": {
+        "qobuz": "62098516"
+      },
+      "album": "Til the Morning",
+      "duration": 259,
+      "isrc": "DEU161904551"
+    },
+    {
+      "artist": "Chime School",
+      "title": "Dead Saturdays",
+      "services": {
+        "qobuz": "127552862"
+      },
+      "album": "Chime School",
+      "duration": 182,
+      "isrc": "US4TA2100034"
+    },
+    {
+      "artist": "Jeanines",
+      "title": "That's Okay",
+      "services": {
+        "qobuz": "144690751"
+      },
+      "album": "Don't Wait For A Sign",
+      "duration": 81,
+      "isrc": "US4TA2200022"
+    },
+    {
+      "artist": "The Reds, Pinks and Purples",
+      "title": "The World Doesn't Need Another Band",
+      "services": {
+        "qobuz": "320145611"
+      },
+      "album": "The Past Is a Garden I Never Fed",
+      "duration": 175,
+      "isrc": "QZTBB2440964"
+    },
+    {
+      "artist": "Levon Ambartsumian",
+      "title": "Seven Yiddish Songs for Violin, Tuba and Chamber Orchestra: I. The Same Old Question",
+      "services": {
+        "qobuz": "92154568"
+      },
+      "album": "Mikhail Bronner - The Illusion of Life",
+      "duration": 161,
+      "isrc": "FRX452060516"
+    }
+  ]
+}

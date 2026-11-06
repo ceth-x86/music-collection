@@ -1,0 +1,107 @@
+# Genre: Glitch / Microsound
+
+Imported genre playlist: Glitch / Microsound.
+
+Services: `qobuz:66717632`
+
+## Tracks (99)
+
+- **Nat King Cole** — Deck The Hall [The Christmas Song] (1:08) `isrc:USCA29900552` `qobuz:53569664`
+- **Yasunao Tone** — Minim: Part I [Solo For Wounded] (14:17) `isrc:USCRW9721201` `qobuz:87122561`
+- **Pita** — CE3 [Get Out] (7:29) `isrc:ATE690702904` `qobuz:377083343`
+- **Frank Bretschneider** — Kern [In Memory of Mille Plateaux, Vol. 1] (4:58) `isrc:QMBZ92263390` `qobuz:172136991`
+- **SND** — Circa 1509 [In Memory of Mille Plateaux, Vol. 1] (5:03) `isrc:QMBZ92263392` `qobuz:172136992`
+- **Farben** — Raute [textstar+] (7:33) `isrc:DELA22100359` `qobuz:156865487`
+- **Vladislav Delay** — Synkopoint [In Memory of Mille Plateaux, Vol. 1] (10:35) `isrc:QMBZ92263395` `qobuz:172136994`
+- **Pole** — Spaß Rewind [3] (6:29) `isrc:DEPD61100427` `qobuz:54729270`
+- **Pansonic** — Koilinen [In Memory of Mille Plateaux, Vol. 1] (4:31) `isrc:QMBZ92263398` `qobuz:172136996`
+- **Alva Noto** — Prototype 1 [Prototypes] (0:55) `isrc:UK6821719349` `qobuz:93000165`
+- **Skist** — Shift [In Memory of Mille Plateaux, Vol. 1] (5:45) `isrc:QMBZ92263401` `qobuz:172136998`
+- **Stilluppsteypa** — Stilluppsteypa (Confused Bear Thrown Into The Sea) [In Memory of Mille Plateaux, Vol. 1] (2:03) `isrc:QMBZ92263405` `qobuz:172136999`
+- **NEINA** — Clairvoyance [In Memory of Mille Plateaux, Vol. 1] (6:15) `isrc:QMBZ92263407` `qobuz:172137000`
+- **Sutekh** — Unstabile [In Memory of Mille Plateaux, Vol. 1] (7:11) `isrc:QMBZ92263408` `qobuz:172137001`
+- **Curd Duca** — Pop [In Memory of Mille Plateaux, Vol. 1] (1:20) `isrc:QMBZ92263422` `qobuz:172137002`
+- **Ester Brinkmann** — Maschine [In Memory of Mille Plateaux, Vol. 2] (8:01) `isrc:QMBZ92263426` `qobuz:172133933`
+- **Dresden Vocal Concert** — O Come, All Ye Faithful [Fröhliche Weihnacht überall] (4:28) `isrc:DES380842012` `qobuz:44557801`
+- **Detinger** — Strange Fruit [In Memory of Mille Plateaux, Vol. 2] (5:19) `isrc:QMBZ92263428` `qobuz:172133935`
+- **Autopoieses** — These Few Minutes [In Memory of Mille Plateaux, Vol. 2] (4:22) `isrc:QMBZ92263430` `qobuz:172133936`
+- **Jake Mandell** — I Won't Lie [In Memory of Mille Plateaux, Vol. 2] (2:33) `isrc:QMBZ92263433` `qobuz:172133937`
+- **Kit Clayton** — Loads Early Like Normal [In Memory of Mille Plateaux, Vol. 2] (3:50) `isrc:QMBZ92263440` `qobuz:172133938`
+- **Ultra-Red** — Esta Gran Humanidad Ha Dicho (Ya Basta!) [In Memory of Mille Plateaux, Vol. 2] (4:56) `isrc:QMBZ92263442` `qobuz:172133939`
+- **Wolfgang Voigt** — Matrix [In Memory of Mille Plateaux, Vol. 2] (3:15) `isrc:QMBZ92263445` `qobuz:172133940`
+- **Thomas Meinecke´s Framos Waikiki** — Rechannelled From Stereo [In Memory of Mille Plateaux, Vol. 2] (3:48) `isrc:QMBZ92263447` `qobuz:172133941`
+- **Panacea** — Sinecore [In Memory of Mille Plateaux, Vol. 2] (4:49) `isrc:QMBZ92263449` `qobuz:172133942`
+- **Ihan** — Sans Titre No. 2 [In Memory of Mille Plateaux, Vol. 2] (5:01) `isrc:QMBZ92263450` `qobuz:172133943`
+- **Kid 606** — Sonqizzmaster [In Memory of Mille Plateaux, Vol. 2] (6:09) `isrc:QMBZ92263452` `qobuz:172133944`
+- **Goem** — Comp Vier [Comps 1] (6:31) `isrc:NLGJ30901153` `qobuz:76525683`
+- **Andreas Tilliander & Goran Kajfes** — Montes Caucasus [In Cmin] (4:30) `isrc:SE2872500201` `qobuz:397279062`
+- **Hvalfugl** — Tanken Om Irland [En Dag I Oktober] (3:26) `isrc:DKG111700201` `qobuz:269927551`
+- **Girl Ultra** — Tomás [Tomás] (3:02) `isrc:GBCFB2401193` `qobuz:335075555`
+- **Swayzak** — Kensal Rising [Himawari] (4:22) `isrc:GBAAW0009001` `qobuz:13651219`
+- **AtomTM** — Nobody Knows... [Geeez 'n' Gosh/Nobody Knows] (0:37) `isrc:DEVU51703592` `qobuz:53615909`
+- **Daft Punk feat. Paul Williams** — Touch [Random Access Memories] (8:18) `isrc:USQX91300107` `qobuz:9140030`
+- **Dan Abrams** — Academic [Stream] (6:11) `isrc:US23K1400039` `qobuz:17132335`
+- **John Grant** — Marz [Queen of Denmark] (3:58) `isrc:GBBRP1023502` `qobuz:10583528`
+- **Sebastian Mikael** — Exit [Exit] (3:16) `isrc:USAT22004719` `qobuz:100483960`
+- **Bear McCreary** — The Dog Food Factory [Animal Crackers (Music from the Netflix Original Film)] (4:54) `isrc:USQX91800418` `qobuz:58762406`
+- **The Replacements** — You're Pretty When You're Rude [Sorry Ma, Forgot To Take Out The Trash] (2:49) `isrc:USRH12101604` `qobuz:128343720`
+- **Antonelli Electr.** — Lovers Inn [Clicks & Cuts 3] (5:54) `isrc:QM4TW1884611` `qobuz:49923338`
+- **Glebe Town Jazz** — Full Swing [Drive Time Jazz] (1:26) `isrc:QT6FK2511454` `qobuz:374659465`
+- **Thomas Brinkmann** — QUILA 1 [THOMAS BRINKMANN - MAX ERNST 25 ANNIVERSARY] (4:22) `isrc:GBGXG2300811` `qobuz:235115033`
+- **Donnacha Costello** — Dry Retch [Together Is The New Alone] (10:45) `isrc:DEX262100473` `qobuz:136414378`
+- **Zedd** — Clarity [Clarity] (4:31) `isrc:USUM71210662` `qobuz:6468490`
+- **Trentemøller** — An Evening With Bobi Bros [An Evening With Bobi Bros] (7:54) `isrc:GBWDF1004701` `qobuz:83836316`
+- **The Nighttripper** — Tone Explotation [Tone Exploitation] (5:09) `isrc:NLCK41011669` `qobuz:57235733`
+- **Fennesz** — Menthol [Field Recordings (1995-2002)] (3:51) `isrc:GBJYX0516207` `qobuz:56034055`
+- **Keine Zähne Im Maul Aber La Paloma Pfeifen** — Leb so, dass es alle wissen wollen [Postsexuell] (8:04) `isrc:DEOV41200433` `qobuz:49521228`
+- **Taylor Deupree** — Snow/Sand (For Clarinets, Vibraphone, Cello & Percussion) [Sti.ll] (15:58) `isrc:CAN112400842` `qobuz:258636013`
+- **Richard Chartier** — Filer [Other Materials] (7:01) `isrc:US23K0820038` `qobuz:14469569`
+- **Lvbel C5** — nE !? [#1] (1:54) `isrc:FRX282404287` `qobuz:259890556`
+- **Strange Within** — Smoother Than Silk [Strange Within] (4:44) `isrc:DEVL11900716` `qobuz:62964558`
+- **DAT Politics** — People R Inside [Blitz Gazer] (3:17) `isrc:FR6V81266228` `qobuz:7806999`
+- **MR13** — Painkiller [Clicks & Cuts 3] (6:31) `isrc:QM4TW1884596` `qobuz:49923328`
+- **Bizz Circuits** — Grace Under Fire [Clicks & Cuts 3] (6:53) `isrc:QM4TW1884597` `qobuz:49923329`
+- **Rob Acid** — Loving 'Ya [Clicks & Cuts 3] (4:57) `isrc:QM4TW1884601` `qobuz:49923332`
+- **Claudia Bonarelli** — Disarm the Police [Clicks & Cuts 3] (3:41) `isrc:QM4TW1884604` `qobuz:49923333`
+- **BORIS POLONSKI** — Diffuse Daten in 5 Min [Clicks & Cuts 3] (5:13) `isrc:QM4TW1884605` `qobuz:49923334`
+- **Deru** — Migrade [Clicks & Cuts 3] (4:55) `isrc:QM4TW1884610` `qobuz:49923336`
+- **Luomo** — Melt [Clicks & Cuts 3] (9:21) `isrc:QM4TW1884609` `qobuz:49923337`
+- **Donnacha Costello** — Nine Blind Men (The Rankest Poison of Ignorance and Vice) [Clicks & Cuts 3] (3:02) `isrc:QM4TW1884616` `qobuz:49923341`
+- **Rechenzentrum** — Box [Clicks & Cuts 3] (3:55) `isrc:QM4TW1884620` `qobuz:49923342`
+- **Robin Judge** — Rhizome [Clicks & Cuts 3] (5:34) `isrc:QM4TW1884623` `qobuz:49923343`
+- **agf** — Pianos [Click Shower] (5:50) `isrc:QM4TX1821276` `qobuz:50320576`
+- **Tim Hecker** — Brownwedding [Clicks & Cuts 3] (4:51) `isrc:QM4TW1884629` `qobuz:49923345`
+- **Ekkehard Ehlers** — The Bakes in the Wood [Clicks & Cuts 3] (6:06) `isrc:QM4TW1884630` `qobuz:49923346`
+- **Pomassl** — Holcimm Mmic [Clicks & Cuts 3] (5:09) `isrc:QM4TW1884631` `qobuz:49923347`
+- **Frank Elting** — Spoken Word [Clicks & Cuts 4] (6:21) `isrc:DEZ651012041` `qobuz:48557138`
+- **MicroNost** — Got Mad Love [Clicks & Cuts 4] (3:54) `isrc:DEZ651012042` `qobuz:48557139`
+- **Starchboy** — Rangoon [Clicks & Cuts 4] (5:16) `isrc:DEZ651012043` `qobuz:48557140`
+- **Eight Frozen Modules** — Dogsbark People Grow [Clicks & Cuts 4] (5:56) `isrc:DEZ651012044` `qobuz:48557141`
+- **Ran Slavin** — Below [Saal 600] (5:08) `isrc:QM4TW1885701` `qobuz:50346328`
+- **Ido Gouvrin** — Breaking Through the Frequencies [Clicks & Cuts 4] (4:57) `isrc:DEZ651012046` `qobuz:48557143`
+- **Electric Birds** — When I See the Sun [Clicks & Cuts 4] (5:16) `isrc:DEZ651012047` `qobuz:48557144`
+- **Tilman Ehrhorn** — Clear [Clicks & Cuts 4] (6:34) `isrc:DEZ651012048` `qobuz:48557145`
+- **Jay Haze** — Too Good [Clicks & Cuts 4] (5:20) `isrc:DEZ651012049` `qobuz:48557146`
+- **tba** — Trepa N [Clicks & Cuts 4] (2:18) `isrc:DEZ651012052` `qobuz:48557149`
+- **@c** — Int. 6/29 [Clicks & Cuts 4] (4:50) `isrc:DEZ651012053` `qobuz:48557150`
+- **Scattertape** — Shelving A Tempered String (Intro) [Clicks & Cuts 5.0 - Paradigm Shift] (1:00) `isrc:USBRC1000003` `qobuz:76453321`
+- **Aoki Takamasa** — RN4-09 [Clicks & Cuts 5.0 - Paradigm Shift] (5:36) `isrc:USBRC1000023` `qobuz:76453322`
+- **Wyatt Keusch** — Object 02 [Clicks & Cuts 5.0 - Paradigm Shift] (4:26) `isrc:USBRC1000018` `qobuz:76453323`
+- **Loom** — Isolex 03 [Clicks & Cuts 5.0 - Paradigm Shift] (4:01) `isrc:USBRC1000004` `qobuz:76453324`
+- **Ametsub** — Repeatedly [Repeatedly (Helios Remix)] (4:41) `isrc:USBRC1000019` `qobuz:76448724`
+- **kiyo** — Bear In. Warm-Noiz [Clicks & Cuts 5.0 - Paradigm Shift] (3:32) `isrc:USBRC1000005` `qobuz:76453326`
+- **Marow** — e.coli (short) [+ - 0 [Plus Minus Null]] (4:10) `isrc:USBRC1100089` `qobuz:4404312`
+- **Manathol** — BAKETO [Clicks & Cuts 5.0 - Paradigm Shift] (4:18) `isrc:USBRC1000007` `qobuz:76453328`
+- **Kabutogani** — CXEMA [Clicks & Cuts 5.0 - Paradigm Shift] (3:48) `isrc:USBRC1000054` `qobuz:76453329`
+- **Nicolaus** — Inner [Clicks & Cuts 5.0 - Paradigm Shift] (5:28) `isrc:USBRC1000008` `qobuz:76453330`
+- **Sifa Dias** — Eitec Aa [Clicks & Cuts 5.0 - Paradigm Shift] (3:14) `isrc:USBRC1000009` `qobuz:76453331`
+- **Klive** — Panacea [Sweaty Psalms] (2:55) `isrc:USBRC1000048` `qobuz:76472943`
+- **Gultskra Artikler** — w [Qwerty] (4:01) `isrc:USBRC1001392` `qobuz:76459125`
+- **Yu Miyashita** — Scrypt [Noble Niche] (3:44) `isrc:USBRC1001358` `qobuz:76444057`
+- **Alinoe** — Il (Outro) [Clicks & Cuts 5.0 - Paradigm Shift] (1:24) `isrc:USBRC1000015` `qobuz:76453335`
+- **Lodsb** — Eve [Clicks & Cuts 5.1 - Paradigm Shift (The Bonus Package Version)] (4:25) `isrc:USBRC1000016` `qobuz:76450153`
+- **Rimacona** — Message [Clicks & Cuts 5.1 - Paradigm Shift (The Bonus Package Version)] (5:38) `isrc:USBRC1000017` `qobuz:76450154`
+- **Pleq** — Do You Ever Remember Your Dreams [Clicks & Cuts 5.1 - Paradigm Shift (The Bonus Package Version)] (4:19) `isrc:USBRC1000010` `qobuz:76450155`
+- **Damián L. Felitte** — Bits [Clicks & Cuts 5.1 - Paradigm Shift (The Bonus Package Version)] (3:53) `isrc:USBRC1000014` `qobuz:76450156`
+- **Rashad Becker** — Dances IV [Traditional Music of Notional Species Vol. I] (4:13) `isrc:DEX260991878` `qobuz:30143091`
+- **Kim Cascone** — Vortex Shedding (Simplex) [Cathodeflower] (5:34) `isrc:QMFMF1526919` `qobuz:33038838`

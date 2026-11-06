@@ -1,0 +1,108 @@
+# Genre: Art Noise Rock
+
+Imported genre playlist: Art Noise Rock.
+
+Services: `qobuz:66737181`
+
+## Tracks (100)
+
+- **The Red Krayola** — Hurricane Fighter Plane [The Parable Of Arable Land / God Bless The Red Krayola And All Who Sail With It Vol. 1] (3:31) `isrc:USFB20607806` `qobuz:2238321`
+- **The Velvet Underground** — Sister Ray [White Light / White Heat] (17:31) `isrc:USPR36805196` `qobuz:52482732`
+- **The Stooges** — L.A. Blues [Funhouse] (4:53) `isrc:USEW10000340` `qobuz:15765090`
+- **Suicide** — Ghost Rider [Suicide] (2:33) `isrc:GB5KW1602342` `qobuz:385321151`
+- **Pere Ubu** — Final Solution [Terminal Tower] (4:58) `isrc:GBCKK1837903` `qobuz:194592655`
+- **Theoretical Girls** — You Got Me [Out Of Their Mouths: An Atavistic Compilation] (3:53) `isrc:USY251514505` `qobuz:26509632`
+- **Teenage Jesus And The Jerks** — The Closet [B. Loves Ze] (2:54) `isrc:FR6T50300106` `qobuz:67963189`
+- **DNA** — Blonde Redhead ["Fame" Jon Savage's Secret History of Post-Punk 1978-81] (1:50) `isrc:GBCT11200010` `qobuz:97304275`
+- **Mars** — 11,000 Volts [78+] (3:29) `isrc:USA370618522` `qobuz:26736680`
+- **Public Image Ltd.** — Careering [Metal Box] (4:32) `isrc:GBAAA7900232` `qobuz:4620955`
+- **The Pop Group** — She Is Beyond Good And Evil [She Is Beyond Good And Evil / 3:38] (3:22) `isrc:UK8DN1700042` `qobuz:66352398`
+- **Chrome** — Chromosome Damage [Alien Soundtracks] (3:50) `isrc:USA560682776` `qobuz:51034917`
+- **James Chance & The Contortions** — Contort Yourself [Buy] (4:25) `isrc:FR6T50400805` `qobuz:67939539`
+- **Notekillers** — The Zipper [Notekillers (1977-1981)] (4:23) `isrc:USAY70800105` `qobuz:75631375`
+- **Sonic Youth** — Death Valley '69 (W/ Lydia Lunch) [Bad Moon Rising] (5:22) `isrc:USGF19980911` `qobuz:136994772`
+- **Half Japanese** — No Direct Line from My Brain to My Heart [Half Gentlemen Not Beasts] (2:00) `isrc:GBCKK1329501` `qobuz:194668901`
+- **Glenn Branca** — The Spectacular Commodity [The Ascension] (12:38) `isrc:US22N0420202` `qobuz:156380754`
+- **The Birthday Party** — She's Hit [Junkyard] (6:05) `isrc:GBAFL8200047` `qobuz:58599191`
+- **Flipper** — Sex Bomb [Album - Generic Flipper] (7:48) `isrc:USSM18100742` `qobuz:54721467`
+- **Swans** — Stay Here [Filth] (5:35) `isrc:USA3T0400231` `qobuz:42702777`
+- **No Trend** — Reality Breakdown [Too Many Humans/Teen Love] (4:00) `isrc:US58L2075403` `qobuz:85046388`
+- **Einstürzende Neubauten** — Yü-gung [Halber Mensch] (7:14) `isrc:GBEEL8550002` `qobuz:54402828`
+- **Live Skull** — Sparky [Bringing Home The Bait] (3:50) `isrc:FR5R00902841` `qobuz:9271516`
+- **Big Black** — Kerosene [Atomizer (Remastered)] (6:03) `isrc:USTG31409304` `qobuz:32621490`
+- **Scratch Acid** — Cannibal [S/T EP] (2:24) `isrc:USTG32438201` `qobuz:316531352`
+- **Pussy Galore** — Tumbling Dice [Exile On Main St.] (4:16) `isrc:GX3HH2364255` `qobuz:223750295`
+- **Butthole Surfers** — Graveyard [Locust Abortion Technician] (2:24) `isrc:USMTD2300579` `qobuz:271773211`
+- **Koyaanisqatsi** — Coś Każe [Element Zbrodni] (2:35) `isrc:GX38U2219593` `qobuz:144417530`
+- **Killdozer** — The Puppy [Little Baby Buntin'] (3:41) `isrc:USTG38702602` `qobuz:32666887`
+- **The Young Gods** — Envoyé [The Young Gods] (2:14) `isrc:CH4931200049` `qobuz:134775295`
+- **Ministry** — Stigmata (Update Mix) [Land of Rape and Honey] (5:44) `isrc:USWB19902808` `qobuz:19124608`
+- **Sonic Youth** — Silver Rocket (Album Version) [Daydream Nation (Remastered Original Album)] (3:47) `isrc:TCABF1244267` `qobuz:144269864`
+- **Lorna Shore** — Pain Remains III: In a Sea of Fire [Pain Remains] (9:11) `isrc:GBDHC2334010` `qobuz:163809392`
+- **Godflesh** — Like Rats [Streetcleaner] (4:28) `isrc:GBBPB0401316` `qobuz:20095956`
+- **Barton Hartshorn** — Something This Bright Should Explode [I Died of Boredom and Came Back as Me] (4:10) `isrc:FR9W11722641` `qobuz:46959780`
+- **Royal Trux** — Solid Gold Tooth [Twin Infinitives] (2:19) `isrc:USFP71866001` `qobuz:211729368`
+- **Cop Shoot Cop** — Room 429 [Ask Questions Later] (5:08) `isrc:QMFMG1428835` `qobuz:51036190`
+- **The Jesus Lizard** — Mouth Breather [Goat] (2:16) `isrc:USTG30946802` `qobuz:32675748`
+- **Helmet** — In The Meantime [Meantime] (3:08) `isrc:USIR19200541` `qobuz:3898892`
+- **Oneohtrix Point Never** — Measuring Ruins [Tranquilizer] (3:04) `isrc:GBBPW2502035` `qobuz:365181725`
+- **Zeni Geva** — Desire For Agony [Desire for Agony] (2:42) `isrc:US2B20413503` `qobuz:52226016`
+- **Cherubs** — Stag Party [Heroin Man] (3:14) `isrc:TCABU1421917` `qobuz:199646834`
+- **Unwound** — Entirely Different Matters [Rat Conspiracy] (2:03) `isrc:USCW61201023` `qobuz:20431251`
+- **Drive Like Jehu** — Luau [Yank Crime] (9:27) `isrc:US2850411504` `qobuz:18560903`
+- **Brainiac** — Vincent Come On Down [From Dayton Ohio] (2:39) `isrc:USTG32137418` `qobuz:125419777`
+- **Harry Connick Jr.** — Sleigh Ride [When My Heart Finds Christmas] (3:40) `isrc:USSM19300118` `qobuz:29289`
+- **Blonde Redhead** — Oda a Coda [The Shadow Of The Guest] (2:05) `isrc:USBQU2500075` `qobuz:331614836`
+- **Oxbow** — Over (Live) [An Eternal Reminder of Not Today - Live at Moers (Live)] (10:23) `isrc:ATD412127005` `qobuz:167603205`
+- **Shellac** — Prayer To God [1000 Hurts] (2:51) `isrc:USTG30021101` `qobuz:32673994`
+- **Washed Out** — Hard To Say Goodbye [Mister Mellow] (4:12) `isrc:US2S71787006` `qobuz:122272104`
+- **Mclusky** — Lightsabre Cocksucking Blues [Mclusky Do Dallas] (1:51) `isrc:GBBNZ0100074` `qobuz:26360425`
+- **Hella** — Biblical Violence [Hold Your Horse Is] (3:03) `isrc:USKRS0301802` `qobuz:73670662`
+- **Melt-Banana** — Shield for Your Eyes, A Beast in the Well on Your Hand [Cell-Scape] (4:02) `isrc:US36X0400002` `qobuz:24295190`
+- **Slawek Pezda** — Dracula Mountain [The Flash! With Dustin Carlson] (4:53) `isrc:SKA922003105` `qobuz:111009562`
+- **Erase Errata** — Another Genius Idea From Our Government [Night Life] (1:59) `isrc:USKRS0646403` `qobuz:73674081`
+- **Black Eyes** — A Pack Of Wolves [Black Eyes] (2:02) `isrc:US35U0413502` `qobuz:159949562`
+- **The Blood Brothers** — Love Rhymes With Hideous Car Wreck [Crimes] (3:14) `isrc:USVT10400148` `qobuz:77659425`
+- **Ooioo** — 5002 [OOIOO] (3:22) `isrc:USKRS0331701` `qobuz:73674783`
+- **Xiu Xiu** — I Luv the Valley OH! [Fabulous Muscles] (2:59) `isrc:USKRS0403102` `qobuz:73670905`
+- **Deerhoof** — Milk Man [Milk Man] (4:23) `isrc:USKRS0340601` `qobuz:163342537`
+- **Death From Above 1979** — Romantic Rights [You're A Woman, I'm A Machine (DMD)] (3:15) `isrc:CAL450490202` `qobuz:15232823`
+- **Black Dice** — Smiling Off [Smiling Off] (9:24) `isrc:US4GE0500071` `qobuz:1940542`
+- **Boris Way** — Pink Soldiers [Pink Soldiers] (2:15) `isrc:TCAFW2122738` `qobuz:135610168`
+- **Liars** — Plaster Casts of Everything [Liars] (3:56) `isrc:GBAJH0700432` `qobuz:5999845`
+- **Teen Creeps** — No-Show [No-Show] (3:17) `isrc:BEP012580004` `qobuz:331718123`
+- **Monotonix** — Body Language [Body Language] (4:15) `isrc:US58L0836103` `qobuz:48465007`
+- **A Place To Bury Strangers** — To Fix the Gash in Your Head [A Place to Bury Strangers] (3:51) `isrc:USTC30721684` `qobuz:125315430`
+- **Sheng** — GIRLS CLUBBING / BOYS BORING 闲男辣女 [J'SUIS (TJR) PAS CELLE 仍非你所想] (2:34) `isrc:FR8O22500370` `qobuz:367301467`
+- **Women** — Eyesore [Public Strain] (6:25) `isrc:US38Y1015211` `qobuz:2307233`
+- **Kowloon Walled City** — The Pressure Keeps Me Alive [Container Ships] (5:05) `isrc:USWC21200107` `qobuz:81515644`
+- **Ken Mode** — Blessed [Success] (5:51) `isrc:FR33T1535701` `qobuz:77787199`
+- **Open Mike Eagle** — Legendary Iron Hood [Brick Body Kids Still Daydream] (3:47) `isrc:QM6N21748177` `qobuz:274761426`
+- **Savages** — Husbands [Silence Yourself] (2:50) `isrc:USMTD1303567` `qobuz:105455203`
+- **Perfect Pussy** — Driver [Say Yes To Love] (2:16) `isrc:QMMZN1300546` `qobuz:20787022`
+- **Iceage** — The Lord's Favorite [Plowing Into the Field of Love] (3:49) `isrc:USMTD1405296` `qobuz:19751253`
+- **Gnod** — Bodies For Money [JUST SAY NO TO THE PSYCHO RIGHT-WING CAPITALIST FASCIST INDUSTRIAL DEATH MACHINE] (5:46) `isrc:UK2SX1731301` `qobuz:237829519`
+- **Gilla Band** — Paul [Holding Hands with Jamie] (6:53) `isrc:GBCVZ1500062` `qobuz:27131715`
+- **Health** — Die Slow [Get Color] (3:12) `isrc:USSET0900138` `qobuz:243059785`
+- **USA Nails** — I Don't Own Anything [Character Stop] (1:20) `isrc:USY252017491` `qobuz:98093724`
+- **Viet Cong** — Continental Shelf [Viet Cong] (3:18) `isrc:US38Y1526005` `qobuz:22091710`
+- **Pile** — The Soft Hands of Stephen Miller [Green and Gray] (2:05) `isrc:USA2B1900544` `qobuz:72890366`
+- **Big Brave** — Holding Pattern [A Gaze Among Them] (9:41) `isrc:USZPA0901738` `qobuz:77200175`
+- **Whores** — Imposter Syndrome [War.] (4:04) `isrc:TCAGB2298781` `qobuz:261717455`
+- **Show Me the Body** — Spit [Spit] (4:00) `isrc:USC4R1702103` `qobuz:342390414`
+- **Big Ups** — Goes Black [Eighteen Hours of Static] (2:21) `isrc:USKGR1300002` `qobuz:77390109`
+- **Guerilla Toss** — Can I Get the Real Stuff [GT Ultra] (2:57) `isrc:US4GE1600080` `qobuz:234449856`
+- **Protomartyr** — A Private Understanding [Relatives In Descent] (5:18) `isrc:GBCEL1700314` `qobuz:43673992`
+- **Daughters of St. Paul** — The Virgin Mary Had a Baby Boy [Christmas Favorites] (4:21) `isrc:USHM91214517` `qobuz:72558017`
+- **FACS** — When You Say [Still Life In Decay] (5:38) `isrc:QMXQJ2317702` `qobuz:193800584`
+- **Gouge Away** — Only Friend [Burnt Sugar] (1:48) `isrc:QZ22D1800085` `qobuz:72966594`
+- **Sprain** — Man Proposes, God Disposes [The Lamb as Effigy] (7:09) `isrc:USA2Z2201370` `qobuz:213788773`
+- **Death In June** — To Drown a Rose [Brown Book] (4:26) `isrc:USI4R1014132` `qobuz:48311877`
+- **Uniform** — Life in Remission [Shame] (4:25) `isrc:US5NR2025803` `qobuz:95858109`
+- **black midi** — John L [Cavalcade] (5:13) `isrc:GBCVZ2000251` `qobuz:119702680`
+- **The Armed** — AN ITERATION [ULTRAPOP] (2:53) `isrc:USA2P1950625` `qobuz:330293018`
+- **Chat Pile** — Why [God's Country] (3:31) `isrc:USA2Z2100903` `qobuz:154544758`
+- **DITZ** — The Warden [The Great Regression] (2:36) `isrc:GBZ522123515` `qobuz:144612948`
+- **Model/Actriz** — Mosquito [Dogsbody] (3:12) `isrc:QZVM32200035` `qobuz:350458826`
+- **Mandy, Indiana** — Pinking Shears [i've seen a way] (2:32) `isrc:USA2B2213593` `qobuz:190785747`
+- **Kim Gordon** — BYE BYE [The Collective] (4:14) `isrc:USMTD2300380` `qobuz:244968161`

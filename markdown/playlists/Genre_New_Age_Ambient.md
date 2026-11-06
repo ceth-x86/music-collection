@@ -1,0 +1,108 @@
+# Genre: New Age Ambient
+
+Imported genre playlist: New Age Ambient.
+
+Services: `qobuz:66712413` `tidal:6446fd31-5777-415e-a451-5c886a153550`
+
+## Tracks (100)
+
+- **Iasos** — Lueena Coast [Inter-Dimensional Music] (4:12) `isrc:USCGJ0639907` `qobuz:78435271`
+- **Steven Halpern** — 1st Chakra: Keynote C [Music For Sound Healing 2.0 (Remastered)] (2:31) `isrc:US2V98108004` `qobuz:41731660`
+- **Dante Montoya** — Bilder des Südens for Flute, Basset Horn, Harp, Piano, Violin, Viola and Violoncello After Pictures by Paul Klee: No. 1, Garten im Orient [Mittmann: Inner Worlds] (3:31) `isrc:DEA142328504` `qobuz:210127617`
+- **William Ackerman** — The Bricklayer's Beautiful Daughter [Returning] (4:18) `isrc:USM440400001` `qobuz:99511257`
+- **Constance Demby** — Om Mani Padme Hum [Skies Above Skies] (9:57) `isrc:USHM80774262` `qobuz:73054301`
+- **Georgia Kelly** — Seapeace [Seapeace] (9:10) `isrc:USCGH0861865` `qobuz:76599902`
+- **Laraaji** — Bethlehem (Glimpse) [Glimpses of Infinity] (5:50) `isrc:USCW62291201` `qobuz:260942398`
+- **Deuter** — Wings of Love [Ecstasy] (7:17) `isrc:DEA747900088` `qobuz:77520319`
+- **Don Slepian** — Sea of Bliss [Sea of Bliss] (29:32) `isrc:USL4R0751034` `qobuz:28034167`
+- **Makin Vibes** — Foreign Landscape [Foreign Landscape] (2:06) `isrc:QT6EB2693415` `qobuz:429388177`
+- **Kitaro** — Michi [The Ultimate Kitaro Collection: Silk Road Journey] (7:46) `isrc:USDO10300030` `qobuz:6333496`
+- **JD Emmanuel** — Rain Forest Music [Rain Forest Music] (22:01) `isrc:GX8KD2360980` `qobuz:199175708`
+- **Joanna Brouk** — Going Through the Veil - Becoming a Swan [Hearing Music] (14:41) `isrc:USCW61606901` `qobuz:31266471`
+- **Thomas David** — Seascape [Lovely Day/Timeless] (17:36) `isrc:USHOM9401049` `qobuz:4602131`
+- **George Winston** — Thanksgiving [December] (4:08) `isrc:USWH18201021` `qobuz:243389728`
+- **Suzanne Ciani** — The Seventh Wave - Sailing Away [Seven Waves] (6:36) `isrc:USHM90466049` `qobuz:70881100`
+- **Liz Story** — Wedding Rain [Solid Colors] (5:46) `isrc:USWH18301011` `qobuz:13425357`
+- **Mark Isham** — In the Blue Distance [A Windham Hill Retrospective] (4:05) `isrc:USWH19800780` `qobuz:223232`
+- **Andreas Vollenweider** — The White Winds / The White Boat (First View) [White Winds] (1:50) `isrc:FR96X2094203` `qobuz:98883212`
+- **Michael Hedges** — Aerial Boundaries [Aerial Boundaries] (4:40) `isrc:USWH18401010` `qobuz:217295`
+- **Shadowfax** — The Dreams Of Children [Pure] (4:54) `isrc:USWH18401004` `qobuz:369331`
+- **Steve Roach** — Structures from Silence [Structures from Silence (Deluxe)] (28:40) `isrc:USHK92441603` `qobuz:247506239`
+- **Nits** — House Of The Sleeping Beauties [Giant Normal Dwarf] (4:06) `isrc:NLD019001013` `qobuz:18016104`
+- **Patrick O'Hearn** — Ancient Dreams [Ancient Dreams] (6:07) `isrc:USPM18601063` `qobuz:264389492`
+- **Michael Gettel** — Sucia/Shallow Bay [San Juan Suite / San Juan Suite II: Piano Passages] (9:53) `isrc:USNA19810501` `qobuz:58852086`
+- **Ray Lynch** — Celestial Soda Pop / Ray Lynch [Deep Breakfast] (4:42) `isrc:USAUQ0500007` `qobuz:73896664`
+- **Avicii -** — Wake Me Up [Fun In The Sun] (4:05) `isrc:SEUM71301326` `qobuz:169559612`
+- **David Arkenstone** — Valley In The Clouds [Valley In The Clouds] (3:35) `isrc:USNA18713924` `qobuz:2487083`
+- **Synergy** — North River [Metropolitan Suite] (1:20) `isrc:USSY18600060` `qobuz:195730359`
+- **Nightnoise** — Something Of Time [Something Of Time] (3:06) `isrc:USWH18501102` `qobuz:221675`
+- **Teja Bell** — WindSurfer [Dolphin Smiles] (4:31) `isrc:QZMV62000001` `qobuz:139675558`
+- **Cusco** — Apurimac [Apurimac] (3:43) `isrc:FR59R1654237` `qobuz:34173752`
+- **David Lanz** — Cristofori's Dream [Cristofori's Dream] (6:08) `isrc:USNA19815436` `qobuz:2487360`
+- **Roberto Cacciapaglia** — Ancient Evenings [Quarto tempo] (2:54) `isrc:ITQME1700011` `qobuz:44385946`
+- **Michael Jones** — After The Rain [After The Rain] (13:21) `isrc:USNA18813662` `qobuz:1946652`
+- **Little Feat** — Spanish Moon [Feats Don't Fail Me Now] (3:05) `isrc:USWB10804613` `qobuz:11717534`
+- **Forrest Fang** — Amelia [The Wolf at the Ruins / Migration] (3:01) `isrc:USHK91329004` `qobuz:23573733`
+- **Michael Shrieve** — The Invisible Architect [The Big Picture] (5:46) `isrc:DEA748930162` `qobuz:77512804`
+- **Wayne Gratz** — Rain On The Pond [Reminiscence] (5:18) `isrc:USNA18914863` `qobuz:786445`
+- **Chris Spheeris** — Eros [Best of Chris Spheeris 1990-2000] (5:30) `isrc:USCGH1030276` `qobuz:107925828`
+- **Enigma** — Sadeness [The Platinum Collection] (4:20) `isrc:DEG129000013` `qobuz:1752657`
+- **Ottmar Liebert** — Barcelona Nights [Barcelona Nights: The Best Of Ottmar Liebert Volume One] (4:06) `isrc:USHOM9000003` `qobuz:1069408`
+- **The Beautiful South** — Let Love Speak Up Itself [Carry On Up The Charts] (4:18) `isrc:GBAQT9000006` `qobuz:627479`
+- **Enya** — Caribbean Blue (2009 Remaster) [Shepherd Moons] (3:58) `isrc:GBAHT0900019` `qobuz:2977054`
+- **Mychael Danna** — Sirens [Sirens] (4:31) `isrc:USAKS0601131` `qobuz:242923121`
+- **Deep Forest** — Sweet Lullaby [Deep Forest] (4:06) `isrc:FR54W9200002` `qobuz:183188789`
+- **Vangelis** — Conquest of Paradise [1492] (4:38) `isrc:GBAHS0200210` `qobuz:3511045`
+- **Yanni** — Santorini [Yanni - Live at the Acropolis - 25th Anniversary Deluxe Edition] (6:57) `isrc:USSM11806922` `qobuz:53774391`
+- **Anugama** — Shamanic Dream [Shamanic Dream] (30:04) `isrc:USOSM0010901` `qobuz:135405373`
+- **David Darling** — Sweet River [8-String Religion] (7:00) `isrc:USWOR0123203` `qobuz:200574046`
+- **R. Carlos Nakai** — Shaman's Call [Earth Spirit] (2:56) `isrc:US8640561201` `qobuz:72902918`
+- **Thom Brennan** — Mountains [Mountains] (27:00) `isrc:USHM90598444` `qobuz:108220098`
+- **Jim Chappell** — Dusk [The Best of Jim Chappell] (4:53) `isrc:USHM81739086` `qobuz:79779846`
+- **Loreena McKennitt** — The Mystic's Dream [The Mask and Mirror] (7:43) `isrc:CAQ110410501` `qobuz:326467591`
+- **Nicholas Gunn** — This Place In Time [This Place In Time] (3:46) `isrc:QMNS92603921` `qobuz:411939383`
+- **Sacred Spirit** — Yeha-Noha (Wishes Of Happiness And Prosperity) [Yeha-Noha (Wishes Of Happiness And Prosperity)] (4:31) `isrc:GBAAA9400665` `qobuz:3510813`
+- **Karl Jenkins** — Adiemus [Adiemus - Songs Of Sanctuary] (3:57) `isrc:GBAAA9500006` `qobuz:57490484`
+- **Bill Douglas** — Circle of Moons [Circle of Moons] (4:10) `isrc:USAKS0600176` `qobuz:242943442`
+- **Karunesh** — Call Of The Tribes [Mystic Karma Lounge] (4:36) `isrc:NLA930601528` `qobuz:74348274`
+- **Peter Buffett** — An Eagle Above [Spirit Dance] (5:56) `isrc:USHR19505103` `qobuz:54864362`
+- **Secret Garden** — Nocturne [Songs From A Secret Garden] (3:13) `isrc:NOACM9502020` `qobuz:50089510`
+- **ERA** — Ameno [Era I] (3:46) `isrc:NLB789680090` `qobuz:3878570`
+- **Jeff Johnson** — Greensleeves [Under the Wonder Sky] (3:43) `isrc:USA2S1021401` `qobuz:79437324`
+- **Liquid Mind** — Dream Messenger [Liquid Mind III: Balance] (13:49) `isrc:US2630400011` `qobuz:307669803`
+- **Jean-Michel Jarre** — Zero Gravity [OVNI (Bande Originale de la Série)] (7:19) `isrc:UK9LA1400123` `qobuz:111874532`
+- **Dean Evenson** — Tantra Love from "ASCENSION TO TIBET" [Peace Through Music (40th Anniversary Collection)] (3:14) `isrc:USSP81922917` `qobuz:73616588`
+- **Delerium** — Silence [Silence] (4:34) `isrc:BE5KW2500717` `qobuz:333987215`
+- **Medwyn Goodall** — Medicine Woman [Medicine Woman] (5:43) `isrc:QM6P41496630` `qobuz:79557014`
+- **Michael Hoppé** — Lilies on the Lake [The Yearning-Romances for Alto Flute] (3:56) `isrc:DEB379300860` `qobuz:356439556`
+- **Reiki Ensemble** — Hemelse Gloed [Muziek Voor Meditatie En Ontspanning] (7:33) `isrc:USV351334016` `qobuz:71674775`
+- **Llewellyn** — 432 Hz Solfeggio Frequency Deep Sleep & Insomnia Support [Solfeggio Gold - A Healing Journey Through 11 Frequencies] (2:51) `isrc:QMFME2533154` `qobuz:358541489`
+- **Kevin Mahogany** — Lush Life [My Romance] (3:56) `isrc:USWB19800571` `qobuz:2840751`
+- **Tim Janis** — Water's Edge [Water's Edge] (2:45) `isrc:USX9P1072550` `qobuz:93916200`
+- **Michael Whalen** — The Space Between Hours [Standing Near Infinity] (5:44) `isrc:QM6MZ2628844` `qobuz:399190254`
+- **Amethystium** — Opaque [Odonata - 20th Anniversary Edition] (4:43) `isrc:NO2WT2008010` `qobuz:101945236`
+- **Yiruma** — Kiss the Rain [The Best - Reminiscent 10th Anniversary] (5:00) `isrc:KRA031103196` `qobuz:4621140`
+- **David Tolk** — Grace [Grace] (3:13) `isrc:USCGH0821858` `qobuz:72824741`
+- **Paul Cardall** — Gracie's Theme [Sacred Piano] (4:19) `isrc:USHM80945612` `qobuz:244123567`
+- **Ludovico Einaudi** — Einaudi: Nuvole Bianche [Una Mattina] (5:57) `isrc:ITB280400109` `qobuz:4133565`
+- **Brian Crain** — Butterfly Waltz [Piano and Cello Duet] (3:43) `isrc:USHM80609605` `qobuz:68695531`
+- **Max Richter** — Richter: On the Nature of Daylight [The Blue Notebooks] (6:11) `isrc:GBDCA0300279` `qobuz:48435670`
+- **Chris Kaltsas** — Secret Journey [Secret Journey] (3:17) `isrc:GX8LE2575770` `qobuz:326975491`
+- **David Nevue** — No More Tears [The Last Waking Moment] (4:09) `isrc:USHM20496845` `qobuz:84098403`
+- **Marconi Union** — Weightless [Weightless (Ambient Transmissions Vol. 2)] (8:03) `isrc:GBDDN1200510` `qobuz:151537428`
+- **Kaitlyn Aurelia Smith** — An Intention [The Kid] (4:01) `isrc:US78L1717002` `qobuz:42008451`
+- **Moby** — LA1 [Long Ambients 1: Calm. Sleep] (20:50) `isrc:GB3AD1500019` `qobuz:172104441`
+- **Scott Buckley** — Pigstep [AvM Shorts Season 3 (Original Soundtrack)] (6:06) `isrc:AUZVV2400010` `qobuz:269834468`
+- **Peder B. Helland** — Flying [Flying] (30:02) `isrc:QMPKX1793941` `qobuz:128532505`
+- **Ólafur Arnalds** — re:member [re:member] (6:04) `isrc:GBBBA1800070` `qobuz:50227789`
+- **Hania Rani** — Eden [Esja] (4:55) `isrc:GBVTB1930001` `qobuz:127466252`
+- **Peter Kater** — Wings Of Love [Wings] (5:10) `isrc:QM6P41966256` `qobuz:74577796`
+- **Stewart Copeland** — Wonders Of Life [Divine Tides] (4:15) `isrc:ITC492100070` `qobuz:124645365`
+- **Laura Sullivan** — Pieces of Forever (Prelude) [Pieces of Forever] (1:30) `isrc:TCAFN2165660` `qobuz:350799400`
+- **Opium Moon** — Opium Moon: Day [Opium Moon: Day + Night] (8:19) `isrc:USA2P2103218` `qobuz:114341658`
+- **André 3000** — I swear, I Really Wanted To Make A "Rap" Album But This Is Literally The Way The Wind Blew Me This Time [New Blue Sun] (12:20) `isrc:USSM12305448` `qobuz:235936746`
+- **Paul Avgerinos** — The Joy of Gratitude [Gratitude Joy 2] (12:05) `isrc:US62E2000023` `qobuz:92754337`
+- **White Sun** — You Walked Away [Mystic Mirror] (3:23) `isrc:TCAGM2251475` `qobuz:230518973`
+- **Carla Patullo** — So She Howls (feat. Leah Coloff & Tonality) [So She Howls] (2:54) `isrc:USHM82378819` `qobuz:218522262`
+- **Kirsten Agresta Copely** — Aquamarine [Aquamarine] (4:50) `isrc:AUMEV2359355` `qobuz:286413185`
+- **Wouter Kellerman** — Chant in A [Triveni] (6:38) `isrc:ZAC032410771` `qobuz:286445317`

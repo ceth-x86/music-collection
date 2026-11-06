@@ -1,0 +1,1010 @@
+{
+  "name": "Genre: Electro IDM",
+  "services": {
+    "qobuz": "66717334",
+    "tidal": "5d5cef44-accb-4d4f-8bda-967324dfcee0"
+  },
+  "description": "Imported genre playlist: Electro IDM.",
+  "tracks": [
+    {
+      "artist": "The Dice Man",
+      "title": "Polygon Window",
+      "services": {
+        "qobuz": "79173707"
+      },
+      "album": "Artificial Intelligence",
+      "duration": 312,
+      "isrc": "GBBPW9200030"
+    },
+    {
+      "artist": "I.A.O",
+      "title": "The Clan",
+      "services": {
+        "qobuz": "79173710"
+      },
+      "album": "Artificial Intelligence",
+      "duration": 307,
+      "isrc": "GBBPW9200033"
+    },
+    {
+      "artist": "Plastikman",
+      "title": "Spiritual High",
+      "services": {
+        "qobuz": "79173713"
+      },
+      "album": "Artificial Intelligence",
+      "duration": 462,
+      "isrc": "GBBPW9200036"
+    },
+    {
+      "artist": "Dr Alex Paterson",
+      "title": "Loving You Live",
+      "services": {
+        "qobuz": "79173716"
+      },
+      "album": "Artificial Intelligence",
+      "duration": 240,
+      "isrc": "GBBPW9200039"
+    },
+    {
+      "artist": "Mark Franklin",
+      "title": "Release To The System",
+      "services": {
+        "qobuz": "198411706"
+      },
+      "album": "Artificial Intelligence II",
+      "duration": 517,
+      "isrc": "GBBPW9400079"
+    },
+    {
+      "artist": "The Higher Intelligence Agency",
+      "title": "Selenite",
+      "services": {
+        "qobuz": "198411707"
+      },
+      "album": "Artificial Intelligence II",
+      "duration": 421,
+      "isrc": "GBBPW9400080"
+    },
+    {
+      "artist": "Link",
+      "title": "Arcadian",
+      "services": {
+        "qobuz": "198411708"
+      },
+      "album": "Artificial Intelligence II",
+      "duration": 572,
+      "isrc": "GBBPW9400081"
+    },
+    {
+      "artist": "B12",
+      "title": "Scriptures",
+      "services": {
+        "qobuz": "79176800"
+      },
+      "album": "Time Tourist",
+      "duration": 418,
+      "isrc": "GBBPW9400082"
+    },
+    {
+      "artist": "Autechre",
+      "title": "Chatter",
+      "services": {
+        "qobuz": "198411710"
+      },
+      "album": "Artificial Intelligence II",
+      "duration": 456,
+      "isrc": "GBBPW9400083"
+    },
+    {
+      "artist": "Speedy j",
+      "title": "Symmetry",
+      "services": {
+        "qobuz": "198411711"
+      },
+      "album": "Artificial Intelligence II",
+      "duration": 367,
+      "isrc": "GBBPW9400084"
+    },
+    {
+      "artist": "Beaumont Hannant",
+      "title": "Utuba",
+      "services": {
+        "qobuz": "198411712"
+      },
+      "album": "Artificial Intelligence II",
+      "duration": 492,
+      "isrc": "GBBPW9400085"
+    },
+    {
+      "artist": "Richard H. Kirk",
+      "title": "Reality Net",
+      "services": {
+        "qobuz": "198411713"
+      },
+      "album": "Artificial Intelligence II",
+      "duration": 407,
+      "isrc": "GBBPW9400086"
+    },
+    {
+      "artist": "Balil",
+      "title": "Parasight",
+      "services": {
+        "qobuz": "198411714"
+      },
+      "album": "Artificial Intelligence II",
+      "duration": 453,
+      "isrc": "GBBPW9400087"
+    },
+    {
+      "artist": "Seefeel",
+      "title": "Spangle",
+      "services": {
+        "qobuz": "121293213"
+      },
+      "album": "St / Fr / Sp",
+      "duration": 441,
+      "isrc": "GBBPW9400061"
+    },
+    {
+      "artist": "Darrel Fitton",
+      "title": "Blipsalt",
+      "services": {
+        "qobuz": "198411716"
+      },
+      "album": "Artificial Intelligence II",
+      "duration": 582,
+      "isrc": "GBBPW9400088"
+    },
+    {
+      "artist": "Kenny Larkin",
+      "title": "Maritime",
+      "services": {
+        "qobuz": "198411718"
+      },
+      "album": "Artificial Intelligence II",
+      "duration": 397,
+      "isrc": "GBBPW9400090"
+    },
+    {
+      "artist": "R2",
+      "title": "SCANNER",
+      "services": {
+        "qobuz": "297868428"
+      },
+      "album": "SCANNER",
+      "duration": 129,
+      "isrc": "FR9W12454895"
+    },
+    {
+      "artist": "Hille Perl",
+      "title": "The Baggepipes (Sir Charles Howards delight)",
+      "services": {
+        "qobuz": "303591188"
+      },
+      "album": "Chamber Music - Ford, T. / Jenkins, J. / Danyel, J. / Ferrabosco Ii, A. / Holborne, A. / Allison, R. / Lawes, W.",
+      "duration": 83,
+      "isrc": "DECP60803004"
+    },
+    {
+      "artist": "Loopdrop",
+      "title": "Mis Canicas",
+      "services": {
+        "qobuz": "74602604"
+      },
+      "album": "Loopdrop",
+      "duration": 136,
+      "isrc": "GBLMA0102702"
+    },
+    {
+      "artist": "Ortiga",
+      "title": "Las Palomas de Tu Cielo",
+      "services": {
+        "qobuz": "71146861"
+      },
+      "album": "Lo Mejor de Ortiga",
+      "duration": 241,
+      "isrc": "QMFMG1335901"
+    },
+    {
+      "artist": "Ladies Of Soul",
+      "title": "Disco & Pop Medley (Independent Woman / My Lovin' / Worth It / Would I Lie to You / Shame Shame Shame / Back to Life / Brick House / Remember the Time / That's the Way I Like It / Good Times / Last Night a DJ Saved My Life / I'm Your Baby Tonight / B",
+      "services": {
+        "qobuz": "33659409"
+      },
+      "album": "Live at the Ziggodome 2016",
+      "duration": 935,
+      "isrc": "NLXV41600011"
+    },
+    {
+      "artist": "Witze Erz\u00e4hler TA",
+      "title": "Verkehrskontrolle Witz: Ein Raser wird gestoppt",
+      "services": {
+        "qobuz": "169615666"
+      },
+      "album": "Beste Witze zum Totlachen - Neuestes aus dem Witze-Universum: Humor, Witz, Blondinen",
+      "duration": 86,
+      "isrc": "DELD92200823"
+    },
+    {
+      "artist": "Disappear Incompletely",
+      "title": "Optimistic",
+      "services": {
+        "qobuz": "73363926"
+      },
+      "album": "Electrojazz Tribute to Radiohead",
+      "duration": 477,
+      "isrc": "QMAAK1635681"
+    },
+    {
+      "artist": "Kobol",
+      "title": "Tanque",
+      "services": {
+        "qobuz": "7856329"
+      },
+      "album": "Extempore",
+      "duration": 372,
+      "isrc": "USI4R0702729"
+    },
+    {
+      "artist": "Bere Mendoza",
+      "title": "Love Is Really Blind",
+      "services": {
+        "qobuz": "390606579"
+      },
+      "album": "My Rules",
+      "duration": 184,
+      "isrc": "BXVR02277445"
+    },
+    {
+      "artist": "Nine Seconds",
+      "title": "Homesick Robot",
+      "services": {
+        "qobuz": "84216105"
+      },
+      "album": "Poladroids",
+      "duration": 271,
+      "isrc": "USHM21314285"
+    },
+    {
+      "artist": "Decada 2",
+      "title": "Musica Electronica",
+      "services": {
+        "qobuz": "134206898"
+      },
+      "album": "La Noche Del Atomo",
+      "duration": 429,
+      "isrc": "GBKQU2199971"
+    },
+    {
+      "artist": "Soda Stereo",
+      "title": "Por Qu\u00e9 No Puedo Ser Del Jet Set?",
+      "services": {
+        "qobuz": "408563"
+      },
+      "album": "Soda Stereo",
+      "duration": 140,
+      "isrc": "ARFSB0700878"
+    },
+    {
+      "artist": "Butler Perry",
+      "title": "velcro",
+      "services": {
+        "qobuz": "348418773"
+      },
+      "album": "BIG HEART",
+      "duration": 103,
+      "isrc": "QZNMV2504464"
+    },
+    {
+      "artist": "Burial",
+      "title": "Distant Lights",
+      "services": {
+        "qobuz": "46757023"
+      },
+      "album": "Burial",
+      "duration": 326,
+      "isrc": "GBLZC0600003"
+    },
+    {
+      "artist": "Tayc",
+      "title": "P A S C O M M E \u00c7 A",
+      "services": {
+        "qobuz": "179793567"
+      },
+      "album": "Fleur froide - Second \u00e9tat : la cristallisation",
+      "duration": 178,
+      "isrc": "FR8FB2123560"
+    },
+    {
+      "artist": "PRESET SONGS",
+      "title": "Ms2000 - Panic Button",
+      "services": {
+        "qobuz": "225158849"
+      },
+      "album": "Omnisphere, Pt. 44",
+      "duration": 82,
+      "isrc": "TCAHJ2319574"
+    },
+    {
+      "artist": "Vector Lovers",
+      "title": "Futures In Plastic",
+      "services": {
+        "qobuz": "3822712"
+      },
+      "album": "Soma 2005 Comp",
+      "duration": 238,
+      "isrc": "GBBVL0501764"
+    },
+    {
+      "artist": "Joni Mitchell",
+      "title": "Cold Blue Steel And Sweet Fire",
+      "services": {
+        "qobuz": "342569725"
+      },
+      "album": "Joni's Jazz",
+      "duration": 257,
+      "isrc": "USRH12406280"
+    },
+    {
+      "artist": "B\u00e9la Fleck",
+      "title": "Old Jellico, Puddle Jumper, Dead Man's Hill",
+      "services": {
+        "qobuz": "2594492"
+      },
+      "album": "The Bluegrass Sessions: Tales From The Acoustic Planet, Vol. 2",
+      "duration": 368,
+      "isrc": "USWB19900655"
+    },
+    {
+      "artist": "BTS",
+      "title": "NORMAL",
+      "services": {
+        "qobuz": "403033075"
+      },
+      "album": "ARIRANG",
+      "duration": 181,
+      "isrc": "USA2P2600451"
+    },
+    {
+      "artist": "James Blake",
+      "title": "Obsession",
+      "services": {
+        "qobuz": "400965287"
+      },
+      "album": "Trying Times",
+      "duration": 100,
+      "isrc": "USA2P2565571"
+    },
+    {
+      "artist": "Mary Chapin Carpenter",
+      "title": "The Age of Miracles",
+      "services": {
+        "qobuz": "126190925"
+      },
+      "album": "One Night Lonely",
+      "duration": 298,
+      "isrc": "QZ26N2000013"
+    },
+    {
+      "artist": "Luzius Gartmann",
+      "title": "Fantasia a tre (1967) for piano trio",
+      "services": {
+        "qobuz": "74491747"
+      },
+      "album": "Kelterborn: Changements - Ensemble-Buch I - Escursioni - Fantasia a tre -Variationen f\u00fcr Oboe & Streichorchester",
+      "duration": 702,
+      "isrc": "USGZ21034962"
+    },
+    {
+      "artist": "Funk'n'stein",
+      "title": "Klitus Ass Shaker Baker",
+      "services": {
+        "qobuz": "91999553"
+      },
+      "album": "Where You Gonna Go",
+      "duration": 255,
+      "isrc": "IL5841428521"
+    },
+    {
+      "artist": "Isaac Hayes",
+      "title": "Theme From Shaft",
+      "services": {
+        "qobuz": "36487007"
+      },
+      "album": "Shaft",
+      "duration": 279,
+      "isrc": "USC4R1605505"
+    },
+    {
+      "artist": "Seventeen",
+      "title": "Shake It Off (MINGYU Solo)",
+      "services": {
+        "qobuz": "364742060"
+      },
+      "album": "HAPPY BURSTDAY",
+      "duration": 168,
+      "isrc": "USA2P2501612"
+    },
+    {
+      "artist": "Sinner DC",
+      "title": "Gazm or Gasm",
+      "services": {
+        "qobuz": "194705028"
+      },
+      "album": "Panoramic",
+      "duration": 153,
+      "isrc": "GBCKK0761701"
+    },
+    {
+      "artist": "Sinizen",
+      "title": "Here to Stay",
+      "services": {
+        "qobuz": "212217572"
+      },
+      "album": "Trth | Love",
+      "duration": 260,
+      "isrc": "TCAHB2318688"
+    },
+    {
+      "artist": "Liquid Stella",
+      "title": "\u93e1\u82b1\u6c34\u6708",
+      "services": {
+        "qobuz": "343150778"
+      },
+      "album": "BRILLIANCE",
+      "duration": 221,
+      "isrc": "JPB622502302"
+    },
+    {
+      "artist": "Heerlens Percussie Ensemble",
+      "title": "Biologic Music",
+      "services": {
+        "qobuz": "95054982"
+      },
+      "album": "Biologic Music",
+      "duration": 552,
+      "isrc": "FR7Z26500008"
+    },
+    {
+      "artist": "Quadeca",
+      "title": "GODSTAINED",
+      "services": {
+        "qobuz": "348499565"
+      },
+      "album": "Vanisher, Horizon Scraper",
+      "duration": 205,
+      "isrc": "CBEFB2500109"
+    },
+    {
+      "artist": "Pitch Black",
+      "title": "The Random Smiler",
+      "services": {
+        "qobuz": "6145474"
+      },
+      "album": "Frequencies Fall",
+      "duration": 380,
+      "isrc": "USA2P0610203"
+    },
+    {
+      "artist": "Dave's True Story",
+      "title": "World in Which We Live",
+      "services": {
+        "qobuz": "27255397"
+      },
+      "album": "Nature",
+      "duration": 257,
+      "isrc": "US25T0523307"
+    },
+    {
+      "artist": "Van Morrison",
+      "title": "Snatch It Back And Hold It",
+      "services": {
+        "qobuz": "375372517"
+      },
+      "album": "Somebody Tried To Sell Me A Bridge",
+      "duration": 238,
+      "isrc": "GBGXD2500071"
+    },
+    {
+      "artist": "Marc Et Claude",
+      "title": "La",
+      "services": {
+        "qobuz": "204433335"
+      },
+      "album": "La",
+      "duration": 365,
+      "isrc": "DEG129700973"
+    },
+    {
+      "artist": "Dear Silas",
+      "title": "Nasty Work",
+      "services": {
+        "qobuz": "275506849"
+      },
+      "album": "Cadillac Leather in July",
+      "duration": 160,
+      "isrc": "QZPLS2470682"
+    },
+    {
+      "artist": "Maisie Peters",
+      "title": "Girl\u2019s Just Flying",
+      "services": {
+        "qobuz": "386999331"
+      },
+      "album": "Florescence",
+      "duration": 222,
+      "isrc": "GBAHS2501488"
+    },
+    {
+      "artist": "Monster Florence",
+      "title": "Heart Rate (102 bpm)",
+      "services": {
+        "qobuz": "51330157"
+      },
+      "album": "Intelligent Electronic Music 2018 (IDM & Electro)",
+      "duration": 149,
+      "isrc": "ITLU51747000"
+    },
+    {
+      "artist": "J-Funk",
+      "title": "You're Smooth Like That",
+      "services": {
+        "qobuz": "79753023"
+      },
+      "album": "Meant To Be",
+      "duration": 281,
+      "isrc": "USHM21155558"
+    },
+    {
+      "artist": "Klaus Badelt",
+      "title": "One Last Shot",
+      "services": {
+        "qobuz": "55505142"
+      },
+      "album": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "duration": 286,
+      "isrc": "USWD10321340"
+    },
+    {
+      "artist": "Specular Effect",
+      "title": "Hong Kong Chillwave",
+      "services": {
+        "qobuz": "70974409"
+      },
+      "album": "Cyberpunk LoFi - Electro Radio 2077 Mix",
+      "duration": 164,
+      "isrc": "ITO101934652"
+    },
+    {
+      "artist": "Adriana Dobrogea",
+      "title": "From 99 to 101 (80 bpm)",
+      "services": {
+        "qobuz": "51330163"
+      },
+      "album": "Intelligent Electronic Music 2018 (IDM & Electro)",
+      "duration": 234,
+      "isrc": "ITLU51747006"
+    },
+    {
+      "artist": "Capital Cities",
+      "title": "I Sold My Bed, But Not My Stereo",
+      "services": {
+        "qobuz": "287029706"
+      },
+      "album": "In A Tidal Wave of Mystery",
+      "duration": 234,
+      "isrc": "USCA21203110"
+    },
+    {
+      "artist": "This Dj",
+      "title": "Legendary Talking (105 bpm)",
+      "services": {
+        "qobuz": "51330158"
+      },
+      "album": "Intelligent Electronic Music 2018 (IDM & Electro)",
+      "duration": 180,
+      "isrc": "ITLU51747001"
+    },
+    {
+      "artist": "Milieu",
+      "title": "Amber Petrol\u2019r",
+      "services": {
+        "qobuz": "320647955"
+      },
+      "album": "Butcher Block Andromeda, Vol. 2",
+      "duration": 369,
+      "isrc": "UK6822404609"
+    },
+    {
+      "artist": "Airstream",
+      "title": "Harmonics",
+      "services": {
+        "qobuz": "305155293"
+      },
+      "album": "Winter Chillout Lounge 2024 - Smooth Lounge Sounds for the Cold Season",
+      "duration": 276,
+      "isrc": "DEH332204011"
+    },
+    {
+      "artist": "Lauge",
+      "title": "Scape-1",
+      "services": {
+        "qobuz": "265126605"
+      },
+      "album": "Awakening",
+      "duration": 575,
+      "isrc": "QZHN62096317"
+    },
+    {
+      "artist": "GAME OVER TREVAS",
+      "title": "JERUSALEM - THE PLACE OF SHAME",
+      "services": {
+        "qobuz": "420546153"
+      },
+      "album": "ATOS DOS AP\u00d3STOLOS 1:8",
+      "duration": 355,
+      "isrc": "BRSVC2636953"
+    },
+    {
+      "artist": "Eir Aoi",
+      "title": "POLYHEDRA",
+      "services": {
+        "qobuz": "303505164"
+      },
+      "album": "POLYHEDRA",
+      "duration": 210,
+      "isrc": "TCJPC2481345"
+    },
+    {
+      "artist": "Sudden Death of Stars",
+      "title": "The Void",
+      "services": {
+        "qobuz": "14977596"
+      },
+      "album": "All Unrevealed Parts of the Unknown",
+      "duration": 253,
+      "isrc": "GBZPF1400443"
+    },
+    {
+      "artist": "Sarah and the Safe Word",
+      "title": "You're All Scotch, No Soda",
+      "services": {
+        "qobuz": "99173645"
+      },
+      "album": "Good Gracious! Bad People.",
+      "duration": 172,
+      "isrc": "USF289801883"
+    },
+    {
+      "artist": "Patapouf",
+      "title": "Air on G string",
+      "services": {
+        "qobuz": "239417855"
+      },
+      "album": "BERCEUSES DU MONDE",
+      "duration": 90,
+      "isrc": "FR10T2330060"
+    },
+    {
+      "artist": "Lalo Schifrin",
+      "title": "Machinations",
+      "services": {
+        "qobuz": "2390840"
+      },
+      "album": "Mission: Impossible And Other Thrilling Themes",
+      "duration": 161,
+      "isrc": "USMC10345778"
+    },
+    {
+      "artist": "Gary Moore",
+      "title": "Victims Of The Future",
+      "services": {
+        "qobuz": "4593481"
+      },
+      "album": "We Want Moore",
+      "duration": 508,
+      "isrc": "GBAAA8400198"
+    },
+    {
+      "artist": "Sixoj",
+      "title": "Flying Cars",
+      "services": {
+        "qobuz": "333153942"
+      },
+      "album": "Future",
+      "duration": 121,
+      "isrc": "QZVEM2584113"
+    },
+    {
+      "artist": "NX1",
+      "title": "NS1",
+      "services": {
+        "qobuz": "268168691"
+      },
+      "album": "Natural Selection: Selected Works, Vol. 1",
+      "duration": 399,
+      "isrc": "GX56M2400006"
+    },
+    {
+      "artist": "ASEC",
+      "title": "Nonzero",
+      "services": {
+        "qobuz": "268168695"
+      },
+      "album": "Natural Selection: Selected Works, Vol. 1",
+      "duration": 352,
+      "isrc": "GX56M2400010"
+    },
+    {
+      "artist": "HMMND",
+      "title": "Terminal",
+      "services": {
+        "qobuz": "268168696"
+      },
+      "album": "Natural Selection: Selected Works, Vol. 1",
+      "duration": 256,
+      "isrc": "GX56M2400011"
+    },
+    {
+      "artist": "Mist Gasp",
+      "title": "Quantity",
+      "services": {
+        "qobuz": "268168697"
+      },
+      "album": "Natural Selection: Selected Works, Vol. 1",
+      "duration": 367,
+      "isrc": "GX56M2400012"
+    },
+    {
+      "artist": "Rommek",
+      "title": "Cyclical Patterns",
+      "services": {
+        "qobuz": "268168698"
+      },
+      "album": "Natural Selection: Selected Works, Vol. 1",
+      "duration": 353,
+      "isrc": "GX56M2400013"
+    },
+    {
+      "artist": "Operator",
+      "title": "Know Yourself",
+      "services": {
+        "qobuz": "268168702"
+      },
+      "album": "Natural Selection: Selected Works, Vol. 1",
+      "duration": 379,
+      "isrc": "GX56M2400017"
+    },
+    {
+      "artist": "Hirt",
+      "title": "Magnetic",
+      "services": {
+        "qobuz": "268168703"
+      },
+      "album": "Natural Selection: Selected Works, Vol. 1",
+      "duration": 339,
+      "isrc": "GX56M2400018"
+    },
+    {
+      "artist": "Kodah",
+      "title": "Infiltrate",
+      "services": {
+        "qobuz": "268168704"
+      },
+      "album": "Natural Selection: Selected Works, Vol. 1",
+      "duration": 389,
+      "isrc": "GX56M2400019"
+    },
+    {
+      "artist": "Nemrac",
+      "title": "Whisper",
+      "services": {
+        "qobuz": "268168705"
+      },
+      "album": "Natural Selection: Selected Works, Vol. 1",
+      "duration": 352,
+      "isrc": "GX56M2400020"
+    },
+    {
+      "artist": "Plural",
+      "title": "Jagged Nail",
+      "services": {
+        "qobuz": "268168706"
+      },
+      "album": "Natural Selection: Selected Works, Vol. 1",
+      "duration": 374,
+      "isrc": "GX56M2400021"
+    },
+    {
+      "artist": "Monya",
+      "title": "Berlin Eats You Up",
+      "services": {
+        "qobuz": "268168707"
+      },
+      "album": "Natural Selection: Selected Works, Vol. 1",
+      "duration": 326,
+      "isrc": "GX56M2400022"
+    },
+    {
+      "artist": "Maedon",
+      "title": "Never Give Up",
+      "services": {
+        "qobuz": "268168708"
+      },
+      "album": "Natural Selection: Selected Works, Vol. 1",
+      "duration": 393,
+      "isrc": "GX56M2400023"
+    },
+    {
+      "artist": "Andr\u00f8meda",
+      "title": "System Destruction",
+      "services": {
+        "qobuz": "268168709"
+      },
+      "album": "Natural Selection: Selected Works, Vol. 1",
+      "duration": 369,
+      "isrc": "GX56M2400024"
+    },
+    {
+      "artist": "Cail\u00edn",
+      "title": "The Bulldozer",
+      "services": {
+        "qobuz": "268168710"
+      },
+      "album": "Natural Selection: Selected Works, Vol. 1",
+      "duration": 365,
+      "isrc": "GX56M2400025"
+    },
+    {
+      "artist": "Duellist",
+      "title": "Heretic",
+      "services": {
+        "qobuz": "268168711"
+      },
+      "album": "Natural Selection: Selected Works, Vol. 1",
+      "duration": 405,
+      "isrc": "GX56M2400026"
+    },
+    {
+      "artist": "Acidic Male",
+      "title": "Faith",
+      "services": {
+        "qobuz": "268168712"
+      },
+      "album": "Natural Selection: Selected Works, Vol. 1",
+      "duration": 275,
+      "isrc": "GX56M2400027"
+    },
+    {
+      "artist": "Swarm Intelligence",
+      "title": "Generative",
+      "services": {
+        "qobuz": "268168713"
+      },
+      "album": "Natural Selection: Selected Works, Vol. 1",
+      "duration": 350,
+      "isrc": "GX56M2400028"
+    },
+    {
+      "artist": "Somatic Responses",
+      "title": "Subjective Completion",
+      "services": {
+        "qobuz": "268168714"
+      },
+      "album": "Natural Selection: Selected Works, Vol. 1",
+      "duration": 303,
+      "isrc": "GX56M2400029"
+    },
+    {
+      "artist": "Jadzia",
+      "title": "Multimode",
+      "services": {
+        "qobuz": "268168716"
+      },
+      "album": "Natural Selection: Selected Works, Vol. 1",
+      "duration": 259,
+      "isrc": "GX56M2400031"
+    },
+    {
+      "artist": "Shun",
+      "title": "Early Reflections",
+      "services": {
+        "qobuz": "268168717"
+      },
+      "album": "Natural Selection: Selected Works, Vol. 1",
+      "duration": 293,
+      "isrc": "GX56M2400032"
+    },
+    {
+      "artist": "Ekata",
+      "title": "suoixna",
+      "services": {
+        "qobuz": "268168718"
+      },
+      "album": "Natural Selection: Selected Works, Vol. 1",
+      "duration": 349,
+      "isrc": "GX56M2400033"
+    },
+    {
+      "artist": "Annie Hall",
+      "title": "Cultivo Heroico",
+      "services": {
+        "qobuz": "268168720"
+      },
+      "album": "Natural Selection: Selected Works, Vol. 1",
+      "duration": 279,
+      "isrc": "GX56M2400035"
+    },
+    {
+      "artist": "Plant43",
+      "title": "Radiant Distortion",
+      "services": {
+        "qobuz": "268168721"
+      },
+      "album": "Natural Selection: Selected Works, Vol. 1",
+      "duration": 384,
+      "isrc": "GX56M2400036"
+    },
+    {
+      "artist": "Blixaboy",
+      "title": "Star Jammin",
+      "services": {
+        "qobuz": "268168722"
+      },
+      "album": "Natural Selection: Selected Works, Vol. 1",
+      "duration": 321,
+      "isrc": "GX56M2400037"
+    },
+    {
+      "artist": "Noamm",
+      "title": "Cellular Respiration",
+      "services": {
+        "qobuz": "268168723"
+      },
+      "album": "Natural Selection: Selected Works, Vol. 1",
+      "duration": 192,
+      "isrc": "GX56M2400038"
+    },
+    {
+      "artist": "Ivna Ji",
+      "title": "NB",
+      "services": {
+        "qobuz": "268168724"
+      },
+      "album": "Natural Selection: Selected Works, Vol. 1",
+      "duration": 266,
+      "isrc": "GX56M2400039"
+    },
+    {
+      "artist": "The Subdermic",
+      "title": "Genome Carousel",
+      "services": {
+        "qobuz": "268168725"
+      },
+      "album": "Natural Selection: Selected Works, Vol. 1",
+      "duration": 319,
+      "isrc": "GX56M2400040"
+    },
+    {
+      "artist": "Rough",
+      "title": "Primal",
+      "services": {
+        "qobuz": "268168726"
+      },
+      "album": "Natural Selection: Selected Works, Vol. 1",
+      "duration": 463,
+      "isrc": "GX56M2400041"
+    },
+    {
+      "artist": "Mina Lord",
+      "title": "Ruptured Litany",
+      "services": {
+        "qobuz": "268168727"
+      },
+      "album": "Natural Selection: Selected Works, Vol. 1",
+      "duration": 349,
+      "isrc": "GX56M2400042"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+# Genre: Post Grunge
+
+Imported genre playlist: Post Grunge.
+
+Services: `qobuz:66709722`
+
+## Tracks (99)
+
+- **Candlebox** — Far Behind [Candlebox] (4:59) `isrc:USMV20100025` `qobuz:2839222`
+- **Bush** — Machinehead [Sixteen Stone] (4:16) `isrc:QM7YK1400021` `qobuz:40711396`
+- **Live** — Lightning Crashes [Throwing Copper] (5:23) `isrc:USRR29442180` `qobuz:61949552`
+- **Silverchair** — Tomorrow [Frogstomp (Deluxe Edition)] (4:26) `isrc:AUBM01500029` `qobuz:23333132`
+- **Collective Soul** — December [Collective Soul] (4:44) `isrc:USAT29500015` `qobuz:127402057`
+- **Seven Mary Three** — Cumbersome [American Standard] (3:56) `isrc:USAT20901831` `qobuz:2913712`
+- **Our Lady Peace** — Clumsy [Clumsy] (4:27) `isrc:CAC229700007` `qobuz:83587`
+- **Days Of The New** — Touch, Peel And Stand [Days Of The New] (4:56) `isrc:USOU19700402` `qobuz:52369856`
+- **Tonic** — If You Could Only See [A Casual Affair - The Best Of Tonic] (4:23) `isrc:USPR39609309` `qobuz:54866427`
+- **Dishwalla** — Counting Blue Cars [Live…Greetings From the Flow State] (8:34) `isrc:USI8R0301307` `qobuz:74400425`
+- **Local H** — Bound For The Floor [Best Of Local H – The Island Years] (3:43) `isrc:USIR29600091` `qobuz:54865989`
+- **Marcy Playground** — Sex & Candy [Sex And Candy] (2:54) `isrc:USEM39600079` `qobuz:12571182`
+- **Moist** — Push [Silver] (3:50) `isrc:CAE159400060` `qobuz:53000229`
+- **K’s Choice** — Not an Addict [10] (4:48) `isrc:BEH019500004` `qobuz:145141`
+- **Semisonic** — Closing Time [Feeling Strangely Fine - 20th Anniversary Edition] (4:33) `isrc:USUM71810665` `qobuz:52704329`
+- **The Flys** — Got You (Where I Want You) [Holiday Man] (4:02) `isrc:US4L80501402` `qobuz:77774960`
+- **Sponge** — Plowed [Rotting Pinata] (3:16) `isrc:USSM19400412` `qobuz:67481`
+- **Green Apple Quick Step** — Dizzy [Alternative 90s] (3:12) `isrc:USWB10604548` `qobuz:192720848`
+- **The Verve Pipe** — The Freshmen [Villains] (4:29) `isrc:USRC19604480` `qobuz:13090447`
+- **Everclear** — Santa Monica [Sparkle And Fade] (3:11) `isrc:USCA29500185` `qobuz:131789392`
+- **Creed** — Higher [Human Clay] (5:16) `isrc:USWU39909053` `qobuz:17795364`
+- **Matchbox Twenty** — Bent [Mad Season] (4:16) `isrc:USAT22003212` `qobuz:94404779`
+- **3 Doors Down** — Kryptonite [The Better Life] (3:53) `isrc:USUR19980187` `qobuz:714959`
+- **Nickelback** — How You Remind Me [Silver Side Up] (3:44) `isrc:NLA320119533` `qobuz:2808987`
+- **Staind** — It's Been Awhile [Break the Cycle] (4:24) `isrc:USEE10100288` `qobuz:2783369`
+- **Puddle Of Mudd** — Blurry [Come Clean] (5:03) `isrc:USIR10110581` `qobuz:58450326`
+- **Lifehouse** — Hanging By A Moment [No Name Face] (3:38) `isrc:USDW10022031` `qobuz:13368880`
+- **The Calling** — Wherever You Will Go [Camino Palmero] (3:28) `isrc:USRC10001047` `qobuz:3112508`
+- **Default** — Wasting My Time [The Fallout (Limited Edition)] (4:29) `isrc:USTV10100094` `qobuz:48526511`
+- **Trapt** — Headstrong [Trapt] (4:46) `isrc:USWB10201991` `qobuz:2841680`
+- **Hoobastank** — The Reason [The Reason] (3:52) `isrc:USIR20300704` `qobuz:59090544`
+- **Shinedown** — 45 [Leave A Whisper [Deluxe]] (4:10) `isrc:USAT20300846` `qobuz:2930337`
+- **Seether** — Fine Again [Disclaimer] (4:03) `isrc:USWU30200015` `qobuz:17979247`
+- **Three Days Grace** — I Hate Everything About You [I Hate Everything About You] (3:50) `isrc:USJI10300075` `qobuz:4851554`
+- **Chevelle** — Send the Pain Below [Wonder What's Next (Expanded Edition)] (4:12) `isrc:USSM10201529` `qobuz:425003`
+- **Crossfade** — Cold [Crossfade] (3:14) `isrc:USSM10310107` `qobuz:146394`
+- **12 Stones** — Broken Road [Anthem For The Underdog] (4:00) `isrc:USWU30700043` `qobuz:17979210`
+- **Earshot** — Wait [Two] (3:32) `isrc:USWB10400590` `qobuz:2842439`
+- **The Exies** — Hey You [Head For The Door] (3:58) `isrc:USVI20400592` `qobuz:5007626`
+- **Smile Empty Soul** — Bottom of a Bottle [Shapeshifter] (3:41) `isrc:TCAFJ2162097` `qobuz:127315261`
+- **Switchfoot** — Meant to Live [The Beautiful Letdown (Deluxe Version)] (3:21) `isrc:USSM10214186` `qobuz:423674`
+- **Papa Roach** — Scars [Getting Away With Murder] (3:28) `isrc:USDW10400812` `qobuz:25797175`
+- **Tantric** — Breakdown [Tantric] (3:10) `isrc:USMV20000191` `qobuz:2841336`
+- **Oleander** — Why I'm Here [February Son] (3:58) `isrc:USUR19801562` `qobuz:13670031`
+- **Vertical Horizon** — Everything You Want [Everything You Want] (4:17) `isrc:USRC19900048` `qobuz:2640227`
+- **Incubus** — Drive [Make Yourself] (3:52) `isrc:USSM19911007` `qobuz:4848742`
+- **Fuel** — Hemorrhage (In My Hands) [Something Like Human] (3:56) `isrc:USSM10011620` `qobuz:140357`
+- **THE GOO GOO DOLLS** — Iris [Dizzy up the Girl] (4:49) `isrc:USWB11507961` `qobuz:32087917`
+- **TRUSTcompany** — Downfall [The Lonely Position Of Neutral] (3:11) `isrc:USIR10210977` `qobuz:58450395`
+- **Cold** — Stupid Girl [Year Of The Spider] (3:09) `isrc:USIR10300117` `qobuz:80771285`
+- **Finger Eleven** — One Thing [Greatest Hits] (4:39) `isrc:USWU30300012` `qobuz:204399045`
+- **Stereomud** — Pain [Perfect Self] (3:37) `isrc:USLR50100095` `qobuz:118489`
+- **Thornley** — So Far so Good [Come Again] (3:22) `isrc:NLA320320743` `qobuz:2808217`
+- **Alter Bridge** — Open Your Eyes [One Day Remains] (4:58) `isrc:USWU30400117` `qobuz:17795551`
+- **Breaking Benjamin** — So Cold [We Are Not Alone] (4:33) `isrc:USHR10421070` `qobuz:26588428`
+- **8stops7** — Question Everything [In Moderation] (4:28) `isrc:USRE19900951` `qobuz:2571486`
+- **Eve 6** — Inside Out [Eve 6] (3:39) `isrc:USRC19806848` `qobuz:217424`
+- **Feeder** — Buck Rogers [Buck Rogers] (3:12) `isrc:GBBND0000727` `qobuz:385305954`
+- **Revis** — Caught In The Rain [Places For Breathing] (3:30) `isrc:USSM10211502` `qobuz:2636754`
+- **Submersed** — Hollow [In Due Time] (4:04) `isrc:USWU30400090` `qobuz:17795430`
+- **Daughtry** — It's Not Over [Daughtry] (3:35) `isrc:GBCTA0600228` `qobuz:380958`
+- **Hinder** — Lips Of An Angel [Extreme Behavior] (4:20) `isrc:USUM70503185` `qobuz:3891671`
+- **Flyleaf** — All Around Me [Flyleaf] (3:18) `isrc:USOCT0500076` `qobuz:63826628`
+- **Evans Blue** — Cold (But I'm Still Here) [The Melody And The Energetic Nature Of Volume] (3:53) `isrc:USHR10522033` `qobuz:54295473`
+- **Red** — Breathe Into Me [End Of Silence] (3:34) `isrc:USA5W0600044` `qobuz:2066081`
+- **10 Years** — Wasteland [The Autumn Effect] (3:49) `isrc:USUM70500573` `qobuz:2441541`
+- **32 Leaves** — Waiting [Welcome to the Fall] (3:19) `isrc:USA290532006` `qobuz:5737798`
+- **Stone Sour** — Through Glass [Come What(ever) May] (4:43) `isrc:NLA321600257` `qobuz:37118761`
+- **30 Seconds To Mars** — The Kill (Bury Me) [The Kill (Bury Me) (Live @ VH1.com)] (3:50) `isrc:USVI20600591` `qobuz:829637`
+- **Theory Of A Deadman** — Santa Monica [Gasoline] (4:06) `isrc:NLA320480957` `qobuz:2059344`
+- **Buckcherry** — Sorry [15] (3:48) `isrc:USDPK0513006` `qobuz:73203181`
+- **SAVING ABEL** — Addicted [Saving Abel] (3:42) `isrc:USVI20701296` `qobuz:4940486`
+- **Sick Puppies** — You're Going Down [Tri-Polar] (3:07) `isrc:USVI20900226` `qobuz:3427034`
+- **My Darkest Days** — Porn Star Dancing [My Darkest Days] (3:18) `isrc:USUM71013769` `qobuz:7637729`
+- **Cavo** — Champagne [Bright Nights * Dark Days] (3:05) `isrc:USRE10900330` `qobuz:2845608`
+- **Rev Theory** — Hell Yeah [Light It Up] (4:07) `isrc:USUM70811029` `qobuz:2456014`
+- **The Veer Union** — Seasons [Seasons] (4:00) `isrc:USUM70850232` `qobuz:4214140`
+- **Framing Hanley** — Lollipop [The Moment (Digital Deluxe)] (3:07) `isrc:US4C60800093` `qobuz:11822438`
+- **Hurt** — Rapture [Vol. 1] (5:40) `isrc:USCA20501482` `qobuz:1954703`
+- **Shaman's Harvest** — Dragonfly [Smokin' Hearts & Broken Guns] (4:31) `isrc:NLB931400411` `qobuz:141303824`
+- **Adelitas Way** — Invincible [Adelitas Way] (3:10) `isrc:USVI20900185` `qobuz:1794692`
+- **SafetySuit** — Stay [Life Left To Go] (4:24) `isrc:USUM70806441` `qobuz:2455604`
+- **Kutless** — Strong Tower [Strong Tower] (3:58) `isrc:USBR20500011` `qobuz:4461968`
+- **Skillet** — Monster [Awake] (2:56) `isrc:USAT20901851` `qobuz:2929922`
+- **Thousand Foot Krutch** — Move [The Art Of Breaking] (3:27) `isrc:USTN10500181` `qobuz:4461943`
+- **Saint Asonia** — Better Place [Better Place] (3:35) `isrc:USRC11500915` `qobuz:24486219`
+- **Like A Storm** — Love the Way You Hate Me [Love the Way You Hate Me] (4:51) `isrc:US4E41417301` `qobuz:29184163`
+- **Pop Evil** — Trenches [Onyx] (3:38) `isrc:USKO11300620` `qobuz:36695707`
+- **Red Sun Rising** — The Otherside [Polyester Zeal] (3:36) `isrc:USRZR1564901` `qobuz:36481832`
+- **Art Of Anarchy** — Til the Dust Is Gone [Art of Anarchy] (5:14) `isrc:US4E41526506` `qobuz:28269084`
+- **Art Of Dying** — Get Thru This [Vices And Virtues] (2:43) `isrc:USRE11100063` `qobuz:10236058`
+- **Dinosaur Pile-Up** — Back Foot [Celebrity Mansions] (3:08) `isrc:GBAYE1900158` `qobuz:60301360`
+- **Halestorm** — I Miss the Misery [The Strange Case of...] (3:03) `isrc:USAT21200150` `qobuz:5202083`
+- **Fireflight** — Unbreakable [Unbreakable] (3:21) `isrc:USA5W0700349` `qobuz:418135`
+- **Tremonti** — You Waste Your Time [All I Was] (3:47) `isrc:TCABG1289707` `qobuz:125511156`
+- **Anna Of The North** — Call Me [No One Knows You Better] (3:48) `isrc:GBENL2504580` `qobuz:367130571`
+- **Projected** — Alive [Human] (3:50) `isrc:QMMJG1200007` `qobuz:85461312`
+- **Bleeker** — Highway [Erase You] (3:21) `isrc:USDPK1500159` `qobuz:73202368`
+- **DOGSTAR** — Everything Turns Around [Somewhere Between the Power Lines and Palm Trees] (3:00) `isrc:QZY9P2300003` `qobuz:219189239`

@@ -1,0 +1,88 @@
+# Genre: Drone / Minimal Ambient
+
+Drone/Minimal Ambient is a genre defined by extreme sonic reduction and sustained, evolving soundscapes. It prioritizes texture, resonance, and slow temporal shifts over traditional melody or rhythm, utilizing long-duration tones (drones) and sparse arrangements to create a meditative, immersive environment where the listener's focus shifts from musical progression to the physical experience of sound itself.
+
+Services: `qobuz:66712114`
+
+## Tracks (80)
+
+- **Terry Riley** — Poppy Nogood and the Phantom Band [A Rainbow In Curved Air] (21:38) `isrc:USSM16900447` `qobuz:274973591`
+- **Electric Phoenix** — Stimmung: Model 2 [Stockhausen: Stimmung] (1:58) `isrc:UKA682100001` `qobuz:151584381`
+- **Tony Conrad With Faust** — The Side of Man and Womankind [Outside the Dream Syndicate] (27:39) `isrc:USA2Z1610361` `qobuz:35472748`
+- **Charlemagne Palestine** — Strumming Music [Strumming Music] (52:13) `isrc:ITI400800931` `qobuz:199612909`
+- **Christina Kubisch** — Two persons walking through a street in Madrid (2004) [TUNING] (11:38) `isrc:DELA22600508` `qobuz:402514206`
+- **Jon Gibson** — Relative Calm: I. Relative Calm "Rise" [Jon Gibson: Relative Calm] (16:58) `isrc:US4QP1678301` `qobuz:36344392`
+- **David Behrman** — On the Other Ocean [Late Night Tales: Belle and Sebastian, Vol. 2] (6:50) `isrc:USZBJ0610099` `qobuz:49150967`
+- **Ellen Fullman** — Woven Processional [The Long String Instrument] (11:38) `isrc:USA2Z1511516` `qobuz:35449381`
+- **Pauline Oliveros** — Lear [Deep Listening] (24:56) `isrc:US87H8910496` `qobuz:380235544`
+- **Phill Niblock** — Didjeridoos and Don'ts [Young Person's Guide to Phill Niblock (YPGPN)] (13:34) `isrc:USA560448808` `qobuz:64344558`
+- **Eliane Radigue** — Adnos I [Adnos] (71:28) `isrc:FRT157418001` `qobuz:192585245`
+- **Symphonieorchester Des Bayerischen Rundfunks** — I. — [Musica Viva, Vol. 17 - Scelsi] (2:54) `isrc:DEGF70712205` `qobuz:303895475`
+- **Rhys Chatham** — Two Gongs (1971) [Two Gongs (1971)] (61:37) `isrc:USG4G0673101` `qobuz:2878703`
+- **Bill Laswell** — African Virus - Electronic Sonata With A Cold Loved By Nature - Part 1 [Outland] (9:30) `isrc:QMDA72371031` `qobuz:226556901`
+- **Catherine Christer Hennix** — Further Selections from The Electric Harpsichord [Further Selections from The Electric Harpsichord] (46:50) `isrc:QZUBX2200466` `qobuz:276226611`
+- **David Tudor** — Rainforest IV [David Tudor: Rainforest (Versions 1 & 4)] (51:53) `isrc:US4BP9806402` `qobuz:306737366`
+- **Labradford** — Listening in Depth [Prazision LP] (7:32) `isrc:USI4R0401535` `qobuz:25021920`
+- **main** — Flametracer [Hydra-Calm] (5:49) `isrc:GBAZP9200170` `qobuz:148904455`
+- **Roy Montgomery** — Landfall [Suffuse] (6:00) `isrc:USCPT1810034` `qobuz:51211450`
+- **Stars of the Lid** — Before Top Dead Center (2025 Remaster) [Music for Nitrous Oxide (30 Year Anniversary Remastered)] (5:23) `isrc:QZK6F2592354` `qobuz:329132716`
+- **Windy, Carl** — Antarctica [The Best of the Bliss Out] (22:06) `isrc:USA4D1530102` `qobuz:59911380`
+- **Troum** — Part 3 [Dominium Visurgis] (25:12) `isrc:USCPT1010043` `qobuz:73783899`
+- **Richard Chartier** — Recurrence (series) [Recurrence] (51:11) `isrc:USXPN1100063` `qobuz:14457439`
+- **Ryoji Ikeda** — data.matrix [dataplex] (10:01) `isrc:DEAS90500018` `qobuz:210499673`
+- **Fennesz** — Endless Summer [Endless Summer] (8:29) `isrc:ATE690603502` `qobuz:319876792`
+- **Philip Jeck** — Pax [Stoke] (8:09) `isrc:GBJYX0256204` `qobuz:56034191`
+- **Taylor Deupree** — Stil. (For Vibraphone & Bass Drum) [Sti.ll] (19:11) `isrc:CAN112400927` `qobuz:258636016`
+- **Aarktica** — Glacia [No Solace in Sleep] (13:36) `isrc:USHK92534301` `qobuz:327148616`
+- **Tim Hecker** — Music of the Air [Love Streams] (4:08) `isrc:GBAFL1500223` `qobuz:33930211`
+- **Oren  Ambarchi** — Corkscrew [Grapes from the Estate] (9:43) `isrc:GBJYX0561201` `qobuz:56027675`
+- **The Dead Texan** — The Struggle [The Dead Texan] (5:28) `isrc:USI4R0403332` `qobuz:24337928`
+- **Brian McBride** — Overture (For Other Halfs) [When the Detail Lost Its Freedom] (6:38) `isrc:USI4R0504154` `qobuz:24335215`
+- **Chihei Hatakeyama** — Broken Mirror [Moon Light Reflecting over Mountains] (5:24) `isrc:QM4TW1515055` `qobuz:24208994`
+- **Expo 70** — Midnight Stalking / Dawn of the Black Ohms [Black Ohms] (19:28) `isrc:USL4Q1894726` `qobuz:84745961`
+- **Growing** — Untitled [The Sky’s Run Into the Sea] (17:21) `isrc:USA2P2045914` `qobuz:111532884`
+- **Alva Noto** — Xerrox Monophaser 2 [Xerrox, Vol. 2] (5:31) `isrc:DEAS90800436` `qobuz:93720499`
+- **Kevin Drumm** — More [Neither Here Nor There] (19:49) `isrc:DEX262401296` `qobuz:305714001`
+- **Lichens** — Vevor of Agassou [Omns] (4:57) `isrc:USI4R0608194` `qobuz:24338008`
+- **Celer** — A Once And Meaningful Life [Engaged Touches] (5:03) `isrc:UK6821411450` `qobuz:54164190`
+- **Grouper** — Heavy Water/I'd Rather Be Sleeping [Dragging a Dead Deer Up a Hill] (2:53) `isrc:USI4R1115074` `qobuz:71526553`
+- **Machinefabriek** — Stof en Ruis 1 [Stof en Ruis] (3:21) `isrc:QZFZ32672829` `qobuz:381655031`
+- **Belong** — Perfect Life [Common Era] (4:29) `isrc:USNCB1115504` `qobuz:24509664`
+- **Oneohtrix Point Never** — Zones Without People [Zones Without People] (3:59) `isrc:QMUJD1202010` `qobuz:234488773`
+- **Rafael Anton Irisarri** — Hiatus [A Fragile Geography] (2:38) `isrc:QM6N21580572` `qobuz:229226487`
+- **Jefre Cantu-Ledesma** — Love's Refrain [In Summer] (7:37) `isrc:DEX261600456` `qobuz:34369816`
+- **Norman Westberg** — Frostbite Falls [13] (11:06) `isrc:QM6P41576414` `qobuz:27667053`
+- **Keith Fullerton Whitman** — Occlusion (Rue de Bitche) [Occlusions] (18:16) `isrc:ATE691202601` `qobuz:319876251`
+- **Rashad Becker** — Dances I [Traditional Music of Notional Species Vol. I] (4:20) `isrc:DEX260991875` `qobuz:30143085`
+- **Alessandro Cortini** — Voltaggio solitario [Sonno] (3:58) `isrc:TCADC1768792` `qobuz:147820931`
+- **Kara-Lis Coverdale** — Grafts [Grafts] (22:31) `isrc:USA2Z1710790` `qobuz:40483697`
+- **Klara Lewis** — Altered [Ett] (12:13) `isrc:ATE691419009` `qobuz:319840791`
+- **Sarah Davachi** — Guildford [Barons Court] (12:57) `isrc:USCPT1410325` `qobuz:101478854`
+- **Ian William Craig** — Contain [Centres] (10:04) `isrc:GBDCA1603062` `qobuz:84981366`
+- **Abul Mogard** — In the Eastern Wild [Where Light Pauses in the Silence of the Sun] (6:16) `isrc:DEX262600205` `qobuz:416429960`
+- **Christina Vantzou** — Kimona II [No. 5] (6:22) `isrc:USNCB2223510` `qobuz:172007421`
+- **Ellen Arkbro** — For Organ and Brass [For Organ and Brass] (20:08) `isrc:GBGXC1720013` `qobuz:70094837`
+- **Emily A. Sprague** — Tokyo 1 [Cloud Time] (4:42) `isrc:US6PQ2500089` `qobuz:344029440`
+- **Lawrence English** — Requiem for a Reaper / Pillar of Cloud [Cruel Optimism] (3:19) `isrc:QM7281605023` `qobuz:36823978`
+- **Tashi Wada** — Bottom of the Sky [FRKWYS Vol. 14 - Nue] (3:54) `isrc:US6PQ1800111` `qobuz:50594946`
+- **Lucy Railton** — To the End [Paradise 94] (4:20) `isrc:USA2Z1810602` `qobuz:119884838`
+- **Marta de Pascalis** — Harmonices Infinity [Sky Flesh] (5:00) `isrc:DEG932302613` `qobuz:220828878`
+- **Kali Malone** — Spectacle Of Ritual  [The Sacrificial Code] (10:53) `isrc:UK8261900001` `qobuz:313187570`
+- **Ana Roxanne** — It's a Rainy Day on the Cosmic Shore [~~~] (5:20) `isrc:QMHG41851003` `qobuz:122256719`
+- **Anna von Hausswolff** — All Thoughts Fly [All Thoughts Fly] (12:23) `isrc:USZPA0901933` `qobuz:98087715`
+- **Claire M Singer** — Turadh [Gleann Ciùin] (19:14) `isrc:GBJYX2512901` `qobuz:357078023`
+- **Kmru** — Well [Peel] (5:30) `isrc:ATE692028902` `qobuz:319842253`
+- **New York Treble Singers** — Call of The Dance [Mary Jane Leach: Ariadne's Lament] (10:01) `isrc:US4QP0452502` `qobuz:4204517`
+- **Caterina Barbieri** — SOTRS [Patterns Of Consciousness] (9:30) `isrc:QMQQH1708734` `qobuz:146225118`
+- **William Basinski** — dlp 1.1 [The Disintegration Loops] (63:35) `isrc:USY6C1422301` `qobuz:20778225`
+- **Thomas Köner** — Tiento de las Nieves [Tiento de las Nieves] (68:02) `isrc:DERK91421501` `qobuz:95463331`
+- **Sarah Davachi** — En Bas Tu Vois [Two Sisters] (12:47) `isrc:GB5P52200291` `qobuz:164177331`
+- **Kali Malone** — All Life Long (for organ) [All Life Long] (8:38) `isrc:FR9W12304863` `qobuz:230193566`
+- **Quatuor Bozzini** — Navigations for Strings [Alvin Lucier: Navigations] (19:02) `isrc:CAA4J2010121` `qobuz:114237120`
+- **Mary Jane Leach** — Feu de Joie [Woodwind Multiples] (8:54) `isrc:UK8261901186` `qobuz:218482561`
+- **Felicia Atkinson** — Thinking Iceberg [Thinking Iceberg] (12:50) `isrc:FR9W12434618` `qobuz:276039311`
+- **Rafael Toral** — Spectral Evolution [Spectral Evolution] (47:14) `isrc:QM4WV2315313` `qobuz:233727864`
+- **Eliane Radigue** — Kyema [Trilogie de la Mort] (61:07) `isrc:FRT158818001` `qobuz:192586221`
+- **Charlemagne Palestine** — Schlingen Blängen for Organo Rinascimentale Non Temperato [Schlingen Blängen for Organo Rinascimentale Non Temperato] (58:15) `isrc:FR96X2597212` `qobuz:410228110`
+- **ELEH** — Living Space [Living Space] (14:20) `isrc:GBJYX1814301` `qobuz:70435042`
+- **Duane Pitre** — The Seeker [The Seeker and the Healer] (19:00) `isrc:USCPT1410023` `qobuz:39147776`

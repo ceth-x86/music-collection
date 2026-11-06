@@ -1,0 +1,108 @@
+# Genre: Shoegaze
+
+Imported genre playlist: Shoegaze.
+
+Services: `qobuz:66732596` `tidal:69042ea1-ccfe-4374-975d-d759808b6b17`
+
+## Tracks (100)
+
+- **The Jesus And Mary Chain** — Just Like Honey [Just Like Honey (2021 EL Inocente version)] (3:01) `isrc:GX3EQ2000001` `qobuz:154370524`
+- **A.R. Kane** — Crack Up ["i"] (4:12) `isrc:GBBTF0400072` `qobuz:249088448`
+- **The Telescopes** — Flying [Splashdown: The Complete Creation Recordings 1990-1992] (2:51) `isrc:GBBLY1504713` `qobuz:28209320`
+- **Pale Saints** — Kinky Love [Flesh Balloon] (4:04) `isrc:GBAFL9100116` `qobuz:2534345`
+- **Lush** — Sweetness and Light [Gala] (5:19) `isrc:GBAFL2500121` `qobuz:355646601`
+- **Ride** — Vapour Trail [Nowhere] (4:17) `isrc:USRE11300032` `qobuz:8022096`
+- **Chapterhouse** — Pearl [Whirlpool (Expanded Edition)] (4:50) `isrc:GBARL0600247` `qobuz:2698202`
+- **Kitchens Of Distinction** — Drive That Fast [Strange Free World] (5:36) `isrc:GBBTF9000055` `qobuz:249087630`
+- **Swervedriver** — Duel [Mezcal Head] (6:23) `isrc:GBARL0801218` `qobuz:13612527`
+- **Revolver** — Heaven Sent An Angel [Baby's Angry] (4:47) `isrc:GBAAA9901751` `qobuz:1742265`
+- **My Bloody Valentine** — only shallow [loveless] (4:16) `isrc:GBCEL2000150` `qobuz:116965237`
+- **The Boo Radleys** — Lazarus [Giant Steps] (4:38) `isrc:GBBQY9302014` `qobuz:104912`
+- **Curve** — Coast Is Clear [The Way Of Curve] (3:59) `isrc:GBARL0400265` `qobuz:13762772`
+- **Catherine Wheel** — Black Metallic [Ferment] (7:19) `isrc:USWWW0134805` `qobuz:54692797`
+- **Moose** — Jack [. . . XYZ] (3:41) `isrc:GBAAA0900722` `qobuz:1763271`
+- **Alex Vargas** — Smell The Bleach [EGO (super/trip/maniac)] (3:20) `isrc:DKUM71900240` `qobuz:76342084`
+- **The Verve** — She's A Superstar [A Storm In Heaven] (8:53) `isrc:GBUM71601910` `qobuz:34655856`
+- **Brian Wilson** — Old Master Painter / You Are My Sunshine [Smile] (1:03) `isrc:USNO10484605` `qobuz:2794241`
+- **Blind Mr. Jones** — Henna and Swayed [Over My Head] (6:07) `isrc:GBBLY9200007` `qobuz:148464352`
+- **Secret Shine** — Loveblind [Greater Than God and Other Singles] (4:31) `isrc:GBMFU0600178` `qobuz:18845967`
+- **Slowdive** — When the Sun Hits [Souvlaki] (4:47) `isrc:GBBQY0400041` `qobuz:2697437`
+- **Spirea X** — Speed Reaction [Fireblade Skies] (3:01) `isrc:GBAFL9100007` `qobuz:2339648`
+- **Lilys** — Elizabeth Colour Wheel [In the Presence of Nothing] (6:58) `isrc:USA6P1600044` `qobuz:351403649`
+- **Drop Nineteens** — Kick The Tragedy [Delaware] (8:55) `isrc:USCN30800035` `qobuz:4723653`
+- **Swirlies** — Pancake [Blonder Tongue Audio Baton] (3:15) `isrc:USX5G9306706` `qobuz:66792980`
+- **Medicine** — Time Baby III [The Crow Original Motion Picture Soundtrack] (3:50) `isrc:USAT20180665` `qobuz:2929772`
+- **Bailter Space** — Robot World [Robot World] (4:19) `isrc:USMTD9305002` `qobuz:58861211`
+- **Coaltar of the Deepers** — Melody [Melody] (6:10) `isrc:TCAHU2444347` `qobuz:249449543`
+- **Lovesliescrushing** — babysbreath [bloweyelashwish] (3:51) `isrc:QZNWW2334577` `qobuz:334961069`
+- **Kavinsky** — Pulsar [Reborn] (3:34) `isrc:FRS712100100` `qobuz:145124200`
+- **Starflyer 59** — Blue Collar Love [Starflyer 59] (4:04) `isrc:USTN19457367` `qobuz:128650125`
+- **The Veldt** — Soul In A Jar [Afrodisiac] (4:49) `isrc:USUM71705231` `qobuz:41144798`
+- **Majesty Crush** — No. 1 Fan [Butterflies Don't Go Away] (3:45) `isrc:USME30800690` `qobuz:242813760`
+- **Alison's Halo** — Dozen [Eyedazzler] (5:12) `isrc:QZ5SU1600148` `qobuz:358925304`
+- **HUM** — Stars [You'd Prefer An Astronaut] (5:09) `isrc:USRC19401473` `qobuz:212927`
+- **Bowery Electric** — Beat [Beat] (7:16) `isrc:USI4R0401646` `qobuz:63143711`
+- **The Autumns** — The Angel Pool [The Angel Pool] (7:40) `isrc:USA560439359` `qobuz:25118349`
+- **Yonder Mountain String Band** — Half Moon Rising [Elevation] (4:31) `isrc:USEPY0610030` `qobuz:63101807`
+- **Auburn Lull** — Stockard Drive [Alone I Admire] (4:34) `isrc:USA4D0212201` `qobuz:59911856`
+- **Astrobrite** — crushed [crush] (3:22) `isrc:QZNWU2331344` `qobuz:223663458`
+- **My Vitriol** — Always: Your Way [Finelines] (3:49) `isrc:QZ4JJ1686314` `qobuz:207820090`
+- **Luminous Orange** — Drop You Vivid Colours [Drop You Vivid Colours] (4:36) `isrc:USHM90575115` `qobuz:82589980`
+- **Film School** — Pitfalls [Film School] (5:01) `isrc:GBAZP0500039` `qobuz:2532913`
+- **The Meeting Places** — Now I Know You Could Never Be The One [Find Yourself Along The Way] (4:02) `isrc:USAQP0501204` `qobuz:59959726`
+- **Amusement Parks On Fire** — Venus in Cancer (Rustic) [Thankyou Violin Radiopunk] (4:02) `isrc:USHM22021838` `qobuz:94672759`
+- **Serena-Maneesh** — Drain Cosmetics [Serena-Maneesh] (3:41) `isrc:GBBKU0600026` `qobuz:2486038`
+- **Boris** — Farewell [Gensho] (7:53) `isrc:JPB621500071` `qobuz:29173396`
+- **Engineers** — Home [Home] (4:07) `isrc:GBBND0401388` `qobuz:385754103`
+- **Airiel** — In Your Room [Winks & Kisses: Melted] (9:26) `isrc:USBHM0510008` `qobuz:202146853`
+- **Asobi Seksu** — Thursday [Acoustic At Olympic Studios] (4:23) `isrc:GBBTF0800469` `qobuz:249100102`
+- **City and Colour** — Lover Come Back [If I Should Go Before You] (3:54) `isrc:CADE70902839` `qobuz:80051218`
+- **Silversun Pickups** — Lazy Eye [Carnavas] (5:54) `isrc:US3R20600207` `qobuz:377266442`
+- **A Sunny Day in Glasgow** — No. 6 Von Karman Street [Scribble Mural Comic Journal] (4:15) `isrc:USANQ0600012` `qobuz:324832047`
+- **LSD and the Search for God** — Starting Over [LSD and the Search for God] (5:04) `isrc:USCGH1625021` `qobuz:106340666`
+- **A Shoreline Dream** — Neverchanger [neverChanger] (4:21) `isrc:USGT70810001` `qobuz:74851424`
+- **The High Violets** — Sun Baby [To Where You Are] (4:16) `isrc:QZHN81981554` `qobuz:244563965`
+- **Tears Run Rings** — Mind the Wires [Always, Sometimes, Seldom, Never] (4:53) `isrc:USBHM0810038` `qobuz:73737156`
+- **The Depreciation Guild** — Dream About Me [Spirit Youth] (5:08) `isrc:US28E1049604` `qobuz:74375772`
+- **A Place To Bury Strangers** — In Your Heart [Exploding Head] (3:10) `isrc:GBAJH0900413` `qobuz:385335562`
+- **The Black Ryder** — All That We Are [The Door Behind the Door] (6:07) `isrc:QM7281433802` `qobuz:24546279`
+- **The Daysleepers** — Release the Kraken [Drowned In a Sea of Sound] (3:53) `isrc:USBHM0810052` `qobuz:73744996`
+- **Panda Riot** — Northern Automatic Music [Northern Automatic Music] (4:36) `isrc:QMTXS1100230` `qobuz:59911357`
+- **Air Formation** — Daylight Storms [Daylight Storms] (4:52) `isrc:FR6V80758438` `qobuz:10351299`
+- **For Tracy Hyde** — Her Sarah Records Collection [Born To Be Breathtaken] (3:13) `isrc:TCJPB1440432` `qobuz:334474617`
+- **Plastic Girl In Closet** — ERROR [eye cue rew see] (3:00) `isrc:JPZ922206983` `qobuz:296335636`
+- **THE ORCHESTRA TOKYO** — Be BRIGHT [Be BRIGHT] (4:00) `isrc:TCJPU2385767` `qobuz:296402749`
+- **The Joy Formidable** — Whirring [The Big Roar] (6:45) `isrc:USAT21002530` `qobuz:3181463`
+- **Pia Fraus** — How Fast Can You Love [In Solarium] (3:14) `isrc:USBHM0510180` `qobuz:73735765`
+- **The Pains Of Being Pure At Heart** — Belong [Belong] (4:21) `isrc:US4TA1100036` `qobuz:3444502`
+- **Ringo Deathstarr** — Imagine Hearts [Colour Trip] (2:38) `isrc:GBJRZ1100010` `qobuz:9379463`
+- **Pastel Ghost** — Dark Beach [Abyss] (3:42) `isrc:QM6XS1704798` `qobuz:286320408`
+- **The Vandals** — My Girlfriend's Dead [Hitler Bad, Vandals Good] (2:40) `isrc:USNRR0400198` `qobuz:16846559`
+- **No Joy** — E [Wait to Pleasure] (5:18) `isrc:QMV8L1314801` `qobuz:296622913`
+- **NICO Touches the Walls** — Boku Wa Sanjuu Ni Narukeredo [Uzu to Uzu] (3:24) `isrc:JPU901502271` `qobuz:95492372`
+- **Bob Marley & The Wailers** — Is This Love [Kaya] (3:52) `isrc:USIR27800259` `qobuz:8789478`
+- **Dance With A Stranger** — Living In The Future [Atmosphere] (3:05) `isrc:NOLWA9402140` `qobuz:6999883`
+- **Whirr** — Mellow [Feels Like You] (5:13) `isrc:GBKPL2144822` `qobuz:317392542`
+- **Cheatahs** — The Swan [Cheatahs] (4:22) `isrc:GBDNH1300100` `qobuz:14532670`
+- **Nothing** — Bent Nail [Guilty of Everything] (2:57) `isrc:US2641424703` `qobuz:14332386`
+- **Gleemer** — Gauze [Moving Away] (4:57) `isrc:TCACJ1583278` `qobuz:126105174`
+- **Pinkshinyultrablast** — Kiddy Pool Dreams [Grandfeathered] (6:04) `isrc:GBJRZ1600003` `qobuz:29299333`
+- **Tamaryn** — Love Fade [The Waves] (3:40) `isrc:USMEX1000118` `qobuz:420469807`
+- **Westkust** — Swirl [Last Forever] (3:14) `isrc:SEYOL1404001` `qobuz:157396128`
+- **DIIV** — Dopamine [Is the Is Are] (3:56) `isrc:QMMZN1300930` `qobuz:28211119`
+- **Miserable** — Uncontrollable [Uncontrollable] (3:48) `isrc:USA2P1616789` `qobuz:163099346`
+- **Narrow Head** — Ashtray [Satisfaction] (2:56) `isrc:GBSMU2663753` `qobuz:99162819`
+- **Piano Ghibli** — The Name of Life (From "Spirited Away") [Spirited Away on the Piano] (4:40) `isrc:ESA122475796` `qobuz:269116956`
+- **Cloakroom** — Big World [Time Well] (4:54) `isrc:US2641735602` `qobuz:41321192`
+- **Hundredth** — Neurotic [RARE] (3:37) `isrc:USHR21790002` `qobuz:120897480`
+- **Yoko Kanno** — Element's [TURN A GUNDAM the Movie Original Motion Picture Soundtrack - Wakusei No Gogo,Bokuraha Kiss Wo Shita] (2:47) `isrc:JPKI00014020` `qobuz:97245612`
+- **Slow Crush** — Aurora [Aurora] (4:50) `isrc:GBMLT1501249` `qobuz:283755321`
+- **Yunagi** — Heart of the Nightlight [Heart of the Nightlight] (1:14) `isrc:GXF9Q2422993` `qobuz:303516289`
+- **Deafcult** — Lemonade Beauty [Auras] (4:08) `isrc:AUHB21700001` `qobuz:391829375`
+- **Deserta** — Hide [Black Aura My Sun] (6:47) `isrc:QMGEB2006404` `qobuz:79790897`
+- **Bdrmm** — Happy [Bedroom] (3:46) `isrc:GB8FC2000009` `qobuz:238357989`
+- **Launder** — Powder [Powder] (4:30) `isrc:QZ92X1701101` `qobuz:55155858`
+- **Le Motel** — Blankenberge [MAAR] (3:53) `isrc:BEN582300221` `qobuz:203578212`
+- **Julie** — flutter [flutter] (4:27) `isrc:SE6A92042346` `qobuz:394992667`
+- **Beautiful World** — In Existence [In Existence] (4:19) `isrc:DEA629362650` `qobuz:3017269`
+- **Peter Kraus** — Doll Doll Dolly [The Rock 'n' Roll Star] (2:01) `isrc:DEUD92059551` `qobuz:90502750`

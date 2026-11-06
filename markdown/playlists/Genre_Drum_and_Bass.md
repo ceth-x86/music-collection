@@ -1,0 +1,108 @@
+# Genre: Drum and Bass
+
+Imported genre playlist: Drum and Bass.
+
+Services: `qobuz:66712876` `tidal:5d0157c4-2c85-401f-ab37-f68d9c77ddbc`
+
+## Tracks (100)
+
+- **Oka** — MUSIC MAKES ME HAPPY [MUSIC MAKES ME HAPPY] (6:06) `isrc:AUGBT2572700` `qobuz:413660938`
+- **Goldie** — Inner City Life [Timeless] (6:10) `isrc:GBAAP2200045` `qobuz:211309740`
+- **Sonar Kollektiv Orchester** — Universal Love [4hero presents EXTENSIONS] (7:26) `isrc:GBQDJ0900001` `qobuz:33546427`
+- **Bluey** — Bluey Theme Tune (Vocal Version) [Rug Island] (1:23) `isrc:GBCAD2401203` `qobuz:277281283`
+- **Alex Reece** — Pulp Fiction [Pulp Fiction] (6:10) `isrc:GBBHF0723430` `qobuz:15891419`
+- **Dillinja** — The Angels Fell [The Angels Fell / Ja Know Ya Big / Brutal Bass (2015 Remasters)] (5:53) `isrc:GBBHF1319504` `qobuz:24079253`
+- **Source Direct** — A Made Up Sound [A Made Up Sound / The Cult] (6:24) `isrc:GBBHF9523439` `qobuz:15889519`
+- **Doc Scott** — Far Away [Far Away (Fourteen Flavours of Funk)] (7:58) `isrc:GBBHF9423413` `qobuz:15891432`
+- **PFM** — One And Only [Conversions -  A K&D Selection / Remastered by Mischa Janisch] (9:20) `isrc:ATB152300510` `qobuz:233145757`
+- **Blu Mar Ten** — The Fountain [The Fountain] (11:05) `isrc:GB2DL1700021` `qobuz:139536162`
+- **Ed Rush** — Skylab [The Raven / Density / Skylab] (6:26) `isrc:GBBHF0723457` `qobuz:15890685`
+- **Krust** — Warhead [Warhead / Check Dis Out] (8:33) `isrc:GBCEQ1210293` `qobuz:46843075`
+- **Kalifesto** — Niten Ichi Ryu [Niten Ichi Ryu] (2:25) `isrc:BCG5D2100001` `qobuz:200862830`
+- **Roni Size** — Brown Paper Bag [Brown Paper Bag] (8:55) `isrc:GBPVV2406447` `qobuz:341789709`
+- **Adam f** — Circles Revisited [Circles Revisited] (7:18) `isrc:FRIDO2410860` `qobuz:279063037`
+- **Jonny L** — Piper [Sawtooth] (5:57) `isrc:GBBKS9700123` `qobuz:2531804`
+- **Ed Rush** — Mystery Machine [Wormhole] (7:28) `isrc:GBTKW9890111` `qobuz:46843021`
+- **Bad Company UK** — The Nine [The Nine] (7:06) `isrc:GBTEL1400013` `qobuz:365475585`
+- **DJ Trace** — Sonar [Forbidden Codes Sampler] (6:06) `isrc:UK5DW1310043` `qobuz:229425134`
+- **Dom & Roland** — Imagination [Imagination / Skyliner / Soundwall / Original Sin] (9:23) `isrc:GBAGN0000085` `qobuz:157222752`
+- **Usual Suspects** — Contortion [Killa Bees / Contortion] (7:35) `isrc:GBQXF9930002` `qobuz:46838086`
+- **Decoder** — Stash [DJ-Kicks (Kemistry & Storm)] (5:19) `isrc:DEG932000535` `qobuz:91320829`
+- **Konflict** — Messiah [Guerilla Warfare Sampler, Pt. 1] (7:46) `isrc:GBQXF0530005` `qobuz:46843119`
+- **DJ Reality** — Detroit Blues [From the Vaults] (6:09) `isrc:FRIDO2412936` `qobuz:283044072`
+- **Digital** — Deadline [Digital - Back Catalogue (1)] (6:02) `isrc:USEPW0800592` `qobuz:6150381`
+- **Calyx** — Illusions [Moving Shadow 05.2] (2:16) `isrc:GBAGN0510448` `qobuz:211739568`
+- **TeeBee** — Human Reptile [FABRICLIVE 76: Calyx & TeeBee] (4:36) `isrc:GBA2A1300004` `qobuz:314914689`
+- **RAM Trilogy** — Titan [Titan] (7:08) `isrc:GBBZH0002801` `qobuz:387249142`
+- **Technical Itch** — The Risin [The Risin / Hard Ways / Decontrol / Whirl Wind] (7:48) `isrc:GBAGN0200163` `qobuz:157226363`
+- **Moving Fusion** — Turbulence [Turbulence / Sound In Motion] (5:50) `isrc:GBBZH9890203` `qobuz:374456512`
+- **Matrix** — Sleepwalk [Sleepwalk] (6:00) `isrc:GBTKW0090231` `qobuz:46845566`
+- **Future Cut** — 20 / 20 [Hardware Chronicles, Vol. 3] (6:47) `isrc:GBQXF0430003` `qobuz:49367825`
+- **Cause 4 Concern** — Peepshow [Peepshow / Headroom] (5:53) `isrc:GBTKW1300311` `qobuz:46835103`
+- **Usual Suspects** — Shrapnel [Syndrome] (6:06) `isrc:GBQXF0030019` `qobuz:49364711`
+- **Oneway Kemoney** — It Don’t Mean Nothing [Free Dem Guys] (2:19) `isrc:USCGH2664310` `qobuz:385752671`
+- **DJ Die** — Clear Skyz [The Archives 1995-2000] (7:14) `isrc:USA2P1887744` `qobuz:106653376`
+- **Marcus Intalex** — Temperance [Zumbar / Temperance] (7:12) `isrc:GBZPZ0400008` `qobuz:221002886`
+- **Curtis Mayfield** — We the People Who Are Darker Than Blue [Curtis] (6:05) `isrc:USRH10450689` `qobuz:9877495`
+- **Total Science** — Nosher [Total Science: Audio Works 06] (5:44) `isrc:QM6N22065294` `qobuz:95458301`
+- **High Contrast** — Days Go By [Days Go By] (4:15) `isrc:GBSXS1900022` `qobuz:59856411`
+- **Sheena & the Rokkets** — UKABI NO PEACH GIRL [GOLDEN HITS - THE ALFA YEARS] (2:43) `isrc:JPAL00501550` `qobuz:99616722`
+- **Klute** — Hell Hath No Fury [The Emperor's New Clothes] (9:12) `isrc:GBYQY0700019` `qobuz:56991853`
+- **Concord Dawn** — Morning Light [Uprising] (6:42) `isrc:NZCC00400001` `qobuz:295091079`
+- **Shapeshifter** — One [Soulstice] (7:07) `isrc:NZTT00600010` `qobuz:105863995`
+- **D-Bridge** — True Romance [Bellini / True Romance] (6:30) `isrc:GBBHF0720202` `qobuz:16830730`
+- **Capital Cities** — Safe and Sound [In A Tidal Wave of Mystery (Deluxe Edition)] (3:12) `isrc:TCABD1246970` `qobuz:287032844`
+- **Loving Caliber** — Even If My Heart Breaks [From The Vaults: Solo Works] (3:38) `isrc:SE5Q51828442` `qobuz:196992075`
+- **Nu:Tone** — System [System] (7:05) `isrc:GBCJY0712701` `qobuz:208193320`
+- **Kay D.** — Tuning [MDZ05] (6:34) `isrc:GBBHF0720246` `qobuz:16830648`
+- **Logistics** — Together [Spacejams] (6:02) `isrc:GBCJY0474003` `qobuz:208171552`
+- **Camouflage** — The Great Commandment [Voices & Images] (4:16) `isrc:DEF088802040` `qobuz:2474168`
+- **Commix** — Be True [Call to Mind] (6:40) `isrc:GBBHF0720014` `qobuz:15892447`
+- **London Elektricity** — Just One Second [Syncopated City] (5:38) `isrc:GBCJY0814203` `qobuz:208193559`
+- **J Majik** — Crazy World [Junglesound: Revenge of the Bass] (5:49) `isrc:GBKBH0804001` `qobuz:55329689`
+- **Suroît** — Hé yaille yaille [Suroît] (3:13) `isrc:CAO500700018` `qobuz:129464477`
+- **DJ Zinc** — Ready or Not [Ready or Not] (7:12) `isrc:UKSVW2000163` `qobuz:218611235`
+- **DJ Zinc** — 138 Trek [138 Trek] (4:55) `isrc:GB7QY1500010` `qobuz:57504576`
+- **ROSALÍA** — Dios Es Un Stalker [LUX] (2:10) `isrc:USSM12509218` `qobuz:367340018`
+- **Mampi Swift** — The One [We Love Drum & Bass] (6:26) `isrc:GBFG91900027` `qobuz:107712757`
+- **Fresh** — The Gatekeeper [RAM 25] (5:11) `isrc:GB5KW1703879` `qobuz:388097718`
+- **Shimon** — Body Rock [RAM 25] (6:33) `isrc:GBBZH0100113` `qobuz:388097690`
+- **Pendulum** — Slam [Hold Your Colour] (5:44) `isrc:GBKBH0502202` `qobuz:92588056`
+- **Os Pontos Negros** — Sub-Zero [Pequeno-Almoço Continental] (3:09) `isrc:PTUM71000356` `qobuz:2228797`
+- **Tc** — Tap Ho [Tap Ho] (4:43) `isrc:GBKPL1784479` `qobuz:169911315`
+- **Twisted Individual** — Bandwagon Blues [Greatest Hits!] (6:17) `isrc:GBYEY0900004` `qobuz:55299671`
+- **Aretha Franklin** — Mr. D.J. (5 For The D.J.) [ARETHA] (4:27) `isrc:USRH12002417` `qobuz:102602413`
+- **RedLight** — Down 4 [Down 4] (2:18) `isrc:GBARL1900816` `qobuz:63696332`
+- **Chase & Status** — No Problem [No More Idols] (4:10) `isrc:GBUM71030624` `qobuz:3131930`
+- **Elias Fassos** — It feels So Good [It feels So Good] (7:02) `isrc:QZTV32358767` `qobuz:219917413`
+- **Nickelback** — Too Bad [Silver Side Up] (3:52) `isrc:NLA320119568` `qobuz:2808989`
+- **Sub Focus** — Timewarp [Timewarp] (3:46) `isrc:GB5KW2102052` `qobuz:374245417`
+- **B-complex** — Beautiful Lies [Beautiful Lies VIP] (6:59) `isrc:GBCJY1016909` `qobuz:209018288`
+- **Netsky** — Memory Lane [Sick Music 2 Sampler 1] (5:35) `isrc:GBCJY1015912` `qobuz:208203318`
+- **Camo & Krooked** — Climax [Red Bull Symphonic] (1:49) `isrc:GBCJY2000275` `qobuz:208442244`
+- **Delta Heavy** — White Flag VIP [White Flag] (4:31) `isrc:GBBZH1500179` `qobuz:383467895`
+- **Culture Shock** — Bunker [Sequence] (4:41) `isrc:GB5KW1703696` `qobuz:381795381`
+- **Wilkinson** — Afterglow [Lazers Not Included] (3:45) `isrc:GBBZH1391803` `qobuz:20131648`
+- **Rudimental** — Waiting All Night (feat. Ella Eyre) [Waiting All Night EP] (4:52) `isrc:GBAHS1200493` `qobuz:8654989`
+- **Michael Jackson** — Black or White [Dangerous] (4:16) `isrc:USSM19000733` `qobuz:11526903`
+- **Sigma** — Nobody To Love [Nobody To Love] (4:12) `isrc:GBCFZ1400054` `qobuz:15736023`
+- **Dimension** — Generator [Generator / Beg & Borrow] (5:06) `isrc:UKFTL1600035` `qobuz:61993223`
+- **Hybrid Minds** — Touch [Elements] (5:13) `isrc:UKFJY1600001` `qobuz:80588776`
+- **The Prototypes** — Pale Blue Dot [Pale Blue Dot] (4:56) `isrc:GBTMZ1400261` `qobuz:120691522`
+- **Spor** — Aztec [Aztec / Do Not Shake] (5:44) `isrc:GBPWR0600060` `qobuz:17121672`
+- **Black Sun Empire** — Arrakis [U Can Dance - 900 Years of Utrecht Dance Music, Vol. 1] (7:28) `isrc:NLCF10700021` `qobuz:177102440`
+- **Noisia** — Stigma [The Resonance VII] (4:09) `isrc:UKACT2420267` `qobuz:263037002`
+- **Alix Perez** — 1984 [1984] (5:34) `isrc:GBPWR0900071` `qobuz:61657895`
+- **Dub Phizix** — Marka [Marka] (6:07) `isrc:GBSZM1100219` `qobuz:348148797`
+- **Enei** — Sinking VIP [Critical Presents: rmx_series : rmx001] (5:47) `isrc:GBVPL2400063` `qobuz:286360413`
+- **Mefjus** — Blitz [Blitz - EP] (4:24) `isrc:DEQ121536263` `qobuz:134747869`
+- **Break** — They're Wrong [They're Wrong / Cyrax] (5:42) `isrc:GBXJH1100007` `qobuz:106959543`
+- **DBR UK** — Hexton [Rough Edges] (4:48) `isrc:GBSJN1300248` `qobuz:266933155`
+- **A.M.C** — Eject [VOID LP] (4:39) `isrc:GB2LD2110106` `qobuz:155875276`
+- **Halogenix** — The Night [Jump Suit] (4:54) `isrc:UKEWB1600034` `qobuz:106729587`
+- **Pythius** — Feel The Fire [Feel The Fire] (4:22) `isrc:GB2LD2410566` `qobuz:302586003`
+- **Gydra** — Ikra [Killparty EP] (4:55) `isrc:NLCK41043793` `qobuz:57012417`
+- **Metrik** — Hackers [Ex Machina] (4:13) `isrc:GBCJY1900061` `qobuz:209425121`
+- **Monty** — Vibin' [Hit the Lights] (4:46) `isrc:UKEWB1600223` `qobuz:139708096`
+- **Alice Cooper** — Poison [Trash] (4:29) `isrc:USSM18900004` `qobuz:36078`
+- **Prince** — Let's Go Crazy [Purple Rain Deluxe] (4:38) `isrc:USWB11700190` `qobuz:40380640`

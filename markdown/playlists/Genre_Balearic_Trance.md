@@ -1,0 +1,108 @@
+# Genre: Balearic Trance
+
+Imported genre playlist: Balearic Trance.
+
+Services: `qobuz:66720653`
+
+## Tracks (100)
+
+- **Jam & Spoon** — Stella [Tripomatic Fairytales 2001] (6:18) `isrc:DEMW61000005` `qobuz:54221174`
+- **Humate** — Love Stimulation [Love Stimulation] (7:48) `isrc:GBKQU2019451` `qobuz:107290017`
+- **Energy 52** — Café del Mar [Café del Mar (Paul Van Dyk Remixes)] (8:15) `isrc:DEL022110001` `qobuz:125316266`
+- **Chicane** — Offshore [Offshore] (6:57) `isrc:GBRDU0700017` `qobuz:377954709`
+- **Nalin & Kane** — Beachball [Beachball] (3:54) `isrc:DEN061600817` `qobuz:91640887`
+- **Three Drives On A Vinyl** — Greece 2000 [Greece 2000] (3:54) `isrc:NLC050700178` `qobuz:378120883`
+- **York** — The Awakening [YORK Mini Mix] (3:33) `isrc:DEPN61100007` `qobuz:378310295`
+- **Salt Tank** — Dimension [Dimension] (8:34) `isrc:GBBCR9906099` `qobuz:376475402`
+- **Atb** — 9 PM (Till I Come) [9 PM (Till I Come)] (3:19) `isrc:DEN069900066` `qobuz:54232484`
+- **Blank & Jones** — Chilled Cream [The Best of Relax // 20 Years // 2003 - 2023] (7:00) `isrc:DEGE90900002` `qobuz:215250519`
+- **Solarstone** — Seven Cities [Seven Cities] (3:31) `isrc:GBBCR9906115` `qobuz:377952221`
+- **The Thrillseekers** — Synaesthesia [Synaesthesia] (4:01) `isrc:NLF710903587` `qobuz:377909115`
+- **MIX NOVA** — In Da Club [In Da Club] (3:05) `isrc:QT6FG2524906` `qobuz:373690489`
+- **Dave Joy** — Amplifier [Amplifier] (8:12) `isrc:CH5011500008` `qobuz:62201828`
+- **One Leek** — Out of Mind [Out of Mind] (3:08) `isrc:UKU932530631` `qobuz:341133059`
+- **Sven Väth** — Harlequin - The Beauty and the Beast [Retrodelic Vibes 6] (7:24) `isrc:IL1211808812` `qobuz:220717390`
+- **Velvet Lounge Project** — Afternoon in Paris [Afternoon in Paris] (2:42) `isrc:DEHK12300862` `qobuz:232312011`
+- **Max Richter** — Of remembrance [Hamnet] (2:29) `isrc:GBUM72506128` `qobuz:361520095`
+- **Marcos Rodriguez** — La Playa (Remix) [La Playa (Remix)] (3:24) `isrc:CH6542097772` `qobuz:158179218`
+- **Modjo** — Chillin' [Modjo Remixes] (5:54) `isrc:FR9W10000465` `qobuz:11294883`
+- **Death On The Balcony** — Crystal [Ways & Means EP] (7:30) `isrc:GBLV62010864` `qobuz:107008390`
+- **AC/DC** — It's a Long Way to the Top (If You Wanna Rock 'N' Roll) [Backtracks] (5:14) `isrc:AUAP07500078` `qobuz:19906331`
+- **Jimi La Lumia** — For DJ's Only [For DJ's Only] (5:46) `isrc:USH2E1200025` `qobuz:75395657`
+- **U96** — Night in Motion [Night in Motion] (5:23) `isrc:DEBC41900034` `qobuz:69377494`
+- **Gareth Emery** — Vertigo (Radio Edit) [Vertigo] (3:19) `isrc:NLRD52025940` `qobuz:242010460`
+- **Blur** — Girls & Boys [Parklife] (4:51) `isrc:GBAYE1400783` `qobuz:19201325`
+- **Indra Diky** — Esperando-Donde-Comienza-El-Sueño-(Waiting-Where-The-Dream-Begins) [Te Amo] (4:29) `isrc:GXHAF2596339` `qobuz:351800905`
+- **Alex Diehl** — Auf der Suche [Bretter meiner Welt] (3:37) `isrc:DEUM71600485` `qobuz:31261399`
+- **Sean Hayman** — Mirage [Forget Time and Space] (5:30) `isrc:DEH331803621` `qobuz:58465967`
+- **The Jazz Makers** — Pitiful Pearl [The Jazz Makers & The Jazz Five] (3:35) `isrc:QMFMF1401305` `qobuz:22257157`
+- **Amex** — World Doesn't Care [World Doesn't Care] (5:23) `isrc:DEQ600896704` `qobuz:3073930`
+- **Sacred Spirit** — Yeha Noha (Wishes Of Happiness And Prosperity) [Chants And Dances Of The Native Americans] (4:03) `isrc:GBAAA9400375` `qobuz:3548591`
+- **Lou Reed** — This Magic Moment [Lost Highway] (3:23) `isrc:USRH10904295` `qobuz:53113578`
+- **Dead Or Alive** — You Spin Me Round (Like a Record) [You Spin Me Round Promo CD] (3:16) `isrc:GBBBM9999987` `qobuz:143373`
+- **Zaylan** — Never Give Up (If It's Your Dream) [Never Give Up (If It's Your Dream) [Remixes] [feat. Brenda O.R. Love]] (4:17) `isrc:USDY41867097` `qobuz:64670759`
+- **DJ Tonka** — Show Me The Way [Show Me The Way] (5:19) `isrc:GBKQU1518528` `qobuz:111839698`
+- **Ciaran Mcauley** — Forgotten [Forgotten] (5:27) `isrc:NLF711000368` `qobuz:377912572`
+- **Blue Motion** — After Sunset [Sounds Of Soul Deep Vol. 3] (6:50) `isrc:GBKQU1163060` `qobuz:113160174`
+- **Phil Perry** — Perfect Island Night [Magic] (5:30) `isrc:USC4R0302543` `qobuz:506004`
+- **Montego Bay** — Magic [Kinki (Original Soundtracks)] (6:03) `isrc:ITI029200060` `qobuz:388338528`
+- **Third Person** — Person One [Third Person] (5:09) `isrc:BEZ352600018` `qobuz:403911913`
+- **Big Gigantic** — Got The Love (feat. Jennifer Hartswick) [Brighter Future] (5:06) `isrc:USA2P1679644` `qobuz:124284111`
+- **Speedometer** — I Showed Them (The Ghetto) [feat. James Junior] [No Turning Back] (4:10) `isrc:GBJSH1522009` `qobuz:50682547`
+- **François & The Atlas Mountains** — Elle s'envole [Âge Fleuve] (3:17) `isrc:FRT092400087` `qobuz:300623741`
+- **Geese** — Long Island City Here I Come [Getting Killed] (6:37) `isrc:USBQU2500086` `qobuz:339501940`
+- **Nu Era** — Strength Inside [Strength Inside] (3:10) `isrc:AEA3A2406447` `qobuz:285609289`
+- **ethereal echoes** — Baby Shark Remix afraid [Time To Say Goodbye ago] (2:58) `isrc:FRX282489290` `qobuz:262073832`
+- **Charles Mackerras** — La Traviata, Act III: For ever I must leave thee (Addio del passato) (Violetta, Chorus) [A Verdi Celebration] (3:00) `isrc:GBLWD0105714` `qobuz:309892502`
+- **Dee Dee Warwick** — I'm Only Human (feat. The Dixie Flyers) [The Complete Atco Recordings] (3:23) `isrc:USAT20611730` `qobuz:31468299`
+- **High Noon At Salinas** — Iberican Ways [Magic Island - Music for Balearic People, Vol. 5] (4:40) `isrc:NLE711400698` `qobuz:17958454`
+- **Sunlounger** — Found [Best Of Zara Taylor] (3:41) `isrc:NLF711000798` `qobuz:261643355`
+- **Dennis Hart** — Sea Breeze [Sommertraum] (4:18) `isrc:DES461900063` `qobuz:62579056`
+- **Christa Lee** — Celestial Resort [Celeste B-Sides (Original Game Soundtrack)] (3:45) `isrc:QZ6K41800274` `qobuz:188614385`
+- **Roy Hargrove** — Natural Wonders [Moment To Moment] (5:25) `isrc:USGR10000301` `qobuz:773682`
+- **Aruna** — Save the Day [Mellomania 22] (6:25) `isrc:NLE711247501` `qobuz:6958831`
+- **Max Richter** — Terra Incognita [Ad Astra] (2:49) `isrc:DEUM71905875` `qobuz:76341312`
+- **Christina Milian** — Call Me, Beep Me! (The Kim Possible Song) [Songs from Kim Possible] (2:36) `isrc:USWD10220422` `qobuz:85067742`
+- **Adventure Time** — Island Song (Come Along with Me) [feat. Ashley Eriksson] [Adventure Time: Come Along with Me (Original Soundtrack)] (1:48) `isrc:TCADU1811555` `qobuz:95659232`
+- **Ronny Jordan** — Season For Change [The Quiet Revolution] (4:55) `isrc:GBAAN9300056` `qobuz:759808`
+- **Sean Norvis** — Ibiza Feelings [Playa Del Lounge 4] (4:03) `isrc:DEQ601371406` `qobuz:9978179`
+- **Garrido** — Split Second [Split Second] (3:31) `isrc:DEQ601271102` `qobuz:7815404`
+- **Rocking J** — New Dawn [Mellomania 22] (6:03) `isrc:DEQ601219101` `qobuz:6958847`
+- **Jamie Carpenter** — You're Not Alone [Playa del Lounge 3] (5:32) `isrc:DEQ601260802` `qobuz:6025346`
+- **The Jonah Hex** — Happy Ever After [A Heart Full of Ghosts] (4:12) `isrc:QT6662622917` `qobuz:428002998`
+- **Travis Scott** — FE!N [UTOPIA] (3:11) `isrc:USSM12305010` `qobuz:220894313`
+- **Miikka Leinonen** — Firewatch [Firewatch] (3:22) `isrc:GBKQU1789391` `qobuz:106718730`
+- **Epos** — Polarized [In Search of Sunrise 10 - Australia] (7:09) `isrc:DEQ601270502` `qobuz:5638569`
+- **Roman Messer** — Come Home [Come Home] (7:38) `isrc:DEQ601271004` `qobuz:7771240`
+- **E-Mantra** — Between Two Worlds The Boatman [The Hermit's Sanctuary] (7:25) `isrc:GBKQU2071710` `qobuz:107119546`
+- **Carla Werner** — Power [Magic Island - Music for Balearic People, Vol. 5] (6:10) `isrc:NLD681400698` `qobuz:17958456`
+- **Balearic Session** — Visitas [Magic Island Vol. 5 Album Sampler] (5:26) `isrc:DEQ601468802` `qobuz:18620146`
+- **Denis Sender** — From Sunset to Sunrise [Magic Island - Music for Balearic People, Vol. 5] (7:00) `isrc:DEQ601467802` `qobuz:17958478`
+- **Paul Legvand** — New Age [New Age] (5:30) `isrc:DEQ601469001` `qobuz:19504151`
+- **Nick Callan** — Trust Me [Magic Island - Music for Balearic People, Vol. 5] (6:12) `isrc:DEQ601467603` `qobuz:17958482`
+- **Craft Integrated** — New Dimension [New Dimension] (7:21) `isrc:DEQ601467901` `qobuz:17407877`
+- **Another Big Cat** — New Sunset [New Sunset] (5:40) `isrc:NLD682203448` `qobuz:184595474`
+- **Rend Collective** — Live Alive [Campfire II: Simplicity] (3:27) `isrc:USUM71607482` `qobuz:35321709`
+- **Sleeper** — STAY OVER, OUR YOUTH. [RAINYDAY//17] (7:26) `isrc:QZZ7P2453433` `qobuz:304314804`
+- **Sunflare** — Madeira [Madeira / Chalkidiki] (3:11) `isrc:NLD682201343` `qobuz:157321449`
+- **Ditoma** — Stay Awake [Stay Awake] (3:42) `isrc:NLD682202129` `qobuz:166397271`
+- **East Forest** — Gratitude Sleep (Guided Meditation) [Still] (20:55) `isrc:QM24S2004836` `qobuz:160583870`
+- **Noah Shah** — Out of Time [Out of Time] (3:07) `isrc:NLD682200253` `qobuz:144474586`
+- **Cory Goldsmith** — Cesca (FSOE 728) [FSOE 728 - Future Sound Of Egypt Episode 728] (3:12) `isrc:UKRMQ2101074` `qobuz:138963463`
+- **Rafael Osmo** — Domina [Domina] (7:29) `isrc:UKU932261377` `qobuz:199000962`
+- **Dance Gavin Dance** — Chucky vs. The Giant Tortoise [Mothership] (3:56) `isrc:QMRSZ1600572` `qobuz:380476238`
+- **Larisa Migachyov** — The Long Road to San Antonio [Oh, That Ragtime Chick!] (1:31) `isrc:USCGH0902314` `qobuz:83528862`
+- **Archers** — Adam's Ale [Adam's Ale / Embers] (5:22) `isrc:NLD682203001` `qobuz:179263912`
+- **Cosmic Gate** — Exploration of Space [Exploration of Space] (6:20) `isrc:NLD682102545` `qobuz:123129986`
+- **Julie Dvir** — Getting Older [Getting Older] (3:45) `isrc:GBKQU2269557` `qobuz:166543369`
+- **Sofiane Pamart** — Aurora [Borealis] (2:44) `isrc:FRX452190117` `qobuz:352764718`
+- **Vintage & Morelli** — Serein [Serein] (3:34) `isrc:NLD682201711` `qobuz:160840273`
+- **Thomas Newman** — 50% of Light Speed [Passengers (Original Motion Picture Soundtrack)] (3:13) `isrc:US4DG1600765` `qobuz:36896600`
+- **gAIno** — Thought It Might Have Been Love [Unsaid And Undone] (2:53) `isrc:SGB502589840` `qobuz:401030430`
+- **Iam** — Nés sous la même étoile [Galaxie] (3:51) `isrc:FRY689700490` `qobuz:1784612`
+- **The meaninglessness of existence, and therefore freedom** — Essence 779 Spy 133 Helpless 27 Redesign 990 Nervously 851 Partially [Threat 173 Complementary 834 Acceleration 186 Parametric 434 Torture 55 Gastric] (2:01) `isrc:TCAIF2416581` `qobuz:265928083`
+- **Fredd Moz** — Au Revoir [Au Revoir] (6:13) `isrc:NLD682202130` `qobuz:166396736`
+- **Sergey Shabanov** — Far Away [Far Away] (3:09) `isrc:NLD682201908` `qobuz:163412596`
+- **Tekno** — Castles Made Of Sand (FSOE811) [FSOE 811 - Future Sound Of Egypt Episode 811] (3:57) `isrc:UKRMQ2300737` `qobuz:216617882`
+- **Sudan Archives** — Coming Up [Athena] (3:41) `isrc:US2S71912008` `qobuz:122270651`
+- **Thomas Knight** — Forget Me [Forget Me] (3:53) `isrc:NLD682200551` `qobuz:147840312`

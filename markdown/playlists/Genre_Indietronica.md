@@ -1,0 +1,119 @@
+# Genre: Indietronica
+
+Indietronica is a hybrid genre that blends the DIY spirit, song-oriented structures, and guitar-driven aesthetic of indie rock with the synthetic textures and production techniques of electronic music. It is characterized by the integration of sequencers, drum machines, and synthesizers into traditional rock instrumentation, resulting in a sound that remains intimate and melodic while exploring experimental, glitch-influenced, or lo-fi electronic arrangements.
+
+Services: `qobuz:66732790` `tidal:ff76ff1a-368a-490a-9291-4562c798f587`
+
+## Tracks (111)
+
+- **Disco Inferno** — The Last Dance [The 5 EPs] (4:07) `isrc:GBBTF1000130` `qobuz:249099475`
+- **Stereolab** — Cybele's Reverie [Emperor Tomato Ketchup] (4:40) `isrc:USEE10000897` `qobuz:79187045`
+- **Cornelius** — Star Fruit Surf Rider (Damon Albarn Remix) [FM - Fantasma reMixes] (4:55) `isrc:USMTD9934905` `qobuz:71606143`
+- **Laïka** — Black Cat Bone [Good Looking Blues] (4:24) `isrc:GBBNZ9900040` `qobuz:34267120`
+- **Tarwater** — Visit [Silur] (4:16) `isrc:DEQ339801301` `qobuz:68716114`
+- **The Beta Band** — Dry The Rain (Remaster) [The Three E.P.’s (20th Anniversary Remaster)] (6:03) `isrc:GBMVH1800440` `qobuz:51532079`
+- **Broadcast** — Come On Let's Go [The Noise Made By People] (3:17) `isrc:GBBPW9900176` `qobuz:3775839`
+- **Múm** — Green Green Grass Of Tunnel [Finally We Are No One] (4:51) `isrc:GBDCA0100149` `qobuz:3174799`
+- **The Avalanches** — Since I Left You [Since I Left You] (4:22) `isrc:AUMPO0000001` `qobuz:119702824`
+- **DNTEL** — (This Is) The Dream Of Evan And Chan [I Thought I Was Over That] (3:41) `isrc:DEX260505604` `qobuz:30071036`
+- **I Am Robot and Proud** — The Catch [The Catch & Spring Summer Autumn Winter] (3:54) `isrc:USA4D0718101` `qobuz:59908999`
+- **Solex** — Low Kick And Hard Bop [Low Kick and Hard Bop] (3:12) `isrc:USMTD0149901` `qobuz:2484896`
+- **Telefon Tel Aviv** — Sound in a Dark Room [Map of What Is Effortless] (7:48) `isrc:USA330304101` `qobuz:41792075`
+- **Christian Kleine** — Boon [Valis] (6:17) `isrc:DEX260201101` `qobuz:29956738`
+- **Frou Frou** — Let Go [Details] (4:12) `isrc:GBAAN0200016` `qobuz:2467973`
+- **Herrmann & Kleine** — Kissing You At 120 Bpm [Our Noise] (2:55) `isrc:DEX260202603` `qobuz:30027931`
+- **Manual** — Midnight Is Where The Day Begins [Ascend] (5:54) `isrc:DEX260202701` `qobuz:30077379`
+- **Ms. John Soda** — Solid Ground [No P. Or D.] (3:27) `isrc:DEX260203104` `qobuz:30169463`
+- **The Notwist** — Consequence [Neon Golden] (5:13) `isrc:DED620118410` `qobuz:295046354`
+- **B. Fleischmann** — 02/00 [Welcome Tourist] (5:56) `isrc:DEX260304101` `qobuz:29906601`
+- **Styrofoam** — You Pretend You Own This Place [I'm What's There To Show That Something's Missing] (6:43) `isrc:DEX260303603` `qobuz:162744576`
+- **The Books** — Smells Like Content [Lost and Safe (Remastered)] (3:42) `isrc:USY6C1118204` `qobuz:20786953`
+- **The Knife** — Heartbeats [Deep Cuts] (3:51) `isrc:SEWCE0400201` `qobuz:168786685`
+- **The Postal Service** — Such Great Heights [Give Up] (4:26) `isrc:USSUB1304502` `qobuz:407823680`
+- **Lali Puna** — Faking The Books [Faking The Books] (4:00) `isrc:DEX260404401` `qobuz:30072587`
+- **Shy Child** — Drop The Phone [Noise Won't Stop] (3:04) `isrc:GBENL0600694` `qobuz:3493255`
+- **The Go Find** — Over The Edge [Miami] (4:18) `isrc:DEX260404701` `qobuz:30116054`
+- **Architecture in Helsinki** — Do the Whirlwind [In Case We Die] (4:34) `isrc:GBGEY0500027` `qobuz:23626289`
+- **Ladytron** — Seventeen [Light & Magic] (4:37) `isrc:CAN111000309` `qobuz:154193585`
+- **Masha Qrella** — Feels Like [Unsolved Remained] (3:24) `isrc:DEX260505207` `qobuz:30095329`
+- **Hot Chip** — Over And Over [The Warning] (5:47) `isrc:GBAYE0501516` `qobuz:41822843`
+- **Isan** — Look And Yes [Plans Drawn In Pencil] (2:56) `isrc:DEX260606801` `qobuz:30042192`
+- **Junior Boys** — In The Morning [So This Is Goodbye] (4:46) `isrc:GBCEL0600186` `qobuz:2523625`
+- **Ratatat** — Loud Pipes [Classics] (3:46) `isrc:GBBKS0600074` `qobuz:2484016`
+- **The Octopus Project** — Music Is Happiness [One Ten Hundred Thousand Million] (3:39) `isrc:USA3K0500006` `qobuz:52276927`
+- **Digitalism** — Pogo [Idealism] (3:46) `isrc:FRU700700013` `qobuz:256247317`
+- **MGMT** — Electric Feel [Oracular Spectacular] (3:49) `isrc:USSM10702131` `qobuz:16631`
+- **Simian Mobile Disco** — Hustler [Hustler] (3:44) `isrc:GBDNH0700444` `qobuz:885801`
+- **Crystal Castles** — Courtship Dating [Crystal Castles] (3:30) `isrc:CAL450896207` `qobuz:33590381`
+- **Cut Copy** — Hearts On Fire [In Ghost Colours] (4:54) `isrc:AUUM70800092` `qobuz:341507318`
+- **Empire Of The Sun** — Walking On A Dream [Walking On A Dream] (3:18) `isrc:AUEI10800039` `qobuz:1746721`
+- **Friendly Fires** — Jump in the Pool [Friendly Fires] (3:37) `isrc:GBBKS0800398` `qobuz:2532295`
+- **Strfkr** — Rawnald Gregory Erickson the Second [Live From Brooklyn Steel] (2:55) `isrc:US3R41938509` `qobuz:181968828`
+- **The Presets** — My People [Apocalypso] (4:27) `isrc:AUUM70700903` `qobuz:13166905`
+- **Bibio** — lovers' carvings [Ambivalence Avenue] (3:58) `isrc:GBBPW0900007` `qobuz:3776757`
+- **Fever Ray** — If I Had a Heart [Fever Ray] (3:47) `isrc:SEWCE0900201` `qobuz:19772684`
+- **Miike Snow** — Animal [Miike Snow] (4:24) `isrc:GBARL0900399` `qobuz:320260273`
+- **Neon Indian** — Deadbeat Summer [Psychic Chasms] (4:03) `isrc:US6AK0900003` `qobuz:26689408`
+- **Passion Pit** — Sleepyhead [Manners] (2:54) `isrc:USSM10901014` `qobuz:1975463`
+- **The xx** — Intro [xx] (2:07) `isrc:GBBKS0900196` `qobuz:2329144`
+- **Washed Out** — Feel It All Around [Life of Leisure] (3:12) `isrc:USMEX0800099` `qobuz:125609793`
+- **Baths** — Aminals [Cerulean] (3:18) `isrc:US2CT1010022` `qobuz:173223168`
+- **Broken Bells** — The High Road [Broken Bells] (3:52) `isrc:USSM10906065` `qobuz:491215`
+- **Phantogram** — When I'm Small [Eyelid Movies] (4:09) `isrc:USBS51300075` `qobuz:73705302`
+- **Sleigh Bells** — Rill Rill [Treats] (3:49) `isrc:USQE91000035` `qobuz:46247504`
+- **The Naked And Famous** — Young Blood [Passive Me, Aggressive You] (4:06) `isrc:NZNK11000001` `qobuz:388668376`
+- **Com Truise** — Propagation [Iteration] (4:10) `isrc:US2J71709606` `qobuz:41790935`
+- **Holy Ghost!** — Wait And See [Holy Ghost!] (3:40) `isrc:US4GE1100008` `qobuz:11094740`
+- **Little Dragon** — Ritual Union [Ritual Union] (3:30) `isrc:GBEWK1100037` `qobuz:397433533`
+- **SBTRKT** — Hold On [SBTRKT] (3:26) `isrc:GBBKS1100050` `qobuz:3700306`
+- **Small Black** — Despicable Dogs [Small Black] (3:54) `isrc:US38Y1017301` `qobuz:193046285`
+- **Toro y Moi** — Rose Quartz [Anything in Return] (4:13) `isrc:US22N1307704` `qobuz:210181642`
+- **Alt-J** — Breezeblocks [An Awesome Wave] (3:47) `isrc:GBZUZ1200028` `qobuz:388121528`
+- **Chairlift** — I Belong In Your Arms [Something] (3:27) `isrc:USSM11104429` `qobuz:241899615`
+- **Dan Deacon** — When I Was Done Dying [Gliss Riffer] (4:18) `isrc:GBCEL1400553` `qobuz:22690372`
+- **Django Django** — Default [Django Django] (3:03) `isrc:GBMVH1100350` `qobuz:4824858`
+- **Electric Guest** — This Head I Hold [Mondo] (2:55) `isrc:USCJ81100776` `qobuz:5208227`
+- **Grimes** — Genesis [Visions] (4:15) `isrc:CA21O1200002` `qobuz:5177860`
+- **Hundred Waters** — Show Me Love [The Moon Rang Like A Bell] (1:15) `isrc:USQY51466858` `qobuz:17948180`
+- **POLIÇA** — Lay Your Cards Out [Give You The Ghost] (4:04) `isrc:USNY91112307` `qobuz:49427243`
+- **Teen Daze** — Let's Fall Asleep Together [Beach Dreams] (4:35) `isrc:CA0581600079` `qobuz:239194346`
+- **CHVRCHES** — The Mother We Share [The Bones Of What You Believe] (3:11) `isrc:GBZN82300001` `qobuz:232776853`
+- **James Blake** — Retrograde [Overgrown] (3:43) `isrc:GBUM71300788` `qobuz:8410086`
+- **Mount Kimbie** — Made To Stray [Cold Spring Fault Less Youth] (4:46) `isrc:GBBPW1300013` `qobuz:9241939`
+- **Rhye** — Open [Woman] (3:37) `isrc:GBUM71205660` `qobuz:7865577`
+- **Son Lux** — Easy [Lanterns] (4:00) `isrc:USJZA1312604` `qobuz:119367212`
+- **Broods** — Bridges [Evergreen] (3:11) `isrc:GBUM71308964` `qobuz:20608857`
+- **Chet Faker** — Gold [Built on Glass] (4:45) `isrc:AUFF81300507` `qobuz:15394353`
+- **Future Islands** — Seasons (Waiting on You) [Singles] (3:46) `isrc:GBAFL1300206` `qobuz:15142218`
+- **Glass Animals** — Gooey [Zaba] (4:49) `isrc:GBUM71400655` `qobuz:17170140`
+- **Jungle** — Busy Earnin' [Jungle] (3:01) `isrc:GBBKS1400112` `qobuz:17979452`
+- **Sohn** — Artifice [Tremors] (3:17) `isrc:GBAFL1400006` `qobuz:15991063`
+- **Tycho** — Awake [Awake] (4:43) `isrc:US2J71309901` `qobuz:20816802`
+- **Jamie xx** — Gosh [In Colour] (4:50) `isrc:UK7MC2000068` `qobuz:99059477`
+- **Roosevelt** — Fever [Roosevelt] (4:24) `isrc:GBRTB1600014` `qobuz:244644528`
+- **Kllo** — Virtue [Backwater] (3:40) `isrc:GBENL1701987` `qobuz:42264907`
+- **Let's Eat Grandma** — Hot Pink [I'm All Ears] (4:08) `isrc:GBKZV1800003` `qobuz:47757412`
+- **Metronomy** — Lately [Metronomy Forever] (3:14) `isrc:GBMVH1900120` `qobuz:62306752`
+- **Caribou** — Never Come Back [Suddenly] (5:05) `isrc:DED622000007` `qobuz:243012543`
+- **Ela Minus** — they told us it was hard, but they were wrong. [acts of rebellion] (6:00) `isrc:GBCEL1900514` `qobuz:100552303`
+- **Four Tet** — Teenage Birdsong [Sixteen Oceans] (3:25) `isrc:GBXNG2051004` `qobuz:90201190`
+- **Purity Ring** — stardew [WOMB] (4:06) `isrc:GBAFL2000067` `qobuz:90495765`
+- **Sylvan Esso** — Ferris Wheel [Free Love] (2:57) `isrc:USC4R2003469` `qobuz:96816368`
+- **Hood** — The Lost You [Outside Closer] (4:41) `isrc:GBCEL0400022` `qobuz:2523462`
+- **The Notwist** — Pick up the Phone [Neon Golden] (3:55) `isrc:DED620118403` `qobuz:295046347`
+- **Lali Puna** — Micronomic [Faking The Books] (3:23) `isrc:DEX260404403` `qobuz:30072589`
+- **Max Tundra** — Which Song [Parallax Error Beheads You] (5:23) `isrc:GBCEL0800503` `qobuz:2523559`
+- **Schneider TM** — Reality Check [Zoomer] (4:23) `isrc:DED620219201` `qobuz:138117122`
+- **Casiotone For The Painfully Alone** — Young Shields [Etiquette] (3:03) `isrc:TCADL1852264` `qobuz:124097598`
+- **Psapp** — The Monster Song [The Camel's Back] (3:27) `isrc:GBCEL0800531` `qobuz:2524001`
+- **Mice Parade** — Double Dolphins On the Nickel [Mice Parade] (5:24) `isrc:GBDCA0600860` `qobuz:139437159`
+- **M83** — Kim & Jessie [Saturdays = Youth] (5:23) `isrc:GBSLQ0700002` `qobuz:49798758`
+- **Animal Collective** — My Girls [Merriweather Post Pavilion] (5:40) `isrc:GBCEL0800810` `qobuz:2501503`
+- **Memory Tapes** — Bicycle [Kitsuné Maison Compilation 8] (5:20) `isrc:GBKRF0500235` `qobuz:122347667`
+- **School Of Seven Bells** — Half Asleep [Alpinisms] (4:20) `isrc:USVR90955003` `qobuz:391964670`
+- **Austra** — Lose It [Feel It Break] (4:30) `isrc:GBCEL1001067` `qobuz:3557847`
+- **Still Corners** — The Trip [Strange Pleasures] (6:14) `isrc:USSUB1203501` `qobuz:214238456`
+- **Men I Trust** — Show Me How [Show Me How] (3:35) `isrc:TCADM1873570` `qobuz:242125920`
+- **Magdalena Bay** — Secrets (Your Fire) [Mercurial World] (4:05) `isrc:QM6N22162295` `qobuz:122855196`
+- **TOPS** — Way to be Loved [Picture You Staring] (4:23) `isrc:CA21O1400039` `qobuz:20859352`
+- **Fujiya & Miyagi** — Flashback [Flashback] (3:20) `isrc:USA2B1900705` `qobuz:72885237`

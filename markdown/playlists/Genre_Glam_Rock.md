@@ -1,0 +1,100 @@
+# Genre: Glam Rock
+
+Imported genre playlist: Glam Rock.
+
+Services: `qobuz:66737483`
+
+## Tracks (92)
+
+- **Slade** — Coz I Luv You [Sladest] (3:25) `isrc:GBC267100020` `qobuz:385315516`
+- **T. Rex** — Bang a Gong (Get It On) [Bang a Gong (Get It On)] (4:34) `isrc:QM6XS2101098` `qobuz:127894048`
+- **Sweet** — Block Buster! [Strung Up (New Extended Version)] (5:32) `isrc:DEC761500011` `qobuz:31937528`
+- **The Glitter Boys** — Rock and Roll Part 2 [One Hit Wonders (Re-Recorded Versions)] (3:03) `isrc:USA560833529` `qobuz:34581253`
+- **Elton John** — Rocket Man [One Night Only] (5:43) `isrc:GBF080000394` `qobuz:11848573`
+- **Alice Cooper** — School's Out [School's Out] (3:29) `isrc:USRH12103120` `qobuz:208261694`
+- **Chicory Tip** — Son Of My Father [Son Of My Father] (2:59) `isrc:USA560633099` `qobuz:89242305`
+- **David Bowie** — Starman [The Rise and Fall of Ziggy Stardust and the Spiders from Mars] (4:14) `isrc:USJT11500064` `qobuz:25311765`
+- **Roxy Music** — Virginia Plain [Roxy Music] (2:58) `isrc:GBAAA9900179` `qobuz:1067049`
+- **Lou Reed** — Walk On the Wild Side [Transformer] (4:15) `isrc:USRC17201948` `qobuz:23265470`
+- **Mott The Hoople** — All the Young Dudes [All The Young Dudes] (3:31) `isrc:USSM17200181` `qobuz:361568`
+- **Blackfoot Sue** — Standing In The Road [45s - The Original Hit Singles] (3:55) `isrc:GBBFF7200046` `qobuz:206053015`
+- **Lloyd Banks** — Automatic Pilot [The Course Of The Inevitable 3: Pieces Of My Pain] (4:51) `isrc:USUYG1475435` `qobuz:207504087`
+- **Suzi Quatro** — Can The Can [Can The Can] (3:37) `isrc:UKKP22200260` `qobuz:169171952`
+- **Donovan** — Cosmic Wheels [Cosmic Wheels] (4:06) `isrc:IEACI0900064` `qobuz:249771666`
+- **Barry Blue** — Dancing On a Saturday Night [Hits of 1973] (3:08) `isrc:FR10S1836679` `qobuz:290507200`
+- **Alvin Stardust** — My Coo Ca Choo [The Untouchable] (2:47) `isrc:GBAHS0200284` `qobuz:3867654`
+- **New York Dolls** — Personality Crisis [New York Dolls] (3:47) `isrc:USPR37300026` `qobuz:19008662`
+- **Wizzard** — See My Baby Jive [Wizzard Brew] (5:00) `isrc:GBAYE0600806` `qobuz:7269075`
+- **Secos & Molhados** — Sangue latino [A Volta De Secos & Molhados] (2:08) `isrc:BRWMB9802394` `qobuz:2903303`
+- **The Sensational Alex Harvey Band** — The Faith Healer [Next] (7:10) `isrc:DEN120307206` `qobuz:120373877`
+- **Tame Impala** — 'Cause I'm A Man [Currents] (4:01) `isrc:AUUM71500298` `qobuz:24770698`
+- **Silverhead** — Hello New York [16 And Savaged] (3:23) `isrc:QMFMF1526493` `qobuz:148680163`
+- **Brownsville Station** — Smokin' in the Boy's Room [Yeah!] (2:56) `isrc:USAT20107576` `qobuz:2940371`
+- **Space Waltz** — Out On The Street [Space Waltz] (3:15) `isrc:NZUM72200006` `qobuz:210891760`
+- **Kiss** — Strutter [Kiss] (3:12) `isrc:USPR37409126` `qobuz:19998957`
+- **BIXBY** — dying to see you [dying to see you] (2:21) `isrc:USAT22219589` `qobuz:185444980`
+- **The Glitter Band** — Angel Face [20 Glittering Greats - the original hit recordings] (3:01) `isrc:GBBLG9700046` `qobuz:52537023`
+- **Skyhooks** — Horror Movie [Living In The 70's] (3:49) `isrc:AUWA02400441` `qobuz:312924560`
+- **Queen** — Killer Queen [Greatest Hits In Japan] (3:01) `isrc:GBUM71029606` `qobuz:427252073`
+- **Pilot** — Magic [From The Album Of The Same Name] (3:06) `isrc:GBAYE7400052` `qobuz:1762977`
+- **Be Bop Deluxe** — Maid In Heaven [Futurama] (2:29) `isrc:GBAYE7500302` `qobuz:291020983`
+- **The Rubettes** — Sugar Baby Love [The Very Best Of] (3:30) `isrc:GBAKW7400099` `qobuz:2597400`
+- **Bay City Rollers** — Shang-a-Lang [Bay City Rollers] (3:01) `isrc:USAR10000005` `qobuz:15209309`
+- **Sparks** — This Town Ain't Big Enough For Both Of Us [Kimono My House] (3:04) `isrc:GBAAN7400025` `qobuz:13654987`
+- **Mud** — Tiger Feet [The Very Best Of Mud] (3:50) `isrc:GBAYE7400036` `qobuz:4544270`
+- **Bryan Ferry** — The 'In' Crowd [Another Time, Another Place] (4:36) `isrc:GBAAA9900235` `qobuz:1067156`
+- **Kenny** — The Bump [The Hits] (2:35) `isrc:NLB127400620` `qobuz:359538094`
+- **David Essex** — Gonna Make You a Star [Reflections] (3:17) `isrc:GB7QU1300069` `qobuz:12269413`
+- **Paper Lace** — The Night Chicago Died […And Other Bits Of Material] (3:32) `isrc:GBUM72105385` `qobuz:174678876`
+- **Brian Eno** — Baby's On Fire [Here Come The Warm Jets] (5:18) `isrc:GBAAA0400056` `qobuz:4583086`
+- **Mick Ronson** — Only After Dark [Slaughter on 10th Avenue] (3:31) `isrc:GBBLY0903345` `qobuz:75693769`
+- **Heavy Metal Kids** — Delirious [Kitsch] (3:44) `isrc:GBAYE0902552` `qobuz:1744753`
+- **Jet** — My River [Jet] (4:14) `isrc:GBARL1000502` `qobuz:105496541`
+- **Hello** — New York Groove [Hello: The Albums] (2:45) `isrc:GBBGF9810001` `qobuz:93885000`
+- **Ian Hunter** — Once Bitten, Twice Shy [Once Bitten Twice Shy] (3:52) `isrc:USSM10004441` `qobuz:71697`
+- **The Arrows and Friends** — I Love Rock 'N Roll [Tawny Tracks] (2:47) `isrc:USHM90543661` `qobuz:66780890`
+- **Steve Harley & Cockney Rebel** — Make Me Smile (Come Up And See Me) [Make Me Smile (Come Up And See Me)] (3:16) `isrc:UKKP22500999` `qobuz:331484505`
+- **The Swingin' Canadians** — Boney Maronie [Kangaroo Hash] (2:28) `isrc:USA2B2515369` `qobuz:359966239`
+- **Angel** — Tower [The Casablanca Years] (6:57) `isrc:USDJ20200758` `qobuz:54992026`
+- **Ney Matogrosso** — Bandido corazón [Bandido (1976)] (3:31) `isrc:BRWMB9804411` `qobuz:33169162`
+- **Doctors Of Madness** — So Many Ways To Hurt You [Dark Times] (5:11) `isrc:UKPQW1900001` `qobuz:238034008`
+- **The Tubes** — White Punks On Dope [The Tubes] (6:50) `isrc:USAM17504284` `qobuz:112884518`
+- **Metro** — Criminal World [Metro] (5:27) `isrc:GBAJE7600462` `qobuz:385662543`
+- **Magnus Uggla** — Varning på stan [Va ska man ta livet av sig för när man ändå inte får höra snacket efteråt (Med bonussingel)] (4:41) `isrc:SEBGA7701020` `qobuz:47639326`
+- **Nick Gilder** — Hot Child In The City [Hot Child In The City] (3:34) `isrc:USCH39100017` `qobuz:4615985`
+- **Japan** — Adolescent Sex [Adolescent Sex] (3:43) `isrc:GBARL7800021` `qobuz:376441`
+- **Girl** — Hollywood Tease [My Number: The Anthology] (2:37) `isrc:GBAJE8000108` `qobuz:391834443`
+- **Hanoi Rocks** — Tragedy [Bangkok Shocks, Saigon Shakes, Hanoi Rocks] (4:06) `isrc:GBAJE8100025` `qobuz:385657272`
+- **Zolar X** — Timeless [Timeless 50 Years (Remastered)] (1:58) `isrc:QZS9R2200001` `qobuz:149440157`
+- **Specimen** — Kiss Kiss Bang Bang [Azoic] (4:53) `isrc:GBCST8325401` `qobuz:73575808`
+- **Doctor And The Medics** — Spirit in the Sky [Essential Disco 80's] (3:30) `isrc:QMDA61527592` `qobuz:79597438`
+- **MOTHER LOVE BONE** — Stardog Champion [Apple] (4:57) `isrc:USF069026200` `qobuz:352100416`
+- **Manic Street Preachers** — You Love Us [Generation Terrorists (Legacy Edition)] (4:18) `isrc:GBARL1201422` `qobuz:6987963`
+- **Suede** — Metal Mickey [Suede] (3:30) `isrc:GBL2J1000005` `qobuz:211902275`
+- **D Generation** — No Way Out [No Lunch] (4:00) `isrc:USSM19600703` `qobuz:2645165`
+- **Spacehog** — In the Meantime [Resident Alien] (5:00) `isrc:USEE10250270` `qobuz:3006277`
+- **The Ark** — It Takes A Fool To Remain Sane [It Takes a Fool to Remain Sane] (3:56) `isrc:SEVCA0002010` `qobuz:5239100`
+- **King Adora** — Smoulder [Vibrate You] (2:07) `isrc:GBF080000348` `qobuz:91001910`
+- **Ray Charles** — I Can't Stop Lovin' You [The Stars of the Rock and Roll Hall of Fame Sing Their Classic Hits - Volume 5] (4:14) `isrc:GBDAG9302161` `qobuz:73167819`
+- **Khruangbin** — People Everywhere (Still Alive) [The Universe Smiles Upon You] (2:39) `isrc:GB5EM1501518` `qobuz:284367037`
+- **The Darkness** — I Believe in a Thing Called Love [I Believe in a Thing Called Love] (5:11) `isrc:GBAHT2300122` `qobuz:221407514`
+- **White Hot Odyssey** — Subway Killer [White Hot Odyssey] (3:45) `isrc:USMJ30400011` `qobuz:47367717`
+- **Supergroupies** — Bouncin' [Supergroupies] (2:43) `isrc:GBHLW0610002` `qobuz:237765711`
+- **Sohodolls** — Stripper [Ribbed Music for the Numb Generation] (3:36) `isrc:GBHGV0700019` `qobuz:37308565`
+- **Hot Mulligan** — Shouldn’t Have a Leg Hole But I Do [Why Would I Watch] (1:44) `isrc:QZNWP2371501` `qobuz:187900292`
+- **Foxy Shazam** — Unstoppable [Foxy Shazam] (3:33) `isrc:USRE11000001` `qobuz:2114446`
+- **Giuda** — Racey Roller [Racey Roller] (3:41) `isrc:GBSMU4891698` `qobuz:120057305`
+- **Smith Westerns** — Weekend [Dye It Blonde] (3:22) `isrc:GBCEL1100086` `qobuz:3504498`
+- **Prima Donna** — Doll Face Baby [After Hours] (3:07) `isrc:US52Z0810063` `qobuz:72783177`
+- **Grace Jones** — The Fashion Show [Slave To The Rhythm] (6:26) `isrc:USIR28700002` `qobuz:120786082`
+- **Diane Coffee** — Spring Breathes [Everybody's a Good Dog] (5:04) `isrc:US78L1513201` `qobuz:25034729`
+- **The Struts** — Could Have Been Me [Everybody Wants] (3:07) `isrc:GBUM71304611` `qobuz:32506397`
+- **Semi Precious Weapons** — Magnetic Baby [You Love You] (2:44) `isrc:USUM70922999` `qobuz:2171436`
+- **Sincerely, Kyle** — Eye Of The Hurricane [The Story Of A Hopeful Romantic] (2:42) `isrc:QZL382564316` `qobuz:317568772`
+- **The Lemon Twigs** — As Long As We're Together [Do Hollywood] (5:03) `isrc:GBAFL1600336` `qobuz:36840381`
+- **Starbenders** — Powder [Heavy Petting] (3:50) `isrc:TCACN1679336` `qobuz:125256552`
+- **Cait Ceol** — Running Away [Running Away] (3:13) `isrc:QT6642647859` `qobuz:417369920`
+- **Palaye Royale** — Lonely [The Bastards] (3:06) `isrc:USYFZ2031305` `qobuz:338486972`
+- **HMLTD** — To The Door [West of Eden] (3:19) `isrc:GBJET1900005` `qobuz:86705259`
+- **Måneskin** — ZITTI E BUONI [Teatro d'ira - Vol. I] (3:14) `isrc:ITB002100112` `qobuz:116790087`
+- **Buzzard Buzzard Buzzard** — Double Denim Hop [The Non-Stop EP] (3:30) `isrc:GB6TW2000136` `qobuz:94855779`

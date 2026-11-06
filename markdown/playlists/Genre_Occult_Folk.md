@@ -1,0 +1,106 @@
+# Genre: Occult Folk
+
+Imported genre playlist: Occult Folk.
+
+Services: `qobuz:66710793` `tidal:d6a3d0a6-9d4c-4ff3-a947-6b3d79e6fdac`
+
+## Tracks (98)
+
+- **John Carpenter** — H3 - Season of The Witch [Halloween III: Complete Original Motion Picture Score] (2:51) `isrc:US25T0893055` `qobuz:72632953`
+- **The Incredible String Band** — The Minotaur's Song [The Hangman's Beautiful Daughter] (3:16) `isrc:USEE11000527` `qobuz:2622396`
+- **Fairport Convention** — Tam Lin [Liege And Lief] (7:13) `isrc:GBAAN6900039` `qobuz:3880469`
+- **Pentangle** — Lyke-Wake Dirge [Basket of Light] (3:31) `isrc:GBAJE0414236` `qobuz:385640587`
+- **Jethro Tull** — The Witch's Promise [Living in the Past] (3:47) `isrc:GBAYK7000001` `qobuz:804402`
+- **EXUMa** — Obeah Man Come Back [Reincarnation] (2:31) `isrc:USSM12203342` `qobuz:158275427`
+- **Shirley Collins** — Hares On The Mountain [Folk Roots, New Routes] (2:59) `isrc:GBBBA6460520` `qobuz:81328193`
+- **Trees** — The Garden of Jane Delawney [The Garden of Jane Delawney] (4:05) `isrc:GBARL0800945` `qobuz:194677035`
+- **Jan Dukes De Grey** — Sorcerers [Sorcerers] (2:42) `isrc:GBBBA6975850` `qobuz:120355615`
+- **Dave & Toni Arthur** — Cold Blows the Winter's Wind [The Lark in the Morning] (2:54) `isrc:GBBHW6919006` `qobuz:151851236`
+- **Comus** — Drip Drip [First Utterance] (10:51) `isrc:GBAJE0502701` `qobuz:385627244`
+- **Fresh Maggots** — Rosemary Hill [Fresh Maggots] (3:32) `isrc:GBARL1401551` `qobuz:343658131`
+- **Third Ear Band** — Fleance [Music From Macbeth] (4:02) `isrc:GBAYE0302184` `qobuz:289084584`
+- **Dead Can Dance** — As the Bell Rings the Maypole Spins [Aion] (5:16) `isrc:GBAFL0700029` `qobuz:2338550`
+- **Mellow Candle** — The Poet and the Witch [Swaddling Songs] (2:51) `isrc:GBBBA7274340` `qobuz:13656711`
+- **Mark Fry** — The Witch [Dreaming With Alice] (6:43) `isrc:USA2P2036541` `qobuz:103314000`
+- **Steeleye Span** — Alison Gross [Parcel of Rogues] (5:29) `isrc:GBAYK0900398` `qobuz:169146996`
+- **Christian Aaron Perry** — God's Country [God's Country] (3:28) `isrc:USCGJ2129396` `qobuz:116420631`
+- **Randy Burns** — Evening of the Magician [The Exit and Gaslight Years] (2:53) `isrc:USCGH1091000` `qobuz:69202257`
+- **Stone Angel** — The Bells Of Dunwich [Stone Angel] (5:59) `isrc:CYRLD1501439` `qobuz:30650582`
+- **Kate Bush** — Waking The Witch [Hounds of Love] (4:18) `isrc:GBAYE1800891` `qobuz:199956046`
+- **Sol Invictus** — Against the Modern World [Against the Modern World] (1:56) `isrc:DES561190803` `qobuz:189587146`
+- **Dead Can Dance** — The Host of Seraphim [A Passage In Time] (6:17) `isrc:GBAFL9000322` `qobuz:2534354`
+- **Changes** — Fire of Life [Fire of Life] (4:19) `isrc:DEKB30810463` `qobuz:76249937`
+- **All About Eve** — The Garden Of Jane Delawney [All About Eve] (4:01) `isrc:GBUM71502313` `qobuz:27235666`
+- **Fire + Ice** — Annar Rûna [Seasons of Ice] (3:39) `isrc:DES562110115` `qobuz:189662192`
+- **Katharina Katz** — Kapitel 93 - Say It With A Love Song [Say It With A Love Song - GU New Adult] (3:08) `isrc:DEXO32413852` `qobuz:290801749`
+- **Death In June** — Rose Clouds of Holocaust [Rose Clouds of Holocaust] (3:17) `isrc:USI4R0606708` `qobuz:71678725`
+- **JUNKIE PLVYA** — The Moon Lay Hidden Beneath a Cloud [Underground Tape Vol. 1] (2:19) `isrc:UKEX32109627` `qobuz:117536778`
+- **Loreena McKennitt** — The Bonny Swans [The Mask and Mirror] (7:23) `isrc:CAQ110410502` `qobuz:326467592`
+- **Faith and the Muse** — Sparks [Elyria] (6:49) `isrc:US57M0520702` `qobuz:5904349`
+- **Nature And Organisation** — Blood of Solitude I [Snow Leopard Messiah] (1:17) `isrc:DEZ901501285` `qobuz:26712951`
+- **Backworld** — The Devil's Plaything [Anthems From The Pleasure Park] (4:10) `isrc:USCGJ0830271` `qobuz:67217602`
+- **Blood Axis** — Reign I Forever [Blót: Sacrifice in Sweden] (7:21) `isrc:USHM90778636` `qobuz:68116247`
+- **Darkwood** — Wintermarchen [Notwendfeuer] (5:21) `isrc:DEKB30810222` `qobuz:76256894`
+- **In Gowan Ring** — Doors to Nowhere [Doors to Nowhere] (5:25) `isrc:QT6FK2511003` `qobuz:374658410`
+- **Blackmore's Night** — Shadow of the Moon (25th Anniversary New Mix) [Shadow of the Moon (25th Anniversary Edition)] (5:07) `isrc:DEH842200271` `qobuz:182976278`
+- **Rasputina** — Transylvanian Concubine [Transylvanian Regurgitations] (2:47) `isrc:USSM19600957` `qobuz:42741`
+- **Of The Wand & The Moon** — Lost In Emptiness [Emptiness Emptiness Emptiness (2010 re-release)] (4:24) `isrc:DKFDD1000401` `qobuz:58083749`
+- **Sopor Aeternus & The Ensemble Of Shadows** — No-One Is There [Dead Lovers Sarabande, Vol.2] (6:41) `isrc:DEZ900800377` `qobuz:91723333`
+- **Tenhi** — Kielo [Kauan] (12:21) `isrc:DES569901709` `qobuz:189639740`
+- **Grooveminister** — Sonne, Mond und Sterne [Raus mit der Sprache] (4:10) `isrc:DEA819700026` `qobuz:28018322`
+- **Forseti** — Welkes Blatt [Windzeit] (3:14) `isrc:GX4R52180998` `qobuz:203120605`
+- **Ordo Rosarius Equilibrio** — Do Angels Never Cry and Heaven Never Fall? [Do Angels Never Cry and Heaven Never Fall?] (3:59) `isrc:DEBZ71000300` `qobuz:134670649`
+- **Joanna Newsom** — Three Little Babes [The Milk-Eyed Mender] (3:42) `isrc:US58L0426311` `qobuz:48466458`
+- **Sieben** — Ogham The Moon [Ogham Inside The Night / Sex And Wildflowers] (4:13) `isrc:GBZEA0900090` `qobuz:167253352`
+- **CocoRosie** — Werewolf [The Adventures of Ghosthorse & Stillborn] (4:50) `isrc:USTG30730607` `qobuz:32674317`
+- **Espers** — Dead King [The Weed Tree] (4:39) `isrc:US58L2073607` `qobuz:85159053`
+- **Christopher Larkin** — The Grimm Troupe [Hollow Knight: Gods & Nightmares] (2:18) `isrc:USHM21898112` `qobuz:64207638`
+- **Celestial Aeon Project** — Harp Song for the Lady in Green [Celtic Dreamland of Medieval Beauty] (1:17) `isrc:AUGBT2308006` `qobuz:227286134`
+- **Faun Fables** — Eyes Of A Bird [Family Album] (7:30) `isrc:US58L0526201` `qobuz:48465918`
+- **Jeremy Zuckerman** — Iroh's Tsungi Horn [Avatar: The Last Airbender - Book 1: Water] (1:34) `isrc:USN1R2315022` `qobuz:236646772`
+- **Spiritual Front** — Darkroom Friendship [Rotten Roma Casino] (3:20) `isrc:DEZ901000691` `qobuz:189655994`
+- **Pram** — The Owl Service [Museum Of Imaginary Animals] (4:13) `isrc:GBCEL0000190` `qobuz:2525214`
+- **The Dresden Dolls** — Girl Anachronism [The Dresden Dolls] (2:59) `isrc:NLA320420775` `qobuz:2808091`
+- **PJ Harvey** — The Devil [White Chalk] (2:55) `isrc:GBUM70704797` `qobuz:740051`
+- **ROME** — To Die Among Strangers [To Die Among Strangers] (4:13) `isrc:DEZ900900443` `qobuz:91730139`
+- **Sproatly Smith** — Blackthorn Winter [The Minstrel's Grave] (6:32) `isrc:GB6JC1200004` `qobuz:151595187`
+- **The Rowan Amber Mill** — Blood and Bones (2009) [Midsummers] (4:00) `isrc:USHM80942947` `qobuz:92110681`
+- **Fever Ray** — If I Had a Heart [Fever Ray] (3:47) `isrc:SEWCE0900201` `qobuz:19772684`
+- **Karen Elson** — The Ghost Who Walks [The Ghost Who Walks] (3:02) `isrc:GBBKS1000025` `qobuz:2484110`
+- **King Dude** — Let It Burn [Music To Make War To] (3:32) `isrc:USA2P2208865` `qobuz:149580820`
+- **King Krule** — The Krockadile [6 Feet Beneath the Moon] (4:51) `isrc:GBBKS1300100` `qobuz:11096667`
+- **Timber Timbre** — Demon Host [Timber Timbre] (3:37) `isrc:CASA70919286` `qobuz:299241709`
+- **Florence + The Machine** — Seven Devils [Ceremonials] (5:02) `isrc:GBUM71107579` `qobuz:5999578`
+- **S.J. Tucker** — Goddess [Sirens] (2:44) `isrc:USHM20707275` `qobuz:96622738`
+- **Chelsea Wolfe** — The Waves Have Come [Pain Is Beauty] (8:29) `isrc:USA2P1332116` `qobuz:330295819`
+- **Agnes Obel** — The Curse [Aventine] (5:53) `isrc:BEP011300114` `qobuz:11070351`
+- **Daughter** — Smother [If You Leave] (4:01) `isrc:GBAFL1200259` `qobuz:8019029`
+- **Hozier** — In The Woods Somewhere [Hozier (Deluxe Edition)] (5:31) `isrc:IEACJ1400152` `qobuz:19923686`
+- **Brena** — The Hanging Tree [The Hanging Tree: Tribute to James Newton Howard, Jennifer Lawrence, Hunger] (2:39) `isrc:BET231450284` `qobuz:21421346`
+- **Marissa Nadler** — Drive [July] (5:36) `isrc:GBBRP1343201` `qobuz:14530042`
+- **Eivør** — Trøllabundin [Slør] (4:31) `isrc:DKBCA1503210` `qobuz:39114690`
+- **Darkher** — The Kingdom Field [The Kingdom Field] (4:00) `isrc:DES561416504` `qobuz:189620162`
+- **Emma Ruth Rundle** — Marked for Death [Marked for Death] (3:39) `isrc:QMLD61402153` `qobuz:46390524`
+- **The Amazing Devil** — The Horror and the Wild [The Horror and the Wild] (4:40) `isrc:UK6822000802` `qobuz:90314016`
+- **Adnan Sami** — Folk Tune From N.W.F.P [Ecstasy   Adnan Sami Khan] (11:17) `isrc:USA560803397` `qobuz:1347514`
+- **James** — Sit Down [Nothing But Love - The Definitive Best Of] (3:25) `isrc:GB2DY2300254` `qobuz:360633813`
+- **Carl Orr** — Return of the Jazz Police [Return of the Jazz Police] (10:49) `isrc:AUMGB2501562` `qobuz:397411691`
+- **Boris Blank** — Electrified [Electrified] (2:15) `isrc:CHB391400001` `qobuz:20469407`
+- **Bryony Jarman-Pinto** — Moving Forward [Moving Forward] (5:49) `isrc:GBEUE2400055` `qobuz:371469476`
+- **Scrim** — tale of the missing man [via crucis] (2:57) `isrc:QZAPK2000665` `qobuz:329648775`
+- **Halloween Horreur** — Witch's Halloween Brew in the Haunted Woods [Halloween Sounds: Conjuring Witch Waltz] (3:22) `isrc:QZWV32343709` `qobuz:231378585`
+- **Daniil Trifonov** — Tchaikovsky: Children's Album, Op. 39: No. 20, Baba Yaga "The Witch" [Tchaikovsky: The Sleeping Beauty; Children's Album; Piano Sonata, Op. 80; Theme and Variations, Op. 19/6] (0:33) `isrc:DEN962534820` `qobuz:345436476`
+- **David Arkenstone** — Dance In The Desert [Caravan Of Light] (6:06) `isrc:USNA10017287` `qobuz:2487589`
+- **The Left Outsides** — Séance [Séance] (4:15) `isrc:UKA3U2000135` `qobuz:93017114`
+- **Roberto Delgado** — Green Eyes [Holiday In México] (2:52) `isrc:USA371251193` `qobuz:69005184`
+- **Alexandre Desplat** — Flight to Compound [Zero Dark Thirty (Original Soundtrack)] (5:07) `isrc:UG4DG1200283` `qobuz:36325461`
+- **The Bridge City Sinners** — Kreacher [Here's to the Devil] (3:08) `isrc:QZES71909949` `qobuz:382374171`
+- **Teufel** — Črna Maša [Vražje Bajke] (3:33) `isrc:DEPI82449081` `qobuz:295303640`
+- **Myrkur** — Ella [Folkesange] (3:54) `isrc:US2641942601` `qobuz:81202931`
+- **Pink Floyd** — Mother [The Wall (Remastered 2011 Version)] (5:34) `isrc:GBN9Y1100100` `qobuz:47683836`
+- **Flower Children Of The Apocalypse** — Witch Song [End Of Days] (2:52) `isrc:QZK6H2274637` `qobuz:164332803`
+- **Bruce Springsteen** — Dancing In the Dark [Born In The U.S.A.] (4:05) `isrc:USSM18400416` `qobuz:13360993`
+- **Ethel Cain** — Ptolemaea [Preacher’s Daughter] (6:23) `isrc:GBKPL2294757` `qobuz:170718382`
+- **Ivy Chalice** — Noctifer [Noctifer] (5:28) `isrc:DE1O62475557` `qobuz:304961318`
+- **Bandshee** — Witch Wizard [The Long Road] (5:14) `isrc:USCGH2519382` `qobuz:312477199`
+- **Gwenifer Raymond** — Bleak Night in Rabbit's Wood [Last Night I Heard The Dog Star Bark] (6:22) `isrc:CA0WS2521009` `qobuz:334410823`

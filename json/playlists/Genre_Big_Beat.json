@@ -1,0 +1,1010 @@
+{
+  "name": "Genre: Big Beat",
+  "services": {
+    "qobuz": "66713456",
+    "tidal": "f4848422-5646-474a-8e16-b1e26cd85f6a"
+  },
+  "description": "Imported genre playlist: Big Beat.",
+  "tracks": [
+    {
+      "artist": "Pop Will Eat Itself",
+      "title": "Ich Bin Ein Auslander",
+      "services": {
+        "qobuz": "58333592"
+      },
+      "album": "Dos Dedos Mis Amigos",
+      "duration": 240,
+      "isrc": "GBAHT1800808"
+    },
+    {
+      "artist": "Leftfield",
+      "title": "Phat Planet",
+      "services": {
+        "qobuz": "53259"
+      },
+      "album": "Rhythm and Stealth",
+      "duration": 323,
+      "isrc": "GBBKN9900230"
+    },
+    {
+      "artist": "Bomb The Bass",
+      "title": "Bug Powder Dust",
+      "services": {
+        "qobuz": "88257924"
+      },
+      "album": "Clear",
+      "duration": 258,
+      "isrc": "GBANY9400113"
+    },
+    {
+      "artist": "Emergency Broadcast Network",
+      "title": "3:7:8",
+      "services": {
+        "qobuz": "48526420"
+      },
+      "album": "Telecommunication Breakdown",
+      "duration": 221,
+      "isrc": "USTV19500178"
+    },
+    {
+      "artist": "Renegade Soundwave",
+      "title": "The Phantom",
+      "services": {
+        "qobuz": "12844356"
+      },
+      "album": "Soundclash",
+      "duration": 287,
+      "isrc": "GBAJH0400651"
+    },
+    {
+      "artist": "Freak Power",
+      "title": "Turn On, Tune In, Cop Out",
+      "services": {
+        "qobuz": "13458015"
+      },
+      "album": "Turn On, Tune In, Cop Out",
+      "duration": 266,
+      "isrc": "GBANY9300027"
+    },
+    {
+      "artist": "The Future Sound Of London",
+      "title": "We Have Explosive (Part 1)",
+      "services": {
+        "qobuz": "5081862"
+      },
+      "album": "We Have Explosive",
+      "duration": 441,
+      "isrc": "GBAAA9710438"
+    },
+    {
+      "artist": "The Chemical Brothers",
+      "title": "Block Rockin' Beats",
+      "services": {
+        "qobuz": "1065661"
+      },
+      "album": "Dig Your Own Hole",
+      "duration": 313,
+      "isrc": "GBAAA9700048"
+    },
+    {
+      "artist": "The Prodigy",
+      "title": "Firestarter",
+      "services": {
+        "qobuz": "7008315"
+      },
+      "album": "The Fat of the Land - Expanded Edition",
+      "duration": 279,
+      "isrc": "GBBKS9700080"
+    },
+    {
+      "artist": "The Crystal Method",
+      "title": "Busy Child",
+      "services": {
+        "qobuz": "168757727"
+      },
+      "album": "Vegas",
+      "duration": 444,
+      "isrc": "USOR19700302"
+    },
+    {
+      "artist": "Bentley Rhythm Ace",
+      "title": "Bentley's Gonna Sort You Out",
+      "services": {
+        "qobuz": "1764609"
+      },
+      "album": "Bentley's Gonna Sort You Out / Run On The Spot [playlist 1]",
+      "duration": 307,
+      "isrc": "GBAYE9701295"
+    },
+    {
+      "artist": "Death In Vegas",
+      "title": "Dirt",
+      "services": {
+        "qobuz": "37361461"
+      },
+      "album": "Dead Elvis",
+      "duration": 353,
+      "isrc": "GBARS9600152"
+    },
+    {
+      "artist": "David Holmes",
+      "title": "Let's Get Killed",
+      "services": {
+        "qobuz": "3881612"
+      },
+      "album": "Let's Get Killed",
+      "duration": 447,
+      "isrc": "GBARA9700048"
+    },
+    {
+      "artist": "Fluke",
+      "title": "Atom Bomb",
+      "services": {
+        "qobuz": "4395635"
+      },
+      "album": "Risotto",
+      "duration": 345,
+      "isrc": "GBAAA9710426"
+    },
+    {
+      "artist": "Lunatic Calm",
+      "title": "Leave You Far Behind",
+      "services": {
+        "qobuz": "240379324"
+      },
+      "album": "Leave You Far Behind",
+      "duration": 192,
+      "isrc": "QZHN61920797"
+    },
+    {
+      "artist": "Coldcut",
+      "title": "Timber",
+      "services": {
+        "qobuz": "57916213"
+      },
+      "album": "Let Us Play",
+      "duration": 272,
+      "isrc": "GBCFB0408232"
+    },
+    {
+      "artist": "Cornershop",
+      "title": "Brimful of Asha",
+      "services": {
+        "qobuz": "387099913"
+      },
+      "album": "Why Try Harder - The Greatest Hits",
+      "duration": 240,
+      "isrc": "GBBMQ9700126"
+    },
+    {
+      "artist": "Primal Scream",
+      "title": "Burning Wheel",
+      "services": {
+        "qobuz": "4591560"
+      },
+      "album": "Vanishing Point (Expanded Edition)",
+      "duration": 437,
+      "isrc": "GBAAW9700329"
+    },
+    {
+      "artist": "Fatboy Slim",
+      "title": "The Rockafeller Skank",
+      "services": {
+        "qobuz": "387092312"
+      },
+      "album": "The Rockafeller Skank",
+      "duration": 241,
+      "isrc": "GBBMQ9800051"
+    },
+    {
+      "artist": "Propellerheads",
+      "title": "Spybreak!",
+      "services": {
+        "qobuz": "50508047"
+      },
+      "album": "Decksandrumsandrockandroll 20th anniversary",
+      "duration": 420,
+      "isrc": "GBCRC9700040"
+    },
+    {
+      "artist": "Wildchild",
+      "title": "Renegade Master",
+      "services": {
+        "qobuz": "217302452"
+      },
+      "album": "British Festival",
+      "duration": 240,
+      "isrc": "GBAKW9800036"
+    },
+    {
+      "artist": "Lo Fidelity Allstars",
+      "title": "Battleflag",
+      "services": {
+        "qobuz": "376965814"
+      },
+      "album": "How to Operate With a Blown Mind",
+      "duration": 339,
+      "isrc": "GBBMQ9800018"
+    },
+    {
+      "artist": "The Wiseguys",
+      "title": "Start the Commotion",
+      "services": {
+        "qobuz": "6326570"
+      },
+      "album": "The Antidote",
+      "duration": 352,
+      "isrc": "GBCFC9800044"
+    },
+    {
+      "artist": "Dub Pistols",
+      "title": "Cyclone",
+      "services": {
+        "qobuz": "141684470"
+      },
+      "album": "Point Blank",
+      "duration": 214,
+      "isrc": "GBARS9800097"
+    },
+    {
+      "artist": "Lionrock",
+      "title": "Rude Boy Rock",
+      "services": {
+        "qobuz": "13506336"
+      },
+      "album": "Rude Boy Rock",
+      "duration": 221,
+      "isrc": "GBARL9700579"
+    },
+    {
+      "artist": "Monkey Mafia",
+      "title": "Blow The Whole Joint Up",
+      "services": {
+        "qobuz": "3110510"
+      },
+      "album": "Deconstruction Reconstructed 006",
+      "duration": 318,
+      "isrc": "GBARS9500008"
+    },
+    {
+      "artist": "Hardknox",
+      "title": "Fire Like This",
+      "services": {
+        "qobuz": "211425"
+      },
+      "album": "Hardknox",
+      "duration": 278,
+      "isrc": "USJI19910678"
+    },
+    {
+      "artist": "Shaggy",
+      "title": "Leggo Babylon Wickedness (feat. Beenie Man)",
+      "services": {
+        "qobuz": "33259431"
+      },
+      "album": "King Jammy Presents New Sounds Of Freedom",
+      "duration": 271,
+      "isrc": "USVPR1500485"
+    },
+    {
+      "artist": "Beastie Boys",
+      "title": "Body Movin'",
+      "services": {
+        "qobuz": "810383"
+      },
+      "album": "Solid Gold Hits",
+      "duration": 248,
+      "isrc": "USCA20501215"
+    },
+    {
+      "artist": "Moby",
+      "title": "Bodyrock",
+      "services": {
+        "qobuz": "385581554"
+      },
+      "album": "Play",
+      "duration": 216,
+      "isrc": "GBAJH9900040"
+    },
+    {
+      "artist": "Apollo 440",
+      "title": "Stop the Rock",
+      "services": {
+        "qobuz": "13373075"
+      },
+      "album": "Gettin' High On Your Own Supply",
+      "duration": 212,
+      "isrc": "GBBBM9902102"
+    },
+    {
+      "artist": "Les Rythmes Digitales",
+      "title": "(Hey You) What's That Sound?",
+      "services": {
+        "qobuz": "122548603"
+      },
+      "album": "Darkdancer",
+      "duration": 252,
+      "isrc": "GBCFC9900005"
+    },
+    {
+      "artist": "Blackfeet Revolution",
+      "title": "Make Me Your Man",
+      "services": {
+        "qobuz": "313536927"
+      },
+      "album": "Blackfeet Revolution",
+      "duration": 208,
+      "isrc": "FR6V81405629"
+    },
+    {
+      "artist": "Premethius",
+      "title": "Coming Home In A Bodybag",
+      "services": {
+        "qobuz": "365470885"
+      },
+      "album": "Zombocalypse",
+      "duration": 209,
+      "isrc": "QT6E92524128"
+    },
+    {
+      "artist": "Megan Thee Stallion",
+      "title": "Number One Rule",
+      "services": {
+        "qobuz": "296967441"
+      },
+      "album": "MEGAN: ACT II",
+      "duration": 140,
+      "isrc": "USAT22409891"
+    },
+    {
+      "artist": "Julian Lloyd Webber",
+      "title": "Summer Sunset (arr. J. Lloyd Webber for 2 cellos and piano)",
+      "services": {
+        "qobuz": "306444081"
+      },
+      "album": "A Tale of Two Cellos",
+      "duration": 140,
+      "isrc": "HKI191331120"
+    },
+    {
+      "artist": "Clockwork Voodoo Freaks",
+      "title": "Deaf Mick's Throwdown",
+      "services": {
+        "qobuz": "72723430"
+      },
+      "album": "Revenge of the B-Boy",
+      "duration": 392,
+      "isrc": "US3C69910180"
+    },
+    {
+      "artist": "Mr Natural",
+      "title": "That Green Jesus",
+      "services": {
+        "qobuz": "370923564"
+      },
+      "album": "That Green Jesus",
+      "duration": 516,
+      "isrc": "GBDBH9900054"
+    },
+    {
+      "artist": "The Damned",
+      "title": "There's a Ghost in My House",
+      "services": {
+        "qobuz": "363268026"
+      },
+      "album": "Not Like Everybody Else",
+      "duration": 182,
+      "isrc": "DEH842505650"
+    },
+    {
+      "artist": "CLS",
+      "title": "Can You Feel It ?",
+      "services": {
+        "qobuz": "247589852"
+      },
+      "album": "Dj Mag : House",
+      "duration": 283,
+      "isrc": "USSR39106904"
+    },
+    {
+      "artist": "Luche",
+      "title": "Enlightenment",
+      "services": {
+        "qobuz": "126800702"
+      },
+      "album": "Acid Fight Records 08",
+      "duration": 397,
+      "isrc": "FRDKW2103712"
+    },
+    {
+      "artist": "Jacob Miller",
+      "title": "I'm Just A Dread/ One Shut (Original 12' Disco Mix)",
+      "services": {
+        "qobuz": "2000926"
+      },
+      "album": "Jacob Miller Lives On",
+      "duration": 388,
+      "isrc": "USVPR0713797"
+    },
+    {
+      "artist": "Cinematic",
+      "title": "Typhoon",
+      "services": {
+        "qobuz": "52442364"
+      },
+      "album": "Maretimo Records \u2013 Masterpieces, Vol. 1 (The Wonderful World of Lounge Music)",
+      "duration": 383,
+      "isrc": "DEH331603197"
+    },
+    {
+      "artist": "Soft Science",
+      "title": "Breaking",
+      "services": {
+        "qobuz": "59961877"
+      },
+      "album": "\"Dying Star (Cirrus) / Breaking\"",
+      "duration": 217,
+      "isrc": "QMHEK1500002"
+    },
+    {
+      "artist": "Al\u00ebem",
+      "title": "Why Hawai",
+      "services": {
+        "qobuz": "1614198"
+      },
+      "album": "Sound Season 1",
+      "duration": 230,
+      "isrc": "FRS379500010"
+    },
+    {
+      "artist": "DJ Shadow",
+      "title": "Depth Charge",
+      "services": {
+        "qobuz": "122596252"
+      },
+      "album": "The Mountain Will Fall",
+      "duration": 293,
+      "isrc": "QM8RL1400329"
+    },
+    {
+      "artist": "Garbage",
+      "title": "Stupid Girl",
+      "services": {
+        "qobuz": "387853189"
+      },
+      "album": "Garbage",
+      "duration": 460,
+      "isrc": "GB5KW2000761"
+    },
+    {
+      "artist": "Michael Henderson",
+      "title": "Wide Receiver",
+      "services": {
+        "qobuz": "25274419"
+      },
+      "album": "Wide Receiver (Expanded Edition)",
+      "duration": 482,
+      "isrc": "USBR18000004"
+    },
+    {
+      "artist": "Dylan Henner",
+      "title": "We Walked all the Way to the Lake and The Water Was So Still We Jumped in Naked",
+      "services": {
+        "qobuz": "344004020"
+      },
+      "album": "Star Dream FM",
+      "duration": 280,
+      "isrc": "UK9AV2502274"
+    },
+    {
+      "artist": "Sol Brothers",
+      "title": "That Elvis Track",
+      "services": {
+        "qobuz": "52597853"
+      },
+      "album": "That Elvis Track",
+      "duration": 410,
+      "isrc": "GBCGN9900191"
+    },
+    {
+      "artist": "Nas",
+      "title": "The World Is Yours",
+      "services": {
+        "qobuz": "53793"
+      },
+      "album": "R&B: From Doo-Wop To Hip-Hop",
+      "duration": 290,
+      "isrc": "USSM19401318"
+    },
+    {
+      "artist": "Dj Liquid",
+      "title": "Headrillaz - Weird Planet",
+      "services": {
+        "qobuz": "63918231"
+      },
+      "album": "Electroacidfunk 2",
+      "duration": 310,
+      "isrc": "USA370303070"
+    },
+    {
+      "artist": "Oasis",
+      "title": "Rock 'n' Roll Star",
+      "services": {
+        "qobuz": "102751645"
+      },
+      "album": "Definitely Maybe (Deluxe Edition Remastered)",
+      "duration": 321,
+      "isrc": "GBQCP1400053"
+    },
+    {
+      "artist": "Meat Katie",
+      "title": "It's Murder Out There",
+      "services": {
+        "qobuz": "113608081"
+      },
+      "album": "Off The Bone",
+      "duration": 365,
+      "isrc": "GBKQU1654235"
+    },
+    {
+      "artist": "Eboman",
+      "title": "Donuts With Buddah",
+      "services": {
+        "qobuz": "261206903"
+      },
+      "album": "From The EboStation",
+      "duration": 239,
+      "isrc": "NL8GJ2400026"
+    },
+    {
+      "artist": "Mo'kalamity",
+      "title": "Wake Up",
+      "services": {
+        "qobuz": "244445907"
+      },
+      "album": "Shine",
+      "duration": 273,
+      "isrc": "FR9W12333620"
+    },
+    {
+      "artist": "Cut & Paste",
+      "title": "Forget It (Logical Toolbox Edit)",
+      "services": {
+        "qobuz": "36388490"
+      },
+      "album": "Planet Boogie - EP",
+      "duration": 194,
+      "isrc": "GBCGN9800044"
+    },
+    {
+      "artist": "Japandroids",
+      "title": "The House That Heaven Built",
+      "services": {
+        "qobuz": "5497607"
+      },
+      "album": "Celebration Rock",
+      "duration": 289,
+      "isrc": "US3R41223807"
+    },
+    {
+      "artist": "Mono",
+      "title": "Life In Mono",
+      "services": {
+        "qobuz": "388121994"
+      },
+      "album": "Formica Blues",
+      "duration": 285,
+      "isrc": "GBBND9700114"
+    },
+    {
+      "artist": "Saint Etienne",
+      "title": "Filthy",
+      "services": {
+        "qobuz": "40812620"
+      },
+      "album": "Casino Classics",
+      "duration": 356,
+      "isrc": "GBUM71106584"
+    },
+    {
+      "artist": "The Herbaliser",
+      "title": "Wall Crawling Giant Insect Breaks",
+      "services": {
+        "qobuz": "6280544"
+      },
+      "album": "Very Mercenary",
+      "duration": 339,
+      "isrc": "GBCFB9900420"
+    },
+    {
+      "artist": "Indian Ropeman",
+      "title": "Dog in the Piano",
+      "services": {
+        "qobuz": "376965764"
+      },
+      "album": "Elephant Sound",
+      "duration": 341,
+      "isrc": "GBBMQ9900012"
+    },
+    {
+      "artist": "Charlie Hunter",
+      "title": "There's Still a Riot Goin' On",
+      "services": {
+        "qobuz": "329102135"
+      },
+      "album": "Different Strokes for Different Folks",
+      "duration": 264,
+      "isrc": "QM6N22541916"
+    },
+    {
+      "artist": "Deeds Plus Thoughts",
+      "title": "The World's Made Up of This and That",
+      "services": {
+        "qobuz": "371526005"
+      },
+      "album": "The World's Made Up of This and That",
+      "duration": 358,
+      "isrc": "GBEUE1002174"
+    },
+    {
+      "artist": "Beverley Church Hogan",
+      "title": "You're Looking at Me",
+      "services": {
+        "qobuz": "94396650"
+      },
+      "album": "Can't Get Out of This Mood",
+      "duration": 315,
+      "isrc": "QM9AA1828862"
+    },
+    {
+      "artist": "Marlon Sea",
+      "title": "Disco Del Mar",
+      "services": {
+        "qobuz": "49347558"
+      },
+      "album": "Tummy Re-Touch",
+      "duration": 225,
+      "isrc": "GBDNM0300125"
+    },
+    {
+      "artist": "Black Rebel Motorcycle Club",
+      "title": "Whatever Happened To My Rock 'N' Roll (Punk Song)",
+      "services": {
+        "qobuz": "190570515"
+      },
+      "album": "B.R.M.C.",
+      "duration": 278,
+      "isrc": "USVI20000532"
+    },
+    {
+      "artist": "Riccardo Tesi",
+      "title": "STEVIA",
+      "services": {
+        "qobuz": "390451550"
+      },
+      "album": "Camerock",
+      "duration": 234,
+      "isrc": "ITDF92500048"
+    },
+    {
+      "artist": "The Ballistic Brothers",
+      "title": "Peckings",
+      "services": {
+        "qobuz": "235645866"
+      },
+      "album": "London Hooligan Soul",
+      "duration": 176,
+      "isrc": "GBHRP1995011"
+    },
+    {
+      "artist": "Freestylers",
+      "title": "Ruffneck",
+      "services": {
+        "qobuz": "34386684"
+      },
+      "album": "We Rock Hard",
+      "duration": 340,
+      "isrc": "GBCGN9900284"
+    },
+    {
+      "artist": "Soul Hooligan",
+      "title": "Sweet Pea",
+      "services": {
+        "qobuz": "37274706"
+      },
+      "album": "Sweet Pea",
+      "duration": 334,
+      "isrc": "GBCGN9900302"
+    },
+    {
+      "artist": "Dj kingbig",
+      "title": "Here We Go Now",
+      "services": {
+        "qobuz": "298325232"
+      },
+      "album": "Here We Go Now",
+      "duration": 122,
+      "isrc": "TCAIX2450273"
+    },
+    {
+      "artist": "Sir.e Constance",
+      "title": "hardcore la guerre",
+      "services": {
+        "qobuz": "355835762"
+      },
+      "album": "coucou hihi",
+      "duration": 217,
+      "isrc": "TCAJZ2509180"
+    },
+    {
+      "artist": "Big Big Train",
+      "title": "The Artist",
+      "services": {
+        "qobuz": "362928853"
+      },
+      "album": "Woodcut",
+      "duration": 435,
+      "isrc": "GBDHC2657902"
+    },
+    {
+      "artist": "Skunk Anansie",
+      "title": "Pickin On Me",
+      "services": {
+        "qobuz": "249091554"
+      },
+      "album": "Twisted - Everyday Hurts",
+      "duration": 258,
+      "isrc": "GBBTF9600151"
+    },
+    {
+      "artist": "Eddie Hartman",
+      "title": "DC COMICS",
+      "services": {
+        "qobuz": "346555531"
+      },
+      "album": "DC COMICS",
+      "duration": 100,
+      "isrc": "QZWFG2559107"
+    },
+    {
+      "artist": "Deekline",
+      "title": "Bounce & Rebound",
+      "services": {
+        "qobuz": "186324547"
+      },
+      "album": "Against the Grain Classics",
+      "duration": 250,
+      "isrc": "GBFNF0900005"
+    },
+    {
+      "artist": "Soul Of Man",
+      "title": "Between The Eyes",
+      "services": {
+        "qobuz": "53828213"
+      },
+      "album": "Between The Eyes",
+      "duration": 423,
+      "isrc": "GBFEK0200003"
+    },
+    {
+      "artist": "Girl Eats Boy",
+      "title": "Napalm In Bohemia",
+      "services": {
+        "qobuz": "64345142"
+      },
+      "album": "Thrilled By Velocity And Distortion",
+      "duration": 406,
+      "isrc": "USA370682872"
+    },
+    {
+      "artist": "Midfield General",
+      "title": "Devil in Sports Casual",
+      "services": {
+        "qobuz": "376986469"
+      },
+      "album": "Generalisation",
+      "duration": 359,
+      "isrc": "GBBMQ9700042"
+    },
+    {
+      "artist": "Tingvall Trio",
+      "title": "Air Guitar",
+      "services": {
+        "qobuz": "210052848"
+      },
+      "album": "Birds",
+      "duration": 323,
+      "isrc": "DES292300016"
+    },
+    {
+      "artist": "King Bee",
+      "title": "Back By Dope Demand",
+      "services": {
+        "qobuz": "258575332"
+      },
+      "album": "Back By Dope Demand",
+      "duration": 217,
+      "isrc": "NLRZ89000019"
+    },
+    {
+      "artist": "Drunken Master",
+      "title": "Hip Hop Scuba Diver",
+      "services": {
+        "qobuz": "17896599"
+      },
+      "album": "Straight Out The Cat Litter: Scoop 1",
+      "duration": 359,
+      "isrc": "GBCFV0600049"
+    },
+    {
+      "artist": "Fuselage",
+      "title": "Seize The Time",
+      "services": {
+        "qobuz": "293257153"
+      },
+      "album": "Bona Fido Presents Galactic Funk",
+      "duration": 296,
+      "isrc": "GBKQU1845959"
+    },
+    {
+      "artist": "Harry Styles",
+      "title": "American Girls",
+      "services": {
+        "qobuz": "398705951"
+      },
+      "album": "Kiss All The Time. Disco, Occasionally.",
+      "duration": 213,
+      "isrc": "USSM12600097"
+    },
+    {
+      "artist": "Rasmus Gardell",
+      "title": "Mass Hysteria",
+      "services": {
+        "qobuz": "131631617"
+      },
+      "album": "Mass Hysteria",
+      "duration": 265,
+      "isrc": "GBGNS1701955"
+    },
+    {
+      "artist": "The Sabres Of Paradise",
+      "title": "Smokebelch II",
+      "services": {
+        "qobuz": "3775556"
+      },
+      "album": "Sabresonic II",
+      "duration": 763,
+      "isrc": "GBBPW9500128"
+    },
+    {
+      "artist": "Superglue",
+      "title": "P.U.F. (Robot Coupe Drug Orientation Dub)",
+      "services": {
+        "qobuz": "67791979"
+      },
+      "album": "Music For Dreams Vol. 1 (Compiled By Kenneth Bager)",
+      "duration": 326,
+      "isrc": "USA560885936"
+    },
+    {
+      "artist": "John Bunch",
+      "title": "Hi Fly",
+      "services": {
+        "qobuz": "74019603"
+      },
+      "album": "NY Swing",
+      "duration": 321,
+      "isrc": "US25T0811454"
+    },
+    {
+      "artist": "King Willonius",
+      "title": "I Belong To The Streets",
+      "services": {
+        "qobuz": "371858700"
+      },
+      "album": "I Belong To The Streets",
+      "duration": 222,
+      "isrc": "QT6F72530313"
+    },
+    {
+      "artist": "Sniper",
+      "title": "Grav\u00e9 dans la roche",
+      "services": {
+        "qobuz": "4703778"
+      },
+      "album": "Grav\u00e9 dans la roche",
+      "duration": 285,
+      "isrc": "FR29U0300003"
+    },
+    {
+      "artist": "Eric Church",
+      "title": "Give Me Back My Hometown",
+      "services": {
+        "qobuz": "14566674"
+      },
+      "album": "The Outsiders",
+      "duration": 252,
+      "isrc": "USUM71317739"
+    },
+    {
+      "artist": "Mint Royale",
+      "title": "Don't Falter",
+      "services": {
+        "qobuz": "167468708"
+      },
+      "album": "On the Ropes",
+      "duration": 252,
+      "isrc": "GBCLV9901102"
+    },
+    {
+      "artist": "Lady Gaga",
+      "title": "Joanne (Where Do You Think You're Goin'?)",
+      "services": {
+        "qobuz": "46737529"
+      },
+      "album": "Joanne (Where Do You Think You're Goin'?)",
+      "duration": 278,
+      "isrc": "USUM71713955"
+    },
+    {
+      "artist": "Req",
+      "title": "Train Jam",
+      "services": {
+        "qobuz": "3776118"
+      },
+      "album": "Car Paint Scheme",
+      "duration": 336,
+      "isrc": "GBBPW0300076"
+    },
+    {
+      "artist": "Megadeth",
+      "title": "Cold Sweat",
+      "services": {
+        "qobuz": "32312125"
+      },
+      "album": "Super Collider",
+      "duration": 190,
+      "isrc": "USUM71304669"
+    },
+    {
+      "artist": "John Mayer",
+      "title": "I Don't Need No Doctor",
+      "services": {
+        "qobuz": "2719908"
+      },
+      "album": "Where the Light Is: John Mayer Live In Los Angeles",
+      "duration": 362,
+      "isrc": "USSM10801217"
+    },
+    {
+      "artist": "Brandon Flowers",
+      "title": "I Came Here To Get Over You",
+      "services": {
+        "qobuz": "2370367"
+      },
+      "album": "Flamingo",
+      "duration": 140,
+      "isrc": "USUM71021218"
+    },
+    {
+      "artist": "Overseer",
+      "title": "Supermoves",
+      "services": {
+        "qobuz": "35115"
+      },
+      "album": "Wreckage",
+      "duration": 287,
+      "isrc": "USSM10306303"
+    },
+    {
+      "artist": "Elvis vs JXL",
+      "title": "A Little Less Conversation",
+      "services": {
+        "qobuz": "2719258"
+      },
+      "album": "Elvis 30 #1 Hits",
+      "duration": 213,
+      "isrc": "USRC10200288"
+    }
+  ]
+}

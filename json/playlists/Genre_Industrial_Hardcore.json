@@ -1,0 +1,479 @@
+{
+  "name": "Genre: Industrial Hardcore",
+  "services": {
+    "qobuz": "66714943"
+  },
+  "description": "Imported genre playlist: Industrial Hardcore.",
+  "tracks": [
+    {
+      "artist": "The Mover",
+      "title": "Nightflight (Nonstop 2 Kaos) [Remastered 2017]",
+      "services": {
+        "qobuz": "41434521"
+      },
+      "album": "Frontal Sickness (Remastered 2017)",
+      "duration": 278,
+      "isrc": "DEN451700207"
+    },
+    {
+      "artist": "Disintegrator",
+      "title": "Lock On Target",
+      "services": {
+        "qobuz": "225600437"
+      },
+      "album": "Lock on Target",
+      "duration": 283,
+      "isrc": "USZUT9200012"
+    },
+    {
+      "artist": "Caspar Pound",
+      "title": "Fever Called Love",
+      "services": {
+        "qobuz": "5919837"
+      },
+      "album": "Fever Called Love (Part 2)",
+      "duration": 437,
+      "isrc": "USQY50970401"
+    },
+    {
+      "artist": "Andy The Core",
+      "title": "Bad Manners",
+      "services": {
+        "qobuz": "92676439"
+      },
+      "album": "Kill Somebody",
+      "duration": 174,
+      "isrc": "ITD131700048"
+    },
+    {
+      "artist": "Dream Theater",
+      "title": "The Glass Prison",
+      "services": {
+        "qobuz": "2783509"
+      },
+      "album": "Six Degrees of Inner Turbulence",
+      "duration": 832,
+      "isrc": "USEE10140472"
+    },
+    {
+      "artist": "Death In Vegas",
+      "title": "Natja",
+      "services": {
+        "qobuz": "37361437"
+      },
+      "album": "Scorpio Rising",
+      "duration": 230,
+      "isrc": "GBARL0200104"
+    },
+    {
+      "artist": "Cruel Force",
+      "title": "Power Surge",
+      "services": {
+        "qobuz": "304869374"
+      },
+      "album": "Dawn Of The Axe",
+      "duration": 233,
+      "isrc": "DEZC62362563"
+    },
+    {
+      "artist": "Various Interprets",
+      "title": "Blood of an English Muffin (Attic & Acesome Remix)",
+      "services": {
+        "qobuz": "24622820"
+      },
+      "album": "Remixen: 20 Years of Industrial Strength",
+      "duration": 359,
+      "isrc": "USZUT0800014"
+    },
+    {
+      "artist": "Taiwan MC",
+      "title": "A Mi Lado",
+      "services": {
+        "qobuz": "33194722"
+      },
+      "album": "Cool & Deadly",
+      "duration": 242,
+      "isrc": "FRP7S1600030"
+    },
+    {
+      "artist": "The Horrorist",
+      "title": "One Night in Nyc",
+      "services": {
+        "qobuz": "135014323"
+      },
+      "album": "Manic Panic",
+      "duration": 254,
+      "isrc": "DEBZ70400147"
+    },
+    {
+      "artist": "Tron Dj",
+      "title": "Phantom 12XU",
+      "services": {
+        "qobuz": "77220689"
+      },
+      "album": "Torture Traxxx, Vol. 1",
+      "duration": 546,
+      "isrc": "USLQ21710501"
+    },
+    {
+      "artist": "DJ Sensible",
+      "title": "Bad Motherf*Cker",
+      "services": {
+        "qobuz": "338998017"
+      },
+      "album": "Addict",
+      "duration": 327,
+      "isrc": "GXBNP2508496"
+    },
+    {
+      "artist": "Hellfish and Producer",
+      "title": "No More Rock N Roll",
+      "services": {
+        "qobuz": "307302898"
+      },
+      "album": "No More Rock N Roll",
+      "duration": 458,
+      "isrc": "UK6XJ1902050"
+    },
+    {
+      "artist": "Hellfish",
+      "title": "Serious-Evil-Shit-Mission-3",
+      "services": {
+        "qobuz": "187325747"
+      },
+      "album": "Serious-Evil-Shit-Mission-3",
+      "duration": 555,
+      "isrc": "UK6XJ1902000"
+    },
+    {
+      "artist": "Technological Terror Crew",
+      "title": "The Uridium Project",
+      "services": {
+        "qobuz": "168046763"
+      },
+      "album": "The Uridium Project",
+      "duration": 308,
+      "isrc": "UK6XJ1900871"
+    },
+    {
+      "artist": "Barrington Levy",
+      "title": "Here I Come",
+      "services": {
+        "qobuz": "124367209"
+      },
+      "album": "Here I Come",
+      "duration": 106,
+      "isrc": "QMJMT2103705"
+    },
+    {
+      "artist": "Hardcoholics",
+      "title": "Oblivious",
+      "services": {
+        "qobuz": "65951672"
+      },
+      "album": "Chunk Of Meat",
+      "duration": 462,
+      "isrc": "UK6XJ0100246"
+    },
+    {
+      "artist": "Teddy Swims",
+      "title": "Funeral",
+      "services": {
+        "qobuz": "291773014"
+      },
+      "album": "I've Tried Everything But Therapy (Part 2)",
+      "duration": 234,
+      "isrc": "USWB12403716"
+    },
+    {
+      "artist": "Bankroll Marleyy",
+      "title": "Get Bacc (feat. NBT Honcho Supreme & Hotboy Skeeta)",
+      "services": {
+        "qobuz": "428314099"
+      },
+      "album": "Get Bacc (feat. NBT Honcho Supreme & Hotboy Skeeta)",
+      "duration": 247,
+      "isrc": "QT6E82660103"
+    },
+    {
+      "artist": "Radium",
+      "title": "Motordog Bytes Back",
+      "services": {
+        "qobuz": "57003229"
+      },
+      "album": "Radium And Hellfish",
+      "duration": 292,
+      "isrc": "UK6XJ0300020"
+    },
+    {
+      "artist": "Parliament",
+      "title": "P-Funk (Wants To Get Funked Up)",
+      "services": {
+        "qobuz": "29991538"
+      },
+      "album": "Mothership Connection",
+      "duration": 461,
+      "isrc": "USPR37502461"
+    },
+    {
+      "artist": "Ophidian",
+      "title": "Butterfly VIP",
+      "services": {
+        "qobuz": "359731373"
+      },
+      "album": "Masters Of Hardcore - Magnum Opus",
+      "duration": 432,
+      "isrc": "NLHY51000017"
+    },
+    {
+      "artist": "Mindustries",
+      "title": "Dominate",
+      "services": {
+        "qobuz": "337238831"
+      },
+      "album": "Deleted Scenes",
+      "duration": 336,
+      "isrc": "NLCK42508781"
+    },
+    {
+      "artist": "Shiro Sagisu",
+      "title": "Rei I",
+      "services": {
+        "qobuz": "89008914"
+      },
+      "album": "NEON GENESIS EVANGELION (Original Series Soundtrack)",
+      "duration": 179,
+      "isrc": "JPKI09531180"
+    },
+    {
+      "artist": "Endymion",
+      "title": "Raging in the dancehall",
+      "services": {
+        "qobuz": "44777261"
+      },
+      "album": "Raging In The Dancehall",
+      "duration": 313,
+      "isrc": "NLQS91300087"
+    },
+    {
+      "artist": "Dr. Peacock",
+      "title": "Disorder",
+      "services": {
+        "qobuz": "107127722"
+      },
+      "album": "Frenchcore Compilation, Part. 3",
+      "duration": 320,
+      "isrc": "NLS161801468"
+    },
+    {
+      "artist": "Ptite Soeur",
+      "title": "GEIGER COUNTER",
+      "services": {
+        "qobuz": "359759505"
+      },
+      "album": "PRETTY DOLLCORPSE",
+      "duration": 157,
+      "isrc": "QT3F32591578"
+    },
+    {
+      "artist": "Daft Punk",
+      "title": "Harder, Better, Faster, Stronger",
+      "services": {
+        "qobuz": "1068445"
+      },
+      "album": "Discovery",
+      "duration": 226,
+      "isrc": "GBDUW0000059"
+    },
+    {
+      "artist": "Celestial Aeon Project",
+      "title": "Yoda's Theme from Star Wars",
+      "services": {
+        "qobuz": "264224195"
+      },
+      "album": "Star Wars Sleep Lofi",
+      "duration": 85,
+      "isrc": "AUMEV2454625"
+    },
+    {
+      "artist": "Bloodcage",
+      "title": "Strangle & Mutilate",
+      "services": {
+        "qobuz": "372129662"
+      },
+      "album": "Retaliate",
+      "duration": 279,
+      "isrc": "NLFL70800014"
+    },
+    {
+      "artist": "Switch Technique",
+      "title": "Altered Youth",
+      "services": {
+        "qobuz": "57224035"
+      },
+      "album": "Altered",
+      "duration": 311,
+      "isrc": "NLCK41013133"
+    },
+    {
+      "artist": "Tymon",
+      "title": "Dead Evil",
+      "services": {
+        "qobuz": "201649325"
+      },
+      "album": "30 Years of Industrial Strength",
+      "duration": 292,
+      "isrc": "USZUT2300024"
+    },
+    {
+      "artist": "Henry Jackman",
+      "title": "Rage and Serenity",
+      "services": {
+        "qobuz": "3630865"
+      },
+      "album": "X-MEN: FIRST CLASS",
+      "duration": 125,
+      "isrc": "USFM91100246"
+    },
+    {
+      "artist": "Lucy Furr",
+      "title": "Desolation",
+      "services": {
+        "qobuz": "359696331"
+      },
+      "album": "Ground Zero 2014 - Dark Matter",
+      "duration": 220,
+      "isrc": "NLS241401547"
+    },
+    {
+      "artist": "Detest",
+      "title": "Witch Hunt",
+      "services": {
+        "qobuz": "103533308"
+      },
+      "album": "Dissected &  Erected Ep",
+      "duration": 318,
+      "isrc": "NLCK41073534"
+    },
+    {
+      "artist": "Tugie",
+      "title": "The Death Chant Chronicles",
+      "services": {
+        "qobuz": "11328816"
+      },
+      "album": "Q-Base 2013 Mixed by Ran D, ACTI, Mad Dog and Hellfish",
+      "duration": 237,
+      "isrc": "NLE801313062"
+    },
+    {
+      "artist": "John Lennon",
+      "title": "Happy Xmas (War Is Over)",
+      "services": {
+        "qobuz": "100141847"
+      },
+      "album": "GIMME SOME TRUTH.",
+      "duration": 213,
+      "isrc": "GBUM72004326"
+    },
+    {
+      "artist": "Miss Hysteria",
+      "title": "Nyctophilia",
+      "services": {
+        "qobuz": "359701229"
+      },
+      "album": "Masters Of Hardcore Presents Masters In The Mix Vol. 2",
+      "duration": 303,
+      "isrc": "NLHY51500159"
+    },
+    {
+      "artist": "Djipe",
+      "title": "Press Q to win",
+      "services": {
+        "qobuz": "92673507"
+      },
+      "album": "Savage",
+      "duration": 136,
+      "isrc": "ITD131700024"
+    },
+    {
+      "artist": "Akira",
+      "title": "My Shit Style",
+      "services": {
+        "qobuz": "85329341"
+      },
+      "album": "Enter The Rice EP",
+      "duration": 350,
+      "isrc": "UK6XJ2000006"
+    },
+    {
+      "artist": "Kilbourne",
+      "title": "Gore Tex",
+      "services": {
+        "qobuz": "123723725"
+      },
+      "album": "Seismic",
+      "duration": 287,
+      "isrc": "QZPKS2100013"
+    },
+    {
+      "artist": "Dance Gavin Dance",
+      "title": "Self-Trepanation",
+      "services": {
+        "qobuz": "406512961"
+      },
+      "album": "Tree City Sessions 3",
+      "duration": 188,
+      "isrc": "QMRSZ2600495"
+    },
+    {
+      "artist": "Liam Theodore",
+      "title": "When the Screens Go Dark",
+      "services": {
+        "qobuz": "430177817"
+      },
+      "album": "Empire of Illusions",
+      "duration": 176,
+      "isrc": "QT6662658328"
+    },
+    {
+      "artist": "Enzyme X",
+      "title": "Anonymous",
+      "services": {
+        "qobuz": "7453736"
+      },
+      "album": "Harmony of Hardcore Festival 2012",
+      "duration": 251,
+      "isrc": "NLHY51200013"
+    },
+    {
+      "artist": "Broken Bells",
+      "title": "Perfect World",
+      "services": {
+        "qobuz": "17596855"
+      },
+      "album": "After the Disco",
+      "duration": 384,
+      "isrc": "USSM11305455"
+    },
+    {
+      "artist": "Exploit Gym",
+      "title": "Bet Against Me",
+      "services": {
+        "qobuz": "407484090"
+      },
+      "album": "Rebuilt Harder",
+      "duration": 174,
+      "isrc": "QT82T2635382"
+    },
+    {
+      "artist": "The Satan",
+      "title": "No Way Back",
+      "services": {
+        "qobuz": "332655797"
+      },
+      "album": "No Way Back EP",
+      "duration": 261,
+      "isrc": "GBKQU2538792"
+    }
+  ]
+}

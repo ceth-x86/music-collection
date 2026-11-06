@@ -1,0 +1,2009 @@
+{
+  "name": "Best Of 192 kHz",
+  "services": {
+    "qobuz": "5957167"
+  },
+  "description": "If you are looking for the perfect playlist to test your hi-fi system, you'll find it here! This selection of songs in 192 kHz is a colourful mix of all musical genres and eras in the best possible sound quality. Get the most out of your audio equipment and treat your ears with songs by Michael Jackson, John Coltrane, Sarah Vaughan, Miles Davis, Ray Charles, Aretha Franklin, Madonna, Frank Sinatra, Elvis Presley, The Rolling Stones, Bruce Springsteen, Rush, Creedence Clearwater Revival, Janis Joplin, Keith Jarrett and many more!",
+  "tracks": [
+    {
+      "artist": "Pink Floyd",
+      "title": "The Great Gig in the Sky",
+      "services": {
+        "qobuz": "193171339"
+      },
+      "album": "The Dark Side Of The Moon (50th Anniversary)",
+      "duration": 283,
+      "isrc": "GBN9Y2200019"
+    },
+    {
+      "artist": "Nirvana",
+      "title": "On A Plain",
+      "services": {
+        "qobuz": "133713101"
+      },
+      "album": "Nevermind",
+      "duration": 196,
+      "isrc": "USGF19942511"
+    },
+    {
+      "artist": "Buckingham Nicks",
+      "title": "Crying in the Night",
+      "services": {
+        "qobuz": "347627735"
+      },
+      "album": "Buckingham Nicks",
+      "duration": 179,
+      "isrc": "USRH12501549"
+    },
+    {
+      "artist": "Steely Dan",
+      "title": "Aja",
+      "services": {
+        "qobuz": "230070008"
+      },
+      "album": "Aja",
+      "duration": 477,
+      "isrc": "USMC17647229"
+    },
+    {
+      "artist": "Ethel Cain",
+      "title": "Janie",
+      "services": {
+        "qobuz": "350233028"
+      },
+      "album": "Willoughby Tucker, I'll Always Love You",
+      "duration": 300,
+      "isrc": "QM7282558731"
+    },
+    {
+      "artist": "Neil Young",
+      "title": "Heart of Gold",
+      "services": {
+        "qobuz": "35927312"
+      },
+      "album": "Harvest",
+      "duration": 187,
+      "isrc": "USRE11100415"
+    },
+    {
+      "artist": "Journey",
+      "title": "Faithfully",
+      "services": {
+        "qobuz": "378387"
+      },
+      "album": "Greatest Hits",
+      "duration": 266,
+      "isrc": "USSM19932791"
+    },
+    {
+      "artist": "Lee Morgan",
+      "title": "The Sidewinder",
+      "services": {
+        "qobuz": "15936712"
+      },
+      "album": "The Sidewinder",
+      "duration": 627,
+      "isrc": "USBN21200853"
+    },
+    {
+      "artist": "Joe Pass",
+      "title": "Night And Day",
+      "services": {
+        "qobuz": "320713507"
+      },
+      "album": "Virtuoso",
+      "duration": 211,
+      "isrc": "USC4R2448015"
+    },
+    {
+      "artist": "Sting",
+      "title": "Englishman In New York",
+      "services": {
+        "qobuz": "182509128"
+      },
+      "album": "...Nothing Like The Sun",
+      "duration": 266,
+      "isrc": "USAM18700040"
+    },
+    {
+      "artist": "Don Henley",
+      "title": "The Boys Of Summer",
+      "services": {
+        "qobuz": "282434943"
+      },
+      "album": "Building The Perfect Beast",
+      "duration": 289,
+      "isrc": "USGF18502601"
+    },
+    {
+      "artist": "Joni Mitchell",
+      "title": "Coyote",
+      "services": {
+        "qobuz": "264709939"
+      },
+      "album": "The Asylum Albums (1976-1980)",
+      "duration": 300,
+      "isrc": "USRH12304851"
+    },
+    {
+      "artist": "Neil Young",
+      "title": "Thrasher",
+      "services": {
+        "qobuz": "278877357"
+      },
+      "album": "Neil Young Archives Vol. III Takes",
+      "duration": 378,
+      "isrc": "USRE12400221"
+    },
+    {
+      "artist": "John Lee Hooker",
+      "title": "Baby, Please Don't Go",
+      "services": {
+        "qobuz": "270009554"
+      },
+      "album": "Burning Hell",
+      "duration": 291,
+      "isrc": "USC4R2441629"
+    },
+    {
+      "artist": "Mark Knopfler",
+      "title": "Two Pairs Of Hands",
+      "services": {
+        "qobuz": "282895736"
+      },
+      "album": "One Deep River",
+      "duration": 245,
+      "isrc": "GBUM72310329"
+    },
+    {
+      "artist": "Jack White",
+      "title": "Old Scratch Blues",
+      "services": {
+        "qobuz": "280683084"
+      },
+      "album": "No Name",
+      "duration": 211,
+      "isrc": "US3JJ2401116"
+    },
+    {
+      "artist": "Lindsey Buckingham",
+      "title": "Slow Dancing",
+      "services": {
+        "qobuz": "265777615"
+      },
+      "album": "20th Century Lindsey",
+      "duration": 245,
+      "isrc": "USRH12400347"
+    },
+    {
+      "artist": "Big Star",
+      "title": "Thirteen",
+      "services": {
+        "qobuz": "263868794"
+      },
+      "album": "#1 Record",
+      "duration": 153,
+      "isrc": "USC4R2442645"
+    },
+    {
+      "artist": "Yes",
+      "title": "We Have Heaven (Full Version)",
+      "services": {
+        "qobuz": "270605134"
+      },
+      "album": "We Have Heaven (Full Version)",
+      "duration": 141,
+      "isrc": "USRH12302550"
+    },
+    {
+      "artist": "Alison Brown",
+      "title": "Wolf Moon",
+      "services": {
+        "qobuz": "277872282"
+      },
+      "album": "Wolf Moon",
+      "duration": 176,
+      "isrc": "USCO92482905"
+    },
+    {
+      "artist": "The Rolling Stones",
+      "title": "She\u2019s A Rainbow",
+      "services": {
+        "qobuz": "43392761"
+      },
+      "album": "Their Satanic Majesties Request (50th Anniversary Edition)",
+      "duration": 274,
+      "isrc": "USA171710107"
+    },
+    {
+      "artist": "Buffalo Springfield",
+      "title": "For What It's Worth (2018 Remaster)",
+      "services": {
+        "qobuz": "50671412"
+      },
+      "album": "What's That Sound? -  Complete Albums Collection (Remastered)",
+      "duration": 159,
+      "isrc": "USRH11800941"
+    },
+    {
+      "artist": "Creedence Clearwater Revival",
+      "title": "Lodi",
+      "services": {
+        "qobuz": "18893849"
+      },
+      "album": "The Complete Studio Albums",
+      "duration": 192,
+      "isrc": "USFI86900056"
+    },
+    {
+      "artist": "Bob Dylan",
+      "title": "Hurricane",
+      "services": {
+        "qobuz": "4866129"
+      },
+      "album": "Desire",
+      "duration": 512,
+      "isrc": "USSM17500791"
+    },
+    {
+      "artist": "John Denver",
+      "title": "Leaving, On a Jet Plane",
+      "services": {
+        "qobuz": "59408469"
+      },
+      "album": "John Denver's Greatest Hits",
+      "duration": 248,
+      "isrc": "USRC17308356"
+    },
+    {
+      "artist": "The Beach Boys",
+      "title": "God Only Knows",
+      "services": {
+        "qobuz": "26841847"
+      },
+      "album": "Pet Sounds",
+      "duration": 175,
+      "isrc": "USCA29600662"
+    },
+    {
+      "artist": "The Monkees",
+      "title": "Daydream Believer",
+      "services": {
+        "qobuz": "19512410"
+      },
+      "album": "Greatest Hits",
+      "duration": 187,
+      "isrc": "USRH11300618"
+    },
+    {
+      "artist": "Electric Light Orchestra",
+      "title": "Sweet Talkin' Woman",
+      "services": {
+        "qobuz": "28187740"
+      },
+      "album": "Out of the Blue",
+      "duration": 229,
+      "isrc": "USSM17200398"
+    },
+    {
+      "artist": "The Traveling Wilburys",
+      "title": "Handle With Care",
+      "services": {
+        "qobuz": "32497385"
+      },
+      "album": "The Traveling Wilburys, Vol. 1",
+      "duration": 199,
+      "isrc": "GBLVT1600001"
+    },
+    {
+      "artist": "Eagles",
+      "title": "New Kid in Town",
+      "services": {
+        "qobuz": "10473708"
+      },
+      "album": "Hotel California",
+      "duration": 304,
+      "isrc": "USEE11300196"
+    },
+    {
+      "artist": "Robert Palmer",
+      "title": "Addicted To Love",
+      "services": {
+        "qobuz": "112880657"
+      },
+      "album": "Riptide",
+      "duration": 363,
+      "isrc": "USIR28500003"
+    },
+    {
+      "artist": "Toto",
+      "title": "I Won't Hold You Back",
+      "services": {
+        "qobuz": "52258"
+      },
+      "album": "Toto IV",
+      "duration": 293,
+      "isrc": "USSM19801934"
+    },
+    {
+      "artist": "Chicago",
+      "title": "If You Leave Me Now",
+      "services": {
+        "qobuz": "8766738"
+      },
+      "album": "X",
+      "duration": 238,
+      "isrc": "USRH11300066"
+    },
+    {
+      "artist": "A-Ha",
+      "title": "Hunting High and Low (2015 Remaster)",
+      "services": {
+        "qobuz": "26997281"
+      },
+      "album": "Hunting High and Low",
+      "duration": 224,
+      "isrc": "USWB11506573"
+    },
+    {
+      "artist": "Madonna",
+      "title": "Borderline",
+      "services": {
+        "qobuz": "6007322"
+      },
+      "album": "Madonna",
+      "duration": 321,
+      "isrc": "USWB11200470"
+    },
+    {
+      "artist": "Michael Jackson",
+      "title": "Beat It",
+      "services": {
+        "qobuz": "7399"
+      },
+      "album": "Thriller",
+      "duration": 258,
+      "isrc": "USSM19902990"
+    },
+    {
+      "artist": "The Supremes",
+      "title": "Where Did Our Love Go",
+      "services": {
+        "qobuz": "31704849"
+      },
+      "album": "Where Did Our Love Go",
+      "duration": 152,
+      "isrc": "USMO19290049"
+    },
+    {
+      "artist": "Diana Ross",
+      "title": "I'm Coming Out",
+      "services": {
+        "qobuz": "30820948"
+      },
+      "album": "Diana",
+      "duration": 324,
+      "isrc": "USMO18000073"
+    },
+    {
+      "artist": "Donna Summer",
+      "title": "Love To Love You Baby",
+      "services": {
+        "qobuz": "63852213"
+      },
+      "album": "Love To Love You Baby",
+      "duration": 1013,
+      "isrc": "USWWW0125678"
+    },
+    {
+      "artist": "Aretha Franklin",
+      "title": "Think",
+      "services": {
+        "qobuz": "6005959"
+      },
+      "album": "Aretha Now",
+      "duration": 138,
+      "isrc": "USAT21201293"
+    },
+    {
+      "artist": "Etta James",
+      "title": "At Last",
+      "services": {
+        "qobuz": "32342911"
+      },
+      "album": "At Last!",
+      "duration": 181,
+      "isrc": "USMC16046323"
+    },
+    {
+      "artist": "Roberta Flack",
+      "title": "The First Time Ever I Saw Your Face",
+      "services": {
+        "qobuz": "21812432"
+      },
+      "album": "First Take",
+      "duration": 322,
+      "isrc": "USAT21404645"
+    },
+    {
+      "artist": "Stan Getz",
+      "title": "The Girl From Ipanema",
+      "services": {
+        "qobuz": "77524797"
+      },
+      "album": "Getz/Gilberto",
+      "duration": 320,
+      "isrc": "USPR36305146"
+    },
+    {
+      "artist": "Coleman Hawkins",
+      "title": "You'd Be So Nice To Come Home To",
+      "services": {
+        "qobuz": "52207876"
+      },
+      "album": "Coleman Hawkins Encounters Ben Webster",
+      "duration": 258,
+      "isrc": "USF095900040"
+    },
+    {
+      "artist": "Chet Baker",
+      "title": "You're Driving Me Crazy",
+      "services": {
+        "qobuz": "80772342"
+      },
+      "album": "The Legendary Riverside Albums",
+      "duration": 175,
+      "isrc": "USC4R1901538"
+    },
+    {
+      "artist": "Bill Evans Trio",
+      "title": "Autumn Leaves",
+      "services": {
+        "qobuz": "39123450"
+      },
+      "album": "Portrait In Jazz",
+      "duration": 362,
+      "isrc": "USC4R1705853"
+    },
+    {
+      "artist": "Miles Davis",
+      "title": "Limbo",
+      "services": {
+        "qobuz": "50292181"
+      },
+      "album": "Sorcerer",
+      "duration": 441,
+      "isrc": "USSM16700249"
+    },
+    {
+      "artist": "B.B. King",
+      "title": "Don't Answer The Door",
+      "services": {
+        "qobuz": "26842928"
+      },
+      "album": "His Best: The Electric B.B. King",
+      "duration": 312,
+      "isrc": "USMC16945385"
+    },
+    {
+      "artist": "James Brown",
+      "title": "It's A Man's, Man's, Man's World",
+      "services": {
+        "qobuz": "52482615"
+      },
+      "album": "20 All-Time Greatest Hits!",
+      "duration": 169,
+      "isrc": "USUR10001144"
+    },
+    {
+      "artist": "Nat King Cole",
+      "title": "Unforgettable",
+      "services": {
+        "qobuz": "16857156"
+      },
+      "album": "The Extraordinary",
+      "duration": 207,
+      "isrc": "USCA21001556"
+    },
+    {
+      "artist": "Louis Armstrong",
+      "title": "What A Wonderful World",
+      "services": {
+        "qobuz": "16028737"
+      },
+      "album": "What A Wonderful World",
+      "duration": 139,
+      "isrc": "USMC16758823"
+    },
+    {
+      "artist": "Dean Martin",
+      "title": "On An Evening In Roma (Sott'er Celo De Roma)",
+      "services": {
+        "qobuz": "25220466"
+      },
+      "album": "Italian Love Songs",
+      "duration": 147,
+      "isrc": "USCA29801841"
+    },
+    {
+      "artist": "Elvis Presley",
+      "title": "In the Ghetto",
+      "services": {
+        "qobuz": "62762155"
+      },
+      "album": "Live 1969",
+      "duration": 176,
+      "isrc": "USRC11901333"
+    },
+    {
+      "artist": "The Righteous Brothers",
+      "title": "You've Lost That Lovin' Feelin'",
+      "services": {
+        "qobuz": "51318218"
+      },
+      "album": "The Very Best Of The Righteous Brothers - Unchained Melody",
+      "duration": 224,
+      "isrc": "USPR39609181"
+    },
+    {
+      "artist": "Neil Diamond",
+      "title": "I Am...I Said",
+      "services": {
+        "qobuz": "39232937"
+      },
+      "album": "50th Anniversary Collection",
+      "duration": 215,
+      "isrc": "USMC17146646"
+    },
+    {
+      "artist": "Don McLean",
+      "title": "American Pie",
+      "services": {
+        "qobuz": "54365900"
+      },
+      "album": "American Pie",
+      "duration": 513,
+      "isrc": "USEM38600088"
+    },
+    {
+      "artist": "David Bowie",
+      "title": "Life on Mars?",
+      "services": {
+        "qobuz": "25311827"
+      },
+      "album": "Hunky Dory",
+      "duration": 235,
+      "isrc": "USJT11500142"
+    },
+    {
+      "artist": "Jeff Buckley",
+      "title": "Grace",
+      "services": {
+        "qobuz": "27606062"
+      },
+      "album": "Grace",
+      "duration": 322,
+      "isrc": "USSM19400912"
+    },
+    {
+      "artist": "Patti Smith Group",
+      "title": "Because the Night",
+      "services": {
+        "qobuz": "47632885"
+      },
+      "album": "Easter",
+      "duration": 205,
+      "isrc": "USAR17800008"
+    },
+    {
+      "artist": "Pat Benatar",
+      "title": "Heartbreaker",
+      "services": {
+        "qobuz": "15436178"
+      },
+      "album": "In The Heat Of The Night",
+      "duration": 208,
+      "isrc": "USCH38400033"
+    },
+    {
+      "artist": "Kiss",
+      "title": "I Was Made For Lovin' You",
+      "services": {
+        "qobuz": "20000876"
+      },
+      "album": "Dynasty",
+      "duration": 269,
+      "isrc": "USPR39330175"
+    },
+    {
+      "artist": "Alice Cooper",
+      "title": "School's Out (2013 Remaster)",
+      "services": {
+        "qobuz": "16884628"
+      },
+      "album": "Alice Cooper's Greatest Hits",
+      "duration": 210,
+      "isrc": "USWB11303161"
+    },
+    {
+      "artist": "Van Halen",
+      "title": "Jump",
+      "services": {
+        "qobuz": "8766600"
+      },
+      "album": "Studio Albums 1978-1984",
+      "duration": 244,
+      "isrc": "USWB11300474"
+    },
+    {
+      "artist": "Guns N' Roses",
+      "title": "Sweet Child O' Mine",
+      "services": {
+        "qobuz": "51041298"
+      },
+      "album": "Appetite For Destruction (Super Deluxe) - 192 kHz",
+      "duration": 356,
+      "isrc": "USGF18714809"
+    },
+    {
+      "artist": "The Knack",
+      "title": "My Sharona",
+      "services": {
+        "qobuz": "16973551"
+      },
+      "album": "Get The Knack",
+      "duration": 293,
+      "isrc": "USCA20200254"
+    },
+    {
+      "artist": "Blue \u00d6yster Cult",
+      "title": "(Don't Fear) The Reaper",
+      "services": {
+        "qobuz": "33443762"
+      },
+      "album": "Agents Of Fortune",
+      "duration": 308,
+      "isrc": "USSM17600477"
+    },
+    {
+      "artist": "Meat Loaf",
+      "title": "You Took the Words Right Out of My Mouth (Hot Summer Night)",
+      "services": {
+        "qobuz": "32437831"
+      },
+      "album": "Bat Out Of Hell",
+      "duration": 305,
+      "isrc": "USSM17700327"
+    },
+    {
+      "artist": "Rod Stewart",
+      "title": "Baby Jane",
+      "services": {
+        "qobuz": "10472964"
+      },
+      "album": "Body Wishes",
+      "duration": 283,
+      "isrc": "USWB11301321"
+    },
+    {
+      "artist": "Fleetwood Mac",
+      "title": "Everywhere",
+      "services": {
+        "qobuz": "18917039"
+      },
+      "album": "Tango In The Night",
+      "duration": 227,
+      "isrc": "USWB11103176"
+    },
+    {
+      "artist": "Ike & Tina Turner",
+      "title": "Proud Mary",
+      "services": {
+        "qobuz": "30720741"
+      },
+      "album": "Workin' Together",
+      "duration": 297,
+      "isrc": "USCA27000122"
+    },
+    {
+      "artist": "Gloria Gaynor",
+      "title": "I Will Survive",
+      "services": {
+        "qobuz": "112880789"
+      },
+      "album": "Love Tracks",
+      "duration": 481,
+      "isrc": "USUR10200634"
+    },
+    {
+      "artist": "Four Tops",
+      "title": "Reach Out I'll Be There",
+      "services": {
+        "qobuz": "29432006"
+      },
+      "album": "Reach Out",
+      "duration": 181,
+      "isrc": "USMO10119990"
+    },
+    {
+      "artist": "Curtis Mayfield",
+      "title": "Move on Up (2019 Remaster)",
+      "services": {
+        "qobuz": "58076066"
+      },
+      "album": "Keep on Keeping On. Studio Albums 1970-74 (2019 Remaster)",
+      "duration": 533,
+      "isrc": "USRH11803514"
+    },
+    {
+      "artist": "Marvin Gaye",
+      "title": "Mercy Mercy Me (The Ecology)",
+      "services": {
+        "qobuz": "16012443"
+      },
+      "album": "What's Going On",
+      "duration": 195,
+      "isrc": "USMO17100046"
+    },
+    {
+      "artist": "Sam Cooke",
+      "title": "Nothing Can Change This Love",
+      "services": {
+        "qobuz": "14162664"
+      },
+      "album": "Mr. Soul",
+      "duration": 160,
+      "isrc": "USRC16202725"
+    },
+    {
+      "artist": "Otis Redding",
+      "title": "I Love You More Than Words Can Say",
+      "services": {
+        "qobuz": "6005209"
+      },
+      "album": "The Dock of the Bay",
+      "duration": 176,
+      "isrc": "USAT21200779"
+    },
+    {
+      "artist": "Nina Simone",
+      "title": "I Put A Spell On You",
+      "services": {
+        "qobuz": "61236214"
+      },
+      "album": "I Put A Spell On You",
+      "duration": 157,
+      "isrc": "USPR36600001"
+    },
+    {
+      "artist": "Billie Holiday",
+      "title": "He's Funny That Way",
+      "services": {
+        "qobuz": "79761027"
+      },
+      "album": "Recital",
+      "duration": 191,
+      "isrc": "USPR35200020"
+    },
+    {
+      "artist": "Ella Fitzgerald",
+      "title": "I've Got A Crush On You",
+      "services": {
+        "qobuz": "52617737"
+      },
+      "album": "Ella Fitzgerald Sings The George And Ira Gershwin Song Book",
+      "duration": 210,
+      "isrc": "USPR35905253"
+    },
+    {
+      "artist": "Sarah Vaughan",
+      "title": "Someone To Watch Over Me",
+      "services": {
+        "qobuz": "49075634"
+      },
+      "album": "Sarah Vaughan Sings George Gershwin",
+      "duration": 243,
+      "isrc": "USPR35770217"
+    },
+    {
+      "artist": "Frank Sinatra",
+      "title": "I Get A Kick Out Of You",
+      "services": {
+        "qobuz": "22080742"
+      },
+      "album": "Songs For Young Lovers",
+      "duration": 172,
+      "isrc": "USCA29800475"
+    },
+    {
+      "artist": "Blossom Dearie",
+      "title": "Plus Je T'embrasse",
+      "services": {
+        "qobuz": "33572192"
+      },
+      "album": "Give Him The Ooh-La-La",
+      "duration": 151,
+      "isrc": "USPR35770301"
+    },
+    {
+      "artist": "Cassandra Wilson",
+      "title": "Harvest Moon",
+      "services": {
+        "qobuz": "14158352"
+      },
+      "album": "New Moon Daughter",
+      "duration": 302,
+      "isrc": "USBN29500082"
+    },
+    {
+      "artist": "Diana Krall",
+      "title": "I'm Confessin' (That I Love You)",
+      "services": {
+        "qobuz": "38704118"
+      },
+      "album": "Turn Up The Quiet",
+      "duration": 204,
+      "isrc": "USUM71701090"
+    },
+    {
+      "artist": "Norah Jones",
+      "title": "Turn Me On",
+      "services": {
+        "qobuz": "63333867"
+      },
+      "album": "Come Away With Me",
+      "duration": 154,
+      "isrc": "USBN21200339"
+    },
+    {
+      "artist": "Alanis Morissette",
+      "title": "That I Would Be Good",
+      "services": {
+        "qobuz": "28060825"
+      },
+      "album": "Supposed Former Infatuation Junkie",
+      "duration": 256,
+      "isrc": "USWB11507057"
+    },
+    {
+      "artist": "Coldplay",
+      "title": "The Scientist",
+      "services": {
+        "qobuz": "33170291"
+      },
+      "album": "A Rush of Blood to the Head",
+      "duration": 308,
+      "isrc": "GBAYE1600192"
+    },
+    {
+      "artist": "Wilco",
+      "title": "How to Fight Loneliness",
+      "services": {
+        "qobuz": "19913989"
+      },
+      "album": "Summerteeth",
+      "duration": 233,
+      "isrc": "USNO11400983"
+    },
+    {
+      "artist": "Beck",
+      "title": "Lost Cause",
+      "services": {
+        "qobuz": "19215579"
+      },
+      "album": "Sea Change",
+      "duration": 227,
+      "isrc": "USIR10211441"
+    },
+    {
+      "artist": "R.E.M.",
+      "title": "Man On The Moon",
+      "services": {
+        "qobuz": "44717926"
+      },
+      "album": "Automatic For The People",
+      "duration": 313,
+      "isrc": "USC4R1700247"
+    },
+    {
+      "artist": "Iggy Pop",
+      "title": "The Passenger",
+      "services": {
+        "qobuz": "41004624"
+      },
+      "album": "Lust For Life",
+      "duration": 282,
+      "isrc": "USVI20700278"
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "title": "Atlantic City",
+      "services": {
+        "qobuz": "13358660"
+      },
+      "album": "Nebraska",
+      "duration": 240,
+      "isrc": "USSM18200422"
+    },
+    {
+      "artist": "Cat Stevens",
+      "title": "Sad Lisa",
+      "services": {
+        "qobuz": "16214340"
+      },
+      "album": "Tea For The Tillerman",
+      "duration": 226,
+      "isrc": "GBAAN7000044"
+    },
+    {
+      "artist": "Simon & Garfunkel",
+      "title": "The Boxer",
+      "services": {
+        "qobuz": "61807821"
+      },
+      "album": "Greatest Hits",
+      "duration": 314,
+      "isrc": "USSM16900831"
+    },
+    {
+      "artist": "Supertramp",
+      "title": "Dreamer",
+      "services": {
+        "qobuz": "20750957"
+      },
+      "album": "Crime Of The Century [2014 - HD Remaster]",
+      "duration": 213,
+      "isrc": "USUM71022331"
+    },
+    {
+      "artist": "The Velvet Underground",
+      "title": "I'll Be Your Mirror",
+      "services": {
+        "qobuz": "33984072"
+      },
+      "album": "The Velvet Underground & Nico - 45th Anniversary",
+      "duration": 134,
+      "isrc": "USPR36702767"
+    },
+    {
+      "artist": "Cream",
+      "title": "Sunshine Of Your Love",
+      "services": {
+        "qobuz": "15774591"
+      },
+      "album": "Disraeli Gears",
+      "duration": 253,
+      "isrc": "GBA076700020"
+    },
+    {
+      "artist": "ZZ Top",
+      "title": "LA Grange",
+      "services": {
+        "qobuz": "387308662"
+      },
+      "album": "The ZZ Top Sixpack",
+      "duration": 234,
+      "isrc": "USWB19903511"
+    },
+    {
+      "artist": "Eric Clapton",
+      "title": "Lay Down Sally",
+      "services": {
+        "qobuz": "15774691"
+      },
+      "album": "Slowhand",
+      "duration": 236,
+      "isrc": "NLF057790026"
+    },
+    {
+      "artist": "Stevie Ray Vaughan & Double Trouble",
+      "title": "Lenny",
+      "services": {
+        "qobuz": "20108938"
+      },
+      "album": "Texas Flood",
+      "duration": 297,
+      "isrc": "USSM18300426"
+    },
+    {
+      "artist": "Aerosmith",
+      "title": "Cryin'",
+      "services": {
+        "qobuz": "15476132"
+      },
+      "album": "Get A Grip",
+      "duration": 307,
+      "isrc": "USIR10000430"
+    },
+    {
+      "artist": "Crowded House",
+      "title": "Don't Dream It's Over",
+      "services": {
+        "qobuz": "34280662"
+      },
+      "album": "Crowded House",
+      "duration": 239,
+      "isrc": "USCA28600048"
+    },
+    {
+      "artist": "Grace Jones",
+      "title": "La Vie en rose",
+      "services": {
+        "qobuz": "23647452"
+      },
+      "album": "Disco",
+      "duration": 447,
+      "isrc": "USIR27700004"
+    },
+    {
+      "artist": "Prince",
+      "title": "I Wanna Be Your Lover",
+      "services": {
+        "qobuz": "17376222"
+      },
+      "album": "Prince",
+      "duration": 350,
+      "isrc": "USWB11303775"
+    },
+    {
+      "artist": "Chic",
+      "title": "Le Freak",
+      "services": {
+        "qobuz": "56433116"
+      },
+      "album": "C'est Chic",
+      "duration": 331,
+      "isrc": "USRH11803270"
+    },
+    {
+      "artist": "Jackson 5",
+      "title": "I Want You Back",
+      "services": {
+        "qobuz": "29426588"
+      },
+      "album": "Diana Ross Presents The Jackson 5",
+      "duration": 181,
+      "isrc": "USMO19400306"
+    },
+    {
+      "artist": "Isaac Hayes",
+      "title": "Theme From Shaft",
+      "services": {
+        "qobuz": "36487007"
+      },
+      "album": "Shaft",
+      "duration": 279,
+      "isrc": "USC4R1605505"
+    },
+    {
+      "artist": "Ray Charles",
+      "title": "Ray's Blues",
+      "services": {
+        "qobuz": "21417464"
+      },
+      "album": "The Genius Sings the Blues",
+      "duration": 174,
+      "isrc": "USAT21403834"
+    },
+    {
+      "artist": "Thelonious Monk",
+      "title": "'Round Midnight",
+      "services": {
+        "qobuz": "17423679"
+      },
+      "album": "Genius Of Modern Music",
+      "duration": 189,
+      "isrc": "USBN21300022"
+    },
+    {
+      "artist": "Art Blakey & The Jazz Messengers",
+      "title": "Moanin'",
+      "services": {
+        "qobuz": "16104033"
+      },
+      "album": "Moanin'",
+      "duration": 573,
+      "isrc": "USBN21300011"
+    },
+    {
+      "artist": "Duke Ellington",
+      "title": "In A Sentimental Mood",
+      "services": {
+        "qobuz": "35031475"
+      },
+      "album": "Duke Ellington & John Coltrane",
+      "duration": 256,
+      "isrc": "USMC16351954"
+    },
+    {
+      "artist": "Keith Jarrett",
+      "title": "Country",
+      "services": {
+        "qobuz": "24044999"
+      },
+      "album": "My Song",
+      "duration": 304,
+      "isrc": "DEB337711504"
+    },
+    {
+      "artist": "John Coltrane",
+      "title": "Theme For Ernie",
+      "services": {
+        "qobuz": "58417360"
+      },
+      "album": "Coltrane '58: The Prestige Recordings",
+      "duration": 297,
+      "isrc": "USC4R1604495"
+    },
+    {
+      "artist": "Sonny Rollins",
+      "title": "Without a Song",
+      "services": {
+        "qobuz": "213296"
+      },
+      "album": "The Bridge",
+      "duration": 449,
+      "isrc": "USBB10300404"
+    },
+    {
+      "artist": "Grover Washington Jr.",
+      "title": "Easy Loving You",
+      "services": {
+        "qobuz": "112880778"
+      },
+      "album": "Skylarkin'",
+      "duration": 437,
+      "isrc": "USMO10200340"
+    },
+    {
+      "artist": "The Doors",
+      "title": "Alabama Song (Whisky Bar)",
+      "services": {
+        "qobuz": "37709331"
+      },
+      "album": "The Doors",
+      "duration": 200,
+      "isrc": "USRH11605701"
+    },
+    {
+      "artist": "Ramones",
+      "title": "Rockaway Beach",
+      "services": {
+        "qobuz": "15879686"
+      },
+      "album": "Rocket to Russia",
+      "duration": 125,
+      "isrc": "USWB11302829"
+    },
+    {
+      "artist": "Yes",
+      "title": "Yours Is No Disgrace",
+      "services": {
+        "qobuz": "8766680"
+      },
+      "album": "The Yes Album",
+      "duration": 580,
+      "isrc": "USEE11300033"
+    },
+    {
+      "artist": "Van Morrison",
+      "title": "Sweet Thing",
+      "services": {
+        "qobuz": "12262006"
+      },
+      "album": "Astral Weeks",
+      "duration": 264,
+      "isrc": "USWB11302413"
+    },
+    {
+      "artist": "The Alan Parsons Project",
+      "title": "Some Other Time",
+      "services": {
+        "qobuz": "40997324"
+      },
+      "album": "I Robot",
+      "duration": 245,
+      "isrc": "USAR17700141"
+    },
+    {
+      "artist": "Roger Waters",
+      "title": "Amused to Death",
+      "services": {
+        "qobuz": "25849964"
+      },
+      "album": "Amused To Death",
+      "duration": 546,
+      "isrc": "USSM10026585"
+    },
+    {
+      "artist": "Crosby, Stills & Nash",
+      "title": "Helplessly Hoping",
+      "services": {
+        "qobuz": "7104441"
+      },
+      "album": "Crosby, Stills & Nash",
+      "duration": 161,
+      "isrc": "USAT21204222"
+    },
+    {
+      "artist": "Steppenwolf",
+      "title": "Born To Be Wild",
+      "services": {
+        "qobuz": "20409861"
+      },
+      "album": "Steppenwolf",
+      "duration": 211,
+      "isrc": "USMC16846563"
+    },
+    {
+      "artist": "Santana",
+      "title": "Black Magic Woman / Gypsy Queen",
+      "services": {
+        "qobuz": "16503389"
+      },
+      "album": "Abraxas",
+      "duration": 320,
+      "isrc": "USSM17000311"
+    },
+    {
+      "artist": "Janis Joplin",
+      "title": "Little Girl Blue",
+      "services": {
+        "qobuz": "29594803"
+      },
+      "album": "I Got Dem Ol' Kozmic Blues Again Mama!",
+      "duration": 227,
+      "isrc": "USSM16900952"
+    },
+    {
+      "artist": "Joni Mitchell",
+      "title": "Amelia",
+      "services": {
+        "qobuz": "14345398"
+      },
+      "album": "Hejira",
+      "duration": 361,
+      "isrc": "USEE11300791"
+    },
+    {
+      "artist": "Steve Earle",
+      "title": "Guitar Town",
+      "services": {
+        "qobuz": "32021725"
+      },
+      "album": "Guitar Town",
+      "duration": 155,
+      "isrc": "USMC18519803"
+    },
+    {
+      "artist": "Dolly Parton",
+      "title": "Islands In the Stream",
+      "services": {
+        "qobuz": "34095916"
+      },
+      "album": "Greatest Hits",
+      "duration": 251,
+      "isrc": "USRC18307961"
+    },
+    {
+      "artist": "Cyndi Lauper",
+      "title": "Iko Iko",
+      "services": {
+        "qobuz": "31660015"
+      },
+      "album": "True Colors",
+      "duration": 129,
+      "isrc": "USSM18600635"
+    },
+    {
+      "artist": "Lionel Richie",
+      "title": "Dancing On The Ceiling",
+      "services": {
+        "qobuz": "24369649"
+      },
+      "album": "Dancing On The Ceiling",
+      "duration": 276,
+      "isrc": "USMO18682745"
+    },
+    {
+      "artist": "The Commodores",
+      "title": "Easy",
+      "services": {
+        "qobuz": "24017934"
+      },
+      "album": "Commodores",
+      "duration": 256,
+      "isrc": "USMO17700543"
+    },
+    {
+      "artist": "Foreigner",
+      "title": "That Was Yesterday",
+      "services": {
+        "qobuz": "12262034"
+      },
+      "album": "Agent Provocateur",
+      "duration": 231,
+      "isrc": "USAT21302036"
+    },
+    {
+      "artist": "The Cars",
+      "title": "Drive",
+      "services": {
+        "qobuz": "30516237"
+      },
+      "album": "Heartbeat City",
+      "duration": 234,
+      "isrc": "USRH11509874"
+    },
+    {
+      "artist": "Bruce Hornsby",
+      "title": "Across the River",
+      "services": {
+        "qobuz": "32753903"
+      },
+      "album": "Night On the Town",
+      "duration": 310,
+      "isrc": "USRC19004288"
+    },
+    {
+      "artist": "Soundgarden",
+      "title": "Black Hole Sun",
+      "services": {
+        "qobuz": "40987345"
+      },
+      "album": "Superunknown",
+      "duration": 319,
+      "isrc": "USAM19400007"
+    },
+    {
+      "artist": "Foo Fighters",
+      "title": "Rope",
+      "services": {
+        "qobuz": "3445002"
+      },
+      "album": "Wasting Light",
+      "duration": 258,
+      "isrc": "USRW31100001"
+    },
+    {
+      "artist": "Jack White",
+      "title": "High Ball Stepper",
+      "services": {
+        "qobuz": "47597656"
+      },
+      "album": "Lazaretto",
+      "duration": 232,
+      "isrc": "USSM11401501"
+    },
+    {
+      "artist": "Rush",
+      "title": "The Spirit Of Radio",
+      "services": {
+        "qobuz": "24844582"
+      },
+      "album": "Permanent Waves",
+      "duration": 299,
+      "isrc": "USMR18070028"
+    },
+    {
+      "artist": "Albert King",
+      "title": "Watermelon Man",
+      "services": {
+        "qobuz": "288262320"
+      },
+      "album": "Live Wire / Blues Power",
+      "duration": 244,
+      "isrc": "USC4R2441762"
+    },
+    {
+      "artist": "Lightnin' Hopkins",
+      "title": "Rocky Mountain",
+      "services": {
+        "qobuz": "288262259"
+      },
+      "album": "Last Night Blues",
+      "duration": 300,
+      "isrc": "USC4R2441988"
+    },
+    {
+      "artist": "Tony Rice",
+      "title": "Streets Of London",
+      "services": {
+        "qobuz": "260478780"
+      },
+      "album": "Church Street Blues",
+      "duration": 240,
+      "isrc": "USC4R2340301"
+    },
+    {
+      "artist": "Gillian Welch",
+      "title": "Empty Trainload Of Sky",
+      "services": {
+        "qobuz": "277238761"
+      },
+      "album": "Woodland",
+      "duration": 204,
+      "isrc": "US2AR2441601"
+    },
+    {
+      "artist": "Diana Krall",
+      "title": "The Man With The Bag",
+      "services": {
+        "qobuz": "293741155"
+      },
+      "album": "The Man With The Bag",
+      "duration": 123,
+      "isrc": "USGR10110796"
+    },
+    {
+      "artist": "Ashlee Simpson",
+      "title": "Pieces Of Me",
+      "services": {
+        "qobuz": "282311634"
+      },
+      "album": "Autobiography",
+      "duration": 216,
+      "isrc": "USMC10400225"
+    },
+    {
+      "artist": "Barry Manilow",
+      "title": "Medley: Could It Be Magic / Mandy",
+      "services": {
+        "qobuz": "258231256"
+      },
+      "album": "Barry Live In Britain",
+      "duration": 381,
+      "isrc": "USAR18200213"
+    },
+    {
+      "artist": "Nikki Ocean",
+      "title": "Hey Little Girl",
+      "services": {
+        "qobuz": "276579147"
+      },
+      "album": "Hey Little Girl",
+      "duration": 164,
+      "isrc": "ARF412400403"
+    },
+    {
+      "artist": "The B-52's",
+      "title": "Devil In My Car",
+      "services": {
+        "qobuz": "252611752"
+      },
+      "album": "Wild Planet",
+      "duration": 267,
+      "isrc": "USIR28000032"
+    },
+    {
+      "artist": "John Lennon",
+      "title": "Mind Games",
+      "services": {
+        "qobuz": "268366953"
+      },
+      "album": "Mind Games",
+      "duration": 252,
+      "isrc": "GBUM72304464"
+    },
+    {
+      "artist": "Robert Hunter",
+      "title": "That Train",
+      "services": {
+        "qobuz": "261614185"
+      },
+      "album": "Tales of the Great Rum Runners",
+      "duration": 277,
+      "isrc": "USRH12400145"
+    },
+    {
+      "artist": "Violent Femmes",
+      "title": "Country Death Song",
+      "services": {
+        "qobuz": "299144875"
+      },
+      "album": "Hallowed Ground",
+      "duration": 301,
+      "isrc": "USC4R2447734"
+    },
+    {
+      "artist": "Grateful Dead",
+      "title": "U.S. Blues",
+      "services": {
+        "qobuz": "258936670"
+      },
+      "album": "From the Mars Hotel",
+      "duration": 281,
+      "isrc": "USRH12305630"
+    },
+    {
+      "artist": "Peter Frampton",
+      "title": "Show Me The Way",
+      "services": {
+        "qobuz": "259403379"
+      },
+      "album": "Frampton Comes Alive!",
+      "duration": 286,
+      "isrc": "USAM17600027"
+    },
+    {
+      "artist": "Crosby, Stills, Nash & Young",
+      "title": "Helplessly Hoping (Live at Fillmore East, 1969) [2024 Mix]",
+      "services": {
+        "qobuz": "288060019"
+      },
+      "album": "Live At Fillmore East, 1969",
+      "duration": 166,
+      "isrc": "USRH12401729"
+    },
+    {
+      "artist": "CAKE",
+      "title": "The Guitar Man",
+      "services": {
+        "qobuz": "249951607"
+      },
+      "album": "Pressure Chief",
+      "duration": 233,
+      "isrc": "USSM10407437"
+    },
+    {
+      "artist": "The Velvet Underground",
+      "title": "Waiting For My Man",
+      "services": {
+        "qobuz": "288261780"
+      },
+      "album": "1969 Velvet Underground Live With Lou Reed",
+      "duration": 420,
+      "isrc": "USWWW0126700"
+    },
+    {
+      "artist": "McCoy Tyner",
+      "title": "In \u2019N Out",
+      "services": {
+        "qobuz": "290068116"
+      },
+      "album": "Forces of Nature: Live at Slugs'",
+      "duration": 1603,
+      "isrc": "USUM72408661"
+    },
+    {
+      "artist": "Chet Baker",
+      "title": "Rondette",
+      "services": {
+        "qobuz": "292970426"
+      },
+      "album": "In Paris - The complete 1955-1956 Barclay sessions",
+      "duration": 130,
+      "isrc": "FRZ015500390"
+    },
+    {
+      "artist": "Charles Mingus",
+      "title": "R&R",
+      "services": {
+        "qobuz": "397316664"
+      },
+      "album": "Incarnations",
+      "duration": 710,
+      "isrc": "QZR8K2325004"
+    },
+    {
+      "artist": "Joe Henderson",
+      "title": "Black Narcissus",
+      "services": {
+        "qobuz": "257142907"
+      },
+      "album": "Power To The People",
+      "duration": 291,
+      "isrc": "USC4R2340315"
+    },
+    {
+      "artist": "Cannonball Adderley",
+      "title": "Goodbye",
+      "services": {
+        "qobuz": "254687477"
+      },
+      "album": "Know What I Mean?",
+      "duration": 377,
+      "isrc": "USC4R2340400"
+    },
+    {
+      "artist": "Bill Evans Trio",
+      "title": "Peace Piece",
+      "services": {
+        "qobuz": "263869031"
+      },
+      "album": "Everybody Digs Bill Evans",
+      "duration": 404,
+      "isrc": "USC4R2340940"
+    },
+    {
+      "artist": "Miles Davis",
+      "title": "You Don't Know What Love Is",
+      "services": {
+        "qobuz": "301922415"
+      },
+      "album": "Miles '54: The Prestige Recordings",
+      "duration": 264,
+      "isrc": "USC4R2441926"
+    },
+    {
+      "artist": "Django Reinhardt",
+      "title": "Anouman",
+      "services": {
+        "qobuz": "291019273"
+      },
+      "album": "The Last Be-Bop Sessions",
+      "duration": 165,
+      "isrc": "FRZ025380200"
+    },
+    {
+      "artist": "Thelonious Monk Septet",
+      "title": "Well, You Needn't",
+      "services": {
+        "qobuz": "300533022"
+      },
+      "album": "Monk's Music",
+      "duration": 702,
+      "isrc": "USC4R2443082"
+    },
+    {
+      "artist": "Art Blakey & The Jazz Messengers",
+      "title": "Caravan",
+      "services": {
+        "qobuz": "254687732"
+      },
+      "album": "Caravan",
+      "duration": 587,
+      "isrc": "USC4R2340292"
+    },
+    {
+      "artist": "Ron Carter",
+      "title": "Rally",
+      "services": {
+        "qobuz": "259450950"
+      },
+      "album": "Where?",
+      "duration": 343,
+      "isrc": "USC4R2340841"
+    },
+    {
+      "artist": "Slayer",
+      "title": "Angel Of Death",
+      "services": {
+        "qobuz": "258121608"
+      },
+      "album": "Reign In Blood",
+      "duration": 291,
+      "isrc": "USSM18600233"
+    },
+    {
+      "artist": "The Aurora Project",
+      "title": "Black Devil",
+      "services": {
+        "qobuz": "247100798"
+      },
+      "album": "Black Devil",
+      "duration": 242,
+      "isrc": "DEYW82400594"
+    },
+    {
+      "artist": "Harvey Averne",
+      "title": "I Feel Fine",
+      "services": {
+        "qobuz": "257142663"
+      },
+      "album": "The Harvey Averne Dozen",
+      "duration": 191,
+      "isrc": "USC4R2441795"
+    },
+    {
+      "artist": "Bobby Valent\u00edn",
+      "title": "Que Pollito",
+      "services": {
+        "qobuz": "249563541"
+      },
+      "album": "Young Man With A Horn",
+      "duration": 225,
+      "isrc": "USC4R2341084"
+    },
+    {
+      "artist": "Lucha Villa",
+      "title": "La Enorme Distancia",
+      "services": {
+        "qobuz": "257142510"
+      },
+      "album": "Sentimiento Ranchero",
+      "duration": 155,
+      "isrc": "USC4R2441889"
+    },
+    {
+      "artist": "Ismael Rivera Y Sus Cachimbos",
+      "title": "Que Te Pasa A Ti",
+      "services": {
+        "qobuz": "292550032"
+      },
+      "album": "Traigo de Todo",
+      "duration": 287,
+      "isrc": "USC4R2441948"
+    },
+    {
+      "artist": "Jenna Mammina",
+      "title": "Dream",
+      "services": {
+        "qobuz": "276740574"
+      },
+      "album": "Blue Coast Collection 5",
+      "duration": 219,
+      "isrc": "USKTN2003201"
+    },
+    {
+      "artist": "Celia Cruz",
+      "title": "Tengo el Idde",
+      "services": {
+        "qobuz": "293741925"
+      },
+      "album": "Celia & Johnny",
+      "duration": 299,
+      "isrc": "USC4R2333624"
+    },
+    {
+      "artist": "Julie",
+      "title": "catalogue",
+      "services": {
+        "qobuz": "276329624"
+      },
+      "album": "my anti-aircraft friend",
+      "duration": 194,
+      "isrc": "USAT22309408"
+    },
+    {
+      "artist": "San Francisco Symphony",
+      "title": "Suite No. 1 from Romeo and Juliet, Op. 64bis: IV. Minuet",
+      "services": {
+        "qobuz": "298119094"
+      },
+      "album": "Prokofiev: Music from Romeo and Juliet",
+      "duration": 170,
+      "isrc": "USEXZ2301097"
+    },
+    {
+      "artist": "Francesco Corti",
+      "title": "Sonata in D Minor, K. 213. Andante",
+      "services": {
+        "qobuz": "276814638"
+      },
+      "album": "Domenico Scarlatti: A Man of Genius",
+      "duration": 514,
+      "isrc": "FR46Y2356801"
+    },
+    {
+      "artist": "V\u00edkingur \u00d3lafsson",
+      "title": "J.S. Bach: Cantata, BWV 159: Es ist vollbracht (Arr. \u00d3lafsson for Piano)",
+      "services": {
+        "qobuz": "287108161"
+      },
+      "album": "Continuum",
+      "duration": 268,
+      "isrc": "DEN962400231"
+    },
+    {
+      "artist": "Nelson Goerner",
+      "title": "Hungarian Rhapsodies, S. 244: No. 6 in D-Flat Major",
+      "services": {
+        "qobuz": "252277323"
+      },
+      "album": "Liszt: Sonate en si mineur, Sonetti di Petrarca, Valse oubli\u00e9e No.2, \u00c9tude \"La leggierezza\", Rhapsodie hongroise No.6",
+      "duration": 424,
+      "isrc": "FR50X2303609"
+    },
+    {
+      "artist": "Alison Balsom",
+      "title": "La stravaganza, Op. 4: Violin Concerto No. 6 in G Minor, RV 316a: I. Allegro (Transcr. for Piccolo Trumpet and Baroque Orchestra by Simon Wright)",
+      "services": {
+        "qobuz": "288458599"
+      },
+      "album": "Baroque Concertos",
+      "duration": 158,
+      "isrc": "GBAYC2400481"
+    },
+    {
+      "artist": "Olga Pashchenko",
+      "title": "I. Allegro",
+      "services": {
+        "qobuz": "265609376"
+      },
+      "album": "Mozart: Piano Concertos 20 & 23",
+      "duration": 668,
+      "isrc": "FR50X2194204"
+    },
+    {
+      "artist": "Philippe Jaroussky",
+      "title": "Du bist die Ruh, Op. 59 No. 3, D. 776",
+      "services": {
+        "qobuz": "292760274"
+      },
+      "album": "Schubert: Lieder",
+      "duration": 267,
+      "isrc": "GBAYC2100561"
+    },
+    {
+      "artist": "Sophie de Bardonn\u00e8che",
+      "title": "Meslange de musique latine, fran\u00e7oise et italienne: Ariette dans le go\u00fbt nouveau",
+      "services": {
+        "qobuz": "277462881"
+      },
+      "album": "Destin\u00e9es",
+      "duration": 188,
+      "isrc": "FR50X2407801"
+    },
+    {
+      "artist": "Lang Lang",
+      "title": "Saint-Sa\u00ebns: Carnival of the Animals, R. 125: IX. The Cuckoo in the Woods",
+      "services": {
+        "qobuz": "254609865"
+      },
+      "album": "Saint-Sa\u00ebns: Carnival of the Animals (Ogden Nash Poems Narrated by Jimmy Fallon)",
+      "duration": 135,
+      "isrc": "DEN962431214"
+    },
+    {
+      "artist": "Claudio Arrau",
+      "title": "12 \u00c9tudes, Op. 10: No. 1 in C Major",
+      "services": {
+        "qobuz": "250454741"
+      },
+      "album": "Chopin, Schumann, Liszt",
+      "duration": 112,
+      "isrc": "GBAYC2200336"
+    },
+    {
+      "artist": "Bruce Liu",
+      "title": "Tchaikovsky: The Seasons, Op. 37a: I. January. At the Fireside",
+      "services": {
+        "qobuz": "284154906"
+      },
+      "album": "Tchaikovsky: The Seasons",
+      "duration": 397,
+      "isrc": "DEN962433501"
+    },
+    {
+      "artist": "Vilde Frang",
+      "title": "Violin Concerto in B Minor, Op. 61: I. Allegro",
+      "services": {
+        "qobuz": "280727858"
+      },
+      "album": "Elgar: Violin Concerto, Op. 61",
+      "duration": 1065,
+      "isrc": "GBAYC2400824"
+    },
+    {
+      "artist": "Cassandra Wright",
+      "title": "Nocturne",
+      "services": {
+        "qobuz": "268356506"
+      },
+      "album": "In the Twilight (The Royal Academy of Music Bicentenary Series)",
+      "duration": 211,
+      "isrc": "GBASH2473402"
+    },
+    {
+      "artist": "Leonidas Kavakos",
+      "title": "Violin Concerto in D Minor, BWV 1052R/I. Allegro",
+      "services": {
+        "qobuz": "249375207"
+      },
+      "album": "Bach: Violin Concertos",
+      "duration": 423,
+      "isrc": "USSM12308684"
+    },
+    {
+      "artist": "Erika Tandiono",
+      "title": "Machet die Tore weit",
+      "services": {
+        "qobuz": "283168248"
+      },
+      "album": "Sch\u00fctz: Weihnachtshistorie",
+      "duration": 207,
+      "isrc": "BER182446701"
+    },
+    {
+      "artist": "Otto Klemperer",
+      "title": "Symphony No. 4 in E-Flat Major, WAB 104 \"Romantic\": II. Andante, quasi allegretto (1878/80 Version)",
+      "services": {
+        "qobuz": "252456061"
+      },
+      "album": "Bruckner: Symphonies Nos. 4 \"Romantic\" & 7",
+      "duration": 840,
+      "isrc": "GBAYC2202767"
+    },
+    {
+      "artist": "Beatrice Rana",
+      "title": "Piano Sonata No. 2 in B-Flat Minor, Op. 35 \"Funeral March\": I. Grave - Doppio movimento",
+      "services": {
+        "qobuz": "250391891"
+      },
+      "album": "Chopin: Piano Sonata No. 2, Op. 35 \"Funeral March\" - Beethoven: Piano Sonata No. 29, Op. 106 \"Hammerklavier\"",
+      "duration": 488,
+      "isrc": "GBAYC2302271"
+    },
+    {
+      "artist": "William Christie",
+      "title": "Marche pour la c\u00e9r\u00e9monie des Turcs (Arr. for 2 Harpsichords by William Christie & Justin Taylor)",
+      "services": {
+        "qobuz": "254971189"
+      },
+      "album": "\"Conversation\" Gaspard Le Roux: Suites for 2 Harpsichords",
+      "duration": 83,
+      "isrc": "FR7JM2372070"
+    },
+    {
+      "artist": "Rachel Podger",
+      "title": "I. Affetuoso",
+      "services": {
+        "qobuz": "258345955"
+      },
+      "album": "The Muses Restor'd",
+      "duration": 197,
+      "isrc": "NLA460915421"
+    },
+    {
+      "artist": "Il Giardino Armonico",
+      "title": "Symphony No. 98 in B-Flat Major, Hob. I:98: I. Adagio - Allegro",
+      "services": {
+        "qobuz": "288330614"
+      },
+      "album": "Haydn 2032, Vol. 16: The Surprise",
+      "duration": 503,
+      "isrc": "FR50X2469801"
+    },
+    {
+      "artist": "Budapest Festival Orchestra",
+      "title": "III. Scherzo. Allegro vivace - Trio",
+      "services": {
+        "qobuz": "252278716"
+      },
+      "album": "Beethoven: Symphony No. 3 \"Eroica\" & Coriolan Overture",
+      "duration": 355,
+      "isrc": "NLA460915408"
+    },
+    {
+      "artist": "Sabine Devieilhe",
+      "title": "Komm, liebe Zither, komm, K. 351",
+      "services": {
+        "qobuz": "255619511"
+      },
+      "album": "Mozart & Strauss: Lieder",
+      "duration": 117,
+      "isrc": "GBAYC2400044"
+    },
+    {
+      "artist": "Dresdner Philharmonie",
+      "title": "No. 1, Die Vorstellung des Chaos",
+      "services": {
+        "qobuz": "262220232"
+      },
+      "album": "Haydn: Die Sch\u00f6pfung",
+      "duration": 345,
+      "isrc": "NLE422320501"
+    },
+    {
+      "artist": "Mari Kodama",
+      "title": "Piano Sonata in G Minor, WAB 243: First movement (Entwurf)",
+      "services": {
+        "qobuz": "283034552"
+      },
+      "album": "Bruckner: Piano Works",
+      "duration": 537,
+      "isrc": "NLE422422401"
+    },
+    {
+      "artist": "Dresdner Philharmonie",
+      "title": "I. Andante un poco maestoso - Allegro molto vivace - Animato",
+      "services": {
+        "qobuz": "252283813"
+      },
+      "album": "Schumann: Complete Symphonies",
+      "duration": 682,
+      "isrc": "NLE422107901"
+    }
+  ]
+}

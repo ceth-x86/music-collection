@@ -1,0 +1,1010 @@
+{
+  "name": "Genre: Heavy Metal",
+  "services": {
+    "qobuz": "66734535",
+    "tidal": "725f7a43-aded-413b-9e23-87ad9fcaedb7"
+  },
+  "description": "Imported genre playlist: Heavy Metal.",
+  "tracks": [
+    {
+      "artist": "Black Sabbath",
+      "title": "War Pigs",
+      "services": {
+        "qobuz": "386663757"
+      },
+      "album": "The Ultimate Collection",
+      "duration": 474,
+      "isrc": "GB5KW1601272"
+    },
+    {
+      "artist": "Sir Lord Baltimore",
+      "title": "Kingdom Come",
+      "services": {
+        "qobuz": "54883185"
+      },
+      "album": "Kingdom Come",
+      "duration": 394,
+      "isrc": "USUM71008842"
+    },
+    {
+      "artist": "Budgie",
+      "title": "Breadfan",
+      "services": {
+        "qobuz": "365934375"
+      },
+      "album": "Never Turn Your Back On A Friend",
+      "duration": 365,
+      "isrc": "USUM70807087"
+    },
+    {
+      "artist": "Judas Priest",
+      "title": "Victim of Changes",
+      "services": {
+        "qobuz": "309066914"
+      },
+      "album": "Sad Wings of Destiny",
+      "duration": 473,
+      "isrc": "USKO10501189"
+    },
+    {
+      "artist": "Ritchie Blackmore's Rainbow",
+      "title": "Stargazer",
+      "services": {
+        "qobuz": "3881949"
+      },
+      "album": "Rising",
+      "duration": 505,
+      "isrc": "USPR37680077"
+    },
+    {
+      "artist": "Scorpions",
+      "title": "The Sails of Charon",
+      "services": {
+        "qobuz": "385635151"
+      },
+      "album": "Taken by Force",
+      "duration": 311,
+      "isrc": "DELV41501074"
+    },
+    {
+      "artist": "Skarlett Riot",
+      "title": "Warrior",
+      "services": {
+        "qobuz": "99724893"
+      },
+      "album": "Regenerate",
+      "duration": 215,
+      "isrc": "SEXTE1701910"
+    },
+    {
+      "artist": "Mot\u00f6rhead",
+      "title": "Overkill",
+      "services": {
+        "qobuz": "385302639"
+      },
+      "album": "All the Aces",
+      "duration": 310,
+      "isrc": "GBAJE7900077"
+    },
+    {
+      "artist": "Samson",
+      "title": "Riding with the Angels",
+      "services": {
+        "qobuz": "34210772"
+      },
+      "album": "Riding With the Angels: The Anthology",
+      "duration": 220,
+      "isrc": "GBAJE8100048"
+    },
+    {
+      "artist": "Saxon",
+      "title": "Wheels of Steel",
+      "services": {
+        "qobuz": "385312442"
+      },
+      "album": "Wheels of Steel",
+      "duration": 358,
+      "isrc": "GB01A0900049"
+    },
+    {
+      "artist": "Diamond Head",
+      "title": "Am I Evil?",
+      "services": {
+        "qobuz": "101907367"
+      },
+      "album": "Lightning To The Nations 2020",
+      "duration": 505,
+      "isrc": "UKKY82000147"
+    },
+    {
+      "artist": "Angel Witch",
+      "title": "Angel Witch",
+      "services": {
+        "qobuz": "387249322"
+      },
+      "album": "Angel Witch",
+      "duration": 203,
+      "isrc": "GBAJE8000037"
+    },
+    {
+      "artist": "Def Leppard",
+      "title": "Wasted",
+      "services": {
+        "qobuz": "90587063"
+      },
+      "album": "On Through The Night",
+      "duration": 224,
+      "isrc": "GBUM71802093"
+    },
+    {
+      "artist": "Witchfynde",
+      "title": "Give 'Em Hell",
+      "services": {
+        "qobuz": "145402282"
+      },
+      "album": "Give 'Em Hell",
+      "duration": 243,
+      "isrc": "GBBLY8000087"
+    },
+    {
+      "artist": "Quartz",
+      "title": "Stand Up And Fight",
+      "services": {
+        "qobuz": "168426587"
+      },
+      "album": "Stand Up And Fight",
+      "duration": 282,
+      "isrc": "GBKYA0703276"
+    },
+    {
+      "artist": "White Spirit",
+      "title": "Midnight Chaser",
+      "services": {
+        "qobuz": "54653692"
+      },
+      "album": "White Spirit",
+      "duration": 319,
+      "isrc": "USUM71814488"
+    },
+    {
+      "artist": "Stack Money Boyz",
+      "title": "Turn Up (2025 Remastered)",
+      "services": {
+        "qobuz": "356443759"
+      },
+      "album": "What Da Hell Going On, Vol. 1 (2025 Remastered Edition)",
+      "duration": 233,
+      "isrc": "QZS7J2589825"
+    },
+    {
+      "artist": "Tygers Of Pan Tang",
+      "title": "Hellbound",
+      "services": {
+        "qobuz": "38182977"
+      },
+      "album": "Spellbound",
+      "duration": 210,
+      "isrc": "USMC10201178"
+    },
+    {
+      "artist": "Girlschool",
+      "title": "Hit And Run",
+      "services": {
+        "qobuz": "385640909"
+      },
+      "album": "Hit and Run",
+      "duration": 188,
+      "isrc": "GBAJE8100039"
+    },
+    {
+      "artist": "Demon",
+      "title": "Night of the Demon",
+      "services": {
+        "qobuz": "188586230"
+      },
+      "album": "Night of the Demon",
+      "duration": 198,
+      "isrc": "TCABG1208330"
+    },
+    {
+      "artist": "Holocaust",
+      "title": "The Small Hours",
+      "services": {
+        "qobuz": "145930489"
+      },
+      "album": "Hypnosis Of Birds",
+      "duration": 428,
+      "isrc": "GBBLY2201234"
+    },
+    {
+      "artist": "Praying Mantis",
+      "title": "Cheated",
+      "services": {
+        "qobuz": "72401267"
+      },
+      "album": "Time Tells No Lies",
+      "duration": 233,
+      "isrc": "QMFME1396904"
+    },
+    {
+      "artist": "The Warheads",
+      "title": "Once More",
+      "services": {
+        "qobuz": "78917776"
+      },
+      "album": "Killed in Action",
+      "duration": 70,
+      "isrc": "US4R31001662"
+    },
+    {
+      "artist": "Saracen",
+      "title": "Crusader",
+      "services": {
+        "qobuz": "186106957"
+      },
+      "album": "Red Sky and Heroes, Saints & Fools",
+      "duration": 410,
+      "isrc": "TCAAY1150919"
+    },
+    {
+      "artist": "Iron Maiden",
+      "title": "Hallowed Be Thy Name",
+      "services": {
+        "qobuz": "25120775"
+      },
+      "album": "Somewhere Back in Time (The Best of 1980 - 1989)",
+      "duration": 432,
+      "isrc": "GBCHB1500193"
+    },
+    {
+      "artist": "Tank",
+      "title": "Shellshock",
+      "services": {
+        "qobuz": "95160409"
+      },
+      "album": "Filth Hounds of Hades",
+      "duration": 190,
+      "isrc": "QM6XS2001443"
+    },
+    {
+      "artist": "Raven",
+      "title": "Mind Over Metal",
+      "services": {
+        "qobuz": "388702806"
+      },
+      "album": "All For One",
+      "duration": 208,
+      "isrc": "GBAJE8300107"
+    },
+    {
+      "artist": "Satan",
+      "title": "Trial by Fire",
+      "services": {
+        "qobuz": "315010825"
+      },
+      "album": "Court In The Act",
+      "duration": 258,
+      "isrc": "NLA321500153"
+    },
+    {
+      "artist": "Jaguar",
+      "title": "Axe Crazy",
+      "services": {
+        "qobuz": "385631137"
+      },
+      "album": "Power Games",
+      "duration": 169,
+      "isrc": "GBAJE8200095"
+    },
+    {
+      "artist": "Tokyo Blade",
+      "title": "If Heaven Is Hell",
+      "services": {
+        "qobuz": "152581255"
+      },
+      "album": "Tokyo Blade",
+      "duration": 365,
+      "isrc": "GBBLY1003881"
+    },
+    {
+      "artist": "Grim Reaper",
+      "title": "See You In Hell",
+      "services": {
+        "qobuz": "208909"
+      },
+      "album": "Best Of Grim Reaper",
+      "duration": 256,
+      "isrc": "USRC19900389"
+    },
+    {
+      "artist": "Rock Goddess",
+      "title": "My Angel",
+      "services": {
+        "qobuz": "249323959"
+      },
+      "album": "Live From London",
+      "duration": 275,
+      "isrc": "GBHQK1602645"
+    },
+    {
+      "artist": "Battleme",
+      "title": "Burn This Town",
+      "services": {
+        "qobuz": "37669299"
+      },
+      "album": "Live At Cactus Cafe",
+      "duration": 208,
+      "isrc": "QMJ6F1706603"
+    },
+    {
+      "artist": "Cloven Hoof",
+      "title": "Gates Of Gehenna",
+      "services": {
+        "qobuz": "385315145"
+      },
+      "album": "Cloven Hoof",
+      "duration": 328,
+      "isrc": "GBAJE8400042"
+    },
+    {
+      "artist": "Metamorphose String Orchestra",
+      "title": "Snow White: I. Three Drops of Blood on the Snow",
+      "services": {
+        "qobuz": "318780164"
+      },
+      "album": "Litvinovsky: Snow White",
+      "duration": 184,
+      "isrc": "ITD542500253"
+    },
+    {
+      "artist": "Blitzkrieg",
+      "title": "Inferno",
+      "services": {
+        "qobuz": "171590461"
+      },
+      "album": "The Boys from Brazil Street: The Archives, Vol. 1",
+      "duration": 283,
+      "isrc": "GBKPL1510540"
+    },
+    {
+      "artist": "Ozzy Osbourne",
+      "title": "Crazy Train",
+      "services": {
+        "qobuz": "101765362"
+      },
+      "album": "Blizzard Of Ozz",
+      "duration": 293,
+      "isrc": "USSM11002845"
+    },
+    {
+      "artist": "Anvil",
+      "title": "Metal On Metal",
+      "services": {
+        "qobuz": "9886945"
+      },
+      "album": "Metal On Metal",
+      "duration": 236,
+      "isrc": "CAU118201109"
+    },
+    {
+      "artist": "Bar\u00f3n Rojo",
+      "title": "Los Rockeros Van al Infierno",
+      "services": {
+        "qobuz": "51407592"
+      },
+      "album": "Grandes Exitos",
+      "duration": 259,
+      "isrc": "ES5108100013"
+    },
+    {
+      "artist": "Dio",
+      "title": "Holy Diver",
+      "services": {
+        "qobuz": "5042247"
+      },
+      "album": "Holy Diver",
+      "duration": 349,
+      "isrc": "NLF050390016"
+    },
+    {
+      "artist": "Accept",
+      "title": "Balls to the Wall",
+      "services": {
+        "qobuz": "310823703"
+      },
+      "album": "Balls To The Wall",
+      "duration": 343,
+      "isrc": "UKKY82500024"
+    },
+    {
+      "artist": "M\u00f6tley Cr\u00fce",
+      "title": "Shout at the Devil",
+      "services": {
+        "qobuz": "385615647"
+      },
+      "album": "Greatest Hits",
+      "duration": 195,
+      "isrc": "USBY29900159"
+    },
+    {
+      "artist": "Quiet Riot",
+      "title": "Metal Health (Bang Your Head)",
+      "services": {
+        "qobuz": "46965692"
+      },
+      "album": "Metal Health",
+      "duration": 316,
+      "isrc": "USSM18200465"
+    },
+    {
+      "artist": "Krokus",
+      "title": "Screaming in the Night",
+      "services": {
+        "qobuz": "202035"
+      },
+      "album": "Head Hunter",
+      "duration": 397,
+      "isrc": "USAR10000048"
+    },
+    {
+      "artist": "Mercyful Fate",
+      "title": "Evil",
+      "services": {
+        "qobuz": "132949491"
+      },
+      "album": "Melissa",
+      "duration": 284,
+      "isrc": "NLA329780544"
+    },
+    {
+      "artist": "Heavy Load",
+      "title": "Stronger than Evil",
+      "services": {
+        "qobuz": "238848073"
+      },
+      "album": "Stronger than Evil",
+      "duration": 422,
+      "isrc": "SE6XK8300105"
+    },
+    {
+      "artist": "Visigoth",
+      "title": "Necropolis (Manilla Road Cover)",
+      "services": {
+        "qobuz": "60650827"
+      },
+      "album": "The Revenant King",
+      "duration": 201,
+      "isrc": "USMBR1410848"
+    },
+    {
+      "artist": "Helix",
+      "title": "Rock You",
+      "services": {
+        "qobuz": "1790306"
+      },
+      "album": "Walkin' The Razor's Edge",
+      "duration": 173,
+      "isrc": "USCA28400073"
+    },
+    {
+      "artist": "W.A.S.P.",
+      "title": "I Wanna Be Somebody",
+      "services": {
+        "qobuz": "51000670"
+      },
+      "album": "W.A.S.P.",
+      "duration": 223,
+      "isrc": "GBCQV8400008"
+    },
+    {
+      "artist": "Twisted Sister",
+      "title": "Burn in Hell",
+      "services": {
+        "qobuz": "387303461"
+      },
+      "album": "Stay Hungry",
+      "duration": 283,
+      "isrc": "USAT20000549"
+    },
+    {
+      "artist": "Dokken",
+      "title": "Unchain the Night",
+      "services": {
+        "qobuz": "4805107"
+      },
+      "album": "Original Album Series",
+      "duration": 319,
+      "isrc": "USEE10181023"
+    },
+    {
+      "artist": "Ratt",
+      "title": "Round and Round",
+      "services": {
+        "qobuz": "385665988"
+      },
+      "album": "Out of the Cellar",
+      "duration": 265,
+      "isrc": "USAT29900560"
+    },
+    {
+      "artist": "Armored Saint",
+      "title": "Can U Deliver",
+      "services": {
+        "qobuz": "4688978"
+      },
+      "album": "March Of The Saint",
+      "duration": 215,
+      "isrc": "USCH38400043"
+    },
+    {
+      "artist": "\u00c1ngeles del Infierno",
+      "title": "Maldito sea tu nombre",
+      "services": {
+        "qobuz": "2692605"
+      },
+      "album": "Pacto con el diablo",
+      "duration": 225,
+      "isrc": "ES5158414023"
+    },
+    {
+      "artist": "Sortil\u00e8ge",
+      "title": "D\u00e9lire d'un fou",
+      "services": {
+        "qobuz": "194330636"
+      },
+      "album": "Sortilege",
+      "duration": 333,
+      "isrc": "FR7Z82100060"
+    },
+    {
+      "artist": "Warlord",
+      "title": "Black Mass",
+      "services": {
+        "qobuz": "136740733"
+      },
+      "album": "Deliver Us",
+      "duration": 331,
+      "isrc": "GB4J92107205"
+    },
+    {
+      "artist": "Yngwie Malmsteen",
+      "title": "Far Beyond the Sun",
+      "services": {
+        "qobuz": "307147465"
+      },
+      "album": "Yngwie J. Malmsteen's Rising Force",
+      "duration": 352,
+      "isrc": "TCAJC2474885"
+    },
+    {
+      "artist": "Freedy Johnston",
+      "title": "Until the Sun Comes Back Again",
+      "services": {
+        "qobuz": "2783074"
+      },
+      "album": "Blue Days Black Nights",
+      "duration": 181,
+      "isrc": "USEE19900109"
+    },
+    {
+      "artist": "Witch Cross",
+      "title": "Axe Dance",
+      "services": {
+        "qobuz": "156066009"
+      },
+      "album": "Fit For Fight",
+      "duration": 201,
+      "isrc": "DEQN42200050"
+    },
+    {
+      "artist": "Loudness",
+      "title": "Crazy Nights",
+      "services": {
+        "qobuz": "45575721"
+      },
+      "album": "8186 Now and Then",
+      "duration": 317,
+      "isrc": "JPWP01772303"
+    },
+    {
+      "artist": "Stryper",
+      "title": "To Hell with the Devil",
+      "services": {
+        "qobuz": "53680241"
+      },
+      "album": "To Hell With The Devil",
+      "duration": 244,
+      "isrc": "USHR10320286"
+    },
+    {
+      "artist": "Chastain",
+      "title": "Mystery of Illusion",
+      "services": {
+        "qobuz": "79573719"
+      },
+      "album": "Mystery of Illusion",
+      "duration": 269,
+      "isrc": "QM7281532597"
+    },
+    {
+      "artist": "King Diamond",
+      "title": "Abigail",
+      "services": {
+        "qobuz": "132945172"
+      },
+      "album": "Abigail",
+      "duration": 290,
+      "isrc": "NLA329780499"
+    },
+    {
+      "artist": "Leatherwolf",
+      "title": "The Calling",
+      "services": {
+        "qobuz": "34106200"
+      },
+      "album": "Leatherwolf",
+      "duration": 243,
+      "isrc": "USUM70978147"
+    },
+    {
+      "artist": "Amphibious Zoo Music",
+      "title": "Remind Me to Breathe",
+      "services": {
+        "qobuz": "250540221"
+      },
+      "album": "Indie Anthems, Vol. 1",
+      "duration": 200,
+      "isrc": "US4R31348117"
+    },
+    {
+      "artist": "Warlock",
+      "title": "All We Are",
+      "services": {
+        "qobuz": "628589"
+      },
+      "album": "Triumph And Agony",
+      "duration": 200,
+      "isrc": "DEF078703340"
+    },
+    {
+      "artist": "U.D.O.",
+      "title": "Animal House",
+      "services": {
+        "qobuz": "50642894"
+      },
+      "album": "Animal House (Anniversary Edition)",
+      "duration": 262,
+      "isrc": "DEU601304416"
+    },
+    {
+      "artist": "Pretty Maids",
+      "title": "Future World",
+      "services": {
+        "qobuz": "44313"
+      },
+      "album": "Future World",
+      "duration": 323,
+      "isrc": "DKAXG9028101"
+    },
+    {
+      "artist": "Lita Ford",
+      "title": "Kiss Me Deadly",
+      "services": {
+        "qobuz": "198202"
+      },
+      "album": "Lita",
+      "duration": 241,
+      "isrc": "USRC18705885"
+    },
+    {
+      "artist": "Lizzy Borden",
+      "title": "Me Against the World",
+      "services": {
+        "qobuz": "60755973"
+      },
+      "album": "Visual Lies (Remastered)",
+      "duration": 303,
+      "isrc": "USMBR0400863"
+    },
+    {
+      "artist": "Skid Row",
+      "title": "Slave to the Grind",
+      "services": {
+        "qobuz": "383054838"
+      },
+      "album": "Slave to the Grind",
+      "duration": 208,
+      "isrc": "USAT20901952"
+    },
+    {
+      "artist": "Fight",
+      "title": "Into The Pit",
+      "services": {
+        "qobuz": "2089588"
+      },
+      "album": "War Of Words Remixed & Remastered 2007",
+      "duration": 265,
+      "isrc": "USFM80722001"
+    },
+    {
+      "artist": "Bruce Dickinson",
+      "title": "Accident of Birth",
+      "services": {
+        "qobuz": "387763241"
+      },
+      "album": "Accident of Birth",
+      "duration": 263,
+      "isrc": "GBCUF0100042"
+    },
+    {
+      "artist": "Halford",
+      "title": "Resurrection",
+      "services": {
+        "qobuz": "42657557"
+      },
+      "album": "Resurrection",
+      "duration": 238,
+      "isrc": "USQX91700143"
+    },
+    {
+      "artist": "Blaze Bayley",
+      "title": "Silicon Messiah",
+      "services": {
+        "qobuz": "56310138"
+      },
+      "album": "Silicon Messiah",
+      "duration": 312,
+      "isrc": "GBUDK1305003"
+    },
+    {
+      "artist": "The Lord Weird Slough Feg",
+      "title": "High Passage/Low Passage",
+      "services": {
+        "qobuz": "45610579"
+      },
+      "album": "Traveller",
+      "duration": 222,
+      "isrc": "USA561235352"
+    },
+    {
+      "artist": "Wolf",
+      "title": "Voodoo",
+      "services": {
+        "qobuz": "47671342"
+      },
+      "album": "Ravenous",
+      "duration": 259,
+      "isrc": "US4E40854403"
+    },
+    {
+      "artist": "3 Inches Of Blood",
+      "title": "Deadly Sinners",
+      "services": {
+        "qobuz": "5247686"
+      },
+      "album": "Advance And Vanquish",
+      "duration": 271,
+      "isrc": "NLA320420869"
+    },
+    {
+      "artist": "Bullet",
+      "title": "Heading for the top",
+      "services": {
+        "qobuz": "58280499"
+      },
+      "album": "Heading for the Top",
+      "duration": 180,
+      "isrc": "SEVVF0501403"
+    },
+    {
+      "artist": "Sister Sin",
+      "title": "On Parole",
+      "services": {
+        "qobuz": "162219834"
+      },
+      "album": "Switchblade Serenades",
+      "duration": 231,
+      "isrc": "SEYAR1300405"
+    },
+    {
+      "artist": "Enforcer",
+      "title": "Katana",
+      "services": {
+        "qobuz": "22877046"
+      },
+      "album": "Diamonds",
+      "duration": 360,
+      "isrc": "GBBPB0804477"
+    },
+    {
+      "artist": "White Wizzard",
+      "title": "High Speed Gto",
+      "services": {
+        "qobuz": "24596405"
+      },
+      "album": "High Speed GTO",
+      "duration": 237,
+      "isrc": "GBBPB0803298"
+    },
+    {
+      "artist": "In Solitude",
+      "title": "Witches Sabbath",
+      "services": {
+        "qobuz": "94937030"
+      },
+      "album": "Heavy Metal Killers",
+      "duration": 307,
+      "isrc": "GBBPB0802026"
+    },
+    {
+      "artist": "Cody High",
+      "title": "Another Night",
+      "services": {
+        "qobuz": "60469414"
+      },
+      "album": "Kissing Street",
+      "duration": 107,
+      "isrc": "SE5Q51817040"
+    },
+    {
+      "artist": "Steelwing",
+      "title": "Full Speed Ahead!",
+      "services": {
+        "qobuz": "136159641"
+      },
+      "album": "Zone of Alienation",
+      "duration": 227,
+      "isrc": "ATN261201603"
+    },
+    {
+      "artist": "Cauldron",
+      "title": "Chained Up in Chains",
+      "services": {
+        "qobuz": "29929029"
+      },
+      "album": "Chained to the Nite",
+      "duration": 310,
+      "isrc": "GBBPB0802553"
+    },
+    {
+      "artist": "Hitten",
+      "title": "Evil Power",
+      "services": {
+        "qobuz": "208235650"
+      },
+      "album": "First Strike With The Devil (2023 Revisited Version)",
+      "duration": 211,
+      "isrc": "QZFZ42343464"
+    },
+    {
+      "artist": "Skull Fist",
+      "title": "Head \u00d6f the Pack",
+      "services": {
+        "qobuz": "136282037"
+      },
+      "album": "Head \u00d6f the Pack",
+      "duration": 232,
+      "isrc": "ATN261101201"
+    },
+    {
+      "artist": "Girish",
+      "title": "Sita Ram",
+      "services": {
+        "qobuz": "85224371"
+      },
+      "album": "Shiva Machine",
+      "duration": 265,
+      "isrc": "US4R30601948"
+    },
+    {
+      "artist": "Ambush",
+      "title": "Firestorm",
+      "services": {
+        "qobuz": "308596261"
+      },
+      "album": "Firestorm",
+      "duration": 288,
+      "isrc": "DEQN41400035"
+    },
+    {
+      "artist": "Night Demon",
+      "title": "Screams in the Night",
+      "services": {
+        "qobuz": "47377819"
+      },
+      "album": "Curse of the Damned",
+      "duration": 209,
+      "isrc": "DEA451407900"
+    },
+    {
+      "artist": "Eternal Champion",
+      "title": "I Am the Hammer",
+      "services": {
+        "qobuz": "232913122"
+      },
+      "album": "The Armor of Ire",
+      "duration": 314,
+      "isrc": "TCAHM2360309"
+    },
+    {
+      "artist": "Striker",
+      "title": "Phoenix Lights",
+      "services": {
+        "qobuz": "90613668"
+      },
+      "album": "Stand in the Fire",
+      "duration": 218,
+      "isrc": "USCGH1606715"
+    },
+    {
+      "artist": "Sumerlands",
+      "title": "The Guardian",
+      "services": {
+        "qobuz": "60622098"
+      },
+      "album": "Sumerlands",
+      "duration": 239,
+      "isrc": "US2641635002"
+    },
+    {
+      "artist": "The Rondels",
+      "title": "Satan's Theme",
+      "services": {
+        "qobuz": "63401668"
+      },
+      "album": "Monster Party: Halloween Rock & Roll Oldies, Vol. 1",
+      "duration": 132,
+      "isrc": "QM4TX1927070"
+    },
+    {
+      "artist": "Olivia Belli",
+      "title": "In Dry, Glassy Air",
+      "services": {
+        "qobuz": "146876390"
+      },
+      "album": "Where Night Never Comes",
+      "duration": 117,
+      "isrc": "GBKPL1815602"
+    },
+    {
+      "artist": "Portrait",
+      "title": "Bloodbath",
+      "services": {
+        "qobuz": "60686123"
+      },
+      "album": "Crimen Laesae Majestatis Divinae",
+      "duration": 393,
+      "isrc": "USMBR1108116"
+    },
+    {
+      "artist": "Lake Street Dive",
+      "title": "I Want You Back",
+      "services": {
+        "qobuz": "73695834"
+      },
+      "album": "Fun Machine EP",
+      "duration": 259,
+      "isrc": "TCABF1243951"
+    },
+    {
+      "artist": "City Riot",
+      "title": "Warrior of Time",
+      "services": {
+        "qobuz": "324101771"
+      },
+      "album": "Burn the Night",
+      "duration": 349,
+      "isrc": "QZES81916309"
+    },
+    {
+      "artist": "TAILGUNNER",
+      "title": "Guns for Hire",
+      "services": {
+        "qobuz": "298220523"
+      },
+      "album": "Guns for Hire",
+      "duration": 202,
+      "isrc": "DE1AH2370702"
+    }
+  ]
+}

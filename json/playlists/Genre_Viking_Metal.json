@@ -1,0 +1,309 @@
+{
+  "name": "Genre: Viking Metal",
+  "services": {
+    "qobuz": "66736069"
+  },
+  "description": "Imported genre playlist: Viking Metal.",
+  "tracks": [
+    {
+      "artist": "Bathory",
+      "title": "One Rode to ASA Bay",
+      "services": {
+        "qobuz": "91243533"
+      },
+      "album": "Hammerheart",
+      "duration": 624,
+      "isrc": "SEXHQ9000507"
+    },
+    {
+      "artist": "Enslaved",
+      "title": "793 (slaget Om Lindisfarne)",
+      "services": {
+        "qobuz": "1626343"
+      },
+      "album": "Eld",
+      "duration": 970,
+      "isrc": "FR6V89700237"
+    },
+    {
+      "artist": "Helheim",
+      "title": "Jormundgand",
+      "services": {
+        "qobuz": "196955351"
+      },
+      "album": "Jormundgand",
+      "duration": 468,
+      "isrc": "NODER9504010"
+    },
+    {
+      "artist": "Prosjekt Yggdrasilum",
+      "title": "Asenes storm",
+      "services": {
+        "qobuz": "417009987"
+      },
+      "album": "Nordvindra",
+      "duration": 250,
+      "isrc": "DEAR42680620"
+    },
+    {
+      "artist": "Ulver",
+      "title": "I Troldskog Faren Vild",
+      "services": {
+        "qobuz": "58915824"
+      },
+      "album": "Bergtatt",
+      "duration": 471,
+      "isrc": "NOFVH9505010"
+    },
+    {
+      "artist": "Falkenbach",
+      "title": "When Gjallarhorn Will Sound",
+      "services": {
+        "qobuz": "189625035"
+      },
+      "album": "...magni blandinn ok megint\u00edri...",
+      "duration": 509,
+      "isrc": "ATN269803701"
+    },
+    {
+      "artist": "Einherjer",
+      "title": "Dragons of the North",
+      "services": {
+        "qobuz": "270686249"
+      },
+      "album": "Dragons of the North XX",
+      "duration": 256,
+      "isrc": "NOCVC1675010"
+    },
+    {
+      "artist": "Hades",
+      "title": "Pagan Prayer",
+      "services": {
+        "qobuz": "73772651"
+      },
+      "album": "The Dawn Of The Dying Sun",
+      "duration": 376,
+      "isrc": "USBW80610353"
+    },
+    {
+      "artist": "Mithotyn",
+      "title": "In the Sign of the Ravens",
+      "services": {
+        "qobuz": "407869123"
+      },
+      "album": "In the Sign of the Ravens",
+      "duration": 353,
+      "isrc": "NLWJ22600268"
+    },
+    {
+      "artist": "Thyrfing",
+      "title": "Vargavinter",
+      "services": {
+        "qobuz": "113899613"
+      },
+      "album": "Thyrfing",
+      "duration": 179,
+      "isrc": "NLKRM0903602"
+    },
+    {
+      "artist": "Windir",
+      "title": "Arntor ein Windir",
+      "services": {
+        "qobuz": "51242453"
+      },
+      "album": "Valfar, ein Windir",
+      "duration": 417,
+      "isrc": "NOFVH9848020"
+    },
+    {
+      "artist": "NCT U",
+      "title": "The BAT",
+      "services": {
+        "qobuz": "224822030"
+      },
+      "album": "Golden Age - The 4th Album",
+      "duration": 170,
+      "isrc": "KRA302300285"
+    },
+    {
+      "artist": "Ensiferum",
+      "title": "Lai Lai Hei",
+      "services": {
+        "qobuz": "204350496"
+      },
+      "album": "Iron",
+      "duration": 435,
+      "isrc": "FISFS0400009"
+    },
+    {
+      "artist": "Moonsorrow",
+      "title": "Kivenkantaja",
+      "services": {
+        "qobuz": "195680134"
+      },
+      "album": "Kivenkantaja",
+      "duration": 459,
+      "isrc": "FISPF0200024"
+    },
+    {
+      "artist": "Manegarm",
+      "title": "Fimbultrollet",
+      "services": {
+        "qobuz": "67678128"
+      },
+      "album": "D\u00f6dsf\u00e4rd",
+      "duration": 216,
+      "isrc": "SEVVF1403206"
+    },
+    {
+      "artist": "Finntroll",
+      "title": "Trollhammaren",
+      "services": {
+        "qobuz": "190404221"
+      },
+      "album": "Nattf\u00f6dd",
+      "duration": 212,
+      "isrc": "FISPF0300095"
+    },
+    {
+      "artist": "Turisas",
+      "title": "To Holmgard and Beyond",
+      "services": {
+        "qobuz": "27541505"
+      },
+      "album": "The Varangian Way",
+      "duration": 318,
+      "isrc": "US4E40728001"
+    },
+    {
+      "artist": "Svarts",
+      "title": "Lovely",
+      "services": {
+        "qobuz": "159066127"
+      },
+      "album": "Geography",
+      "duration": 240,
+      "isrc": "CHA012000420"
+    },
+    {
+      "artist": "Heidevolk",
+      "title": "Vulgaris Magistralis",
+      "services": {
+        "qobuz": "28457560"
+      },
+      "album": "De Strijdlust Is Geboren",
+      "duration": 223,
+      "isrc": "ATN260824612"
+    },
+    {
+      "artist": "Amon Amarth",
+      "title": "Twilight Of The Thunder God",
+      "services": {
+        "qobuz": "60705263"
+      },
+      "album": "Twilight Of The Thunder God",
+      "duration": 248,
+      "isrc": "USMBR0805969"
+    },
+    {
+      "artist": "Equilibrium",
+      "title": "Blut im Auge",
+      "services": {
+        "qobuz": "61265240"
+      },
+      "album": "Sagas",
+      "duration": 284,
+      "isrc": "DED830800348"
+    },
+    {
+      "artist": "Leaves' Eyes",
+      "title": "Njord",
+      "services": {
+        "qobuz": "37158291"
+      },
+      "album": "Njord",
+      "duration": 374,
+      "isrc": "ATN260930401"
+    },
+    {
+      "artist": "Sk\u00e1lm\u00f6ld",
+      "title": "Gleipnir",
+      "services": {
+        "qobuz": "239549087"
+      },
+      "album": "B\u00f6rn Loka",
+      "duration": 241,
+      "isrc": "ATN261245703"
+    },
+    {
+      "artist": "Grand Magus",
+      "title": "Hammer of the North",
+      "services": {
+        "qobuz": "190885959"
+      },
+      "album": "Hammer of the North",
+      "duration": 313,
+      "isrc": "DEPI82222607"
+    },
+    {
+      "artist": "Varg",
+      "title": "Wolfszeit",
+      "services": {
+        "qobuz": "60972183"
+      },
+      "album": "Wolfszeit II",
+      "duration": 413,
+      "isrc": "DEPI81901046"
+    },
+    {
+      "artist": "Wintersun",
+      "title": "Sons of Winter and Stars",
+      "services": {
+        "qobuz": "60255379"
+      },
+      "album": "Time I",
+      "duration": 811,
+      "isrc": "DED831200419"
+    },
+    {
+      "artist": "King of Asgard",
+      "title": "The Nine Worlds Burn",
+      "services": {
+        "qobuz": "60804853"
+      },
+      "album": "...to North",
+      "duration": 303,
+      "isrc": "USMBR1208930"
+    },
+    {
+      "artist": "Ereb Altor",
+      "title": "Nifelheim",
+      "services": {
+        "qobuz": "22379441"
+      },
+      "album": "Fire Meets Ice",
+      "duration": 374,
+      "isrc": "DEOJ91313303"
+    },
+    {
+      "artist": "Havukruunu",
+      "title": "Uinuos Sy\u00f6mein Sota",
+      "services": {
+        "qobuz": "291321838"
+      },
+      "album": "Uinuos Sy\u00f6mein Sota",
+      "duration": 346,
+      "isrc": "ESA012084192"
+    },
+    {
+      "artist": "Borknagar",
+      "title": "Up North",
+      "services": {
+        "qobuz": "63663788"
+      },
+      "album": "True North",
+      "duration": 389,
+      "isrc": "GBDHC1908802"
+    }
+  ]
+}

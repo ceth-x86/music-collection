@@ -1,0 +1,108 @@
+# Genre: Classic Electro
+
+Imported genre playlist: Classic Electro.
+
+Services: `qobuz:66714122` `tidal:c54f81ff-b042-431f-8ad0-cbc892f35f7b`
+
+## Tracks (100)
+
+- **Ryuichi Sakamoto** — riot in Lagos [B-2 Unit] (5:40) `isrc:JPAL01900670` `qobuz:71185950`
+- **Afrika Bambaataa & The Soul Sonic Force** — Planet Rock [Planet Rock (1996 Version)] (7:36) `isrc:USGZ20600363` `qobuz:9159920`
+- **Man Parrish** — Hip Hop, Be Bop (Don’t Stop) [Hip Hop Be Bop (Don’t Stop)] (5:40) `isrc:CAU118202006` `qobuz:10939552`
+- **Warp 9** — Nunk (New Wave Funk) [It's a Beat Wave] (8:16) `isrc:CAU118203801` `qobuz:15672132`
+- **Planet Patrol** — Play at Your Own Risk [Planet Patrol] (7:47) `isrc:USTB11800509` `qobuz:169117451`
+- **Malcolm McLaren** — Buffalo Gals [Duck Rock] (4:19) `isrc:GBAAA8300092` `qobuz:1726973`
+- **Tyrone Brunson** — The Smurf [Sticky Situation (Expanded)] (6:14) `isrc:USHM82061976` `qobuz:97355621`
+- **Whodini** — Magic's Wand [Whodini] (5:37) `isrc:GBAHK9400184` `qobuz:37990753`
+- **Quadrant Six** — Body Mechanic [Body Mechanic] (7:03) `isrc:USGZ20822929` `qobuz:74438288`
+- **Rockers Revenge** — Walking on Sunshine '82 [Walking on Sunshine (feat. Donnie Calvin)] (9:35) `isrc:USWR39100019` `qobuz:32770015`
+- **Herbie Hancock** — Rockit [Future Shock] (5:25) `isrc:USSM19804808` `qobuz:38710`
+- **Hashim** — Al-Naafiysh (The Soul) [Al-Naafiysh (The Soul)] (6:45) `isrc:USCRI1549201` `qobuz:74169556`
+- **Cybotron** — Clear [Clear] (4:54) `isrc:USFI88300051` `qobuz:102668717`
+- **Twilight 22** — Electric Kingdom [Twilight 22] (4:46) `isrc:USVG20600937` `qobuz:55350799`
+- **Jonzun Crew** — Pack Jam (Look Out for the OVC) [Lost in Space] (6:51) `isrc:USTB10300344` `qobuz:169114222`
+- **West Street Mob** — Break Dance - Electric Boogie [Break Dance - Electric Boogie] (5:11) `isrc:GBAJE8300014` `qobuz:388676312`
+- **C.E.B.** — Get the Point [Countin' Endless Bank] (3:55) `isrc:USSM11504769` `qobuz:28937071`
+- **The Bird and the Bee** — Ray Gun [Ray Guns Are Not Just The Future] (4:41) `isrc:USBN20800598` `qobuz:54871315`
+- **K-9 Corp** — Dog Talk [Greatest Hits: Straight Up] (9:35) `isrc:USCA20000342` `qobuz:4551538`
+- **G Force** — Feel the Force (feat. Captain Cee) [Feel the Force (feat. Captain Cee)] (7:21) `isrc:TCACG1576590` `qobuz:124043446`
+- **Captain Rock** — Return of Captain Rock [To the Future Shock] (3:56) `isrc:QMZ961118846` `qobuz:168998331`
+- **The Packman** — I'm the Packman (Eat Everything I Can) [I'm the Packman (Eat Everything I Can)] (6:36) `isrc:QM6MZ2276865` `qobuz:161738997`
+- **Xena** — On the Upside [Star Funk, Vol. 4] (5:51) `isrc:CAU118307207` `qobuz:15672277`
+- **Backspin** — Master Rap Megamix :: Rapper's Delight + Tough + The Breaks + Partytime + Push it [Master Rap Megamix] (6:26) `isrc:DEE989800018` `qobuz:101811601`
+- **The Beach Boys** — Sloop John B [Pet Sounds] (3:01) `isrc:USCA21201794` `qobuz:6848884`
+- **Mandrill** — Two Sisters Of Mystery [Just Outside Of Town] (3:39) `isrc:USUR10300358` `qobuz:53077856`
+- **Captain Rapp** — Bad Times (I Can't Stand It), Pt. 1 [Bad Times (I Can't Stand It) / Rock the Beat] (6:47) `isrc:QMFMF2139198` `qobuz:146321435`
+- **Newcleus** — Computer Age (Push the Button) [Jam On Revenge] (7:40) `isrc:USCCK0710015` `qobuz:73771146`
+- **Newcleus** — Jam On It [Jam On Revenge] (6:23) `isrc:USCCK0710020` `qobuz:73771151`
+- **Divine Sounds** — What People Do For Money [What People Do For Money] (8:26) `isrc:NLP431600577` `qobuz:49199753`
+- **AJJ** — We Didn't Come Here to Rock [Can't Maintain] (2:23) `isrc:US4ZV0910384` `qobuz:264856930`
+- **Pumpkin** — King of the Beat [King of the Beat] (6:08) `isrc:USRC12002250` `qobuz:109391112`
+- **Davy DMX** — One for the Treble (Fresh) [One For The Treble (Fresh)] (6:29) `isrc:QZAKB2320674` `qobuz:198142062`
+- **Fresh 3 MC's** — Fresh [Profile Singles] (6:16) `isrc:USRC12001140` `qobuz:100227765`
+- **Steps Ahead** — Radio-Active [Modern Times] (8:52) `isrc:USNO18435105` `qobuz:2855037`
+- **Home Made Kazoku** — Get Fun-Key - space in your space [FAMILIA] (4:16) `isrc:JPKS00700154` `qobuz:95647597`
+- **Leonard Bernstein** — How a Great Symphony Was Written - Leonard Bernstein Talks About the First Movement of Beethoven's Fifth Symphony [Beethoven: Symphony No. 5 in C Minor, Op. 67 - Bernstein talks "How a Great Smphony was Written"] (12:02) `isrc:USSM11702526` `qobuz:44584600`
+- **The Mohawks** — The Champ [Arthur Baker presents Breaker's Revenge - Original B-Boy and B-Girl Breakdance Classics 1970-84] (2:38) `isrc:GBVVQ1600276` `qobuz:262892313`
+- **Atrahddis** — Knights of the Bass Table [Medieval Techno] (1:05) `isrc:QZES52575748` `qobuz:322468771`
+- **The Fantastic Aleems** — Release Yourself [Release Yourself: The NIA Sessions] (6:00) `isrc:QMZ961118845` `qobuz:228119849`
+- **Fantasy 3** — Buck Stops Here [It's Your Rock] (10:01) `isrc:USHM21734295` `qobuz:75469745`
+- **London Boys** — High Fidelity [Sweet Soul Music] (3:57) `isrc:DEA610100446` `qobuz:336506169`
+- **Mr. Undercover** — Rocket Man (I Think It's Going to Be a Long Long Time) [Great Piano Cover Songs] (4:35) `isrc:DEMF32000045` `qobuz:104332551`
+- **Strafe** — Set It Off (Vocal) ["the original" Set It Off] (9:45) `isrc:USHM80702689` `qobuz:90586613`
+- **The RussellBrothers** — The Party Scene [The Party Scene] (6:54) `isrc:USL4R2380892` `qobuz:236063277`
+- **Haiku Salut** — Sounds Like There's A Pacman Crunching Away At Your Heart [Tricolore] (4:55) `isrc:GBHLW1310481` `qobuz:237805959`
+- **The Egyptian Lover** — Egypt Egypt [On the Nile] (5:18) `isrc:USLW78466305` `qobuz:14892317`
+- **Time Zone** — The Wildstyle [Zulu Wildstyle] (8:18) `isrc:GBHCD1150091` `qobuz:6920595`
+- **Poets Of The Fall** — Dancing on Broken Glass [Ultraviolet] (3:54) `isrc:FIP9F1800003` `qobuz:53051834`
+- **Full Blown Kirk** — real time [Zero Day] (4:14) `isrc:USHM20401398` `qobuz:75506848`
+- **Alina Music** — Heart Sync Beat [Always and Forever] (2:58) `isrc:GXJBV2666159` `qobuz:404513833`
+- **Cheek** — Venus (Sunshine People) [DJ Gregory U.Pass] [Versatile Classics, Vol. 4] (7:14) `isrc:FR08Q1600011` `qobuz:31189350`
+- **Lofi Hip Hop** — Radio Mix Jam [Beat Street Radio] (2:25) `isrc:USA2P2603301` `qobuz:385241540`
+- **Shannon** — Let the Music Play [Let the Music Play] (6:11) `isrc:CAU118401867` `qobuz:52498391`
+- **Dr. Jeckyll & Mr. Hyde** — Fast Life [Profile Singles] (7:19) `isrc:USRC12001122` `qobuz:111918770`
+- **Bobby Broom** — Beat Freak [Livin' For The Beat] (4:13) `isrc:USAR10900343` `qobuz:2545075`
+- **The Real Roxanne** — Bang Zoom (Let's Go-Go) [The Real Roxanne] (5:57) `isrc:US39N0400300` `qobuz:32720475`
+- **Arabian Prince** — Panic Zone [Innovative Life] (3:33) `isrc:US2S70892008` `qobuz:122262080`
+- **Break Machine** — Street Dance [Street Dance] (6:29) `isrc:FR6V80878805` `qobuz:1397683`
+- **Ollie & Jerry** — Breakin'...There's No Stopping Us [Classic 80s Movie Songs] (3:39) `isrc:USUR10301342` `qobuz:58075992`
+- **Pretty Tony** — Fix It In The Mix [Fix It In The Mix] (6:00) `isrc:USGZ20716905` `qobuz:74432052`
+- **Electrik Funk** — On a Journey [Prelude's Greatest Hits, Vol. 6] (5:41) `isrc:CAU118207796` `qobuz:9352967`
+- **Timbaland** — The Way I Are [Shock Value] (2:59) `isrc:USUM70722806` `qobuz:4269711`
+- **Dominatrix** — The Dominatrix Sleeps Tonight [The Dominatrix Sleeps Tonight] (3:33) `isrc:US4F92201010` `qobuz:150860595`
+- **Miscellaneous** — As The World Keeps Turning [Dr. Dre Presents... The Aftermath] (4:43) `isrc:USIR19601098` `qobuz:4298727`
+- **Electro Lounge All Stars, Ibiza DJ Rockerz, Ibiza Deep House Lounge** — Hot Bodies on the Beach [Super Chillout EDM Carnival Beats Club Mix 2020] (3:44) `isrc:PLS921804965` `qobuz:84007178`
+- **Fearless Four** — Dedication [Tuff City Records: Original Old School Recordings, Vol. 1] (5:40) `isrc:QMZ961114699` `qobuz:171491570`
+- **Chief Rocker Busy Bee** — Busy Bee vs kool moe Dee The First battle in Hiphop [Pioneers of Hip-Hop - Vol One] (12:15) `isrc:USHM20634168` `qobuz:71866645`
+- **Def Star Audio Emperor** — Offline [For Meget] (1:33) `isrc:QMFME2500299` `qobuz:353996741`
+- **N.Y.C. Cutter** — D.J. Cuttin [D.J. Cuttin] (4:50) `isrc:QZLBC2601953` `qobuz:390845396`
+- **Mantronix** — Needle To The Groove [Mantronix] (3:44) `isrc:GBAAA0500280` `qobuz:4688337`
+- **World Class Wreckin Cru** — Turn off the lights [greatest hits plus] (5:49) `isrc:USCGJ0668475` `qobuz:99100196`
+- **D.ST.** — Home Of Hip Hop [Beat Freaks] (3:51) `isrc:GBHCD8650000` `qobuz:7172571`
+- **Rock Master Scott** — The Request Line [Request Line / The Roof Is On Fire] (6:46) `isrc:NLP438400003` `qobuz:79199652`
+- **Colde** — Star [See You in My 19th Life, Pt. 2] (3:40) `isrc:KRA492300561` `qobuz:215812153`
+- **MC Craig "G"** — Shout [Rap Version] [Shout] (4:38) `isrc:QZLBC2601954` `qobuz:390845211`
+- **Freestyle** — Don't Stop The Rock [Don't Stop The Rock] (5:32) `isrc:USGZ20716691` `qobuz:9130468`
+- **Blacastan** — Dynamic Duo [The Master of Reality] (3:25) `isrc:USCGH1204652` `qobuz:67960348`
+- **Uncle Jamm's Army** — Dial-A-Freak [DJ-Kicks (DaM-Funk)] (6:09) `isrc:DEG931691567` `qobuz:31951765`
+- **Tricky Tee** — Leave It to the Drums (Here Come the Drums) [DJ Cerock: Throwback Attack] (1:32) `isrc:USWR38500670` `qobuz:77200922`
+- **Bucks Fizz** — Oh Suzanne [The Best Of The Lost Masters...And More!] (6:37) `isrc:GBARL0600989` `qobuz:8712316`
+- **The Buttertones** — Awesome Monster [Face to Face With Fantasy] (2:25) `isrc:TCAIF2420920` `qobuz:348247165`
+- **Freddie James** — Get up and Boogie [The Original Masters, Vol. 4 the Music History of the Disco] (7:00) `isrc:GB7LE0900272` `qobuz:35855746`
+- **12:41** — Success Is the Word [The Rap Pack] (4:10) `isrc:USWR30753150` `qobuz:77202107`
+- **Studio Allstars** — Baby Got Back - (Tribute to Sir Mix-a-lot) [All American Rap/Hip Hop] (4:27) `isrc:GBQRF0813896` `qobuz:89309557`
+- **T-la Rock** — Breaking Bells (Club) [King of the Beats (Anthology 1985-1988)] (5:25) `isrc:USWR30753203` `qobuz:77202850`
+- **James** — She's A Star [Fresh As A Daisy - The Singles] (3:39) `isrc:GBF089607522` `qobuz:4388863`
+- **Skinny Boys** — Rip the Cut [Weightless] (2:48) `isrc:USWR31651508` `qobuz:77213732`
+- **Mc Chill** — Downbeats (Beat Them Down) [Downbeats (Beat Them Down)] (6:48) `isrc:USWR38501117` `qobuz:92917962`
+- **The Hollies** — Draggin' My Heels [Down To The Sea And Back: The Continuing Journey Of The Balearic Beat. Volume 1.] (6:32) `isrc:GB4XK1000110` `qobuz:6141327`
+- **The Toxic Avenger** — Bad Girls Need Love Too (Extended Version) [Bad Girls Need Love Too] (4:54) `isrc:FR9EJ1700010` `qobuz:44867007`
+- **Asleep At The Wheel** — Bring It On Down To My House [Asleep At The Wheel Tribute To The Music Of Bob Wills And The Texas Playboys] (2:48) `isrc:USCN19300206` `qobuz:4683265`
+- **L.A. Dream Team** — Rockberry Jam [Kings Of The West Coast] (5:16) `isrc:USUM71215740` `qobuz:8564577`
+- **The Classical Two** — Rap's New Generation PT2 (2025) [Rap's New Generation PT2 (2025)] (3:19) `isrc:QZTB42577103` `qobuz:341278348`
+- **Dynamix II** — Just Give The DJ A Break [Dynamix II - The Album] (4:36) `isrc:USEPW0800436` `qobuz:5915682`
+- **Furacão 2000** — Rap Will Never Die (Melô da Pantera N° 4) [Furacão 2000 (1988)] (4:29) `isrc:ZZOPM2115711` `qobuz:160761911`
+- **Ajcjack** — Original Concept [Can You Feel It] (2:36) `isrc:USCGJ2530725` `qobuz:317296343`
+- **Full Force** — Alice [Full Force + Bonus Tracks] (5:54) `isrc:USSM18510023` `qobuz:3371896`
+- **Whistle** — (Nothing Serious) Just Buggin' [Whistle] (5:07) `isrc:US39N0400399` `qobuz:32717656`
+- **Mc Shan** — He Cuts so Fresh (Original 12" Vocal Version) [Down By Law] (5:09) `isrc:USRH10902654` `qobuz:11564325`

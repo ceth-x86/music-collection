@@ -1,0 +1,1010 @@
+{
+  "name": "Genre: Space Rock",
+  "services": {
+    "qobuz": "66737979",
+    "tidal": "2acd513d-0469-4887-b5bf-9f21fe507d61"
+  },
+  "description": "Imported genre playlist: Space Rock.",
+  "tracks": [
+    {
+      "artist": "The Spotnicks",
+      "title": "The Rocket Man",
+      "services": {
+        "qobuz": "89617682"
+      },
+      "album": "1997",
+      "duration": 151,
+      "isrc": "SEVHR9700101"
+    },
+    {
+      "artist": "Pink Floyd",
+      "title": "Interstellar Overdrive",
+      "services": {
+        "qobuz": "47683482"
+      },
+      "album": "The Piper at the Gates of Dawn",
+      "duration": 580,
+      "isrc": "GBN9Y1100007"
+    },
+    {
+      "artist": "Lothar and the Hand People",
+      "title": "Comic Strip",
+      "services": {
+        "qobuz": "86172976"
+      },
+      "album": "Machines: Amherst 1969",
+      "duration": 177,
+      "isrc": "USCWY1900611"
+    },
+    {
+      "artist": "Black Sabbath",
+      "title": "Planet Caravan",
+      "services": {
+        "qobuz": "386614188"
+      },
+      "album": "Paranoid",
+      "duration": 267,
+      "isrc": "USWB11304629"
+    },
+    {
+      "artist": "Hawkwind",
+      "title": "Hurry on Sundown",
+      "services": {
+        "qobuz": "4593986"
+      },
+      "album": "Hawkwind",
+      "duration": 301,
+      "isrc": "GBAYE9600459"
+    },
+    {
+      "artist": "U.F.O.",
+      "title": "Flying",
+      "services": {
+        "qobuz": "5604082"
+      },
+      "album": "Flying - One Hour Space Rock",
+      "duration": 1590,
+      "isrc": "DED467220002"
+    },
+    {
+      "artist": "Nektar",
+      "title": "Astronauts Nightmare",
+      "services": {
+        "qobuz": "155763103"
+      },
+      "album": "Journey To The Centre Of The Eye",
+      "duration": 386,
+      "isrc": "DEA437100002"
+    },
+    {
+      "artist": "Arthur Brown's Kingdom Come",
+      "title": "Internal Messenger",
+      "services": {
+        "qobuz": "122317134"
+      },
+      "album": "Eternal Messenger: An Anthology 1970-1973",
+      "duration": 309,
+      "isrc": "GBBLY2100366"
+    },
+    {
+      "artist": "Captain Beyond",
+      "title": "Dancing Madly Backwards (On A Sea Of Air)",
+      "services": {
+        "qobuz": "54297710"
+      },
+      "album": "Captain Beyond",
+      "duration": 242,
+      "isrc": "USPR37280223"
+    },
+    {
+      "artist": "Gong",
+      "title": "Flying Teapot",
+      "services": {
+        "qobuz": "63705008"
+      },
+      "album": "Flying Teapot",
+      "duration": 712,
+      "isrc": "GBUM71806459"
+    },
+    {
+      "artist": "Michael Moorcock & The Deep Fix",
+      "title": "Starcruiser",
+      "services": {
+        "qobuz": "264687187"
+      },
+      "album": "The New Worlds Fair",
+      "duration": 196,
+      "isrc": "GBBLY0703713"
+    },
+    {
+      "artist": "Klaatu",
+      "title": "Calling Occupants Of Interplanetary Craft",
+      "services": {
+        "qobuz": "33983959"
+      },
+      "album": "3:47 EST",
+      "duration": 430,
+      "isrc": "USCA20801718"
+    },
+    {
+      "artist": "Starcastle",
+      "title": "Lady of the Lake",
+      "services": {
+        "qobuz": "47065"
+      },
+      "album": "Starcastle",
+      "duration": 626,
+      "isrc": "USSM10026574"
+    },
+    {
+      "artist": "Omega",
+      "title": "House Of Cards, Pt. I / Time Robber / House Of Cards, Pt. II",
+      "services": {
+        "qobuz": "144533819"
+      },
+      "album": "Time Robber",
+      "duration": 747,
+      "isrc": "DEMV92200001"
+    },
+    {
+      "artist": "Space Art",
+      "title": "Onyx",
+      "services": {
+        "qobuz": "99765449"
+      },
+      "album": "Space Art",
+      "duration": 220,
+      "isrc": "FR6V82122983"
+    },
+    {
+      "artist": "Here & Now",
+      "title": "Grate Fire of London",
+      "services": {
+        "qobuz": "151413803"
+      },
+      "album": "Give and Take",
+      "duration": 457,
+      "isrc": "GBAWA0234691"
+    },
+    {
+      "artist": "Rockets",
+      "title": "On the Road Again",
+      "services": {
+        "qobuz": "15040432"
+      },
+      "album": "On the Road Again",
+      "duration": 516,
+      "isrc": "CH6321400002"
+    },
+    {
+      "artist": "Planet Gong",
+      "title": "Opium for the People",
+      "services": {
+        "qobuz": "67098389"
+      },
+      "album": "Opium for the People",
+      "duration": 262,
+      "isrc": "GBQRF1244235"
+    },
+    {
+      "artist": "Hawklords",
+      "title": "25 Years",
+      "services": {
+        "qobuz": "318294121"
+      },
+      "album": "25 Years On",
+      "duration": 275,
+      "isrc": "GBBLY0803093"
+    },
+    {
+      "artist": "Eloy",
+      "title": "Time To Turn",
+      "services": {
+        "qobuz": "788187"
+      },
+      "album": "Time To Turn",
+      "duration": 274,
+      "isrc": "DEC638200048"
+    },
+    {
+      "artist": "Loop",
+      "title": "Pulse",
+      "services": {
+        "qobuz": "368608806"
+      },
+      "album": "Fade Out",
+      "duration": 286,
+      "isrc": "GBWWJ0800017"
+    },
+    {
+      "artist": "Spacemen 3",
+      "title": "Revolution",
+      "services": {
+        "qobuz": "238114296"
+      },
+      "album": "Playing With Fire",
+      "duration": 357,
+      "isrc": "GBBJX9811105"
+    },
+    {
+      "artist": "Ozric Tentacles",
+      "title": "Saucers",
+      "services": {
+        "qobuz": "51015927"
+      },
+      "album": "Strangeitude",
+      "duration": 452,
+      "isrc": "GBCQV9100073"
+    },
+    {
+      "artist": "The Telescopes",
+      "title": "Flying",
+      "services": {
+        "qobuz": "28209320"
+      },
+      "album": "Splashdown: The Complete Creation Recordings 1990-1992",
+      "duration": 171,
+      "isrc": "GBBLY1504713"
+    },
+    {
+      "artist": "Eat Static",
+      "title": "Abnormal Interference",
+      "services": {
+        "qobuz": "119607048"
+      },
+      "album": "Implant",
+      "duration": 507,
+      "isrc": "GBLFW0700014"
+    },
+    {
+      "artist": "Porcupine Tree",
+      "title": "Phase I",
+      "services": {
+        "qobuz": "37967453"
+      },
+      "album": "Voyage 34 (Remaster)",
+      "duration": 777,
+      "isrc": "GBCQV0700109"
+    },
+    {
+      "artist": "Monster Magnet",
+      "title": "25 / Longhair",
+      "services": {
+        "qobuz": "41618610"
+      },
+      "album": "Tab",
+      "duration": 748,
+      "isrc": "ATN261774502"
+    },
+    {
+      "artist": "Sleep",
+      "title": "Marijuanaut's Theme",
+      "services": {
+        "qobuz": "370463624"
+      },
+      "album": "The Sciences",
+      "duration": 399,
+      "isrc": "US3JJ1801614"
+    },
+    {
+      "artist": "Kyuss",
+      "title": "Space Cadet",
+      "services": {
+        "qobuz": "2729076"
+      },
+      "album": "Welcome to Sky Valley",
+      "duration": 422,
+      "isrc": "USEE10301961"
+    },
+    {
+      "artist": "Catherine Wheel",
+      "title": "Black Metallic",
+      "services": {
+        "qobuz": "54692797"
+      },
+      "album": "Ferment",
+      "duration": 439,
+      "isrc": "USWWW0134805"
+    },
+    {
+      "artist": "The Verve",
+      "title": "Slide Away",
+      "services": {
+        "qobuz": "34656334"
+      },
+      "album": "A Storm In Heaven",
+      "duration": 243,
+      "isrc": "GBUM71601795"
+    },
+    {
+      "artist": "Slowdive",
+      "title": "Souvlaki Space Station",
+      "services": {
+        "qobuz": "2697436"
+      },
+      "album": "Souvlaki",
+      "duration": 359,
+      "isrc": "GBBQY0400040"
+    },
+    {
+      "artist": "Spectrum",
+      "title": "How You Satisfy Me",
+      "services": {
+        "qobuz": "6786219"
+      },
+      "album": "Soul Kiss (Glide Divine)",
+      "duration": 251,
+      "isrc": "GBARL1100677"
+    },
+    {
+      "artist": "HUM",
+      "title": "Stars",
+      "services": {
+        "qobuz": "212927"
+      },
+      "album": "You'd Prefer An Astronaut",
+      "duration": 309,
+      "isrc": "USRC19401473"
+    },
+    {
+      "artist": "Flying Saucer Attack",
+      "title": "Rainstorm Blues",
+      "services": {
+        "qobuz": "101273776"
+      },
+      "album": "Further",
+      "duration": 249,
+      "isrc": "GBCEL0500394"
+    },
+    {
+      "artist": "Bowery Electric",
+      "title": "Postscript",
+      "services": {
+        "qobuz": "63143720"
+      },
+      "album": "Beat",
+      "duration": 1001,
+      "isrc": "USI4R0401655"
+    },
+    {
+      "artist": "Failure",
+      "title": "Stuck on You",
+      "services": {
+        "qobuz": "46045928"
+      },
+      "album": "Fantastic Planet",
+      "duration": 268,
+      "isrc": "GBAAP0300060"
+    },
+    {
+      "artist": "Bardo Pond",
+      "title": "Tommy Gun Angel",
+      "services": {
+        "qobuz": "2533578"
+      },
+      "album": "Lapsed",
+      "duration": 315,
+      "isrc": "USMTD9721001"
+    },
+    {
+      "artist": "Djakarta",
+      "title": "Anemone",
+      "services": {
+        "qobuz": "238672671"
+      },
+      "album": "Anemone",
+      "duration": 259,
+      "isrc": "FREC02300030"
+    },
+    {
+      "artist": "Stereolab",
+      "title": "Metronomic Underground",
+      "services": {
+        "qobuz": "79173662"
+      },
+      "album": "Emperor Tomato Ketchup",
+      "duration": 474,
+      "isrc": "USEE19694710"
+    },
+    {
+      "artist": "Mogwai",
+      "title": "Mogwai Fear Satan",
+      "services": {
+        "qobuz": "179401607"
+      },
+      "album": "Mogwai Young Team",
+      "duration": 979,
+      "isrc": "GBCGR2260010"
+    },
+    {
+      "artist": "Spiritualized",
+      "title": "Ladies and gentlemen we are floating in space",
+      "services": {
+        "qobuz": "90537564"
+      },
+      "album": "Ladies and gentlemen we are floating in space",
+      "duration": 234,
+      "isrc": "GBARK9700152"
+    },
+    {
+      "artist": "Sigur R\u00f3s",
+      "title": "Svefn-g-englar",
+      "services": {
+        "qobuz": "57352333"
+      },
+      "album": "\u00c1g\u00e6tis byrjun",
+      "duration": 606,
+      "isrc": "GBDCA9900067"
+    },
+    {
+      "artist": "Airospace",
+      "title": "Godspeed You Black Emperor, Pt. II",
+      "services": {
+        "qobuz": "181313958"
+      },
+      "album": "You're a Liar and You Suck, Who Would Love You?",
+      "duration": 205,
+      "isrc": "QZRP52219817"
+    },
+    {
+      "artist": "Muse",
+      "title": "Space Dementia",
+      "services": {
+        "qobuz": "3859431"
+      },
+      "album": "Origin of Symmetry",
+      "duration": 381,
+      "isrc": "GBCVT0100013"
+    },
+    {
+      "artist": "The Flaming Lips",
+      "title": "Approaching Pavonis Mons by Balloon (Utopia Planitia)",
+      "services": {
+        "qobuz": "39634264"
+      },
+      "album": "Yoshimi Battles the Pink Robots",
+      "duration": 189,
+      "isrc": "USWB11602516"
+    },
+    {
+      "artist": "The Warlocks",
+      "title": "Shake the Dope Out",
+      "services": {
+        "qobuz": "52080352"
+      },
+      "album": "Phoenix",
+      "duration": 260,
+      "isrc": "GBAJH0300364"
+    },
+    {
+      "artist": "M83",
+      "title": "Run Into Flowers",
+      "services": {
+        "qobuz": "18493192"
+      },
+      "album": "Dead Cities, Red Seas & Lost Ghosts",
+      "duration": 249,
+      "isrc": "FR86W0300280"
+    },
+    {
+      "artist": "Oceansize",
+      "title": "One Day All This Could Be Yours",
+      "services": {
+        "qobuz": "2340288"
+      },
+      "album": "One Day All This Could Be Yours EP",
+      "duration": 263,
+      "isrc": "GBAZP0300010"
+    },
+    {
+      "artist": "Explosions In The Sky",
+      "title": "Your Hand in Mine",
+      "services": {
+        "qobuz": "24041135"
+      },
+      "album": "The Earth Is Not a Cold Dead Place",
+      "duration": 497,
+      "isrc": "GBBRP0355005"
+    },
+    {
+      "artist": "The Mars Volta",
+      "title": "Cicatriz Esp",
+      "services": {
+        "qobuz": "9008560"
+      },
+      "album": "Deloused in the Comatorium",
+      "duration": 748,
+      "isrc": "USUR10300459"
+    },
+    {
+      "artist": "Majestic",
+      "title": "Set My Heart On Fire (I'm Alive x And The Beat Goes On)",
+      "services": {
+        "qobuz": "264804707"
+      },
+      "album": "Set My Heart On Fire (I'm Alive x And The Beat Goes On)",
+      "duration": 179,
+      "isrc": "GBARL2400539"
+    },
+    {
+      "artist": "Amplifier",
+      "title": "Motorhead",
+      "services": {
+        "qobuz": "80134633"
+      },
+      "album": "Amplifier",
+      "duration": 375,
+      "isrc": "GB7MC1600201"
+    },
+    {
+      "artist": "Secret Machines",
+      "title": "Nowhere Again",
+      "services": {
+        "qobuz": "2571216"
+      },
+      "album": "Now Here Is Nowhere (DMD Album)",
+      "duration": 253,
+      "isrc": "USRE10400004"
+    },
+    {
+      "artist": "MASERATI",
+      "title": "Kalimera",
+      "services": {
+        "qobuz": "20888090"
+      },
+      "album": "Inventions for the New Season",
+      "duration": 251,
+      "isrc": "USY6C0712003"
+    },
+    {
+      "artist": "Silver Mt. Zion",
+      "title": "God Bless Our Dead Marines",
+      "services": {
+        "qobuz": "49816567"
+      },
+      "album": "Horses In The Sky",
+      "duration": 704,
+      "isrc": "CACQ20703301"
+    },
+    {
+      "artist": "God is an Astronaut",
+      "title": "All Is Violent, All Is Bright",
+      "services": {
+        "qobuz": "124096411"
+      },
+      "album": "All Is Violent, All Is Bright (2011 Remastered Edition)",
+      "duration": 251,
+      "isrc": "TCABC1111566"
+    },
+    {
+      "artist": "Black Mountain",
+      "title": "Stormy High",
+      "services": {
+        "qobuz": "2540521"
+      },
+      "album": "In The Future",
+      "duration": 273,
+      "isrc": "US38Y0809001"
+    },
+    {
+      "artist": "65daysofstatic",
+      "title": "Radio Protector",
+      "services": {
+        "qobuz": "74809083"
+      },
+      "album": "Radio Protector",
+      "duration": 328,
+      "isrc": "GBNTT0600131"
+    },
+    {
+      "artist": "Red Sparowes",
+      "title": "Buildings Began to Stretch Wide Across the Sky, and the Air Filled with a Reddish Glow",
+      "services": {
+        "qobuz": "46845790"
+      },
+      "album": "At the Soundless Dawn",
+      "duration": 443,
+      "isrc": "US4JA0500287"
+    },
+    {
+      "artist": "ANGELS & AIRWAVES",
+      "title": "The Adventure",
+      "services": {
+        "qobuz": "4417602"
+      },
+      "album": "We Don't Need To Whisper",
+      "duration": 312,
+      "isrc": "USUM70602043"
+    },
+    {
+      "artist": "The Black Angels",
+      "title": "Young Men Dead",
+      "services": {
+        "qobuz": "313171994"
+      },
+      "album": "Passover",
+      "duration": 332,
+      "isrc": "USDEA0601801"
+    },
+    {
+      "artist": "Russian Circles",
+      "title": "Harper Lewis",
+      "services": {
+        "qobuz": "20966733"
+      },
+      "album": "Station",
+      "duration": 435,
+      "isrc": "US33X0807002"
+    },
+    {
+      "artist": "jesu",
+      "title": "Silver",
+      "services": {
+        "qobuz": "316326695"
+      },
+      "album": "Silver",
+      "duration": 406,
+      "isrc": "QZMEM2080760"
+    },
+    {
+      "artist": "Hammock",
+      "title": "Turn Away and Return",
+      "services": {
+        "qobuz": "126955648"
+      },
+      "album": "Everything and Nothing",
+      "duration": 313,
+      "isrc": "US7QT1500007"
+    },
+    {
+      "artist": "Zombi",
+      "title": "Surface To Air",
+      "services": {
+        "qobuz": "60650032"
+      },
+      "album": "Surface To Air",
+      "duration": 457,
+      "isrc": "US2640654504"
+    },
+    {
+      "artist": "Boris",
+      "title": "Farewell",
+      "services": {
+        "qobuz": "29173396"
+      },
+      "album": "Gensho",
+      "duration": 473,
+      "isrc": "JPB621500071"
+    },
+    {
+      "artist": "Om",
+      "title": "State of Non-Return",
+      "services": {
+        "qobuz": "48466898"
+      },
+      "album": "Advaitic Songs",
+      "duration": 365,
+      "isrc": "US58L1243802"
+    },
+    {
+      "artist": "Yndi Halda",
+      "title": "Dash And Blast",
+      "services": {
+        "qobuz": "72031847"
+      },
+      "album": "Enjoy Eternal Bliss",
+      "duration": 1011,
+      "isrc": "USA2B0714901"
+    },
+    {
+      "artist": "A Place To Bury Strangers",
+      "title": "Keep Slipping Away",
+      "services": {
+        "qobuz": "380491208"
+      },
+      "album": "Keep Slipping Away",
+      "duration": 251,
+      "isrc": "GB5KW2104354"
+    },
+    {
+      "artist": "Earthless",
+      "title": "Uluru Rock",
+      "services": {
+        "qobuz": "58432557"
+      },
+      "album": "From the Ages",
+      "duration": 848,
+      "isrc": "US33R1300066"
+    },
+    {
+      "artist": "This Will Destroy You",
+      "title": "The Mighty Rio Grande",
+      "services": {
+        "qobuz": "46826305"
+      },
+      "album": "S/T",
+      "duration": 676,
+      "isrc": "US76L0710410"
+    },
+    {
+      "artist": "Maybeshewill",
+      "title": "Not For Want Of Trying",
+      "services": {
+        "qobuz": "237750896"
+      },
+      "album": "Not for Want of Trying",
+      "duration": 333,
+      "isrc": "GBPDA0810009"
+    },
+    {
+      "artist": "Motorpsycho",
+      "title": "Vortex Surfer",
+      "services": {
+        "qobuz": "196719344"
+      },
+      "album": "Trust Us",
+      "duration": 539,
+      "isrc": "NOAAC9801040"
+    },
+    {
+      "artist": "The Horrors",
+      "title": "Sea Within a Sea",
+      "services": {
+        "qobuz": "2532085"
+      },
+      "album": "Primary Colours",
+      "duration": 478,
+      "isrc": "GBBKS0900056"
+    },
+    {
+      "artist": "Long Distance Calling",
+      "title": "Apparitions",
+      "services": {
+        "qobuz": "27674546"
+      },
+      "album": "Avoid the Light",
+      "duration": 737,
+      "isrc": "GBDHC0901201"
+    },
+    {
+      "artist": "MONO",
+      "title": "Ashes in the Snow",
+      "services": {
+        "qobuz": "20968598"
+      },
+      "album": "Hymn to the Immortal Wind",
+      "duration": 704,
+      "isrc": "USY6C0914801"
+    },
+    {
+      "artist": "Caspian",
+      "title": "Ghosts Of The Garden City",
+      "services": {
+        "qobuz": "85315418"
+      },
+      "album": "Tertia",
+      "duration": 451,
+      "isrc": "DEBL80800114"
+    },
+    {
+      "artist": "Moon Duo",
+      "title": "Sleepwalker",
+      "services": {
+        "qobuz": "243058630"
+      },
+      "album": "Circles",
+      "duration": 295,
+      "isrc": "US5NR1208301"
+    },
+    {
+      "artist": "Majeure",
+      "title": "Timespan",
+      "services": {
+        "qobuz": "46573674"
+      },
+      "album": "Timespan Redux",
+      "duration": 1078,
+      "isrc": "USY6C1814503"
+    },
+    {
+      "artist": "Common",
+      "title": "Ghetto Dreams",
+      "services": {
+        "qobuz": "4721267"
+      },
+      "album": "The Dreamer, The Believer",
+      "duration": 234,
+      "isrc": "USWB11103506"
+    },
+    {
+      "artist": "If These Trees Could Talk",
+      "title": "Barren Lands of the Modern Dinosaur",
+      "services": {
+        "qobuz": "78453900"
+      },
+      "album": "Red Forest",
+      "duration": 357,
+      "isrc": "USCGJ1202184"
+    },
+    {
+      "artist": "Tame Impala",
+      "title": "Apocalypse Dreams",
+      "services": {
+        "qobuz": "8524915"
+      },
+      "album": "Lonerism",
+      "duration": 356,
+      "isrc": "AUUM71200489"
+    },
+    {
+      "artist": "OCS",
+      "title": "The Dream",
+      "services": {
+        "qobuz": "52233217"
+      },
+      "album": "Carrion Crawler / The Dream",
+      "duration": 412,
+      "isrc": "USA3D1110117"
+    },
+    {
+      "artist": "Wooden Shjips",
+      "title": "Contact",
+      "services": {
+        "qobuz": "296694342"
+      },
+      "album": "Contact b/w I Hear the Vibrations",
+      "duration": 440,
+      "isrc": "USMEX0800072"
+    },
+    {
+      "artist": "Lumerians",
+      "title": "Dogon Genesis",
+      "services": {
+        "qobuz": "304989746"
+      },
+      "album": "The High Frontier",
+      "duration": 354,
+      "isrc": "USBQU1300012"
+    },
+    {
+      "artist": "F\u00f6llakzoid",
+      "title": "Electric",
+      "services": {
+        "qobuz": "22974373"
+      },
+      "album": "III",
+      "duration": 714,
+      "isrc": "US5NR1512801"
+    },
+    {
+      "artist": "Monkey3",
+      "title": "Icarus",
+      "services": {
+        "qobuz": "37158351"
+      },
+      "album": "The 5th Sun",
+      "duration": 880,
+      "isrc": "ATN261349901"
+    },
+    {
+      "artist": "Yuri Gagarin",
+      "title": "At the Center of All Infinity",
+      "services": {
+        "qobuz": "44343221"
+      },
+      "album": "Space Rock: an Interstellar Traveler's Guide",
+      "duration": 487,
+      "isrc": "QM6XS1602671"
+    },
+    {
+      "artist": "We Lost The Sea",
+      "title": "A Gallant Gentleman",
+      "services": {
+        "qobuz": "400480702"
+      },
+      "album": "Departure Songs",
+      "duration": 364,
+      "isrc": "AUAJ11500039"
+    },
+    {
+      "artist": "Public Service Broadcasting",
+      "title": "Gagarin",
+      "services": {
+        "qobuz": "259554335"
+      },
+      "album": "The Race for Space",
+      "duration": 226,
+      "isrc": "GBSZF1400168"
+    },
+    {
+      "artist": "Pond",
+      "title": "Man It Feels Like Space Again",
+      "services": {
+        "qobuz": "370419600"
+      },
+      "album": "Man It Feels Like Space Again",
+      "duration": 501,
+      "isrc": "AUUM71401723"
+    },
+    {
+      "artist": "Kikagaku Moyo",
+      "title": "Dripping Sun",
+      "services": {
+        "qobuz": "124546053"
+      },
+      "album": "Masana Temples",
+      "duration": 470,
+      "isrc": "TCADT1851279"
+    },
+    {
+      "artist": "Psychedelic Porn Crumpets",
+      "title": "Found God in a Tomato",
+      "services": {
+        "qobuz": "125548168"
+      },
+      "album": "High Visceral, Pt. 1",
+      "duration": 534,
+      "isrc": "TCACL1686199"
+    },
+    {
+      "artist": "The Claypool Lennon Delirium",
+      "title": "Blood and Rockets - Movement I, Saga of Jack Parsons - Movement II, Too the Moon",
+      "services": {
+        "qobuz": "55494814"
+      },
+      "album": "Blood and Rockets - Movement I, Saga of Jack Parsons - Movement II, Too the Moon",
+      "duration": 389,
+      "isrc": "USATO1800346"
+    },
+    {
+      "artist": "Elder",
+      "title": "Sanctuary",
+      "services": {
+        "qobuz": "315270329"
+      },
+      "album": "Reflections of a Floating World",
+      "duration": 673,
+      "isrc": "DEM251702011"
+    },
+    {
+      "artist": "King Gizzard & The Lizard Wizard",
+      "title": "Crumbling Castle",
+      "services": {
+        "qobuz": "172464665"
+      },
+      "album": "Polygondwanaland",
+      "duration": 644,
+      "isrc": "AUTZK1700075"
+    },
+    {
+      "artist": "Slift",
+      "title": "Ummon",
+      "services": {
+        "qobuz": "81190885"
+      },
+      "album": "UMMON",
+      "duration": 345,
+      "isrc": "FRQ031915701"
+    },
+    {
+      "artist": "Beach House",
+      "title": "Space Song",
+      "services": {
+        "qobuz": "26651993"
+      },
+      "album": "Depression Cherry",
+      "duration": 320,
+      "isrc": "USSUB1512203"
+    },
+    {
+      "artist": "And So I Watch You From Afar",
+      "title": "Set Guitars to Kill",
+      "services": {
+        "qobuz": "330300608"
+      },
+      "album": "And So I Watch You From Afar",
+      "duration": 329,
+      "isrc": "USQY51177654"
+    }
+  ]
+}

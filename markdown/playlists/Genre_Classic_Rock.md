@@ -1,0 +1,108 @@
+# Genre: Classic Rock
+
+Imported genre playlist: Classic Rock.
+
+Services: `qobuz:66737110` `tidal:11688735-854e-43bd-b099-b5e82acc75c4`
+
+## Tracks (100)
+
+- **The Kinks** — You Really Got Me [Kinks] (2:14) `isrc:GB5KW1704275` `qobuz:381796240`
+- **The Animals** — House of the Rising Sun [The Best of the Animals] (4:28) `isrc:GBAYE6400209` `qobuz:5328238`
+- **The Who** — My Generation [My Generation] (3:19) `isrc:GBUM71406026` `qobuz:20554382`
+- **The Yardbirds** — Heart Full of Soul [Heart Full of Soul / Steeled Blues] (2:25) `isrc:FRX762242134` `qobuz:173741516`
+- **The Beach Boys** — Wouldn't It Be Nice [Pet Sounds] (2:34) `isrc:USCA21201788` `qobuz:6848878`
+- **Cream** — Sunshine Of Your Love [Disraeli Gears] (4:13) `isrc:GBA076700020` `qobuz:15774591`
+- **The Doors** — Light My Fire [The Doors] (6:52) `isrc:USEE11200525` `qobuz:7020327`
+- **Van Morrison** — Brown Eyed Girl [The Legendary Bang Sessions] (3:33) `isrc:GBAWA9476959` `qobuz:254078266`
+- **Procol Harum** — A Whiter Shade Of Pale [The Sunday Concert] (5:15) `isrc:USY252412535` `qobuz:276781901`
+- **The Moody Blues** — Nights In White Satin [Nights In White Satin] (4:25) `isrc:GBA176700080` `qobuz:41004384`
+- **Traffic** — Dear Mr. Fantasy [Mr. Fantasy] (5:41) `isrc:GBAAN6800033` `qobuz:4343214`
+- **Jimi Hendrix** — All Along the Watchtower [Experience Hendrix: The Best Of Jimi Hendrix] (3:58) `isrc:USQX90900749` `qobuz:307603`
+- **Janis Joplin** — Piece of my heart [E.P.] (4:08) `isrc:FRX452302660` `qobuz:206883736`
+- **The Band** — The Weight [Greatest Hits] (4:35) `isrc:USCA20000789` `qobuz:997942`
+- **Steppenwolf** — Born To Be Wild [Steppenwolf] (3:31) `isrc:USMC16846563` `qobuz:20409861`
+- **The Guess Who** — These Eyes [Wheatfield Soul] (3:46) `isrc:USRC10301167` `qobuz:450620`
+- **The Beatles** — Come Together [Abbey Road] (4:19) `isrc:GBUM71903329` `qobuz:64868955`
+- **The Rolling Stones** — Gimme Shelter [Let It Bleed (50th Anniversary Edition. Remastered 2019)] (4:30) `isrc:USA171910010` `qobuz:77523233`
+- **Creedence Clearwater Revival** — Fortunate Son [The Complete Studio Albums] (2:21) `isrc:USFI86900065` `qobuz:18893861`
+- **Santana** — Evil Ways [Santana] (3:57) `isrc:USSM10205102` `qobuz:16503263`
+- **Black Sabbath** — Paranoid [Greatest Hits] (2:48) `isrc:GBAJE7000057` `qobuz:8816871`
+- **Derek & The Dominos** — Layla [Layla And Other Assorted Love Songs] (7:03) `isrc:GBUM71028890` `qobuz:3417134`
+- **Chicago** — 25 or 6 to 4 [Chicago II (Hi-Res Version)] (4:57) `isrc:USRH10350067` `qobuz:6006777`
+- **Led Zeppelin** — Stairway to Heaven [Led Zeppelin IV (HD Remastered Edition)] (8:02) `isrc:USAT21207031` `qobuz:20260077`
+- **David Bowie** — Changes [Hunky Dory] (3:37) `isrc:USJT11500150` `qobuz:25311812`
+- **T. Rex** — Bang a Gong (Get It On) [Bang a Gong (Get It On)] (4:34) `isrc:QM6XS2101098` `qobuz:127894048`
+- **Elton John** — Tiny Dancer [Madman Across The Water] (6:17) `isrc:GBAMB7100001` `qobuz:28107789`
+- **Rod Stewart** — Maggie May [Every Picture Tells A Story] (5:55) `isrc:USPR37102613` `qobuz:52369841`
+- **Jethro Tull** — Aqualung [Aqualung] (6:35) `isrc:GBAYK1500184` `qobuz:24454679`
+- **Yes** — Roundabout [Fragile] (8:35) `isrc:USEE10251193` `qobuz:5253313`
+- **Deep Purple** — Smoke On The Water [The Collection] (9:50) `isrc:USBI10100483` `qobuz:367622`
+- **Neil Young** — Heart of Gold [Harvest] (3:07) `isrc:USRE11100415` `qobuz:35927312`
+- **The Doobie Brothers** — Listen to the Music [Best of The Doobies] (3:46) `isrc:USWB10902078` `qobuz:2882344`
+- **Steely Dan** — Reelin' In The Years [Can't Buy A Thrill] (4:37) `isrc:USMC17347184` `qobuz:182514684`
+- **Alice Cooper** — School's Out [School's Out] (3:29) `isrc:USRH12103120` `qobuz:208261694`
+- **Aerosmith** — Dream On [Aerosmith] (4:27) `isrc:USSM10011897` `qobuz:188599994`
+- **Lynyrd Skynyrd** — Free Bird [Pronounced Leh-Nerd-Skin-Nerd] (9:10) `isrc:USMC17301722` `qobuz:14836440`
+- **The Allman Brothers Band** — Ramblin' Man [Brothers And Sisters] (4:48) `isrc:USPR37330006` `qobuz:33980361`
+- **ZZ Top** — LA Grange [The ZZ Top Sixpack] (3:54) `isrc:USWB19903511` `qobuz:387308662`
+- **Paul McCartney & Wings** — Band On The Run [Man on the Run] (5:12) `isrc:GBCCS2600008` `qobuz:389700610`
+- **Billy Joel** — Piano Man [Piano Man] (5:36) `isrc:USSM17300504` `qobuz:10649550`
+- **Pink Floyd** — Time [The Dark Side of the Moon] (7:02) `isrc:GBN9Y1100079` `qobuz:47683554`
+- **Queen** — Killer Queen [Greatest Hits In Japan] (3:01) `isrc:GBUM71029606` `qobuz:427252073`
+- **Bad Company** — Can't Get Enough [Bad Company] (4:17) `isrc:USAT21500891` `qobuz:23695790`
+- **Genesis** — The Carpet Crawlers [The Lamb Lies Down on Broadway] (5:14) `isrc:GBAAA0701785` `qobuz:52330905`
+- **Bruce Springsteen** — Born to Run [Born To Run] (4:29) `isrc:USSM17500423` `qobuz:11834775`
+- **Foghat** — Slow Ride [Fool for the City] (8:14) `isrc:USRH11601498` `qobuz:32084095`
+- **Nazareth** — Love Hurts [Hair of the Dog] (3:52) `isrc:GBCBR0402270` `qobuz:385582733`
+- **Gary Wright** — Dream Weaver [The Dream Weaver] (4:15) `isrc:USWB10902466` `qobuz:11715979`
+- **Eagles** — Hotel California [Hotel California] (6:31) `isrc:USEE11300195` `qobuz:44900294`
+- **Tom Petty & The Heartbreakers** — American Girl [Tom Petty And The Heartbreakers] (3:33) `isrc:USMC17641688` `qobuz:274963763`
+- **Boston** — More Than a Feeling [Boston] (4:45) `isrc:USSM17600941` `qobuz:19179302`
+- **Kansas** — Carry on Wayward Son [Leftoverture] (5:23) `isrc:USSM17600874` `qobuz:39713`
+- **Peter Frampton** — Show Me The Way [Frampton Comes Alive!] (4:46) `isrc:USAM17600027` `qobuz:259403379`
+- **Thin Lizzy** — The Boys Are Back In Town [The Boys Are Back In Town / Jailbreak] (4:23) `isrc:GBF087600063` `qobuz:711265`
+- **Blue Öyster Cult** — (Don't Fear) The Reaper [Agents Of Fortune] (5:08) `isrc:USSM17600477` `qobuz:33443762`
+- **Steve Miller Band** — Fly Like An Eagle [Fly Like An Eagle] (4:42) `isrc:USCA28700717` `qobuz:48475758`
+- **Bob Seger** — Night Moves [Greatest Hits] (5:24) `isrc:USCA28500274` `qobuz:51582633`
+- **Fleetwood Mac** — Go Your Own Way [Greatest Hits] (3:36) `isrc:USWB22600010` `qobuz:424595370`
+- **Electric Light Orchestra** — Mr. Blue Sky [Out of the Blue] (5:03) `isrc:USSM17200399` `qobuz:28187766`
+- **Foreigner** — Cold as Ice [Foreigner] (3:22) `isrc:USAT21101233` `qobuz:6007152`
+- **Styx** — Come Sail Away [The Grand Illusion] (6:06) `isrc:USUMG0000438` `qobuz:6269513`
+- **Heart** — Barracuda [Little Queen] (4:21) `isrc:USSM10009075` `qobuz:49356`
+- **Meat Loaf** — Bat Out of Hell [Bat Out Of Hell] (9:50) `isrc:USSM17700326` `qobuz:32437830`
+- **Jackson Browne** — Running on Empty [Running on Empty] (5:30) `isrc:USRH11800069` `qobuz:62325320`
+- **REO Speedwagon** — Roll with the Changes [Take It On The Run: The Best Of REO Speedwagon] (5:34) `isrc:USSM17800947` `qobuz:81533113`
+- **Journey** — Wheel in the Sky [Greatest Hits] (4:14) `isrc:USSM17800105` `qobuz:378386`
+- **Warren Zevon** — Werewolves of London [Excitable Boy] (3:29) `isrc:USEE11500362` `qobuz:28879684`
+- **Dire Straits** — Sultans Of Swing [Money For Nothing] (5:48) `isrc:GBUM72201768` `qobuz:161150239`
+- **Toto** — Hold the Line [Toto] (3:55) `isrc:USSM17800444` `qobuz:50243`
+- **Van Halen** — Runnin' with the Devil [Van Halen (Hi-Res Version)] (3:36) `isrc:USWB11300431` `qobuz:10474348`
+- **Cheap Trick** — Surrender [Heaven Tonight] (4:16) `isrc:USSM19802566` `qobuz:26172184`
+- **Gerry Rafferty** — Baker Street [City to City] (6:06) `isrc:GBAYE7800619` `qobuz:1735054`
+- **Supertramp** — The Logical Song [Breakfast In America] (4:11) `isrc:USUM71021480` `qobuz:401068872`
+- **AC/DC** — Highway to Hell [Highway To Hell] (3:28) `isrc:AUAP07900028` `qobuz:19906039`
+- **Pat Benatar** — Hit Me With Your Best Shot [Crimes Of Passion] (2:51) `isrc:USCH38400009` `qobuz:15436153`
+- **Rush** — Tom Sawyer [Moving Pictures] (4:36) `isrc:USMR18180103` `qobuz:25796540`
+- **Joan Jett & The Blackhearts** — I Love Rock 'N Roll [I Love Rock 'N' Roll (Expanded Edition)] (2:55) `isrc:USBH18100118` `qobuz:386731293`
+- **Billy Squier** — The Stroke [Don't Say No] (3:37) `isrc:USCA21001203` `qobuz:16657251`
+- **The J. Geils Band** — Centerfold [Freeze Frame] (3:37) `isrc:USCA28100075` `qobuz:16657276`
+- **John Mellencamp** — Hurts So Good [Words & Music: John Mellencamp's Greatest Hits] (3:39) `isrc:USJM18200002` `qobuz:51979619`
+- **The Alan Parsons Project** — Eye In The Sky [Eye In The Sky] (4:44) `isrc:USAR18200010` `qobuz:38623125`
+- **Asia** — Heat Of The Moment [Asia] (3:47) `isrc:USGF18200801` `qobuz:52167295`
+- **Def Leppard** — Photograph [Pyromania] (4:08) `isrc:GBF088300067` `qobuz:46564197`
+- **Night Ranger** — Sister Christian [Midnight Madness] (5:02) `isrc:USMC18314773` `qobuz:7635642`
+- **Stevie Ray Vaughan & Double Trouble** — Pride and Joy [Texas Flood (Legacy Edition)] (3:39) `isrc:USSM10008869` `qobuz:7697141`
+- **Scorpions** — Rock You Like a Hurricane [Comeblack] (4:15) `isrc:DEE861101522` `qobuz:4464002`
+- **Bryan Adams** — Summer Of '69 [Reckless] (3:36) `isrc:USAM18490006` `qobuz:20199618`
+- **Sammy Hagar** — I Can't Drive 55 [Unboxed] (4:12) `isrc:USGF18404301` `qobuz:54327138`
+- **Don Henley** — The Boys Of Summer [Actual Miles: Henley's Greatest Hits] (4:47) `isrc:USGF18502601` `qobuz:23146922`
+- **Bon Jovi** — Livin' On A Prayer [Slippery When Wet] (4:11) `isrc:USPR38619998` `qobuz:52324089`
+- **Europe** — The Final Countdown [The Final Countdown (Expanded Edition)] (5:10) `isrc:USSM18600196` `qobuz:88144`
+- **Guns N' Roses** — Sweet Child O' Mine [Appetite For Destruction (Super Deluxe) - 192 kHz] (5:56) `isrc:USGF18714809` `qobuz:51041298`
+- **Whitesnake** — Here I Go Again [Saints and Sinners] (5:08) `isrc:GB01A1400126` `qobuz:20415167`
+- **INXS** — Need You Tonight [Kick] (3:01) `isrc:GBAMX8700008` `qobuz:3589639`
+- **Extreme** — More Than Words [Extreme II: Pornograffitti] (5:33) `isrc:USAM19090005` `qobuz:21758614`
+- **The Black Crowes** — Hard To Handle [Shake Your Money Maker (30th Anniversary Edition)] (3:08) `isrc:USSM19000343` `qobuz:111773848`
+- **Queensrÿche** — Silent Lucidity [Empire] (5:46) `isrc:USEM30200450` `qobuz:117879381`
+- **Tom Cochrane** — Life Is A Highway [Mad Mad World] (4:26) `isrc:CAUM71600209` `qobuz:38346291`
+- **Lenny Kravitz** — It Ain't Over 'Til It's Over [Mama Said] (4:02) `isrc:USVI29100003` `qobuz:794276`

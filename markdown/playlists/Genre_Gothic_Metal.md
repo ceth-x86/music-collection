@@ -1,0 +1,84 @@
+# Genre: Gothic Metal
+
+Imported genre playlist: Gothic Metal.
+
+Services: `qobuz:66735946`
+
+## Tracks (76)
+
+- **Paradise Lost** — Gothic [Gothic] (4:43) `isrc:GBCQV9100048` `qobuz:51000364`
+- **Cemetary** — An Evil Shade of Grey [An Evil Shade of Grey] (5:18) `isrc:SEXHQ9200404` `qobuz:179351068`
+- **Type O Negative** — Black No. 1 (Little Miss Scare -All) [Bloody Kisses] (11:15) `isrc:NLA329300680` `qobuz:2555689`
+- **Anathema** — Sleepless [Serenades] (4:11) `isrc:GBCQV9300014` `qobuz:50990028`
+- **Katatonia** — Tomb of Insomnia [Dance of December Souls] (13:09) `isrc:GBCQV0700281` `qobuz:50989775`
+- **David Bowie** — Saviour Machine [The Man Who Sold the World] (4:30) `isrc:USJT11500106` `qobuz:25311851`
+- **Tiamat** — Gaia [Wildhoney] (6:27) `isrc:US4E40478005` `qobuz:47539062`
+- **Lake Of Tears** — Under The Crescent [Greater Art] (3:42) `isrc:SEXHQ9400401` `qobuz:410885203`
+- **During** — Why so lonely (The 3rd and the mortal) [Why so lonely (The 3rd and the mortal)] (3:05) `isrc:QZRP52512108` `qobuz:336941514`
+- **Monumentum** — A Thousand Breathing Crosses [In Absentia Christi] (2:05) `isrc:DEPI82320812` `qobuz:230964519`
+- **My Dying Bride** — The Cry of Mankind [The Angel & The Dark River] (12:13) `isrc:GBCQV9500064` `qobuz:50991147`
+- **Moonspell** — Opium [Irreligious] (2:47) `isrc:US4E40482302` `qobuz:27576740`
+- **The Gathering** — Strange Machines [Mandylion] (6:05) `isrc:US4E40579801` `qobuz:27574782`
+- **Crematory** — Tears Of Time [Illusions] (5:00) `isrc:DE1KY2506248` `qobuz:336820784`
+- **Antony Genn** — St Elizabeth Mortuary [Peaky Blinders - The Immortal Man (Soundtrack from the Netflix Film)] (0:43) `isrc:QZ8BZ2616213` `qobuz:394519045`
+- **Theatre of Tragedy** — A Rose for the Dead [A Rose for the Dead] (5:12) `isrc:DER370513001` `qobuz:39803612`
+- **Within Temptation** — Restless [Enter] (6:08) `isrc:NLR261100021` `qobuz:112625518`
+- **Tristania** — Evenfall [Widow's Weeds] (6:53) `isrc:ATN269804102` `qobuz:47114638`
+- **The Sins Of Thy Beloved** — All Alone [Lake of Sorrow] (7:13) `isrc:ATN269805306` `qobuz:47114634`
+- **Steve Miller** — Emanations and Penumbras [Liberty] (4:08) `isrc:USDY42207112` `qobuz:154240696`
+- **Rapture** — Misery 24/7 [Silent Stage] (4:51) `isrc:FISFS0400389` `qobuz:195553170`
+- **Trail Of Tears** — Profoundemonium [Profoundemonium] (4:55) `isrc:ATN260008404` `qobuz:37345995`
+- **Sirenia** — Meridian [At Sixes and Sevens] (6:20) `isrc:ATN260210501` `qobuz:37176763`
+- **Tapping The Vein** — Beautiful [The Damage] (5:00) `isrc:QM3MF2000020` `qobuz:129095840`
+- **HIM** — Join Me In Death [Uneasy Listening Vol.1] (3:38) `isrc:FIBAR0600282` `qobuz:388202`
+- **To/Die/For** — In The Heat Of The Night [Best of To/Die/For - Epilogues from the Past] (4:40) `isrc:FIUM71000017` `qobuz:195593501`
+- **After Forever** — Leaden Legacy [Prison Of Desire: The Album (expanded)] (5:10) `isrc:NLP510600222` `qobuz:189009387`
+- **Mandragora Scream** — Dark Lantern [Madhouse] (4:16) `isrc:FR6V81158146` `qobuz:10351169`
+- **Sentenced** — Killing Me Killing You [Crimson (Remastered Re-issue 2007)] (5:26) `isrc:US4E40839706` `qobuz:27568813`
+- **Shape Of Despair** — Angels of Distress [Angels Of Distress] (9:42) `isrc:FIUM71000132` `qobuz:195587541`
+- **Novembre** — Everasia [Novembrine Waltz] (8:23) `isrc:GBDHC0503642` `qobuz:27574396`
+- **Lacrimas Profundere** — My Velvet Little Darkness [Filthy Notes For Frozen Hearts] (3:28) `isrc:ATN260619201` `qobuz:28458078`
+- **Virgin Black** — Our Wings Are Burning [Elegant... And Dying] (8:21) `isrc:US2420503709` `qobuz:181370181`
+- **Lacuna Coil** — Heaven's a Lie [Comalies] (4:46) `isrc:US4E40416002` `qobuz:27544773`
+- **Charon** — Little Angel [Downhearted] (3:32) `isrc:FIUM71001164` `qobuz:190373815`
+- **Cadaveria** — Flowers in Fire [Horror Metal (Undead Edition)] (6:51) `isrc:QZ4JJ1791413` `qobuz:152186541`
+- **Gothminister** — Monsters [Empire of Dark Salvation] (3:12) `isrc:DEU601405119` `qobuz:339294681`
+- **Animal Collective** — Today's Supernatural [Centipede Hz] (4:14) `isrc:GBCEL1200186` `qobuz:6323576`
+- **Lullacry** — Crucify My Heart [Crucify My Heart] (3:42) `isrc:FISFS0200088` `qobuz:204273600`
+- **For My Pain...** — Dancer in the Dark [Fallen] (3:44) `isrc:FISFS0300011` `qobuz:190529995`
+- **Xandria** — Kill the Sun [Now & Forever - Their Most Beautiful Songs (Best Of)] (3:24) `isrc:DES370400388` `qobuz:23254015`
+- **Poisonblack** — Love Infernal [Escapexstacy] (3:57) `isrc:US4E40408602` `qobuz:27555256`
+- **Flowing Tears** — Swallow [Jade] (4:27) `isrc:GBDHC0502733` `qobuz:27673515`
+- **The Vision Bleak** — Wolfmoon [The Deathship Has a New Captain] (5:26) `isrc:DES560406603` `qobuz:189651728`
+- **Beseech** — Between the Lines [Souls Highway] (5:02) `isrc:ATN260210402` `qobuz:37354450`
+- **Mortal Love** — Adoration [I Have Lost] (6:02) `isrc:DER370544804` `qobuz:39802646`
+- **Draconian** — The Cry of Silence [Where Lovers Mourn] (12:42) `isrc:ATN260312501` `qobuz:37176734`
+- **Novembers Doom** — The Pale Haunt Departure [The Pale Haunt Departure] (5:44) `isrc:US2420505201` `qobuz:189584180`
+- **Mourning Beloveth** — Narcissistic Funeral [The Sullen Sulcus] (13:33) `isrc:QZHNA2234526` `qobuz:157661906`
+- **The Old Dead Tree** — Story Of My Life [Second Thoughts] (3:41) `isrc:FR33T2482707` `qobuz:286245930`
+- **The Charlie Sizemore Band** — My Dying Day [Good News] (3:15) `isrc:USRO20759113` `qobuz:61669254`
+- **Elis** — Tales from Heaven or Hell [Griefshire] (4:16) `isrc:ATN260619501` `qobuz:37339832`
+- **Okean Elzy** — Might Have Been a Dream [Lighthouse] (3:16) `isrc:DEA622402576` `qobuz:283704922`
+- **Deathstars** — Cyanide [Termination Bliss] (3:54) `isrc:DED830587504` `qobuz:60260864`
+- **Angtoria** — God has a plan for us all [God has a plan for us all] (4:33) `isrc:FR6V80616573` `qobuz:10276019`
+- **SATURNUS** — I Long [Veronika Decides To Die] (10:53) `isrc:DES560692701` `qobuz:189661862`
+- **Ava Inferi** — Dança das Ondas [The Silhouette] (5:22) `isrc:FR33T0716701` `qobuz:77775711`
+- **The Foreshadowing** — Days Of Nothing [Days Of Nothing] (6:38) `isrc:GBADD0716509` `qobuz:190164875`
+- **Krypteria** — Liberatio [Krypteria] (4:00) `isrc:DEE860500087` `qobuz:13513523`
+- **Nemesea** — No More [Uprise] (3:23) `isrc:NLKH41600003` `qobuz:37308950`
+- **Unsun** — Whispers [The End of Life] (3:33) `isrc:PLB820700091` `qobuz:27574365`
+- **U2** — Hold Me, Thrill Me, Kiss Me, Kill Me [The Best Of 1990-2000 & B-Sides] (4:44) `isrc:GBAAN0201228` `qobuz:41935902`
+- **Swallow The Sun** — Don't Fall Asleep (Horror Pt. 2) [Hope] (7:41) `isrc:FISFS0600187` `qobuz:190535795`
+- **Seventh Void** — Heaven Is Gone [Heaven Is Gone] (4:37) `isrc:ATN261035802` `qobuz:37308916`
+- **Mortemia** — The One I Once Was [Misere Mortem] (4:46) `isrc:ATN261031901` `qobuz:37236970`
+- **Consumer Culture** — Have You Seen This Man? (Live at The Ottobar) [Have You Seen This Man? (Live at The Ottobar)] (3:03) `isrc:QZZ7S2481103` `qobuz:305993389`
+- **Theatres Des Vampires** — Carmilla [Moonlight Waltz] (4:59) `isrc:ITJ351100764` `qobuz:54842526`
+- **A Pale Horse Named Death** — Die Alone [And Hell Will Follow Me] (7:34) `isrc:DEA451103830` `qobuz:380489940`
+- **Woods Of Ypres** — Finality [Woods 5: Grey Skies & Electric Light] (3:57) `isrc:GBBPB1101114` `qobuz:14673524`
+- **Bloody Hammers** — Witch of Endor [Bloody Hammers (Remastered)] (3:54) `isrc:USHM22121227` `qobuz:121771271`
+- **Joshua Redman** — Borrowed Eyes [Words Fall Short] (5:51) `isrc:USUG12500880` `qobuz:328497010`
+- **Semblant** — What Lies Ahead [Lunar Manifesto] (4:41) `isrc:BRTWT1400058` `qobuz:125983357`
+- **Tribulation** — The Lament [Down Below] (5:36) `isrc:US4E41848301` `qobuz:44849412`
+- **Trees of Eternity** — A Million Tears [Hour of the Nightingale] (7:13) `isrc:DEZ651607318` `qobuz:84389823`
+- **Oceans Of Slumber** — Winter [Winter] (7:58) `isrc:US4E41629301` `qobuz:29071112`
+- **Unto Others** — Give Me To The Night [Mana] (2:51) `isrc:NLA322000391` `qobuz:103385678`

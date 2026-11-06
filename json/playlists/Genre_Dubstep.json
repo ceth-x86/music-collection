@@ -1,0 +1,1000 @@
+{
+  "name": "Genre: Dubstep",
+  "services": {
+    "qobuz": "66713075",
+    "tidal": "de93c3c0-f8c7-41a1-afe4-034052eb7055"
+  },
+  "description": "Imported genre playlist: Dubstep.",
+  "tracks": [
+    {
+      "artist": "Bengan Janson",
+      "title": "Sk\u00e4nkl\u00e5t till Victoria",
+      "services": {
+        "qobuz": "30615066"
+      },
+      "album": "En vandrande spelman",
+      "duration": 183,
+      "isrc": "SE3SA1601411"
+    },
+    {
+      "artist": "Cutty Ranks",
+      "title": "Limb By Limb",
+      "services": {
+        "qobuz": "5623658"
+      },
+      "album": "Rumble in the Jungle, Vol. 2",
+      "duration": 299,
+      "isrc": "GBQYS0700028"
+    },
+    {
+      "artist": "Kode 9",
+      "title": "Sine of the Dub",
+      "services": {
+        "qobuz": "237759922"
+      },
+      "album": "Sine of the Dub",
+      "duration": 321,
+      "isrc": "GBLZC0400001"
+    },
+    {
+      "artist": "Skream",
+      "title": "Midnight Request Line",
+      "services": {
+        "qobuz": "313325795"
+      },
+      "album": "Skream! (Expanded Edition)",
+      "duration": 236,
+      "isrc": "GBQGW0501000"
+    },
+    {
+      "artist": "Burial",
+      "title": "South London Boroughs",
+      "services": {
+        "qobuz": "61348405"
+      },
+      "album": "South London Boroughs EP",
+      "duration": 306,
+      "isrc": "GBLZC0500001"
+    },
+    {
+      "artist": "Vex'd",
+      "title": "Gunman",
+      "services": {
+        "qobuz": "237803874"
+      },
+      "album": "Degenerate",
+      "duration": 368,
+      "isrc": "US78Q0500521"
+    },
+    {
+      "artist": "Linkin Park",
+      "title": "Somewhere I Belong",
+      "services": {
+        "qobuz": "7020275"
+      },
+      "album": "Meteora",
+      "duration": 214,
+      "isrc": "USWB11201329"
+    },
+    {
+      "artist": "N-Type",
+      "title": "Square Off",
+      "services": {
+        "qobuz": "46838271"
+      },
+      "album": "Southside Dubstars Greatest Hits, Vol. 1",
+      "duration": 319,
+      "isrc": "GBD3B1000217"
+    },
+    {
+      "artist": "Pinch",
+      "title": "Qawwali",
+      "services": {
+        "qobuz": "237806248"
+      },
+      "album": "Qawwali",
+      "duration": 319,
+      "isrc": "US78Q0910393"
+    },
+    {
+      "artist": "Distance",
+      "title": "Traffic",
+      "services": {
+        "qobuz": "237812124"
+      },
+      "album": "My Demons",
+      "duration": 319,
+      "isrc": "US78Q0700004"
+    },
+    {
+      "artist": "Reggae Roast",
+      "title": "Sensi Skank  [feat. Ruben Da Silva]",
+      "services": {
+        "qobuz": "53734183"
+      },
+      "album": "Sensi Skank (feat. Ruben Da Silva)",
+      "duration": 336,
+      "isrc": "GB5TW1100049"
+    },
+    {
+      "artist": "Boxcutter",
+      "title": "Brood",
+      "services": {
+        "qobuz": "237811365"
+      },
+      "album": "Oneiric",
+      "duration": 340,
+      "isrc": "US78Q0600072"
+    },
+    {
+      "artist": "Mala",
+      "title": "Anti War Dub",
+      "services": {
+        "qobuz": "123134287"
+      },
+      "album": "Anti War Dub",
+      "duration": 382,
+      "isrc": "UKHAU2000357"
+    },
+    {
+      "artist": "Lex Loofah",
+      "title": "Muddy Puddles",
+      "services": {
+        "qobuz": "112081921"
+      },
+      "album": "Searchin'",
+      "duration": 564,
+      "isrc": "GBKQU1442437"
+    },
+    {
+      "artist": "Mala",
+      "title": "Changes",
+      "services": {
+        "qobuz": "134286526"
+      },
+      "album": "Forgive / Changes",
+      "duration": 410,
+      "isrc": "GBZSU0900007"
+    },
+    {
+      "artist": "Ice Spice",
+      "title": "Big Guy",
+      "services": {
+        "qobuz": "367384976"
+      },
+      "album": "Big Guy",
+      "duration": 150,
+      "isrc": "USUG12508803"
+    },
+    {
+      "artist": "Kromestar",
+      "title": "Kalawanji",
+      "services": {
+        "qobuz": "309160398"
+      },
+      "album": "Kalawanji",
+      "duration": 316,
+      "isrc": "GBZSU0900001"
+    },
+    {
+      "artist": "Rusko",
+      "title": "Cockney Thug",
+      "services": {
+        "qobuz": "80705364"
+      },
+      "album": "Cockney Thug",
+      "duration": 252,
+      "isrc": "GBZCP0800024"
+    },
+    {
+      "artist": "TRG",
+      "title": "Broken Heart",
+      "services": {
+        "qobuz": "55663089"
+      },
+      "album": "Broken Heart (Martyns DCM Remix)",
+      "duration": 352,
+      "isrc": "GBUMC0700009"
+    },
+    {
+      "artist": "The Used",
+      "title": "Blood on My Hands",
+      "services": {
+        "qobuz": "2844980"
+      },
+      "album": "Artwork",
+      "duration": 197,
+      "isrc": "USRE10901079"
+    },
+    {
+      "artist": "Goth-Trad",
+      "title": "Cut End",
+      "services": {
+        "qobuz": "134286212"
+      },
+      "album": "Cut End / Goth",
+      "duration": 374,
+      "isrc": "GBZSU0900009"
+    },
+    {
+      "artist": "Fionn",
+      "title": "Poison Dart",
+      "services": {
+        "qobuz": "341209291"
+      },
+      "album": "Poison Dart (feat. The Bug & Warrior Queen)",
+      "duration": 126,
+      "isrc": "QZTB42545271"
+    },
+    {
+      "artist": "Silkie",
+      "title": "Hooby",
+      "services": {
+        "qobuz": "134286535"
+      },
+      "album": "I Sed",
+      "duration": 307,
+      "isrc": "GBZSU0900015"
+    },
+    {
+      "artist": "Von D",
+      "title": "Truth",
+      "services": {
+        "qobuz": "96104359"
+      },
+      "album": "Coquine / Truth",
+      "duration": 399,
+      "isrc": "GBTQV0800023"
+    },
+    {
+      "artist": "Second Storey",
+      "title": "Debussy: Reverie 68",
+      "services": {
+        "qobuz": "41936534"
+      },
+      "album": "re:works Piano",
+      "duration": 344,
+      "isrc": "GBUM71701234"
+    },
+    {
+      "artist": "Peverelist",
+      "title": "Roll with the Punches",
+      "services": {
+        "qobuz": "46845855"
+      },
+      "album": "Roll with the Punches / Die Br\u00fccke",
+      "duration": 404,
+      "isrc": "GBRYX0700009"
+    },
+    {
+      "artist": "2562",
+      "title": "Kameleon",
+      "services": {
+        "qobuz": "46841489"
+      },
+      "album": "Aerial",
+      "duration": 335,
+      "isrc": "GBGXC0700218"
+    },
+    {
+      "artist": "Martyn",
+      "title": "Vancouver",
+      "services": {
+        "qobuz": "236762427"
+      },
+      "album": "Great Lengths",
+      "duration": 312,
+      "isrc": "NLEF80800014"
+    },
+    {
+      "artist": "Tunnidge",
+      "title": "Geddeon",
+      "services": {
+        "qobuz": "134285724"
+      },
+      "album": "Geddeon",
+      "duration": 347,
+      "isrc": "GBZSU0900017"
+    },
+    {
+      "artist": "Cyrus",
+      "title": "Indian Stomp",
+      "services": {
+        "qobuz": "46842536"
+      },
+      "album": "From the Shadows",
+      "duration": 304,
+      "isrc": "GBGXC0600022"
+    },
+    {
+      "artist": "Masayoshi Takanaka",
+      "title": "Tokyo Reggie",
+      "services": {
+        "qobuz": "138802243"
+      },
+      "album": "Seychelles",
+      "duration": 260,
+      "isrc": "JPKT07600702"
+    },
+    {
+      "artist": "Chase & Status",
+      "title": "Eastern Jam",
+      "services": {
+        "qobuz": "385626534"
+      },
+      "album": "More Than Alot",
+      "duration": 236,
+      "isrc": "GBBZH0807302"
+    },
+    {
+      "artist": "Bar9",
+      "title": "Piano Tune",
+      "services": {
+        "qobuz": "113406724"
+      },
+      "album": "Piano Tune",
+      "duration": 287,
+      "isrc": "GBYCY0900873"
+    },
+    {
+      "artist": "R\u00f6yksopp",
+      "title": "You Know I Have to Go",
+      "services": {
+        "qobuz": "173044691"
+      },
+      "album": "The Inevitable End",
+      "duration": 455,
+      "isrc": "GBW231400029"
+    },
+    {
+      "artist": "Zomby",
+      "title": "Spliff Dub",
+      "services": {
+        "qobuz": "61213246"
+      },
+      "album": "Mu5h / Spliff Dub",
+      "duration": 212,
+      "isrc": "GBLZC0800004"
+    },
+    {
+      "artist": "Chase Atlantic",
+      "title": "DIE FOR ME",
+      "services": {
+        "qobuz": "359324182"
+      },
+      "album": "LOST IN HEAVEN (HIGH AS HELL)",
+      "duration": 206,
+      "isrc": "US5262426872"
+    },
+    {
+      "artist": "Darkstar",
+      "title": "Need You",
+      "services": {
+        "qobuz": "61348626"
+      },
+      "album": "Need You",
+      "duration": 370,
+      "isrc": "GBLZC0800007"
+    },
+    {
+      "artist": "Joker",
+      "title": "Stuck in the System",
+      "services": {
+        "qobuz": "3466644"
+      },
+      "album": "Kapsize E.P",
+      "duration": 272,
+      "isrc": "GBGXC0700301"
+    },
+    {
+      "artist": "Gemmy",
+      "title": "Supligen",
+      "services": {
+        "qobuz": "237821206"
+      },
+      "album": "Supligen",
+      "duration": 280,
+      "isrc": "US78Q0910109"
+    },
+    {
+      "artist": "Guido",
+      "title": "Orchestral Lab",
+      "services": {
+        "qobuz": "46841438"
+      },
+      "album": "Orchestral Lab / Way U Make Me Feel",
+      "duration": 224,
+      "isrc": "GBRYX0900021"
+    },
+    {
+      "artist": "16BIT",
+      "title": "Chainsaw Calligraphy",
+      "services": {
+        "qobuz": "106977049"
+      },
+      "album": "In The Death Car EP",
+      "duration": 187,
+      "isrc": "GBXUN0800010"
+    },
+    {
+      "artist": "Magnetic Man ft Angela Hunte",
+      "title": "I Need Air",
+      "services": {
+        "qobuz": "2545645"
+      },
+      "album": "Magnetic Man",
+      "duration": 256,
+      "isrc": "GBARL1000680"
+    },
+    {
+      "artist": "Nero",
+      "title": "Innocence 2025",
+      "services": {
+        "qobuz": "320713171"
+      },
+      "album": "Innocence 2025",
+      "duration": 170,
+      "isrc": "GBUM72500875"
+    },
+    {
+      "artist": "Breakage",
+      "title": "Hard",
+      "services": {
+        "qobuz": "390078400"
+      },
+      "album": "Foundation",
+      "duration": 223,
+      "isrc": "QMDA71468696"
+    },
+    {
+      "artist": "Flux Pavilion",
+      "title": "I Can't Stop",
+      "services": {
+        "qobuz": "45065605"
+      },
+      "album": "I Can't Stop",
+      "duration": 305,
+      "isrc": "GBQZQ1000086"
+    },
+    {
+      "artist": "Doctor P",
+      "title": "Sweet Shop",
+      "services": {
+        "qobuz": "283384601"
+      },
+      "album": "Sweet Shop / Gargoyle",
+      "duration": 273,
+      "isrc": "GBQZQ0901148"
+    },
+    {
+      "artist": "Cookie Monsta",
+      "title": "Ginger Pubes",
+      "services": {
+        "qobuz": "37330855"
+      },
+      "album": "Believe Compilation 4",
+      "duration": 223,
+      "isrc": "GBQZQ0901964"
+    },
+    {
+      "artist": "FuntCase",
+      "title": "50 Calibre",
+      "services": {
+        "qobuz": "364185845"
+      },
+      "album": "Circus One presented by Doctor P & Flux Pavilion",
+      "duration": 227,
+      "isrc": "GBQZQ1100317"
+    },
+    {
+      "artist": "Braw",
+      "title": "Psychological Warfare",
+      "services": {
+        "qobuz": "403762391"
+      },
+      "album": "Make-It I Will",
+      "duration": 335,
+      "isrc": "GXJBV2631805"
+    },
+    {
+      "artist": "Skrillex",
+      "title": "Scary Monsters and Nice Sprites",
+      "services": {
+        "qobuz": "8654729"
+      },
+      "album": "Scary Monsters and Nice Sprites",
+      "duration": 243,
+      "isrc": "GBTDG1000196"
+    },
+    {
+      "artist": "Ultimate Tribute Stars",
+      "title": "Bassnectar - Bass Head (Instrumental Version)",
+      "services": {
+        "qobuz": "70238213"
+      },
+      "album": "Bassnectar - Bass Head (Instrumental Version)",
+      "duration": 394,
+      "isrc": "USA371606918"
+    },
+    {
+      "artist": "Datsik",
+      "title": "Let 'em Know (feat. Armanni Reign)",
+      "services": {
+        "qobuz": "139932315"
+      },
+      "album": "Darkstar",
+      "duration": 218,
+      "isrc": "USYBL1600247"
+    },
+    {
+      "artist": "The Stone Roses",
+      "title": "Fools Gold",
+      "services": {
+        "qobuz": "462633"
+      },
+      "album": "The Stone Roses",
+      "duration": 594,
+      "isrc": "GBAHJ0900020"
+    },
+    {
+      "artist": "Excision",
+      "title": "X Rated",
+      "services": {
+        "qobuz": "402679210"
+      },
+      "album": "X Rated",
+      "duration": 265,
+      "isrc": "GBTDG1100328"
+    },
+    {
+      "artist": "Borgore",
+      "title": "Ice Cream",
+      "services": {
+        "qobuz": "96939127"
+      },
+      "album": "Act Like a Ho",
+      "duration": 238,
+      "isrc": "GBYCY0900308"
+    },
+    {
+      "artist": "Roksonix",
+      "title": "Music in Me",
+      "services": {
+        "qobuz": "272813487"
+      },
+      "album": "Circus Two",
+      "duration": 282,
+      "isrc": "GBUM91200012"
+    },
+    {
+      "artist": "Skism",
+      "title": "Experts",
+      "services": {
+        "qobuz": "163290251"
+      },
+      "album": "Division EP",
+      "duration": 266,
+      "isrc": "GB7YL1203201"
+    },
+    {
+      "artist": "KOAN Sound",
+      "title": "Infinite Funk",
+      "services": {
+        "qobuz": "22957949"
+      },
+      "album": "Dynasty EP",
+      "duration": 233,
+      "isrc": "USQY51452976"
+    },
+    {
+      "artist": "Gemini",
+      "title": "Fire Inside",
+      "services": {
+        "qobuz": "168914536"
+      },
+      "album": "Fire Inside",
+      "duration": 281,
+      "isrc": "GBS5E1100022"
+    },
+    {
+      "artist": "Modestep",
+      "title": "Sunlight",
+      "services": {
+        "qobuz": "3946390"
+      },
+      "album": "Sunlight (2011)",
+      "duration": 229,
+      "isrc": "GBUM71104769"
+    },
+    {
+      "artist": "Knife Party",
+      "title": "Centipede",
+      "services": {
+        "qobuz": "5526999"
+      },
+      "album": "Rage Valley",
+      "duration": 247,
+      "isrc": "GBAHT1200224"
+    },
+    {
+      "artist": "Zomboy",
+      "title": "Terror Squad",
+      "services": {
+        "qobuz": "163288574"
+      },
+      "album": "Reanimated EP",
+      "duration": 257,
+      "isrc": "GB7YL1304501"
+    },
+    {
+      "artist": "Virtual Riot",
+      "title": "New Energy",
+      "services": {
+        "qobuz": "294732835"
+      },
+      "album": "Stealing Fire",
+      "duration": 201,
+      "isrc": "CA6D22400402"
+    },
+    {
+      "artist": "Figure",
+      "title": "Monster Mania",
+      "services": {
+        "qobuz": "96815364"
+      },
+      "album": "Monsters, Vol. 5",
+      "duration": 273,
+      "isrc": "USA2P1446546"
+    },
+    {
+      "artist": "MUST DIE!",
+      "title": "CHAOS",
+      "services": {
+        "qobuz": "163286363"
+      },
+      "album": "CHAOS",
+      "duration": 201,
+      "isrc": "GB7YL1985101"
+    },
+    {
+      "artist": "Eptic",
+      "title": "Like A Boss",
+      "services": {
+        "qobuz": "163290442"
+      },
+      "album": "Like A Boss EP",
+      "duration": 274,
+      "isrc": "GB7YL1202001"
+    },
+    {
+      "artist": "Yola",
+      "title": "Barely Alive",
+      "services": {
+        "qobuz": "118776024"
+      },
+      "album": "Stand For Myself",
+      "duration": 216,
+      "isrc": "USCON2100267"
+    },
+    {
+      "artist": "Kill The Noise",
+      "title": "Deal With It",
+      "services": {
+        "qobuz": "23118606"
+      },
+      "album": "Kill Kill Kill EP",
+      "duration": 216,
+      "isrc": "USQY51188937"
+    },
+    {
+      "artist": "Zeds Dead",
+      "title": "Adrenaline",
+      "services": {
+        "qobuz": "121762816"
+      },
+      "album": "Adrenaline",
+      "duration": 211,
+      "isrc": "GBS5E1100019"
+    },
+    {
+      "artist": "Factory Flora",
+      "title": "Breaking the Law",
+      "services": {
+        "qobuz": "342927128"
+      },
+      "album": "Reaper's Reverie VI",
+      "duration": 165,
+      "isrc": "AUGBT2502382"
+    },
+    {
+      "artist": "Phuture Noize",
+      "title": "Stop The Bleeding",
+      "services": {
+        "qobuz": "363548306"
+      },
+      "album": "Open Heart Surgery",
+      "duration": 180,
+      "isrc": "NL2ZL2500004"
+    },
+    {
+      "artist": "Xilent",
+      "title": "Boss Wave",
+      "services": {
+        "qobuz": "80688364"
+      },
+      "album": "Boss Wave",
+      "duration": 223,
+      "isrc": "GB2LD0901115"
+    },
+    {
+      "artist": "Bro Safari",
+      "title": "Scumbag",
+      "services": {
+        "qobuz": "282794393"
+      },
+      "album": "Scumbag",
+      "duration": 120,
+      "isrc": "QM24S2404989"
+    },
+    {
+      "artist": "Naeleck",
+      "title": "Take A Sip",
+      "services": {
+        "qobuz": "108555547"
+      },
+      "album": "Take A Sip Remixes",
+      "duration": 173,
+      "isrc": "GBKQU1916929"
+    },
+    {
+      "artist": "Commodo",
+      "title": "Shift (feat JME)",
+      "services": {
+        "qobuz": "134281868"
+      },
+      "album": "Shift",
+      "duration": 209,
+      "isrc": "GBZU14000011"
+    },
+    {
+      "artist": "Francesco Tristano",
+      "title": "Third Haiku",
+      "services": {
+        "qobuz": "42790022"
+      },
+      "album": "Piano Circle Songs",
+      "duration": 189,
+      "isrc": "USSM11704675"
+    },
+    {
+      "artist": "Truth",
+      "title": "Lion (feat Taso)",
+      "services": {
+        "qobuz": "134282920"
+      },
+      "album": "Lion EP \u200e",
+      "duration": 269,
+      "isrc": "GBDMM1700098"
+    },
+    {
+      "artist": "Ganja White Night",
+      "title": "Mr. Wobble Drop Killa",
+      "services": {
+        "qobuz": "125932256"
+      },
+      "album": "The One",
+      "duration": 290,
+      "isrc": "TCAEL1985971"
+    },
+    {
+      "artist": "Moody Good",
+      "title": "Hotplate",
+      "services": {
+        "qobuz": "17292985"
+      },
+      "album": "Moody Good",
+      "duration": 256,
+      "isrc": "GBUM71307275"
+    },
+    {
+      "artist": "Getter",
+      "title": "Head Splitter",
+      "services": {
+        "qobuz": "24881450"
+      },
+      "album": "Allegiance",
+      "duration": 214,
+      "isrc": "USAT21500672"
+    },
+    {
+      "artist": "ONE PACT",
+      "title": "PASSOUT (feat. TAG)",
+      "services": {
+        "qobuz": "347465904"
+      },
+      "album": "ONE FACT",
+      "duration": 135,
+      "isrc": "KRMIM2537609"
+    },
+    {
+      "artist": "Boogie T",
+      "title": "Raven Master",
+      "services": {
+        "qobuz": "123905205"
+      },
+      "album": "Soul'd Out",
+      "duration": 246,
+      "isrc": "TCADH1723557"
+    },
+    {
+      "artist": "Miley Cyrus",
+      "title": "WTF Do I Know",
+      "services": {
+        "qobuz": "104171462"
+      },
+      "album": "Plastic Hearts (Explicit)",
+      "duration": 171,
+      "isrc": "USRC12003706"
+    },
+    {
+      "artist": "Kai Wachi",
+      "title": "FACEDOWN",
+      "services": {
+        "qobuz": "382309251"
+      },
+      "album": "FACEDOWN",
+      "duration": 156,
+      "isrc": "CA5KR2610907"
+    },
+    {
+      "artist": "PhaseOne",
+      "title": "Crash & Burn Ft. Northlane",
+      "services": {
+        "qobuz": "414202150"
+      },
+      "album": "TRANSCENDENCY",
+      "duration": 246,
+      "isrc": "CA5KR1920489"
+    },
+    {
+      "artist": "Wooli",
+      "title": "Throw It Up",
+      "services": {
+        "qobuz": "163285645"
+      },
+      "album": "Mammoth EP",
+      "duration": 179,
+      "isrc": "GB7YL1814201"
+    },
+    {
+      "artist": "Marauda",
+      "title": "Casket",
+      "services": {
+        "qobuz": "163281641"
+      },
+      "album": "Casket",
+      "duration": 150,
+      "isrc": "GB7YL1999409"
+    },
+    {
+      "artist": "Space Laces",
+      "title": "Dominate VIP",
+      "services": {
+        "qobuz": "206689096"
+      },
+      "album": "Dominate VIP",
+      "duration": 229,
+      "isrc": "GB7YL2300001"
+    },
+    {
+      "artist": "Infekt",
+      "title": "Orgalorg VIP",
+      "services": {
+        "qobuz": "414200914"
+      },
+      "album": "Journey To Mars EP",
+      "duration": 305,
+      "isrc": "CA5KR1703402"
+    },
+    {
+      "artist": "Svdden Death",
+      "title": "PEANUT BUTTER",
+      "services": {
+        "qobuz": "259512940"
+      },
+      "album": "PEANUT BUTTER",
+      "duration": 282,
+      "isrc": "CA5KR2396588"
+    },
+    {
+      "artist": "Dion Timmer",
+      "title": "Shiawase",
+      "services": {
+        "qobuz": "101334012"
+      },
+      "album": "Shiawase",
+      "duration": 181,
+      "isrc": "CA6D22000235"
+    },
+    {
+      "artist": "Kompany",
+      "title": "Firewall",
+      "services": {
+        "qobuz": "163279855"
+      },
+      "album": "Untouchable EP",
+      "duration": 268,
+      "isrc": "GB7YL2100127"
+    },
+    {
+      "artist": "Lords of Lounge",
+      "title": "Pixel Perfect",
+      "services": {
+        "qobuz": "286931406"
+      },
+      "album": "LORDS OF LOUNGE 2",
+      "duration": 285,
+      "isrc": "QZNWW2398587"
+    },
+    {
+      "artist": "KronicKevin",
+      "title": "Screamsaver (KronicKevin VIP)",
+      "services": {
+        "qobuz": "373104676"
+      },
+      "album": "White Noise",
+      "duration": 158,
+      "isrc": "QT6FE2501639"
+    },
+    {
+      "artist": "HE$H",
+      "title": "Hit a Lick",
+      "services": {
+        "qobuz": "125329725"
+      },
+      "album": "Loced Out",
+      "duration": 281,
+      "isrc": "TCADU1815931"
+    },
+    {
+      "artist": "KronicKevin",
+      "title": "Country Riddim (Kronic Flip) [HOL!]",
+      "services": {
+        "qobuz": "357248022"
+      },
+      "album": "Subwoofer Science",
+      "duration": 169,
+      "isrc": "QZZ7V2564390"
+    },
+    {
+      "artist": "Ray Volpe",
+      "title": "SONG REQUEST",
+      "services": {
+        "qobuz": "265175904"
+      },
+      "album": "SONG REQUEST",
+      "duration": 204,
+      "isrc": "QZNJV2439360"
+    },
+    {
+      "artist": "The Midnight",
+      "title": "Friction",
+      "services": {
+        "qobuz": "359480972"
+      },
+      "album": "Syndicate",
+      "duration": 236,
+      "isrc": "USUS12500368"
+    },
+    {
+      "artist": "Jessica Audiffred",
+      "title": "Stupid Love",
+      "services": {
+        "qobuz": "283390330"
+      },
+      "album": "Stupid Love feat. Nia V",
+      "duration": 188,
+      "isrc": "GBUM92000104"
+    }
+  ]
+}

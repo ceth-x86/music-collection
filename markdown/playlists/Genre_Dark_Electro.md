@@ -1,0 +1,108 @@
+# Genre: Dark Electro
+
+Imported genre playlist: Dark Electro.
+
+Services: `qobuz:66714359` `tidal:63fe5cef-cd63-4316-8365-ad5dff335897`
+
+## Tracks (100)
+
+- **d4vd** — Placebo Effect [Placebo Effect] (3:11) `isrc:USUM72301278` `qobuz:196018636`
+- **Blood in Face** — Yelworc [14 Years Of Electronic Chall] (8:14) `isrc:USY251634029` `qobuz:29885858`
+- **RΞCΛNT** — BLACK//SALT: [DEBT] [State Unsupported] (5:43) `isrc:USHM22694779` `qobuz:415828201`
+- **Thierry David** — IC 434 [Mosaïques] (3:55) `isrc:QMDA62223920` `qobuz:182964900`
+- **Stereolab** — Self Portrait with "Electric Brain" [Chemical Chords] (3:16) `isrc:GBJCJ0800009` `qobuz:238150156`
+- **Amnistia** — Let's Pretend [The Mirror: Fr34k5] (5:38) `isrc:GBLPF6794535` `qobuz:282356352`
+- **Glitchvine Engine** — Porcelain Midnight Morgue [Error Root Mechanism] (1:58) `isrc:BK4DA2563430` `qobuz:376676138`
+- **Virginia Wing** — The Second Shift [Ecstatic Arrow] (3:01) `isrc:GBCKK1749002` `qobuz:194800499`
+- **Guerrilla Records** — REVELATIONS (feat. Stygian Saint & TOXIC) [Necrotic Crucible] (2:52) `isrc:QZZ7V2608310` `qobuz:420556375`
+- **Charles Mackerras** — The Magic Flute, Act II: The wrath of hell is burning in my bosom [Mozart: The Magic Flute] (4:01) `isrc:GBLWD0502507` `qobuz:309884215`
+- **Ezra Collective** — Joy To The World [Joy To The World] (5:25) `isrc:USBQU2500348` `qobuz:366909579`
+- **Staatsphilharmonie Rheinland-Pfalz** — La Nuit et l'Amour: Interlude de l'ode symphonique [Holmes, A.: Orchestral Works] (5:49) `isrc:HKI199420804` `qobuz:305048126`
+- **Brooks & Dunn** — Holy War [Red Dirt Road] (5:09) `isrc:USAN20300018` `qobuz:50987102`
+- **GoGo Penguin** — Initiate [Man Made Object (Deluxe Edition)] (3:34) `isrc:FRUM71502474` `qobuz:30015819`
+- **Woody Guthrie** — Tear The Facists Down [My Dusty Road] (2:08) `isrc:USRO20916508` `qobuz:28002057`
+- **Zoë Keating** — Seven League Boots [Into The Trees] (6:10) `isrc:USU2C1000008` `qobuz:120056530`
+- **The Dust Of Basement** — Despair [Opticus Vice Versa] (4:26) `isrc:DEZ901500279` `qobuz:22700456`
+- **Kill Dyll** — God's Failed Experiment [God's Failed Experiment] (2:42) `isrc:USWB12400927` `qobuz:257999280`
+- **Captain Jack** — Jack in da House [The Mission] (6:13) `isrc:DED710509060` `qobuz:72143140`
+- **The Brew** — Pointless Pain [Art of Persuasion] (3:07) `isrc:ATN261878107` `qobuz:52068047`
+- **The Artisans** — Swerve to Avoid [Deviation] (1:49) `isrc:TCAJJ2585325` `qobuz:321844158`
+- **Wizo** — Raum Der Zeit [Uuaarrgh!] (1:38) `isrc:DEG039415204` `qobuz:138126762`
+- **OJ** — Unknown Traveler [Portal Access Points] (4:12) `isrc:GBCMQ2400371` `qobuz:294281546`
+- **Unknown Mortal Orchestra** — Hunnybee [Sex & Food] (4:28) `isrc:US38Y1832204` `qobuz:46655823`
+- **Utilize The Remains** — Devouring Neuropathy [Devouring Neuropathy] (3:22) `isrc:NZRI12600610` `qobuz:401648693`
+- **Dead When I Found Her** — Better Days [Stitches & Cover Ups] (4:42) `isrc:CAAD21200517` `qobuz:73845379`
+- **Degenerates Boiled Alive In Raw Human Faeces** — Cadaveric Discharge from the Corpses of Humanity [Disgorgement of the Decomposition of Mankind] (1:12) `isrc:CALVP2579441` `qobuz:371462466`
+- **Peter Green** — Seven Stars [In the Skies] (3:07) `isrc:GBAJE7800308` `qobuz:385641505`
+- **Sleep Token** — The Summoning [Take Me Back To Eden] (6:35) `isrc:GBUM72200352` `qobuz:195178291`
+- **Florence + The Machine** — Girl With One Eye [Lungs] (3:38) `isrc:GBUM70904755` `qobuz:8606362`
+- **Instant Ramen** — Robot Funk [Vibes and Vogue] (2:47) `isrc:DEUF82214807` `qobuz:301311657`
+- **The Clash** — Stay Free [Sound System (8 CD)] (3:40) `isrc:GBARL1200720` `qobuz:11140730`
+- **bassvictim** — Dog Tag freestyle [Forever] (2:24) `isrc:QT3FA2592478` `qobuz:362207438`
+- **SDP** — ADAC [ADAC] (2:53) `isrc:DETX42500002` `qobuz:333173290`
+- **Jordi Savall** — Die Jahreszeiten, Hob. XXI:3, Der Herbst: XIIIb. Duett: Ihr Schönen aus der Stadt (Lukas, Hanne) [Haydn: Die Jahreszeiten, Hob. XXI:3] (7:54) `isrc:CH4212500050` `qobuz:361917893`
+- **Bvdub** — It All Ends with the Coming Sky [Epilogues for the End of the Sky] (7:06) `isrc:ITT931700179` `qobuz:49731870`
+- **Tribal Tech** — Nomad [Primal Tracks] (7:18) `isrc:USAT20109371` `qobuz:2956386`
+- **System Of A Down** — Old School Hollywood [Mezmerize] (2:56) `isrc:USSM10501586` `qobuz:160068`
+- **Thy Art Is Murder** — The Final Curtain [Dear Desolation] (3:49) `isrc:DED831700758` `qobuz:60817139`
+- **Starkillers** — Scream [Dirty Sound Vol. 1 - The Injection] (6:30) `isrc:US4BR0700702` `qobuz:77449701`
+- **Haujobb** — Letting The Demon Sleep [Dead Market] (5:54) `isrc:DEOT31100005` `qobuz:189658425`
+- **Accept** — Trail of Tears [Blind Rage] (4:08) `isrc:DED831400521` `qobuz:60749727`
+- **Total Harmonic Distortion** — Golem [Golem] (3:36) `isrc:QT6E62671666` `qobuz:427717714`
+- **Sleepy Parents** — Brown Noise In My Ears [Brown Noise Ocean] (4:23) `isrc:QZAKB2163061` `qobuz:152197564`
+- **FRONTAL** — Zeig mir [Alles Lüge] (3:39) `isrc:DEM481200134` `qobuz:68957012`
+- **Kraftwerk** — Radioactivity [Remixes] (5:35) `isrc:GBAYE2001240` `qobuz:109725179`
+- **Anthrax** — Deathrider [Fistful of Metal] (3:12) `isrc:USME30900496` `qobuz:63286151`
+- **ZAND** — Cocktail Molotov (from the series Arcane League of Legends) [Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)] (2:28) `isrc:USA2P2459597` `qobuz:413099649`
+- **Bruno Ganz** — Da ich ein Knabe war (Friedrich Hölderlin) [Hölderlin: Gedichte gelesen von Bruno Ganz] (1:29) `isrc:DEB338428516` `qobuz:43540607`
+- **The Gleeks** — We Built This City (From "We Built This Glee Club") [Music Inspired from Glee: Season 6 (2015) the End: Episodes 9-12] (4:54) `isrc:QMVRR1533052` `qobuz:23188100`
+- **Loving Caliber** — I Am Falling For You [I Am Falling For You] (3:10) `isrc:SE5Q51800479` `qobuz:49943146`
+- **Void Kampf** — Karmeliet (Thirsty Mix by EVVILKING aka STERIL) [Severe Mais Juste] (4:19) `isrc:USCGH1057275` `qobuz:98646163`
+- **Studio-X** — Clouds and Trees [Matrix+ Downloaded 012] (5:12) `isrc:BEC262506602` `qobuz:371434594`
+- **Rector Scanner** — Wand aus Glas [Fluormenschen] (4:08) `isrc:BEC262293403` `qobuz:165661406`
+- **Aesthetische** — Fear OFF [Selling Fear] (5:35) `isrc:BEC262506506` `qobuz:335066792`
+- **cut.rate.box** — Isticism [Matrix+ Downloaded 012] (4:27) `isrc:BEC262508004` `qobuz:371434597`
+- **Kant Kino** — Denial [Matrix+ Downloaded 012] (3:55) `isrc:BEC262508005` `qobuz:371434598`
+- **Frontal Boundary** — Hate [Failure] (3:22) `isrc:BEC262507701` `qobuz:370004167`
+- **C-Lekktor** — Juicio Final [2.0] (4:47) `isrc:BEC262434107` `qobuz:286600109`
+- **Acylum** — Rape [XX20XX] (4:39) `isrc:BEC262509003` `qobuz:371278802`
+- **Diffuzion** — Ain't Gonna Fuck with My Brain [Matrix+ Downloaded 012] (4:22) `isrc:BEC262179002` `qobuz:371434602`
+- **Implant** — Drugs vs Violance [Matrix+ Downloaded 012] (3:38) `isrc:BEC262508010` `qobuz:371434603`
+- **First Aid 4 Souls** — Don't Touch Me [Matrix+ Downloaded 012] (3:42) `isrc:BEC262508012` `qobuz:371434605`
+- **Llumen** — Between The Words [Matrix+ Downloaded 012] (4:36) `isrc:BEC262508015` `qobuz:371434608`
+- **Lederman / De Meyer** — Heartbeat [Eleven Grinding Songs] (3:27) `isrc:BEC261826705` `qobuz:50665221`
+- **Digital Factor** — Everyone Wants To Be A King [Matrix+ Downloaded 012] (3:32) `isrc:BEC262508020` `qobuz:371434613`
+- **Armageddon Dildos** — Schmerz [Matrix+ Downloaded 012] (3:03) `isrc:BEC262508021` `qobuz:371434614`
+- **Helalyn Flowers** — Suicidal Birds [Àiresis] (4:04) `isrc:BEC262129202` `qobuz:107331863`
+- **Krystal System** — Éclats Rouges [Éclats Rouges] (2:50) `isrc:BEC262507301` `qobuz:340368436`
+- **The True Union** — This Is War [Matrix+ Downloaded 012] (5:22) `isrc:BEC262508024` `qobuz:371434617`
+- **Freakangel** — Death Bloom [Control] (3:31) `isrc:BEC262400901` `qobuz:404318014`
+- **Totem Obscura** — Eisenmann [Nordische Feste] (4:32) `isrc:BEC261724914` `qobuz:45786524`
+- **Lovelorn Dolls** — Dancing At Your Funeral [Deadtime Stories] (4:47) `isrc:BEC262432808` `qobuz:257827098`
+- **Imjudas** — Go Away [Matrix+ Downloaded 012] (3:02) `isrc:BEC262433608` `qobuz:371434623`
+- **Synapsyche** — Deafness [Deafness] (4:18) `isrc:BEC262506101` `qobuz:326899188`
+- **Miseria Ultima** — Displayed For Punishment [Arctic Esotericism] (3:00) `isrc:BEC262433901` `qobuz:286419126`
+- **Unter Null** — Coming Up To Breathe [Coming Up To Breathe] (5:41) `isrc:BEC262506001` `qobuz:326887594`
+- **Alien Vampires** — Witchy Bitchy (hbimv2) [Witchy Bitchy] (4:04) `isrc:BEC262332604` `qobuz:231850183`
+- **Venal Flesh** — Amyloid Plaque [Matrix+ Downloaded 012] (6:05) `isrc:BEC261692315` `qobuz:371434628`
+- **HellE9** — Omen [Matrix+ Downloaded 012] (2:46) `isrc:BEC262398848` `qobuz:371434629`
+- **Pouppee Fabrikk** — Bring Back the Ways of Old [Matrix+ Downloaded 012] (5:16) `isrc:BEC262030077` `qobuz:371434631`
+- **Stahlgeist** — Alter Ego [Matrix+ Downloaded 012] (3:43) `isrc:BEC262508039` `qobuz:371434632`
+- **Nigra Nebula** — Totung Erfolgt [Matrix+ Downloaded 012] (3:40) `isrc:BEC262508040` `qobuz:371434633`
+- **Aengeldust** — Duce [Agent Orange] (4:34) `isrc:BEC261724801` `qobuz:73514564`
+- **Circuito Cerrado** — Das is Laut [Furious Basslines (Deluxe Edition)] (4:29) `isrc:BEC261897003` `qobuz:56827228`
+- **The Psychic Force** — Painful Revelation [Welcome to Scarcity (Deluxe Edition)] (5:27) `isrc:BEC261623306` `qobuz:36338742`
+- **Komor Kommando** — Get off the X [Matrix+ Downloaded 012] (4:15) `isrc:BEC262294405` `qobuz:371434640`
+- **First Aid Tech** — Acid Evolution [Tech Under Your Skin] (4:59) `isrc:BEC262402003` `qobuz:298530542`
+- **Die Robo Sapiens** — Teufelskreis [Teufelskreis - Tanz Mit Dem Roboter] (4:06) `isrc:BEC261876904` `qobuz:48328199`
+- **Plastic Noise Experience** — Control [Control] (5:00) `isrc:BEC261348501` `qobuz:73491728`
+- **Elektroklange** — Bordcomputer [Abfahrt] (6:25) `isrc:BEC262400606` `qobuz:255451535`
+- **808 Dot Pop** — FM/AM [AM1040] (3:37) `isrc:BEC262397903` `qobuz:215499952`
+- **Elektrostaub** — Falling [Falling] (4:41) `isrc:BEC262506701` `qobuz:340369995`
+- **Cryogenic Echelon** — Fall of the Reptiles [Matrix+ Downloaded 012] (5:27) `isrc:BEC262508057` `qobuz:371434650`
+- **Entrzelle** — Hero [Matrix+ Downloaded 012] (4:55) `isrc:BEC262472516` `qobuz:371434651`
+- **Stray** — Obsolete [Letting Go (Bonus Tracks Version)] (6:34) `isrc:BEC261283910` `qobuz:8481281`
+- **Psy'Aviah** — Heaven Is Not Enough [Sounds from the Matrix 025] (5:50) `isrc:BEC262392402` `qobuz:286445332`
+- **Zombie Girl** — Pleasure Games [Matrix+ Downloaded 012] (3:50) `isrc:BEC261591716` `qobuz:371434658`
+- **Circumpolar** — We Will Die Again [Awaiting the Dawn] (6:28) `isrc:BEC262130507` `qobuz:135153558`
+- **Dunkelwerk** — Schwere See [Waffengang] (3:51) `isrc:BEC261927807` `qobuz:58909045`

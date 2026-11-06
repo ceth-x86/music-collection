@@ -1,0 +1,107 @@
+# Genre: Gothic Rock
+
+Imported genre playlist: Gothic Rock.
+
+Services: `qobuz:66736781` `tidal:6fe6badd-961e-4024-8857-3bb41949dedd`
+
+## Tracks (99)
+
+- **Bauhaus** — Bela Lugosi's Dead (Official Version) [The Bela Session] (9:36) `isrc:QMHG41850001` `qobuz:122256709`
+- **Joy Division** — Atmosphere [Substance 1977 - 1980] (4:10) `isrc:GBCRL1500066` `qobuz:24618113`
+- **The Cure** — A Forest [Seventeen Seconds] (5:54) `isrc:GBALB8000007` `qobuz:721350`
+- **The Damned** — Curtain Call [The Light At The End Of The Tunnel] (17:20) `isrc:USMC18724715` `qobuz:13157391`
+- **The Birthday Party** — Release The Bats [Junkyard] (2:31) `isrc:GBAFL8200058` `qobuz:58599202`
+- **13th Chime** — Cuts of Love [The Singles: 1981-1983] (5:08) `isrc:US5NR0900001` `qobuz:20882690`
+- **Siouxsie & The Banshees** — Spellbound [All Souls] (3:17) `isrc:GBAKW8101063` `qobuz:181177761`
+- **UK Decay** — Unexpected Guest [For Madmen Only] (4:59) `isrc:DEXO61917535` `qobuz:68084379`
+- **The Angels** — After The Rain [Face To Face Recharged] (3:45) `isrc:AULI01816870` `qobuz:171209495`
+- **The Sound** — Skeletons [From The Lion's Mouth] (3:27) `isrc:GBAHT1100078` `qobuz:26390179`
+- **Virgin Prunes** — Baby Turns Blue [...If I Die, I Die] (3:42) `isrc:GBAJH0401510` `qobuz:385623449`
+- **Theatre of Hate** — Do You Believe In The Westworld [The Westworld] (3:45) `isrc:GBQRF1036735` `qobuz:89325074`
+- **The Southern Death Cult** — Moya [The Southern Death Cult] (4:41) `isrc:GBAZP8800157` `qobuz:58597743`
+- **The Danse Society** — Somewhere [Seduction (The Society Collection)] (4:20) `isrc:GBBLY0604715` `qobuz:152580021`
+- **Sad Lovers & Giants** — Things We Never Did [Epic Garden Music] (4:08) `isrc:GBBLY9600015` `qobuz:85826351`
+- **Lords Of The New Church** — Open Your Eyes [The Lords Of The New Church] (3:31) `isrc:USIR38600013` `qobuz:23436927`
+- **Christian Death** — Romeo's Distress [Only Theatre of Pain] (3:16) `isrc:USA6P0400708` `qobuz:92753375`
+- **Paralisis Permanente** — Autosuficiencia [Los singles y primeras grabaciones] (2:08) `isrc:ES5018403000` `qobuz:11661878`
+- **Alien Sex Fiend** — Ignore the Machine [Who's Been Sleeping in My Brain] (6:45) `isrc:GBBLY8300189` `qobuz:120000991`
+- **45 Grave** — Partytime (Single Version) [Sleep In Safety] (3:04) `isrc:USRS72919014` `qobuz:2811001`
+- **The Gloomy Days** — Something Inside Me Has Died [Broken] (3:22) `isrc:QT3FE2593881` `qobuz:363352612`
+- **The Chameleons** — Second Skin [Script of the Bridge (Remastered)] (6:50) `isrc:GBNYZ1100195` `qobuz:50524056`
+- **Sex Gang Children** — Sebastiane [Song and Legend] (3:13) `isrc:QM6XS1805574` `qobuz:48792874`
+- **The Sisters Of Mercy** — Temple of Love (1992) [Greatest Hits Volume One: A Slight Case Of Overbombing] (8:07) `isrc:GBCRL1800016` `qobuz:49728901`
+- **Play Dead** — The Tenant [The Collection] (5:37) `isrc:GBCST8320302` `qobuz:195934559`
+- **Skeletal Family** — Promised Land [Best Of…: The Singles Plus 1983-85] (4:51) `isrc:GBBLY8500072` `qobuz:134974992`
+- **Flesh For Lulu** — Roman Candle [The Polydor Years] (4:19) `isrc:GBUM71700450` `qobuz:43105118`
+- **Specimen** — Kiss Kiss Bang Bang [Azoic] (4:53) `isrc:GBCST8325401` `qobuz:73575808`
+- **Xmal Deutschland** — Incubus Succubus II [Tocsin] (4:45) `isrc:GBAFL8400010` `qobuz:2485209`
+- **Ausgang** — Weight [Teaching Of The Web] (3:40) `isrc:GBBLY1007134` `qobuz:231707925`
+- **Bill Fay** — Pictures Of Adolf Again [Still Some Light: Part 1 (Piano, Guitar, Bass & Drums 1970-1971)] (2:37) `isrc:USJ5G2122413` `qobuz:133670818`
+- **The Cult** — Spiritwalker [Dreamtime] (3:39) `isrc:GBAZP8400001` `qobuz:26490830`
+- **The March Violets** — Snake Dance [The Botanic Verses] (4:06) `isrc:GBCST8424218` `qobuz:73569813`
+- **Echo And The Bunnymen** — The Killing Moon [Ocean Rain] (5:46) `isrc:GBAHT2200030` `qobuz:147304805`
+- **Tones On Tail** — Go! [Weird Pop] (2:35) `isrc:GBAZP9800098` `qobuz:3726201`
+- **Marilyn Monroe** — The River of No Return [The River of No Return] (2:16) `isrc:FR6V80051809` `qobuz:37586097`
+- **Clan of Xymox** — A Day [Clan Of Xymox] (6:40) `isrc:GBAFL8500039` `qobuz:2330910`
+- **The Snake Corps** — "This Is Seagull…." [Smother Earth] (3:58) `isrc:GBBLY9000145` `qobuz:75681168`
+- **The Rose Of Avalanche** — L.A. Rain (MMXXV) [L.A. Rain (MMXXV)] (8:05) `isrc:SE57V2512670` `qobuz:368421258`
+- **Killing Joke** — Love Like Blood [Night Time] (6:48) `isrc:GBAAA0701586` `qobuz:219754541`
+- **Red Lorry Yellow Lorry** — Talk About The Weather [Talk About The Weather] (4:06) `isrc:GBBLY8500062` `qobuz:75688073`
+- **Love and Rockets** — Haunted When the Minutes Drag [Seventh Dream of Teenage Heaven] (8:01) `isrc:GBAZP8500030` `qobuz:38173137`
+- **The Wake** — Melancholy Man [Here Comes Everybody + Singles] (7:22) `isrc:GBHBR0400329` `qobuz:50519161`
+- **Balaam And The Angel** — I Love The Things You Do To Me [Live Free Or Die] (4:07) `isrc:GBAAA0701684` `qobuz:1744849`
+- **The Bolshoi** — A Way [Friends] (4:56) `isrc:GBAZP8600001` `qobuz:40417046`
+- **The Sisterhood** — Giving Ground [Gift] (7:31) `isrc:DEPI82300425` `qobuz:192736711`
+- **The Mission** — Wasteland [Gods Own Medicine] (5:40) `isrc:GBF089400266` `qobuz:627980`
+- **Fields Of The Nephilim** — Moonchild [The Nephilim] (5:40) `isrc:GBAZP8800150` `qobuz:26440302`
+- **All About Eve** — Martha's Harbour [All About Eve] (3:14) `isrc:GBF088800608` `qobuz:27235617`
+- **Peter Murphy** — Cuts You Up [Deep] (5:27) `isrc:GBAZP8900105` `qobuz:2532610`
+- **Inkubus Sukkubus** — Wytches [Wytches] (3:08) `isrc:GBUZW0800098` `qobuz:56286576`
+- **My Deception** — Sacrifice (London After Midnight Tribute) [Sinful Twilight] (5:53) `isrc:USCGH1876619` `qobuz:83912556`
+- **The Merry Thoughts** — Pale Empress [New Alternatives II] (3:37) `isrc:GBAD20610212` `qobuz:73809359`
+- **Die Laughing** — Glamour And Suicide [Incarnations: A Retrospective] (4:08) `isrc:USA370602567` `qobuz:51039449`
+- **SHADOW PROJECT** — Days of Glory [Dreams for the Dying] (4:17) `isrc:USA371168501` `qobuz:67889734`
+- **Children On Stun** — Sidelined [Tourniquets of Love's Desire] (4:12) `isrc:QM6XS2100963` `qobuz:129255173`
+- **Rosetta Stone** — Adrenaline [Adrenaline] (3:40) `isrc:USA370573503` `qobuz:51013360`
+- **Love Like Blood** — Kiss & Tell [An Irony of Fate] (5:11) `isrc:DED830900705` `qobuz:61387601`
+- **Suspiria** — Allegedly, Dancefloor Tragedy [The Gothic Sounds Of Nightbreed Volumes One & Two] (4:38) `isrc:USA370577463` `qobuz:51034839`
+- **Vendemmian** — One Eye Open [One Eye Open] (4:15) `isrc:GBUZW0700239` `qobuz:56289260`
+- **Nosferatu** — Rise [Vampyres, Witches, Devils & Ghouls] (4:32) `isrc:USDPS0600566` `qobuz:51108472`
+- **Paralysed Age** — Bloodsucker [Empire Of Thevampire] (4:50) `isrc:US37B0501104` `qobuz:16307913`
+- **London Music Works** — End Credits [The Silver Screen - Great Movie Themes] (5:07) `isrc:GBAJC1400158` `qobuz:188405728`
+- **Buck-Tick** — Dress [ONE LIFE, ONE DEATH CUT UP(LIVE)] (6:40) `isrc:JPBV00100057` `qobuz:95657921`
+- **Switchblade Symphony** — Dollhouse [Serpentine Gallery - Deluxe 2005 Edition] (4:08) `isrc:USA370521806` `qobuz:51086771`
+- **Dry Cleaning** — Hit My Head All Day [Secret Love] (6:03) `isrc:GBAFL2500471` `qobuz:356715764`
+- **Corpus Delicti** — Saraband [Sylphes] (5:27) `isrc:QM6XS1901835` `qobuz:96722424`
+- **The Alan Parsons Project** — The Fall Of The House Of Usher: Arrival [Tales Of Mystery And Imagination - Edgar Allan Poe] (2:39) `isrc:USIR20200404` `qobuz:53111790`
+- **The Nefilim** — Xodus [Zoon] (3:49) `isrc:GBAZP2400059` `qobuz:294474188`
+- **The Dreamside** — Open Your Eyes [Spin Moon Magic] (3:55) `isrc:CH6540871764` `qobuz:18029768`
+- **Sopor Aeternus & The Ensemble Of Shadows** — Procession / Funeral March [Dead Lovers Sarabande, Vol.2] (6:44) `isrc:DEZ900800378` `qobuz:91723334`
+- **The 69 Eyes** — Gothic Girl [Blessed Be] (4:22) `isrc:FIUNG0000001` `qobuz:52940971`
+- **Garden Of Delight** — Necromanteion IV [Necromanteion IV] (6:48) `isrc:DEAD20710067` `qobuz:73835414`
+- **Two Witches** — Cat's Eyes [Wenches, Wytches And Vampyres: The Very Best Of Two Witches 1987-1999] (2:50) `isrc:USA560629693` `qobuz:51087852`
+- **The Urban Voodoo Machine** — Last Dance of the Silver Wolf [Rare Gumbo: EPs, B-Sides and Assorted Pieces] (2:16) `isrc:GBKYA1303072` `qobuz:168446284`
+- **Ikon** — Life Without End [Flowers for the Gathering] (4:06) `isrc:QM6XS2102250` `qobuz:140880356`
+- **Whispers In The Shadow** — More Than Words [Laudanum] (5:20) `isrc:DEZ650714328` `qobuz:49112317`
+- **Cinema Strange** — Nightfalls [Cinema Strange] (3:52) `isrc:USCGH1263692` `qobuz:70922046`
+- **Cathedral** — Ebony Tears [Forest of Equilibrium] (7:46) `isrc:GBBPB0401851` `qobuz:22873087`
+- **The Beauty of Gemina** — Suicide Landscape [Anthology, Vol. 1] (3:58) `isrc:CH6451504072` `qobuz:28143151`
+- **Chantal Chamberland** — Miss Sarajevo [Temptation] (3:47) `isrc:CA6EI1900012` `qobuz:70230179`
+- **Iain Matthews & Egbert Deríx** — Buddha Dials Your Number [In The Now] (4:26) `isrc:QMWHB1400569` `qobuz:17132431`
+- **The Flatliners** — Resuscitation of the Year [Dead Language] (3:22) `isrc:CADE70901255` `qobuz:104835429`
+- **Ain't No Limits** — Rolling Through the Midnight [Dust Off My Soul] (3:43) `isrc:QZZ7N2581313` `qobuz:354764981`
+- **Milky Chance** — Eden's House [Mind The Moon] (3:51) `isrc:DEVP21900003` `qobuz:79750912`
+- **Angels Of Liberty** — The Last Vampire [Servant of the Grail] (5:35) `isrc:USHM92014102` `qobuz:98664061`
+- **Depeche Mode** — A Question of Time [Black Celebration] (4:09) `isrc:GBAJH9900270` `qobuz:985662`
+- **Tom Smith** — Life Is For Living [There Is Nothing In The Dark That Isn't There In The Light] (4:08) `isrc:GBENL2504392` `qobuz:343627144`
+- **Merciful Nuns** — Cremation [A-U-M IX] (2:36) `isrc:DEW271305236` `qobuz:39203233`
+- **The Spiritual Bat** — Cruel Machine [Cruel Machine] (4:19) `isrc:USHM22361777` `qobuz:211305622`
+- **New Build** — Misery Loves Company [Yesterday Was Lived and Lost] (5:09) `isrc:GBBPW1100276` `qobuz:5057551`
+- **Soror Dolorosa** — Silver Square [No More Heroes] (5:44) `isrc:DES561618901` `qobuz:189621892`
+- **Sonsombre** — One Thousand Graves [One Thousand Graves] (4:28) `isrc:QM6XS1902778` `qobuz:82755556`
+- **BAD AGE** — I'm your Shadow [Among the Ruins] (4:11) `isrc:DEZC62545348` `qobuz:374436307`
+- **Astari Nite** — Unfulfilled Promise [Midnight Conversations] (3:56) `isrc:QM6XS1806918` `qobuz:51134842`
+- **The Awakening** — The Dark Romantics (XV) [Anthology XV] (4:45) `isrc:USCGJ1367415` `qobuz:69293148`
+- **Nox Novacula** — Cursed [Feed The Fire] (4:26) `isrc:QM6MZ2416662` `qobuz:260172914`
+- **Kill Shelter** — Cover Me (feat. The Bellwether Syndicate) [Asylum] (4:23) `isrc:FR9W12203069` `qobuz:159601840`
+- **Vision Video** — In My Side [Inked in Red] (3:45) `isrc:QM4TX2069233` `qobuz:114285455`

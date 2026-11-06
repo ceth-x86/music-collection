@@ -1,0 +1,769 @@
+{
+  "name": "Genre: Gothic Metal",
+  "services": {
+    "qobuz": "66735946"
+  },
+  "description": "Imported genre playlist: Gothic Metal.",
+  "tracks": [
+    {
+      "artist": "Paradise Lost",
+      "title": "Gothic",
+      "services": {
+        "qobuz": "51000364"
+      },
+      "album": "Gothic",
+      "duration": 283,
+      "isrc": "GBCQV9100048"
+    },
+    {
+      "artist": "Cemetary",
+      "title": "An Evil Shade of Grey",
+      "services": {
+        "qobuz": "179351068"
+      },
+      "album": "An Evil Shade of Grey",
+      "duration": 318,
+      "isrc": "SEXHQ9200404"
+    },
+    {
+      "artist": "Type O Negative",
+      "title": "Black No. 1 (Little Miss Scare -All)",
+      "services": {
+        "qobuz": "2555689"
+      },
+      "album": "Bloody Kisses",
+      "duration": 675,
+      "isrc": "NLA329300680"
+    },
+    {
+      "artist": "Anathema",
+      "title": "Sleepless",
+      "services": {
+        "qobuz": "50990028"
+      },
+      "album": "Serenades",
+      "duration": 251,
+      "isrc": "GBCQV9300014"
+    },
+    {
+      "artist": "Katatonia",
+      "title": "Tomb of Insomnia",
+      "services": {
+        "qobuz": "50989775"
+      },
+      "album": "Dance of December Souls",
+      "duration": 789,
+      "isrc": "GBCQV0700281"
+    },
+    {
+      "artist": "David Bowie",
+      "title": "Saviour Machine",
+      "services": {
+        "qobuz": "25311851"
+      },
+      "album": "The Man Who Sold the World",
+      "duration": 270,
+      "isrc": "USJT11500106"
+    },
+    {
+      "artist": "Tiamat",
+      "title": "Gaia",
+      "services": {
+        "qobuz": "47539062"
+      },
+      "album": "Wildhoney",
+      "duration": 387,
+      "isrc": "US4E40478005"
+    },
+    {
+      "artist": "Lake Of Tears",
+      "title": "Under The Crescent",
+      "services": {
+        "qobuz": "410885203"
+      },
+      "album": "Greater Art",
+      "duration": 222,
+      "isrc": "SEXHQ9400401"
+    },
+    {
+      "artist": "During",
+      "title": "Why so lonely (The 3rd and the mortal)",
+      "services": {
+        "qobuz": "336941514"
+      },
+      "album": "Why so lonely (The 3rd and the mortal)",
+      "duration": 185,
+      "isrc": "QZRP52512108"
+    },
+    {
+      "artist": "Monumentum",
+      "title": "A Thousand Breathing Crosses",
+      "services": {
+        "qobuz": "230964519"
+      },
+      "album": "In Absentia Christi",
+      "duration": 125,
+      "isrc": "DEPI82320812"
+    },
+    {
+      "artist": "My Dying Bride",
+      "title": "The Cry of Mankind",
+      "services": {
+        "qobuz": "50991147"
+      },
+      "album": "The Angel & The Dark River",
+      "duration": 733,
+      "isrc": "GBCQV9500064"
+    },
+    {
+      "artist": "Moonspell",
+      "title": "Opium",
+      "services": {
+        "qobuz": "27576740"
+      },
+      "album": "Irreligious",
+      "duration": 167,
+      "isrc": "US4E40482302"
+    },
+    {
+      "artist": "The Gathering",
+      "title": "Strange Machines",
+      "services": {
+        "qobuz": "27574782"
+      },
+      "album": "Mandylion",
+      "duration": 365,
+      "isrc": "US4E40579801"
+    },
+    {
+      "artist": "Crematory",
+      "title": "Tears Of Time",
+      "services": {
+        "qobuz": "336820784"
+      },
+      "album": "Illusions",
+      "duration": 300,
+      "isrc": "DE1KY2506248"
+    },
+    {
+      "artist": "Antony Genn",
+      "title": "St Elizabeth Mortuary",
+      "services": {
+        "qobuz": "394519045"
+      },
+      "album": "Peaky Blinders - The Immortal Man (Soundtrack from the Netflix Film)",
+      "duration": 43,
+      "isrc": "QZ8BZ2616213"
+    },
+    {
+      "artist": "Theatre of Tragedy",
+      "title": "A Rose for the Dead",
+      "services": {
+        "qobuz": "39803612"
+      },
+      "album": "A Rose for the Dead",
+      "duration": 312,
+      "isrc": "DER370513001"
+    },
+    {
+      "artist": "Within Temptation",
+      "title": "Restless",
+      "services": {
+        "qobuz": "112625518"
+      },
+      "album": "Enter",
+      "duration": 368,
+      "isrc": "NLR261100021"
+    },
+    {
+      "artist": "Tristania",
+      "title": "Evenfall",
+      "services": {
+        "qobuz": "47114638"
+      },
+      "album": "Widow's Weeds",
+      "duration": 413,
+      "isrc": "ATN269804102"
+    },
+    {
+      "artist": "The Sins Of Thy Beloved",
+      "title": "All Alone",
+      "services": {
+        "qobuz": "47114634"
+      },
+      "album": "Lake of Sorrow",
+      "duration": 433,
+      "isrc": "ATN269805306"
+    },
+    {
+      "artist": "Steve Miller",
+      "title": "Emanations and Penumbras",
+      "services": {
+        "qobuz": "154240696"
+      },
+      "album": "Liberty",
+      "duration": 248,
+      "isrc": "USDY42207112"
+    },
+    {
+      "artist": "Rapture",
+      "title": "Misery 24/7",
+      "services": {
+        "qobuz": "195553170"
+      },
+      "album": "Silent Stage",
+      "duration": 291,
+      "isrc": "FISFS0400389"
+    },
+    {
+      "artist": "Trail Of Tears",
+      "title": "Profoundemonium",
+      "services": {
+        "qobuz": "37345995"
+      },
+      "album": "Profoundemonium",
+      "duration": 295,
+      "isrc": "ATN260008404"
+    },
+    {
+      "artist": "Sirenia",
+      "title": "Meridian",
+      "services": {
+        "qobuz": "37176763"
+      },
+      "album": "At Sixes and Sevens",
+      "duration": 380,
+      "isrc": "ATN260210501"
+    },
+    {
+      "artist": "Tapping The Vein",
+      "title": "Beautiful",
+      "services": {
+        "qobuz": "129095840"
+      },
+      "album": "The Damage",
+      "duration": 300,
+      "isrc": "QM3MF2000020"
+    },
+    {
+      "artist": "HIM",
+      "title": "Join Me In Death",
+      "services": {
+        "qobuz": "388202"
+      },
+      "album": "Uneasy Listening Vol.1",
+      "duration": 218,
+      "isrc": "FIBAR0600282"
+    },
+    {
+      "artist": "To/Die/For",
+      "title": "In The Heat Of The Night",
+      "services": {
+        "qobuz": "195593501"
+      },
+      "album": "Best of To/Die/For - Epilogues from the Past",
+      "duration": 280,
+      "isrc": "FIUM71000017"
+    },
+    {
+      "artist": "After Forever",
+      "title": "Leaden Legacy",
+      "services": {
+        "qobuz": "189009387"
+      },
+      "album": "Prison Of Desire: The Album (expanded)",
+      "duration": 310,
+      "isrc": "NLP510600222"
+    },
+    {
+      "artist": "Mandragora Scream",
+      "title": "Dark Lantern",
+      "services": {
+        "qobuz": "10351169"
+      },
+      "album": "Madhouse",
+      "duration": 256,
+      "isrc": "FR6V81158146"
+    },
+    {
+      "artist": "Sentenced",
+      "title": "Killing Me Killing You",
+      "services": {
+        "qobuz": "27568813"
+      },
+      "album": "Crimson (Remastered Re-issue 2007)",
+      "duration": 326,
+      "isrc": "US4E40839706"
+    },
+    {
+      "artist": "Shape Of Despair",
+      "title": "Angels of Distress",
+      "services": {
+        "qobuz": "195587541"
+      },
+      "album": "Angels Of Distress",
+      "duration": 582,
+      "isrc": "FIUM71000132"
+    },
+    {
+      "artist": "Novembre",
+      "title": "Everasia",
+      "services": {
+        "qobuz": "27574396"
+      },
+      "album": "Novembrine Waltz",
+      "duration": 503,
+      "isrc": "GBDHC0503642"
+    },
+    {
+      "artist": "Lacrimas Profundere",
+      "title": "My Velvet Little Darkness",
+      "services": {
+        "qobuz": "28458078"
+      },
+      "album": "Filthy Notes For Frozen Hearts",
+      "duration": 208,
+      "isrc": "ATN260619201"
+    },
+    {
+      "artist": "Virgin Black",
+      "title": "Our Wings Are Burning",
+      "services": {
+        "qobuz": "181370181"
+      },
+      "album": "Elegant... And Dying",
+      "duration": 501,
+      "isrc": "US2420503709"
+    },
+    {
+      "artist": "Lacuna Coil",
+      "title": "Heaven's a Lie",
+      "services": {
+        "qobuz": "27544773"
+      },
+      "album": "Comalies",
+      "duration": 286,
+      "isrc": "US4E40416002"
+    },
+    {
+      "artist": "Charon",
+      "title": "Little Angel",
+      "services": {
+        "qobuz": "190373815"
+      },
+      "album": "Downhearted",
+      "duration": 212,
+      "isrc": "FIUM71001164"
+    },
+    {
+      "artist": "Cadaveria",
+      "title": "Flowers in Fire",
+      "services": {
+        "qobuz": "152186541"
+      },
+      "album": "Horror Metal (Undead Edition)",
+      "duration": 411,
+      "isrc": "QZ4JJ1791413"
+    },
+    {
+      "artist": "Gothminister",
+      "title": "Monsters",
+      "services": {
+        "qobuz": "339294681"
+      },
+      "album": "Empire of Dark Salvation",
+      "duration": 192,
+      "isrc": "DEU601405119"
+    },
+    {
+      "artist": "Animal Collective",
+      "title": "Today's Supernatural",
+      "services": {
+        "qobuz": "6323576"
+      },
+      "album": "Centipede Hz",
+      "duration": 254,
+      "isrc": "GBCEL1200186"
+    },
+    {
+      "artist": "Lullacry",
+      "title": "Crucify My Heart",
+      "services": {
+        "qobuz": "204273600"
+      },
+      "album": "Crucify My Heart",
+      "duration": 222,
+      "isrc": "FISFS0200088"
+    },
+    {
+      "artist": "For My Pain...",
+      "title": "Dancer in the Dark",
+      "services": {
+        "qobuz": "190529995"
+      },
+      "album": "Fallen",
+      "duration": 224,
+      "isrc": "FISFS0300011"
+    },
+    {
+      "artist": "Xandria",
+      "title": "Kill the Sun",
+      "services": {
+        "qobuz": "23254015"
+      },
+      "album": "Now & Forever - Their Most Beautiful Songs (Best Of)",
+      "duration": 204,
+      "isrc": "DES370400388"
+    },
+    {
+      "artist": "Poisonblack",
+      "title": "Love Infernal",
+      "services": {
+        "qobuz": "27555256"
+      },
+      "album": "Escapexstacy",
+      "duration": 237,
+      "isrc": "US4E40408602"
+    },
+    {
+      "artist": "Flowing Tears",
+      "title": "Swallow",
+      "services": {
+        "qobuz": "27673515"
+      },
+      "album": "Jade",
+      "duration": 267,
+      "isrc": "GBDHC0502733"
+    },
+    {
+      "artist": "The Vision Bleak",
+      "title": "Wolfmoon",
+      "services": {
+        "qobuz": "189651728"
+      },
+      "album": "The Deathship Has a New Captain",
+      "duration": 326,
+      "isrc": "DES560406603"
+    },
+    {
+      "artist": "Beseech",
+      "title": "Between the Lines",
+      "services": {
+        "qobuz": "37354450"
+      },
+      "album": "Souls Highway",
+      "duration": 302,
+      "isrc": "ATN260210402"
+    },
+    {
+      "artist": "Mortal Love",
+      "title": "Adoration",
+      "services": {
+        "qobuz": "39802646"
+      },
+      "album": "I Have Lost",
+      "duration": 362,
+      "isrc": "DER370544804"
+    },
+    {
+      "artist": "Draconian",
+      "title": "The Cry of Silence",
+      "services": {
+        "qobuz": "37176734"
+      },
+      "album": "Where Lovers Mourn",
+      "duration": 762,
+      "isrc": "ATN260312501"
+    },
+    {
+      "artist": "Novembers Doom",
+      "title": "The Pale Haunt Departure",
+      "services": {
+        "qobuz": "189584180"
+      },
+      "album": "The Pale Haunt Departure",
+      "duration": 344,
+      "isrc": "US2420505201"
+    },
+    {
+      "artist": "Mourning Beloveth",
+      "title": "Narcissistic Funeral",
+      "services": {
+        "qobuz": "157661906"
+      },
+      "album": "The Sullen Sulcus",
+      "duration": 813,
+      "isrc": "QZHNA2234526"
+    },
+    {
+      "artist": "The Old Dead Tree",
+      "title": "Story Of My Life",
+      "services": {
+        "qobuz": "286245930"
+      },
+      "album": "Second Thoughts",
+      "duration": 221,
+      "isrc": "FR33T2482707"
+    },
+    {
+      "artist": "The Charlie Sizemore Band",
+      "title": "My Dying Day",
+      "services": {
+        "qobuz": "61669254"
+      },
+      "album": "Good News",
+      "duration": 195,
+      "isrc": "USRO20759113"
+    },
+    {
+      "artist": "Elis",
+      "title": "Tales from Heaven or Hell",
+      "services": {
+        "qobuz": "37339832"
+      },
+      "album": "Griefshire",
+      "duration": 256,
+      "isrc": "ATN260619501"
+    },
+    {
+      "artist": "Okean Elzy",
+      "title": "Might Have Been a Dream",
+      "services": {
+        "qobuz": "283704922"
+      },
+      "album": "Lighthouse",
+      "duration": 196,
+      "isrc": "DEA622402576"
+    },
+    {
+      "artist": "Deathstars",
+      "title": "Cyanide",
+      "services": {
+        "qobuz": "60260864"
+      },
+      "album": "Termination Bliss",
+      "duration": 234,
+      "isrc": "DED830587504"
+    },
+    {
+      "artist": "Angtoria",
+      "title": "God has a plan for us all",
+      "services": {
+        "qobuz": "10276019"
+      },
+      "album": "God has a plan for us all",
+      "duration": 273,
+      "isrc": "FR6V80616573"
+    },
+    {
+      "artist": "SATURNUS",
+      "title": "I Long",
+      "services": {
+        "qobuz": "189661862"
+      },
+      "album": "Veronika Decides To Die",
+      "duration": 653,
+      "isrc": "DES560692701"
+    },
+    {
+      "artist": "Ava Inferi",
+      "title": "Dan\u00e7a das Ondas",
+      "services": {
+        "qobuz": "77775711"
+      },
+      "album": "The Silhouette",
+      "duration": 322,
+      "isrc": "FR33T0716701"
+    },
+    {
+      "artist": "The Foreshadowing",
+      "title": "Days Of Nothing",
+      "services": {
+        "qobuz": "190164875"
+      },
+      "album": "Days Of Nothing",
+      "duration": 398,
+      "isrc": "GBADD0716509"
+    },
+    {
+      "artist": "Krypteria",
+      "title": "Liberatio",
+      "services": {
+        "qobuz": "13513523"
+      },
+      "album": "Krypteria",
+      "duration": 240,
+      "isrc": "DEE860500087"
+    },
+    {
+      "artist": "Nemesea",
+      "title": "No More",
+      "services": {
+        "qobuz": "37308950"
+      },
+      "album": "Uprise",
+      "duration": 203,
+      "isrc": "NLKH41600003"
+    },
+    {
+      "artist": "Unsun",
+      "title": "Whispers",
+      "services": {
+        "qobuz": "27574365"
+      },
+      "album": "The End of Life",
+      "duration": 213,
+      "isrc": "PLB820700091"
+    },
+    {
+      "artist": "U2",
+      "title": "Hold Me, Thrill Me, Kiss Me, Kill Me",
+      "services": {
+        "qobuz": "41935902"
+      },
+      "album": "The Best Of 1990-2000 & B-Sides",
+      "duration": 284,
+      "isrc": "GBAAN0201228"
+    },
+    {
+      "artist": "Swallow The Sun",
+      "title": "Don't Fall Asleep (Horror Pt. 2)",
+      "services": {
+        "qobuz": "190535795"
+      },
+      "album": "Hope",
+      "duration": 461,
+      "isrc": "FISFS0600187"
+    },
+    {
+      "artist": "Seventh Void",
+      "title": "Heaven Is Gone",
+      "services": {
+        "qobuz": "37308916"
+      },
+      "album": "Heaven Is Gone",
+      "duration": 277,
+      "isrc": "ATN261035802"
+    },
+    {
+      "artist": "Mortemia",
+      "title": "The One I Once Was",
+      "services": {
+        "qobuz": "37236970"
+      },
+      "album": "Misere Mortem",
+      "duration": 286,
+      "isrc": "ATN261031901"
+    },
+    {
+      "artist": "Consumer Culture",
+      "title": "Have You Seen This Man? (Live at The Ottobar)",
+      "services": {
+        "qobuz": "305993389"
+      },
+      "album": "Have You Seen This Man? (Live at The Ottobar)",
+      "duration": 183,
+      "isrc": "QZZ7S2481103"
+    },
+    {
+      "artist": "Theatres Des Vampires",
+      "title": "Carmilla",
+      "services": {
+        "qobuz": "54842526"
+      },
+      "album": "Moonlight Waltz",
+      "duration": 299,
+      "isrc": "ITJ351100764"
+    },
+    {
+      "artist": "A Pale Horse Named Death",
+      "title": "Die Alone",
+      "services": {
+        "qobuz": "380489940"
+      },
+      "album": "And Hell Will Follow Me",
+      "duration": 454,
+      "isrc": "DEA451103830"
+    },
+    {
+      "artist": "Woods Of Ypres",
+      "title": "Finality",
+      "services": {
+        "qobuz": "14673524"
+      },
+      "album": "Woods 5: Grey Skies & Electric Light",
+      "duration": 237,
+      "isrc": "GBBPB1101114"
+    },
+    {
+      "artist": "Bloody Hammers",
+      "title": "Witch of Endor",
+      "services": {
+        "qobuz": "121771271"
+      },
+      "album": "Bloody Hammers (Remastered)",
+      "duration": 234,
+      "isrc": "USHM22121227"
+    },
+    {
+      "artist": "Joshua Redman",
+      "title": "Borrowed Eyes",
+      "services": {
+        "qobuz": "328497010"
+      },
+      "album": "Words Fall Short",
+      "duration": 351,
+      "isrc": "USUG12500880"
+    },
+    {
+      "artist": "Semblant",
+      "title": "What Lies Ahead",
+      "services": {
+        "qobuz": "125983357"
+      },
+      "album": "Lunar Manifesto",
+      "duration": 281,
+      "isrc": "BRTWT1400058"
+    },
+    {
+      "artist": "Tribulation",
+      "title": "The Lament",
+      "services": {
+        "qobuz": "44849412"
+      },
+      "album": "Down Below",
+      "duration": 336,
+      "isrc": "US4E41848301"
+    },
+    {
+      "artist": "Trees of Eternity",
+      "title": "A Million Tears",
+      "services": {
+        "qobuz": "84389823"
+      },
+      "album": "Hour of the Nightingale",
+      "duration": 433,
+      "isrc": "DEZ651607318"
+    },
+    {
+      "artist": "Oceans Of Slumber",
+      "title": "Winter",
+      "services": {
+        "qobuz": "29071112"
+      },
+      "album": "Winter",
+      "duration": 478,
+      "isrc": "US4E41629301"
+    },
+    {
+      "artist": "Unto Others",
+      "title": "Give Me To The Night",
+      "services": {
+        "qobuz": "103385678"
+      },
+      "album": "Mana",
+      "duration": 171,
+      "isrc": "NLA322000391"
+    }
+  ]
+}

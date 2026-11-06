@@ -1,0 +1,1010 @@
+{
+  "name": "Genre: Berlin Techno",
+  "services": {
+    "qobuz": "66718440",
+    "tidal": "fd9ca087-09b9-4154-bfb9-d6e9e3c72b87"
+  },
+  "description": "Imported genre playlist: Berlin Techno.",
+  "tracks": [
+    {
+      "artist": "Planetary Assault Systems",
+      "title": "Twelve",
+      "services": {
+        "qobuz": "206284236"
+      },
+      "album": "The Light Years Reworks",
+      "duration": 351,
+      "isrc": "BEN581600596"
+    },
+    {
+      "artist": "Joy Division",
+      "title": "Love Will Tear Us Apart",
+      "services": {
+        "qobuz": "24618114"
+      },
+      "album": "Substance 1977 - 1980",
+      "duration": 206,
+      "isrc": "GBCRL1500067"
+    },
+    {
+      "artist": "BOOM THE BOMB",
+      "title": "Light Up The Room",
+      "services": {
+        "qobuz": "330307853"
+      },
+      "album": "Light Up The Room",
+      "duration": 227,
+      "isrc": "QZMWW2503828"
+    },
+    {
+      "artist": "Fiedel",
+      "title": "Doors To Manual",
+      "services": {
+        "qobuz": "225161344"
+      },
+      "album": "Night Slugs Allstars X",
+      "duration": 296,
+      "isrc": "GB5P51800113"
+    },
+    {
+      "artist": "Marcel Dettmann",
+      "title": "Phase Sequence",
+      "services": {
+        "qobuz": "404113849"
+      },
+      "album": "My Own Shadow: Faultline",
+      "duration": 379,
+      "isrc": "DEG932601578"
+    },
+    {
+      "artist": "Nikola Gala",
+      "title": "Only (Ryan Elliott Remix)",
+      "services": {
+        "qobuz": "46689745"
+      },
+      "album": "DJ-Kicks (Deetron)",
+      "duration": 100,
+      "isrc": "DEG931891968"
+    },
+    {
+      "artist": "Sinkane",
+      "title": "Warm Spell",
+      "services": {
+        "qobuz": "243064902"
+      },
+      "album": "Warm Spell / Making Time",
+      "duration": 371,
+      "isrc": "US4GE1300006"
+    },
+    {
+      "artist": "Nathaniel Rateliff & The Night Sweats",
+      "title": "Face Down In The Moment",
+      "services": {
+        "qobuz": "127600305"
+      },
+      "album": "The Future",
+      "duration": 279,
+      "isrc": "USC4R2107144"
+    },
+    {
+      "artist": "Huelgas Ensemble",
+      "title": "Christe, der du bist Tag und Licht: Wir bitten dein g\u00f6ttliche Kraft",
+      "services": {
+        "qobuz": "1896892"
+      },
+      "album": "PraeBachtorius",
+      "duration": 257,
+      "isrc": "DEE471000077"
+    },
+    {
+      "artist": "Norman Matt",
+      "title": "Tense Start",
+      "services": {
+        "qobuz": "91648706"
+      },
+      "album": "Up Against Time",
+      "duration": 151,
+      "isrc": "GBFPN2053214"
+    },
+    {
+      "artist": "Sonic Beat",
+      "title": "The Big Trophy",
+      "services": {
+        "qobuz": "398506616"
+      },
+      "album": "Boom Bap Swagger",
+      "duration": 90,
+      "isrc": "QZKCP2600241"
+    },
+    {
+      "artist": "Tin Man",
+      "title": "Verity Acid",
+      "services": {
+        "qobuz": "70583616"
+      },
+      "album": "Mixmag Presents Ben Klock",
+      "duration": 346,
+      "isrc": "QM6MZ1762484"
+    },
+    {
+      "artist": "Nick H\u00f6ppner",
+      "title": "Paws",
+      "services": {
+        "qobuz": "23448304"
+      },
+      "album": "Folk",
+      "duration": 436,
+      "isrc": "DELG71400648"
+    },
+    {
+      "artist": "Boris Andrianov",
+      "title": "Lilacs, Op. 21 No. 5 (arr. for Cello and Piano by Rem Urasin)",
+      "services": {
+        "qobuz": "239106382"
+      },
+      "album": "The Moscow Conservatory - Tribute to Rachmaninov. Chamber Works",
+      "duration": 119,
+      "isrc": "RUABH2200217"
+    },
+    {
+      "artist": "Claudia Chopra",
+      "title": "Anyway",
+      "services": {
+        "qobuz": "312700404"
+      },
+      "album": "To My Valentine: Romantic Lounge Tunes",
+      "duration": 197,
+      "isrc": "DEMV21910193"
+    },
+    {
+      "artist": "DVS1",
+      "title": "(Ecks)",
+      "services": {
+        "qobuz": "30984783"
+      },
+      "album": "Zehn | F\u00fcnf",
+      "duration": 372,
+      "isrc": "DELG71400709"
+    },
+    {
+      "artist": "Etapp Kyle",
+      "title": "Nolah",
+      "services": {
+        "qobuz": "32172521"
+      },
+      "album": "Zehn | Zehn",
+      "duration": 379,
+      "isrc": "DELG71400725"
+    },
+    {
+      "artist": "Answer Code Request",
+      "title": "Zeitspielraum",
+      "services": {
+        "qobuz": "30984785"
+      },
+      "album": "Zehn | F\u00fcnf",
+      "duration": 342,
+      "isrc": "DELG71400710"
+    },
+    {
+      "artist": "Doms",
+      "title": "Whirling",
+      "services": {
+        "qobuz": "30984787"
+      },
+      "album": "Zehn | F\u00fcnf",
+      "duration": 474,
+      "isrc": "DELG71400711"
+    },
+    {
+      "artist": "Anthony Parasole",
+      "title": "Heartbeat",
+      "services": {
+        "qobuz": "30987398"
+      },
+      "album": "Zehn | Sechs",
+      "duration": 319,
+      "isrc": "DELG71400714"
+    },
+    {
+      "artist": "J. Cole",
+      "title": "p r i d e . i s . t h e . d e v i l",
+      "services": {
+        "qobuz": "121549432"
+      },
+      "album": "The Off-Season",
+      "duration": 218,
+      "isrc": "QMJMT2103642"
+    },
+    {
+      "artist": "Planetary Assault Systems",
+      "title": "Hama Static",
+      "services": {
+        "qobuz": "31272712"
+      },
+      "album": "Zehn | Sieben",
+      "duration": 316,
+      "isrc": "DELG71400717"
+    },
+    {
+      "artist": "Onkel Tuka",
+      "title": "Hvis krafta g\u00e5r ut av din tro",
+      "services": {
+        "qobuz": "196565313"
+      },
+      "album": "Geriljagospel",
+      "duration": 166,
+      "isrc": "NOEAM1601110"
+    },
+    {
+      "artist": "tobias.",
+      "title": "Like a Drug",
+      "services": {
+        "qobuz": "31272716"
+      },
+      "album": "Zehn | Acht",
+      "duration": 515,
+      "isrc": "DELG71400720"
+    },
+    {
+      "artist": "Efdemin",
+      "title": "America",
+      "services": {
+        "qobuz": "9216318"
+      },
+      "album": "Carry On, Pretend We're Not In The Room",
+      "duration": 316,
+      "isrc": "BEN580800439"
+    },
+    {
+      "artist": "Function",
+      "title": "Dx3_Analog_Bass_Seq",
+      "services": {
+        "qobuz": "30557133"
+      },
+      "album": "Zehn | Drei",
+      "duration": 400,
+      "isrc": "DELG71400704"
+    },
+    {
+      "artist": "Martyn",
+      "title": "Jah Bedouin",
+      "services": {
+        "qobuz": "31272710"
+      },
+      "album": "Zehn | Sieben",
+      "duration": 457,
+      "isrc": "DELG71400715"
+    },
+    {
+      "artist": "Kobosil",
+      "title": "Saldae",
+      "services": {
+        "qobuz": "30242643"
+      },
+      "album": "Zehn | Zwei",
+      "duration": 395,
+      "isrc": "DELG71400702"
+    },
+    {
+      "artist": "Crash Test Dummies",
+      "title": "Mmm Mmm Mmm Mmm",
+      "services": {
+        "qobuz": "13102470"
+      },
+      "album": "God Shuffled His Feet",
+      "duration": 235,
+      "isrc": "CAA359300084"
+    },
+    {
+      "artist": "Csuk\u00e1s Istv\u00e1n",
+      "title": "Fejezet 1 - Pom Pom \u00fajabb mes\u00e9i",
+      "services": {
+        "qobuz": "212686274"
+      },
+      "album": "Pom Pom \u00fajabb mes\u00e9i",
+      "duration": 195,
+      "isrc": "DEVU52367900"
+    },
+    {
+      "artist": "God Knows",
+      "title": "Munya's Comet / Remember 2 Forget",
+      "services": {
+        "qobuz": "356231924"
+      },
+      "album": "A Future of The Past",
+      "duration": 268,
+      "isrc": "QZZ8A2558023"
+    },
+    {
+      "artist": "King's X",
+      "title": "Goldilox",
+      "services": {
+        "qobuz": "2003356"
+      },
+      "album": "Out Of The Silent Planet",
+      "duration": 280,
+      "isrc": "USAT20102735"
+    },
+    {
+      "artist": "Emmanuel Top",
+      "title": "Radio",
+      "services": {
+        "qobuz": "9577405"
+      },
+      "album": "Specials 'Phase Two'",
+      "duration": 461,
+      "isrc": "FR4LO1109210"
+    },
+    {
+      "artist": "Huey Mnemonic",
+      "title": "Transmutation",
+      "services": {
+        "qobuz": "372576557"
+      },
+      "album": "Transmutation",
+      "duration": 336,
+      "isrc": "DELV42100253"
+    },
+    {
+      "artist": "D. Strange",
+      "title": "Metal Mono",
+      "services": {
+        "qobuz": "384215494"
+      },
+      "album": "Tresor 30",
+      "duration": 315,
+      "isrc": "DELV42100706"
+    },
+    {
+      "artist": "Verraco",
+      "title": "Umbral de dolor",
+      "services": {
+        "qobuz": "384165541"
+      },
+      "album": "Tresor 30",
+      "duration": 359,
+      "isrc": "DEF272133017"
+    },
+    {
+      "artist": "The Surgeon",
+      "title": "Berlin Disease",
+      "services": {
+        "qobuz": "384165543"
+      },
+      "album": "Tresor 30",
+      "duration": 299,
+      "isrc": "DEF272133019"
+    },
+    {
+      "artist": "Regis",
+      "title": "Natural Enemies",
+      "services": {
+        "qobuz": "384165544"
+      },
+      "album": "Tresor 30",
+      "duration": 273,
+      "isrc": "DEF272133020"
+    },
+    {
+      "artist": "LSDXOXO",
+      "title": "Love In Allegiance",
+      "services": {
+        "qobuz": "384165549"
+      },
+      "album": "Tresor 30",
+      "duration": 247,
+      "isrc": "DEF272133025"
+    },
+    {
+      "artist": "Simulant",
+      "title": "The Purpose Of Simulation",
+      "services": {
+        "qobuz": "384215533"
+      },
+      "album": "Tresor 30",
+      "duration": 320,
+      "isrc": "DELV42100741"
+    },
+    {
+      "artist": "TYGAPAW",
+      "title": "Diffusus",
+      "services": {
+        "qobuz": "384165567"
+      },
+      "album": "Tresor 30",
+      "duration": 235,
+      "isrc": "DEF272133043"
+    },
+    {
+      "artist": "Nene H",
+      "title": "Only Words Break Silence",
+      "services": {
+        "qobuz": "384215536"
+      },
+      "album": "Tresor 30",
+      "duration": 294,
+      "isrc": "DELV42100736"
+    },
+    {
+      "artist": "Fjaak",
+      "title": "Lovers",
+      "services": {
+        "qobuz": "384215537"
+      },
+      "album": "Tresor 30",
+      "duration": 360,
+      "isrc": "DELV42100729"
+    },
+    {
+      "artist": "Yazzus",
+      "title": "Turn Of Speed",
+      "services": {
+        "qobuz": "384165571"
+      },
+      "album": "Tresor 30",
+      "duration": 331,
+      "isrc": "DEF272133047"
+    },
+    {
+      "artist": "Tv Victor",
+      "title": "Change On",
+      "services": {
+        "qobuz": "384215540"
+      },
+      "album": "Tresor 30",
+      "duration": 320,
+      "isrc": "DELV42100718"
+    },
+    {
+      "artist": "Carlota",
+      "title": "Breakfast On The Moon",
+      "services": {
+        "qobuz": "384165574"
+      },
+      "album": "Tresor 30",
+      "duration": 281,
+      "isrc": "DEF272133050"
+    },
+    {
+      "artist": "Toru S.",
+      "title": "Deep Mid",
+      "services": {
+        "qobuz": "384165575"
+      },
+      "album": "Tresor 30",
+      "duration": 227,
+      "isrc": "DEF272133051"
+    },
+    {
+      "artist": "Bergsonist",
+      "title": "Tout Maintenant",
+      "services": {
+        "qobuz": "384165557"
+      },
+      "album": "Tresor 30",
+      "duration": 204,
+      "isrc": "DEF272133033"
+    },
+    {
+      "artist": "SHE Spells Doom",
+      "title": "Splash",
+      "services": {
+        "qobuz": "384215519"
+      },
+      "album": "Tresor 30",
+      "duration": 311,
+      "isrc": "DELV42100739"
+    },
+    {
+      "artist": "Whodat",
+      "title": "Grit",
+      "services": {
+        "qobuz": "384215521"
+      },
+      "album": "Tresor 30",
+      "duration": 308,
+      "isrc": "DELV42100723"
+    },
+    {
+      "artist": "rRoxymore",
+      "title": "MULTIPLICITY",
+      "services": {
+        "qobuz": "384165531"
+      },
+      "album": "Tresor 30",
+      "duration": 342,
+      "isrc": "DEF272133007"
+    },
+    {
+      "artist": "Claudia Anderson",
+      "title": "Track 3",
+      "services": {
+        "qobuz": "384165545"
+      },
+      "album": "Tresor 30",
+      "duration": 358,
+      "isrc": "DEF272133021"
+    },
+    {
+      "artist": "Machina",
+      "title": "Trio",
+      "services": {
+        "qobuz": "384165546"
+      },
+      "album": "Tresor 30",
+      "duration": 288,
+      "isrc": "DEF272133022"
+    },
+    {
+      "artist": "Speaker Music",
+      "title": "focus.point.shoot",
+      "services": {
+        "qobuz": "384215495"
+      },
+      "album": "Tresor 30",
+      "duration": 312,
+      "isrc": "DELV42100707"
+    },
+    {
+      "artist": "AFRODEUTSCHE",
+      "title": "CAN'T STOP",
+      "services": {
+        "qobuz": "372584206"
+      },
+      "album": "CAN'T STOP",
+      "duration": 303,
+      "isrc": "DELV42100443"
+    },
+    {
+      "artist": "Quelza",
+      "title": "Afternoon Calcium",
+      "services": {
+        "qobuz": "337008901"
+      },
+      "album": "Klubnacht 01",
+      "duration": 643,
+      "isrc": "DEU672500731"
+    },
+    {
+      "artist": "Azu Tiwaline",
+      "title": "Chrome Fever",
+      "services": {
+        "qobuz": "337008902"
+      },
+      "album": "Klubnacht 01",
+      "duration": 359,
+      "isrc": "DEU672500732"
+    },
+    {
+      "artist": "Altinbas",
+      "title": "Seele",
+      "services": {
+        "qobuz": "337008903"
+      },
+      "album": "Klubnacht 01",
+      "duration": 423,
+      "isrc": "DEU672500733"
+    },
+    {
+      "artist": "GiGi FM",
+      "title": "Overseas",
+      "services": {
+        "qobuz": "337008904"
+      },
+      "album": "Klubnacht 01",
+      "duration": 405,
+      "isrc": "GXBKV2500005"
+    },
+    {
+      "artist": "JakoJako",
+      "title": "Evaneszenz",
+      "services": {
+        "qobuz": "337008905"
+      },
+      "album": "Klubnacht 01",
+      "duration": 327,
+      "isrc": "DEU672500734"
+    },
+    {
+      "artist": "Fadi Mohem",
+      "title": "Submerge",
+      "services": {
+        "qobuz": "337008906"
+      },
+      "album": "Klubnacht 01",
+      "duration": 638,
+      "isrc": "DEU672500735"
+    },
+    {
+      "artist": "Lydia Eisenbl\u00e4tter",
+      "title": "Bliss",
+      "services": {
+        "qobuz": "337008911"
+      },
+      "album": "Klubnacht 01",
+      "duration": 375,
+      "isrc": "DEU672500740"
+    },
+    {
+      "artist": "(Wallace)",
+      "title": "Pivot Point",
+      "services": {
+        "qobuz": "337008912"
+      },
+      "album": "Klubnacht 01",
+      "duration": 394,
+      "isrc": "DEU672500741"
+    },
+    {
+      "artist": "Jinj\u00e9",
+      "title": "Idiome",
+      "services": {
+        "qobuz": "337008914"
+      },
+      "album": "Klubnacht 01",
+      "duration": 435,
+      "isrc": "DEU672500743"
+    },
+    {
+      "artist": "Gallegos",
+      "title": "PAXMAN",
+      "services": {
+        "qobuz": "337008915"
+      },
+      "album": "Klubnacht 01",
+      "duration": 658,
+      "isrc": "DEU672500744"
+    },
+    {
+      "artist": "Snecker",
+      "title": "Wet Word",
+      "services": {
+        "qobuz": "337008916"
+      },
+      "album": "Klubnacht 01",
+      "duration": 347,
+      "isrc": "DEU672500745"
+    },
+    {
+      "artist": "Jancen",
+      "title": "Voided Oasis",
+      "services": {
+        "qobuz": "370327332"
+      },
+      "album": "One Hundred Fifty",
+      "duration": 363,
+      "isrc": "GBLV62518450"
+    },
+    {
+      "artist": "Robert Arthur",
+      "title": "Dyson Sphere",
+      "services": {
+        "qobuz": "370327333"
+      },
+      "album": "One Hundred Fifty",
+      "duration": 362,
+      "isrc": "GBLV62518451"
+    },
+    {
+      "artist": "Vinicius Honorio",
+      "title": "Tundra",
+      "services": {
+        "qobuz": "370327334"
+      },
+      "album": "One Hundred Fifty",
+      "duration": 355,
+      "isrc": "GBLV62518452"
+    },
+    {
+      "artist": "A-STS",
+      "title": "Transit",
+      "services": {
+        "qobuz": "370327335"
+      },
+      "album": "One Hundred Fifty",
+      "duration": 366,
+      "isrc": "GBLV62518453"
+    },
+    {
+      "artist": "IGLO",
+      "title": "Paraphrase",
+      "services": {
+        "qobuz": "370327338"
+      },
+      "album": "One Hundred Fifty",
+      "duration": 315,
+      "isrc": "GBLV62518456"
+    },
+    {
+      "artist": "Glaskin",
+      "title": "User Illusion",
+      "services": {
+        "qobuz": "370327339"
+      },
+      "album": "One Hundred Fifty",
+      "duration": 277,
+      "isrc": "GBLV62518457"
+    },
+    {
+      "artist": "Scheermann",
+      "title": "Elura",
+      "services": {
+        "qobuz": "370327340"
+      },
+      "album": "One Hundred Fifty",
+      "duration": 311,
+      "isrc": "GBLV62518458"
+    },
+    {
+      "artist": "Obscure Shape",
+      "title": "Tr\u00e4ume Im Nebel",
+      "services": {
+        "qobuz": "370327341"
+      },
+      "album": "One Hundred Fifty",
+      "duration": 301,
+      "isrc": "GBLV62518459"
+    },
+    {
+      "artist": "Arkan",
+      "title": "French Kiss",
+      "services": {
+        "qobuz": "370327343"
+      },
+      "album": "One Hundred Fifty",
+      "duration": 399,
+      "isrc": "GBLV62518461"
+    },
+    {
+      "artist": "Jeroen Search",
+      "title": "Fiber",
+      "services": {
+        "qobuz": "370327337"
+      },
+      "album": "One Hundred Fifty",
+      "duration": 343,
+      "isrc": "GBLV62518455"
+    },
+    {
+      "artist": "The Beatles",
+      "title": "Why Don't We Do It In The Road?",
+      "services": {
+        "qobuz": "53668093"
+      },
+      "album": "The Beatles (White Album) [Super Deluxe]",
+      "duration": 101,
+      "isrc": "GBUM71802716"
+    },
+    {
+      "artist": "Bob Dylan",
+      "title": "Hurricane",
+      "services": {
+        "qobuz": "4866129"
+      },
+      "album": "Desire",
+      "duration": 512,
+      "isrc": "USSM17500791"
+    },
+    {
+      "artist": "Maoupa Mazzocchetti",
+      "title": "Mantequilla",
+      "services": {
+        "qobuz": "345415804"
+      },
+      "album": "Split 3",
+      "duration": 276,
+      "isrc": "COAB11900253"
+    },
+    {
+      "artist": "Vincent Peirani",
+      "title": "Physical Attraction",
+      "services": {
+        "qobuz": "337660516"
+      },
+      "album": "Living Being IV (Time Reflections)",
+      "duration": 380,
+      "isrc": "FR9W12516700"
+    },
+    {
+      "artist": "Bishop Briggs",
+      "title": "River",
+      "services": {
+        "qobuz": "48004125"
+      },
+      "album": "Church Of Scars",
+      "duration": 216,
+      "isrc": "TCACL1648391"
+    },
+    {
+      "artist": "Anne-Marie",
+      "title": "2002",
+      "services": {
+        "qobuz": "52077965"
+      },
+      "album": "Speak Your Mind",
+      "duration": 186,
+      "isrc": "GBAHS1800094"
+    },
+    {
+      "artist": "Max Romeo",
+      "title": "Blood Of The Prophet",
+      "services": {
+        "qobuz": "96733180"
+      },
+      "album": "Revelation Time",
+      "duration": 212,
+      "isrc": "USVPR1900048"
+    },
+    {
+      "artist": "Jonas Xenon",
+      "title": "Berlin Pink",
+      "services": {
+        "qobuz": "368085245"
+      },
+      "album": "Heretic",
+      "duration": 329,
+      "isrc": "DEMM42501902"
+    },
+    {
+      "artist": "ATLiens",
+      "title": "Obsidian Vortex",
+      "services": {
+        "qobuz": "192439474"
+      },
+      "album": "Obsidian Vortex",
+      "duration": 162,
+      "isrc": "CA5KR2284646"
+    },
+    {
+      "artist": "Chloe Lula",
+      "title": "Prelude",
+      "services": {
+        "qobuz": "300628537"
+      },
+      "album": "Oneiris",
+      "duration": 144,
+      "isrc": "GBGXC2420065"
+    },
+    {
+      "artist": "Joung King",
+      "title": "solarflare",
+      "services": {
+        "qobuz": "410123756"
+      },
+      "album": "Quest",
+      "duration": 124,
+      "isrc": "QT4K32628791"
+    },
+    {
+      "artist": "Sarah Wreath",
+      "title": "Equinox",
+      "services": {
+        "qobuz": "285125643"
+      },
+      "album": "Integration",
+      "duration": 368,
+      "isrc": "QMBZ92442470"
+    },
+    {
+      "artist": "Holding Absence",
+      "title": "Saint Cecilia",
+      "services": {
+        "qobuz": "60261696"
+      },
+      "album": "This Is as One",
+      "duration": 289,
+      "isrc": "DED831701775"
+    },
+    {
+      "artist": "George Nascimento",
+      "title": "Waltz in A-Flat Major, Op. 39: XV. -",
+      "services": {
+        "qobuz": "18488261"
+      },
+      "album": "Relaxing Classical Piano",
+      "duration": 184,
+      "isrc": "CASD10608541"
+    },
+    {
+      "artist": "Devin Bronson",
+      "title": "Life of The Party",
+      "services": {
+        "qobuz": "381917763"
+      },
+      "album": "Crank It Up!",
+      "duration": 124,
+      "isrc": "QZLDE2501104"
+    },
+    {
+      "artist": "Sapurra",
+      "title": "Never Been To Detroit",
+      "services": {
+        "qobuz": "159449669"
+      },
+      "album": "Never Been To Detroit",
+      "duration": 292,
+      "isrc": "GBKQU2244858"
+    },
+    {
+      "artist": "Sweet",
+      "title": "Lady Starlight",
+      "services": {
+        "qobuz": "49658956"
+      },
+      "album": "Desolation Boulevard (New Extended Version)",
+      "duration": 191,
+      "isrc": "DEC767400011"
+    },
+    {
+      "artist": "Ireen Amnes",
+      "title": "October",
+      "services": {
+        "qobuz": "289572872"
+      },
+      "album": "Forbidden Memories",
+      "duration": 381,
+      "isrc": "NLCK42416772"
+    },
+    {
+      "artist": "Ryan James Ford",
+      "title": "Visine Drppr2",
+      "services": {
+        "qobuz": "422367512"
+      },
+      "album": "Quench Vol. 1 (Air)",
+      "duration": 348,
+      "isrc": "NLL562605009"
+    },
+    {
+      "artist": "The Future Sound Of London",
+      "title": "Papua New Guinea",
+      "services": {
+        "qobuz": "76767860"
+      },
+      "album": "Accelerator",
+      "duration": 405,
+      "isrc": "GBELY0600006"
+    },
+    {
+      "artist": "EsDeeKid",
+      "title": "Phantom",
+      "services": {
+        "qobuz": "340492386"
+      },
+      "album": "Rebel",
+      "duration": 109,
+      "isrc": "QZHN32557300"
+    },
+    {
+      "artist": "Deals Death",
+      "title": "Escalation",
+      "services": {
+        "qobuz": "195731466"
+      },
+      "album": "Point Zero Solution",
+      "duration": 242,
+      "isrc": "FIUM71300199"
+    },
+    {
+      "artist": "noonday underground",
+      "title": "Boy Like a Timebomb",
+      "services": {
+        "qobuz": "16834540"
+      },
+      "album": "Surface Noise (Bonus Track Version)",
+      "duration": 158,
+      "isrc": "UK4XT1400048"
+    },
+    {
+      "artist": "Last Regret",
+      "title": "The Room That Wasn't There",
+      "services": {
+        "qobuz": "393360385"
+      },
+      "album": "I Was The Chair",
+      "duration": 660,
+      "isrc": "QZK6L2635734"
+    }
+  ]
+}

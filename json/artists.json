@@ -1,0 +1,6436 @@
+[
+  {
+    "name": "65daysofstatic",
+    "services": {
+      "qobuz": "551461",
+      "tidal": "3683174"
+    }
+  },
+  {
+    "name": "90 Day Men",
+    "services": {
+      "qobuz": "2052613",
+      "tidal": "4238900"
+    }
+  },
+  {
+    "name": "a-ha",
+    "services": {
+      "qobuz": "53675",
+      "tidal": "12009"
+    }
+  },
+  {
+    "name": "A Perfect Circle",
+    "services": {
+      "qobuz": "126961",
+      "tidal": "11241"
+    }
+  },
+  {
+    "name": "A Place To Bury Strangers",
+    "services": {
+      "qobuz": "145725",
+      "tidal": "3634010"
+    }
+  },
+  {
+    "name": "AC/DC",
+    "services": {
+      "qobuz": "161143",
+      "tidal": "945"
+    }
+  },
+  {
+    "name": "Adam Beyer",
+    "services": {
+      "qobuz": "561709",
+      "tidal": "3540206"
+    }
+  },
+  {
+    "name": "Aerosmith",
+    "services": {
+      "qobuz": "47437",
+      "tidal": "950"
+    }
+  },
+  {
+    "name": "AFI",
+    "services": {
+      "tidal": "25031"
+    }
+  },
+  {
+    "name": "After Forever",
+    "services": {
+      "tidal": "3554793"
+    }
+  },
+  {
+    "name": "AFX",
+    "services": {
+      "qobuz": "543185"
+    }
+  },
+  {
+    "name": "Ag Da Coroner",
+    "services": {
+      "tidal": "4914968"
+    }
+  },
+  {
+    "name": "Agatha Christie",
+    "services": {
+      "qobuz": "2416998"
+    }
+  },
+  {
+    "name": "Agent Fresco",
+    "services": {
+      "qobuz": "2152423",
+      "tidal": "4605062"
+    }
+  },
+  {
+    "name": "Agnostic Front",
+    "services": {
+      "tidal": "3517884"
+    }
+  },
+  {
+    "name": "Agriculture",
+    "services": {
+      "qobuz": "13819237",
+      "tidal": "16593503"
+    }
+  },
+  {
+    "name": "Airbag",
+    "services": {
+      "qobuz": "520347",
+      "tidal": "7247150"
+    }
+  },
+  {
+    "name": "Akuarium",
+    "services": {
+      "qobuz": "4908764"
+    }
+  },
+  {
+    "name": "Alcest",
+    "services": {
+      "qobuz": "2027901",
+      "tidal": "3939495"
+    }
+  },
+  {
+    "name": "Alexisonfire",
+    "services": {
+      "qobuz": "414000",
+      "tidal": "3583135"
+    }
+  },
+  {
+    "name": "ALEXSUCKS",
+    "services": {
+      "tidal": "28017160"
+    }
+  },
+  {
+    "name": "Alice In Chains",
+    "services": {
+      "qobuz": "151851",
+      "tidal": "608"
+    }
+  },
+  {
+    "name": "Alice Sara Ott",
+    "services": {
+      "qobuz": "256285",
+      "tidal": "5903484"
+    }
+  },
+  {
+    "name": "All Shall Perish",
+    "services": {
+      "qobuz": "552327",
+      "tidal": "3554799"
+    }
+  },
+  {
+    "name": "Allegaeon",
+    "services": {
+      "qobuz": "847190",
+      "tidal": "3838604"
+    }
+  },
+  {
+    "name": "Allie X",
+    "services": {
+      "qobuz": "2361161",
+      "tidal": "5462742"
+    }
+  },
+  {
+    "name": "Altar Of Plagues",
+    "services": {
+      "qobuz": "600559"
+    }
+  },
+  {
+    "name": "Alter Bridge",
+    "services": {
+      "tidal": "58484"
+    }
+  },
+  {
+    "name": "Amelie Lens",
+    "services": {
+      "tidal": "8012579"
+    }
+  },
+  {
+    "name": "Amenra",
+    "services": {
+      "qobuz": "1801343",
+      "tidal": "3585634"
+    }
+  },
+  {
+    "name": "American Football",
+    "services": {
+      "qobuz": "344731"
+    }
+  },
+  {
+    "name": "Amon Tobin",
+    "services": {
+      "qobuz": "262107",
+      "tidal": "3530358"
+    }
+  },
+  {
+    "name": "Amorphis",
+    "services": {
+      "qobuz": "510162",
+      "tidal": "9233"
+    }
+  },
+  {
+    "name": "Amy Macdonald",
+    "services": {
+      "qobuz": "70802",
+      "tidal": "3648083"
+    }
+  },
+  {
+    "name": "Anathema",
+    "services": {
+      "qobuz": "243650",
+      "tidal": "3502267"
+    }
+  },
+  {
+    "name": "And So I Watch You from Afar",
+    "services": {
+      "qobuz": "1038920",
+      "tidal": "3614758"
+    }
+  },
+  {
+    "name": "Andrew Lloyd Webber;Tim Rice",
+    "services": {
+      "qobuz": "7739644"
+    }
+  },
+  {
+    "name": "Andrew Lloyd Webber & Tim Rice & Angel Cuerdas",
+    "services": {
+      "tidal": "5777110"
+    }
+  },
+  {
+    "name": "Angelmaker",
+    "services": {
+      "qobuz": "4963249",
+      "tidal": "6937246"
+    }
+  },
+  {
+    "name": "Animal Collective",
+    "services": {
+      "qobuz": "403996"
+    }
+  },
+  {
+    "name": "Animals As Leaders",
+    "services": {
+      "qobuz": "821261"
+    }
+  },
+  {
+    "name": "Anna Meredith",
+    "services": {
+      "tidal": "4731062"
+    }
+  },
+  {
+    "name": "Anna von Hausswolff",
+    "services": {
+      "qobuz": "1078840",
+      "tidal": "3664307"
+    }
+  },
+  {
+    "name": "Anneke van Giersbergen",
+    "services": {
+      "qobuz": "571601",
+      "tidal": "4076570"
+    }
+  },
+  {
+    "name": "Annihilator",
+    "services": {
+      "tidal": "37260"
+    }
+  },
+  {
+    "name": "AntiMatter",
+    "services": {
+      "qobuz": "832301",
+      "tidal": "3840333"
+    }
+  },
+  {
+    "name": "Antropoceno",
+    "services": {
+      "qobuz": "25829586"
+    }
+  },
+  {
+    "name": "Aphex Twin",
+    "services": {
+      "qobuz": "53267",
+      "tidal": "3531604"
+    }
+  },
+  {
+    "name": "APPARAT",
+    "services": {
+      "qobuz": "603619",
+      "tidal": "3519747"
+    }
+  },
+  {
+    "name": "Arab Strap",
+    "services": {
+      "qobuz": "71454",
+      "tidal": "3575002"
+    }
+  },
+  {
+    "name": "Arca",
+    "services": {
+      "qobuz": "81780"
+    }
+  },
+  {
+    "name": "Arcade Fire",
+    "services": {
+      "qobuz": "374619",
+      "tidal": "17364"
+    }
+  },
+  {
+    "name": "Arcadea",
+    "services": {
+      "qobuz": "3080206",
+      "tidal": "8654164"
+    }
+  },
+  {
+    "name": "Arch Enemy",
+    "services": {
+      "qobuz": "224949",
+      "tidal": "24088"
+    }
+  },
+  {
+    "name": "Architects",
+    "services": {
+      "qobuz": "391633",
+      "tidal": "3564608"
+    }
+  },
+  {
+    "name": "Archive",
+    "services": {
+      "qobuz": "41332",
+      "tidal": "16293"
+    }
+  },
+  {
+    "name": "Archspire",
+    "services": {
+      "qobuz": "1230583",
+      "tidal": "4666965"
+    }
+  },
+  {
+    "name": "Arctic Monkeys",
+    "services": {
+      "qobuz": "403888"
+    }
+  },
+  {
+    "name": "Arcturus",
+    "services": {
+      "qobuz": "760412",
+      "tidal": "21259"
+    }
+  },
+  {
+    "name": "Arena",
+    "services": {
+      "qobuz": "98255"
+    }
+  },
+  {
+    "name": "Artillery",
+    "services": {
+      "qobuz": "799557",
+      "tidal": "3579896"
+    }
+  },
+  {
+    "name": "Asking Alexandria",
+    "services": {
+      "qobuz": "978957",
+      "tidal": "3635103"
+    }
+  },
+  {
+    "name": "Assemblage 23",
+    "services": {
+      "tidal": "3878158"
+    }
+  },
+  {
+    "name": "Astronoid",
+    "services": {
+      "qobuz": "4160373",
+      "tidal": "5891578"
+    }
+  },
+  {
+    "name": "At The Drive-In",
+    "services": {
+      "qobuz": "189235",
+      "tidal": "3638960"
+    }
+  },
+  {
+    "name": "At The Gates",
+    "services": {
+      "qobuz": "1031358",
+      "tidal": "3593337"
+    }
+  },
+  {
+    "name": "Atheist",
+    "services": {
+      "qobuz": "737190",
+      "tidal": "3638379"
+    }
+  },
+  {
+    "name": "ATL",
+    "services": {
+      "qobuz": "192143"
+    }
+  },
+  {
+    "name": "Atmosphere",
+    "services": {
+      "qobuz": "150681",
+      "tidal": "3503583"
+    }
+  },
+  {
+    "name": "Atreyu",
+    "services": {
+      "qobuz": "455198",
+      "tidal": "37226"
+    }
+  },
+  {
+    "name": "Attila",
+    "services": {
+      "qobuz": "731674"
+    }
+  },
+  {
+    "name": "Audioslave",
+    "services": {
+      "qobuz": "71458",
+      "tidal": "5027"
+    }
+  },
+  {
+    "name": "August Burns Red",
+    "services": {
+      "qobuz": "64284",
+      "tidal": "3505425"
+    }
+  },
+  {
+    "name": "Auktyon",
+    "services": {
+      "tidal": "5481479"
+    }
+  },
+  {
+    "name": "Autechre",
+    "services": {
+      "qobuz": "548431",
+      "tidal": "3569016"
+    }
+  },
+  {
+    "name": "Automatic",
+    "services": {
+      "qobuz": "29152291"
+    }
+  },
+  {
+    "name": "Autumn Tears",
+    "services": {
+      "tidal": "4163758"
+    }
+  },
+  {
+    "name": "Avantasia",
+    "services": {
+      "qobuz": "555794"
+    }
+  },
+  {
+    "name": "Avenged Sevenfold",
+    "services": {
+      "qobuz": "325005",
+      "tidal": "14155"
+    }
+  },
+  {
+    "name": "Axel Rudi Pell",
+    "services": {
+      "qobuz": "2119202"
+    }
+  },
+  {
+    "name": "Baby Strange",
+    "services": {
+      "qobuz": "1751701",
+      "tidal": "4156806"
+    }
+  },
+  {
+    "name": "Bad Omens",
+    "services": {
+      "qobuz": "2532415",
+      "tidal": "7541226"
+    }
+  },
+  {
+    "name": "Bad Sector",
+    "services": {
+      "qobuz": "2413423"
+    }
+  },
+  {
+    "name": "Bad Wolves",
+    "services": {
+      "qobuz": "3386750",
+      "tidal": "6943884"
+    }
+  },
+  {
+    "name": "Badbadnotgood",
+    "services": {
+      "qobuz": "744791",
+      "tidal": "4512972"
+    }
+  },
+  {
+    "name": "Baroness",
+    "services": {
+      "qobuz": "812981",
+      "tidal": "3638398"
+    }
+  },
+  {
+    "name": "Basic Channel",
+    "services": {
+      "qobuz": "788197"
+    }
+  },
+  {
+    "name": "Bathory",
+    "services": {
+      "qobuz": "556072",
+      "tidal": "3616084"
+    }
+  },
+  {
+    "name": "Batushka",
+    "services": {
+      "qobuz": "4504564",
+      "tidal": "7589064"
+    }
+  },
+  {
+    "name": "Bayside",
+    "services": {
+      "qobuz": "530617",
+      "tidal": "3540718"
+    }
+  },
+  {
+    "name": "Beach House",
+    "services": {
+      "qobuz": "40495",
+      "tidal": "3519311"
+    }
+  },
+  {
+    "name": "Beardfish",
+    "services": {
+      "qobuz": "567144",
+      "tidal": "3585931"
+    }
+  },
+  {
+    "name": "Beartooth",
+    "services": {
+      "qobuz": "1310269",
+      "tidal": "5064610"
+    }
+  },
+  {
+    "name": "Beastie Boys",
+    "services": {
+      "qobuz": "43813",
+      "tidal": "8963"
+    }
+  },
+  {
+    "name": "Beborn Beton",
+    "services": {
+      "tidal": "4175739"
+    }
+  },
+  {
+    "name": "Beck",
+    "services": {
+      "qobuz": "37921",
+      "tidal": "24905"
+    }
+  },
+  {
+    "name": "Been Stellar",
+    "services": {
+      "qobuz": "11485158",
+      "tidal": "7640534"
+    }
+  },
+  {
+    "name": "Behemoth",
+    "services": {
+      "qobuz": "551515"
+    }
+  },
+  {
+    "name": "Belle and Sebastian",
+    "services": {
+      "qobuz": "61968"
+    }
+  },
+  {
+    "name": "Belle & Sebastian",
+    "services": {
+      "tidal": "3521914"
+    }
+  },
+  {
+    "name": "Bent Knee",
+    "services": {
+      "qobuz": "3087044"
+    }
+  },
+  {
+    "name": "Beth Gibbons",
+    "services": {
+      "qobuz": "69761",
+      "tidal": "30466"
+    }
+  },
+  {
+    "name": "Better Lovers",
+    "services": {
+      "qobuz": "18014527",
+      "tidal": "38634090"
+    }
+  },
+  {
+    "name": "Between The Buried And Me",
+    "services": {
+      "qobuz": "895549",
+      "tidal": "3540811"
+    }
+  },
+  {
+    "name": "Between the Crosses",
+    "services": {
+      "tidal": "8001905"
+    }
+  },
+  {
+    "name": "Biffy Clyro",
+    "services": {
+      "qobuz": "203537",
+      "tidal": "18535"
+    }
+  },
+  {
+    "name": "Big Big Train",
+    "services": {
+      "qobuz": "4877235",
+      "tidal": "6394932"
+    }
+  },
+  {
+    "name": "Billy Talent",
+    "services": {
+      "qobuz": "312512",
+      "tidal": "14969"
+    }
+  },
+  {
+    "name": "Biosphere",
+    "services": {
+      "qobuz": "391266",
+      "tidal": "21723"
+    }
+  },
+  {
+    "name": "Birds In Row",
+    "services": {
+      "qobuz": "1405611",
+      "tidal": "4481229"
+    }
+  },
+  {
+    "name": "Bj\u00f6rk",
+    "services": {
+      "qobuz": "27940",
+      "tidal": "16992"
+    }
+  },
+  {
+    "name": "Bj\u00f8rn Riis",
+    "services": {
+      "qobuz": "4390029",
+      "tidal": "6038225"
+    }
+  },
+  {
+    "name": "Black Country, New Road",
+    "services": {
+      "qobuz": "4267011",
+      "tidal": "17665879"
+    }
+  },
+  {
+    "name": "Black Flag",
+    "services": {
+      "tidal": "3603543"
+    }
+  },
+  {
+    "name": "Black Foxxes",
+    "services": {
+      "qobuz": "2595520",
+      "tidal": "6216551"
+    }
+  },
+  {
+    "name": "Black Label Society",
+    "services": {
+      "qobuz": "91237"
+    }
+  },
+  {
+    "name": "black midi",
+    "services": {
+      "qobuz": "4020648",
+      "tidal": "10932434"
+    }
+  },
+  {
+    "name": "Black Pistol Fire",
+    "services": {
+      "qobuz": "2216002",
+      "tidal": "5022328"
+    }
+  },
+  {
+    "name": "Black Sabbath",
+    "services": {
+      "qobuz": "73063",
+      "tidal": "86"
+    }
+  },
+  {
+    "name": "Blackbraid",
+    "services": {
+      "qobuz": "14372703",
+      "tidal": "32527429"
+    }
+  },
+  {
+    "name": "Blackfield",
+    "services": {
+      "qobuz": "605863",
+      "tidal": "3604150"
+    }
+  },
+  {
+    "name": "Blackwater Holylight",
+    "services": {
+      "tidal": "9582118"
+    }
+  },
+  {
+    "name": "Bleachers",
+    "services": {
+      "qobuz": "1632063"
+    }
+  },
+  {
+    "name": "Blessthefall",
+    "services": {
+      "qobuz": "333705",
+      "tidal": "36978"
+    }
+  },
+  {
+    "name": "Blind Ego",
+    "services": {
+      "qobuz": "336709",
+      "tidal": "3557554"
+    }
+  },
+  {
+    "name": "Blind Guardian",
+    "services": {
+      "qobuz": "551916"
+    }
+  },
+  {
+    "name": "Bloc Party",
+    "services": {
+      "qobuz": "35187",
+      "tidal": "15041"
+    }
+  },
+  {
+    "name": "Blood Incantation",
+    "services": {
+      "qobuz": "5324028",
+      "tidal": "7376844"
+    }
+  },
+  {
+    "name": "Blood Red Throne",
+    "services": {
+      "qobuz": "1240413",
+      "tidal": "3617585"
+    }
+  },
+  {
+    "name": "Blue \u00d6yster Cult",
+    "services": {
+      "qobuz": "81842"
+    }
+  },
+  {
+    "name": "Blur",
+    "services": {
+      "qobuz": "38319",
+      "tidal": "10052"
+    }
+  },
+  {
+    "name": "Boards of Canada",
+    "services": {
+      "qobuz": "410459",
+      "tidal": "3568992"
+    }
+  },
+  {
+    "name": "Bob Dylan",
+    "services": {
+      "qobuz": "365921",
+      "tidal": "80"
+    }
+  },
+  {
+    "name": "Bola",
+    "services": {
+      "qobuz": "299673"
+    }
+  },
+  {
+    "name": "Bon Jovi",
+    "services": {
+      "qobuz": "45063",
+      "tidal": "27418"
+    }
+  },
+  {
+    "name": "Bones",
+    "services": {
+      "qobuz": "459778"
+    }
+  },
+  {
+    "name": "Booker T",
+    "services": {
+      "qobuz": "75298"
+    }
+  },
+  {
+    "name": "Boris Brejcha",
+    "services": {
+      "qobuz": "96302",
+      "tidal": "3588686"
+    }
+  },
+  {
+    "name": "Bosse-de-Nage",
+    "services": {
+      "qobuz": "964412"
+    }
+  },
+  {
+    "name": "Bossk",
+    "services": {
+      "tidal": "4186444"
+    }
+  },
+  {
+    "name": "Boston Manor",
+    "services": {
+      "qobuz": "2420239",
+      "tidal": "5484678"
+    }
+  },
+  {
+    "name": "Botch",
+    "services": {
+      "qobuz": "950512",
+      "tidal": "3649333"
+    }
+  },
+  {
+    "name": "Bowling For Soup",
+    "services": {
+      "tidal": "3127"
+    }
+  },
+  {
+    "name": "boygenius",
+    "services": {
+      "qobuz": "3939752",
+      "tidal": "10253322"
+    }
+  },
+  {
+    "name": "Brad",
+    "services": {
+      "qobuz": "158766"
+    }
+  },
+  {
+    "name": "Brad Mehldau",
+    "services": {
+      "tidal": "13979"
+    }
+  },
+  {
+    "name": "Break My Fucking Sky",
+    "services": {
+      "tidal": "8863924"
+    }
+  },
+  {
+    "name": "Brian Eno",
+    "services": {
+      "qobuz": "7711",
+      "tidal": "9230"
+    }
+  },
+  {
+    "name": "Bring Me The Horizon",
+    "services": {
+      "qobuz": "333314",
+      "tidal": "19137"
+    }
+  },
+  {
+    "name": "Bruce Soord",
+    "services": {
+      "qobuz": "805072",
+      "tidal": "6621560"
+    }
+  },
+  {
+    "name": "Bruce Springsteen",
+    "services": {
+      "qobuz": "64959",
+      "tidal": "509"
+    }
+  },
+  {
+    "name": "Brutus",
+    "services": {
+      "qobuz": "88220",
+      "tidal": "3564662"
+    }
+  },
+  {
+    "name": "Bryan Ferry",
+    "services": {
+      "qobuz": "38331",
+      "tidal": "9379"
+    }
+  },
+  {
+    "name": "Bryan Quinn,Carlos Herrera",
+    "services": {
+      "tidal": "7226544"
+    }
+  },
+  {
+    "name": "Buckcherry",
+    "services": {
+      "qobuz": "94753"
+    }
+  },
+  {
+    "name": "Buckethead",
+    "services": {
+      "qobuz": "161160",
+      "tidal": "3547150"
+    }
+  },
+  {
+    "name": "Bullet For My Valentine",
+    "services": {
+      "qobuz": "236224",
+      "tidal": "28787"
+    }
+  },
+  {
+    "name": "Burial",
+    "services": {
+      "qobuz": "291276",
+      "tidal": "3583803"
+    }
+  },
+  {
+    "name": "Buried In Verona",
+    "services": {
+      "qobuz": "358729",
+      "tidal": "3709897"
+    }
+  },
+  {
+    "name": "Burnin Red Ivanhoe",
+    "services": {
+      "tidal": "4912878"
+    }
+  },
+  {
+    "name": "Burzum",
+    "services": {
+      "qobuz": "697955",
+      "tidal": "3619864"
+    }
+  },
+  {
+    "name": "Bush",
+    "services": {
+      "qobuz": "154072"
+    }
+  },
+  {
+    "name": "Cabaret Voltaire",
+    "services": {
+      "qobuz": "56551",
+      "tidal": "64567"
+    }
+  },
+  {
+    "name": "Cage The Elephant",
+    "services": {
+      "qobuz": "111979",
+      "tidal": "3523389"
+    }
+  },
+  {
+    "name": "Caliban",
+    "services": {
+      "qobuz": "223908",
+      "tidal": "37278"
+    }
+  },
+  {
+    "name": "Callum Beattie",
+    "services": {
+      "tidal": "5143034"
+    }
+  },
+  {
+    "name": "Camera Obscura",
+    "services": {
+      "tidal": "3587817"
+    }
+  },
+  {
+    "name": "Camerata Mediolanense",
+    "services": {
+      "tidal": "4911337"
+    }
+  },
+  {
+    "name": "Cannabis Club ATL",
+    "services": {
+      "tidal": "6976850"
+    }
+  },
+  {
+    "name": "Carcass",
+    "services": {
+      "qobuz": "576066",
+      "tidal": "3616317"
+    }
+  },
+  {
+    "name": "Caroline Polachek",
+    "services": {
+      "qobuz": "619329",
+      "tidal": "7342247"
+    }
+  },
+  {
+    "name": "Casey",
+    "services": {
+      "qobuz": "42878"
+    }
+  },
+  {
+    "name": "Casey Veggies",
+    "services": {
+      "tidal": "5415675"
+    }
+  },
+  {
+    "name": "Caspian",
+    "services": {
+      "qobuz": "28861559",
+      "tidal": "3881491"
+    }
+  },
+  {
+    "name": "Celeste",
+    "services": {
+      "qobuz": "116359"
+    }
+  },
+  {
+    "name": "Celtic Frost",
+    "services": {
+      "qobuz": "71521"
+    }
+  },
+  {
+    "name": "cEvin Key",
+    "services": {
+      "qobuz": "849413",
+      "tidal": "3885528"
+    }
+  },
+  {
+    "name": "Charlotte de Witte",
+    "services": {
+      "qobuz": "1483659",
+      "tidal": "7404405"
+    }
+  },
+  {
+    "name": "Chat Pile",
+    "services": {
+      "qobuz": "9929197",
+      "tidal": "15950771"
+    }
+  },
+  {
+    "name": "Chelsea Grin",
+    "services": {
+      "qobuz": "878779",
+      "tidal": "3857016"
+    }
+  },
+  {
+    "name": "Chelsea Wolfe",
+    "services": {
+      "qobuz": "898048",
+      "tidal": "4112974"
+    }
+  },
+  {
+    "name": "Chevelle",
+    "services": {
+      "qobuz": "149556",
+      "tidal": "5947"
+    }
+  },
+  {
+    "name": "Christer Bothen",
+    "services": {
+      "tidal": "4435838"
+    }
+  },
+  {
+    "name": "Cigarettes After Sex",
+    "services": {
+      "qobuz": "2855721",
+      "tidal": "8266580"
+    }
+  },
+  {
+    "name": "Circa Waves",
+    "services": {
+      "qobuz": "1481211",
+      "tidal": "5221331"
+    }
+  },
+  {
+    "name": "Claude Thornhill",
+    "services": {
+      "tidal": "3538792"
+    }
+  },
+  {
+    "name": "Clawfinger",
+    "services": {
+      "qobuz": "212837",
+      "tidal": "27499"
+    }
+  },
+  {
+    "name": "clipping.",
+    "services": {
+      "qobuz": "1609371",
+      "tidal": "5416448"
+    }
+  },
+  {
+    "name": "Clipse",
+    "services": {
+      "qobuz": "104577"
+    }
+  },
+  {
+    "name": "Cloudkicker",
+    "services": {
+      "qobuz": "2033735"
+    }
+  },
+  {
+    "name": "Cocteau Twins",
+    "services": {
+      "qobuz": "71534",
+      "tidal": "34541"
+    }
+  },
+  {
+    "name": "Coheed And Cambria",
+    "services": {
+      "qobuz": "198046",
+      "tidal": "3524990"
+    }
+  },
+  {
+    "name": "Coil",
+    "services": {
+      "qobuz": "469587",
+      "tidal": "3567230"
+    }
+  },
+  {
+    "name": "Colin Stetson",
+    "services": {
+      "qobuz": "385430",
+      "tidal": "3851770"
+    }
+  },
+  {
+    "name": "Colony 5",
+    "services": {
+      "tidal": "3625033"
+    }
+  },
+  {
+    "name": "Colyn",
+    "services": {
+      "qobuz": "3768804"
+    }
+  },
+  {
+    "name": "Come to Grief",
+    "services": {
+      "qobuz": "12988953"
+    }
+  },
+  {
+    "name": "Comeback Kid",
+    "services": {
+      "qobuz": "375179",
+      "tidal": "3540712"
+    }
+  },
+  {
+    "name": "Conjurer",
+    "services": {
+      "qobuz": "2377477",
+      "tidal": "7185952"
+    }
+  },
+  {
+    "name": "Converge",
+    "services": {
+      "qobuz": "462192",
+      "tidal": "3517838"
+    }
+  },
+  {
+    "name": "Coroner",
+    "services": {
+      "qobuz": "713808"
+    }
+  },
+  {
+    "name": "corto.alto",
+    "services": {
+      "qobuz": "7769697",
+      "tidal": "16388573"
+    }
+  },
+  {
+    "name": "Cosmograf",
+    "services": {
+      "tidal": "5653469"
+    }
+  },
+  {
+    "name": "Cradle Of Filth",
+    "services": {
+      "qobuz": "176495",
+      "tidal": "26125"
+    }
+  },
+  {
+    "name": "Crippled Black Phoenix",
+    "services": {
+      "qobuz": "730602",
+      "tidal": "3607159"
+    }
+  },
+  {
+    "name": "\u271d\u271d\u271d (Crosses)",
+    "services": {
+      "qobuz": "8547860",
+      "tidal": "4723524"
+    }
+  },
+  {
+    "name": "Cult of Luna",
+    "services": {
+      "qobuz": "982904",
+      "tidal": "3616303"
+    }
+  },
+  {
+    "name": "Current 93",
+    "services": {
+      "qobuz": "2323112"
+    }
+  },
+  {
+    "name": "Cyhra",
+    "services": {
+      "qobuz": "3250595",
+      "tidal": "9027373"
+    }
+  },
+  {
+    "name": "Cynic",
+    "services": {
+      "qobuz": "398458",
+      "tidal": "55575"
+    }
+  },
+  {
+    "name": "d\u00e4lek",
+    "services": {
+      "qobuz": "488068",
+      "tidal": "3824431"
+    }
+  },
+  {
+    "name": "Damian Wilson",
+    "services": {
+      "tidal": "3518940"
+    }
+  },
+  {
+    "name": "Dark Tranquillity",
+    "services": {
+      "qobuz": "146927",
+      "tidal": "3563892"
+    }
+  },
+  {
+    "name": "Daron Malakian and Scars On Broadway",
+    "services": {
+      "qobuz": "3631566",
+      "tidal": "9697499"
+    }
+  },
+  {
+    "name": "David Bowie",
+    "services": {
+      "qobuz": "38326",
+      "tidal": "4768"
+    }
+  },
+  {
+    "name": "David Byrne",
+    "services": {
+      "qobuz": "5128",
+      "tidal": "10468"
+    }
+  },
+  {
+    "name": "David Gilmour",
+    "services": {
+      "qobuz": "81808",
+      "tidal": "9306"
+    }
+  },
+  {
+    "name": "David Sylvian",
+    "services": {
+      "qobuz": "47139"
+    }
+  },
+  {
+    "name": "Dead By April",
+    "services": {
+      "qobuz": "398989",
+      "tidal": "3587895"
+    }
+  },
+  {
+    "name": "Dead Can Dance",
+    "services": {
+      "qobuz": "226573",
+      "tidal": "3565299"
+    }
+  },
+  {
+    "name": "Deadletter",
+    "services": {
+      "qobuz": "11329278",
+      "tidal": "19327437"
+    }
+  },
+  {
+    "name": "Deafheaven",
+    "services": {
+      "qobuz": "964413",
+      "tidal": "3938220"
+    }
+  },
+  {
+    "name": "Death",
+    "services": {
+      "qobuz": "478379",
+      "tidal": "37424"
+    }
+  },
+  {
+    "name": "DEATH ANGEL",
+    "services": {
+      "qobuz": "551514",
+      "tidal": "3554846"
+    }
+  },
+  {
+    "name": "Death Cab For Cutie",
+    "services": {
+      "qobuz": "239099",
+      "tidal": "29630"
+    }
+  },
+  {
+    "name": "Death From Above 1979",
+    "services": {
+      "qobuz": "502827",
+      "tidal": "15544"
+    }
+  },
+  {
+    "name": "Death Grips",
+    "services": {
+      "qobuz": "765442",
+      "tidal": "4557268"
+    }
+  },
+  {
+    "name": "Death In June",
+    "services": {
+      "qobuz": "1259311"
+    }
+  },
+  {
+    "name": "Deborah de Luca",
+    "services": {
+      "tidal": "4535874"
+    }
+  },
+  {
+    "name": "D\u00e9cembre Noir",
+    "services": {
+      "qobuz": "1768935",
+      "tidal": "10384017"
+    }
+  },
+  {
+    "name": "Deena Abdelwahed",
+    "services": {
+      "qobuz": "2709043",
+      "tidal": "7951360"
+    }
+  },
+  {
+    "name": "Deep Purple",
+    "services": {
+      "qobuz": "26742",
+      "tidal": "3355"
+    }
+  },
+  {
+    "name": "Deepchord",
+    "services": {
+      "qobuz": "597955"
+    }
+  },
+  {
+    "name": "Def Leppard",
+    "services": {
+      "qobuz": "111721",
+      "tidal": "948"
+    }
+  },
+  {
+    "name": "Deftones",
+    "services": {
+      "qobuz": "307085",
+      "tidal": "15349"
+    }
+  },
+  {
+    "name": "Deicide",
+    "services": {
+      "tidal": "37247"
+    }
+  },
+  {
+    "name": "Delain",
+    "services": {
+      "tidal": "37217"
+    }
+  },
+  {
+    "name": "Delerium",
+    "services": {
+      "qobuz": "205785",
+      "tidal": "10473"
+    }
+  },
+  {
+    "name": "Depeche Mode",
+    "services": {
+      "qobuz": "47445",
+      "tidal": "8877"
+    }
+  },
+  {
+    "name": "Devin Townsend",
+    "services": {
+      "qobuz": "564332",
+      "tidal": "3658981"
+    }
+  },
+  {
+    "name": "Devin Townsend Project",
+    "services": {
+      "tidal": "3659784"
+    }
+  },
+  {
+    "name": "Diary of Dreams",
+    "services": {
+      "qobuz": "849352",
+      "tidal": "3599766"
+    }
+  },
+  {
+    "name": "Die Spitz",
+    "services": {
+      "qobuz": "13423301",
+      "tidal": "22732612"
+    }
+  },
+  {
+    "name": "DIIV",
+    "services": {
+      "qobuz": "856534",
+      "tidal": "4646142"
+    }
+  },
+  {
+    "name": "Dimmu Borgir",
+    "services": {
+      "qobuz": "503785",
+      "tidal": "3540667"
+    }
+  },
+  {
+    "name": "Dire Straits",
+    "services": {
+      "qobuz": "71553",
+      "tidal": "29893"
+    }
+  },
+  {
+    "name": "Disturbed",
+    "services": {
+      "qobuz": "223730",
+      "tidal": "14135"
+    }
+  },
+  {
+    "name": "Ditz",
+    "services": {
+      "qobuz": "3827257",
+      "tidal": "8931410"
+    }
+  },
+  {
+    "name": "Don Caballero",
+    "services": {
+      "qobuz": "2052295"
+    }
+  },
+  {
+    "name": "Donato Dozzy",
+    "services": {
+      "qobuz": "103571"
+    }
+  },
+  {
+    "name": "Doom:VS",
+    "services": {
+      "qobuz": "1783030"
+    }
+  },
+  {
+    "name": "Dormant Ordeal",
+    "services": {
+      "qobuz": "6527284",
+      "tidal": "5900760"
+    }
+  },
+  {
+    "name": "Downfall Of Gaia",
+    "services": {
+      "qobuz": "895550",
+      "tidal": "4665461"
+    }
+  },
+  {
+    "name": "Download",
+    "services": {
+      "qobuz": "849412",
+      "tidal": "15441"
+    }
+  },
+  {
+    "name": "Draconian",
+    "services": {
+      "qobuz": "1013053",
+      "tidal": "3604480"
+    }
+  },
+  {
+    "name": "Dream Theater",
+    "services": {
+      "qobuz": "62194",
+      "tidal": "14670"
+    }
+  },
+  {
+    "name": "Dua Lipa",
+    "services": {
+      "qobuz": "2367140",
+      "tidal": "7162333"
+    }
+  },
+  {
+    "name": "Dumbhead",
+    "services": {
+      "qobuz": "18691497"
+    }
+  },
+  {
+    "name": "Duran Duran",
+    "services": {
+      "qobuz": "43822",
+      "tidal": "461"
+    }
+  },
+  {
+    "name": "Dvne",
+    "services": {
+      "qobuz": "2814073",
+      "tidal": "7077015"
+    }
+  },
+  {
+    "name": "Dying Fetus",
+    "services": {
+      "qobuz": "799777",
+      "tidal": "3638393"
+    }
+  },
+  {
+    "name": "Earthside",
+    "services": {
+      "qobuz": "10361205",
+      "tidal": "7262659"
+    }
+  },
+  {
+    "name": "Edge Of Sanity",
+    "services": {
+      "qobuz": "2295340",
+      "tidal": "3616074"
+    }
+  },
+  {
+    "name": "Editors",
+    "services": {
+      "qobuz": "260587",
+      "tidal": "3178"
+    }
+  },
+  {
+    "name": "Einar Solberg",
+    "services": {
+      "qobuz": "610404",
+      "tidal": "12101624"
+    }
+  },
+  {
+    "name": "Einst\u00fcrzende Neubauten",
+    "services": {
+      "qobuz": "239966",
+      "tidal": "3545413"
+    }
+  },
+  {
+    "name": "El Grupo Nuevo De Omar Rodr\u00edguez-L\u00f3pez",
+    "services": {
+      "qobuz": "9526779"
+    }
+  },
+  {
+    "name": "Eloy",
+    "services": {
+      "qobuz": "227002",
+      "tidal": "11338"
+    }
+  },
+  {
+    "name": "Elton John",
+    "services": {
+      "qobuz": "11434",
+      "tidal": "6890"
+    }
+  },
+  {
+    "name": "Elvis Costelleo & The Attractions",
+    "services": {
+      "qobuz": "11771458"
+    }
+  },
+  {
+    "name": "Eminem",
+    "services": {
+      "qobuz": "46971"
+    }
+  },
+  {
+    "name": "Emma Ruth Rundle",
+    "services": {
+      "qobuz": "793892",
+      "tidal": "5552323"
+    }
+  },
+  {
+    "name": "End Of Green",
+    "services": {
+      "qobuz": "551927",
+      "tidal": "3528003"
+    }
+  },
+  {
+    "name": "English Teacher",
+    "services": {
+      "qobuz": "6669479",
+      "tidal": "18121796"
+    }
+  },
+  {
+    "name": "Enrico Sangiuliano",
+    "services": {
+      "qobuz": "747246",
+      "tidal": "4546450"
+    }
+  },
+  {
+    "name": "Enslaved",
+    "services": {
+      "qobuz": "114068",
+      "tidal": "21578"
+    }
+  },
+  {
+    "name": "Enter Shikari",
+    "services": {
+      "qobuz": "345190",
+      "tidal": "3581716"
+    }
+  },
+  {
+    "name": "Epica",
+    "services": {
+      "tidal": "3554837"
+    }
+  },
+  {
+    "name": "Europe",
+    "services": {
+      "qobuz": "23471"
+    }
+  },
+  {
+    "name": "Evergrey",
+    "services": {
+      "qobuz": "1563363",
+      "tidal": "3659754"
+    }
+  },
+  {
+    "name": "Everything Everything",
+    "services": {
+      "qobuz": "551597"
+    }
+  },
+  {
+    "name": "Exodus",
+    "services": {
+      "qobuz": "290773",
+      "tidal": "9386"
+    }
+  },
+  {
+    "name": "Explosions In The Sky",
+    "services": {
+      "qobuz": "189261",
+      "tidal": "3519306"
+    }
+  },
+  {
+    "name": "Exxasens",
+    "services": {
+      "qobuz": "3342433"
+    }
+  },
+  {
+    "name": "Fabio Camero & Agatha Christie",
+    "services": {
+      "tidal": "5827594"
+    }
+  },
+  {
+    "name": "Faith No More",
+    "services": {
+      "qobuz": "160035",
+      "tidal": "11945"
+    }
+  },
+  {
+    "name": "Fall Out Boy",
+    "services": {
+      "qobuz": "62235",
+      "tidal": "17231"
+    }
+  },
+  {
+    "name": "Falling In Reverse",
+    "services": {
+      "qobuz": "592092",
+      "tidal": "3988097"
+    }
+  },
+  {
+    "name": "Fallujah",
+    "services": {
+      "qobuz": "2575499",
+      "tidal": "4331489"
+    }
+  },
+  {
+    "name": "Fatboy Slim",
+    "services": {
+      "tidal": "782"
+    }
+  },
+  {
+    "name": "Fates Warning",
+    "services": {
+      "qobuz": "783223",
+      "tidal": "3784202"
+    }
+  },
+  {
+    "name": "Fear Factory",
+    "services": {
+      "qobuz": "410390",
+      "tidal": "37293"
+    }
+  },
+  {
+    "name": "Federico Albanese",
+    "services": {
+      "qobuz": "1662502",
+      "tidal": "5317652"
+    }
+  },
+  {
+    "name": "Fish",
+    "services": {
+      "tidal": "12265"
+    }
+  },
+  {
+    "name": "Fit For An Autopsy",
+    "services": {
+      "tidal": "3985809"
+    }
+  },
+  {
+    "name": "Fj\u00f8rt",
+    "services": {
+      "qobuz": "1200870"
+    }
+  },
+  {
+    "name": "FKA twigs",
+    "services": {
+      "qobuz": "1277858",
+      "tidal": "5037977"
+    }
+  },
+  {
+    "name": "Fleshgod Apocalypse",
+    "services": {
+      "qobuz": "609068",
+      "tidal": "3610003"
+    }
+  },
+  {
+    "name": "Floating Points",
+    "services": {
+      "qobuz": "574593",
+      "tidal": "3714298"
+    }
+  },
+  {
+    "name": "Florence + the Machine",
+    "services": {
+      "qobuz": "112890",
+      "tidal": "3628370"
+    }
+  },
+  {
+    "name": "Flying Colors",
+    "services": {
+      "qobuz": "753429",
+      "tidal": "4164457"
+    }
+  },
+  {
+    "name": "Flying Lotus",
+    "services": {
+      "qobuz": "291266",
+      "tidal": "3531724"
+    }
+  },
+  {
+    "name": "Foals",
+    "services": {
+      "qobuz": "48128",
+      "tidal": "37322"
+    }
+  },
+  {
+    "name": "Fontaines D.C.",
+    "services": {
+      "qobuz": "3534225",
+      "tidal": "9484963"
+    }
+  },
+  {
+    "name": "Foo Fighters",
+    "services": {
+      "qobuz": "148676",
+      "tidal": "2753"
+    }
+  },
+  {
+    "name": "Frail Body",
+    "services": {
+      "qobuz": "5555988",
+      "tidal": "8747619"
+    }
+  },
+  {
+    "name": "Franz Ferdinand",
+    "services": {
+      "qobuz": "53199",
+      "tidal": "27439"
+    }
+  },
+  {
+    "name": "Friko",
+    "services": {
+      "qobuz": "10220374",
+      "tidal": "22145"
+    }
+  },
+  {
+    "name": "Front 242",
+    "services": {
+      "qobuz": "552413",
+      "tidal": "3575291"
+    }
+  },
+  {
+    "name": "Front Line Assembly",
+    "services": {
+      "qobuz": "478756",
+      "tidal": "16609"
+    }
+  },
+  {
+    "name": "Frozen Plasma",
+    "services": {
+      "tidal": "3528012"
+    }
+  },
+  {
+    "name": "Fugazi",
+    "services": {
+      "qobuz": "826072",
+      "tidal": "3868884"
+    }
+  },
+  {
+    "name": "Gaerea",
+    "services": {
+      "qobuz": "4795842"
+    }
+  },
+  {
+    "name": "galahad",
+    "services": {
+      "qobuz": "755673",
+      "tidal": "4595660"
+    }
+  },
+  {
+    "name": "Gamma Ray",
+    "services": {
+      "qobuz": "290622"
+    }
+  },
+  {
+    "name": "Gang Of Four",
+    "services": {
+      "qobuz": "53263"
+    }
+  },
+  {
+    "name": "Garbage",
+    "services": {
+      "qobuz": "53677",
+      "tidal": "15542"
+    }
+  },
+  {
+    "name": "GAS",
+    "services": {
+      "qobuz": "109921"
+    }
+  },
+  {
+    "name": "Gazpacho",
+    "services": {
+      "qobuz": "296791",
+      "tidal": "10551"
+    }
+  },
+  {
+    "name": "Geese",
+    "services": {
+      "tidal": "3578350"
+    }
+  },
+  {
+    "name": "Genesis",
+    "services": {
+      "qobuz": "4438885",
+      "tidal": "9163"
+    }
+  },
+  {
+    "name": "Ghost",
+    "services": {
+      "qobuz": "25274827",
+      "tidal": "3913625"
+    }
+  },
+  {
+    "name": "Gianni Celeste",
+    "services": {
+      "tidal": "3602811"
+    }
+  },
+  {
+    "name": "Gilla Band",
+    "services": {
+      "qobuz": "12062317",
+      "tidal": "29462237"
+    }
+  },
+  {
+    "name": "Glass Beach",
+    "services": {
+      "qobuz": "5669580",
+      "tidal": "5532014"
+    }
+  },
+  {
+    "name": "Global Communication",
+    "services": {
+      "qobuz": "202599",
+      "tidal": "36339"
+    }
+  },
+  {
+    "name": "God is an Astronaut",
+    "services": {
+      "qobuz": "1571984",
+      "tidal": "3931868"
+    }
+  },
+  {
+    "name": "God's Mob Peezy",
+    "services": {
+      "tidal": "30576454"
+    }
+  },
+  {
+    "name": "God's Pet",
+    "services": {
+      "qobuz": "25838493"
+    }
+  },
+  {
+    "name": "Godspeed You! Black Emperor",
+    "services": {
+      "qobuz": "2058535"
+    }
+  },
+  {
+    "name": "GoGo Penguin",
+    "services": {
+      "tidal": "4764457"
+    }
+  },
+  {
+    "name": "Gogol Bordello",
+    "services": {
+      "qobuz": "299899",
+      "tidal": "3518355"
+    }
+  },
+  {
+    "name": "Gojira",
+    "services": {
+      "qobuz": "82320",
+      "tidal": "3883303"
+    }
+  },
+  {
+    "name": "Good Charlotte",
+    "services": {
+      "qobuz": "153968"
+    }
+  },
+  {
+    "name": "Gorillaz",
+    "services": {
+      "tidal": "8853"
+    }
+  },
+  {
+    "name": "Gorrch",
+    "services": {
+      "tidal": "7662996"
+    }
+  },
+  {
+    "name": "Greta Van Fleet",
+    "services": {
+      "qobuz": "3042607",
+      "tidal": "7899267"
+    }
+  },
+  {
+    "name": "Grian Chatten",
+    "services": {
+      "qobuz": "3893275",
+      "tidal": "12485416"
+    }
+  },
+  {
+    "name": "Grieving The Days To Come",
+    "services": {
+      "tidal": "3558862"
+    }
+  },
+  {
+    "name": "GRIMA",
+    "services": {
+      "qobuz": "1520982"
+    }
+  },
+  {
+    "name": "Grimes",
+    "services": {
+      "tidal": "3819688"
+    }
+  },
+  {
+    "name": "Guano Apes",
+    "services": {
+      "qobuz": "201806",
+      "tidal": "1492"
+    }
+  },
+  {
+    "name": "Guided By Voices",
+    "services": {
+      "qobuz": "808231"
+    }
+  },
+  {
+    "name": "Guns N' Roses",
+    "services": {
+      "qobuz": "54838",
+      "tidal": "32944"
+    }
+  },
+  {
+    "name": "Guy Manning",
+    "services": {
+      "qobuz": "324757"
+    }
+  },
+  {
+    "name": "Guy Manning / Manning",
+    "services": {
+      "tidal": "46485544"
+    }
+  },
+  {
+    "name": "H\u00e6resis",
+    "services": {
+      "qobuz": "12221584",
+      "tidal": "19207935"
+    }
+  },
+  {
+    "name": "Haken",
+    "services": {
+      "qobuz": "310938"
+    }
+  },
+  {
+    "name": "Halsey",
+    "services": {
+      "qobuz": "530757"
+    }
+  },
+  {
+    "name": "Hanging Garden",
+    "services": {
+      "qobuz": "397979"
+    }
+  },
+  {
+    "name": "Hania Rani",
+    "services": {
+      "qobuz": "3448850",
+      "tidal": "8821161"
+    }
+  },
+  {
+    "name": "Harakiri for the Sky",
+    "services": {
+      "qobuz": "2304847",
+      "tidal": "5607378"
+    }
+  },
+  {
+    "name": "Haujobb",
+    "services": {
+      "qobuz": "784803"
+    }
+  },
+  {
+    "name": "Hawkwind",
+    "services": {
+      "qobuz": "39246",
+      "tidal": "9363"
+    }
+  },
+  {
+    "name": "Hayley Williams",
+    "services": {
+      "qobuz": "145559",
+      "tidal": "3653311"
+    }
+  },
+  {
+    "name": "HEALTH",
+    "services": {
+      "qobuz": "133303",
+      "tidal": "3571162"
+    }
+  },
+  {
+    "name": "Heartworms",
+    "services": {
+      "qobuz": "4376958",
+      "tidal": "3887727"
+    }
+  },
+  {
+    "name": "Heaven Shall Burn",
+    "services": {
+      "qobuz": "320536",
+      "tidal": "3569638"
+    }
+  },
+  {
+    "name": "hehehe",
+    "services": {
+      "qobuz": "13283737"
+    }
+  },
+  {
+    "name": "Helloween",
+    "services": {
+      "qobuz": "256347",
+      "tidal": "3554812"
+    }
+  },
+  {
+    "name": "Hellripper",
+    "services": {
+      "qobuz": "4815732"
+    }
+  },
+  {
+    "name": "HELLYEAH",
+    "services": {
+      "qobuz": "251480"
+    }
+  },
+  {
+    "name": "High Vis",
+    "services": {
+      "qobuz": "5265989",
+      "tidal": "9470083"
+    }
+  },
+  {
+    "name": "Hildur Gu\u00f0nad\u00f3ttir",
+    "services": {
+      "qobuz": "556142",
+      "tidal": "7409911"
+    }
+  },
+  {
+    "name": "HIM",
+    "services": {
+      "qobuz": "201185",
+      "tidal": "3051"
+    }
+  },
+  {
+    "name": "HMLTD",
+    "services": {
+      "qobuz": "3267037",
+      "tidal": "8160974"
+    }
+  },
+  {
+    "name": "Hollywood Undead",
+    "services": {
+      "qobuz": "86191",
+      "tidal": "3564132"
+    }
+  },
+  {
+    "name": "Horse Lords",
+    "services": {
+      "qobuz": "2035394",
+      "tidal": "6255790"
+    }
+  },
+  {
+    "name": "House Of Pain",
+    "services": {
+      "qobuz": "111932"
+    }
+  },
+  {
+    "name": "House of Protection",
+    "services": {
+      "qobuz": "21754617",
+      "tidal": "46353206"
+    }
+  },
+  {
+    "name": "Hypocrisy",
+    "services": {
+      "qobuz": "551925"
+    }
+  },
+  {
+    "name": "IAMX",
+    "services": {
+      "qobuz": "107971",
+      "tidal": "3663920"
+    }
+  },
+  {
+    "name": "Ibaraki",
+    "services": {
+      "qobuz": "12309326",
+      "tidal": "29787905"
+    }
+  },
+  {
+    "name": "IDLES",
+    "services": {
+      "qobuz": "2587652",
+      "tidal": "4653420"
+    }
+  },
+  {
+    "name": "If These Trees Could Talk",
+    "services": {
+      "qobuz": "4434837",
+      "tidal": "7764199"
+    }
+  },
+  {
+    "name": "Iggy Pop",
+    "services": {
+      "qobuz": "40219",
+      "tidal": "2449"
+    }
+  },
+  {
+    "name": "Igorrr",
+    "services": {
+      "qobuz": "497677",
+      "tidal": "3949100"
+    }
+  },
+  {
+    "name": "Ihlo",
+    "services": {
+      "qobuz": "15229473",
+      "tidal": "10561438"
+    }
+  },
+  {
+    "name": "Ihsahn",
+    "services": {
+      "qobuz": "769261",
+      "tidal": "3610284"
+    }
+  },
+  {
+    "name": "Ill Considered",
+    "services": {
+      "qobuz": "4184897",
+      "tidal": "8969364"
+    }
+  },
+  {
+    "name": "Immortal",
+    "services": {
+      "qobuz": "146908"
+    }
+  },
+  {
+    "name": "In Flames",
+    "services": {
+      "qobuz": "551918",
+      "tidal": "24053"
+    }
+  },
+  {
+    "name": "In Mourning",
+    "services": {
+      "qobuz": "866954",
+      "tidal": "3842184"
+    }
+  },
+  {
+    "name": "In The Woods...",
+    "services": {
+      "qobuz": "2289063",
+      "tidal": "4274245"
+    }
+  },
+  {
+    "name": "In This Moment",
+    "services": {
+      "qobuz": "566925",
+      "tidal": "3569545"
+    }
+  },
+  {
+    "name": "Incubus",
+    "services": {
+      "qobuz": "159536",
+      "tidal": "1086"
+    }
+  },
+  {
+    "name": "Infected Mushroom",
+    "services": {
+      "qobuz": "794336",
+      "tidal": "3633502"
+    }
+  },
+  {
+    "name": "Injury Reserve",
+    "services": {
+      "qobuz": "3235503"
+    }
+  },
+  {
+    "name": "Interpol",
+    "services": {
+      "qobuz": "111978",
+      "tidal": "9245"
+    }
+  },
+  {
+    "name": "INXS",
+    "services": {
+      "qobuz": "62474"
+    }
+  },
+  {
+    "name": "IQ",
+    "services": {
+      "qobuz": "623121",
+      "tidal": "3519280"
+    }
+  },
+  {
+    "name": "Iron Maiden",
+    "services": {
+      "qobuz": "94751",
+      "tidal": "9196"
+    }
+  },
+  {
+    "name": "ISIS",
+    "services": {
+      "qobuz": "23958897",
+      "tidal": "7280436"
+    }
+  },
+  {
+    "name": "Jack White",
+    "services": {
+      "qobuz": "40569",
+      "tidal": "3523905"
+    }
+  },
+  {
+    "name": "James Blake",
+    "services": {
+      "qobuz": "429216"
+    }
+  },
+  {
+    "name": "Jasper Dolphin",
+    "services": {
+      "tidal": "5924946"
+    }
+  },
+  {
+    "name": "Jeff Buckley",
+    "services": {
+      "qobuz": "46866"
+    }
+  },
+  {
+    "name": "Jerry Cantrell",
+    "services": {
+      "qobuz": "157077",
+      "tidal": "7187"
+    }
+  },
+  {
+    "name": "Jethro Tull",
+    "services": {
+      "qobuz": "39214",
+      "tidal": "10597"
+    }
+  },
+  {
+    "name": "Jimi Hendrix",
+    "services": {
+      "qobuz": "403064"
+    }
+  },
+  {
+    "name": "Jimmy Eat World",
+    "services": {
+      "qobuz": "47669"
+    }
+  },
+  {
+    "name": "Job For A Cowboy",
+    "services": {
+      "qobuz": "877208",
+      "tidal": "3787613"
+    }
+  },
+  {
+    "name": "Joep Beving",
+    "services": {
+      "tidal": "6467445"
+    }
+  },
+  {
+    "name": "John Coltrane",
+    "services": {
+      "qobuz": "26028",
+      "tidal": "9042"
+    }
+  },
+  {
+    "name": "John Frusciante",
+    "services": {
+      "qobuz": "106327",
+      "tidal": "14178"
+    }
+  },
+  {
+    "name": "Joji",
+    "services": {
+      "tidal": "5888982"
+    }
+  },
+  {
+    "name": "Jonathan Davis",
+    "services": {
+      "qobuz": "160762",
+      "tidal": "3534832"
+    }
+  },
+  {
+    "name": "Joni Mitchell",
+    "services": {
+      "qobuz": "35384",
+      "tidal": "13572"
+    }
+  },
+  {
+    "name": "Jorn",
+    "services": {
+      "tidal": "3604403"
+    }
+  },
+  {
+    "name": "Joy Division",
+    "services": {
+      "qobuz": "310345",
+      "tidal": "11949"
+    }
+  },
+  {
+    "name": "Joyce Manor",
+    "services": {
+      "tidal": "3852332"
+    }
+  },
+  {
+    "name": "Judas Priest",
+    "services": {
+      "qobuz": "98712",
+      "tidal": "701"
+    }
+  },
+  {
+    "name": "Justin Hurwitz",
+    "services": {
+      "qobuz": "2001308",
+      "tidal": "6169372"
+    }
+  },
+  {
+    "name": "Kamelot",
+    "services": {
+      "qobuz": "296933"
+    }
+  },
+  {
+    "name": "Kanye West",
+    "services": {
+      "qobuz": "35950",
+      "tidal": "25022"
+    }
+  },
+  {
+    "name": "Kaonashi",
+    "services": {
+      "qobuz": "4035895",
+      "tidal": "7477835"
+    }
+  },
+  {
+    "name": "Karnivool",
+    "services": {
+      "qobuz": "248553"
+    }
+  },
+  {
+    "name": "Kasabian",
+    "services": {
+      "qobuz": "167598",
+      "tidal": "1556"
+    }
+  },
+  {
+    "name": "Kataklysm",
+    "services": {
+      "qobuz": "551518",
+      "tidal": "3648720"
+    }
+  },
+  {
+    "name": "Katatonia",
+    "services": {
+      "qobuz": "600666",
+      "tidal": "3603510"
+    }
+  },
+  {
+    "name": "Kate Bush",
+    "services": {
+      "qobuz": "35162",
+      "tidal": "8957"
+    }
+  },
+  {
+    "name": "Keith Jarrett",
+    "services": {
+      "qobuz": "11302",
+      "tidal": "1067"
+    }
+  },
+  {
+    "name": "Ken Ishii",
+    "services": {
+      "qobuz": "388173"
+    }
+  },
+  {
+    "name": "Kepler Ten",
+    "services": {
+      "qobuz": "5670552",
+      "tidal": "8182107"
+    }
+  },
+  {
+    "name": "Kick Chill",
+    "services": {
+      "qobuz": "3873554",
+      "tidal": "10110029"
+    }
+  },
+  {
+    "name": "Killing Joke",
+    "services": {
+      "qobuz": "38870",
+      "tidal": "6823"
+    }
+  },
+  {
+    "name": "Kim Gordon",
+    "services": {
+      "qobuz": "35029",
+      "tidal": "6939914"
+    }
+  },
+  {
+    "name": "King Crimson",
+    "services": {
+      "qobuz": "1191678",
+      "tidal": "3888180"
+    }
+  },
+  {
+    "name": "King Diamond",
+    "services": {
+      "tidal": "37220"
+    }
+  },
+  {
+    "name": "King Hannah",
+    "services": {
+      "qobuz": "2562694",
+      "tidal": "15589894"
+    }
+  },
+  {
+    "name": "King's X",
+    "services": {
+      "qobuz": "305217"
+    }
+  },
+  {
+    "name": "Kiss",
+    "services": {
+      "qobuz": "47440",
+      "tidal": "27478"
+    }
+  },
+  {
+    "name": "Kittie",
+    "services": {
+      "qobuz": "622937"
+    }
+  },
+  {
+    "name": "Klone",
+    "services": {
+      "qobuz": "540230"
+    }
+  },
+  {
+    "name": "KMFDM",
+    "services": {
+      "qobuz": "736739",
+      "tidal": "15431"
+    }
+  },
+  {
+    "name": "Knocked Loose",
+    "services": {
+      "qobuz": "2732471",
+      "tidal": "6928332"
+    }
+  },
+  {
+    "name": "kollapse",
+    "services": {
+      "tidal": "8588665"
+    }
+  },
+  {
+    "name": "Korn",
+    "services": {
+      "qobuz": "47618",
+      "tidal": "780"
+    }
+  },
+  {
+    "name": "Kreator",
+    "services": {
+      "qobuz": "219884",
+      "tidal": "2568"
+    }
+  },
+  {
+    "name": "Krematoriy",
+    "services": {
+      "qobuz": "2354993"
+    }
+  },
+  {
+    "name": "Kronos Quartet",
+    "services": {
+      "qobuz": "163624",
+      "tidal": "5907"
+    }
+  },
+  {
+    "name": "L.S. Dunes",
+    "services": {
+      "qobuz": "15176717",
+      "tidal": "33935300"
+    }
+  },
+  {
+    "name": "La Dispute",
+    "services": {
+      "qobuz": "1046348",
+      "tidal": "3846590"
+    }
+  },
+  {
+    "name": "La Grima",
+    "services": {
+      "tidal": "7092153"
+    }
+  },
+  {
+    "name": "Lacrimas Profundere",
+    "services": {
+      "qobuz": "1062820",
+      "tidal": "3604442"
+    }
+  },
+  {
+    "name": "Lacuna Coil",
+    "services": {
+      "tidal": "3559347"
+    }
+  },
+  {
+    "name": "Lady Gaga",
+    "services": {
+      "qobuz": "61585"
+    }
+  },
+  {
+    "name": "Ladytron",
+    "services": {
+      "qobuz": "396599"
+    }
+  },
+  {
+    "name": "Lake Of Tears",
+    "services": {
+      "qobuz": "912445",
+      "tidal": "3616097"
+    }
+  },
+  {
+    "name": "Lamb of God",
+    "services": {
+      "qobuz": "239358",
+      "tidal": "3139"
+    }
+  },
+  {
+    "name": "Lana Del Rey",
+    "services": {
+      "qobuz": "653694",
+      "tidal": "4099308"
+    }
+  },
+  {
+    "name": "Lantl\u00f4s",
+    "services": {
+      "qobuz": "1666993"
+    }
+  },
+  {
+    "name": "Laurie Anderson",
+    "services": {
+      "qobuz": "2346584"
+    }
+  },
+  {
+    "name": "Led Zeppelin",
+    "services": {
+      "qobuz": "350774",
+      "tidal": "67522"
+    }
+  },
+  {
+    "name": "Leftfield",
+    "services": {
+      "tidal": "653"
+    }
+  },
+  {
+    "name": "Legowelt",
+    "services": {
+      "qobuz": "24190"
+    }
+  },
+  {
+    "name": "Lenny Kravitz",
+    "services": {
+      "qobuz": "38318"
+    }
+  },
+  {
+    "name": "Leprous",
+    "services": {
+      "qobuz": "610403",
+      "tidal": "3631982"
+    }
+  },
+  {
+    "name": "LIGHTNING BOLT",
+    "services": {
+      "tidal": "3868843"
+    }
+  },
+  {
+    "name": "Limp Bizkit",
+    "services": {
+      "qobuz": "72882"
+    }
+  },
+  {
+    "name": "Linkin Park",
+    "services": {
+      "qobuz": "308709",
+      "tidal": "14123"
+    }
+  },
+  {
+    "name": "London Brew",
+    "services": {
+      "qobuz": "17128100",
+      "tidal": "36676401"
+    }
+  },
+  {
+    "name": "London Grammar",
+    "services": {
+      "qobuz": "1148882",
+      "tidal": "5135134"
+    }
+  },
+  {
+    "name": "Lonely Guest, Joe Talbot, Tricky",
+    "services": {
+      "tidal": "26866401"
+    }
+  },
+  {
+    "name": "Long Distance Calling",
+    "services": {
+      "qobuz": "315268",
+      "tidal": "3658977"
+    }
+  },
+  {
+    "name": "Lorde",
+    "services": {
+      "qobuz": "1195379",
+      "tidal": "4931831"
+    }
+  },
+  {
+    "name": "Lords of Black",
+    "services": {
+      "qobuz": "2539861",
+      "tidal": "5585321"
+    }
+  },
+  {
+    "name": "Lorna Shore",
+    "services": {
+      "qobuz": "1640917",
+      "tidal": "5269283"
+    }
+  },
+  {
+    "name": "Lost Society",
+    "services": {
+      "qobuz": "1018838",
+      "tidal": "4830879"
+    }
+  },
+  {
+    "name": "Low",
+    "services": {
+      "qobuz": "45982"
+    }
+  },
+  {
+    "name": "Luigi Tozzi",
+    "services": {
+      "qobuz": "2299199"
+    }
+  },
+  {
+    "name": "Lunatic Soul",
+    "services": {
+      "qobuz": "1641364",
+      "tidal": "3604620"
+    }
+  },
+  {
+    "name": "Lush",
+    "services": {
+      "qobuz": "384646",
+      "tidal": "3565988"
+    }
+  },
+  {
+    "name": "Machine Head",
+    "services": {
+      "qobuz": "223914",
+      "tidal": "37263"
+    }
+  },
+  {
+    "name": "Mad Season",
+    "services": {
+      "qobuz": "170298",
+      "tidal": "3503745"
+    }
+  },
+  {
+    "name": "Madonna",
+    "services": {
+      "qobuz": "38897",
+      "tidal": "15545"
+    }
+  },
+  {
+    "name": "Madrugada",
+    "services": {
+      "qobuz": "227079",
+      "tidal": "9000"
+    }
+  },
+  {
+    "name": "Mahavishnu Orchestra",
+    "services": {
+      "qobuz": "160833"
+    }
+  },
+  {
+    "name": "Manchester Orchestra",
+    "services": {
+      "qobuz": "264286",
+      "tidal": "55839"
+    }
+  },
+  {
+    "name": "Mandy, Indiana",
+    "services": {
+      "qobuz": "9796014",
+      "tidal": "26395083"
+    }
+  },
+  {
+    "name": "Manic Street Preachers",
+    "services": {
+      "qobuz": "148502",
+      "tidal": "1294"
+    }
+  },
+  {
+    "name": "Mantar",
+    "services": {
+      "qobuz": "1604171",
+      "tidal": "4165250"
+    }
+  },
+  {
+    "name": "Marduk",
+    "services": {
+      "tidal": "24059"
+    }
+  },
+  {
+    "name": "Marillion",
+    "services": {
+      "qobuz": "26730",
+      "tidal": "10963"
+    }
+  },
+  {
+    "name": "Marilyn Manson",
+    "services": {
+      "qobuz": "46384",
+      "tidal": "27472"
+    }
+  },
+  {
+    "name": "Maruja",
+    "services": {
+      "qobuz": "705134",
+      "tidal": "4828104"
+    }
+  },
+  {
+    "name": "Massive Attack",
+    "services": {
+      "qobuz": "53293",
+      "tidal": "9056"
+    }
+  },
+  {
+    "name": "Mastodon",
+    "services": {
+      "qobuz": "363726",
+      "tidal": "15346"
+    }
+  },
+  {
+    "name": "Max Richter",
+    "services": {
+      "qobuz": "51276",
+      "tidal": "3566483"
+    }
+  },
+  {
+    "name": "Maybeshewill",
+    "services": {
+      "qobuz": "1129683",
+      "tidal": "3606828"
+    }
+  },
+  {
+    "name": "Mayhem",
+    "services": {
+      "qobuz": "509853",
+      "tidal": "21543"
+    }
+  },
+  {
+    "name": "Mazzy Star",
+    "services": {
+      "qobuz": "47362",
+      "tidal": "10979"
+    }
+  },
+  {
+    "name": "Mc Bola",
+    "services": {
+      "tidal": "4852708"
+    }
+  },
+  {
+    "name": "Mclusky",
+    "services": {
+      "qobuz": "384724"
+    }
+  },
+  {
+    "name": "Megadeth",
+    "services": {
+      "qobuz": "121232",
+      "tidal": "946"
+    }
+  },
+  {
+    "name": "Melotron",
+    "services": {
+      "qobuz": "1095665"
+    }
+  },
+  {
+    "name": "Melt Yourself Down",
+    "services": {
+      "qobuz": "909950",
+      "tidal": "4728798"
+    }
+  },
+  {
+    "name": "Mesh",
+    "services": {
+      "qobuz": "178363",
+      "tidal": "3554268"
+    }
+  },
+  {
+    "name": "Meshuggah",
+    "services": {
+      "qobuz": "176101"
+    }
+  },
+  {
+    "name": "Messa",
+    "services": {
+      "qobuz": "2672506",
+      "tidal": "7757843"
+    }
+  },
+  {
+    "name": "Metal Church",
+    "services": {
+      "qobuz": "359992",
+      "tidal": "14632"
+    }
+  },
+  {
+    "name": "Metallica",
+    "services": {
+      "qobuz": "62542",
+      "tidal": "8405"
+    }
+  },
+  {
+    "name": "Metric",
+    "services": {
+      "qobuz": "51582",
+      "tidal": "65040"
+    }
+  },
+  {
+    "name": "Miles Davis",
+    "services": {
+      "qobuz": "6760",
+      "tidal": "55"
+    }
+  },
+  {
+    "name": "Mind.In.A.Box",
+    "services": {
+      "qobuz": "725147",
+      "tidal": "3882255"
+    }
+  },
+  {
+    "name": "Ministry",
+    "services": {
+      "qobuz": "238150",
+      "tidal": "13630"
+    }
+  },
+  {
+    "name": "Mitski",
+    "services": {
+      "qobuz": "2380061",
+      "tidal": "6007100"
+    }
+  },
+  {
+    "name": "Moderat",
+    "services": {
+      "qobuz": "370894",
+      "tidal": "3717340"
+    }
+  },
+  {
+    "name": "Modeselektor",
+    "services": {
+      "qobuz": "370895",
+      "tidal": "3642808"
+    }
+  },
+  {
+    "name": "Modest Mouse",
+    "services": {
+      "qobuz": "154454",
+      "tidal": "4899"
+    }
+  },
+  {
+    "name": "Mogwai",
+    "services": {
+      "qobuz": "189401",
+      "tidal": "3568709"
+    }
+  },
+  {
+    "name": "M\u00d8L",
+    "services": {
+      "tidal": "9777900"
+    }
+  },
+  {
+    "name": "Molchat Doma",
+    "services": {
+      "qobuz": "6398023",
+      "tidal": "16737673"
+    }
+  },
+  {
+    "name": "Moloko",
+    "services": {
+      "tidal": "3566297"
+    }
+  },
+  {
+    "name": "monetochka",
+    "services": {
+      "tidal": "8350614"
+    }
+  },
+  {
+    "name": "Monika Roscher Bigband",
+    "services": {
+      "qobuz": "944737",
+      "tidal": "4778189"
+    }
+  },
+  {
+    "name": "MONO",
+    "services": {
+      "qobuz": "341035",
+      "tidal": "3518859"
+    }
+  },
+  {
+    "name": "Monolake",
+    "services": {
+      "qobuz": "591172"
+    }
+  },
+  {
+    "name": "Monte Booker",
+    "services": {
+      "tidal": "8361308"
+    }
+  },
+  {
+    "name": "Moonspell",
+    "services": {
+      "qobuz": "1069769",
+      "tidal": "3564223"
+    }
+  },
+  {
+    "name": "Morrissey",
+    "services": {
+      "qobuz": "42621"
+    }
+  },
+  {
+    "name": "Mother of Millions",
+    "services": {
+      "qobuz": "4270910",
+      "tidal": "5436162"
+    }
+  },
+  {
+    "name": "Motionless In White",
+    "services": {
+      "tidal": "3542740"
+    }
+  },
+  {
+    "name": "Mot\u00f6rhead",
+    "services": {
+      "qobuz": "54389"
+    }
+  },
+  {
+    "name": "Mount Eerie",
+    "services": {
+      "qobuz": "520901",
+      "tidal": "3526576"
+    }
+  },
+  {
+    "name": "Mumiy Troll",
+    "services": {
+      "qobuz": "928463",
+      "tidal": "4166553"
+    }
+  },
+  {
+    "name": "Muse",
+    "services": {
+      "qobuz": "75739"
+    }
+  },
+  {
+    "name": "my bloody valentine",
+    "services": {
+      "qobuz": "161115",
+      "tidal": "15122"
+    }
+  },
+  {
+    "name": "My Chemical Romance",
+    "services": {
+      "qobuz": "344230",
+      "tidal": "15574"
+    }
+  },
+  {
+    "name": "My Dying Bride",
+    "services": {
+      "qobuz": "605995",
+      "tidal": "22182"
+    }
+  },
+  {
+    "name": "My Own Private Alaska",
+    "services": {
+      "qobuz": "304747",
+      "tidal": "5252343"
+    }
+  },
+  {
+    "name": "My Sleeping Karma",
+    "services": {
+      "qobuz": "1067280",
+      "tidal": "4719607"
+    }
+  },
+  {
+    "name": "Myrkur",
+    "services": {
+      "qobuz": "1839908",
+      "tidal": "5784662"
+    }
+  },
+  {
+    "name": "Nails",
+    "services": {
+      "qobuz": "1764762"
+    }
+  },
+  {
+    "name": "Nathan Fake",
+    "services": {
+      "qobuz": "41927"
+    }
+  },
+  {
+    "name": "Nautilus Pompilius",
+    "services": {
+      "qobuz": "2280515",
+      "tidal": "4627200"
+    }
+  },
+  {
+    "name": "Ne Obliviscaris",
+    "services": {
+      "qobuz": "787058",
+      "tidal": "4611534"
+    }
+  },
+  {
+    "name": "Neal Morse",
+    "services": {
+      "qobuz": "287525",
+      "tidal": "3666410"
+    }
+  },
+  {
+    "name": "Neil Young",
+    "services": {
+      "qobuz": "35865"
+    }
+  },
+  {
+    "name": "Nervosa",
+    "services": {
+      "qobuz": "1068710"
+    }
+  },
+  {
+    "name": "Neurosis",
+    "services": {
+      "qobuz": "1801344",
+      "tidal": "3888133"
+    }
+  },
+  {
+    "name": "Neuroticfish",
+    "services": {
+      "qobuz": "961633",
+      "tidal": "3733203"
+    }
+  },
+  {
+    "name": "Nevermore",
+    "services": {
+      "qobuz": "324173",
+      "tidal": "3559354"
+    }
+  },
+  {
+    "name": "New Order",
+    "services": {
+      "qobuz": "53262",
+      "tidal": "11950"
+    }
+  },
+  {
+    "name": "Nick Cave",
+    "services": {
+      "qobuz": "46524"
+    }
+  },
+  {
+    "name": "Nick Cave & The Bad Seeds",
+    "services": {
+      "qobuz": "37035",
+      "tidal": "9003"
+    }
+  },
+  {
+    "name": "Nick Drake",
+    "services": {
+      "qobuz": "43247",
+      "tidal": "32955"
+    }
+  },
+  {
+    "name": "Night Verses",
+    "services": {
+      "qobuz": "3493072",
+      "tidal": "4986210"
+    }
+  },
+  {
+    "name": "Nightwish",
+    "services": {
+      "tidal": "25027"
+    }
+  },
+  {
+    "name": "Nine Inch Nails",
+    "services": {
+      "qobuz": "61740",
+      "tidal": "15794"
+    }
+  },
+  {
+    "name": "Nirvana",
+    "services": {
+      "qobuz": "46708",
+      "tidal": "19368"
+    }
+  },
+  {
+    "name": "Nitzer Ebb",
+    "services": {
+      "qobuz": "180685",
+      "tidal": "4028853"
+    }
+  },
+  {
+    "name": "No-Man",
+    "services": {
+      "qobuz": "801157",
+      "tidal": "3604253"
+    }
+  },
+  {
+    "name": "Noize MC",
+    "services": {
+      "qobuz": "370777",
+      "tidal": "3717283"
+    }
+  },
+  {
+    "name": "Norma Jean",
+    "services": {
+      "qobuz": "69635",
+      "tidal": "9643"
+    }
+  },
+  {
+    "name": "Nosound",
+    "services": {
+      "qobuz": "1074291",
+      "tidal": "3604621"
+    }
+  },
+  {
+    "name": "Nothing",
+    "services": {
+      "qobuz": "936009"
+    }
+  },
+  {
+    "name": "Nothing But Thieves",
+    "services": {
+      "qobuz": "1841735",
+      "tidal": "5164477"
+    }
+  },
+  {
+    "name": "nothing,nowhere.",
+    "services": {
+      "qobuz": "3117107",
+      "tidal": "7719679"
+    }
+  },
+  {
+    "name": "Novembers Doom",
+    "services": {
+      "qobuz": "1526431",
+      "tidal": "3737950"
+    }
+  },
+  {
+    "name": "Numb",
+    "services": {
+      "qobuz": "483718"
+    }
+  },
+  {
+    "name": "Oasis",
+    "services": {
+      "qobuz": "118681",
+      "tidal": "109"
+    }
+  },
+  {
+    "name": "Oathbreaker",
+    "services": {
+      "qobuz": "2499387",
+      "tidal": "3961706"
+    }
+  },
+  {
+    "name": "Obscura",
+    "services": {
+      "qobuz": "465058"
+    }
+  },
+  {
+    "name": "Obscure Sphinx",
+    "services": {
+      "qobuz": "9864333",
+      "tidal": "5345500"
+    }
+  },
+  {
+    "name": "Oceans of Slumber",
+    "services": {
+      "qobuz": "2357888",
+      "tidal": "5790138"
+    }
+  },
+  {
+    "name": "Oceansize",
+    "services": {
+      "qobuz": "382332",
+      "tidal": "3566196"
+    }
+  },
+  {
+    "name": "Of Mice & Men",
+    "services": {
+      "qobuz": "864669",
+      "tidal": "3877856"
+    }
+  },
+  {
+    "name": "Olhava",
+    "services": {
+      "qobuz": "5672464",
+      "tidal": "16988094"
+    }
+  },
+  {
+    "name": "Olive Jones",
+    "services": {
+      "qobuz": "18377461"
+    }
+  },
+  {
+    "name": "Omar Rodr\u00edguez-L\u00f3pez",
+    "services": {
+      "qobuz": "469892",
+      "tidal": "16819289"
+    }
+  },
+  {
+    "name": "Omar Rodr\u00edguez-L\u00f3pez Quintet",
+    "services": {
+      "qobuz": "9526747"
+    }
+  },
+  {
+    "name": "Omnium Gatherum",
+    "services": {
+      "qobuz": "561644",
+      "tidal": "3554821"
+    }
+  },
+  {
+    "name": "On Thorns I Lay",
+    "services": {
+      "qobuz": "1355146",
+      "tidal": "4442148"
+    }
+  },
+  {
+    "name": "Oneohtrix Point Never",
+    "services": {
+      "qobuz": "582404",
+      "tidal": "3715530"
+    }
+  },
+  {
+    "name": "Opeth",
+    "services": {
+      "qobuz": "243654",
+      "tidal": "37348"
+    }
+  },
+  {
+    "name": "Orbital",
+    "services": {
+      "qobuz": "344695"
+    }
+  },
+  {
+    "name": "Orchestral Manoeuvres In The Dark (OMD)",
+    "services": {
+      "qobuz": "38352",
+      "tidal": "10923"
+    }
+  },
+  {
+    "name": "OSI",
+    "services": {
+      "tidal": "3659762"
+    }
+  },
+  {
+    "name": "Overmono",
+    "services": {
+      "qobuz": "2730692",
+      "tidal": "7984290"
+    }
+  },
+  {
+    "name": "Oxxxymiron",
+    "services": {
+      "qobuz": "265958",
+      "tidal": "3853543"
+    }
+  },
+  {
+    "name": "Ozric Tentacles",
+    "services": {
+      "qobuz": "650451"
+    }
+  },
+  {
+    "name": "Ozzy Osbourne",
+    "services": {
+      "qobuz": "148715",
+      "tidal": "615"
+    }
+  },
+  {
+    "name": "Pain Of Salvation",
+    "services": {
+      "qobuz": "320529",
+      "tidal": "3659742"
+    }
+  },
+  {
+    "name": "Palaye Royale",
+    "services": {
+      "qobuz": "1950665",
+      "tidal": "4938243"
+    }
+  },
+  {
+    "name": "Pallbearer",
+    "services": {
+      "qobuz": "1908761",
+      "tidal": "4859520"
+    }
+  },
+  {
+    "name": "Palm Reader",
+    "services": {
+      "qobuz": "1737958",
+      "tidal": "4889318"
+    }
+  },
+  {
+    "name": "Pan Pot",
+    "services": {
+      "qobuz": "124634"
+    }
+  },
+  {
+    "name": "Pan Sonic",
+    "services": {
+      "qobuz": "401745"
+    }
+  },
+  {
+    "name": "Panopticon",
+    "services": {
+      "qobuz": "891034",
+      "tidal": "4585338"
+    }
+  },
+  {
+    "name": "Pantera",
+    "services": {
+      "qobuz": "226620",
+      "tidal": "6373"
+    }
+  },
+  {
+    "name": "Papa Roach",
+    "services": {
+      "tidal": "24961"
+    }
+  },
+  {
+    "name": "Paradise Lost",
+    "services": {
+      "qobuz": "200064",
+      "tidal": "2258"
+    }
+  },
+  {
+    "name": "Paramore",
+    "services": {
+      "qobuz": "145577",
+      "tidal": "19981"
+    }
+  },
+  {
+    "name": "Parkway Drive",
+    "services": {
+      "qobuz": "352492",
+      "tidal": "17808"
+    }
+  },
+  {
+    "name": "Paul McCartney",
+    "services": {
+      "qobuz": "35554"
+    }
+  },
+  {
+    "name": "Paulo Miranda Silveira",
+    "services": {
+      "tidal": "23907635"
+    }
+  },
+  {
+    "name": "Pearl Jam",
+    "services": {
+      "qobuz": "130792",
+      "tidal": "3116"
+    }
+  },
+  {
+    "name": "Pendragon",
+    "services": {
+      "qobuz": "613677",
+      "tidal": "4061003"
+    }
+  },
+  {
+    "name": "Periphery",
+    "services": {
+      "qobuz": "342494"
+    }
+  },
+  {
+    "name": "Persefone",
+    "services": {
+      "qobuz": "2195244",
+      "tidal": "4834981"
+    }
+  },
+  {
+    "name": "Persephone",
+    "services": {
+      "tidal": "4086966"
+    }
+  },
+  {
+    "name": "Pestilence",
+    "services": {
+      "qobuz": "342548",
+      "tidal": "37439"
+    }
+  },
+  {
+    "name": "Pet Shop Boys",
+    "services": {
+      "qobuz": "40225",
+      "tidal": "8900"
+    }
+  },
+  {
+    "name": "Pete Namlook",
+    "services": {
+      "qobuz": "828911"
+    }
+  },
+  {
+    "name": "Peter Gabriel",
+    "services": {
+      "qobuz": "40340",
+      "tidal": "9606"
+    }
+  },
+  {
+    "name": "Peter Murphy",
+    "services": {
+      "tidal": "15445"
+    }
+  },
+  {
+    "name": "pg.lost",
+    "services": {
+      "qobuz": "773799",
+      "tidal": "4114224"
+    }
+  },
+  {
+    "name": "Phantogram",
+    "services": {
+      "qobuz": "763301"
+    }
+  },
+  {
+    "name": "PHD2",
+    "services": {
+      "qobuz": "1225778",
+      "tidal": "4551327"
+    }
+  },
+  {
+    "name": "Phideaux",
+    "services": {
+      "qobuz": "6438049",
+      "tidal": "4635954"
+    }
+  },
+  {
+    "name": "Philip Glass Ensemble",
+    "services": {
+      "qobuz": "160156"
+    }
+  },
+  {
+    "name": "Pianos Become The Teeth",
+    "services": {
+      "qobuz": "1929719",
+      "tidal": "4289930"
+    }
+  },
+  {
+    "name": "Pink Floyd",
+    "services": {
+      "qobuz": "38324",
+      "tidal": "9706"
+    }
+  },
+  {
+    "name": "Pixies",
+    "services": {
+      "qobuz": "384655",
+      "tidal": "3565255"
+    }
+  },
+  {
+    "name": "PJ Harvey",
+    "services": {
+      "qobuz": "35405",
+      "tidal": "24912"
+    }
+  },
+  {
+    "name": "Placebo",
+    "services": {
+      "qobuz": "43837",
+      "tidal": "9022"
+    }
+  },
+  {
+    "name": "PLAID",
+    "services": {
+      "tidal": "3563592"
+    }
+  },
+  {
+    "name": "Plantoid",
+    "services": {
+      "tidal": "9481637"
+    }
+  },
+  {
+    "name": "Plastikman",
+    "services": {
+      "qobuz": "922136"
+    }
+  },
+  {
+    "name": "Poh Hock",
+    "services": {
+      "qobuz": "9848257",
+      "tidal": "15143232"
+    }
+  },
+  {
+    "name": "Poison The Well",
+    "services": {
+      "qobuz": "333718"
+    }
+  },
+  {
+    "name": "Poppy",
+    "services": {
+      "tidal": "9158616"
+    }
+  },
+  {
+    "name": "Porcupine Tree",
+    "services": {
+      "qobuz": "68448",
+      "tidal": "14967"
+    }
+  },
+  {
+    "name": "Pornofilmy",
+    "services": {
+      "qobuz": "7925006",
+      "tidal": "21363187"
+    }
+  },
+  {
+    "name": "Porter Ricks",
+    "services": {
+      "qobuz": "394626"
+    }
+  },
+  {
+    "name": "Portico Quartet",
+    "services": {
+      "qobuz": "120604",
+      "tidal": "3900698"
+    }
+  },
+  {
+    "name": "Portishead",
+    "services": {
+      "qobuz": "41259",
+      "tidal": "27441"
+    }
+  },
+  {
+    "name": "Pretty Maids",
+    "services": {
+      "tidal": "3801"
+    }
+  },
+  {
+    "name": "Primal Scream",
+    "services": {
+      "qobuz": "148798"
+    }
+  },
+  {
+    "name": "Protomartyr",
+    "services": {
+      "qobuz": "1052276",
+      "tidal": "4895106"
+    }
+  },
+  {
+    "name": "Psychonaut",
+    "services": {
+      "qobuz": "124999"
+    }
+  },
+  {
+    "name": "Psychonaut 4",
+    "services": {
+      "tidal": "4716984"
+    }
+  },
+  {
+    "name": "Psychotic Waltz",
+    "services": {
+      "qobuz": "829840",
+      "tidal": "4630445"
+    }
+  },
+  {
+    "name": "Public Image Ltd.",
+    "services": {
+      "qobuz": "769510",
+      "tidal": "64519"
+    }
+  },
+  {
+    "name": "Pulp",
+    "services": {
+      "qobuz": "51294",
+      "tidal": "30371"
+    }
+  },
+  {
+    "name": "Pupil Slicer",
+    "services": {
+      "qobuz": "7777332",
+      "tidal": "15179382"
+    }
+  },
+  {
+    "name": "Puscifer",
+    "services": {
+      "qobuz": "2198141",
+      "tidal": "65016"
+    }
+  },
+  {
+    "name": "PVRIS",
+    "services": {
+      "qobuz": "1888511",
+      "tidal": "5754661"
+    }
+  },
+  {
+    "name": "Quade",
+    "services": {
+      "qobuz": "828519",
+      "tidal": "3668454"
+    }
+  },
+  {
+    "name": "Queen",
+    "services": {
+      "qobuz": "43821",
+      "tidal": "8992"
+    }
+  },
+  {
+    "name": "Queens Of The Stone Age",
+    "services": {
+      "qobuz": "148265",
+      "tidal": "29902"
+    }
+  },
+  {
+    "name": "Queensr\u00ffche",
+    "services": {
+      "qobuz": "69663",
+      "tidal": "64118"
+    }
+  },
+  {
+    "name": "R.E.M.",
+    "services": {
+      "qobuz": "43839",
+      "tidal": "9366"
+    }
+  },
+  {
+    "name": "Racing Mount Pleasant",
+    "services": {
+      "tidal": "53213831"
+    }
+  },
+  {
+    "name": "Radiohead",
+    "services": {
+      "qobuz": "43840",
+      "tidal": "64518"
+    }
+  },
+  {
+    "name": "Rage",
+    "services": {
+      "tidal": "18053227"
+    }
+  },
+  {
+    "name": "Rage Against The Machine",
+    "services": {
+      "qobuz": "155699",
+      "tidal": "741"
+    }
+  },
+  {
+    "name": "Rainbow",
+    "services": {
+      "qobuz": "71880",
+      "tidal": "30229"
+    }
+  },
+  {
+    "name": "Rapper DDT",
+    "services": {
+      "tidal": "9071544"
+    }
+  },
+  {
+    "name": "Ray Wilson",
+    "services": {
+      "qobuz": "331523",
+      "tidal": "3637983"
+    }
+  },
+  {
+    "name": "RAYE",
+    "services": {
+      "qobuz": "17487",
+      "tidal": "7779063"
+    }
+  },
+  {
+    "name": "Recoil",
+    "services": {
+      "qobuz": "300032",
+      "tidal": "33232"
+    }
+  },
+  {
+    "name": "Red Hot Chili Peppers",
+    "services": {
+      "qobuz": "63346",
+      "tidal": "13957"
+    }
+  },
+  {
+    "name": "Relaxing Music Therapy",
+    "services": {
+      "tidal": "6938794"
+    }
+  },
+  {
+    "name": "Rendezvous Point",
+    "services": {
+      "qobuz": "4356339",
+      "tidal": "6796471"
+    }
+  },
+  {
+    "name": "Revocation",
+    "services": {
+      "qobuz": "612981",
+      "tidal": "3638396"
+    }
+  },
+  {
+    "name": "Rhapsody",
+    "services": {
+      "qobuz": "773019"
+    }
+  },
+  {
+    "name": "Richard Ashcroft",
+    "services": {
+      "qobuz": "47366"
+    }
+  },
+  {
+    "name": "Ride",
+    "services": {
+      "qobuz": "409482",
+      "tidal": "3580102"
+    }
+  },
+  {
+    "name": "Rise Against",
+    "services": {
+      "qobuz": "63511",
+      "tidal": "25016"
+    }
+  },
+  {
+    "name": "Rites of Spring",
+    "services": {
+      "qobuz": "923738"
+    }
+  },
+  {
+    "name": "Rivers of Nihil",
+    "services": {
+      "qobuz": "1747770",
+      "tidal": "5571617"
+    }
+  },
+  {
+    "name": "Riverside",
+    "services": {
+      "qobuz": "530633",
+      "tidal": "3652225"
+    }
+  },
+  {
+    "name": "Robert Fripp",
+    "services": {
+      "qobuz": "211898"
+    }
+  },
+  {
+    "name": "Robert Plant",
+    "services": {
+      "qobuz": "35157",
+      "tidal": "18162"
+    }
+  },
+  {
+    "name": "Robyn",
+    "services": {
+      "qobuz": "189290"
+    }
+  },
+  {
+    "name": "Roger Waters",
+    "services": {
+      "qobuz": "81807",
+      "tidal": "3865"
+    }
+  },
+  {
+    "name": "Rolo Tomassi",
+    "services": {
+      "qobuz": "574941",
+      "tidal": "3581732"
+    }
+  },
+  {
+    "name": "ROME",
+    "services": {
+      "qobuz": "28787193",
+      "tidal": "25835"
+    }
+  },
+  {
+    "name": "ROSAL\u00cdA",
+    "services": {
+      "qobuz": "219860",
+      "tidal": "4748331"
+    }
+  },
+  {
+    "name": "Rosetta",
+    "services": {
+      "qobuz": "18121"
+    }
+  },
+  {
+    "name": "Rotting Christ",
+    "services": {
+      "qobuz": "937255",
+      "tidal": "3569648"
+    }
+  },
+  {
+    "name": "Roxy Music",
+    "services": {
+      "qobuz": "38330"
+    }
+  },
+  {
+    "name": "Royal Blood",
+    "services": {
+      "qobuz": "1349077",
+      "tidal": "4351582"
+    }
+  },
+  {
+    "name": "Rpwl",
+    "services": {
+      "qobuz": "777373",
+      "tidal": "4077110"
+    }
+  },
+  {
+    "name": "Rrose",
+    "services": {
+      "tidal": "4477195"
+    }
+  },
+  {
+    "name": "Rush",
+    "services": {
+      "qobuz": "71886",
+      "tidal": "19141"
+    }
+  },
+  {
+    "name": "Russian Circles",
+    "services": {
+      "qobuz": "310932",
+      "tidal": "3668549"
+    }
+  },
+  {
+    "name": "Saga",
+    "services": {
+      "qobuz": "118486"
+    }
+  },
+  {
+    "name": "Samael",
+    "services": {
+      "qobuz": "551521",
+      "tidal": "34183"
+    }
+  },
+  {
+    "name": "Sanguisugabogg",
+    "services": {
+      "qobuz": "6067161",
+      "tidal": "16284950"
+    }
+  },
+  {
+    "name": "Saor",
+    "services": {
+      "qobuz": "4720399",
+      "tidal": "5653569"
+    }
+  },
+  {
+    "name": "Satyricon",
+    "services": {
+      "qobuz": "243513",
+      "tidal": "3434"
+    }
+  },
+  {
+    "name": "Savages",
+    "services": {
+      "qobuz": "616507",
+      "tidal": "4079451"
+    }
+  },
+  {
+    "name": "Scorpions",
+    "services": {
+      "qobuz": "62488",
+      "tidal": "12832"
+    }
+  },
+  {
+    "name": "SeeYouSpaceCowboy...",
+    "services": {
+      "qobuz": "4698163",
+      "tidal": "10946493"
+    }
+  },
+  {
+    "name": "Sentenced",
+    "services": {
+      "qobuz": "551921",
+      "tidal": "3563980"
+    }
+  },
+  {
+    "name": "Septicflesh",
+    "services": {
+      "qobuz": "937358",
+      "tidal": "3604636"
+    }
+  },
+  {
+    "name": "Sepultura",
+    "services": {
+      "qobuz": "170399",
+      "tidal": "37203"
+    }
+  },
+  {
+    "name": "Serious Black",
+    "services": {
+      "qobuz": "2041165",
+      "tidal": "4150297"
+    }
+  },
+  {
+    "name": "Sevendust",
+    "services": {
+      "qobuz": "168761"
+    }
+  },
+  {
+    "name": "shame",
+    "services": {
+      "qobuz": "319584",
+      "tidal": "8554178"
+    }
+  },
+  {
+    "name": "Sharon Van Etten",
+    "services": {
+      "qobuz": "83601",
+      "tidal": "3768703"
+    }
+  },
+  {
+    "name": "She Wants Revenge",
+    "services": {
+      "qobuz": "489329",
+      "tidal": "25030"
+    }
+  },
+  {
+    "name": "Shellac",
+    "services": {
+      "qobuz": "2669023"
+    }
+  },
+  {
+    "name": "Shinedown",
+    "services": {
+      "qobuz": "277845",
+      "tidal": "14961"
+    }
+  },
+  {
+    "name": "Shining",
+    "services": {
+      "qobuz": "37613",
+      "tidal": "21446"
+    }
+  },
+  {
+    "name": "Shiva In Exile",
+    "services": {
+      "qobuz": "6787505"
+    }
+  },
+  {
+    "name": "Shortparis",
+    "services": {
+      "qobuz": "3628789",
+      "tidal": "7692371"
+    }
+  },
+  {
+    "name": "Show Me the Body",
+    "services": {
+      "qobuz": "2216865"
+    }
+  },
+  {
+    "name": "Sieges Even",
+    "services": {
+      "qobuz": "1563195",
+      "tidal": "3601997"
+    }
+  },
+  {
+    "name": "Sigur R\u00f3s",
+    "services": {
+      "qobuz": "382018",
+      "tidal": "8990"
+    }
+  },
+  {
+    "name": "Simple Minds",
+    "services": {
+      "qobuz": "38508",
+      "tidal": "9125"
+    }
+  },
+  {
+    "name": "Simply Red",
+    "services": {
+      "qobuz": "202470",
+      "tidal": "8372"
+    }
+  },
+  {
+    "name": "Siouxsie & The Banshees",
+    "services": {
+      "qobuz": "624049"
+    }
+  },
+  {
+    "name": "Sister Rosetta Tharpe",
+    "services": {
+      "tidal": "67703"
+    }
+  },
+  {
+    "name": "Skee Mask",
+    "services": {
+      "qobuz": "3315711"
+    }
+  },
+  {
+    "name": "Skinny Puppy",
+    "services": {
+      "tidal": "3527085"
+    }
+  },
+  {
+    "name": "Slash",
+    "services": {
+      "qobuz": "41605",
+      "tidal": "3502582"
+    }
+  },
+  {
+    "name": "Slayer",
+    "services": {
+      "qobuz": "124382",
+      "tidal": "16386"
+    }
+  },
+  {
+    "name": "Sleep Token",
+    "services": {
+      "qobuz": "4567769",
+      "tidal": "8118903"
+    }
+  },
+  {
+    "name": "sleepmakeswaves",
+    "services": {
+      "qobuz": "1274921",
+      "tidal": "4374117"
+    }
+  },
+  {
+    "name": "Slint",
+    "services": {
+      "qobuz": "2435607",
+      "tidal": "3833071"
+    }
+  },
+  {
+    "name": "Slipknot",
+    "services": {
+      "qobuz": "342490",
+      "tidal": "37277"
+    }
+  },
+  {
+    "name": "Slowdive",
+    "services": {
+      "qobuz": "180690",
+      "tidal": "3505228"
+    }
+  },
+  {
+    "name": "Smashing Pumpkins",
+    "services": {
+      "tidal": "27807"
+    }
+  },
+  {
+    "name": "Smerz",
+    "services": {
+      "tidal": "7576989"
+    }
+  },
+  {
+    "name": "Snarky Puppy",
+    "services": {
+      "qobuz": "2177488",
+      "tidal": "6316418"
+    }
+  },
+  {
+    "name": "Snow Patrol",
+    "services": {
+      "qobuz": "40531",
+      "tidal": "16998"
+    }
+  },
+  {
+    "name": "Soen",
+    "services": {
+      "qobuz": "722398",
+      "tidal": "4373811"
+    }
+  },
+  {
+    "name": "Soft Machine",
+    "services": {
+      "qobuz": "71492",
+      "tidal": "3683"
+    }
+  },
+  {
+    "name": "Soilwork",
+    "services": {
+      "qobuz": "119501",
+      "tidal": "3554818"
+    }
+  },
+  {
+    "name": "Sol Invictus",
+    "services": {
+      "qobuz": "1935832",
+      "tidal": "3999501"
+    }
+  },
+  {
+    "name": "Solomon Pimsleur",
+    "services": {
+      "tidal": "6372351"
+    }
+  },
+  {
+    "name": "S\u00f3lstafir",
+    "services": {
+      "qobuz": "399570",
+      "tidal": "4130411"
+    }
+  },
+  {
+    "name": "Somatic Responses",
+    "services": {
+      "tidal": "3526582"
+    }
+  },
+  {
+    "name": "Sonic Youth",
+    "services": {
+      "qobuz": "35028",
+      "tidal": "17551"
+    }
+  },
+  {
+    "name": "Sons Of Kemet",
+    "services": {
+      "qobuz": "1243335",
+      "tidal": "5011594"
+    }
+  },
+  {
+    "name": "Soul Blind",
+    "services": {
+      "tidal": "9746828"
+    }
+  },
+  {
+    "name": "Soundgarden",
+    "services": {
+      "qobuz": "73122",
+      "tidal": "34477"
+    }
+  },
+  {
+    "name": "Soup",
+    "services": {
+      "qobuz": "556628"
+    }
+  },
+  {
+    "name": "Spector",
+    "services": {
+      "qobuz": "124713"
+    }
+  },
+  {
+    "name": "Spiritbox",
+    "services": {
+      "qobuz": "6006722"
+    }
+  },
+  {
+    "name": "Spock's Beard",
+    "services": {
+      "qobuz": "383550"
+    }
+  },
+  {
+    "name": "SPRINTS",
+    "services": {
+      "qobuz": "7952232",
+      "tidal": "15344564"
+    }
+  },
+  {
+    "name": "Squarepusher",
+    "services": {
+      "qobuz": "53272",
+      "tidal": "3566512"
+    }
+  },
+  {
+    "name": "Squid",
+    "services": {
+      "qobuz": "1771038",
+      "tidal": "16752486"
+    }
+  },
+  {
+    "name": "Srub",
+    "services": {
+      "qobuz": "21624331",
+      "tidal": "7518453"
+    }
+  },
+  {
+    "name": "St. Vincent",
+    "services": {
+      "qobuz": "384538",
+      "tidal": "3565258"
+    }
+  },
+  {
+    "name": "Stars of the Lid",
+    "services": {
+      "qobuz": "2250524",
+      "tidal": "3932398"
+    }
+  },
+  {
+    "name": "Stealers Wheel",
+    "services": {
+      "tidal": "31883"
+    }
+  },
+  {
+    "name": "Stereolab",
+    "services": {
+      "qobuz": "322106"
+    }
+  },
+  {
+    "name": "Steve Roach",
+    "services": {
+      "qobuz": "210121"
+    }
+  },
+  {
+    "name": "Steven Wilson",
+    "services": {
+      "qobuz": "133149",
+      "tidal": "3604644"
+    }
+  },
+  {
+    "name": "Stillife",
+    "services": {
+      "qobuz": "1688413",
+      "tidal": "6390562"
+    }
+  },
+  {
+    "name": "Sting",
+    "services": {
+      "qobuz": "38129",
+      "tidal": "17356"
+    }
+  },
+  {
+    "name": "Stone Sour",
+    "services": {
+      "qobuz": "356561",
+      "tidal": "37275"
+    }
+  },
+  {
+    "name": "Stone Temple Pilots",
+    "services": {
+      "qobuz": "303102",
+      "tidal": "14836"
+    }
+  },
+  {
+    "name": "Stratovarius",
+    "services": {
+      "qobuz": "176628",
+      "tidal": "3539457"
+    }
+  },
+  {
+    "name": "Suede",
+    "services": {
+      "qobuz": "160773",
+      "tidal": "3780"
+    }
+  },
+  {
+    "name": "Suicide Silence",
+    "services": {
+      "tidal": "3565791"
+    }
+  },
+  {
+    "name": "Summoning",
+    "services": {
+      "qobuz": "1062186"
+    }
+  },
+  {
+    "name": "Svalbard",
+    "services": {
+      "qobuz": "1307577",
+      "tidal": "5085418"
+    }
+  },
+  {
+    "name": "Swallow The Sun",
+    "services": {
+      "qobuz": "151122",
+      "tidal": "3637690"
+    }
+  },
+  {
+    "name": "Swans",
+    "services": {
+      "qobuz": "391363",
+      "tidal": "3546966"
+    }
+  },
+  {
+    "name": "Sybreed",
+    "services": {
+      "qobuz": "135939",
+      "tidal": "3951855"
+    }
+  },
+  {
+    "name": "Sylvan",
+    "services": {
+      "qobuz": "123389"
+    }
+  },
+  {
+    "name": "Sylvan Esso",
+    "services": {
+      "tidal": "4972344"
+    }
+  },
+  {
+    "name": "Symphony X",
+    "services": {
+      "qobuz": "584421",
+      "tidal": "3659737"
+    }
+  },
+  {
+    "name": "System Of A Down",
+    "services": {
+      "qobuz": "121231",
+      "tidal": "721"
+    }
+  },
+  {
+    "name": "Tale Of Us",
+    "services": {
+      "qobuz": "723013"
+    }
+  },
+  {
+    "name": "Talk Talk",
+    "services": {
+      "qobuz": "38895",
+      "tidal": "10593"
+    }
+  },
+  {
+    "name": "Talking Heads",
+    "services": {
+      "qobuz": "135918",
+      "tidal": "9367"
+    }
+  },
+  {
+    "name": "Tangerine Dream",
+    "services": {
+      "qobuz": "50891"
+    }
+  },
+  {
+    "name": "Tears For Fears",
+    "services": {
+      "qobuz": "53545",
+      "tidal": "3824"
+    }
+  },
+  {
+    "name": "Teitanblood",
+    "services": {
+      "tidal": "5991734"
+    }
+  },
+  {
+    "name": "TEMIC",
+    "services": {
+      "qobuz": "18909459",
+      "tidal": "40344161"
+    }
+  },
+  {
+    "name": "Temple Of The Dog",
+    "services": {
+      "qobuz": "623529",
+      "tidal": "3502854"
+    }
+  },
+  {
+    "name": "Tenhi",
+    "services": {
+      "tidal": "3545889"
+    }
+  },
+  {
+    "name": "Tequilajazzz",
+    "services": {
+      "qobuz": "3358356",
+      "tidal": "5954854"
+    }
+  },
+  {
+    "name": "Terry Riley",
+    "services": {
+      "qobuz": "17827"
+    }
+  },
+  {
+    "name": "TesseracT",
+    "services": {
+      "qobuz": "567071",
+      "tidal": "3766766"
+    }
+  },
+  {
+    "name": "Testament",
+    "services": {
+      "tidal": "14813"
+    }
+  },
+  {
+    "name": "Thank You Scientist",
+    "services": {
+      "qobuz": "1961470"
+    }
+  },
+  {
+    "name": "The Air I Breathe",
+    "services": {
+      "qobuz": "593952",
+      "tidal": "3988147"
+    }
+  },
+  {
+    "name": "The Algorithm",
+    "services": {
+      "tidal": "4373788"
+    }
+  },
+  {
+    "name": "The American Dollar",
+    "services": {
+      "qobuz": "1241844",
+      "tidal": "4117439"
+    }
+  },
+  {
+    "name": "The Amity Affliction",
+    "services": {
+      "qobuz": "668955",
+      "tidal": "3615447"
+    }
+  },
+  {
+    "name": "The Beatles",
+    "services": {
+      "qobuz": "26390",
+      "tidal": "3634161"
+    }
+  },
+  {
+    "name": "The Black Crowes",
+    "services": {
+      "qobuz": "175049"
+    }
+  },
+  {
+    "name": "The Black Dog",
+    "services": {
+      "qobuz": "551622"
+    }
+  },
+  {
+    "name": "The Black Keys",
+    "services": {
+      "tidal": "64643"
+    }
+  },
+  {
+    "name": "The Chariot",
+    "services": {
+      "tidal": "10724"
+    }
+  },
+  {
+    "name": "The Chemical Brothers",
+    "services": {
+      "qobuz": "38332",
+      "tidal": "9124"
+    }
+  },
+  {
+    "name": "The Clash",
+    "services": {
+      "qobuz": "148999",
+      "tidal": "65"
+    }
+  },
+  {
+    "name": "The Comet Is Coming",
+    "services": {
+      "qobuz": "2424602",
+      "tidal": "7277941"
+    }
+  },
+  {
+    "name": "The Contortionist",
+    "services": {
+      "qobuz": "937322",
+      "tidal": "3714678"
+    }
+  },
+  {
+    "name": "The Cranberries",
+    "services": {
+      "qobuz": "40588",
+      "tidal": "27538"
+    }
+  },
+  {
+    "name": "The Crystal Method",
+    "services": {
+      "qobuz": "191069"
+    }
+  },
+  {
+    "name": "The Cure",
+    "services": {
+      "qobuz": "40524",
+      "tidal": "18695"
+    }
+  },
+  {
+    "name": "The Dear Hunter",
+    "services": {
+      "qobuz": "520700",
+      "tidal": "25269"
+    }
+  },
+  {
+    "name": "The Devil Wears Prada",
+    "services": {
+      "qobuz": "304996",
+      "tidal": "36979"
+    }
+  },
+  {
+    "name": "The Devin Townsend Band",
+    "services": {
+      "tidal": "3659759"
+    }
+  },
+  {
+    "name": "The Devin Townsend Project",
+    "services": {
+      "qobuz": "3016051"
+    }
+  },
+  {
+    "name": "The Dillinger Escape Plan",
+    "services": {
+      "qobuz": "333657",
+      "tidal": "3619519"
+    }
+  },
+  {
+    "name": "The Fall of Troy",
+    "services": {
+      "qobuz": "2610830",
+      "tidal": "4461567"
+    }
+  },
+  {
+    "name": "The Field",
+    "services": {
+      "qobuz": "138989"
+    }
+  },
+  {
+    "name": "The Flaming Lips",
+    "services": {
+      "qobuz": "68456"
+    }
+  },
+  {
+    "name": "The Flower Kings",
+    "services": {
+      "qobuz": "623119"
+    }
+  },
+  {
+    "name": "The Future Sound Of London",
+    "services": {
+      "qobuz": "428739",
+      "tidal": "3518818"
+    }
+  },
+  {
+    "name": "The Gathering",
+    "services": {
+      "qobuz": "296507",
+      "tidal": "3563878"
+    }
+  },
+  {
+    "name": "The Halo Effect",
+    "services": {
+      "qobuz": "11636503",
+      "tidal": "29071140"
+    }
+  },
+  {
+    "name": "The Hirsch Effekt",
+    "services": {
+      "qobuz": "1197843",
+      "tidal": "4472583"
+    }
+  },
+  {
+    "name": "The Horrors",
+    "services": {
+      "qobuz": "271132",
+      "tidal": "27462"
+    }
+  },
+  {
+    "name": "The Infinity Ring",
+    "services": {
+      "qobuz": "10058516",
+      "tidal": "22339896"
+    }
+  },
+  {
+    "name": "The Jesus and Mary Chain",
+    "services": {
+      "qobuz": "458148",
+      "tidal": "3553421"
+    }
+  },
+  {
+    "name": "The Jesus Lizard",
+    "services": {
+      "qobuz": "161248"
+    }
+  },
+  {
+    "name": "The Kilimanjaro Darkjazz Ensemble",
+    "services": {
+      "qobuz": "66370",
+      "tidal": "3953862"
+    }
+  },
+  {
+    "name": "The Killers",
+    "services": {
+      "qobuz": "46042",
+      "tidal": "15686"
+    }
+  },
+  {
+    "name": "The Kills",
+    "services": {
+      "qobuz": "42681",
+      "tidal": "27446"
+    }
+  },
+  {
+    "name": "The Klone Orchestra",
+    "services": {
+      "tidal": "3820955"
+    }
+  },
+  {
+    "name": "The KVB",
+    "services": {
+      "qobuz": "1271936",
+      "tidal": "5025555"
+    }
+  },
+  {
+    "name": "The Last Dinner Party",
+    "services": {
+      "qobuz": "18120033"
+    }
+  },
+  {
+    "name": "The Last Warning",
+    "services": {
+      "tidal": "4618793"
+    }
+  },
+  {
+    "name": "The Legendary Pink Dots",
+    "services": {
+      "qobuz": "469337",
+      "tidal": "3545433"
+    }
+  },
+  {
+    "name": "The Mars Volta",
+    "services": {
+      "qobuz": "36438",
+      "tidal": "24959"
+    }
+  },
+  {
+    "name": "The Murder Capital",
+    "services": {
+      "qobuz": "4248676",
+      "tidal": "10794105"
+    }
+  },
+  {
+    "name": "The National",
+    "services": {
+      "qobuz": "384546",
+      "tidal": "3566009"
+    }
+  },
+  {
+    "name": "The Neal Morse Band",
+    "services": {
+      "qobuz": "4656474",
+      "tidal": "16220923"
+    }
+  },
+  {
+    "name": "The Necks",
+    "services": {
+      "qobuz": "785840",
+      "tidal": "4154926"
+    }
+  },
+  {
+    "name": "The Notwist",
+    "services": {
+      "qobuz": "129831",
+      "tidal": "3529689"
+    }
+  },
+  {
+    "name": "The Obsessed",
+    "services": {
+      "qobuz": "576073"
+    }
+  },
+  {
+    "name": "The Ocean",
+    "services": {
+      "qobuz": "847186",
+      "tidal": "3523495"
+    }
+  },
+  {
+    "name": "The Offspring",
+    "services": {
+      "qobuz": "147414",
+      "tidal": "1009"
+    }
+  },
+  {
+    "name": "The Orb",
+    "services": {
+      "qobuz": "51020",
+      "tidal": "19435"
+    }
+  },
+  {
+    "name": "The Pineapple Thief",
+    "services": {
+      "qobuz": "1079535",
+      "tidal": "3604669"
+    }
+  },
+  {
+    "name": "The Police",
+    "services": {
+      "qobuz": "53540"
+    }
+  },
+  {
+    "name": "The Postal Service",
+    "services": {
+      "qobuz": "492528"
+    }
+  },
+  {
+    "name": "The Pretty Reckless",
+    "services": {
+      "qobuz": "295722",
+      "tidal": "3670132"
+    }
+  },
+  {
+    "name": "The Prodigy",
+    "services": {
+      "qobuz": "224109",
+      "tidal": "14596"
+    }
+  },
+  {
+    "name": "The Rolling Stones",
+    "services": {
+      "qobuz": "38323"
+    }
+  },
+  {
+    "name": "The Sabres Of Paradise",
+    "services": {
+      "qobuz": "277900"
+    }
+  },
+  {
+    "name": "The Saddest Landscape",
+    "services": {
+      "qobuz": "1214580"
+    }
+  },
+  {
+    "name": "The Sea Within",
+    "services": {
+      "qobuz": "3653467",
+      "tidal": "9749186"
+    }
+  },
+  {
+    "name": "The Silver",
+    "services": {
+      "qobuz": "2598968"
+    }
+  },
+  {
+    "name": "The Sisters Of Mercy",
+    "services": {
+      "qobuz": "934825",
+      "tidal": "13079"
+    }
+  },
+  {
+    "name": "The Slow Readers Club",
+    "services": {
+      "tidal": "5133315"
+    }
+  },
+  {
+    "name": "The Smashing Pumpkins",
+    "services": {
+      "qobuz": "365659"
+    }
+  },
+  {
+    "name": "The Smile",
+    "services": {
+      "qobuz": "9316383",
+      "tidal": "30058791"
+    }
+  },
+  {
+    "name": "The Smiths",
+    "services": {
+      "qobuz": "363719"
+    }
+  },
+  {
+    "name": "The Steve Reich Ensemble",
+    "services": {
+      "tidal": "10494946"
+    }
+  },
+  {
+    "name": "The Story So Far",
+    "services": {
+      "qobuz": "821463",
+      "tidal": "55760"
+    }
+  },
+  {
+    "name": "The Strokes",
+    "services": {
+      "qobuz": "53260",
+      "tidal": "29037"
+    }
+  },
+  {
+    "name": "The Third And The Mortal",
+    "services": {
+      "qobuz": "2287604",
+      "tidal": "21249"
+    }
+  },
+  {
+    "name": "The Verve",
+    "services": {
+      "qobuz": "38329",
+      "tidal": "10847"
+    }
+  },
+  {
+    "name": "The Walkmen",
+    "services": {
+      "qobuz": "146863",
+      "tidal": "14159"
+    }
+  },
+  {
+    "name": "The War On Drugs",
+    "services": {
+      "qobuz": "431476",
+      "tidal": "3539965"
+    }
+  },
+  {
+    "name": "The Warning",
+    "services": {
+      "qobuz": "9507058"
+    }
+  },
+  {
+    "name": "The Weeknd",
+    "services": {
+      "qobuz": "687008",
+      "tidal": "4761957"
+    }
+  },
+  {
+    "name": "The White Stripes",
+    "services": {
+      "qobuz": "384484",
+      "tidal": "3520510"
+    }
+  },
+  {
+    "name": "The Who",
+    "services": {
+      "qobuz": "45964"
+    }
+  },
+  {
+    "name": "The World Is A Beautiful Place & I Am No Longer Afraid To Die",
+    "services": {
+      "tidal": "4110234"
+    }
+  },
+  {
+    "name": "The xx",
+    "services": {
+      "qobuz": "138965"
+    }
+  },
+  {
+    "name": "The Young Gods",
+    "services": {
+      "qobuz": "552077",
+      "tidal": "3575544"
+    }
+  },
+  {
+    "name": "Theatre Of Tragedy",
+    "services": {
+      "qobuz": "551926",
+      "tidal": "3554897"
+    }
+  },
+  {
+    "name": "Theory Of A Deadman",
+    "services": {
+      "qobuz": "324853"
+    }
+  },
+  {
+    "name": "Therapy?",
+    "services": {
+      "qobuz": "73124"
+    }
+  },
+  {
+    "name": "Therion",
+    "services": {
+      "tidal": "12972"
+    }
+  },
+  {
+    "name": "This Morn' Omina",
+    "services": {
+      "qobuz": "1063222",
+      "tidal": "4138569"
+    }
+  },
+  {
+    "name": "This Will Destroy You",
+    "services": {
+      "qobuz": "600585",
+      "tidal": "3725096"
+    }
+  },
+  {
+    "name": "Three Days Grace",
+    "services": {
+      "qobuz": "148329",
+      "tidal": "35937"
+    }
+  },
+  {
+    "name": "Threshold",
+    "services": {
+      "qobuz": "551911",
+      "tidal": "3554782"
+    }
+  },
+  {
+    "name": "THRICE",
+    "services": {
+      "qobuz": "129615",
+      "tidal": "29871"
+    }
+  },
+  {
+    "name": "Throbbing Gristle",
+    "services": {
+      "qobuz": "651551",
+      "tidal": "3647076"
+    }
+  },
+  {
+    "name": "Thrown",
+    "services": {
+      "qobuz": "3830698",
+      "tidal": "9577489"
+    }
+  },
+  {
+    "name": "Tiamat",
+    "services": {
+      "qobuz": "551924",
+      "tidal": "3563873"
+    }
+  },
+  {
+    "name": "Tina Arena",
+    "services": {
+      "tidal": "906"
+    }
+  },
+  {
+    "name": "To Kill Achilles",
+    "services": {
+      "qobuz": "7432067",
+      "tidal": "9159442"
+    }
+  },
+  {
+    "name": "toe",
+    "services": {
+      "qobuz": "609181",
+      "tidal": "4064719"
+    }
+  },
+  {
+    "name": "Tom Petty & The Heartbreakers",
+    "services": {
+      "qobuz": "151855"
+    }
+  },
+  {
+    "name": "TOOL",
+    "services": {
+      "qobuz": "496199",
+      "tidal": "3850668"
+    }
+  },
+  {
+    "name": "Touch\u00e9 Amor\u00e9",
+    "services": {
+      "qobuz": "600706",
+      "tidal": "3814729"
+    }
+  },
+  {
+    "name": "Toundra",
+    "services": {
+      "qobuz": "909071",
+      "tidal": "3701785"
+    }
+  },
+  {
+    "name": "Transatlantic",
+    "services": {
+      "qobuz": "721198"
+    }
+  },
+  {
+    "name": "Transatlantic Zodiac Ensemble",
+    "services": {
+      "tidal": "5659777"
+    }
+  },
+  {
+    "name": "Trentem\u00f8ller",
+    "services": {
+      "qobuz": "547917",
+      "tidal": "3503559"
+    }
+  },
+  {
+    "name": "Tribulation",
+    "services": {
+      "qobuz": "85760",
+      "tidal": "3616177"
+    }
+  },
+  {
+    "name": "TRICKY",
+    "services": {
+      "qobuz": "53208",
+      "tidal": "27444"
+    }
+  },
+  {
+    "name": "Trio of Bloom",
+    "services": {
+      "tidal": "61632977"
+    }
+  },
+  {
+    "name": "Trivium",
+    "services": {
+      "qobuz": "342440",
+      "tidal": "37312"
+    }
+  },
+  {
+    "name": "Tropical Fuck Storm",
+    "services": {
+      "tidal": "10113688"
+    }
+  },
+  {
+    "name": "Turnstile",
+    "services": {
+      "qobuz": "2119188",
+      "tidal": "3962534"
+    }
+  },
+  {
+    "name": "Twelfth Night",
+    "services": {
+      "qobuz": "884594"
+    }
+  },
+  {
+    "name": "Two Lone Swordsmen",
+    "services": {
+      "qobuz": "482820",
+      "tidal": "3544175"
+    }
+  },
+  {
+    "name": "Type O Negative",
+    "services": {
+      "qobuz": "170404",
+      "tidal": "37211"
+    }
+  },
+  {
+    "name": "Tzolk'in",
+    "services": {
+      "qobuz": "723097",
+      "tidal": "5279371"
+    }
+  },
+  {
+    "name": "U2",
+    "services": {
+      "qobuz": "35222",
+      "tidal": "17123"
+    }
+  },
+  {
+    "name": "U96",
+    "services": {
+      "qobuz": "129907",
+      "tidal": "34556"
+    }
+  },
+  {
+    "name": "UFO",
+    "services": {
+      "tidal": "11042"
+    }
+  },
+  {
+    "name": "Ulcerate",
+    "services": {
+      "qobuz": "856952",
+      "tidal": "3558684"
+    }
+  },
+  {
+    "name": "Ulver",
+    "services": {
+      "qobuz": "600664",
+      "tidal": "21255"
+    }
+  },
+  {
+    "name": "Underoath",
+    "services": {
+      "qobuz": "264536",
+      "tidal": "9641"
+    }
+  },
+  {
+    "name": "Underscores",
+    "services": {
+      "qobuz": "2975892"
+    }
+  },
+  {
+    "name": "Underworld",
+    "services": {
+      "qobuz": "222294"
+    }
+  },
+  {
+    "name": "UNKLE",
+    "services": {
+      "qobuz": "43371",
+      "tidal": "30283"
+    }
+  },
+  {
+    "name": "URNE",
+    "services": {
+      "qobuz": "9022326",
+      "tidal": "10022248"
+    }
+  },
+  {
+    "name": "Vader",
+    "services": {
+      "tidal": "24054"
+    }
+  },
+  {
+    "name": "Vampire Weekend",
+    "services": {
+      "qobuz": "350643"
+    }
+  },
+  {
+    "name": "Van Der Graaf Generator",
+    "services": {
+      "tidal": "3505274"
+    }
+  },
+  {
+    "name": "Van Halen",
+    "services": {
+      "qobuz": "322470",
+      "tidal": "13462"
+    }
+  },
+  {
+    "name": "Vanden Plas",
+    "services": {
+      "qobuz": "776483",
+      "tidal": "3659739"
+    }
+  },
+  {
+    "name": "Vektor",
+    "services": {
+      "qobuz": "956118",
+      "tidal": "4820387"
+    }
+  },
+  {
+    "name": "Velvet Acid Christ",
+    "services": {
+      "qobuz": "769733"
+    }
+  },
+  {
+    "name": "Velvet Revolver",
+    "services": {
+      "qobuz": "149583"
+    }
+  },
+  {
+    "name": "Venetian Snares",
+    "services": {
+      "qobuz": "613511",
+      "tidal": "3619550"
+    }
+  },
+  {
+    "name": "Viagra Boys",
+    "services": {
+      "tidal": "7521319"
+    }
+  },
+  {
+    "name": "Vika Kuchak",
+    "services": {
+      "qobuz": "11472928"
+    }
+  },
+  {
+    "name": "Visions of Atlantis",
+    "services": {
+      "tidal": "3604479"
+    }
+  },
+  {
+    "name": "VNV Nation",
+    "services": {
+      "tidal": "3878113"
+    }
+  },
+  {
+    "name": "VOLA",
+    "services": {
+      "qobuz": "2690603",
+      "tidal": "6476261"
+    }
+  },
+  {
+    "name": "Volbeat",
+    "services": {
+      "qobuz": "368495",
+      "tidal": "3543738"
+    }
+  },
+  {
+    "name": "Von Hertzen Brothers",
+    "services": {
+      "qobuz": "129638",
+      "tidal": "1627"
+    }
+  },
+  {
+    "name": "Voyager",
+    "services": {
+      "qobuz": "80243",
+      "tidal": "3638212"
+    }
+  },
+  {
+    "name": "Vstrecha Ryby",
+    "services": {
+      "tidal": "6293434"
+    }
+  },
+  {
+    "name": "VV",
+    "services": {
+      "qobuz": "467014"
+    }
+  },
+  {
+    "name": "Walnut",
+    "services": {
+      "qobuz": "9058580"
+    }
+  },
+  {
+    "name": "Warning",
+    "services": {
+      "qobuz": "1581727"
+    }
+  },
+  {
+    "name": "Warpaint",
+    "services": {
+      "qobuz": "330416",
+      "tidal": "3722866"
+    }
+  },
+  {
+    "name": "Wax Tailor",
+    "services": {
+      "qobuz": "38853",
+      "tidal": "3704268"
+    }
+  },
+  {
+    "name": "We Came As Romans",
+    "services": {
+      "tidal": "3659606"
+    }
+  },
+  {
+    "name": "Weakling",
+    "services": {
+      "qobuz": "2550421"
+    }
+  },
+  {
+    "name": "weather system",
+    "services": {
+      "tidal": "39727171"
+    }
+  },
+  {
+    "name": "Weather Systems",
+    "services": {
+      "qobuz": "22756193",
+      "tidal": "48410583"
+    }
+  },
+  {
+    "name": "Wednesday",
+    "services": {
+      "qobuz": "521761"
+    }
+  },
+  {
+    "name": "WEDNESDAY CAMPANELLA",
+    "services": {
+      "tidal": "7863138"
+    }
+  },
+  {
+    "name": "Weezer",
+    "services": {
+      "qobuz": "44836",
+      "tidal": "30157"
+    }
+  },
+  {
+    "name": "Wehbba",
+    "services": {
+      "tidal": "3570509"
+    }
+  },
+  {
+    "name": "Weird Rare Animal Jazz Trio",
+    "services": {
+      "tidal": "9039564"
+    }
+  },
+  {
+    "name": "Wheel",
+    "services": {
+      "qobuz": "951605"
+    }
+  },
+  {
+    "name": "When Icarus Falls",
+    "services": {
+      "qobuz": "913340",
+      "tidal": "4876808"
+    }
+  },
+  {
+    "name": "Whirr",
+    "services": {
+      "qobuz": "769259"
+    }
+  },
+  {
+    "name": "White Lies",
+    "services": {
+      "qobuz": "67078",
+      "tidal": "3565147"
+    }
+  },
+  {
+    "name": "White Ward",
+    "services": {
+      "qobuz": "3018844"
+    }
+  },
+  {
+    "name": "Whitechapel",
+    "services": {
+      "qobuz": "782595",
+      "tidal": "3767580"
+    }
+  },
+  {
+    "name": "Whitelands",
+    "services": {
+      "qobuz": "4518440",
+      "tidal": "8816533"
+    }
+  },
+  {
+    "name": "William Basinski",
+    "services": {
+      "qobuz": "929301",
+      "tidal": "3608999"
+    }
+  },
+  {
+    "name": "Wintersun",
+    "services": {
+      "qobuz": "555790"
+    }
+  },
+  {
+    "name": "Within Temptation",
+    "services": {
+      "tidal": "1539"
+    }
+  },
+  {
+    "name": "Wolf Alice",
+    "services": {
+      "qobuz": "1743913",
+      "tidal": "4915442"
+    }
+  },
+  {
+    "name": "Wolverine",
+    "services": {
+      "qobuz": "641962",
+      "tidal": "3608731"
+    }
+  },
+  {
+    "name": "Wolves In The Throne Room",
+    "services": {
+      "qobuz": "1490619"
+    }
+  },
+  {
+    "name": "Woods Of Ypres",
+    "services": {
+      "qobuz": "1032221",
+      "tidal": "4514679"
+    }
+  },
+  {
+    "name": "Wunderhorse",
+    "services": {
+      "qobuz": "9663291",
+      "tidal": "18442623"
+    }
+  },
+  {
+    "name": "Xiu Xiu",
+    "services": {
+      "qobuz": "32123"
+    }
+  },
+  {
+    "name": "Yard Act",
+    "services": {
+      "qobuz": "6735534",
+      "tidal": "18395031"
+    }
+  },
+  {
+    "name": "Yeah Yeah Yeahs",
+    "services": {
+      "qobuz": "56461"
+    }
+  },
+  {
+    "name": "Yes",
+    "services": {
+      "qobuz": "26718",
+      "tidal": "13686"
+    }
+  },
+  {
+    "name": "YHWH Nailgun",
+    "services": {
+      "qobuz": "10780984",
+      "tidal": "28245802"
+    }
+  },
+  {
+    "name": "Yngwie Malmsteen",
+    "services": {
+      "tidal": "29615"
+    }
+  },
+  {
+    "name": "Yo La Tengo",
+    "services": {
+      "qobuz": "226980"
+    }
+  },
+  {
+    "name": "Yoth Iria",
+    "services": {
+      "qobuz": "9348822",
+      "tidal": "18541843"
+    }
+  },
+  {
+    "name": "Your Spirit Dies",
+    "services": {
+      "tidal": "18110572"
+    }
+  },
+  {
+    "name": "YOUTH CODE",
+    "services": {
+      "qobuz": "1958074",
+      "tidal": "5262675"
+    }
+  },
+  {
+    "name": "Zeal & Ardor",
+    "services": {
+      "qobuz": "2848628",
+      "tidal": "8258796"
+    }
+  },
+  {
+    "name": "Zemfira",
+    "services": {
+      "qobuz": "969088",
+      "tidal": "4627277"
+    }
+  },
+  {
+    "name": "\u00b5-ziq",
+    "services": {
+      "qobuz": "391260",
+      "tidal": "3513690"
+    }
+  },
+  {
+    "name": "\u0410\u0418\u0413\u0415\u041b",
+    "services": {
+      "qobuz": "3342716",
+      "tidal": "8661813"
+    }
+  },
+  {
+    "name": "\u0411\u043e\u043d\u0434 \u0441 \u043a\u043d\u043e\u043f\u043a\u043e\u0439",
+    "services": {
+      "qobuz": "13638470",
+      "tidal": "18114354"
+    }
+  },
+  {
+    "name": "\u0412\u0435\u0440\u0430 \u041f\u043e\u043b\u043e\u0437\u043a\u043e\u0432\u0430",
+    "services": {
+      "qobuz": "3630316",
+      "tidal": "6323462"
+    }
+  },
+  {
+    "name": "\u0414\u0443\u0440\u043d\u043e\u0439 \u0412\u043a\u0443\u0441",
+    "services": {
+      "qobuz": "4040682",
+      "tidal": "10453723"
+    }
+  },
+  {
+    "name": "\u041a\u0430\u0440\u0435\u043b\u0438\u044f",
+    "services": {
+      "qobuz": "3215503",
+      "tidal": "7278370"
+    }
+  },
+  {
+    "name": "\u041c\u043e\u0439 \u0418\u044e\u043b\u044c",
+    "services": {
+      "tidal": "31655257"
+    }
+  },
+  {
+    "name": "\u043c\u043e\u043d\u0435\u0442\u043e\u0447\u043a\u0430",
+    "services": {
+      "qobuz": "3094469"
+    }
+  },
+  {
+    "name": "\u041f\u043e\u0440\u0435\u0437 \u043d\u0430 \u0421\u043e\u0431\u0430\u043a\u0435",
+    "services": {
+      "tidal": "15486089"
+    }
+  },
+  {
+    "name": "\u041f\u043e\u0447\u0435\u043c\u0443 \u043a\u043e\u043c\u043c\u0443\u0442\u0430\u0442\u043e\u0440 \u043c\u043e\u043b\u0447\u0438\u0442",
+    "services": {
+      "qobuz": "3271472"
+    }
+  },
+  {
+    "name": "\u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u044f",
+    "services": {
+      "qobuz": "2504207",
+      "tidal": "7479490"
+    }
+  }
+]

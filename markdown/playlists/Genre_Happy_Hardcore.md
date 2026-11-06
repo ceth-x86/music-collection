@@ -1,0 +1,108 @@
+# Genre: Happy Hardcore
+
+Imported genre playlist: Happy Hardcore.
+
+Services: `qobuz:66714815` `tidal:8ad97f66-d96e-475f-9e18-57b3edd08b97`
+
+## Tracks (100)
+
+- **DJ Seduction** — Hardcore Heaven [Hardcore Energy - Volume One] (4:58) `isrc:UK2JZ1300077` `qobuz:162064483`
+- **SMD** — SMD#1 [SMD#1] (5:06) `isrc:GBLV62401723` `qobuz:302298011`
+- **Vivian Lee** — Music Is so Wonderful [Music Is so Wonderful (2016 Remixes)] (5:44) `isrc:USDDT1600004` `qobuz:33132912`
+- **Ciaran Mcauley** — Love Wins (UpOnly 567) [Uplifting Only 567: No-Talking DJ Mix: Ori's Top 50 Instrumental Uplifters of 2023, Pt. 2] (5:01) `isrc:QMFFM2400090` `qobuz:248317711`
+- **Sunshine Productions** — Above the Clouds [Above the Clouds / Symphony in September] (5:40) `isrc:GBMYV0600267` `qobuz:161735623`
+- **Rob Wasserman** — Satisfaction (Bass Trilogy: Part 2) [Trios] (2:21) `isrc:USGR10300978` `qobuz:51628694`
+- **Bicep** — Orca [Bicep] (4:33) `isrc:GBCFB1700228` `qobuz:41586012`
+- **Foul Play** — Finest Illusion [Origins] (4:44) `isrc:UKU2N2000004` `qobuz:219590808`
+- **N.R.G.** — I Need Your Lovin' [Roadkill Remix, Volume 1.05] (6:02) `isrc:US6R21394901` `qobuz:269853525`
+- **Jimmy J** — Six Days [Hardcore Energy - Volume One] (7:28) `isrc:GBFG92200125` `qobuz:162064527`
+- **Force & Evolution** — Perfect Dreams [Kleu presents Welcome To The Jungle (DJ Mix)] (1:28) `isrc:GBFG92300079` `qobuz:208483756`
+- **Cutting Crew** — (I Just) Died In Your Arms [Broadcast] (4:40) `isrc:GBAAA8600046` `qobuz:1942318`
+- **Billy Daniel Bunter** — Music is Moods [Let It Lift You / Music is Moods] (5:50) `isrc:GBMYV0600287` `qobuz:161736546`
+- **DJ Shah** — Mellomaniac [The Ultimate Chillout Collection] (5:39) `isrc:DEQ600490402` `qobuz:10242632`
+- **DJ Red Alert** — In Effect [Slammin' Vinyl The Album] (5:55) `isrc:UKZ6W2002080` `qobuz:151743539`
+- **Alchemist** — Keep On Trying [Hardcore Uproar (Mixed By Al Storm & DJ Seduction, Rob IYF, DJ Stompy, Eazyvibe & Darren Tyler)] (2:44) `isrc:UKT6B2200476` `qobuz:177302007`
+- **Montreal Jubilation Gospel Choir** — Lord Help Me to Hold Out [Looking Back, Vol. 2] (4:34) `isrc:CAJ220725034` `qobuz:168311947`
+- **The Weeknd** — Take Me Back To LA [Hurry Up Tomorrow] (4:13) `isrc:USUG12501140` `qobuz:315416326`
+- **Four Tops** — Reach Out I'll Be There [Reach Out] (3:01) `isrc:USMO10119990` `qobuz:29432006`
+- **DJ Jazzy Jeff & The Fresh Prince** — Here We Go Again [He's The DJ, I'm The Rapper] (4:01) `isrc:USJI10300384` `qobuz:42316747`
+- **Joggen DJ** — Entspannung nach dem Rennen [Elektro Musik zum Joggen und Laufen - Richtig Joggen und Lauftraining für Anfänger mit Hause Musik und Instrumentalen Elektronischen Hintergrundmusik] (3:23) `isrc:ITO101654669` `qobuz:33765154`
+- **Lange** — I Believe [I Believe / Follow Me] (8:40) `isrc:GBAYE9900575` `qobuz:35337147`
+- **4 Tune Fairytales** — MY LITTLE FANTASY [BEYOND TRIPPIN'] (2:34) `isrc:NLE802400365` `qobuz:286733047`
+- **Force & Styles** — Heart Of Gold [Heart Of Gold] (7:18) `isrc:FRX201781239` `qobuz:330584870`
+- **Dj Bobo** — Love of My Life [Celebration] (3:56) `isrc:DEMI60200007` `qobuz:93397148`
+- **Cypress Hill** — Throw Your Set In the Air [Iii (Temples Of Boom)] (4:05) `isrc:USSM19501498` `qobuz:47019209`
+- **Dj Brisk** — Eye Opener [Eye Opener / I Need Somebody] (6:33) `isrc:UKZ6W2002055` `qobuz:151743035`
+- **Bang** — Shooting Star [Shooting Star] (5:32) `isrc:GBKQU1026194` `qobuz:113616504`
+- **triple j** — Follow The Sun [Follow the Sun] (5:39) `isrc:GBMYV0600154` `qobuz:77088329`
+- **Vinylgroover** — Time [Time] (5:40) `isrc:GBKQU1486776` `qobuz:112042362`
+- **Billy Ocean** — Get Outta My Dreams, Get Into My Car [Love Really Hurts Without You: The Greatest Hits of Billy Ocean] (4:43) `isrc:GBAHK9700111` `qobuz:125502832`
+- **J.D.S** — Higher Love [Higher Love] (5:48) `isrc:GBMYV0700004` `qobuz:77097092`
+- **DJ Themi** — I Feel Good (Power Radio Mix) [The Club Life 2 - 15 Essential Club Hits!] (3:25) `isrc:USA371445900` `qobuz:68819392`
+- **U.F.O.** — Break on Through (To the Other Side) [The Salentino Cuts] (2:21) `isrc:QM6XS1704612` `qobuz:51084129`
+- **Jim Kweskin** — Blues My Naughty Sweetie Gives to Me [Enjoy Yourself (It's Later Than You Think)] (3:15) `isrc:USCGJ1605885` `qobuz:79789829`
+- **DJ Seinfeld** — Tell Me One More Time [Mirrors] (4:36) `isrc:GBCFB2100391` `qobuz:129776876`
+- **DJ DNA** — Go Insane [Never Let You Go / Go Insane (Remixes)] (6:09) `isrc:GBMYV0210022` `qobuz:150708274`
+- **Charly Lownoise & Mental Theo** — Wonderful Days Reloaded [Wonderful Days Reloaded] (2:58) `isrc:NL5HJ2400247` `qobuz:298050083`
+- **Paul Elstak** — Luv U More [Super Dance Hits From The Nineties (90's Best Top 30)] (3:50) `isrc:NLS241100967` `qobuz:378280926`
+- **KXXMA** — I Wanna Be A Hippy [I Wanna Be A Hippy] (2:38) `isrc:DEUM72307303` `qobuz:214903526`
+- **Nakatomi** — Children Of The Night [Children Of The Night] (4:05) `isrc:NLC529611111` `qobuz:162913196`
+- **Party Animals** — Have You Ever Been Mellow [Have You Ever Been Mellow] (3:05) `isrc:NLC341305005` `qobuz:10451472`
+- **Flamman & Abraxas** — Good to Go [Enter the Dragon] (3:30) `isrc:NLC349702001` `qobuz:7805905`
+- **Dúné** — Can't Stop Raving [Can't Stop Raving] (3:36) `isrc:DED579506870` `qobuz:325552332`
+- **Scooter** — Move Your Ass! [20 Years Of Hardcore] (3:54) `isrc:DEN061302560` `qobuz:199219299`
+- **Marusha** — Somewhere over the Rainbow [Raveland] (5:31) `isrc:DEE199400063` `qobuz:174219212`
+- **Blümchen** — Herz an Herz [Herzfrequenz] (3:47) `isrc:DEBL60605312` `qobuz:1292919`
+- **QFX** — Freedom (Steven Brown Remix) [Freedom the Remix Album] (6:51) `isrc:TCAHL2316664` `qobuz:229999508`
+- **Maddix** — Young Birds [Global Awakening] (2:53) `isrc:NLQ8D2400955` `qobuz:305515612`
+- **Critical Mass** — Burning Love [Harmony of Hardcore Festival 2012] (4:53) `isrc:NLE801100491` `qobuz:7453713`
+- **Hocus Pocus** — Here's Johnny! [God, Devil, Hell, Heaven] (4:30) `isrc:NLA249700014` `qobuz:136553664`
+- **Interactive** — Forever Young [Forever Young] (3:44) `isrc:DEP999400097` `qobuz:54279044`
+- **Hixxy & Sharkey** — Toytown [Toytown (Eufeion Remix)] (3:20) `isrc:UKT6B2000001` `qobuz:107497606`
+- **Sy** — Forever Shining [Every Day / Forever Shining] (5:40) `isrc:GBMYV0600368` `qobuz:153867305`
+- **DJ Smurf** — Lollypop [This Is Smurfcore Vol 2] (5:55) `isrc:UKACT1841592` `qobuz:75441453`
+- **Scott Brown** — Elysium Plus [Elysium Plus] (6:00) `isrc:GBKQU1351178` `qobuz:113620779`
+- **CLSM** — John Peel (Not Enough) [Hardcore Material] (1:32) `isrc:GBKQU2528956` `qobuz:327082117`
+- **Q-Tex** — Power Of Love [Power Of Love] (3:50) `isrc:GBCFZ0701871` `qobuz:125250479`
+- **Crazy Noise** — Bring the Funk [Bring the Funk] (4:46) `isrc:CH6542537531` `qobuz:342006517`
+- **Styles & Breeze** — You're Shining [You're Shining] (5:50) `isrc:GBCFZ0400584` `qobuz:125250291`
+- **Darren Styles** — Blow Me Away [Skydivin'] (3:50) `isrc:GBCFZ0800221` `qobuz:52525595`
+- **RE-MIX** — Sara' perche' ti amo [Sara' perche' ti amo : Dance Remix, Stems and DJ Tools, Tribute to Ricchi e Poveri] (3:25) `isrc:ITQ171301340` `qobuz:9535434`
+- **Impact & Resist** — Sunrise [Sunrise (JTS & Haze Remix)] (6:14) `isrc:GBKQU1159218` `qobuz:113437878`
+- **Dark Monks** — Insane [Insane] (3:45) `isrc:NLQ8D2500117` `qobuz:313984495`
+- **Jethro Tull** — One For John Gee [Still Living In The Past] (2:05) `isrc:GBAYK2400031` `qobuz:336220307`
+- **System f** — Cry [Out Of The Blue] (8:36) `isrc:NLQ881000606` `qobuz:378216926`
+- **Norah Jones** — Don't Know Why [Come Away With Me] (3:08) `isrc:USBN20200529` `qobuz:189888389`
+- **Flip & Fill** — Pacific Sun (Lullaby) [Pacific Sun (Lullaby)] (6:13) `isrc:GBCFZ1700145` `qobuz:78098402`
+- **Liz Kay** — Castles in the sky [Castles in the sky] (7:25) `isrc:DEHK90702610` `qobuz:55043019`
+- **Wave** — Piece Of Heaven [Piece Of Heaven] (5:31) `isrc:GBCFZ1700522` `qobuz:78687906`
+- **Ultrabeat** — You Will See [You Will See] (6:02) `isrc:GBKQU1271301` `qobuz:113157743`
+- **oskar med k** — Make This Never Happen [feel] (2:21) `isrc:US3DF2624088` `qobuz:399908468`
+- **D:Code** — My Direction [My Direction] (6:12) `isrc:GBCFZ0701378` `qobuz:63208293`
+- **Chris Smither** — Calm Before the Storm [All About the Bones] (3:13) `isrc:USFMT2405405` `qobuz:249672832`
+- **Craig Mack** — Flava in Ya Ear Remix (feat. The Notorious B.I.G., LL Cool J, Busta Rhymes, Rampage) [Flava In Ya Ear Remix] (5:02) `isrc:USBB40581031` `qobuz:7014760`
+- **Manatane** — Face Down Ass Up [Memory of DJ FUNK] (4:38) `isrc:GBKQU2629560` `qobuz:402760995`
+- **DJ Demand** — Dark & Light [The Dark Shadows EP, Pt 15] (3:59) `isrc:UKT6B1900120` `qobuz:107729598`
+- **All The People** — Cramp Your Style [Soul Jazz Records presents MIAMI SOUND: Rare Funk & Soul From Miami, Florida 1967-74] (2:15) `isrc:USBEN0852501` `qobuz:221513698`
+- **Above & Beyond** — Sirens Of The Sea [The Anjunadeep Edition 500 with Above & Beyond (DJ Mix)] (6:53) `isrc:GBEWA2402585` `qobuz:424977760`
+- **Mike Squires** — Here [In Your Arms] [Here [In Your Arms]] (2:20) `isrc:QZRP42307682` `qobuz:227034411`
+- **Stonebank** — The Only One [The Only One] (4:19) `isrc:CA6D21600395` `qobuz:58026400`
+- **Klubbheads** — Kickin' Hard [Kickin' Hard] (3:25) `isrc:NLF712003627` `qobuz:378186537`
+- **Darren Styles** — Rest Of Your Life (Da Tweekaz Remix) [Rest Of Your Life (Da Tweekaz Remix)] (4:01) `isrc:BEB681500224` `qobuz:49415011`
+- **ERA** — Will You Call My Name [ERA VIII] (3:27) `isrc:FRE0N2500020` `qobuz:406295293`
+- **Armin van Buuren** — Set Me Free [Set Me Free] (2:55) `isrc:NLF712506451` `qobuz:378330571`
+- **Cascada** — Miracle [Everytime We Touch] (6:54) `isrc:DEHK90913021` `qobuz:54972964`
+- **Rocco** — Everybody [Everybody] (2:18) `isrc:DEMA61901260` `qobuz:90877510`
+- **Peter Frampton** — My Cup Of Tea [Fingerprints] (4:52) `isrc:USUG10600213` `qobuz:118326567`
+- **Cascada** — How Do You Do [Everytime We Touch] (5:30) `isrc:DECZ30500011` `qobuz:54972969`
+- **The Real Booty Babes** — Since U Been Gone [Since U Been Gone (All Mixes)] (3:51) `isrc:DEZ380500152` `qobuz:15005783`
+- **East Clubbers** — Sextasy (Alchemist Project Remix) [Never Enough] (4:50) `isrc:USA560873200` `qobuz:67200819`
+- **N-Trance** — Set You Free [Set You Free] (5:45) `isrc:GBCFZ1001141` `qobuz:188881839`
+- **Manian** — Welcome to the Club [Welcome to the Club (The Album)] (5:22) `isrc:DEHK90806489` `qobuz:54906517`
+- **Hypasonic** — Lost Without You [Turn It Up] (6:21) `isrc:GBKQU1271687` `qobuz:113159428`
+- **Invention of Light** — Pink is the Sound of My Baby’s Dreams [Just Pink Noise Vol 1: 1 Hour of Seamless Pink Noise to Soothe the Mind & Create a Calm Environment] (2:02) `isrc:QM7P22303025` `qobuz:201662777`
+- **The Real Booty Babes** — Like a Lady [Like a Lady / Rock] (5:16) `isrc:DEZ381000193` `qobuz:20037784`
+- **Yahel** — Voyage [Voyage] (6:29) `isrc:GBKQU1839259` `qobuz:109731260`
+- **Vintage Culture** — Strange Feelings [Promised Land] (3:40) `isrc:USZXT2455529` `qobuz:289863066`
+- **Flamingo Drive** — Everytime I Think Of You [Satin Jackets Back Catalogue] (7:01) `isrc:GB9PM1200132` `qobuz:206290075`
+- **Darren Styles** — You & I (Da Tweekaz Remix) [You & I (Da Tweekaz remix)] (3:47) `isrc:BEB681300749` `qobuz:49412650`

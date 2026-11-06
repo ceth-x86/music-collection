@@ -1,0 +1,106 @@
+# Genre: Progressive Metal
+
+Imported genre playlist: Progressive Metal.
+
+Services: `qobuz:66734992` `tidal:22a3ae67-fd96-42cb-8e2b-e481f3adac34`
+
+## Tracks (98)
+
+- **Queensrÿche** — Eyes Of A Stranger [Operation: Mindcrime] (6:36) `isrc:USEM30200425` `qobuz:131792986`
+- **Crimson Glory** — Valhalla [Crimson Glory] (3:49) `isrc:TCAAR1038401` `qobuz:188585746`
+- **Watchtower** — Control And Resistance [Control and Resistance] (6:58) `isrc:GBAJE0609505` `qobuz:385631007`
+- **Savatage** — Gutter Ballet [Gutter Ballet (2011 Edition)] (6:20) `isrc:DEB340900149` `qobuz:33022111`
+- **Anand Wilder** — Give Us A Wink [Psychic Lessons] (3:41) `isrc:US5ED2506599` `qobuz:341833911`
+- **Fates Warning** — Through Different Eyes [Perfect Symmetry] (4:21) `isrc:USMBR0400999` `qobuz:60769395`
+- **Dream Theater** — Metropolis - Part I: "The Miracle and the Sleeper" [Images and Words] (9:32) `isrc:USEE10180255` `qobuz:2927589`
+- **Shadow Gallery** — CliffHanger [Carved In Stone] (8:41) `isrc:US78S0500101` `qobuz:72919835`
+- **Damn The Machine** — The Mission [Damn The Machine] (5:39) `isrc:USAM10400497` `qobuz:54688903`
+- **Threshold** — Pilot in the Sky of Dreams [Dead Reckoning (Expanded Edition)] (9:47) `isrc:DED830696605` `qobuz:61264511`
+- **Conception** — Silent Crying [Parallel Minds] (3:16) `isrc:GB5KW2105281` `qobuz:375955408`
+- **Vanden Plas** — I Don't Miss You [The Epic Works 1991 - 2015] (3:51) `isrc:ITG271900224` `qobuz:60986964`
+- **Artension** — Into the Eye of the Storm [Into the Eye of the Storm] (4:38) `isrc:QM7281522094` `qobuz:79573952`
+- **Lemur Voice** — Akasha Chronicles [Insights] (5:06) `isrc:US78S0501502` `qobuz:72925588`
+- **Symphony X** — The Divine Wings of Tragedy [The Divine Wings of Tragedy (Special Edition)] (20:42) `isrc:QM3MF1700027` `qobuz:125623746`
+- **Royal Hunt** — River of Pain [Paradox] (7:14) `isrc:DKRC39700102` `qobuz:64057054`
+- **Pain Of Salvation** — To the End [Entropia] (4:56) `isrc:GBDHC0905109` `qobuz:27664970`
+- **Liquid Tension Experiment** — Paradigm Shift [Liquid Tension Experiment] (8:55) `isrc:US78S0502301` `qobuz:43013244`
+- **Evergrey** — Dark Discovery [The Dark Discovery] (3:35) `isrc:DEU601707286` `qobuz:43629172`
+- **The Explorers Club** — Impact 1 - Fate Speaks [Age Of Impact] (15:59) `isrc:US78S0502101` `qobuz:72925835`
+- **Nevermore** — Dreaming Neon Black [Dreaming Neon Black] (6:26) `isrc:US4E40489105` `qobuz:27569731`
+- **Dali's Dilemma** — Miracles In Yesteryear [Manifesto For Futurism] (7:11) `isrc:US78S0502402` `qobuz:72921009`
+- **Talking Heads** — Burning Down the House [Speaking in Tongues] (4:01) `isrc:USWB10502916` `qobuz:6005369`
+- **Control Denied** — Breaking The Broken [The Fragile Art Of Existence (Reissue)] (5:40) `isrc:US2641011802` `qobuz:60619230`
+- **Ice Age** — Perpetual Child, Part II (Forever) [Waves of Loss and Power] (14:35) `isrc:USET72319203` `qobuz:192905416`
+- **Mullmuzzler** — Shores of Avalon [Keep It To Yourself] (7:53) `isrc:US78S0503903` `qobuz:72930593`
+- **Black Sabbath** — Spiral Architect [Sabbath Bloody Sabbath] (5:28) `isrc:GBAJE7300029` `qobuz:385311146`
+- **Spastic Ink** — Just A Little Bit [Ink Compatible] (4:42) `isrc:USK4M0702002` `qobuz:90148940`
+- **Andromeda** — Extension of the Wish [Extension of the Wish] (10:03) `isrc:USDHM1210515` `qobuz:58716001`
+- **Zero Hour** — The Towers of Avarice [The Towers of Avarice] (7:52) `isrc:USET70101101` `qobuz:103081908`
+- **Beyond Twilight** — Hellfire [The Devil's Hall Of Fame] (8:18) `isrc:USCGH0563482` `qobuz:67722489`
+- **Adagio** — Next profundis [Underworld] (7:39) `isrc:USHM20952354` `qobuz:65546438`
+- **Pagan's Mind** — Through Osiris' Eyes [Celestial Entrance] (6:08) `isrc:DET270204602` `qobuz:196579850`
+- **Exo** — Girl x Friend [EXO PLANET #3-The EXO'rDIUM[dot] - Live Album] (3:39) `isrc:KRA301700564` `qobuz:66651371`
+- **Sun Caged** — Closing In [Sun Caged] (5:58) `isrc:USHM80568467` `qobuz:90655946`
+- **Devin Townsend** — Deadhead [Accelerated Evolution] (8:05) `isrc:GBDHC0924104` `qobuz:27680307`
+- **Anubis Gate** — Golden Days [Anubis Gate] (6:26) `isrc:USCGJ1172481` `qobuz:66698967`
+- **Redemption** — Threads [The Fullness of Time] (5:43) `isrc:USET70600044` `qobuz:103081972`
+- **Communic** — Conspiracy in Mind [Conspiracy in Mind] (7:38) `isrc:DED830402431` `qobuz:60257721`
+- **Karnivool** — Themata [Themata] (5:40) `isrc:AUKA00500020` `qobuz:91194281`
+- **Circus Maximus** — A Darkened Mind [Isolate] (5:33) `isrc:ITG270700232` `qobuz:196548149`
+- **John Petrucci** — Glasgow Kiss [Suspended Animation] (7:48) `isrc:US4FQ0400002` `qobuz:98391255`
+- **Seventh Wonder** — Waiting In The Wings [Waiting In The Wings] (9:18) `isrc:ITG272300708` `qobuz:212730443`
+- **Darkwater** — The Play [Calling the Earth to Witness] (8:38) `isrc:USDHM0801267` `qobuz:58716431`
+- **myPath!** — last hope [last hope] (2:30) `isrc:AEA2Z2445267` `qobuz:270192270`
+- **Meshuggah** — Bleed [Obzen] (7:22) `isrc:DE1AH2308803` `qobuz:298221178`
+- **Scale The Summit** — The Great Plains [Carving Desert Canyons] (5:11) `isrc:USRZR0907003` `qobuz:49106626`
+- **Guilt Machine** — Twisted Coil [On This Perfect Day] (11:43) `isrc:NLB930900420` `qobuz:141305548`
+- **Animals As Leaders** — Cafo [Animals as Leaders - Encore Edition] (6:41) `isrc:USRZR0904308` `qobuz:49176979`
+- **Chimp Spanner** — At the Dream's Edge [At the Dreams Edge] (3:51) `isrc:GBTBS1000003` `qobuz:69786526`
+- **Hacride** — To walk among them [Lazarus] (15:03) `isrc:FR1PP0900100` `qobuz:1487812`
+- **Periphery** — Icarus Lives [Periphery] (3:10) `isrc:NLA321089764` `qobuz:269303216`
+- **Astral Forest** — Set Course for Andromeda [*VISIBLE CONFUSION*] (1:06) `isrc:GX89G2233656` `qobuz:174569788`
+- **Voyager** — She Takes Me [The Meaning of I] (4:06) `isrc:USET70915911` `qobuz:77783877`
+- **Haken** — Visions [Visions (Re-issue 2017)] (22:28) `isrc:GBDHC1777908` `qobuz:37262871`
+- **Leprous** — Forced Entry [Bilateral] (10:21) `isrc:GBDHC1156002` `qobuz:27673031`
+- **vildhjarta** — Dagger [måsstaden (forte)] (4:25) `isrc:GBDHC2227902` `qobuz:137632243`
+- **Uneven Structure** — Awaken [Februus] (6:35) `isrc:GBTBS1100047` `qobuz:69784149`
+- **TesseracT** — Acceptance - Concealing Fate, Pt. 1 [One] (8:34) `isrc:US4E41174303` `qobuz:27555597`
+- **Monuments** — I, The Creator [The Amanuensis] (3:54) `isrc:US4E41413201` `qobuz:28631106`
+- **Skyharbor** — Evolution [Evolution] (5:38) `isrc:QMFMG1422866` `qobuz:69784617`
+- **Soen** — Fraccions [Cognitive] (4:56) `isrc:FIUM71101371` `qobuz:190529848`
+- **Distorted Harmony** — Unfair [Utopia] (8:07) `isrc:USCGJ1387268` `qobuz:73375510`
+- **Modern Day Babylon** — Travelers [Travelers] (4:28) `isrc:TCABS1345182` `qobuz:128609761`
+- **Mandroid Echostar** — Kingdom and the Crown [Mandroid Echostar] (4:58) `isrc:TCACT1693809` `qobuz:128799443`
+- **Caligula's Horse** — Atlas [In Contact] (5:10) `isrc:AUH731100040` `qobuz:42473302`
+- **Pomegranate Tiger** — Devils To Ourselves [All Input Is Error] (3:32) `isrc:USHM82359837` `qobuz:222131870`
+- **Ella Fitzgerald** — On A Slow Boat To China [Twelve Nights In Hollywood] (2:25) `isrc:USUM70979056` `qobuz:4275770`
+- **Voyager Solar System** — John Bounce In The Nebula [Owls Of Jupiter And Other Stories] (6:00) `isrc:FR9W12618276` `qobuz:411737365`
+- **Intervals** — Ephemeral [A Voice Within] (5:05) `isrc:TCACE1545847` `qobuz:430829391`
+- **Seungmin** — My Destiny [The potato lab, Pt. 1 (Original Soundtrack)] (3:50) `isrc:KRA492500046` `qobuz:319033914`
+- **Vola** — Stray The Skies [Inmazes] (4:13) `isrc:NLB931600514` `qobuz:141291742`
+- **Earthside** — A Dream in Static [A Dream in Static] (7:35) `isrc:QM2JD1500003` `qobuz:310427664`
+- **Native Construct** — Chromatic Aberration [Quiet World] (12:28) `isrc:USMBR1410942` `qobuz:60684680`
+- **Elvenking** — On These Haunted Shores [Reader Of The Runes - Luna] (5:04) `isrc:DE1K12510906` `qobuz:312142617`
+- **Plini** — Electric Sunrise [Handmade Cities] (5:05) `isrc:TCACR1606807` `qobuz:148258370`
+- **Anup Sastry** — Illuminate [Illuminate] (7:08) `isrc:TCAEF1983147` `qobuz:125329157`
+- **Paul Wardingham** — The Fallen [Day Zero: Rise of the Horde] (4:36) `isrc:TCAEZ2024755` `qobuz:129838190`
+- **Jakub Zytecki** — Sunflower [Sunflower] (3:01) `isrc:TCAEJ1986270` `qobuz:128954525`
+- **Jason Richardson** — Tendinitis [II] (5:17) `isrc:TCADO1847504` `qobuz:157422472`
+- **DGM** — The Secret Pt. 1 [The Passage] (8:24) `isrc:ITG271600393` `qobuz:32762440`
+- **The Reticent** — Stage 1: His Name Is Henry [The Oubliette] (9:46) `isrc:USL4Q2072109` `qobuz:102542342`
+- **Angel Vivaldi** — A Martian Winter [Universal Language] (3:43) `isrc:TCAAY1105094` `qobuz:191474779`
+- **Sons Of Apollo** — Alive [Psychotic Symphony] (5:05) `isrc:GBDHC1779605` `qobuz:43770613`
+- **Shattered Serenity** — Till the End of Time [Till the End of Time] (4:10) `isrc:QT6F42546552` `qobuz:370907408`
+- **Cola Boyy** — Kid Born in Space [Prosthetic Boombox] (3:14) `isrc:FRS712000210` `qobuz:262048326`
+- **Captain Black Beard** — No Worries [Captain Black Beard] (3:10) `isrc:USE831500977` `qobuz:174822110`
+- **I built the Sky** — The Zenith Rise [The Zenith Rise] (6:09) `isrc:TCAEK1988897` `qobuz:387646537`
+- **Arch Echo** — Color Wheel [Arch Echo] (6:01) `isrc:USDY41717156` `qobuz:66738829`
+- **Artificial Language** — These Aren't Mirages [The Observer] (3:35) `isrc:TCACZ1741990` `qobuz:212998679`
+- **Ihlo** — Coalescence [Live Sessions From Pirate Studios] (14:55) `isrc:QZNWU2223204` `qobuz:172381378`
+- **Wheel** — Vultures [Moving Backwards] (3:59) `isrc:DERK41900073` `qobuz:174090702`
+- **Rendezvous Point** — Digital Waste [Universal Chaos] (4:22) `isrc:DEA451900490` `qobuz:59704956`
+- **Cassandra Wilson** — Strange Fruit [New Moon Daughter] (5:55) `isrc:USUM71314436` `qobuz:14158341`
+- **Novena** — Prison Walls [Eleventh Hour] (15:18) `isrc:ITG272000265` `qobuz:81633643`
+- **Lucid Planet** — Zenith [II] (9:55) `isrc:AUORG2000024` `qobuz:109998379`
+- **The Omnific** — Base Camp [The Law of Augmenting Returns] (6:03) `isrc:AUM9Z2400004` `qobuz:301332129`
+- **Teramaze** — LIKE A CYBORG [The Harmony Machine] (6:16) `isrc:USCGJ2592404` `qobuz:321731120`

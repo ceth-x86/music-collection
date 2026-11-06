@@ -1,0 +1,449 @@
+{
+  "name": "Genre: Ritual Folk",
+  "services": {
+    "qobuz": "66711297"
+  },
+  "description": "Imported genre playlist: Ritual Folk.",
+  "tracks": [
+    {
+      "artist": "Wardruna",
+      "title": "Helvegen",
+      "services": {
+        "qobuz": "269936663"
+      },
+      "album": "Runaljod \u2013 Yggdrasil",
+      "duration": 431,
+      "isrc": "NOCVC1304110"
+    },
+    {
+      "artist": "Nytt land",
+      "title": "G\u00e1ttir allar",
+      "services": {
+        "qobuz": "114292181"
+      },
+      "album": "H\u00e1vam\u00e1l",
+      "duration": 365,
+      "isrc": "GBSMU2471076"
+    },
+    {
+      "artist": "Forndom",
+      "title": "N\u00e4r gudarna kalla",
+      "services": {
+        "qobuz": "243932822"
+      },
+      "album": "Dau\u00f0ra Dura",
+      "duration": 250,
+      "isrc": "SEVVF1505404"
+    },
+    {
+      "artist": "Ivar Bj\u00f8rnson & Einar Selvik",
+      "title": "Skuggsj\u00e1",
+      "services": {
+        "qobuz": "216728897"
+      },
+      "album": "Skuggsj\u00e1",
+      "duration": 397,
+      "isrc": "FR33T1637702"
+    },
+    {
+      "artist": "Danheim",
+      "title": "Temple of Odin",
+      "services": {
+        "qobuz": "123627354"
+      },
+      "album": "Temple of Odin",
+      "duration": 202,
+      "isrc": "TCACZ1726651"
+    },
+    {
+      "artist": "Sei\u00f0l\u00e6ti",
+      "title": "Freyja",
+      "services": {
+        "qobuz": "88328789"
+      },
+      "album": "\u00deagnar\u00feulur",
+      "duration": 152,
+      "isrc": "ISV441718705"
+    },
+    {
+      "artist": "Einar Selvik",
+      "title": "Snake Pit Poetry",
+      "services": {
+        "qobuz": "216727941"
+      },
+      "album": "Snake Pit Poetry",
+      "duration": 428,
+      "isrc": "NO1941708010"
+    },
+    {
+      "artist": "Heilung",
+      "title": "Othan",
+      "services": {
+        "qobuz": "60754181"
+      },
+      "album": "Futha",
+      "duration": 618,
+      "isrc": "FR33T1951103"
+    },
+    {
+      "artist": "Geald\u00fdr",
+      "title": "Kauna",
+      "services": {
+        "qobuz": "126154497"
+      },
+      "album": "S\u00f3l",
+      "duration": 420,
+      "isrc": "TCAEI1969112"
+    },
+    {
+      "artist": "Sowulo",
+      "title": "Wulfwiga",
+      "services": {
+        "qobuz": "315565876"
+      },
+      "album": "MANN",
+      "duration": 256,
+      "isrc": "CH6541945790"
+    },
+    {
+      "artist": "Heldom",
+      "title": "Vaknan",
+      "services": {
+        "qobuz": "132251087"
+      },
+      "album": "Vaknan",
+      "duration": 211,
+      "isrc": "TCAFU2104494"
+    },
+    {
+      "artist": "A Tergo Lupi",
+      "title": "Anma ed Pr\u00e8ia",
+      "services": {
+        "qobuz": "180468717"
+      },
+      "album": "Hide",
+      "duration": 346,
+      "isrc": "QZRP52200925"
+    },
+    {
+      "artist": "Eldrvak",
+      "title": "Ritual (Remastered 2022)",
+      "services": {
+        "qobuz": "169923922"
+      },
+      "album": "Ritual (Remastered 2022)",
+      "duration": 205,
+      "isrc": "TCAGK2207184"
+    },
+    {
+      "artist": "V\u00e9vaki",
+      "title": "Heimdalagaldr",
+      "services": {
+        "qobuz": "164590812"
+      },
+      "album": "F\u00f3rnspeki",
+      "duration": 236,
+      "isrc": "FR33T2268002"
+    },
+    {
+      "artist": "Days of the Blackbird",
+      "title": "Resonant Fir",
+      "services": {
+        "qobuz": "241000215"
+      },
+      "album": "Resonant Fir",
+      "duration": 115,
+      "isrc": "QZWFF2345317"
+    },
+    {
+      "artist": "Torulf",
+      "title": "Vakna",
+      "services": {
+        "qobuz": "235869039"
+      },
+      "album": "Ristningar i Ginnungagap",
+      "duration": 575,
+      "isrc": "SE57X2300201"
+    },
+    {
+      "artist": "Kati Ran",
+      "title": "HEFRING",
+      "services": {
+        "qobuz": "254436250"
+      },
+      "album": "S\u00c1LA",
+      "duration": 242,
+      "isrc": "QM6P42228192"
+    },
+    {
+      "artist": "Hrafngr\u00edmr",
+      "title": "Niflheims Auga",
+      "services": {
+        "qobuz": "264589117"
+      },
+      "album": "Niflheims Auga",
+      "duration": 289,
+      "isrc": "FR9W12415591"
+    },
+    {
+      "artist": "Munkn\u00f6rr",
+      "title": "Sei\u00f0kona",
+      "services": {
+        "qobuz": "268093277"
+      },
+      "album": "Nor\u00f0r",
+      "duration": 280,
+      "isrc": "TCAIH2499242"
+    },
+    {
+      "artist": "R\u00fanahild",
+      "title": "V\u00f8lvens Blot",
+      "services": {
+        "qobuz": "356363660"
+      },
+      "album": "Seid",
+      "duration": 163,
+      "isrc": "NOMZN2504010"
+    },
+    {
+      "artist": "Rabor",
+      "title": "\u041a\u043b\u044e\u0447-\u0437\u0430\u043c\u043e\u043a",
+      "services": {
+        "qobuz": "65126948"
+      },
+      "album": "Roots",
+      "duration": 530,
+      "isrc": "USL4Q1830415"
+    },
+    {
+      "artist": "Nubiferous Project",
+      "title": "Out Of The Depths",
+      "services": {
+        "qobuz": "325146179"
+      },
+      "album": "Out Of The Depths",
+      "duration": 136,
+      "isrc": "DE1H12500506"
+    },
+    {
+      "artist": "Shakira",
+      "title": "Antes de las Seis",
+      "services": {
+        "qobuz": "17503051"
+      },
+      "album": "Sale el Sol",
+      "duration": 174,
+      "isrc": "USSD11000362"
+    },
+    {
+      "artist": "La Breiche",
+      "title": "Le Rite",
+      "services": {
+        "qobuz": "95139998"
+      },
+      "album": "Le Rite",
+      "duration": 300,
+      "isrc": "QM6N22073441"
+    },
+    {
+      "artist": "Ugory",
+      "title": "Wicher",
+      "services": {
+        "qobuz": "165555134"
+      },
+      "album": "Wicher",
+      "duration": 216,
+      "isrc": "GBPVV2003453"
+    },
+    {
+      "artist": "Azumaya",
+      "title": "Gashadokuro",
+      "services": {
+        "qobuz": "410202728"
+      },
+      "album": "Gashadokuro",
+      "duration": 114,
+      "isrc": "QT66M2664734"
+    },
+    {
+      "artist": "\u694a\u5343\u5b05",
+      "title": "\u91ce\u5b69\u5b50",
+      "services": {
+        "qobuz": "21213604"
+      },
+      "album": "Miriam",
+      "duration": 222,
+      "isrc": "HKG070100091"
+    },
+    {
+      "artist": "Camel",
+      "title": "In the Kingdom of Falcons",
+      "services": {
+        "qobuz": "293292508"
+      },
+      "album": "Oriental Dance",
+      "duration": 217,
+      "isrc": "NLHR52169601"
+    },
+    {
+      "artist": "The Spencer Davis Group",
+      "title": "Together Till The End Of Time",
+      "services": {
+        "qobuz": "29445824"
+      },
+      "album": "Autumn '66",
+      "duration": 171,
+      "isrc": "GBAAN6600031"
+    },
+    {
+      "artist": "Omah Lay",
+      "title": "WATER SPIRIT",
+      "services": {
+        "qobuz": "398063688"
+      },
+      "album": "CLARITY OF MIND",
+      "duration": 168,
+      "isrc": "USWB12600878"
+    },
+    {
+      "artist": "Zinc Room",
+      "title": "Ground in the rain",
+      "services": {
+        "qobuz": "329745112"
+      },
+      "album": "Incipient Spring",
+      "duration": 688,
+      "isrc": "GXBNP2532626"
+    },
+    {
+      "artist": "Melek-Tha",
+      "title": "Igrega Du Diablo",
+      "services": {
+        "qobuz": "56160239"
+      },
+      "album": "De Magia Naturali Daemoniaca",
+      "duration": 302,
+      "isrc": "GBAS91202204"
+    },
+    {
+      "artist": "Lords Of The New Church",
+      "title": "Dance With Me",
+      "services": {
+        "qobuz": "31285845"
+      },
+      "album": "Is Nothing Sacred?",
+      "duration": 204,
+      "isrc": "USIR38600006"
+    },
+    {
+      "artist": "Ice Age",
+      "title": "The Needle's Eye",
+      "services": {
+        "qobuz": "192905414"
+      },
+      "album": "Waves of Loss and Power",
+      "duration": 424,
+      "isrc": "USET72319201"
+    },
+    {
+      "artist": "Dan Mangan",
+      "title": "Cut The Brakes",
+      "services": {
+        "qobuz": "334378349"
+      },
+      "album": "Natural Light",
+      "duration": 217,
+      "isrc": "CAAA12524509"
+    },
+    {
+      "artist": "Teddy Swims",
+      "title": "The Door",
+      "services": {
+        "qobuz": "215605368"
+      },
+      "album": "I've Tried Everything But Therapy (Part 1)",
+      "duration": 212,
+      "isrc": "USWB12302870"
+    },
+    {
+      "artist": "AURORA",
+      "title": "Dance On The Moon",
+      "services": {
+        "qobuz": "60268564"
+      },
+      "album": "A Different Kind Of Human \u2013 Step 2",
+      "duration": 216,
+      "isrc": "GBUM71808072"
+    },
+    {
+      "artist": "Deep Purple",
+      "title": "Holy Man",
+      "services": {
+        "qobuz": "1736806"
+      },
+      "album": "Stormbringer (Edition sp\u00e9ciale)",
+      "duration": 272,
+      "isrc": "GBDXG0800011"
+    },
+    {
+      "artist": "Jon Hopkins",
+      "title": "part vii - dissolution",
+      "services": {
+        "qobuz": "264743591"
+      },
+      "album": "RITUAL",
+      "duration": 397,
+      "isrc": "GBCEL2400101"
+    },
+    {
+      "artist": "Enthauptung",
+      "title": "The Groan of Pines",
+      "services": {
+        "qobuz": "75041911"
+      },
+      "album": "Adirondack",
+      "duration": 564,
+      "isrc": "USHM81563479"
+    },
+    {
+      "artist": "Sacred Spirit",
+      "title": "Yeha Noha (Wishes Of Happiness And Prosperity)",
+      "services": {
+        "qobuz": "3548591"
+      },
+      "album": "Chants And Dances Of The Native Americans",
+      "duration": 243,
+      "isrc": "GBAAA9400375"
+    },
+    {
+      "artist": "Bea Bacher",
+      "title": "Resignation",
+      "services": {
+        "qobuz": "235412870"
+      },
+      "album": "Flusspferdhofsiedlung",
+      "duration": 144,
+      "isrc": "DENA52310754"
+    },
+    {
+      "artist": "Reggio",
+      "title": "The Light",
+      "services": {
+        "qobuz": "211234538"
+      },
+      "album": "We Are the Children of the Setting Sun",
+      "duration": 233,
+      "isrc": "QMAAK2236666"
+    },
+    {
+      "artist": "Colter Wall",
+      "title": "My Present Just Gets Past Me",
+      "services": {
+        "qobuz": "358339240"
+      },
+      "album": "Memories and Empties",
+      "duration": 186,
+      "isrc": "USRC12501256"
+    }
+  ]
+}

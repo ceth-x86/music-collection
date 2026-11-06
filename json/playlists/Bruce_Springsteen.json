@@ -1,0 +1,39 @@
+{
+  "name": "Bruce Springsteen",
+  "services": {
+    "qobuz": "66929432",
+    "tidal": "b1a43f22-341a-45fe-a9a8-717809ef369b"
+  },
+  "tracks": [
+    {
+      "artist": "Bruce Springsteen",
+      "title": "Growin' Up",
+      "services": {
+        "qobuz": "13358671"
+      },
+      "album": "Greetings from Asbury Park, N.J.",
+      "duration": 184,
+      "isrc": "USSM17300686"
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "title": "Mary Queen of Arkansas",
+      "services": {
+        "qobuz": "13358672"
+      },
+      "album": "Greetings from Asbury Park, N.J.",
+      "duration": 321,
+      "isrc": "USSM17300687"
+    },
+    {
+      "artist": "Bruce Springsteen",
+      "title": "Lost in the Flood",
+      "services": {
+        "qobuz": "13358674"
+      },
+      "album": "Greetings from Asbury Park, N.J.",
+      "duration": 313,
+      "isrc": "USSM17300689"
+    }
+  ]
+}

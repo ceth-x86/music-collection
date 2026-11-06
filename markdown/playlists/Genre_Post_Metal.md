@@ -1,0 +1,82 @@
+# Genre: Post Metal
+
+Imported genre playlist: Post Metal.
+
+Services: `qobuz:66735986` `tidal:dd7cf04d-eec8-4416-bc6c-d9461f4d0af3`
+
+## Tracks (74)
+
+- **Michael Angelo** — virtual purity interlude [NEUE AGE NEUROSIS] (3:12) `isrc:QZWFM2563885` `qobuz:348569535`
+- **Cult of Luna** — The Watchtower [The Beyond] (6:19) `isrc:GBBPB0200167` `qobuz:22918099`
+- **Isis** — Carry [Live VI - 11/16/2007] (5:52) `isrc:USA371572858` `qobuz:69391683`
+- **L2B** — Pélican [Pélican] (2:45) `isrc:FRDJ72500030` `qobuz:316775313`
+- **jesu** — Friends Are Evil (Deluxe) [jesu (Remaster Deluxe)] (9:41) `isrc:QZHN82201766` `qobuz:156367634`
+- **YAÏA** — Mi madre [Annette De Mare a Hija] (0:37) `isrc:FR9W12133034` `qobuz:138013415`
+- **Buried Inside** — Time As Commodity [Chronoclast: Selected Essays on Time-Reckoning and Auto-Cannibalism] (5:50) `isrc:US2640562909` `qobuz:60650276`
+- **Red Sparowes** — Like the Howling Glory of the Darkest Winds, This Voice Was Thunderous and the Words Holy, Tangling Their Way Around Our Hearts and Clutching Our Innocent Awe [Every Red Heart Shines Toward the Red Sun] (10:07) `isrc:US4JA0600386` `qobuz:46845527`
+- **Rosetta** — Wake [Wake/Lift] (9:27) `isrc:USCHW0702305` `qobuz:63293299`
+- **Made Out Of Babies** — Cooker [The Ruiner] (5:49) `isrc:US2420810601` `qobuz:387128012`
+- **Battle Of Mice** — At the Base of the Giant's Throat [A Day of Nights] (9:08) `isrc:US4JA0600397` `qobuz:49363146`
+- **Callisto** — Cold Stare [True Nature Unfolds] (6:32) `isrc:FIFR50400022` `qobuz:77352522`
+- **Russian Circles** — Harper Lewis [Station] (7:15) `isrc:US33X0807002` `qobuz:20966733`
+- **Mouth of the Architect** — Hate And Heartache [Quietly] (7:33) `isrc:USCHW0803002` `qobuz:63287429`
+- **Giant Squid** — Metridium Fields [Metridium Fields] (21:08) `isrc:USCHW2321708` `qobuz:239204439`
+- **Zatokrev** — Bury The Ashes [Bury The Ashes] (7:38) `isrc:CH5110600001` `qobuz:101250551`
+- **Overmars** — Born Again [Born Again] (39:25) `isrc:US33D0910026` `qobuz:25446625`
+- **Bossk** — Truth II [.4] (7:57) `isrc:QZ22D2400028` `qobuz:251028845`
+- **José González** — A Perfect Storm [Against The Dying Of The Light] (3:04) `isrc:SEVVX2600101` `qobuz:374810063`
+- **Minsk** — Ceremony Ek Stasis [The Ritual Fires of Abandonment] (15:39) `isrc:US2640770806` `qobuz:60622095`
+- **Dirge** — Venus Claws [Hyperion] (8:51) `isrc:FR9W11319707` `qobuz:14818675`
+- **Deep Theta Binaural Beats** — Angelic Sleep Voyage [Angels in the Sands of Time: Sleep Hypnosis Meditation, Time Travel with Angels to Manifest Your Future, or Discover Your Past Lives, Deep Theta/Delta Waves] (2:58) `isrc:IEWWH2408562` `qobuz:276185216`
+- **Amenra** — .Razoreater. [Mass Iiii] (7:01) `isrc:TCAAW1137142` `qobuz:188585799`
+- **Burst** — Where the Wave Broke [Origo] (3:36) `isrc:US2640565701` `qobuz:60829058`
+- **Latitudes** — Antechamber [Agonist] (7:05) `isrc:GBTEG0900119` `qobuz:46877628`
+- **The Atlas Moth** — The Streets of Bombay [Coma Noir] (7:08) `isrc:USERN1009632` `qobuz:47185474`
+- **With Our Arms to the Sun** — The War: Light the Shadows [Orenda] (5:37) `isrc:TCACZ1724652` `qobuz:125680945`
+- **Sierra Hull** — Lord, That's A Long Way [A Tip Toe High Wire] (3:07) `isrc:USUYG1594569` `qobuz:313210714`
+- **A Swarm of the Sun** — These Depths Were Always Meant for Both of Us [20.11.03] (10:59) `isrc:QM4TW2102641` `qobuz:111312259`
+- **The Ocean** — Firmament [Heliocentric] (7:29) `isrc:USMBR1007290` `qobuz:60685696`
+- **Rinoa** — Past Maidens [An Age Among Them] (8:27) `isrc:GBMMV1010012` `qobuz:73917155`
+- **Year of No Light** — Les Mains De L'empereur [Nord] (9:57) `isrc:FR6V81576859` `qobuz:168852941`
+- **The Amazing Rhythm Aces** — Living in a World Unknown [Toucan Do It Too] (4:25) `isrc:USSM11406014` `qobuz:19716963`
+- **Omega Massif** — Im Karst [Karpatia] (8:04) `isrc:DEZ651109863` `qobuz:104316116`
+- **Sólstafir** — Ljós í Stormi [Svartir Sandar] (11:35) `isrc:FR33T1124701` `qobuz:77783456`
+- ***Shels** — Butterflies (on Luci's Way) [Plains of the Purple Buffalo] (9:04) `isrc:GBTEG1100170` `qobuz:73913879`
+- **Toundra** — Cielo Negro (Black Sky) [(III)] (6:00) `isrc:ES71I1200033` `qobuz:49068070`
+- **The Growlers** — When You Were Made [City Club] (3:38) `isrc:QMKBG1600049` `qobuz:167624034`
+- **Tempel** — On the Steps of the Temple [On the Steps of the Temple] (10:59) `isrc:USERN1008617` `qobuz:49170875`
+- **Obscure Sphinx** — Lunar Caustic [Void Mother] (7:51) `isrc:TCABS1487264` `qobuz:125363935`
+- **True Widow** — FOUR TEETH [Circumambulation] (6:16) `isrc:US2641321803` `qobuz:60770474`
+- **Abraham** — I Ride the Last Sunrise [Look, Here Comes the Dark!] (6:01) `isrc:DEZ651716238` `qobuz:51805562`
+- **Rush** — Leave That Thing Alone [The Studio Albums 1989-2007] (4:05) `isrc:USAT21300557` `qobuz:17376575`
+- **Planning For Burial** — Warmth of You [Below the House] (3:33) `isrc:USA2Z1611575` `qobuz:38677759`
+- **Light Bearer** — Prelapsus [Lapsus] (7:04) `isrc:DEZ651116164` `qobuz:48632405`
+- **Birds on a Wire** — Hélas mon cœur [Nuées ardentes] (2:55) `isrc:FR9W12466161` `qobuz:338136761`
+- **Svalbard** — Open Wound [When I Die, Will I Get Better?] (5:36) `isrc:GBMLT1501478` `qobuz:105366570`
+- **Spotlights** — Seismic [Spotlights on Audiotree Live] (5:10) `isrc:QM99V1713001` `qobuz:92307263`
+- **Sumac** — The Task [St Vitus 09​/​07​/​2018] (19:44) `isrc:USA2B2202490` `qobuz:158658890`
+- **Boris** — Farewell [Gensho] (7:53) `isrc:JPB621500071` `qobuz:29173396`
+- **Mountaineer** — Bloodletting [Bloodletting] (5:27) `isrc:US94P2019705` `qobuz:89528456`
+- **Glassing** — A Good Death [Spotted Horse] (6:05) `isrc:QM4TX1916029` `qobuz:59509775`
+- **Sannhet** — Revisionist [Revisionist] (4:02) `isrc:US3CR1401045` `qobuz:52279881`
+- **Love Sex Machine** — Asexual Anger [Asexual Anger] (4:40) `isrc:FR26V1603457` `qobuz:198451110`
+- **Holy Fawn** — Dark Stone [Death Spells] (6:22) `isrc:QZDA81847253` `qobuz:60028369`
+- **Psychonaut** — The Fall of Consciousness [Unfold the God Man] (8:52) `isrc:QMPKX1812830` `qobuz:84995013`
+- **Trna** — Earthcult [Earthcult] (14:58) `isrc:USCGJ1828517` `qobuz:98034440`
+- **Messa** — Leah [Feast for Water] (8:09) `isrc:ITJ351801648` `qobuz:53770786`
+- **The Moth Gatherer** — Pale Explosions [The Earth Is the Sky] (8:37) `isrc:QM7281591352` `qobuz:308285993`
+- **Hypno5e** — On the Dry Lake [A Distant (Dark) Source] (12:26) `isrc:QM6P41993838` `qobuz:71533833`
+- **PSOTY** — Watcher Of The Abyss [Sunless] (10:14) `isrc:GBUM71902464` `qobuz:190322839`
+- **luXe Timeless** — Groove Céleste [Groove Céleste] (2:50) `isrc:QZK6G2305257` `qobuz:217446088`
+- **E. Wyatt** — Mušhuššu [Al Beluti Daru] (18:33) `isrc:GX3Q92187107` `qobuz:279505509`
+- **Som** — Awake // Sedate [Awake // Sedate] (4:33) `isrc:DGA052099384` `qobuz:109177951`
+- **LLNN** — Desecrator [Unmaker] (4:12) `isrc:QM4TX2149459` `qobuz:125572458`
+- **DVNE** — Towers [Etemen Ænka] (9:05) `isrc:USMBR1914012` `qobuz:106334374`
+- **Sons of Alpha Centauri** — Push [Push] (3:23) `isrc:GBWMH2109804` `qobuz:157889277`
+- **Devinaga** — Heel en compleet [Mijn pijn, mijn leraar] (2:42) `isrc:QZZ7T2629600` `qobuz:419996158`
+- **E-L-R** — Opiate the Sun [Vexier] (12:06) `isrc:DES562210012` `qobuz:189660978`
+- **BRIQUEVILLE** — AKTE XVI [IIII] (6:57) `isrc:QMFME2225969` `qobuz:226188739`
+- **Wren** — Scorched Hinds [Black Rain Falls] (4:16) `isrc:DGA0R2419238` `qobuz:302286436`
+- **rýr** — dislodged [dislodged] (6:50) `isrc:QM4TX2541339` `qobuz:317886546`
+- **Baku** — OPPOSITE 1 [SOMA] (11:34) `isrc:FR9W12430588` `qobuz:318706689`
+- **Bimurta Metal** — Baba Hargila [All skies lead to the sun] (4:18) `isrc:QT6G52570373` `qobuz:378908699`

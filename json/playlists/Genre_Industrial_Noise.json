@@ -1,0 +1,1000 @@
+{
+  "name": "Genre: Industrial Noise",
+  "services": {
+    "qobuz": "66733451",
+    "tidal": "a7ae907f-1589-44c3-9b96-2a8ed8ab9461"
+  },
+  "description": "Imported genre playlist: Industrial Noise.",
+  "tracks": [
+    {
+      "artist": "Einst\u00fcrzende Neubauten",
+      "title": "Kollaps",
+      "services": {
+        "qobuz": "91250344"
+      },
+      "album": "Kollaps",
+      "duration": 483,
+      "isrc": "DEQ040390147"
+    },
+    {
+      "artist": "People Under The Stairs",
+      "title": "Empty Bottles of Water",
+      "services": {
+        "qobuz": "15726240"
+      },
+      "album": "O.S.T.",
+      "duration": 207,
+      "isrc": "USOM80310506"
+    },
+    {
+      "artist": "The Haters",
+      "title": "Noise As The Blank Banner Of An Untitled Ideology",
+      "services": {
+        "qobuz": "52200133"
+      },
+      "album": "Blank Banner",
+      "duration": 1768,
+      "isrc": "USA2Z1211939"
+    },
+    {
+      "artist": "Das Synthetische Mischgewebe",
+      "title": "Untitled 5",
+      "services": {
+        "qobuz": "29996260"
+      },
+      "album": "Frequency Conquistadors",
+      "duration": 424,
+      "isrc": "DEX260991129"
+    },
+    {
+      "artist": "SAULT",
+      "title": "Wildfires",
+      "services": {
+        "qobuz": "127347408"
+      },
+      "album": "Untitled (Black Is)",
+      "duration": 206,
+      "isrc": "UKMEH2000068"
+    },
+    {
+      "artist": "Eberhard Schoener",
+      "title": "Falling in Trance",
+      "services": {
+        "qobuz": "10214918"
+      },
+      "album": "Trance-Formation",
+      "duration": 345,
+      "isrc": "DEMV90900479"
+    },
+    {
+      "artist": "Dan Bern",
+      "title": "New American Language (Remastered)",
+      "services": {
+        "qobuz": "246401438"
+      },
+      "album": "New American Language (Remastered)",
+      "duration": 312,
+      "isrc": "QZDGM2400004"
+    },
+    {
+      "artist": "Die Form",
+      "title": "Masochist II",
+      "services": {
+        "qobuz": "134668647"
+      },
+      "album": "Histories, Vol. 2",
+      "duration": 296,
+      "isrc": "DEBZ70900201"
+    },
+    {
+      "artist": "Brezel G\u00f6ring",
+      "title": "Psychopathia Sexualis",
+      "services": {
+        "qobuz": "155709435"
+      },
+      "album": "Psychoanalyse, Vol. 2",
+      "duration": 287,
+      "isrc": "DEZJ92211003"
+    },
+    {
+      "artist": "Fretwork",
+      "title": "Christe, aller Welt Trost (harmonization from Riemenschneider Chorale No. 132, from Clavier \u00dcbung, Part III)",
+      "services": {
+        "qobuz": "4751527"
+      },
+      "album": "J.S. Bach: Alio modo - \"Passacaglia\" & other keyboard works transcribed for viols",
+      "duration": 91,
+      "isrc": "USHM10439506"
+    },
+    {
+      "artist": "Plies",
+      "title": "Bust It Baby, Pt. 2 (feat. Ne-Yo)",
+      "services": {
+        "qobuz": "3001293"
+      },
+      "album": "Definition of Real",
+      "duration": 240,
+      "isrc": "USAT20801378"
+    },
+    {
+      "artist": "Dieter Kessler",
+      "title": "Toyo Akita",
+      "services": {
+        "qobuz": "50254114"
+      },
+      "album": "Honkyoku",
+      "duration": 525,
+      "isrc": "DEAR41868305"
+    },
+    {
+      "artist": "Controlled Bleeding",
+      "title": "Scourge",
+      "services": {
+        "qobuz": "71683110"
+      },
+      "album": "Golgotha",
+      "duration": 1571,
+      "isrc": "USI4R0605910"
+    },
+    {
+      "artist": "John Zorn",
+      "title": "Etant Donnes 1-69",
+      "services": {
+        "qobuz": "87114248"
+      },
+      "album": "Duras:duchamp",
+      "duration": 797,
+      "isrc": "USCRW9702305"
+    },
+    {
+      "artist": "Neo Echo",
+      "title": "K. 397 [E 385g]: Fantasia No. 3 in D Minor",
+      "services": {
+        "qobuz": "352291490"
+      },
+      "album": "Wolfgang Amadeus Mozart : Piano Solo (432 Hz)",
+      "duration": 303,
+      "isrc": "CH6542560191"
+    },
+    {
+      "artist": "Esplendor Geom\u00e9trico",
+      "title": "Mosc\u00fa Est\u00e1 Helado",
+      "services": {
+        "qobuz": "8609431"
+      },
+      "album": "Prehistoric Sounds. Necrosis & More 1980-1981",
+      "duration": 225,
+      "isrc": "ES8591300611"
+    },
+    {
+      "artist": "Rapha\u00ebl Pichon",
+      "title": "I. Missa. Kyrie, Gloria: No. 9, Qui tollis peccata mundi",
+      "services": {
+        "qobuz": "316403560"
+      },
+      "album": "J. S. Bach: Mass in B Minor, BWV 232",
+      "duration": 226,
+      "isrc": "FR7JM2454090"
+    },
+    {
+      "artist": "Silesian Quartet",
+      "title": "String Quartet No. 7: III. Con vivezza",
+      "services": {
+        "qobuz": "309968518"
+      },
+      "album": "Bacewicz: Complete String Quartets",
+      "duration": 286,
+      "isrc": "GBLWD1603411"
+    },
+    {
+      "artist": "Semiso Treso",
+      "title": "Ein Winter ohne Dich",
+      "services": {
+        "qobuz": "301305326"
+      },
+      "album": "Die Beste Zeit (Das Weihnachtsalbum)",
+      "duration": 239,
+      "isrc": "DE1O62496522"
+    },
+    {
+      "artist": "Scotty Hard",
+      "title": "Primary Humour",
+      "services": {
+        "qobuz": "291120439"
+      },
+      "album": "Scotty Hard's Radical Reconstructive Surgery-John Medeski, Matthew Shipp",
+      "duration": 88,
+      "isrc": "USAJ60617201"
+    },
+    {
+      "artist": "Sirkka-Liisa Kaakinen-Pilch",
+      "title": "Mystery Sonata No. 4 \"The Presentation of the Infant Jesus in the Temple\"",
+      "services": {
+        "qobuz": "306248639"
+      },
+      "album": "Biber: Rosenkrantz Sonaten",
+      "duration": 474,
+      "isrc": "FINDE1400008"
+    },
+    {
+      "artist": "Blackjack",
+      "title": "Maybe Its the Power of Love",
+      "services": {
+        "qobuz": "98623002"
+      },
+      "album": "Worlds Apart",
+      "duration": 227,
+      "isrc": "USHM92011020"
+    },
+    {
+      "artist": "Paul Vidal",
+      "title": "Carnival of the Animals, R. 125: XIII. The Swan (Arr. P. Vidal for Cello & Orchestra)",
+      "services": {
+        "qobuz": "64734567"
+      },
+      "album": "Charming Cello",
+      "duration": 189,
+      "isrc": "HKI191715911"
+    },
+    {
+      "artist": "Beherit",
+      "title": "Werewolf, Semen And Blood",
+      "services": {
+        "qobuz": "190529758"
+      },
+      "album": "Drawing Down the Moon",
+      "duration": 185,
+      "isrc": "FIUM70800876"
+    },
+    {
+      "artist": "Craig Duncan",
+      "title": "Dennis Murphy / John Ryan",
+      "services": {
+        "qobuz": "1164009"
+      },
+      "album": "Irish Dance",
+      "duration": 215,
+      "isrc": "USB4U0851611"
+    },
+    {
+      "artist": "dgoHn",
+      "title": "Untitled Pig Dog",
+      "services": {
+        "qobuz": "365860002"
+      },
+      "album": "All the Fuckin' As",
+      "duration": 345,
+      "isrc": "UK6821406417"
+    },
+    {
+      "artist": "Victim",
+      "title": "Personal Problems",
+      "services": {
+        "qobuz": "391852209"
+      },
+      "album": "Brand New Stranger",
+      "duration": 252,
+      "isrc": "QZES51971314"
+    },
+    {
+      "artist": "Calliope Brass",
+      "title": "A Garden Story, Pt. 4: Everything Goes to Sleep",
+      "services": {
+        "qobuz": "310037690"
+      },
+      "album": "Second Nature",
+      "duration": 215,
+      "isrc": "USPMZ2417205"
+    },
+    {
+      "artist": "Peter Frechette",
+      "title": "Do It For Our Country",
+      "services": {
+        "qobuz": "42642215"
+      },
+      "album": "Grease 2",
+      "duration": 161,
+      "isrc": "NLF058290009"
+    },
+    {
+      "artist": "Sara Evans",
+      "title": "Every Little Kiss",
+      "services": {
+        "qobuz": "4858995"
+      },
+      "album": "Born To Fly",
+      "duration": 364,
+      "isrc": "USRN10000108"
+    },
+    {
+      "artist": "Best Noise",
+      "title": "White Noise 432 Hertz - One Hour (Loopable with No Fade)",
+      "services": {
+        "qobuz": "215022841"
+      },
+      "album": "Pure White Noise: Good Sleep 432 Hz",
+      "duration": 3600,
+      "isrc": "US25X1900048"
+    },
+    {
+      "artist": "Craig Safan",
+      "title": "X-Ray Room / Taxi Ride With Mannequins",
+      "services": {
+        "qobuz": "101255540"
+      },
+      "album": "Lady Beware",
+      "duration": 171,
+      "isrc": "QM7282093515"
+    },
+    {
+      "artist": "They Are Gutting A Body Of Water",
+      "title": "fight at a kegger in the woods and everybody is shining their phone lights into the carnage screaming",
+      "services": {
+        "qobuz": "271792523"
+      },
+      "album": "swanlike (loosies 2020-2023)",
+      "duration": 212,
+      "isrc": "QZNWP2450988"
+    },
+    {
+      "artist": "Made Matrix",
+      "title": "Mama",
+      "services": {
+        "qobuz": "416099008"
+      },
+      "album": "Mama",
+      "duration": 255,
+      "isrc": "EEHM52630610"
+    },
+    {
+      "artist": "Brian Daw",
+      "title": "I Will Go and Do: 2020 Youth Theme",
+      "services": {
+        "qobuz": "256531837"
+      },
+      "album": "Remembering Christ LDS Hymns and Songs",
+      "duration": 232,
+      "isrc": "TCAIA2401718"
+    },
+    {
+      "artist": "A-Star",
+      "title": "Stepping Good",
+      "services": {
+        "qobuz": "120738412"
+      },
+      "album": "Stepping Good",
+      "duration": 189,
+      "isrc": "FR96X2124433"
+    },
+    {
+      "artist": "The D\u00f8",
+      "title": "Lick My Wounds",
+      "services": {
+        "qobuz": "19179018"
+      },
+      "album": "Shake Shook Shaken",
+      "duration": 199,
+      "isrc": "FR2MH1400018"
+    },
+    {
+      "artist": "Therapie TAXI",
+      "title": "J'en ai marre",
+      "services": {
+        "qobuz": "44797476"
+      },
+      "album": "Hit Sale",
+      "duration": 200,
+      "isrc": "FR7O51700220"
+    },
+    {
+      "artist": "Silvia Cignoli",
+      "title": "II - Schiudente",
+      "services": {
+        "qobuz": "284958653"
+      },
+      "album": "Allegory of Earth and Water",
+      "duration": 448,
+      "isrc": "QZWV32458125"
+    },
+    {
+      "artist": "Tears|Ov",
+      "title": "I Stand on the Cable",
+      "services": {
+        "qobuz": "72228997"
+      },
+      "album": "A Hopeless Place",
+      "duration": 318,
+      "isrc": "GBJYX1914302"
+    },
+    {
+      "artist": "Cristina Bay\u00f3n \u00c1lvarez",
+      "title": "La voix qui dit: je t'aime in A Major",
+      "services": {
+        "qobuz": "190871302"
+      },
+      "album": "Music for Soprano & Guitar by Female Composers",
+      "duration": 167,
+      "isrc": "NLY332201570"
+    },
+    {
+      "artist": "$uicideboy$",
+      "title": "Are You Going to See the Rose in the Vase, or the Dust on the Table",
+      "services": {
+        "qobuz": "271652295"
+      },
+      "album": "New World Depression",
+      "duration": 150,
+      "isrc": "QZAPK2000495"
+    },
+    {
+      "artist": "Don Goliath",
+      "title": "Beer and Rum",
+      "services": {
+        "qobuz": "49862348"
+      },
+      "album": "Skastep R.I.P. - The Dubstep Mixes",
+      "duration": 234,
+      "isrc": "DEPC81300350"
+    },
+    {
+      "artist": "Bennett",
+      "title": "Vois sur ton chemin",
+      "services": {
+        "qobuz": "245073113"
+      },
+      "album": "Vois sur ton chemin",
+      "duration": 146,
+      "isrc": "DEA622304124"
+    },
+    {
+      "artist": "Smith and The Honey Badgers",
+      "title": "Good Work (Live at Jamuary 3)",
+      "services": {
+        "qobuz": "325948600"
+      },
+      "album": "Killing Time",
+      "duration": 269,
+      "isrc": "QZK6P2524044"
+    },
+    {
+      "artist": "The Breakers",
+      "title": "Surf Bird",
+      "services": {
+        "qobuz": "48638652"
+      },
+      "album": "Back When My Hair Was Short:  Hits Of The Early \u201860s",
+      "duration": 149,
+      "isrc": "USBT21602380"
+    },
+    {
+      "artist": "Karine Ste-Marie",
+      "title": "Open Up Your Heart",
+      "services": {
+        "qobuz": "358028992"
+      },
+      "album": "Sacred Breath",
+      "duration": 189,
+      "isrc": "CA99T2500003"
+    },
+    {
+      "artist": "Arcana Sonus",
+      "title": "Dazhbog's Golden Glare",
+      "services": {
+        "qobuz": "369189622"
+      },
+      "album": "Rites of the Old Pantheon: A Slavic Mythos",
+      "duration": 193,
+      "isrc": "QT6EW2551583"
+    },
+    {
+      "artist": "Emily Lacy",
+      "title": "Lonesome Valley",
+      "services": {
+        "qobuz": "69067789"
+      },
+      "album": "Old Time Songs For New People",
+      "duration": 142,
+      "isrc": "USA370900289"
+    },
+    {
+      "artist": "Eva Foss",
+      "title": "effortless",
+      "services": {
+        "qobuz": "431146299"
+      },
+      "album": "effortless",
+      "duration": 167,
+      "isrc": "QT6EF2660419"
+    },
+    {
+      "artist": "Nora Music",
+      "title": "Stolen Moments Feel Infinite",
+      "services": {
+        "qobuz": "393084558"
+      },
+      "album": "Pure Love No Words",
+      "duration": 105,
+      "isrc": "GXJBN2671312"
+    },
+    {
+      "artist": "Jason Mraz",
+      "title": "No Stopping Us",
+      "services": {
+        "qobuz": "179299669"
+      },
+      "album": "Waiting for My Rocket to Come",
+      "duration": 198,
+      "isrc": "USEE10240656"
+    },
+    {
+      "artist": "The Replacements",
+      "title": "Here Comes a Regular",
+      "services": {
+        "qobuz": "2595173"
+      },
+      "album": "All for Nothing / Nothing for All",
+      "duration": 285,
+      "isrc": "USRE18500004"
+    },
+    {
+      "artist": "Jewel",
+      "title": "Fading",
+      "services": {
+        "qobuz": "20278600"
+      },
+      "album": "Sweet And Wild",
+      "duration": 213,
+      "isrc": "USLXJ1001140"
+    },
+    {
+      "artist": "Linekraft",
+      "title": "Hedonistic Recharger \u5feb\u697d\u518d\u5145\u96fb\u8005",
+      "services": {
+        "qobuz": "333894664"
+      },
+      "album": "Humiliating Human",
+      "duration": 642,
+      "isrc": "USA2Z2500626"
+    },
+    {
+      "artist": "Cruel Diagonals",
+      "title": "Apex of My Discontent",
+      "services": {
+        "qobuz": "128281129"
+      },
+      "album": "A Dormant Vigor",
+      "duration": 201,
+      "isrc": "USHM92101441"
+    },
+    {
+      "artist": "Liew Niyomkarn",
+      "title": "cross over between",
+      "services": {
+        "qobuz": "162033488"
+      },
+      "album": "I Think of Another Time When You Heard It",
+      "duration": 286,
+      "isrc": "USA2P2228753"
+    },
+    {
+      "artist": "Alice Merton",
+      "title": "Ignorance is Bliss",
+      "services": {
+        "qobuz": "357973280"
+      },
+      "album": "Visions",
+      "duration": 214,
+      "isrc": "DEVQ72500002"
+    },
+    {
+      "artist": "Ryuji Takeuchi",
+      "title": "Scattered",
+      "services": {
+        "qobuz": "80948485"
+      },
+      "album": "Scattered",
+      "duration": 434,
+      "isrc": "GBG4X1000145"
+    },
+    {
+      "artist": "Bliss Signal",
+      "title": "Tranq",
+      "services": {
+        "qobuz": "139821792"
+      },
+      "album": "Bliss Signal",
+      "duration": 216,
+      "isrc": "USYBL1801338"
+    },
+    {
+      "artist": "Gareth Coker",
+      "title": "Dash Through Their Home",
+      "services": {
+        "qobuz": "104379990"
+      },
+      "album": "Ori and the Blind Forest",
+      "duration": 209,
+      "isrc": "USA2P2038589"
+    },
+    {
+      "artist": "Alistair Payne",
+      "title": "Rusty Nails Have No Wings",
+      "services": {
+        "qobuz": "225517695"
+      },
+      "album": "REFLEX: Live at BIMHUIS",
+      "duration": 415,
+      "isrc": "NLH212300011"
+    },
+    {
+      "artist": "Da MadoTaka",
+      "title": "Snake Charmer",
+      "services": {
+        "qobuz": "347435816"
+      },
+      "album": "Da Greatest Show On Earth",
+      "duration": 157,
+      "isrc": "QZNMU2578540"
+    },
+    {
+      "artist": "Chuck Prophet",
+      "title": "It's a Good Day to Be Alive",
+      "services": {
+        "qobuz": "272196602"
+      },
+      "album": "Wake The Dead",
+      "duration": 187,
+      "isrc": "USY1R2409511"
+    },
+    {
+      "artist": "Porter Sage Luna",
+      "title": "The Riddle of the Closed Door",
+      "services": {
+        "qobuz": "392105429"
+      },
+      "album": "Hikikomori Recovery to Restore Parent-Child Bonds: Beyond Loneliness \u2013 Understanding, Healing, and the Revival of Love",
+      "duration": 325,
+      "isrc": "CACWV2549372"
+    },
+    {
+      "artist": "Santamarea",
+      "title": "Non ci si ama solo in primavera",
+      "services": {
+        "qobuz": "413620248"
+      },
+      "album": "Anime Storte",
+      "duration": 200,
+      "isrc": "ITB002600519"
+    },
+    {
+      "artist": "Serge Koolenn",
+      "title": "J'ai rien vu",
+      "services": {
+        "qobuz": "132039951"
+      },
+      "album": "Paris Hollywood",
+      "duration": 235,
+      "isrc": "FRZ042100958"
+    },
+    {
+      "artist": "Blue \u00d6yster Cult",
+      "title": "I Am the One You Warned Me Of",
+      "services": {
+        "qobuz": "33443746"
+      },
+      "album": "Imaginos",
+      "duration": 305,
+      "isrc": "USSM10304943"
+    },
+    {
+      "artist": "Unwound",
+      "title": "Accidents on Purpose",
+      "services": {
+        "qobuz": "376581210"
+      },
+      "album": "The Future of What",
+      "duration": 115,
+      "isrc": "USCW61201039"
+    },
+    {
+      "artist": "Lil'Flip",
+      "title": "I Came to Bring The Pain",
+      "services": {
+        "qobuz": "47036394"
+      },
+      "album": "U Gotta Feel Me",
+      "duration": 287,
+      "isrc": "USSM10401528"
+    },
+    {
+      "artist": "Fochs Koshka",
+      "title": "32 Permanent Adult Teeth",
+      "services": {
+        "qobuz": "349976362"
+      },
+      "album": "32 Permanent Adult Teeth",
+      "duration": 252,
+      "isrc": "QZWFR2565261"
+    },
+    {
+      "artist": "Bridget Ferrill",
+      "title": "Biblically Accurate Heartbreaker",
+      "services": {
+        "qobuz": "365953789"
+      },
+      "album": "Domschatzkammer",
+      "duration": 187,
+      "isrc": "GBGXC2520044"
+    },
+    {
+      "artist": "Kate Westbrook",
+      "title": "Drowned in the Flood",
+      "services": {
+        "qobuz": "151677873"
+      },
+      "album": "Earth Felt the Wound",
+      "duration": 309,
+      "isrc": "UK3MU2000017"
+    },
+    {
+      "artist": "Lauren Bousfield",
+      "title": "Hazer",
+      "services": {
+        "qobuz": "201193529"
+      },
+      "album": "Salesforce",
+      "duration": 207,
+      "isrc": "USLZJ2356860"
+    },
+    {
+      "artist": "The Subways",
+      "title": "We Don't Need Money to Have a Good Time",
+      "services": {
+        "qobuz": "355687681"
+      },
+      "album": "When I'm With You",
+      "duration": 193,
+      "isrc": "GBCEJ1100157"
+    },
+    {
+      "artist": "The Strokes",
+      "title": "New York City Cops",
+      "services": {
+        "qobuz": "19020"
+      },
+      "album": "Is This It",
+      "duration": 210,
+      "isrc": "USRC10100767"
+    },
+    {
+      "artist": "De Magia Veterum",
+      "title": "The Confusion of Tongues",
+      "services": {
+        "qobuz": "71546668"
+      },
+      "album": "Migdal Bavel",
+      "duration": 174,
+      "isrc": "USI4R0909588"
+    },
+    {
+      "artist": "Alexander Williams",
+      "title": "Crush Your Enemies (Instrumental)",
+      "services": {
+        "qobuz": "339341190"
+      },
+      "album": "My Time to Rise",
+      "duration": 274,
+      "isrc": "QZNB82593594"
+    },
+    {
+      "artist": "Leslie Keffer",
+      "title": "Penitence",
+      "services": {
+        "qobuz": "414031805"
+      },
+      "album": "Embody",
+      "duration": 255,
+      "isrc": "QZWFS2663655"
+    },
+    {
+      "artist": "Aerosmith",
+      "title": "Sick As A Dog",
+      "services": {
+        "qobuz": "188600411"
+      },
+      "album": "Rocks",
+      "duration": 252,
+      "isrc": "USSM19930830"
+    },
+    {
+      "artist": "Joe Mantis",
+      "title": "Study Planetary",
+      "services": {
+        "qobuz": "373651530"
+      },
+      "album": "Light Beneath Doors",
+      "duration": 120,
+      "isrc": "GBPS84217058"
+    },
+    {
+      "artist": "Carpathian Forest",
+      "title": "Through Self-Mutilation",
+      "services": {
+        "qobuz": "51001863"
+      },
+      "album": "Morbid Fascination Of Death",
+      "duration": 179,
+      "isrc": "GBCQV0700334"
+    },
+    {
+      "artist": "Sandrider",
+      "title": "Ixian",
+      "services": {
+        "qobuz": "186530266"
+      },
+      "album": "Enveletration",
+      "duration": 236,
+      "isrc": "USA2B2211982"
+    },
+    {
+      "artist": "Senses Fail",
+      "title": "Free Fall Without a Parachute",
+      "services": {
+        "qobuz": "66935874"
+      },
+      "album": "From the Depths of Dreams",
+      "duration": 270,
+      "isrc": "USSTT1900092"
+    },
+    {
+      "artist": "Public Announcement",
+      "title": "Body Bumpin' (Yippie-Yi-Yo)",
+      "services": {
+        "qobuz": "98512521"
+      },
+      "album": "All Work, No Play",
+      "duration": 326,
+      "isrc": "USAM19800017"
+    },
+    {
+      "artist": "Serenity's Soul Music AI",
+      "title": "Rising From The Ashes",
+      "services": {
+        "qobuz": "381068079"
+      },
+      "album": "Rising From The Ashes",
+      "duration": 231,
+      "isrc": "QZFZ22613024"
+    },
+    {
+      "artist": "Mavis Staples",
+      "title": "Nobody Knows The Trouble I've Seen",
+      "services": {
+        "qobuz": "768154"
+      },
+      "album": "Spirituals & Gospel - Dedicated To Mahalia Jackson",
+      "duration": 303,
+      "isrc": "FRZ029601310"
+    },
+    {
+      "artist": "Mayuko Hino",
+      "title": "Faintainhead",
+      "services": {
+        "qobuz": "50349820"
+      },
+      "album": "Lunisolar",
+      "duration": 1194,
+      "isrc": "QM4TX1840355"
+    },
+    {
+      "artist": "Miracle Tones",
+      "title": "528 Hz Anxiety Relief",
+      "services": {
+        "qobuz": "76422636"
+      },
+      "album": "528 Hz Transformation and Miracles (DNA Repair)",
+      "duration": 122,
+      "isrc": "SEBGA1902971"
+    },
+    {
+      "artist": "Mass Marriage",
+      "title": "Damp Floors",
+      "services": {
+        "qobuz": "58630780"
+      },
+      "album": "Innocence",
+      "duration": 439,
+      "isrc": "QZ5FN1927657"
+    },
+    {
+      "artist": "TE/MO",
+      "title": "SIGNS",
+      "services": {
+        "qobuz": "290659244"
+      },
+      "album": "TAROT, REVERSED",
+      "duration": 164,
+      "isrc": "QZTB62448342"
+    },
+    {
+      "artist": "Benjamin Saunders",
+      "title": "Berliner Messe: VIII. Agnus dei",
+      "services": {
+        "qobuz": "26730927"
+      },
+      "album": "Arvo P\u00e4rt: Organ and Choral Music",
+      "duration": 118,
+      "isrc": "NLY331501537"
+    },
+    {
+      "artist": "Nefew",
+      "title": "Tattoo Tears",
+      "services": {
+        "qobuz": "60972800"
+      },
+      "album": "Spray Paint My Name on the Walls",
+      "duration": 200,
+      "isrc": "USUYG1249302"
+    },
+    {
+      "artist": "Rodger Stella",
+      "title": "Live At Dem Passwords",
+      "services": {
+        "qobuz": "52281261"
+      },
+      "album": "In E",
+      "duration": 2405,
+      "isrc": "USA2Z1310471"
+    },
+    {
+      "artist": "Nazareth",
+      "title": "Never Dance with the Devil",
+      "services": {
+        "qobuz": "51734137"
+      },
+      "album": "Tattooed on My Brain",
+      "duration": 180,
+      "isrc": "ITG271800743"
+    },
+    {
+      "artist": "Joe Louis Walker",
+      "title": "1/4 to 3",
+      "services": {
+        "qobuz": "7521329"
+      },
+      "album": "The Gift",
+      "duration": 290,
+      "isrc": "UA2AH0401610"
+    },
+    {
+      "artist": "Jeph Jerman",
+      "title": "11:07",
+      "services": {
+        "qobuz": "94795229"
+      },
+      "album": "34\u00b0111'3\"N 111\u00b095'4\"W",
+      "duration": 667,
+      "isrc": "DEX262000637"
+    },
+    {
+      "artist": "Mind Key",
+      "title": "Dead Fame Hunter",
+      "services": {
+        "qobuz": "7791735"
+      },
+      "album": "Pulse For A Graveheart",
+      "duration": 482,
+      "isrc": "ITG270900163"
+    },
+    {
+      "artist": "Prince",
+      "title": "Katrina's Paper Dolls",
+      "services": {
+        "qobuz": "40380657"
+      },
+      "album": "Purple Rain Deluxe",
+      "duration": 210,
+      "isrc": "USWB11700630"
+    }
+  ]
+}

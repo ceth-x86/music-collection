@@ -1,0 +1,467 @@
+# Albums (465)
+
+- **65daysofstatic** — Wild Light (2013-09-16) [8 tracks] `upc:0886444264297` `qobuz:0886444264297`
+- **A-Ha** — Hunting High and Low (1985-06-01) [10 tracks] `upc:0603497888184` `qobuz:0603497888184`
+- **A-Ha** — Minor Earth, Major Sky (2000-04-21) [33 tracks] `upc:0190295391881` `qobuz:lzopar93p8prc`
+- **A Perfect Circle** — Thirteenth Step (2003-01-01) [12 tracks] `upc:0724358091854` `qobuz:0724358091854`
+- **A Place To Bury Strangers** — Synthesizer (2024-10-04) [10 tracks] `upc:0634457183742` `qobuz:jr74mtwmwlf9a`
+- **AC/DC** — Back In Black (1980-08-01) [10 tracks] `upc:0886444889841` `qobuz:0886444889841`
+- **Adrenaline Mob** — Men of Honor (2014-02-18) [11 tracks] `upc:0886444410984` `qobuz:0886444410984`
+- **AFI** — Silver Bleeds the Black Sun... (2025-10-03) [10 tracks] `upc:0199438000703` `qobuz:h303t7ysn87lc`
+- **After Forever** — After Forever (2007-04-23) [12 tracks] `upc:0727361181161` `tidal:106194982`
+- **Agent Fresco** — Destrier (2015-08-07) [14 tracks] `upc:4001617071892` `qobuz:p8jv5xkt648oa`
+- **Agriculture** — The Spiritual Sound (2025-10-03) [10 tracks] `upc:657628454007` `tidal:443831341`
+- **Alcest** — Écailles de lune (2010-03-26) [6 tracks] `upc:0884388710627` `qobuz:os52geoij309b`
+- **Alice In Chains** — Black Gives Way To Blue (2009-09-28) [13 tracks] `upc:0197187154159` `qobuz:qvr5ggkz1q90b`
+- **Alice In Chains** — Dirt (1992-09-29) [13 tracks] `upc:0074645247526` `qobuz:0074645247526`
+- **Alice In Chains** — Facelift (1990-08-01) [12 tracks] `upc:0888880462077` `qobuz:0888880462077`
+- **Alter Bridge** — Alter Bridge (2026-01-09) [12 tracks] `upc:810185191963` `tidal:487216869`
+- **Amorphis** — Borderland (2025-09-26) [10 tracks] `upc:4251981706597` `tidal:434455425`
+- **Anathema** — A Fine Day to Exit (2001-10-09) [10 tracks] `upc:0886445082463` `qobuz:0886445082463`
+- **Anathema** — Alternative 4 (1998-08-11) [14 tracks] `upc:0669910263761` `qobuz:vgx0tanoq52ub`
+- **Anathema** — Judgement (1999-06-21) [13 tracks] `upc:0886445082456` `qobuz:0886445082456`
+- **Anathema** — Weather Systems (2012-04-16) [9 tracks] `upc:0802644820927` `qobuz:u9xf89c3lvwfc`
+- **Animal Collective** — Spirit They’re Gone, Spirit They’ve Vanished (2000-07-31) [10 tracks] `upc:0194606000264` `qobuz:qg2zud3xu0tqc`
+- **Animals As Leaders** — Animals as Leaders (2009-04-28) [12 tracks] `upc:0656191004336` `qobuz:ogrgxw2snl45b`
+- **Anna von Hausswolff** — ICONOCLASTS (2025-10-31) [12 tracks] `upc:8721215682714` `qobuz:vrn194ll38ouc` `tidal:450695378`
+- **Aphex Twin** — Selected Ambient Works 85-92 (1992-02-10) [13 tracks] `upc:5055274700038` `qobuz:e9457qdjm51fb`
+- **Arcade Fire** — Everything Now (2017-07-28) [13 tracks] `upc:0886446538617` `qobuz:0886446538617`
+- **Architects** — For Those That Wish To Exist At Abbey Road (2022-03-25) [15 tracks] `upc:0045778788361` `qobuz:cpeeyrajzcgka`
+- **Archive** — Glass Minds (2026-02-27) [12 tracks] `upc:5400863191672` `qobuz:kgovkipcwhrmc` `tidal:501069371`
+- **Archive** — You All Look The Same To Me (2025-01-03) [12 tracks] `upc:5400863180867` `qobuz:mz7w7h8cg2rtc`
+- **Arctic Monkeys** — AM (2013-09-09) [12 tracks] `upc:0887828031795` `qobuz:0887828031795`
+- **Asking Alexandria** — Where Do We Go From Here? (2023-08-25) [11 tracks] `upc:846070053801` `tidal:298863062`
+- **Astronoid** — Radiant Bloom (2022-06-03) [9 tracks] `upc:0634164301125` `qobuz:xmt2fmmvoh93b`
+- **At The Drive-In** — Relationship of Command (2000-09-12) [12 tracks] `upc:0887845506221` `qobuz:irod0c8gpleuc`
+- **August Burns Red** — Constellations (2009-07-14) [12 tracks] `upc:0195497465392` `qobuz:fdlzkc7mw2mcb`
+- **Autechre** — Amber (1994-11-07) [11 tracks] `upc:0801061002534` `qobuz:0801061002534`
+- **Autechre** — Basscadet Mixes (1994-04-25) [5 tracks] `upc:0801061904432` `qobuz:0801061904432`
+- **Autechre** — Incunabula (1993-11-29) [11 tracks] `upc:0801061001735` `qobuz:0801061001735`
+- **Avenged Sevenfold** — Life Is But a Dream… (2023-06-02) [11 tracks] `upc:0093624853046` `qobuz:w5pd6vkfjnbyb`
+- **Avenged Sevenfold** — Nightmare (2010-07-23) [11 tracks] `upc:0093624966548` `qobuz:0093624966548`
+- **Beardfish** — Destined Solitaire (2010-07-16) [9 tracks] `upc:0886443685130` `qobuz:0886443685130`
+- **Beastie Boys** — Licensed To Ill (1986-01-01) [13 tracks] `upc:0602537225859` `qobuz:eawvlhvi2lv0b`
+- **Been Stellar** — Scream from New York, NY (2024-06-14) [10 tracks] `upc:0196922756818` `qobuz:gwj1klwuhj00a`
+- **Beth Gibbons** — Lives Outgrown (2024-05-17) [10 tracks] `upc:887828028764` `qobuz:pz8eamyzbi8rc` `tidal:363340896`
+- **Biffy Clyro** — A Celebration Of Endings (2020-08-14) [11 tracks] `upc:190295253776` `tidal:150834950`
+- **Biffy Clyro** — Futique (2025-09-26) [11 tracks] `upc:5021732853516` `qobuz:si5kjb6xqeh3b` `tidal:459503854`
+- **Biffy Clyro** — The Myth of The Happily Ever After (2021-12-10) [11 tracks] `upc:190296481383` `qobuz:abm5xpbil0kxc` `tidal:199068741`
+- **Birds in row** — Gris Klein (2022-10-14) [11 tracks] `upc:0196626879257` `qobuz:jd3coqshfe6gc`
+- **Björk** — Homogenic (1997-09-22) [10 tracks] `upc:5016958995089` `qobuz:zc14ehzprupsa`
+- **Black Country, New Road** — For the first time (2021-02-05) [6 tracks] `upc:5054429142419` `tidal:160225315`
+- **Black Dog Productions** — Bytes (1993-03-08) [11 tracks] `upc:0801061000837` `qobuz:0801061000837`
+- **black midi** — Hellfire (2022-07-15) [10 tracks] `upc:0191402032161` `qobuz:v4ddif9ruijtc`
+- **Black Sabbath** — Sabbath Bloody Sabbath (1973-12-01) [8 tracks] `upc:5414939678974` `qobuz:dvfggpryigs0n`
+- **Boards of Canada** — Inferno (2026-05-29) [18 tracks] `upc:5056818808869` `qobuz:ysyrp6ad84eon` `tidal:528351285`
+- **Boards of Canada** — The Campfire Headphase (2005-10-02) [15 tracks] `upc:0801061012335` `qobuz:0801061012335`
+- **Bob Dylan** — Highway 61 Revisited (1965-08-30) [9 tracks] `upc:0827969239926` `qobuz:0827969239926`
+- **Bruce Springsteen** — Greetings from Asbury Park, N.J. (1973-01-05) [9 tracks] `upc:0074643190329` `qobuz:0074643190329`
+- **Bryan Ferry** — Boys And Girls (1985-05-01) [9 tracks] `upc:0724384772253` `qobuz:0724384772253`
+- **Buckethead** — Electric Tears (2002-10-08) [13 tracks] `upc:0658137001522` `qobuz:y8pk3q4yniuab`
+- **Burial** — Untrue (2007-11-05) [13 tracks] `upc:5024545486520` `qobuz:q9vy3z7yknvgc`
+- **Cabaret Voltaire** — Micro-Phonies (1984-11-01) [9 tracks] `upc:5099999382759` `qobuz:5099999382759`
+- **Callum Beattie** — INDI (2026-01-23) [12 tracks] `upc:711297925647` `tidal:455814755`
+- **Cattle Decapitation** — Terrasite (2023-05-12) [10 tracks] `upc:039841956627` `tidal:265621687`
+- **Chalk** — Crystalpunk (2026-03-13) [10 tracks] `upc:8721465014761` `qobuz:dx1wtog8d0jnw`
+- **Chevelle** — Bright as Blasphemy (2025-08-15) [9 tracks] `upc:04099964165173` `qobuz:xdhuikp1pft7n` `tidal:493570942`
+- **Cigarettes After Sex** — Cigarettes After Sex (2017-06-09) [10 tracks] `upc:0720841214601` `qobuz:dfsw6lwv7cq5a`
+- **Clipse** — Let God Sort Em Out (2025-07-11) [13 tracks] `upc:0810058342768` `qobuz:tngk7ywb8sm3b`
+- **Coheed and Cambria** — The Unheavenly Creatures (2018-10-05) [15 tracks] `upc:0016861742904` `qobuz:m1zomdzbyk0zb`
+- **Comeback Kid** — Chosen Hell (2026-11-06) [11 tracks] `upc:4065629761066` `tidal:572375160`
+- **Converge** — All We Love We Leave Behind (2012-10-09) [17 tracks] `upc:0045778724765` `qobuz:plg5qk5g1rdcc`
+- **Converge** — Jane Doe (2001-09-04) [12 tracks] `upc:0888880843210` `qobuz:oqimhuuk3lt7b`
+- **Converge** — Love Is Not Enough (2026-02-13) [10 tracks] `upc:0045778813568` `tidal:468877687`
+- **Converge, Chelsea Wolfe** — Bloodmoon: I (2021-11-19) [11 tracks] `upc:0045778777068` `tidal:196017208`
+- **Covenant** — Northern Light (2002-09-26) [11 tracks] `upc:5099750884867` `qobuz:5099750884867`
+- **Cult of Luna** — In the Shadow of Your Shadow (2026-11-06) [9 tracks] `upc:820233817530` `tidal:534950948`
+- **Cult of Luna** — The Long Road North (2022-02-11) [9 tracks] `upc:039841950625` `qobuz:x03whjgzonwgb` `tidal:202095259`
+- **Cynic** — Traced in Air (2008-10-28) [9 tracks] `upc:0886443726468` `qobuz:wgw24z4a05rnb`
+- **Cypress Hill** — Black Sunday (1993-07-20) [19 tracks] `upc:0196871073752` `qobuz:my9h6ycc4v4eb`
+- **Dance Gavin Dance** — Mothership (2016-10-07) [13 tracks] `upc:4050538240368` `qobuz:fkorllz90iovy`
+- **Dark Tranquillity** — Endtime Signals (2024-08-16) [12 tracks] `upc:0196871962643` `qobuz:rpwukdwokj96b`
+- **Dark Tranquillity** — The Gallery (1995-01-01) [11 tracks] `upc:886448956730` `qobuz:yan7dmnywplsa` `tidal:166464601`
+- **David Bowie** — Blackstar (2016-01-08) [7 tracks] `upc:5054197573972` `qobuz:oljo8h6c7s5cb`
+- **David Bowie** — Low (1977-01-01) [11 tracks] `upc:0190295842888` `qobuz:0190295842888`
+- **David Bowie** — Station to Station (1976-01-23) [6 tracks] `upc:0190295990251` `qobuz:0190295990251`
+- **David Bowie** — The Rise and Fall of Ziggy Stardust and the Spiders from Mars (1972-06-06) [11 tracks] `upc:0825646284054` `qobuz:0825646284054`
+- **David Bowie** — The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster) (1972-06-06) [11 tracks] `upc:825646284030` `tidal:76253496`
+- **Deadletter** — Hysterical Strength (2024-09-13) [12 tracks] `upc:0822166000911` `tidal:356042046`
+- **Deafheaven** — Lonely People With Power (2025-03-28) [12 tracks] `upc:0075679623966` `qobuz:ke40kp03patkc`
+- **Death Angel** — The Dream Calls for Blood (2013-10-11) [11 tracks] `upc:0727361298630` `qobuz:u4gr3q98wafxc`
+- **Death Cab For Cutie** — I Built You A Tower (2026-06-05) [11 tracks] `upc:0045778817061` `tidal:507548788`
+- **Death Cab For Cutie** — Transatlanticism (2003-10-07) [11 tracks] `upc:0655173103227` `qobuz:uk298vsc5ldmc`
+- **Death From Above 1979** — Is 4 Lovers (2021-03-26) [10 tracks] `upc:00602435654973` `tidal:177669748`
+- **Death From Above 1979** — You're A Woman, I'm A Machine (DMD) (2004-09-28) [11 tracks] `upc:0825646223961` `qobuz:0825646223961`
+- **Deepchord** — Auratones (2017-10-20) [12 tracks] `upc:0502485611745` `qobuz:0502485611745`
+- **Def Leppard** — Hysteria (1987-08-03) [12 tracks] `upc:0602567295594` `qobuz:ombcx6uqh5bjc`
+- **Deftones** — Diamond Eyes (2010-04-23) [11 tracks] `upc:0093624919766` `qobuz:0093624919766`
+- **Deftones** — Koi No Yokan (2012-11-09) [11 tracks] `upc:0093624946649` `qobuz:0093624946649`
+- **Deftones** — private music (2025-08-22) [11 tracks] `upc:093624832232` `tidal:455128514`
+- **Deftones** — White Pony (2016-04-08) [12 tracks] `upc:0093624919797` `qobuz:0093624919797`
+- **Depeche Mode** — Music for the Masses (1987-09-28) [14 tracks] `upc:0724347387456` `qobuz:0724347387456`
+- **Depeche Mode** — Songs of Faith and Devotion (Deluxe) (1993-03-23) [18 tracks] `upc:0094637006757` `tidal:20906952`
+- **Depeche Mode** — Songs of Faith and Devotion Live (1993-12-06) [10 tracks] `upc:5099968888756` `qobuz:5099968888756`
+- **Depeche Mode** — Violator (2006 Digital Remaster) (1990-03-19) [9 tracks] `upc:0094636010359` `qobuz:0094636010359`
+- **Devin Townsend** — Ocean Machine (1997-07-12) [13 tracks] `upc:0886443683990` `qobuz:0886443683990`
+- **Devin Townsend** — Terria (2001-08-21) [11 tracks] `upc:0886443684027` `qobuz:0886443684027`
+- **Devin Townsend** — Transcendence (2016-09-09) [21 tracks] `upc:0886445966909` `qobuz:0886445966909`
+- **Diary Of Dreams** — The Anatomy of Silence (2012-10-19) [10 tracks] `upc:4047179718226` `qobuz:p6o5txcrqpvic`
+- **Dream Theater** — Falling into Infinity (1997-09-12) [11 tracks] `upc:0075596206068` `qobuz:0075596206068`
+- **Dream Theater** — Metropolis, Pt. 2: Scenes from a Memory (1999-01-01) [12 tracks] `upc:0075596244862` `qobuz:0075596244862`
+- **Dream Theater** — Parasomnia (2025-02-07) [8 tracks] `upc:196872328257` `tidal:413373265`
+- **Dream Theater** — Six Degrees of Inner Turbulence (2002-01-29) [13 tracks] `upc:075596274265` `tidal:1844822`
+- **Dream Theater** — Systematic Chaos (2007-06-01) [8 tracks] `upc:0016861799236` `qobuz:0016861799236`
+- **Dream Theater** — When Dream And Day Unite (1989-01-01) [8 tracks] `upc:0007674222592` `qobuz:0007674222592`
+- **Duran Duran** — Duran Duran (1981-06-01) [27 tracks] `upc:5099960960054` `qobuz:5099960960054`
+- **Earthside** — Let The Truth Speak (2025-12-04) [22 tracks] `upc:8712725752547` `qobuz:xc609h6ypugya`
+- **Editors** — In Dream (2015-10-02) [16 tracks] `upc:5414939927126` `qobuz:5414939927126`
+- **Editors** — The Weight of Your Love (2013-06-28) [11 tracks] `upc:5414939419270` `qobuz:5414939419270`
+- **Einstürzende Neubauten** — Halber Mensch (1985-09-02) [11 tracks] `upc:5060243821423` `qobuz:s3h1839bplu1a`
+- **Elton John** — Goodbye Yellow Brick Road (1973-10-05) [17 tracks] `upc:0060253759581` `qobuz:0060253759581`
+- **English Teacher** — This Could Be A Remix Album (2025-10-10) [13 tracks] `upc:00602488103008` `tidal:464577612`
+- **English Teacher** — This Could Be Texas (2024-04-12) [13 tracks] `upc:0602458931570` `qobuz:yq3y9t4go5wzb`
+- **Evanescence** — Fallen (2003-03-04) [12 tracks] `upc:0060150140630` `qobuz:0060150140630`
+- **Evergrey** — Theories Of Emptiness (2024-06-07) [11 tracks] `upc:810155660390` `tidal:350608927`
+- **Everything Everything** — Get To Heaven (Deluxe) (2015-06-19) [17 tracks] `upc:0886445073638` `qobuz:0886445073638`
+- **Faith No More** — Angel Dust (1992-06-08) [31 tracks] `upc:0825646120871` `qobuz:0825646120871`
+- **Faith No More** — The Real Thing (1989-06-20) [11 tracks] `upc:603497078769` `qobuz:0825646120819` `tidal:2113697`
+- **Fates Warning** — Parallels (1991-11-01) [8 tracks] `upc:0888880806109` `qobuz:rzhvx940bpfyb`
+- **Fates Warning** — Pleasant Shade Of Gray (1997-04-22) [12 tracks] `upc:0888880805898` `qobuz:i2wcy7k3wdp2b`
+- **Fen** — Monuments to Absence (2023-07-07) [8 tracks] `upc:884388871663` `tidal:285524684`
+- **Flying Colors** — Third Degree (2019-10-04) [9 tracks] `upc:0819873019947` `qobuz:e1rjj4t8v9cub`
+- **Foals** — Antidotes (2008-04-08) [20 tracks] `upc:0190295006389` `qobuz:f9gkm6ysra90a`
+- **Fontaines D.C.** — Dopamine Chamber (2026-10-16) [11 tracks] `upc:191404167359` `tidal:563963539`
+- **Front Line Assembly** — Civilization (2004-01-20) [10 tracks] `upc:0782388030366` `qobuz:kb8a414oylasb`
+- **Fugazi** — 13 Songs (1989-09-01) [13 tracks] `upc:0718750734020` `qobuz:ad66uxsovxhva`
+- **Garbage** — Garbage (1995-08-15) [62 tracks] `upc:4050538614145` `qobuz:m5c6ox9cjuido`
+- **Garbage** — Let All That We Imagine Be The Light (2025-05-30) [10 tracks] `upc:0199957039178` `qobuz:pqm0kmp9w935i`
+- **Garbage** — Version 2.0 (1998-05-04) [12 tracks] `upc:4050538614176` `qobuz:vshvb5txz8jhy`
+- **Gazpacho** — Night (2007-01-01) [5 tracks] `upc:5060108071024` `qobuz:ui49jq58dclbb`
+- **Geese** — Getting Killed (2025-09-26) [11 tracks] `upc:5400863191436` `tidal:440082667`
+- **Genesis** — Selling England by the Pound (1973-10-12) [8 tracks] `upc:0603497976256` `qobuz:0603497976256`
+- **Ghost** — IMPERA (2022-03-11) [12 tracks] `upc:0888072425361` `qobuz:n7b9s9ugdtq9a`
+- **Gilla Band** — Most Normal (2022-10-07) [12 tracks] `upc:0191402035865` `qobuz:acylwal4j8efa`
+- **Global Communication** — 76:14 (1994-06-01) [10 tracks] `upc:0196871096614` `qobuz:ulnxonoq9gnmb`
+- **God is an Astronaut** — All Is Violent, All Is Bright (2011 Remastered Edition) (2011-12-28) [10 tracks] `upc:0013964381986` `qobuz:fzjjuyi8j61ic`
+- **God is an Astronaut** — Helios / Erebus (2015-07-29) [8 tracks] `upc:0013964758016` `qobuz:nin2dx48675ob`
+- **Gojira** — From Mars to Sirius (2005-01-01) [12 tracks] `upc:3700368460634` `qobuz:3700368460634`
+- **Green Day** — American Idiot (2004-09-21) [13 tracks] `upc:0093624947301` `qobuz:0093624947301`
+- **Greta Van Fleet** — Palace for the People (2026-10-09) [13 tracks] `upc:00881061255871` `tidal:567506150`
+- **Greta Van Fleet** — Starcatcher (2023-07-21) [10 tracks] `upc:0602455587886` `qobuz:dohrulwnsqtab`
+- **Guns N' Roses** — Appetite For Destruction (1987-07-21) [12 tracks] `upc:0602567673866` `qobuz:xv6go4ggroevc`
+- **Guns N' Roses** — Use Your Illusion I (1991-09-01) [16 tracks] `upc:0602448591340` `qobuz:l7ks8hwo9je3a`
+- **Guns N' Roses** — Use Your Illusion II (1991-09-17) [14 tracks] `upc:00602448514479` `qobuz:t9kt0x5o4yjnb` `tidal:258410209`
+- **Helloween** — Giants & Monsters (2025-08-27) [10 tracks] `upc:4262464739667` `tidal:436854437`
+- **Helloween** — Helloween (2021-06-18) [14 tracks] `upc:727361485863` `tidal:396320093`
+- **Helloween** — Master of the Rings (Remastered 2024) (1994-01-01) [11 tracks] `upc:00199957032407` `tidal:487152912`
+- **Hildur Gudnadottir** — Chernobyl (2019-05-31) [13 tracks] `upc:0028948363650` `qobuz:q4awxe2rkpgac`
+- **HIM** — Greatest Love Songs Vol. 666 (1997-11-20) [9 tracks] `upc:886448103851` `qobuz:0888880768698` `tidal:478342814`
+- **House Of Pain** — House of Pain (Fine Malt Lyrics) (1992-07-21) [19 tracks] `upc:0081227911560` `qobuz:gphkuzmtda70b`
+- **Iamx** — Kingdom of Welcome Addiction (2009-05-19) [11 tracks] `upc:0602557584479` `qobuz:w9ck9u7oq4rxb`
+- **Iamx** — The Alternative (2006-04-28) [11 tracks] `upc:0602557579697` `qobuz:n2skwefjzupma`
+- **IDLES** — TANGK (2024-02-16) [11 tracks] `upc:0720841304104` `qobuz:gg2zaiqw0lmba` `tidal:403438635`
+- **If These Trees Could Talk** — The Bones of a Dying World (2016-06-03) [9 tracks] `upc:0039841921823` `qobuz:vc1tcb8825poa`
+- **If These Trees Could Talk** — The Hidden Hand (2026-07-10) [9 tracks] `upc:0039841973129` `qobuz:uvvw9hhb6lo51`
+- **Ihlo** — Legacy (2025-08-29) [10 tracks] `upc:0802644450667` `qobuz:qquldxbjgknua`
+- **In Flames** — Foregone (2023-02-10) [12 tracks] `upc:4065629651466` `tidal:245049881`
+- **Infected Mushroom** — IM30 (2026-01-30) [8 tracks] `upc:742779559548` `tidal:493277306`
+- **Interpol** — This Mirror Weighs a Ton (2026-08-28) [12 tracks] `upc:0720841306801` `tidal:523972981`
+- **Interpol** — Turn On The Bright Lights (2002-08-20) [11 tracks] `upc:191401165457` `qobuz:osbqfgotntfdb` `tidal:157768095`
+- **INXS** — Kick (1987-01-01) [12 tracks] `upc:0060252770637` `qobuz:0060252770637`
+- **IQ** — Almost But Not Quite (2025-09-22) [16 tracks] `upc:5026297010817` `qobuz:dfa0qblr56psa`
+- **Iron Maiden** — Killers (1981-02-01) [10 tracks] `upc:0825646129256` `qobuz:0825646129256`
+- **Iron Maiden** — Piece of Mind (1983-05-01) [9 tracks] `upc:0825646129201` `qobuz:0825646129201`
+- **Iron Maiden** — The Number of the Beast (1982-03-22) [8 tracks] `upc:0825646129232` `qobuz:0825646129232`
+- **ISIS** — Panopticon (Remastered) (2004-10-19) [7 tracks] `upc:5051083094603` `qobuz:okz4lqtf7f8p2` `tidal:513899800`
+- **Jimmy Eat World** — Bleed American (2001-07-24) [11 tracks] `upc:0060254732727` `qobuz:0060254732727`
+- **John Frusciante** — Enclosure (2014-04-08) [9 tracks] `upc:0603497821044` `qobuz:mgfi605aekxuc`
+- **Kamelot** — Silverthorn (2012-10-24) [26 tracks] `upc:859722245547` `tidal:77605740`
+- **Kamelot** — The Black Halo (2005-03-15) [16 tracks] `upc:0628586134621` `qobuz:jr3i0anuwxo9b`
+- **Kanye West** — Yeezus (2013-01-01) [10 tracks] `upc:0060253743926` `qobuz:0060253743926`
+- **Kasabian** — Kasabian (2004-01-30) [13 tracks] `upc:0884977883183` `qobuz:0884977883183`
+- **Katatonia** — Last Fair Deal Gone Down (2001-05-08) [11 tracks] `upc:669910121269` `tidal:2577634`
+- **Katatonia** — Viva Emptiness (10th Anniversary Edition) (2003-04-29) [14 tracks] `upc:0801056848420` `qobuz:qibkp9gv7kx8a`
+- **Kate Bush** — The Dreaming (1982-09-13) [10 tracks] `upc:0190295511708` `qobuz:eok7yej3tn7ca`
+- **Keith Jarrett** — The Köln Concert (Live at the Opera, Köln, 1975) (1975-01-24) [4 tracks] `upc:0060254707654` `qobuz:0060254707654`
+- **Kim Gordon** — The Collective (2024-03-08) [11 tracks] `upc:191401202954` `tidal:345594443`
+- **King Crimson** — In The Court Of The Crimson King (1969-10-10) [8 tracks] `upc:0633367880123` `qobuz:jdd9xlfslpa7b`
+- **King Crimson** — Larks' Tongues In Aspic (Expanded & Remastered Original Album Mix) (1973-03-23) [8 tracks] `upc:0633367880222` `qobuz:yw1kkkfznh5oa`
+- **King Crimson** — Red (Expanded & Remastered Original Album Mix) (1974-10-05) [8 tracks] `upc:0633367880321` `qobuz:tis6rfa4zjehb`
+- **King Hannah** — Big Swimmer (2024-05-31) [11 tracks] `upc:4250506849283` `qobuz:bnf0ojqhummga` `tidal:344555687`
+- **Korn** — Follow The Leader (1998-08-18) [14 tracks] `upc:0886446148533` `qobuz:0886446148533`
+- **Kreator** — Krushers Of The World (2026-01-16) [10 tracks] `upc:4065629745363` `tidal:489909589`
+- **Kreator** — Renewal (1992-10-26) [9 tracks] `upc:4099964056686` `qobuz:o9yf7zkabucm7`
+- **La Dispute** — Panorama (2019-03-22) [10 tracks] `upc:0045778764402` `qobuz:anarjba1bqvcc`
+- **La Dispute** — Wildlife (2011-01-01) [14 tracks] `upc:0603111932125` `qobuz:f1a3al3vmt4sa`
+- **Lacrimas Profundere** — Antiadore (2013-06-11) [15 tracks] `upc:191018546472` `tidal:68003029`
+- **Lacrimas Profundere** — Filthy Notes For Frozen Hearts (2006-07-07) [12 tracks] `upc:0819224014478` `qobuz:0819224014478`
+- **Lamb of God** — Ashes of the Wake (2004-08-26) [18 tracks] `upc:0196872141535` `qobuz:l1hssjmncsdkc`
+- **Lana Del Rey** — Born To Die (2012-01-01) [15 tracks] `upc:0060252792944` `qobuz:0060252792944`
+- **LCD Soundsystem** — Sound of Silver (2007-03-02) [9 tracks] `upc:0094638511359` `qobuz:0094638511359`
+- **Led Zeppelin** — Led Zeppelin (HD Remastered Edition) (1969-01-12) [9 tracks] `upc:0603497920143` `qobuz:0603497920143`
+- **Led Zeppelin** — Led Zeppelin IV (HD Remastered Edition) (1971-11-08) [8 tracks] `upc:0603497898503` `qobuz:0603497898503`
+- **Leftfield** — Leftism (1995-01-01) [18 tracks] `upc:5099749831025` `qobuz:0886446209326` `tidal:39817`
+- **Leprous** — Malina (2017-08-25) [11 tracks] `upc:0886446514499` `qobuz:0886446514499`
+- **Leprous** — Pitfalls (2019-10-25) [9 tracks] `upc:0886447814406` `qobuz:sbnv1pemheyca`
+- **Linkin Park** — Meteora (2003-03-25) [13 tracks] `upc:0093624949091` `qobuz:0093624949091`
+- **London Grammar** — If You Wait (2013-09-06) [17 tracks] `upc:0060253759678` `qobuz:0060253759678`
+- **Long Distance Calling** — The Phantom Void (2026-04-10) [7 tracks] `upc:4029759213833` `qobuz:c1xutrg884iq4` `tidal:491072101`
+- **Lorna Shore** — I Feel The Everblack Festering Within Me (2025-09-29) [10 tracks] `upc:196872991611` `tidal:431469018`
+- **Lost Society** — If The Sky Came Down (2022-09-30) [10 tracks] `upc:4065629639563` `qobuz:apvl06cb62rda`
+- **Low** — I Could Live In Hope (1994-01-01) [11 tracks] `upc:0094637442753` `qobuz:0094637442753`
+- **M83** — Before The Dawn Heals Us (2005-01-24) [15 tracks] `upc:3298499026435` `qobuz:3298499026435`
+- **Machine Head** — ØF KINGDØM AND CRØWN (2022-08-06) [13 tracks] `upc:4065629649760` `qobuz:y3izkzeuh542b` `tidal:224722899`
+- **Machine Head** — The Blackening (2001-09-28) [8 tracks] `upc:0016861801601` `qobuz:0016861801601`
+- **Machine Head** — UNATØNED (2025-04-25) [12 tracks] `upc:4065629742560` `tidal:431871862`
+- **main** — Motion Pool (1994-04-01) [10 tracks] `upc:5012093914824` `qobuz:5012093914824`
+- **Mandy, Indiana** — i've seen a way (2023-05-19) [11 tracks] `upc:634457127876` `tidal:267987548`
+- **Mandy, Indiana** — URGH (2026-02-06) [10 tracks] `upc:843563197769` `tidal:467195541`
+- **Marillion** — Clutching at Straws (1987-06-01) [11 tracks] `upc:0190295460839` `qobuz:w0zgee2juwonc`
+- **Marillion** — Marbles (2004-05-03) [15 tracks] `upc:0859724565117` `qobuz:k8rfz5d1fha0b`
+- **Marilyn Manson** — One Assassination Under God - Chapter 1 (2024-11-22) [9 tracks] `upc:4065629731366` `qobuz:wtc5umkywcneb`
+- **Marilyn Manson** — We Are Chaos (2020-07-29) [10 tracks] `upc:0888072200234` `qobuz:l2qizct2yyllc`
+- **Massive Attack** — Mezzanine (1998-01-01) [11 tracks] `upc:0724384559953` `qobuz:0724384559953`
+- **Massive Attack** — Mezzanine (20th Anniversary Deluxe Edition) (1998-04-20) [19 tracks] `upc:0602567930983` `qobuz:pvsb64n704d0b`
+- **Mastodon** — Emperor of Sand (2017-03-31) [11 tracks] `upc:0093624914020` `qobuz:0093624914020`
+- **Mastodon** — Once More 'Round the Sun (2014-06-20) [11 tracks] `upc:0093624937111` `qobuz:0093624937111`
+- **Mayhem** — Liturgy of Death (2026-02-06) [8 tracks] `upc:196873560830` `tidal:467331821`
+- **Mazzy Star** — So Tonight That I Might See (1993-09-27) [10 tracks] `upc:00077779825356` `qobuz:0077779825356` `tidal:147475`
+- **Messa** — The Spin (2025-04-11) [7 tracks] `upc:0039841967623` `qobuz:z7uznbb369nrb`
+- **Metallica** — …And Justice for All (1988-08-25) [9 tracks] `upc:0602508628887` `qobuz:huhn6uzin3vgc`
+- **Metallica** — Hardwired…To Self-Destruct (2016-11-18) [26 tracks] `upc:0602507249168` `qobuz:wkfpbb8n1rzeb`
+- **Metallica** — Master Of Puppets (1986-03-01) [8 tracks] `upc:0602508637063` `qobuz:zoarc5p3ew5wb`
+- **Metallica** — Metallica (Remastered 2021) (1991-08-12) [12 tracks] `upc:00602438404537` `qobuz:e98mhimqarxfb` `tidal:196435443`
+- **Metallica** — Reload (1997-11-18) [13 tracks] `upc:0602507243616` `qobuz:g8ckx8n5io5ua`
+- **Metric** — Formentera (2022-07-08) [9 tracks] `upc:0196626817242` `qobuz:eyihaejablvrc`
+- **Miles Davis** — Bitches Brew (1970-03-30) [6 tracks] `upc:0886443874428` `qobuz:0886443874428`
+- **Miles Davis** — Kind Of Blue (1959-08-17) [5 tracks] `upc:5099749522428` `qobuz:5099749522428`
+- **Moderat** — II (10th Anniversary Sped-up Edition) (2023-08-02) [12 tracks] `upc:0817231019189` `qobuz:ep8r1bjr8l9ra`
+- **Mogwai** — Young Team (1997-10-27) [10 tracks] `upc:5024545388886` `qobuz:5024545388886`
+- **MØL** — DREAMCRUSH (2026-01-30) [11 tracks] `upc:4065629730260` `tidal:490065965`
+- **MONO** — Hymn to the Immortal Wind (2009-03-24) [7 tracks] `upc:0656605314860` `qobuz:0656605314860`
+- **MONO** — Nowhere Now Here (2019-01-25) [10 tracks] `upc:0192562983164` `qobuz:iietp953p8jbc`
+- **MONO** — Snowdrop (2026-06-12) [8 tracks] `upc:656605445366` `qobuz:lu2av90oi2qzf` `tidal:502899871`
+- **Morne** — Engraved with Pain (2023-11-03) [4 tracks] `upc:039841959529` `tidal:310803822`
+- **Muse** — Absolution (2003-09-21) [15 tracks] `upc:5054197904233` `qobuz:hif1frx7f91ea`
+- **Muse** — Black Holes and Revelations (2006-06-19) [12 tracks] `upc:0825646024797` `qobuz:0825646024797`
+- **Muse** — Origin of Symmetry (2001-07-17) [12 tracks] `upc:0825646645879` `qobuz:0825646645879`
+- **Muse** — Showbiz (1991-09-28) [13 tracks] `upc:0825646024841` `qobuz:0825646024841`
+- **My Bloody Valentine** — loveless (1991-11-04) [11 tracks] `upc:0887830015998` `qobuz:qf6qfzou4fwrb`
+- **My Chemical Romance** — Three Cheers for Sweet Revenge (2004-06-08) [13 tracks] `upc:0093624917731` `qobuz:0093624917731`
+- **Neal Morse** — The Dreamer - Joseph, Pt. 1 (2023-08-11) [16 tracks] `upc:0197188798147` `qobuz:zrjtk9khkrxmc`
+- **Nick Cave & The Bad Seeds** — Push the Sky Away (2013-02-18) [9 tracks] `upc:5055667601799` `qobuz:vfb2srph1xj6b`
+- **Nick Cave & The Bad Seeds** — Skeleton Tree (2016-09-09) [8 tracks] `upc:5060454943853` `qobuz:ojaxuch1xtq9b`
+- **Nick Cave & The Bad Seeds** — The Boatman's Call (1997-03-03) [12 tracks] `upc:5099909572959` `qobuz:sp8qtqq9g7eqk`
+- **Nick Cave & The Bad Seeds** — Wild God (2024-08-30) [10 tracks] `upc:5400863157920` `tidal:384178540`
+- **Night Verses** — Every Sound Has A Color In The Valley Of Night (2024-03-15) [14 tracks] `upc:0197190858051` `qobuz:hfmkpx7we19ca`
+- **Nine Inch Nails** — The Downward Spiral (1994-03-08) [27 tracks] `upc:0602567931713` `qobuz:q3cnbivjsyafc`
+- **Nine Inch Nails** — The Fragile (1999-01-01) [23 tracks] `upc:0060694904732` `qobuz:0060694904732`
+- **Nine Inch Nails** — With Teeth (2005-05-03) [15 tracks] `upc:0060249881440` `qobuz:0060249881440`
+- **Nine Inch Nails** — With Teeth (Bonus Tracks) (2005-05-03) [15 tracks] `upc:00602498814406` `tidal:34737503`
+- **Nirvana** — Nevermind (1991-09-24) [13 tracks] `upc:00602537498659` `qobuz:m5pxsa1stxppa` `tidal:77610756`
+- **Nothing** — a short history of decay (2026-02-27) [9 tracks] `upc:0199438001472` `qobuz:wgt967q3t45ib`
+- **Nothing But Thieves** — Moral Panic (2020-10-23) [11 tracks] `upc:0886448371342` `qobuz:aecm0ssqlqwfa`
+- **Novembers Doom** — Hamartia (2017-04-14) [10 tracks] `upc:0654436073222` `tidal:175418516`
+- **Obscura** — Cosmogenesis (2009-02-17) [10 tracks] `upc:0781676703227` `qobuz:jomjoaq0ufnab`
+- **Of Mice & Men** — EARTHANDSKY (2019-09-27) [11 tracks] `upc:4050538503777` `qobuz:lxnf8amdrx1rf`
+- **Of Mice & Men** — The Flood (2011-06-14) [16 tracks] `upc:0858721002724` `qobuz:ha7oc5a6heolv`
+- **:Of The Wand & The Moon:** — The Lone Descent (2011-01-10) [11 tracks] `upc:4038846800108` `tidal:13251057`
+- **Oh Wonder** — Oh Wonder (2015-09-04) [15 tracks] `upc:0602547461155` `qobuz:nxzsiv79ht5cb`
+- **Oneohtrix Point Never** — Replica (2011-11-05) [10 tracks] `upc:0184923201062` `qobuz:u4fok6xz1vukc`
+- **Opeth** — Blackwater Park (2001-02-27) [8 tracks] `upc:0828768291221` `qobuz:0828768291221`
+- **Opeth** — Pale Communion (2014-08-26) [8 tracks] `upc:016861754402` `qobuz:0016861754402` `tidal:68572918`
+- **Opeth** — The Last Will And Testament (2024-11-22) [8 tracks] `upc:4262464731760` `tidal:389622358`
+- **Pan Sonic** — Kulma (1997-01-27) [14 tracks] `upc:0724387436558` `qobuz:0724387436558`
+- **Pantera** — Vulgar Display of Power (1992-02-25) [11 tracks] `upc:0603497881604` `qobuz:0603497881604`
+- **Paradise Lost** — Ascension (2025-09-19) [12 tracks] `upc:4065629687960` `qobuz:o89bujrvtp4vb`
+- **Paradise Lost** — The Plague Within (2015-06-01) [10 tracks] `upc:5053760131274` `qobuz:jqrdbgbgi87ec` `tidal:428170983`
+- **Pearl Jam** — Ten (1991-08-27) [11 tracks] `upc:884977724745` `qobuz:0884977724745` `tidal:5120022`
+- **Pete Namlook** — Air I (2021 Remaster) (2021-11-05) [9 tracks] `upc:0197271625398` `qobuz:f3hgg99ye49ua`
+- **Peter Gabriel** — Peter Gabriel 1: Car (Remastered) (1977-01-01) [9 tracks] `upc:00884108005996` `tidal:122119862`
+- **Peter Gabriel** — So (1986-05-01) [9 tracks] `upc:0884108006078` `qobuz:kjsz9jmqpb19b`
+- **Phantogram** — Voices (2014-02-18) [11 tracks] `upc:0602537734856` `qobuz:k8jks8mphnj5a`
+- **Pink Floyd** — Animals (1977-01-23) [5 tracks] `upc:0196589270573` `qobuz:bvtc1yid993vb`
+- **Pink Floyd** — Pink Floyd at Pompeii - MCMLXXII (2025 Mix) (2025-05-02) [11 tracks] `upc:196872874983` `qobuz:gyoh6k10uqekc` `tidal:432082983`
+- **Pink Floyd** — The Dark Side Of The Moon (50th Anniversary) (1973-03-01) [10 tracks] `upc:0196589805232` `qobuz:es45w03nwb5eb`
+- **Pink Floyd** — The Division Bell (1994-03-30) [11 tracks] `upc:886445613872` `qobuz:zkw3csyyk9ndc` `tidal:55391524`
+- **Pink Floyd** — The Wall (Remastered 2011 Version) (1979-11-30) [26 tracks] `upc:0886445613841` `qobuz:dvc2hmdh714yc`
+- **Pink Floyd** — Wish You Were Here 50 (1975-09-15) [30 tracks] `upc:0196873561073` `qobuz:dql7n572nt39a`
+- **Pixies** — Doolittle (1989-04-17) [15 tracks] `upc:5014436905025` `qobuz:5014436905025`
+- **Placebo** — Black Market Music (2000-10-09) [13 tracks] `upc:5060186926865` `qobuz:hgu2vhqpqr1jc`
+- **Placebo** — Placebo RE:CREATED (2026-06-19) [17 tracks] `upc:0820200038371` `qobuz:qwfrfjlh0tzit`
+- **Placebo** — Without You I'm Nothing (1998-10-12) [13 tracks] `upc:5060186926902` `qobuz:kgu24q52t5ucb`
+- **Plaid** — Not For Threes (1997-10-27) [16 tracks] `upc:0801061005436` `qobuz:0801061005436`
+- **Plastikman** — Consumed (1998-05-18) [11 tracks] `upc:0815349010333` `qobuz:gpvwbkkylpuda`
+- **Poppy** — Empty Hands (2026-01-23) [13 tracks] `upc:198704839740` `tidal:492022483`
+- **Porcupine Tree** — Closure / Continuation (2022-06-24) [10 tracks] `upc:0886449656813` `qobuz:oqqp421laxpmc`
+- **Porcupine Tree** — In Absentia (2002-09-24) [12 tracks] `upc:0802644815961` `qobuz:mrrwkb6hqtftb`
+- **Portishead** — Dummy (1994-10-01) [11 tracks] `upc:00042282855329` `qobuz:0004228285532` `tidal:1765476`
+- **Portishead** — Portishead (1997-09-30) [11 tracks] `upc:00731453918924` `tidal:632078`
+- **Portishead** — Third (2008-04-29) [11 tracks] `upc:00602517664005` `tidal:34972787`
+- **Primal Scream** — XTRMNTR (Expanded Edition) (1999-12-02) [19 tracks] `upc:0886443285569` `qobuz:0886443285569`
+- **Protomartyr** — Formal Growth In The Desert (2023-06-02) [12 tracks] `upc:0887828052066` `qobuz:mxyvscnrodf4b`
+- **Puscifer** — Normal Isn't (2026-02-06) [11 tracks] `upc:00199957047913` `tidal:493535890`
+- **PVRIS** — EVERGREEN (2023-07-14) [11 tracks] `upc:0790692680269` `qobuz:dvipx8nkukssc`
+- **Queen** — Innuendo (1991-02-05) [17 tracks] `upc:0602527800097` `qobuz:jpqzt2fwlfb37`
+- **Queen** — Sheer Heart Attack (1974-11-08) [18 tracks] `upc:0602527644141` `qobuz:xruhmpqd4iyt2`
+- **Queens Of The Stone Age** — ...Like Clockwork (2013-06-03) [10 tracks] `upc:0744861104056` `qobuz:0744861104056`
+- **Queens Of The Stone Age** — Perfecth (2026-10-30) [9 tracks] `upc:191401225359` `tidal:568202498`
+- **Queens Of The Stone Age** — Villains (2017-08-25) [9 tracks] `upc:0744861112570` `qobuz:0744861112570`
+- **R.E.M.** — Accelerate (2008-03-31) [11 tracks] `upc:0088807200254` `qobuz:0088807200254`
+- **R.E.M.** — Around The Sun (2004-10-05) [13 tracks] `upc:0088807200416` `qobuz:0088807200416`
+- **R.E.M.** — Automatic For The People (1992-10-05) [12 tracks] `upc:0088807204128` `qobuz:0088807204128`
+- **R.E.M.** — Automatic For The People (25th Anniversary Hi-Res Edition) (1992-10-06) [25 tracks] `upc:00888072041240` `tidal:81175770`
+- **R.E.M.** — Green (1988-11-08) [37 tracks] `upc:0088807239821` `qobuz:0088807239821`
+- **R.E.M.** — Murmur (1983-04-12) [12 tracks] `upc:0060253782280` `qobuz:0060253782280`
+- **R.E.M.** — New Adventures In Hi-Fi (1996-09-09) [14 tracks] `upc:0888072264250` `qobuz:xwdtbu4iwsjqb`
+- **R.E.M.** — Out Of Time (1991-03-12) [30 tracks] `upc:0088807201362` `qobuz:0088807201362`
+- **R.E.M.** — Out Of Time (25th Anniversary Edition) (1991-03-12) [30 tracks] `upc:00888072013629` `tidal:77553045`
+- **Radiohead** — Amnesiac (2001-03-12) [11 tracks] `upc:0634904078362` `qobuz:0634904078362`
+- **Radiohead** — Kid A (2000-10-01) [11 tracks] `upc:0634904078263` `qobuz:0634904078263`
+- **Radiohead** — KID A MNESIA (2021-11-05) [34 tracks] `upc:191404116654` `tidal:201215501`
+- **Radiohead** — OK Computer (1997-05-28) [12 tracks] `upc:0634904078164` `qobuz:0634904078164`
+- **Radiohead** — OK Computer OKNOTOK 1997 2017 (2017-06-23) [23 tracks] `upc:634904086855` `tidal:75144326`
+- **Radiohead** — The Bends (1995-04-04) [12 tracks] `upc:634904078065` `tidal:58990497`
+- **Rage Against The Machine** — Rage Against The Machine (1992-11-03) [10 tracks] `upc:0074645295923` `qobuz:0074645295923`
+- **RAYE** — THIS MUSIC MAY CONTAIN HOPE. (2026-03-27) [17 tracks] `upc:0820200038890` `qobuz:fngt7iz0hzixa`
+- **Recoil** — Liquid (2000-03-21) [18 tracks] `upc:5099950162451` `qobuz:5099950162451`
+- **Red Hot Chili Peppers** — Blood Sugar Sex Magik (1991-09-24) [17 tracks] `upc:0093624932147` `qobuz:0093624932147`
+- **Red Hot Chili Peppers** — Blood Sugar Sex Magik (Deluxe Edition) (1991-09-24) [19 tracks] `upc:093624424369` `tidal:304838`
+- **Red Hot Chili Peppers** — Californication (Deluxe Edition) (1999-06-08) [18 tracks] `upc:093624424161` `tidal:304802`
+- **Richie Hawtin** — Consumed In Key (2022-04-01) [10 tracks] `upc:4062548028768` `qobuz:nbliufiqcxwma`
+- **Rivers of Nihil** — Where Owls Know My Name (2018-03-16) [10 tracks] `upc:0039841931228` `qobuz:p80132sfiy4mb`
+- **Riverside** — ID.Entity (Deluxe Edition) (2023-01-20) [11 tracks] `upc:0196589441980` `qobuz:ixigpo3t9f2ga`
+- **Riverside** — Love, Fear and the Time Machine (2015-09-11) [10 tracks] `upc:885417072662` `tidal:50091712`
+- **Riverside** — Rapid Eye Movement (2007-10-01) [9 tracks] `upc:886443684799` `tidal:52087993`
+- **Rolo Tomassi** — Where Myth Becomes Memory (2022-02-04) [10 tracks] `upc:0634164271022` `qobuz:ozg0q3fvg8g3b`
+- **ROME** — Gates of Europe (2023-08-25) [14 tracks] `upc:4260063947995` `qobuz:i83toj8culscc` `tidal:300673833`
+- **ROME** — The Hyperion Machine (2016-08-12) [11 tracks] `upc:4260063945519` `tidal:61451417`
+- **ROSALÍA** — LUX (2025-11-07) [15 tracks] `upc:196873722672` `qobuz:yhenlptipcwic` `tidal:472230531`
+- **Rotting Christ** — Kata Ton Daimona Eaytoy (Do What Thou Wilt) (2013-03-01) [11 tracks] `upc:0886443832787` `qobuz:k1pld3rf084dc`
+- **Royal Blood** — Typhoons (2021-04-30) [11 tracks] `upc:0190295028060` `qobuz:lz66nvt24msxb`
+- **Rush** — Grace Under Pressure (1984-04-12) [37 tracks] `upc:0199957146289` `qobuz:fpz7sd7tvobor`
+- **Rush** — Moving Pictures (1981-02-07) [7 tracks] `upc:0060254724385` `qobuz:0060254724385`
+- **Rush** — Permanent Waves (1980-01-01) [6 tracks] `upc:0060254724320` `qobuz:0060254724320`
+- **Rush** — Signals (1982-09-01) [8 tracks] `upc:0060253706113` `qobuz:0060253706113`
+- **Russian Circles** — Station (2008-05-06) [6 tracks] `upc:0803238007069` `qobuz:0803238007069`
+- **Satyricon** — Deep Calleth Upon Deep (2017-09-22) [8 tracks] `upc:840588110698` `tidal:79018030`
+- **Scorpions** — Love At First Sting (1984-03-27) [25 tracks] `upc:4050538477399` `qobuz:h2uok8c6zbz62`
+- **Scorpions** — Lovedrive (1979-01-01) [10 tracks] `upc:4050538167597` `qobuz:x5bu2id4i89mw`
+- **Sharon Van Etten** — Sharon Van Etten & The Attachment Theory (2025-02-07) [10 tracks] `upc:0656605246468` `qobuz:nasqnq1cfkk2a`
+- **Shellac** — At Action Park (1994-10-24) [10 tracks] `upc:0036172084159` `qobuz:0036172084159`
+- **Simple Minds** — Once Upon A Time (1985-10-21) [9 tracks] `upc:0602475790853` `qobuz:wh7ao9esubfva`
+- **Skee Mask** — Resort (2024-06-17) [12 tracks] `upc:0198588450154` `qobuz:so5rmsjtf7dcc`
+- **Slayer** — Reign In Blood (2015-09-11) [10 tracks] `upc:0602465628647` `qobuz:to55hawynjx9a`
+- **Slowdive** — Souvlaki (1993-05-17) [19 tracks] `upc:0884977791648` `qobuz:0884977791648`
+- **Snow Patrol** — Wildness (2018-05-25) [15 tracks] `upc:0602567535263` `qobuz:p5c5r0qi0ih7b`
+- **Soen** — Cognitive (2011-01-01) [10 tracks] `upc:5400863112851` `qobuz:losvzy3ke01ja`
+- **Soen** — Lotus (2019-02-01) [12 tracks] `upc:190296648380` `tidal:194441363`
+- **Soen** — Reliance (2026-01-16) [10 tracks] `upc:5021732594655` `tidal:455716742`
+- **Sonic Youth** — Goo (1990-03-21) [11 tracks] `upc:0060254769088` `qobuz:0060254769088`
+- **Soundgarden** — Down On The Upside (1996-05-21) [16 tracks] `upc:0060255700844` `qobuz:0060255700844`
+- **Soundgarden** — Superunknown (1994-03-08) [15 tracks] `upc:0060253787971` `qobuz:0060253787971`
+- **Sprints** — Letter to Self (2024-01-05) [11 tracks] `upc:4250506847272` `qobuz:cvcv34k39gf0b`
+- **Squarepusher** — Hard Normal Daddy (1997-04-28) [12 tracks] `upc:0801061005030` `qobuz:0801061005030`
+- **Squid** — Cowards (2025-02-07) [9 tracks] `upc:5056818800184` `qobuz:rdt7y9r0djzmc`
+- **St. Vincent** — All Born Screaming (2024-04-26) [10 tracks] `upc:00196922832147` `tidal:344164130`
+- **Steven Wilson** — Hand Cannot Erase (2015-02-27) [8 tracks] `upc:802644431666` `tidal:43739572`
+- **Steven Wilson** — Requiem for a Village (2026-11-06) [12 tracks] `upc:823375169109` `tidal:532933441`
+- **Steven Wilson** — The Harmony Codex (2023-09-29) [10 tracks] `upc:0044003368002` `qobuz:bskpl56x1qi5a`
+- **Steven Wilson** — The Overview (2025-03-14) [12 tracks] `upc:0602475678182` `qobuz:dpouqqarso9zb`
+- **Steven Wilson** — To The Bone (2017-08-18) [11 tracks] `upc:0060255764783` `qobuz:0060255764783`
+- **Stone Temple Pilots** — Core (1992-09-29) [12 tracks] `upc:0603497869275` `qobuz:0603497869275`
+- **Stratovarius** — Visions (1997-04-28) [10 tracks] `upc:4262428352703` `qobuz:bbeij5u2piyw2`
+- **Suede** — Bloodsports (2013-03-18) [10 tracks] `upc:5032698645428` `qobuz:nv1omagetrnuc`
+- **Svalbard** — The Weight Of The Mask (2023-10-06) [9 tracks] `upc:4065629703462` `tidal:299751168`
+- **Swans** — The Seer (2012-08-28) [11 tracks] `upc:5051083079051` `qobuz:5051083079051`
+- **Tale Of Us** — Endless (2017-03-31) [10 tracks] `upc:0002894797056` `qobuz:0002894797056`
+- **Talk Talk** — Spirit Of Eden (Remastered Hi-Res Version) (1993-05-24) [7 tracks] `upc:0825646233397` `qobuz:0825646233397`
+- **Tears For Fears** — Songs From The Big Chair (1985-03-01) [16 tracks] `upc:0060253799863` `qobuz:0060253799863`
+- **Tears For Fears** — The Hurting (1983-03-01) [14 tracks] `upc:0073145581042` `qobuz:0073145581042`
+- **Tears For Fears** — The Seeds Of Love (1989-09-01) [8 tracks] `upc:0602547707208` `qobuz:o9xmpe51ond7a`
+- **The Beatles** — Abbey Road (1969-09-26) [40 tracks] `upc:0602508146107` `qobuz:trrcz9pvaaz6b`
+- **The Chemical Brothers** — Born In The Echoes (2015-07-17) [11 tracks] `upc:00602547313416` `tidal:48442319`
+- **The Chemical Brothers** — No Geography (2019-04-12) [10 tracks] `upc:0602577080203` `qobuz:zt5gl78ex4b4a`
+- **The Cure** — Disintegration (Remastered) (1989-05-02) [12 tracks] `upc:00600753245682` `tidal:5162511`
+- **The Cure** — Faith (1981-04-01) [8 tracks] `upc:0060249830745` `qobuz:0060249830745`
+- **The Cure** — Pornography (1982-04-01) [22 tracks] `upc:0602438863785` `qobuz:wq56w6kz6ipbb`
+- **The Cure** — Seventeen Seconds (1980-04-18) [10 tracks] `upc:0060249821832` `qobuz:0060249821832`
+- **The Cure** — Songs Of A Lost World (2024-11-01) [8 tracks] `upc:0602475205074` `qobuz:wkql2j69b68tb`
+- **The Cure** — The Head On The Door (1985-08-13) [10 tracks] `upc:0060249840017` `qobuz:0060249840017`
+- **The Dear Hunter** — Act I: The Lake South, The River North (2006-09-26) [8 tracks] `upc:0646920306961` `qobuz:eb9sj8weyij8b`
+- **The Dear Hunter** — Act II: The Meaning Of, And All Things Regarding Ms. Leading (2007-05-22) [15 tracks] `upc:0646920307166` `qobuz:y4nchl3ewddhc`
+- **The Dillinger Escape Plan** — Dissociation (2016-10-14) [11 tracks] `upc:0711297315547` `qobuz:e3163hp65hemc`
+- **The Flaming Lips** — Yoshimi Battles the Pink Robots (2006-04-12) [11 tracks] `upc:0093624814160` `qobuz:0093624814160`
+- **The Gathering** — If_then_else (2000-07-13) [11 tracks] `upc:0886443599604` `qobuz:0886443599604`
+- **The Horrors** — Night Life (2025-03-21) [9 tracks] `upc:0198704384554` `qobuz:cgebu0d6ak0ga`
+- **The Killers** — Hot Fuss (2004-06-07) [14 tracks] `upc:0060249875384` `qobuz:0060249875384`
+- **The KLF** — Come Down Dawn (2021-02-04) [12 tracks] `upc:0887835051564` `qobuz:acfmjtce41yuc`
+- **The KVB** — Tremors (2024-04-05) [10 tracks] `upc:5051083197854` `qobuz:zspwzwllutgmc`
+- **The Mars Volta** — Amputechture (2006-01-01) [8 tracks] `upc:0060251702802` `qobuz:0060251702802`
+- **The Mars Volta** — Octahedron (2009-06-22) [8 tracks] `upc:0060252707896` `qobuz:0060252707896`
+- **The Mars Volta** — The Bedlam in Goliath (2008-01-01) [12 tracks] `upc:0060251757530` `qobuz:0060251757530`
+- **The National** — Boxer (2007-05-22) [12 tracks] `upc:0607618025267` `qobuz:0607618025267`
+- **The National** — High Violet (2010-05-11) [11 tracks] `upc:0652637300390` `qobuz:0652637300390`
+- **The National** — Trouble Will Find Me (2013-05-20) [13 tracks] `upc:0652637331578` `qobuz:x16j3kp3b4g2b`
+- **The Necks** — Disquiet (2025-10-10) [4 tracks] `upc:634457226203` `tidal:450368940`
+- **The Necks** — Travel (2023-02-24) [4 tracks] `upc:0634457125117` `qobuz:jgg9wcig0oocc`
+- **The Notwist** — Neon Golden (2002-01-14) [18 tracks] `upc:0880918269160` `qobuz:aav1k8t9k7ckc`
+- **The Ocean** — Pelagial (2013-04-30) [22 tracks] `upc:0886443906792` `qobuz:jchcjfhcfxb3b`
+- **The Offspring** — Smash (1994-08-23) [14 tracks] `upc:0045778643264` `qobuz:ih43xsfm7jkia` `tidal:121050674`
+- **The Pineapple Thief** — Dissolution (2018-08-31) [9 tracks] `upc:0802644805665` `qobuz:n1hfrojc1dvmc`
+- **The Pineapple Thief** — Your Wilderness (2016-08-12) [8 tracks] `upc:0802644835426` `qobuz:sopgea491j81b`
+- **The Police** — Synchronicity (1983-06-17) [11 tracks] `upc:0602577828195` `qobuz:wqeug7pucdqka`
+- **The Postal Service** — Give Up (2003-02-18) [10 tracks] `upc:0098787059564` `qobuz:y9mi8aatozpfz`
+- **The Prodigy** — The Fat of the Land - Expanded Edition (1997-07-01) [16 tracks] `upc:0634904058654` `qobuz:0634904058654`
+- **The Smashing Pumpkins** — Adore (1998-06-01) [16 tracks] `upc:0060254700562` `qobuz:0060254700562`
+- **The Smashing Pumpkins** — Mellon Collie and the Infinite Sadness (1995-10-20) [28 tracks] `upc:5099997855354` `qobuz:5099997855354`
+- **The Smile** — Wall Of Eyes (2024-01-26) [8 tracks] `upc:191404139455` `tidal:338279162`
+- **The Strokes** — Reality Awaits (2026-07-24) [9 tracks] `upc:0196874161005` `qobuz:vpnzte04xcv00`
+- **The Weeknd** — After Hours (2020-03-20) [14 tracks] `upc:00602508883408` `qobuz:ry96ex00gu6nc` `tidal:134858516`
+- **The Weeknd** — Starboy (Explicit Version) (2016-09-21) [18 tracks] `upc:0060255732189` `qobuz:0060255732189`
+- **The White Stripes** — Elephant (2003-04-01) [14 tracks] `upc:0886448799009` `qobuz:j8hn4cfb5xzqc`
+- **The White Stripes** — The White Stripes (1999-06-15) [17 tracks] `upc:0886448797531` `qobuz:z6rfjql8uymqb`
+- **The xx** — xx (2025-11-19) [16 tracks] `upc:0889030044761` `qobuz:zgvirc0nzskcc`
+- **The Young Gods** — Appear Disappear (2025-06-13) [10 tracks] `upc:3617395340337` `qobuz:y2twmchb9ccfc`
+- **Theatre of Tragedy** — Aégis (1998-01-01) [8 tracks] `upc:4028466101594` `qobuz:4028466101594`
+- **Theatre Of Tragedy** — Velvet Darkness They Fear (1997-08-26) [9 tracks] `upc:4013971101078` `tidal:72301648`
+- **Tiamat** — Wildhoney (Re-Issue + Bonus) (Remastered) (1994-01-01) [26 tracks] `upc:886446992686` `qobuz:koif4sn9xoaea` `tidal:84971567`
+- **TOOL** — 10,000 Days (2006-05-02) [11 tracks] `upc:0886447824771` `qobuz:j987794ugloia`
+- **TOOL** — Lateralus (2001-05-15) [13 tracks] `upc:0886447824764` `qobuz:yd3ulxq6difja`
+- **Touché Amoré** — Stage Four (2016-09-16) [12 tracks] `upc:0045778749201` `qobuz:wjmfv654k4nlb`
+- **Transatlantic** — Bridge Across Forever (2001-10-02) [4 tracks] `upc:0886447897324` `qobuz:p3fnqzrp7w6nc`
+- **Trentemøller** — The Last Resort (2006-10-06) [13 tracks] `upc:0827170113688` `qobuz:m38ebk33iooaa`
+- **Tricky** — Different When It's Silent (2026-07-17) [14 tracks] `upc:4062548142556` `qobuz:xsgb6nfj0q5dd`
+- **Tricky** — False Idols (2013-05-27) [15 tracks] `upc:0730003730825` `qobuz:0730003730825`
+- **Tricky** — Mixed Race (2010-09-27) [10 tracks] `upc:5034202025658` `qobuz:5034202025658`
+- **TRICKY, Martina Topley-Bird** — Maxinquaye (1995-02-20) [12 tracks] `upc:00731452408921` `tidal:637039`
+- **Trivium** — Vengeance Falls (2013-10-14) [10 tracks] `upc:0075679669476` `qobuz:yb1775qjnnjza`
+- **Turnstile** — NEVER ENOUGH (2025-06-06) [14 tracks] `upc:075679615459` `qobuz:d42amhtykoowa` `tidal:440155726`
+- **TV On The Radio** — Dear Science (2008-09-21) [11 tracks] `upc:0602517823839` `qobuz:o4le2cmcliemb`
+- **Two Lone Swordsmen** — Stay Down (1998-10-19) [12 tracks] `upc:0801061005832` `qobuz:0801061005832`
+- **U2** — Achtung Baby (1991-11-18) [12 tracks] `upc:00602557033526` `qobuz:0060255703352` `tidal:77640617`
+- **U2** — All That You Can't Leave Behind (2000-10-30) [12 tracks] `upc:0602507404543` `qobuz:xqp4wus7hxuha`
+- **U2** — Pop (1994-01-17) [12 tracks] `upc:0073145243342` `qobuz:0073145243342`
+- **U2** — The Joshua Tree (1987-03-09) [11 tracks] `upc:00602517449398` `qobuz:0060251750947` `tidal:1218916`
+- **U2** — The Unforgettable Fire (1984-09-03) [10 tracks] `upc:0060251792414` `qobuz:0060251792414`
+- **U2** — War (1983-02-28) [10 tracks] `upc:0060251781224` `qobuz:0060251781224`
+- **U2** — Zooropa (1993-01-01) [10 tracks] `upc:0073145180472` `qobuz:0073145180472`
+- **UNKLE** — Never, Never, Land (2003-09-22) [11 tracks] `upc:5400863128784` `tidal:273876767`
+- **Vampire Weekend** — Modern Vampires of the City (2013-05-13) [12 tracks] `upc:0634904055660` `qobuz:0634904055660`
+- **Various Artists** — Artificial Intelligence II (1994-05-30) [14 tracks] `upc:0801061002336` `qobuz:gzr9z6ne2r41a`
+- **Velvet Acid Christ** — Twisted Thought Generator (2000-11-14) [9 tracks] `upc:0782388018760` `qobuz:0782388018760`
+- **Vola** — Friend Of A Phantom (2024-11-01) [9 tracks] `upc:8712725748854` `qobuz:ymvthk3g885ha`
+- **Von Hertzen Brothers** — Love Remains the Same (2008-05-19) [9 tracks] `upc:0197338935149` `qobuz:hwcwbrrnm67kb`
+- **Voyager** — Fearless in Love (2023-07-14) [11 tracks] `upc:0822603369809` `qobuz:vnssrnvp7sajc`
+- **Warning** — Rituals of Shame (2026-06-19) [5 tracks] `upc:0781676556717` `qobuz:fw2as0o51bkek`
+- **Wax Tailor** — Dusty Rainbow from the Dark (2012-09-10) [41 tracks] `upc:3701421509826` `qobuz:u9jlt19f4d43b`
+- **Weather Systems** — Ocean Without A Shore (2024-09-27) [9 tracks] `upc:8712725748410` `qobuz:eiibulok0t6lb` `tidal:368945849`
+- **Wehbba** — Straight Lines and Sharp Corners (2020-03-02) [13 tracks] `upc:5060191678438` `tidal:291543276`
+- **White Lies** — Ritual (2010-01-01) [12 tracks] `upc:5400863132774` `qobuz:pq3x1a9dxxhac`
+- **Woo York** — Chasing The Dream (2018-05-04) [13 tracks] `upc:0425135320807` `qobuz:s4x2yl0t9unec`
+- **XTC** — Drums And Wires (1979-08-01) [15 tracks] `upc:0724385065354` `qobuz:0724385065354`
+- **Yard Act** — You're Gonna Need A Little Music (2026-07-17) [11 tracks] `upc:00199957673495` `qobuz:ze3jepa3eho2s` `tidal:541782687`
+- **Yeah Yeah Yeahs** — Fever To Tell (2003-04-29) [12 tracks] `upc:0060256703166` `qobuz:0060256703166`
+- **Yes** — Close to the Edge (1972-09-13) [3 tracks] `upc:603497924929` `qobuz:0603497924929` `tidal:68710759`
+- **Yes** — Relayer (1974-12-05) [3 tracks] `upc:0603497921904` `qobuz:0603497921904`
+- **µ-ziq** — Chewed Corners (2013-06-24) [14 tracks] `upc:5055300330918` `qobuz:d4mdoucp9ehba`

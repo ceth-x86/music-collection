@@ -1,0 +1,108 @@
+# Genre: Folk Rock
+
+Imported genre playlist: Folk Rock.
+
+Services: `qobuz:66737385` `tidal:33c7314e-4e1e-4810-b0d5-cb9785257a5d`
+
+## Tracks (100)
+
+- **Barry McGuire** — Eve Of Destruction [Eve Of Destruction] (3:35) `isrc:USMC16500802` `qobuz:3883273`
+- **Bob Dylan** — Like a Rolling Stone [The Essential Bob Dylan] (6:08) `isrc:USSM19922509` `qobuz:15215741`
+- **Sonny & Cher** — I Got You Babe [Look At Us] (3:10) `isrc:USAT27500019` `qobuz:24511483`
+- **The Beau Brummels** — Laugh, Laugh [Introducing the Beau Brummels] (2:49) `isrc:QM4TW1871941` `qobuz:50399452`
+- **The Byrds** — Mr. Tambourine Man [Mr. Tambourine Man] (2:29) `isrc:USSM16500019` `qobuz:39789`
+- **The Turtles** — It Ain't Me Babe (Mono) [It Ain't Me Babe (Deluxe Version)] (2:13) `isrc:USQE11610040` `qobuz:33914977`
+- **We five** — You Were On My Mind [You Were On My Mind] (2:35) `isrc:USAM16900849` `qobuz:58799433`
+- **The Lovin' Spoonful** — Do You Believe in Magic? [Do you Believe In Magic] (2:05) `isrc:USBR10200019` `qobuz:226189`
+- **The Mamas & The Papas** — California Dreamin' [California Dreaming] (2:28) `isrc:USBT21614658` `qobuz:72894992`
+- **The Hollies** — Bus Stop [The Air That I Breathe - The Very Best of the Hollies] (2:54) `isrc:GBAYE6600055` `qobuz:4457079`
+- **Buffalo Springfield** — For What It's Worth [Buffalo Springfield] (2:33) `isrc:USEE10170607` `qobuz:8708267`
+- **Donovan** — Sunshine Superman [Sunshine Superman] (3:15) `isrc:USSM19805194` `qobuz:44791`
+- **Simon & Garfunkel** — The Sound of Silence [The Graduate] (3:06) `isrc:USSM19918649` `qobuz:61807817`
+- **THE GRASS ROOTS** — Where Were You When I Needed You [Where Were You When I Needed You] (3:00) `isrc:USMC16755312` `qobuz:99455907`
+- **The Beach Boys** — Sloop John B [Pet Sounds] (3:01) `isrc:USCA21201794` `qobuz:6848884`
+- **The Rose Garden** — Next Plane to London [The Rose Garden] (2:30) `isrc:USEE10300103` `qobuz:2955408`
+- **Scott McKenzie** — San Francisco (Be Sure to Wear Flowers in Your Hair) [San Francisco (Be Sure to Wear Flowers in Your Hair)] (3:29) `isrc:USBT21623399` `qobuz:92423336`
+- **Scott Bradlee** — Different Drum [Different Drum (feat. Nicole Atkins)] (3:03) `isrc:QZMEM2177148` `qobuz:130233503`
+- **The Youngbloods** — Get Together [The Youngbloods] (4:39) `isrc:USRC16707554` `qobuz:14947330`
+- **The Nitty Gritty Dirt Band** — Buy For Me The Rain [Dirt, Silver & Gold] (2:22) `isrc:USEM39400212` `qobuz:15933956`
+- **The Band** — The Weight [Greatest Hits] (4:35) `isrc:USCA20000789` `qobuz:997942`
+- **Pentangle** — Light Flight [Basket of Light] (3:14) `isrc:GBAJE0414233` `qobuz:385640584`
+- **Crosby, Stills & Nash** — Suite : Judy Blue Eyes [Crosby, Stills & Nash] (7:23) `isrc:USAT21204215` `qobuz:7104434`
+- **Fairport Convention** — Who Knows Where The Time Goes? [Unhalfbricking] (5:05) `isrc:GBAAN6900035` `qobuz:4368905`
+- **John Denver** — Take Me Home, Country Roads [The John Denver Collection, Vol 1: Take Me Home Country Roads] (3:17) `isrc:USA370529726` `qobuz:75009346`
+- **James Taylor** — Fire and Rain [Sweet Baby James] (3:23) `isrc:USRH11900597` `qobuz:72631418`
+- **Matthews Southern Comfort** — Woodstock [Later That Same Year] (4:29) `isrc:USCGJ1667941` `qobuz:83182414`
+- **Van Morrison** — Into the Mystic (2013 Remaster) [Moondance (Hi-Res Version)] (3:30) `isrc:USWB11302600` `qobuz:12100316`
+- **Fotheringay** — The Sea [Nothing More - The Collected Fotheringay] (5:31) `isrc:GBAAN7000047` `qobuz:23250930`
+- **Cat Stevens** — Peace Train [Teaser And The Firecat] (4:11) `isrc:GBUM72104761` `qobuz:132050834`
+- **Lindisfarne** — Meet Me On The Corner [Fog On The Tyne] (2:40) `isrc:GBAAA0300723` `qobuz:1948132`
+- **Rod Stewart** — Mandolin Wind [Every Picture Tells A Story] (5:33) `isrc:USPR37105163` `qobuz:52369842`
+- **Strawbs** — Lay Down [Bursting At The Seam] (4:33) `isrc:USAM17300048` `qobuz:3881704`
+- **America** — A Horse with No Name [America] (4:15) `isrc:USWB11304213` `qobuz:15765443`
+- **John Martyn** — May You Never [Solid Air] (3:40) `isrc:GBAAN7300043` `qobuz:3879265`
+- **Gordon Lightfoot** — If You Could Read My Mind [If You Could Read My Mind] (3:49) `isrc:USRE19900467` `qobuz:2728963`
+- **Crosby, Stills, Nash & Young** — Teach Your Children [Déjà Vu] (2:53) `isrc:USAT20901709` `qobuz:2729084`
+- **Neil Young** — Heart of Gold [Harvest] (3:07) `isrc:USRE11100415` `qobuz:35927312`
+- **Joni Mitchell** — Woodstock [Ladies Of The Canyon] (5:29) `isrc:USRE11300014` `qobuz:8766757`
+- **Jackson Browne** — Doctor My Eyes [The Very Best Of Jackson Browne] (3:19) `isrc:USEE10184286` `qobuz:15765004`
+- **Steeleye Span** — All Around My Hat [All Around My Hat] (4:11) `isrc:GBAYK0900433` `qobuz:169146477`
+- **Richard & Linda Thompson** — Dimming Of The Day / Dargai [The Best Of Richard And Linda Thompson: The Island Record Years] (3:50) `isrc:GBAAN7500077` `qobuz:772501`
+- **Al Stewart** — Year of the Cat [Year Of The Cat] (6:41) `isrc:USALS0100032` `qobuz:4744380`
+- **Joan Baez** — Diamonds And Rust [Diamonds & Rust] (4:45) `isrc:USAM17502181` `qobuz:112883736`
+- **Bruce Cockburn** — Wondering Where The Lions Are [Dancing In The Dragon's Jaws (Deluxe Edition)] (3:47) `isrc:CAT247900176` `qobuz:319754183`
+- **Bruce Springsteen** — Atlantic City [Nebraska] (4:00) `isrc:USSM18200422` `qobuz:13358660`
+- **Aztec Camera** — Oblivious [High Land, Hard Rain] (3:10) `isrc:GBAHT8303357` `qobuz:5687433`
+- **Big Country** — In A Big Country [The Crossing] (4:45) `isrc:GBF088300765` `qobuz:767331`
+- **The Dream Academy** — Life in a Northern Town [Life in a Northern Town / Test Tape No. 3] (4:16) `isrc:USWB10808463` `qobuz:11745686`
+- **R.E.M.** — Driver 8 [Fables Of The Reconstruction] (3:23) `isrc:USCA21001231` `qobuz:15936988`
+- **The Hooters** — All You Zombies [Nervous Night] (5:58) `isrc:USSM10105639` `qobuz:32843`
+- **Paul Kelly** — To Her Door [Songs from the South. Greatest Hits (1985-2019)] (3:18) `isrc:AUYP00820008` `qobuz:368575376`
+- **Suzanne Vega** — Luka [Solitude Standing] (3:51) `isrc:USAM18704255` `qobuz:131792506`
+- **Fairground Attraction** — Perfect [The First Of A Million Kisses] (3:36) `isrc:GBARL8800011` `qobuz:449390`
+- **Tracy Chapman** — Fast Car [Tracy Chapman] (4:56) `isrc:USEE10180719` `qobuz:2781545`
+- **The Church** — Under the Milky Way [Starfish (Deluxe Edition)] (4:58) `isrc:USAR18800002` `qobuz:33546473`
+- **The Proclaimers** — Sunshine on Leith [Sunshine On Leith (2011 - Remaster)] (5:14) `isrc:GBAYK1100219` `qobuz:4275022`
+- **The Waterboys** — Fisherman's Blues [Fisherman's Blues] (4:26) `isrc:GBAYK0500042` `qobuz:169134204`
+- **Tom Petty** — Free Fallin' [Full Moon Fever] (4:15) `isrc:USMC18925673` `qobuz:22946510`
+- **Indigo Girls** — Closer To Fine [Indigo Girls (Expanded Edition)] (4:01) `isrc:USSM10012978` `qobuz:43147`
+- **Spirit Of The West** — Home For A Rest [Save This House] (4:36) `isrc:CAW119000447` `qobuz:319832921`
+- **Toad The Wet Sprocket** — Walk On the Ocean [Walk On The Ocean EP] (3:38) `isrc:USSM12001047` `qobuz:88121256`
+- **Levellers** — One Way [Levelling The Land (Remastered)] (4:08) `isrc:GBAHS0700359` `qobuz:2907007`
+- **10,000 Maniacs** — These Are Days [Our Time in Eden] (3:39) `isrc:USEE10900606` `qobuz:11564354`
+- **The Jayhawks** — Blue [Tomorrow The Green Grass] (3:09) `isrc:USSM19503763` `qobuz:8420758`
+- **The Cranberries** — Linger [MTV Unplugged] (5:06) `isrc:USSJW2500031` `qobuz:355852815`
+- **Counting Crows** — Mr. Jones [August And Everything After] (4:33) `isrc:USIR10000287` `qobuz:14836419`
+- **Crash Test Dummies** — Mmm Mmm Mmm Mmm [God Shuffled His Feet] (3:55) `isrc:CAA359300084` `qobuz:13102470`
+- **Natalie Merchant** — Wonder [Tigerlily] (4:27) `isrc:USEE11100400` `qobuz:6008163`
+- **Jewel** — Who Will Save Your Soul [Pieces Of You] (3:57) `isrc:USAT29400031` `qobuz:127403777`
+- **The Wallflowers** — One Headlight [Bringing Down The Horse] (5:13) `isrc:USIR19600462` `qobuz:131792855`
+- **Dave Matthews Band** — Crash into Me [Crash] (5:16) `isrc:USRC19603151` `qobuz:195095112`
+- **Sarah McLachlan** — Building a Mystery [Surfacing] (4:07) `isrc:USAR19700533` `qobuz:2719506`
+- **Ben Harper & The Innocent Criminals** — Steal My Kisses [Burn To Shine] (4:27) `isrc:USUM71603062` `qobuz:31675641`
+- **The Shins** — New Slang [Oh, Inverted World] (3:50) `isrc:USSUB2141506` `qobuz:407826199`
+- **Wilco** — Jesus, Etc. (2022 Remaster) [Yankee Hotel Foxtrot] (3:51) `isrc:USNO12200100` `qobuz:298644982`
+- **Damien Rice** — The Blower's Daughter [O] (4:47) `isrc:IEABD0100003` `qobuz:2586932`
+- **Iron & Wine** — Naked as We Came [Our Endless Numbered Days] (2:32) `isrc:USSUB0400095` `qobuz:407819034`
+- **Oysterband** — When I'm up I Can't Get Down [Holy Bandits] (3:30) `isrc:GBCEJ9300003` `qobuz:368531647`
+- **The Saw Doctors** — N17 [If This Is Rock and Roll, I Want My Old Job Back] (4:36) `isrc:IEAQE9100014` `qobuz:77342966`
+- **Bright Eyes** — First Day of My Life [I'm Wide Awake, It's Morning] (3:08) `isrc:US2U61623706` `qobuz:121210633`
+- **The Decemberists** — Sons & Daughters [The Crane Wife] (5:19) `isrc:USCA20601227` `qobuz:39459569`
+- **Glen Hansard** — Falling Slowly [Once (Music From The Motion Picture)] (4:04) `isrc:USLIC0700662` `qobuz:20399352`
+- **Beirut** — Postcards from Italy [Gulag Orkestar] (4:17) `isrc:USCPT0600023` `qobuz:44828997`
+- **Band of Horses** — The Funeral [Everything All The Time] (5:22) `isrc:USSUB0669004` `qobuz:407819956`
+- **Bon Iver** — Skinny Love [For Emma, Forever Ago] (3:58) `isrc:US38Y0811503` `qobuz:20956200`
+- **Fleet Foxes** — Mykonos [First Collection: 2006-2009] (4:35) `isrc:USSUB0878104` `qobuz:53596006`
+- **The Avett Brothers** — I And Love And You [I And Love And You] (4:59) `isrc:USSM10903395` `qobuz:19761542`
+- **Edward Sharpe & The Magnetic Zeros** — Home [Up from Below] (5:03) `isrc:USVR90954206` `qobuz:280505060`
+- **Mumford & Sons** — Little Lion Man [Gentlemen of the Road] (4:17) `isrc:GBUM71028205` `qobuz:288725419`
+- **The Head And The Heart** — Lost in My Mind [Lost in My Mind] (4:19) `isrc:GBUM71100548` `qobuz:10928720`
+- **The Tallest Man On Earth** — The Wild Hunt [The Wild Hunt] (3:21) `isrc:USJ5G1034001` `qobuz:2117453`
+- **The Civil Wars** — Dance Me to the End of Love [Barton Hollow] (3:04) `isrc:USW5Q1100014` `qobuz:5039388`
+- **Of Monsters and Men** — Little Talks [My Head Is An Animal] (4:26) `isrc:USUM71119106` `qobuz:6254643`
+- **The Lumineers** — Ho Hey [Ho Hey] (2:43) `isrc:USDMG1260805` `qobuz:273951038`
+- **First Aid Kit** — Emmylou [The Lion's Roar] (4:18) `isrc:GBDNH1100097` `qobuz:6309278`
+- **Lord Huron** — The Night We Met [Strange Trails] (3:28) `isrc:US53Q1200103` `qobuz:328339180`
+- **The Strumbellas** — Spirits [Hope] (3:23) `isrc:CA6MD1500001` `qobuz:292873373`
+- **The Weather Station** — Robber [Ignorance] (5:20) `isrc:USFP13774601` `qobuz:98087568`
+- **Big Thief** — Simulation Swarm [Dragon New Warm Mountain I Believe In You] (4:12) `isrc:GBAFL2100193` `qobuz:136139007`

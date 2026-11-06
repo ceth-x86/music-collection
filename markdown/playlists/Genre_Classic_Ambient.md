@@ -1,0 +1,106 @@
+# Genre: Classic Ambient
+
+Imported genre playlist: Classic Ambient.
+
+Services: `qobuz:66711646` `tidal:515aa2c5-bebf-467b-b3e0-cb57e1778fcd`
+
+## Tracks (98)
+
+- **Brian Eno** — Discreet Music [Discreet Music] (31:34) `isrc:GBAAA0400422` `qobuz:1077158`
+- **Harold Budd** — Bismillahi 'Rrahmani 'Rrahim [The Pavilion Of Dreams] (18:26) `isrc:GBAAA7800295` `qobuz:655897`
+- **Ariel Kalma** — Saxo Planetariel [Osmose] (6:01) `isrc:AUAL17700001` `qobuz:185034572`
+- **Roedelius** — In Liebe dein [Selbstportrait I] (3:46) `isrc:DELI51000375` `qobuz:49801125`
+- **Laurie Spiegel** — Patchwork [The Expanding Universe] (9:46) `isrc:USVML1106001` `qobuz:46287407`
+- **Laraaji** — The Dance No. 1 [Ambient 3 / Day Of Radiance] (9:15) `isrc:GBAAA8000550` `qobuz:795373`
+- **Robert Fipp** — Miniature [Further Perspectives & Distortion: An Encyclopedia Of British Experimental And Avant-Garde Music 1976 - 1984] (1:03) `isrc:GBBLY0800198` `qobuz:170085229`
+- **Suzanne Ciani** — The Fifth Wave - Water Lullaby [Seven Waves] (5:47) `isrc:USHM90466047` `qobuz:70881098`
+- **Hiroshi Yoshimura** — Water Copy [Music for Nine Post Cards] (6:11) `isrc:USDEA1759901` `qobuz:313187678`
+- **Satoshi Ashikawa** — Still Space [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980-1990] (3:59) `isrc:USDEA1816701` `qobuz:313179542`
+- **K. Leimer** — Go Slowly [Music for Land and Water] (14:39) `isrc:USA2Z2200418` `qobuz:165126123`
+- **Michiko Takada** — Farewell Mr. Old City [Talea Dream] (6:14) `isrc:JPN200500661` `qobuz:95599187`
+- **Inoyama Land** — Hair Air [Commissions: 1977-2000] (8:23) `isrc:USDEA1959701` `qobuz:313189807`
+- **Golden Apples** — Another Grand Offering For The Swine [Shooting Star] (1:32) `isrc:USOPM2500477` `qobuz:339142552`
+- **Steve Roach** — Reflections in Suspension [Structures from Silence (Deluxe)] (16:37) `isrc:USHK92441601` `qobuz:247506237`
+- **Roger Eno** — Through The Blue [Through The Blue] (3:45) `isrc:DEN962300830` `qobuz:204006214`
+- **Vito Ricci** — Deep Felt Music [I Was Crossing A Bridge] (12:43) `isrc:NLD7H1500013` `qobuz:25196693`
+- **Gigi Masin** — Call Me [Wind] (4:28) `isrc:NLD7H1700062` `qobuz:410347360`
+- **David Sylvian** — Steel Cathedrals [Alchemy: An Index Of Possibilities] (18:57) `isrc:GBAAA0300434` `qobuz:59084757`
+- **Etsuko Hirosé** — Scheherazade, Op. 35 (Arr. for Piano by Etsuko Hirose): I. The Sea and Sinbad's Ship [Scheherazade] (9:51) `isrc:DKECA2498501` `qobuz:310043316`
+- **Lukas Nelson & Promise of the Real** — Movie In My Mind [Naked Garden] (4:19) `isrc:USC4R2007255` `qobuz:86965645`
+- **O Yuki Conjugate** — Ascension [Into Dark Water] (5:57) `isrc:GBMNS0600023` `qobuz:89949362`
+- **Chad Crouch** — Part 1, W. 5th Beach Access [Preston Island Soundwalk] (2:08) `isrc:USA2B2404425` `qobuz:293055704`
+- **Mark Isham** — In the Blue Distance [A Windham Hill Retrospective] (4:05) `isrc:USWH19800780` `qobuz:223232`
+- **Patrick O'Hearn** — Trust [Trust] (6:32) `isrc:USEJB0610004` `qobuz:84863903`
+- **Tiziano Popoli** — The tower [Scorie] (9:00) `isrc:ITEPL2100010` `qobuz:112534682`
+- **Yoshio Ojima** — Glass Chattering [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980-1990] (5:56) `isrc:JPZ921702692` `qobuz:313179543`
+- **Tetsuji Hayashi** — Sekai De Ichiban Setsunai Yoru Ni [Sekai De Ichiban Setsunai Yoru Ni] (4:31) `isrc:JPWP02570508` `qobuz:337486503`
+- **Joe Hisaishi** — Island Song [A Scene at the Sea] (3:39) `isrc:JPT900000014` `qobuz:234380607`
+- **Yoshiaki Ochi** — Ear Dreamin' [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980-1990] (4:45) `isrc:JPZ921702693` `qobuz:313179544`
+- **Masashi Kitamura + Phonogenix** — ヴァリエイション III (2024 Remaster)／VARIATION: III (2024 Remaster) [ポスト・モダン・ミュージックへの序章（プロローグ）／Prologue for Post Modern Music] (3:35) `isrc:JPVP02413503` `qobuz:305655936`
+- **Interior** — Park [INTERIOR +1] (4:04) `isrc:JPAL08300790` `qobuz:300553154`
+- **Yoichiro Yoshikawa** — Nube [Cyprus] (2:12) `isrc:JPTO08813360` `qobuz:189419049`
+- **Paul Westerberg** — Meet Me In The Meadow [Open Season: Featuring the songs of Paul Westerberg] (4:28) `isrc:USUM70607216` `qobuz:2445354`
+- **Toshi Tsuchitori** — Ishiura (Abridged) [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980-1990] (5:13) `isrc:USDEA1816710` `qobuz:313179545`
+- **Shiho Yabuki** — Tomoshibi [The Body Is a Message of the Universe - からだは宇宙のメッセージ] (7:00) `isrc:SEWRL1800301` `qobuz:102028422`
+- **Hinata Toshifumi** — Chaconne [Sarah's Crime] (4:49) `isrc:JPAL08501040` `qobuz:138588877`
+- **Yasuaki Shimizu** — Seiko 3 [Music For Commercials] (1:17) `isrc:BE6F51700860` `qobuz:43165034`
+- **Fumio Miyashita** — See The Light (Abridged) [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980-1990] (6:50) `isrc:USDEA1816716` `qobuz:313179549`
+- **Akira Ito** — Praying For Mother / Earth, Pt. 1 [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980-1990] (4:13) `isrc:USDEA1816717` `qobuz:313179550`
+- **Damageplan** — Breathing New Life [New Found Power] (3:49) `isrc:USEE10340914` `qobuz:2783885`
+- **Masahiko Togashi** — Snow (feat. Takashi Kako, Jean-Francois Jenny-Clark) [Session In Paris Vol. 2 "Colour Of Dream"] (7:49) `isrc:JPKI07973729` `qobuz:317912647`
+- **Yellow Magic Orchestra** — Loom [BGM] (5:20) `isrc:JPAL09900810` `qobuz:55763240`
+- **Takashi Kokubo** — A Dream Sails out to Sea Scene 3​:​Breath of Blue Water [Get at the Wave   2023 Remaster Edition] (9:09) `isrc:US7VG2425012` `qobuz:246851128`
+- **Masahiro Sugaya** — Umi No Sunatsubu [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980-1990] (1:12) `isrc:USDEA1816722` `qobuz:313179551`
+- **Shoko Nakagawa** — 心のアンテナ -Haruomi Hosono Original Mix- [Kokorono Antenna] (4:15) `isrc:JPSR00901421` `qobuz:95520366`
+- **The KLF** — Madrugada Eterna [The White Room] (3:01) `isrc:GBCEL2100289` `qobuz:120026073`
+- **The Orb** — A Huge Ever Growing Pulsating Brain That Rules From The Centre Of The Ultraworld [Adventures Beyond The Ultraworld] (18:48) `isrc:GBAAN9100013` `qobuz:58616034`
+- **Moby** — LA1 [Long Ambients 1: Calm. Sleep] (20:50) `isrc:GB3AD1500019` `qobuz:172104441`
+- **Global Communication** — 14:31 [76:14] (14:31) `isrc:GBARL9400474` `qobuz:209978221`
+- **The Future Sound Of London** — Cascade [Lifeforms] (5:59) `isrc:GBAAA9400542` `qobuz:2487977`
+- **Autechre** — Nil [Amber] (7:48) `isrc:GBBPW9400146` `qobuz:3775485`
+- **Tetsu Inoue** — spirit of data [Yolo] (5:58) `isrc:GBJJM0500051` `qobuz:167457378`
+- **Boards of Canada** — Olson [Music Has The Right To Children] (1:31) `isrc:GBBPW9800022` `qobuz:3775740`
+- **Biosphere** — Kobresia [Substrata 2] (7:12) `isrc:GBJYX0505024` `qobuz:49282301`
+- **Robert Rich** — Liquid Air [Below Zero] (9:05) `isrc:USSP69803305` `qobuz:362084937`
+- **John Foxx** — Cathedral Oceans [The Complete Cathedral Oceans] (5:16) `isrc:GBAFR9510218` `qobuz:170683608`
+- **Ryuichi Sakamoto** — energy flow [BTTB] (4:32) `isrc:US5941410337` `qobuz:238126877`
+- **Angelo Badalamenti** — Laura Palmer's Theme [Soundtrack From Twin Peaks] (4:52) `isrc:USWB10102634` `qobuz:2594431`
+- **Michael Brook** — Ultramarine [Cobalt Blue] (4:34) `isrc:GBAFL9200022` `qobuz:58598634`
+- **vidnaObmana** — The Angelic Appearance [The River of Appearance] (5:48) `isrc:USHK99618501` `qobuz:28112864`
+- **The Irresistible Force** — Power [Its Tomorrow Already] (8:36) `isrc:GBCFB9800010` `qobuz:6276836`
+- **Seefeel** — Climactic Phase #3 [Quique Redux] (8:25) `isrc:GBBNZ2400029` `qobuz:320534219`
+- **Susumu Yokota** — Blue Sky and Yellow Sunflower [Symbol] (3:14) `isrc:GBDRC0504509` `qobuz:153507480`
+- **The Sabres Of Paradise** — Smokebelch II [Sabresonic II] (12:43) `isrc:GBBPW9500128` `qobuz:3775556`
+- **William Orbit** — Water From A Vine Leaf [Strange Cargo III] (7:04) `isrc:GBAAA9301038` `qobuz:4728239`
+- **Labradford** — P [Mi Media Naranja] (9:18) `isrc:GBAJH9700316` `qobuz:9752435`
+- **Spacetime Continuum** — Ping Pong [Sea Biscuit] (11:30) `isrc:USCN39400010` `qobuz:818654`
+- **Ken Ikeda** — Akimatzuri (Autumn Festival) [Sacred Offering] (4:43) `isrc:QMFME2400037` `qobuz:304098825`
+- **Jon Hopkins** — Abandon Window [Immunity] (4:57) `isrc:GBCEL2300184` `qobuz:211566934`
+- **Taylor Deupree** — Stil. (For Vibraphone & Bass Drum) [Sti.ll] (19:11) `isrc:CAN112400927` `qobuz:258636016`
+- **Loscil** — Endless Falls [Endless Falls] (7:55) `isrc:USNCB1014101` `qobuz:63139069`
+- **The Dead Texan** — The Struggle [The Dead Texan] (5:28) `isrc:USI4R0403332` `qobuz:24337928`
+- **Oneohtrix Point Never** — Zones Without People [Zones Without People] (3:59) `isrc:QMUJD1202010` `qobuz:234488773`
+- **Jonsi & Alex** — Happiness [This Must Be The Place] (9:16) `isrc:GB01A0900272` `qobuz:5223694`
+- **Rafael Anton Irisarri** — Displacement [A Fragile Geography] (4:16) `isrc:QM6N21580569` `qobuz:229226484`
+- **Julianna Barwick** — The Magic Place [The Magic Place] (3:51) `isrc:US64G1108103` `qobuz:51568994`
+- **Marconi Union** — Weightless [Weightless (Ambient Transmissions Vol. 2)] (8:03) `isrc:GBDDN1200510` `qobuz:151537428`
+- **C418** — Sweden [Minecraft - Volume Alpha] (3:35) `isrc:TCAAW1157087` `qobuz:382554215`
+- **A Winged Victory For The Sullen** — Steep Hills of Vicodin Tears [A Winged Victory for the Sullen] (4:26) `isrc:GBWZD1103205` `qobuz:360997899`
+- **Nils Frahm** — Says [Spaces] (8:18) `isrc:GBWZD1305502` `qobuz:58583818`
+- **David Moore** — Starwood Choker [No Home of the Mind] (6:17) `isrc:GBAFL1600382` `qobuz:38435061`
+- **Ólafur Arnalds** — saman [re:member] (2:11) `isrc:GBBBA1800103` `qobuz:50227791`
+- **Johann Johannsson** — Jóhannsson: Flight from the City [Jóhann Jóhannsson : Orphée] (6:31) `isrc:DEN961630001` `qobuz:33566054`
+- **Kaitlyn Aurelia Smith** — An Intention [The Kid] (4:01) `isrc:US78L1717002` `qobuz:42008451`
+- **Los Titanes De Durango** — El Enamorado [Los Locos Del Corrido] (2:33) `isrc:USUM70920222` `qobuz:6832299`
+- **Helios** — Bless This Morning Year [Eingya] (6:01) `isrc:GBJSN0600009` `qobuz:53484334`
+- **Balmorhea** — Remembrance [All Is Wild, All Is Silent] (5:49) `isrc:US78L0910014` `qobuz:20751303`
+- **Goldmund** — Threnody [The Malady Of Elegance] (4:41) `isrc:DEX260803905` `qobuz:346795943`
+- **Max Richter** — Richter: On the Nature of Daylight [The Blue Notebooks] (6:11) `isrc:GBDCA0300279` `qobuz:48435670`
+- **Mary Lattimore** — Silver Ladders [Silver Ladders] (3:45) `isrc:US2J72007002` `qobuz:96101715`
+- **Kmru** — Well [Peel] (5:30) `isrc:ATE692028902` `qobuz:319842253`
+- **Emily A. Sprague** — Tokyo 1 [Cloud Time] (4:42) `isrc:US6PQ2500089` `qobuz:344029440`
+- **Sigur Rós** — Untitled #3 [( )] (6:33) `isrc:GBKEE2200426` `qobuz:178184844`
+- **M83** — Lower Your Eyelids To Die With the Sun [Before The Dawn Heals Us] (10:37) `isrc:FR86W0400215` `qobuz:18493155`
+- **Hania Rani** — Glass [Esja] (4:30) `isrc:GBVTB1930007` `qobuz:127466258`
+- **Hammock** — Turn Away and Return [Everything and Nothing] (5:13) `isrc:US7QT1500007` `qobuz:126955648`
+- **Murcof** — Reflejo [Remembranza] (9:02) `isrc:GBCKB2204706` `qobuz:186253886`

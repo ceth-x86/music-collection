@@ -1,0 +1,49 @@
+{
+  "name": "Shuffle",
+  "services": {
+    "qobuz": "63034338",
+    "tidal": "b2d75fc0-1a22-4d90-9a97-d19baab35992"
+  },
+  "tracks": [
+    {
+      "artist": "Nine Inch Nails",
+      "title": "Just Like You Imagined",
+      "services": {
+        "qobuz": "753702"
+      },
+      "album": "The Fragile",
+      "duration": 229,
+      "isrc": "USIR19902587"
+    },
+    {
+      "artist": "Anthony Rother",
+      "title": "Magic Diner, Pt. 4",
+      "services": {
+        "qobuz": "134784644"
+      },
+      "album": "This Is Electro",
+      "duration": 305,
+      "isrc": "DEQ121114265"
+    },
+    {
+      "artist": "Nothing But Thieves",
+      "title": "Evolution",
+      "services": {
+        "qobuz": "418397611"
+      },
+      "album": "Evolution",
+      "duration": 225,
+      "isrc": "GBARL2600671"
+    },
+    {
+      "artist": "M\u00f6tley Cr\u00fce",
+      "title": "Too Young to Fall in Love",
+      "services": {
+        "qobuz": "387263956"
+      },
+      "album": "Shout At The Devil",
+      "duration": 215,
+      "isrc": "USBY29900165"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+# Genre: Braindance
+
+Imported genre playlist: Braindance.
+
+Services: `qobuz:66716969` `tidal:e179a7ee-bfea-4a74-abed-41dd50bf926d`
+
+## Tracks (99)
+
+- **The Gentle People** — Journey [Mix Gently] (4:58) `isrc:JPM400700047` `qobuz:73469069`
+- **Steve Oliver** — Long Road [Global Kiss] (4:21) `isrc:USCGH1053111` `qobuz:84539399`
+- **Cylob** — Rewind! [Rewind!] (3:04) `isrc:GBTSL1400020` `qobuz:51011043`
+- **DMX Krew** — The Glass Room [We Are DMX (2021 Expanded Reissue)] (2:29) `isrc:GBNVJ0800542` `qobuz:126805423`
+- **Detroit Soul Sensation** — Reach Out I'll Be There ('88 Mix) [80's Running Playlist] (3:00) `isrc:CAM460404725` `qobuz:115462040`
+- **Bochum Welt** — Greenwich [Desktop Robotics & Feelings on a Screen (25th Anniversary Edition)] (4:33) `isrc:GBJU22200719` `qobuz:159998747`
+- **Ibrahim Maalouf** — The Proposal [Trumpets of Michel-Ange] (4:59) `isrc:FRP8H2400030` `qobuz:283939538`
+- **Nina Simone** — My Baby Just Cares For Me [night drives by myself] (3:51) `isrc:USUM72116203` `qobuz:420312403`
+- **µ-ziq** — Swan Vesta [Tango N'Vectif] (6:09) `isrc:US78Q1110035` `qobuz:237802423`
+- **Dick Van Dyke** — Put on a Happy Face [Bye Bye Birdie (Original Motion Picture Soundtrack)] (3:35) `isrc:USRC16307238` `qobuz:7348401`
+- **Amahla** — Do Something You Can't Take Back [Enough: The Collection] (2:35) `isrc:GBKPL2152377` `qobuz:241932582`
+- **LEMAT WORKS** — Chaos Precision / Deep Flow Mix [Flow 2.0 / AD 2025] (3:23) `isrc:QZYB32541611` `qobuz:380357503`
+- **Bogdan Raczynski** — Death To The Natives [Bombs Over Ibiza] (2:51) `isrc:GB5P59700029` `qobuz:79196268`
+- **Leo Kottke & Mike Gordon** — Oh Well [Sixty Six Steps] (3:21) `isrc:USV110500220` `qobuz:4965758`
+- **Leila** — Don't Fall Asleep (feat. Luca Santucci) [Like Weather (Remastered Edition)] (3:27) `isrc:UK8261900523` `qobuz:119886175`
+- **Diana Krall** — Temptation [The Girl In The Other Room] (4:29) `isrc:USGR10301330` `qobuz:54319180`
+- **Squarepusher** — Circular Flexing [Maximum Priest] (5:36) `isrc:GBBPW9900090` `qobuz:5683577`
+- **Santiano** — Bis in alle Ewigkeit (Walhalla) [Die Sehnsucht ist mein Steuermann - Das Beste aus 10 Jahren] (4:06) `isrc:DEUM72202149` `qobuz:177263757`
+- **Little Mix** — Red Planet [DNA] (3:53) `isrc:GBHMU1200282` `qobuz:100212638`
+- **Tim Hill** — Like a Leaf Gone Dry [Piano Songs] (1:31) `isrc:USCGH1735172` `qobuz:93913709`
+- **Terry_Alex** — 유리구두 _ The Glass Slipper [유리구두 _ The Glass Slipper] (4:14) `isrc:QT3F42603990` `qobuz:422885174`
+- **Roy Woods** — Down Girl [Waking at Dawn] (2:49) `isrc:USWB11601141` `qobuz:314521236`
+- **Pierre Bastien** — Nature's Voice [Nuits Sans Nuit] (3:07) `isrc:DEDX62500006` `qobuz:364187469`
+- **Ensemble Double Face** — Waldklänge, Op. 28: No. 1, Waldvöglein [Les deux Franz] (3:31) `isrc:FRV732503591` `qobuz:360705014`
+- **Lynda Lemay** — Bleu [Allo C'est Moi] (4:56) `isrc:CAW110800124` `qobuz:2709992`
+- **The Beatles** — A Day In The Life [Sgt. Pepper's Lonely Hearts Club Band] (5:30) `isrc:GBUM71700946` `qobuz:45990283`
+- **AFX La Melodia** — Party [Party] (2:33) `isrc:MX2832591443` `qobuz:360593788`
+- **Lorn** — Acid Rain [The Maze To Nowhere] (2:52) `isrc:QM2PV1640378` `qobuz:106440571`
+- **Resting Cell** — INPUT Iconic Black Suit [Recombinant Phenotypes] (4:33) `isrc:CA5KR2538999` `qobuz:402086290`
+- **Johnny Jones** — Are You Missing Me? [Bluegrass Hits] (2:41) `isrc:GBXHC2034483` `qobuz:383043199`
+- **Mastodon** — More Than I Could Chew [Hushed and Grim] (6:51) `isrc:USRE12100526` `qobuz:130748251`
+- **Young Thug** — Anybody (feat. Nicki Minaj) [Hear No Evil] (4:14) `isrc:USAT21801877` `qobuz:48832346`
+- **The 1975** — It's Not Living (If It's Not With You) [A Brief Inquiry Into Online Relationships] (4:08) `isrc:GBK3W1800838` `qobuz:53270946`
+- **Bengt Löfberg** — "Inte sörjer jag för mina barn är små" - polska efter August Strömberg, Jät [The Swedish Violin Vol. 2] (1:40) `isrc:SEAGA1501715` `qobuz:105496073`
+- **Kuboiz** — Proper Sorted, Innit [Midnight Frequency Grid] (1:58) `isrc:GXJBW2650625` `qobuz:406438135`
+- **Seals & Crofts** — Funny Little Man [Summer Breeze] (3:12) `isrc:USWB10100730` `qobuz:2934387`
+- **Hardfloor** — Dark Shadow [The Art of Acid] (7:39) `isrc:DEP991300005` `qobuz:54195511`
+- **Compact Disk Dummies** — Kyoto Protocol [Neon Fever Dream] (3:32) `isrc:BEAC52001009` `qobuz:104244445`
+- **Eric Prydz** — Call on Me [Call On Me (Remixes)] (2:51) `isrc:GBCEN0400130` `qobuz:47751969`
+- **Suzanne Collins** — Kapitel 72.5 & Kapitel 73.1 - Die Tribute von Panem X. Das Lied von Vogel und Schlange [Die Tribute von Panem X. Das Lied von Vogel und Schlange] (2:14) `isrc:DEWM11301988` `qobuz:177891897`
+- **Omni Trio** — Thru the Vibe [Thru the Vibe (John B Remix) / Thru the Vibe (2 on 1 Mix)] (5:57) `isrc:GBAGN9400015` `qobuz:209011449`
+- **Scape** — Be My Friend [Be My Friend] (7:55) `isrc:GBCEN0600001` `qobuz:111219099`
+- **Luh Tyler** — On A Tuesday [My Vision: Reloaded] (2:31) `isrc:USAT22303806` `qobuz:205309044`
+- **n9oc** — Hyphae [Braindance] (7:28) `isrc:NLZ8C2300777` `qobuz:239235241`
+- **Pepe** — Cloudbusters [Braindance] (5:42) `isrc:NLZ8C2300778` `qobuz:239235242`
+- **Gacha Bakradze** — Inhumanity [Braindance] (2:44) `isrc:NLZ8C2300779` `qobuz:239235243`
+- **Rali Pibs** — Hooked & Strungout [Braindance] (5:19) `isrc:NLZ8C2300780` `qobuz:239235244`
+- **Teatre** — Daze [Braindance] (4:20) `isrc:NLZ8C2300781` `qobuz:239235245`
+- **O-Wells** — Deep Concentration [Braindance] (5:19) `isrc:NLZ8C2300782` `qobuz:239235246`
+- **oma totem** — Sobre Caderas [Braindance] (4:36) `isrc:NLZ8C2300783` `qobuz:239235247`
+- **Dana Kuehr** — Biota [Braindance] (6:32) `isrc:NLZ8C2300784` `qobuz:239235248`
+- **Benjamin Milz** — Cmos [Braindance] (5:25) `isrc:NLZ8C2300785` `qobuz:239235249`
+- **Poly Chain** — Turbulent [Braindance] (4:06) `isrc:NLZ8C2300786` `qobuz:239235250`
+- **Katatonic Silentio** — Grain Of Consumption [Braindance] (5:35) `isrc:NLZ8C2300787` `qobuz:239235251`
+- **Koloah** — The Highway [Braindance] (4:49) `isrc:NLZ8C2300788` `qobuz:239235252`
+- **Reptant** — Protectors Of The Moss [Braindance] (7:43) `isrc:NLZ8C2300789` `qobuz:239235253`
+- **edward** — Blurry Trees And Peanuts [Braindance] (8:05) `isrc:NLZ8C2300790` `qobuz:239235254`
+- **Promising Youngster** — Wildcards [Ude 02 - Sequences] (6:07) `isrc:GXJBZ2663795` `qobuz:413430823`
+- **Irrational Language** — Indivisible [Ude 02 - Sequences] (5:17) `isrc:GXJBZ2663794` `qobuz:413430822`
+- **7053M4R14** — K4R1N4 [Ude 02 - Sequences] (6:01) `isrc:GXJBZ2663792` `qobuz:413430820`
+- **Caramel Chameleon** — Digitone Spectrum Acid [Ude 02 - Sequences] (5:38) `isrc:GXJBZ2663793` `qobuz:413430821`
+- **James Shinra** — Moonlit [Meteorites] (3:37) `isrc:QZTAW2383871` `qobuz:325398988`
+- **David Bowie** — Sunday [I Can't Give Everything Away (2002 - 2016)] (4:45) `isrc:USJT12500118` `qobuz:345388329`
+- **The Beatles** — Here Comes The Sun [Abbey Road] (3:05) `isrc:GBUM71903335` `qobuz:64868961`
+- **Vairon** — Heatwave Skyline Glow [Summer pop] (2:46) `isrc:RUA492618565` `qobuz:416835155`
+- **M.E.R.S & LBH Di Vegas** — Papier de verre [Nerves of Time, Vol. 4] (5:18) `isrc:CH6541819079` `qobuz:48981558`
+- **The Chainsmokers** — Closer [Closer] (4:05) `isrc:USQX91601347` `qobuz:33870696`
+- **Dj Garth** — Twenty Minutes of Disco Glory (The Acid Rock Mix) [DJ-Kicks: Eris Drew] (4:13) `isrc:DEG932504786` `qobuz:357107073`
+- **Dizzee Rascal** — You Don't Know [E3 AF] (2:30) `isrc:GBUM72003882` `qobuz:99204553`
+- **Full Of Hell** — Armory of Obsidian Glass [Weeping Choir] (6:55) `isrc:US2641942107` `qobuz:59021255`
+- **S.Pri Noir** — Signe [La Cour des Miracles] (3:24) `isrc:DGA0P2382481` `qobuz:250215249`
+- **Will Ackerman** — Wings On The Water [Sound Of Wind Driven Rain] (5:32) `isrc:USWH19800389` `qobuz:221615`
+- **U.F.O.** — Alpha Centauri [No Place To Run (2025 Remaster)] (1:56) `isrc:UKKP22500478` `qobuz:331741201`
+- **Bob Laithwaite** — It's Not What Keeps me Up [Only Time Will Tell] (5:55) `isrc:QZWFX2441526` `qobuz:299009959`
+- **International Teachers Of Pop** — Another Brick in The Wall [The Ballad of Remedy Nilsson] (3:12) `isrc:GB9TP1800793` `qobuz:58064895`
+- **Rapper Big Pooh** — Fortune & Fame [FatBoyFresh Vol. 1: For Members Only] (4:22) `isrc:USUYG1005555` `qobuz:5926335`
+- **Manami** — Dial Again [LNS002] (5:30) `isrc:UKN6K2600105` `qobuz:404046145`
+- **The Killers** — Mr. Brightside [Hot Fuss] (3:43) `isrc:USIR20400274` `qobuz:99162962`
+- **Sensational** — Life Buzz [Audio Scape] (1:09) `isrc:UKG2M2503001` `qobuz:396877600`
+- **Køps** — Inside The Machine [Audio Scape] (6:24) `isrc:UKG2M2503002` `qobuz:396877601`
+- **ASYX (Audiosyntax)** — Dream Like Snow [Audio Scape] (4:56) `isrc:UKG2M2503003` `qobuz:396877602`
+- **Rasmus Fisker** — Fell [Audio Scape] (3:04) `isrc:UKG2M2503004` `qobuz:396877603`
+- **Original Tradition** — Shoin [Audio Scape] (4:24) `isrc:UKG2M2503005` `qobuz:396877604`
+- **Adam Winchester** — Sine Scan [Audio Scape] (4:17) `isrc:UKG2M2503006` `qobuz:396877605`
+- **Wrenasmir** — Live in Islington Park (Continuous Mix) [Live] [Live in Islington Park] (34:56) `isrc:USHM22674453` `qobuz:413766965`
+- **Aphex Twin** — Cow Cud Is A Twin [...I Care Because You Do] (5:33) `isrc:GBBPW9500102` `qobuz:79173782`
+- **General Soundbwoy** — Be Easy [IBIZA Summer Mix] (2:41) `isrc:ARF412400375` `qobuz:271210102`
+- **Tame Impala** — Dracula [Dracula (Remix)] (3:29) `isrc:USQX92600464` `qobuz:389711053`
+- **Aphex Twin** — Come On You Slags [...I Care Because You Do] (5:44) `isrc:GBBPW9500097` `qobuz:79173777`
+- **Fleetwood Mac** — Need Your Love So Bad [The Pious Bird Of Good Omen] (6:56) `isrc:GBBBN9902096` `qobuz:166062`
+- **The Avett Brothers** — I Should’ve Spent The Day With My Family [The Third Gleam] (4:36) `isrc:USC4R2003445` `qobuz:96760462`
+- **Evangelion_guy** — Music For Multiple Pianists [Bason Coda Farad] (4:40) `isrc:QZRPB2586481` `qobuz:376075938`
+- **Tsha** — Somebody [Somebody (Trance Wax Remix)] (2:51) `isrc:GBCFB2300869` `qobuz:246038070`
+- **R. Blane** — Have Yourself A Merry Little Christmas [A Fireside Christmas] (4:05) `isrc:GBCEU0776519` `qobuz:4143339`
+- **Anti-Music** — Trafffic Jam [Music for anti-social individuals] (2:02) `isrc:QMHNS1302827` `qobuz:32948999`
+- **Aphex Twin** — Wet Tip Hen Ax [...I Care Because You Do] (5:17) `isrc:GBBPW9500099` `qobuz:79173779`
+- **Sandra** — We'll Be Together [18 Greatest Hits] (3:47) `isrc:DEG129201112` `qobuz:794686`
+- **Nina Simone** — I'm Gonna Leave You [Martin Freeman and Eddie Piller Present Jazz On The Corner Two] (2:17) `isrc:USPR36660015` `qobuz:90491478`
+- **Vanessa Daou** — Near the Black Forest 2.0 [Songs for Solace] (5:09) `isrc:USEY51700513` `qobuz:103796820`

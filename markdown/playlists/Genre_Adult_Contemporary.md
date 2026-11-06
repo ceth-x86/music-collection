@@ -1,0 +1,108 @@
+# Genre: Adult Contemporary
+
+Imported genre playlist: Adult Contemporary.
+
+Services: `qobuz:66736104`
+
+## Tracks (100)
+
+- **B.J. Thomas** — Raindrops Keep Fallin' On My Head [Raindrops Keep Fallin' On My Head (Re-Recorded - Sped Up)] (2:57) `isrc:USA370942037` `qobuz:208335173`
+- **The Carpenters** — (They Long To Be) Close To You [Carpenters With The Royal Philharmonic Orchestra] (3:40) `isrc:USUM71815356` `qobuz:55717620`
+- **James Taylor** — You've Got a Friend [Mud Slide Slim And The Blue Horizon] (4:29) `isrc:USWB11304018` `qobuz:14345372`
+- **Roberta Flack** — Killing Me Softly With His Song [Killing Me Softly With His Song] (5:54) `isrc:USRH12300051` `qobuz:193868328`
+- **Neil Diamond** — Song Sung Blue [All-Time Greatest Hits] (3:05) `isrc:USUG11400705` `qobuz:76992291`
+- **John Denver** — Annie's Song [Back Home Again] (3:00) `isrc:USRC17403082` `qobuz:60748334`
+- **Barbra Streisand** — Evergreen (Love Theme from "A Star Is Born") [A Star Is Born] (3:04) `isrc:USSM10001384` `qobuz:17632`
+- **Barry Manilow** — Mandy [The Essential Barry Manilow] (3:21) `isrc:USAR17500146` `qobuz:338839`
+- **Bread** — If [The Best of Bread] (2:35) `isrc:USEE10181208` `qobuz:2943212`
+- **Seals & Crofts** — Summer Breeze [Summer Breeze] (3:25) `isrc:USWB19901645` `qobuz:2934389`
+- **Billy Joel** — Just the Way You Are [The Essential Billy Joel] (4:50) `isrc:USSM17700371` `qobuz:11465767`
+- **Bee Gees** — How Deep Is Your Love [Greatest] (4:04) `isrc:GBAKW7701005` `qobuz:37473580`
+- **Chicago** — If You Leave Me Now [X] (3:58) `isrc:USRH11300066` `qobuz:8766738`
+- **Anne Murray** — You Needed Me [Let's Keep It That Way] (3:38) `isrc:CAE157800006` `qobuz:4381942`
+- **Christopher Cross** — Sailing [Christopher Cross] (4:16) `isrc:USWB19901344` `qobuz:2932927`
+- **Air Supply** — All Out of Love [Lost in Love] (4:03) `isrc:USAR18000002` `qobuz:44395469`
+- **Journey** — Open Arms [Greatest Hits] (3:19) `isrc:USSM18100126` `qobuz:378395`
+- **Foreigner** — I Want to Know What Love Is [I Want to Know What Love Is - The Ballads] (4:46) `isrc:USRZR1113634` `qobuz:14083922`
+- **Bonnie Tyler** — Total Eclipse of the Heart [Faster Than the Speed of Night] (6:58) `isrc:GBBBN8302012` `qobuz:91145244`
+- **Phil Collins** — Against All Odds (Take a Look at Me Now) [The Singles] (3:26) `isrc:USRH11603367` `qobuz:34601517`
+- **Lionel Richie** — Hello [Can't Slow Down] (4:08) `isrc:USMO18390012` `qobuz:15957184`
+- **George Michael** — Careless Whisper [Ladies & Gentlemen: The Best Of George Michael] (5:00) `isrc:GBBBM8402006` `qobuz:3488744`
+- **Whitney Houston** — Greatest Love of All [Whitney Houston] (4:57) `isrc:USAR18500139` `qobuz:7149`
+- **Chris De Burgh** — The Lady In Red [Into The Light] (4:16) `isrc:GBAAM8600001` `qobuz:53245286`
+- **Peter Cetera** — Glory of Love [Solitude / Solitaire] (4:18) `isrc:USWB10000619` `qobuz:2883904`
+- **Paul Young** — Every Time You Go Away [The Secret Of Association] (5:24) `isrc:GBBBN0400310` `qobuz:2822818`
+- **Simply Red** — Holding Back the Years [Picture Book] (4:26) `isrc:GBAHS8504143` `qobuz:2996920`
+- **Spandau Ballet** — True [True] (6:33) `isrc:GBAYK0200008` `qobuz:12024122`
+- **Richard Marx** — Right Here Waiting [Repeat Offender] (4:24) `isrc:USEM38900208` `qobuz:4601104`
+- **Bette Midler** — Wind Beneath My Wings [Beaches (Original Soundtrack Recording)] (4:53) `isrc:USAT29900553` `qobuz:2952857`
+- **Mike + The Mechanics** — The Living Years [Out Of The Blue] (5:32) `isrc:GB5KW1900096` `qobuz:245587971`
+- **Heart** — Alone [Bad Animals] (3:38) `isrc:USCA28700690` `qobuz:117879387`
+- **Starship** — Nothing's Gonna Stop Us Now [No Protection] (4:30) `isrc:USRC18702968` `qobuz:57003439`
+- **Gloria Estefan** — Anything For You [Essential Love Ballads] (3:42) `isrc:USSM18800443` `qobuz:46877879`
+- **Michael Jackson** — I Just Can't Stop Loving You [Bad 25th Anniversary] (4:13) `isrc:USSM11204987` `qobuz:6344113`
+- **Céline Dion** — My Heart Will Go On [I AM: CELINE DION (Original Motion Picture Soundtrack)] (4:43) `isrc:CAC222400019` `qobuz:265938862`
+- **Mariah Carey** — Hero [Music Box] (4:17) `isrc:USSM19303171` `qobuz:226879454`
+- **Michael Bolton** — A Love So Beautiful [When A Man Loves A Woman: The Love Songs of Michael Bolton] (4:05) `isrc:USSM19501102` `qobuz:98389532`
+- **Bryan Adams** — (Everything I Do) I Do It For You [Waking Up The Neighbours] (6:33) `isrc:USAM19190012` `qobuz:647366`
+- **Toni Braxton** — Un-Break My Heart [Secrets] (4:30) `isrc:USLF29600015` `qobuz:9211201`
+- **Seal** — Kiss from a Rose [Seal] (4:48) `isrc:USWB19900917` `qobuz:2356064`
+- **Eric Clapton** — Tears in Heaven [Unplugged] (4:40) `isrc:USRE11300314` `qobuz:176716599`
+- **Sarah McLachlan** — Angel [Surfacing] (4:30) `isrc:USAR19700531` `qobuz:2719535`
+- **Shania Twain** — You're Still The One [Come On Over] (3:32) `isrc:USMR19887499` `qobuz:218890990`
+- **Savage Garden** — Truly Madly Deeply [Savage Garden] (4:37) `isrc:USSM19700100` `qobuz:31753046`
+- **Vanessa Williams** — Save The Best For Last [The Comfort Zone] (3:38) `isrc:USPG19190052` `qobuz:13442820`
+- **Rod Stewart** — Have I Told You Lately [Cupid] (3:59) `isrc:USWB12100182` `qobuz:115002715`
+- **Sting** — Fields Of Gold (My Songs Version) [My Songs (Deluxe)] (3:46) `isrc:USUM71903415` `qobuz:61878330`
+- **Jewel** — You Were Meant For Me [Pieces Of You] (4:14) `isrc:USC4R2003800` `qobuz:128404906`
+- **Natalie Imbruglia** — Torn [Left Of The Middle] (4:04) `isrc:GBARL9700412` `qobuz:269687`
+- **Elton John** — Can You Feel the Love Tonight [The Lion King - Walt Disney Records The Legacy Collection] (4:00) `isrc:USWD10220758` `qobuz:26601719`
+- **Amy Grant** — Every Heartbeat [Heart In Motion] (3:33) `isrc:USSP30765180` `qobuz:106897507`
+- **Extreme** — More Than Words [Extreme II: Pornograffitti] (5:33) `isrc:USAM19090005` `qobuz:21758614`
+- **The Corrs** — Runaway [Forgiven, Not Forgotten] (4:25) `isrc:USAT29500004` `qobuz:3000420`
+- **Brian McKnight** — Back At One [Back At One] (4:23) `isrc:USMO19900016` `qobuz:3881297`
+- **Norah Jones** — Don't Know Why [Come Away With Me] (3:06) `isrc:USBN21200333` `qobuz:63333861`
+- **Dido** — White Flag [Life For Rent] (4:00) `isrc:GBBXH0300035` `qobuz:3438243`
+- **John Mayer** — Daughters [Heavier Things] (3:59) `isrc:USSM10310154` `qobuz:33318568`
+- **Vanessa Carlton** — A Thousand Miles [Be Not Nobody] (3:56) `isrc:USIR10210955` `qobuz:3879319`
+- **Michelle Branch** — All You Wanted [The Spirit Room] (3:38) `isrc:USMV20100082` `qobuz:2770604`
+- **Train** — Drops of Jupiter (Tell Me) [Drops Of Jupiter] (4:19) `isrc:USSM10019751` `qobuz:14069842`
+- **Matchbox Twenty** — Unwell [More Than You Think You Are] (3:48) `isrc:USAT21204119` `qobuz:11091999`
+- **Maroon 5** — She Will Be Loved [Songs About Jane] (4:16) `isrc:USJAY0300082` `qobuz:3890217`
+- **Gavin DeGraw** — Chariot [Finest Hour: The Best of Gavin DeGraw] (4:00) `isrc:USJAY0300036` `qobuz:20067501`
+- **Keane** — Somewhere Only We Know [Hopes And Fears] (3:56) `isrc:GBAAN0300664` `qobuz:3870599`
+- **James Blunt** — You're Beautiful [Back to Bedlam] (3:33) `isrc:USAT21303052` `qobuz:36352587`
+- **Daniel Powter** — Bad Day [Daniel Powter] (3:54) `isrc:USWB10401971` `qobuz:2267355`
+- **The Fray** — How to Save a Life [How To Save A Life] (4:22) `isrc:USSM10601178` `qobuz:2719602`
+- **Lifehouse** — You And Me [Lifehouse] (3:15) `isrc:USDW10500001` `qobuz:41004055`
+- **Snow Patrol** — Chasing Cars [Eyes Open] (4:27) `isrc:GBUM70600345` `qobuz:731297`
+- **The Script** — The Man Who Can't Be Moved [The Script] (4:01) `isrc:GBARL0800144` `qobuz:28203506`
+- **OneRepublic** — Apologize [Dreaming Out Loud] (3:27) `isrc:USUM70757102` `qobuz:78727314`
+- **Leona Lewis** — Bleeding Love [Spirit] (4:22) `isrc:GBHMU0700049` `qobuz:461281`
+- **Michael Bublé** — Home [It's Time] (3:46) `isrc:USRE11300261` `qobuz:35995992`
+- **Josh Groban** — You Raise Me Up [Closer] (4:49) `isrc:USRE11300544` `qobuz:37267604`
+- **Adele** — Someone Like You [21] (4:45) `isrc:GBBKS1000351` `qobuz:3147381`
+- **Ed Sheeran** — Thinking out Loud [x] (4:41) `isrc:GBAHS1400099` `qobuz:16006623`
+- **Sam Smith** — Stay With Me [In The Lonely Hour] (2:52) `isrc:GBUM71308833` `qobuz:27999923`
+- **John Legend** — All of Me [Love In The Future (Deluxe Version)] (4:29) `isrc:USSM11303954` `qobuz:11223507`
+- **Bruno Mars** — Just the Way You Are [Doo-Wops & Hooligans] (3:40) `isrc:USAT21001269` `qobuz:2987537`
+- **Lee sang gul** — Shallow Lady Gaga Bradley Cooper [Shallow Lady Gaga Bradley Cooper] (2:41) `isrc:FRX452436558` `qobuz:263347748`
+- **Lewis Capaldi** — Someone You Loved [Divinely Uninspired To A Hellish Extent] (3:02) `isrc:DEUM71807062` `qobuz:61709941`
+- **P!nk** — Just Give Me a Reason [All I Know So Far: Setlist] (4:37) `isrc:USRC12100839` `qobuz:120978134`
+- **Phillip Phillips** — Home [The World From The Side Of The Moon] (3:29) `isrc:QMTM61200272` `qobuz:19064847`
+- **Rachel Platten** — Fight Song [Wildfire] (3:24) `isrc:USSM11500753` `qobuz:29102307`
+- **Mason Lea** — Ellie Goulding - Love Me Like You Do (Acoustic) [Covers] [Love Me Like You Do] (4:29) `isrc:TCACG1582666` `qobuz:128769446`
+- **James Arthur** — Say You Won't Let Go [Say You Won't Let Go] (3:31) `isrc:DEE861600586` `qobuz:34483998`
+- **Christina Perri** — a thousand years [a thousand years] (4:45) `isrc:USAT21102141` `qobuz:43461512`
+- **Passenger** — Let Her Go [Let Her Go] (4:12) `isrc:GBMQN1100004` `qobuz:54349898`
+- **Sara Bareilles** — Brave [The Blessed Unrest] (3:40) `isrc:USSM11301638` `qobuz:10303157`
+- **Miley Cyrus** — Flowers [Flowers] (3:20) `isrc:USSM12209777` `qobuz:193055711`
+- **Justin Bieber** — Ghost [Justice] (2:33) `isrc:USUM72102635` `qobuz:117940112`
+- **Harry Styles** — Adore You [Fine Line] (3:27) `isrc:USSM11912588` `qobuz:82644108`
+- **Jonas Brothers** — Sucker [Happiness Begins] (3:01) `isrc:USUG11900515` `qobuz:62426715`
+- **Billie Eilish** — What Was I Made For? [From The Motion Picture "Barbie"] [What Was I Made For? [From The Motion Picture "Barbie"]] (3:42) `isrc:USUM72307484` `qobuz:218883117`
+- **Stephen Sanchez** — Until I Found You [Until I Found You] (2:57) `isrc:USUG12103651` `qobuz:149495383`
+- **Teddy Swims** — Lose Control [Lose Control] (3:30) `isrc:USWB12302315` `qobuz:215625078`
+- **Benson Boone** — Beautiful Things [Beautiful Things] (3:00) `isrc:USWB12307016` `qobuz:248041253`
+- **Alex Warren** — Ordinary [Ordinary] (3:06) `isrc:USAT22500463` `qobuz:315904621`
+- **Pentatonix** — I've Got My Love To Keep Me Warm [Christmas in the City] (2:27) `isrc:USUG12507412` `qobuz:363430048`

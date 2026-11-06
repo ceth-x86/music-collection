@@ -1,0 +1,102 @@
+# Genre: Forest Folk
+
+Imported genre playlist: Forest Folk.
+
+Services: `qobuz:66710020` `tidal:e0372a87-1871-4b84-be22-e7a594edd829`
+
+## Tracks (94)
+
+- **Runenberg** — Abend [Neue Deutsche Folksmusik - Vol. I] (6:00) `isrc:DEPI82300935` `qobuz:195082742`
+- **Tabula Rasa** — Der Wildmensch [...und ihre fürchterlichen Gesänge] (4:40) `isrc:DENI12100418` `qobuz:206153311`
+- **Justin Goodlow** — Flamme [Neue Deutsche Folksmusik - Vol. I] (3:46) `isrc:DEPI82300937` `qobuz:195082746`
+- **Taifl** — Wasserweiblein [Neue Deutsche Folksmusik - Vol. I] (3:43) `isrc:DEPI82300939` `qobuz:195082748`
+- **Solwein** — Meine Sonnenwend [Neue Deutsche Folksmusik - Vol. I] (3:21) `isrc:DEPI81902837` `qobuz:195082749`
+- **Apoptose** — Berkanas Traum [Bannwald] (8:13) `isrc:QM6P42053181` `qobuz:150392918`
+- **Nebelgeyst** — Wilder Bund [Heimatweisen] (5:54) `isrc:DEPI82300940` `qobuz:214697874`
+- **Arkanium** — Die Stille Nacht [Neue Deutsche Folksmusik - Vol. I] (3:38) `isrc:DEPI82300941` `qobuz:195082752`
+- **Stein** — Spuren [Neue Deutsche Folksmusik - Vol. I] (5:37) `isrc:DEPI82300942` `qobuz:195082753`
+- **Ratatöskr** — Waldmeister [Neue Deutsche Folksmusik - Vol. I] (4:39) `isrc:DEPI82300943` `qobuz:195082754`
+- **Art Abscons** — Winterweihe [Neue Deutsche Folksmusik - Vol. I] (2:30) `isrc:DEPI82300946` `qobuz:195082757`
+- **Nachtjäger** — Nächtlich jagt ein wildes Heer [Neue Deutsche Folksmusik - Vol. I] (3:43) `isrc:DEPI82300947` `qobuz:195082758`
+- **Urgeist** — Karster Forst [Neue Deutsche Folksmusik - Vol. I] (6:09) `isrc:DEPI82300949` `qobuz:195082760`
+- **Nebelung** — Mittwinter [Palingenesis] (6:03) `isrc:USME31304151` `qobuz:63241294`
+- **Aeldergeyst** — Der Gübich [Werde] (4:29) `isrc:DEPI82300950` `qobuz:318501898`
+- **Ebriach** — Der Wolf [Willensstärke] (3:48) `isrc:DEPI82300951` `qobuz:193794863`
+- **Nachtreich** — Schneeverwehung [Neue Deutsche Folksmusik - Vol. I] (4:15) `isrc:DEPI82300954` `qobuz:195082766`
+- **Quellenthal** — Im Walde [Neue Deutsche Folksmusik - Vol. I] (3:53) `isrc:DEPI82300955` `qobuz:195082767`
+- **Kaelte** — Dunkelgrünes Moos [Neue Deutsche Folksmusik: Vol. II] (5:25) `isrc:DEPI82402027` `qobuz:249860095`
+- **Vinsta** — Da Woid und de Vadommnis [Neue Deutsche Folksmusik: Vol. II] (3:25) `isrc:DEPI82402028` `qobuz:249860096`
+- **Seelenthron** — Am Morgen [Neue Deutsche Folksmusik: Vol. II] (4:32) `isrc:DEPI82402029` `qobuz:249860097`
+- **Munk** — Schatzhauser [Das kalte Herz] (2:37) `isrc:DEPI82402513` `qobuz:267261007`
+- **Elli Riehl** — Die Lichtung [Die Kornmuhme] (2:08) `isrc:DEPI82222761` `qobuz:193765717`
+- **Irmeynsul** — Geistermette [Neue Deutsche Folksmusik: Vol. II] (3:35) `isrc:DEPI82402031` `qobuz:249860101`
+- **Klang Schreit Nichts** — Auferstehungsschmerz [Auferstehungsschmerz] (6:02) `isrc:DEPI82402032` `qobuz:263202170`
+- **Trist** — Der Froschkönig [Neue Deutsche Folksmusik: Vol. II] (6:33) `isrc:DEPI82402033` `qobuz:249860103`
+- **Todesreigen** — Der Gewitterabend [Neue Deutsche Folksmusik: Vol. II] (5:13) `isrc:DEPI82402034` `qobuz:249860104`
+- **Kohlrabenschwarz** — Donnerwetter [Im finstren Tal] (4:51) `isrc:DEPI82321662` `qobuz:252457247`
+- **Hel** — Zwielicht, Nebel, Dunkelheit [Neue Deutsche Folksmusik: Vol. II] (4:47) `isrc:SEYOK0993775` `qobuz:249860106`
+- **Drudenstein** — Rhedyn [Fragmente: Hiraeth] (4:21) `isrc:DEPI82321793` `qobuz:232851076`
+- **Throndt** — Uns zum Geleit [Neue Deutsche Folksmusik: Vol. II] (3:52) `isrc:DEPI82402035` `qobuz:249860108`
+- **Solstorm** — Das Lied des Nordwindes [Neue Deutsche Folksmusik: Vol. II] (6:31) `isrc:NODIG1301020` `qobuz:249860112`
+- **Cineastre** — Die Wand [Neue Deutsche Folksmusik: Vol. II] (4:55) `isrc:DEPI82402038` `qobuz:249860113`
+- **Wolfhetan** — Vor uns das Feuer [Vor uns das Feuer, Über uns der Himmel] (5:00) `isrc:DEPI82305875` `qobuz:233192476`
+- **Elmsfeuer** — Feuergeister [Neue Deutsche Folksmusik: Vol. II] (3:30) `isrc:DEPI82402039` `qobuz:249860115`
+- **Nordgeschwister** — Im Dahlienfeuer [Neue Deutsche Folksmusik: Vol. II] (4:07) `isrc:DEPI82402040` `qobuz:249860117`
+- **Bald Anders** — Jagdnacht [Neue Deutsche Folksmusik: Vol. II] (6:03) `isrc:QZNW72389686` `qobuz:249860118`
+- **Heimkehr** — Wanderer [Neue Deutsche Folksmusik: Vol. II] (3:34) `isrc:DEPI82402041` `qobuz:249860119`
+- **Wilder Mann** — Almhütte II [Almhütte] (1:44) `isrc:DEPI82313100` `qobuz:220801334`
+- **Markus Stock** — Morgen im Moor [Neue Deutsche Folksmusik: Vol. II] (2:02) `isrc:DEPI82402043` `qobuz:249860123`
+- **Osning** — Vennengeister [Neue Deutsche Folksmusik: Vol. II] (3:05) `isrc:DEPI82402044` `qobuz:249860125`
+- **Fiver** — Holzofenkindheit [Neue Deutsche Folksmusik: Vol. II] (4:31) `isrc:DEPI82402046` `qobuz:249860128`
+- **Vacuitas** — VII [Neue Deutsche Folksmusik: Vol. II] (4:01) `isrc:DEPI82301975` `qobuz:249860131`
+- **Seremoni** — Unter den Birken [Unter den Birken] (6:07) `isrc:DEPI82402049` `qobuz:250346030`
+- **STÄAD** — Totenlied [Neue Deutsche Folksmusik: Vol. II] (5:37) `isrc:DEPI82313048` `qobuz:249860135`
+- **Na'Tari'Kai'Lum** — Dark Light_I AM The Stillness_A Hymn of The Void Born Body [Dark Light_I AM The Stillness_A Hymn of The Void Born Body] (7:24) `isrc:QT6FY2539231` `qobuz:379299346`
+- **Bragiswahn** — Ruf der Bastei [Die Sense] (2:18) `isrc:DEPI82502301` `qobuz:418646696`
+- **Prag 83** — Nachts [Neue Deutsche Folksmusik - Vol. III] (3:22) `isrc:SEVVF1600402` `qobuz:315542054`
+- **Johannes Stankowski** — Ganz für mich allein [Tausend schöne Dinge] (2:26) `isrc:DESS81900005` `qobuz:259407888`
+- **Kyvon** — Gottwinter II [Depths of Ardae] (3:03) `isrc:DEPI82445811` `qobuz:291119691`
+- **Battle Dagorath** — Dämmerstunde (Einklang) [Eternal throne] (1:38) `isrc:DES560897301` `qobuz:29907400`
+- **The Last Dinner Party** — Second Best [From The Pyre] (3:31) `isrc:GBUM72503871` `qobuz:361980294`
+- **Dämmerfarben** — Wintergang [Neue Deutsche Folksmusik - Vol. III] (5:25) `isrc:DEPI82502306` `qobuz:315542065`
+- **Mother Havoc** — Wir rufen deine Wölfe [Wir rufen deine Wölfe] (2:19) `isrc:DEPI82502307` `qobuz:316145977`
+- **Das Blut der Sonne** — Im Abendrot [Ehemals] (2:50) `isrc:DE1QW2627222` `qobuz:418548685`
+- **Juris Vizbulis** — Nav Vārdam Vietas [Gaisa Pilis] (4:53) `isrc:CBF8B2524273` `qobuz:428734739`
+- **Tonkünstler-Orchester** — Dunkelwelt Untersberg, 7. Sinfonie: I. Mittagsscharte: „Der Flug der Vögel tönt von alten Sagen“ [Schneider: Erdgebunden] (7:34) `isrc:DEC441508989` `qobuz:49600989`
+- **ConcernedApe** — Summer (Nature's Crescendo) [Stardew Valley (Original Game Soundtrack)] (3:28) `isrc:TCACS1600074` `qobuz:125780345`
+- **Hvile I Kaos** — Wintertanz [Hvile I Kaos] (4:43) `isrc:DEPI82411879` `qobuz:262128247`
+- **Waldeinsamkeit** — Waldeinsamkeit [Waldeinsamkeit] (8:40) `isrc:QZFYY2646140` `qobuz:380683318`
+- **Arctic Monkeys** — Do I Wanna Know? [AM] (4:32) `isrc:GBCEL1300362` `qobuz:11181334`
+- **Rammstein** — Armee der Tristen [Zeit] (3:25) `isrc:DEUM72118402` `qobuz:155749714`
+- **Utopiae** — Wolkengrau [No. 1] (4:40) `isrc:CH6542048731` `qobuz:93440755`
+- **Joe Hisaishi** — Merry-Go-Round of Life [A Symphonic Celebration - Music from the Studio Ghibli Films of Hayao Miyazaki] (2:49) `isrc:JPPO02204169` `qobuz:216672962`
+- **Philipp Poisel** — Mit jedem deiner Fehler [Wo fängt dein Himmel an?] (4:19) `isrc:GBLAZ0500206` `qobuz:135401617`
+- **Markus Orths** — Kapitel 4 [Die Hackebarts räumen ab - Crazy Family, Teil 1] (3:10) `isrc:DEXO22458733` `qobuz:429677564`
+- **Ivy Chalice** — Der Wald, Die Spiegelwelt [Noctifer] (15:00) `isrc:DE1O62475523` `qobuz:304961319`
+- **Dennis Korn** — Elegie Nr. 4: "Abschied von Paris" [Elegie Nr. 4: "Abschied von Paris"] (2:27) `isrc:QMDA62455317` `qobuz:315625452`
+- **Herzsklave** — Gedicht [Anti-Romantic Black Metal] (3:19) `isrc:DEPI82502327` `qobuz:317884972`
+- **Santiano** — Johnny Boy [Von Liebe, Tod und Freiheit] (3:32) `isrc:DEUM71501255` `qobuz:27570431`
+- **Vargnatt** — Karge Welten [Nur ein Traum] (3:07) `isrc:DEPI82404460` `qobuz:253431406`
+- **Peter Breiner** — Schlafe, mein Prinzchen, schlaf ein "Wiegenlied" (Arr. P. Breiner for Piano) [Breiner: Mornings, Evenings and Late Nights – Calm Romantic Piano Music, Vol. 3] (4:01) `isrc:HKI192208115` `qobuz:306393140`
+- **Element Of Crime** — Wieder ein Tag [Damals hinterm Mond] (5:56) `isrc:DEF069105510` `qobuz:633918`
+- **Korte** — Märchenwald [Entspannungsmusik für Kinder] (30:32) `isrc:DEA431600606` `qobuz:36822815`
+- **Festung Nebelburg** — Zwischen den Jahren [Zwischen den Jahren] (5:09) `isrc:QZFZ72505562` `qobuz:320804501`
+- **Liquid Stranger** — Abendruh [Hypnotische Ambientmusik - 50 Wellness Musik, Meditationsmusik und Entspannungsmusik für Zen, Spa, Yoga und Chill] (5:20) `isrc:ITO101753702` `qobuz:41535461`
+- **Die Drei ???** — 175 A - Schattenwelt: Teuflisches Duell [175/Schattenwelt] (1:30) `isrc:DEC711612877` `qobuz:36030283`
+- **Joanna Newsom** — Cosmia [Ys] (7:17) `isrc:US58L0630305` `qobuz:48467848`
+- **Lana Del Rey** — Video Games [Born To Die] (4:41) `isrc:GBUM71111621` `qobuz:31887416`
+- **Trollskogen** — Vargsången [Vargsången] (3:16) `isrc:USDY41583785` `qobuz:96447490`
+- **Brothers Of A Long Forgotten Winter** — Brothers [Brothers] (7:23) `isrc:DE1QW2512466` `qobuz:374373432`
+- **Rodung** — Weilandklage [Waldvolk] (3:29) `isrc:DE1QW2602697` `qobuz:384966364`
+- **Sarah Connor** — Interstellar (Zwischen den Sternen) [Interstellar (Zwischen den Sternen)] (2:28) `isrc:DEUM72601136` `qobuz:398502834`
+- **Godesvang** — Höhenhymnus [grôni godes wang] (5:05) `isrc:DEPI82434688` `qobuz:277441062`
+- **Kalle Wyrsch** — Teufelshöhle [Wallfahrt] (5:23) `isrc:DE1QW2501294` `qobuz:351236105`
+- **Pietro Rizzo** — Overture [Romanze] (6:10) `isrc:DEAD61403502` `qobuz:307383729`
+- **Zwischenlichten** — Hagebuttenmädchen [Leidgeboren] (10:07) `isrc:DE1QW2501253` `qobuz:348847062`
+- **Gilgareth** — Dämonenkrone [Zwei Schwerter] (2:31) `isrc:QZNWQ2525149` `qobuz:331395217`
+- **Diaf** — Bluad auf da Ledahosn [Das Feuer der Berge] (2:54) `isrc:QZWFH2416339` `qobuz:369860305`
+- **DaRealOi** — Vidofnir – Der Wächter des Weltenbaums [Geflüster des Weltenbaums] (3:33) `isrc:USX9P2491366` `qobuz:300674732`
+- **dream:craeft** — Falkentraum [Âventiure] (3:38) `isrc:DEPI82453587` `qobuz:302606741`
+- **Vrîmuot** — ...rauh ist die Nacht! [Lupus Viridis] (6:52) `isrc:DES562512379` `qobuz:353371943`
+- **Horda** — Vater Berg [Vater Berg] (4:15) `isrc:DE1QW2508529` `qobuz:362577186`
+- **Heilstatt** — Die Geister in euren Straßen [Blut & Asche] (3:20) `isrc:DEPI82451767` `qobuz:308735801`

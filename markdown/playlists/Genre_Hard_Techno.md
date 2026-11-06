@@ -1,0 +1,108 @@
+# Genre: Hard Techno
+
+Imported genre playlist: Hard Techno.
+
+Services: `qobuz:66719176`
+
+## Tracks (100)
+
+- **Disintegrator** — Lock On Target [Lock on Target] (4:43) `isrc:USZUT9200012` `qobuz:225600437`
+- **Macca Dread** — Hooligan Horns Dub [Hooligan / Point Finger Pon] (3:47) `isrc:TCAJZ2529843` `qobuz:353389919`
+- **Robert Armani** — Ambulance [Ambulance The Remixes] (6:31) `isrc:USDT80701424` `qobuz:113576917`
+- **The Doors** — Riders on the Storm [L.A. Woman] (7:14) `isrc:USEE11200581` `qobuz:7020375`
+- **Helix** — Life Death and Chocolate [Old Skool Masters - Helix] (6:56) `isrc:GBMYV0600605` `qobuz:62585732`
+- **Silk** — It Had to Be You [Lose Control] (4:07) `isrc:USEE10900546` `qobuz:2882311`
+- **Seema** — Trivialmusik [First Strike] (5:04) `isrc:NLCK40902354` `qobuz:57256677`
+- **Arkus P.** — Amokfahrt Nach Polen [Amokfahrt Nach Polen] (8:49) `isrc:NLCK40902319` `qobuz:57256936`
+- **MARY TRAVERS** — Scarborough Fair [Titanium - As Strong As A Woman] (3:03) `isrc:UKDNQ1516148` `qobuz:50025204`
+- **John Williams** — Anakin vs. Obi-Wan [Star Wars: Revenge of the Sith] (3:56) `isrc:USWD11785344` `qobuz:49263188`
+- **Dj Rush** — Get On Up [The Edits Vol.1] (7:09) `isrc:NLCK41054919` `qobuz:61706072`
+- **The Supremes** — Little Bright Star [Merry Christmas] (2:28) `isrc:USUMG9900209` `qobuz:55533794`
+- **Ryuji Takeuchi** — Climax Control [What Happened To The Hours] (5:57) `isrc:NLCK41034336` `qobuz:57096006`
+- **Zavodny** — Not east nor west [Not east nor west] (3:47) `isrc:SGB502501371` `qobuz:411730263`
+- **The Advent** — Recreate12 [Re Creations Part 2] (7:07) `isrc:UK3XQ2600012` `qobuz:397109738`
+- **Fred Wesley & The Horny Horns** — Four Play (D.J. Promo 45 Edit Version) [Mike E. Clark Remix] [Funk Forever] (3:31) `isrc:USAT20202681` `qobuz:181026400`
+- **DJ Ogi** — Paranoia [Back to the Old School Nr.10] (6:50) `isrc:DEAR41347424` `qobuz:292016013`
+- **Laura Platt** — Prepare to Attack (From "Overwatch") [A World Worth Fighting For] (4:55) `isrc:QZGWX2205918` `qobuz:178058561`
+- **Valium Aggelein** — Interruptor [Black Moon] (1:52) `isrc:USCW62021321` `qobuz:93816568`
+- **Jean Victor Arthur Guillou** — Toccata and Fugue in D Minor, BWV 565 [Organ Recital: Guillou, Jean Victor Arthur - Bach, J.S. / Grigny, N. De / Mozart, W.A. / Guillou, J.V.A. (The Great Organ of St. Eustache, Paris)] (8:35) `isrc:USB8U1031646` `qobuz:300281564`
+- **Miss Djax** — Acid Queen [Acid Queen] (5:57) `isrc:NLD592000001` `qobuz:82656203`
+- **Greg Notill** — Identification [Most Original Hardtechno Tracks] (6:58) `isrc:FR9W11008304` `qobuz:21956646`
+- **Viper XXL** — Wetwork [Best of Animasola 3] (6:07) `isrc:DEAR41046995` `qobuz:27853138`
+- **Boris Giltburg** — Paraphrase de concert sur Rigoletto, S. 434 [Liszt: Piano Works] (7:53) `isrc:HKI191828501` `qobuz:306509112`
+- **DJ Activator** — This Is True [Hardstyle! The History, Vol. 3] (6:06) `isrc:ITB840400049` `qobuz:108836696`
+- **The Beginning Of The End** — Gee Whiz, It's Christmas [Gee Whiz, It's Christmas] (2:27) `isrc:DEG931791944` `qobuz:45689929`
+- **Manu Kenton** — Let me Bang [Ghettomania Records 15 Years Birthday] (6:00) `isrc:GBLV62401524` `qobuz:298391622`
+- **The Advent** — Recreate16 [Re Creations Part 2] (6:16) `isrc:UK3XQ2600016` `qobuz:397109742`
+- **Marble Elephant** — The Lost City Of Edinkirk [The Lost City Of Edinkirk : Remix EP] (4:36) `isrc:NL3M12517269` `qobuz:398481613`
+- **Iron Maiden** — The Alchemist [The Final Frontier] (4:28) `isrc:GBCHB1500154` `qobuz:25120802`
+- **Mental Crush** — Tybet Song [Rebirth Society Pack Best Of Hardtechno 2010] (5:47) `isrc:NLCK41006284` `qobuz:83289972`
+- **Beastie Boys** — Remote Control [Hello Nasty (Remastered Edition)] (2:58) `isrc:USCA20903760` `qobuz:1781573`
+- **Amanda Marshall** — Colleen (I Saw Him First) [Everybody's Got A Story] (5:10) `isrc:CAC220100125` `qobuz:116122`
+- **Patrick Bruel** — 3 ans 1/2 d'amour [Juste avant] (4:10) `isrc:FRR069900008` `qobuz:287620106`
+- **DJ BOSSS** — Bodysnatcher [Hard Attack - Best Of New Techno] (6:16) `isrc:DEAF71105804` `qobuz:54821948`
+- **Isabel Gehweiler** — Kapitel 02: Vals del Sur.2 & Kapitel 03: Im Reich der Dona Alva.1 - Im Spiegel der Venus - Das Hörbuch [Im Spiegel der Venus - Das Hörbuch] (2:05) `isrc:DEWM12133575` `qobuz:112326625`
+- **Oh, Sleeper** — Breathing Blood [Son Of The Morning] (4:10) `isrc:USTN10900388` `qobuz:1736814`
+- **The Burden of Atlas** — My Inner Voice [My Inner Voice] (3:44) `isrc:RUA3R2400580` `qobuz:401824287`
+- **Chris Liberator** — Happy Birthday LSD [Happy Birthday LSD] (7:18) `isrc:GBAZA7799901` `qobuz:200503166`
+- **Tyler Childers** — Feathered Indians [Purgatory] (3:44) `isrc:QZ84K1700002` `qobuz:63101700`
+- **Cigarettes After Sex** — Apocalypse [Cigarettes After Sex] (4:50) `isrc:USBQU1700034` `qobuz:47730836`
+- **Tom Morello: The Nightwatchman** — Stray Bullets [World Wide Rebel Songs] (4:03) `isrc:US27Q1162079` `qobuz:72059923`
+- **ZaucyWRLD9X9** — The Ghost of Christmas Kick Ya Ass (Prod.differentmoney) [The Ghost of Christmas Kick Ya Ass (Prod.differentmoney)] (1:31) `isrc:QT6FP2582845` `qobuz:375719983`
+- **Dj 80** — Les sunlights des tropiques [Stars of the 80's, Vol. 1] (3:48) `isrc:FR0W61327797` `qobuz:28278442`
+- **Lady Sovereign** — Love Me Or Hate Me [Public Warning] (3:29) `isrc:GBUM70602516` `qobuz:8862601`
+- **DJ Vivona** — It's Not Right But It's Ok [Sunclock 2025's Efforts] (6:22) `isrc:ITF3A2500014` `qobuz:376562880`
+- **Artur Menezes** — 'Til the Day I Die [Keep Pushing] (3:57) `isrc:QZC961800010` `qobuz:85553886`
+- **Jack Wax** — Acid Rocker [Acid Rocker] (7:44) `isrc:NLCK41019094` `qobuz:57182602`
+- **Moksi** — Ghetto Gossip [The Return of House Music] (6:04) `isrc:USA2P1954742` `qobuz:76237407`
+- **RuPaul** — Dance with U - René Dif Remix [Born Naked (Deluxe)] (4:35) `isrc:QMFMF1405431` `qobuz:216966040`
+- **Huey Lewis And The News** — Give Me The Keys (And I'll Drive You Crazy) [Small World] (4:34) `isrc:USCH38800015` `qobuz:131792784`
+- **Sorority Noise** — Dirty Ickes [Forgettable] (2:18) `isrc:USHM21402425` `qobuz:96717952`
+- **Johnny Piras** — Addicted to Pain (Joanna Coelho Remix) [Addicted to Pain (Remixes Part II)] (5:15) `isrc:UKN6K2403496` `qobuz:361684050`
+- **David Bowie** — Let's Dance [Let's Dance] (7:37) `isrc:USJT11700490` `qobuz:57660217`
+- **FERAL is KINKY** — Phearsome Bitch [Batty Bass Presents: Return to Planet Batty, Rise of the Artists] (6:07) `isrc:GBT8T1100010` `qobuz:34561171`
+- **Thelonious Monk** — Bye-Ya [The Complete Prestige 10-Inch LP Collection] (2:48) `isrc:USC4R1700401` `qobuz:45975094`
+- **Teramaze** — To Love, A Tyrant [Her Halo Live at Bakehouse Studios] (7:54) `isrc:NLB931502201` `qobuz:353937086`
+- **Mc Nike do PH** — Foi o Mister M Que Executou o Tota [Foi o Mister M Que Executou o Tota] (2:15) `isrc:QZNJW2370953` `qobuz:289648724`
+- **Charles Mingus** — Boogie Stop Shuffle [Mingus Ah Um] (5:02) `isrc:USSM15900733` `qobuz:53816`
+- **D.a.v.e. the Drummer** — Hydraulix 13.4 A [Hydraulix 13.4 (Remastered)] (7:57) `isrc:GBKQU1639391` `qobuz:111189096`
+- **Angelo Badalamenti** — A Ghost In The Machine [Dark Water] (3:57) `isrc:USHR10521646` `qobuz:53680358`
+- **[KRTM]** — Black Widow [MADINCH001] (6:21) `isrc:GBKQU1786032` `qobuz:150256662`
+- **Academy of St. Martin in the Fields** — Mozart: Symphony No. 33 in B flat, K.319: 1. Allegro assai [Mozart: The Symphonies, Vol.3] (7:02) `isrc:NLA507802463` `qobuz:589975`
+- **Alice In Chains** — Check My Brain [Black Gives Way To Blue] (3:57) `isrc:USVI20900267` `qobuz:274179717`
+- **Golpe a golpe** — La Chinita de los Ojos Cafés [La Chinita de los Ojos Cafés] (4:39) `isrc:MXF152402499` `qobuz:312107057`
+- **El Columpio Asesino** — Toro [Toro] (6:11) `isrc:ES7002262001` `qobuz:283396927`
+- **Sermon on Vinyl** — Welä Wäg gang ich [The Seeker] (5:37) `isrc:QT6EB2658718` `qobuz:429227218`
+- **Pisapia (IT)** — Pussy Juicy [Bomb Ass Bass] (4:53) `isrc:FR2X42379997` `qobuz:196086208`
+- **Depassés** — Défections distinguées [En attendant la fin] (2:37) `isrc:CH6542427571` `qobuz:267265454`
+- **Rebekah** — Peaking [Murder In Birmingham] (5:13) `isrc:GBBVL1905503` `qobuz:62097137`
+- **Deaf Center** — Entity Voice [Low Distance] (7:16) `isrc:DEX261982802` `qobuz:59659346`
+- **Guedra Guedra** — The Arc of Three Colours [MUTANT] (4:11) `isrc:GBCEL2500159` `qobuz:336797679`
+- **Charlie Cohn** — Nothing Else Matters [Nothing Else Matters] (3:34) `isrc:QZZ7M2611909` `qobuz:418010466`
+- **PinkPantheress** — Girl Like Me [Fancy That] (2:25) `isrc:GBAYE2500294` `qobuz:328458076`
+- **Simon Touch** — Lost [Trigger] (1:28) `isrc:QZGLS2039988` `qobuz:297273179`
+- **Dean Landon** — Mission Implausible [Extreme Edge & Attitude: Pulsing Electro Rock] (1:04) `isrc:CAD1D1300435` `qobuz:95822229`
+- **Stephan Bodzin** — Singularity [Powers of Ten] (7:01) `isrc:DET751400078` `qobuz:24194352`
+- **The Sword** — Twilight Sunrise [Used Future] (3:07) `isrc:USRZR1700337` `qobuz:48017397`
+- **Alexander Malofeev** — A Farewell to Saint Petersburg: No. 10, The Lark (Transcr. Balakirev for Solo Piano) [Forgotten Melodies] (5:30) `isrc:USSM12503772` `qobuz:356876061`
+- **DJ Electro** — My Name Is Dance [Hard European Techno] (1:47) `isrc:US3DF1542043` `qobuz:250631794`
+- **Hayley Kiyoko** — What I Need (feat. Kehlani) [Expectations] (3:39) `isrc:USAT21800199` `qobuz:46415378`
+- **Greg Mendez** — I Wanna Feel Pretty [Beauty Land] (2:03) `isrc:USJ5G2537301` `qobuz:396577340`
+- **Joy Division** — Atmosphere [Substance 1977 - 1980] (4:10) `isrc:GBCRL1500066` `qobuz:24618113`
+- **Boys Noize** — FVKVRVND [FVKVRVND] (4:28) `isrc:NL8RL2429534` `qobuz:274767390`
+- **Triptykh** — Let The Bass Kick [Let The Bass Kick] (5:12) `isrc:FXR752303427` `qobuz:306610354`
+- **Rikhter** — Malakhov [SEKTION 4] (4:08) `isrc:QM6P42478681` `qobuz:274100643`
+- **Alex Farell** — Prisoner [Spiritual Driveby] (5:08) `isrc:DGA052480076` `qobuz:397148404`
+- **Klangkuenstler** — Toter Schmetterling [Toter Schmetterling] (3:53) `isrc:DEY472478375` `qobuz:285289295`
+- **Tham** — Time To Start [Spark Of Fire] (4:29) `isrc:FRX872441865` `qobuz:269302721`
+- **EFESIAN** — Violate [Violate] (3:40) `isrc:AUBEC2410132` `qobuz:269146596`
+- **Nikolina** — No More Lies [No More Lies] (5:14) `isrc:DEH742537817` `qobuz:416032603`
+- **Luciid** — Bye Bye [Bye Bye Remixes] (3:49) `isrc:FRX452537491` `qobuz:341859329`
+- **Kuko** — Die Tonight [DIE TONIGHT EP] (3:47) `isrc:QM6P42583282` `qobuz:343621087`
+- **Vlace** — Drop The Gun [Drop The Gun] (5:12) `isrc:QZTRX2581704` `qobuz:331011538`
+- **In Verruf** — Fassade [44012] (4:37) `isrc:QM6N22517593` `qobuz:326794507`
+- **Paul Gilbert** — Paris Hilton Look-Alike [United States] (4:02) `isrc:NLB930900184` `qobuz:141301159`
+- **Stroke 9** — Kick Some Ass [Rip It Off] (3:59) `isrc:USUR10110891` `qobuz:58246057`
+- **Mar Pujol** — Tots els racons [Cançons de rebost] (2:49) `isrc:ES97D2311503` `qobuz:245403672`
+- **Fatima Hajji** — AER (All Engines Running) [A Trip of Life] (3:24) `isrc:UKU932144658` `qobuz:166313760`
+- **GNRØ** — Things We Never Said [Things We Never Said] (5:21) `isrc:NLCK42503083` `qobuz:317163657`

@@ -1,0 +1,99 @@
+# Genre: Apocalyptic Folk
+
+Imported genre playlist: Apocalyptic Folk.
+
+Services: `qobuz:66709887` `tidal:c956512f-d2c0-42a0-9535-1c6d1811c31d`
+
+## Tracks (91)
+
+- **The Revolutionary Army of the Infant Jesus** — The Road Home [The Dream We Carry EP] (3:47) `isrc:GX5632420007` `qobuz:274091636`
+- **Sol Invictus** — Against the Modern World [Against the Modern World] (1:56) `isrc:DES561190803` `qobuz:189587146`
+- **Dead Can Dance** — The Host of Seraphim [A Passage In Time] (6:17) `isrc:GBAFL9000322` `qobuz:2534354`
+- **Tennis** — Always The Same [Face Down In The Garden] (3:17) `isrc:QMEU32501056` `qobuz:316843848`
+- **Swans** — God Damn The Sun [The Burning World] (4:20) `isrc:USUM71103675` `qobuz:262686842`
+- **The White Stripes** — Fell In Love With a Girl [White Blood Cells] (1:50) `isrc:GBBKS0100352` `qobuz:102570093`
+- **TheCamboStation** — Your Name Is a Papercut [Deep Sadness Love Song (Sad Love Story)] (4:17) `isrc:GXJBS2555102` `qobuz:378493730`
+- **Death In June** — But, What Ends When the Symbols Shatter? [But, What Ends When the Symbols Shatter?] (3:15) `isrc:USI4R0606700` `qobuz:62629959`
+- **Fire + Ice** — Gilded by the Sun [Gilded by the Sun] (6:25) `isrc:USHM90788913` `qobuz:189661921`
+- **Romance** — Kiss The Blood Off My Hands [Love Is Colder Than Death] (4:33) `isrc:QZNWW2533405` `qobuz:334061403`
+- **Ataraxia** — The Moon Sang on the April Chair [The Moon Sang on the April Chair] (6:26) `isrc:CH6541690944` `qobuz:143104166`
+- **Changes** — Fire of Life [Fire of Life] (4:19) `isrc:DEKB30810463` `qobuz:76249937`
+- **Nature And Organisation** — Wicker Man Song [Snow Leopard Messiah] (4:34) `isrc:DEZ901501284` `qobuz:26712950`
+- **True Red** — The Moon Lay Hidden Beneath a Rhythm [The Moon Lay Hidden Beneath a Rhythm] (2:40) `isrc:QZKWA2327269` `qobuz:343331552`
+- **Faith and the Muse** — Elyria [Elyria] (4:25) `isrc:US57M0520701` `qobuz:5904348`
+- **Sopor Aeternus & The Ensemble Of Shadows** — In der Palästra [In der Palästra] (7:09) `isrc:DEZ900800246` `qobuz:137847615`
+- **Lise Davidsen** — R. Strauss: 8 Lieder aus Letzte Blätter, Op. 10: No. 8, Allerseelen [Live at the Met] (2:47) `isrc:USY3P2409159` `qobuz:376213785`
+- **Blood Axis** — Reign I Forever [Blót: Sacrifice in Sweden] (7:21) `isrc:USHM90778636` `qobuz:68116247`
+- **Qntal** — Ad mortem festinamus [Qntal I] (6:08) `isrc:US37B0701392` `qobuz:16307941`
+- **A Challenge Of Honour** — Preparing the Village [Seven Samurai] (5:24) `isrc:GX38U2343226` `qobuz:218599613`
+- **Arcana** — Dark Age of Reason [Dark Age of Reason] (6:59) `isrc:CAAD21010294` `qobuz:73837463`
+- **Camerata Mediolanense** — Rappresentazione [Campo di marte] (6:13) `isrc:DES561394105` `qobuz:189589792`
+- **Mano Solo** — Les habitants du feu rouge [Dehors] (3:40) `isrc:FRZ160000260` `qobuz:2025675`
+- **Bill Charlap** — Blue Orchids [Stardust: The Music Of Hoagy Carmichael] (5:54) `isrc:USBN20200008` `qobuz:1006452`
+- **Darkwood** — Wintermarchen [Notwendfeuer] (5:21) `isrc:DEKB30810222` `qobuz:76256894`
+- **Scylla** — HAYAWAN [HAYAWAN] (4:06) `isrc:FRX852503100` `qobuz:382520451`
+- **Ostara** — Bavaria [Kingdom Gone] (4:45) `isrc:DGA062312996` `qobuz:218713787`
+- **Charly Voodoo** — À la fin cette bergère [Les secrets de la princesse de Cadignan (Bande originale du film)] (2:12) `isrc:FR2FD2300073` `qobuz:230883889`
+- **Der Blutharsch** — The Philosopher's Stone 4 [The Philosopher's Stone] (5:27) `isrc:DEKB30810243` `qobuz:76258390`
+- **Forseti** — Welkes Blatt [Windzeit] (3:14) `isrc:GX4R52180998` `qobuz:203120605`
+- **Dernière Volonté** — La Croix Sacree [Obeir Et Mourir] (3:01) `isrc:DEKB30910371` `qobuz:76257704`
+- **Ordo Equitum Solis** — Into This Funny Play (Acoustic mix) [Signs] (3:42) `isrc:FR9W19900381` `qobuz:319804743`
+- **Hekate** — Sonnentanz [Ten Years of Endurance] (4:28) `isrc:DES560390315` `qobuz:189636425`
+- **Coph Nia** — That Which Remains [That Which Remains] (11:33) `isrc:QMBZ91766976` `qobuz:47894287`
+- **Henry Jackman** — Leading the Charge [The Falcon and the Winter Soldier: Vol. 2 (Episodes 4-6)] (2:40) `isrc:USHR12141574` `qobuz:120544754`
+- **Meshell Ndegeocello** — Travel [No More Water: The Gospel Of James Baldwin] (4:09) `isrc:USUM72403948` `qobuz:268160240`
+- **Kurdo** — Alors [KRISTALL] (2:44) `isrc:DEXG92100058` `qobuz:247160802`
+- **In Gowan Ring** — The Wind that Cracks the Leaves [Hazel Steps through a Weathered Home] (6:24) `isrc:QZ22B1859993` `qobuz:176522312`
+- **Angels of Light** — New Mother [New Mother] (4:35) `isrc:USA3T0400059` `qobuz:48065679`
+- **Kreator** — When the Sun Burns Red [Coma of Souls] (5:31) `isrc:GBAJE9000135` `qobuz:385658011`
+- **Panopticon** — The White Cedars [The Great Silence, Extinct] (8:30) `isrc:SE6722600104` `qobuz:412416180`
+- **Son Lux** — Let Me Follow [Original Music from and Inspired By: The Disappearance of Eleanor Rigby (Original Motion Picture Soundtrack)] (4:48) `isrc:USYAH1400021` `qobuz:292860796`
+- **Tenhi** — Saattue [Valkama] (11:09) `isrc:DES562310458` `qobuz:198599153`
+- **Hagalaz Runedance** — Frigga's Web [Frigga's Web] (4:38) `isrc:NLKAR0904003` `qobuz:56196979`
+- **Ordo Rosarius Equilibrio** — Make Love, and War [Make Love & War - The Wedlock of Roses & Equilibrium] (5:08) `isrc:DEBZ71101010` `qobuz:134825289`
+- **Of The Wand & The Moon** — Lost In Emptiness [Emptiness Emptiness Emptiness (2010 re-release)] (4:24) `isrc:DKFDD1000401` `qobuz:58083749`
+- **Of The Wand & The Moon** — I Crave For You [Nighttime Nightrhymes (2010 Re-release)] (2:50) `isrc:DKFDD9900102` `qobuz:58059015`
+- **Nest** — The Silvershade Lynx [Woodsmoke] (6:34) `isrc:FI2A70300001` `qobuz:138643873`
+- **Empyrium** — Where at Night the Wood Grouse Plays [Where at Night the Wood Grouse Plays] (5:31) `isrc:DES569901501` `qobuz:189639697`
+- **Theodor Bastard** — Pustota [Pustota] (3:59) `isrc:USHM91231463` `qobuz:91873853`
+- **Von Thronstahl** — The Age Of Decay And Democrazy [Sacrificare] (5:17) `isrc:GBAS91208201` `qobuz:56260235`
+- **Sonne Hagal** — Ragnarok [Jordansfrost] (3:40) `isrc:DEKB30810090` `qobuz:76261627`
+- **Swallow The Sun** — ...and Heavens Cried Blood [New Moon] (6:17) `isrc:FIUM70900954` `qobuz:190404191`
+- **Sieben** — Ogham The Moon [Ogham Inside The Night / Sex And Wildflowers] (4:13) `isrc:GBZEA0900090` `qobuz:167253352`
+- **Fräkmündt** — D'draachejongfer [Heiwehland] (5:25) `isrc:DES561495210` `qobuz:189591161`
+- **Matt Elliott** — The Right To Cry [Only Myocardial Infarction Can Break Your Heart] (17:18) `isrc:FR24Q1321001` `qobuz:338077732`
+- **The Coup** — Piss On Your Grave [Steal This Double Album] (5:27) `isrc:USKX50700013` `qobuz:52231668`
+- **Dernière Volonté** — Au Travers Des Lauriers [Devant Le Miroir] (5:12) `isrc:DEKB30810140` `qobuz:76262208`
+- **Spiritual Front** — Darkroom Friendship [Rotten Roma Casino] (3:20) `isrc:DEZ901000691` `qobuz:189655994`
+- **Sun Kil Moon** — Lily and Parrots [Ghosts of the Great Highway] (4:18) `isrc:USA2B0738307` `qobuz:122969474`
+- **Cocteau Twins** — The Hollow Men [Garlands] (5:04) `isrc:GBAFL1900316` `qobuz:87275258`
+- **Ordo Rosarius Equilibrio** — A Song 4 Hate & Devotion [Songs 4 Hate & Devotion] (4:31) `isrc:DEBZ71000468` `qobuz:134648571`
+- **ROME** — A Burden of Flowers [Nera] (3:04) `isrc:DEZ901000786` `qobuz:92040524`
+- **Beatkonstruktor** — Sektor 82 Sturmgericht [Blutmond Chronik III – Der Nachtsturm] (3:07) `isrc:GXJBL2587869` `qobuz:376252470`
+- **Xmal Deutschland** — Nachtschatten [Tocsin] (3:56) `isrc:GBAFL8400007` `qobuz:2485206`
+- **Neun Welten** — Valg [Vergessene Pfade] (6:09) `isrc:DES560693201` `qobuz:189637345`
+- **Owl City** — Good Time [The Midsummer Station] (3:25) `isrc:USUM71206288` `qobuz:6217922`
+- **Son Of The Velvet Rat** — Bewildering Black & White Moments Captured On Trail Cams [Ghost Ranch] (4:09) `isrc:QZ3AK2300217` `qobuz:237533981`
+- **ROME** — Der Brandtaucher [Anthology 2005-2015] (4:17) `isrc:DEZ901501309` `qobuz:26713386`
+- **ROME** — To Die Among Strangers [Flowers from Exile] (4:14) `isrc:DEZ902400195` `qobuz:331743344`
+- **ROME** — The Accidents of Gesture [Flowers from Exile] (5:15) `isrc:DEZ902400190` `qobuz:331743339`
+- **Sen Svaja** — Epas [Kraitis Iš Pelkės - Dowry From A Swamp] (11:41) `isrc:LTA311800010` `qobuz:93167066`
+- **Jean Victor Arthur Guillou** — 3 Pieces for Organ: No. 3, Piece Heroique in B Minor, M. 37 [Franck, C.: Organ Music] (8:42) `isrc:USKC60710163` `qobuz:300290067`
+- **Chelsea Wolfe** — Feral Love [Pain Is Beauty] (3:22) `isrc:USA2P1332106` `qobuz:330295809`
+- **Chelsea Wolfe** — Flatlands [Unknown Rooms: A Collection of Acoustic Songs] (4:00) `isrc:USA2P1231895` `qobuz:330300665`
+- **Chelsea Wolfe** — The Warden [Pain Is Beauty] (3:52) `isrc:USA2P1332109` `qobuz:330295812`
+- **Choir of King's College, Cambridge** — The Light of Life, Op. 29: Light of the World [Now the Green Blade Riseth: Choral Music for Easter] (5:03) `isrc:GBMY52206516` `qobuz:148716692`
+- **Boys Hotel** — Ancient Downer [Ancient Downer] (4:11) `isrc:GBKQU2233815` `qobuz:152041423`
+- **Brown Bird** — End Of Days [Salt For Salt] (3:03) `isrc:USQNL1100008` `qobuz:73790832`
+- **Wardruna** — Helvegen [Runaljod – Yggdrasil] (7:11) `isrc:NOCVC1304110` `qobuz:269936663`
+- **When In Rome** — The Promise [When In Rome] (3:40) `isrc:GBAAA8800494` `qobuz:1947989`
+- **Heilung** — Krigsgaldr [Ofnir] (8:58) `isrc:DK5B41400102` `qobuz:77782812`
+- **Darkher** — Moths [Realms] (5:09) `isrc:DES561618703` `qobuz:189621121`
+- **Emma Ruth Rundle** — Marked for Death [Marked for Death] (3:39) `isrc:QMLD61402153` `qobuz:46390524`
+- **Polly Paulusma** — Snakeskin [The Pivot on Which the World Turns] (2:36) `isrc:GB4352200004` `qobuz:163276825`
+- **ROME** — The Secret Germany (For Paul Celan) [The Hyperion Machine] (4:09) `isrc:FR2X41672499` `qobuz:32566497`
+- **Sangre de Muerdago** — The Paths of Mannaz [Deixademe Morrer no Bosque] (7:29) `isrc:ES5301866733` `qobuz:85300370`
+- **Fit For An Autopsy** — Black Mammoth [The Great Collapse (Rain City Deluxe Version)] (4:38) `isrc:USKO11700034` `qobuz:44468357`
+- **The Devil's Trade** — The Sleep That Dragged You Away [Nincs Szennyezetlen Szép] (7:53) `isrc:QM7282505984` `qobuz:353842290`
+- **Hydras Dream** — Last Evening of the Year [The Little Match Girl] (3:10) `isrc:DERK91419601` `qobuz:95463772`
+- **Cinder Well** — Returning [Cadence] (4:11) `isrc:USFVZ2290891` `qobuz:343695311`

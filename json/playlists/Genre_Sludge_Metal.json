@@ -1,0 +1,1010 @@
+{
+  "name": "Genre: Sludge Metal",
+  "services": {
+    "qobuz": "66735734",
+    "tidal": "eb57213a-bf50-4212-b9d1-d0d18d2fd5a1"
+  },
+  "description": "Imported genre playlist: Sludge Metal.",
+  "tracks": [
+    {
+      "artist": "Eyehategod",
+      "title": "Blank",
+      "services": {
+        "qobuz": "27540951"
+      },
+      "album": "Take As Needed for Pain",
+      "duration": 427,
+      "isrc": "US4E40626401"
+    },
+    {
+      "artist": "Fudge Tunnel",
+      "title": "Grey",
+      "services": {
+        "qobuz": "25673713"
+      },
+      "album": "Creep Diets",
+      "duration": 328,
+      "isrc": "GBBPB0401766"
+    },
+    {
+      "artist": "Melvins",
+      "title": "Honey Bucket",
+      "services": {
+        "qobuz": "2797789"
+      },
+      "album": "Houdini",
+      "duration": 181,
+      "isrc": "USAT20103379"
+    },
+    {
+      "artist": "Acid Bath",
+      "title": "The Blue",
+      "services": {
+        "qobuz": "63278437"
+      },
+      "album": "When the Kite String Pops",
+      "duration": 373,
+      "isrc": "USDXG0609501"
+    },
+    {
+      "artist": "Buzzov*en",
+      "title": "Sore",
+      "services": {
+        "qobuz": "2810219"
+      },
+      "album": "Sore",
+      "duration": 560,
+      "isrc": "NLA329499990"
+    },
+    {
+      "artist": "Grief",
+      "title": "Hate Grows Stronger",
+      "services": {
+        "qobuz": "27533293"
+      },
+      "album": "Come to Grief",
+      "duration": 503,
+      "isrc": "US4E40578702"
+    },
+    {
+      "artist": "Karp",
+      "title": "Get No Toys (When You Pay the Money)",
+      "services": {
+        "qobuz": "229158156"
+      },
+      "album": "Suplex",
+      "duration": 218,
+      "isrc": "GX5MX2367816"
+    },
+    {
+      "artist": "Neurosis",
+      "title": "Locust Star",
+      "services": {
+        "qobuz": "46843793"
+      },
+      "album": "Official Bootleg.01.Lyon.France.11.02.99",
+      "duration": 412,
+      "isrc": "US4JA0200170"
+    },
+    {
+      "artist": "Genevieve Artadi",
+      "title": "I Hate When I Can\u2019t Feel My Heart",
+      "services": {
+        "qobuz": "97615658"
+      },
+      "album": "Dizzy Strange Summer",
+      "duration": 152,
+      "isrc": "GBCFB2000089"
+    },
+    {
+      "artist": "Boris",
+      "title": "Huge",
+      "services": {
+        "qobuz": "370481775"
+      },
+      "album": "Amplifier Worship",
+      "duration": 554,
+      "isrc": "US3JJ1900483"
+    },
+    {
+      "artist": "Burning Witch",
+      "title": "Rift.Canyon.Dreams",
+      "services": {
+        "qobuz": "60618716"
+      },
+      "album": "Crippled Lucifer",
+      "duration": 783,
+      "isrc": "USZPA0700107"
+    },
+    {
+      "artist": "Crowbar",
+      "title": "Planets Collide",
+      "services": {
+        "qobuz": "26953762"
+      },
+      "album": "Odd Fellows Rest",
+      "duration": 279,
+      "isrc": "GBCBR9900288"
+    },
+    {
+      "artist": "Dystopia",
+      "title": "Stress Builds Character",
+      "services": {
+        "qobuz": "79470018"
+      },
+      "album": "Human = Garbage",
+      "duration": 349,
+      "isrc": "QM6P41522406"
+    },
+    {
+      "artist": "Mark Isham",
+      "title": "The Times Of Harvey Milk",
+      "services": {
+        "qobuz": "223228"
+      },
+      "album": "A Windham Hill Retrospective",
+      "duration": 213,
+      "isrc": "USWH18501084"
+    },
+    {
+      "artist": "Iron Monkey",
+      "title": "Bad Year",
+      "services": {
+        "qobuz": "253804299"
+      },
+      "album": "Our Problem",
+      "duration": 366,
+      "isrc": "GBBPB0400625"
+    },
+    {
+      "artist": "Soilent Green",
+      "title": "It Was Just an Accident",
+      "services": {
+        "qobuz": "60649093"
+      },
+      "album": "Sewn Mouth Secrets & A String of Lies",
+      "duration": 252,
+      "isrc": "US2640565501"
+    },
+    {
+      "artist": "Cavity",
+      "title": "Supercollider",
+      "services": {
+        "qobuz": "204692133"
+      },
+      "album": "Supercollider",
+      "duration": 397,
+      "isrc": "USDY42340476"
+    },
+    {
+      "artist": "Electric Wizard",
+      "title": "Funeralopolis",
+      "services": {
+        "qobuz": "56197028"
+      },
+      "album": "Dopethrone",
+      "duration": 523,
+      "isrc": "GBMLU0607302"
+    },
+    {
+      "artist": "Noothgrush",
+      "title": "Erode the Person",
+      "services": {
+        "qobuz": "60651177"
+      },
+      "album": "Live for Nothing",
+      "duration": 523,
+      "isrc": "USZPA0900444"
+    },
+    {
+      "artist": "Raging Speedhorn",
+      "title": "Thumper",
+      "services": {
+        "qobuz": "55195414"
+      },
+      "album": "Raging Speedhorn",
+      "duration": 155,
+      "isrc": "GBAHW0000249"
+    },
+    {
+      "artist": "Mangled Carpenter",
+      "title": "A Path To Sorrow",
+      "services": {
+        "qobuz": "225439653"
+      },
+      "album": "Salvation Syndrome",
+      "duration": 232,
+      "isrc": "QZNWX2333838"
+    },
+    {
+      "artist": "Isis",
+      "title": "The Beginning and the End",
+      "services": {
+        "qobuz": "69408574"
+      },
+      "album": "Live V 07.23.06",
+      "duration": 565,
+      "isrc": "USA371261837"
+    },
+    {
+      "artist": "Knut",
+      "title": "Whacked Out",
+      "services": {
+        "qobuz": "263045859"
+      },
+      "album": "Challenger + DIY EP",
+      "duration": 326,
+      "isrc": "CHA012300128"
+    },
+    {
+      "artist": "Mastodon",
+      "title": "March of the Fire Ants",
+      "services": {
+        "qobuz": "17855657"
+      },
+      "album": "Remission (Reissue)",
+      "duration": 265,
+      "isrc": "US2641321502"
+    },
+    {
+      "artist": "Superjoint Ritual",
+      "title": "Waiting For The Turning Point",
+      "services": {
+        "qobuz": "385657023"
+      },
+      "album": "A Lethal Dose of American Hatred",
+      "duration": 86,
+      "isrc": "GBAJE0300438"
+    },
+    {
+      "artist": "Cult of Luna",
+      "title": "Leave Me Here",
+      "services": {
+        "qobuz": "14715926"
+      },
+      "album": "Salvation",
+      "duration": 435,
+      "isrc": "GBBPB0400152"
+    },
+    {
+      "artist": "L2B",
+      "title": "P\u00e9lican",
+      "services": {
+        "qobuz": "316775313"
+      },
+      "album": "P\u00e9lican",
+      "duration": 165,
+      "isrc": "FRDJ72500030"
+    },
+    {
+      "artist": "David Kushner",
+      "title": "Buried at Sea",
+      "services": {
+        "qobuz": "317184649"
+      },
+      "album": "The Dichotomy",
+      "duration": 224,
+      "isrc": "QZXDB2300107"
+    },
+    {
+      "artist": "Keelhaul",
+      "title": "The Gooch",
+      "services": {
+        "qobuz": "142892051"
+      },
+      "album": "Subject to Change Without Notice",
+      "duration": 198,
+      "isrc": "QZTAU2180889"
+    },
+    {
+      "artist": "Christian L\u00f6ffler",
+      "title": "Mare (feat. Mohna)",
+      "services": {
+        "qobuz": "49369061"
+      },
+      "album": "Mare",
+      "duration": 248,
+      "isrc": "DEZ651600579"
+    },
+    {
+      "artist": "Old Man Gloom",
+      "title": "The Volcano",
+      "services": {
+        "qobuz": "152263566"
+      },
+      "album": "Christmas",
+      "duration": 452,
+      "isrc": "USN682229040"
+    },
+    {
+      "artist": "Amenra",
+      "title": ".Razoreater.",
+      "services": {
+        "qobuz": "188585799"
+      },
+      "album": "Mass Iiii",
+      "duration": 421,
+      "isrc": "TCAAW1137142"
+    },
+    {
+      "artist": "Doble Valentina",
+      "title": "El Mundo Est\u00e1 Fr\u00edo",
+      "services": {
+        "qobuz": "370275024"
+      },
+      "album": "Congelamiento Global",
+      "duration": 193,
+      "isrc": "UYY112500104"
+    },
+    {
+      "artist": "Leonard Cohen",
+      "title": "Take This Longing",
+      "services": {
+        "qobuz": "18453958"
+      },
+      "album": "New Skin For The Old Ceremony",
+      "duration": 250,
+      "isrc": "USSM19917410"
+    },
+    {
+      "artist": "Kylesa",
+      "title": "Scapegoat",
+      "services": {
+        "qobuz": "165215503"
+      },
+      "album": "Static Tensions (2022 Remaster)",
+      "duration": 205,
+      "isrc": "QZK6G2292931"
+    },
+    {
+      "artist": "Made Out Of Babies",
+      "title": "Cooker",
+      "services": {
+        "qobuz": "387128012"
+      },
+      "album": "The Ruiner",
+      "duration": 349,
+      "isrc": "US2420810601"
+    },
+    {
+      "artist": "Red Sparowes",
+      "title": "We Stood Transfixed in Blank Devotion as Our Leader Spoke to Us, Looking Down on Our Mute Faces with a Great, Raging, and Unseeing Eye",
+      "services": {
+        "qobuz": "46845526"
+      },
+      "album": "Every Red Heart Shines Toward the Red Sun",
+      "duration": 534,
+      "isrc": "US4JA0600385"
+    },
+    {
+      "artist": "Balboa & Rosetta",
+      "title": "Tma-1",
+      "services": {
+        "qobuz": "63218496"
+      },
+      "album": "Project Mercury",
+      "duration": 621,
+      "isrc": "USME30801530"
+    },
+    {
+      "artist": "Taint",
+      "title": "I'm Going To Kill Henry Ford",
+      "services": {
+        "qobuz": "56195226"
+      },
+      "album": "The Ruin Of Nova Roma",
+      "duration": 439,
+      "isrc": "GBMLU0506608"
+    },
+    {
+      "artist": "Abominable Iron Sloth",
+      "title": "I Am The Carcass",
+      "services": {
+        "qobuz": "66796167"
+      },
+      "album": "Abominable Iron Sloth",
+      "duration": 152,
+      "isrc": "CAG320604491"
+    },
+    {
+      "artist": "Battle Of Mice",
+      "title": "Bones in the Water",
+      "services": {
+        "qobuz": "49363142"
+      },
+      "album": "A Day of Nights",
+      "duration": 319,
+      "isrc": "US4JA0600393"
+    },
+    {
+      "artist": "Black Cobra",
+      "title": "Sugar Water",
+      "services": {
+        "qobuz": "77851138"
+      },
+      "album": "Bestial",
+      "duration": 263,
+      "isrc": "USTC20791288"
+    },
+    {
+      "artist": "Callisto",
+      "title": "The Fugitive",
+      "services": {
+        "qobuz": "77357061"
+      },
+      "album": "Noir",
+      "duration": 483,
+      "isrc": "FIFR50600073"
+    },
+    {
+      "artist": "Giant Squid",
+      "title": "Sevengill (Notorynchus Cepedianus)",
+      "services": {
+        "qobuz": "105468649"
+      },
+      "album": "The Ichthyologist (Reissue)",
+      "duration": 430,
+      "isrc": "USME30902035"
+    },
+    {
+      "artist": "Mouth of the Architect",
+      "title": "Quietly",
+      "services": {
+        "qobuz": "63287428"
+      },
+      "album": "Quietly",
+      "duration": 634,
+      "isrc": "USCHW0803001"
+    },
+    {
+      "artist": "Unearthly Trance",
+      "title": "When Anti-Humanity Flourishes",
+      "services": {
+        "qobuz": "56196218"
+      },
+      "album": "Season Of S\u00e9ance, Science Of Silence",
+      "duration": 245,
+      "isrc": "GBMLU0304503"
+    },
+    {
+      "artist": "Year of No Light",
+      "title": "Al\u00e8theia",
+      "services": {
+        "qobuz": "119517805"
+      },
+      "album": "Consolamentum",
+      "duration": 459,
+      "isrc": "QMBZ92011652"
+    },
+    {
+      "artist": "A S K",
+      "title": "Voice of Saturn",
+      "services": {
+        "qobuz": "372312329"
+      },
+      "album": "Voice of Saturn",
+      "duration": 382,
+      "isrc": "SE3LK2600101"
+    },
+    {
+      "artist": "Baroness",
+      "title": "Isak",
+      "services": {
+        "qobuz": "60619501"
+      },
+      "album": "The Red Album",
+      "duration": 262,
+      "isrc": "US2640772103"
+    },
+    {
+      "artist": "Tony Molina",
+      "title": "Just As The Tide Was Flowing",
+      "services": {
+        "qobuz": "356916079"
+      },
+      "album": "On This Day",
+      "duration": 80,
+      "isrc": "USA2Z2501215"
+    },
+    {
+      "artist": "Dirge",
+      "title": "Meridians",
+      "services": {
+        "qobuz": "1670054"
+      },
+      "album": "Wings Of Lead Over Dormant Seas",
+      "duration": 1164,
+      "isrc": "FR4E60702790"
+    },
+    {
+      "artist": "Minsk",
+      "title": "Ceremony Ek Stasis",
+      "services": {
+        "qobuz": "60622095"
+      },
+      "album": "The Ritual Fires of Abandonment",
+      "duration": 939,
+      "isrc": "US2640770806"
+    },
+    {
+      "artist": "Overmars",
+      "title": "Born Again",
+      "services": {
+        "qobuz": "25446625"
+      },
+      "album": "Born Again",
+      "duration": 2365,
+      "isrc": "US33D0910026"
+    },
+    {
+      "artist": "Ramesses",
+      "title": "Ramesses Part I",
+      "services": {
+        "qobuz": "56298182"
+      },
+      "album": "Misanthropic\u00a0Alchemy",
+      "duration": 120,
+      "isrc": "GB9FF0700011"
+    },
+    {
+      "artist": "Rwake",
+      "title": "Crooked Rivers",
+      "services": {
+        "qobuz": "60680504"
+      },
+      "album": "Voices of Omens",
+      "duration": 430,
+      "isrc": "US2640771203"
+    },
+    {
+      "artist": "The Ocean",
+      "title": "Firmament",
+      "services": {
+        "qobuz": "60685696"
+      },
+      "album": "Heliocentric",
+      "duration": 449,
+      "isrc": "USMBR1007290"
+    },
+    {
+      "artist": "Weedeater",
+      "title": "God Luck and Good Speed",
+      "services": {
+        "qobuz": "77782577"
+      },
+      "album": "God Luck and Good Speed",
+      "duration": 265,
+      "isrc": "FR33T1332301"
+    },
+    {
+      "artist": "A Storm of Light",
+      "title": "Mass",
+      "services": {
+        "qobuz": "46840858"
+      },
+      "album": "And We Wept the Black Ocean Within",
+      "duration": 484,
+      "isrc": "US4JA0810046"
+    },
+    {
+      "artist": "Bison b.c.",
+      "title": "Primal Emptiness Of Outer Space",
+      "services": {
+        "qobuz": "60706179"
+      },
+      "album": "Quiet Earth",
+      "duration": 329,
+      "isrc": "USMBR0806036"
+    },
+    {
+      "artist": "Black Breath",
+      "title": "Endless Corpse",
+      "services": {
+        "qobuz": "5256660"
+      },
+      "album": "Sentenced to Life",
+      "duration": 270,
+      "isrc": "USZPA0900536"
+    },
+    {
+      "artist": "Graves at Sea",
+      "title": "The Curse That Is",
+      "services": {
+        "qobuz": "29831022"
+      },
+      "album": "The Curse That Is",
+      "duration": 674,
+      "isrc": "US2641632301"
+    },
+    {
+      "artist": "Intronaut",
+      "title": "Australopithecus",
+      "services": {
+        "qobuz": "27572905"
+      },
+      "album": "Prehistoricisms",
+      "duration": 272,
+      "isrc": "US4E40851307"
+    },
+    {
+      "artist": "Zatokrev",
+      "title": "Bleeding Island",
+      "services": {
+        "qobuz": "45783225"
+      },
+      "album": "Silk Spiders Underwater...",
+      "duration": 358,
+      "isrc": "QMBZ91721625"
+    },
+    {
+      "artist": "Zozobra",
+      "title": "Kill and Crush",
+      "services": {
+        "qobuz": "167923276"
+      },
+      "album": "Harmonic Tremors",
+      "duration": 206,
+      "isrc": "USN682200002"
+    },
+    {
+      "artist": "Admiral Angry",
+      "title": "Kill Yourself",
+      "services": {
+        "qobuz": "73921938"
+      },
+      "album": "Buster",
+      "duration": 373,
+      "isrc": "GBTEG0900082"
+    },
+    {
+      "artist": "Fallen Moon Servant",
+      "title": "Longing to be Dragged into Sunlight",
+      "services": {
+        "qobuz": "428050601"
+      },
+      "album": "... With a Stone in my Maw",
+      "duration": 402,
+      "isrc": "QT6E72659309"
+    },
+    {
+      "artist": "Lynne Hanson",
+      "title": "Counting Heartbeats",
+      "services": {
+        "qobuz": "76733018"
+      },
+      "album": "Uneven Ground",
+      "duration": 203,
+      "isrc": "NLG091704102"
+    },
+    {
+      "artist": "Latitudes",
+      "title": "Antechamber",
+      "services": {
+        "qobuz": "46877628"
+      },
+      "album": "Agonist",
+      "duration": 425,
+      "isrc": "GBTEG0900119"
+    },
+    {
+      "artist": "CELESTE",
+      "title": "Ces belles de r\u00eave aux verres embu\u00e9s",
+      "services": {
+        "qobuz": "123168783"
+      },
+      "album": "Morte(s) n\u00e9e(s)",
+      "duration": 235,
+      "isrc": "FXQ901066640"
+    },
+    {
+      "artist": "Horn of the Rhino",
+      "title": "Speaking in Tongues",
+      "services": {
+        "qobuz": "281015279"
+      },
+      "album": "Weight of Coronation",
+      "duration": 457,
+      "isrc": "DEZ651210639"
+    },
+    {
+      "artist": "Omega Massif",
+      "title": "Aura",
+      "services": {
+        "qobuz": "104316113"
+      },
+      "album": "Karpatia",
+      "duration": 600,
+      "isrc": "DEZ651109860"
+    },
+    {
+      "artist": "Black Sheep Wall",
+      "title": "Metallica",
+      "services": {
+        "qobuz": "77780988"
+      },
+      "album": "I'm Going to Kill Myself",
+      "duration": 1985,
+      "isrc": "FR33T1433204"
+    },
+    {
+      "artist": "Kowloon Walled City",
+      "title": "Container Ships",
+      "services": {
+        "qobuz": "81515647"
+      },
+      "album": "Container Ships",
+      "duration": 431,
+      "isrc": "USWC21200110"
+    },
+    {
+      "artist": "Obscure Sphinx",
+      "title": "Lunar Caustic",
+      "services": {
+        "qobuz": "125363935"
+      },
+      "album": "Void Mother",
+      "duration": 471,
+      "isrc": "TCABS1487264"
+    },
+    {
+      "artist": "Slabdragger",
+      "title": "Evacuate!",
+      "services": {
+        "qobuz": "105774765"
+      },
+      "album": "Rise of the Dawncrusher",
+      "duration": 275,
+      "isrc": "GBMLT1500718"
+    },
+    {
+      "artist": "Alpha Brain Waves",
+      "title": "Burn the Midnight Oil",
+      "services": {
+        "qobuz": "207569833"
+      },
+      "album": "Powerful Thought: Activate Your Productive Mind Frequencies",
+      "duration": 121,
+      "isrc": "GBRKQ2365319"
+    },
+    {
+      "artist": "Indian",
+      "title": "Directional",
+      "services": {
+        "qobuz": "13055504"
+      },
+      "album": "From All Purity",
+      "duration": 385,
+      "isrc": "US2641322403"
+    },
+    {
+      "artist": "Light Bearer",
+      "title": "Prelapsus",
+      "services": {
+        "qobuz": "48632405"
+      },
+      "album": "Lapsus",
+      "duration": 424,
+      "isrc": "DEZ651116164"
+    },
+    {
+      "artist": "Lord Mantis",
+      "title": "Body Choke",
+      "services": {
+        "qobuz": "52297617"
+      },
+      "album": "Death Mask",
+      "duration": 526,
+      "isrc": "USN681410024"
+    },
+    {
+      "artist": "Juf Roos",
+      "title": "Schuitje varen, theetje drinken",
+      "services": {
+        "qobuz": "372494364"
+      },
+      "album": "Kerstvakantie met Juf Roos",
+      "duration": 62,
+      "isrc": "NLP762300033"
+    },
+    {
+      "artist": "The Body",
+      "title": "To Carry the Seeds of Death Within Me",
+      "services": {
+        "qobuz": "202389249"
+      },
+      "album": "I Shall Die Here / Earth Triumphant",
+      "duration": 389,
+      "isrc": "US6PQ1400001"
+    },
+    {
+      "artist": "Coffinworm",
+      "title": "Start Saving for Your Funeral",
+      "services": {
+        "qobuz": "41092152"
+      },
+      "album": "When All Became None",
+      "duration": 376,
+      "isrc": "USN681010041"
+    },
+    {
+      "artist": "Sumac",
+      "title": "The Task",
+      "services": {
+        "qobuz": "158658890"
+      },
+      "album": "St Vitus 09\u200b/\u200b07\u200b/\u200b2018",
+      "duration": 1184,
+      "isrc": "USA2B2202490"
+    },
+    {
+      "artist": "Bossk",
+      "title": "Kobe",
+      "services": {
+        "qobuz": "72949089"
+      },
+      "album": "Audio Noir",
+      "duration": 420,
+      "isrc": "QZ22D2300014"
+    },
+    {
+      "artist": "Inter Arma",
+      "title": "The Paradise Gallows",
+      "services": {
+        "qobuz": "31220003"
+      },
+      "album": "Paradise Gallows",
+      "duration": 701,
+      "isrc": "US2641634007"
+    },
+    {
+      "artist": "Mantar",
+      "title": "Era Borealis",
+      "services": {
+        "qobuz": "60774811"
+      },
+      "album": "Ode to the Flame",
+      "duration": 240,
+      "isrc": "DED831501221"
+    },
+    {
+      "artist": "Voka Gentle",
+      "title": "Creon I",
+      "services": {
+        "qobuz": "352232805"
+      },
+      "album": "Domestic Bliss",
+      "duration": 199,
+      "isrc": "GB9GM2400060"
+    },
+    {
+      "artist": "Sea Bastard",
+      "title": "Nokken",
+      "services": {
+        "qobuz": "15289707"
+      },
+      "album": "Scabrous",
+      "duration": 1023,
+      "isrc": "GBFVJ1400027"
+    },
+    {
+      "artist": "The Hands",
+      "title": "Where's My Baby",
+      "services": {
+        "qobuz": "77471554"
+      },
+      "album": "live and breathe",
+      "duration": 278,
+      "isrc": "USCGH0561816"
+    },
+    {
+      "artist": "Primitive Man",
+      "title": "My Will",
+      "services": {
+        "qobuz": "42328453"
+      },
+      "album": "Caustic",
+      "duration": 305,
+      "isrc": "US2641737601"
+    },
+    {
+      "artist": "Yautja",
+      "title": "A Killing Joke",
+      "services": {
+        "qobuz": "115322565"
+      },
+      "album": "The Lurch",
+      "duration": 232,
+      "isrc": "US2642148201"
+    },
+    {
+      "artist": "Conjurer",
+      "title": "Choke",
+      "services": {
+        "qobuz": "112501477"
+      },
+      "album": "Mire",
+      "duration": 360,
+      "isrc": "GBMLT1501025"
+    },
+    {
+      "artist": "Ancient Rites",
+      "title": "Land Of Frost And Despair",
+      "services": {
+        "qobuz": "141303029"
+      },
+      "album": "The Diabolic Serenades",
+      "duration": 283,
+      "isrc": "NLB930401605"
+    },
+    {
+      "artist": "Oklou",
+      "title": "plague dogs",
+      "services": {
+        "qobuz": "316059470"
+      },
+      "album": "choke enough",
+      "duration": 105,
+      "isrc": "QZVM32200353"
+    },
+    {
+      "artist": "Thou",
+      "title": "The Changeling Prince",
+      "services": {
+        "qobuz": "49925990"
+      },
+      "album": "Magus",
+      "duration": 389,
+      "isrc": "US5NR1820504"
+    },
+    {
+      "artist": "Body Void",
+      "title": "Haunted",
+      "services": {
+        "qobuz": "72962966"
+      },
+      "album": "I Live Inside a Burning House",
+      "duration": 1098,
+      "isrc": "QMDA71823940"
+    },
+    {
+      "artist": "Tuskar",
+      "title": "Matriarch",
+      "services": {
+        "qobuz": "135289027"
+      },
+      "album": "Matriarch",
+      "duration": 710,
+      "isrc": "GX34M2100050"
+    },
+    {
+      "artist": "Vile Creature",
+      "title": "Harbinger of Nothing",
+      "services": {
+        "qobuz": "88623673"
+      },
+      "album": "Glory, Glory! Apathy Took Helm!",
+      "duration": 662,
+      "isrc": "USERN1010214"
+    },
+    {
+      "artist": "Chained to the Bottom of the Ocean",
+      "title": "Hole in My Head",
+      "services": {
+        "qobuz": "198859291"
+      },
+      "album": "Obsession Destruction",
+      "duration": 202,
+      "isrc": "GX8KD2367772"
+    },
+    {
+      "artist": "LLNN",
+      "title": "Imperial",
+      "services": {
+        "qobuz": "125572457"
+      },
+      "album": "Unmaker",
+      "duration": 295,
+      "isrc": "QM4TX2149458"
+    }
+  ]
+}
